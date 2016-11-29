@@ -1,0 +1,826 @@
+{
+	"owner_org": "9cda5205-d632-4814-96e7-a4ab5e0dce85",
+	"maintainer": "Phil Thompson",
+	"relationships_as_object": [],
+	"private": false,
+	"maintainer_email": "philip.w.thompson@census.gov",
+	"num_tags": 75,
+	"id": "88a8b514-16b4-491c-8943-e9ebdddff367",
+	"metadata_created": "2015-05-20T21:03:57.627719",
+	"metadata_modified": "2016-07-15T19:13:00.468991",
+	"author": null,
+	"author_email": null,
+	"state": "active",
+	"version": null,
+	"license_id": "us-pd",
+	"type": "dataset",
+	"resources": [{
+		"resource_group_id": "dd230c33-b25b-4598-98cb-074ad7fb4aa8",
+		"cache_last_updated": null,
+		"revision_timestamp": "2015-05-20T21:03:57.627719",
+		"webstore_last_updated": null,
+		"id": "9f293f39-8228-44d1-94bf-f4b28e7d8468",
+		"size": null,
+		"state": "active",
+		"hash": "",
+		"description": "",
+		"format": "HTML",
+		"tracking_summary": {
+			"total": 731,
+			"recent": 9
+		},
+		"mimetype_inner": null,
+		"mimetype": "text\/html",
+		"cache_url": null,
+		"name": "Web Page",
+		"created": "2015-05-20T17:03:58.638710",
+		"url": "http:\/\/www.census.gov\/wholesale\/",
+		"webstore_url": null,
+		"last_modified": null,
+		"position": 0,
+		"revision_id": "680fbac6-1da2-47f0-8439-6c80f6de82ce",
+		"resource_type": null
+	}],
+	"num_resources": 1,
+	"tags": [{
+		"vocabulary_id": null,
+		"display_name": "alcoholic",
+		"name": "alcoholic",
+		"revision_timestamp": "2015-05-20T21:03:57.627719",
+		"state": "active",
+		"id": "ffd500e7-3f21-48c0-8270-ea78fff350f0"
+	},
+	{
+		"vocabulary_id": null,
+		"display_name": "allied",
+		"name": "allied",
+		"revision_timestamp": "2015-05-20T21:03:57.627719",
+		"state": "active",
+		"id": "c02e9e24-0998-4884-8555-6c0e77248051"
+	},
+	{
+		"vocabulary_id": null,
+		"display_name": "apparel",
+		"name": "apparel",
+		"revision_timestamp": "2015-05-20T21:03:57.627719",
+		"state": "active",
+		"id": "1fe6ffda-56ac-4116-b417-16ce736af46c"
+	},
+	{
+		"vocabulary_id": null,
+		"display_name": "beer",
+		"name": "beer",
+		"revision_timestamp": "2015-05-20T21:03:57.627719",
+		"state": "active",
+		"id": "baff1b74-31d6-4a88-ba5b-74f6f8431c1b"
+	},
+	{
+		"vocabulary_id": null,
+		"display_name": "benchmarking",
+		"name": "benchmarking",
+		"revision_timestamp": "2015-05-20T21:03:57.627719",
+		"state": "active",
+		"id": "9ff590dc-8c8a-4390-bf1e-fe3bbc9e7f31"
+	},
+	{
+		"vocabulary_id": null,
+		"display_name": "beverage",
+		"name": "beverage",
+		"revision_timestamp": "2015-05-20T21:03:57.627719",
+		"state": "active",
+		"id": "e1dbefe1-7537-4e6e-915c-972f089ac7ba"
+	},
+	{
+		"vocabulary_id": null,
+		"display_name": "business",
+		"name": "business",
+		"revision_timestamp": "2015-05-20T21:03:57.627719",
+		"state": "active",
+		"id": "8db0c512-a345-4d67-a239-9c92e4b13432"
+	},
+	{
+		"vocabulary_id": null,
+		"display_name": "chemical",
+		"name": "chemical",
+		"revision_timestamp": "2015-05-20T21:03:57.627719",
+		"state": "active",
+		"id": "e8d5a9c8-f5de-4380-b964-11b0b3a82da4"
+	},
+	{
+		"vocabulary_id": null,
+		"display_name": "commercial",
+		"name": "commercial",
+		"revision_timestamp": "2015-05-20T21:03:57.627719",
+		"state": "active",
+		"id": "85a14450-d29c-4bea-a06d-6989858f6854"
+	},
+	{
+		"vocabulary_id": null,
+		"display_name": "computer",
+		"name": "computer",
+		"revision_timestamp": "2015-05-20T21:03:57.627719",
+		"state": "active",
+		"id": "fbfbef89-5053-4c11-93c0-b8221680505f"
+	},
+	{
+		"vocabulary_id": null,
+		"display_name": "construction",
+		"name": "construction",
+		"revision_timestamp": "2015-05-20T21:03:57.627719",
+		"state": "active",
+		"id": "f90ccef4-b79b-4ee1-9521-fee634fbc18f"
+	},
+	{
+		"vocabulary_id": null,
+		"display_name": "distilled",
+		"name": "distilled",
+		"revision_timestamp": "2015-05-20T21:03:57.627719",
+		"state": "active",
+		"id": "090a3f38-c50b-4686-8078-79275849de75"
+	},
+	{
+		"vocabulary_id": null,
+		"display_name": "distributor",
+		"name": "distributor",
+		"revision_timestamp": "2015-05-20T21:03:57.627719",
+		"state": "active",
+		"id": "061c8985-7341-4ae6-978e-cfba36d00116"
+	},
+	{
+		"vocabulary_id": null,
+		"display_name": "drop-shippers",
+		"name": "drop-shippers",
+		"revision_timestamp": "2015-05-20T21:03:57.627719",
+		"state": "active",
+		"id": "82ecae94-2dd2-412b-9897-b62e80774255"
+	},
+	{
+		"vocabulary_id": null,
+		"display_name": "druggists",
+		"name": "druggists",
+		"revision_timestamp": "2015-05-20T21:03:57.627719",
+		"state": "active",
+		"id": "86a38df4-93b2-449e-b5ce-a2d9435ecf42"
+	},
+	{
+		"vocabulary_id": null,
+		"display_name": "drugs",
+		"name": "drugs",
+		"revision_timestamp": "2015-05-20T21:03:57.627719",
+		"state": "active",
+		"id": "4a65757f-d0ec-478e-8d8c-0af2fb3b35fb"
+	},
+	{
+		"vocabulary_id": null,
+		"display_name": "durable",
+		"name": "durable",
+		"revision_timestamp": "2015-05-20T21:03:57.627719",
+		"state": "active",
+		"id": "ca7287ec-d132-4442-8bbf-b25a3c84db65"
+	},
+	{
+		"vocabulary_id": null,
+		"display_name": "electrical",
+		"name": "electrical",
+		"revision_timestamp": "2015-05-20T21:03:57.627719",
+		"state": "active",
+		"id": "fdd37758-0cb7-49f0-ae59-11a16d08f1ea"
+	},
+	{
+		"vocabulary_id": null,
+		"display_name": "electronic",
+		"name": "electronic",
+		"revision_timestamp": "2015-05-20T21:03:57.627719",
+		"state": "active",
+		"id": "ad1fb8c6-d40f-45bb-ab5d-e821595972af"
+	},
+	{
+		"vocabulary_id": null,
+		"display_name": "equipment",
+		"name": "equipment",
+		"revision_timestamp": "2015-05-20T21:03:57.627719",
+		"state": "active",
+		"id": "4099899d-cab2-49b6-8f20-b4e2e056167d"
+	},
+	{
+		"vocabulary_id": null,
+		"display_name": "estimates",
+		"name": "estimates",
+		"revision_timestamp": "2015-05-20T21:03:57.627719",
+		"state": "active",
+		"id": "8fb9cf15-98bd-4898-ad00-31f0e680a982"
+	},
+	{
+		"vocabulary_id": null,
+		"display_name": "export",
+		"name": "export",
+		"revision_timestamp": "2015-05-20T21:03:57.627719",
+		"state": "active",
+		"id": "b4ac07af-8331-4ef8-a64a-829b3753c718"
+	},
+	{
+		"vocabulary_id": null,
+		"display_name": "farm",
+		"name": "farm",
+		"revision_timestamp": "2015-05-20T21:03:57.627719",
+		"state": "active",
+		"id": "d345a5fe-5876-400a-a0c0-db6b8b38a210"
+	},
+	{
+		"vocabulary_id": null,
+		"display_name": "furnishing",
+		"name": "furnishing",
+		"revision_timestamp": "2015-05-20T21:03:57.627719",
+		"state": "active",
+		"id": "39cde4ad-3319-4268-ac4c-0f4b52ff896a"
+	},
+	{
+		"vocabulary_id": null,
+		"display_name": "furniture",
+		"name": "furniture",
+		"revision_timestamp": "2015-05-20T21:03:57.627719",
+		"state": "active",
+		"id": "98f24737-e131-4afc-8ba9-956b3d12d29c"
+	},
+	{
+		"vocabulary_id": null,
+		"display_name": "goods",
+		"name": "goods",
+		"revision_timestamp": "2015-05-20T21:03:57.627719",
+		"state": "active",
+		"id": "70ff4860-7436-4997-8abb-668ef5ca6430"
+	},
+	{
+		"vocabulary_id": null,
+		"display_name": "grocery",
+		"name": "grocery",
+		"revision_timestamp": "2015-05-20T21:03:57.627719",
+		"state": "active",
+		"id": "bff7d4a6-7f39-4451-ab9f-2286937d26d0"
+	},
+	{
+		"vocabulary_id": null,
+		"display_name": "hardware",
+		"name": "hardware",
+		"revision_timestamp": "2015-05-20T21:03:57.627719",
+		"state": "active",
+		"id": "49890f05-5b40-46ab-897e-ef673327f737"
+	},
+	{
+		"vocabulary_id": null,
+		"display_name": "heating",
+		"name": "heating",
+		"revision_timestamp": "2015-05-20T21:03:57.627719",
+		"state": "active",
+		"id": "64df71d2-176c-4217-9436-3728bd8b6e32"
+	},
+	{
+		"vocabulary_id": null,
+		"display_name": "home",
+		"name": "home",
+		"revision_timestamp": "2015-05-20T21:03:57.627719",
+		"state": "active",
+		"id": "271fd94a-a23a-43ae-8633-fcab26535cd5"
+	},
+	{
+		"vocabulary_id": null,
+		"display_name": "import",
+		"name": "import",
+		"revision_timestamp": "2015-05-20T21:03:57.627719",
+		"state": "active",
+		"id": "857d5663-3238-453f-9252-0d0ba3273cdf"
+	},
+	{
+		"vocabulary_id": null,
+		"display_name": "inventories",
+		"name": "inventories",
+		"revision_timestamp": "2015-05-20T21:03:57.627719",
+		"state": "active",
+		"id": "8d300aee-ea49-42b8-ada2-84cbc3cad02f"
+	},
+	{
+		"vocabulary_id": null,
+		"display_name": "inventory",
+		"name": "inventory",
+		"revision_timestamp": "2015-05-20T21:03:57.627719",
+		"state": "active",
+		"id": "5153ff55-b4fc-4edf-a2de-9e91ad0d9216"
+	},
+	{
+		"vocabulary_id": null,
+		"display_name": "jobbers",
+		"name": "jobbers",
+		"revision_timestamp": "2015-05-20T21:03:57.627719",
+		"state": "active",
+		"id": "dec301f1-dd8a-4b00-bca0-b224b508ed7a"
+	},
+	{
+		"vocabulary_id": null,
+		"display_name": "lumber",
+		"name": "lumber",
+		"revision_timestamp": "2015-05-20T21:03:57.627719",
+		"state": "active",
+		"id": "64bfbf96-ec08-40fd-8cf3-e63976585746"
+	},
+	{
+		"vocabulary_id": null,
+		"display_name": "machinery",
+		"name": "machinery",
+		"revision_timestamp": "2015-05-20T21:03:57.627719",
+		"state": "active",
+		"id": "2d99bc13-e122-43cd-936d-d4939467dae8"
+	},
+	{
+		"vocabulary_id": null,
+		"display_name": "market",
+		"name": "market",
+		"revision_timestamp": "2015-05-20T21:03:57.627719",
+		"state": "active",
+		"id": "789f720d-47b9-4bc7-bb4b-9d1cbb0df541"
+	},
+	{
+		"vocabulary_id": null,
+		"display_name": "material",
+		"name": "material",
+		"revision_timestamp": "2015-05-20T21:03:57.627719",
+		"state": "active",
+		"id": "e8866301-da83-4ff1-83b9-3f184c59451b"
+	},
+	{
+		"vocabulary_id": null,
+		"display_name": "materials",
+		"name": "materials",
+		"revision_timestamp": "2015-05-20T21:03:57.627719",
+		"state": "active",
+		"id": "fffb6469-4ee3-4316-a0f8-b5630e6c3510"
+	},
+	{
+		"vocabulary_id": null,
+		"display_name": "merchant",
+		"name": "merchant",
+		"revision_timestamp": "2015-05-20T21:03:57.627719",
+		"state": "active",
+		"id": "12df4943-a42c-4744-afca-1722af62154c"
+	},
+	{
+		"vocabulary_id": null,
+		"display_name": "merchants",
+		"name": "merchants",
+		"revision_timestamp": "2015-05-20T21:03:57.627719",
+		"state": "active",
+		"id": "1d469e2a-e5c1-46f6-a4c6-c59622c3c307"
+	},
+	{
+		"vocabulary_id": null,
+		"display_name": "metal",
+		"name": "metal",
+		"revision_timestamp": "2015-05-20T21:03:57.627719",
+		"state": "active",
+		"id": "ea309d09-1931-4f97-97f3-eeca85fe3a2f"
+	},
+	{
+		"vocabulary_id": null,
+		"display_name": "mineral",
+		"name": "mineral",
+		"revision_timestamp": "2015-05-20T21:03:57.627719",
+		"state": "active",
+		"id": "35471d0c-09f1-4e57-b5bc-bdc8f6b1a1c3"
+	},
+	{
+		"vocabulary_id": null,
+		"display_name": "miscellaneous",
+		"name": "miscellaneous",
+		"revision_timestamp": "2015-05-20T21:03:57.627719",
+		"state": "active",
+		"id": "ea07d026-fac9-42f0-871b-50ae993d5098"
+	},
+	{
+		"vocabulary_id": null,
+		"display_name": "monthly",
+		"name": "monthly",
+		"revision_timestamp": "2015-05-20T21:03:57.627719",
+		"state": "active",
+		"id": "7ebc42b5-66ad-4d83-99f2-f6fbb4adc127"
+	},
+	{
+		"vocabulary_id": null,
+		"display_name": "motor",
+		"name": "motor",
+		"revision_timestamp": "2015-05-20T21:03:57.627719",
+		"state": "active",
+		"id": "c74b9e03-17d9-4879-a777-708b1f30ab56"
+	},
+	{
+		"vocabulary_id": null,
+		"display_name": "mwts",
+		"name": "mwts",
+		"revision_timestamp": "2015-05-20T21:03:57.627719",
+		"state": "active",
+		"id": "9aebab7b-d6ff-49c1-bfd3-f52be7c4ec22"
+	},
+	{
+		"vocabulary_id": null,
+		"display_name": "nondurable",
+		"name": "nondurable",
+		"revision_timestamp": "2015-05-20T21:03:57.627719",
+		"state": "active",
+		"id": "d346e593-b977-42c9-9d86-810d87addd78"
+	},
+	{
+		"vocabulary_id": null,
+		"display_name": "notions",
+		"name": "notions",
+		"revision_timestamp": "2015-05-20T21:03:57.627719",
+		"state": "active",
+		"id": "ca0fd53c-1e81-4eb6-9f7b-aec5d6d68716"
+	},
+	{
+		"vocabulary_id": null,
+		"display_name": "offices",
+		"name": "offices",
+		"revision_timestamp": "2015-05-20T21:03:57.627719",
+		"state": "active",
+		"id": "74b67bae-0289-4e04-85a5-93ae0f178732"
+	},
+	{
+		"vocabulary_id": null,
+		"display_name": "operating",
+		"name": "operating",
+		"revision_timestamp": "2015-05-20T21:03:57.627719",
+		"state": "active",
+		"id": "78d26045-6a06-46d0-9b9c-81d55d8f5a42"
+	},
+	{
+		"vocabulary_id": null,
+		"display_name": "paper",
+		"name": "paper",
+		"revision_timestamp": "2015-05-20T21:03:57.627719",
+		"state": "active",
+		"id": "475c8510-657d-4ae0-9308-854242dd3ecb"
+	},
+	{
+		"vocabulary_id": null,
+		"display_name": "parts",
+		"name": "parts",
+		"revision_timestamp": "2015-05-20T21:03:57.627719",
+		"state": "active",
+		"id": "7c9b0437-a4c8-47a5-b685-2060e75704ea"
+	},
+	{
+		"vocabulary_id": null,
+		"display_name": "peripheral",
+		"name": "peripheral",
+		"revision_timestamp": "2015-05-20T21:03:57.627719",
+		"state": "active",
+		"id": "d5128cb9-23c9-47e0-aee0-bc260fd093cc"
+	},
+	{
+		"vocabulary_id": null,
+		"display_name": "petroleum",
+		"name": "petroleum",
+		"revision_timestamp": "2015-05-20T21:03:57.627719",
+		"state": "active",
+		"id": "2a41637e-849a-4429-96e9-dbafa44f2da9"
+	},
+	{
+		"vocabulary_id": null,
+		"display_name": "piece",
+		"name": "piece",
+		"revision_timestamp": "2015-05-20T21:03:57.627719",
+		"state": "active",
+		"id": "640340ba-b0f9-403b-8855-5d31b00bb9d0"
+	},
+	{
+		"vocabulary_id": null,
+		"display_name": "plumbing",
+		"name": "plumbing",
+		"revision_timestamp": "2015-05-20T21:03:57.627719",
+		"state": "active",
+		"id": "74633404-45e8-4f45-9c2d-eed6c0c5e20d"
+	},
+	{
+		"vocabulary_id": null,
+		"display_name": "product",
+		"name": "product",
+		"revision_timestamp": "2015-05-20T21:03:57.627719",
+		"state": "active",
+		"id": "4167a142-8356-4ce8-aa3b-725d0ce9a0ba"
+	},
+	{
+		"vocabulary_id": null,
+		"display_name": "products",
+		"name": "products",
+		"revision_timestamp": "2015-05-20T21:03:57.627719",
+		"state": "active",
+		"id": "1f3b2c49-6a5b-4d08-a543-d9ae58750c78"
+	},
+	{
+		"vocabulary_id": null,
+		"display_name": "professional",
+		"name": "professional",
+		"revision_timestamp": "2015-05-20T21:03:57.627719",
+		"state": "active",
+		"id": "b9ab808e-2aa4-4375-b8b3-ced8ec1a597e"
+	},
+	{
+		"vocabulary_id": null,
+		"display_name": "raw",
+		"name": "raw",
+		"revision_timestamp": "2015-05-20T21:03:57.627719",
+		"state": "active",
+		"id": "607bbf73-2bbf-4a9a-adf8-50bc4e7677f8"
+	},
+	{
+		"vocabulary_id": null,
+		"display_name": "related",
+		"name": "related",
+		"revision_timestamp": "2015-05-20T21:03:57.627719",
+		"state": "active",
+		"id": "a754da5e-aee0-4bba-b7d4-b57bc6a1beca"
+	},
+	{
+		"vocabulary_id": null,
+		"display_name": "sales",
+		"name": "sales",
+		"revision_timestamp": "2015-05-20T21:03:57.627719",
+		"state": "active",
+		"id": "8cad3f01-0f4c-42e8-9048-8adfaffd8c9f"
+	},
+	{
+		"vocabulary_id": null,
+		"display_name": "software",
+		"name": "software",
+		"revision_timestamp": "2015-05-20T21:03:57.627719",
+		"state": "active",
+		"id": "f7be7aed-042c-48e4-9752-814c93c2fd41"
+	},
+	{
+		"vocabulary_id": null,
+		"display_name": "sundries",
+		"name": "sundries",
+		"revision_timestamp": "2015-05-20T21:03:57.627719",
+		"state": "active",
+		"id": "520e7c7a-a6b0-4e7d-b6fc-99107227e220"
+	},
+	{
+		"vocabulary_id": null,
+		"display_name": "supplement",
+		"name": "supplement",
+		"revision_timestamp": "2015-05-20T21:03:57.627719",
+		"state": "active",
+		"id": "ac1d7faf-66d0-4197-9ebe-6d35b3ea0c3b"
+	},
+	{
+		"vocabulary_id": null,
+		"display_name": "supplies",
+		"name": "supplies",
+		"revision_timestamp": "2015-05-20T21:03:57.627719",
+		"state": "active",
+		"id": "b7400bb5-64ec-4256-aef3-f6b956d0d9ab"
+	},
+	{
+		"vocabulary_id": null,
+		"display_name": "survey",
+		"name": "survey",
+		"revision_timestamp": "2015-05-20T21:03:57.627719",
+		"state": "active",
+		"id": "543454a4-7fd6-4570-9509-66c6ec049aed"
+	},
+	{
+		"vocabulary_id": null,
+		"display_name": "trade",
+		"name": "trade",
+		"revision_timestamp": "2015-05-20T21:03:57.627719",
+		"state": "active",
+		"id": "293fad8a-15df-4b47-b6f0-242e14de8763"
+	},
+	{
+		"vocabulary_id": null,
+		"display_name": "u-s",
+		"name": "u-s",
+		"revision_timestamp": "2015-05-20T21:03:57.627719",
+		"state": "active",
+		"id": "7f826865-b65c-453d-88ad-3fb874aaf958"
+	},
+	{
+		"vocabulary_id": null,
+		"display_name": "valuation",
+		"name": "valuation",
+		"revision_timestamp": "2015-05-20T21:03:57.627719",
+		"state": "active",
+		"id": "ec287bff-3110-416f-94ae-24c20fe92238"
+	},
+	{
+		"vocabulary_id": null,
+		"display_name": "vehicle",
+		"name": "vehicle",
+		"revision_timestamp": "2015-05-20T21:03:57.627719",
+		"state": "active",
+		"id": "6c4872b1-7b60-4fba-a5b4-7a22233af953"
+	},
+	{
+		"vocabulary_id": null,
+		"display_name": "wholesale",
+		"name": "wholesale",
+		"revision_timestamp": "2015-05-20T21:03:57.627719",
+		"state": "active",
+		"id": "ce7992ad-0be7-45c4-ba91-fc0ba1e148b3"
+	},
+	{
+		"vocabulary_id": null,
+		"display_name": "wholesalers",
+		"name": "wholesalers",
+		"revision_timestamp": "2015-05-20T21:03:57.627719",
+		"state": "active",
+		"id": "c2478553-4dc6-478b-bf09-6a8217adaf9e"
+	},
+	{
+		"vocabulary_id": null,
+		"display_name": "wine",
+		"name": "wine",
+		"revision_timestamp": "2015-05-20T21:03:57.627719",
+		"state": "active",
+		"id": "0fdbef28-9976-4b43-893c-e118b9418b72"
+	}],
+	"title": "Monthly Wholesale Trade",
+	"tracking_summary": {
+		"total": 700,
+		"recent": 29
+	},
+	"groups": [{
+		"capacity": "public",
+		"description": "",
+		"created": "2013-05-18T12:07:47.221905",
+		"title": "BusinessUSA",
+		"name": "businessusa4208",
+		"is_organization": false,
+		"state": "active",
+		"image_url": "",
+		"revision_id": "f53e17c9-0a4e-438d-bf72-1633cf05835f",
+		"type": "group",
+		"id": "39a03cb4-bc85-455a-b19c-892c7e29e24b",
+		"approval_status": "approved"
+	},
+	{
+		"capacity": "public",
+		"description": "",
+		"created": "2013-05-18T12:07:49.817159",
+		"title": "Energy",
+		"name": "energy9485",
+		"is_organization": false,
+		"state": "active",
+		"image_url": "",
+		"revision_id": "9b36e024-a237-4a63-84f0-7a2bd0ff8768",
+		"type": "group",
+		"id": "b6db7c5a-d306-4da5-a0cd-b4128e1322ce",
+		"approval_status": "approved"
+	},
+	{
+		"capacity": "public",
+		"description": "",
+		"created": "2013-05-18T12:07:51.029607",
+		"title": "Manufacturing",
+		"name": "manufacturing7382",
+		"is_organization": false,
+		"state": "active",
+		"image_url": "",
+		"revision_id": "4cb370f5-d707-494d-840d-c9a77d0978fc",
+		"type": "group",
+		"id": "df2a3c70-0dad-4b35-ad3d-33d9ef46af25",
+		"approval_status": "approved"
+	}],
+	"relationships_as_subject": [],
+	"revision_timestamp": "2016-07-15T19:13:00.468991",
+	"name": "monthly-wholesale-trade",
+	"isopen": true,
+	"url": null,
+	"notes": "Tracks month-to-month trends for sales and inventories of U.S. distributors, jobbers, drop shippers, and import\/export merchants, excluding manufacturers' sales branches or offices (MSBOs).  Provides constant dollar values of sales and end-of-month inventories.",
+	"license_title": "U.S. Government Work",
+	"extras": [{
+		"key": "harvest_source_id",
+		"value": "0836a94a-b3c8-4190-a145-bddc06458b2c"
+	},
+	{
+		"key": "issued",
+		"value": "1946-01-01"
+	},
+	{
+		"key": "resource-type",
+		"value": "Dataset"
+	},
+	{
+		"key": "references",
+		"value": ["http:\/\/www.census.gov\/wholesale\/www\/how_surveys_are_collected\/monthly_methodology.html"]
+	},
+	{
+		"key": "source_hash",
+		"value": "7c44bb116a0f21be74f1ce9cea17e59c767a71b2"
+	},
+	{
+		"key": "spatial",
+		"value": "United States"
+	},
+	{
+		"key": "catalog_conformsTo",
+		"value": "https:\/\/project-open-data.cio.gov\/v1.1\/schema"
+	},
+	{
+		"key": "describedBy",
+		"value": "http:\/\/www.census.gov\/wholesale\/definitions.html"
+	},
+	{
+		"key": "catalog_@context",
+		"value": "https:\/\/project-open-data.cio.gov\/v1.1\/schema\/catalog.jsonld"
+	},
+	{
+		"key": "catalog_describedBy",
+		"value": "https:\/\/project-open-data.cio.gov\/v1.1\/schema\/catalog.json"
+	},
+	{
+		"key": "harvest_source_title",
+		"value": "Commerce Non Spatial Data.json Harvest Source"
+	},
+	{
+		"key": "source_schema_version",
+		"value": "1.1"
+	},
+	{
+		"key": "programCode",
+		"value": ["006:007"]
+	},
+	{
+		"key": "bureauCode",
+		"value": ["006:07"]
+	},
+	{
+		"key": "accessLevel",
+		"value": "public"
+	},
+	{
+		"key": "harvest_object_id",
+		"value": "7caba6e7-7797-4938-b33c-93cd7729405a"
+	},
+	{
+		"key": "__category_tag_b6db7c5a-d306-4da5-a0cd-b4128e1322ce",
+		"value": "[\"Total Energy\"]"
+	},
+	{
+		"key": "publisher",
+		"value": "US Census Bureau, Department of Commerce"
+	},
+	{
+		"key": "license",
+		"value": "http:\/\/www.usa.gov\/publicdomain\/label\/1.0\/"
+	},
+	{
+		"key": "modified",
+		"value": "2016-07-12"
+	},
+	{
+		"key": "source_datajson_identifier",
+		"value": true
+	},
+	{
+		"key": "accrualPeriodicity",
+		"value": "R\/P1M"
+	},
+	{
+		"key": "dataQuality",
+		"value": true
+	},
+	{
+		"key": "identifier",
+		"value": "DOC-4926"
+	},
+	{
+		"state": "active",
+		"key": "harvest_object_id",
+		"value": "7caba6e7-7797-4938-b33c-93cd7729405a"
+	},
+	{
+		"state": "active",
+		"key": "harvest_source_id",
+		"value": "0836a94a-b3c8-4190-a145-bddc06458b2c"
+	},
+	{
+		"state": "active",
+		"key": "harvest_source_title",
+		"value": "Commerce Non Spatial Data.json Harvest Source"
+	}],
+	"license_url": "http:\/\/www.usa.gov\/publicdomain\/label\/1.0\/",
+	"organization": {
+		"description": "",
+		"created": "2013-05-18T11:37:59.153068",
+		"title": "Department of Commerce",
+		"name": "doc-gov",
+		"revision_timestamp": "2013-05-30T16:50:01.416157",
+		"is_organization": true,
+		"state": "active",
+		"image_url": "http:\/\/www.vos.noaa.gov\/MWL\/aug_10\/Images\/doc_logo_xparent.png",
+		"revision_id": "44c851b9-8872-497a-8a13-2f06740b7ffb",
+		"type": "organization",
+		"id": "9cda5205-d632-4814-96e7-a4ab5e0dce85",
+		"approval_status": "approved"
+	},
+	"revision_id": "356f89b5-7476-4fdf-be67-cd031b88bab8"
+}

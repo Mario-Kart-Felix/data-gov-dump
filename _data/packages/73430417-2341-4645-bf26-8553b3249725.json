@@ -1,0 +1,210 @@
+{
+	"owner_org": "149dc403-f16f-4e9d-a9c9-39babf7e98bf",
+	"maintainer": "Data Exchange Administrator",
+	"relationships_as_object": [],
+	"private": false,
+	"maintainer_email": "ORDP.Data.Exchange@ssa.gov",
+	"num_tags": 9,
+	"id": "73430417-2341-4645-bf26-8553b3249725",
+	"metadata_created": "2015-01-30T16:17:55.832606",
+	"metadata_modified": "2016-09-28T13:11:05.667733",
+	"author": null,
+	"author_email": null,
+	"state": "active",
+	"version": null,
+	"license_id": "other-license-specified",
+	"type": "dataset",
+	"resources": [],
+	"num_resources": 0,
+	"tags": [{
+		"vocabulary_id": null,
+		"display_name": "beneficiary",
+		"name": "beneficiary",
+		"revision_timestamp": "2015-01-30T16:17:55.832606",
+		"state": "active",
+		"id": "9e9a7382-1349-43fb-afb9-ab07a9c2dd99"
+	},
+	{
+		"vocabulary_id": null,
+		"display_name": "internal-revenue-service",
+		"name": "internal-revenue-service",
+		"revision_timestamp": "2015-01-30T16:17:55.832606",
+		"state": "active",
+		"id": "2ce03178-cd18-4c34-9cca-c09e63adff95"
+	},
+	{
+		"vocabulary_id": null,
+		"display_name": "irs",
+		"name": "irs",
+		"revision_timestamp": "2015-01-30T16:17:55.832606",
+		"state": "active",
+		"id": "9069bef4-ce5a-4d40-8926-82f880b94b60"
+	},
+	{
+		"vocabulary_id": null,
+		"display_name": "magi",
+		"name": "magi",
+		"revision_timestamp": "2015-01-30T16:17:55.832606",
+		"state": "active",
+		"id": "c2921142-9b69-4d9a-9910-b943b5f0903b"
+	},
+	{
+		"vocabulary_id": null,
+		"display_name": "medicare-modernization-act",
+		"name": "medicare-modernization-act",
+		"revision_timestamp": "2015-01-30T16:17:55.832606",
+		"state": "active",
+		"id": "b6092035-b1b5-4a8e-87f3-0f3f1bd7cbce"
+	},
+	{
+		"vocabulary_id": null,
+		"display_name": "mma",
+		"name": "mma",
+		"revision_timestamp": "2015-01-30T16:17:55.832606",
+		"state": "active",
+		"id": "47e9027e-622c-4e7b-a80d-9791e93f1f23"
+	},
+	{
+		"vocabulary_id": null,
+		"display_name": "modified-adjusted-gross-income",
+		"name": "modified-adjusted-gross-income",
+		"revision_timestamp": "2015-01-30T16:17:55.832606",
+		"state": "active",
+		"id": "896c5deb-562a-4c9e-9925-490879d1f367"
+	},
+	{
+		"vocabulary_id": null,
+		"display_name": "part-b",
+		"name": "part-b",
+		"revision_timestamp": "2015-01-30T16:17:55.832606",
+		"state": "active",
+		"id": "33aaeb21-53bd-4cb0-818f-bbf42bfcc889"
+	},
+	{
+		"vocabulary_id": null,
+		"display_name": "tax-returns",
+		"name": "tax-returns",
+		"revision_timestamp": "2015-01-30T16:17:55.832606",
+		"state": "active",
+		"id": "3989a268-0fbd-4998-8905-a2bfc46a378c"
+	}],
+	"title": "Medicare Modernization Act  (MMA) IRS Medicare Part B",
+	"tracking_summary": {
+		"total": 9,
+		"recent": 1
+	},
+	"groups": [],
+	"relationships_as_subject": [],
+	"revision_timestamp": "2016-02-27T17:19:12.798336",
+	"name": "medicare-modernization-act-mma-irs-medicare-part-b",
+	"isopen": true,
+	"url": null,
+	"notes": "SSA will use data received from the IRS to determine whether or not a beneficiary's income will result in a higher premium being paid for their Medicare Part B coverage.  The data received from the IRS includes tax filing status, Modified Adjusted Gross Income (MAGI), any Life Changing Events, amended tax returns, and IRS corrections to a tax return.",
+	"license_title": "Other License Specified",
+	"extras": [{
+		"key": "publisher",
+		"value": "Social Security Administration"
+	},
+	{
+		"key": "accessLevel",
+		"value": "restricted public"
+	},
+	{
+		"key": "license",
+		"value": "https:\/\/www.ssa.gov\/open\/data\/Restricted-Public-Licensing-Information.html"
+	},
+	{
+		"key": "harvest_source_id",
+		"value": "3ab711e9-e33a-4f1e-a524-30be635dbce0"
+	},
+	{
+		"key": "rights",
+		"value": "The data contained in this data exchange is restricted due to sensitivity and\/or privacy issues.  If you would like more information on a data exchange with SSA please visit the following web site https:\/\/www.ssa.gov\/dataexchange\/."
+	},
+	{
+		"key": "resource-type",
+		"value": "Dataset"
+	},
+	{
+		"key": "modified",
+		"value": "R\/P1W"
+	},
+	{
+		"key": "harvest_source_title",
+		"value": "SSA JSON"
+	},
+	{
+		"key": "source_schema_version",
+		"value": "1.1"
+	},
+	{
+		"key": "source_datajson_identifier",
+		"value": true
+	},
+	{
+		"key": "programCode",
+		"value": ["016:000"]
+	},
+	{
+		"key": "bureauCode",
+		"value": ["016:00"]
+	},
+	{
+		"key": "accrualPeriodicity",
+		"value": "R\/P1W"
+	},
+	{
+		"key": "spatial",
+		"value": "United States"
+	},
+	{
+		"key": "catalog_conformsTo",
+		"value": "https:\/\/project-open-data.cio.gov\/v1.1\/schema"
+	},
+	{
+		"key": "identifier",
+		"value": "US-GOV-SSA-681"
+	},
+	{
+		"key": "harvest_object_id",
+		"value": "3cdd6b52-0f66-4019-ad23-25bc355ca8f3"
+	},
+	{
+		"key": "source_hash",
+		"value": "eb1880666aff3cb72fa7282a9902260a21046807"
+	},
+	{
+		"key": "catalog_describedBy",
+		"value": "https:\/\/project-open-data.cio.gov\/v1.1\/schema\/catalog.json"
+	},
+	{
+		"state": "active",
+		"key": "harvest_object_id",
+		"value": "3cdd6b52-0f66-4019-ad23-25bc355ca8f3"
+	},
+	{
+		"state": "active",
+		"key": "harvest_source_id",
+		"value": "3ab711e9-e33a-4f1e-a524-30be635dbce0"
+	},
+	{
+		"state": "active",
+		"key": "harvest_source_title",
+		"value": "SSA JSON"
+	}],
+	"organization": {
+		"description": "",
+		"created": "2013-05-18T11:35:25.934290",
+		"title": "Social Security Administration",
+		"name": "ssa-gov",
+		"revision_timestamp": "2015-02-25T20:32:33.216893",
+		"is_organization": true,
+		"state": "active",
+		"image_url": "https:\/\/raw.githubusercontent.com\/GSA\/logo\/master\/ssa.png",
+		"revision_id": "1be01963-921d-432f-b56d-37fa76dfb0a1",
+		"type": "organization",
+		"id": "149dc403-f16f-4e9d-a9c9-39babf7e98bf",
+		"approval_status": "approved"
+	},
+	"revision_id": "d05dacd8-af54-49db-95a0-0042e43e52d0"
+}

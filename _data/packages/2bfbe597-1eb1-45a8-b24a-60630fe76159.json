@@ -1,0 +1,277 @@
+{
+	"owner_org": "3609164c-4c49-4a44-9179-23163027dc0a",
+	"maintainer": "admin",
+	"relationships_as_object": [],
+	"private": false,
+	"maintainer_email": "HealthData@hhs.gov",
+	"num_tags": 4,
+	"id": "2bfbe597-1eb1-45a8-b24a-60630fe76159",
+	"metadata_created": "2015-06-19T02:51:55.920634",
+	"metadata_modified": "2016-10-07T14:55:12.823093",
+	"author": null,
+	"author_email": null,
+	"state": "active",
+	"version": null,
+	"license_id": "other-license-specified",
+	"type": "dataset",
+	"resources": [{
+		"resource_group_id": "0350e81a-3cd8-4451-bbb8-10dbb4ea92d3",
+		"cache_last_updated": null,
+		"revision_timestamp": "2015-10-14T21:07:38.480007",
+		"webstore_last_updated": null,
+		"id": "dec1a8cd-fdcc-489f-a0c3-cc719193f5d1",
+		"size": null,
+		"state": "active",
+		"hash": "",
+		"description": "",
+		"format": "CSV",
+		"tracking_summary": {
+			"total": 4,
+			"recent": 1
+		},
+		"mimetype_inner": null,
+		"mimetype": "application\/unknown",
+		"cache_url": null,
+		"name": "csv",
+		"created": "2015-06-18T22:51:56.098649",
+		"url": "https:\/\/data.medicare.gov\/api\/views\/qheq-qctz\/rows.csv?accessType=DOWNLOAD",
+		"webstore_url": null,
+		"last_modified": null,
+		"position": 0,
+		"revision_id": "4fbf1225-b752-495f-a444-a4bc775d377a",
+		"resource_type": null
+	},
+	{
+		"resource_group_id": "0350e81a-3cd8-4451-bbb8-10dbb4ea92d3",
+		"cache_last_updated": null,
+		"revision_timestamp": "2015-10-14T21:07:38.480007",
+		"webstore_last_updated": null,
+		"id": "9162707c-d168-4935-98bb-c718f8aea4fe",
+		"size": null,
+		"state": "active",
+		"hash": "",
+		"description": "",
+		"format": "RDF",
+		"tracking_summary": {
+			"total": 1,
+			"recent": 1
+		},
+		"mimetype_inner": null,
+		"mimetype": "application\/unknown",
+		"cache_url": null,
+		"name": "rdf",
+		"created": "2015-06-18T22:51:56.098681",
+		"url": "https:\/\/data.medicare.gov\/api\/views\/qheq-qctz\/rows.rdf?accessType=DOWNLOAD",
+		"webstore_url": null,
+		"last_modified": null,
+		"position": 1,
+		"revision_id": "4fbf1225-b752-495f-a444-a4bc775d377a",
+		"resource_type": null
+	},
+	{
+		"resource_group_id": "0350e81a-3cd8-4451-bbb8-10dbb4ea92d3",
+		"cache_last_updated": null,
+		"revision_timestamp": "2015-10-14T21:07:38.480007",
+		"webstore_last_updated": null,
+		"id": "a1e83587-aa23-4288-b926-b25859847459",
+		"size": null,
+		"state": "active",
+		"hash": "",
+		"description": "",
+		"format": "JSON",
+		"tracking_summary": {
+			"total": 0,
+			"recent": 0
+		},
+		"mimetype_inner": null,
+		"mimetype": "application\/unknown",
+		"cache_url": null,
+		"name": "json",
+		"created": "2015-06-18T22:51:56.098691",
+		"url": "https:\/\/data.medicare.gov\/api\/views\/qheq-qctz\/rows.json?accessType=DOWNLOAD",
+		"webstore_url": null,
+		"last_modified": null,
+		"position": 2,
+		"revision_id": "4fbf1225-b752-495f-a444-a4bc775d377a",
+		"resource_type": null
+	},
+	{
+		"resource_group_id": "0350e81a-3cd8-4451-bbb8-10dbb4ea92d3",
+		"cache_last_updated": null,
+		"revision_timestamp": "2015-10-14T21:07:38.480007",
+		"webstore_last_updated": null,
+		"id": "f7daedee-54da-48fc-8c15-d9ef6195af74",
+		"size": null,
+		"state": "active",
+		"hash": "",
+		"description": "",
+		"format": "XML",
+		"tracking_summary": {
+			"total": 2,
+			"recent": 1
+		},
+		"mimetype_inner": null,
+		"mimetype": "application\/unknown",
+		"cache_url": null,
+		"name": "text\/xml",
+		"created": "2015-06-18T22:51:56.098699",
+		"url": "https:\/\/data.medicare.gov\/api\/views\/qheq-qctz\/rows.xml?accessType=DOWNLOAD",
+		"webstore_url": null,
+		"last_modified": null,
+		"position": 3,
+		"revision_id": "4fbf1225-b752-495f-a444-a4bc775d377a",
+		"resource_type": null
+	}],
+	"num_resources": 4,
+	"tags": [{
+		"vocabulary_id": null,
+		"display_name": "hvbp",
+		"name": "hvbp",
+		"revision_timestamp": "2015-06-19T02:51:55.920634",
+		"state": "active",
+		"id": "e525418e-3010-4d9c-b0a5-4274ff7f25aa"
+	},
+	{
+		"vocabulary_id": null,
+		"display_name": "linking-quality-to-payment",
+		"name": "linking-quality-to-payment",
+		"revision_timestamp": "2015-06-19T02:51:55.920634",
+		"state": "active",
+		"id": "3d7f723d-e2c2-4e6e-b930-28eb297bd7c8"
+	},
+	{
+		"vocabulary_id": null,
+		"display_name": "measure-dates",
+		"name": "measure-dates",
+		"revision_timestamp": "2015-06-19T02:51:55.920634",
+		"state": "active",
+		"id": "fbd6e9c6-7a19-47ea-93b5-dacc583858b0"
+	},
+	{
+		"vocabulary_id": null,
+		"display_name": "quarters",
+		"name": "quarters",
+		"revision_timestamp": "2015-06-19T02:51:55.920634",
+		"state": "active",
+		"id": "54286e85-b543-49b3-b596-7eea7bacc701"
+	}],
+	"title": "Hospital Value-Based Purchasing (HVBP) \u2013 Quarters file",
+	"tracking_summary": {
+		"total": 16,
+		"recent": 3
+	},
+	"groups": [],
+	"relationships_as_subject": [],
+	"revision_timestamp": "2016-04-06T23:20:45.522988",
+	"name": "hospital-value-based-purchasing-hvbp-quarters-file",
+	"isopen": true,
+	"url": null,
+	"notes": "<p>Lists the performance and baseline periods for Hospital Value-Based Purchasing<\/p>\n",
+	"license_title": "Other License Specified",
+	"extras": [{
+		"key": "publisher",
+		"value": "Department of Health &amp; Human Services"
+	},
+	{
+		"key": "identifier",
+		"value": "eb8520ae-f6be-4c83-a398-f467598debec"
+	},
+	{
+		"key": "license",
+		"value": "http:\/\/opendefinition.org\/licenses\/odc-odbl\/"
+	},
+	{
+		"key": "harvest_source_id",
+		"value": "15c538b5-31a0-474e-8ba5-c85ee421cb4d"
+	},
+	{
+		"key": "catalog_@context",
+		"value": "https:\/\/project-open-data.cio.gov\/v1.1\/schema\/catalog.jsonld"
+	},
+	{
+		"key": "resource-type",
+		"value": "Dataset"
+	},
+	{
+		"key": "modified",
+		"value": "2016-04-05"
+	},
+	{
+		"key": "harvest_source_title",
+		"value": "Healthdata.gov"
+	},
+	{
+		"key": "source_schema_version",
+		"value": "1.1"
+	},
+	{
+		"key": "source_datajson_identifier",
+		"value": true
+	},
+	{
+		"key": "language",
+		"value": ["en"]
+	},
+	{
+		"key": "bureauCode",
+		"value": ["009:38"]
+	},
+	{
+		"key": "catalog_@id",
+		"value": "https:\/\/www.healthdata.gov\/data.json"
+	},
+	{
+		"key": "programCode",
+		"value": ["009:000"]
+	},
+	{
+		"key": "accessLevel",
+		"value": "public"
+	},
+	{
+		"key": "harvest_object_id",
+		"value": "4d0f48e1-33bf-4db3-be03-ef006d91beab"
+	},
+	{
+		"key": "source_hash",
+		"value": "55ebf8d386cc74f2506b6d4c2c5d448be15edc94"
+	},
+	{
+		"key": "catalog_conformsTo",
+		"value": "https:\/\/project-open-data.cio.gov\/v1.1\/schema"
+	},
+	{
+		"key": "catalog_describedBy",
+		"value": "https:\/\/project-open-data.cio.gov\/v1.1\/schema\/catalog.json"
+	},
+	{
+		"state": "active",
+		"key": "harvest_object_id",
+		"value": "4d0f48e1-33bf-4db3-be03-ef006d91beab"
+	},
+	{
+		"state": "active",
+		"key": "harvest_source_id",
+		"value": "15c538b5-31a0-474e-8ba5-c85ee421cb4d"
+	},
+	{
+		"state": "active",
+		"key": "harvest_source_title",
+		"value": "Healthdata.gov"
+	}],
+	"organization": {
+		"description": "",
+		"created": "2013-08-26T15:35:30.958442",
+		"title": "U.S. Department of Health & Human Services",
+		"name": "hhs-gov",
+		"revision_timestamp": "2014-02-28T21:57:27.766656",
+		"is_organization": true,
+		"state": "active",
+		"image_url": "http:\/\/www.healthdata.gov\/sites\/all\/themes\/hdtheme\/logo-dark.png",
+		"revision_id": "eff89d9e-dc00-4101-bbd4-750e1adcc5bb",
+		"type": "organization",
+		"id": "3609164c-4c49-4a44-9179-23163027dc0a",
+		"approval_status": "approved"
+	},
+	"revision_id": "e11b1890-7d70-4bfb-a768-b4f3509e206a"
+}

@@ -1,0 +1,213 @@
+{
+	"owner_org": "735d0118-b2a7-4246-a0e3-608b0fa8d1ec",
+	"maintainer": "John Sullivan",
+	"relationships_as_object": [],
+	"private": false,
+	"maintainer_email": "jsullivan@anl.gov",
+	"num_tags": 4,
+	"id": "367fb195-295c-43f8-bd9f-b8b9ad92f9c8",
+	"metadata_created": "2016-04-28T01:26:37.948053",
+	"metadata_modified": "2016-04-28T01:26:37.948053",
+	"author": null,
+	"author_email": null,
+	"state": "active",
+	"version": null,
+	"license_id": "cc-by",
+	"type": "dataset",
+	"resources": [{
+		"resource_group_id": "06064c7f-920a-46eb-8131-65df9c05fda4",
+		"cache_last_updated": null,
+		"revision_timestamp": "2016-04-28T01:26:37.948053",
+		"webstore_last_updated": null,
+		"id": "0266d495-6f61-4535-b19c-1dd83aaacaed",
+		"size": null,
+		"state": "active",
+		"hash": "",
+		"description": "Calculator for geothermal derived from previously submitted data",
+		"format": "xlsx",
+		"tracking_summary": {
+			"total": 0,
+			"recent": 0
+		},
+		"mimetype_inner": null,
+		"mimetype": "application\/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+		"cache_url": null,
+		"name": "geothrm-lca-calculator.xlsx",
+		"created": "2016-04-27T21:26:38.197208",
+		"url": "http:\/\/gdr.openei.org\/files\/362\/Geothrm_LCA_Calculator.xlsx",
+		"webstore_url": null,
+		"last_modified": null,
+		"position": 0,
+		"revision_id": "28e10425-5579-4680-91f0-3ffd2f3ec4e5",
+		"resource_type": null
+	}],
+	"num_resources": 1,
+	"tags": [{
+		"vocabulary_id": null,
+		"display_name": "calculator",
+		"name": "calculator",
+		"revision_timestamp": "2016-04-28T01:26:37.948053",
+		"state": "active",
+		"id": "e4e7cf42-a835-4ad3-a5a0-bf98c1cd7ac7"
+	},
+	{
+		"vocabulary_id": null,
+		"display_name": "geothermal",
+		"name": "geothermal",
+		"revision_timestamp": "2016-04-28T01:26:37.948053",
+		"state": "active",
+		"id": "3f323051-fbd3-4715-bc13-e2fa5e65d369"
+	},
+	{
+		"vocabulary_id": null,
+		"display_name": "greenhouse-emissions-rate",
+		"name": "greenhouse-emissions-rate",
+		"revision_timestamp": "2016-04-28T01:26:37.948053",
+		"state": "active",
+		"id": "02f7ccac-9942-415c-bffe-9baced24835b"
+	},
+	{
+		"vocabulary_id": null,
+		"display_name": "life-cycle-metrics",
+		"name": "life-cycle-metrics",
+		"revision_timestamp": "2016-04-28T01:26:37.948053",
+		"state": "active",
+		"id": "19d9c471-7a19-4de3-b3e1-e214a97ec0de"
+	}],
+	"title": "Geothermal Life Cycle Calculator",
+	"tracking_summary": {
+		"total": 5,
+		"recent": 1
+	},
+	"groups": [],
+	"relationships_as_subject": [],
+	"revision_timestamp": "2016-04-28T01:26:37.948053",
+	"name": "geothermal-life-cycle-calculator",
+	"isopen": true,
+	"url": null,
+	"notes": "This calculator is a handy tool for interested parties to estimate two key life cycle metrics, fossil energy consumption (Etot) and greenhouse gas emission (ghgtot) ratios, for geothermal electric power production. It is based solely on data developed by Argonne National Laboratory for DOE\u2019s Geothermal Technologies office. The calculator permits the user to explore the impact of a range of key geothermal power production parameters, including plant capacity, lifetime, capacity factor, geothermal technology, well numbers and depths, field exploration, and others on the two metrics just mentioned. Estimates of variations in the results are also available to the user.",
+	"license_title": "Creative Commons Attribution",
+	"extras": [{
+		"key": "harvest_source_id",
+		"value": "8d4de31c-979c-4b50-be6b-ea3c72453ff6"
+	},
+	{
+		"key": "issued",
+		"value": "2014-03-11"
+	},
+	{
+		"key": "resource-type",
+		"value": "Dataset"
+	},
+	{
+		"key": "source_hash",
+		"value": "bd0fb379627939f73fe081f27cd732a0b84a9929"
+	},
+	{
+		"key": "accessLevel",
+		"value": "public"
+	},
+	{
+		"key": "spatial",
+		"value": "{\"type\":\"Polygon\",\"coordinates\":[[[-123,38.6],[-122.6,38.6],[-122.6,39],[-123,39],[-123,38.6]]]}"
+	},
+	{
+		"key": "catalog_conformsTo",
+		"value": "https:\/\/project-open-data.cio.gov\/v1.1\/schema"
+	},
+	{
+		"key": "catalog_@context",
+		"value": "https:\/\/project-open-data.cio.gov\/v1.1\/schema\/catalog.jsonld"
+	},
+	{
+		"key": "catalog_describedBy",
+		"value": "https:\/\/project-open-data.cio.gov\/v1.1\/schema\/catalog.json"
+	},
+	{
+		"key": "format",
+		"value": "application\/vnd.openxmlformats-officedocument.spreadsheetml.sheet"
+	},
+	{
+		"key": "harvest_source_title",
+		"value": "Energy JSON"
+	},
+	{
+		"key": "source_schema_version",
+		"value": "1.1"
+	},
+	{
+		"key": "programCode",
+		"value": ["019:006"]
+	},
+	{
+		"key": "bureauCode",
+		"value": ["019:20"]
+	},
+	{
+		"key": "landingPage",
+		"value": "http:\/\/gdr.openei.org\/submissions\/362"
+	},
+	{
+		"key": "harvest_object_id",
+		"value": "5b8810c9-cc80-4d26-b38a-2ce6e766fd5b"
+	},
+	{
+		"key": "accessURL",
+		"value": "http:\/\/gdr.openei.org\/files\/362\/Geothrm_LCA_Calculator.xlsx"
+	},
+	{
+		"key": "publisher",
+		"value": "Argonne National Laboratory"
+	},
+	{
+		"key": "license",
+		"value": "https:\/\/creativecommons.org\/licenses\/by\/4.0\/"
+	},
+	{
+		"key": "modified",
+		"value": "2014-03-11"
+	},
+	{
+		"key": "source_datajson_identifier",
+		"value": true
+	},
+	{
+		"key": "dataQuality",
+		"value": true
+	},
+	{
+		"key": "identifier",
+		"value": "http:\/\/en.openei.org\/doe-opendata\/dataset\/f0000000-e214-4b72-acd2-000000000362"
+	},
+	{
+		"state": "active",
+		"key": "harvest_object_id",
+		"value": "5b8810c9-cc80-4d26-b38a-2ce6e766fd5b"
+	},
+	{
+		"state": "active",
+		"key": "harvest_source_id",
+		"value": "8d4de31c-979c-4b50-be6b-ea3c72453ff6"
+	},
+	{
+		"state": "active",
+		"key": "harvest_source_title",
+		"value": "Energy JSON"
+	}],
+	"license_url": "http:\/\/www.opendefinition.org\/licenses\/cc-by",
+	"organization": {
+		"description": "",
+		"created": "2013-05-18T11:31:21.471948",
+		"title": "Department of Energy",
+		"name": "doe-gov",
+		"revision_timestamp": "2013-05-31T20:48:37.771905",
+		"is_organization": true,
+		"state": "active",
+		"image_url": "http:\/\/energy.gov\/sites\/prod\/files\/styles\/imagelink\/public\/DoE-Logo.jpeg",
+		"revision_id": "14e1d3c1-4cc7-460c-bf1c-b10e3429b4b0",
+		"type": "organization",
+		"id": "735d0118-b2a7-4246-a0e3-608b0fa8d1ec",
+		"approval_status": "approved"
+	},
+	"revision_id": "28e10425-5579-4680-91f0-3ffd2f3ec4e5"
+}

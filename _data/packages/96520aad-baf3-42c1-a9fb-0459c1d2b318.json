@@ -1,0 +1,213 @@
+{
+	"owner_org": "735d0118-b2a7-4246-a0e3-608b0fa8d1ec",
+	"maintainer": "Steve Bauer",
+	"relationships_as_object": [],
+	"private": false,
+	"maintainer_email": "sjbauer@sandia.gov",
+	"num_tags": 4,
+	"id": "96520aad-baf3-42c1-a9fb-0459c1d2b318",
+	"metadata_created": "2016-05-20T00:44:32.229357",
+	"metadata_modified": "2016-05-20T00:44:32.229357",
+	"author": null,
+	"author_email": null,
+	"state": "active",
+	"version": null,
+	"license_id": "cc-by",
+	"type": "dataset",
+	"resources": [{
+		"resource_group_id": "92580c59-3d34-481f-8d94-a7a58499297e",
+		"cache_last_updated": null,
+		"revision_timestamp": "2016-05-20T00:44:32.229357",
+		"webstore_last_updated": null,
+		"id": "359ab93c-299c-40b6-afa6-ade5b069a733",
+		"size": null,
+		"state": "active",
+		"hash": "",
+		"description": "lab data on first shakedown test design",
+		"format": "xlsx",
+		"tracking_summary": {
+			"total": 3,
+			"recent": 1
+		},
+		"mimetype_inner": null,
+		"mimetype": "application\/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+		"cache_url": null,
+		"name": "copy of geotherm flowtest2 a1.xlsx",
+		"created": "2016-05-19T20:44:32.488503",
+		"url": "http:\/\/gdr.openei.org\/files\/427\/Copy%20of%20GeoTherm%20FlowTest2%20A1.xlsx",
+		"webstore_url": null,
+		"last_modified": null,
+		"position": 0,
+		"revision_id": "01a0babf-d27c-4f6e-ad50-3794bc2e51e2",
+		"resource_type": null
+	}],
+	"num_resources": 1,
+	"tags": [{
+		"vocabulary_id": null,
+		"display_name": "egs-lab-simulation",
+		"name": "egs-lab-simulation",
+		"revision_timestamp": "2016-05-20T00:44:32.229357",
+		"state": "active",
+		"id": "5859cddb-3076-4a02-91c2-d8cdaf1c4740"
+	},
+	{
+		"vocabulary_id": null,
+		"display_name": "geothermal",
+		"name": "geothermal",
+		"revision_timestamp": "2016-05-20T00:44:32.229357",
+		"state": "active",
+		"id": "3f323051-fbd3-4715-bc13-e2fa5e65d369"
+	},
+	{
+		"vocabulary_id": null,
+		"display_name": "granite",
+		"name": "granite",
+		"revision_timestamp": "2016-05-20T00:44:32.229357",
+		"state": "active",
+		"id": "e09e48e0-fbff-4c44-97d2-8439d27413a0"
+	},
+	{
+		"vocabulary_id": null,
+		"display_name": "hydroshearing",
+		"name": "hydroshearing",
+		"revision_timestamp": "2016-05-20T00:44:32.229357",
+		"state": "active",
+		"id": "7abc17ff-3c07-4091-bdf7-a6c2fcfef97c"
+	}],
+	"title": "Laboratory Evaluation of EGS Shear Stimulation-Test 001",
+	"tracking_summary": {
+		"total": 1,
+		"recent": 1
+	},
+	"groups": [],
+	"relationships_as_subject": [],
+	"revision_timestamp": "2016-05-20T00:44:32.229357",
+	"name": "laboratory-evaluation-of-egs-shear-stimulation-test-001",
+	"isopen": true,
+	"url": null,
+	"notes": "this is the results of an initial setup-shakedon test in order to develop the plumbing system for this test design. a cylinder of granite with offset holes was jacketed and subjected to confining pressure and low temperature (85C) and pore water pressure. flow through the sample was developed at different test stages.",
+	"license_title": "Creative Commons Attribution",
+	"extras": [{
+		"key": "harvest_source_id",
+		"value": "8d4de31c-979c-4b50-be6b-ea3c72453ff6"
+	},
+	{
+		"key": "issued",
+		"value": "2014-07-29"
+	},
+	{
+		"key": "resource-type",
+		"value": "Dataset"
+	},
+	{
+		"key": "source_hash",
+		"value": "713e219ef81f5fbf073314096720ceb05bd33bde"
+	},
+	{
+		"key": "accessLevel",
+		"value": "public"
+	},
+	{
+		"key": "spatial",
+		"value": "{\"type\":\"Polygon\",\"coordinates\":[[[-106.203325,33.669728904818],[-105.2915609375,33.669728904818],[-105.2915609375,35.16864944799],[-106.203325,35.16864944799],[-106.203325,33.669728904818]]]}"
+	},
+	{
+		"key": "catalog_conformsTo",
+		"value": "https:\/\/project-open-data.cio.gov\/v1.1\/schema"
+	},
+	{
+		"key": "catalog_@context",
+		"value": "https:\/\/project-open-data.cio.gov\/v1.1\/schema\/catalog.jsonld"
+	},
+	{
+		"key": "catalog_describedBy",
+		"value": "https:\/\/project-open-data.cio.gov\/v1.1\/schema\/catalog.json"
+	},
+	{
+		"key": "format",
+		"value": "application\/vnd.openxmlformats-officedocument.spreadsheetml.sheet"
+	},
+	{
+		"key": "harvest_source_title",
+		"value": "Energy JSON"
+	},
+	{
+		"key": "source_schema_version",
+		"value": "1.1"
+	},
+	{
+		"key": "programCode",
+		"value": ["019:006"]
+	},
+	{
+		"key": "bureauCode",
+		"value": ["019:20"]
+	},
+	{
+		"key": "landingPage",
+		"value": "http:\/\/gdr.openei.org\/submissions\/427"
+	},
+	{
+		"key": "harvest_object_id",
+		"value": "fe4b1ccd-308d-4023-bbc6-098882580fac"
+	},
+	{
+		"key": "accessURL",
+		"value": "http:\/\/gdr.openei.org\/files\/427\/Copy%20of%20GeoTherm%20FlowTest2%20A1.xlsx"
+	},
+	{
+		"key": "publisher",
+		"value": "Sandia National Laboratories"
+	},
+	{
+		"key": "license",
+		"value": "https:\/\/creativecommons.org\/licenses\/by\/4.0\/"
+	},
+	{
+		"key": "modified",
+		"value": "2014-07-29"
+	},
+	{
+		"key": "source_datajson_identifier",
+		"value": true
+	},
+	{
+		"key": "dataQuality",
+		"value": true
+	},
+	{
+		"key": "identifier",
+		"value": "http:\/\/en.openei.org\/doe-opendata\/dataset\/f0000000-e214-4b72-acd2-000000000427"
+	},
+	{
+		"state": "active",
+		"key": "harvest_object_id",
+		"value": "fe4b1ccd-308d-4023-bbc6-098882580fac"
+	},
+	{
+		"state": "active",
+		"key": "harvest_source_id",
+		"value": "8d4de31c-979c-4b50-be6b-ea3c72453ff6"
+	},
+	{
+		"state": "active",
+		"key": "harvest_source_title",
+		"value": "Energy JSON"
+	}],
+	"license_url": "http:\/\/www.opendefinition.org\/licenses\/cc-by",
+	"organization": {
+		"description": "",
+		"created": "2013-05-18T11:31:21.471948",
+		"title": "Department of Energy",
+		"name": "doe-gov",
+		"revision_timestamp": "2013-05-31T20:48:37.771905",
+		"is_organization": true,
+		"state": "active",
+		"image_url": "http:\/\/energy.gov\/sites\/prod\/files\/styles\/imagelink\/public\/DoE-Logo.jpeg",
+		"revision_id": "14e1d3c1-4cc7-460c-bf1c-b10e3429b4b0",
+		"type": "organization",
+		"id": "735d0118-b2a7-4246-a0e3-608b0fa8d1ec",
+		"approval_status": "approved"
+	},
+	"revision_id": "01a0babf-d27c-4f6e-ad50-3794bc2e51e2"
+}

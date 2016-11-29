@@ -1,0 +1,447 @@
+{
+	"owner_org": "735d0118-b2a7-4246-a0e3-608b0fa8d1ec",
+	"maintainer": "David Cuyler",
+	"relationships_as_object": [],
+	"private": false,
+	"maintainer_email": "david.cuyler@ee.doe.gov",
+	"num_tags": 13,
+	"id": "ccaf0cc9-1f5d-42ed-a634-840670c80238",
+	"metadata_created": "2016-05-20T00:44:56.960341",
+	"metadata_modified": "2016-05-20T00:44:56.960341",
+	"author": null,
+	"author_email": null,
+	"state": "active",
+	"version": null,
+	"license_id": "cc-by",
+	"type": "dataset",
+	"resources": [{
+		"resource_group_id": "7cfe7343-beab-4a00-95b9-a17c0b036508",
+		"cache_last_updated": null,
+		"revision_timestamp": "2016-05-20T00:44:56.960341",
+		"webstore_last_updated": null,
+		"id": "2da19607-fa71-47a3-b8b5-b9d8b218bb6c",
+		"size": null,
+		"state": "active",
+		"hash": "",
+		"description": "An entity-relationship view of the Raft River data model, in a PDF report format.",
+		"format": "PDF",
+		"tracking_summary": {
+			"total": 2,
+			"recent": 1
+		},
+		"mimetype_inner": null,
+		"mimetype": "application\/pdf",
+		"cache_url": null,
+		"name": "raft river entity relationship data model report.pdf",
+		"created": "2016-05-19T20:44:57.313734",
+		"url": "http:\/\/gdr.openei.org\/files\/234\/RaftRiverModel-er-model.pdf",
+		"webstore_url": null,
+		"last_modified": null,
+		"position": 0,
+		"revision_id": "6953310f-8231-4f75-a8f1-f4a19e95bb14",
+		"resource_type": null
+	},
+	{
+		"resource_group_id": "7cfe7343-beab-4a00-95b9-a17c0b036508",
+		"cache_last_updated": null,
+		"revision_timestamp": "2016-05-20T00:44:56.960341",
+		"webstore_last_updated": null,
+		"id": "53cc656d-b8ea-40cd-bd87-6edaa597cc7d",
+		"size": null,
+		"state": "active",
+		"hash": "",
+		"description": "VizioModeler native fact model representing the implied data model from the cited Raft River documents.",
+		"format": "imo",
+		"tracking_summary": {
+			"total": 0,
+			"recent": 0
+		},
+		"mimetype_inner": null,
+		"mimetype": null,
+		"cache_url": null,
+		"name": "raft river viziomodeler native fact model.imo",
+		"created": "2016-05-19T20:44:57.313760",
+		"url": "http:\/\/gdr.openei.org\/files\/234\/RaftRiver.IMO",
+		"webstore_url": null,
+		"last_modified": null,
+		"position": 1,
+		"revision_id": "6953310f-8231-4f75-a8f1-f4a19e95bb14",
+		"resource_type": null
+	},
+	{
+		"resource_group_id": "7cfe7343-beab-4a00-95b9-a17c0b036508",
+		"cache_last_updated": null,
+		"revision_timestamp": "2016-05-20T00:44:56.960341",
+		"webstore_last_updated": null,
+		"id": "9b0b73c7-f976-440f-9d87-4f727c038104",
+		"size": null,
+		"state": "active",
+		"hash": "",
+		"description": "The Raft River fact model expressed in navigable (internally linked) html.",
+		"format": "HTML",
+		"tracking_summary": {
+			"total": 0,
+			"recent": 0
+		},
+		"mimetype_inner": null,
+		"mimetype": "text\/html",
+		"cache_url": null,
+		"name": "raft river fact model in html rendering.html",
+		"created": "2016-05-19T20:44:57.313770",
+		"url": "http:\/\/gdr.openei.org\/files\/234\/raftriverM14.html",
+		"webstore_url": null,
+		"last_modified": null,
+		"position": 2,
+		"revision_id": "6953310f-8231-4f75-a8f1-f4a19e95bb14",
+		"resource_type": null
+	},
+	{
+		"resource_group_id": "7cfe7343-beab-4a00-95b9-a17c0b036508",
+		"cache_last_updated": null,
+		"revision_timestamp": "2016-05-20T00:44:56.960341",
+		"webstore_last_updated": null,
+		"id": "64e8e558-402b-4acd-a15b-c21fad6f1779",
+		"size": null,
+		"state": "active",
+		"hash": "",
+		"description": "The Raft River fact model expressed in UML 1.4 XMI with some transformation to typical class structure model.",
+		"format": "XML",
+		"tracking_summary": {
+			"total": 0,
+			"recent": 0
+		},
+		"mimetype_inner": null,
+		"mimetype": "text\/xml",
+		"cache_url": null,
+		"name": "raft river fact model in uml v1.xml",
+		"created": "2016-05-19T20:44:57.313779",
+		"url": "http:\/\/gdr.openei.org\/files\/234\/raftriverU14.xml",
+		"webstore_url": null,
+		"last_modified": null,
+		"position": 3,
+		"revision_id": "6953310f-8231-4f75-a8f1-f4a19e95bb14",
+		"resource_type": null
+	},
+	{
+		"resource_group_id": "7cfe7343-beab-4a00-95b9-a17c0b036508",
+		"cache_last_updated": null,
+		"revision_timestamp": "2016-05-20T00:44:56.960341",
+		"webstore_last_updated": null,
+		"id": "b645fc88-ff38-4147-8580-e76b95b20cce",
+		"size": null,
+		"state": "active",
+		"hash": "",
+		"description": "The Raft River fact model expressed in a variant of XMI that supports ORM-specific stereotypes.",
+		"format": "XML",
+		"tracking_summary": {
+			"total": 0,
+			"recent": 0
+		},
+		"mimetype_inner": null,
+		"mimetype": "text\/xml",
+		"cache_url": null,
+		"name": "raft river fact model in orm-specific xmi xml.xml",
+		"created": "2016-05-19T20:44:57.313787",
+		"url": "http:\/\/gdr.openei.org\/files\/234\/raftriverM14.xml",
+		"webstore_url": null,
+		"last_modified": null,
+		"position": 4,
+		"revision_id": "6953310f-8231-4f75-a8f1-f4a19e95bb14",
+		"resource_type": null
+	},
+	{
+		"resource_group_id": "7cfe7343-beab-4a00-95b9-a17c0b036508",
+		"cache_last_updated": null,
+		"revision_timestamp": "2016-05-20T00:44:56.960341",
+		"webstore_last_updated": null,
+		"id": "ab53e716-5453-4300-b929-c3b68ab9f33c",
+		"size": null,
+		"state": "active",
+		"hash": "",
+		"description": "Raft River Model XML Spy Project used to manage xml and html resulting from conversion of the Raft River fact model to XMI",
+		"format": "spp",
+		"tracking_summary": {
+			"total": 0,
+			"recent": 0
+		},
+		"mimetype_inner": null,
+		"mimetype": null,
+		"cache_url": null,
+		"name": "raft river data model xml spy project.spp",
+		"created": "2016-05-19T20:44:57.313796",
+		"url": "http:\/\/gdr.openei.org\/files\/234\/geothermal.spp",
+		"webstore_url": null,
+		"last_modified": null,
+		"position": 5,
+		"revision_id": "6953310f-8231-4f75-a8f1-f4a19e95bb14",
+		"resource_type": null
+	},
+	{
+		"resource_group_id": "7cfe7343-beab-4a00-95b9-a17c0b036508",
+		"cache_last_updated": null,
+		"revision_timestamp": "2016-05-20T00:44:56.960341",
+		"webstore_last_updated": null,
+		"id": "6dc641dd-fcae-4786-b3ef-53b58de0549a",
+		"size": null,
+		"state": "active",
+		"hash": "",
+		"description": "An fact model view of the Raft River data model, in a PDF report format.",
+		"format": "PDF",
+		"tracking_summary": {
+			"total": 0,
+			"recent": 0
+		},
+		"mimetype_inner": null,
+		"mimetype": "application\/pdf",
+		"cache_url": null,
+		"name": "raft river fact model report.pdf",
+		"created": "2016-05-19T20:44:57.313804",
+		"url": "http:\/\/gdr.openei.org\/files\/234\/RaftRiverModel-fact-model.pdf",
+		"webstore_url": null,
+		"last_modified": null,
+		"position": 6,
+		"revision_id": "6953310f-8231-4f75-a8f1-f4a19e95bb14",
+		"resource_type": null
+	}],
+	"num_resources": 7,
+	"tags": [{
+		"vocabulary_id": null,
+		"display_name": "analysis",
+		"name": "analysis",
+		"revision_timestamp": "2016-05-20T00:44:56.960341",
+		"state": "active",
+		"id": "554ea221-d8f8-48d7-81ed-e6e838ff49d3"
+	},
+	{
+		"vocabulary_id": null,
+		"display_name": "cassia-county",
+		"name": "cassia-county",
+		"revision_timestamp": "2016-05-20T00:44:56.960341",
+		"state": "active",
+		"id": "5a4a4576-fa63-4d40-af57-a5bc29b19b11"
+	},
+	{
+		"vocabulary_id": null,
+		"display_name": "data-model",
+		"name": "data-model",
+		"revision_timestamp": "2016-05-20T00:44:56.960341",
+		"state": "active",
+		"id": "e548f018-f179-4391-b7a7-aac784d7458b"
+	},
+	{
+		"vocabulary_id": null,
+		"display_name": "fact-model",
+		"name": "fact-model",
+		"revision_timestamp": "2016-05-20T00:44:56.960341",
+		"state": "active",
+		"id": "6896e21b-208d-44ad-8cca-7385282d174c"
+	},
+	{
+		"vocabulary_id": null,
+		"display_name": "field",
+		"name": "field",
+		"revision_timestamp": "2016-05-20T00:44:56.960341",
+		"state": "active",
+		"id": "362ea5be-a95f-42d5-90d9-55ac1f6245c5"
+	},
+	{
+		"vocabulary_id": null,
+		"display_name": "geothermal",
+		"name": "geothermal",
+		"revision_timestamp": "2016-05-20T00:44:56.960341",
+		"state": "active",
+		"id": "3f323051-fbd3-4715-bc13-e2fa5e65d369"
+	},
+	{
+		"vocabulary_id": null,
+		"display_name": "geothermex",
+		"name": "geothermex",
+		"revision_timestamp": "2016-05-20T00:44:56.960341",
+		"state": "active",
+		"id": "98f6c56a-4989-42e4-8fa9-fe7efd03cffd"
+	},
+	{
+		"vocabulary_id": null,
+		"display_name": "idaho",
+		"name": "idaho",
+		"revision_timestamp": "2016-05-20T00:44:56.960341",
+		"state": "active",
+		"id": "f1a268ea-2957-4746-af3b-ee1648638059"
+	},
+	{
+		"vocabulary_id": null,
+		"display_name": "logical-model",
+		"name": "logical-model",
+		"revision_timestamp": "2016-05-20T00:44:56.960341",
+		"state": "active",
+		"id": "ea0ced2b-a239-4005-abd7-1fd6f80bcd93"
+	},
+	{
+		"vocabulary_id": null,
+		"display_name": "power-plant",
+		"name": "power-plant",
+		"revision_timestamp": "2016-05-20T00:44:56.960341",
+		"state": "active",
+		"id": "75b2f5d5-a85f-4cf7-9203-aaf03b8ec1f3"
+	},
+	{
+		"vocabulary_id": null,
+		"display_name": "raft-river",
+		"name": "raft-river",
+		"revision_timestamp": "2016-05-20T00:44:56.960341",
+		"state": "active",
+		"id": "69f32492-3433-45e1-91cb-050557881536"
+	},
+	{
+		"vocabulary_id": null,
+		"display_name": "us-geothermal",
+		"name": "us-geothermal",
+		"revision_timestamp": "2016-05-20T00:44:56.960341",
+		"state": "active",
+		"id": "862161ec-8997-4f7a-b3d6-e527ac9805b7"
+	},
+	{
+		"vocabulary_id": null,
+		"display_name": "well",
+		"name": "well",
+		"revision_timestamp": "2016-05-20T00:44:56.960341",
+		"state": "active",
+		"id": "9e21934e-ae6c-4ef6-bddb-287632a81508"
+	}],
+	"title": "Raft River Geothermal Area Data Models - Conceptual, Logical and Fact Models",
+	"tracking_summary": {
+		"total": 7,
+		"recent": 0
+	},
+	"groups": [],
+	"relationships_as_subject": [],
+	"revision_timestamp": "2016-05-20T00:44:56.960341",
+	"name": "raft-river-geothermal-area-data-models-conceptual-logical-and-fact-models",
+	"isopen": true,
+	"url": null,
+	"notes": "Conceptual and Logical Data Model for Geothermal Data Concerning Wells, Fields, Power Plants and Related Analyses at Raft River a. Logical Model for Geothermal Data Concerning Wells, Fields, Power Plants and Related Analyses, David Cuyler 2010 b. Fact Model for Geothermal Data Concerning Wells, Fields, Power Plants and Related Analyses, David Cuyler 2010 Derived from Tables, Figures and other Content in Reports from the Raft River Geothermal Project: \"Technical Report on the Raft River Geothermal Resource, Cassia County, Idaho,\" GeothermEx, Inc., August 2002. \"Results from the Short-Term Well Testing Program at the Raft River Geothermal Field, Cassia County, Idaho,\" GeothermEx, Inc., October 2004. ",
+	"license_title": "Creative Commons Attribution",
+	"extras": [{
+		"key": "harvest_source_id",
+		"value": "8d4de31c-979c-4b50-be6b-ea3c72453ff6"
+	},
+	{
+		"key": "issued",
+		"value": "2012-07-19"
+	},
+	{
+		"key": "resource-type",
+		"value": "Dataset"
+	},
+	{
+		"key": "source_hash",
+		"value": "097f50133e3ad4937c077935d94baf968bd82f64"
+	},
+	{
+		"key": "accessLevel",
+		"value": "public"
+	},
+	{
+		"key": "spatial",
+		"value": "{\"type\":\"Polygon\",\"coordinates\":[[[-113.39,42.09],[-113.37,42.09],[-113.37,42.11],[-113.39,42.11],[-113.39,42.09]]]}"
+	},
+	{
+		"key": "catalog_conformsTo",
+		"value": "https:\/\/project-open-data.cio.gov\/v1.1\/schema"
+	},
+	{
+		"key": "catalog_@context",
+		"value": "https:\/\/project-open-data.cio.gov\/v1.1\/schema\/catalog.jsonld"
+	},
+	{
+		"key": "catalog_describedBy",
+		"value": "https:\/\/project-open-data.cio.gov\/v1.1\/schema\/catalog.json"
+	},
+	{
+		"key": "format",
+		"value": "application\/xml"
+	},
+	{
+		"key": "harvest_source_title",
+		"value": "Energy JSON"
+	},
+	{
+		"key": "source_schema_version",
+		"value": "1.1"
+	},
+	{
+		"key": "programCode",
+		"value": ["019:006"]
+	},
+	{
+		"key": "bureauCode",
+		"value": ["019:20"]
+	},
+	{
+		"key": "landingPage",
+		"value": "http:\/\/gdr.openei.org\/submissions\/234"
+	},
+	{
+		"key": "harvest_object_id",
+		"value": "7ebe42e7-ca4b-4402-b66f-23f41250c921"
+	},
+	{
+		"key": "accessURL",
+		"value": "http:\/\/gdr.openei.org\/files\/234\/raftriverU14.xml"
+	},
+	{
+		"key": "publisher",
+		"value": "Sandia National Laboratories"
+	},
+	{
+		"key": "license",
+		"value": "https:\/\/creativecommons.org\/licenses\/by\/4.0\/"
+	},
+	{
+		"key": "modified",
+		"value": "2012-07-19"
+	},
+	{
+		"key": "source_datajson_identifier",
+		"value": true
+	},
+	{
+		"key": "dataQuality",
+		"value": true
+	},
+	{
+		"key": "identifier",
+		"value": "http:\/\/en.openei.org\/doe-opendata\/dataset\/f0000000-e214-4b72-acd2-000000000234"
+	},
+	{
+		"state": "active",
+		"key": "harvest_object_id",
+		"value": "7ebe42e7-ca4b-4402-b66f-23f41250c921"
+	},
+	{
+		"state": "active",
+		"key": "harvest_source_id",
+		"value": "8d4de31c-979c-4b50-be6b-ea3c72453ff6"
+	},
+	{
+		"state": "active",
+		"key": "harvest_source_title",
+		"value": "Energy JSON"
+	}],
+	"license_url": "http:\/\/www.opendefinition.org\/licenses\/cc-by",
+	"organization": {
+		"description": "",
+		"created": "2013-05-18T11:31:21.471948",
+		"title": "Department of Energy",
+		"name": "doe-gov",
+		"revision_timestamp": "2013-05-31T20:48:37.771905",
+		"is_organization": true,
+		"state": "active",
+		"image_url": "http:\/\/energy.gov\/sites\/prod\/files\/styles\/imagelink\/public\/DoE-Logo.jpeg",
+		"revision_id": "14e1d3c1-4cc7-460c-bf1c-b10e3429b4b0",
+		"type": "organization",
+		"id": "735d0118-b2a7-4246-a0e3-608b0fa8d1ec",
+		"approval_status": "approved"
+	},
+	"revision_id": "6953310f-8231-4f75-a8f1-f4a19e95bb14"
+}

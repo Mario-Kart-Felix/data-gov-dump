@@ -1,0 +1,193 @@
+{
+	"owner_org": "bd2cdd5a-4d65-46c0-9937-c8381175f104",
+	"maintainer": null,
+	"relationships_as_object": [],
+	"private": false,
+	"maintainer_email": null,
+	"num_tags": 0,
+	"id": "073a09d8-16cb-4db7-9bc9-ec8d50133ba7",
+	"metadata_created": "2016-05-11T20:35:59.647410",
+	"metadata_modified": "2016-05-11T20:35:59.647410",
+	"author": null,
+	"author_email": null,
+	"state": "active",
+	"version": null,
+	"license_id": null,
+	"type": "dataset",
+	"resources": [{
+		"resource_group_id": "60303a83-1cca-401c-823d-de7d50b0a7c8",
+		"cache_last_updated": null,
+		"revision_timestamp": "2016-05-11T20:35:59.647410",
+		"webstore_last_updated": null,
+		"id": "dc76c3dd-8b0b-4c01-941b-5d5638a009f8",
+		"size": null,
+		"state": "active",
+		"last_modified": null,
+		"hash": "",
+		"description": "",
+		"format": "",
+		"tracking_summary": {
+			"total": 4,
+			"recent": 1
+		},
+		"mimetype_inner": null,
+		"resource_locator_protocol": "",
+		"revision_id": "8eb01ccc-04bb-4797-acb3-e0d9acf4c26f",
+		"mimetype": null,
+		"cache_url": null,
+		"name": "Web Page",
+		"created": "2016-05-11T16:35:59.807281",
+		"url": "http:\/\/dx.doi.org\/10.5066\/F7F47M5C",
+		"webstore_url": null,
+		"resource_locator_function": "",
+		"position": 0,
+		"no_real_name": true,
+		"resource_type": null
+	}],
+	"num_resources": 1,
+	"tags": [],
+	"title": "Census_sum_15",
+	"tracking_summary": {
+		"total": 8,
+		"recent": 0
+	},
+	"groups": [],
+	"relationships_as_subject": [],
+	"revision_timestamp": "2016-05-11T20:35:59.647410",
+	"name": "census-sum-15",
+	"isopen": false,
+	"url": null,
+	"notes": "The GIS layer \"Census_sum_15\" provides a standardized tool for examining spatial patterns in abundance and demographic trends of the southern sea otter (Enhydra lutris nereis), based on data collected during the spring 2015 range-wide census. The USGS range-wide sea otter census has been undertaken twice a year since 1982, once in May and once in October, using consistent methodology involving both ground-based and aerial-based counts. The spring census is considered more accurate than the fall count, and provides the primary basis for gauging population trends by State and Federal management agencies. This Shape file includes a series of summary statistics derived from the raw census data, including sea otter density (otters per square km of habitat), linear density (otters per km of coastline), relative pup abundance (ratio of pups to independent animals) and 5-year population trend (calculated as exponential rate of change). All statistics are calculated and plotted for small sections of habitat in order to illustrate local variation in these statistics across the entire mainland distribution of sea otters in California (as of 2015). Sea otter habitat is considered to extend offshore from the mean low tide line and out to the 60m isobath: this depth range includes over 99% of sea otter feeding dives, based on dive-depth data from radio tagged sea otters (Tinker et al 2006, 2007). Sea otter distribution in California (the mainland range) is considered to comprise this band of potential habitat stretching along the coast of California, and bounded to the north and south by range limits defined as \"the points farthest from the range center at which 5 or more otters are counted within a 10km contiguous stretch of coastline (as measured along the 10m bathymetric contour) during the two most recent spring censuses, or at which these same criteria were met in the previous year\". The polygon corresponding to the range definition was then sub-divided into onshore\/offshore strips roughly 500 meters in width. The boundaries between these strips correspond to ATOS (As-The-Otter-Swims) points, which are arbitrary locations established approximately every 500 meters along a smoothed 5 fathom bathymetric contour (line) offshore of the State of California.",
+	"license_title": null,
+	"extras": [{
+		"key": "bbox-east-long",
+		"value": "-120.277808487"
+	},
+	{
+		"key": "resource-type",
+		"value": "dataset"
+	},
+	{
+		"key": "bbox-north-lat",
+		"value": "37.200978365"
+	},
+	{
+		"key": "coupled-resource",
+		"value": "[]"
+	},
+	{
+		"key": "guid",
+		"value": ""
+	},
+	{
+		"key": "spatial_harvester",
+		"value": true
+	},
+	{
+		"key": "bbox-south-lat",
+		"value": "34.390245722"
+	},
+	{
+		"key": "spatial-reference-system",
+		"value": ""
+	},
+	{
+		"key": "spatial",
+		"value": "{\"type\": \"Polygon\", \"coordinates\": [[[-122.423222821, 34.390245722], [-120.277808487, 34.390245722], [-120.277808487, 37.200978365], [-122.423222821, 37.200978365], [-122.423222821, 34.390245722]]]}"
+	},
+	{
+		"key": "progress",
+		"value": "completed"
+	},
+	{
+		"key": "access_constraints",
+		"value": "[\"Use Constraints: The authors of these data suggest that users direct any questions pertaining to appropriate use or assistance with understanding limitations and interpretation of the data to the individuals\/organization listed in the Point of Contact section.\", \"Access Constraints: None\"]"
+	},
+	{
+		"key": "temporal-extent-begin",
+		"value": "9999-01-01"
+	},
+	{
+		"key": "contact-email",
+		"value": "ttinker@usgs.gov"
+	},
+	{
+		"key": "bbox-west-long",
+		"value": "-122.423222821"
+	},
+	{
+		"key": "metadata-date",
+		"value": "2015-09-14"
+	},
+	{
+		"key": "dataset-reference-date",
+		"value": "[{\"type\": \"publication\", \"value\": \"2015-01-01\"}]"
+	},
+	{
+		"key": "frequency-of-update",
+		"value": "annually"
+	},
+	{
+		"key": "licence",
+		"value": "[\"Unless otherwise stated, all data, metadata and related materials are considered to satisfy the quality standards relative to the purpose for which the data were collected. Although these data and associated metadata have been reviewed for accuracy and completeness and approved for release by the U.S. Geological Survey (USGS), no warranty expressed or implied is made regarding the display or utility of the data on any other system or for general or scientific purposes, nor shall the act of distribution constitute any such warranty.  Any use of trade, firm, or product names is for descriptive purposes only and does not imply endorsement by the U.S. Government.\"]"
+	},
+	{
+		"key": "metadata_type",
+		"value": "geospatial"
+	},
+	{
+		"key": "responsible-party",
+		"value": "[{\"name\": \"US Geological Survey\", \"roles\": [\"pointOfContact\"]}]"
+	},
+	{
+		"key": "temporal-extent-end",
+		"value": "9999-01-01"
+	},
+	{
+		"key": "spatial-data-service-type",
+		"value": ""
+	},
+	{
+		"key": "metadata-language",
+		"value": ""
+	},
+	{
+		"package_id": "073a09d8-16cb-4db7-9bc9-ec8d50133ba7",
+		"value": "central california coast, habitat, aerial counts, sea otter census, coast, southern california coast, trends, california, shore counts",
+		"revision_timestamp": "2016-05-11T20:35:59.647410",
+		"state": "active",
+		"key": "tags",
+		"revision_id": "8eb01ccc-04bb-4797-acb3-e0d9acf4c26f",
+		"id": "63e4f950-171e-455d-a9d9-e6aa9b5a8835"
+	},
+	{
+		"state": "active",
+		"key": "harvest_object_id",
+		"value": "e6072a84-763a-42bb-a243-b6e6e5f832f1"
+	},
+	{
+		"state": "active",
+		"key": "harvest_source_id",
+		"value": "b0262658-011b-4558-9cfa-1b5a276def01"
+	},
+	{
+		"state": "active",
+		"key": "harvest_source_title",
+		"value": "Western Ecological Research Center (WERC), USGS"
+	}],
+	"organization": {
+		"description": "http:\/\/www.usgs.gov\/\r\nThe USGS is a federal science agency that provides impartial information on the health of our ecosystems and environment, the natural hazards that threaten us, the natural resources we rely on, the impacts of climate and land-use change, and the core science systems that help us provide timely, relevant, and useable information.",
+		"created": "2013-03-14T03:44:38.263357",
+		"title": "U.S. Geological Survey, Department of the Interior",
+		"name": "usgs-gov",
+		"revision_timestamp": "2014-09-02T13:43:52.167023",
+		"is_organization": true,
+		"state": "active",
+		"image_url": "http:\/\/pubs.usgs.gov\/sir\/2004\/5296\/04-5296_confluence_park\/usgs_logo.gif",
+		"revision_id": "2858aa99-9501-4f96-82e5-9647b968ed66",
+		"type": "organization",
+		"id": "bd2cdd5a-4d65-46c0-9937-c8381175f104",
+		"approval_status": "approved"
+	},
+	"revision_id": "8eb01ccc-04bb-4797-acb3-e0d9acf4c26f"
+}

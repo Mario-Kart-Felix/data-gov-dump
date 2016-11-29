@@ -1,0 +1,224 @@
+{
+	"owner_org": "3609164c-4c49-4a44-9179-23163027dc0a",
+	"maintainer": "FDA Enterprise Data Inventory",
+	"relationships_as_object": [],
+	"private": false,
+	"maintainer_email": "FDA_Enterprise_Data_Inventory@fda.hhs.gov",
+	"num_tags": 7,
+	"id": "d1f6cfb1-c926-47c6-9fb2-c84f29cd9289",
+	"metadata_created": "2016-04-06T23:18:45.844101",
+	"metadata_modified": "2016-10-07T14:54:07.249711",
+	"author": null,
+	"author_email": null,
+	"state": "active",
+	"version": null,
+	"license_id": "other-license-specified",
+	"type": "dataset",
+	"resources": [{
+		"resource_group_id": "f8bb5830-9734-454e-a626-6ffde2b81c99",
+		"cache_last_updated": null,
+		"revision_timestamp": "2016-04-06T23:18:45.844101",
+		"webstore_last_updated": null,
+		"id": "9da51016-d06d-49ae-885a-4b6169d4631d",
+		"size": null,
+		"state": "active",
+		"hash": "",
+		"description": "ShellEggsRecallList2010.xls",
+		"format": "Excel",
+		"tracking_summary": {
+			"total": 31,
+			"recent": 2
+		},
+		"mimetype_inner": null,
+		"mimetype": "application\/unknown",
+		"cache_url": null,
+		"name": "Excel",
+		"created": "2016-04-06T19:18:46.236447",
+		"url": "http:\/\/www.accessdata.fda.gov\/scripts\/shelleggsrecall\/ShellEggsRecallList2010.xls",
+		"webstore_url": null,
+		"last_modified": null,
+		"position": 0,
+		"revision_id": "74e1dc4e-0b41-4d95-8eb5-c2fc50369761",
+		"resource_type": null
+	}],
+	"num_resources": 1,
+	"tags": [{
+		"vocabulary_id": null,
+		"display_name": "community-health",
+		"name": "community-health",
+		"revision_timestamp": "2016-04-06T23:18:45.844101",
+		"state": "active",
+		"id": "5112a06c-ad03-4824-b58f-9bb02da0061a"
+	},
+	{
+		"vocabulary_id": null,
+		"display_name": "food",
+		"name": "food",
+		"revision_timestamp": "2016-04-06T23:18:45.844101",
+		"state": "active",
+		"id": "b39ce4ff-c86e-4d67-bddd-ef6174b5da79"
+	},
+	{
+		"vocabulary_id": null,
+		"display_name": "health",
+		"name": "health",
+		"revision_timestamp": "2016-04-06T23:18:45.844101",
+		"state": "active",
+		"id": "a4e494b6-f977-4148-acc0-b91e5b1275f6"
+	},
+	{
+		"vocabulary_id": null,
+		"display_name": "market",
+		"name": "market",
+		"revision_timestamp": "2016-04-06T23:18:45.844101",
+		"state": "active",
+		"id": "789f720d-47b9-4bc7-bb4b-9d1cbb0df541"
+	},
+	{
+		"vocabulary_id": null,
+		"display_name": "notifications",
+		"name": "notifications",
+		"revision_timestamp": "2016-04-06T23:18:45.844101",
+		"state": "active",
+		"id": "c8dc9c69-5e48-4064-a7d7-a40947082762"
+	},
+	{
+		"vocabulary_id": null,
+		"display_name": "recalls",
+		"name": "recalls",
+		"revision_timestamp": "2016-04-06T23:18:45.844101",
+		"state": "active",
+		"id": "eac19278-1b68-40e6-87a6-a2aaa6bb32b6"
+	},
+	{
+		"vocabulary_id": null,
+		"display_name": "safety",
+		"name": "safety",
+		"revision_timestamp": "2016-04-06T23:18:45.844101",
+		"state": "active",
+		"id": "ce015bbe-e863-495f-bd99-a9837e240898"
+	}],
+	"title": "FDA Shell Egg Recalls",
+	"tracking_summary": {
+		"total": 16,
+		"recent": 2
+	},
+	"groups": [],
+	"relationships_as_subject": [],
+	"revision_timestamp": "2016-07-15T04:23:57.324742",
+	"name": "fda-shell-egg-recalls-0efee",
+	"isopen": true,
+	"url": null,
+	"notes": "<p>Contains data for FDA shell egg recalls.<\/p>\n",
+	"license_title": "Other License Specified",
+	"extras": [{
+		"key": "publisher",
+		"value": "Department of Health &amp; Human Services"
+	},
+	{
+		"key": "identifier",
+		"value": "dc522ec9-a996-440b-b94e-972136ab80c0"
+	},
+	{
+		"key": "license",
+		"value": "http:\/\/opendefinition.org\/licenses\/odc-odbl\/"
+	},
+	{
+		"key": "harvest_source_id",
+		"value": "15c538b5-31a0-474e-8ba5-c85ee421cb4d"
+	},
+	{
+		"key": "catalog_@context",
+		"value": "https:\/\/project-open-data.cio.gov\/v1.1\/schema\/catalog.jsonld"
+	},
+	{
+		"key": "temporal",
+		"value": "2010-01-01T00:00:00-05:00\/2010-12-31T00:00:00-05:00"
+	},
+	{
+		"key": "resource-type",
+		"value": "Dataset"
+	},
+	{
+		"key": "modified",
+		"value": "2016-07-22"
+	},
+	{
+		"key": "harvest_source_title",
+		"value": "Healthdata.gov"
+	},
+	{
+		"key": "source_schema_version",
+		"value": "1.1"
+	},
+	{
+		"key": "source_datajson_identifier",
+		"value": true
+	},
+	{
+		"key": "language",
+		"value": ["en"]
+	},
+	{
+		"key": "bureauCode",
+		"value": ["009:10"]
+	},
+	{
+		"key": "catalog_@id",
+		"value": "https:\/\/www.healthdata.gov\/data.json"
+	},
+	{
+		"key": "programCode",
+		"value": ["009:000"]
+	},
+	{
+		"key": "accessLevel",
+		"value": "public"
+	},
+	{
+		"key": "harvest_object_id",
+		"value": "86789ca8-e79d-4bb2-864c-88f59c52a40b"
+	},
+	{
+		"key": "source_hash",
+		"value": "0673f959fedeb92216b4c3be01a657f301ae6502"
+	},
+	{
+		"key": "catalog_conformsTo",
+		"value": "https:\/\/project-open-data.cio.gov\/v1.1\/schema"
+	},
+	{
+		"key": "catalog_describedBy",
+		"value": "https:\/\/project-open-data.cio.gov\/v1.1\/schema\/catalog.json"
+	},
+	{
+		"state": "active",
+		"key": "harvest_object_id",
+		"value": "86789ca8-e79d-4bb2-864c-88f59c52a40b"
+	},
+	{
+		"state": "active",
+		"key": "harvest_source_id",
+		"value": "15c538b5-31a0-474e-8ba5-c85ee421cb4d"
+	},
+	{
+		"state": "active",
+		"key": "harvest_source_title",
+		"value": "Healthdata.gov"
+	}],
+	"organization": {
+		"description": "",
+		"created": "2013-08-26T15:35:30.958442",
+		"title": "U.S. Department of Health & Human Services",
+		"name": "hhs-gov",
+		"revision_timestamp": "2014-02-28T21:57:27.766656",
+		"is_organization": true,
+		"state": "active",
+		"image_url": "http:\/\/www.healthdata.gov\/sites\/all\/themes\/hdtheme\/logo-dark.png",
+		"revision_id": "eff89d9e-dc00-4101-bbd4-750e1adcc5bb",
+		"type": "organization",
+		"id": "3609164c-4c49-4a44-9179-23163027dc0a",
+		"approval_status": "approved"
+	},
+	"revision_id": "fcfa09f5-dd84-4e51-9e5a-2d0012fcbb9b"
+}

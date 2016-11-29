@@ -1,0 +1,206 @@
+{
+	"owner_org": "ff9ae098-eccc-41d8-bfcd-5e8ed047db05",
+	"maintainer": "Dorothy Glasgow",
+	"relationships_as_object": [],
+	"private": false,
+	"maintainer_email": "VANCVAS@va.gov",
+	"num_tags": 2,
+	"id": "e929882f-7d92-4838-a76b-06849510eff4",
+	"metadata_created": "2014-04-18T17:21:40.710340",
+	"metadata_modified": "2015-10-08T21:50:23.468422",
+	"author": null,
+	"author_email": null,
+	"state": "active",
+	"version": null,
+	"license_id": "us-pd",
+	"type": "dataset",
+	"resources": [{
+		"resource_group_id": "0a5c5fbc-c558-4072-b68b-63a9d399d3f2",
+		"cache_last_updated": null,
+		"revision_timestamp": "2015-03-13T17:25:29.052107",
+		"webstore_last_updated": null,
+		"id": "0f118416-f61d-4efe-b7da-c1b7516bccb5",
+		"size": null,
+		"state": "active",
+		"hash": "",
+		"description": "DataGov_GDX_FY09_State_and_County.csv",
+		"format": "CSV",
+		"tracking_summary": {
+			"total": 24,
+			"recent": 1
+		},
+		"mimetype_inner": null,
+		"revision_id": "75e1de85-a20c-40e1-badf-dfd7f1ee0a80",
+		"mimetype": "text\/csv",
+		"cache_url": null,
+		"name": "Comma Separated Values File",
+		"created": "2014-04-18T13:21:41.040096",
+		"url": "http:\/\/www.va.gov\/VETDATA\/docs\/Datagov\/DataGov_GDX_FY09_State_and_County.csv",
+		"webstore_url": null,
+		"last_modified": null,
+		"position": 0,
+		"no_real_name": true,
+		"resource_type": null
+	}],
+	"num_resources": 1,
+	"tags": [{
+		"vocabulary_id": null,
+		"display_name": "expenditure",
+		"name": "expenditure",
+		"revision_timestamp": "2014-04-18T17:21:40.710340",
+		"state": "active",
+		"id": "73d7c60a-34fd-4618-abc7-07c151873efe"
+	},
+	{
+		"vocabulary_id": null,
+		"display_name": "veteran",
+		"name": "veteran",
+		"revision_timestamp": "2014-04-18T17:21:40.710340",
+		"state": "active",
+		"id": "7561bea1-6f6c-4e42-96cc-7a5271ea4f8c"
+	}],
+	"title": "Veterans Affairs Geographic Distribution of Expenditures FY09 by State and County",
+	"tracking_summary": {
+		"total": 53,
+		"recent": 3
+	},
+	"groups": [],
+	"relationships_as_subject": [],
+	"revision_timestamp": "2015-05-21T23:17:03.968547",
+	"name": "veterans-affairs-geographic-distribution-of-expenditures-fy09-by-state-and-count",
+	"isopen": true,
+	"url": null,
+	"notes": "The Geographic Distribution of VA Expenditures (GDX)  is an annual report that shows estimated VA expenditures for major programmatic areas by geographic area (state, county, and congressional district). The major programmatic areas are: Compensation and Pension; Readjustment (Education) and Vocational Rehabilitation; Insurance; Construction; and, Medical and Administrative.",
+	"license_title": "U.S. Government Work",
+	"extras": [{
+		"key": "harvest_source_id",
+		"value": "e868f753-9395-4666-a30c-219334a64c6b"
+	},
+	{
+		"key": "resource-type",
+		"value": "Dataset"
+	},
+	{
+		"key": "references",
+		"value": ["http:\/\/www.va.gov\/VETDATA\/docs\/Datagov\/DataGov_GDX_FY09_Technical_Notes.doc"]
+	},
+	{
+		"key": "source_hash",
+		"value": "f5d66d1fb46239adf91296266d82a9dbe0d3fbf3"
+	},
+	{
+		"key": "temporal",
+		"value": "2008-10-01\/2009-09-30"
+	},
+	{
+		"key": "theme",
+		"value": ["Section 9. Federal Government Finances and Employment"]
+	},
+	{
+		"key": "spatial",
+		"value": "United States + Puerto Rico, Guam"
+	},
+	{
+		"key": "catalog_conformsTo",
+		"value": "https:\/\/project-open-data.cio.gov\/v1.1\/schema"
+	},
+	{
+		"key": "describedBy",
+		"value": "http:\/\/www.va.gov\/VETDATA\/docs\/Datagov\/DataGov_GDX_FY09_Technical_Notes.doc"
+	},
+	{
+		"key": "catalog_@context",
+		"value": "https:\/\/project-open-data.cio.gov\/v1.1\/schema\/catalog.jsonld"
+	},
+	{
+		"key": "catalog_describedBy",
+		"value": "https:\/\/project-open-data.cio.gov\/v1.1\/schema\/catalog.json"
+	},
+	{
+		"key": "harvest_source_title",
+		"value": "VA JSON"
+	},
+	{
+		"key": "source_schema_version",
+		"value": "1.1"
+	},
+	{
+		"key": "programCode",
+		"value": ["029:086"]
+	},
+	{
+		"key": "bureauCode",
+		"value": ["029:00"]
+	},
+	{
+		"key": "accessLevel",
+		"value": "public"
+	},
+	{
+		"key": "harvest_object_id",
+		"value": "f3c49579-9c24-4918-b95c-b4f47a18f7db"
+	},
+	{
+		"key": "publisher",
+		"value": "Department of Veterans Affairs"
+	},
+	{
+		"key": "license",
+		"value": "http:\/\/www.usa.gov\/publicdomain\/label\/1.0\/"
+	},
+	{
+		"key": "language",
+		"value": ["en-US"]
+	},
+	{
+		"key": "modified",
+		"value": "2010-05-28"
+	},
+	{
+		"key": "source_datajson_identifier",
+		"value": true
+	},
+	{
+		"key": "accrualPeriodicity",
+		"value": "R\/P1Y"
+	},
+	{
+		"key": "dataQuality",
+		"value": true
+	},
+	{
+		"key": "identifier",
+		"value": "VA-OPP-OPP-008"
+	},
+	{
+		"state": "active",
+		"key": "harvest_object_id",
+		"value": "f3c49579-9c24-4918-b95c-b4f47a18f7db"
+	},
+	{
+		"state": "active",
+		"key": "harvest_source_id",
+		"value": "e868f753-9395-4666-a30c-219334a64c6b"
+	},
+	{
+		"state": "active",
+		"key": "harvest_source_title",
+		"value": "VA JSON"
+	}],
+	"license_url": "http:\/\/www.usa.gov\/publicdomain\/label\/1.0\/",
+	"organization": {
+		"description": "",
+		"created": "2013-05-18T11:31:11.529883",
+		"title": "Department of Veterans Affairs",
+		"name": "va-gov",
+		"revision_timestamp": "2014-11-19T19:55:14.636069",
+		"is_organization": true,
+		"state": "active",
+		"image_url": "https:\/\/raw.githubusercontent.com\/GSA\/logo\/master\/va.png",
+		"revision_id": "7c651ccc-eb67-439e-82dd-1ae7fff33f63",
+		"type": "organization",
+		"id": "ff9ae098-eccc-41d8-bfcd-5e8ed047db05",
+		"approval_status": "approved"
+	},
+	"revision_id": "be438e7c-c182-4aa3-a23c-392193f00213"
+}

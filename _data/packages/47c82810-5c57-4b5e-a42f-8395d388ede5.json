@@ -1,0 +1,184 @@
+{
+	"owner_org": "e811f0b4-451f-4896-9e8f-fc6802837819",
+	"maintainer": null,
+	"relationships_as_object": [],
+	"private": false,
+	"maintainer_email": null,
+	"num_tags": 0,
+	"id": "47c82810-5c57-4b5e-a42f-8395d388ede5",
+	"metadata_created": "2016-04-18T19:49:33.796473",
+	"metadata_modified": "2016-04-18T19:49:33.796473",
+	"author": null,
+	"author_email": null,
+	"state": "active",
+	"version": null,
+	"license_id": null,
+	"type": "dataset",
+	"resources": [{
+		"resource_group_id": "f4b9e662-31a9-43be-ae05-8e6180e35630",
+		"cache_last_updated": null,
+		"revision_timestamp": "2016-04-18T19:49:33.796473",
+		"webstore_last_updated": null,
+		"id": "56baf3ef-e0c2-4e62-9d10-e1403a799ce5",
+		"size": null,
+		"state": "active",
+		"last_modified": null,
+		"hash": "",
+		"description": "None",
+		"format": "NetCDF",
+		"tracking_summary": {
+			"total": 2,
+			"recent": 1
+		},
+		"mimetype_inner": null,
+		"resource_locator_protocol": "",
+		"mimetype": null,
+		"cache_url": null,
+		"name": "http",
+		"created": "2016-04-18T15:49:33.867139",
+		"url": "http:\/\/aviationweather.gov\/wifs",
+		"webstore_url": null,
+		"resource_locator_function": "download",
+		"position": 0,
+		"revision_id": "27f3ad08-4293-4e3b-9ea3-b8bc269d2074",
+		"resource_type": null
+	}],
+	"num_resources": 1,
+	"tags": [],
+	"title": "World Area Forecast System (WAFS)",
+	"tracking_summary": {
+		"total": 7,
+		"recent": 1
+	},
+	"groups": [],
+	"relationships_as_subject": [],
+	"revision_timestamp": "2016-04-18T19:49:33.796473",
+	"name": "world-area-forecast-system-wafs27179",
+	"isopen": false,
+	"url": null,
+	"notes": "The World Area Forecast System (WAFS) is a worldwide system by which world area forecast centers provide aeronautical meteorological en-route forecasts in uniform standardized formats.",
+	"license_title": null,
+	"extras": [{
+		"key": "bbox-east-long",
+		"value": "360"
+	},
+	{
+		"key": "contact-email",
+		"value": ""
+	},
+	{
+		"key": "metadata-language",
+		"value": "eng"
+	},
+	{
+		"key": "bbox-west-long",
+		"value": "0"
+	},
+	{
+		"key": "metadata-date",
+		"value": "2015-11-23"
+	},
+	{
+		"key": "dataset-reference-date",
+		"value": "[{\"type\": \"creation\", \"value\": \"2015-11-23\"}]"
+	},
+	{
+		"key": "resource-type",
+		"value": "dataset"
+	},
+	{
+		"key": "bbox-north-lat",
+		"value": "90"
+	},
+	{
+		"key": "spatial-reference-system",
+		"value": ""
+	},
+	{
+		"key": "graphic-preview-file",
+		"value": "None"
+	},
+	{
+		"key": "coupled-resource",
+		"value": "[]"
+	},
+	{
+		"key": "bbox-south-lat",
+		"value": "-90"
+	},
+	{
+		"key": "licence",
+		"value": "[]"
+	},
+	{
+		"key": "metadata_type",
+		"value": "geospatial"
+	},
+	{
+		"key": "progress",
+		"value": "operational"
+	},
+	{
+		"key": "spatial",
+		"value": "{\"type\": \"Polygon\", \"coordinates\": [[[0.0, -90.0], [360.0, -90.0], [360.0, 90.0], [0.0, 90.0], [0.0, -90.0]]]}"
+	},
+	{
+		"key": "guid",
+		"value": "urn:fdc:www.ncep.noaa.gov:Dataset:WAFS-BLEND-HEIGHT-ABOVE-GROUND:Metadata"
+	},
+	{
+		"key": "spatial-data-service-type",
+		"value": ""
+	},
+	{
+		"key": "access_constraints",
+		"value": "[]"
+	},
+	{
+		"key": "spatial_harvester",
+		"value": true
+	},
+	{
+		"key": "frequency-of-update",
+		"value": ""
+	},
+	{
+		"package_id": "47c82810-5c57-4b5e-a42f-8395d388ede5",
+		"value": "doc\/noaa\/nws\/toc\/nwstg, none, clear air turbulence, icing, wafs, y[ifl]x[cdefghijklm][0-9][0-9] (egrr|kwbc), in-cloud turbulence, turbulence, world area forecast system, doc\/noaa\/nws\/ncep\/awc",
+		"revision_timestamp": "2016-04-18T19:49:33.796473",
+		"state": "active",
+		"key": "tags",
+		"revision_id": "27f3ad08-4293-4e3b-9ea3-b8bc269d2074",
+		"id": "871f3f32-c56a-4af6-a1a8-81c37af76455"
+	},
+	{
+		"state": "active",
+		"key": "harvest_object_id",
+		"value": "1603c522-4c6a-42d5-be13-3a1c71c0d842"
+	},
+	{
+		"state": "active",
+		"key": "harvest_source_id",
+		"value": "2aed8e29-fc5b-4cde-aa66-fb1118fd705e"
+	},
+	{
+		"state": "active",
+		"key": "harvest_source_title",
+		"value": "NOAA CSW Harvest Source"
+	}],
+	"organization": {
+		"description": "",
+		"created": "2013-03-14T03:44:40.434269",
+		"title": "National Oceanic and Atmospheric Administration, Department of Commerce",
+		"name": "noaa-gov",
+		"revision_timestamp": "2013-03-25T23:05:12.923863",
+		"is_organization": true,
+		"state": "active",
+		"image_url": "https:\/\/fortress.wa.gov\/dfw\/score\/score\/images\/noaa_logo.png",
+		"revision_id": "c6d43080-22e1-405e-a83d-f2a512d9e867",
+		"type": "organization",
+		"id": "e811f0b4-451f-4896-9e8f-fc6802837819",
+		"approval_status": "approved"
+	},
+	"revision_id": "27f3ad08-4293-4e3b-9ea3-b8bc269d2074"
+}

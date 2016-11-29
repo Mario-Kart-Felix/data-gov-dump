@@ -1,0 +1,159 @@
+{
+	"owner_org": "71e17980-40e5-444f-961f-db56d26d70a0",
+	"maintainer": null,
+	"relationships_as_object": [],
+	"private": false,
+	"maintainer_email": null,
+	"num_tags": 0,
+	"id": "FRB-4518",
+	"metadata_created": "2013-05-18T09:47:39.356914",
+	"metadata_modified": "2014-01-12T07:22:26.418102",
+	"author": null,
+	"author_email": null,
+	"state": "active",
+	"version": null,
+	"license_id": null,
+	"type": "dataset",
+	"resources": [{
+		"resource_group_id": "2613c236-5dd7-4322-9d75-9b327d1ea6b1",
+		"cache_last_updated": null,
+		"revision_timestamp": "2013-05-25T06:32:19.153455",
+		"webstore_last_updated": null,
+		"id": "6d0d30d4-50ed-4b69-b5ce-1879132c9f29",
+		"size": null,
+		"size_text": "3.9",
+		"state": "active",
+		"hash": "",
+		"description": "09exp_aggr.zip",
+		"format": "TXT",
+		"tracking_summary": {
+			"total": 38,
+			"recent": 1
+		},
+		"mimetype_inner": null,
+		"revision_id": "f21544ce-f030-49cf-a32c-1e071e14e061",
+		"mimetype": null,
+		"cache_url": null,
+		"name": "Text File",
+		"created": "2013-05-18T11:47:39.379352",
+		"url": "http:\/\/www.ffiec.gov\/cra\/xls\/09exp_aggr.zip",
+		"webstore_url": null,
+		"last_modified": null,
+		"position": 0,
+		"no_real_name": true,
+		"resource_type": null
+	}],
+	"num_resources": 1,
+	"tags": [],
+	"title": "2009 Community Reinvestment Act (CRA) Aggregate Data",
+	"tracking_summary": {
+		"total": 188,
+		"recent": 2
+	},
+	"groups": [{
+		"capacity": "public",
+		"description": "",
+		"created": "2013-11-22T10:35:18.366041",
+		"title": "Finance",
+		"name": "finance3432",
+		"is_organization": false,
+		"state": "active",
+		"image_url": "",
+		"revision_id": "e5e90ad5-9611-4201-9f68-859f7adf0429",
+		"type": "group",
+		"id": "405b5dfb-24f8-4b77-9999-745076d64cb2",
+		"approval_status": "approved"
+	}],
+	"relationships_as_subject": [],
+	"revision_timestamp": "2013-05-18T09:47:39.356914",
+	"name": "2009-community-reinvestment-act-cra-aggregate-data",
+	"isopen": false,
+	"url": null,
+	"notes": "2009 data on small business, small farm, and community development lending reported by certain commercial banks and savings institutions, pursuant to the Community Reinvestment Act (CRA).\r",
+	"license_title": null,
+	"extras": [{
+		"key": "data-quality",
+		"value": "TRUE"
+	},
+	{
+		"key": "contact-email",
+		"value": "glenn.eskow@frb.gov"
+	},
+	{
+		"key": "data-dictiionary",
+		"value": "http:\/\/www.ffiec.gov\/cra\/pdf\/09FlatAggSpecs.pdf"
+	},
+	{
+		"key": "issued",
+		"value": "08\/19\/2010"
+	},
+	{
+		"key": "resource-type",
+		"value": "Dataset"
+	},
+	{
+		"key": "dataset-reference-date",
+		"value": "Cy2009"
+	},
+	{
+		"key": "spatial-text",
+		"value": "U.S. States and Territories"
+	},
+	{
+		"key": "theme",
+		"value": ["Section 25. Banking, Finance, and Insurance"]
+	},
+	{
+		"key": "references",
+		"value": ["http:\/\/www.ffiec.gov\/cra\/pdf\/09FlatAggSpecs.pdf"]
+	},
+	{
+		"key": "frequency-of-update",
+		"value": "Annual"
+	},
+	{
+		"key": "metadata-date",
+		"value": "n\/a"
+	},
+	{
+		"key": "access-level",
+		"value": "public"
+	},
+	{
+		"key": "granularity",
+		"value": "Census tract"
+	},
+	{
+		"package_id": "FRB-4518",
+		"value": "dms",
+		"revision_timestamp": "2013-05-18T09:47:39.356914",
+		"state": "active",
+		"key": "metadata-source",
+		"revision_id": "68f296e5-09a8-403b-adb1-57f575194d93",
+		"id": "293f328a-f706-4efe-be31-6fcf39923c1d"
+	},
+	{
+		"package_id": "FRB-4518",
+		"value": "{\"Community Reinvestment Act\",CRA,FFIEC,aggregate,\"small business\",\"small farm\",\"community development\",lending,\"commercial banks\",\"savings institutions\"}",
+		"revision_timestamp": "2014-01-12T07:22:26.418102",
+		"state": "active",
+		"key": "tags",
+		"revision_id": "d229829b-b4b1-4a7d-b813-794562b07a13",
+		"id": "8dcf2d9b-832d-4ad0-8a7f-f9142d8df2a7"
+	}],
+	"organization": {
+		"description": "",
+		"created": "2013-05-18T11:47:39.131587",
+		"title": "Federal Reserve Board",
+		"name": "frb-gov",
+		"revision_timestamp": "2013-05-18T09:47:39.117255",
+		"is_organization": true,
+		"state": "active",
+		"image_url": "",
+		"revision_id": "60d1a516-a4eb-48df-a855-08414c3fae06",
+		"type": "organization",
+		"id": "71e17980-40e5-444f-961f-db56d26d70a0",
+		"approval_status": "approved"
+	},
+	"revision_id": "68f296e5-09a8-403b-adb1-57f575194d93"
+}

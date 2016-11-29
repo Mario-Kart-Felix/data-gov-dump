@@ -1,0 +1,379 @@
+{
+	"owner_org": "735d0118-b2a7-4246-a0e3-608b0fa8d1ec",
+	"maintainer": "Budi Gunawan",
+	"relationships_as_object": [],
+	"private": false,
+	"maintainer_email": "bgunawa@sandia.gov",
+	"num_tags": 18,
+	"id": "1dd93619-53d4-4102-ab41-c0b3d14e9344",
+	"metadata_created": "2016-02-11T14:52:05.291160",
+	"metadata_modified": "2016-09-23T13:04:01.239555",
+	"author": null,
+	"author_email": null,
+	"state": "active",
+	"version": null,
+	"license_id": "cc-by",
+	"type": "dataset",
+	"resources": [{
+		"resource_group_id": "e0dd0826-782d-45e6-9095-94aa9e7db559",
+		"cache_last_updated": null,
+		"revision_timestamp": "2016-09-23T13:04:01.239555",
+		"webstore_last_updated": null,
+		"id": "30c62512-cae0-46b1-b19b-e5a32e7a2291",
+		"size": null,
+		"state": "active",
+		"hash": "",
+		"description": "Velocity contours at two cross-sections, 10 meters and 20 meters downstream of the turbine.",
+		"format": "ZIP",
+		"tracking_summary": {
+			"total": 1,
+			"recent": 1
+		},
+		"mimetype_inner": null,
+		"mimetype": "application\/zip",
+		"cache_url": null,
+		"name": "3-adcp-cross-sections.zip",
+		"created": "2016-02-11T09:52:06.154553",
+		"url": "http:\/\/mhkdr.openei.org\/files\/53\/3_ADCP_Cross-sections.zip",
+		"webstore_url": null,
+		"last_modified": null,
+		"position": 0,
+		"revision_id": "e0e9f941-f87c-4af6-b4d9-b137a0ef207b",
+		"resource_type": null
+	},
+	{
+		"resource_group_id": "e0dd0826-782d-45e6-9095-94aa9e7db559",
+		"cache_last_updated": null,
+		"revision_timestamp": "2016-09-23T13:04:01.239555",
+		"webstore_last_updated": null,
+		"id": "80e025ad-e881-4e7c-b3bf-247d9b9c2448",
+		"size": null,
+		"state": "active",
+		"hash": "",
+		"description": "Inflow velocity and turbulence measurements at 50 meters upstream of the turbine.",
+		"format": "CSV",
+		"tracking_summary": {
+			"total": 2,
+			"recent": 1
+		},
+		"mimetype_inner": null,
+		"mimetype": "text\/csv",
+		"cache_url": null,
+		"name": "4 adv turbulence.csv",
+		"created": "2016-02-11T09:52:06.154563",
+		"url": "http:\/\/mhkdr.openei.org\/files\/53\/4%20ADV%20turbulence.csv",
+		"webstore_url": null,
+		"last_modified": null,
+		"position": 1,
+		"revision_id": "e0e9f941-f87c-4af6-b4d9-b137a0ef207b",
+		"resource_type": null
+	},
+	{
+		"resource_group_id": "e0dd0826-782d-45e6-9095-94aa9e7db559",
+		"cache_last_updated": null,
+		"revision_timestamp": "2016-09-23T13:04:01.239555",
+		"webstore_last_updated": null,
+		"id": "b24d89b0-4872-4d5a-874b-227b604033c6",
+		"size": null,
+		"state": "active",
+		"hash": "",
+		"description": "Description of the uploaded dataset, including canal dimensions and hydraulic properties.",
+		"format": "docx",
+		"tracking_summary": {
+			"total": 1,
+			"recent": 1
+		},
+		"mimetype_inner": null,
+		"mimetype": "application\/vnd.openxmlformats-officedocument.wordprocessingml.document",
+		"cache_url": null,
+		"name": "canal turbine and adcp specifications .docx",
+		"created": "2016-04-27T21:27:06.741048",
+		"url": "http:\/\/mhkdr.openei.org\/files\/53\/Metadata.docx",
+		"webstore_url": null,
+		"last_modified": null,
+		"position": 2,
+		"revision_id": "e0e9f941-f87c-4af6-b4d9-b137a0ef207b",
+		"resource_type": null
+	}],
+	"num_resources": 3,
+	"tags": [{
+		"vocabulary_id": null,
+		"display_name": "adcp",
+		"name": "adcp",
+		"revision_timestamp": "2016-02-11T14:52:05.291160",
+		"state": "active",
+		"id": "73f4cdfc-bcaf-4d17-87db-824b9bd112ce"
+	},
+	{
+		"vocabulary_id": null,
+		"display_name": "adv",
+		"name": "adv",
+		"revision_timestamp": "2016-02-11T14:52:05.291160",
+		"state": "active",
+		"id": "b927a9a0-6561-43fc-a9ff-f711f5a5f64a"
+	},
+	{
+		"vocabulary_id": null,
+		"display_name": "canal",
+		"name": "canal",
+		"revision_timestamp": "2016-02-11T14:52:05.291160",
+		"state": "active",
+		"id": "bcd3c1ec-b1f8-478f-8b15-b1bfbcc2368c"
+	},
+	{
+		"vocabulary_id": null,
+		"display_name": "current",
+		"name": "current",
+		"revision_timestamp": "2016-02-11T14:52:05.291160",
+		"state": "active",
+		"id": "2ef8575d-d588-4c01-be31-b871e6b66e54"
+	},
+	{
+		"vocabulary_id": null,
+		"display_name": "energy",
+		"name": "energy",
+		"revision_timestamp": "2016-02-11T14:52:05.291160",
+		"state": "active",
+		"id": "b778e6f8-a8f8-4ad6-968b-e9789c6afe2d"
+	},
+	{
+		"vocabulary_id": null,
+		"display_name": "hydrokinetic",
+		"name": "hydrokinetic",
+		"revision_timestamp": "2016-02-11T14:52:05.291160",
+		"state": "active",
+		"id": "87031483-72d6-457d-9dd2-3e403f2849aa"
+	},
+	{
+		"vocabulary_id": null,
+		"display_name": "impact-assessment",
+		"name": "impact-assessment",
+		"revision_timestamp": "2016-02-11T14:52:05.291160",
+		"state": "active",
+		"id": "a4751e44-784e-4a49-ad60-4a5c444a1be3"
+	},
+	{
+		"vocabulary_id": null,
+		"display_name": "marine",
+		"name": "marine",
+		"revision_timestamp": "2016-02-11T14:52:05.291160",
+		"state": "active",
+		"id": "f2ee2106-f44e-4421-ac64-6ed0f2451d6c"
+	},
+	{
+		"vocabulary_id": null,
+		"display_name": "mhk",
+		"name": "mhk",
+		"revision_timestamp": "2016-02-11T14:52:05.291160",
+		"state": "active",
+		"id": "a4efdc0e-8038-4a07-a08f-df8d5df9657c"
+	},
+	{
+		"vocabulary_id": null,
+		"display_name": "power",
+		"name": "power",
+		"revision_timestamp": "2016-02-11T14:52:05.291160",
+		"state": "active",
+		"id": "eb008bfb-077a-445c-b461-3f704b8e22b1"
+	},
+	{
+		"vocabulary_id": null,
+		"display_name": "roza-canal-yakima",
+		"name": "roza-canal-yakima",
+		"revision_timestamp": "2016-02-11T14:52:05.291160",
+		"state": "active",
+		"id": "e355405e-f1fc-496c-8ff0-47a7b2d7fbfd"
+	},
+	{
+		"vocabulary_id": null,
+		"display_name": "survey",
+		"name": "survey",
+		"revision_timestamp": "2016-02-11T14:52:05.291160",
+		"state": "active",
+		"id": "543454a4-7fd6-4570-9509-66c6ec049aed"
+	},
+	{
+		"vocabulary_id": null,
+		"display_name": "turbine",
+		"name": "turbine",
+		"revision_timestamp": "2016-02-11T14:52:05.291160",
+		"state": "active",
+		"id": "1d029805-e462-473d-b6ee-0683c41a820c"
+	},
+	{
+		"vocabulary_id": null,
+		"display_name": "turbulence",
+		"name": "turbulence",
+		"revision_timestamp": "2016-02-11T14:52:05.291160",
+		"state": "active",
+		"id": "041ed27f-37d4-4e47-a176-cc1b08b13c3b"
+	},
+	{
+		"vocabulary_id": null,
+		"display_name": "us-bureau-of-reclamation",
+		"name": "us-bureau-of-reclamation",
+		"revision_timestamp": "2016-02-11T14:52:05.291160",
+		"state": "active",
+		"id": "9e655ec2-c6a8-4747-a66f-3bbd3afe074e"
+	},
+	{
+		"vocabulary_id": null,
+		"display_name": "velocity-deficit",
+		"name": "velocity-deficit",
+		"revision_timestamp": "2016-02-11T14:52:05.291160",
+		"state": "active",
+		"id": "2decb537-368c-4df4-bb8d-48049f679bd6"
+	},
+	{
+		"vocabulary_id": null,
+		"display_name": "vertical-axis",
+		"name": "vertical-axis",
+		"revision_timestamp": "2016-02-11T14:52:05.291160",
+		"state": "active",
+		"id": "cd2579f7-5143-477b-8d8a-19b96b00657e"
+	},
+	{
+		"vocabulary_id": null,
+		"display_name": "water-velocity",
+		"name": "water-velocity",
+		"revision_timestamp": "2016-04-28T01:27:06.537692",
+		"state": "active",
+		"id": "43e7282a-bf89-49c8-894b-4e93dbfc5c9a"
+	}],
+	"title": "Hydrokinetic canal measurements: inflow velocity, wake flow velocity, and turbulence",
+	"tracking_summary": {
+		"total": 9,
+		"recent": 1
+	},
+	"groups": [],
+	"relationships_as_subject": [],
+	"revision_timestamp": "2016-02-11T14:52:05.291160",
+	"name": "hydrokinetic-canal-measurements-inflow-velocity-wake-flow-velocity-and-turbulence",
+	"isopen": true,
+	"url": null,
+	"notes": "The dataset consist of acoustic Doppler current profiler (ADCP) velocity measurements in the wake of a 3-meter diameter vertical-axis hydrokinetic turbine deployed in Roza Canal, Yakima, WA, USA.  A normalized hub-centerline wake velocity profile and two cross-section velocity contours, 10 meters and 20 meters downstream of the turbine, are presented.  Mean velocities and turbulence data, measured using acoustic Doppler velocimeter (ADV) at 50 meters upstream of the turbine, are also presented. Canal dimensions and hydraulic properties, and turbine-related information are also included.\n",
+	"license_title": "Creative Commons Attribution",
+	"extras": [{
+		"key": "harvest_source_id",
+		"value": "8d4de31c-979c-4b50-be6b-ea3c72453ff6"
+	},
+	{
+		"key": "issued",
+		"value": "2014-06-11"
+	},
+	{
+		"key": "resource-type",
+		"value": "Dataset"
+	},
+	{
+		"key": "source_hash",
+		"value": "dd7e4497d2aa58241d1fbffb60bd10107debe20a"
+	},
+	{
+		"key": "accessLevel",
+		"value": "public"
+	},
+	{
+		"key": "spatial",
+		"value": "{\"type\":\"Polygon\",\"coordinates\":[[[-120.4881693985,46.696742253928],[-120.48569564972,46.696742253928],[-120.48569564972,46.699168968666],[-120.4881693985,46.699168968666],[-120.4881693985,46.696742253928]]]}"
+	},
+	{
+		"key": "catalog_conformsTo",
+		"value": "https:\/\/project-open-data.cio.gov\/v1.1\/schema"
+	},
+	{
+		"key": "catalog_@context",
+		"value": "https:\/\/project-open-data.cio.gov\/v1.1\/schema\/catalog.jsonld"
+	},
+	{
+		"key": "catalog_describedBy",
+		"value": "https:\/\/project-open-data.cio.gov\/v1.1\/schema\/catalog.json"
+	},
+	{
+		"key": "format",
+		"value": "text\/csv"
+	},
+	{
+		"key": "harvest_source_title",
+		"value": "Energy JSON"
+	},
+	{
+		"key": "source_schema_version",
+		"value": "1.1"
+	},
+	{
+		"key": "programCode",
+		"value": ["019:009"]
+	},
+	{
+		"key": "bureauCode",
+		"value": ["019:20"]
+	},
+	{
+		"key": "landingPage",
+		"value": "http:\/\/mhkdr.openei.org\/submissions\/53"
+	},
+	{
+		"key": "harvest_object_id",
+		"value": "a7537e93-c8bf-4a14-9cc9-01e559ec75cf"
+	},
+	{
+		"key": "accessURL",
+		"value": "http:\/\/mhkdr.openei.org\/files\/53\/4%20ADV%20turbulence.csv"
+	},
+	{
+		"key": "publisher",
+		"value": "Sandia National Laboratories"
+	},
+	{
+		"key": "license",
+		"value": "https:\/\/creativecommons.org\/licenses\/by\/4.0\/"
+	},
+	{
+		"key": "modified",
+		"value": "2014-06-11"
+	},
+	{
+		"key": "source_datajson_identifier",
+		"value": true
+	},
+	{
+		"key": "dataQuality",
+		"value": true
+	},
+	{
+		"key": "identifier",
+		"value": "http:\/\/en.openei.org\/doe-opendata\/dataset\/f0000000-e214-4b72-acd2-000000000053"
+	},
+	{
+		"state": "active",
+		"key": "harvest_object_id",
+		"value": "a7537e93-c8bf-4a14-9cc9-01e559ec75cf"
+	},
+	{
+		"state": "active",
+		"key": "harvest_source_id",
+		"value": "8d4de31c-979c-4b50-be6b-ea3c72453ff6"
+	},
+	{
+		"state": "active",
+		"key": "harvest_source_title",
+		"value": "Energy JSON"
+	}],
+	"license_url": "http:\/\/www.opendefinition.org\/licenses\/cc-by",
+	"organization": {
+		"description": "",
+		"created": "2013-05-18T11:31:21.471948",
+		"title": "Department of Energy",
+		"name": "doe-gov",
+		"revision_timestamp": "2013-05-31T20:48:37.771905",
+		"is_organization": true,
+		"state": "active",
+		"image_url": "http:\/\/energy.gov\/sites\/prod\/files\/styles\/imagelink\/public\/DoE-Logo.jpeg",
+		"revision_id": "14e1d3c1-4cc7-460c-bf1c-b10e3429b4b0",
+		"type": "organization",
+		"id": "735d0118-b2a7-4246-a0e3-608b0fa8d1ec",
+		"approval_status": "approved"
+	},
+	"revision_id": "64cb9daf-bb2b-4b16-9b98-2ebe94306771"
+}

@@ -1,0 +1,281 @@
+{
+	"owner_org": "fc5cb2c1-d0b0-482a-8a52-7d42ea186ae1",
+	"maintainer": "Jeanette Chow",
+	"relationships_as_object": [],
+	"private": false,
+	"maintainer_email": "Jeanette.Chow@dot.gov",
+	"num_tags": 6,
+	"id": "ebb8dd20-71bd-4104-b8c3-504ea6cb51c5",
+	"metadata_created": "2016-05-25T00:50:13.234989",
+	"metadata_modified": "2016-05-25T00:50:13.234989",
+	"author": null,
+	"author_email": null,
+	"state": "active",
+	"version": null,
+	"license_id": "us-pd",
+	"type": "dataset",
+	"resources": [{
+		"resource_group_id": "9b43823b-5fe0-4489-a8d5-efac43cd65c6",
+		"cache_last_updated": null,
+		"revision_timestamp": "2016-05-25T00:50:13.234989",
+		"webstore_last_updated": null,
+		"id": "6cc4fc77-d371-4ac1-8d38-23636f76b94a",
+		"size": null,
+		"state": "active",
+		"hash": "",
+		"description": "595.txt",
+		"format": "CSV",
+		"tracking_summary": {
+			"total": 12,
+			"recent": 1
+		},
+		"mimetype_inner": null,
+		"mimetype": "text\/csv",
+		"cache_url": null,
+		"name": "Modifier List",
+		"created": "2016-05-24T20:50:13.503385",
+		"url": "ftp:\/\/ftp.nhtsa.dot.gov\/manufacture\/595.txt",
+		"webstore_url": null,
+		"last_modified": null,
+		"position": 0,
+		"revision_id": "5bec4622-b5a1-48d5-a653-4f8aa4ae01fe",
+		"resource_type": null
+	}],
+	"num_resources": 1,
+	"tags": [{
+		"vocabulary_id": null,
+		"display_name": "595",
+		"name": "595",
+		"revision_timestamp": "2016-05-25T00:50:13.234989",
+		"state": "active",
+		"id": "14034419-8fad-44dd-889f-e136b02293d5"
+	},
+	{
+		"vocabulary_id": null,
+		"display_name": "air-bag",
+		"name": "air-bag",
+		"revision_timestamp": "2016-05-25T00:50:13.234989",
+		"state": "active",
+		"id": "7fdaa566-e6a4-4afe-b696-966085875ac5"
+	},
+	{
+		"vocabulary_id": null,
+		"display_name": "deactivation",
+		"name": "deactivation",
+		"revision_timestamp": "2016-05-25T00:50:13.234989",
+		"state": "active",
+		"id": "7329c377-ee3f-4c81-9341-786b62efb560"
+	},
+	{
+		"vocabulary_id": null,
+		"display_name": "disability",
+		"name": "disability",
+		"revision_timestamp": "2016-05-25T00:50:13.234989",
+		"state": "active",
+		"id": "80055016-9e0d-4502-8619-5d256a463ac8"
+	},
+	{
+		"vocabulary_id": null,
+		"display_name": "modifiers",
+		"name": "modifiers",
+		"revision_timestamp": "2016-05-25T00:50:13.234989",
+		"state": "active",
+		"id": "1bd93800-2666-4223-98f4-e4ff18aa568d"
+	},
+	{
+		"vocabulary_id": null,
+		"display_name": "waiver",
+		"name": "waiver",
+		"revision_timestamp": "2016-05-25T00:50:13.234989",
+		"state": "active",
+		"id": "a4b51020-3ceb-4f78-bbf4-7b422e0510a6"
+	}],
+	"title": "Vehicle Modifications for Persons with Disabilities - Modifier List",
+	"tracking_summary": {
+		"total": 8,
+		"recent": 1
+	},
+	"groups": [],
+	"relationships_as_subject": [],
+	"revision_timestamp": "2016-05-25T00:50:13.234989",
+	"name": "vehicle-modifications-for-persons-with-disabilities-modifier-list",
+	"isopen": true,
+	"url": null,
+	"notes": "Contain information that identifies, and provides contact information for, businesses modifying vehicles to enable persons with disabilities to operate the vehicle, or ride as a passenger.",
+	"license_title": "U.S. Government Work",
+	"extras": [{
+		"key": "confidentiality",
+		"value": false
+	},
+	{
+		"key": "harvest_source_id",
+		"value": "a400d398-0d24-4940-b8b3-6573a1670b01"
+	},
+	{
+		"key": "issued",
+		"value": "2008-12-31"
+	},
+	{
+		"key": "resource-type",
+		"value": "Dataset"
+	},
+	{
+		"key": "category",
+		"value": "Raw data"
+	},
+	{
+		"key": "source_hash",
+		"value": "58dba8ddb5de4327c85280419e1eb675f2d7dd1a"
+	},
+	{
+		"key": "agencyProgramURL",
+		"value": "http:\/\/www.safercar.gov\/Air+Bags"
+	},
+	{
+		"key": "QualityResponsibleAgency",
+		"value": "National Highway Traffic Safety Administration"
+	},
+	{
+		"key": "temporal",
+		"value": "R\/2014\/P1Y"
+	},
+	{
+		"key": "theme",
+		"value": ["Transportation"]
+	},
+	{
+		"key": "programCode",
+		"value": ["021:031"]
+	},
+	{
+		"key": "agencyDataSeriesURL",
+		"value": "http:\/\/www.safercar.gov\/Vehicle+Shoppers\/Air+Bags\/Deactivation+FAQ"
+	},
+	{
+		"key": "catalog_conformsTo",
+		"value": "https:\/\/project-open-data.cio.gov\/v1.1\/schema"
+	},
+	{
+		"key": "subagency",
+		"value": "National Highway Traffic Safety Administration"
+	},
+	{
+		"key": "catalog_@context",
+		"value": "https:\/\/project-open-data.cio.gov\/v1.1\/schema\/catalog.jsonld"
+	},
+	{
+		"key": "catalog_describedBy",
+		"value": "https:\/\/project-open-data.cio.gov\/v1.1\/schema\/catalog.json"
+	},
+	{
+		"key": "harvest_source_title",
+		"value": "DOT JSON"
+	},
+	{
+		"key": "source_schema_version",
+		"value": "1.1"
+	},
+	{
+		"key": "phone",
+		"value": "202-366-5302"
+	},
+	{
+		"key": "bureauCode",
+		"value": ["021:18"]
+	},
+	{
+		"key": "accessLevel",
+		"value": "public"
+	},
+	{
+		"key": "harvest_object_id",
+		"value": "a1f47b04-4ce7-4659-8241-5a448a59211d"
+	},
+	{
+		"key": "publisher",
+		"value": "National Highway Traffic Safety Administration"
+	},
+	{
+		"key": "organizationName",
+		"value": "Department of Transportation \/ National Highway Traffic Safety Administration"
+	},
+	{
+		"key": "license",
+		"value": "http:\/\/www.usa.gov\/publicdomain\/label\/1.0\/"
+	},
+	{
+		"key": "language",
+		"value": ["en-US"]
+	},
+	{
+		"key": "publisher_hierarchy",
+		"value": "U.S. Government > Department of Transportation > National Highway Traffic Safety Administration"
+	},
+	{
+		"key": "guidelineCompliance",
+		"value": false
+	},
+	{
+		"key": "modified",
+		"value": "2015-08-10"
+	},
+	{
+		"key": "source_datajson_identifier",
+		"value": true
+	},
+	{
+		"key": "catalog_@id",
+		"value": "https:\/\/www.dot.gov\/data.json"
+	},
+	{
+		"key": "categoryDesignation",
+		"value": "Research"
+	},
+	{
+		"key": "accrualPeriodicity",
+		"value": "R\/P1Y"
+	},
+	{
+		"key": "numberOfDatasets",
+		"value": 1
+	},
+	{
+		"key": "additionalMetadata",
+		"value": "N\/A"
+	},
+	{
+		"key": "identifier",
+		"value": "1671.0"
+	},
+	{
+		"state": "active",
+		"key": "harvest_object_id",
+		"value": "a1f47b04-4ce7-4659-8241-5a448a59211d"
+	},
+	{
+		"state": "active",
+		"key": "harvest_source_id",
+		"value": "a400d398-0d24-4940-b8b3-6573a1670b01"
+	},
+	{
+		"state": "active",
+		"key": "harvest_source_title",
+		"value": "DOT JSON"
+	}],
+	"license_url": "http:\/\/www.usa.gov\/publicdomain\/label\/1.0\/",
+	"organization": {
+		"description": "",
+		"created": "2013-05-18T11:46:56.521190",
+		"title": "Department of Transportation",
+		"name": "dot-gov",
+		"revision_timestamp": "2013-08-30T13:59:29.523214",
+		"is_organization": true,
+		"state": "active",
+		"image_url": "http:\/\/upload.wikimedia.org\/wikipedia\/commons\/8\/81\/US_DOT_Triskelion.png",
+		"revision_id": "684c8481-4ae2-46b0-a083-b392eea15130",
+		"type": "organization",
+		"id": "fc5cb2c1-d0b0-482a-8a52-7d42ea186ae1",
+		"approval_status": "approved"
+	},
+	"revision_id": "5bec4622-b5a1-48d5-a653-4f8aa4ae01fe"
+}

@@ -1,0 +1,182 @@
+{
+	"license_title": "License Not Specified",
+	"maintainer": "Cliff Ingham",
+	"relationships_as_object": [],
+	"private": false,
+	"maintainer_email": "inghamn@bloomington.in.gov",
+	"revision_timestamp": "2016-10-31T17:03:44.169347",
+	"id": "2df538c1-9995-481e-a022-da887e607f0e",
+	"metadata_created": "2016-10-31T17:03:44.169347",
+	"metadata_modified": "2016-11-28T19:03:58.467465",
+	"author": null,
+	"author_email": null,
+	"state": "active",
+	"version": null,
+	"license_id": "notspecified",
+	"type": "dataset",
+	"resources": [{
+		"resource_group_id": "c4bf5743-8d6f-42a5-8be2-00f3ed166dd1",
+		"cache_last_updated": null,
+		"revision_timestamp": "2016-10-31T17:03:44.169347",
+		"webstore_last_updated": null,
+		"id": "eb8e6bd7-9149-4c7c-ab02-c3dff1ddc26a",
+		"size": null,
+		"state": "active",
+		"hash": "",
+		"description": "This resource is updated nightly via an automated export from our uReport system.",
+		"format": "CSV",
+		"tracking_summary": {
+			"total": 0,
+			"recent": 0
+		},
+		"mimetype_inner": null,
+		"mimetype": "text\/csv",
+		"cache_url": null,
+		"name": "Storm Water Problem Reports",
+		"created": "2016-10-31T13:03:44.987546",
+		"url": "https:\/\/data.bloomington.in.gov\/dataset\/b71b4f9c-4de0-494f-9f93-3e009c5b50bd\/resource\/9eb7c590-9489-4f8a-a7c7-961a12bf45d6\/download\/data.csv",
+		"webstore_url": null,
+		"last_modified": null,
+		"position": 0,
+		"revision_id": "4a5dea19-0484-4fc1-85cb-b42647725996",
+		"resource_type": null
+	}],
+	"num_resources": 1,
+	"tags": [{
+		"vocabulary_id": null,
+		"display_name": "drains",
+		"name": "drains",
+		"revision_timestamp": "2016-10-31T17:03:44.169347",
+		"state": "active",
+		"id": "79ce8dbb-aa42-46ee-8440-213a62e34a8b"
+	},
+	{
+		"vocabulary_id": null,
+		"display_name": "flooding",
+		"name": "flooding",
+		"revision_timestamp": "2016-10-31T17:03:44.169347",
+		"state": "active",
+		"id": "aaab51b5-6b5f-43fb-9f22-5e8cb40f995a"
+	},
+	{
+		"vocabulary_id": null,
+		"display_name": "open311",
+		"name": "open311",
+		"revision_timestamp": "2016-11-01T17:07:45.939564",
+		"state": "active",
+		"id": "65439664-94b3-4573-89a8-6716d812fc0c"
+	},
+	{
+		"vocabulary_id": null,
+		"display_name": "storm-water",
+		"name": "storm-water",
+		"revision_timestamp": "2016-10-31T17:03:44.169347",
+		"state": "active",
+		"id": "afb12c26-d984-4ed9-9e81-d7437a1fc251"
+	},
+	{
+		"vocabulary_id": null,
+		"display_name": "ureport",
+		"name": "ureport",
+		"revision_timestamp": "2016-10-31T17:03:44.169347",
+		"state": "active",
+		"id": "29a97da3-4d28-4b93-943c-5c9dd377f6da"
+	},
+	{
+		"vocabulary_id": null,
+		"display_name": "water",
+		"name": "water",
+		"revision_timestamp": "2016-10-31T17:03:44.169347",
+		"state": "active",
+		"id": "0626f657-5e47-4974-b0e5-6746d14f372c"
+	}],
+	"tracking_summary": {
+		"total": 1,
+		"recent": 0
+	},
+	"groups": [{
+		"id": "ccc6c266-eee8-44bd-89aa-7cd8c4c6bf46",
+		"description": "Local Government Topic - for all datasets with state, local, county organizations",
+		"name": "local",
+		"title": "Local Government"
+	}],
+	"organization": {
+		"description": "",
+		"title": "City of Bloomington",
+		"created": "2016-10-31T12:58:42.610437",
+		"approval_status": "approved",
+		"revision_timestamp": "2016-10-31T16:58:42.429694",
+		"is_organization": true,
+		"state": "active",
+		"image_url": "",
+		"revision_id": "5e97d717-5479-4444-94ec-e9ae934b1a4c",
+		"type": "organization",
+		"id": "f3e0f1b3-2967-4913-8392-f679120f1d46",
+		"name": "city-of-bloomington"
+	},
+	"relationships_as_subject": [],
+	"num_tags": 6,
+	"name": "storm-water-problem-reports",
+	"isopen": false,
+	"url": null,
+	"notes": "Reports of problems with storm water drains. \r\n\r\nThis is a subset of the Open311 data that is available here: https:\/\/data.bloomington.in.gov\/dataset\/open311",
+	"owner_org": "f3e0f1b3-2967-4913-8392-f679120f1d46",
+	"extras": [{
+		"key": "publisher",
+		"value": "City of Bloomington"
+	},
+	{
+		"key": "identifier",
+		"value": "https:\/\/data.bloomington.in.gov\/dataset\/b71b4f9c-4de0-494f-9f93-3e009c5b50bd"
+	},
+	{
+		"key": "catalog_describedBy",
+		"value": "https:\/\/project-open-data.cio.gov\/v1.1\/schema\/catalog.json"
+	},
+	{
+		"key": "harvest_source_id",
+		"value": "668e5806-0e14-4603-8eae-5d2af7fc5d07"
+	},
+	{
+		"key": "catalog_@context",
+		"value": "https:\/\/project-open-data.cio.gov\/v1.1\/schema\/catalog.jsonld"
+	},
+	{
+		"key": "resource-type",
+		"value": "Dataset"
+	},
+	{
+		"key": "modified",
+		"value": "2016-11-28T06:38:57.657126"
+	},
+	{
+		"key": "harvest_source_title",
+		"value": "Bloomington Indiana Data.json"
+	},
+	{
+		"key": "source_schema_version",
+		"value": "1.1"
+	},
+	{
+		"key": "source_datajson_identifier",
+		"value": true
+	},
+	{
+		"key": "catalog_conformsTo",
+		"value": "https:\/\/project-open-data.cio.gov\/v1.1\/schema"
+	},
+	{
+		"key": "accessLevel",
+		"value": "public"
+	},
+	{
+		"key": "harvest_object_id",
+		"value": "3111e87c-ac5a-48c0-90a3-ece359d51654"
+	},
+	{
+		"key": "source_hash",
+		"value": "a2a1666c87180f12fbee5e992a271bc619af09b0"
+	}],
+	"title": "Storm Water Problem Reports",
+	"revision_id": "4a5dea19-0484-4fc1-85cb-b42647725996"
+}

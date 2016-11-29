@@ -1,0 +1,194 @@
+{
+	"owner_org": "6bfa9b1b-ca6e-471f-aaef-ca8f2c26769b",
+	"maintainer": null,
+	"relationships_as_object": [],
+	"private": false,
+	"maintainer_email": null,
+	"num_tags": 0,
+	"id": "9b9e8699-dbb7-48da-9ea7-d523a5e8a17c",
+	"metadata_created": "2013-03-28T01:14:42.436732",
+	"metadata_modified": "2015-04-10T00:10:21.168698",
+	"author": null,
+	"author_email": null,
+	"state": "active",
+	"version": null,
+	"license_id": null,
+	"type": "dataset",
+	"resources": [{
+		"resource_group_id": "152e576e-d30a-4d95-b0ca-db176aaf616f",
+		"cache_last_updated": null,
+		"revision_timestamp": "2015-04-10T00:10:21.168698",
+		"webstore_last_updated": null,
+		"id": "066d4299-2e0d-4287-84b1-75ef2b13942e",
+		"size": null,
+		"state": "active",
+		"last_modified": null,
+		"hash": "",
+		"description": "",
+		"format": "",
+		"tracking_summary": {
+			"total": 881,
+			"recent": 13
+		},
+		"mimetype_inner": null,
+		"resource_locator_protocol": "",
+		"revision_id": "bc642356-3ebb-4acb-b11d-f22228230c5f",
+		"mimetype": null,
+		"cache_url": null,
+		"name": "Web Page",
+		"created": "2013-03-28T02:14:42.452517",
+		"url": "http:\/\/deli.dnr.state.mn.us\/",
+		"webstore_url": null,
+		"resource_locator_function": "",
+		"position": 0,
+		"no_real_name": "True",
+		"resource_type": null
+	}],
+	"num_resources": 1,
+	"tags": [],
+	"title": "Presettlement Vegetation",
+	"tracking_summary": {
+		"total": 67,
+		"recent": 3
+	},
+	"groups": [{
+		"capacity": "public",
+		"description": "Local Government Topic - for all datasets with state, local, county organizations",
+		"created": "2015-04-06T16:22:44.896030",
+		"title": "Local Government",
+		"name": "local",
+		"is_organization": false,
+		"state": "active",
+		"image_url": "",
+		"revision_id": "a44b1716-9f9d-4db9-9b8e-321769eb8f69",
+		"type": "group",
+		"id": "ccc6c266-eee8-44bd-89aa-7cd8c4c6bf46",
+		"approval_status": "approved"
+	}],
+	"relationships_as_subject": [],
+	"revision_timestamp": "2013-03-28T01:14:42.436732",
+	"name": "presettlement-vegetation",
+	"isopen": false,
+	"url": null,
+	"notes": "Presettlement vegetation of Minnesota based on Marschner's original analysis of Public Land Survey notes and landscape patterns. Marschner compiled his results in map format, which was subsequently captured in digital format.",
+	"license_title": null,
+	"extras": [{
+		"key": "responsible-party",
+		"value": "[{\"name\": \"DNR-MIS\", \"roles\": [\"pointOfContact\"]}]"
+	},
+	{
+		"key": "contact-email",
+		"value": "tim.loesch@state.mn.us"
+	},
+	{
+		"key": "metadata-language",
+		"value": ""
+	},
+	{
+		"key": "bbox-west-long",
+		"value": "-97.5"
+	},
+	{
+		"key": "metadata-date",
+		"value": "9999-01-01"
+	},
+	{
+		"key": "dataset-reference-date",
+		"value": "[{\"type\": \"publication\", \"value\": \"9999-01-01\"}]"
+	},
+	{
+		"key": "resource-type",
+		"value": "dataset"
+	},
+	{
+		"key": "bbox-east-long",
+		"value": "-89"
+	},
+	{
+		"key": "spatial-reference-system",
+		"value": ""
+	},
+	{
+		"key": "bbox-north-lat",
+		"value": "49.5"
+	},
+	{
+		"key": "coupled-resource",
+		"value": "[]"
+	},
+	{
+		"key": "bbox-south-lat",
+		"value": "43"
+	},
+	{
+		"key": "licence",
+		"value": "[\"The Minnesota Department of Natural Resources makes no representation or warranties, express or implied, with respect to the reuse of data provided herewith, regardless of its format or the means of its transmission. There is no guarantee or representation to the user as to the accuracy, currency, suitability, or reliability of this data for any purpose. The user accepts the data 'as is', and assumes all risks associated with its use. By accepting this data, the user agrees not to transmit this data or provide access to it or any part of it to another party unless the user shall include with the data a copy of this disclaimer. The Minnesota Department of Natural Resources assumes no responsibility for actual or consequential damage incurred as a result of any user's reliance on this data.\"]"
+	},
+	{
+		"key": "metadata_type",
+		"value": "geospatial"
+	},
+	{
+		"key": "spatial",
+		"value": "{\"type\": \"Polygon\", \"coordinates\": [[[-97.5, 43.0], [-97.5, 49.5], [-89.0, 49.5], [-89.0, 43.0], [-97.5, 43.0]]]}"
+	},
+	{
+		"key": "guid",
+		"value": ""
+	},
+	{
+		"key": "spatial-data-service-type",
+		"value": ""
+	},
+	{
+		"key": "access_constraints",
+		"value": "[\"Use Constraints: Use of the data are contrained only by the DNR GIS Data License Agreement\", \"Access Constraints: Data are unrestricted with regards to access\"]"
+	},
+	{
+		"key": "graphic-preview-file",
+		"value": "http:\/\/jmaps.dnr.state.mn.us\/gis\/dp_datasample.jsp?mpid=25000014&ptid=2&fcid=1&lname=Presettlement Vegetation"
+	},
+	{
+		"key": "frequency-of-update",
+		"value": "notPlanned"
+	},
+	{
+		"package_id": "9b9e8699-dbb7-48da-9ea7-d523a5e8a17c",
+		"value": "Presettlement Vegetation, Original Vegetation, Land Cover, biota",
+		"revision_timestamp": "2013-05-17T00:00:00",
+		"state": "active",
+		"key": "tags",
+		"revision_id": "37d5324b-30dd-4e1d-8c92-d4c79e9d6723",
+		"id": "b717251c-b2d3-49c1-b11f-a305270c79f6"
+	},
+	{
+		"state": "active",
+		"key": "harvest_object_id",
+		"value": "d40f590c-1ad3-41d5-93ae-b96c3735db84"
+	},
+	{
+		"state": "active",
+		"key": "harvest_source_id",
+		"value": "5546934e-bbe0-4cff-8926-e70aebfc97cb"
+	},
+	{
+		"state": "active",
+		"key": "harvest_source_title",
+		"value": "Minnesota DNR"
+	}],
+	"organization": {
+		"description": "",
+		"created": "2013-03-14T03:44:37.617845",
+		"title": "Minnesota Department of Natural Resources",
+		"name": "dnr-state-mn-us",
+		"revision_timestamp": "2013-03-21T17:53:31.532555",
+		"is_organization": true,
+		"state": "active",
+		"image_url": "http:\/\/www.naturalinnovations.org\/eeresourceguide\/images\/mn_dnr_logo.gif",
+		"revision_id": "a4813d04-e782-48ad-bd72-dd87a4899e84",
+		"type": "organization",
+		"id": "6bfa9b1b-ca6e-471f-aaef-ca8f2c26769b",
+		"approval_status": "approved"
+	},
+	"revision_id": "37d5324b-30dd-4e1d-8c92-d4c79e9d6723"
+}

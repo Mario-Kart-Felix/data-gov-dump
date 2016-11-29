@@ -1,0 +1,224 @@
+{
+	"owner_org": "d8a6202b-c0c3-463d-88a0-3bc021a178ed",
+	"maintainer": "Dennis Koga",
+	"relationships_as_object": [],
+	"private": false,
+	"maintainer_email": "dennis.koga@nasa.gov",
+	"num_tags": 5,
+	"id": "9b73bd3f-8068-4ba7-b294-10951dfd91a5",
+	"metadata_created": "2015-08-24T21:40:30.973027",
+	"metadata_modified": "2015-08-24T21:40:30.973027",
+	"author": null,
+	"author_email": null,
+	"state": "active",
+	"version": null,
+	"license_id": "us-pd",
+	"type": "dataset",
+	"resources": [{
+		"resource_group_id": "7ddc6d53-c6f1-4536-b7a8-5bd6be1d502c",
+		"cache_last_updated": null,
+		"revision_timestamp": "2015-08-24T21:40:30.973027",
+		"webstore_last_updated": null,
+		"id": "45c19d84-752d-4b76-ba1c-fc5a9fd1b83e",
+		"size": null,
+		"state": "active",
+		"hash": "",
+		"description": "SLABv5_8_1.msi",
+		"format": "application\/octet-stream",
+		"tracking_summary": {
+			"total": 0,
+			"recent": 0
+		},
+		"mimetype_inner": null,
+		"revision_id": "6c5eaadb-0f58-4a0a-9a7c-3620f555e2aa",
+		"mimetype": "application\/octet-stream",
+		"cache_url": null,
+		"name": "Web Page",
+		"created": "2015-08-24T17:40:31.238203",
+		"url": "http:\/\/ti.arc.nasa.gov\/m\/opensource\/downloads\/SLABv5_8_1.msi",
+		"webstore_url": null,
+		"last_modified": null,
+		"position": 0,
+		"no_real_name": true,
+		"resource_type": null
+	}],
+	"num_resources": 1,
+	"tags": [{
+		"vocabulary_id": null,
+		"display_name": "acoustic",
+		"name": "acoustic",
+		"revision_timestamp": "2015-08-24T21:40:30.973027",
+		"state": "active",
+		"id": "391b42c6-0f35-4dbb-b621-e16465e676c3"
+	},
+	{
+		"vocabulary_id": null,
+		"display_name": "api",
+		"name": "api",
+		"revision_timestamp": "2015-08-24T21:40:30.973027",
+		"state": "active",
+		"id": "8cfc9370-39f5-46d7-b990-ae2801f9048c"
+	},
+	{
+		"vocabulary_id": null,
+		"display_name": "render",
+		"name": "render",
+		"revision_timestamp": "2015-08-24T21:40:30.973027",
+		"state": "active",
+		"id": "1f993220-4b67-4eed-9ef8-c00d14bb2c5b"
+	},
+	{
+		"vocabulary_id": null,
+		"display_name": "slab",
+		"name": "slab",
+		"revision_timestamp": "2015-08-24T21:40:30.973027",
+		"state": "active",
+		"id": "d4369d0c-3b0e-465f-be4a-3a00481d6387"
+	},
+	{
+		"vocabulary_id": null,
+		"display_name": "spatial-hearing",
+		"name": "spatial-hearing",
+		"revision_timestamp": "2015-08-24T21:40:30.973027",
+		"state": "active",
+		"id": "17607f21-f1ae-435c-bce5-8579b3c9aafa"
+	}],
+	"title": "ARC Code TI: SLAB Spatial Audio Renderer",
+	"tracking_summary": {
+		"total": 11,
+		"recent": 1
+	},
+	"groups": [],
+	"relationships_as_subject": [],
+	"revision_timestamp": "2015-08-24T21:40:30.973027",
+	"name": "arc-code-ti-slab-spatial-audio-renderer",
+	"isopen": true,
+	"url": null,
+	"notes": "SLAB is a software-based, real-time virtual acoustic environment rendering system being developed as a tool for the study of spatial hearing. SLAB is designed to work in the personal computer environment to take advantage of the low-cost PC platform while providing a flexible, maintainable, and extensible architecture to enable the quick development of experiments. The software provides an API (Application Programming Interface) for specifying the acoustic scene as well as an extensible architecture for exploring multiple rendering strategies.",
+	"license_title": "U.S. Government Work",
+	"extras": [{
+		"key": "harvest_source_id",
+		"value": "39e4ad2a-47ca-4507-8258-852babd0fd99"
+	},
+	{
+		"key": "issued",
+		"value": "2015-01-07T00:00:00.000Z"
+	},
+	{
+		"key": "resource-type",
+		"value": "Dataset"
+	},
+	{
+		"key": "source_hash",
+		"value": "b93a0501af86aa7b03e3a4ffcb7d5e69d373e037"
+	},
+	{
+		"key": "accessLevel",
+		"value": "public"
+	},
+	{
+		"key": "catalog_conformsTo",
+		"value": "https:\/\/project-open-data.cio.gov\/v1.1\/schema"
+	},
+	{
+		"key": "catalog_@context",
+		"value": "https:\/\/project-open-data.cio.gov\/v1.1\/schema\/catalog.jsonld"
+	},
+	{
+		"key": "catalog_describedBy",
+		"value": "https:\/\/project-open-data.cio.gov\/v1.1\/schema\/catalog.json"
+	},
+	{
+		"key": "harvest_source_title",
+		"value": "NASA Data.json"
+	},
+	{
+		"key": "source_schema_version",
+		"value": "1.1"
+	},
+	{
+		"key": "programCode",
+		"value": ["026:046"]
+	},
+	{
+		"key": "bureauCode",
+		"value": ["026:00"]
+	},
+	{
+		"key": "landingPage",
+		"value": "http:\/\/human-factors.arc.nasa.gov\/SLAB\/"
+	},
+	{
+		"key": "harvest_object_id",
+		"value": "9e750f6a-38e7-439f-b726-ab700fb82324"
+	},
+	{
+		"key": "publisher",
+		"value": "Ames Research Center"
+	},
+	{
+		"key": "_id",
+		"value": {
+			"$oid": "55db7497529439f55905404d"
+		}
+	},
+	{
+		"key": "license",
+		"value": "http:\/\/www.usa.gov\/publicdomain\/label\/1.0\/"
+	},
+	{
+		"key": "language",
+		"value": ["en-US"]
+	},
+	{
+		"key": "publisher_hierarchy",
+		"value": "U.S. Government > National Aeronautics and Space Administration > Ames Research Center"
+	},
+	{
+		"key": "modified",
+		"value": "2015-07-27T00:00:00.000Z"
+	},
+	{
+		"key": "source_datajson_identifier",
+		"value": true
+	},
+	{
+		"key": "accrualPeriodicity",
+		"value": "irregular"
+	},
+	{
+		"key": "identifier",
+		"value": "OCIO-Fitara-139"
+	},
+	{
+		"state": "active",
+		"key": "harvest_object_id",
+		"value": "9e750f6a-38e7-439f-b726-ab700fb82324"
+	},
+	{
+		"state": "active",
+		"key": "harvest_source_id",
+		"value": "39e4ad2a-47ca-4507-8258-852babd0fd99"
+	},
+	{
+		"state": "active",
+		"key": "harvest_source_title",
+		"value": "NASA Data.json"
+	}],
+	"license_url": "http:\/\/www.usa.gov\/publicdomain\/label\/1.0\/",
+	"organization": {
+		"description": "NASA's vision: To reach for new heights and reveal the unknown so that what we do and learn will benefit all humankind.\r\n\r\nTo do that, thousands of people have been working around the world -- and off of it -- for 50 years, trying to answer some basic questions. What's out there in space? How do we get there? What will we find? What can we learn there, or learn just by trying to get there, that will make life better here on Earth?\r\n\r\nNASA conducts its work in four principal organizations, called mission directorates:\r\n \r\nAeronautics: works to solve the challenges that still exist in our nation's air transportation system: air traffic congestion, safety and environmental impacts.\r\n\r\nHuman Exploration and Operations: focuses on International Space Station operations, development of commercial spaceflight opportunities and human exploration beyond low Earth orbit.\r\n\r\nScience: explores the Earth, solar system and universe beyond; charts the best route of discovery; and reaps the benefits of Earth and space exploration for society.\r\n\r\nSpace Technology: rapidly develops, demonstrates, and infuses revolutionary, high-payoff technologies, expanding the boundaries of the aerospace enterprise.\r\n\r\nIn the early 21st century, NASA's reach spans the universe. The Mars rover Curiosity is still exploring Mars to see if it might once have had environments suitable for life. Cassini is in orbit around Saturn, as Juno makes its way to Jupiter. The restored Hubble Space Telescope continues to explore the deepest reaches of the cosmos as NASA developes the James Webb Space Telescope.\r\n\r\nCloser to home, the latest crew of the International Space Station is extending the permanent human presence in space. With commercial partners such as SpaceX, NASA is helping to foster the development of private-sector aerospace.\r\n\r\nEarth science satellites are sending back unprecedented data on Earth's oceans, climate and other features. NASA's aeronautics team is working with other government organizations, universities, and industry to fundamentally improve the air transportation experience and retain our nation's leadership in global aviation.",
+		"created": "2013-03-14T03:44:44.467521",
+		"title": "National Aeronautics and Space Administration",
+		"name": "nasa-gov",
+		"revision_timestamp": "2013-08-20T16:04:52.563777",
+		"is_organization": true,
+		"state": "active",
+		"image_url": "http:\/\/polargateways2008.gsfc.nasa.gov\/images\/LOGO_2in\/NASA_2.jpg",
+		"revision_id": "7f05110b-681a-402c-a372-74500dc583dd",
+		"type": "organization",
+		"id": "d8a6202b-c0c3-463d-88a0-3bc021a178ed",
+		"approval_status": "approved"
+	},
+	"revision_id": "6c5eaadb-0f58-4a0a-9a7c-3620f555e2aa"
+}

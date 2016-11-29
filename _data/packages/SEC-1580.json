@@ -1,0 +1,205 @@
+{
+	"owner_org": "41f1bf44-613f-410e-b350-b2535863e778",
+	"maintainer": null,
+	"relationships_as_object": [],
+	"private": false,
+	"maintainer_email": null,
+	"num_tags": 0,
+	"id": "SEC-1580",
+	"metadata_created": "2013-05-18T09:52:23.855083",
+	"metadata_modified": "2014-01-12T07:29:54.006068",
+	"author": null,
+	"author_email": null,
+	"state": "active",
+	"version": null,
+	"license_id": null,
+	"type": "dataset",
+	"resources": [{
+		"resource_group_id": "f8de169d-b0cd-4dbd-8470-dcf0151427d2",
+		"cache_last_updated": null,
+		"revision_timestamp": "2013-05-25T06:42:29.494491",
+		"webstore_last_updated": null,
+		"id": "827fd16c-a055-40f5-a93a-7405ef579295",
+		"size": null,
+		"size_text": "1MB",
+		"state": "active",
+		"hash": "",
+		"description": "public_company_bankruptcy_cases.csv",
+		"format": "txt(csv)",
+		"tracking_summary": {
+			"total": 245,
+			"recent": 11
+		},
+		"mimetype_inner": null,
+		"revision_id": "bd26939d-68e3-41a1-b0f7-750f80b915ae",
+		"mimetype": null,
+		"cache_url": null,
+		"name": "Web Page",
+		"created": "2013-05-18T11:52:23.869897",
+		"url": "http:\/\/www.sec.gov\/open\/datasets\/public_company_bankruptcy_cases.csv",
+		"webstore_url": null,
+		"last_modified": null,
+		"position": 0,
+		"no_real_name": true,
+		"resource_type": null
+	}],
+	"num_resources": 1,
+	"tags": [],
+	"title": "Public Company Bankruptcy Cases Opened and Monitored for Fiscal Year 2009",
+	"tracking_summary": {
+		"total": 738,
+		"recent": 15
+	},
+	"groups": [{
+		"capacity": "public",
+		"description": "",
+		"created": "2013-05-18T12:07:47.221905",
+		"title": "BusinessUSA",
+		"name": "businessusa4208",
+		"is_organization": false,
+		"state": "active",
+		"image_url": "",
+		"revision_id": "f53e17c9-0a4e-438d-bf72-1633cf05835f",
+		"type": "group",
+		"id": "39a03cb4-bc85-455a-b19c-892c7e29e24b",
+		"approval_status": "approved"
+	},
+	{
+		"capacity": "public",
+		"description": "",
+		"created": "2013-05-18T12:07:48.577485",
+		"title": "Consumer",
+		"name": "consumer9350",
+		"is_organization": false,
+		"state": "active",
+		"image_url": "",
+		"revision_id": "27371710-56fa-43d5-9807-33d6616313e4",
+		"type": "group",
+		"id": "3b4e71c5-3c3c-43af-a3ff-81694225e453",
+		"approval_status": "approved"
+	},
+	{
+		"capacity": "public",
+		"description": "",
+		"created": "2013-05-18T12:07:49.817159",
+		"title": "Energy",
+		"name": "energy9485",
+		"is_organization": false,
+		"state": "active",
+		"image_url": "",
+		"revision_id": "9b36e024-a237-4a63-84f0-7a2bd0ff8768",
+		"type": "group",
+		"id": "b6db7c5a-d306-4da5-a0cd-b4128e1322ce",
+		"approval_status": "approved"
+	},
+	{
+		"capacity": "public",
+		"description": "",
+		"created": "2013-11-22T10:35:18.366041",
+		"title": "Finance",
+		"name": "finance3432",
+		"is_organization": false,
+		"state": "active",
+		"image_url": "",
+		"revision_id": "e5e90ad5-9611-4201-9f68-859f7adf0429",
+		"type": "group",
+		"id": "405b5dfb-24f8-4b77-9999-745076d64cb2",
+		"approval_status": "approved"
+	}],
+	"relationships_as_subject": [],
+	"revision_timestamp": "2013-05-18T09:52:23.855083",
+	"name": "public-company-bankruptcy-cases-opened-and-monitored-for-fiscal-year-2009",
+	"isopen": false,
+	"url": null,
+	"notes": "This file contains all of the bankruptcy cases for public companies opened and monitored in the fiscal year 2009. The data includes the District Court, the state, the company name, assets, and liabilities.",
+	"license_title": null,
+	"extras": [{
+		"key": "data-quality",
+		"value": "TRUE"
+	},
+	{
+		"key": "__category_tag_3b4e71c5-3c3c-43af-a3ff-81694225e453",
+		"value": "[\"Housing and Community\"]"
+	},
+	{
+		"key": "contact-email",
+		"value": "herouxr@sec.gov"
+	},
+	{
+		"key": "data-dictiionary",
+		"value": "http:\/\/www.sec.gov\/open\/open.shtml"
+	},
+	{
+		"key": "issued",
+		"value": "1\/22\/2010"
+	},
+	{
+		"key": "resource-type",
+		"value": "Dataset"
+	},
+	{
+		"key": "dataset-reference-date",
+		"value": "Contingent on Rule specifications"
+	},
+	{
+		"key": "spatial-text",
+		"value": "Companies"
+	},
+	{
+		"key": "theme",
+		"value": ["Section 15. Business Enterprise"]
+	},
+	{
+		"key": "references",
+		"value": ["http:\/\/www.sec.gov\/open\/open.shtml"]
+	},
+	{
+		"key": "frequency-of-update",
+		"value": "Contingent on Rule specifications"
+	},
+	{
+		"key": "metadata-date",
+		"value": "Regularly"
+	},
+	{
+		"key": "access-level",
+		"value": "public"
+	},
+	{
+		"key": "__category_tag_b6db7c5a-d306-4da5-a0cd-b4128e1322ce",
+		"value": "[\"Total Energy\"]"
+	},
+	{
+		"package_id": "SEC-1580",
+		"value": "dms",
+		"revision_timestamp": "2013-05-18T09:52:23.855083",
+		"state": "active",
+		"key": "metadata-source",
+		"revision_id": "c30ab385-34b9-4602-a701-038573b7edaa",
+		"id": "a85c72b6-36e5-4f71-98f3-51b2e8288d6d"
+	},
+	{
+		"package_id": "SEC-1580",
+		"value": "{SEC,\"Securities & Exchange Commission\",companies,bankruptcy,cases,court}",
+		"revision_timestamp": "2014-01-12T07:29:54.006068",
+		"state": "active",
+		"key": "tags",
+		"revision_id": "6b055659-7be9-4b53-afc2-051effe640b5",
+		"id": "a5d5e8d9-ed8c-4020-894b-d9aba9f759f5"
+	}],
+	"organization": {
+		"description": "",
+		"created": "2013-05-18T11:36:24.452421",
+		"title": "Securities and Exchange Commission",
+		"name": "sec-gov",
+		"revision_timestamp": "2013-05-18T09:36:24.428823",
+		"is_organization": true,
+		"state": "active",
+		"image_url": "",
+		"revision_id": "3d18a742-824a-4d6f-8cc7-722a9c69328e",
+		"type": "organization",
+		"id": "41f1bf44-613f-410e-b350-b2535863e778",
+		"approval_status": "approved"
+	},
+	"revision_id": "c30ab385-34b9-4602-a701-038573b7edaa"
+}

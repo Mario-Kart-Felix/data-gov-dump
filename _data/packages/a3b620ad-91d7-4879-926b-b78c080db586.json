@@ -1,0 +1,329 @@
+{
+	"owner_org": "fc5cb2c1-d0b0-482a-8a52-7d42ea186ae1",
+	"maintainer": "Mrudula Deodhar",
+	"relationships_as_object": [],
+	"private": false,
+	"maintainer_email": "mrudula.deodhar@dot.gov",
+	"num_tags": 8,
+	"id": "a3b620ad-91d7-4879-926b-b78c080db586",
+	"metadata_created": "2016-03-01T16:14:47.517653",
+	"metadata_modified": "2016-05-25T00:28:10.465476",
+	"author": null,
+	"author_email": null,
+	"state": "active",
+	"version": null,
+	"license_id": "us-pd",
+	"type": "dataset",
+	"resources": [{
+		"resource_group_id": "8c9ad304-fe6c-49ca-8d0c-4d7120ce5e2f",
+		"cache_last_updated": null,
+		"revision_timestamp": "2016-05-25T00:28:10.465476",
+		"webstore_last_updated": null,
+		"id": "eada286d-bcbe-43b7-9d8f-d2ebc9e77d67",
+		"size": null,
+		"state": "active",
+		"hash": "",
+		"description": "",
+		"format": "CSV",
+		"tracking_summary": {
+			"total": 22,
+			"recent": 1
+		},
+		"mimetype_inner": null,
+		"mimetype": "text\/csv",
+		"cache_url": null,
+		"name": "PDF",
+		"created": "2016-03-01T11:14:47.908482",
+		"url": "http:\/\/www.fra.dot.gov\/eLib\/Find#p1_z5_lEA",
+		"webstore_url": null,
+		"last_modified": null,
+		"position": 0,
+		"revision_id": "9e863f03-948b-41b2-83e5-321d0ce87031",
+		"resource_type": null
+	}],
+	"num_resources": 1,
+	"tags": [{
+		"vocabulary_id": null,
+		"display_name": "civil",
+		"name": "civil",
+		"revision_timestamp": "2016-03-01T16:14:47.517653",
+		"state": "active",
+		"id": "9802ae32-ca38-491a-94c7-714e6e6685c7"
+	},
+	{
+		"vocabulary_id": null,
+		"display_name": "compliance",
+		"name": "compliance",
+		"revision_timestamp": "2016-03-01T16:14:47.517653",
+		"state": "active",
+		"id": "48621cd4-a853-4e0c-85f3-77e7e3ff455b"
+	},
+	{
+		"vocabulary_id": null,
+		"display_name": "enforcement",
+		"name": "enforcement",
+		"revision_timestamp": "2016-03-01T16:14:47.517653",
+		"state": "active",
+		"id": "23f73554-91be-4079-8ff9-485463fcc851"
+	},
+	{
+		"vocabulary_id": null,
+		"display_name": "hazardous",
+		"name": "hazardous",
+		"revision_timestamp": "2016-03-01T16:14:47.517653",
+		"state": "active",
+		"id": "7e414e66-34fe-40fa-9ded-625ce1f6c453"
+	},
+	{
+		"vocabulary_id": null,
+		"display_name": "hazmat",
+		"name": "hazmat",
+		"revision_timestamp": "2016-03-01T16:14:47.517653",
+		"state": "active",
+		"id": "60090423-17fd-4153-914e-f5f8e547c72d"
+	},
+	{
+		"vocabulary_id": null,
+		"display_name": "material",
+		"name": "material",
+		"revision_timestamp": "2016-03-01T16:14:47.517653",
+		"state": "active",
+		"id": "e8866301-da83-4ff1-83b9-3f184c59451b"
+	},
+	{
+		"vocabulary_id": null,
+		"display_name": "penalty",
+		"name": "penalty",
+		"revision_timestamp": "2016-03-01T16:14:47.517653",
+		"state": "active",
+		"id": "0d991b7e-54b9-4344-a0a3-c8228346544c"
+	},
+	{
+		"vocabulary_id": null,
+		"display_name": "railroad",
+		"name": "railroad",
+		"revision_timestamp": "2016-03-01T16:14:47.517653",
+		"state": "active",
+		"id": "b531eece-0548-4710-896d-89ffc529ba76"
+	}],
+	"title": "Annual Railroad Enforcement Report",
+	"tracking_summary": {
+		"total": 25,
+		"recent": 1
+	},
+	"groups": [],
+	"relationships_as_subject": [],
+	"revision_timestamp": "2016-05-25T00:28:10.465476",
+	"name": "annual-railroad-enforcement-report-pdf-b31aa",
+	"isopen": true,
+	"url": null,
+	"notes": "An annual summary from the Office of Chief Council which summarizes Enforcement activities for the previous year. The Federal Railroad Administration (FRA) compiles an annualcivil penalty report that summarized the disposition of all instances in which FRA settled a claim for a civil penalty for violations of Federal railroad safety and hazardous materials (hazmat)statutes, regulations, and orders or in which FRA otherwise closed a case to collect a civil penalty for such a violation.",
+	"license_title": "U.S. Government Work",
+	"extras": [{
+		"key": "confidentiality",
+		"value": true
+	},
+	{
+		"key": "harvest_source_id",
+		"value": "a400d398-0d24-4940-b8b3-6573a1670b01"
+	},
+	{
+		"key": "collection_metadata",
+		"value": "true"
+	},
+	{
+		"key": "issued",
+		"value": "2010-09-29"
+	},
+	{
+		"key": "resource-type",
+		"value": "Dataset"
+	},
+	{
+		"key": "analysisUnit",
+		"value": "Violation"
+	},
+	{
+		"key": "references",
+		"value": ["https:\/\/safetydata.fra.dot.gov\/MasterWebService\/LiteApiService.asmx?op=GetEnforcementDataByYear"]
+	},
+	{
+		"key": "source_hash",
+		"value": "798f6293cb06bfbf9a639c21f54eb9ea41f09931"
+	},
+	{
+		"key": "agencyProgramURL",
+		"value": "http:\/\/www.fra.dot.gov\/eLib\/Find#p1_z5_lEA"
+	},
+	{
+		"key": "QualityResponsibleAgency",
+		"value": "Federal Railroad Administration"
+	},
+	{
+		"key": "bibliographicCitation",
+		"value": "https:\/\/safetydata.fra.dot.gov\/MasterWebService\/LiteApiService.asmx?op=GetEnforcementDataByYear"
+	},
+	{
+		"key": "temporal",
+		"value": "R\/2008-10-01\/P1Y"
+	},
+	{
+		"key": "theme",
+		"value": ["Transportation"]
+	},
+	{
+		"key": "agencyDataSeriesURL",
+		"value": "https:\/\/safetydata.fra.dot.gov\/MasterWebService\/LiteApiService.asmx?op=GetEnforcementDataByYear"
+	},
+	{
+		"key": "spatial",
+		"value": "National"
+	},
+	{
+		"key": "catalog_conformsTo",
+		"value": "https:\/\/project-open-data.cio.gov\/v1.1\/schema"
+	},
+	{
+		"key": "describedBy",
+		"value": "https:\/\/safetydata.fra.dot.gov\/MasterWebService\/LiteApiService.asmx?op=GetEnforcementDataByYear"
+	},
+	{
+		"key": "category",
+		"value": "Raw data"
+	},
+	{
+		"key": "catalog_describedBy",
+		"value": "https:\/\/project-open-data.cio.gov\/v1.1\/schema\/catalog.json"
+	},
+	{
+		"key": "collectionMode",
+		"value": "VGTS"
+	},
+	{
+		"key": "harvest_source_title",
+		"value": "DOT JSON"
+	},
+	{
+		"key": "source_schema_version",
+		"value": "1.1"
+	},
+	{
+		"key": "programCode",
+		"value": ["021:000"]
+	},
+	{
+		"key": "bureauCode",
+		"value": ["021:27"]
+	},
+	{
+		"key": "accessLevel",
+		"value": "public"
+	},
+	{
+		"key": "harvest_object_id",
+		"value": "99419930-5697-4e58-883e-6e74175aef16"
+	},
+	{
+		"key": "additionalMetadata",
+		"value": "N\/A"
+	},
+	{
+		"key": "publisher",
+		"value": "Federal Railroad Administration"
+	},
+	{
+		"key": "catalog_@context",
+		"value": "https:\/\/project-open-data.cio.gov\/v1.1\/schema\/catalog.jsonld"
+	},
+	{
+		"key": "organizationName",
+		"value": "Department of Transportation \/ Federal Railroad Administration"
+	},
+	{
+		"key": "license",
+		"value": "http:\/\/www.usa.gov\/publicdomain\/label\/1.0\/"
+	},
+	{
+		"key": "language",
+		"value": ["en-US"]
+	},
+	{
+		"key": "phone",
+		"value": "(202) 493-6040"
+	},
+	{
+		"key": "publisher_hierarchy",
+		"value": "U.S. Government > Department of Transportation > Federal Railroad Administration"
+	},
+	{
+		"key": "guidelineCompliance",
+		"value": true
+	},
+	{
+		"key": "modified",
+		"value": "2015-08-11"
+	},
+	{
+		"key": "source_datajson_identifier",
+		"value": true
+	},
+	{
+		"key": "catalog_@id",
+		"value": "https:\/\/www.dot.gov\/data.json"
+	},
+	{
+		"key": "categoryDesignation",
+		"value": "Research"
+	},
+	{
+		"key": "accrualPeriodicity",
+		"value": "R\/P1Y"
+	},
+	{
+		"key": "numberOfDatasets",
+		"value": 1
+	},
+	{
+		"key": "dataQuality",
+		"value": true
+	},
+	{
+		"key": "dictionaryList",
+		"value": "https:\/\/safetydata.fra.dot.gov\/MasterWebService\/LiteApiService.asmx?op=GetEnforcementDataByYear"
+	},
+	{
+		"key": "identifier",
+		"value": "DOT-255"
+	},
+	{
+		"state": "active",
+		"key": "harvest_object_id",
+		"value": "99419930-5697-4e58-883e-6e74175aef16"
+	},
+	{
+		"state": "active",
+		"key": "harvest_source_id",
+		"value": "a400d398-0d24-4940-b8b3-6573a1670b01"
+	},
+	{
+		"state": "active",
+		"key": "harvest_source_title",
+		"value": "DOT JSON"
+	}],
+	"license_url": "http:\/\/www.usa.gov\/publicdomain\/label\/1.0\/",
+	"organization": {
+		"description": "",
+		"created": "2013-05-18T11:46:56.521190",
+		"title": "Department of Transportation",
+		"name": "dot-gov",
+		"revision_timestamp": "2013-08-30T13:59:29.523214",
+		"is_organization": true,
+		"state": "active",
+		"image_url": "http:\/\/upload.wikimedia.org\/wikipedia\/commons\/8\/81\/US_DOT_Triskelion.png",
+		"revision_id": "684c8481-4ae2-46b0-a083-b392eea15130",
+		"type": "organization",
+		"id": "fc5cb2c1-d0b0-482a-8a52-7d42ea186ae1",
+		"approval_status": "approved"
+	},
+	"revision_id": "9e863f03-948b-41b2-83e5-321d0ce87031"
+}

@@ -1,0 +1,318 @@
+{
+	"owner_org": "e370c484-cc05-4509-919a-5600f8d56a48",
+	"maintainer": "<Nobody>",
+	"relationships_as_object": [],
+	"private": false,
+	"maintainer_email": "datasf.support@sfgov.org",
+	"num_tags": 7,
+	"id": "0e98ea55-b629-49bd-bb93-dd6fc2d29f9f",
+	"metadata_created": "2015-02-04T19:10:03.814138",
+	"metadata_modified": "2016-08-10T22:31:47.907942",
+	"author": null,
+	"author_email": null,
+	"state": "active",
+	"version": null,
+	"license_id": "other-license-specified",
+	"type": "dataset",
+	"resources": [{
+		"resource_group_id": "cfe0b79e-b320-4d02-bb6f-3406f3e2ae4c",
+		"cache_last_updated": null,
+		"revision_timestamp": "2015-08-13T07:05:38.155182",
+		"webstore_last_updated": null,
+		"id": "5260f899-7916-4577-8db8-0994c72ec44b",
+		"size": null,
+		"state": "active",
+		"hash": "",
+		"description": "",
+		"format": "CSV",
+		"tracking_summary": {
+			"total": 0,
+			"recent": 0
+		},
+		"mimetype_inner": null,
+		"revision_id": "9978b929-9ba9-434d-bcb8-9ca29ab68773",
+		"mimetype": "text\/csv",
+		"cache_url": null,
+		"name": "Comma Separated Values File",
+		"created": "2015-02-04T14:10:03.945522",
+		"url": "https:\/\/data.sfgov.org\/api\/views\/56zn-mms6\/rows.csv?accessType=DOWNLOAD",
+		"webstore_url": null,
+		"last_modified": null,
+		"position": 0,
+		"no_real_name": true,
+		"resource_type": null
+	},
+	{
+		"resource_group_id": "cfe0b79e-b320-4d02-bb6f-3406f3e2ae4c",
+		"cache_last_updated": null,
+		"revision_timestamp": "2016-06-16T07:18:54.701474",
+		"webstore_last_updated": null,
+		"id": "05997639-714b-4c48-9f2a-2ffb1b84b73a",
+		"size": null,
+		"state": "active",
+		"hash": "",
+		"description": "",
+		"format": "RDF",
+		"tracking_summary": {
+			"total": 0,
+			"recent": 0
+		},
+		"mimetype_inner": null,
+		"revision_id": "f1a3dca5-1229-4028-863a-9c05a2846c43",
+		"mimetype": "application\/rdf+xml",
+		"cache_url": null,
+		"name": "RDF File",
+		"created": "2015-02-04T14:10:03.945544",
+		"url": "https:\/\/data.sfgov.org\/api\/views\/56zn-mms6\/rows.rdf?accessType=DOWNLOAD",
+		"webstore_url": null,
+		"last_modified": null,
+		"position": 1,
+		"no_real_name": true,
+		"resource_type": null
+	},
+	{
+		"resource_group_id": "cfe0b79e-b320-4d02-bb6f-3406f3e2ae4c",
+		"cache_last_updated": null,
+		"revision_timestamp": "2016-06-16T07:18:54.701474",
+		"webstore_last_updated": null,
+		"id": "ca4322c3-f775-4bab-a778-14f9515691dd",
+		"size": null,
+		"state": "active",
+		"hash": "",
+		"description": "",
+		"format": "JSON",
+		"tracking_summary": {
+			"total": 0,
+			"recent": 0
+		},
+		"mimetype_inner": null,
+		"revision_id": "f1a3dca5-1229-4028-863a-9c05a2846c43",
+		"mimetype": "application\/json",
+		"cache_url": null,
+		"name": "JSON File",
+		"created": "2015-02-04T14:10:03.945552",
+		"url": "https:\/\/data.sfgov.org\/api\/views\/56zn-mms6\/rows.json?accessType=DOWNLOAD",
+		"webstore_url": null,
+		"last_modified": null,
+		"position": 2,
+		"no_real_name": true,
+		"resource_type": null
+	},
+	{
+		"resource_group_id": "cfe0b79e-b320-4d02-bb6f-3406f3e2ae4c",
+		"cache_last_updated": null,
+		"revision_timestamp": "2016-06-16T07:18:54.701474",
+		"webstore_last_updated": null,
+		"id": "96a0219b-bee3-4e13-b528-a0bb1bfa8ec5",
+		"size": null,
+		"state": "active",
+		"hash": "",
+		"description": "",
+		"format": "XML",
+		"tracking_summary": {
+			"total": 0,
+			"recent": 0
+		},
+		"mimetype_inner": null,
+		"revision_id": "f1a3dca5-1229-4028-863a-9c05a2846c43",
+		"mimetype": "application\/xml",
+		"cache_url": null,
+		"name": "XML File",
+		"created": "2015-02-04T14:10:03.945558",
+		"url": "https:\/\/data.sfgov.org\/api\/views\/56zn-mms6\/rows.xml?accessType=DOWNLOAD",
+		"webstore_url": null,
+		"last_modified": null,
+		"position": 3,
+		"no_real_name": true,
+		"resource_type": null
+	}],
+	"num_resources": 4,
+	"tags": [{
+		"vocabulary_id": null,
+		"display_name": "campaign",
+		"name": "campaign",
+		"revision_timestamp": "2015-02-04T19:10:03.814138",
+		"state": "active",
+		"id": "3d5ac215-7a45-4116-91d5-59a710c430b0"
+	},
+	{
+		"vocabulary_id": null,
+		"display_name": "candidates",
+		"name": "candidates",
+		"revision_timestamp": "2015-02-04T19:10:03.814138",
+		"state": "active",
+		"id": "4970ce2d-9633-4c56-8f03-ab4ec9385001"
+	},
+	{
+		"vocabulary_id": null,
+		"display_name": "election",
+		"name": "election",
+		"revision_timestamp": "2015-02-04T19:10:03.814138",
+		"state": "active",
+		"id": "459e18aa-6e46-4d20-9aa4-87b251ff211b"
+	},
+	{
+		"vocabulary_id": null,
+		"display_name": "ethics",
+		"name": "ethics",
+		"revision_timestamp": "2015-02-04T19:10:03.814138",
+		"state": "active",
+		"id": "ba58de6c-d820-4a91-8253-54c3370b2b10"
+	},
+	{
+		"vocabulary_id": null,
+		"display_name": "finance",
+		"name": "finance",
+		"revision_timestamp": "2015-02-04T19:10:03.814138",
+		"state": "active",
+		"id": "5ab96731-c9f3-4989-ad2f-eb7eddadac66"
+	},
+	{
+		"vocabulary_id": null,
+		"display_name": "november-4-2014",
+		"name": "november-4-2014",
+		"revision_timestamp": "2015-02-04T19:10:03.814138",
+		"state": "active",
+		"id": "6dc643ed-fe68-4053-bdc5-ca03226ce305"
+	},
+	{
+		"vocabulary_id": null,
+		"display_name": "voluntary-expenditure-ceiling",
+		"name": "voluntary-expenditure-ceiling",
+		"revision_timestamp": "2015-02-04T19:10:03.814138",
+		"state": "active",
+		"id": "eae52c9e-916c-445c-8eed-ea4190e19d94"
+	}],
+	"title": "Campaign Finance - List of Candidates Running for Office in November 2014 who have Accepted the Voluntary Expenditure Ceiling",
+	"tracking_summary": {
+		"total": 8,
+		"recent": 1
+	},
+	"groups": [{
+		"capacity": "public",
+		"description": "Local Government Topic - for all datasets with state, local, county organizations",
+		"created": "2015-04-06T16:22:44.896030",
+		"title": "Local Government",
+		"name": "local",
+		"is_organization": false,
+		"state": "active",
+		"image_url": "",
+		"revision_id": "a44b1716-9f9d-4db9-9b8e-321769eb8f69",
+		"type": "group",
+		"id": "ccc6c266-eee8-44bd-89aa-7cd8c4c6bf46",
+		"approval_status": "approved"
+	}],
+	"relationships_as_subject": [],
+	"revision_timestamp": "2016-03-17T07:00:59.994535",
+	"name": "campaign-finance-list-of-candidates-running-for-office-in-november-2014-who-have-accepted--c995c",
+	"isopen": true,
+	"url": null,
+	"notes": "Campaign Finance - List of Candidates Running for Office in November 2014 who have Accepted the Voluntary Expenditure Ceiling",
+	"license_title": "Other License Specified",
+	"extras": [{
+		"key": "publisher",
+		"value": "data.sfgov.org"
+	},
+	{
+		"key": "accessLevel",
+		"value": "public"
+	},
+	{
+		"key": "license",
+		"value": "http:\/\/opendatacommons.org\/licenses\/pddl\/1.0\/"
+	},
+	{
+		"key": "harvest_source_id",
+		"value": "d4ec346a-1bd2-427e-8dbd-62a60edcb17e"
+	},
+	{
+		"key": "catalog_@context",
+		"value": "https:\/\/project-open-data.cio.gov\/v1.1\/schema\/catalog.jsonld"
+	},
+	{
+		"key": "issued",
+		"value": "2014-08-11"
+	},
+	{
+		"key": "resource-type",
+		"value": "Dataset"
+	},
+	{
+		"key": "modified",
+		"value": "2016-03-15"
+	},
+	{
+		"key": "harvest_source_title",
+		"value": "SFO JSON"
+	},
+	{
+		"key": "source_schema_version",
+		"value": "1.1"
+	},
+	{
+		"key": "source_datajson_identifier",
+		"value": true
+	},
+	{
+		"key": "theme",
+		"value": ["City Management and Ethics"]
+	},
+	{
+		"key": "catalog_@id",
+		"value": "https:\/\/data.sfgov.org\/data.json"
+	},
+	{
+		"key": "catalog_conformsTo",
+		"value": "https:\/\/project-open-data.cio.gov\/v1.1\/schema"
+	},
+	{
+		"key": "identifier",
+		"value": "https:\/\/data.sfgov.org\/api\/views\/56zn-mms6"
+	},
+	{
+		"key": "landingPage",
+		"value": "https:\/\/data.sfgov.org\/d\/56zn-mms6"
+	},
+	{
+		"key": "harvest_object_id",
+		"value": "85bbbfa0-65ef-411d-b70e-afb7c01a0064"
+	},
+	{
+		"key": "source_hash",
+		"value": "04175c5670f40d41438d9360c8debb3b70ff1dc0"
+	},
+	{
+		"key": "catalog_describedBy",
+		"value": "https:\/\/project-open-data.cio.gov\/v1.1\/schema\/catalog.json"
+	},
+	{
+		"state": "active",
+		"key": "harvest_object_id",
+		"value": "85bbbfa0-65ef-411d-b70e-afb7c01a0064"
+	},
+	{
+		"state": "active",
+		"key": "harvest_source_id",
+		"value": "d4ec346a-1bd2-427e-8dbd-62a60edcb17e"
+	},
+	{
+		"state": "active",
+		"key": "harvest_source_title",
+		"value": "SFO JSON"
+	}],
+	"organization": {
+		"description": "",
+		"created": "2014-04-16T12:58:28.894029",
+		"title": "City of San Francisco",
+		"name": "city-of-san-francisco",
+		"revision_timestamp": "2016-08-10T22:31:47.907942",
+		"is_organization": true,
+		"state": "active",
+		"image_url": "https:\/\/everykitcounts.org\/wp-content\/uploads\/2014\/10\/461.jpg",
+		"revision_id": "24c95777-65b1-43ba-bc4d-7377c74918b8",
+		"type": "organization",
+		"id": "e370c484-cc05-4509-919a-5600f8d56a48",
+		"approval_status": "approved"
+	},
+	"revision_id": "78ae8599-3aa2-4628-9ac4-ceed3f43b402"
+}

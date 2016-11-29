@@ -1,0 +1,202 @@
+{
+	"owner_org": "620f9a8a-96e7-4430-b31f-50fafba1b0ab",
+	"maintainer": "Rahiq Syed",
+	"relationships_as_object": [],
+	"private": false,
+	"maintainer_email": "rahiq.syed@ntsb.gov",
+	"num_tags": 3,
+	"id": "497ab13f-5ee7-4b38-bed0-d210bc365453",
+	"metadata_created": "2015-12-16T18:13:36.848809",
+	"metadata_modified": "2015-12-17T15:25:37.821238",
+	"author": null,
+	"author_email": null,
+	"state": "active",
+	"version": null,
+	"license_id": "notspecified",
+	"type": "dataset",
+	"resources": [{
+		"resource_group_id": "8fe99a75-818b-47ea-987c-86ffa370a55d",
+		"cache_last_updated": null,
+		"revision_timestamp": "2015-12-17T15:25:37.821238",
+		"webstore_last_updated": null,
+		"id": "cf5d1cd8-da0b-40ec-8ade-6c5ff84e8b0b",
+		"size": null,
+		"state": "active",
+		"hash": "",
+		"description": "NTSB_Highway.xml",
+		"format": "application\/rss+xml",
+		"tracking_summary": {
+			"total": 11,
+			"recent": 2
+		},
+		"mimetype_inner": null,
+		"revision_id": "81e2e9a5-ccad-44dd-966a-7cdf4b8d9bcc",
+		"mimetype": "application\/rss+xml",
+		"cache_url": null,
+		"name": "Web Page",
+		"created": "2015-12-16T13:13:37.115101",
+		"url": "http:\/\/www.ntsb.gov\/Pages\/RSS.aspx\/NTSB_Highway.xml",
+		"webstore_url": null,
+		"last_modified": null,
+		"position": 0,
+		"no_real_name": "True",
+		"resource_type": null
+	}],
+	"num_resources": 1,
+	"tags": [{
+		"vocabulary_id": null,
+		"display_name": "fatal-accidents",
+		"name": "fatal-accidents",
+		"revision_timestamp": "2015-12-16T18:13:36.848809",
+		"state": "active",
+		"id": "8ed31667-00eb-43b2-ad38-348d240e75a9"
+	},
+	{
+		"vocabulary_id": null,
+		"display_name": "fatalities",
+		"name": "fatalities",
+		"revision_timestamp": "2015-12-16T18:13:36.848809",
+		"state": "active",
+		"id": "abcfb4fd-5aa0-4484-a245-e1b399ecf0e8"
+	},
+	{
+		"vocabulary_id": null,
+		"display_name": "highway",
+		"name": "highway",
+		"revision_timestamp": "2015-12-16T18:13:36.848809",
+		"state": "active",
+		"id": "25c03e57-ac97-43ad-9201-e2142d927663"
+	}],
+	"title": "NTSB Highway Safety News",
+	"tracking_summary": {
+		"total": 52,
+		"recent": 5
+	},
+	"groups": [{
+		"capacity": "public",
+		"description": "",
+		"created": "2013-05-18T12:07:48.577485",
+		"title": "Consumer",
+		"name": "consumer9350",
+		"is_organization": false,
+		"state": "active",
+		"image_url": "",
+		"revision_id": "27371710-56fa-43d5-9807-33d6616313e4",
+		"type": "group",
+		"id": "3b4e71c5-3c3c-43af-a3ff-81694225e453",
+		"approval_status": "approved"
+	}],
+	"relationships_as_subject": [],
+	"revision_timestamp": "2015-12-16T18:13:36.848809",
+	"name": "ntsb-highway-safety-news",
+	"isopen": false,
+	"url": null,
+	"notes": "NTSB Highway Safety News",
+	"license_title": "License Not Specified",
+	"extras": [{
+		"key": "publisher",
+		"value": "National Transportation Safety Board"
+	},
+	{
+		"key": "identifier",
+		"value": "{2BB1B6DC-6B83-4377-B3C2-D46CB418FDFA}"
+	},
+	{
+		"key": "catalog_describedBy",
+		"value": "https:\/\/project-open-data.cio.gov\/v1.1\/schema\/catalog.json"
+	},
+	{
+		"key": "harvest_source_id",
+		"value": "68151113-c0fb-4354-96f6-34376f841a1b"
+	},
+	{
+		"key": "catalog_@context",
+		"value": "https:\/\/project-open-data.cio.gov\/v1.1\/schema\/catalog.jsonld"
+	},
+	{
+		"key": "resource-type",
+		"value": "Dataset"
+	},
+	{
+		"key": "temporal",
+		"value": "2014-03-28T00:00:00Z\/2015-03-28T23:59:59Z"
+	},
+	{
+		"key": "__category_tag_3b4e71c5-3c3c-43af-a3ff-81694225e453",
+		"value": "[\"Transportation\"]"
+	},
+	{
+		"key": "modified",
+		"value": "2014-03-28"
+	},
+	{
+		"key": "harvest_source_title",
+		"value": "NTSB json"
+	},
+	{
+		"key": "source_schema_version",
+		"value": "1.1"
+	},
+	{
+		"key": "source_datajson_identifier",
+		"value": true
+	},
+	{
+		"key": "programCode",
+		"value": ["000:000"]
+	},
+	{
+		"key": "bureauCode",
+		"value": ["424:00"]
+	},
+	{
+		"key": "accrualPeriodicity",
+		"value": "R\/PT1S"
+	},
+	{
+		"key": "catalog_conformsTo",
+		"value": "https:\/\/project-open-data.cio.gov\/v1.1\/schema"
+	},
+	{
+		"key": "accessLevel",
+		"value": "public"
+	},
+	{
+		"key": "harvest_object_id",
+		"value": "23e8ebbc-83de-48f1-9a6f-2f3d3776764d"
+	},
+	{
+		"key": "source_hash",
+		"value": "8ad1ccd64b6b91f984f87b1e5e037e90bae0b8b6"
+	},
+	{
+		"state": "active",
+		"key": "harvest_object_id",
+		"value": "23e8ebbc-83de-48f1-9a6f-2f3d3776764d"
+	},
+	{
+		"state": "active",
+		"key": "harvest_source_id",
+		"value": "68151113-c0fb-4354-96f6-34376f841a1b"
+	},
+	{
+		"state": "active",
+		"key": "harvest_source_title",
+		"value": "NTSB json"
+	}],
+	"organization": {
+		"description": "",
+		"created": "2013-05-18T11:43:34.663825",
+		"title": "National Transportation Safety Board",
+		"name": "ntsb-gov",
+		"revision_timestamp": "2015-01-16T18:17:28.838669",
+		"is_organization": true,
+		"state": "active",
+		"image_url": "https:\/\/gsa.github.io\/logo\/ntsb.png",
+		"revision_id": "617d6a37-3b87-411c-9eed-e64f22988e4b",
+		"type": "organization",
+		"id": "620f9a8a-96e7-4430-b31f-50fafba1b0ab",
+		"approval_status": "approved"
+	},
+	"revision_id": "f24fd35c-78d7-4768-b0d0-1a9e00ce638a"
+}
