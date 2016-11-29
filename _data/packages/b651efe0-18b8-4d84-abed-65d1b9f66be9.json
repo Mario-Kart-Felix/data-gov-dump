@@ -37,7 +37,7 @@
 		"cache_url": null,
 		"name": "Zip File",
 		"created": "2015-11-09T20:31:09.217818",
-		"url": "ftp:\/\/ftp.soest.hawaii.edu\/pibhmc\/website\/data\/amsamoa\/benthichabitatlayers\/Rose_5m_rugosity.zip",
+		"url": "ftp://ftp.soest.hawaii.edu/pibhmc/website/data/amsamoa/benthichabitatlayers/Rose_5m_rugosity.zip",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 0,
@@ -67,7 +67,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2015-11-09T20:31:09.217853",
-		"url": "http:\/\/www.soest.hawaii.edu\/pibhmc",
+		"url": "http://www.soest.hawaii.edu/pibhmc",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 1,
@@ -97,7 +97,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2015-11-09T20:31:09.217861",
-		"url": "http:\/\/www.soest.hawaii.edu\/pibhmc\/pibhmc_amsamoa_rose_geomorph.htm",
+		"url": "http://www.soest.hawaii.edu/pibhmc/pibhmc_amsamoa_rose_geomorph.htm",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 2,
@@ -117,11 +117,11 @@
 	"name": "rugosity-grid-derived-from-gridded-bathymetry-of-rose-atoll-territory-of-american-samoa-usa",
 	"isopen": false,
 	"url": null,
-	"notes": "Rugosity is derived from gridded (5 m cell size) multibeam bathymetry, collected aboard R\/V AHI, and bathymetry derived from multispectral IKONOS satellite imagery. Cell values reflect the (surface area) \/ (planimetric area) ratio for the area contained within that cell's boundaries. They provide indices of topographic roughness & convolutedness. This data set is for Rose Atoll, American Samoa.",
+	"notes": "Rugosity is derived from gridded (5 m cell size) multibeam bathymetry, collected aboard R/V AHI, and bathymetry derived from multispectral IKONOS satellite imagery. Cell values reflect the (surface area) / (planimetric area) ratio for the area contained within that cell's boundaries. They provide indices of topographic roughness & convolutedness. This data set is for Rose Atoll, American Samoa.",
 	"license_title": null,
 	"extras": [{
 		"key": "bbox-east-long",
-		"value": "\n          -168.131569\n        "
+		"value": "n          -168.131569n        "
 	},
 	{
 		"key": "resource-type",
@@ -129,7 +129,7 @@
 	},
 	{
 		"key": "bbox-north-lat",
-		"value": "\n          -14.525005\n        "
+		"value": "n          -14.525005n        "
 	},
 	{
 		"key": "coupled-resource",
@@ -145,7 +145,7 @@
 	},
 	{
 		"key": "graphic-preview-file",
-		"value": "http:\/\/www.soest.hawaii.edu\/pibhmc\/amsamoa_images\/Rose_5m_rugosity_445.jpg"
+		"value": "http://www.soest.hawaii.edu/pibhmc/amsamoa_images/Rose_5m_rugosity_445.jpg"
 	},
 	{
 		"key": "metadata-language",
@@ -161,7 +161,7 @@
 	},
 	{
 		"key": "spatial",
-		"value": "{\"type\": \"Polygon\", \"coordinates\": [[[-168.176599, -14.563294], [-168.131569, -14.563294], [-168.131569, -14.525005], [-168.176599, -14.525005], [-168.176599, -14.563294]]]}"
+		"value": "{"type": "Polygon", "coordinates": [[[-168.176599, -14.563294], [-168.131569, -14.563294], [-168.131569, -14.525005], [-168.176599, -14.525005], [-168.176599, -14.563294]]]}"
 	},
 	{
 		"key": "progress",
@@ -169,7 +169,7 @@
 	},
 	{
 		"key": "access_constraints",
-		"value": "[\"Use Constraints: These data are not to be used for navigation purposes. Please acknowledge the NOAA Pacific Islands Fisheries Science Center (PIFSC) Coral Reef Ecosystem Division (CRED) and the Pacific Islands Benthic Habitat Mapping Center, and the Joint Institute for Marine and Atmospheric Research (JIMAR) and School of Ocean and Earth Science and Technology (SOEST), University of Hawaii as the sources of this information.\", \"Access Constraints: None\"]"
+		"value": "["Use Constraints: These data are not to be used for navigation purposes. Please acknowledge the NOAA Pacific Islands Fisheries Science Center (PIFSC) Coral Reef Ecosystem Division (CRED) and the Pacific Islands Benthic Habitat Mapping Center, and the Joint Institute for Marine and Atmospheric Research (JIMAR) and School of Ocean and Earth Science and Technology (SOEST), University of Hawaii as the sources of this information.", "Access Constraints: None"]"
 	},
 	{
 		"key": "temporal-extent-begin",
@@ -181,7 +181,7 @@
 	},
 	{
 		"key": "bbox-west-long",
-		"value": "\n          -168.176599\n        "
+		"value": "n          -168.176599n        "
 	},
 	{
 		"key": "metadata-date",
@@ -189,7 +189,7 @@
 	},
 	{
 		"key": "dataset-reference-date",
-		"value": "[{\"type\": \"publication\", \"value\": \"2010-06-15\"}]"
+		"value": "[{"type": "publication", "value": "2010-06-15"}]"
 	},
 	{
 		"key": "graphic-preview-description",
@@ -201,7 +201,7 @@
 	},
 	{
 		"key": "licence",
-		"value": "[\"\\n      These data are not to be used for navigational purposes.\\nNOAA makes no warranty regarding these data, expressed or implied,\\nnor does the fact of distribution constitute such a warranty.\\nNOAA cannot assume liability for any damages caused by any errors\\nor omissions in these data, nor as a result of the failure of\\nthese data to function on a particular system.\\n    \"]"
+		"value": "["\n      These data are not to be used for navigational purposes.\nNOAA makes no warranty regarding these data, expressed or implied,\nnor does the fact of distribution constitute such a warranty.\nNOAA cannot assume liability for any damages caused by any errors\nor omissions in these data, nor as a result of the failure of\nthese data to function on a particular system.\n    "]"
 	},
 	{
 		"key": "metadata_type",
@@ -209,7 +209,7 @@
 	},
 	{
 		"key": "responsible-party",
-		"value": "[{\"name\": \"Pacific Islands Benthic Habitat Mapping Center (PIBHMC), Coral Reef Ecosystem Division (CRED), Pacific Islands Fisheries Science Center (PIFSC), National Marine Fisheries Service (NMFS), National Oceanic and Atmospheric Administration (NOAA)\", \"roles\": [\"pointOfContact\"]}]"
+		"value": "[{"name": "Pacific Islands Benthic Habitat Mapping Center (PIBHMC), Coral Reef Ecosystem Division (CRED), Pacific Islands Fisheries Science Center (PIFSC), National Marine Fisheries Service (NMFS), National Oceanic and Atmospheric Administration (NOAA)", "roles": ["pointOfContact"]}]"
 	},
 	{
 		"key": "temporal-extent-end",
@@ -221,11 +221,11 @@
 	},
 	{
 		"key": "bbox-south-lat",
-		"value": "\n          -14.563294\n        "
+		"value": "n          -14.563294n        "
 	},
 	{
 		"package_id": "b651efe0-18b8-4d84-abed-65d1b9f66be9",
-		"value": "pacific ocean, 1084, rose atoll (14s168w0001), aquatic habitat, united states of america, american samoa, coral reef ecology, reef habitat, earth science, geographic information, coastal processes, country\/territory, habitats, description, oceans, ocean basin, bathymetry, rugosity, benthic habitat mapping and characterization - american samoa and the u.s. pacific remote island area, biosphere, coral reefs, bathymetry\/seafloor topography",
+		"value": "pacific ocean, 1084, rose atoll (14s168w0001), aquatic habitat, united states of america, american samoa, coral reef ecology, reef habitat, earth science, geographic information, coastal processes, country/territory, habitats, description, oceans, ocean basin, bathymetry, rugosity, benthic habitat mapping and characterization - american samoa and the u.s. pacific remote island area, biosphere, coral reefs, bathymetry/seafloor topography",
 		"revision_timestamp": "2015-11-10T01:31:09.091821",
 		"state": "active",
 		"key": "tags",
@@ -255,7 +255,7 @@
 		"revision_timestamp": "2013-03-25T23:05:12.923863",
 		"is_organization": true,
 		"state": "active",
-		"image_url": "https:\/\/fortress.wa.gov\/dfw\/score\/score\/images\/noaa_logo.png",
+		"image_url": "https://fortress.wa.gov/dfw/score/score/images/noaa_logo.png",
 		"revision_id": "c6d43080-22e1-405e-a83d-f2a512d9e867",
 		"type": "organization",
 		"id": "e811f0b4-451f-4896-9e8f-fc6802837819",

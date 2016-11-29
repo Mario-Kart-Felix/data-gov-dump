@@ -37,7 +37,7 @@
 		"cache_url": null,
 		"name": "Zip File",
 		"created": "2016-03-31T19:57:47.508711",
-		"url": "http:\/\/edg.epa.gov\/data\/Restricted\/OEI\/OIAA\/GeoGrantsGDB.gdb.zip",
+		"url": "http://edg.epa.gov/data/Restricted/OEI/OIAA/GeoGrantsGDB.gdb.zip",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 0,
@@ -57,7 +57,7 @@
 	"name": "usepa-grants",
 	"isopen": false,
 	"url": null,
-	"notes": "This is a provisional dataset that contains point locations for all grants given out by the USEPA going back to the 1960s through today. There are many limitations to the data so it is advised that these metadata be read carefully before use. Although the records for these grant locations are drawn directly from the official EPA grants repository (IGMS \u2013 Integrated Grants Management System), it is important to know that the IGMS was designed for purposes that did not include accurately portraying the grant\u2019s place of performance on a map. Instead, the IGMS grant recipient\u2019s mailing address is the primary source for grant locations. Particularly for statewide grants that are administered via State and Regional headquarters, the grant location data should not be interpreted as the grant\u2019s place of performance. In 2012, a policy was established to start to collect the place of performance as a pilot for newly awarded grants \u2013 that were deemed \u201ccommunity-based\u201d in nature and for these the grant location depicted in this database will be a more reliable indicator of the actual place of performance. As for the locational accuracy of these points, there is no programmatic certification process, however, they are being entered by the Grant Project Officers who are most familiar with the details of the grants, apart from the grantees themselves. Limitations notwithstanding, this is a first-of-breed attempt to map all of the Agency\u2019s grants, using the best internal geocoding algorithms available, and is a useful tool for getting to an understanding of the distribution of USEPA grant-giving. Apart from the \"community-based\" grants that have been targeted for update with actual place of performance information, this dataset is improved on a regular basis with updates for the place of performance for Brownfields and related grant programs with a nightly refresh with the ACRES database (http:\/\/www.epa.gov\/brownfields\/pubs\/acres\/).",
+	"notes": "This is a provisional dataset that contains point locations for all grants given out by the USEPA going back to the 1960s through today. There are many limitations to the data so it is advised that these metadata be read carefully before use. Although the records for these grant locations are drawn directly from the official EPA grants repository (IGMS u2013 Integrated Grants Management System), it is important to know that the IGMS was designed for purposes that did not include accurately portraying the grantu2019s place of performance on a map. Instead, the IGMS grant recipientu2019s mailing address is the primary source for grant locations. Particularly for statewide grants that are administered via State and Regional headquarters, the grant location data should not be interpreted as the grantu2019s place of performance. In 2012, a policy was established to start to collect the place of performance as a pilot for newly awarded grants u2013 that were deemed u201ccommunity-basedu201d in nature and for these the grant location depicted in this database will be a more reliable indicator of the actual place of performance. As for the locational accuracy of these points, there is no programmatic certification process, however, they are being entered by the Grant Project Officers who are most familiar with the details of the grants, apart from the grantees themselves. Limitations notwithstanding, this is a first-of-breed attempt to map all of the Agencyu2019s grants, using the best internal geocoding algorithms available, and is a useful tool for getting to an understanding of the distribution of USEPA grant-giving. Apart from the "community-based" grants that have been targeted for update with actual place of performance information, this dataset is improved on a regular basis with updates for the place of performance for Brownfields and related grant programs with a nightly refresh with the ACRES database (http://www.epa.gov/brownfields/pubs/acres/).",
 	"license_title": null,
 	"extras": [{
 		"key": "bbox-east-long",
@@ -93,7 +93,7 @@
 	},
 	{
 		"key": "spatial",
-		"value": "{\"type\": \"Polygon\", \"coordinates\": [[[-174.20005, 17.70101], [-64.6851, 17.70101], [-64.6851, 71.29507], [-174.20005, 71.29507], [-174.20005, 17.70101]]]}"
+		"value": "{"type": "Polygon", "coordinates": [[[-174.20005, 17.70101], [-64.6851, 17.70101], [-64.6851, 71.29507], [-174.20005, 71.29507], [-174.20005, 17.70101]]]}"
 	},
 	{
 		"key": "progress",
@@ -101,11 +101,11 @@
 	},
 	{
 		"key": "access_constraints",
-		"value": "[\"Use Constraints: These data should not be distributed. Please check sources, scale, accuracy, currency and other available information. Please confirm that you are using the most recent copy of both data and metadata. Acknowledgement of the EPA would be appreciated.\", \"Access Constraints: These Data Are Restricted to Internal EPA Personnel Only\"]"
+		"value": "["Use Constraints: These data should not be distributed. Please check sources, scale, accuracy, currency and other available information. Please confirm that you are using the most recent copy of both data and metadata. Acknowledgement of the EPA would be appreciated.", "Access Constraints: These Data Are Restricted to Internal EPA Personnel Only"]"
 	},
 	{
 		"key": "licence_url",
-		"value": "https:\/\/edg.epa.gov\/EPA_Data_License.html"
+		"value": "https://edg.epa.gov/EPA_Data_License.html"
 	},
 	{
 		"key": "contact-email",
@@ -121,7 +121,7 @@
 	},
 	{
 		"key": "dataset-reference-date",
-		"value": "[{\"type\": \"publication\", \"value\": \"2012-02-15\"}]"
+		"value": "[{"type": "publication", "value": "2012-02-15"}]"
 	},
 	{
 		"key": "frequency-of-update",
@@ -129,7 +129,7 @@
 	},
 	{
 		"key": "licence",
-		"value": "[\"https:\/\/edg.epa.gov\/EPA_Data_License.html\"]"
+		"value": "["https://edg.epa.gov/EPA_Data_License.html"]"
 	},
 	{
 		"key": "metadata_type",
@@ -137,7 +137,7 @@
 	},
 	{
 		"key": "responsible-party",
-		"value": "[{\"name\": \"U.S. Environmental Protection Agency, Office of Environmental Information\", \"roles\": [\"pointOfContact\"]}]"
+		"value": "[{"name": "U.S. Environmental Protection Agency, Office of Environmental Information", "roles": ["pointOfContact"]}]"
 	},
 	{
 		"key": "spatial-data-service-type",
@@ -179,7 +179,7 @@
 		"revision_timestamp": "2014-01-16T18:58:42.895981",
 		"is_organization": true,
 		"state": "active",
-		"image_url": "http:\/\/edg.epa.gov\/EPALogo.svg",
+		"image_url": "http://edg.epa.gov/EPALogo.svg",
 		"revision_id": "f0e4b475-7424-4ce0-9a22-412e7e595154",
 		"type": "organization",
 		"id": "6d90e48d-3076-4327-b2f4-c33919f374d5",

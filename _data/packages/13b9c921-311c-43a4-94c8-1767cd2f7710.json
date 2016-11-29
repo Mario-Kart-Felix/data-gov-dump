@@ -37,7 +37,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2015-09-26T17:18:39.074468",
-		"url": "ftp:\/\/sidads.colorado.edu\/pub\/DATASETS\/NOAA\/G00802\/",
+		"url": "ftp://sidads.colorado.edu/pub/DATASETS/NOAA/G00802/",
 		"webstore_url": null,
 		"resource_locator_function": "function",
 		"position": 0,
@@ -67,7 +67,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2015-09-26T17:18:39.074507",
-		"url": "http:\/\/nsidc.org\/data\/docs\/noaa\/g00802_glerl_rad_transfer\/index.html",
+		"url": "http://nsidc.org/data/docs/noaa/g00802_glerl_rad_transfer/index.html",
 		"webstore_url": null,
 		"resource_locator_function": "function",
 		"position": 1,
@@ -85,7 +85,7 @@
 		"last_modified": null,
 		"hash": "",
 		"description": "",
-		"format": "application\/vnd.lotus-organizer",
+		"format": "application/vnd.lotus-organizer",
 		"tracking_summary": {
 			"total": 85,
 			"recent": 4
@@ -97,7 +97,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2015-09-26T17:18:39.074516",
-		"url": "http:\/\/nsidc.org",
+		"url": "http://nsidc.org",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 2,
@@ -127,7 +127,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2015-09-26T17:18:39.074524",
-		"url": "http:\/\/nsidc.org\/noaa\/",
+		"url": "http://nsidc.org/noaa/",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 3,
@@ -145,7 +145,7 @@
 		"last_modified": null,
 		"hash": "",
 		"description": "",
-		"format": "application\/vnd.lotus-organizer",
+		"format": "application/vnd.lotus-organizer",
 		"tracking_summary": {
 			"total": 85,
 			"recent": 4
@@ -157,7 +157,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2015-09-26T17:18:39.074531",
-		"url": "http:\/\/nsidc.org",
+		"url": "http://nsidc.org",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 4,
@@ -177,7 +177,7 @@
 	"name": "glerl-radiation-transfer-through-freshwater-ice",
 	"isopen": false,
 	"url": null,
-	"notes": "\nRadiation transmittance (ratio of transmitted to incident radiation) through clear ice, refrozen slush ice and brash ice, from ice surface to ice-water interface in the 400 to 600 nanometer range (photosynthetically active range), was measured at two freshwater lakes (Silver Lake, near Ann Arbor, Michigan, and Whitefish Point on Lake Superior). Data available include surface and under-ice sensor readings, date and time of observation, ice thickness, water depth, distance of under-ice sensor from ice bottom surface, and site number\/location. The data are relevant to studying the survival of plants and animals in freshwater lakes with ice or ice and snow cover. These data were collected by the NOAA Great Lakes Environmental Research Laboratory (GLERL), Ann Arbor, MI.\n",
+	"notes": "nRadiation transmittance (ratio of transmitted to incident radiation) through clear ice, refrozen slush ice and brash ice, from ice surface to ice-water interface in the 400 to 600 nanometer range (photosynthetically active range), was measured at two freshwater lakes (Silver Lake, near Ann Arbor, Michigan, and Whitefish Point on Lake Superior). Data available include surface and under-ice sensor readings, date and time of observation, ice thickness, water depth, distance of under-ice sensor from ice bottom surface, and site number/location. The data are relevant to studying the survival of plants and animals in freshwater lakes with ice or ice and snow cover. These data were collected by the NOAA Great Lakes Environmental Research Laboratory (GLERL), Ann Arbor, MI.n",
 	"license_title": null,
 	"extras": [{
 		"key": "bbox-east-long",
@@ -213,7 +213,7 @@
 	},
 	{
 		"key": "spatial",
-		"value": "{\"type\": \"Polygon\", \"coordinates\": [[[-85.0, 42.0], [-83.0, 42.0], [-83.0, 46.0], [-85.0, 46.0], [-85.0, 42.0]]]}"
+		"value": "{"type": "Polygon", "coordinates": [[[-85.0, 42.0], [-83.0, 42.0], [-83.0, 46.0], [-85.0, 46.0], [-85.0, 42.0]]]}"
 	},
 	{
 		"key": "progress",
@@ -221,7 +221,7 @@
 	},
 	{
 		"key": "access_constraints",
-		"value": "[\"Access Constraints : none\", \"Use Constraints : none\"]"
+		"value": "["Access Constraints : none", "Use Constraints : none"]"
 	},
 	{
 		"key": "temporal-extent-begin",
@@ -241,7 +241,7 @@
 	},
 	{
 		"key": "dataset-reference-date",
-		"value": "[{\"type\": \"publication\", \"value\": \"1995-01-01\"}]"
+		"value": "[{"type": "publication", "value": "1995-01-01"}]"
 	},
 	{
 		"key": "frequency-of-update",
@@ -257,7 +257,7 @@
 	},
 	{
 		"key": "responsible-party",
-		"value": "[{\"name\": \"National Snow and Ice Data Center\", \"roles\": [\"pointOfContact\"]}]"
+		"value": "[{"name": "National Snow and Ice Data Center", "roles": ["pointOfContact"]}]"
 	},
 	{
 		"key": "temporal-extent-end",
@@ -273,7 +273,7 @@
 	},
 	{
 		"package_id": "13b9c921-311c-43a4-94c8-1767cd2f7710",
-		"value": "transmittance, atmosphere, lake ice, cryosphere, north america, continent, earth science, incident light, usa, ice depth\/thickness, atmospheric radiation, solar radiation, united states of america, mid-latitude, geographic region, great lakes, terrestrial hydrosphere, light transmission, subglacial observations, ice cover effect, idn_node gsfc\/nsidc, freshwater ice, snow\/ice",
+		"value": "transmittance, atmosphere, lake ice, cryosphere, north america, continent, earth science, incident light, usa, ice depth/thickness, atmospheric radiation, solar radiation, united states of america, mid-latitude, geographic region, great lakes, terrestrial hydrosphere, light transmission, subglacial observations, ice cover effect, idn_node gsfc/nsidc, freshwater ice, snow/ice",
 		"revision_timestamp": "2015-09-26T21:18:39.028580",
 		"state": "active",
 		"key": "tags",
@@ -303,7 +303,7 @@
 		"revision_timestamp": "2013-03-25T23:05:12.923863",
 		"is_organization": true,
 		"state": "active",
-		"image_url": "https:\/\/fortress.wa.gov\/dfw\/score\/score\/images\/noaa_logo.png",
+		"image_url": "https://fortress.wa.gov/dfw/score/score/images/noaa_logo.png",
 		"revision_id": "c6d43080-22e1-405e-a83d-f2a512d9e867",
 		"type": "organization",
 		"id": "e811f0b4-451f-4896-9e8f-fc6802837819",

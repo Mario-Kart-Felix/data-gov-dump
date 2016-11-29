@@ -37,7 +37,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2016-05-31T00:34:13.652608",
-		"url": "https:\/\/coast.noaa.gov\/slr",
+		"url": "https://coast.noaa.gov/slr",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 0,
@@ -67,7 +67,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2016-05-31T00:34:13.652635",
-		"url": "https:\/\/coast.noaa.gov\/digitalcoast\/tools\/slr",
+		"url": "https://coast.noaa.gov/digitalcoast/tools/slr",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 1,
@@ -97,7 +97,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2016-05-31T00:34:13.652645",
-		"url": "https:\/\/coast.noaa.gov\/",
+		"url": "https://coast.noaa.gov/",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 2,
@@ -119,7 +119,7 @@
 		"revision_timestamp": "2013-03-25T23:05:12.923863",
 		"is_organization": true,
 		"state": "active",
-		"image_url": "https:\/\/fortress.wa.gov\/dfw\/score\/score\/images\/noaa_logo.png",
+		"image_url": "https://fortress.wa.gov/dfw/score/score/images/noaa_logo.png",
 		"revision_id": "c6d43080-22e1-405e-a83d-f2a512d9e867",
 		"type": "organization",
 		"id": "e811f0b4-451f-4896-9e8f-fc6802837819",
@@ -166,7 +166,7 @@
 	},
 	{
 		"key": "spatial",
-		"value": "{\"type\": \"Polygon\", \"coordinates\": [[[-118.127002201, 32.5279218709], [-116.079907201, 32.5279218709], [-116.079907201, 33.9484368709], [-118.127002201, 33.9484368709], [-118.127002201, 32.5279218709]]]}"
+		"value": "{"type": "Polygon", "coordinates": [[[-118.127002201, 32.5279218709], [-116.079907201, 32.5279218709], [-116.079907201, 33.9484368709], [-118.127002201, 33.9484368709], [-118.127002201, 32.5279218709]]]}"
 	},
 	{
 		"key": "progress",
@@ -174,7 +174,7 @@
 	},
 	{
 		"key": "access_constraints",
-		"value": "[\"Use Constraints: The dataset is provided \\\"as is,\\\" without warranty to its performance, merchantable state, or fitness for any particular purpose. The entire risk associated with the results and performance of this dataset is assumed by the user. This dataset should be used strictly as a planning reference and not for navigation, permitting, or other legal purposes.\", \"Access Constraints: None\"]"
+		"value": "["Use Constraints: The dataset is provided \"as is,\" without warranty to its performance, merchantable state, or fitness for any particular purpose. The entire risk associated with the results and performance of this dataset is assumed by the user. This dataset should be used strictly as a planning reference and not for navigation, permitting, or other legal purposes.", "Access Constraints: None"]"
 	},
 	{
 		"key": "temporal-extent-begin",
@@ -194,7 +194,7 @@
 	},
 	{
 		"key": "dataset-reference-date",
-		"value": "[{\"type\": \"publication\", \"value\": \"2012-01-01\"}]"
+		"value": "[{"type": "publication", "value": "2012-01-01"}]"
 	},
 	{
 		"key": "frequency-of-update",
@@ -202,7 +202,7 @@
 	},
 	{
 		"key": "licence",
-		"value": "[\"Any conclusions drawn from the analysis of this information are not the responsibility of the the Office for Coastal Management or its partners.\"]"
+		"value": "["Any conclusions drawn from the analysis of this information are not the responsibility of the the Office for Coastal Management or its partners."]"
 	},
 	{
 		"key": "metadata_type",
@@ -210,7 +210,7 @@
 	},
 	{
 		"key": "responsible-party",
-		"value": "[{\"name\": \"NOAA Office for Coastal Management\", \"roles\": [\"pointOfContact\"]}]"
+		"value": "[{"name": "NOAA Office for Coastal Management", "roles": ["pointOfContact"]}]"
 	},
 	{
 		"key": "temporal-extent-end",
@@ -226,7 +226,7 @@
 	},
 	{
 		"key": "tags",
-		"value": "sea level rise, topography, elevation, inundation, us, lidar, san diego county, bathymetry\/topography, dem, digital elevation model, california, orange county, flooding",
+		"value": "sea level rise, topography, elevation, inundation, us, lidar, san diego county, bathymetry/topography, dem, digital elevation model, california, orange county, flooding",
 		"__extras": {
 			"revision_id": "41672330-4cee-4431-8eb3-872b918d8715",
 			"package_id": "010a5f2b-bcf5-40a6-9dc2-74fab0f68e56"

@@ -37,7 +37,7 @@
 		"cache_url": null,
 		"name": "Zip File",
 		"created": "2016-07-15T21:35:05.588033",
-		"url": "ftp:\/\/www.co.kootenai.id.us\/GISData\/Cadastral\/Parcel_Maps\/kc_parcel_poly.zip",
+		"url": "ftp://www.co.kootenai.id.us/GISData/Cadastral/Parcel_Maps/kc_parcel_poly.zip",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 0,
@@ -67,7 +67,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2016-07-15T21:35:05.588069",
-		"url": "ftp:\/\/www.co.kootenai.id.us\/GISData\/Metadata\/parcelmaps.htm http:\/\/www.co.kootenai.id.us\/departments\/mapping\/assessor\/",
+		"url": "ftp://www.co.kootenai.id.us/GISData/Metadata/parcelmaps.htm http://www.co.kootenai.id.us/departments/mapping/assessor/",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 1,
@@ -87,7 +87,7 @@
 	"name": "kootenai-county-assessment-parcel-maps",
 	"isopen": false,
 	"url": null,
-	"notes": "This data consists of the complete set of the KootenaiCounty Assessor's Office parcel assessment maps. The individual maps are based on the Public Land Survey System,and cover 1\/4 section , section or township areas, based on parcel density. This data consists of vector (lines), text,and parcel-id attribute-point data. The data is not intended to provide polygon topology.",
+	"notes": "This data consists of the complete set of the KootenaiCounty Assessor's Office parcel assessment maps. The individual maps are based on the Public Land Survey System,and cover 1/4 section , section or township areas, based on parcel density. This data consists of vector (lines), text,and parcel-id attribute-point data. The data is not intended to provide polygon topology.",
 	"license_title": null,
 	"extras": [{
 		"key": "bbox-east-long",
@@ -123,7 +123,7 @@
 	},
 	{
 		"key": "spatial",
-		"value": "{\"type\": \"Polygon\", \"coordinates\": [[[-117.055308, 47.363884], [-116.320651, 47.363884], [-116.320651, 47.993514], [-117.055308, 47.993514], [-117.055308, 47.363884]]]}"
+		"value": "{"type": "Polygon", "coordinates": [[[-117.055308, 47.363884], [-116.320651, 47.363884], [-116.320651, 47.993514], [-117.055308, 47.993514], [-117.055308, 47.363884]]]}"
 	},
 	{
 		"key": "progress",
@@ -131,7 +131,7 @@
 	},
 	{
 		"key": "access_constraints",
-		"value": "[\"Use Constraints: Public data, no restrictions on use. Data is offered \\\"as is\\\", for reference purposes only, and Kootenai County is not responsible for inaccuracies or misuse of the data.\", \"Access Constraints: Public data, no restrictions on access.\"]"
+		"value": "["Use Constraints: Public data, no restrictions on use. Data is offered \"as is\", for reference purposes only, and Kootenai County is not responsible for inaccuracies or misuse of the data.", "Access Constraints: Public data, no restrictions on access."]"
 	},
 	{
 		"key": "temporal-extent-begin",
@@ -151,7 +151,7 @@
 	},
 	{
 		"key": "dataset-reference-date",
-		"value": "[{\"type\": \"publication\", \"value\": \"\"}]"
+		"value": "[{"type": "publication", "value": ""}]"
 	},
 	{
 		"key": "frequency-of-update",
@@ -159,7 +159,7 @@
 	},
 	{
 		"key": "licence",
-		"value": "[\"none\"]"
+		"value": "["none"]"
 	},
 	{
 		"key": "metadata_type",
@@ -167,7 +167,7 @@
 	},
 	{
 		"key": "responsible-party",
-		"value": "[{\"name\": \"Kootenai County Assessors Office\", \"roles\": [\"pointOfContact\"]}]"
+		"value": "[{"name": "Kootenai County Assessors Office", "roles": ["pointOfContact"]}]"
 	},
 	{
 		"key": "spatial-data-service-type",
@@ -209,7 +209,7 @@
 		"revision_timestamp": "2015-01-16T18:28:14.593903",
 		"is_organization": true,
 		"state": "active",
-		"image_url": "http:\/\/upload.wikimedia.org\/wikipedia\/en\/thumb\/4\/44\/University_of_Idaho_seal.svg\/300px-University_of_Idaho_seal.svg.png",
+		"image_url": "http://upload.wikimedia.org/wikipedia/en/thumb/4/44/University_of_Idaho_seal.svg/300px-University_of_Idaho_seal.svg.png",
 		"revision_id": "761955d7-9530-4622-8609-d0b01c78e177",
 		"type": "organization",
 		"id": "75e22a8a-da5f-46f3-93d8-924063a3703d",

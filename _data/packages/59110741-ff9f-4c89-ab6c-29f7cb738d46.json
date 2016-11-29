@@ -37,7 +37,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2013-03-15T10:52:07.962890",
-		"url": "http:\/\/www.nps.gov\/gis",
+		"url": "http://www.nps.gov/gis",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 0,
@@ -67,7 +67,7 @@
 		"cache_url": null,
 		"name": "Zip File",
 		"created": "2013-03-15T10:52:07.962911",
-		"url": "http:\/\/irmafiles.nps.gov\/Reference\/Holding\/368695\/nwi_rway_plus.zip",
+		"url": "http://irmafiles.nps.gov/Reference/Holding/368695/nwi_rway_plus.zip",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 1,
@@ -97,7 +97,7 @@
 		"cache_url": null,
 		"name": "QGIS File",
 		"created": "2013-03-15T10:52:07.962919",
-		"url": "http:\/\/\\\\INPSACNGIS31814\\D$\\data\\sacn\\nwi\\nwi_rway_plus.shp",
+		"url": "http://\\INPSACNGIS31814\D$\data\sacn\nwi\nwi_rway_plus.shp",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 2,
@@ -127,7 +127,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2013-03-15T10:52:07.962926",
-		"url": "http:\/\/www.nps.gov\/gis",
+		"url": "http://www.nps.gov/gis",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 3,
@@ -157,7 +157,7 @@
 		"cache_url": null,
 		"name": "Zip File",
 		"created": "2013-03-15T10:52:07.962933",
-		"url": "http:\/\/irmafiles.nps.gov\/Reference\/Holding\/368695\/nwi_rway_plus.zip",
+		"url": "http://irmafiles.nps.gov/Reference/Holding/368695/nwi_rway_plus.zip",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 4,
@@ -187,7 +187,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2013-03-15T10:52:07.962940",
-		"url": "http:\/\/www.nwi.fws.gov",
+		"url": "http://www.nwi.fws.gov",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 5,
@@ -217,7 +217,7 @@
 		"cache_url": null,
 		"name": "XML File",
 		"created": "2013-03-15T10:52:07.962946",
-		"url": "http:\/\/nrdata.nps.gov\/sacn\/sacndata\/nwi_rway_plus.shp.xml",
+		"url": "http://nrdata.nps.gov/sacn/sacndata/nwi_rway_plus.shp.xml",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 6,
@@ -237,7 +237,7 @@
 	"name": "national-wetlands-inventory-nwi-rway-plus",
 	"isopen": false,
 	"url": null,
-	"notes": "nwi_rway_plus is National Wetlands Inventory data that has been converted to ArcGIS shapefile format. NWI maps depict wetland point, line, and area features with attributes adapted from \"Classification of Wetlands and Deepwater Habitats of the United States.\" (FWS\/OBS-79\/31, December 1979). nwi_rway_plus covers quads that abut and are near the Riverway boundary, on the Minnesota side of the St. Croix River.",
+	"notes": "nwi_rway_plus is National Wetlands Inventory data that has been converted to ArcGIS shapefile format. NWI maps depict wetland point, line, and area features with attributes adapted from "Classification of Wetlands and Deepwater Habitats of the United States." (FWS/OBS-79/31, December 1979). nwi_rway_plus covers quads that abut and are near the Riverway boundary, on the Minnesota side of the St. Croix River.",
 	"license_title": null,
 	"extras": [{
 		"key": "bbox-east-long",
@@ -273,11 +273,11 @@
 	},
 	{
 		"key": "spatial",
-		"value": "{\"type\": \"Polygon\", \"coordinates\": [[[-93.000222, 44.622622], [-93.000222, 46.127401], [-92.248498, 46.127401], [-92.248498, 44.622622], [-93.000222, 44.622622]]]}"
+		"value": "{"type": "Polygon", "coordinates": [[[-93.000222, 44.622622], [-93.000222, 46.127401], [-92.248498, 46.127401], [-92.248498, 44.622622], [-93.000222, 44.622622]]]}"
 	},
 	{
 		"key": "access_constraints",
-		"value": "[\"Use Constraints: Not for use at scales greater than 1:24,000\", \"Access Constraints: None\"]"
+		"value": "["Use Constraints: Not for use at scales greater than 1:24,000", "Access Constraints: None"]"
 	},
 	{
 		"key": "temporal-extent-begin",
@@ -297,7 +297,7 @@
 	},
 	{
 		"key": "dataset-reference-date",
-		"value": "[{\"type\": \"publication\", \"value\": \"1994-01-01\"}]"
+		"value": "[{"type": "publication", "value": "1994-01-01"}]"
 	},
 	{
 		"key": "frequency-of-update",
@@ -305,7 +305,7 @@
 	},
 	{
 		"key": "licence",
-		"value": "[\"\\nThe National Park Service shall not be held liable for improper or incorrect use of the data described and\/or contained herein. These data and related graphics (i.e. \\\"GIF or JPG\\\" format files) are not legal documents and are not intended to be used as such. The information contained in these data is dynamic and may change over time. The data are not better than the original sources from which they were derived. It is the responsibility of the data user to use the data appropriately and consistent within the limitations of geospatial data in general and these data in particular.\\nThe related graphics are intended to aid the data user in acquiring relevant data; it is not appropriate to use the related graphics as data. The National Park Service gives no warranty, expressed or implied, as to the accuracy, reliability, or completeness of these data. It is strongly recommended that these data are directly acquired from an NPS server and not indirectly through other sources which may have changed the data in some way.  Although these data have been processed successfully on computer systems at the National Park Service , no warranty expressed or implied is made regarding the utility of the data on other systems for general or scientific purposes, nor shall the act of distribution constitute any such warranty. This disclaimer applies both to individual use of the data and aggregate use with other data.\\n\"]"
+		"value": "["\nThe National Park Service shall not be held liable for improper or incorrect use of the data described and/or contained herein. These data and related graphics (i.e. \"GIF or JPG\" format files) are not legal documents and are not intended to be used as such. The information contained in these data is dynamic and may change over time. The data are not better than the original sources from which they were derived. It is the responsibility of the data user to use the data appropriately and consistent within the limitations of geospatial data in general and these data in particular.\nThe related graphics are intended to aid the data user in acquiring relevant data; it is not appropriate to use the related graphics as data. The National Park Service gives no warranty, expressed or implied, as to the accuracy, reliability, or completeness of these data. It is strongly recommended that these data are directly acquired from an NPS server and not indirectly through other sources which may have changed the data in some way.  Although these data have been processed successfully on computer systems at the National Park Service , no warranty expressed or implied is made regarding the utility of the data on other systems for general or scientific purposes, nor shall the act of distribution constitute any such warranty. This disclaimer applies both to individual use of the data and aggregate use with other data.\n"]"
 	},
 	{
 		"key": "metadata_type",
@@ -313,7 +313,7 @@
 	},
 	{
 		"key": "responsible-party",
-		"value": "[{\"name\": \"St. Croix National Scenic Riverway\", \"roles\": [\"pointOfContact\"]}]"
+		"value": "[{"name": "St. Croix National Scenic Riverway", "roles": ["pointOfContact"]}]"
 	},
 	{
 		"key": "temporal-extent-end",
@@ -359,7 +359,7 @@
 		"revision_timestamp": "2015-03-18T14:25:04.527925",
 		"is_organization": true,
 		"state": "active",
-		"image_url": "https:\/\/raw.githubusercontent.com\/GSA\/logo\/master\/nps.png",
+		"image_url": "https://raw.githubusercontent.com/GSA/logo/master/nps.png",
 		"revision_id": "c01136dc-911c-4651-92b7-36046d755b81",
 		"type": "organization",
 		"id": "ffbc26a5-1ae8-4c8c-ac45-e5b76fc6486a",

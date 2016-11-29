@@ -36,7 +36,7 @@
 		"cache_url": null,
 		"name": "ESRI Shapefile (.shp)",
 		"created": "2016-07-15T21:34:36.449308",
-		"url": "http:\/\/cloud.insideidaho.org\/webApps\/util\/zip.ashx?fn=http:\/\/cloud.insideidaho.org\/data\/igdc\/quadbnd12k_id_igdc.shp",
+		"url": "http://cloud.insideidaho.org/webApps/util/zip.ashx?fn=http://cloud.insideidaho.org/data/igdc/quadbnd12k_id_igdc.shp",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 0,
@@ -65,7 +65,7 @@
 		"cache_url": null,
 		"name": "ESRI Map Service Layer REST Endpoint",
 		"created": "2016-07-15T21:34:36.449330",
-		"url": "http:\/\/cloud.insideidaho.org\/ArcGIS\/rest\/services\/location\/location\/MapServer\/3",
+		"url": "http://cloud.insideidaho.org/ArcGIS/rest/services/location/location/MapServer/3",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 1,
@@ -94,7 +94,7 @@
 		"cache_url": null,
 		"name": "ESRI Layer File (.lyr)",
 		"created": "2016-07-15T21:34:36.449338",
-		"url": "http:\/\/cloud.insideidaho.org\/data\/igdc\/quadBnd250k_id_igdc.lyr",
+		"url": "http://cloud.insideidaho.org/data/igdc/quadBnd250k_id_igdc.lyr",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 2,
@@ -123,7 +123,7 @@
 		"cache_url": null,
 		"name": "OGC WMS",
 		"created": "2016-07-15T21:34:36.449345",
-		"url": "http:\/\/cloud.insideidaho.org\/ArcGIS\/services\/location\/location\/MapServer\/WMSServer?request=GetCapabilities&service=WMS",
+		"url": "http://cloud.insideidaho.org/ArcGIS/services/location/location/MapServer/WMSServer?request=GetCapabilities&service=WMS",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 3,
@@ -152,7 +152,7 @@
 		"cache_url": null,
 		"name": "OGC WFS",
 		"created": "2016-07-15T21:34:36.449352",
-		"url": "http:\/\/cloud.insideidaho.org\/ArcGIS\/services\/location\/location\/MapServer\/WFSServer?request=GetCapabilities&service=WFS",
+		"url": "http://cloud.insideidaho.org/ArcGIS/services/location/location/MapServer/WFSServer?request=GetCapabilities&service=WFS",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 4,
@@ -181,7 +181,7 @@
 		"cache_url": null,
 		"name": "KML (Google Earth)",
 		"created": "2016-07-15T21:34:36.449359",
-		"url": "http:\/\/cloud.insideidaho.org\/ArcGIS\/rest\/services\/location\/location\/MapServer\/generatekml?docName=location&layers=3&layerOptions=nonComposite",
+		"url": "http://cloud.insideidaho.org/ArcGIS/rest/services/location/location/MapServer/generatekml?docName=location&layers=3&layerOptions=nonComposite",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 5,
@@ -211,7 +211,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2016-07-15T21:34:36.449366",
-		"url": "http:\/\/cloud.insideidaho.org\/webApps\/util\/zip.ashx?fn=http:\/\/cloud.insideidaho.org\/data\/igdc\/quadbnd12k_id_igdc.shp",
+		"url": "http://cloud.insideidaho.org/webApps/util/zip.ashx?fn=http://cloud.insideidaho.org/data/igdc/quadbnd12k_id_igdc.shp",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 6,
@@ -235,7 +235,7 @@
 	"license_title": null,
 	"extras": [{
 		"key": "responsible-party",
-		"value": "[{\"name\": \"Idaho Geospatial Data Clearinghouse\", \"roles\": [\"pointOfContact\"]}]"
+		"value": "[{"name": "Idaho Geospatial Data Clearinghouse", "roles": ["pointOfContact"]}]"
 	},
 	{
 		"key": "contact-email",
@@ -255,7 +255,7 @@
 	},
 	{
 		"key": "dataset-reference-date",
-		"value": "[{\"type\": \"publication\", \"value\": \"2006-03-21\"}]"
+		"value": "[{"type": "publication", "value": "2006-03-21"}]"
 	},
 	{
 		"key": "resource-type",
@@ -283,7 +283,7 @@
 	},
 	{
 		"key": "licence",
-		"value": "[\"Although these data have been processed successfully on a computer system at the Idaho Geospatial Data Clearinghouse, no warranty, expressed or implied, is made regarding the utility of the data on any other system, nor shall the act of distribution constitute any such warranty.\"]"
+		"value": "["Although these data have been processed successfully on a computer system at the Idaho Geospatial Data Clearinghouse, no warranty, expressed or implied, is made regarding the utility of the data on any other system, nor shall the act of distribution constitute any such warranty."]"
 	},
 	{
 		"key": "metadata_type",
@@ -295,7 +295,7 @@
 	},
 	{
 		"key": "spatial",
-		"value": "{\"type\": \"Polygon\", \"coordinates\": [[[-117.547931, 41.894771], [-110.604206, 41.894771], [-110.604206, 49.040617], [-117.547931, 49.040617], [-117.547931, 41.894771]]]}"
+		"value": "{"type": "Polygon", "coordinates": [[[-117.547931, 41.894771], [-110.604206, 41.894771], [-110.604206, 49.040617], [-117.547931, 49.040617], [-117.547931, 41.894771]]]}"
 	},
 	{
 		"key": "guid",
@@ -307,7 +307,7 @@
 	},
 	{
 		"key": "access_constraints",
-		"value": "[\"Use Constraints: None.\", \"Access Constraints: None.\"]"
+		"value": "["Use Constraints: None.", "Access Constraints: None."]"
 	},
 	{
 		"key": "spatial_harvester",
@@ -349,7 +349,7 @@
 		"revision_timestamp": "2015-01-16T18:28:14.593903",
 		"is_organization": true,
 		"state": "active",
-		"image_url": "http:\/\/upload.wikimedia.org\/wikipedia\/en\/thumb\/4\/44\/University_of_Idaho_seal.svg\/300px-University_of_Idaho_seal.svg.png",
+		"image_url": "http://upload.wikimedia.org/wikipedia/en/thumb/4/44/University_of_Idaho_seal.svg/300px-University_of_Idaho_seal.svg.png",
 		"revision_id": "761955d7-9530-4622-8609-d0b01c78e177",
 		"type": "organization",
 		"id": "75e22a8a-da5f-46f3-93d8-924063a3703d",

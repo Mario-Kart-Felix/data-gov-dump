@@ -37,7 +37,7 @@
 		"cache_url": null,
 		"name": "Web Feature Service",
 		"created": "2013-03-14T21:28:31.083014",
-		"url": "http:\/\/gis.glin.net\/geoserver\/wfs?request=getfeature&service=wfs&version=1.0.0&typename=glin:lm_shoreline_nois_noaa&outputformat=shape-zip",
+		"url": "http://gis.glin.net/geoserver/wfs?request=getfeature&service=wfs&version=1.0.0&typename=glin:lm_shoreline_nois_noaa&outputformat=shape-zip",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 0,
@@ -67,7 +67,7 @@
 		"cache_url": null,
 		"name": "Web Feature Service",
 		"created": "2013-03-14T21:28:31.083035",
-		"url": "http:\/\/gis.glin.net\/geoserver\/wfs?request=getfeature&service=wfs&version=1.0.0&typename=glin:lm_shoreline_nois_noaa&outputformat=GML2-GZIP",
+		"url": "http://gis.glin.net/geoserver/wfs?request=getfeature&service=wfs&version=1.0.0&typename=glin:lm_shoreline_nois_noaa&outputformat=GML2-GZIP",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 1,
@@ -97,7 +97,7 @@
 		"cache_url": null,
 		"name": "Web Mapping Service",
 		"created": "2013-03-14T21:28:31.083044",
-		"url": "http:\/\/gis.glin.net\/geoserver\/wms?bbox=-88.049951,41.608256,-84.727455,46.102637&request=GetMap&layers=glin:lm_shoreline_nois_noaa&width=600&height=400&srs=EPSG:4326&styles=line_black&format=image\/svg",
+		"url": "http://gis.glin.net/geoserver/wms?bbox=-88.049951,41.608256,-84.727455,46.102637&request=GetMap&layers=glin:lm_shoreline_nois_noaa&width=600&height=400&srs=EPSG:4326&styles=line_black&format=image/svg",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 2,
@@ -127,7 +127,7 @@
 		"cache_url": null,
 		"name": "Web Mapping Service",
 		"created": "2013-03-14T21:28:31.083050",
-		"url": "http:\/\/gis.glin.net\/geoserver\/wms?bbox=-88.049951,41.608256,-84.727455,46.102637&request=GetMap&layers=glin:lm_shoreline_nois_noaa&width=600&height=400&srs=EPSG:4326&styles=line_black&format=application\/pdf",
+		"url": "http://gis.glin.net/geoserver/wms?bbox=-88.049951,41.608256,-84.727455,46.102637&request=GetMap&layers=glin:lm_shoreline_nois_noaa&width=600&height=400&srs=EPSG:4326&styles=line_black&format=application/pdf",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 3,
@@ -157,7 +157,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2013-03-14T21:28:31.083057",
-		"url": "http:\/\/gis.glin.net\/ogc\/services.php#lm_shoreline_nois_noaa",
+		"url": "http://gis.glin.net/ogc/services.php#lm_shoreline_nois_noaa",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 4,
@@ -181,7 +181,7 @@
 	"license_title": null,
 	"extras": [{
 		"key": "responsible-party",
-		"value": "[{\"name\": \"University of Michigan\", \"roles\": [\"pointOfContact\"]}]"
+		"value": "[{"name": "University of Michigan", "roles": ["pointOfContact"]}]"
 	},
 	{
 		"key": "contact-email",
@@ -201,7 +201,7 @@
 	},
 	{
 		"key": "dataset-reference-date",
-		"value": "[{\"type\": \"publication\", \"value\": \"9999-01-01\"}]"
+		"value": "[{"type": "publication", "value": "9999-01-01"}]"
 	},
 	{
 		"key": "resource-type",
@@ -229,7 +229,7 @@
 	},
 	{
 		"key": "licence",
-		"value": "[\"Disclaimer. The Great Lakes Commission (GLC) and the Great Lakes Information Network (GLIN) cannot assume liability for any damages caused by any errors or omissions in the data, nor as a result of the failure of the data to function on a particular system. The Great Lakes Commission (GLC) and the Great Lakes Information Network (GLIN) make no warranty, expressed or implied, nor does the fact of distribution constitute such a warranty.\"]"
+		"value": "["Disclaimer. The Great Lakes Commission (GLC) and the Great Lakes Information Network (GLIN) cannot assume liability for any damages caused by any errors or omissions in the data, nor as a result of the failure of the data to function on a particular system. The Great Lakes Commission (GLC) and the Great Lakes Information Network (GLIN) make no warranty, expressed or implied, nor does the fact of distribution constitute such a warranty."]"
 	},
 	{
 		"key": "metadata_type",
@@ -237,7 +237,7 @@
 	},
 	{
 		"key": "spatial",
-		"value": "{\"type\": \"Polygon\", \"coordinates\": [[[-88.049951, 41.608256], [-88.049951, 46.102637], [-84.727455, 46.102637], [-84.727455, 41.608256], [-88.049951, 41.608256]]]}"
+		"value": "{"type": "Polygon", "coordinates": [[[-88.049951, 41.608256], [-88.049951, 46.102637], [-84.727455, 46.102637], [-84.727455, 41.608256], [-88.049951, 41.608256]]]}"
 	},
 	{
 		"key": "guid",
@@ -249,11 +249,11 @@
 	},
 	{
 		"key": "access_constraints",
-		"value": "[\"Use Constraints: Vector Shoreline: The vector data are intended for general planning, study, and illustrative purposes. The data are not intended for uses hat require a high degree of positional accuracy.\", \"Access Constraints: None\"]"
+		"value": "["Use Constraints: Vector Shoreline: The vector data are intended for general planning, study, and illustrative purposes. The data are not intended for uses hat require a high degree of positional accuracy.", "Access Constraints: None"]"
 	},
 	{
 		"key": "graphic-preview-file",
-		"value": "http:\/\/gis.glin.net\/geoserver\/wms?bbox=-88.049951,41.608256,-84.727455,46.102637&request=GetMap&layers=glin:lm_shoreline_nois_noaa&width=600&height=400&srs=EPSG:4326&styles=line_black&format=image\/png"
+		"value": "http://gis.glin.net/geoserver/wms?bbox=-88.049951,41.608256,-84.727455,46.102637&request=GetMap&layers=glin:lm_shoreline_nois_noaa&width=600&height=400&srs=EPSG:4326&styles=line_black&format=image/png"
 	},
 	{
 		"key": "frequency-of-update",
@@ -291,7 +291,7 @@
 		"revision_timestamp": "2015-01-16T18:08:30.443285",
 		"is_organization": true,
 		"state": "active",
-		"image_url": "http:\/\/indianarealpropertylaw.com\/wp-content\/uploads\/2013\/07\/Great-Lakes-Commission.jpg",
+		"image_url": "http://indianarealpropertylaw.com/wp-content/uploads/2013/07/Great-Lakes-Commission.jpg",
 		"revision_id": "b1642f30-a698-46dd-ad02-061968095af6",
 		"type": "organization",
 		"id": "6f701557-5979-4d24-9171-73111c57faec",

@@ -37,7 +37,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2016-09-05T18:34:37.416326",
-		"url": "http:\/\/geodesy.noaa.gov\/CORS\/data.shtml",
+		"url": "http://geodesy.noaa.gov/CORS/data.shtml",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 0,
@@ -67,7 +67,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2016-09-05T18:34:37.416349",
-		"url": "http:\/\/geodesy.noaa.gov\/CORS",
+		"url": "http://geodesy.noaa.gov/CORS",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 1,
@@ -97,7 +97,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2016-09-05T18:34:37.416358",
-		"url": "ftp:\/\/geodesy.noaa.gov\/cors\/",
+		"url": "ftp://geodesy.noaa.gov/cors/",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 2,
@@ -127,7 +127,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2016-09-05T18:34:37.416366",
-		"url": "http:\/\/alt.ngs.noaa.gov\/CORS",
+		"url": "http://alt.ngs.noaa.gov/CORS",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 3,
@@ -157,7 +157,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2016-09-05T18:34:37.416374",
-		"url": "ftp:\/\/alt.ngs.noaa.gov\/cors\/",
+		"url": "ftp://alt.ngs.noaa.gov/cors/",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 4,
@@ -187,7 +187,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2016-09-05T18:34:37.416382",
-		"url": "http:\/\/www.ngs.noaa.gov\/UFCORS\/",
+		"url": "http://www.ngs.noaa.gov/UFCORS/",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 5,
@@ -217,7 +217,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2016-09-05T18:34:37.416389",
-		"url": "http:\/\/www.ngs.noaa.gov\/CORS\/standard1.shtml",
+		"url": "http://www.ngs.noaa.gov/CORS/standard1.shtml",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 6,
@@ -284,7 +284,7 @@
 	},
 	{
 		"key": "__category_tag_9a350fa9-bc49-43d4-8e77-270b9714976d",
-		"value": "[\"State\",\"California\",\"Immigration\",\"Country of Birth\",\"Asian\",\"Pacific Islander\",\"Pacific Islands\",\"Hawaii\"]"
+		"value": "["State","California","Immigration","Country of Birth","Asian","Pacific Islander","Pacific Islands","Hawaii"]"
 	},
 	{
 		"key": "guid",
@@ -304,11 +304,11 @@
 	},
 	{
 		"key": "spatial",
-		"value": "{\"type\": \"Polygon\", \"coordinates\": [[[-180.0, -90.0], [180.0, -90.0], [180.0, 90.0], [-180.0, 90.0], [-180.0, -90.0]]]}"
+		"value": "{"type": "Polygon", "coordinates": [[[-180.0, -90.0], [180.0, -90.0], [180.0, 90.0], [-180.0, 90.0], [-180.0, -90.0]]]}"
 	},
 	{
 		"key": "__category_tag_872991f6-ef6d-40e1-8bdc-fbbcede1463d",
-		"value": "[\"Natural Disasters\"]"
+		"value": "["Natural Disasters"]"
 	},
 	{
 		"key": "progress",
@@ -316,7 +316,7 @@
 	},
 	{
 		"key": "access_constraints",
-		"value": "[\"Use Constraints: While every effort has been made to ensure that these data are accurate and reliable within the limits of the current state of the art, NOAA cannot assume liability for any damages caused by any errors or omissions in the data, nor as a result of the failure of the data to function on a particular system. NOAA makes no warranty, expressed or implied, nor does the fact of distribution constitute such a warranty.\", \"Access Constraints: None\"]"
+		"value": "["Use Constraints: While every effort has been made to ensure that these data are accurate and reliable within the limits of the current state of the art, NOAA cannot assume liability for any damages caused by any errors or omissions in the data, nor as a result of the failure of the data to function on a particular system. NOAA makes no warranty, expressed or implied, nor does the fact of distribution constitute such a warranty.", "Access Constraints: None"]"
 	},
 	{
 		"key": "temporal-extent-begin",
@@ -336,7 +336,7 @@
 	},
 	{
 		"key": "dataset-reference-date",
-		"value": "[{\"type\": \"publication\", \"value\": \"1994-04-21\"}]"
+		"value": "[{"type": "publication", "value": "1994-04-21"}]"
 	},
 	{
 		"key": "frequency-of-update",
@@ -344,7 +344,7 @@
 	},
 	{
 		"key": "licence",
-		"value": "[\"Use at your own risk\"]"
+		"value": "["Use at your own risk"]"
 	},
 	{
 		"key": "metadata_type",
@@ -352,7 +352,7 @@
 	},
 	{
 		"key": "responsible-party",
-		"value": "[{\"name\": \"National Oceanic and Atmospheric Administration (NOAA), National Ocean Service (NOS), National Geodetic Survey (NGS)\", \"roles\": [\"pointOfContact\"]}]"
+		"value": "[{"name": "National Oceanic and Atmospheric Administration (NOAA), National Ocean Service (NOS), National Geodetic Survey (NGS)", "roles": ["pointOfContact"]}]"
 	},
 	{
 		"key": "spatial-data-service-type",
@@ -364,7 +364,7 @@
 	},
 	{
 		"package_id": "754bdba4-3bfc-4451-93d4-cda3390594de",
-		"value": "geodetic coordinates, nad 83, national spatial reference system, geodetic control theme, global navigation satellite systems, active control, global positioning system, geodetic\/global positioning, ellipsoid, global positioning system satellites, north american datum of 1983, geodesy, gps, navstar global positioning system, continuously operating reference station, ground stations, ngda, gnss, national geospatial data asset, cors, gps : global positioning system, nsrs, meteorology, positioning, igs08, ground-based observations, navstar",
+		"value": "geodetic coordinates, nad 83, national spatial reference system, geodetic control theme, global navigation satellite systems, active control, global positioning system, geodetic/global positioning, ellipsoid, global positioning system satellites, north american datum of 1983, geodesy, gps, navstar global positioning system, continuously operating reference station, ground stations, ngda, gnss, national geospatial data asset, cors, gps : global positioning system, nsrs, meteorology, positioning, igs08, ground-based observations, navstar",
 		"revision_timestamp": "2015-09-26T21:04:43.346598",
 		"state": "active",
 		"key": "tags",
@@ -394,7 +394,7 @@
 		"revision_timestamp": "2013-03-25T23:05:12.923863",
 		"is_organization": true,
 		"state": "active",
-		"image_url": "https:\/\/fortress.wa.gov\/dfw\/score\/score\/images\/noaa_logo.png",
+		"image_url": "https://fortress.wa.gov/dfw/score/score/images/noaa_logo.png",
 		"revision_id": "c6d43080-22e1-405e-a83d-f2a512d9e867",
 		"type": "organization",
 		"id": "e811f0b4-451f-4896-9e8f-fc6802837819",

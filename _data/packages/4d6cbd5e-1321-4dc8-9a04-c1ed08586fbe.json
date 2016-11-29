@@ -37,7 +37,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2015-07-16T17:37:32.296843",
-		"url": "http:\/\/www.bts.gov\/programs\/geographic_information_services\/",
+		"url": "http://www.bts.gov/programs/geographic_information_services/",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 0,
@@ -67,7 +67,7 @@
 		"cache_url": null,
 		"name": "Esri Rest API Endpoint",
 		"created": "2015-07-16T17:37:32.296878",
-		"url": "http:\/\/gis.rita.dot.gov\/ArcGIS\/rest\/services\/NTAD",
+		"url": "http://gis.rita.dot.gov/ArcGIS/rest/services/NTAD",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 1,
@@ -97,7 +97,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2015-07-16T17:37:32.296897",
-		"url": "http:\/\/www.rita.dot.gov\/bts\/sites\/rita.dot.gov.bts\/files\/publications\/national_transportation_atlas_database\/2015\/index.html",
+		"url": "http://www.rita.dot.gov/bts/sites/rita.dot.gov.bts/files/publications/national_transportation_atlas_database/2015/index.html",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 2,
@@ -127,7 +127,7 @@
 		"cache_url": null,
 		"name": "XML File",
 		"created": "2015-07-16T17:37:32.296914",
-		"url": "https:\/\/2bts.rita.dot.gov\/pdc\/index.xml",
+		"url": "https://2bts.rita.dot.gov/pdc/index.xml",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 3,
@@ -147,11 +147,11 @@
 	"name": "accidents-fars-national",
 	"isopen": false,
 	"url": null,
-	"notes": "Accident - (1975-current): This data file (NTAD 2015) contains information about crash characteristics and environmental conditions at the time of the crash. There is one record per crash. Please note: 425 records in this database were geocoded to latitude and logtitude of 0,0 due to lack of location information or errors in the reported locations.FARS data are made available to the public in Statistical Analysis System (SAS) data files as well as Database Files (DBF). Over the years changes have been made to the type of data collected and the way the data are presented in the SAS data files. Some data elements have been dropped and new ones added, coding of individual data elements has changed, and new SAS data files have been created. Coding changes and the years for which individual data items are available are shown in the \u00e2\u0080\u009cData Element Definitions and Codes\u00e2\u0080\u009d section of this document. The FARS Coding and Editing Manual contains a detailed description of each SAS data elements including coding instructions and attribute definitions. The Coding Manual is published for each year of data collection. Years 2001 to current are available at: http:\/\/www-nrd.nhtsa.dot.gov\/Cats\/listpublications.aspx?Id=J&ShowBy=DocType Note: In this manual the word vehicle means in-transport motor vehicle unless otherwise noted.",
+	"notes": "Accident - (1975-current): This data file (NTAD 2015) contains information about crash characteristics and environmental conditions at the time of the crash. There is one record per crash. Please note: 425 records in this database were geocoded to latitude and logtitude of 0,0 due to lack of location information or errors in the reported locations.FARS data are made available to the public in Statistical Analysis System (SAS) data files as well as Database Files (DBF). Over the years changes have been made to the type of data collected and the way the data are presented in the SAS data files. Some data elements have been dropped and new ones added, coding of individual data elements has changed, and new SAS data files have been created. Coding changes and the years for which individual data items are available are shown in the u00e2u0080u009cData Element Definitions and Codesu00e2u0080u009d section of this document. The FARS Coding and Editing Manual contains a detailed description of each SAS data elements including coding instructions and attribute definitions. The Coding Manual is published for each year of data collection. Years 2001 to current are available at: http://www-nrd.nhtsa.dot.gov/Cats/listpublications.aspx?Id=J&ShowBy=DocType Note: In this manual the word vehicle means in-transport motor vehicle unless otherwise noted.",
 	"license_title": null,
 	"extras": [{
 		"key": "responsible-party",
-		"value": "[{\"name\": \"Office of the Assistant Secretary for Research and Technology\/Bureau of Transportation Statistics\", \"roles\": [\"pointOfContact\"]}]"
+		"value": "[{"name": "Office of the Assistant Secretary for Research and Technology/Bureau of Transportation Statistics", "roles": ["pointOfContact"]}]"
 	},
 	{
 		"key": "contact-email",
@@ -171,7 +171,7 @@
 	},
 	{
 		"key": "dataset-reference-date",
-		"value": "[{\"type\": \"publication\", \"value\": \"2015-01-01\"}]"
+		"value": "[{"type": "publication", "value": "2015-01-01"}]"
 	},
 	{
 		"key": "resource-type",
@@ -199,7 +199,7 @@
 	},
 	{
 		"key": "licence",
-		"value": "[\" \"]"
+		"value": "[" "]"
 	},
 	{
 		"key": "metadata_type",
@@ -211,7 +211,7 @@
 	},
 	{
 		"key": "spatial",
-		"value": "{\"type\": \"Polygon\", \"coordinates\": [[[-162.885703, 0.0], [0.0, 0.0], [0.0, 66.894931], [-162.885703, 66.894931], [-162.885703, 0.0]]]}"
+		"value": "{"type": "Polygon", "coordinates": [[[-162.885703, 0.0], [0.0, 0.0], [0.0, 66.894931], [-162.885703, 66.894931], [-162.885703, 0.0]]]}"
 	},
 	{
 		"key": "guid",
@@ -223,7 +223,7 @@
 	},
 	{
 		"key": "access_constraints",
-		"value": "[\"Use Constraints: None\", \"Access Constraints: None\"]"
+		"value": "["Use Constraints: None", "Access Constraints: None"]"
 	},
 	{
 		"key": "spatial_harvester",
@@ -265,7 +265,7 @@
 		"revision_timestamp": "2013-08-30T13:59:29.523214",
 		"is_organization": true,
 		"state": "active",
-		"image_url": "http:\/\/upload.wikimedia.org\/wikipedia\/commons\/8\/81\/US_DOT_Triskelion.png",
+		"image_url": "http://upload.wikimedia.org/wikipedia/commons/8/81/US_DOT_Triskelion.png",
 		"revision_id": "684c8481-4ae2-46b0-a083-b392eea15130",
 		"type": "organization",
 		"id": "fc5cb2c1-d0b0-482a-8a52-7d42ea186ae1",

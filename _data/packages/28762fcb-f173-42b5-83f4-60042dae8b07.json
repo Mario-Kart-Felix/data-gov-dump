@@ -36,7 +36,7 @@
 		"cache_url": null,
 		"name": "NDGIS web site",
 		"created": "2015-01-09T11:58:31.147274",
-		"url": "http:\/\/www.nd.gov\/gis",
+		"url": "http://www.nd.gov/gis",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 0,
@@ -65,7 +65,7 @@
 		"cache_url": null,
 		"name": "Download Landmarks - NDDOT",
 		"created": "2015-01-09T11:58:31.147305",
-		"url": "http:\/\/www.nd.gov\/gis\/apps\/DataDownload\/?clipping=Full&coord=ND83-SF&format=SHAPE&layers=NDHUB.LANDMARKS_NDDOT",
+		"url": "http://www.nd.gov/gis/apps/DataDownload/?clipping=Full&coord=ND83-SF&format=SHAPE&layers=NDHUB.LANDMARKS_NDDOT",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 1,
@@ -94,7 +94,7 @@
 		"cache_url": null,
 		"name": "Landmarks - NDDOT",
 		"created": "2015-01-09T11:58:31.147313",
-		"url": "http:\/\/ndgishub.nd.gov\/arcgis\/services\/All_Locations\/MapServer\/WMSServer?",
+		"url": "http://ndgishub.nd.gov/arcgis/services/All_Locations/MapServer/WMSServer?",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 2,
@@ -123,7 +123,7 @@
 		"cache_url": null,
 		"name": "Esri REST including WMS",
 		"created": "2015-01-09T11:58:31.147320",
-		"url": "http:\/\/ndgishub.nd.gov\/ArcGIS\/rest\/services\/All_Locations\/MapServer",
+		"url": "http://ndgishub.nd.gov/ArcGIS/rest/services/All_Locations/MapServer",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 3,
@@ -152,7 +152,7 @@
 		"cache_url": null,
 		"name": "Esri REST including WFS and KML",
 		"created": "2015-01-09T11:58:31.147326",
-		"url": "http:\/\/ndgishub.nd.gov\/ArcGIS\/rest\/services\/Features\/Locations\/MapServer",
+		"url": "http://ndgishub.nd.gov/ArcGIS/rest/services/Features/Locations/MapServer",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 4,
@@ -185,7 +185,7 @@
 	"name": "landmarks",
 	"isopen": false,
 	"url": null,
-	"notes": "7\/15\/14 - updated include: Traill, Barnes, Stutsman, Kidder, Bowman, Slope, Stark, Hettinger, Adams, Grant, Sioux and Morton. These datasets were updated using a combination of the available NAIP aerials, the DES aerials, and by car within the insets.\n\n4\/30\/13 - Cultural points have been updated for the following counties: Divide, Williams, Mountrail, Burke, Renville, Ward, McHenry, Bottineau, Wells, Kidder, Stutsman, Foster, Eddy, Griggs, Barnes, Cass, Steele, and Traill Counties.\n\n6\/24\/10 - We have now incorporated survey points into culture points. They are used to show section corners and \u00bc corners within the city maps. The counties of Emmons, Logan, McIntosh, LaMoure, Dickey, Ransom, Sargent and Richland were updated this past year\n\n6\/18\/09 - Updated culture points from aerial observation and photo interpretation using 2003, 2005, 2006 NAIP photos and 2008 photography from Designs camera. Counties updated were Golden Valley, Billings, McKenzie, Dunn, Mercer, Oliver, McLean, Sheridan and Burleigh. Oil well information was updated from a shapefile provided from the Oil and Gas Division. Observations were performed by Steven Nelson.\n\n4\/17\/08 - Updated from Mapping section's county tiles \n\n2\/13\/07 - Updated via 2004 NAIP photos: Barnes, Cass, Eddy, Foster, Griggs, Kidder, Steele, Stutsman, Traill, Wells \n\nThis data came from the NDDOT's Mapping Section. The original data was digitized from hand scribed maps and registered to the 1:24000 USGS PLSS data. The digitized data is maintained in individual county tiles. These tiles were appended together to make a singe state wide coverage. It was then converted from a projection (NAD 1983 UTM Zone 14N) to a Geographic coordinate system.",
+	"notes": "7/15/14 - updated include: Traill, Barnes, Stutsman, Kidder, Bowman, Slope, Stark, Hettinger, Adams, Grant, Sioux and Morton. These datasets were updated using a combination of the available NAIP aerials, the DES aerials, and by car within the insets.nn4/30/13 - Cultural points have been updated for the following counties: Divide, Williams, Mountrail, Burke, Renville, Ward, McHenry, Bottineau, Wells, Kidder, Stutsman, Foster, Eddy, Griggs, Barnes, Cass, Steele, and Traill Counties.nn6/24/10 - We have now incorporated survey points into culture points. They are used to show section corners and u00bc corners within the city maps. The counties of Emmons, Logan, McIntosh, LaMoure, Dickey, Ransom, Sargent and Richland were updated this past yearnn6/18/09 - Updated culture points from aerial observation and photo interpretation using 2003, 2005, 2006 NAIP photos and 2008 photography from Designs camera. Counties updated were Golden Valley, Billings, McKenzie, Dunn, Mercer, Oliver, McLean, Sheridan and Burleigh. Oil well information was updated from a shapefile provided from the Oil and Gas Division. Observations were performed by Steven Nelson.nn4/17/08 - Updated from Mapping section's county tiles nn2/13/07 - Updated via 2004 NAIP photos: Barnes, Cass, Eddy, Foster, Griggs, Kidder, Steele, Stutsman, Traill, Wells nnThis data came from the NDDOT's Mapping Section. The original data was digitized from hand scribed maps and registered to the 1:24000 USGS PLSS data. The digitized data is maintained in individual county tiles. These tiles were appended together to make a singe state wide coverage. It was then converted from a projection (NAD 1983 UTM Zone 14N) to a Geographic coordinate system.",
 	"license_title": null,
 	"extras": [{
 		"key": "bbox-east-long",
@@ -229,7 +229,7 @@
 	},
 	{
 		"key": "spatial",
-		"value": "{\"type\": \"Polygon\", \"coordinates\": [[[-104.049384, 45.93344], [-96.557459, 45.93344], [-96.557459, 49.005159], [-104.049384, 49.005159], [-104.049384, 45.93344]]]}"
+		"value": "{"type": "Polygon", "coordinates": [[[-104.049384, 45.93344], [-96.557459, 45.93344], [-96.557459, 49.005159], [-104.049384, 49.005159], [-104.049384, 45.93344]]]}"
 	},
 	{
 		"key": "progress",
@@ -237,7 +237,7 @@
 	},
 	{
 		"key": "access_constraints",
-		"value": "[\"The State of North Dakota has compiled this data according to conventional cartographic standards, using what is thought to be the most reliable information available. This data is intended to make results of research available at the earliest possible date, but is not intended to constitute final or formal publication. The State of North Dakota makes every effort to provide virus-free files but does not guarantee uncorrupted files. The State of North Dakota does not guarantee this data to be free from errors, inaccuracies, or viruses, and disclaims any responsibility or liability for interpretations or decisions based on this data.\"]"
+		"value": "["The State of North Dakota has compiled this data according to conventional cartographic standards, using what is thought to be the most reliable information available. This data is intended to make results of research available at the earliest possible date, but is not intended to constitute final or formal publication. The State of North Dakota makes every effort to provide virus-free files but does not guarantee uncorrupted files. The State of North Dakota does not guarantee this data to be free from errors, inaccuracies, or viruses, and disclaims any responsibility or liability for interpretations or decisions based on this data."]"
 	},
 	{
 		"key": "contact-email",
@@ -253,7 +253,7 @@
 	},
 	{
 		"key": "dataset-reference-date",
-		"value": "[{\"type\": \"publication\", \"value\": \"2014-07-15\"}]"
+		"value": "[{"type": "publication", "value": "2014-07-15"}]"
 	},
 	{
 		"key": "graphic-preview-description",
@@ -273,7 +273,7 @@
 	},
 	{
 		"key": "responsible-party",
-		"value": "[{\"name\": \"ND Department of Transportation\", \"roles\": [\"pointOfContact\"]}]"
+		"value": "[{"name": "ND Department of Transportation", "roles": ["pointOfContact"]}]"
 	},
 	{
 		"key": "spatial-data-service-type",
@@ -308,14 +308,14 @@
 		"value": "North Dakota GIS Hub Data Portal"
 	}],
 	"organization": {
-		"description": "The GIS Hub is the state source for GIS - data, services, and information.  More information can be found at www.nd.gov\/gis.",
+		"description": "The GIS Hub is the state source for GIS - data, services, and information.  More information can be found at www.nd.gov/gis.",
 		"created": "2013-03-14T03:44:44.340717",
 		"title": "State of North Dakota",
 		"name": "nd-gov",
 		"revision_timestamp": "2013-07-15T16:27:30.098476",
 		"is_organization": true,
 		"state": "active",
-		"image_url": "http:\/\/www.nd.gov\/gis\/images\/ndgis-logo.gif",
+		"image_url": "http://www.nd.gov/gis/images/ndgis-logo.gif",
 		"revision_id": "27517bb9-815c-4d4f-b45b-b88b6316697b",
 		"type": "organization",
 		"id": "1c782de6-9f1f-4427-93fd-33732e29970f",

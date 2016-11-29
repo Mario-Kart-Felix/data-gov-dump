@@ -34,9 +34,9 @@
 		"resource_locator_protocol": "WWW:LINK-1.0-http--link",
 		"mimetype": null,
 		"cache_url": null,
-		"name": "ftp:\/\/ftp.nefsc.noaa.gov",
+		"name": "ftp://ftp.nefsc.noaa.gov",
 		"created": "2016-08-08T22:37:29.694701",
-		"url": "ftp:\/\/ftp.nefsc.noaa.gov",
+		"url": "ftp://ftp.nefsc.noaa.gov",
 		"webstore_url": null,
 		"resource_locator_function": "download",
 		"position": 0,
@@ -65,7 +65,7 @@
 		"cache_url": null,
 		"name": "Website",
 		"created": "2016-08-08T22:37:29.694742",
-		"url": "http:\/\/www.nefsc.noaa.gov",
+		"url": "http://www.nefsc.noaa.gov",
 		"webstore_url": null,
 		"resource_locator_function": "information",
 		"position": 1,
@@ -94,7 +94,7 @@
 		"cache_url": null,
 		"name": "Citation URL",
 		"created": "2016-08-08T22:37:29.694751",
-		"url": "http:\/\/nefsc.noaa.gov\/esb\/mainpage\/sbts_cr.html",
+		"url": "http://nefsc.noaa.gov/esb/mainpage/sbts_cr.html",
 		"webstore_url": null,
 		"resource_locator_function": "download",
 		"position": 2,
@@ -111,7 +111,7 @@
 		"state": "active",
 		"last_modified": null,
 		"hash": "",
-		"description": "The Spring Bottom Trawl Survey Resource Reports consist of field notes, station and catch summaries, and a series of geographical plots of commercial and recreationally important species caught during the Ecosystems Surveys Branch's bottom trawl cruises. Specific details about the nets, doors, liners, and dredges used during these trips can be found within each report.  All stations are randonly selected and catches can be light compared with commercial tows.  Also, vessel operations are on a 24-hour basis and catches have not been adjusted for day\/night differeces.  Nevertheless, these data can provide fishermen with useful ingformation about the distribution and relative abundance of species inhabiting the survey area (Cape Hatteras to the Gulf of Maine, including Georges bank).",
+		"description": "The Spring Bottom Trawl Survey Resource Reports consist of field notes, station and catch summaries, and a series of geographical plots of commercial and recreationally important species caught during the Ecosystems Surveys Branch's bottom trawl cruises. Specific details about the nets, doors, liners, and dredges used during these trips can be found within each report.  All stations are randonly selected and catches can be light compared with commercial tows.  Also, vessel operations are on a 24-hour basis and catches have not been adjusted for day/night differeces.  Nevertheless, these data can provide fishermen with useful ingformation about the distribution and relative abundance of species inhabiting the survey area (Cape Hatteras to the Gulf of Maine, including Georges bank).",
 		"format": "HTML",
 		"tracking_summary": {
 			"total": 0,
@@ -123,7 +123,7 @@
 		"cache_url": null,
 		"name": "Citation URL",
 		"created": "2016-08-08T22:37:29.694759",
-		"url": "http:\/\/nefsc.noaa.gov\/esb\/mainpage\/sbts_cr.html",
+		"url": "http://nefsc.noaa.gov/esb/mainpage/sbts_cr.html",
 		"webstore_url": null,
 		"resource_locator_function": "download",
 		"position": 3,
@@ -152,7 +152,7 @@
 		"cache_url": null,
 		"name": "Website",
 		"created": "2016-08-08T22:37:29.694766",
-		"url": "http:\/\/www.nefsc.noaa.gov",
+		"url": "http://www.nefsc.noaa.gov",
 		"webstore_url": null,
 		"resource_locator_function": "information",
 		"position": 4,
@@ -181,7 +181,7 @@
 		"cache_url": null,
 		"name": "Website",
 		"created": "2016-08-08T22:37:29.694773",
-		"url": "http:\/\/www.nefsc.noaa.gov",
+		"url": "http://www.nefsc.noaa.gov",
 		"webstore_url": null,
 		"resource_locator_function": "information",
 		"position": 5,
@@ -210,7 +210,7 @@
 		"cache_url": null,
 		"name": "NOAA Data Management Plan (DMP)",
 		"created": "2016-08-08T22:37:29.694785",
-		"url": "https:\/\/inport.nmfs.noaa.gov\/inport\/item\/22561\/dmp",
+		"url": "https://inport.nmfs.noaa.gov/inport/item/22561/dmp",
 		"webstore_url": null,
 		"resource_locator_function": "information",
 		"position": 6,
@@ -227,7 +227,7 @@
 		"state": "active",
 		"last_modified": null,
 		"hash": "",
-		"description": "This page describes the NASA GCMD Keywords, how\n                                                        to reference those keywords and provides download instructions.\n                                                    ",
+		"description": "This page describes the NASA GCMD Keywords, hown                                                        to reference those keywords and provides download instructions.n                                                    ",
 		"format": "HTML",
 		"tracking_summary": {
 			"total": 476,
@@ -239,7 +239,7 @@
 		"cache_url": null,
 		"name": "GCMD Keywords Page",
 		"created": "2016-08-08T22:37:29.694802",
-		"url": "http:\/\/gcmd.nasa.gov\/learn\/keyword_list.html",
+		"url": "http://gcmd.nasa.gov/learn/keyword_list.html",
 		"webstore_url": null,
 		"resource_locator_function": "information",
 		"position": 7,
@@ -295,7 +295,7 @@
 	},
 	{
 		"key": "spatial",
-		"value": "{\"type\": \"Polygon\", \"coordinates\": [[[-78.18, 32.48], [-63.22, 32.48], [-63.22, 44.47], [-78.18, 44.47], [-78.18, 32.48]]]}"
+		"value": "{"type": "Polygon", "coordinates": [[[-78.18, 32.48], [-63.22, 32.48], [-63.22, 44.47], [-78.18, 44.47], [-78.18, 32.48]]]}"
 	},
 	{
 		"key": "progress",
@@ -303,7 +303,7 @@
 	},
 	{
 		"key": "access_constraints",
-		"value": "[\"Access Constraints: If data is stored on an internal NEFSC network, the requester may not have direct access to query the data unless they are also authorized for network access. | Use Constraints: User must read and fully comprehend the metadata prior to use. Applications or inferences derived from the data should be carefully considered for accuracy. Acknowledgement of NOAA\/NMFS\/NEFSC, as the source from which these data were obtained in any publications and\/or other representations of these, data is suggested.\"]"
+		"value": "["Access Constraints: If data is stored on an internal NEFSC network, the requester may not have direct access to query the data unless they are also authorized for network access. | Use Constraints: User must read and fully comprehend the metadata prior to use. Applications or inferences derived from the data should be carefully considered for accuracy. Acknowledgement of NOAA/NMFS/NEFSC, as the source from which these data were obtained in any publications and/or other representations of these, data is suggested."]"
 	},
 	{
 		"key": "temporal-extent-begin",
@@ -323,7 +323,7 @@
 	},
 	{
 		"key": "dataset-reference-date",
-		"value": "[{\"type\": \"publication\", \"value\": \"\"}]"
+		"value": "[{"type": "publication", "value": ""}]"
 	},
 	{
 		"key": "frequency-of-update",
@@ -339,7 +339,7 @@
 	},
 	{
 		"key": "responsible-party",
-		"value": "[{\"name\": \"\", \"roles\": [\"\"]}, {\"name\": \"Northeast Fisheries Science Center\", \"roles\": [\"pointOfContact\", \"custodian\"]}]"
+		"value": "[{"name": "", "roles": [""]}, {"name": "Northeast Fisheries Science Center", "roles": ["pointOfContact", "custodian"]}]"
 	},
 	{
 		"key": "spatial-data-service-type",
@@ -351,7 +351,7 @@
 	},
 	{
 		"package_id": "446898fc-c2b8-41fc-b58b-b65df9094032",
-		"value": "age sampling, groundfish, georges bank, cape hatteras, relative abundance, maturity data, frv albatross iv, benthic, feeding ecologye, continental shelf, pelagic, physical measures, biological measures, biological sampling, population survey, spring, demersal, ichthyoplantkon, continuous, standardized, oceanographic, zooplankton, southern new england, fishery-independent surveys, doc\/noaa\/nmfs\/nefsc, northwest atlantic, genotype\/species identification, hydroacoustics, bottom trawl surveys, bottom trawl, distribution, northeast fisheries science center, national marine fisheries service, noaa, u.s. department of commerce, stratified random sampling, seasonal distribution, age & growth, size composition, mid-atlantic bight, survey, invertebrates, gulf of maine, frv delaware ii, frv henry b. bigelow, fv atlantic twin",
+		"value": "age sampling, groundfish, georges bank, cape hatteras, relative abundance, maturity data, frv albatross iv, benthic, feeding ecologye, continental shelf, pelagic, physical measures, biological measures, biological sampling, population survey, spring, demersal, ichthyoplantkon, continuous, standardized, oceanographic, zooplankton, southern new england, fishery-independent surveys, doc/noaa/nmfs/nefsc, northwest atlantic, genotype/species identification, hydroacoustics, bottom trawl surveys, bottom trawl, distribution, northeast fisheries science center, national marine fisheries service, noaa, u.s. department of commerce, stratified random sampling, seasonal distribution, age & growth, size composition, mid-atlantic bight, survey, invertebrates, gulf of maine, frv delaware ii, frv henry b. bigelow, fv atlantic twin",
 		"revision_timestamp": "2016-04-18T19:47:59.189649",
 		"state": "active",
 		"key": "tags",
@@ -381,7 +381,7 @@
 		"revision_timestamp": "2013-03-25T23:05:12.923863",
 		"is_organization": true,
 		"state": "active",
-		"image_url": "https:\/\/fortress.wa.gov\/dfw\/score\/score\/images\/noaa_logo.png",
+		"image_url": "https://fortress.wa.gov/dfw/score/score/images/noaa_logo.png",
 		"revision_id": "c6d43080-22e1-405e-a83d-f2a512d9e867",
 		"type": "organization",
 		"id": "e811f0b4-451f-4896-9e8f-fc6802837819",

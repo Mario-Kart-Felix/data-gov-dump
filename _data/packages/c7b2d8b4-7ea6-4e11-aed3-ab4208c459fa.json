@@ -36,7 +36,7 @@
 		"cache_url": null,
 		"name": "NWS Telecommunication Operations Center (TOC) TGFTP Server",
 		"created": "2016-04-18T15:52:45.316110",
-		"url": "ftp:\/\/tgftp.nws.noaa.gov\/data\/forecasts\/taf",
+		"url": "ftp://tgftp.nws.noaa.gov/data/forecasts/taf",
 		"webstore_url": null,
 		"resource_locator_function": "download",
 		"position": 0,
@@ -65,7 +65,7 @@
 		"cache_url": null,
 		"name": "AWC - ADDS TAFs",
 		"created": "2016-04-18T15:52:45.316143",
-		"url": "http:\/\/www.aviationweather.gov\/taf",
+		"url": "http://www.aviationweather.gov/taf",
 		"webstore_url": null,
 		"resource_locator_function": "download",
 		"position": 1,
@@ -94,7 +94,7 @@
 		"cache_url": null,
 		"name": "NWS OCWWS Meteorological Services Divison",
 		"created": "2016-04-18T15:52:45.316153",
-		"url": "http:\/\/www.nws.noaa.gov\/os\/",
+		"url": "http://www.nws.noaa.gov/os/",
 		"webstore_url": null,
 		"resource_locator_function": "download",
 		"position": 2,
@@ -123,7 +123,7 @@
 		"cache_url": null,
 		"name": "IWXXM-US Overview",
 		"created": "2016-04-18T15:52:45.316160",
-		"url": "http:\/\/nws.weather.gov\/schemas\/IWXXM-US\/",
+		"url": "http://nws.weather.gov/schemas/IWXXM-US/",
 		"webstore_url": null,
 		"resource_locator_function": "download",
 		"position": 3,
@@ -145,7 +145,7 @@
 		"revision_timestamp": "2013-03-25T23:05:12.923863",
 		"is_organization": true,
 		"state": "active",
-		"image_url": "https:\/\/fortress.wa.gov\/dfw\/score\/score\/images\/noaa_logo.png",
+		"image_url": "https://fortress.wa.gov/dfw/score/score/images/noaa_logo.png",
 		"revision_id": "c6d43080-22e1-405e-a83d-f2a512d9e867",
 		"type": "organization",
 		"id": "e811f0b4-451f-4896-9e8f-fc6802837819",
@@ -196,7 +196,7 @@
 	},
 	{
 		"key": "spatial",
-		"value": "{\"type\": \"Point\", \"coordinates\": [-107.2, 41.8]}"
+		"value": "{"type": "Point", "coordinates": [-107.2, 41.8]}"
 	},
 	{
 		"key": "progress",
@@ -220,7 +220,7 @@
 	},
 	{
 		"key": "dataset-reference-date",
-		"value": "[{\"type\": \"creation\", \"value\": \"2015-01-23\"}]"
+		"value": "[{"type": "creation", "value": "2015-01-23"}]"
 	},
 	{
 		"key": "frequency-of-update",
@@ -228,7 +228,7 @@
 	},
 	{
 		"key": "licence",
-		"value": "[\"Disclaimer - While every effort has been made to ensure that these data are accurate and reliable within the limits of the current state of the art, NOAA cannot assume liability for any damages caused by any errors or omissions in the data, nor as a result of the failure of the data to function on a particular system. NOAA makes no warranty, expressed or implied, nor does the fact of distribution constitute such a warranty.\"]"
+		"value": "["Disclaimer - While every effort has been made to ensure that these data are accurate and reliable within the limits of the current state of the art, NOAA cannot assume liability for any damages caused by any errors or omissions in the data, nor as a result of the failure of the data to function on a particular system. NOAA makes no warranty, expressed or implied, nor does the fact of distribution constitute such a warranty."]"
 	},
 	{
 		"key": "metadata_type",
@@ -236,7 +236,7 @@
 	},
 	{
 		"key": "responsible-party",
-		"value": "[{\"name\": \"NWS\/AFS\/FSD\/ASWS (Aviation and Space Weather Services Branch)\", \"roles\": [\"pointOfContact\"]}]"
+		"value": "[{"name": "NWS/AFS/FSD/ASWS (Aviation and Space Weather Services Branch)", "roles": ["pointOfContact"]}]"
 	},
 	{
 		"key": "spatial-data-service-type",
@@ -248,7 +248,7 @@
 	},
 	{
 		"key": "tags",
-		"value": "ftus42, ftus42 [a-z0-9]{4}, taf, weather forecast, winds, cloud ceiling, cloud_base_height, krwl, cloud_area_fraction, wind speed\/wind direction, cloud fraction, toc, ftus, visibility_in_air, visibility, surface winds, cloud height, aviation, awc, wind_speed, none, clouds, aviation weather, wind_from_direction",
+		"value": "ftus42, ftus42 [a-z0-9]{4}, taf, weather forecast, winds, cloud ceiling, cloud_base_height, krwl, cloud_area_fraction, wind speed/wind direction, cloud fraction, toc, ftus, visibility_in_air, visibility, surface winds, cloud height, aviation, awc, wind_speed, none, clouds, aviation weather, wind_from_direction",
 		"__extras": {
 			"revision_id": "184e9589-c218-4168-90f7-5f7bafcf7e77",
 			"package_id": "c7b2d8b4-7ea6-4e11-aed3-ab4208c459fa"

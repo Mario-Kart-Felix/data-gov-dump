@@ -37,7 +37,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2015-09-26T17:23:36.668590",
-		"url": "http:\/\/www.pmel.noaa.gov\/tao\/data_deliv\/deliv.html",
+		"url": "http://www.pmel.noaa.gov/tao/data_deliv/deliv.html",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 0,
@@ -67,7 +67,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2015-09-26T17:23:36.668615",
-		"url": "http:\/\/www.pmel.noaa.gov\/tao\/index.shtml",
+		"url": "http://www.pmel.noaa.gov/tao/index.shtml",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 1,
@@ -87,11 +87,11 @@
 	"name": "noaas-tropical-atmosphere-ocean-project",
 	"isopen": false,
 	"url": null,
-	"notes": "Realtime El Nino and La Nina data from the tropical Pacific Ocean is provided by the Tropical Atmosphere Ocean \/ Triangle Trans-Ocean buoy network (TAO\/TRITON) of moored ocean buoys. The TAO\/TRITON array is a major component of the Global Climate Observation System, designed to improve detection, understanding, and prediction of El Nino.The TAO\/TRITON array of moored buoys spans the tropical Pacific from 137E to 95W and from 8S to 8N. Moorings within the array measure surface meteorological and upper-ocean parameters and transmit data in realtime to shore via Service Argos. The array is part of the in-situ measurement portion of the Tropical Ocean-Global Atmosphere (TOGA) program, a 10-year (1985-1994) study of climate variability on seasonal to interannual time scales.TAO began in 1985 as regional-scale meridional arrays spanning the Equator at 110W and 165E and has steadily expanded to its present size of approximately 70 moorings. Moorings are typically separated by 2-3 degrees of latitude and 10-15 degrees of longitude. The majority of TAO moorings are ATLAS (Autonomous Temperature Line Acquisition System) moorings which measure surface wind, air temperature, relative humidity, sea-surface temperature, subsurface temperature and pressure. At a few sites along the Equator, current meter moorings are deployed to measure and transmit the same surface parameters, as well as subsurface currents.In October 1999, responsibility for moorings along and to the west of 156E was assumed by the Japan Marine Science and Technology Center (JAMSTEC) which has deployed Triangle Trans-Ocean Buoy Network (TRITON) buoys at those locations. Data from both ATLAS and TRITON moorings are merged in a common data base and available from both PMEL (Pacific Marine Environmental Laboratory) and JAMSTEC.The TAO\/TRITON array and TAO Project are described at: http:\/\/www.pmel.noaa.gov\/tao\/",
+	"notes": "Realtime El Nino and La Nina data from the tropical Pacific Ocean is provided by the Tropical Atmosphere Ocean / Triangle Trans-Ocean buoy network (TAO/TRITON) of moored ocean buoys. The TAO/TRITON array is a major component of the Global Climate Observation System, designed to improve detection, understanding, and prediction of El Nino.The TAO/TRITON array of moored buoys spans the tropical Pacific from 137E to 95W and from 8S to 8N. Moorings within the array measure surface meteorological and upper-ocean parameters and transmit data in realtime to shore via Service Argos. The array is part of the in-situ measurement portion of the Tropical Ocean-Global Atmosphere (TOGA) program, a 10-year (1985-1994) study of climate variability on seasonal to interannual time scales.TAO began in 1985 as regional-scale meridional arrays spanning the Equator at 110W and 165E and has steadily expanded to its present size of approximately 70 moorings. Moorings are typically separated by 2-3 degrees of latitude and 10-15 degrees of longitude. The majority of TAO moorings are ATLAS (Autonomous Temperature Line Acquisition System) moorings which measure surface wind, air temperature, relative humidity, sea-surface temperature, subsurface temperature and pressure. At a few sites along the Equator, current meter moorings are deployed to measure and transmit the same surface parameters, as well as subsurface currents.In October 1999, responsibility for moorings along and to the west of 156E was assumed by the Japan Marine Science and Technology Center (JAMSTEC) which has deployed Triangle Trans-Ocean Buoy Network (TRITON) buoys at those locations. Data from both ATLAS and TRITON moorings are merged in a common data base and available from both PMEL (Pacific Marine Environmental Laboratory) and JAMSTEC.The TAO/TRITON array and TAO Project are described at: http://www.pmel.noaa.gov/tao/",
 	"license_title": null,
 	"extras": [{
 		"key": "bbox-east-long",
-		"value": "-85\n"
+		"value": "-85n"
 	},
 	{
 		"key": "resource-type",
@@ -99,7 +99,7 @@
 	},
 	{
 		"key": "bbox-north-lat",
-		"value": "9\n"
+		"value": "9n"
 	},
 	{
 		"key": "coupled-resource",
@@ -115,7 +115,7 @@
 	},
 	{
 		"key": "bbox-south-lat",
-		"value": "-8\n"
+		"value": "-8n"
 	},
 	{
 		"key": "spatial-reference-system",
@@ -123,7 +123,7 @@
 	},
 	{
 		"key": "spatial",
-		"value": "{\"type\": \"Polygon\", \"coordinates\": [[[137.0, -8.0], [-85.0, -8.0], [-85.0, 9.0], [137.0, 9.0], [137.0, -8.0]]]}"
+		"value": "{"type": "Polygon", "coordinates": [[[137.0, -8.0], [-85.0, -8.0], [-85.0, 9.0], [137.0, 9.0], [137.0, -8.0]]]}"
 	},
 	{
 		"key": "progress",
@@ -131,7 +131,7 @@
 	},
 	{
 		"key": "access_constraints",
-		"value": "[\"Use Constraints: If you use these data in publications, please acknowledge the TAO Project Office. Also, we would appreciate receiving a preprint and\/or reprint of publications utilizing the data for inclusion in the TAO bibliography (http:\/\/www.pmel.noaa.gov\/tao\/proj_over\/pubs.html#bib). Relevant publications should be sent to:TAO Project OfficeNOAA\/Pacific Marine Environmental Laboratory7600 Sand Point Way NESeattle, WA 98115\", \"Access Constraints: None\"]"
+		"value": "["Use Constraints: If you use these data in publications, please acknowledge the TAO Project Office. Also, we would appreciate receiving a preprint and/or reprint of publications utilizing the data for inclusion in the TAO bibliography (http://www.pmel.noaa.gov/tao/proj_over/pubs.html#bib). Relevant publications should be sent to:TAO Project OfficeNOAA/Pacific Marine Environmental Laboratory7600 Sand Point Way NESeattle, WA 98115", "Access Constraints: None"]"
 	},
 	{
 		"key": "temporal-extent-begin",
@@ -143,7 +143,7 @@
 	},
 	{
 		"key": "bbox-west-long",
-		"value": "137\n"
+		"value": "137n"
 	},
 	{
 		"key": "metadata-date",
@@ -151,7 +151,7 @@
 	},
 	{
 		"key": "dataset-reference-date",
-		"value": "[{\"type\": \"publication\", \"value\": \"1984-01-01\"}]"
+		"value": "[{"type": "publication", "value": "1984-01-01"}]"
 	},
 	{
 		"key": "frequency-of-update",
@@ -159,7 +159,7 @@
 	},
 	{
 		"key": "licence",
-		"value": "[\"These data were prepared by an agency of the United States Government. Neither the United States Government nor any agency thereof, nor any of their employees, make any warranty, expressed or implied, or assumes any legal liability or responsibility for the accuracy, completeness, or usefulness of any information, apparatus, product, or process disclosed in this report, or represents that its use would not infringe privately owned rights. Reference therein to any specific commercial product, process, or service by trade name, trademark, manufacturer, or otherwise does not necessarily constitute or imply its endorsement, recommendation, or favoring by the United States Government or any agency thereof. Any views and opinions of authors expressed herein do not necessarily state or reflect those of the United States Government or any agency thereof. Although all data have been used by NOAA, no warranty, expressed or implied, is made by NOAA as to the accuracy of the data and\/or related materials. The act of distribution shall not constitute any such warranty, and no responsibility is assumed by NOAA in the use of these data or related materials.\\n\"]"
+		"value": "["These data were prepared by an agency of the United States Government. Neither the United States Government nor any agency thereof, nor any of their employees, make any warranty, expressed or implied, or assumes any legal liability or responsibility for the accuracy, completeness, or usefulness of any information, apparatus, product, or process disclosed in this report, or represents that its use would not infringe privately owned rights. Reference therein to any specific commercial product, process, or service by trade name, trademark, manufacturer, or otherwise does not necessarily constitute or imply its endorsement, recommendation, or favoring by the United States Government or any agency thereof. Any views and opinions of authors expressed herein do not necessarily state or reflect those of the United States Government or any agency thereof. Although all data have been used by NOAA, no warranty, expressed or implied, is made by NOAA as to the accuracy of the data and/or related materials. The act of distribution shall not constitute any such warranty, and no responsibility is assumed by NOAA in the use of these data or related materials.\n"]"
 	},
 	{
 		"key": "metadata_type",
@@ -167,7 +167,7 @@
 	},
 	{
 		"key": "responsible-party",
-		"value": "[{\"name\": \"National Oceanic and Atmospheric Administration (NOAA), Office of Oceanic and Atmospheric Research (OAR), Pacific Marine Environmental Laboratory (PMEL), Ocean Climate Research Division (OCRD), Tropical Atmosphere Ocean Project (TAO)\", \"roles\": [\"pointOfContact\"]}]"
+		"value": "[{"name": "National Oceanic and Atmospheric Administration (NOAA), Office of Oceanic and Atmospheric Research (OAR), Pacific Marine Environmental Laboratory (PMEL), Ocean Climate Research Division (OCRD), Tropical Atmosphere Ocean Project (TAO)", "roles": ["pointOfContact"]}]"
 	},
 	{
 		"key": "spatial-data-service-type",
@@ -209,7 +209,7 @@
 		"revision_timestamp": "2013-03-25T23:05:12.923863",
 		"is_organization": true,
 		"state": "active",
-		"image_url": "https:\/\/fortress.wa.gov\/dfw\/score\/score\/images\/noaa_logo.png",
+		"image_url": "https://fortress.wa.gov/dfw/score/score/images/noaa_logo.png",
 		"revision_id": "c6d43080-22e1-405e-a83d-f2a512d9e867",
 		"type": "organization",
 		"id": "e811f0b4-451f-4896-9e8f-fc6802837819",

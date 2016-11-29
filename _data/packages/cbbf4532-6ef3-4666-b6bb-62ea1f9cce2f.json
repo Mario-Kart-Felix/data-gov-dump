@@ -31,11 +31,11 @@
 		},
 		"mimetype_inner": null,
 		"no_real_name": true,
-		"mimetype": "text\/html",
+		"mimetype": "text/html",
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2016-01-29T08:44:47.912878",
-		"url": "http:\/\/www.cpc.ncep.noaa.gov\/products\/predictions\/610day\/index.php",
+		"url": "http://www.cpc.ncep.noaa.gov/products/predictions/610day/index.php",
 		"webstore_url": null,
 		"last_modified": null,
 		"position": 0,
@@ -59,11 +59,11 @@
 		},
 		"mimetype_inner": null,
 		"no_real_name": true,
-		"mimetype": "text\/html",
+		"mimetype": "text/html",
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2016-01-29T08:44:47.912918",
-		"url": "http:\/\/www.cpc.ncep.noaa.gov\/products\/GIS\/GIS_DATA\/us_tempprcpfcst\/index.php",
+		"url": "http://www.cpc.ncep.noaa.gov/products/GIS/GIS_DATA/us_tempprcpfcst/index.php",
 		"webstore_url": null,
 		"last_modified": null,
 		"position": 1,
@@ -212,7 +212,7 @@
 		"revision_timestamp": "2013-05-30T16:50:01.416157",
 		"is_organization": true,
 		"state": "active",
-		"image_url": "http:\/\/www.vos.noaa.gov\/MWL\/aug_10\/Images\/doc_logo_xparent.png",
+		"image_url": "http://www.vos.noaa.gov/MWL/aug_10/Images/doc_logo_xparent.png",
 		"revision_id": "44c851b9-8872-497a-8a13-2f06740b7ffb",
 		"type": "organization",
 		"id": "9cda5205-d632-4814-96e7-a4ab5e0dce85",
@@ -223,7 +223,7 @@
 	"name": "climate-prediction-center-cpc-6-to-10-day-probabilistic-precipitation-outlook-for-the-cont",
 	"isopen": false,
 	"url": null,
-	"notes": "The Climate Prediction Center (CPC) issues 6 to 10 day probabilistic precipitation outlooks for the United States. The 6-10 day Outlook gives the confidence that a forecaster has, given as a probability, that the observed precipitation, totaled over upcoming days 6, 7, 8, 9, and 10 will be in the range of one of three possible categories: below median (B), near median (N), or above median (A). For any calendar 5-day period, these categories can be defined by fitting a Gamma distribution to the 30 years of the climatology period, 1981-2010, and dividing this distribution into equally likely partitions (below median, near median, and above median). Note that the base period for the thirty year climatology (currently beginning in 1981 and ending in 2010) is updated once per decade. Because each of these categories occurs 1\/3 of the time for any particular calendar 5-day period, the probability of any category being selected at random from the 1981-2010 set of 30 observations is one in three (1\/3), or 33.33%. This is also called the climatological probability. The sum of the climatological probabilities of the three categories is 100%.",
+	"notes": "The Climate Prediction Center (CPC) issues 6 to 10 day probabilistic precipitation outlooks for the United States. The 6-10 day Outlook gives the confidence that a forecaster has, given as a probability, that the observed precipitation, totaled over upcoming days 6, 7, 8, 9, and 10 will be in the range of one of three possible categories: below median (B), near median (N), or above median (A). For any calendar 5-day period, these categories can be defined by fitting a Gamma distribution to the 30 years of the climatology period, 1981-2010, and dividing this distribution into equally likely partitions (below median, near median, and above median). Note that the base period for the thirty year climatology (currently beginning in 1981 and ending in 2010) is updated once per decade. Because each of these categories occurs 1/3 of the time for any particular calendar 5-day period, the probability of any category being selected at random from the 1981-2010 set of 30 observations is one in three (1/3), or 33.33%. This is also called the climatological probability. The sum of the climatological probabilities of the three categories is 100%.",
 	"owner_org": "9cda5205-d632-4814-96e7-a4ab5e0dce85",
 	"extras": [{
 		"key": "publisher",
@@ -243,11 +243,11 @@
 	},
 	{
 		"key": "catalog_@context",
-		"value": "https:\/\/project-open-data.cio.gov\/v1.1\/schema\/catalog.jsonld"
+		"value": "https://project-open-data.cio.gov/v1.1/schema/catalog.jsonld"
 	},
 	{
 		"key": "temporal",
-		"value": "1978-09-03T00:00:00\/2014-08-25T10:50:35.814000-04:00"
+		"value": "1978-09-03T00:00:00/2014-08-25T10:50:35.814000-04:00"
 	},
 	{
 		"key": "resource-type",
@@ -279,15 +279,15 @@
 	},
 	{
 		"key": "accrualPeriodicity",
-		"value": "R\/P1D"
+		"value": "R/P1D"
 	},
 	{
 		"key": "spatial",
-		"value": "{\"type\": \"Polygon\", \"coordinates\": [[[-180.0, 24.0], [-66.0, 24.0], [-66.0, 72.0], [-180.0, 72.0], [-180.0, 24.0]]]}"
+		"value": "{"type": "Polygon", "coordinates": [[[-180.0, 24.0], [-66.0, 24.0], [-66.0, 72.0], [-180.0, 72.0], [-180.0, 24.0]]]}"
 	},
 	{
 		"key": "catalog_conformsTo",
-		"value": "https:\/\/project-open-data.cio.gov\/v1.1\/schema"
+		"value": "https://project-open-data.cio.gov/v1.1/schema"
 	},
 	{
 		"key": "accessLevel",
@@ -303,7 +303,7 @@
 	},
 	{
 		"key": "catalog_describedBy",
-		"value": "https:\/\/project-open-data.cio.gov\/v1.1\/schema\/catalog.json"
+		"value": "https://project-open-data.cio.gov/v1.1/schema/catalog.json"
 	}],
 	"title": "Climate Prediction Center (CPC) 6 to 10 Day Probabilistic Precipitation Outlook for the Contiguous United States and Alaska",
 	"revision_id": "9d400a30-6619-48e6-a4df-d62e13f4b8e8"

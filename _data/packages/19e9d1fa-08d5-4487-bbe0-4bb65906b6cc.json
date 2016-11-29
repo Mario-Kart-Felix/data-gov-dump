@@ -37,7 +37,7 @@
 		"cache_url": null,
 		"name": "Esri Rest API Endpoint",
 		"created": "2016-06-03T22:51:58.667833",
-		"url": "https:\/\/geodata.epa.gov\/arcgis\/rest\/services\/OA\/WalkabilityIndex\/MapServer",
+		"url": "https://geodata.epa.gov/arcgis/rest/services/OA/WalkabilityIndex/MapServer",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 0,
@@ -67,7 +67,7 @@
 		"cache_url": null,
 		"name": "Zip File",
 		"created": "2016-06-03T22:51:58.667870",
-		"url": "https:\/\/edg.epa.gov\/data\/Public\/OP\/WalkabilityIndex.zip",
+		"url": "https://edg.epa.gov/data/Public/OP/WalkabilityIndex.zip",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 1,
@@ -87,7 +87,7 @@
 	"name": "walkability-index",
 	"isopen": false,
 	"url": null,
-	"notes": "The Walkabiliy Index dataset characterizes every Census 2010 block group in the U.S. based on its relative walkability. Walkability depends upon characteristics of the built environment that influence the likelihood of walking being used as a mode of travel. The Walkability Index is based on the EPA's previous data product, the Smart Location Database (SLD). Block group data from the SLD was the only input into the Walkability Index, and consisted of four variables from the SLD weighted in a formula to create the new Walkability Index. This dataset shares the SLD's block group boundary definitions from Census 2010. The methodology describing the process of creating the Walkability Index can be found in the documents located at https:\/\/edg.epa.gov\/data\/Public\/OP\/WalkabilityIndex.zip. You can also learn more about the Smart Location Database at https:\/\/edg.epa.gov\/data\/Public\/OP\/Smart_Location_DB_v02b.zip.",
+	"notes": "The Walkabiliy Index dataset characterizes every Census 2010 block group in the U.S. based on its relative walkability. Walkability depends upon characteristics of the built environment that influence the likelihood of walking being used as a mode of travel. The Walkability Index is based on the EPA's previous data product, the Smart Location Database (SLD). Block group data from the SLD was the only input into the Walkability Index, and consisted of four variables from the SLD weighted in a formula to create the new Walkability Index. This dataset shares the SLD's block group boundary definitions from Census 2010. The methodology describing the process of creating the Walkability Index can be found in the documents located at https://edg.epa.gov/data/Public/OP/WalkabilityIndex.zip. You can also learn more about the Smart Location Database at https://edg.epa.gov/data/Public/OP/Smart_Location_DB_v02b.zip.",
 	"license_title": null,
 	"extras": [{
 		"key": "bbox-east-long",
@@ -123,7 +123,7 @@
 	},
 	{
 		"key": "spatial",
-		"value": "{\"type\": \"Polygon\", \"coordinates\": [[[-180.0, 2.969871], [180.0, 2.969871], [180.0, 90.0], [-180.0, 90.0], [-180.0, 2.969871]]]}"
+		"value": "{"type": "Polygon", "coordinates": [[[-180.0, 2.969871], [180.0, 2.969871], [180.0, 90.0], [-180.0, 90.0], [-180.0, 2.969871]]]}"
 	},
 	{
 		"key": "progress",
@@ -131,7 +131,7 @@
 	},
 	{
 		"key": "access_constraints",
-		"value": "[\"Use Constraints: None. Please check sources, scale, accuracy, currentness and other available information. Please confirm that you are using the most recent copy of both data and metadata. Acknowledgement of the EPA would be appreciated.\", \"Access Constraints: None.\"]"
+		"value": "["Use Constraints: None. Please check sources, scale, accuracy, currentness and other available information. Please confirm that you are using the most recent copy of both data and metadata. Acknowledgement of the EPA would be appreciated.", "Access Constraints: None."]"
 	},
 	{
 		"key": "temporal-extent-begin",
@@ -139,7 +139,7 @@
 	},
 	{
 		"key": "licence_url",
-		"value": "https:\/\/edg.epa.gov\/EPA_Data_License.html"
+		"value": "https://edg.epa.gov/EPA_Data_License.html"
 	},
 	{
 		"key": "contact-email",
@@ -155,7 +155,7 @@
 	},
 	{
 		"key": "dataset-reference-date",
-		"value": "[{\"type\": \"publication\", \"value\": \"2015-12-23\"}]"
+		"value": "[{"type": "publication", "value": "2015-12-23"}]"
 	},
 	{
 		"key": "frequency-of-update",
@@ -163,7 +163,7 @@
 	},
 	{
 		"key": "licence",
-		"value": "[\"https:\/\/edg.epa.gov\/EPA_Data_License.html\"]"
+		"value": "["https://edg.epa.gov/EPA_Data_License.html"]"
 	},
 	{
 		"key": "metadata_type",
@@ -171,7 +171,7 @@
 	},
 	{
 		"key": "responsible-party",
-		"value": "[{\"name\": \"U.S. Environmental Protection Agency, Office of Sustainable Communities\", \"roles\": [\"pointOfContact\"]}]"
+		"value": "[{"name": "U.S. Environmental Protection Agency, Office of Sustainable Communities", "roles": ["pointOfContact"]}]"
 	},
 	{
 		"key": "temporal-extent-end",
@@ -217,7 +217,7 @@
 		"revision_timestamp": "2014-01-16T18:58:42.895981",
 		"is_organization": true,
 		"state": "active",
-		"image_url": "http:\/\/edg.epa.gov\/EPALogo.svg",
+		"image_url": "http://edg.epa.gov/EPALogo.svg",
 		"revision_id": "f0e4b475-7424-4ce0-9a22-412e7e595154",
 		"type": "organization",
 		"id": "6d90e48d-3076-4327-b2f4-c33919f374d5",

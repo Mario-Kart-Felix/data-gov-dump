@@ -37,7 +37,7 @@
 		"cache_url": null,
 		"name": "Zip File",
 		"created": "2015-11-10T03:50:12.760845",
-		"url": "ftp:\/\/ftp.soest.hawaii.edu\/pibhmc\/website\/data\/nwhi\/bathymetry\/Maro_20m.asc.zip",
+		"url": "ftp://ftp.soest.hawaii.edu/pibhmc/website/data/nwhi/bathymetry/Maro_20m.asc.zip",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 0,
@@ -67,7 +67,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2015-11-10T03:50:12.760879",
-		"url": "http:\/\/www.soest.hawaii.edu\/pibhmc\/pibhmc_nwhi.htm",
+		"url": "http://www.soest.hawaii.edu/pibhmc/pibhmc_nwhi.htm",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 1,
@@ -87,11 +87,11 @@
 	"name": "cred-20m-gridded-bathymetry-and-ikonos-estimated-depths-of-maro-reef-hawaii-usa-arc-ascii-forma",
 	"isopen": false,
 	"url": null,
-	"notes": "Gridded bathymetry and IKONOS estimated depths of the shelf and slope environments of Maro Reef, Hawaii, USA. Bottom coverage was achieved in depths between 0 and 3000 meters. The ASCII includes multibeam bathymetry from the Simrad EM120, Simrad EM1002 Simrad EM300, Simrad EM3002d, and Reson 8101 multibeam sonars collected as of October 2006 by the NOAA Coral Reef Ecosystem Division in depths between 20 and 5000 meters. The ASCII also includes estimated depths derived from high resolution IKONOS satellite imagery by the NOAA\/NOS\/NCCOS\/CCMA Remote Sensing Team in shallow water between 0 and 16 meters.",
+	"notes": "Gridded bathymetry and IKONOS estimated depths of the shelf and slope environments of Maro Reef, Hawaii, USA. Bottom coverage was achieved in depths between 0 and 3000 meters. The ASCII includes multibeam bathymetry from the Simrad EM120, Simrad EM1002 Simrad EM300, Simrad EM3002d, and Reson 8101 multibeam sonars collected as of October 2006 by the NOAA Coral Reef Ecosystem Division in depths between 20 and 5000 meters. The ASCII also includes estimated depths derived from high resolution IKONOS satellite imagery by the NOAA/NOS/NCCOS/CCMA Remote Sensing Team in shallow water between 0 and 16 meters.",
 	"license_title": null,
 	"extras": [{
 		"key": "bbox-east-long",
-		"value": "\n          -170.098400\n        "
+		"value": "n          -170.098400n        "
 	},
 	{
 		"key": "resource-type",
@@ -99,7 +99,7 @@
 	},
 	{
 		"key": "bbox-north-lat",
-		"value": "\n          25.676689\n        "
+		"value": "n          25.676689n        "
 	},
 	{
 		"key": "coupled-resource",
@@ -115,7 +115,7 @@
 	},
 	{
 		"key": "graphic-preview-file",
-		"value": "http:\/\/www.soest.hawaii.edu\/pibhmc\/NWHI_images\/Maro_20m_500.jpg"
+		"value": "http://www.soest.hawaii.edu/pibhmc/NWHI_images/Maro_20m_500.jpg"
 	},
 	{
 		"key": "metadata-language",
@@ -131,7 +131,7 @@
 	},
 	{
 		"key": "spatial",
-		"value": "{\"type\": \"Polygon\", \"coordinates\": [[[-171.187742, 25.015108], [-170.0984, 25.015108], [-170.0984, 25.676689], [-171.187742, 25.676689], [-171.187742, 25.015108]]]}"
+		"value": "{"type": "Polygon", "coordinates": [[[-171.187742, 25.015108], [-170.0984, 25.015108], [-170.0984, 25.676689], [-171.187742, 25.676689], [-171.187742, 25.015108]]]}"
 	},
 	{
 		"key": "progress",
@@ -139,7 +139,7 @@
 	},
 	{
 		"key": "access_constraints",
-		"value": "[\"Use Constraints: These data are not to be used for navigation purposes. Please acknowledge NOAA and the Joint Institute for Marine and Atmospheric Research, University of Hawaii as the sources of this information.\", \"Access Constraints: None\"]"
+		"value": "["Use Constraints: These data are not to be used for navigation purposes. Please acknowledge NOAA and the Joint Institute for Marine and Atmospheric Research, University of Hawaii as the sources of this information.", "Access Constraints: None"]"
 	},
 	{
 		"key": "temporal-extent-begin",
@@ -151,7 +151,7 @@
 	},
 	{
 		"key": "bbox-west-long",
-		"value": "\n          -171.187742\n        "
+		"value": "n          -171.187742n        "
 	},
 	{
 		"key": "metadata-date",
@@ -159,7 +159,7 @@
 	},
 	{
 		"key": "dataset-reference-date",
-		"value": "[{\"type\": \"publication\", \"value\": \"2007-03-01\"}]"
+		"value": "[{"type": "publication", "value": "2007-03-01"}]"
 	},
 	{
 		"key": "graphic-preview-description",
@@ -171,7 +171,7 @@
 	},
 	{
 		"key": "licence",
-		"value": "[\"\\n      These data are not to be used for navigational purposes.\\nNOAA makes no warranty regarding these data, expressed or implied, nor\\ndoes the fact of distribution constitute such a warranty. NOAA cannot\\nassume liability for any damages caused by any errors or omissions in\\nthese data, nor as a result of the failure of these data to function\\non a particular system.\\n    \"]"
+		"value": "["\n      These data are not to be used for navigational purposes.\nNOAA makes no warranty regarding these data, expressed or implied, nor\ndoes the fact of distribution constitute such a warranty. NOAA cannot\nassume liability for any damages caused by any errors or omissions in\nthese data, nor as a result of the failure of these data to function\non a particular system.\n    "]"
 	},
 	{
 		"key": "metadata_type",
@@ -179,7 +179,7 @@
 	},
 	{
 		"key": "responsible-party",
-		"value": "[{\"name\": \"Pacific Islands Benthic Habitat Mapping Center (PIBHMC), Coral Reef Ecosystem Division (CRED), Pacific Islands Fisheries Science Center (PIFSC), National Marine Fisheries Service (NMFS), National Oceanic and Atmospheric Administration (NOAA)\", \"roles\": [\"pointOfContact\"]}]"
+		"value": "[{"name": "Pacific Islands Benthic Habitat Mapping Center (PIBHMC), Coral Reef Ecosystem Division (CRED), Pacific Islands Fisheries Science Center (PIFSC), National Marine Fisheries Service (NMFS), National Oceanic and Atmospheric Administration (NOAA)", "roles": ["pointOfContact"]}]"
 	},
 	{
 		"key": "temporal-extent-end",
@@ -191,11 +191,11 @@
 	},
 	{
 		"key": "bbox-south-lat",
-		"value": "\n          25.015108\n        "
+		"value": "n          25.015108n        "
 	},
 	{
 		"package_id": "b8b328b1-018d-4f49-8d0d-7f695ca4a5e9",
-		"value": "northwestern hawaiian islands, geographic information, estimated depth, oceans, united states of america, hawaii, maro reef, multibeam sonar, satellite imagery, bathymetry, bathymetry\/seafloor topography, earth science",
+		"value": "northwestern hawaiian islands, geographic information, estimated depth, oceans, united states of america, hawaii, maro reef, multibeam sonar, satellite imagery, bathymetry, bathymetry/seafloor topography, earth science",
 		"revision_timestamp": "2015-09-27T02:37:55.937327",
 		"state": "active",
 		"key": "tags",
@@ -225,7 +225,7 @@
 		"revision_timestamp": "2013-03-25T23:05:12.923863",
 		"is_organization": true,
 		"state": "active",
-		"image_url": "https:\/\/fortress.wa.gov\/dfw\/score\/score\/images\/noaa_logo.png",
+		"image_url": "https://fortress.wa.gov/dfw/score/score/images/noaa_logo.png",
 		"revision_id": "c6d43080-22e1-405e-a83d-f2a512d9e867",
 		"type": "organization",
 		"id": "e811f0b4-451f-4896-9e8f-fc6802837819",

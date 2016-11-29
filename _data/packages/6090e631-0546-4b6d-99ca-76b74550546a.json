@@ -37,7 +37,7 @@
 		"cache_url": null,
 		"name": "Zip File",
 		"created": "2015-11-10T00:30:39.373007",
-		"url": "ftp:\/\/ftp.soest.hawaii.edu\/pibhmc\/website\/data\/nwhi\/bathymetry\/Nihoa_5m.grd.zip",
+		"url": "ftp://ftp.soest.hawaii.edu/pibhmc/website/data/nwhi/bathymetry/Nihoa_5m.grd.zip",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 0,
@@ -67,7 +67,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2015-11-10T00:30:39.373027",
-		"url": "http:\/\/www.soest.hawaii.edu\/pibhmc\/pibhmc_nwhi.htm",
+		"url": "http://www.soest.hawaii.edu/pibhmc/pibhmc_nwhi.htm",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 1,
@@ -91,7 +91,7 @@
 	"license_title": null,
 	"extras": [{
 		"key": "bbox-east-long",
-		"value": "\n          -161.686390\n        "
+		"value": "n          -161.686390n        "
 	},
 	{
 		"key": "resource-type",
@@ -99,7 +99,7 @@
 	},
 	{
 		"key": "bbox-north-lat",
-		"value": "\n          23.252926\n        "
+		"value": "n          23.252926n        "
 	},
 	{
 		"key": "coupled-resource",
@@ -115,7 +115,7 @@
 	},
 	{
 		"key": "graphic-preview-file",
-		"value": "http:\/\/www.soest.hawaii.edu\/pibhmc\/NWHI_images\/Nihoa_5m_500.jpg"
+		"value": "http://www.soest.hawaii.edu/pibhmc/NWHI_images/Nihoa_5m_500.jpg"
 	},
 	{
 		"key": "metadata-language",
@@ -131,7 +131,7 @@
 	},
 	{
 		"key": "spatial",
-		"value": "{\"type\": \"Polygon\", \"coordinates\": [[[-162.393518, 22.887217], [-161.68639, 22.887217], [-161.68639, 23.252926], [-162.393518, 23.252926], [-162.393518, 22.887217]]]}"
+		"value": "{"type": "Polygon", "coordinates": [[[-162.393518, 22.887217], [-161.68639, 22.887217], [-161.68639, 23.252926], [-162.393518, 23.252926], [-162.393518, 22.887217]]]}"
 	},
 	{
 		"key": "progress",
@@ -139,7 +139,7 @@
 	},
 	{
 		"key": "access_constraints",
-		"value": "[\"Use Constraints: These data are not to be used for navigation purposes. Please acknowledge NOAA and the Joint Institute for Marine and Atmospheric Research (JIMAR) University of Hawaii as the sources of this information.\", \"Access Constraints: None\"]"
+		"value": "["Use Constraints: These data are not to be used for navigation purposes. Please acknowledge NOAA and the Joint Institute for Marine and Atmospheric Research (JIMAR) University of Hawaii as the sources of this information.", "Access Constraints: None"]"
 	},
 	{
 		"key": "temporal-extent-begin",
@@ -151,7 +151,7 @@
 	},
 	{
 		"key": "bbox-west-long",
-		"value": "\n          -162.393518\n        "
+		"value": "n          -162.393518n        "
 	},
 	{
 		"key": "metadata-date",
@@ -159,7 +159,7 @@
 	},
 	{
 		"key": "dataset-reference-date",
-		"value": "[{\"type\": \"publication\", \"value\": \"2007-04-16\"}]"
+		"value": "[{"type": "publication", "value": "2007-04-16"}]"
 	},
 	{
 		"key": "graphic-preview-description",
@@ -171,7 +171,7 @@
 	},
 	{
 		"key": "licence",
-		"value": "[\"\\n      These data are not to be used for navigational purposes.\\nNOAA makes no warranty regarding these data, expressed or implied, nor\\ndoes the fact of distribution constitute such a warranty. NOAA cannot\\nassume liability for any damages caused by any errors or omissions in\\nthese data, nor as a result of the failure of these data to function\\non a particular system.\\n    \"]"
+		"value": "["\n      These data are not to be used for navigational purposes.\nNOAA makes no warranty regarding these data, expressed or implied, nor\ndoes the fact of distribution constitute such a warranty. NOAA cannot\nassume liability for any damages caused by any errors or omissions in\nthese data, nor as a result of the failure of these data to function\non a particular system.\n    "]"
 	},
 	{
 		"key": "metadata_type",
@@ -179,7 +179,7 @@
 	},
 	{
 		"key": "responsible-party",
-		"value": "[{\"name\": \"Pacific Islands Benthic Habitat Mapping Center (PIBHMC), Coral Reef Ecosystem Division (CRED), Pacific Islands Fisheries Science Center (PIFSC), National Marine Fisheries Service (NMFS), National Oceanic and Atmospheric Administration (NOAA)\", \"roles\": [\"pointOfContact\"]}]"
+		"value": "[{"name": "Pacific Islands Benthic Habitat Mapping Center (PIBHMC), Coral Reef Ecosystem Division (CRED), Pacific Islands Fisheries Science Center (PIFSC), National Marine Fisheries Service (NMFS), National Oceanic and Atmospheric Administration (NOAA)", "roles": ["pointOfContact"]}]"
 	},
 	{
 		"key": "temporal-extent-end",
@@ -191,11 +191,11 @@
 	},
 	{
 		"key": "bbox-south-lat",
-		"value": "\n          22.887217\n        "
+		"value": "n          22.887217n        "
 	},
 	{
 		"package_id": "6090e631-0546-4b6d-99ca-76b74550546a",
-		"value": "nihoa island, northwestern hawaiian islands, geographic information, oceans, united states of america, hawaii, multibeam sonar, bathymetry, bathymetry\/seafloor topography, earth science",
+		"value": "nihoa island, northwestern hawaiian islands, geographic information, oceans, united states of america, hawaii, multibeam sonar, bathymetry, bathymetry/seafloor topography, earth science",
 		"revision_timestamp": "2015-09-26T23:39:40.320105",
 		"state": "active",
 		"key": "tags",
@@ -225,7 +225,7 @@
 		"revision_timestamp": "2013-03-25T23:05:12.923863",
 		"is_organization": true,
 		"state": "active",
-		"image_url": "https:\/\/fortress.wa.gov\/dfw\/score\/score\/images\/noaa_logo.png",
+		"image_url": "https://fortress.wa.gov/dfw/score/score/images/noaa_logo.png",
 		"revision_id": "c6d43080-22e1-405e-a83d-f2a512d9e867",
 		"type": "organization",
 		"id": "e811f0b4-451f-4896-9e8f-fc6802837819",

@@ -37,7 +37,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2013-03-26T00:32:32.266389",
-		"url": "http:\/\/www.fws.gov\/wetlands\/data\/",
+		"url": "http://www.fws.gov/wetlands/data/",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 0,
@@ -67,7 +67,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2013-03-26T00:32:32.266402",
-		"url": "http:\/\/www.fws.gov\/wetlands\/data\/",
+		"url": "http://www.fws.gov/wetlands/data/",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 1,
@@ -87,7 +87,7 @@
 	"name": "national-wetlands-inventory-polygonsbac4e",
 	"isopen": false,
 	"url": null,
-	"notes": "This data set represents the extent, approximate location and type of wetlands and deepwater habitats in the conterminous United States. These data delineate the areal extent of wetlands and surface waters as defined by Cowardin et al. (1979). Certain wetland habitats are excluded from the National mapping program because of the limitations of aerial imagery as the primary data source used to detect wetlands. These habitats include seagrasses or submerged aquatic vegetation that are found in the intertidal and subtidal zones of estuaries and near shore coastal waters. Some deepwater reef communities (coral or tuberficid worm reefs) have also been excluded from the inventory. These habitats, because of their depth, go undetected by aerial imagery. By policy, the Service also excludes certain types of \"farmed wetlands\" as may be defined by the Food Security Act or that do not coincide with the Cowardin et al. definition. Contact the Service's Regional Wetland Coordinator for additional information on what types of farmed wetlands are included on wetland maps.",
+	"notes": "This data set represents the extent, approximate location and type of wetlands and deepwater habitats in the conterminous United States. These data delineate the areal extent of wetlands and surface waters as defined by Cowardin et al. (1979). Certain wetland habitats are excluded from the National mapping program because of the limitations of aerial imagery as the primary data source used to detect wetlands. These habitats include seagrasses or submerged aquatic vegetation that are found in the intertidal and subtidal zones of estuaries and near shore coastal waters. Some deepwater reef communities (coral or tuberficid worm reefs) have also been excluded from the inventory. These habitats, because of their depth, go undetected by aerial imagery. By policy, the Service also excludes certain types of "farmed wetlands" as may be defined by the Food Security Act or that do not coincide with the Cowardin et al. definition. Contact the Service's Regional Wetland Coordinator for additional information on what types of farmed wetlands are included on wetland maps.",
 	"license_title": null,
 	"extras": [{
 		"key": "temporal-extent-begin",
@@ -103,7 +103,7 @@
 	},
 	{
 		"key": "bbox-west-long",
-		"value": "\n-127.982503"
+		"value": "n-127.982503"
 	},
 	{
 		"key": "metadata-date",
@@ -111,7 +111,7 @@
 	},
 	{
 		"key": "dataset-reference-date",
-		"value": "[{\"type\": \"publication\", \"value\": \"9999-01-01\"}]"
+		"value": "[{"type": "publication", "value": "9999-01-01"}]"
 	},
 	{
 		"key": "resource-type",
@@ -119,7 +119,7 @@
 	},
 	{
 		"key": "bbox-east-long",
-		"value": "\n-65.272195"
+		"value": "n-65.272195"
 	},
 	{
 		"key": "spatial-reference-system",
@@ -127,7 +127,7 @@
 	},
 	{
 		"key": "bbox-north-lat",
-		"value": "\n51.611788"
+		"value": "n51.611788"
 	},
 	{
 		"key": "coupled-resource",
@@ -135,11 +135,11 @@
 	},
 	{
 		"key": "bbox-south-lat",
-		"value": "\n22.725718"
+		"value": "n22.725718"
 	},
 	{
 		"key": "licence",
-		"value": "[\"Although these data have been processed successfully on a computer system at the U.S. Fish and Wildlife Service, no warranty expressed or implied is made by the U.S. Fish and Wildlife Service regarding the utility of the data on any other system, nor shall the act of distribution constitute any such warranty. No responsibility is assumed by the U.S. Fish and Wildlife Service in the use of these data.\"]"
+		"value": "["Although these data have been processed successfully on a computer system at the U.S. Fish and Wildlife Service, no warranty expressed or implied is made by the U.S. Fish and Wildlife Service regarding the utility of the data on any other system, nor shall the act of distribution constitute any such warranty. No responsibility is assumed by the U.S. Fish and Wildlife Service in the use of these data."]"
 	},
 	{
 		"key": "metadata_type",
@@ -147,11 +147,11 @@
 	},
 	{
 		"key": "responsible-party",
-		"value": "[{\"name\": \"U.S. Fish and Wildlife Service\", \"roles\": [\"pointOfContact\"]}]"
+		"value": "[{"name": "U.S. Fish and Wildlife Service", "roles": ["pointOfContact"]}]"
 	},
 	{
 		"key": "spatial",
-		"value": "{\"type\": \"Polygon\", \"coordinates\": [[[-127.982503, 22.725718], [-127.982503, 51.611788], [-65.272195, 51.611788], [-65.272195, 22.725718], [-127.982503, 22.725718]]]}"
+		"value": "{"type": "Polygon", "coordinates": [[[-127.982503, 22.725718], [-127.982503, 51.611788], [-65.272195, 51.611788], [-65.272195, 22.725718], [-127.982503, 22.725718]]]}"
 	},
 	{
 		"key": "guid",
@@ -163,7 +163,7 @@
 	},
 	{
 		"key": "access_constraints",
-		"value": "[\"Use Constraints: None. Acknowledgement of the U.S. Fish and Wildlife Service and (or) the National Wetlands Inventory would be appreciated in products derived from these data\", \"Access Constraints: None\"]"
+		"value": "["Use Constraints: None. Acknowledgement of the U.S. Fish and Wildlife Service and (or) the National Wetlands Inventory would be appreciated in products derived from these data", "Access Constraints: None"]"
 	},
 	{
 		"key": "frequency-of-update",
@@ -201,7 +201,7 @@
 		"revision_timestamp": "2013-03-25T16:20:43.179153",
 		"is_organization": true,
 		"state": "active",
-		"image_url": "https:\/\/encrypted-tbn0.gstatic.com\/images?q=tbn:ANd9GcSSUlT4KL5Yu0Z4wxvwH6W1RomS6KRl7Cat3zfx4j2MbexEoofWuiXi61-3",
+		"image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSSUlT4KL5Yu0Z4wxvwH6W1RomS6KRl7Cat3zfx4j2MbexEoofWuiXi61-3",
 		"revision_id": "cecc899c-71b7-4197-ab17-e7aa41978b20",
 		"type": "organization",
 		"id": "dd3a2a7c-e157-40d6-af0d-fe0a5a0ed064",

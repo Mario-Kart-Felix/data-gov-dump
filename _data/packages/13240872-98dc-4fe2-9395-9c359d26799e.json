@@ -37,7 +37,7 @@
 		"cache_url": null,
 		"name": "Zip File",
 		"created": "2016-09-19T16:47:36.624613",
-		"url": "ftp:\/\/coast.noaa.gov\/pub\/Legis-Atlas\/FederalGeoregulations\/USStateSubmergedLands.zip",
+		"url": "ftp://coast.noaa.gov/pub/Legis-Atlas/FederalGeoregulations/USStateSubmergedLands.zip",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 0,
@@ -67,7 +67,7 @@
 		"cache_url": null,
 		"name": "Esri Rest API Endpoint",
 		"created": "2016-09-19T16:47:36.624663",
-		"url": "https:\/\/coast.noaa.gov\/arcgis\/rest\/services\/MarineCadastre\/USStateSubmergedLands\/MapServer",
+		"url": "https://coast.noaa.gov/arcgis/rest/services/MarineCadastre/USStateSubmergedLands/MapServer",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 1,
@@ -97,7 +97,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2016-09-19T16:47:36.624676",
-		"url": "http:\/\/www.marinecadastre.gov\/data\/",
+		"url": "http://www.marinecadastre.gov/data/",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 2,
@@ -127,7 +127,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2016-09-19T16:47:36.624684",
-		"url": "https:\/\/www.coast.noaa.gov\/",
+		"url": "https://www.coast.noaa.gov/",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 3,
@@ -147,11 +147,11 @@
 	"name": "us-state-submerged-lands",
 	"isopen": false,
 	"url": null,
-	"notes": "The Submerged Lands Act (43 U.S.C. Section 1301 et seq.) grants coastal states title to natural resources located within their coastal submerged lands and navigable waters out to three geographical miles from their coastlines (three marine leagues for Texas and Florida's Gulf of Mexico coastlines). The Submerged Lands Act defines \"natural resources\" to include oil, gas, and all other minerals, and fish, shrimp, oysters, clams, crabs, lobsters, sponges, kelp, and other marine animal and plant life,\" yet expressly excludes \"water power, or the use of water for the production of power\" 43 U.S.C. Section 1301(e). The term \"coast line\" is \"the line of ordinary low water along that portion of the coast which is in direct contact with the open sea and the line marking the seaward limit of inland waters\" (43 U.S.C. Section 1301(c)). Some boundary delineations are approximated, including areas in Hawaii, Alaska, and Washington State. The official delineation of the Submerged Lands Act in these locations has not yet been established by BOEM. Please reference BOEM's official Submerged Lands Act Boundary in these locations to determine where this boundary is approximated and where it is official. - Source: https:\/\/www.gpo.gov\/fdsys\/pkg\/USCODE-2011-title43\/pdf\/USCODE-2011-title43-chap29.pdf - Date Enacted: May 22, 1953 - Codification: 43 U.S.C. Sec. 1301 et seq. - Authority: agencies of several U.S. coastal states When investigating geo-regulatory boundaries near the boundary edges, users should consult the most up-to-date applicable jurisdictional boundaries from all respective authoritative sources.",
+	"notes": "The Submerged Lands Act (43 U.S.C. Section 1301 et seq.) grants coastal states title to natural resources located within their coastal submerged lands and navigable waters out to three geographical miles from their coastlines (three marine leagues for Texas and Florida's Gulf of Mexico coastlines). The Submerged Lands Act defines "natural resources" to include oil, gas, and all other minerals, and fish, shrimp, oysters, clams, crabs, lobsters, sponges, kelp, and other marine animal and plant life," yet expressly excludes "water power, or the use of water for the production of power" 43 U.S.C. Section 1301(e). The term "coast line" is "the line of ordinary low water along that portion of the coast which is in direct contact with the open sea and the line marking the seaward limit of inland waters" (43 U.S.C. Section 1301(c)). Some boundary delineations are approximated, including areas in Hawaii, Alaska, and Washington State. The official delineation of the Submerged Lands Act in these locations has not yet been established by BOEM. Please reference BOEM's official Submerged Lands Act Boundary in these locations to determine where this boundary is approximated and where it is official. - Source: https://www.gpo.gov/fdsys/pkg/USCODE-2011-title43/pdf/USCODE-2011-title43-chap29.pdf - Date Enacted: May 22, 1953 - Codification: 43 U.S.C. Sec. 1301 et seq. - Authority: agencies of several U.S. coastal states When investigating geo-regulatory boundaries near the boundary edges, users should consult the most up-to-date applicable jurisdictional boundaries from all respective authoritative sources.",
 	"license_title": null,
 	"extras": [{
 		"key": "responsible-party",
-		"value": "[{\"name\": \"NOAA Office for Coastal Management\", \"roles\": [\"pointOfContact\"]}]"
+		"value": "[{"name": "NOAA Office for Coastal Management", "roles": ["pointOfContact"]}]"
 	},
 	{
 		"key": "contact-email",
@@ -171,7 +171,7 @@
 	},
 	{
 		"key": "dataset-reference-date",
-		"value": "[{\"type\": \"publication\", \"value\": \"2016-09-14\"}]"
+		"value": "[{"type": "publication", "value": "2016-09-14"}]"
 	},
 	{
 		"key": "resource-type",
@@ -199,7 +199,7 @@
 	},
 	{
 		"key": "licence",
-		"value": "[\"NOAA makes no warranties or representations whatsoever regarding the availability, quality, accuracy, content, completeness or suitability for the user's needs of such information. The services, information, and data made available on the Marine Cadastre web site are provided \\\"as is\\\" without warranties of any kind. These data are intended for coastal and ocean use planning. Not for navigation. http:\/\/www.marinecadastre.gov\/about\/disclaimer.html\"]"
+		"value": "["NOAA makes no warranties or representations whatsoever regarding the availability, quality, accuracy, content, completeness or suitability for the user's needs of such information. The services, information, and data made available on the Marine Cadastre web site are provided \"as is\" without warranties of any kind. These data are intended for coastal and ocean use planning. Not for navigation. http://www.marinecadastre.gov/about/disclaimer.html"]"
 	},
 	{
 		"key": "metadata_type",
@@ -211,7 +211,7 @@
 	},
 	{
 		"key": "spatial",
-		"value": "{\"type\": \"Polygon\", \"coordinates\": [[[-179.229655, 18.85975], [179.856675, 18.85975], [179.856675, 71.439231], [-179.229655, 71.439231], [-179.229655, 18.85975]]]}"
+		"value": "{"type": "Polygon", "coordinates": [[[-179.229655, 18.85975], [179.856675, 18.85975], [179.856675, 71.439231], [-179.229655, 71.439231], [-179.229655, 18.85975]]]}"
 	},
 	{
 		"key": "guid",
@@ -223,7 +223,7 @@
 	},
 	{
 		"key": "access_constraints",
-		"value": "[\"Use Constraints: These data are intended for coastal and ocean use planning. Not for navigation. http:\/\/www.marinecadastre.gov\/about\/disclaimer.html These data represent the unofficial boundary of the Submerged Lands Act, as of 2016. For the official boundary, please reference language within the authoritative legislation and consult the governing agency\/agencies. A copy of the legislation is found here: https:\/\/www.gpo.gov\/fdsys\/pkg\/USCODE-2011-title43\/pdf\/USCODE-2011-title43-chap29.pdf\", \"Access Constraints: None\"]"
+		"value": "["Use Constraints: These data are intended for coastal and ocean use planning. Not for navigation. http://www.marinecadastre.gov/about/disclaimer.html These data represent the unofficial boundary of the Submerged Lands Act, as of 2016. For the official boundary, please reference language within the authoritative legislation and consult the governing agency/agencies. A copy of the legislation is found here: https://www.gpo.gov/fdsys/pkg/USCODE-2011-title43/pdf/USCODE-2011-title43-chap29.pdf", "Access Constraints: None"]"
 	},
 	{
 		"key": "spatial_harvester",
@@ -265,7 +265,7 @@
 		"revision_timestamp": "2013-03-25T23:05:12.923863",
 		"is_organization": true,
 		"state": "active",
-		"image_url": "https:\/\/fortress.wa.gov\/dfw\/score\/score\/images\/noaa_logo.png",
+		"image_url": "https://fortress.wa.gov/dfw/score/score/images/noaa_logo.png",
 		"revision_id": "c6d43080-22e1-405e-a83d-f2a512d9e867",
 		"type": "organization",
 		"id": "e811f0b4-451f-4896-9e8f-fc6802837819",

@@ -31,11 +31,11 @@
 		},
 		"mimetype_inner": null,
 		"revision_id": "97567b78-2484-4d5b-9346-f8fa6735d381",
-		"mimetype": "text\/html",
+		"mimetype": "text/html",
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2016-01-29T08:44:44.906899",
-		"url": "ftp:\/\/ftp.cpc.ncep.noaa.gov\/precip\/50yr\/land_ocean\/",
+		"url": "ftp://ftp.cpc.ncep.noaa.gov/precip/50yr/land_ocean/",
 		"webstore_url": null,
 		"last_modified": null,
 		"position": 0,
@@ -118,7 +118,7 @@
 	"name": "climate-prediction-center-cpc-monthly-precipitation-reconstruction-of-oceanprecoat-spatial",
 	"isopen": false,
 	"url": null,
-	"notes": "This global monthly precipitation analysis is called the Climate Prediction Center (CPC) Precipitation Reconstruction (PREC). This analysis consists of two components, the land analysis (PREC\/L) and oceanic analysis (PREC\/O). The land analysis is defined by interpolation of gauge observations from the Global Historical Climatology Network (GHCN) version 2, and the Climate Prediction Center Climate Anomaly Monitoring System (CAMS) dataset through the Optimal Interpolation (OI) algorithm. The oceanic analysis is defined by Empirical Orthogonal Function (EOF) reconstruction of historical gauge observation from islands and atolls and land. The output resolutions are 0.5deg, 1.0deg, and 2.5deg latitude\/longitude for the PREC\/L, and 2.5deg latitude\/longitude for PREC\/O. The analysis covers time period from 1948 to current and is updated on real time basis. The data set is available at format of ASCII and binary.",
+	"notes": "This global monthly precipitation analysis is called the Climate Prediction Center (CPC) Precipitation Reconstruction (PREC). This analysis consists of two components, the land analysis (PREC/L) and oceanic analysis (PREC/O). The land analysis is defined by interpolation of gauge observations from the Global Historical Climatology Network (GHCN) version 2, and the Climate Prediction Center Climate Anomaly Monitoring System (CAMS) dataset through the Optimal Interpolation (OI) algorithm. The oceanic analysis is defined by Empirical Orthogonal Function (EOF) reconstruction of historical gauge observation from islands and atolls and land. The output resolutions are 0.5deg, 1.0deg, and 2.5deg latitude/longitude for the PREC/L, and 2.5deg latitude/longitude for PREC/O. The analysis covers time period from 1948 to current and is updated on real time basis. The data set is available at format of ASCII and binary.",
 	"license_title": "License Not Specified",
 	"extras": [{
 		"key": "publisher",
@@ -138,11 +138,11 @@
 	},
 	{
 		"key": "catalog_@context",
-		"value": "https:\/\/project-open-data.cio.gov\/v1.1\/schema\/catalog.jsonld"
+		"value": "https://project-open-data.cio.gov/v1.1/schema/catalog.jsonld"
 	},
 	{
 		"key": "temporal",
-		"value": "1948-01-03T00:00:00\/2014-08-25T10:50:46.461000-04:00"
+		"value": "1948-01-03T00:00:00/2014-08-25T10:50:46.461000-04:00"
 	},
 	{
 		"key": "resource-type",
@@ -174,15 +174,15 @@
 	},
 	{
 		"key": "accrualPeriodicity",
-		"value": "R\/P1M"
+		"value": "R/P1M"
 	},
 	{
 		"key": "spatial",
-		"value": "{\"type\": \"Polygon\", \"coordinates\": [[[-180.0, -88.75], [180.0, -88.75], [180.0, 88.75], [-180.0, 88.75], [-180.0, -88.75]]]}"
+		"value": "{"type": "Polygon", "coordinates": [[[-180.0, -88.75], [180.0, -88.75], [180.0, 88.75], [-180.0, 88.75], [-180.0, -88.75]]]}"
 	},
 	{
 		"key": "catalog_conformsTo",
-		"value": "https:\/\/project-open-data.cio.gov\/v1.1\/schema"
+		"value": "https://project-open-data.cio.gov/v1.1/schema"
 	},
 	{
 		"key": "accessLevel",
@@ -198,7 +198,7 @@
 	},
 	{
 		"key": "catalog_describedBy",
-		"value": "https:\/\/project-open-data.cio.gov\/v1.1\/schema\/catalog.json"
+		"value": "https://project-open-data.cio.gov/v1.1/schema/catalog.json"
 	},
 	{
 		"state": "active",
@@ -223,7 +223,7 @@
 		"revision_timestamp": "2013-05-30T16:50:01.416157",
 		"is_organization": true,
 		"state": "active",
-		"image_url": "http:\/\/www.vos.noaa.gov\/MWL\/aug_10\/Images\/doc_logo_xparent.png",
+		"image_url": "http://www.vos.noaa.gov/MWL/aug_10/Images/doc_logo_xparent.png",
 		"revision_id": "44c851b9-8872-497a-8a13-2f06740b7ffb",
 		"type": "organization",
 		"id": "9cda5205-d632-4814-96e7-a4ab5e0dce85",

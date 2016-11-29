@@ -36,7 +36,7 @@
 		"cache_url": null,
 		"name": "ESRI Shapefiles",
 		"created": "2014-11-17T16:10:32.249556",
-		"url": "http:\/\/water.usgs.gov\/GIS\/dsdl\/warpbas2010.zip",
+		"url": "http://water.usgs.gov/GIS/dsdl/warpbas2010.zip",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 0,
@@ -66,7 +66,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2014-11-17T16:10:32.249582",
-		"url": "http:\/\/water.usgs.gov\/lookup\/getspatial?warpbas2010",
+		"url": "http://water.usgs.gov/lookup/getspatial?warpbas2010",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 1,
@@ -96,7 +96,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2014-11-17T16:10:32.249591",
-		"url": "http:\/\/pubs.usgs.gov\/of\/2009\/1122\/",
+		"url": "http://pubs.usgs.gov/of/2009/1122/",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 2,
@@ -126,7 +126,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2014-11-17T16:10:32.249598",
-		"url": "http:\/\/pubs.usgs.gov\/of\/2008\/1186\/",
+		"url": "http://pubs.usgs.gov/of/2008/1186/",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 3,
@@ -156,7 +156,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2014-11-17T16:10:32.249605",
-		"url": "http:\/\/pubs.usgs.gov\/wri\/wri034047\/",
+		"url": "http://pubs.usgs.gov/wri/wri034047/",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 4,
@@ -204,7 +204,7 @@
 	},
 	{
 		"key": "graphic-preview-file",
-		"value": "http:\/\/water.usgs.gov\/GIS\/browse\/warpbas2010.jpg"
+		"value": "http://water.usgs.gov/GIS/browse/warpbas2010.jpg"
 	},
 	{
 		"key": "metadata-language",
@@ -220,7 +220,7 @@
 	},
 	{
 		"key": "spatial",
-		"value": "{\"type\": \"Polygon\", \"coordinates\": [[[-127.87, 22.87], [-65.35, 22.87], [-65.35, 48.24], [-127.87, 48.24], [-127.87, 22.87]]]}"
+		"value": "{"type": "Polygon", "coordinates": [[[-127.87, 22.87], [-65.35, 22.87], [-65.35, 48.24], [-127.87, 48.24], [-127.87, 22.87]]]}"
 	},
 	{
 		"key": "progress",
@@ -228,7 +228,7 @@
 	},
 	{
 		"key": "access_constraints",
-		"value": "[\"Use Constraints: 1. Because these drainage basins were created by a number of people over a time period using different data sources and methods, boundaries of nested and adjacent basins are not entirely coincident. 2. Contact information in individual basin metadata files may reference a person no longer with the USGS. In these cases, it is advised to contact the state USGS representative for the Water Science Center office corresponding to the site. The contact information for the USGS Water Science Centers is available from http:\/\/www.usgs.gov\/contact_us\/. 3. Acknowledgment of the USGS would be appreciated.\", \"Access Constraints: None\"]"
+		"value": "["Use Constraints: 1. Because these drainage basins were created by a number of people over a time period using different data sources and methods, boundaries of nested and adjacent basins are not entirely coincident. 2. Contact information in individual basin metadata files may reference a person no longer with the USGS. In these cases, it is advised to contact the state USGS representative for the Water Science Center office corresponding to the site. The contact information for the USGS Water Science Centers is available from http://www.usgs.gov/contact_us/. 3. Acknowledgment of the USGS would be appreciated.", "Access Constraints: None"]"
 	},
 	{
 		"key": "temporal-extent-begin",
@@ -248,7 +248,7 @@
 	},
 	{
 		"key": "dataset-reference-date",
-		"value": "[{\"type\": \"publication\", \"value\": \"2010-04-01\"}]"
+		"value": "[{"type": "publication", "value": "2010-04-01"}]"
 	},
 	{
 		"key": "graphic-preview-description",
@@ -260,7 +260,7 @@
 	},
 	{
 		"key": "licence",
-		"value": "[\"Although this data set has been used by the U.S. Geological Survey, U.S. Department of the Interior, no warranty \\n\\t\\texpressed or implied is made by the U.S. Geological Survey as to the accuracy of the data and related materials.  The act \\n\\t\\tof distribution shall not constitute any such warranty, and no responsibility is assumed by the \\n\\t\\tU.S. Geological Survey in the use of these data, software, or related materials.\\n\\nAny use of trade, product, or firm names is for descriptive purposes only and does not imply endorsement by the U.S. Government.\"]"
+		"value": "["Although this data set has been used by the U.S. Geological Survey, U.S. Department of the Interior, no warranty \n\t\texpressed or implied is made by the U.S. Geological Survey as to the accuracy of the data and related materials.  The act \n\t\tof distribution shall not constitute any such warranty, and no responsibility is assumed by the \n\t\tU.S. Geological Survey in the use of these data, software, or related materials.\n\nAny use of trade, product, or firm names is for descriptive purposes only and does not imply endorsement by the U.S. Government."]"
 	},
 	{
 		"key": "metadata_type",
@@ -268,7 +268,7 @@
 	},
 	{
 		"key": "responsible-party",
-		"value": "[{\"name\": \"U.S. Geological Survey\", \"roles\": [\"pointOfContact\"]}]"
+		"value": "[{"name": "U.S. Geological Survey", "roles": ["pointOfContact"]}]"
 	},
 	{
 		"key": "temporal-extent-end",
@@ -307,14 +307,14 @@
 		"value": "Water NSDI Node Spatial Datasets"
 	}],
 	"organization": {
-		"description": "http:\/\/www.usgs.gov\/\r\nThe USGS is a federal science agency that provides impartial information on the health of our ecosystems and environment, the natural hazards that threaten us, the natural resources we rely on, the impacts of climate and land-use change, and the core science systems that help us provide timely, relevant, and useable information.",
+		"description": "http://www.usgs.gov/rnThe USGS is a federal science agency that provides impartial information on the health of our ecosystems and environment, the natural hazards that threaten us, the natural resources we rely on, the impacts of climate and land-use change, and the core science systems that help us provide timely, relevant, and useable information.",
 		"created": "2013-03-14T03:44:38.263357",
 		"title": "U.S. Geological Survey, Department of the Interior",
 		"name": "usgs-gov",
 		"revision_timestamp": "2014-09-02T13:43:52.167023",
 		"is_organization": true,
 		"state": "active",
-		"image_url": "http:\/\/pubs.usgs.gov\/sir\/2004\/5296\/04-5296_confluence_park\/usgs_logo.gif",
+		"image_url": "http://pubs.usgs.gov/sir/2004/5296/04-5296_confluence_park/usgs_logo.gif",
 		"revision_id": "2858aa99-9501-4f96-82e5-9647b968ed66",
 		"type": "organization",
 		"id": "bd2cdd5a-4d65-46c0-9937-c8381175f104",

@@ -36,7 +36,7 @@
 		"cache_url": null,
 		"name": "Shapefile",
 		"created": "2016-06-15T04:16:47.457017",
-		"url": "http:\/\/mrdata.usgs.gov\/mrds\/mrds.zip",
+		"url": "http://mrdata.usgs.gov/mrds/mrds.zip",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 0,
@@ -65,7 +65,7 @@
 		"cache_url": null,
 		"name": "FGDB",
 		"created": "2016-06-15T04:16:47.457059",
-		"url": "http:\/\/mrdata.usgs.gov\/mrds\/mrds-gdb.zip",
+		"url": "http://mrdata.usgs.gov/mrds/mrds-gdb.zip",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 1,
@@ -94,7 +94,7 @@
 		"cache_url": null,
 		"name": "CSV",
 		"created": "2016-06-15T04:16:47.457081",
-		"url": "http:\/\/mrdata.usgs.gov\/mrds\/rdbms-tab.zip",
+		"url": "http://mrdata.usgs.gov/mrds/rdbms-tab.zip",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 2,
@@ -123,7 +123,7 @@
 		"cache_url": null,
 		"name": "Tab-delimited text",
 		"created": "2016-06-15T04:16:47.457094",
-		"url": "http:\/\/mrdata.usgs.gov\/mrds\/rdbms-tab-all.zip",
+		"url": "http://mrdata.usgs.gov/mrds/rdbms-tab-all.zip",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 3,
@@ -152,7 +152,7 @@
 		"cache_url": null,
 		"name": "OGC WMS",
 		"created": "2016-06-15T04:16:47.457102",
-		"url": "http:\/\/mrdata.usgs.gov\/services\/mrds?request=getcapabilities&service=WMS&version=1.1.1&",
+		"url": "http://mrdata.usgs.gov/services/mrds?request=getcapabilities&service=WMS&version=1.1.1&",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 4,
@@ -181,7 +181,7 @@
 		"cache_url": null,
 		"name": "OGC WFS",
 		"created": "2016-06-15T04:16:47.457109",
-		"url": "http:\/\/mrdata.usgs.gov\/wfs\/mrds?request=getcapabilities&service=WFS&version=1.0.0&",
+		"url": "http://mrdata.usgs.gov/wfs/mrds?request=getcapabilities&service=WFS&version=1.0.0&",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 5,
@@ -211,7 +211,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2016-06-15T04:16:47.457116",
-		"url": "http:\/\/mrdata.usgs.gov\/mrds\/",
+		"url": "http://mrdata.usgs.gov/mrds/",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 6,
@@ -231,11 +231,11 @@
 	"name": "mineral-resources-data-system",
 	"isopen": false,
 	"url": null,
-	"notes": "Mineral resource occurrence data covering the world, most thoroughly within the U.S. This database contains the records previously provided in the Mineral Resource Data System (MRDS) of USGS and the Mineral Availability System\/Mineral Industry Locator System (MAS\/MILS) originated in the U.S. Bureau of Mines, which is now part of USGS. The MRDS is a large and complex relational database developed over several decades by hundreds of researchers and reporters. While database records describe mineral resources worldwide, the compilation of information was intended to cover the United States completely, and its coverage of resources in other countries is incomplete. The content of MRDS records was drawn from reports previously published or made available to USGS researchers. Some of those original source materials are no longer available. The information contained in MRDS was intended to reflect the reports used as sources and is current only as of the date of those source reports. Consequently MRDS does not reflect up-to-date changes to the operating status of mines, ownership, land status, production figures and estimates of reserves and resources, or the nature, size, and extent of workings. Information on the geological characteristics of the mineral resource are likely to remain correct, but aspects involving human activity are likely to be out of date.",
+	"notes": "Mineral resource occurrence data covering the world, most thoroughly within the U.S. This database contains the records previously provided in the Mineral Resource Data System (MRDS) of USGS and the Mineral Availability System/Mineral Industry Locator System (MAS/MILS) originated in the U.S. Bureau of Mines, which is now part of USGS. The MRDS is a large and complex relational database developed over several decades by hundreds of researchers and reporters. While database records describe mineral resources worldwide, the compilation of information was intended to cover the United States completely, and its coverage of resources in other countries is incomplete. The content of MRDS records was drawn from reports previously published or made available to USGS researchers. Some of those original source materials are no longer available. The information contained in MRDS was intended to reflect the reports used as sources and is current only as of the date of those source reports. Consequently MRDS does not reflect up-to-date changes to the operating status of mines, ownership, land status, production figures and estimates of reserves and resources, or the nature, size, and extent of workings. Information on the geological characteristics of the mineral resource are likely to remain correct, but aspects involving human activity are likely to be out of date.",
 	"license_title": null,
 	"extras": [{
 		"key": "responsible-party",
-		"value": "[{\"name\": \"USGS ER GD\", \"roles\": [\"pointOfContact\"]}]"
+		"value": "[{"name": "USGS ER GD", "roles": ["pointOfContact"]}]"
 	},
 	{
 		"key": "contact-email",
@@ -255,7 +255,7 @@
 	},
 	{
 		"key": "dataset-reference-date",
-		"value": "[{\"type\": \"publication\", \"value\": \"2005-01-01\"}]"
+		"value": "[{"type": "publication", "value": "2005-01-01"}]"
 	},
 	{
 		"key": "resource-type",
@@ -283,7 +283,7 @@
 	},
 	{
 		"key": "licence",
-		"value": "[\"This dataset was prepared by an agency of the United States\\nGovernment.  Neither the United States Government nor any agency\\nthereof, nor any of their employees, make any warranty, expressed or\\nimplied, or assumes any legal liability or responsibility for the\\naccuracy, completeness,  or usefulness of any information, apparatus,\\nproduct, or process disclosed in this report, or represents that its\\nuse would not infringe privately owned rights.  Reference therein to\\nany specific commercial product, process, or service by trade name,\\ntrademark, manufacturer, or otherwise does not necessarily constitute\\nor imply its endorsement, recommendation, or favoring by the United\\nStates Government or any agency thereof.  Any views and opinions of\\nauthors expressed herein do not necessarily state or reflect those of\\nthe United States Government or any agency thereof.\"]"
+		"value": "["This dataset was prepared by an agency of the United States\nGovernment.  Neither the United States Government nor any agency\nthereof, nor any of their employees, make any warranty, expressed or\nimplied, or assumes any legal liability or responsibility for the\naccuracy, completeness,  or usefulness of any information, apparatus,\nproduct, or process disclosed in this report, or represents that its\nuse would not infringe privately owned rights.  Reference therein to\nany specific commercial product, process, or service by trade name,\ntrademark, manufacturer, or otherwise does not necessarily constitute\nor imply its endorsement, recommendation, or favoring by the United\nStates Government or any agency thereof.  Any views and opinions of\nauthors expressed herein do not necessarily state or reflect those of\nthe United States Government or any agency thereof."]"
 	},
 	{
 		"key": "metadata_type",
@@ -295,7 +295,7 @@
 	},
 	{
 		"key": "spatial",
-		"value": "{\"type\": \"Polygon\", \"coordinates\": [[[179.54917, -76.6667], [-178.8167, -76.6667], [-178.8167, 80.0], [179.54917, 80.0], [179.54917, -76.6667]]]}"
+		"value": "{"type": "Polygon", "coordinates": [[[179.54917, -76.6667], [-178.8167, -76.6667], [-178.8167, 80.0], [179.54917, 80.0], [179.54917, -76.6667]]]}"
 	},
 	{
 		"key": "guid",
@@ -307,7 +307,7 @@
 	},
 	{
 		"key": "access_constraints",
-		"value": "[\"Use Constraints: none\", \"Access Constraints: none\"]"
+		"value": "["Use Constraints: none", "Access Constraints: none"]"
 	},
 	{
 		"key": "spatial_harvester",
@@ -342,14 +342,14 @@
 		"value": "Mineral Resources Online Spatial Data"
 	}],
 	"organization": {
-		"description": "http:\/\/www.usgs.gov\/\r\nThe USGS is a federal science agency that provides impartial information on the health of our ecosystems and environment, the natural hazards that threaten us, the natural resources we rely on, the impacts of climate and land-use change, and the core science systems that help us provide timely, relevant, and useable information.",
+		"description": "http://www.usgs.gov/rnThe USGS is a federal science agency that provides impartial information on the health of our ecosystems and environment, the natural hazards that threaten us, the natural resources we rely on, the impacts of climate and land-use change, and the core science systems that help us provide timely, relevant, and useable information.",
 		"created": "2013-03-14T03:44:38.263357",
 		"title": "U.S. Geological Survey, Department of the Interior",
 		"name": "usgs-gov",
 		"revision_timestamp": "2014-09-02T13:43:52.167023",
 		"is_organization": true,
 		"state": "active",
-		"image_url": "http:\/\/pubs.usgs.gov\/sir\/2004\/5296\/04-5296_confluence_park\/usgs_logo.gif",
+		"image_url": "http://pubs.usgs.gov/sir/2004/5296/04-5296_confluence_park/usgs_logo.gif",
 		"revision_id": "2858aa99-9501-4f96-82e5-9647b968ed66",
 		"type": "organization",
 		"id": "bd2cdd5a-4d65-46c0-9937-c8381175f104",

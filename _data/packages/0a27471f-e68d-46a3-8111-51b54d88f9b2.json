@@ -36,7 +36,7 @@
 		"cache_url": null,
 		"name": "Vector Digital Data Set (Polyline)",
 		"created": "2016-05-11T17:15:32.883444",
-		"url": "http:\/\/www.umesc.usgs.gov\/data_library\/gis_data\/lidar.html",
+		"url": "http://www.umesc.usgs.gov/data_library/gis_data/lidar.html",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 0,
@@ -66,7 +66,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2016-05-11T17:15:32.883486",
-		"url": "http:\/\/www.umesc.usgs.gov\/data_library\/gis_data\/lidar.html",
+		"url": "http://www.umesc.usgs.gov/data_library/gis_data/lidar.html",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 1,
@@ -122,7 +122,7 @@
 	},
 	{
 		"key": "spatial",
-		"value": "{\"type\": \"Polygon\", \"coordinates\": [[[-89.377018399, 41.246167592], [-89.249048349, 41.246167592], [-89.249048349, 41.329780092], [-89.377018399, 41.329780092], [-89.377018399, 41.246167592]]]}"
+		"value": "{"type": "Polygon", "coordinates": [[[-89.377018399, 41.246167592], [-89.249048349, 41.246167592], [-89.249048349, 41.329780092], [-89.377018399, 41.329780092], [-89.377018399, 41.246167592]]]}"
 	},
 	{
 		"key": "progress",
@@ -130,7 +130,7 @@
 	},
 	{
 		"key": "access_constraints",
-		"value": "[\"Use Constraints: Although these data have been processed successfully on a computer system at the U.S. Geological Survey, no warranty has been expressed or implied regarding the individual use of the data or aggregate use with other data, nor shall the act of distribution constitute any such warranty. It is strongly recommended that these data are directly acquired from a U.S. Geological Survey server and not indirectly through other sources which may have changed the data in some way. It is also strongly recommended that careful attention be paid to the contents of the metadata file associated with these data. The U.S. Geological Survey shall not be held liable for improper or incorrect use of the data described and\/or contained herein.\", \"Access Constraints: Although these data have been processed successfully on a computer system at the U.S. Geological Survey, no warranty has been expressed or implied regarding the individual use of the data or aggregate use with other data, nor shall the act of distribution constitute any such warranty. It is strongly recommended that these data are directly acquired from a U.S. Geological Survey server and not indirectly through other sources which may have changed the data in some way. It is also strongly recommended that careful attention be paid to the contents of the metadata file associated with these data. The U.S. Geological Survey shall not be held liable for improper or incorrect use of the data described and\/or contained herein.\"]"
+		"value": "["Use Constraints: Although these data have been processed successfully on a computer system at the U.S. Geological Survey, no warranty has been expressed or implied regarding the individual use of the data or aggregate use with other data, nor shall the act of distribution constitute any such warranty. It is strongly recommended that these data are directly acquired from a U.S. Geological Survey server and not indirectly through other sources which may have changed the data in some way. It is also strongly recommended that careful attention be paid to the contents of the metadata file associated with these data. The U.S. Geological Survey shall not be held liable for improper or incorrect use of the data described and/or contained herein.", "Access Constraints: Although these data have been processed successfully on a computer system at the U.S. Geological Survey, no warranty has been expressed or implied regarding the individual use of the data or aggregate use with other data, nor shall the act of distribution constitute any such warranty. It is strongly recommended that these data are directly acquired from a U.S. Geological Survey server and not indirectly through other sources which may have changed the data in some way. It is also strongly recommended that careful attention be paid to the contents of the metadata file associated with these data. The U.S. Geological Survey shall not be held liable for improper or incorrect use of the data described and/or contained herein."]"
 	},
 	{
 		"key": "temporal-extent-begin",
@@ -150,7 +150,7 @@
 	},
 	{
 		"key": "dataset-reference-date",
-		"value": "[{\"type\": \"publication\", \"value\": \"2014-10-01\"}]"
+		"value": "[{"type": "publication", "value": "2014-10-01"}]"
 	},
 	{
 		"key": "frequency-of-update",
@@ -158,7 +158,7 @@
 	},
 	{
 		"key": "licence",
-		"value": "[\"Distributor assumes no liability for misuse of data.\"]"
+		"value": "["Distributor assumes no liability for misuse of data."]"
 	},
 	{
 		"key": "metadata_type",
@@ -166,7 +166,7 @@
 	},
 	{
 		"key": "responsible-party",
-		"value": "[{\"name\": \"Upper Midwest Environmental Sciences Center\", \"roles\": [\"pointOfContact\"]}]"
+		"value": "[{"name": "Upper Midwest Environmental Sciences Center", "roles": ["pointOfContact"]}]"
 	},
 	{
 		"key": "temporal-extent-end",
@@ -205,14 +205,14 @@
 		"value": "Upper Midwest Environmental Sciences Center, USGS"
 	}],
 	"organization": {
-		"description": "http:\/\/www.usgs.gov\/\r\nThe USGS is a federal science agency that provides impartial information on the health of our ecosystems and environment, the natural hazards that threaten us, the natural resources we rely on, the impacts of climate and land-use change, and the core science systems that help us provide timely, relevant, and useable information.",
+		"description": "http://www.usgs.gov/rnThe USGS is a federal science agency that provides impartial information on the health of our ecosystems and environment, the natural hazards that threaten us, the natural resources we rely on, the impacts of climate and land-use change, and the core science systems that help us provide timely, relevant, and useable information.",
 		"created": "2013-03-14T03:44:38.263357",
 		"title": "U.S. Geological Survey, Department of the Interior",
 		"name": "usgs-gov",
 		"revision_timestamp": "2014-09-02T13:43:52.167023",
 		"is_organization": true,
 		"state": "active",
-		"image_url": "http:\/\/pubs.usgs.gov\/sir\/2004\/5296\/04-5296_confluence_park\/usgs_logo.gif",
+		"image_url": "http://pubs.usgs.gov/sir/2004/5296/04-5296_confluence_park/usgs_logo.gif",
 		"revision_id": "2858aa99-9501-4f96-82e5-9647b968ed66",
 		"type": "organization",
 		"id": "bd2cdd5a-4d65-46c0-9937-c8381175f104",

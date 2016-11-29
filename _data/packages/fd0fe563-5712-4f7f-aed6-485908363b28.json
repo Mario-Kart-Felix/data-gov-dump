@@ -37,7 +37,7 @@
 		"cache_url": null,
 		"name": "Esri Rest API Endpoint",
 		"created": "2016-03-31T19:57:17.200373",
-		"url": "http:\/\/geodata.epa.gov\/arcgis\/rest\/services\/OEI\/FRS_INTERESTS\/MapServer",
+		"url": "http://geodata.epa.gov/arcgis/rest/services/OEI/FRS_INTERESTS/MapServer",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 0,
@@ -67,7 +67,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2016-03-31T19:57:17.200401",
-		"url": "https:\/\/edg.epa.gov\/clipship\/",
+		"url": "https://edg.epa.gov/clipship/",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 1,
@@ -97,7 +97,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2016-03-31T19:57:17.200411",
-		"url": "https:\/\/edg.epa.gov\/metadata\/catalog\/search\/resource\/details.page?uuid={0fd2712b-62d0-4aaf-ab20-2cbfe8c26b30}",
+		"url": "https://edg.epa.gov/metadata/catalog/search/resource/details.page?uuid={0fd2712b-62d0-4aaf-ab20-2cbfe8c26b30}",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 2,
@@ -117,11 +117,11 @@
 	"name": "epa-facility-registry-service-frs-rcra",
 	"isopen": false,
 	"url": null,
-	"notes": "This web feature service contains location and facility identification information from EPA's Facility Registry Service (FRS) for the subset of hazardous waste facilities that link to the Resource Conservation and Recovery Act Information System (RCRAInfo). EPA's comprehensive information system in support of the Resource Conservation and Recovery Act (RCRA) of 1976 and the Hazardous and Solid Waste Amendments (HSWA) of 1984, RCRAInfo tracks many types of information about generators, transporters, treaters, storers, and disposers of hazardous waste. FRS identifies and geospatially locates facilities, sites or places subject to environmental regulations or of environmental interest. Using vigorous verification and data management procedures, FRS integrates facility data from EPA's national program systems, other federal agencies, and State and tribal master facility records and provides EPA with a centrally managed, single source of comprehensive and authoritative information on facilities. This data set contains the subset of FRS integrated facilities that link to RCRAInfo hazardous waste facilities once the RCRAInfo data has been integrated into the FRS database. Additional information on FRS is available at the EPA website http:\/\/www.epa.gov\/enviro\/html\/fii\/index.html",
+	"notes": "This web feature service contains location and facility identification information from EPA's Facility Registry Service (FRS) for the subset of hazardous waste facilities that link to the Resource Conservation and Recovery Act Information System (RCRAInfo). EPA's comprehensive information system in support of the Resource Conservation and Recovery Act (RCRA) of 1976 and the Hazardous and Solid Waste Amendments (HSWA) of 1984, RCRAInfo tracks many types of information about generators, transporters, treaters, storers, and disposers of hazardous waste. FRS identifies and geospatially locates facilities, sites or places subject to environmental regulations or of environmental interest. Using vigorous verification and data management procedures, FRS integrates facility data from EPA's national program systems, other federal agencies, and State and tribal master facility records and provides EPA with a centrally managed, single source of comprehensive and authoritative information on facilities. This data set contains the subset of FRS integrated facilities that link to RCRAInfo hazardous waste facilities once the RCRAInfo data has been integrated into the FRS database. Additional information on FRS is available at the EPA website http://www.epa.gov/enviro/html/fii/index.html",
 	"license_title": null,
 	"extras": [{
 		"key": "bbox-east-long",
-		"value": "\n144.897360"
+		"value": "n144.897360"
 	},
 	{
 		"key": "resource-type",
@@ -129,7 +129,7 @@
 	},
 	{
 		"key": "bbox-north-lat",
-		"value": "\n71.292591"
+		"value": "n71.292591"
 	},
 	{
 		"key": "coupled-resource",
@@ -145,7 +145,7 @@
 	},
 	{
 		"key": "bbox-south-lat",
-		"value": "\n-14.286600"
+		"value": "n-14.286600"
 	},
 	{
 		"key": "spatial-reference-system",
@@ -153,7 +153,7 @@
 	},
 	{
 		"key": "spatial",
-		"value": "{\"type\": \"Polygon\", \"coordinates\": [[[-176.6525, -14.2866], [144.89736, -14.2866], [144.89736, 71.292591], [-176.6525, 71.292591], [-176.6525, -14.2866]]]}"
+		"value": "{"type": "Polygon", "coordinates": [[[-176.6525, -14.2866], [144.89736, -14.2866], [144.89736, 71.292591], [-176.6525, 71.292591], [-176.6525, -14.2866]]]}"
 	},
 	{
 		"key": "progress",
@@ -161,11 +161,11 @@
 	},
 	{
 		"key": "access_constraints",
-		"value": "[\"Use Constraints: None. Please check sources, scale, accuracy, currentness and other available information. Please confirm that you are using the most recent copy of both data and metadata. Acknowledgement of the EPA would be appreciated.\", \"Access Constraints: None.\"]"
+		"value": "["Use Constraints: None. Please check sources, scale, accuracy, currentness and other available information. Please confirm that you are using the most recent copy of both data and metadata. Acknowledgement of the EPA would be appreciated.", "Access Constraints: None."]"
 	},
 	{
 		"key": "licence_url",
-		"value": "https:\/\/edg.epa.gov\/EPA_Data_License.html"
+		"value": "https://edg.epa.gov/EPA_Data_License.html"
 	},
 	{
 		"key": "contact-email",
@@ -173,7 +173,7 @@
 	},
 	{
 		"key": "bbox-west-long",
-		"value": "\n-176.652500"
+		"value": "n-176.652500"
 	},
 	{
 		"key": "metadata-date",
@@ -181,7 +181,7 @@
 	},
 	{
 		"key": "dataset-reference-date",
-		"value": "[{\"type\": \"publication\", \"value\": \"2015-12-08\"}]"
+		"value": "[{"type": "publication", "value": "2015-12-08"}]"
 	},
 	{
 		"key": "frequency-of-update",
@@ -189,7 +189,7 @@
 	},
 	{
 		"key": "licence",
-		"value": "[\"https:\/\/edg.epa.gov\/EPA_Data_License.html\"]"
+		"value": "["https://edg.epa.gov/EPA_Data_License.html"]"
 	},
 	{
 		"key": "metadata_type",
@@ -197,7 +197,7 @@
 	},
 	{
 		"key": "responsible-party",
-		"value": "[{\"name\": \"U.S. Environmental Protection Agency, Headquarters\", \"roles\": [\"pointOfContact\"]}]"
+		"value": "[{"name": "U.S. Environmental Protection Agency, Headquarters", "roles": ["pointOfContact"]}]"
 	},
 	{
 		"key": "spatial-data-service-type",
@@ -239,7 +239,7 @@
 		"revision_timestamp": "2014-01-16T18:58:42.895981",
 		"is_organization": true,
 		"state": "active",
-		"image_url": "http:\/\/edg.epa.gov\/EPALogo.svg",
+		"image_url": "http://edg.epa.gov/EPALogo.svg",
 		"revision_id": "f0e4b475-7424-4ce0-9a22-412e7e595154",
 		"type": "organization",
 		"id": "6d90e48d-3076-4327-b2f4-c33919f374d5",

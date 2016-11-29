@@ -34,9 +34,9 @@
 		"resource_locator_protocol": "WWW:LINK-1.0-http--link",
 		"mimetype": null,
 		"cache_url": null,
-		"name": "ftp:\/\/ftp.nodc.noaa.gov\/nodc\/archive\/arc0076\/0129395\/1.1\/",
+		"name": "ftp://ftp.nodc.noaa.gov/nodc/archive/arc0076/0129395/1.1/",
 		"created": "2016-04-11T19:31:16.862489",
-		"url": "ftp:\/\/ftp.nodc.noaa.gov\/nodc\/archive\/arc0076\/0129395\/1.1\/",
+		"url": "ftp://ftp.nodc.noaa.gov/nodc/archive/arc0076/0129395/1.1/",
 		"webstore_url": null,
 		"resource_locator_function": "download",
 		"position": 0,
@@ -63,9 +63,9 @@
 		"resource_locator_protocol": "WWW:LINK-1.0-http--link",
 		"mimetype": null,
 		"cache_url": null,
-		"name": "http:\/\/accession.nodc.noaa.gov\/download\/0129395",
+		"name": "http://accession.nodc.noaa.gov/download/0129395",
 		"created": "2016-04-11T19:31:16.862520",
-		"url": "http:\/\/accession.nodc.noaa.gov\/download\/0129395",
+		"url": "http://accession.nodc.noaa.gov/download/0129395",
 		"webstore_url": null,
 		"resource_locator_function": "download",
 		"position": 1,
@@ -94,7 +94,7 @@
 		"cache_url": null,
 		"name": "Website",
 		"created": "2016-04-11T19:31:16.862529",
-		"url": "http:\/\/www.pifsc.noaa.gov",
+		"url": "http://www.pifsc.noaa.gov",
 		"webstore_url": null,
 		"resource_locator_function": "information",
 		"position": 2,
@@ -123,7 +123,7 @@
 		"cache_url": null,
 		"name": "Website",
 		"created": "2016-04-11T19:31:16.862536",
-		"url": "http:\/\/www.pifsc.noaa.gov",
+		"url": "http://www.pifsc.noaa.gov",
 		"webstore_url": null,
 		"resource_locator_function": "information",
 		"position": 3,
@@ -140,7 +140,7 @@
 		"state": "active",
 		"last_modified": null,
 		"hash": "",
-		"description": "Direct link to the gzipped tar file. File can be extracted using the tar command \n\ntar -zxf 129395.1.1.tar.gz",
+		"description": "Direct link to the gzipped tar file. File can be extracted using the tar command nntar -zxf 129395.1.1.tar.gz",
 		"format": "TAR",
 		"tracking_summary": {
 			"total": 0,
@@ -152,7 +152,7 @@
 		"cache_url": null,
 		"name": "Citation URL",
 		"created": "2016-04-11T19:31:16.862552",
-		"url": "http:\/\/www.nodc.noaa.gov\/cgi-bin\/OAS\/prd\/download\/129395.1.1.tar.gz",
+		"url": "http://www.nodc.noaa.gov/cgi-bin/OAS/prd/download/129395.1.1.tar.gz",
 		"webstore_url": null,
 		"resource_locator_function": "download",
 		"position": 4,
@@ -181,7 +181,7 @@
 		"cache_url": null,
 		"name": "Citation URL",
 		"created": "2016-04-11T19:31:16.862565",
-		"url": "http:\/\/accession.nodc.noaa.gov\/0129395",
+		"url": "http://accession.nodc.noaa.gov/0129395",
 		"webstore_url": null,
 		"resource_locator_function": "download",
 		"position": 5,
@@ -210,7 +210,7 @@
 		"cache_url": null,
 		"name": "Website",
 		"created": "2016-04-11T19:31:16.862572",
-		"url": "http:\/\/www.pifsc.noaa.gov",
+		"url": "http://www.pifsc.noaa.gov",
 		"webstore_url": null,
 		"resource_locator_function": "information",
 		"position": 6,
@@ -227,7 +227,7 @@
 		"state": "active",
 		"last_modified": null,
 		"hash": "",
-		"description": "This page describes the NASA GCMD Keywords, how\n                                                        to reference those keywords and provides download instructions.\n                                                    ",
+		"description": "This page describes the NASA GCMD Keywords, hown                                                        to reference those keywords and provides download instructions.n                                                    ",
 		"format": "HTML",
 		"tracking_summary": {
 			"total": 475,
@@ -239,7 +239,7 @@
 		"cache_url": null,
 		"name": "GCMD Keywords Page",
 		"created": "2016-04-11T19:31:16.862579",
-		"url": "http:\/\/gcmd.nasa.gov\/learn\/keyword_list.html",
+		"url": "http://gcmd.nasa.gov/learn/keyword_list.html",
 		"webstore_url": null,
 		"resource_locator_function": "information",
 		"position": 7,
@@ -287,7 +287,7 @@
 	},
 	{
 		"key": "graphic-preview-file",
-		"value": "http:\/\/data.nodc.noaa.gov\/cgi-bin\/gfx?id=gov.noaa.nodc:0129395"
+		"value": "http://data.nodc.noaa.gov/cgi-bin/gfx?id=gov.noaa.nodc:0129395"
 	},
 	{
 		"key": "metadata-language",
@@ -303,7 +303,7 @@
 	},
 	{
 		"key": "spatial",
-		"value": "{\"type\": \"Polygon\", \"coordinates\": [[[-158.0, 26.0], [-157.99, 26.0], [-157.99, 36.0], [-158.0, 36.0], [-158.0, 26.0]]]}"
+		"value": "{"type": "Polygon", "coordinates": [[[-158.0, 26.0], [-157.99, 26.0], [-157.99, 36.0], [-158.0, 36.0], [-158.0, 26.0]]]}"
 	},
 	{
 		"key": "progress",
@@ -311,7 +311,7 @@
 	},
 	{
 		"key": "access_constraints",
-		"value": "[\"Access Constraints: None | Use Constraints: NOAA and NODC would appreciate recognition as the resource\\n      from which these data were obtained in any publications and\/or other\\n      representations of these data.\\n\\nCite as: Howell, Evan A.; Polovina, Jeffrey J.; Seki, Michael P.; National Oceanic and Atmospheric Association Pacific Islands Fisheries Science Center (2015). Chlorophyll accessory pigments collected from OSCAR ELTON SETTE in North Pacific Ocean from 2008-03-01 to 2011-04-01 (NCEI Accession 0129395). NOAA National Centers for Environmental Information. Dataset. [access date] | Distribution Liability: NOAA and NODC make no warranty, expressed or implied, regarding\\n      these data, nor does the fact of distribution constitute such a\\n      warranty. NOAA and NODC cannot assume liability for any damages caused by\\n      any errors or omissions in the data.\"]"
+		"value": "["Access Constraints: None | Use Constraints: NOAA and NODC would appreciate recognition as the resource\n      from which these data were obtained in any publications and/or other\n      representations of these data.\n\nCite as: Howell, Evan A.; Polovina, Jeffrey J.; Seki, Michael P.; National Oceanic and Atmospheric Association Pacific Islands Fisheries Science Center (2015). Chlorophyll accessory pigments collected from OSCAR ELTON SETTE in North Pacific Ocean from 2008-03-01 to 2011-04-01 (NCEI Accession 0129395). NOAA National Centers for Environmental Information. Dataset. [access date] | Distribution Liability: NOAA and NODC make no warranty, expressed or implied, regarding\n      these data, nor does the fact of distribution constitute such a\n      warranty. NOAA and NODC cannot assume liability for any damages caused by\n      any errors or omissions in the data."]"
 	},
 	{
 		"key": "temporal-extent-begin",
@@ -331,7 +331,7 @@
 	},
 	{
 		"key": "dataset-reference-date",
-		"value": "[{\"type\": \"publication\", \"value\": \"2015-06-11\"}]"
+		"value": "[{"type": "publication", "value": "2015-06-11"}]"
 	},
 	{
 		"key": "graphic-preview-description",
@@ -351,7 +351,7 @@
 	},
 	{
 		"key": "responsible-party",
-		"value": "[{\"name\": \"Pacific Islands Fisheries Science Center\", \"roles\": [\"pointOfContact\"]}]"
+		"value": "[{"name": "Pacific Islands Fisheries Science Center", "roles": ["pointOfContact"]}]"
 	},
 	{
 		"key": "temporal-extent-end",
@@ -367,7 +367,7 @@
 	},
 	{
 		"package_id": "1dd3b307-6033-4544-aea0-df3140b5421d",
-		"value": "profile, national marine fisheries service, noaa, u.s. department of commerce, chlorophyll, in situ, 0129395, chlorophyll - extracted, north pacific ocean, pigments, niskin bottle, 33oc - oscar elton sette, esd, biological data, doc\/noaa\/nmfs, 129395, biological, pifsc, eop in situ observational data, us doc; noaa; nmfs; pacific islands fisheries science center (nmfs\/pifsc), eop",
+		"value": "profile, national marine fisheries service, noaa, u.s. department of commerce, chlorophyll, in situ, 0129395, chlorophyll - extracted, north pacific ocean, pigments, niskin bottle, 33oc - oscar elton sette, esd, biological data, doc/noaa/nmfs, 129395, biological, pifsc, eop in situ observational data, us doc; noaa; nmfs; pacific islands fisheries science center (nmfs/pifsc), eop",
 		"revision_timestamp": "2016-01-09T11:51:52.709571",
 		"state": "active",
 		"key": "tags",
@@ -397,7 +397,7 @@
 		"revision_timestamp": "2013-03-25T23:05:12.923863",
 		"is_organization": true,
 		"state": "active",
-		"image_url": "https:\/\/fortress.wa.gov\/dfw\/score\/score\/images\/noaa_logo.png",
+		"image_url": "https://fortress.wa.gov/dfw/score/score/images/noaa_logo.png",
 		"revision_id": "c6d43080-22e1-405e-a83d-f2a512d9e867",
 		"type": "organization",
 		"id": "e811f0b4-451f-4896-9e8f-fc6802837819",

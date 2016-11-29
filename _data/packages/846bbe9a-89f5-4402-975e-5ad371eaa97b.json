@@ -37,7 +37,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2016-03-04T15:42:43.541913",
-		"url": "http:\/\/bios.dfg.ca.gov",
+		"url": "http://bios.dfg.ca.gov",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 0,
@@ -67,7 +67,7 @@
 		"cache_url": null,
 		"name": "Zip File",
 		"created": "2016-03-04T15:42:43.541937",
-		"url": "ftp:\/\/ftp.dfg.ca.gov\/BDB\/GIS\/BIOS\/Public_Datasets\/300_399\/ds369.zip",
+		"url": "ftp://ftp.dfg.ca.gov/BDB/GIS/BIOS/Public_Datasets/300_399/ds369.zip",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 1,
@@ -89,7 +89,7 @@
 		"revision_timestamp": "2013-05-31T17:51:13.706377",
 		"is_organization": true,
 		"state": "active",
-		"image_url": "http:\/\/www.ca.gov\/images\/template2012\/header_ca.gov.png",
+		"image_url": "http://www.ca.gov/images/template2012/header_ca.gov.png",
 		"revision_id": "ad94cda4-9394-44d0-9c37-573dc3c47c9a",
 		"type": "organization",
 		"id": "467d900f-8a42-452d-9906-6610dd1a767f",
@@ -100,7 +100,7 @@
 	"name": "aspen-characteristics-klamath-national-forest-ds36968eac",
 	"isopen": false,
 	"url": null,
-	"notes": "The database represents point locations and associated stand assessment data collected with known aspen stands in the Klamath National Forest, Siskiyou County, California. The associated Klamath National Forest Region 5 Existing Vegetation aspen layer (KLAMATH_NF_KNF_VEG_POLY) was derived from LANDSAT TM imagery, SPOT imagery, orthophotos, aerial photos and auxiliary layers (Source data: Region 5 Forestland And Resource Data Base GIS And Oracle Data Dictionary 4\/14\/95'.) The stands were classified based upon conditions such as primary and dominant tree species, tree size, and tree density as determined by both the CALVEG system and California Wildlife Habitat Relationships system. Associated with this point layer is a polygon layer (KLAMATH_NF_KNF_VEG_POLY) containing aspen stands delineated in conjunction with the aspen assessment information. Data Compilation: The Aspen Delineation Project (ADP) is a collaborative effort of the U.S. Forest Service's Pacific Southwest Region, the California Department of Fish and Games Resource Assessment Program, and the California Office of Bureau of Land Management. Principal Investigator for ADP is David Burton; visit: www.aspensite.org for more information regarding the ADP. The Department of Fish and Games, Resource Assessment Program compiled this information from the collaborating agencies and other researchers, and formatted the data into a common database for the purpose of facilitating access to data related to the conservation of Quaking Aspen in California. This information portal falls within the ADP goals to help agencies and land managers identify, map, treat, and monitor aspen habitats. This dataset is a portion of a master database compiled during a year long effort in 2005 to pull together current GIS layers and maps depicting Aspen communities in California.",
+	"notes": "The database represents point locations and associated stand assessment data collected with known aspen stands in the Klamath National Forest, Siskiyou County, California. The associated Klamath National Forest Region 5 Existing Vegetation aspen layer (KLAMATH_NF_KNF_VEG_POLY) was derived from LANDSAT TM imagery, SPOT imagery, orthophotos, aerial photos and auxiliary layers (Source data: Region 5 Forestland And Resource Data Base GIS And Oracle Data Dictionary 4/14/95'.) The stands were classified based upon conditions such as primary and dominant tree species, tree size, and tree density as determined by both the CALVEG system and California Wildlife Habitat Relationships system. Associated with this point layer is a polygon layer (KLAMATH_NF_KNF_VEG_POLY) containing aspen stands delineated in conjunction with the aspen assessment information. Data Compilation: The Aspen Delineation Project (ADP) is a collaborative effort of the U.S. Forest Service's Pacific Southwest Region, the California Department of Fish and Games Resource Assessment Program, and the California Office of Bureau of Land Management. Principal Investigator for ADP is David Burton; visit: www.aspensite.org for more information regarding the ADP. The Department of Fish and Games, Resource Assessment Program compiled this information from the collaborating agencies and other researchers, and formatted the data into a common database for the purpose of facilitating access to data related to the conservation of Quaking Aspen in California. This information portal falls within the ADP goals to help agencies and land managers identify, map, treat, and monitor aspen habitats. This dataset is a portion of a master database compiled during a year long effort in 2005 to pull together current GIS layers and maps depicting Aspen communities in California.",
 	"owner_org": "467d900f-8a42-452d-9906-6610dd1a767f",
 	"extras": [{
 		"key": "bbox-east-long",
@@ -128,7 +128,7 @@
 	},
 	{
 		"key": "graphic-preview-file",
-		"value": "http:\/\/www.dfg.ca.gov\/habitats\/rap\/projects\/aspen\/maps\/state\/map.aspx?id=ca"
+		"value": "http://www.dfg.ca.gov/habitats/rap/projects/aspen/maps/state/map.aspx?id=ca"
 	},
 	{
 		"key": "bbox-south-lat",
@@ -144,7 +144,7 @@
 	},
 	{
 		"key": "spatial",
-		"value": "{\"type\": \"Polygon\", \"coordinates\": [[[-123.202511, 41.544594], [-121.69143, 41.544594], [-121.69143, 41.781557], [-123.202511, 41.781557], [-123.202511, 41.544594]]]}"
+		"value": "{"type": "Polygon", "coordinates": [[[-123.202511, 41.544594], [-121.69143, 41.544594], [-121.69143, 41.781557], [-123.202511, 41.781557], [-123.202511, 41.544594]]]}"
 	},
 	{
 		"key": "progress",
@@ -152,7 +152,7 @@
 	},
 	{
 		"key": "access_constraints",
-		"value": "[\"Use Constraints: that this data set was created by California Department of Fish and Game from information provided by agencies across California.\", \"Access Constraints: No constraints, public data\"]"
+		"value": "["Use Constraints: that this data set was created by California Department of Fish and Game from information provided by agencies across California.", "Access Constraints: No constraints, public data"]"
 	},
 	{
 		"key": "contact-email",
@@ -168,7 +168,7 @@
 	},
 	{
 		"key": "dataset-reference-date",
-		"value": "[{\"type\": \"publication\", \"value\": \"2006-06-01\"}]"
+		"value": "[{"type": "publication", "value": "2006-06-01"}]"
 	},
 	{
 		"key": "graphic-preview-description",
@@ -180,7 +180,7 @@
 	},
 	{
 		"key": "licence",
-		"value": "[\" \"]"
+		"value": "[" "]"
 	},
 	{
 		"key": "metadata_type",
@@ -188,7 +188,7 @@
 	},
 	{
 		"key": "responsible-party",
-		"value": "[{\"name\": \"Gooseneck Ranger District, Klamath National Forest\", \"roles\": [\"pointOfContact\"]}]"
+		"value": "[{"name": "Gooseneck Ranger District, Klamath National Forest", "roles": ["pointOfContact"]}]"
 	},
 	{
 		"key": "spatial-data-service-type",

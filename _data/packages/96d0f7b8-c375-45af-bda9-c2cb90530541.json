@@ -37,7 +37,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2015-09-26T15:59:34.600440",
-		"url": "ftp:\/\/sidads.colorado.edu\/pub\/DATASETS\/NOAA\/G02164",
+		"url": "ftp://sidads.colorado.edu/pub/DATASETS/NOAA/G02164",
 		"webstore_url": null,
 		"resource_locator_function": "function",
 		"position": 0,
@@ -67,7 +67,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2015-09-26T15:59:34.600463",
-		"url": "http:\/\/nsidc.org\/data\/docs\/noaa\/g02164_russian_daily_precip_sums\/index.html",
+		"url": "http://nsidc.org/data/docs/noaa/g02164_russian_daily_precip_sums/index.html",
 		"webstore_url": null,
 		"resource_locator_function": "function",
 		"position": 1,
@@ -85,7 +85,7 @@
 		"last_modified": null,
 		"hash": "",
 		"description": "",
-		"format": "application\/vnd.lotus-organizer",
+		"format": "application/vnd.lotus-organizer",
 		"tracking_summary": {
 			"total": 81,
 			"recent": 2
@@ -97,7 +97,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2015-09-26T15:59:34.600473",
-		"url": "http:\/\/nsidc.org",
+		"url": "http://nsidc.org",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 2,
@@ -127,7 +127,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2015-09-26T15:59:34.600481",
-		"url": "http:\/\/nsidc.org\/noaa\/",
+		"url": "http://nsidc.org/noaa/",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 3,
@@ -145,7 +145,7 @@
 		"last_modified": null,
 		"hash": "",
 		"description": "",
-		"format": "application\/vnd.lotus-organizer",
+		"format": "application/vnd.lotus-organizer",
 		"tracking_summary": {
 			"total": 81,
 			"recent": 2
@@ -157,7 +157,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2015-09-26T15:59:34.600488",
-		"url": "http:\/\/nsidc.org",
+		"url": "http://nsidc.org",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 4,
@@ -179,7 +179,7 @@
 		"revision_timestamp": "2013-03-25T23:05:12.923863",
 		"is_organization": true,
 		"state": "active",
-		"image_url": "https:\/\/fortress.wa.gov\/dfw\/score\/score\/images\/noaa_logo.png",
+		"image_url": "https://fortress.wa.gov/dfw/score/score/images/noaa_logo.png",
 		"revision_id": "c6d43080-22e1-405e-a83d-f2a512d9e867",
 		"type": "organization",
 		"id": "e811f0b4-451f-4896-9e8f-fc6802837819",
@@ -190,7 +190,7 @@
 	"name": "daily-precipitation-sums-at-coastal-and-island-russian-arctic-stations-1940-1990",
 	"isopen": false,
 	"url": null,
-	"notes": "\nThis data set contains precipitation data originally recorded in log books at 65 coastal and island meteorological stations, and later digitized at the Arctic and Antarctic Research Institute (AARI), St. Petersburg, Russia, under the direction of Vladimir Radionov. Records from most stations begin in 1940. Instrumentation was generally a rain gauge with Nipher shield until the early 1950s (for most stations), when the Tretyakov precipitation gauge replaced earlier instrumentation.  Data have not been adjusted for gauge type or wind bias. Observers corrected the data from 1967-1990 for wetting loss as they recorded the station data.\n",
+	"notes": "nThis data set contains precipitation data originally recorded in log books at 65 coastal and island meteorological stations, and later digitized at the Arctic and Antarctic Research Institute (AARI), St. Petersburg, Russia, under the direction of Vladimir Radionov. Records from most stations begin in 1940. Instrumentation was generally a rain gauge with Nipher shield until the early 1950s (for most stations), when the Tretyakov precipitation gauge replaced earlier instrumentation.  Data have not been adjusted for gauge type or wind bias. Observers corrected the data from 1967-1990 for wetting loss as they recorded the station data.n",
 	"owner_org": "e811f0b4-451f-4896-9e8f-fc6802837819",
 	"extras": [{
 		"key": "bbox-east-long",
@@ -226,7 +226,7 @@
 	},
 	{
 		"key": "spatial",
-		"value": "{\"type\": \"Polygon\", \"coordinates\": [[[36.76, 64.41], [170.16, 64.41], [170.16, 84.78], [36.76, 84.78], [36.76, 64.41]]]}"
+		"value": "{"type": "Polygon", "coordinates": [[[36.76, 64.41], [170.16, 64.41], [170.16, 84.78], [36.76, 84.78], [36.76, 64.41]]]}"
 	},
 	{
 		"key": "progress",
@@ -234,7 +234,7 @@
 	},
 	{
 		"key": "access_constraints",
-		"value": "[\"Access Constraints : none\", \"Use Constraints : none\"]"
+		"value": "["Access Constraints : none", "Use Constraints : none"]"
 	},
 	{
 		"key": "temporal-extent-begin",
@@ -254,7 +254,7 @@
 	},
 	{
 		"key": "dataset-reference-date",
-		"value": "[{\"type\": \"publication\", \"value\": \"2004-12-22\"}]"
+		"value": "[{"type": "publication", "value": "2004-12-22"}]"
 	},
 	{
 		"key": "frequency-of-update",
@@ -270,7 +270,7 @@
 	},
 	{
 		"key": "responsible-party",
-		"value": "[{\"name\": \"\", \"roles\": [\"principalInvestigator\"]}, {\"name\": \"Arctic and Antarctic Research Institute\", \"roles\": [\"principalInvestigator\"]}, {\"name\": \" MeteorologyArctic and Antarctic Research Institute\", \"roles\": [\"principalInvestigator\"]}, {\"name\": \"National Snow and Ice Data Center\", \"roles\": [\"pointOfContact\"]}]"
+		"value": "[{"name": "", "roles": ["principalInvestigator"]}, {"name": "Arctic and Antarctic Research Institute", "roles": ["principalInvestigator"]}, {"name": " MeteorologyArctic and Antarctic Research Institute", "roles": ["principalInvestigator"]}, {"name": "National Snow and Ice Data Center", "roles": ["pointOfContact"]}]"
 	},
 	{
 		"key": "temporal-extent-end",

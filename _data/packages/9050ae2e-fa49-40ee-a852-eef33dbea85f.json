@@ -37,7 +37,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2015-09-26T18:56:37.948892",
-		"url": "http:\/\/coast.noaa.gov",
+		"url": "http://coast.noaa.gov",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 0,
@@ -67,7 +67,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2015-09-26T18:56:37.948914",
-		"url": "http:\/\/coast.noaa.gov",
+		"url": "http://coast.noaa.gov",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 1,
@@ -97,7 +97,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2015-09-26T18:56:37.948923",
-		"url": "http:\/\/coast.noaa.gov",
+		"url": "http://coast.noaa.gov",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 2,
@@ -124,9 +124,9 @@
 		"resource_locator_protocol": "",
 		"mimetype": null,
 		"cache_url": null,
-		"name": "Lidar QA\/QC Report",
+		"name": "Lidar QA/QC Report",
 		"created": "2015-09-26T18:56:37.948932",
-		"url": "ftp:\/\/ftp.csc.noaa.gov\/pub\/crs\/beachmap\/qa_docs\/ca\/san_francisco_bay\/SF_QA_Report_3rdDelivery_110420_Final.pdf",
+		"url": "ftp://ftp.csc.noaa.gov/pub/crs/beachmap/qa_docs/ca/san_francisco_bay/SF_QA_Report_3rdDelivery_110420_Final.pdf",
 		"webstore_url": null,
 		"resource_locator_function": "information",
 		"position": 3,
@@ -148,7 +148,7 @@
 		"revision_timestamp": "2013-03-25T23:05:12.923863",
 		"is_organization": true,
 		"state": "active",
-		"image_url": "https:\/\/fortress.wa.gov\/dfw\/score\/score\/images\/noaa_logo.png",
+		"image_url": "https://fortress.wa.gov/dfw/score/score/images/noaa_logo.png",
 		"revision_id": "c6d43080-22e1-405e-a83d-f2a512d9e867",
 		"type": "organization",
 		"id": "e811f0b4-451f-4896-9e8f-fc6802837819",
@@ -187,7 +187,7 @@
 	},
 	{
 		"key": "graphic-preview-file",
-		"value": "ftp:\/\/ftp.csc.noaa.gov\/pub\/crs\/beachmap\/qa_docs\/ca\/san_francisco_bay\/2010_Northern_San_Francisco_Bay_Lidar.kmz"
+		"value": "ftp://ftp.csc.noaa.gov/pub/crs/beachmap/qa_docs/ca/san_francisco_bay/2010_Northern_San_Francisco_Bay_Lidar.kmz"
 	},
 	{
 		"key": "bbox-south-lat",
@@ -203,7 +203,7 @@
 	},
 	{
 		"key": "spatial",
-		"value": "{\"type\": \"Polygon\", \"coordinates\": [[[-122.646374, 37.753405], [-122.111077, 37.753405], [-122.111077, 38.350295], [-122.646374, 38.350295], [-122.646374, 37.753405]]]}"
+		"value": "{"type": "Polygon", "coordinates": [[[-122.646374, 37.753405], [-122.111077, 37.753405], [-122.111077, 38.350295], [-122.646374, 38.350295], [-122.646374, 37.753405]]]}"
 	},
 	{
 		"key": "progress",
@@ -227,7 +227,7 @@
 	},
 	{
 		"key": "dataset-reference-date",
-		"value": "[{\"type\": \"publication\", \"value\": \"2011-05-01\"}]"
+		"value": "[{"type": "publication", "value": "2011-05-01"}]"
 	},
 	{
 		"key": "graphic-preview-description",
@@ -239,7 +239,7 @@
 	},
 	{
 		"key": "licence",
-		"value": "[\"These data depict the elevations at the time of the survey and are only accurate for that time. Users should be aware that\\n            temporal changes may have occurred since this data set was collected and some parts of this data may no longer represent actual surface\\n            conditions. Users should not use this data for critical applications without a full awareness of its limitations. Any conclusions drawn\\n            from analysis of this information are not the responsibility of NOAA or any of its partners. These data are NOT to be used for navigational purposes.\"]"
+		"value": "["These data depict the elevations at the time of the survey and are only accurate for that time. Users should be aware that\n            temporal changes may have occurred since this data set was collected and some parts of this data may no longer represent actual surface\n            conditions. Users should not use this data for critical applications without a full awareness of its limitations. Any conclusions drawn\n            from analysis of this information are not the responsibility of NOAA or any of its partners. These data are NOT to be used for navigational purposes."]"
 	},
 	{
 		"key": "metadata_type",
@@ -247,7 +247,7 @@
 	},
 	{
 		"key": "responsible-party",
-		"value": "[{\"name\": \"DOC\/NOAA\/NOS\/OCM > Office for Coastal Management, National Ocean Service, National Oceanic and Atmospheric Administration, U.S. Department of Commerce\", \"roles\": [\"pointOfContact\"]}]"
+		"value": "[{"name": "DOC/NOAA/NOS/OCM > Office for Coastal Management, National Ocean Service, National Oceanic and Atmospheric Administration, U.S. Department of Commerce", "roles": ["pointOfContact"]}]"
 	},
 	{
 		"key": "spatial-data-service-type",
@@ -259,7 +259,7 @@
 	},
 	{
 		"key": "tags",
-		"value": "elevation, san francisco county, sonoma county, contra costa county, terrain, solano county, surface, lidar, bathymetry\/topography, us, marin county, california, model, napa county, northern san francisco bay, alameda county",
+		"value": "elevation, san francisco county, sonoma county, contra costa county, terrain, solano county, surface, lidar, bathymetry/topography, us, marin county, california, model, napa county, northern san francisco bay, alameda county",
 		"__extras": {
 			"revision_id": "676701c4-00f2-4b51-a455-64abc83e6322",
 			"package_id": "9050ae2e-fa49-40ee-a852-eef33dbea85f"

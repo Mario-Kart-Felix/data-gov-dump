@@ -34,9 +34,9 @@
 		"resource_locator_protocol": "WWW:LINK-1.0-http--link",
 		"mimetype": null,
 		"cache_url": null,
-		"name": "ftp:\/\/ftp.nefsc.noaa.gov\/",
+		"name": "ftp://ftp.nefsc.noaa.gov/",
 		"created": "2016-07-18T21:02:34.189344",
-		"url": "ftp:\/\/ftp.nefsc.noaa.gov\/",
+		"url": "ftp://ftp.nefsc.noaa.gov/",
 		"webstore_url": null,
 		"resource_locator_function": "download",
 		"position": 0,
@@ -65,7 +65,7 @@
 		"cache_url": null,
 		"name": "Website",
 		"created": "2016-07-18T21:02:34.189380",
-		"url": "http:\/\/www.nefsc.noaa.gov",
+		"url": "http://www.nefsc.noaa.gov",
 		"webstore_url": null,
 		"resource_locator_function": "information",
 		"position": 1,
@@ -94,7 +94,7 @@
 		"cache_url": null,
 		"name": "Website",
 		"created": "2016-07-18T21:02:34.189389",
-		"url": "http:\/\/www.nefsc.noaa.gov",
+		"url": "http://www.nefsc.noaa.gov",
 		"webstore_url": null,
 		"resource_locator_function": "information",
 		"position": 2,
@@ -123,7 +123,7 @@
 		"cache_url": null,
 		"name": "Website",
 		"created": "2016-07-18T21:02:34.189397",
-		"url": "http:\/\/www.nefsc.noaa.gov",
+		"url": "http://www.nefsc.noaa.gov",
 		"webstore_url": null,
 		"resource_locator_function": "information",
 		"position": 3,
@@ -152,7 +152,7 @@
 		"cache_url": null,
 		"name": "Citation URL",
 		"created": "2016-07-18T21:02:34.189404",
-		"url": "http:\/\/www.nefsc.noaa.gov\/femad\/pbio\/fwdp\/",
+		"url": "http://www.nefsc.noaa.gov/femad/pbio/fwdp/",
 		"webstore_url": null,
 		"resource_locator_function": "download",
 		"position": 4,
@@ -181,7 +181,7 @@
 		"cache_url": null,
 		"name": "NOAA Data Management Plan (DMP)",
 		"created": "2016-07-18T21:02:34.189411",
-		"url": "https:\/\/inport.nmfs.noaa.gov\/inport\/item\/8083\/dmp",
+		"url": "https://inport.nmfs.noaa.gov/inport/item/8083/dmp",
 		"webstore_url": null,
 		"resource_locator_function": "information",
 		"position": 5,
@@ -210,7 +210,7 @@
 		"cache_url": null,
 		"name": "Website",
 		"created": "2016-07-18T21:02:34.189418",
-		"url": "http:\/\/www.nefsc.noaa.gov",
+		"url": "http://www.nefsc.noaa.gov",
 		"webstore_url": null,
 		"resource_locator_function": "information",
 		"position": 6,
@@ -227,7 +227,7 @@
 		"state": "active",
 		"last_modified": null,
 		"hash": "",
-		"description": "This page describes the NASA GCMD Keywords, how\n                                                        to reference those keywords and provides download instructions.\n                                                    ",
+		"description": "This page describes the NASA GCMD Keywords, hown                                                        to reference those keywords and provides download instructions.n                                                    ",
 		"format": "HTML",
 		"tracking_summary": {
 			"total": 475,
@@ -239,7 +239,7 @@
 		"cache_url": null,
 		"name": "GCMD Keywords Page",
 		"created": "2016-07-18T21:02:34.189425",
-		"url": "http:\/\/gcmd.nasa.gov\/learn\/keyword_list.html",
+		"url": "http://gcmd.nasa.gov/learn/keyword_list.html",
 		"webstore_url": null,
 		"resource_locator_function": "information",
 		"position": 7,
@@ -259,7 +259,7 @@
 	"name": "food-habits-database-fhdbs",
 	"isopen": false,
 	"url": null,
-	"notes": "The NEFSC Food Habits Database has two major sources of data. The first, and most extensive, is the standard NEFSC Bottom Trawl Surveys Program. During these surveys, food habits data are collected for a variety of species. Additionally, \"process-oriented\" cruises are conducted periodically to address specific questions related to the feeding ecology of the fish in the ecosystem.\n\nBoth sources provide primarily stomach content information; composition, total and individual prey weights or volumes, and length of prey. Additional information associated with each fish predator is also collected. Other databases encompass the prey fields of these fish, and include zooplankton, ichthyoplankton, and benthic surveys.",
+	"notes": "The NEFSC Food Habits Database has two major sources of data. The first, and most extensive, is the standard NEFSC Bottom Trawl Surveys Program. During these surveys, food habits data are collected for a variety of species. Additionally, "process-oriented" cruises are conducted periodically to address specific questions related to the feeding ecology of the fish in the ecosystem.nnBoth sources provide primarily stomach content information; composition, total and individual prey weights or volumes, and length of prey. Additional information associated with each fish predator is also collected. Other databases encompass the prey fields of these fish, and include zooplankton, ichthyoplankton, and benthic surveys.",
 	"license_title": null,
 	"extras": [{
 		"key": "bbox-east-long",
@@ -295,7 +295,7 @@
 	},
 	{
 		"key": "spatial",
-		"value": "{\"type\": \"Polygon\", \"coordinates\": [[[-76.0, 35.0], [-66.0, 35.0], [-66.0, 45.0], [-76.0, 45.0], [-76.0, 35.0]]]}"
+		"value": "{"type": "Polygon", "coordinates": [[[-76.0, 35.0], [-66.0, 35.0], [-66.0, 45.0], [-76.0, 45.0], [-76.0, 35.0]]]}"
 	},
 	{
 		"key": "progress",
@@ -303,7 +303,7 @@
 	},
 	{
 		"key": "access_constraints",
-		"value": "[\"Access Constraints: NEFSC Data Access Constraint:\\nIf data is stored on an internal NEFSC network, the requester may not have direct access to query the data unless they are also authorized for network access. | Use Constraints: not applicable\"]"
+		"value": "["Access Constraints: NEFSC Data Access Constraint:\nIf data is stored on an internal NEFSC network, the requester may not have direct access to query the data unless they are also authorized for network access. | Use Constraints: not applicable"]"
 	},
 	{
 		"key": "temporal-extent-begin",
@@ -323,7 +323,7 @@
 	},
 	{
 		"key": "dataset-reference-date",
-		"value": "[{\"type\": \"publication\", \"value\": \"\"}]"
+		"value": "[{"type": "publication", "value": ""}]"
 	},
 	{
 		"key": "frequency-of-update",
@@ -339,7 +339,7 @@
 	},
 	{
 		"key": "responsible-party",
-		"value": "[{\"name\": \"Northeast Fisheries Science Center\", \"roles\": [\"pointOfContact\"]}]"
+		"value": "[{"name": "Northeast Fisheries Science Center", "roles": ["pointOfContact"]}]"
 	},
 	{
 		"key": "spatial-data-service-type",
@@ -351,7 +351,7 @@
 	},
 	{
 		"package_id": "2179ffd3-5f8f-46f5-8937-070edcabdc06",
-		"value": "abundance, continuous, northeast fisheries science center, national marine fisheries service, noaa, u.s. department of commerce, continuous fall and spring sampling, predator-prey interactions, food habits, stomach content, doc\/noaa\/nmfs\/nefsc, northwest atlantic ocean, georges bank, cape hatteras, prey fields, food web dynamics program, fish feeding ecology, northeast us continental shelf, nova scotia, distribution, fish trophic ecology, feeding ecology",
+		"value": "abundance, continuous, northeast fisheries science center, national marine fisheries service, noaa, u.s. department of commerce, continuous fall and spring sampling, predator-prey interactions, food habits, stomach content, doc/noaa/nmfs/nefsc, northwest atlantic ocean, georges bank, cape hatteras, prey fields, food web dynamics program, fish feeding ecology, northeast us continental shelf, nova scotia, distribution, fish trophic ecology, feeding ecology",
 		"revision_timestamp": "2016-03-28T18:43:41.500371",
 		"state": "active",
 		"key": "tags",
@@ -381,7 +381,7 @@
 		"revision_timestamp": "2013-03-25T23:05:12.923863",
 		"is_organization": true,
 		"state": "active",
-		"image_url": "https:\/\/fortress.wa.gov\/dfw\/score\/score\/images\/noaa_logo.png",
+		"image_url": "https://fortress.wa.gov/dfw/score/score/images/noaa_logo.png",
 		"revision_id": "c6d43080-22e1-405e-a83d-f2a512d9e867",
 		"type": "organization",
 		"id": "e811f0b4-451f-4896-9e8f-fc6802837819",

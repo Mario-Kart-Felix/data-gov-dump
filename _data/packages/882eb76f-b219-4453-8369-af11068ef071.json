@@ -37,7 +37,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2014-10-28T08:42:30.599338",
-		"url": "http:\/\/www2.census.gov\/geo\/tiger\/TIGER2014\/FACESAH",
+		"url": "http://www2.census.gov/geo/tiger/TIGER2014/FACESAH",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 0,
@@ -46,7 +46,7 @@
 	}],
 	"num_resources": 1,
 	"tags": [],
-	"title": "TIGER\/Line\n                     Shapefile, 2014, Series Information File for the Topological Faces-Area Hydrography County-based Relationship Files",
+	"title": "TIGER/Linen                     Shapefile, 2014, Series Information File for the Topological Faces-Area Hydrography County-based Relationship Files",
 	"tracking_summary": {
 		"total": 21,
 		"recent": 0
@@ -57,7 +57,7 @@
 	"name": "tiger-line-shapefile-2014-series-information-file-for-the-topological-faces-area-hydr",
 	"isopen": false,
 	"url": null,
-	"notes": " The\n               Topological Faces \/ Area Hydrography Relationship File (FACESAH.dbf) contains a\n               record for each face \/ area hydrography feature relationship. Face refers to the\n               areal (polygon) topological primitives that make up MTDB. A face is bounded by one or\n               more edges; its boundary includes only the edges that separate it from other faces,\n               not any interior edges contained within the area of the face. The face to which a\n               record in the Topological Faces \/ Area Hydrography Relationship File (FACESAH.dbf)\n               applies can be determined by linking to the Topological Faces Shapefile (FACES.shp)\n               using the permanent topological face identifier (TFID) attribute. The area\n               hydrography feature to which a record in the Topological Faces \/ Area Hydrography\n               Relationship File (FACESAH.dbf) applies can be determined by linking to the Area\n               Hydrography Shapefile (AREAWATER.shp) using the area hydrography identifier (HYDROID)\n               attribute. A face may be part of multiple area water features. An area water feature\n               may consist of multiple faces. ",
+	"notes": " Then               Topological Faces / Area Hydrography Relationship File (FACESAH.dbf) contains an               record for each face / area hydrography feature relationship. Face refers to then               areal (polygon) topological primitives that make up MTDB. A face is bounded by one orn               more edges; its boundary includes only the edges that separate it from other faces,n               not any interior edges contained within the area of the face. The face to which an               record in the Topological Faces / Area Hydrography Relationship File (FACESAH.dbf)n               applies can be determined by linking to the Topological Faces Shapefile (FACES.shp)n               using the permanent topological face identifier (TFID) attribute. The arean               hydrography feature to which a record in the Topological Faces / Area Hydrographyn               Relationship File (FACESAH.dbf) applies can be determined by linking to the Arean               Hydrography Shapefile (AREAWATER.shp) using the area hydrography identifier (HYDROID)n               attribute. A face may be part of multiple area water features. An area water featuren               may consist of multiple faces. ",
 	"license_title": null,
 	"extras": [{
 		"key": "bbox-east-long",
@@ -97,7 +97,7 @@
 	},
 	{
 		"key": "spatial",
-		"value": "{\"type\": \"Polygon\", \"coordinates\": [[[-179.231086, -14.601813], [179.859681, -14.601813], [179.859681, 71.441059], [-179.231086, 71.441059], [-179.231086, -14.601813]]]}"
+		"value": "{"type": "Polygon", "coordinates": [[[-179.231086, -14.601813], [179.859681, -14.601813], [179.859681, 71.441059], [-179.231086, 71.441059], [-179.231086, -14.601813]]]}"
 	},
 	{
 		"key": "progress",
@@ -105,7 +105,7 @@
 	},
 	{
 		"key": "access_constraints",
-		"value": "[\"Access Constraints: None\", \"Use Constraints:\\n                     The TIGER\/Line Shapefile products are not copyrighted however TIGER\/Line and\\n                     Census TIGER are registered trademarks of the U.S. Census Bureau. These\\n                     products are free to use in a product or publication, however acknowledgment\\n                     must be given to the U.S. Census Bureau as the source.\", \"Distribution\\n                     Liability: No warranty, expressed or implied is made with regard to the\\n                     accuracy of these data, and no liability is assumed by the U.S. Government in\\n                     general or the U.S. Census Bureau in specific as to the spatial or attribute\\n                     accuracy of the data. The act of distribution shall not constitute any such\\n                     warranty and no responsibility is assumed by the U.S. government in the use of\\n                     these files. The boundary information in the TIGER\/Line Shapefiles is for\\n                     statistical data collection and tabulation purposes only; their depiction and\\n                     designation for statistical purposes do not constitute a determination of\\n                     jurisdictional authority or rights of ownership or entitlement and they are not\\n                     legal land descriptions.\"]"
+		"value": "["Access Constraints: None", "Use Constraints:\n                     The TIGER/Line Shapefile products are not copyrighted however TIGER/Line and\n                     Census TIGER are registered trademarks of the U.S. Census Bureau. These\n                     products are free to use in a product or publication, however acknowledgment\n                     must be given to the U.S. Census Bureau as the source.", "Distribution\n                     Liability: No warranty, expressed or implied is made with regard to the\n                     accuracy of these data, and no liability is assumed by the U.S. Government in\n                     general or the U.S. Census Bureau in specific as to the spatial or attribute\n                     accuracy of the data. The act of distribution shall not constitute any such\n                     warranty and no responsibility is assumed by the U.S. government in the use of\n                     these files. The boundary information in the TIGER/Line Shapefiles is for\n                     statistical data collection and tabulation purposes only; their depiction and\n                     designation for statistical purposes do not constitute a determination of\n                     jurisdictional authority or rights of ownership or entitlement and they are not\n                     legal land descriptions."]"
 	},
 	{
 		"key": "temporal-extent-begin",
@@ -125,7 +125,7 @@
 	},
 	{
 		"key": "dataset-reference-date",
-		"value": "[{\"type\": \"publication\", \"value\": \"2014\"}]"
+		"value": "[{"type": "publication", "value": "2014"}]"
 	},
 	{
 		"key": "frequency-of-update",
@@ -153,7 +153,7 @@
 	},
 	{
 		"package_id": "882eb76f-b219-4453-8369-af11068ef071",
-		"value": "inlandwaters, hydrography, area hydrography identifier, topological faces, county or equivalent entity, county gnis code, state gnis code, state fips code, boundaries, county fips code, land\/water flag, table, u.s., permanent face id",
+		"value": "inlandwaters, hydrography, area hydrography identifier, topological faces, county or equivalent entity, county gnis code, state gnis code, state fips code, boundaries, county fips code, land/water flag, table, u.s., permanent face id",
 		"revision_timestamp": "2014-10-28T12:42:29.528470",
 		"state": "active",
 		"key": "tags",
@@ -183,7 +183,7 @@
 		"revision_timestamp": "2013-08-29T13:37:04.171127",
 		"is_organization": true,
 		"state": "active",
-		"image_url": "http:\/\/www.census.gov\/main\/img\/home\/CensusLogo-white.png",
+		"image_url": "http://www.census.gov/main/img/home/CensusLogo-white.png",
 		"revision_id": "0995f525-d563-4254-a535-af5b926fe663",
 		"type": "organization",
 		"id": "31c49abe-512a-412a-9cc7-5b2601325d6b",

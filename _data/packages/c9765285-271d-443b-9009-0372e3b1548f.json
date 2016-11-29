@@ -37,7 +37,7 @@
 		"cache_url": null,
 		"name": "Zip File",
 		"created": "2013-07-19T12:00:51.466975",
-		"url": "ftp:\/\/ftp.igsb.uiowa.edu\/gis_library\/ia_state\/Admin_Political_Boundary\/Legislative\/US_house_2013_2022.zip",
+		"url": "ftp://ftp.igsb.uiowa.edu/gis_library/ia_state/Admin_Political_Boundary/Legislative/US_house_2013_2022.zip",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 0,
@@ -67,7 +67,7 @@
 		"cache_url": null,
 		"name": "Zip File",
 		"created": "2013-07-19T12:00:51.467021",
-		"url": "https:\/\/www.legis.iowa.gov\/DOCS\/Resources\/Redist\/2011\/2011-03-31\/Plan1_DistrictShapefiles.zip",
+		"url": "https://www.legis.iowa.gov/DOCS/Resources/Redist/2011/2011-03-31/Plan1_DistrictShapefiles.zip",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 1,
@@ -97,7 +97,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2013-07-19T12:00:51.467033",
-		"url": "https:\/\/www.legis.iowa.gov\/Resources\/Redist\/redistricting.aspx",
+		"url": "https://www.legis.iowa.gov/Resources/Redist/redistricting.aspx",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 2,
@@ -117,7 +117,7 @@
 	"name": "iowa-congressional-districts-for-2013-2022",
 	"isopen": false,
 	"url": null,
-	"notes": "Congressional district boundaries, enacted April 19, 2011, effective beginning with the elections in 2012 for the 113th U.S. Congress. The districts will remain in effect for the 113th-117th U.S. Congress, 2013-2022. Created by the Legislative Services Agency using Code of Iowa Chapter 41, using 2010 Census geographies and populations. For a comprehensive overview of Iowa's redistricting process, see the \"Legislative Guide to Redistricting in Iowa\": https:\/\/www.legis.iowa.gov\/DOCS\/Central\/Guides\/redist.pdf.",
+	"notes": "Congressional district boundaries, enacted April 19, 2011, effective beginning with the elections in 2012 for the 113th U.S. Congress. The districts will remain in effect for the 113th-117th U.S. Congress, 2013-2022. Created by the Legislative Services Agency using Code of Iowa Chapter 41, using 2010 Census geographies and populations. For a comprehensive overview of Iowa's redistricting process, see the "Legislative Guide to Redistricting in Iowa": https://www.legis.iowa.gov/DOCS/Central/Guides/redist.pdf.",
 	"license_title": null,
 	"extras": [{
 		"key": "bbox-east-long",
@@ -153,11 +153,11 @@
 	},
 	{
 		"key": "spatial",
-		"value": "{\"type\": \"Polygon\", \"coordinates\": [[[-96.684918, 40.33252], [-90.069395, 40.33252], [-90.069395, 43.557142], [-96.684918, 43.557142], [-96.684918, 40.33252]]]}"
+		"value": "{"type": "Polygon", "coordinates": [[[-96.684918, 40.33252], [-90.069395, 40.33252], [-90.069395, 43.557142], [-96.684918, 43.557142], [-96.684918, 40.33252]]]}"
 	},
 	{
 		"key": "access_constraints",
-		"value": "[\"Use Constraints: None. Please check sources, scale, accuracy, and other available information. Please confirm that you are using the most recent copy of both data and metadata. Acknowledgement of the Legislative Services Agency would be appreciated.\", \"Access Constraints: None.\"]"
+		"value": "["Use Constraints: None. Please check sources, scale, accuracy, and other available information. Please confirm that you are using the most recent copy of both data and metadata. Acknowledgement of the Legislative Services Agency would be appreciated.", "Access Constraints: None."]"
 	},
 	{
 		"key": "temporal-extent-begin",
@@ -177,7 +177,7 @@
 	},
 	{
 		"key": "dataset-reference-date",
-		"value": "[{\"type\": \"publication\", \"value\": \"2011-01-01\"}]"
+		"value": "[{"type": "publication", "value": "2011-01-01"}]"
 	},
 	{
 		"key": "frequency-of-update",
@@ -185,7 +185,7 @@
 	},
 	{
 		"key": "licence",
-		"value": "[\"Although efforts have been made in correcting errors in order to make this information useful\\nto the Department, the Department assumes no responsibility for errors in the information.\\nSimilarly, the Department assumes no responsibility for the consequences of inappropriate uses\\nor interpretations of the data made by anyone to whom this data has been made available.\\nThe Department bears no responsibility to inform users of any changes made to this data.\\nAnyone using this data is advised that precision implied by the coverage may far exceed\\nactual precision.  Comments on this data are invited and the Department would appreciate\\nthat documented errors be brought to staff attention. Although efforts have been made in correcting errors in order to make this information useful to the Agency, the Agency assumes no responsibility for errors in the information. Similarly, the Agency assumes no responsibility for the consequences of inappropriate uses or interpretations of the data made by anyone to whom this data has been made available. The Agency bears no responsibility to inform users of any changes made to this data. Anyone using this data is advised that precision implied by the coverage may far exceed actual precision. Comments on this data are invited and the Agency would appreciate that documented errors be brought to staff attention. \"]"
+		"value": "["Although efforts have been made in correcting errors in order to make this information useful\nto the Department, the Department assumes no responsibility for errors in the information.\nSimilarly, the Department assumes no responsibility for the consequences of inappropriate uses\nor interpretations of the data made by anyone to whom this data has been made available.\nThe Department bears no responsibility to inform users of any changes made to this data.\nAnyone using this data is advised that precision implied by the coverage may far exceed\nactual precision.  Comments on this data are invited and the Department would appreciate\nthat documented errors be brought to staff attention. Although efforts have been made in correcting errors in order to make this information useful to the Agency, the Agency assumes no responsibility for errors in the information. Similarly, the Agency assumes no responsibility for the consequences of inappropriate uses or interpretations of the data made by anyone to whom this data has been made available. The Agency bears no responsibility to inform users of any changes made to this data. Anyone using this data is advised that precision implied by the coverage may far exceed actual precision. Comments on this data are invited and the Agency would appreciate that documented errors be brought to staff attention. "]"
 	},
 	{
 		"key": "metadata_type",
@@ -193,7 +193,7 @@
 	},
 	{
 		"key": "responsible-party",
-		"value": "[{\"name\": \"Iowa Legislative Services Agency\", \"roles\": [\"pointOfContact\"]}]"
+		"value": "[{"name": "Iowa Legislative Services Agency", "roles": ["pointOfContact"]}]"
 	},
 	{
 		"key": "temporal-extent-end",
@@ -239,7 +239,7 @@
 		"revision_timestamp": "2013-07-19T15:56:17.219368",
 		"is_organization": true,
 		"state": "active",
-		"image_url": "http:\/\/www.gis.iastate.edu\/images\/GISFlogo50H.png",
+		"image_url": "http://www.gis.iastate.edu/images/GISFlogo50H.png",
 		"revision_id": "3fb02433-fa30-4475-9ff3-e5dcf5cfb139",
 		"type": "organization",
 		"id": "32e644cd-07b4-427e-b867-d7f9dcf23f9c",

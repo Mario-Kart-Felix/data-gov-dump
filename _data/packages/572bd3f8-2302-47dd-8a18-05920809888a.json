@@ -37,7 +37,7 @@
 		"cache_url": null,
 		"name": "Zip File",
 		"created": "2016-05-31T00:16:29.146124",
-		"url": "ftp:\/\/ftp.coast.noaa.gov\/pub\/benthic\/Single_Beam_Acoustic_Data\/DE_RehobethBay_rox.zip",
+		"url": "ftp://ftp.coast.noaa.gov/pub/benthic/Single_Beam_Acoustic_Data/DE_RehobethBay_rox.zip",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 0,
@@ -67,7 +67,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2016-05-31T00:16:29.146152",
-		"url": "https:\/\/coast.noaa.gov\/",
+		"url": "https://coast.noaa.gov/",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 1,
@@ -89,7 +89,7 @@
 		"revision_timestamp": "2013-03-25T23:05:12.923863",
 		"is_organization": true,
 		"state": "active",
-		"image_url": "https:\/\/fortress.wa.gov\/dfw\/score\/score\/images\/noaa_logo.png",
+		"image_url": "https://fortress.wa.gov/dfw/score/score/images/noaa_logo.png",
 		"revision_id": "c6d43080-22e1-405e-a83d-f2a512d9e867",
 		"type": "organization",
 		"id": "e811f0b4-451f-4896-9e8f-fc6802837819",
@@ -100,7 +100,7 @@
 	"name": "roxann-acoustic-sensor-data-points-rehoboth-bay-delaware-algae-mapping-with-single-bea-16-2000",
 	"isopen": false,
 	"url": null,
-	"notes": "During the spring of 1999, the Delaware Coastal Programs(DCP) identified the spatial extent of macroalgae in the shallow portions of Rehoboth Bay utilizing traditional photogrammetric methods. The DCP used true color aerial photographs, image processing software, a geographical information system (GIS), and a limited field survey to identify 1.88 square kilometers of macroalgae in all but the deepest parts of the bay. Turbid conditions prevented identification of the full extent of the vegetation.Although the 1999 effort was highly successful, it was clear that aerial photography could not penetrate to the deeper parts of the bay or where conditions were turbid.For the 2000 effort, the DCP partnered with the National Oceanic and Atmospheric Administration (NOAA) Office for Coastal Management Coastal Remote Sensing Program. The Benthic Habitat Mapping project, a part of the Center's Coastal Remote Sensing program, utilized a RoxAnn acoustic sensor to identify benthic cover in turbid areas of the bay June 12- 16, 2000.The instrument was used to identify bottom type by extracting data on bottom roughness and bottom hardness from the primary and secondary sounder echoes. The data is classified on-the-fly, using a towed video camera for field validation, and subject to a post-processing classification. The unit collected data throughout the bay in areas greater than 1.4 meters in depth and serves as a powerful complement to the aerial photography. The RoxAnn data points were exported into a geographic information system (GIS) and post-processed to remove unreliable data points and re-classified. This data set is comprised of the cleaned, attributed point data. The attributes include location, date, time, depth, field derived classification,and the classification derived from post-processing the data. This system is fully described in \"Development of a System for Classification of Habitats in Estuarine and Marine Environments (SCHEME) for Florida, Report to U.S. EPA - Gulf of Mexico Program, Florida Fish and Wildlife Conservation Commission, Florida Marine Research Institute.Review Draft 12\/04\/02.\"",
+	"notes": "During the spring of 1999, the Delaware Coastal Programs(DCP) identified the spatial extent of macroalgae in the shallow portions of Rehoboth Bay utilizing traditional photogrammetric methods. The DCP used true color aerial photographs, image processing software, a geographical information system (GIS), and a limited field survey to identify 1.88 square kilometers of macroalgae in all but the deepest parts of the bay. Turbid conditions prevented identification of the full extent of the vegetation.Although the 1999 effort was highly successful, it was clear that aerial photography could not penetrate to the deeper parts of the bay or where conditions were turbid.For the 2000 effort, the DCP partnered with the National Oceanic and Atmospheric Administration (NOAA) Office for Coastal Management Coastal Remote Sensing Program. The Benthic Habitat Mapping project, a part of the Center's Coastal Remote Sensing program, utilized a RoxAnn acoustic sensor to identify benthic cover in turbid areas of the bay June 12- 16, 2000.The instrument was used to identify bottom type by extracting data on bottom roughness and bottom hardness from the primary and secondary sounder echoes. The data is classified on-the-fly, using a towed video camera for field validation, and subject to a post-processing classification. The unit collected data throughout the bay in areas greater than 1.4 meters in depth and serves as a powerful complement to the aerial photography. The RoxAnn data points were exported into a geographic information system (GIS) and post-processed to remove unreliable data points and re-classified. This data set is comprised of the cleaned, attributed point data. The attributes include location, date, time, depth, field derived classification,and the classification derived from post-processing the data. This system is fully described in "Development of a System for Classification of Habitats in Estuarine and Marine Environments (SCHEME) for Florida, Report to U.S. EPA - Gulf of Mexico Program, Florida Fish and Wildlife Conservation Commission, Florida Marine Research Institute.Review Draft 12/04/02."",
 	"owner_org": "e811f0b4-451f-4896-9e8f-fc6802837819",
 	"extras": [{
 		"key": "bbox-east-long",
@@ -136,7 +136,7 @@
 	},
 	{
 		"key": "spatial",
-		"value": "{\"type\": \"Polygon\", \"coordinates\": [[[-75.137, 38.6332], [-75.0756, 38.6332], [-75.0756, 38.6938], [-75.137, 38.6938], [-75.137, 38.6332]]]}"
+		"value": "{"type": "Polygon", "coordinates": [[[-75.137, 38.6332], [-75.0756, 38.6332], [-75.0756, 38.6938], [-75.137, 38.6938], [-75.137, 38.6332]]]}"
 	},
 	{
 		"key": "progress",
@@ -144,7 +144,7 @@
 	},
 	{
 		"key": "access_constraints",
-		"value": "[\"Use Constraints: Bathymetric data has not been corrected for tide and wind variables. Not for use in navigation.\", \"Access Constraints: None\"]"
+		"value": "["Use Constraints: Bathymetric data has not been corrected for tide and wind variables. Not for use in navigation.", "Access Constraints: None"]"
 	},
 	{
 		"key": "temporal-extent-begin",
@@ -164,7 +164,7 @@
 	},
 	{
 		"key": "dataset-reference-date",
-		"value": "[{\"type\": \"publication\", \"value\": \"2001-05-09\"}]"
+		"value": "[{"type": "publication", "value": "2001-05-09"}]"
 	},
 	{
 		"key": "frequency-of-update",
@@ -172,7 +172,7 @@
 	},
 	{
 		"key": "licence",
-		"value": "[\"Not for navigation.\"]"
+		"value": "["Not for navigation."]"
 	},
 	{
 		"key": "metadata_type",
@@ -180,7 +180,7 @@
 	},
 	{
 		"key": "responsible-party",
-		"value": "[{\"name\": \"NOAA Office for Coastal Management\", \"roles\": [\"pointOfContact\"]}]"
+		"value": "[{"name": "NOAA Office for Coastal Management", "roles": ["pointOfContact"]}]"
 	},
 	{
 		"key": "temporal-extent-end",

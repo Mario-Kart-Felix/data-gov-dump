@@ -36,7 +36,7 @@
 		"cache_url": null,
 		"name": "NCEI WSA-Enlil archive",
 		"created": "2015-10-11T15:13:51.777300",
-		"url": "http:\/\/www.ngdc.noaa.gov\/enlil\/",
+		"url": "http://www.ngdc.noaa.gov/enlil/",
 		"webstore_url": null,
 		"resource_locator_function": "download",
 		"position": 0,
@@ -65,7 +65,7 @@
 		"cache_url": null,
 		"name": "GCMD Feedback Form",
 		"created": "2015-10-11T15:13:51.777320",
-		"url": "http:\/\/gcmd.nasa.gov\/MailComments\/MailComments.jsf?rcpt=gcmduso",
+		"url": "http://gcmd.nasa.gov/MailComments/MailComments.jsf?rcpt=gcmduso",
 		"webstore_url": null,
 		"resource_locator_function": "information",
 		"position": 1,
@@ -94,7 +94,7 @@
 		"cache_url": null,
 		"name": "GCMD's Science Keywords and Associated Directory Keywords",
 		"created": "2015-10-11T15:13:51.777328",
-		"url": "http:\/\/gcmd.nasa.gov\/learn\/keyword_list.html",
+		"url": "http://gcmd.nasa.gov/learn/keyword_list.html",
 		"webstore_url": null,
 		"resource_locator_function": "information",
 		"position": 2,
@@ -123,7 +123,7 @@
 		"cache_url": null,
 		"name": "GCMD Feedback Form",
 		"created": "2015-10-11T15:13:51.777335",
-		"url": "http:\/\/gcmd.nasa.gov\/MailComments\/MailComments.jsf?rcpt=gcmduso",
+		"url": "http://gcmd.nasa.gov/MailComments/MailComments.jsf?rcpt=gcmduso",
 		"webstore_url": null,
 		"resource_locator_function": "information",
 		"position": 3,
@@ -152,7 +152,7 @@
 		"cache_url": null,
 		"name": "GCMD's Science Keywords and Associated Directory Keywords",
 		"created": "2015-10-11T15:13:51.777342",
-		"url": "http:\/\/gcmd.nasa.gov\/learn\/keyword_list.html",
+		"url": "http://gcmd.nasa.gov/learn/keyword_list.html",
 		"webstore_url": null,
 		"resource_locator_function": "information",
 		"position": 4,
@@ -200,7 +200,7 @@
 	},
 	{
 		"key": "graphic-preview-file",
-		"value": "ftp:\/\/ftp.ngdc.noaa.gov\/STP\/space-weather\/satellite-data\/satellite-systems\/dscovr\/DSCOVR_logo_2x3.jpg"
+		"value": "ftp://ftp.ngdc.noaa.gov/STP/space-weather/satellite-data/satellite-systems/dscovr/DSCOVR_logo_2x3.jpg"
 	},
 	{
 		"key": "metadata-language",
@@ -216,7 +216,7 @@
 	},
 	{
 		"key": "spatial",
-		"value": "{\"type\": \"Polygon\", \"coordinates\": [[[-180.0, -90.0], [180.0, -90.0], [180.0, 90.0], [-180.0, 90.0], [-180.0, -90.0]]]}"
+		"value": "{"type": "Polygon", "coordinates": [[[-180.0, -90.0], [180.0, -90.0], [180.0, 90.0], [-180.0, 90.0], [-180.0, -90.0]]]}"
 	},
 	{
 		"key": "progress",
@@ -224,7 +224,7 @@
 	},
 	{
 		"key": "access_constraints",
-		"value": "[\"Distribution Liability: While every effort has been made to\\n                     ensure that these data are accurate and reliable within the limits of the\\n                     current state of the art, NOAA cannot assume liability for any damages caused\\n                     by any errors or omissions in the data, nor as a result of the failure of the\\n                     data to function on a particular system. NOAA makes no warranty, expressed or\\n                     implied, nor does the fact of distribution constitute such a warranty.\"]"
+		"value": "["Distribution Liability: While every effort has been made to\n                     ensure that these data are accurate and reliable within the limits of the\n                     current state of the art, NOAA cannot assume liability for any damages caused\n                     by any errors or omissions in the data, nor as a result of the failure of the\n                     data to function on a particular system. NOAA makes no warranty, expressed or\n                     implied, nor does the fact of distribution constitute such a warranty."]"
 	},
 	{
 		"key": "temporal-extent-begin",
@@ -244,7 +244,7 @@
 	},
 	{
 		"key": "dataset-reference-date",
-		"value": "[{\"type\": \"publication\", \"value\": \"2015-01-15\"}, {\"type\": \"revision\", \"value\": \"2014-05-01\"}]"
+		"value": "[{"type": "publication", "value": "2015-01-15"}, {"type": "revision", "value": "2014-05-01"}]"
 	},
 	{
 		"key": "graphic-preview-description",
@@ -264,7 +264,7 @@
 	},
 	{
 		"key": "responsible-party",
-		"value": "[{\"name\": \"DOC\/NOAA\/NESDIS\/NCEI > National Centers for Environmental Information, NESDIS, NOAA, U.S. Department of Commerce\", \"roles\": [\"pointOfContact\"]}]"
+		"value": "[{"name": "DOC/NOAA/NESDIS/NCEI > National Centers for Environmental Information, NESDIS, NOAA, U.S. Department of Commerce", "roles": ["pointOfContact"]}]"
 	},
 	{
 		"key": "temporal-extent-end",
@@ -280,7 +280,7 @@
 	},
 	{
 		"package_id": "ec1de932-e6eb-44c5-a20f-d43669c8d0af",
-		"value": "sun-earth interactions, national centers for environmental information, nesdis, noaa, u.s. department of commerce, noaa - space weather program, ace, fgm, doc\/noaa\/nesdis\/ngdc, space, solar\/space observing instruments, magnetic field\/electric field instruments, fluxgate magnetometer, icsu-wds, doc\/noaa\/nesdis\/ncei, solar\/space observation satellites, national geophysical data center, nesdis, noaa, u.s. department of commerce, advanced composition explorer, international council for science - world data system, particle detectors",
+		"value": "sun-earth interactions, national centers for environmental information, nesdis, noaa, u.s. department of commerce, noaa - space weather program, ace, fgm, doc/noaa/nesdis/ngdc, space, solar/space observing instruments, magnetic field/electric field instruments, fluxgate magnetometer, icsu-wds, doc/noaa/nesdis/ncei, solar/space observation satellites, national geophysical data center, nesdis, noaa, u.s. department of commerce, advanced composition explorer, international council for science - world data system, particle detectors",
 		"revision_timestamp": "2015-10-11T19:13:51.655619",
 		"state": "active",
 		"key": "tags",
@@ -310,7 +310,7 @@
 		"revision_timestamp": "2013-03-25T23:05:12.923863",
 		"is_organization": true,
 		"state": "active",
-		"image_url": "https:\/\/fortress.wa.gov\/dfw\/score\/score\/images\/noaa_logo.png",
+		"image_url": "https://fortress.wa.gov/dfw/score/score/images/noaa_logo.png",
 		"revision_id": "c6d43080-22e1-405e-a83d-f2a512d9e867",
 		"type": "organization",
 		"id": "e811f0b4-451f-4896-9e8f-fc6802837819",

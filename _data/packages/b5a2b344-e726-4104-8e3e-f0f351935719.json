@@ -36,7 +36,7 @@
 		"cache_url": null,
 		"name": "NDGIS web site",
 		"created": "2015-01-09T11:58:32.998864",
-		"url": "http:\/\/www.nd.gov\/gis",
+		"url": "http://www.nd.gov/gis",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 0,
@@ -65,7 +65,7 @@
 		"cache_url": null,
 		"name": "Download County and City Roads",
 		"created": "2015-01-09T11:58:32.998890",
-		"url": "http:\/\/www.nd.gov\/gis\/apps\/DataDownload\/?clipping=Full&coord=ND83-SF&format=SHAPE&layers=NDHUB.ROADS_COUNTY",
+		"url": "http://www.nd.gov/gis/apps/DataDownload/?clipping=Full&coord=ND83-SF&format=SHAPE&layers=NDHUB.ROADS_COUNTY",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 1,
@@ -94,7 +94,7 @@
 		"cache_url": null,
 		"name": "County and City Roads - Large Scale",
 		"created": "2015-01-09T11:58:32.998898",
-		"url": "http:\/\/ndgishub.nd.gov\/arcgis\/services\/All_Transportation\/MapServer\/WMSServer?",
+		"url": "http://ndgishub.nd.gov/arcgis/services/All_Transportation/MapServer/WMSServer?",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 2,
@@ -123,7 +123,7 @@
 		"cache_url": null,
 		"name": "Esri REST including WMS",
 		"created": "2015-01-09T11:58:32.998904",
-		"url": "http:\/\/ndgishub.nd.gov\/ArcGIS\/rest\/services\/All_Transportation\/MapServer",
+		"url": "http://ndgishub.nd.gov/ArcGIS/rest/services/All_Transportation/MapServer",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 3,
@@ -152,7 +152,7 @@
 		"cache_url": null,
 		"name": "Esri REST including WFS and KML",
 		"created": "2015-01-09T11:58:32.998910",
-		"url": "http:\/\/ndgishub.nd.gov\/ArcGIS\/rest\/services\/Features\/Transportation\/MapServer",
+		"url": "http://ndgishub.nd.gov/ArcGIS/rest/services/Features/Transportation/MapServer",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 4,
@@ -185,7 +185,7 @@
 	"name": "county-and-city-roads",
 	"isopen": false,
 	"url": null,
-	"notes": "7\/16\/14 - updates include: Traill, Barnes, Stutsman, Kidder, Bowman, Slope, Stark, Hettinger, Adams, Grant, Sioux and Morton. These datasets were updated using a combination of the available NAIP aerials, the DES aerials, and by car within the insets.\n\n10\/22\/12 - city streets were updated in Bismarck, Dickinson, Minot and Williston. GIS data from the city of Bismarck was used to update Bismarck, GIS data and 2012 aerial photography was used to update the city of Williston, Minot\u2019s city map and the 2010 aerial photography from Ward County was used to update Minot, and 2011 aerial photography and Dickinson\u2019s \"working\" city map was used to update Dickinson. The counties updated were Williams, Burke, Bottineau, Mountrail, Ward, Wells, Eddy, Foster, Griggs, Steele, and Cass. At the time of this updated, approximately 50% of Stutsman and 50% of Traill Counties are updated. Williams, Bottineau, Ward, and Mountrail roads were inspected from the air and the 2009 NAIP photos were also used to assist the updates. The roads in Williams County were also recoded to match Williams County naming conventions. Williams County CADD map which is on the Williams county web site was used in updating the road names. In Ward County, the 2010 image from Ward County was used to assist in updating Ward County. The 2010 NAIP photos were used to update Wells, Eddy, Foster, Griggs and Steele Counties. Cass was updated with the assistance of the Cass County GIS layer and the 2011 Cass county imagery. \n\n10\/3\/2011 - County roads were edited in the cities of Fargo, West Fargo, Horace, Minot, Bismarck, Devils Lake, Grafton, Williston, Valley City, and Dickinson. Also, a part of Ward and Mchenry Counties was edited and the county of Renville has been updated. The business routes through Bismarck and Jamestown were also edited. \n\n5\/9\/2011 - Updated streets in Bismarck, Mandan, Jamestown, Dickinson, West Fargo ( not quite finished yet), and Valley City. Also, corrected the north - south roads in Township 144N Ranges 49 - 53 E, (in Traill County) \n\n10\/5\/10 - The original Roads_County data was maintained in two separate ArcInfo coverages and then combined each year and exported to the NDHUB infrastructure.  These two coverages have now been combined into one SDE feature class and is being edited within the SDE environment.  The following changes have been made to feature class.\n\nDeleted all the A1 and A2 Fields so a person would have to hunt back and forth to find a road name.  Road names consist of the following fields: RTE_ID, STR_TYP, SUF_DIR, & LAN_DIR.  The CMC route numbers were moved from the A1_ prefixed fields to the CMC field to better track the CMC route. Created a County Highway field so we can enter the county road number. It consists of the counties name and number. This is still a work in progress. Created FS_RD_Number and FS_RD_Name fields to better track Forest Service roads. Created Bia-RD_Number and BIA_RD_Name fields to better track Bureau of Indian Affairs roads.\n\nThe following field changes are used for NDDOT specific processes: Created a service level field which is something that may be used in the future. Currently it contains how Walsh County prioritizes their roads.  Created a Through and Connecting Route field so we can so select routes through the towns and cities. This was created exclusively for the county base maps.  Created an Inset Associated  field. This was created so the information in the rd_misc would come into the county routes. In the future, it is planned to be deleted.\n\n6\/18\/09 - Updated county routes from aerial observation and photo interpretation using 2003, 2005, 2006 NAIP photos and 2008 photography from Designs camera. Counties updated were Golden Valley, Billings, McKenzie, Dunn, Mercer, Oliver, McLean, Sheridan and Burleigh.  City streets were rectified in these counties using the 2003 NAIP photos. Observations were performed by Steven Nelson.\n\n\n4\/17\/08 - Updated road surface types in NE. Rolette, Pierce, Benson, Towner, Ramsey, Cavalier, Pembina, Walsh, Grand Forks and Nelson from the 2006 aerial observations by Dewaine Olson \n\n2\/13\/07 - Updated via 2004 NAIP photos: Barnes, Cass, Eddy, Foster, Griggs, Kidder, Steele, Stutsman, Traill, Wells. Combined Misc Roads and County Roads. Blank fields mean unknown attribute. Use P_STREET_NAME for dynamic labeling. We are also in the process of removing all proposed roads. \n\n12\/28\/05 - Counties updated: Emmons, Logan, Mcintosh, Lamoure, Dickey, Ransom, Sargent, Richland, Divide, Williams, Burke, Mountrail, Ward, Renville, Bottineau, and Mchenry \n\nThis data came from the NDDOT's Mapping Section. The original data was digitized from hand scribed maps and registered to the 1:24000 USGS PLSS data. The digitized data is maintained in individual county tiles. These tiles were appended together to make a singe state wide coverage. It was then converted from a projection (NAD 1983 UTM Zone 14N) to a Geographic coordinate system.",
+	"notes": "7/16/14 - updates include: Traill, Barnes, Stutsman, Kidder, Bowman, Slope, Stark, Hettinger, Adams, Grant, Sioux and Morton. These datasets were updated using a combination of the available NAIP aerials, the DES aerials, and by car within the insets.nn10/22/12 - city streets were updated in Bismarck, Dickinson, Minot and Williston. GIS data from the city of Bismarck was used to update Bismarck, GIS data and 2012 aerial photography was used to update the city of Williston, Minotu2019s city map and the 2010 aerial photography from Ward County was used to update Minot, and 2011 aerial photography and Dickinsonu2019s "working" city map was used to update Dickinson. The counties updated were Williams, Burke, Bottineau, Mountrail, Ward, Wells, Eddy, Foster, Griggs, Steele, and Cass. At the time of this updated, approximately 50% of Stutsman and 50% of Traill Counties are updated. Williams, Bottineau, Ward, and Mountrail roads were inspected from the air and the 2009 NAIP photos were also used to assist the updates. The roads in Williams County were also recoded to match Williams County naming conventions. Williams County CADD map which is on the Williams county web site was used in updating the road names. In Ward County, the 2010 image from Ward County was used to assist in updating Ward County. The 2010 NAIP photos were used to update Wells, Eddy, Foster, Griggs and Steele Counties. Cass was updated with the assistance of the Cass County GIS layer and the 2011 Cass county imagery. nn10/3/2011 - County roads were edited in the cities of Fargo, West Fargo, Horace, Minot, Bismarck, Devils Lake, Grafton, Williston, Valley City, and Dickinson. Also, a part of Ward and Mchenry Counties was edited and the county of Renville has been updated. The business routes through Bismarck and Jamestown were also edited. nn5/9/2011 - Updated streets in Bismarck, Mandan, Jamestown, Dickinson, West Fargo ( not quite finished yet), and Valley City. Also, corrected the north - south roads in Township 144N Ranges 49 - 53 E, (in Traill County) nn10/5/10 - The original Roads_County data was maintained in two separate ArcInfo coverages and then combined each year and exported to the NDHUB infrastructure.  These two coverages have now been combined into one SDE feature class and is being edited within the SDE environment.  The following changes have been made to feature class.nnDeleted all the A1 and A2 Fields so a person would have to hunt back and forth to find a road name.  Road names consist of the following fields: RTE_ID, STR_TYP, SUF_DIR, & LAN_DIR.  The CMC route numbers were moved from the A1_ prefixed fields to the CMC field to better track the CMC route. Created a County Highway field so we can enter the county road number. It consists of the counties name and number. This is still a work in progress. Created FS_RD_Number and FS_RD_Name fields to better track Forest Service roads. Created Bia-RD_Number and BIA_RD_Name fields to better track Bureau of Indian Affairs roads.nnThe following field changes are used for NDDOT specific processes: Created a service level field which is something that may be used in the future. Currently it contains how Walsh County prioritizes their roads.  Created a Through and Connecting Route field so we can so select routes through the towns and cities. This was created exclusively for the county base maps.  Created an Inset Associated  field. This was created so the information in the rd_misc would come into the county routes. In the future, it is planned to be deleted.nn6/18/09 - Updated county routes from aerial observation and photo interpretation using 2003, 2005, 2006 NAIP photos and 2008 photography from Designs camera. Counties updated were Golden Valley, Billings, McKenzie, Dunn, Mercer, Oliver, McLean, Sheridan and Burleigh.  City streets were rectified in these counties using the 2003 NAIP photos. Observations were performed by Steven Nelson.nnn4/17/08 - Updated road surface types in NE. Rolette, Pierce, Benson, Towner, Ramsey, Cavalier, Pembina, Walsh, Grand Forks and Nelson from the 2006 aerial observations by Dewaine Olson nn2/13/07 - Updated via 2004 NAIP photos: Barnes, Cass, Eddy, Foster, Griggs, Kidder, Steele, Stutsman, Traill, Wells. Combined Misc Roads and County Roads. Blank fields mean unknown attribute. Use P_STREET_NAME for dynamic labeling. We are also in the process of removing all proposed roads. nn12/28/05 - Counties updated: Emmons, Logan, Mcintosh, Lamoure, Dickey, Ransom, Sargent, Richland, Divide, Williams, Burke, Mountrail, Ward, Renville, Bottineau, and Mchenry nnThis data came from the NDDOT's Mapping Section. The original data was digitized from hand scribed maps and registered to the 1:24000 USGS PLSS data. The digitized data is maintained in individual county tiles. These tiles were appended together to make a singe state wide coverage. It was then converted from a projection (NAD 1983 UTM Zone 14N) to a Geographic coordinate system.",
 	"license_title": null,
 	"extras": [{
 		"key": "bbox-east-long",
@@ -229,7 +229,7 @@
 	},
 	{
 		"key": "spatial",
-		"value": "{\"type\": \"Polygon\", \"coordinates\": [[[-104.058045, 45.927226], [-96.555267, 45.927226], [-96.555267, 49.011355], [-104.058045, 49.011355], [-104.058045, 45.927226]]]}"
+		"value": "{"type": "Polygon", "coordinates": [[[-104.058045, 45.927226], [-96.555267, 45.927226], [-96.555267, 49.011355], [-104.058045, 49.011355], [-104.058045, 45.927226]]]}"
 	},
 	{
 		"key": "progress",
@@ -237,7 +237,7 @@
 	},
 	{
 		"key": "access_constraints",
-		"value": "[\"The State of North Dakota has compiled this data according to conventional cartographic standards, using what is thought to be the most reliable information available. This data is intended to make results of research available at the earliest possible date, but is not intended to constitute final or formal publication. The State of North Dakota makes every effort to provide virus-free files but does not guarantee uncorrupted files. The State of North Dakota does not guarantee this data to be free from errors, inaccuracies, or viruses, and disclaims any responsibility or liability for interpretations or decisions based on this data.\"]"
+		"value": "["The State of North Dakota has compiled this data according to conventional cartographic standards, using what is thought to be the most reliable information available. This data is intended to make results of research available at the earliest possible date, but is not intended to constitute final or formal publication. The State of North Dakota makes every effort to provide virus-free files but does not guarantee uncorrupted files. The State of North Dakota does not guarantee this data to be free from errors, inaccuracies, or viruses, and disclaims any responsibility or liability for interpretations or decisions based on this data."]"
 	},
 	{
 		"key": "contact-email",
@@ -253,7 +253,7 @@
 	},
 	{
 		"key": "dataset-reference-date",
-		"value": "[{\"type\": \"publication\", \"value\": \"2014-07-16\"}]"
+		"value": "[{"type": "publication", "value": "2014-07-16"}]"
 	},
 	{
 		"key": "graphic-preview-description",
@@ -273,7 +273,7 @@
 	},
 	{
 		"key": "responsible-party",
-		"value": "[{\"name\": \"ND Department of Transportation\", \"roles\": [\"pointOfContact\"]}]"
+		"value": "[{"name": "ND Department of Transportation", "roles": ["pointOfContact"]}]"
 	},
 	{
 		"key": "spatial-data-service-type",
@@ -308,14 +308,14 @@
 		"value": "North Dakota GIS Hub Data Portal"
 	}],
 	"organization": {
-		"description": "The GIS Hub is the state source for GIS - data, services, and information.  More information can be found at www.nd.gov\/gis.",
+		"description": "The GIS Hub is the state source for GIS - data, services, and information.  More information can be found at www.nd.gov/gis.",
 		"created": "2013-03-14T03:44:44.340717",
 		"title": "State of North Dakota",
 		"name": "nd-gov",
 		"revision_timestamp": "2013-07-15T16:27:30.098476",
 		"is_organization": true,
 		"state": "active",
-		"image_url": "http:\/\/www.nd.gov\/gis\/images\/ndgis-logo.gif",
+		"image_url": "http://www.nd.gov/gis/images/ndgis-logo.gif",
 		"revision_id": "27517bb9-815c-4d4f-b45b-b88b6316697b",
 		"type": "organization",
 		"id": "1c782de6-9f1f-4427-93fd-33732e29970f",

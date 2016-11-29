@@ -36,7 +36,7 @@
 		"cache_url": null,
 		"name": "Downloadable File - Michigan Bedrock Geology Map",
 		"created": "2013-03-16T00:01:07.761431",
-		"url": "http:\/\/www.michigan.gov\/documents\/CGI_1987_Bedrock_Geology_8X11_128879_7.pdf",
+		"url": "http://www.michigan.gov/documents/CGI_1987_Bedrock_Geology_8X11_128879_7.pdf",
 		"webstore_url": null,
 		"resource_locator_function": "375",
 		"position": 0,
@@ -65,7 +65,7 @@
 		"cache_url": null,
 		"name": "More Information on Downloadable Metadata and Shapefiles",
 		"created": "2013-03-16T00:01:07.761453",
-		"url": "http:\/\/www.mcgi.state.mi.us\/mgdl\/?rel=ext&action=sext",
+		"url": "http://www.mcgi.state.mi.us/mgdl/?rel=ext&action=sext",
 		"webstore_url": null,
 		"resource_locator_function": "375",
 		"position": 1,
@@ -98,11 +98,11 @@
 	"name": "bedrock-geology-of-michigan-1-500000-scale",
 	"isopen": false,
 	"url": null,
-	"notes": "Michigan Bedrock Geology. Hard copy maps of a scale 1\" = 5280' (1:63360) were digitized by the Michigan Resource Information System (MIRIS) using Microstation software. These files were cataloged by county then merged into regional files based on State Plane zones. Edge matching took place along county boundaries. Microstation design files were converted to Arc\/Info coverages using the IGDS command. Coverages were cleaned and built into polygons. Arc\/Info data was cross referenced with original design files using ArcView software, and check plots were produced at a scale of 1:500000. Errors were corrected using ArcTools. Coverages were re-projected to the Michigan Georef coordinate system (Oblique Mercator) using the Arc\/Info PROJECT command. All three zonal coverages were combined using the UNION command, then the attribution was combined into the respective common fields. Corrections made along state plane line for zones 2 and 3 in the Lower Peninsula using ArcTools. Michigan statewide bedrock geology maps shapefiles and metadata are publically available online for download through links provided or through the Michigan Geographic Data Library at http:\/\/www.mcgi.state.mi.us\/mgdl\/. ",
+	"notes": "Michigan Bedrock Geology. Hard copy maps of a scale 1" = 5280' (1:63360) were digitized by the Michigan Resource Information System (MIRIS) using Microstation software. These files were cataloged by county then merged into regional files based on State Plane zones. Edge matching took place along county boundaries. Microstation design files were converted to Arc/Info coverages using the IGDS command. Coverages were cleaned and built into polygons. Arc/Info data was cross referenced with original design files using ArcView software, and check plots were produced at a scale of 1:500000. Errors were corrected using ArcTools. Coverages were re-projected to the Michigan Georef coordinate system (Oblique Mercator) using the Arc/Info PROJECT command. All three zonal coverages were combined using the UNION command, then the attribution was combined into the respective common fields. Corrections made along state plane line for zones 2 and 3 in the Lower Peninsula using ArcTools. Michigan statewide bedrock geology maps shapefiles and metadata are publically available online for download through links provided or through the Michigan Geographic Data Library at http://www.mcgi.state.mi.us/mgdl/. ",
 	"license_title": null,
 	"extras": [{
 		"key": "responsible-party",
-		"value": "[{\"name\": \"Arizona Geological Survey\", \"roles\": [\"pointOfContact\"]}]"
+		"value": "[{"name": "Arizona Geological Survey", "roles": ["pointOfContact"]}]"
 	},
 	{
 		"key": "contact-email",
@@ -122,7 +122,7 @@
 	},
 	{
 		"key": "dataset-reference-date",
-		"value": "[{\"type\": \"publication\", \"value\": \"1987-01-01T12:00:00\"}]"
+		"value": "[{"type": "publication", "value": "1987-01-01T12:00:00"}]"
 	},
 	{
 		"key": "resource-type",
@@ -158,7 +158,7 @@
 	},
 	{
 		"key": "spatial",
-		"value": "{\"type\": \"Polygon\", \"coordinates\": [[[-90.38603812, 41.69331783], [-90.38603812, 48.27935311], [-82.38965295, 48.27935311], [-82.38965295, 41.69331783], [-90.38603812, 41.69331783]]]}"
+		"value": "{"type": "Polygon", "coordinates": [[[-90.38603812, 41.69331783], [-90.38603812, 48.27935311], [-82.38965295, 48.27935311], [-82.38965295, 41.69331783], [-90.38603812, 41.69331783]]]}"
 	},
 	{
 		"key": "guid",
@@ -208,7 +208,7 @@
 		"revision_timestamp": "2013-03-20T21:11:17.592932",
 		"is_organization": true,
 		"state": "active",
-		"image_url": "http:\/\/www.50states.com\/flag\/image\/nunst004.gif",
+		"image_url": "http://www.50states.com/flag/image/nunst004.gif",
 		"revision_id": "61be6428-4398-4199-a336-f3cd1e956f9b",
 		"type": "organization",
 		"id": "f3f6e1d4-64fb-4a2f-b32c-9ac0b76fe4de",

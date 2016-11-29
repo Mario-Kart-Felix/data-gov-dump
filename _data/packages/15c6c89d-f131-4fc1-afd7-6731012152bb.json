@@ -36,7 +36,7 @@
 		"cache_url": null,
 		"name": "TIFF - Tagged Image File Format",
 		"created": "2016-07-15T21:34:52.147411",
-		"url": "http:\/\/cloud.insideidaho.org\/webApps\/util\/zip.ashx?fn=http:\/\/cloud.insideidaho.org\/data\/igdc\/shdrlfgrayscale30m_id_igdc.tif",
+		"url": "http://cloud.insideidaho.org/webApps/util/zip.ashx?fn=http://cloud.insideidaho.org/data/igdc/shdrlfgrayscale30m_id_igdc.tif",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 0,
@@ -66,7 +66,7 @@
 		"cache_url": null,
 		"name": "TIFF Image File",
 		"created": "2016-07-15T21:34:52.147439",
-		"url": "http:\/\/cloud.insideidaho.org\/webApps\/util\/zip.ashx?fn=http:\/\/cloud.insideidaho.org\/data\/igdc\/shdrlfgrayscale30m_id_igdc.tif",
+		"url": "http://cloud.insideidaho.org/webApps/util/zip.ashx?fn=http://cloud.insideidaho.org/data/igdc/shdrlfgrayscale30m_id_igdc.tif",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 1,
@@ -86,7 +86,7 @@
 	"name": "grayscale-shaded-relief-of-idaho-with-a-horizontal-grid-spacing-of-30-meters",
 	"isopen": false,
 	"url": null,
-	"notes": "The 30-meter Grayscale Shaded Relief of Idaho data set was derived from the 1 arc second National Elevation Dataset and USGS DEM elevation data. The NED is a seamless mosaic of best-available elevation data. The 7.5-minute elevation data for the conterminous United States are the primary initial source data. In addition to the availability of complete 7.5-minute data, efficient processing methods were developed to filter production artifacts in the existing data, convert to the NAD83 datum, edge-match, and fill slivers of missing data at quadrangle seams. One of the effects of the NED processing steps is a much-improved base of elevation data for calculating slope and hydrologic derivatives. The specifications for the NED 1 arc second and 1\/3 arc second data are: Geographic coordinate system Horizontal datum of NAD83, except for AK which is NAD27 Vertical datum of NAVD88, except for AK which is NAVD29 Z units of meters.",
+	"notes": "The 30-meter Grayscale Shaded Relief of Idaho data set was derived from the 1 arc second National Elevation Dataset and USGS DEM elevation data. The NED is a seamless mosaic of best-available elevation data. The 7.5-minute elevation data for the conterminous United States are the primary initial source data. In addition to the availability of complete 7.5-minute data, efficient processing methods were developed to filter production artifacts in the existing data, convert to the NAD83 datum, edge-match, and fill slivers of missing data at quadrangle seams. One of the effects of the NED processing steps is a much-improved base of elevation data for calculating slope and hydrologic derivatives. The specifications for the NED 1 arc second and 1/3 arc second data are: Geographic coordinate system Horizontal datum of NAD83, except for AK which is NAD27 Vertical datum of NAVD88, except for AK which is NAVD29 Z units of meters.",
 	"license_title": null,
 	"extras": [{
 		"key": "bbox-east-long",
@@ -122,7 +122,7 @@
 	},
 	{
 		"key": "spatial",
-		"value": "{\"type\": \"Polygon\", \"coordinates\": [[[-117.532124, 41.94496], [-110.65521, 41.94496], [-110.65521, 49.039764], [-117.532124, 49.039764], [-117.532124, 41.94496]]]}"
+		"value": "{"type": "Polygon", "coordinates": [[[-117.532124, 41.94496], [-110.65521, 41.94496], [-110.65521, 49.039764], [-117.532124, 49.039764], [-117.532124, 41.94496]]]}"
 	},
 	{
 		"key": "progress",
@@ -130,7 +130,7 @@
 	},
 	{
 		"key": "access_constraints",
-		"value": "[\"Use Constraints: None\", \"Access Constraints: None\"]"
+		"value": "["Use Constraints: None", "Access Constraints: None"]"
 	},
 	{
 		"key": "temporal-extent-begin",
@@ -150,7 +150,7 @@
 	},
 	{
 		"key": "dataset-reference-date",
-		"value": "[{\"type\": \"publication\", \"value\": \"2004-11-01\"}]"
+		"value": "[{"type": "publication", "value": "2004-11-01"}]"
 	},
 	{
 		"key": "frequency-of-update",
@@ -158,7 +158,7 @@
 	},
 	{
 		"key": "licence",
-		"value": "[\"Although these data have been processed successfully on a computer system at the Idaho Geospatial Data Clearinghouse, no warranty, expressed or implied, is made regarding the utility of the data on any other system, nor shall the act of distribution constitute any such warranty. \"]"
+		"value": "["Although these data have been processed successfully on a computer system at the Idaho Geospatial Data Clearinghouse, no warranty, expressed or implied, is made regarding the utility of the data on any other system, nor shall the act of distribution constitute any such warranty. "]"
 	},
 	{
 		"key": "metadata_type",
@@ -166,7 +166,7 @@
 	},
 	{
 		"key": "responsible-party",
-		"value": "[{\"name\": \"Idaho Geospatial Data Clearinghouse\", \"roles\": [\"pointOfContact\"]}]"
+		"value": "[{"name": "Idaho Geospatial Data Clearinghouse", "roles": ["pointOfContact"]}]"
 	},
 	{
 		"key": "spatial-data-service-type",
@@ -208,7 +208,7 @@
 		"revision_timestamp": "2015-01-16T18:28:14.593903",
 		"is_organization": true,
 		"state": "active",
-		"image_url": "http:\/\/upload.wikimedia.org\/wikipedia\/en\/thumb\/4\/44\/University_of_Idaho_seal.svg\/300px-University_of_Idaho_seal.svg.png",
+		"image_url": "http://upload.wikimedia.org/wikipedia/en/thumb/4/44/University_of_Idaho_seal.svg/300px-University_of_Idaho_seal.svg.png",
 		"revision_id": "761955d7-9530-4622-8609-d0b01c78e177",
 		"type": "organization",
 		"id": "75e22a8a-da5f-46f3-93d8-924063a3703d",

@@ -34,9 +34,9 @@
 		"resource_locator_protocol": "ftp",
 		"mimetype": null,
 		"cache_url": null,
-		"name": "Geomagnetic Data\/Indices\/Auroral Electroject",
+		"name": "Geomagnetic Data/Indices/Auroral Electroject",
 		"created": "2015-10-06T17:55:50.664350",
-		"url": "ftp:\/\/ftp.ngdc.noaa.gov\/STP\/GEOMAGNETIC_DATA\/INDICES\/AURORAL_ELECTROJET",
+		"url": "ftp://ftp.ngdc.noaa.gov/STP/GEOMAGNETIC_DATA/INDICES/AURORAL_ELECTROJET",
 		"webstore_url": null,
 		"resource_locator_function": "download",
 		"position": 0,
@@ -65,7 +65,7 @@
 		"cache_url": null,
 		"name": "WDC-C2 KYOTO AE index service",
 		"created": "2015-10-06T17:55:50.664370",
-		"url": "http:\/\/swdcwww.kugi.kyoto-u.ac.jp\/aedir\/index.html",
+		"url": "http://swdcwww.kugi.kyoto-u.ac.jp/aedir/index.html",
 		"webstore_url": null,
 		"resource_locator_function": "information",
 		"position": 1,
@@ -95,7 +95,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2015-10-06T17:55:50.664378",
-		"url": "ftp:\/\/ftp.ngdc.noaa.gov\/STP\/GEOMAGNETIC_DATA\/INDICES\/AURORAL_ELECTROJET",
+		"url": "ftp://ftp.ngdc.noaa.gov/STP/GEOMAGNETIC_DATA/INDICES/AURORAL_ELECTROJET",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 2,
@@ -125,7 +125,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2015-10-06T17:55:50.664385",
-		"url": "http:\/\/swdcwww.kugi.kyoto-u.ac.jp\/aedir\/index.html",
+		"url": "http://swdcwww.kugi.kyoto-u.ac.jp/aedir/index.html",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 3,
@@ -154,7 +154,7 @@
 		"cache_url": null,
 		"name": "WDC-C2 KYOTO AE index service",
 		"created": "2015-10-06T17:55:50.664403",
-		"url": "http:\/\/swdcwww.kugi.kyoto-u.ac.jp\/aedir\/index.html",
+		"url": "http://swdcwww.kugi.kyoto-u.ac.jp/aedir/index.html",
 		"webstore_url": null,
 		"resource_locator_function": "information",
 		"position": 4,
@@ -183,7 +183,7 @@
 		"cache_url": null,
 		"name": "Auroral Electrojet Index (AE)",
 		"created": "2015-10-06T17:55:50.664415",
-		"url": "http:\/\/www.ngdc.noaa.gov\/geomag",
+		"url": "http://www.ngdc.noaa.gov/geomag",
 		"webstore_url": null,
 		"resource_locator_function": "information",
 		"position": 5,
@@ -212,7 +212,7 @@
 		"cache_url": null,
 		"name": "GCMD Feedback Form",
 		"created": "2015-10-06T17:55:50.664430",
-		"url": "http:\/\/gcmd.nasa.gov\/MailComments\/MailComments.jsf?rcpt=gcmduso",
+		"url": "http://gcmd.nasa.gov/MailComments/MailComments.jsf?rcpt=gcmduso",
 		"webstore_url": null,
 		"resource_locator_function": "information",
 		"position": 6,
@@ -241,7 +241,7 @@
 		"cache_url": null,
 		"name": "GCMD Keywords Page",
 		"created": "2015-10-06T17:55:50.664446",
-		"url": "http:\/\/gcmd.nasa.gov\/learn\/keyword_list.html",
+		"url": "http://gcmd.nasa.gov/learn/keyword_list.html",
 		"webstore_url": null,
 		"resource_locator_function": "information",
 		"position": 7,
@@ -270,7 +270,7 @@
 		"cache_url": null,
 		"name": "GCMD Feedback Form",
 		"created": "2015-10-06T17:55:50.664454",
-		"url": "http:\/\/gcmd.nasa.gov\/MailComments\/MailComments.jsf?rcpt=gcmduso",
+		"url": "http://gcmd.nasa.gov/MailComments/MailComments.jsf?rcpt=gcmduso",
 		"webstore_url": null,
 		"resource_locator_function": "information",
 		"position": 8,
@@ -299,7 +299,7 @@
 		"cache_url": null,
 		"name": "GCMD Keywords Page",
 		"created": "2015-10-06T17:55:50.664460",
-		"url": "http:\/\/gcmd.nasa.gov\/learn\/keyword_list.html",
+		"url": "http://gcmd.nasa.gov/learn/keyword_list.html",
 		"webstore_url": null,
 		"resource_locator_function": "information",
 		"position": 9,
@@ -319,7 +319,7 @@
 	"name": "auroral-electrojet-ae-al-ao-au-a-global-measure-of-auroral-zone-magnetic-activity",
 	"isopen": false,
 	"url": null,
-	"notes": "The AE index is derived from geomagnetic variations in the horizontal component observed at selected (10-13) observatories along the auroral zone in the northern hemisphere. To normalize the data a base value for each station is first calculated for each month by averaging all the data from the station on the five international quietest days. This base value is subtracted from each value of one-minute data obtained at the station during that month. Then among\n                    the data from all the stations at each given time (UT), the largest and smallest values are selected. The AU and AL indices are respectively defined by the largest and the smallest values so selected. The symbols, AU and AL, derive from the fact that these values form the upper and lower envelopes of the superposed plots of all the data from these stations as functions of UT. The difference, AU minus AL, defines the AE index, and the mean value of the AU and AL, i.e.\n                    (AU+AL)\/2, defines the AO index. The term \"AE indices\" is usually used to represent these four indices (AU, AL, AE and AO). The AU and AL indices are intended to express the strongest current intensity of the eastward and westward auroral electrojets, respectively. The AE index represents the overall activity of the electrojets, and the AO index provides a measure of the equivalent zonal current.",
+	"notes": "The AE index is derived from geomagnetic variations in the horizontal component observed at selected (10-13) observatories along the auroral zone in the northern hemisphere. To normalize the data a base value for each station is first calculated for each month by averaging all the data from the station on the five international quietest days. This base value is subtracted from each value of one-minute data obtained at the station during that month. Then amongn                    the data from all the stations at each given time (UT), the largest and smallest values are selected. The AU and AL indices are respectively defined by the largest and the smallest values so selected. The symbols, AU and AL, derive from the fact that these values form the upper and lower envelopes of the superposed plots of all the data from these stations as functions of UT. The difference, AU minus AL, defines the AE index, and the mean value of the AU and AL, i.e.n                    (AU+AL)/2, defines the AO index. The term "AE indices" is usually used to represent these four indices (AU, AL, AE and AO). The AU and AL indices are intended to express the strongest current intensity of the eastward and westward auroral electrojets, respectively. The AE index represents the overall activity of the electrojets, and the AO index provides a measure of the equivalent zonal current.",
 	"license_title": null,
 	"extras": [{
 		"key": "bbox-east-long",
@@ -355,7 +355,7 @@
 	},
 	{
 		"key": "spatial",
-		"value": "{\"type\": \"Polygon\", \"coordinates\": [[[-180.0, -90.0], [180.0, -90.0], [180.0, 90.0], [-180.0, 90.0], [-180.0, -90.0]]]}"
+		"value": "{"type": "Polygon", "coordinates": [[[-180.0, -90.0], [180.0, -90.0], [180.0, 90.0], [-180.0, 90.0], [-180.0, -90.0]]]}"
 	},
 	{
 		"key": "progress",
@@ -363,7 +363,7 @@
 	},
 	{
 		"key": "access_constraints",
-		"value": "[\"Use Constraints: None\", \"Access Constraints: No Constraints\"]"
+		"value": "["Use Constraints: None", "Access Constraints: No Constraints"]"
 	},
 	{
 		"key": "temporal-extent-begin",
@@ -383,7 +383,7 @@
 	},
 	{
 		"key": "dataset-reference-date",
-		"value": "[{\"type\": \"publication\", \"value\": \"1976-01-01\"}]"
+		"value": "[{"type": "publication", "value": "1976-01-01"}]"
 	},
 	{
 		"key": "frequency-of-update",
@@ -391,7 +391,7 @@
 	},
 	{
 		"key": "licence",
-		"value": "[\"While every effort has been made to ensure that these data are accurate and reliable within the limits of the current state of the art, NOAA cannot assume liability for any damages caused by any errors or omissions in the data, nor as a result of the failure of the data to function on a particular system. NOAA makes no warranty, expressed or implied, nor does the fact of distribution constitute such a warranty.\"]"
+		"value": "["While every effort has been made to ensure that these data are accurate and reliable within the limits of the current state of the art, NOAA cannot assume liability for any damages caused by any errors or omissions in the data, nor as a result of the failure of the data to function on a particular system. NOAA makes no warranty, expressed or implied, nor does the fact of distribution constitute such a warranty."]"
 	},
 	{
 		"key": "metadata_type",
@@ -399,7 +399,7 @@
 	},
 	{
 		"key": "responsible-party",
-		"value": "[{\"name\": \"DOC\/NOAA\/NESDIS\/NCEI > National Centers for Environmental Information, NESDIS, NOAA, U.S. Department of Commerce\", \"roles\": [\"pointOfContact\"]}]"
+		"value": "[{"name": "DOC/NOAA/NESDIS/NCEI > National Centers for Environmental Information, NESDIS, NOAA, U.S. Department of Commerce", "roles": ["pointOfContact"]}]"
 	},
 	{
 		"key": "spatial-data-service-type",
@@ -411,7 +411,7 @@
 	},
 	{
 		"package_id": "1ed0486f-ef54-4855-bfb0-757144ab1ecd",
-		"value": "ionosphere\/magnetosphere dynamics, sun-earth interactions, national centers for environmental information, nesdis, noaa, u.s. department of commerce, aurorae, solid earth, doc\/noaa\/nesdis\/ngdc, geomagnetic indices, geomagnetism, icsu-wds, magnetosphere (other), doc\/noaa\/nesdis\/ncei, high latitude magnetosphere, national geophysical data center, nesdis, noaa, u.s. department of commerce, international council for science - world data system, earth science",
+		"value": "ionosphere/magnetosphere dynamics, sun-earth interactions, national centers for environmental information, nesdis, noaa, u.s. department of commerce, aurorae, solid earth, doc/noaa/nesdis/ngdc, geomagnetic indices, geomagnetism, icsu-wds, magnetosphere (other), doc/noaa/nesdis/ncei, high latitude magnetosphere, national geophysical data center, nesdis, noaa, u.s. department of commerce, international council for science - world data system, earth science",
 		"revision_timestamp": "2015-10-06T21:55:50.588003",
 		"state": "active",
 		"key": "tags",
@@ -441,7 +441,7 @@
 		"revision_timestamp": "2013-03-25T23:05:12.923863",
 		"is_organization": true,
 		"state": "active",
-		"image_url": "https:\/\/fortress.wa.gov\/dfw\/score\/score\/images\/noaa_logo.png",
+		"image_url": "https://fortress.wa.gov/dfw/score/score/images/noaa_logo.png",
 		"revision_id": "c6d43080-22e1-405e-a83d-f2a512d9e867",
 		"type": "organization",
 		"id": "e811f0b4-451f-4896-9e8f-fc6802837819",

@@ -37,7 +37,7 @@
 		"cache_url": null,
 		"name": "Zip File",
 		"created": "2015-11-10T00:07:32.905140",
-		"url": "ftp:\/\/ftp.soest.hawaii.edu\/pibhmc\/website\/data\/cnmi-guam\/bathymetry\/maug_10m.grd.zip",
+		"url": "ftp://ftp.soest.hawaii.edu/pibhmc/website/data/cnmi-guam/bathymetry/maug_10m.grd.zip",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 0,
@@ -67,7 +67,7 @@
 		"cache_url": null,
 		"name": "Zip File",
 		"created": "2015-11-10T00:07:32.905183",
-		"url": "ftp:\/\/ftp.soest.hawaii.edu\/pibhmc\/website\/data\/cnmi-guam\/bathymetry\/maug_10m.asc.zip",
+		"url": "ftp://ftp.soest.hawaii.edu/pibhmc/website/data/cnmi-guam/bathymetry/maug_10m.asc.zip",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 1,
@@ -97,7 +97,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2015-11-10T00:07:32.905193",
-		"url": "http:\/\/www.soest.hawaii.edu\/pibhmc\/pibhmc_cnmi.htm",
+		"url": "http://www.soest.hawaii.edu/pibhmc/pibhmc_cnmi.htm",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 2,
@@ -121,7 +121,7 @@
 	"license_title": null,
 	"extras": [{
 		"key": "bbox-east-long",
-		"value": "\n          145.267\n        "
+		"value": "n          145.267n        "
 	},
 	{
 		"key": "resource-type",
@@ -129,7 +129,7 @@
 	},
 	{
 		"key": "bbox-north-lat",
-		"value": "\n          20.07\n        "
+		"value": "n          20.07n        "
 	},
 	{
 		"key": "coupled-resource",
@@ -145,7 +145,7 @@
 	},
 	{
 		"key": "graphic-preview-file",
-		"value": "http:\/\/www.soest.hawaii.edu\/pibhmc\/CNMI_images\/maug_10m_440.jpg"
+		"value": "http://www.soest.hawaii.edu/pibhmc/CNMI_images/maug_10m_440.jpg"
 	},
 	{
 		"key": "metadata-language",
@@ -161,7 +161,7 @@
 	},
 	{
 		"key": "spatial",
-		"value": "{\"type\": \"Polygon\", \"coordinates\": [[[145.183, 19.99], [145.267, 19.99], [145.267, 20.07], [145.183, 20.07], [145.183, 19.99]]]}"
+		"value": "{"type": "Polygon", "coordinates": [[[145.183, 19.99], [145.267, 19.99], [145.267, 20.07], [145.183, 20.07], [145.183, 19.99]]]}"
 	},
 	{
 		"key": "progress",
@@ -169,7 +169,7 @@
 	},
 	{
 		"key": "access_constraints",
-		"value": "[\"Use Constraints: These data are not to be used for navigation purposes. Please acknowledge NOAA Pacific Islands Fisheries Science Center, and the Joint Institute for Marine and Atmospheric Research (JIMAR) University of Hawaii as the sources of this information.\", \"Access Constraints: none\"]"
+		"value": "["Use Constraints: These data are not to be used for navigation purposes. Please acknowledge NOAA Pacific Islands Fisheries Science Center, and the Joint Institute for Marine and Atmospheric Research (JIMAR) University of Hawaii as the sources of this information.", "Access Constraints: none"]"
 	},
 	{
 		"key": "temporal-extent-begin",
@@ -181,7 +181,7 @@
 	},
 	{
 		"key": "bbox-west-long",
-		"value": "\n          145.183\n        "
+		"value": "n          145.183n        "
 	},
 	{
 		"key": "metadata-date",
@@ -189,7 +189,7 @@
 	},
 	{
 		"key": "dataset-reference-date",
-		"value": "[{\"type\": \"publication\", \"value\": \"2007-11-30\"}]"
+		"value": "[{"type": "publication", "value": "2007-11-30"}]"
 	},
 	{
 		"key": "graphic-preview-description",
@@ -201,7 +201,7 @@
 	},
 	{
 		"key": "licence",
-		"value": "[\"\\n      These data are not to be used for navigational purposes.\\nNOAA makes no warranty regarding these data, expressed or\\nimplied, nor does the fact of distribution constitute such a\\nwarranty. NOAA cannot assume liability for any damages caused by\\nany errors or omissions in these data, nor as a result of the\\nfailure of these data to function on a particular system.\\n    \"]"
+		"value": "["\n      These data are not to be used for navigational purposes.\nNOAA makes no warranty regarding these data, expressed or\nimplied, nor does the fact of distribution constitute such a\nwarranty. NOAA cannot assume liability for any damages caused by\nany errors or omissions in these data, nor as a result of the\nfailure of these data to function on a particular system.\n    "]"
 	},
 	{
 		"key": "metadata_type",
@@ -209,7 +209,7 @@
 	},
 	{
 		"key": "responsible-party",
-		"value": "[{\"name\": \"Pacific Islands Benthic Habitat Mapping Center (PIBHMC), Coral Reef Ecosystem Division (CRED), Pacific Islands Fisheries Science Center (PIFSC), National Marine Fisheries Service (NMFS), National Oceanic and Atmospheric Administration (NOAA)\", \"roles\": [\"pointOfContact\"]}]"
+		"value": "[{"name": "Pacific Islands Benthic Habitat Mapping Center (PIBHMC), Coral Reef Ecosystem Division (CRED), Pacific Islands Fisheries Science Center (PIFSC), National Marine Fisheries Service (NMFS), National Oceanic and Atmospheric Administration (NOAA)", "roles": ["pointOfContact"]}]"
 	},
 	{
 		"key": "temporal-extent-end",
@@ -221,11 +221,11 @@
 	},
 	{
 		"key": "bbox-south-lat",
-		"value": "\n          19.99\n        "
+		"value": "n          19.99n        "
 	},
 	{
 		"package_id": "76b70b5a-f818-41a3-9a7d-12992e940bca",
-		"value": "geographic information, oceans, united states of america, multibeam sonar, bathymetry, bathymetry\/seafloor topography, commonwealth of the northern mariana islands, maug island(s), earth science",
+		"value": "geographic information, oceans, united states of america, multibeam sonar, bathymetry, bathymetry/seafloor topography, commonwealth of the northern mariana islands, maug island(s), earth science",
 		"revision_timestamp": "2015-09-26T23:20:14.375875",
 		"state": "active",
 		"key": "tags",
@@ -255,7 +255,7 @@
 		"revision_timestamp": "2013-03-25T23:05:12.923863",
 		"is_organization": true,
 		"state": "active",
-		"image_url": "https:\/\/fortress.wa.gov\/dfw\/score\/score\/images\/noaa_logo.png",
+		"image_url": "https://fortress.wa.gov/dfw/score/score/images/noaa_logo.png",
 		"revision_id": "c6d43080-22e1-405e-a83d-f2a512d9e867",
 		"type": "organization",
 		"id": "e811f0b4-451f-4896-9e8f-fc6802837819",

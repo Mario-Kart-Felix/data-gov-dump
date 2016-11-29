@@ -36,7 +36,7 @@
 		"cache_url": null,
 		"name": "NDGIS web site",
 		"created": "2016-04-01T14:55:49.728380",
-		"url": "http:\/\/www.nd.gov\/gis",
+		"url": "http://www.nd.gov/gis",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 0,
@@ -65,7 +65,7 @@
 		"cache_url": null,
 		"name": "Download TIGER Roads 2015",
 		"created": "2016-04-01T14:55:49.728415",
-		"url": "http:\/\/www.nd.gov\/gis\/apps\/DataDownload\/?clipping=Full&coord=ND83-SF&format=SHAPE&layers=NDHUB.ROADS_TIGER",
+		"url": "http://www.nd.gov/gis/apps/DataDownload/?clipping=Full&coord=ND83-SF&format=SHAPE&layers=NDHUB.ROADS_TIGER",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 1,
@@ -94,7 +94,7 @@
 		"cache_url": null,
 		"name": "City County State Federal Roads - US Census Bureau - Large Scale",
 		"created": "2016-04-01T14:55:49.728425",
-		"url": "http:\/\/ndgishub.nd.gov\/arcgis\/services\/All_Transportation\/MapServer\/WMSServer?",
+		"url": "http://ndgishub.nd.gov/arcgis/services/All_Transportation/MapServer/WMSServer?",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 2,
@@ -123,7 +123,7 @@
 		"cache_url": null,
 		"name": "Esri REST including WMS",
 		"created": "2016-04-01T14:55:49.728432",
-		"url": "http:\/\/ndgishub.nd.gov\/ArcGIS\/rest\/services\/All_Transportation\/MapServer",
+		"url": "http://ndgishub.nd.gov/ArcGIS/rest/services/All_Transportation/MapServer",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 3,
@@ -152,7 +152,7 @@
 		"cache_url": null,
 		"name": "Esri REST including WFS and KML",
 		"created": "2016-04-01T14:55:49.728449",
-		"url": "http:\/\/ndgishub.nd.gov\/ArcGIS\/rest\/services\/Features\/Transportation\/MapServer",
+		"url": "http://ndgishub.nd.gov/ArcGIS/rest/services/Features/Transportation/MapServer",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 4,
@@ -185,7 +185,7 @@
 	"name": "tiger-roads-2014",
 	"isopen": false,
 	"url": null,
-	"notes": "The TIGER\/Line shapefiles and related database files (.dbf) are an extract of selected geographic and cartographic information from the U.S. Census Bureau's Master Address File \/ Topologically Integrated Geographic Encoding and Referencing (MAF\/TIGER) Database (MTDB). The MTDB represents a seamless national file with no overlaps or gaps between parts, however, each TIGER\/Line shapefile is designed to stand alone as an independent data set, or they can be combined to cover the entire nation. Edge refers to the linear topological primitives that make up MTDB. The All Lines Shapefile contains linear features such as roads, railroads, and hydrography. Additional attribute data associated with the linear features found in the All Lines Shapefile are available in relationship (.dbf) files that users must download separately. The All Lines Shapefile contains the geometry and attributes of each topological primitive edge. Each edge has a unique TIGER\/Line identifier (TLID) value.",
+	"notes": "The TIGER/Line shapefiles and related database files (.dbf) are an extract of selected geographic and cartographic information from the U.S. Census Bureau's Master Address File / Topologically Integrated Geographic Encoding and Referencing (MAF/TIGER) Database (MTDB). The MTDB represents a seamless national file with no overlaps or gaps between parts, however, each TIGER/Line shapefile is designed to stand alone as an independent data set, or they can be combined to cover the entire nation. Edge refers to the linear topological primitives that make up MTDB. The All Lines Shapefile contains linear features such as roads, railroads, and hydrography. Additional attribute data associated with the linear features found in the All Lines Shapefile are available in relationship (.dbf) files that users must download separately. The All Lines Shapefile contains the geometry and attributes of each topological primitive edge. Each edge has a unique TIGER/Line identifier (TLID) value.",
 	"license_title": null,
 	"extras": [{
 		"key": "bbox-east-long",
@@ -229,7 +229,7 @@
 	},
 	{
 		"key": "spatial",
-		"value": "{\"type\": \"Polygon\", \"coordinates\": [[[-104.5, 45.5], [-96.5, 45.5], [-96.5, 49.5], [-104.5, 49.5], [-104.5, 45.5]]]}"
+		"value": "{"type": "Polygon", "coordinates": [[[-104.5, 45.5], [-96.5, 45.5], [-96.5, 49.5], [-104.5, 49.5], [-104.5, 45.5]]]}"
 	},
 	{
 		"key": "progress",
@@ -237,7 +237,7 @@
 	},
 	{
 		"key": "access_constraints",
-		"value": "[\"The TIGER\/Line Shapefile products are not copyrighted however TIGER\/Line and Census TIGER are registered trademarks of the U.S. Census Bureau. These products are free to use in a product or publication, however acknowledgement must be given to the U.S. Census Bureau as the source. The horizontal spatial accuracy information present in these files is provided for the purposes of statistical analysis and census operations only. No warranty, expressed or implied is made with regard to the accuracy of the spatial accuracy, and no liability is assumed by the U.S. Government in general or the U.S. Census Bureau, specifically as to the spatial or attribute accuracy of the data. The TIGER\/Line Shapefiles may not be suitable for high-precision measurement applications such as engineering problems, property transfers, or other uses that might require highly accurate measurements of the earth's surface.Coordinates in the TIGER\/Line shapefiles have six implied decimal places, but the positional accuracy of these coordinates is not as great as the six decimal places suggest.\", \"No warranty, expressed or implied is made with regard to the accuracy of these data, and no liability is assumed by the U.S. Government in general or the U.S. Census Bureau in specific as to the spatial or attribute accuracy of the data. The act of distribution shall not constitute any such warranty and no responsibility is assumed by the U.S. government in the use of these files. The boundary information in the TIGER\/Line Shapefiles is for statistical data collection and tabulation purposes only; their depiction and designation for statistical purposes do not constitute a determination of jurisdictional authority or rights of ownership or entitlement and they are not legal land descriptions.\", \"The State of North Dakota has compiled this data according to conventional cartographic standards, using what is thought to be the most reliable information available. This data is intended to make results of research available at the earliest possible date, but is not intended to constitute final or formal publication. The State of North Dakota makes every effort to provide virus-free files but does not guarantee uncorrupted files. The State of North Dakota does not guarantee this data to be free from errors, inaccuracies, or viruses, and disclaims any responsibility or liability for interpretations or decisions based on this data.\"]"
+		"value": "["The TIGER/Line Shapefile products are not copyrighted however TIGER/Line and Census TIGER are registered trademarks of the U.S. Census Bureau. These products are free to use in a product or publication, however acknowledgement must be given to the U.S. Census Bureau as the source. The horizontal spatial accuracy information present in these files is provided for the purposes of statistical analysis and census operations only. No warranty, expressed or implied is made with regard to the accuracy of the spatial accuracy, and no liability is assumed by the U.S. Government in general or the U.S. Census Bureau, specifically as to the spatial or attribute accuracy of the data. The TIGER/Line Shapefiles may not be suitable for high-precision measurement applications such as engineering problems, property transfers, or other uses that might require highly accurate measurements of the earth's surface.Coordinates in the TIGER/Line shapefiles have six implied decimal places, but the positional accuracy of these coordinates is not as great as the six decimal places suggest.", "No warranty, expressed or implied is made with regard to the accuracy of these data, and no liability is assumed by the U.S. Government in general or the U.S. Census Bureau in specific as to the spatial or attribute accuracy of the data. The act of distribution shall not constitute any such warranty and no responsibility is assumed by the U.S. government in the use of these files. The boundary information in the TIGER/Line Shapefiles is for statistical data collection and tabulation purposes only; their depiction and designation for statistical purposes do not constitute a determination of jurisdictional authority or rights of ownership or entitlement and they are not legal land descriptions.", "The State of North Dakota has compiled this data according to conventional cartographic standards, using what is thought to be the most reliable information available. This data is intended to make results of research available at the earliest possible date, but is not intended to constitute final or formal publication. The State of North Dakota makes every effort to provide virus-free files but does not guarantee uncorrupted files. The State of North Dakota does not guarantee this data to be free from errors, inaccuracies, or viruses, and disclaims any responsibility or liability for interpretations or decisions based on this data."]"
 	},
 	{
 		"key": "contact-email",
@@ -253,7 +253,7 @@
 	},
 	{
 		"key": "dataset-reference-date",
-		"value": "[{\"type\": \"publication\", \"value\": \"2015-08-19\"}]"
+		"value": "[{"type": "publication", "value": "2015-08-19"}]"
 	},
 	{
 		"key": "graphic-preview-description",
@@ -273,7 +273,7 @@
 	},
 	{
 		"key": "responsible-party",
-		"value": "[{\"name\": \"U.S. Department of Commerce, U.S. Census Bureau, Geography Division, Geographic Products Branch\", \"roles\": [\"pointOfContact\"]}]"
+		"value": "[{"name": "U.S. Department of Commerce, U.S. Census Bureau, Geography Division, Geographic Products Branch", "roles": ["pointOfContact"]}]"
 	},
 	{
 		"key": "spatial-data-service-type",
@@ -308,14 +308,14 @@
 		"value": "North Dakota GIS Hub Data Portal"
 	}],
 	"organization": {
-		"description": "The GIS Hub is the state source for GIS - data, services, and information.  More information can be found at www.nd.gov\/gis.",
+		"description": "The GIS Hub is the state source for GIS - data, services, and information.  More information can be found at www.nd.gov/gis.",
 		"created": "2013-03-14T03:44:44.340717",
 		"title": "State of North Dakota",
 		"name": "nd-gov",
 		"revision_timestamp": "2013-07-15T16:27:30.098476",
 		"is_organization": true,
 		"state": "active",
-		"image_url": "http:\/\/www.nd.gov\/gis\/images\/ndgis-logo.gif",
+		"image_url": "http://www.nd.gov/gis/images/ndgis-logo.gif",
 		"revision_id": "27517bb9-815c-4d4f-b45b-b88b6316697b",
 		"type": "organization",
 		"id": "1c782de6-9f1f-4427-93fd-33732e29970f",

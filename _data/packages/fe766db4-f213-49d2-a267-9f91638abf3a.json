@@ -37,7 +37,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2016-11-22T11:35:15.832197",
-		"url": "http:\/\/www.mrlc.gov",
+		"url": "http://www.mrlc.gov",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 0,
@@ -67,7 +67,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2016-11-22T11:35:15.832232",
-		"url": "http:\/\/thor-f5.er.usgs.gov\/ngtoc\/metadata\/waf\/eros_ngda\/tree_canopy\/",
+		"url": "http://thor-f5.er.usgs.gov/ngtoc/metadata/waf/eros_ngda/tree_canopy/",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 1,
@@ -97,7 +97,7 @@
 		"cache_url": null,
 		"name": "Esri Rest API Endpoint",
 		"created": "2016-11-22T11:35:15.832244",
-		"url": "https:\/\/raster.nationalmap.gov\/arcgis\/rest\/services\/LandCover\/USGS_EROS_LandCover_NLCD\/MapServer",
+		"url": "https://raster.nationalmap.gov/arcgis/rest/services/LandCover/USGS_EROS_LandCover_NLCD/MapServer",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 2,
@@ -130,7 +130,7 @@
 	"name": "national-land-cover-database-nlcd-percent-tree-canopy-collection",
 	"isopen": false,
 	"url": null,
-	"notes": "The National Land Cover Database (NLCD) Percent Tree Canopy Collection is a product of the U.S. Forest Service (USFS), and is produced through a cooperative project conducted by the Multi-Resolution Land Characteristics (MRLC) Consortium (www.mrlc.gov). The MRLC Consortium is a partnership of Federal agencies, consisting of the U.S. Geological Survey, the National Oceanic and Atmospheric Administration, the U.S. Environmental Protection Agency, the U.S. Department of Agriculture (USDA) National Agricultural Statistics Service, the U.S. Forest Service, the National Park Service, the U.S. Fish and Wildlife Service, the Bureau of Land Management, NASA, and the U.S. Army Corps of Engineers. A primary goal of the MRLC Consortium is to generate current, consistent, and seamless national datasets of land cover, percent developed imperviousness, and percent tree canopy. NLCD 2001 Percent Tree Canopy was developed in three key steps: 1. Reference data of tree canopy density was derived from the high spatial resolution images. 2. Density prediction models were calibrated using reference data and Landsat spectral bands. 3. The models developed in step 2 were extrapolated spatially to map per-pixel tree canopy density. This method is described in detail in Huang et al. (2001). NLCD 2011 Percent Tree Canopy \u00e2\u0080\u0093 Cartographic is the cartographic version of the NLCD 2011 Percent Tree Canopy \u00e2\u0080\u0093 Analytical dataset for the 48 conterminous states. It was produced by the USDA Forest Service Remote Sensing Applications Center (RSAC). Tree canopy values range from 0 to 100 percent. The analytic tree canopy layer was produced using a Random Forests\u00e2\u0084\u00a2 regression algorithm. The cartographic product is a filtered version of the regression algorithm output. Questions about the NLCD Percent Tree Canopy Collection can be directed to the NLCD land cover mapping team at USGS EROS, Sioux Falls, SD (605) 594-6151 or mrlc@usgs.gov.",
+	"notes": "The National Land Cover Database (NLCD) Percent Tree Canopy Collection is a product of the U.S. Forest Service (USFS), and is produced through a cooperative project conducted by the Multi-Resolution Land Characteristics (MRLC) Consortium (www.mrlc.gov). The MRLC Consortium is a partnership of Federal agencies, consisting of the U.S. Geological Survey, the National Oceanic and Atmospheric Administration, the U.S. Environmental Protection Agency, the U.S. Department of Agriculture (USDA) National Agricultural Statistics Service, the U.S. Forest Service, the National Park Service, the U.S. Fish and Wildlife Service, the Bureau of Land Management, NASA, and the U.S. Army Corps of Engineers. A primary goal of the MRLC Consortium is to generate current, consistent, and seamless national datasets of land cover, percent developed imperviousness, and percent tree canopy. NLCD 2001 Percent Tree Canopy was developed in three key steps: 1. Reference data of tree canopy density was derived from the high spatial resolution images. 2. Density prediction models were calibrated using reference data and Landsat spectral bands. 3. The models developed in step 2 were extrapolated spatially to map per-pixel tree canopy density. This method is described in detail in Huang et al. (2001). NLCD 2011 Percent Tree Canopy u00e2u0080u0093 Cartographic is the cartographic version of the NLCD 2011 Percent Tree Canopy u00e2u0080u0093 Analytical dataset for the 48 conterminous states. It was produced by the USDA Forest Service Remote Sensing Applications Center (RSAC). Tree canopy values range from 0 to 100 percent. The analytic tree canopy layer was produced using a Random Forestsu00e2u0084u00a2 regression algorithm. The cartographic product is a filtered version of the regression algorithm output. Questions about the NLCD Percent Tree Canopy Collection can be directed to the NLCD land cover mapping team at USGS EROS, Sioux Falls, SD (605) 594-6151 or mrlc@usgs.gov.",
 	"license_title": null,
 	"extras": [{
 		"key": "bbox-east-long",
@@ -162,7 +162,7 @@
 	},
 	{
 		"key": "graphic-preview-file",
-		"value": "http:\/\/thor-f5.er.usgs.gov\/ngtoc\/metadata\/waf\/collections\/NLCD_2011_Tree_Canopy.jpg"
+		"value": "http://thor-f5.er.usgs.gov/ngtoc/metadata/waf/collections/NLCD_2011_Tree_Canopy.jpg"
 	},
 	{
 		"key": "metadata-language",
@@ -178,7 +178,7 @@
 	},
 	{
 		"key": "spatial",
-		"value": "{\"type\": \"Polygon\", \"coordinates\": [[[-179.1666667, 17.625], [-65.0, 17.625], [-65.0, 71.5], [-179.1666667, 71.5], [-179.1666667, 17.625]]]}"
+		"value": "{"type": "Polygon", "coordinates": [[[-179.1666667, 17.625], [-65.0, 17.625], [-65.0, 71.5], [-179.1666667, 71.5], [-179.1666667, 17.625]]]}"
 	},
 	{
 		"key": "progress",
@@ -186,7 +186,7 @@
 	},
 	{
 		"key": "access_constraints",
-		"value": "[\"Use Constraints: Any hardcopy or electronic products utilizing these datasets will clearly indicate their source. If the user has modified the data in any way, they are obligated to describe the types of modifications they have performed. User specifically agrees not to misrepresent these data sets, nor to imply that the MRLC approved the changes. Any data downloaded must be properly cited.\", \"Access Constraints: None\"]"
+		"value": "["Use Constraints: Any hardcopy or electronic products utilizing these datasets will clearly indicate their source. If the user has modified the data in any way, they are obligated to describe the types of modifications they have performed. User specifically agrees not to misrepresent these data sets, nor to imply that the MRLC approved the changes. Any data downloaded must be properly cited.", "Access Constraints: None"]"
 	},
 	{
 		"key": "temporal-extent-begin",
@@ -206,11 +206,11 @@
 	},
 	{
 		"key": "dataset-reference-date",
-		"value": "[{\"type\": \"publication\", \"value\": \"2015-01-01\"}]"
+		"value": "[{"type": "publication", "value": "2015-01-01"}]"
 	},
 	{
 		"key": "__category_tag_3b2f2e70-3e81-4aa7-8305-a534cd6af6c8",
-		"value": "[\"Land Cover and Land Use\"]"
+		"value": "["Land Cover and Land Use"]"
 	},
 	{
 		"key": "graphic-preview-description",
@@ -222,7 +222,7 @@
 	},
 	{
 		"key": "licence",
-		"value": "[\"See access and use constraints information.\"]"
+		"value": "["See access and use constraints information."]"
 	},
 	{
 		"key": "metadata_type",
@@ -230,7 +230,7 @@
 	},
 	{
 		"key": "responsible-party",
-		"value": "[{\"name\": \"U.S. Geological Survey\", \"roles\": [\"pointOfContact\"]}]"
+		"value": "[{"name": "U.S. Geological Survey", "roles": ["pointOfContact"]}]"
 	},
 	{
 		"key": "temporal-extent-end",
@@ -269,14 +269,14 @@
 		"value": "EROS NLCD NGDA Tree Canopy"
 	}],
 	"organization": {
-		"description": "http:\/\/www.usgs.gov\/\r\nThe USGS is a federal science agency that provides impartial information on the health of our ecosystems and environment, the natural hazards that threaten us, the natural resources we rely on, the impacts of climate and land-use change, and the core science systems that help us provide timely, relevant, and useable information.",
+		"description": "http://www.usgs.gov/rnThe USGS is a federal science agency that provides impartial information on the health of our ecosystems and environment, the natural hazards that threaten us, the natural resources we rely on, the impacts of climate and land-use change, and the core science systems that help us provide timely, relevant, and useable information.",
 		"created": "2013-03-14T03:44:38.263357",
 		"title": "U.S. Geological Survey, Department of the Interior",
 		"name": "usgs-gov",
 		"revision_timestamp": "2014-09-02T13:43:52.167023",
 		"is_organization": true,
 		"state": "active",
-		"image_url": "http:\/\/pubs.usgs.gov\/sir\/2004\/5296\/04-5296_confluence_park\/usgs_logo.gif",
+		"image_url": "http://pubs.usgs.gov/sir/2004/5296/04-5296_confluence_park/usgs_logo.gif",
 		"revision_id": "2858aa99-9501-4f96-82e5-9647b968ed66",
 		"type": "organization",
 		"id": "bd2cdd5a-4d65-46c0-9937-c8381175f104",

@@ -37,7 +37,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2014-10-30T13:15:31.879270",
-		"url": "http:\/\/www2.census.gov\/geo\/tiger\/TIGER2014\/FEATNAMES",
+		"url": "http://www2.census.gov/geo/tiger/TIGER2014/FEATNAMES",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 0,
@@ -46,7 +46,7 @@
 	}],
 	"num_resources": 1,
 	"tags": [],
-	"title": "TIGER\/Line\n                     Shapefile, 2014, Series Information File for the Feature Names County-based Relationship Files",
+	"title": "TIGER/Linen                     Shapefile, 2014, Series Information File for the Feature Names County-based Relationship Files",
 	"tracking_summary": {
 		"total": 44,
 		"recent": 0
@@ -57,7 +57,7 @@
 	"name": "tiger-line-shapefile-2014-series-information-file-for-the-feature-names-county-based-",
 	"isopen": false,
 	"url": null,
-	"notes": " The Feature Names Relationship File\n               (FEATNAMES.dbf) contains a record for each feature name and any attributes associated\n               with it. Each feature name can be linked to the corresponding edges that make up that\n               feature in the All Lines Shapefile (EDGES.shp), where applicable to the corresponding\n               address range or ranges in the Address Ranges Relationship File (ADDR.dbf), or to\n               both files. Although this file includes feature names for all linear features, not\n               just road features, the primary purpose of this relationship file is to identify all\n               street names associated with each address range. An edge can have several feature\n               names; an address range located on an edge can be associated with one or any\n               combination of the available feature names (an address range can be linked to\n               multiple feature names). The address range is identified by the address range\n               identifier (ARID) attribute, which can be used to link to the Address Ranges\n               Relationship File (ADDR.dbf). The linear feature is identified by the linear feature\n               identifier (LINEARID) attribute, which can be used to relate the address range back\n               to the name attributes of the feature in the Feature Names Relationship File or to\n               the feature record in the Primary Roads, Primary and Secondary Roads, or All Roads\n               Shapefiles. The edge to which a feature name applies can be determined by linking the\n               feature name record to the All Lines Shapefile (EDGES.shp) using the permanent edge\n               identifier (TLID) attribute. The address range identifier(s) (ARID) for a specific\n               linear feature can be found by using the linear feature identifier (LINEARID) from\n               the Feature Names Relationship File (FEATNAMES.dbf) through the Address Range \/\n               Feature Name Relationship File (ADDRFN.dbf). ",
+	"notes": " The Feature Names Relationship Filen               (FEATNAMES.dbf) contains a record for each feature name and any attributes associatedn               with it. Each feature name can be linked to the corresponding edges that make up thatn               feature in the All Lines Shapefile (EDGES.shp), where applicable to the correspondingn               address range or ranges in the Address Ranges Relationship File (ADDR.dbf), or ton               both files. Although this file includes feature names for all linear features, notn               just road features, the primary purpose of this relationship file is to identify alln               street names associated with each address range. An edge can have several featuren               names; an address range located on an edge can be associated with one or anyn               combination of the available feature names (an address range can be linked ton               multiple feature names). The address range is identified by the address rangen               identifier (ARID) attribute, which can be used to link to the Address Rangesn               Relationship File (ADDR.dbf). The linear feature is identified by the linear featuren               identifier (LINEARID) attribute, which can be used to relate the address range backn               to the name attributes of the feature in the Feature Names Relationship File or ton               the feature record in the Primary Roads, Primary and Secondary Roads, or All Roadsn               Shapefiles. The edge to which a feature name applies can be determined by linking then               feature name record to the All Lines Shapefile (EDGES.shp) using the permanent edgen               identifier (TLID) attribute. The address range identifier(s) (ARID) for a specificn               linear feature can be found by using the linear feature identifier (LINEARID) fromn               the Feature Names Relationship File (FEATNAMES.dbf) through the Address Range /n               Feature Name Relationship File (ADDRFN.dbf). ",
 	"license_title": null,
 	"extras": [{
 		"key": "bbox-east-long",
@@ -97,7 +97,7 @@
 	},
 	{
 		"key": "spatial",
-		"value": "{\"type\": \"Polygon\", \"coordinates\": [[[-179.231086, -14.601813], [179.859681, -14.601813], [179.859681, 71.441059], [-179.231086, 71.441059], [-179.231086, -14.601813]]]}"
+		"value": "{"type": "Polygon", "coordinates": [[[-179.231086, -14.601813], [179.859681, -14.601813], [179.859681, 71.441059], [-179.231086, 71.441059], [-179.231086, -14.601813]]]}"
 	},
 	{
 		"key": "progress",
@@ -105,7 +105,7 @@
 	},
 	{
 		"key": "access_constraints",
-		"value": "[\"Access\\n                     Constraints: None\", \"Use Constraints:\\n                     The TIGER\/Line Shapefile products are not copyrighted however TIGER\/Line and\\n                     Census TIGER are registered trademarks of the U.S. Census Bureau. These\\n                     products are free to use in a product or publication, however acknowledgment\\n                     must be given to the U.S. Census Bureau as the source.\", \"Distribution\\n                     Liability: No warranty, expressed or implied is made with regard to the\\n                     accuracy of these data, and no liability is assumed by the U.S. Government in\\n                     general or the U.S. Census Bureau in specific as to the spatial or attribute\\n                     accuracy of the data. The act of distribution shall not constitute any such\\n                     warranty and no responsibility is assumed by the U.S. government in the use of\\n                     these files. The boundary information in the TIGER\/Line Shapefiles is for\\n                     statistical data collection and tabulation purposes only; their depiction and\\n                     designation for statistical purposes do not constitute a determination of\\n                     jurisdictional authority or rights of ownership or entitlement and they are not\\n                     legal land descriptions.\"]"
+		"value": "["Access\n                     Constraints: None", "Use Constraints:\n                     The TIGER/Line Shapefile products are not copyrighted however TIGER/Line and\n                     Census TIGER are registered trademarks of the U.S. Census Bureau. These\n                     products are free to use in a product or publication, however acknowledgment\n                     must be given to the U.S. Census Bureau as the source.", "Distribution\n                     Liability: No warranty, expressed or implied is made with regard to the\n                     accuracy of these data, and no liability is assumed by the U.S. Government in\n                     general or the U.S. Census Bureau in specific as to the spatial or attribute\n                     accuracy of the data. The act of distribution shall not constitute any such\n                     warranty and no responsibility is assumed by the U.S. government in the use of\n                     these files. The boundary information in the TIGER/Line Shapefiles is for\n                     statistical data collection and tabulation purposes only; their depiction and\n                     designation for statistical purposes do not constitute a determination of\n                     jurisdictional authority or rights of ownership or entitlement and they are not\n                     legal land descriptions."]"
 	},
 	{
 		"key": "temporal-extent-begin",
@@ -125,7 +125,7 @@
 	},
 	{
 		"key": "dataset-reference-date",
-		"value": "[{\"type\": \"publication\", \"value\": \"2014\"}]"
+		"value": "[{"type": "publication", "value": "2014"}]"
 	},
 	{
 		"key": "frequency-of-update",
@@ -183,7 +183,7 @@
 		"revision_timestamp": "2013-08-29T13:37:04.171127",
 		"is_organization": true,
 		"state": "active",
-		"image_url": "http:\/\/www.census.gov\/main\/img\/home\/CensusLogo-white.png",
+		"image_url": "http://www.census.gov/main/img/home/CensusLogo-white.png",
 		"revision_id": "0995f525-d563-4254-a535-af5b926fe663",
 		"type": "organization",
 		"id": "31c49abe-512a-412a-9cc7-5b2601325d6b",

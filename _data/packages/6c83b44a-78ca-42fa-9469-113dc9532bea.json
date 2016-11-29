@@ -37,7 +37,7 @@
 		"cache_url": null,
 		"name": "Esri Rest API Endpoint",
 		"created": "2015-09-26T15:52:33.520675",
-		"url": "http:\/\/seamlessrnc.nauticalcharts.noaa.gov\/ArcGIS\/rest\/services\/RNC\/",
+		"url": "http://seamlessrnc.nauticalcharts.noaa.gov/ArcGIS/rest/services/RNC/",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 0,
@@ -67,7 +67,7 @@
 		"cache_url": null,
 		"name": "Esri Rest API Endpoint",
 		"created": "2015-09-26T15:52:33.520723",
-		"url": "http:\/\/seamlessrnc.nauticalcharts.noaa.gov\/arcgis\/rest\/services\/RNC\/NOAA_RNC_Footprints\/MapServer",
+		"url": "http://seamlessrnc.nauticalcharts.noaa.gov/arcgis/rest/services/RNC/NOAA_RNC_Footprints/MapServer",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 1,
@@ -97,7 +97,7 @@
 		"cache_url": null,
 		"name": "Esri Rest API Endpoint",
 		"created": "2015-09-26T15:52:33.520741",
-		"url": "http:\/\/seamlessrnc.nauticalcharts.noaa.gov\/arcgis\/rest\/services\/RNC\/NOAA_RNC\/ImageServer",
+		"url": "http://seamlessrnc.nauticalcharts.noaa.gov/arcgis/rest/services/RNC/NOAA_RNC/ImageServer",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 2,
@@ -127,7 +127,7 @@
 		"cache_url": null,
 		"name": "Esri Rest API Endpoint",
 		"created": "2015-09-26T15:52:33.520780",
-		"url": "http:\/\/seamlessrnc.nauticalcharts.noaa.gov\/arcgis\/rest\/services\/RNC\/NOAA_RNC\/MapServer",
+		"url": "http://seamlessrnc.nauticalcharts.noaa.gov/arcgis/rest/services/RNC/NOAA_RNC/MapServer",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 3,
@@ -147,7 +147,7 @@
 	"name": "noaa-seamless-raster-navigational-charts-rnc",
 	"isopen": false,
 	"url": null,
-	"notes": "The NOAA Seamless Raster Chart Server provides a seamless collarless mosaic of the NOAA Raster Navigational Charts (RNC). The RNC are a collection of approximately 2,100 charts and inset maps at varying scales and resolutions. Full information on the NOAA RNCs can be found here: http:\/\/www.nauticalcharts.noaa.gov\/mcd\/Raster\/. The Seamless Raster Chart Server integrates all charts in a single map service and clips the charts to the extent of the chart, removing the map collar. The set of charts displayed automatically change based on the viewer's scale to provide the most useful chart scale within the view. The charts in the Seamless Raster Chart Server are updated once every month at the beginning of the month to provide the latest Notice to Mariners updates.",
+	"notes": "The NOAA Seamless Raster Chart Server provides a seamless collarless mosaic of the NOAA Raster Navigational Charts (RNC). The RNC are a collection of approximately 2,100 charts and inset maps at varying scales and resolutions. Full information on the NOAA RNCs can be found here: http://www.nauticalcharts.noaa.gov/mcd/Raster/. The Seamless Raster Chart Server integrates all charts in a single map service and clips the charts to the extent of the chart, removing the map collar. The set of charts displayed automatically change based on the viewer's scale to provide the most useful chart scale within the view. The charts in the Seamless Raster Chart Server are updated once every month at the beginning of the month to provide the latest Notice to Mariners updates.",
 	"license_title": null,
 	"extras": [{
 		"key": "bbox-east-long",
@@ -183,7 +183,7 @@
 	},
 	{
 		"key": "spatial",
-		"value": "{\"type\": \"Polygon\", \"coordinates\": [[[-180.0, 14.4], [180.0, 14.4], [180.0, 81.9], [-180.0, 81.9], [-180.0, 14.4]]]}"
+		"value": "{"type": "Polygon", "coordinates": [[[-180.0, 14.4], [180.0, 14.4], [180.0, 81.9], [-180.0, 81.9], [-180.0, 14.4]]]}"
 	},
 	{
 		"key": "progress",
@@ -191,7 +191,7 @@
 	},
 	{
 		"key": "access_constraints",
-		"value": "[\"Use Constraints: Not to be used for navigation.\", \"Access Constraints: None\"]"
+		"value": "["Use Constraints: Not to be used for navigation.", "Access Constraints: None"]"
 	},
 	{
 		"key": "temporal-extent-begin",
@@ -211,7 +211,7 @@
 	},
 	{
 		"key": "dataset-reference-date",
-		"value": "[{\"type\": \"publication\", \"value\": \"2011-01-01\"}]"
+		"value": "[{"type": "publication", "value": "2011-01-01"}]"
 	},
 	{
 		"key": "frequency-of-update",
@@ -219,7 +219,7 @@
 	},
 	{
 		"key": "licence",
-		"value": "[\"None\"]"
+		"value": "["None"]"
 	},
 	{
 		"key": "metadata_type",
@@ -227,7 +227,7 @@
 	},
 	{
 		"key": "responsible-party",
-		"value": "[{\"name\": \"National Oceanic and Atmospheric Administration (NOAA), National Ocean Service (NOS), Office of Coast Survey (OCS)\", \"roles\": [\"pointOfContact\"]}]"
+		"value": "[{"name": "National Oceanic and Atmospheric Administration (NOAA), National Ocean Service (NOS), Office of Coast Survey (OCS)", "roles": ["pointOfContact"]}]"
 	},
 	{
 		"key": "spatial-data-service-type",
@@ -269,7 +269,7 @@
 		"revision_timestamp": "2013-03-25T23:05:12.923863",
 		"is_organization": true,
 		"state": "active",
-		"image_url": "https:\/\/fortress.wa.gov\/dfw\/score\/score\/images\/noaa_logo.png",
+		"image_url": "https://fortress.wa.gov/dfw/score/score/images/noaa_logo.png",
 		"revision_id": "c6d43080-22e1-405e-a83d-f2a512d9e867",
 		"type": "organization",
 		"id": "e811f0b4-451f-4896-9e8f-fc6802837819",

@@ -30,11 +30,11 @@
 			"recent": 1
 		},
 		"mimetype_inner": null,
-		"mimetype": "application\/pdf",
+		"mimetype": "application/pdf",
 		"cache_url": null,
 		"name": "Paper 6 .pdf",
 		"created": "2016-02-26T17:02:08.102629",
-		"url": "https:\/\/c3.nasa.gov\/dashlink\/static\/media\/publication\/Paper_6_.pdf",
+		"url": "https://c3.nasa.gov/dashlink/static/media/publication/Paper_6_.pdf",
 		"webstore_url": null,
 		"last_modified": null,
 		"position": 0,
@@ -77,7 +77,7 @@
 	"name": "scalable-time-series-change-detection-for-biomass-monitoring-using-gaussian-process",
 	"isopen": true,
 	"url": null,
-	"notes": "SCALABLE TIME SERIES CHANGE DETECTION FOR BIOMASS\r\nMONITORING USING GAUSSIAN PROCESS\r\n\r\nVARUN CHANDOLA* AND RANGA RAJU VATSAVAI*\r\n\r\nAbstract. Biomass monitoring, specifically, detecting changes in the biomass or vegetation of\r\na geographical region, is vital for studying the carbon cycle of the system and has significant\r\nimplications in the context of understanding climate change and its impacts. Recently, several time\r\nseries change detection methods have been proposed to identify land cover changes in temporal\r\nprofiles (time series) of vegetation collected using remote sensing instruments. In this paper, we\r\nadapt Gaussian process regression to detect changes in such time series in an online fashion. While\r\nGaussian process (GP) has been widely used as a kernel based learning method for regression and\r\nclassification, their applicability to massive spatio-temporal data sets, such as remote sensing data,\r\nhas been limited owing to the high computational costs involved. In our previous work we proposed\r\nan efficient Toeplitz matrix based solution for scalable GP parameter estimation. In this paper we\r\napply these solutions to a GP based change detection algorithm. The proposed change detection\r\nalgorithm requires a memory footprint which is linear in the length of the input time series and\r\nruns in time which is quadratic to the length of the input time series. Experimental results show\r\nthat both serial and parallel implementations of our proposed method achieve significant speedups\r\nover the serial implementation. Finally, we demonstrate the effectiveness of the proposed change\r\ndetection method in identifying changes in Normalized Difference Vegetation Index (NDVI) data.",
+	"notes": "SCALABLE TIME SERIES CHANGE DETECTION FOR BIOMASSrnMONITORING USING GAUSSIAN PROCESSrnrnVARUN CHANDOLA* AND RANGA RAJU VATSAVAI*rnrnAbstract. Biomass monitoring, specifically, detecting changes in the biomass or vegetation ofrna geographical region, is vital for studying the carbon cycle of the system and has significantrnimplications in the context of understanding climate change and its impacts. Recently, several timernseries change detection methods have been proposed to identify land cover changes in temporalrnprofiles (time series) of vegetation collected using remote sensing instruments. In this paper, wernadapt Gaussian process regression to detect changes in such time series in an online fashion. WhilernGaussian process (GP) has been widely used as a kernel based learning method for regression andrnclassification, their applicability to massive spatio-temporal data sets, such as remote sensing data,rnhas been limited owing to the high computational costs involved. In our previous work we proposedrnan efficient Toeplitz matrix based solution for scalable GP parameter estimation. In this paper wernapply these solutions to a GP based change detection algorithm. The proposed change detectionrnalgorithm requires a memory footprint which is linear in the length of the input time series andrnruns in time which is quadratic to the length of the input time series. Experimental results showrnthat both serial and parallel implementations of our proposed method achieve significant speedupsrnover the serial implementation. Finally, we demonstrate the effectiveness of the proposed changerndetection method in identifying changes in Normalized Difference Vegetation Index (NDVI) data.",
 	"license_title": "U.S. Government Work",
 	"extras": [{
 		"key": "harvest_source_id",
@@ -101,15 +101,15 @@
 	},
 	{
 		"key": "catalog_conformsTo",
-		"value": "https:\/\/project-open-data.cio.gov\/v1.1\/schema"
+		"value": "https://project-open-data.cio.gov/v1.1/schema"
 	},
 	{
 		"key": "catalog_@context",
-		"value": "https:\/\/project-open-data.cio.gov\/v1.1\/schema\/catalog.jsonld"
+		"value": "https://project-open-data.cio.gov/v1.1/schema/catalog.jsonld"
 	},
 	{
 		"key": "catalog_describedBy",
-		"value": "https:\/\/project-open-data.cio.gov\/v1.1\/schema\/catalog.json"
+		"value": "https://project-open-data.cio.gov/v1.1/schema/catalog.json"
 	},
 	{
 		"key": "harvest_source_title",
@@ -129,7 +129,7 @@
 	},
 	{
 		"key": "landingPage",
-		"value": "https:\/\/c3.nasa.gov\/dashlink\/resources\/228\/"
+		"value": "https://c3.nasa.gov/dashlink/resources/228/"
 	},
 	{
 		"key": "harvest_object_id",
@@ -147,7 +147,7 @@
 	},
 	{
 		"key": "license",
-		"value": "http:\/\/www.usa.gov\/publicdomain\/label\/1.0\/"
+		"value": "http://www.usa.gov/publicdomain/label/1.0/"
 	},
 	{
 		"key": "language",
@@ -188,16 +188,16 @@
 		"key": "harvest_source_title",
 		"value": "NASA Data.json"
 	}],
-	"license_url": "http:\/\/www.usa.gov\/publicdomain\/label\/1.0\/",
+	"license_url": "http://www.usa.gov/publicdomain/label/1.0/",
 	"organization": {
-		"description": "NASA's vision: To reach for new heights and reveal the unknown so that what we do and learn will benefit all humankind.\r\n\r\nTo do that, thousands of people have been working around the world -- and off of it -- for 50 years, trying to answer some basic questions. What's out there in space? How do we get there? What will we find? What can we learn there, or learn just by trying to get there, that will make life better here on Earth?\r\n\r\nNASA conducts its work in four principal organizations, called mission directorates:\r\n \r\nAeronautics: works to solve the challenges that still exist in our nation's air transportation system: air traffic congestion, safety and environmental impacts.\r\n\r\nHuman Exploration and Operations: focuses on International Space Station operations, development of commercial spaceflight opportunities and human exploration beyond low Earth orbit.\r\n\r\nScience: explores the Earth, solar system and universe beyond; charts the best route of discovery; and reaps the benefits of Earth and space exploration for society.\r\n\r\nSpace Technology: rapidly develops, demonstrates, and infuses revolutionary, high-payoff technologies, expanding the boundaries of the aerospace enterprise.\r\n\r\nIn the early 21st century, NASA's reach spans the universe. The Mars rover Curiosity is still exploring Mars to see if it might once have had environments suitable for life. Cassini is in orbit around Saturn, as Juno makes its way to Jupiter. The restored Hubble Space Telescope continues to explore the deepest reaches of the cosmos as NASA developes the James Webb Space Telescope.\r\n\r\nCloser to home, the latest crew of the International Space Station is extending the permanent human presence in space. With commercial partners such as SpaceX, NASA is helping to foster the development of private-sector aerospace.\r\n\r\nEarth science satellites are sending back unprecedented data on Earth's oceans, climate and other features. NASA's aeronautics team is working with other government organizations, universities, and industry to fundamentally improve the air transportation experience and retain our nation's leadership in global aviation.",
+		"description": "NASA's vision: To reach for new heights and reveal the unknown so that what we do and learn will benefit all humankind.rnrnTo do that, thousands of people have been working around the world -- and off of it -- for 50 years, trying to answer some basic questions. What's out there in space? How do we get there? What will we find? What can we learn there, or learn just by trying to get there, that will make life better here on Earth?rnrnNASA conducts its work in four principal organizations, called mission directorates:rn rnAeronautics: works to solve the challenges that still exist in our nation's air transportation system: air traffic congestion, safety and environmental impacts.rnrnHuman Exploration and Operations: focuses on International Space Station operations, development of commercial spaceflight opportunities and human exploration beyond low Earth orbit.rnrnScience: explores the Earth, solar system and universe beyond; charts the best route of discovery; and reaps the benefits of Earth and space exploration for society.rnrnSpace Technology: rapidly develops, demonstrates, and infuses revolutionary, high-payoff technologies, expanding the boundaries of the aerospace enterprise.rnrnIn the early 21st century, NASA's reach spans the universe. The Mars rover Curiosity is still exploring Mars to see if it might once have had environments suitable for life. Cassini is in orbit around Saturn, as Juno makes its way to Jupiter. The restored Hubble Space Telescope continues to explore the deepest reaches of the cosmos as NASA developes the James Webb Space Telescope.rnrnCloser to home, the latest crew of the International Space Station is extending the permanent human presence in space. With commercial partners such as SpaceX, NASA is helping to foster the development of private-sector aerospace.rnrnEarth science satellites are sending back unprecedented data on Earth's oceans, climate and other features. NASA's aeronautics team is working with other government organizations, universities, and industry to fundamentally improve the air transportation experience and retain our nation's leadership in global aviation.",
 		"created": "2013-03-14T03:44:44.467521",
 		"title": "National Aeronautics and Space Administration",
 		"name": "nasa-gov",
 		"revision_timestamp": "2013-08-20T16:04:52.563777",
 		"is_organization": true,
 		"state": "active",
-		"image_url": "http:\/\/polargateways2008.gsfc.nasa.gov\/images\/LOGO_2in\/NASA_2.jpg",
+		"image_url": "http://polargateways2008.gsfc.nasa.gov/images/LOGO_2in/NASA_2.jpg",
 		"revision_id": "7f05110b-681a-402c-a372-74500dc583dd",
 		"type": "organization",
 		"id": "d8a6202b-c0c3-463d-88a0-3bc021a178ed",

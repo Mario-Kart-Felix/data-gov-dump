@@ -37,7 +37,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2016-05-31T03:25:23.053769",
-		"url": "https:\/\/coast.noaa.gov\/",
+		"url": "https://coast.noaa.gov/",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 0,
@@ -59,7 +59,7 @@
 		"revision_timestamp": "2013-03-25T23:05:12.923863",
 		"is_organization": true,
 		"state": "active",
-		"image_url": "https:\/\/fortress.wa.gov\/dfw\/score\/score\/images\/noaa_logo.png",
+		"image_url": "https://fortress.wa.gov/dfw/score/score/images/noaa_logo.png",
 		"revision_id": "c6d43080-22e1-405e-a83d-f2a512d9e867",
 		"type": "organization",
 		"id": "e811f0b4-451f-4896-9e8f-fc6802837819",
@@ -70,7 +70,7 @@
 	"name": "benthic-cover-data-for-coastal-u-s",
 	"isopen": false,
 	"url": null,
-	"notes": "OCM plans to collect aerial imagery, acoustic backscatter, bathymetry, and sediment samples to support development of benthic habitat maps\/data. These data will be collected under specifications designed to facilitate deriving substrate character and biotic communities. Projects could take place anywhere within US coastal waters but will most likely take place in the Great Lakes and\/or on the West Coast.",
+	"notes": "OCM plans to collect aerial imagery, acoustic backscatter, bathymetry, and sediment samples to support development of benthic habitat maps/data. These data will be collected under specifications designed to facilitate deriving substrate character and biotic communities. Projects could take place anywhere within US coastal waters but will most likely take place in the Great Lakes and/or on the West Coast.",
 	"owner_org": "e811f0b4-451f-4896-9e8f-fc6802837819",
 	"extras": [{
 		"key": "bbox-east-long",
@@ -106,7 +106,7 @@
 	},
 	{
 		"key": "spatial",
-		"value": "{\"type\": \"Polygon\", \"coordinates\": [[[-125.0, 24.0], [-66.0, 24.0], [-66.0, 50.0], [-125.0, 50.0], [-125.0, 24.0]]]}"
+		"value": "{"type": "Polygon", "coordinates": [[[-125.0, 24.0], [-66.0, 24.0], [-66.0, 50.0], [-125.0, 50.0], [-125.0, 24.0]]]}"
 	},
 	{
 		"key": "progress",
@@ -114,7 +114,7 @@
 	},
 	{
 		"key": "access_constraints",
-		"value": "[\"Use Constraints: None\", \"Access Constraints: None\"]"
+		"value": "["Use Constraints: None", "Access Constraints: None"]"
 	},
 	{
 		"key": "temporal-extent-begin",
@@ -134,7 +134,7 @@
 	},
 	{
 		"key": "dataset-reference-date",
-		"value": "[{\"type\": \"publication\", \"value\": \"2015-01-01\"}]"
+		"value": "[{"type": "publication", "value": "2015-01-01"}]"
 	},
 	{
 		"key": "frequency-of-update",
@@ -142,7 +142,7 @@
 	},
 	{
 		"key": "licence",
-		"value": "[\" \"]"
+		"value": "[" "]"
 	},
 	{
 		"key": "metadata_type",
@@ -150,7 +150,7 @@
 	},
 	{
 		"key": "responsible-party",
-		"value": "[{\"name\": \"NOAA Office for Coastal Management (OCM)\", \"roles\": [\"pointOfContact\"]}]"
+		"value": "[{"name": "NOAA Office for Coastal Management (OCM)", "roles": ["pointOfContact"]}]"
 	},
 	{
 		"key": "temporal-extent-end",

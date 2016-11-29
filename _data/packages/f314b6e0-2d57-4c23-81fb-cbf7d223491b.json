@@ -24,18 +24,18 @@
 		"state": "active",
 		"hash": "",
 		"description": "NSIDC-0275.html",
-		"format": "application\/octet-stream",
+		"format": "application/octet-stream",
 		"tracking_summary": {
 			"total": 0,
 			"recent": 0
 		},
 		"mimetype_inner": null,
 		"revision_id": "ec3f54ff-f1f2-4b82-9d39-0e4873ccf2e2",
-		"mimetype": "application\/octet-stream",
+		"mimetype": "application/octet-stream",
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2014-11-26T13:39:14.743155",
-		"url": "http:\/\/nsidc.org\/data\/NSIDC-0275.html",
+		"url": "http://nsidc.org/data/NSIDC-0275.html",
 		"webstore_url": null,
 		"last_modified": null,
 		"position": 0,
@@ -78,7 +78,7 @@
 	"name": "smex02-airborne-gps-bistatic-radar-data-iowa",
 	"isopen": true,
 	"url": null,
-	"notes": "This data set contains measurements of Global Positioning System (GPS) signals reflected from the Earth\u0092s surface and collected on an airborne platform. The measurements were taken over the Soil Moisture Experiments 2002 (SMEX02) Walnut Creek Watershed area in Iowa, USA. The reflections collected were from flat agricultural land with mostly corn and soybean crops in mid-development. Data were collected on 19, 25, 27 June 2002 and 1, 2, 5-8 July 2002. \n\nThe data are categorized by campaigns and dates, and are processed into levels. Level \u00930\u0094 files are text files directly from the receiver. Levels above \u00930\u0094 are output in Hierarchical Data Format (HDF) format, ordered in UTC time and gzipped. The HDF files contain metadata in the form of attributes that describe the data seta and variables. The variables also contain attributes to self-describe the individual data pieces.\n\nA modified GPS Delay Mapping Receiver (DMR) tracks and measures the direct, line-of-sight, right hand circularly polarized (RHCP) signal of a GPS satellite. It also simultaneously measures the delayed, Earth- reflected, near-specular, left hand circularly polarized (LHCP) GPS signal. The DMR was mounted on the NCAR C-130 along with the Jet Propulsion Laboratory (JPL) Passive and Active L- and S-band (PALS) microwave instrument. GPS signal reflections were collected using the standard hemispherical RHCP antenna mounted on the roof of the aircraft, and a reversed polarization LHCP hemispherical antenna mounted on the belly. The receiver position is computed from either an external navigation source or the receiver's own GPS navigation solution, whichever is more accurate. The GPS surface reflections are georeferenced to a composite Earth consisting of the WGS-84 ellipsoid, the EGM96 geoid, and the GTOPO30 elevation model.\n\nThe primary objective was to collect land reflections for sensitivity of the reflected GPS power to temporal and spatial soil moisture and foliage attenuation. The measurements are a form of bistatic radar and can be used to estimate the surface scattering coefficient  (roughness and\/or dielectric properties) and path delays between the direct and reflected GPS signals. Scattering coefficients can be used to estimate changes in surface soil moisture. \n\nThese data were collected as part of a validation study for the Advanced Microwave Scanning Radiometer - Earth Observing System (AMSR-E). AMSR-E is a mission instrument launched aboard NASA's Aqua Satellite on 04 May 2002. AMSR-E validation studies linked to SMEX are designed to evaluate the accuracy of AMSR-E soil moisture data. Specific validation objectives include assessing and refining soil moisture algorithm performance; verifying soil moisture estimation accuracy; investigating the effects of vegetation, surface temperature, topography, and soil texture on soil moisture accuracy; and determining the regions that are useful for AMSR-E soil moisture measurements.",
+	"notes": "This data set contains measurements of Global Positioning System (GPS) signals reflected from the Earthu0092s surface and collected on an airborne platform. The measurements were taken over the Soil Moisture Experiments 2002 (SMEX02) Walnut Creek Watershed area in Iowa, USA. The reflections collected were from flat agricultural land with mostly corn and soybean crops in mid-development. Data were collected on 19, 25, 27 June 2002 and 1, 2, 5-8 July 2002. nnThe data are categorized by campaigns and dates, and are processed into levels. Level u00930u0094 files are text files directly from the receiver. Levels above u00930u0094 are output in Hierarchical Data Format (HDF) format, ordered in UTC time and gzipped. The HDF files contain metadata in the form of attributes that describe the data seta and variables. The variables also contain attributes to self-describe the individual data pieces.nnA modified GPS Delay Mapping Receiver (DMR) tracks and measures the direct, line-of-sight, right hand circularly polarized (RHCP) signal of a GPS satellite. It also simultaneously measures the delayed, Earth- reflected, near-specular, left hand circularly polarized (LHCP) GPS signal. The DMR was mounted on the NCAR C-130 along with the Jet Propulsion Laboratory (JPL) Passive and Active L- and S-band (PALS) microwave instrument. GPS signal reflections were collected using the standard hemispherical RHCP antenna mounted on the roof of the aircraft, and a reversed polarization LHCP hemispherical antenna mounted on the belly. The receiver position is computed from either an external navigation source or the receiver's own GPS navigation solution, whichever is more accurate. The GPS surface reflections are georeferenced to a composite Earth consisting of the WGS-84 ellipsoid, the EGM96 geoid, and the GTOPO30 elevation model.nnThe primary objective was to collect land reflections for sensitivity of the reflected GPS power to temporal and spatial soil moisture and foliage attenuation. The measurements are a form of bistatic radar and can be used to estimate the surface scattering coefficient  (roughness and/or dielectric properties) and path delays between the direct and reflected GPS signals. Scattering coefficients can be used to estimate changes in surface soil moisture. nnThese data were collected as part of a validation study for the Advanced Microwave Scanning Radiometer - Earth Observing System (AMSR-E). AMSR-E is a mission instrument launched aboard NASA's Aqua Satellite on 04 May 2002. AMSR-E validation studies linked to SMEX are designed to evaluate the accuracy of AMSR-E soil moisture data. Specific validation objectives include assessing and refining soil moisture algorithm performance; verifying soil moisture estimation accuracy; investigating the effects of vegetation, surface temperature, topography, and soil texture on soil moisture accuracy; and determining the regions that are useful for AMSR-E soil moisture measurements.",
 	"license_title": "U.S. Government Work",
 	"extras": [{
 		"key": "harvest_source_id",
@@ -106,7 +106,7 @@
 	},
 	{
 		"key": "temporal",
-		"value": "2002-06-19T01:00:00Z\/2002-07-08T23:59:59Z"
+		"value": "2002-06-19T01:00:00Z/2002-07-08T23:59:59Z"
 	},
 	{
 		"key": "theme",
@@ -118,15 +118,15 @@
 	},
 	{
 		"key": "catalog_conformsTo",
-		"value": "https:\/\/project-open-data.cio.gov\/v1.1\/schema"
+		"value": "https://project-open-data.cio.gov/v1.1/schema"
 	},
 	{
 		"key": "catalog_@context",
-		"value": "https:\/\/project-open-data.cio.gov\/v1.1\/schema\/catalog.jsonld"
+		"value": "https://project-open-data.cio.gov/v1.1/schema/catalog.jsonld"
 	},
 	{
 		"key": "catalog_describedBy",
-		"value": "https:\/\/project-open-data.cio.gov\/v1.1\/schema\/catalog.json"
+		"value": "https://project-open-data.cio.gov/v1.1/schema/catalog.json"
 	},
 	{
 		"key": "harvest_source_title",
@@ -150,7 +150,7 @@
 	},
 	{
 		"key": "landingPage",
-		"value": "http:\/\/reverb.echo.nasa.gov\/reverb?selected=C1116-NSIDCV0"
+		"value": "http://reverb.echo.nasa.gov/reverb?selected=C1116-NSIDCV0"
 	},
 	{
 		"key": "harvest_object_id",
@@ -168,7 +168,7 @@
 	},
 	{
 		"key": "license",
-		"value": "http:\/\/www.usa.gov\/publicdomain\/label\/1.0\/"
+		"value": "http://www.usa.gov/publicdomain/label/1.0/"
 	},
 	{
 		"key": "language",
@@ -209,16 +209,16 @@
 		"key": "harvest_source_title",
 		"value": "NASA Data.json"
 	}],
-	"license_url": "http:\/\/www.usa.gov\/publicdomain\/label\/1.0\/",
+	"license_url": "http://www.usa.gov/publicdomain/label/1.0/",
 	"organization": {
-		"description": "NASA's vision: To reach for new heights and reveal the unknown so that what we do and learn will benefit all humankind.\r\n\r\nTo do that, thousands of people have been working around the world -- and off of it -- for 50 years, trying to answer some basic questions. What's out there in space? How do we get there? What will we find? What can we learn there, or learn just by trying to get there, that will make life better here on Earth?\r\n\r\nNASA conducts its work in four principal organizations, called mission directorates:\r\n \r\nAeronautics: works to solve the challenges that still exist in our nation's air transportation system: air traffic congestion, safety and environmental impacts.\r\n\r\nHuman Exploration and Operations: focuses on International Space Station operations, development of commercial spaceflight opportunities and human exploration beyond low Earth orbit.\r\n\r\nScience: explores the Earth, solar system and universe beyond; charts the best route of discovery; and reaps the benefits of Earth and space exploration for society.\r\n\r\nSpace Technology: rapidly develops, demonstrates, and infuses revolutionary, high-payoff technologies, expanding the boundaries of the aerospace enterprise.\r\n\r\nIn the early 21st century, NASA's reach spans the universe. The Mars rover Curiosity is still exploring Mars to see if it might once have had environments suitable for life. Cassini is in orbit around Saturn, as Juno makes its way to Jupiter. The restored Hubble Space Telescope continues to explore the deepest reaches of the cosmos as NASA developes the James Webb Space Telescope.\r\n\r\nCloser to home, the latest crew of the International Space Station is extending the permanent human presence in space. With commercial partners such as SpaceX, NASA is helping to foster the development of private-sector aerospace.\r\n\r\nEarth science satellites are sending back unprecedented data on Earth's oceans, climate and other features. NASA's aeronautics team is working with other government organizations, universities, and industry to fundamentally improve the air transportation experience and retain our nation's leadership in global aviation.",
+		"description": "NASA's vision: To reach for new heights and reveal the unknown so that what we do and learn will benefit all humankind.rnrnTo do that, thousands of people have been working around the world -- and off of it -- for 50 years, trying to answer some basic questions. What's out there in space? How do we get there? What will we find? What can we learn there, or learn just by trying to get there, that will make life better here on Earth?rnrnNASA conducts its work in four principal organizations, called mission directorates:rn rnAeronautics: works to solve the challenges that still exist in our nation's air transportation system: air traffic congestion, safety and environmental impacts.rnrnHuman Exploration and Operations: focuses on International Space Station operations, development of commercial spaceflight opportunities and human exploration beyond low Earth orbit.rnrnScience: explores the Earth, solar system and universe beyond; charts the best route of discovery; and reaps the benefits of Earth and space exploration for society.rnrnSpace Technology: rapidly develops, demonstrates, and infuses revolutionary, high-payoff technologies, expanding the boundaries of the aerospace enterprise.rnrnIn the early 21st century, NASA's reach spans the universe. The Mars rover Curiosity is still exploring Mars to see if it might once have had environments suitable for life. Cassini is in orbit around Saturn, as Juno makes its way to Jupiter. The restored Hubble Space Telescope continues to explore the deepest reaches of the cosmos as NASA developes the James Webb Space Telescope.rnrnCloser to home, the latest crew of the International Space Station is extending the permanent human presence in space. With commercial partners such as SpaceX, NASA is helping to foster the development of private-sector aerospace.rnrnEarth science satellites are sending back unprecedented data on Earth's oceans, climate and other features. NASA's aeronautics team is working with other government organizations, universities, and industry to fundamentally improve the air transportation experience and retain our nation's leadership in global aviation.",
 		"created": "2013-03-14T03:44:44.467521",
 		"title": "National Aeronautics and Space Administration",
 		"name": "nasa-gov",
 		"revision_timestamp": "2013-08-20T16:04:52.563777",
 		"is_organization": true,
 		"state": "active",
-		"image_url": "http:\/\/polargateways2008.gsfc.nasa.gov\/images\/LOGO_2in\/NASA_2.jpg",
+		"image_url": "http://polargateways2008.gsfc.nasa.gov/images/LOGO_2in/NASA_2.jpg",
 		"revision_id": "7f05110b-681a-402c-a372-74500dc583dd",
 		"type": "organization",
 		"id": "d8a6202b-c0c3-463d-88a0-3bc021a178ed",

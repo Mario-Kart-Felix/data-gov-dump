@@ -37,7 +37,7 @@
 		"cache_url": null,
 		"name": "Zip File",
 		"created": "2016-10-19T17:34:34.602418",
-		"url": "ftp:\/\/ftp.soest.hawaii.edu\/pibhmc\/website\/data\/cnmi-guam\/benthichabitatlayers\/agrihan_10m_BPIstructures.zip",
+		"url": "ftp://ftp.soest.hawaii.edu/pibhmc/website/data/cnmi-guam/benthichabitatlayers/agrihan_10m_BPIstructures.zip",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 0,
@@ -67,7 +67,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2016-10-19T17:34:34.602451",
-		"url": "http:\/\/www.soest.hawaii.edu\/pibhmc",
+		"url": "http://www.soest.hawaii.edu/pibhmc",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 1,
@@ -89,7 +89,7 @@
 		"revision_timestamp": "2013-03-25T23:05:12.923863",
 		"is_organization": true,
 		"state": "active",
-		"image_url": "https:\/\/fortress.wa.gov\/dfw\/score\/score\/images\/noaa_logo.png",
+		"image_url": "https://fortress.wa.gov/dfw/score/score/images/noaa_logo.png",
 		"revision_id": "c6d43080-22e1-405e-a83d-f2a512d9e867",
 		"type": "organization",
 		"id": "e811f0b4-451f-4896-9e8f-fc6802837819",
@@ -100,11 +100,11 @@
 	"name": "bathymetric-position-index-bpi-structures-10-m-grid-derived-from-gridded-bathymetry-of-agrihan-",
 	"isopen": false,
 	"url": null,
-	"notes": "BPI Structures are derived from two scales of a focal mean analysis on bathymetry and slope. The grid is based on gridded (10 m cell size) multibeam bathymetry, collected aboard NOAA Ship Hi'ialakai and R\/V AHI, and it was created using the Benthic Terrain Modeler (http:\/\/www.csc.noaa.gov\/products\/btm\/). Cell values represent one of 14 classes in an index of seafloor terrains. This data set is for the shelf and slope environments of Agrihan Island. As part of the northern islands of the Mariana Islands archipelago, Agrihan's offshore shelf, a small area on the south side, is above -60m. A deep shelf (below -60m) is northwest of the island and forms a small plateau. Conversely, the southern islands each have a shelf (above -100m) with escarpments that lead to broad flat areas without forming a deeper shelf.",
+	"notes": "BPI Structures are derived from two scales of a focal mean analysis on bathymetry and slope. The grid is based on gridded (10 m cell size) multibeam bathymetry, collected aboard NOAA Ship Hi'ialakai and R/V AHI, and it was created using the Benthic Terrain Modeler (http://www.csc.noaa.gov/products/btm/). Cell values represent one of 14 classes in an index of seafloor terrains. This data set is for the shelf and slope environments of Agrihan Island. As part of the northern islands of the Mariana Islands archipelago, Agrihan's offshore shelf, a small area on the south side, is above -60m. A deep shelf (below -60m) is northwest of the island and forms a small plateau. Conversely, the southern islands each have a shelf (above -100m) with escarpments that lead to broad flat areas without forming a deeper shelf.",
 	"owner_org": "e811f0b4-451f-4896-9e8f-fc6802837819",
 	"extras": [{
 		"key": "bbox-east-long",
-		"value": "\n          145.721\n        "
+		"value": "n          145.721n        "
 	},
 	{
 		"key": "resource-type",
@@ -112,7 +112,7 @@
 	},
 	{
 		"key": "bbox-north-lat",
-		"value": "\n          18.842\n        "
+		"value": "n          18.842n        "
 	},
 	{
 		"key": "coupled-resource",
@@ -128,7 +128,7 @@
 	},
 	{
 		"key": "graphic-preview-file",
-		"value": "http:\/\/www.soest.hawaii.edu\/pibhmc\/CNMI_images\/agrihan_10m_BPIstructures_445.jpg"
+		"value": "http://www.soest.hawaii.edu/pibhmc/CNMI_images/agrihan_10m_BPIstructures_445.jpg"
 	},
 	{
 		"key": "metadata-language",
@@ -144,7 +144,7 @@
 	},
 	{
 		"key": "spatial",
-		"value": "{\"type\": \"Polygon\", \"coordinates\": [[[145.599, 18.708], [145.721, 18.708], [145.721, 18.842], [145.599, 18.842], [145.599, 18.708]]]}"
+		"value": "{"type": "Polygon", "coordinates": [[[145.599, 18.708], [145.721, 18.708], [145.721, 18.842], [145.599, 18.842], [145.599, 18.708]]]}"
 	},
 	{
 		"key": "progress",
@@ -152,7 +152,7 @@
 	},
 	{
 		"key": "access_constraints",
-		"value": "[\"Use Constraints: These data are not to be used for navigation purposes. Please acknowledge the NOAA Pacific Islands Fisheries Science Center (PIFSC) Coral Reef Ecosystem Division (CRED) and the Pacific Islands Benthic Habitat Mapping Center (PIBHMC), and the Joint Institute for Marine and Atmospheric Research (JIMAR) as the sources of this information.\", \"Access Constraints: None\"]"
+		"value": "["Use Constraints: These data are not to be used for navigation purposes. Please acknowledge the NOAA Pacific Islands Fisheries Science Center (PIFSC) Coral Reef Ecosystem Division (CRED) and the Pacific Islands Benthic Habitat Mapping Center (PIBHMC), and the Joint Institute for Marine and Atmospheric Research (JIMAR) as the sources of this information.", "Access Constraints: None"]"
 	},
 	{
 		"key": "temporal-extent-begin",
@@ -164,7 +164,7 @@
 	},
 	{
 		"key": "bbox-west-long",
-		"value": "\n          145.599\n        "
+		"value": "n          145.599n        "
 	},
 	{
 		"key": "metadata-date",
@@ -172,7 +172,7 @@
 	},
 	{
 		"key": "dataset-reference-date",
-		"value": "[{\"type\": \"publication\", \"value\": \"2009-02-19\"}]"
+		"value": "[{"type": "publication", "value": "2009-02-19"}]"
 	},
 	{
 		"key": "graphic-preview-description",
@@ -184,7 +184,7 @@
 	},
 	{
 		"key": "licence",
-		"value": "[\"\\n      These data are not to be used for navigational purposes.\\nNOAA makes no warranty regarding these data, expressed or implied,\\nnor does the fact of distribution constitute such a warranty.\\nNOAA cannot assume liability for any damages caused by any errors\\nor omissions in these data, nor as a result of the failure of\\nthese data to function on a particular system.\\n    \"]"
+		"value": "["\n      These data are not to be used for navigational purposes.\nNOAA makes no warranty regarding these data, expressed or implied,\nnor does the fact of distribution constitute such a warranty.\nNOAA cannot assume liability for any damages caused by any errors\nor omissions in these data, nor as a result of the failure of\nthese data to function on a particular system.\n    "]"
 	},
 	{
 		"key": "metadata_type",
@@ -192,7 +192,7 @@
 	},
 	{
 		"key": "responsible-party",
-		"value": "[{\"name\": \"Pacific Islands Benthic Habitat Mapping Center (PIBHMC), Coral Reef Ecosystem Division (CRED), Pacific Islands Fisheries Science Center (PIFSC), National Marine Fisheries Service (NMFS), National Oceanic and Atmospheric Administration (NOAA)\", \"roles\": [\"pointOfContact\"]}]"
+		"value": "[{"name": "Pacific Islands Benthic Habitat Mapping Center (PIBHMC), Coral Reef Ecosystem Division (CRED), Pacific Islands Fisheries Science Center (PIFSC), National Marine Fisheries Service (NMFS), National Oceanic and Atmospheric Administration (NOAA)", "roles": ["pointOfContact"]}]"
 	},
 	{
 		"key": "temporal-extent-end",
@@ -204,11 +204,11 @@
 	},
 	{
 		"key": "bbox-south-lat",
-		"value": "\n          18.708\n        "
+		"value": "n          18.708n        "
 	},
 	{
 		"key": "tags",
-		"value": "bathymetry, bathymetric position index structures, geographic information, reef monitoring and assessment, biosphere, agrihan island, geomorphology mapping, oceans, corals, zoology, mapping, bathymetry\/seafloor topography, united state of america, multibeam sonar, 1398, habitats, benthic habitat mapping and characterization - commonwealth of the northern mariana islands and guam, commonwealth of the northern mariana islands, earth science",
+		"value": "bathymetry, bathymetric position index structures, geographic information, reef monitoring and assessment, biosphere, agrihan island, geomorphology mapping, oceans, corals, zoology, mapping, bathymetry/seafloor topography, united state of america, multibeam sonar, 1398, habitats, benthic habitat mapping and characterization - commonwealth of the northern mariana islands and guam, commonwealth of the northern mariana islands, earth science",
 		"__extras": {
 			"revision_id": "edee7806-c9e3-4605-8e90-8239385a0230",
 			"package_id": "bffcac6b-0a3c-400d-b18d-9e91cced0380"

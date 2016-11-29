@@ -37,7 +37,7 @@
 		"cache_url": null,
 		"name": "Esri Rest API Endpoint",
 		"created": "2016-09-05T20:58:31.859344",
-		"url": "http:\/\/idpgis.ncep.noaa.gov\/arcgis\/rest\/services\/NOS_Observations\/CO_OPS_Products\/MapServer",
+		"url": "http://idpgis.ncep.noaa.gov/arcgis/rest/services/NOS_Observations/CO_OPS_Products/MapServer",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 0,
@@ -67,7 +67,7 @@
 		"cache_url": null,
 		"name": "KMZ File",
 		"created": "2016-09-05T20:58:31.859378",
-		"url": "http:\/\/tidesandcurrents.noaa.gov\/kml\/coops-slt.kmz",
+		"url": "http://tidesandcurrents.noaa.gov/kml/coops-slt.kmz",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 1,
@@ -97,7 +97,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2016-09-05T20:58:31.859388",
-		"url": "http:\/\/tidesandcurrents.noaa.gov\/sltrends\/sltrends.shtml",
+		"url": "http://tidesandcurrents.noaa.gov/sltrends/sltrends.shtml",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 2,
@@ -127,7 +127,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2016-09-05T20:58:31.859395",
-		"url": "http:\/\/tidesandcurrents.noaa.gov\/",
+		"url": "http://tidesandcurrents.noaa.gov/",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 3,
@@ -202,7 +202,7 @@
 	"name": "sea-levels-online-sea-level-variations-of-the-united-states-derived-from-national-water-level-o",
 	"isopen": false,
 	"url": null,
-	"notes": "Water level records are a combination of the fluctuations of the ocean and the vertical land motion at the location of the station. Monthly mean sea level (MSL) variations were analyzed for 128 stations of the National Ocean Service's (NOS) National Water Level Observation Network (NWLON) having between 30 and 146 years of data. The sea level variations determined are the linear trend, the average seasonal cycle, and the interannual variability at each station. Monthly data up to the end of 2006 were used in the calculation and all stations had data spanning a period of 30 years or more. Since the derived trends include the local vertical land motion, they are spatially variable. Calculated MSL trends range from 9.85 mm\/yr for Grand Isle, LA to -16.68 mm\/yr for Skagway AK, and are consistent with previous trends published by NOS. Available data from this project include time series plots for each station of the monthly MSL with the seasonal cycle removed, a 5-month average, and the linear trend with its 95% confidence interval which was obtained after accounting for the average seasonal cycle; the seasonal cycle; the Interannual variation of mean sea level for all data to 2006; and the Interannual variation from 1980 to the present (updated monthly). The location and timing of any major earthquakes near stations in tectonically-active areas are noted since an associated vertical offset or a change in MSL trend is possible.",
+	"notes": "Water level records are a combination of the fluctuations of the ocean and the vertical land motion at the location of the station. Monthly mean sea level (MSL) variations were analyzed for 128 stations of the National Ocean Service's (NOS) National Water Level Observation Network (NWLON) having between 30 and 146 years of data. The sea level variations determined are the linear trend, the average seasonal cycle, and the interannual variability at each station. Monthly data up to the end of 2006 were used in the calculation and all stations had data spanning a period of 30 years or more. Since the derived trends include the local vertical land motion, they are spatially variable. Calculated MSL trends range from 9.85 mm/yr for Grand Isle, LA to -16.68 mm/yr for Skagway AK, and are consistent with previous trends published by NOS. Available data from this project include time series plots for each station of the monthly MSL with the seasonal cycle removed, a 5-month average, and the linear trend with its 95% confidence interval which was obtained after accounting for the average seasonal cycle; the seasonal cycle; the Interannual variation of mean sea level for all data to 2006; and the Interannual variation from 1980 to the present (updated monthly). The location and timing of any major earthquakes near stations in tectonically-active areas are noted since an associated vertical offset or a change in MSL trend is possible.",
 	"license_title": null,
 	"extras": [{
 		"key": "bbox-east-long",
@@ -234,11 +234,11 @@
 	},
 	{
 		"key": "__category_tag_78473e2f-b6ba-4e28-b0c1-d53c35a7e010",
-		"value": "[\"Water Levels\",\"Climate\"]"
+		"value": "["Water Levels","Climate"]"
 	},
 	{
 		"key": "__category_tag_aa0c01c9-d292-4dc1-8fec-b10c1bb629a9",
-		"value": "[\"Atmospheric, Earth and Ocean Sciences\",\"Ecosystem Vulnerability\",\"Coastal Flooding\"]"
+		"value": "["Atmospheric, Earth and Ocean Sciences","Ecosystem Vulnerability","Coastal Flooding"]"
 	},
 	{
 		"key": "spatial-reference-system",
@@ -246,7 +246,7 @@
 	},
 	{
 		"key": "spatial",
-		"value": "{\"type\": \"Polygon\", \"coordinates\": [[[-180.0, -14.28], [180.0, -14.28], [180.0, 61.24], [-180.0, 61.24], [-180.0, -14.28]]]}"
+		"value": "{"type": "Polygon", "coordinates": [[[-180.0, -14.28], [180.0, -14.28], [180.0, 61.24], [-180.0, 61.24], [-180.0, -14.28]]]}"
 	},
 	{
 		"key": "progress",
@@ -254,7 +254,7 @@
 	},
 	{
 		"key": "access_constraints",
-		"value": "[\"Use Constraints: None\", \"Access Constraints: None\"]"
+		"value": "["Use Constraints: None", "Access Constraints: None"]"
 	},
 	{
 		"key": "temporal-extent-begin",
@@ -274,11 +274,11 @@
 	},
 	{
 		"key": "dataset-reference-date",
-		"value": "[{\"type\": \"publication\", \"value\": \"\"}]"
+		"value": "[{"type": "publication", "value": ""}]"
 	},
 	{
 		"key": "__category_tag_3b2f2e70-3e81-4aa7-8305-a534cd6af6c8",
-		"value": "[\"Atmospheric, Earth and Ocean Sciences\",\"Chemical and Physical Oceanography\"]"
+		"value": "["Atmospheric, Earth and Ocean Sciences","Chemical and Physical Oceanography"]"
 	},
 	{
 		"key": "frequency-of-update",
@@ -286,7 +286,7 @@
 	},
 	{
 		"key": "licence",
-		"value": "[\"Monthly mean sea level (MSL) variations were analyzed for 128 stations of the National Ocean Service's (NOS) National Water Level Observation Network (NWLON) having between 30 and 146 years of data to obtain the linear trend, the average seasonal cycle, and the interannual variations. Recorded water levels are a combination of changes in the sea level and the vertical land motion at the location of the gauge. Therefore, the trends derived are relative MSL trends and can be considered valid only for a region near the gauge with uniform vertical land motion. Calculation of absolute MSL trends requires the accurate determination of vertical land motion at the gauges and was beyond the scope of this project.\"]"
+		"value": "["Monthly mean sea level (MSL) variations were analyzed for 128 stations of the National Ocean Service's (NOS) National Water Level Observation Network (NWLON) having between 30 and 146 years of data to obtain the linear trend, the average seasonal cycle, and the interannual variations. Recorded water levels are a combination of changes in the sea level and the vertical land motion at the location of the gauge. Therefore, the trends derived are relative MSL trends and can be considered valid only for a region near the gauge with uniform vertical land motion. Calculation of absolute MSL trends requires the accurate determination of vertical land motion at the gauges and was beyond the scope of this project."]"
 	},
 	{
 		"key": "metadata_type",
@@ -294,7 +294,7 @@
 	},
 	{
 		"key": "responsible-party",
-		"value": "[{\"name\": \"National Oceanic and Atmospheric Administration (NOAA), National Ocean Service (NOS), Center for Operational Oceanographic Products and Services (CO-OPS)\", \"roles\": [\"pointOfContact\"]}]"
+		"value": "[{"name": "National Oceanic and Atmospheric Administration (NOAA), National Ocean Service (NOS), Center for Operational Oceanographic Products and Services (CO-OPS)", "roles": ["pointOfContact"]}]"
 	},
 	{
 		"key": "spatial-data-service-type",
@@ -336,7 +336,7 @@
 		"revision_timestamp": "2013-03-25T23:05:12.923863",
 		"is_organization": true,
 		"state": "active",
-		"image_url": "https:\/\/fortress.wa.gov\/dfw\/score\/score\/images\/noaa_logo.png",
+		"image_url": "https://fortress.wa.gov/dfw/score/score/images/noaa_logo.png",
 		"revision_id": "c6d43080-22e1-405e-a83d-f2a512d9e867",
 		"type": "organization",
 		"id": "e811f0b4-451f-4896-9e8f-fc6802837819",

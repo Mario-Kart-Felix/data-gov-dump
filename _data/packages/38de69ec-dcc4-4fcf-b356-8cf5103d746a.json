@@ -36,7 +36,7 @@
 		"cache_url": null,
 		"name": "Service Description",
 		"created": "2013-03-16T00:50:10.348432",
-		"url": "http:\/\/services.azgs.az.gov\/ArcGIS\/services\/aasggeothermal\/HIWellheaders\/MapServer\/WFSServer?request=GetCapabilities&service=WFS",
+		"url": "http://services.azgs.az.gov/ArcGIS/services/aasggeothermal/HIWellheaders/MapServer/WFSServer?request=GetCapabilities&service=WFS",
 		"webstore_url": null,
 		"resource_locator_function": "381",
 		"position": 0,
@@ -65,7 +65,7 @@
 		"cache_url": null,
 		"name": "Downloadable File",
 		"created": "2013-03-16T00:50:10.348450",
-		"url": "http:\/\/services.azgs.az.gov\/ArcGIS\/services\/aasggeothermal\/HIWellheaders\/MapServer\/WMSServer?request=GetCapabilities&service=WMS",
+		"url": "http://services.azgs.az.gov/ArcGIS/services/aasggeothermal/HIWellheaders/MapServer/WMSServer?request=GetCapabilities&service=WMS",
 		"webstore_url": null,
 		"resource_locator_function": "375",
 		"position": 1,
@@ -94,7 +94,7 @@
 		"cache_url": null,
 		"name": "Service Description",
 		"created": "2013-03-16T00:50:10.348456",
-		"url": "http:\/\/services.azgs.az.gov\/ArcGIS\/rest\/services\/aasggeothermal\/HIWellheaders\/MapServer",
+		"url": "http://services.azgs.az.gov/ArcGIS/rest/services/aasggeothermal/HIWellheaders/MapServer",
 		"webstore_url": null,
 		"resource_locator_function": "381",
 		"position": 2,
@@ -123,7 +123,7 @@
 		"cache_url": null,
 		"name": "Zipped 2007 Excel spreadsheet containing Hawaii Wellheader data ",
 		"created": "2013-03-16T00:50:10.348462",
-		"url": "http:\/\/repository.stategeothermaldata.org\/metadata\/record\/caad517515720208ad5e01bce40267e6\/file\/hiwellheadercontentmodel1.7.1.zip",
+		"url": "http://repository.stategeothermaldata.org/metadata/record/caad517515720208ad5e01bce40267e6/file/hiwellheadercontentmodel1.7.1.zip",
 		"webstore_url": null,
 		"resource_locator_function": "375",
 		"position": 3,
@@ -156,11 +156,11 @@
 	"name": "hawaii-well-headers",
 	"isopen": false,
 	"url": null,
-	"notes": "This dataset contains wellheader features compiled by the Hawaiian Department of Natural Resources, and published as a Web feature service for the National Geothermal Data System. Fields in the Wellheader Content Model will become XML elements in interchange documents for WMS simple features provided by a node in the USGIN network.  Each feature includes a well name, well type, status, and latitude and Longitude spatially referenced to EPSG: 4326 (for interoperability).  The data contained in the submitted dataset is available as an Excel Spreadsheet, ESRI service, WMS and WFS service.Link to Well Header Content Model:  http:\/\/www.stategeothermaldata.org\/data_delivery\/content_models\/well_header.",
+	"notes": "This dataset contains wellheader features compiled by the Hawaiian Department of Natural Resources, and published as a Web feature service for the National Geothermal Data System. Fields in the Wellheader Content Model will become XML elements in interchange documents for WMS simple features provided by a node in the USGIN network.  Each feature includes a well name, well type, status, and latitude and Longitude spatially referenced to EPSG: 4326 (for interoperability).  The data contained in the submitted dataset is available as an Excel Spreadsheet, ESRI service, WMS and WFS service.Link to Well Header Content Model:  http://www.stategeothermaldata.org/data_delivery/content_models/well_header.",
 	"license_title": null,
 	"extras": [{
 		"key": "responsible-party",
-		"value": "[{\"name\": \"No Organization Name Was Given\", \"roles\": [\"pointOfContact\"]}]"
+		"value": "[{"name": "No Organization Name Was Given", "roles": ["pointOfContact"]}]"
 	},
 	{
 		"key": "contact-email",
@@ -180,7 +180,7 @@
 	},
 	{
 		"key": "dataset-reference-date",
-		"value": "[{\"type\": \"publication\", \"value\": \"2012-08-10T12:00:00\"}]"
+		"value": "[{"type": "publication", "value": "2012-08-10T12:00:00"}]"
 	},
 	{
 		"key": "resource-type",
@@ -216,7 +216,7 @@
 	},
 	{
 		"key": "spatial",
-		"value": "{\"type\": \"Polygon\", \"coordinates\": [[[-160.5, 18.5], [-160.5, 22.3], [-153.0, 22.3], [-153.0, 18.5], [-160.5, 18.5]]]}"
+		"value": "{"type": "Polygon", "coordinates": [[[-160.5, 18.5], [-160.5, 22.3], [-153.0, 22.3], [-153.0, 18.5], [-160.5, 18.5]]]}"
 	},
 	{
 		"key": "guid",
@@ -266,7 +266,7 @@
 		"revision_timestamp": "2013-03-20T21:11:17.592932",
 		"is_organization": true,
 		"state": "active",
-		"image_url": "http:\/\/www.50states.com\/flag\/image\/nunst004.gif",
+		"image_url": "http://www.50states.com/flag/image/nunst004.gif",
 		"revision_id": "61be6428-4398-4199-a336-f3cd1e956f9b",
 		"type": "organization",
 		"id": "f3f6e1d4-64fb-4a2f-b32c-9ac0b76fe4de",

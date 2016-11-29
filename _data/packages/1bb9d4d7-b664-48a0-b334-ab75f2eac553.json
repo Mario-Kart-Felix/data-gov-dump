@@ -36,7 +36,7 @@
 		"cache_url": null,
 		"name": "Export",
 		"created": "2014-11-17T16:12:14.756630",
-		"url": "http:\/\/water.usgs.gov\/GIS\/dsdl\/ag_expn.e00.gz",
+		"url": "http://water.usgs.gov/GIS/dsdl/ag_expn.e00.gz",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 0,
@@ -65,7 +65,7 @@
 		"cache_url": null,
 		"name": "Export",
 		"created": "2014-11-17T16:12:14.756652",
-		"url": "http:\/\/water.usgs.gov\/GIS\/dsdl\/ag_expn.e00.zip",
+		"url": "http://water.usgs.gov/GIS/dsdl/ag_expn.e00.zip",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 1,
@@ -94,7 +94,7 @@
 		"cache_url": null,
 		"name": "SDTS",
 		"created": "2014-11-17T16:12:14.756660",
-		"url": "http:\/\/water.usgs.gov\/GIS\/dsdl\/ag_expn.sdts.zip",
+		"url": "http://water.usgs.gov/GIS/dsdl/ag_expn.sdts.zip",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 2,
@@ -123,7 +123,7 @@
 		"cache_url": null,
 		"name": "SDTS",
 		"created": "2014-11-17T16:12:14.756667",
-		"url": "http:\/\/water.usgs.gov\/GIS\/dsdl\/ag_expn.sdts.tgz",
+		"url": "http://water.usgs.gov/GIS/dsdl/ag_expn.sdts.tgz",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 3,
@@ -153,7 +153,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2014-11-17T16:12:14.756674",
-		"url": "http:\/\/water.usgs.gov\/lookup\/getspatial?ag_expn",
+		"url": "http://water.usgs.gov/lookup/getspatial?ag_expn",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 4,
@@ -183,7 +183,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2014-11-17T16:12:14.756680",
-		"url": "http:\/\/pubs.er.usgs.gov\/publication\/wri944176",
+		"url": "http://pubs.er.usgs.gov/publication/wri944176",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 5,
@@ -231,7 +231,7 @@
 	},
 	{
 		"key": "graphic-preview-file",
-		"value": "http:\/\/water.usgs.gov\/GIS\/browse\/ag_expn.gif"
+		"value": "http://water.usgs.gov/GIS/browse/ag_expn.gif"
 	},
 	{
 		"key": "bbox-south-lat",
@@ -247,7 +247,7 @@
 	},
 	{
 		"key": "spatial",
-		"value": "{\"type\": \"Polygon\", \"coordinates\": [[[-128.07002717, 22.67774911], [-65.25698378, 22.67774911], [-65.25698378, 48.26194027], [-128.07002717, 48.26194027], [-128.07002717, 22.67774911]]]}"
+		"value": "{"type": "Polygon", "coordinates": [[[-128.07002717, 22.67774911], [-65.25698378, 22.67774911], [-65.25698378, 48.26194027], [-128.07002717, 48.26194027], [-128.07002717, 22.67774911]]]}"
 	},
 	{
 		"key": "progress",
@@ -255,7 +255,7 @@
 	},
 	{
 		"key": "access_constraints",
-		"value": "[\"Use Constraints: CENSUS DATA Estimates of agricultural expenses by county were reported by the U.S. Department of Commerce (1989a, 1898b) in the 1987 Census of Agriculture. The estimates were constructed from surveys of all farms where $1,000 or more of agricultural products were sold, or normally would have been sold, during the census year. Sampling and statistics were used to account for nonresponding farm operations. Thus, the information in the Census of Agriculture is subject to sampling variability as well as reporting and coverage errors. Census disclosure rules prevent publication of information that would disclose the operation of individual farms. Thus, for example, one or two sod farms may be reported in a county, but no acreage of sod harvested is reported, because release of that information might disclose information about a particular farmer's operation. COUNTY BOUNDARIES The original files for this map were provided in 15 sections. Boundaries near the edges of sections have been adjusted in edgematching. Polygons that extend into the water (an ocean or the Great Lakes) should be considered arbitrary.\", \"Access Constraints: (describe any restrictions or legal prerequisites for accessing the data set. Put \\\"None\\\" if there are no restrictions)\"]"
+		"value": "["Use Constraints: CENSUS DATA Estimates of agricultural expenses by county were reported by the U.S. Department of Commerce (1989a, 1898b) in the 1987 Census of Agriculture. The estimates were constructed from surveys of all farms where $1,000 or more of agricultural products were sold, or normally would have been sold, during the census year. Sampling and statistics were used to account for nonresponding farm operations. Thus, the information in the Census of Agriculture is subject to sampling variability as well as reporting and coverage errors. Census disclosure rules prevent publication of information that would disclose the operation of individual farms. Thus, for example, one or two sod farms may be reported in a county, but no acreage of sod harvested is reported, because release of that information might disclose information about a particular farmer's operation. COUNTY BOUNDARIES The original files for this map were provided in 15 sections. Boundaries near the edges of sections have been adjusted in edgematching. Polygons that extend into the water (an ocean or the Great Lakes) should be considered arbitrary.", "Access Constraints: (describe any restrictions or legal prerequisites for accessing the data set. Put \"None\" if there are no restrictions)"]"
 	},
 	{
 		"key": "contact-email",
@@ -271,7 +271,7 @@
 	},
 	{
 		"key": "dataset-reference-date",
-		"value": "[{\"type\": \"publication\", \"value\": \"1994-01-01\"}]"
+		"value": "[{"type": "publication", "value": "1994-01-01"}]"
 	},
 	{
 		"key": "graphic-preview-description",
@@ -283,7 +283,7 @@
 	},
 	{
 		"key": "licence",
-		"value": "[\"Although this data set has been used by the U.S. Geological\\nSurvey, U.S. Department of the Interior, no warranty expressed or\\nimplied is made by the U.S. Geological Survey as to the accuracy\\nof the data and related materials. The act of distribution shall not \\nconstitute any such warranty, and no responsibility is assumed by \\nthe U.S. Geological Survey in the use of this data, software, or \\nrelated materials.\\n\\nAny use of trade, product, or firm names is for descriptive\\npurposes only and does not imply endorsement by the U.S.\\nGovernment.\"]"
+		"value": "["Although this data set has been used by the U.S. Geological\nSurvey, U.S. Department of the Interior, no warranty expressed or\nimplied is made by the U.S. Geological Survey as to the accuracy\nof the data and related materials. The act of distribution shall not \nconstitute any such warranty, and no responsibility is assumed by \nthe U.S. Geological Survey in the use of this data, software, or \nrelated materials.\n\nAny use of trade, product, or firm names is for descriptive\npurposes only and does not imply endorsement by the U.S.\nGovernment."]"
 	},
 	{
 		"key": "metadata_type",
@@ -291,7 +291,7 @@
 	},
 	{
 		"key": "responsible-party",
-		"value": "[{\"name\": \"U.S. Geological Survey, Water Resources Div. (WRD)\", \"roles\": [\"pointOfContact\"]}]"
+		"value": "[{"name": "U.S. Geological Survey, Water Resources Div. (WRD)", "roles": ["pointOfContact"]}]"
 	},
 	{
 		"key": "spatial-data-service-type",
@@ -326,14 +326,14 @@
 		"value": "Water NSDI Node Spatial Datasets"
 	}],
 	"organization": {
-		"description": "http:\/\/www.usgs.gov\/\r\nThe USGS is a federal science agency that provides impartial information on the health of our ecosystems and environment, the natural hazards that threaten us, the natural resources we rely on, the impacts of climate and land-use change, and the core science systems that help us provide timely, relevant, and useable information.",
+		"description": "http://www.usgs.gov/rnThe USGS is a federal science agency that provides impartial information on the health of our ecosystems and environment, the natural hazards that threaten us, the natural resources we rely on, the impacts of climate and land-use change, and the core science systems that help us provide timely, relevant, and useable information.",
 		"created": "2013-03-14T03:44:38.263357",
 		"title": "U.S. Geological Survey, Department of the Interior",
 		"name": "usgs-gov",
 		"revision_timestamp": "2014-09-02T13:43:52.167023",
 		"is_organization": true,
 		"state": "active",
-		"image_url": "http:\/\/pubs.usgs.gov\/sir\/2004\/5296\/04-5296_confluence_park\/usgs_logo.gif",
+		"image_url": "http://pubs.usgs.gov/sir/2004/5296/04-5296_confluence_park/usgs_logo.gif",
 		"revision_id": "2858aa99-9501-4f96-82e5-9647b968ed66",
 		"type": "organization",
 		"id": "bd2cdd5a-4d65-46c0-9937-c8381175f104",

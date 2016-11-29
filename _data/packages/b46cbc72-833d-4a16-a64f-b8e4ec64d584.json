@@ -31,11 +31,11 @@
 		},
 		"mimetype_inner": null,
 		"revision_id": "bf2b4626-fb09-49a3-bb6b-fd857b258b76",
-		"mimetype": "text\/html",
+		"mimetype": "text/html",
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2016-01-29T08:44:36.734494",
-		"url": "ftp:\/\/ftp.cpc.ncep.noaa.gov\/wd51yf\/GHCN_CAMS\/",
+		"url": "ftp://ftp.cpc.ncep.noaa.gov/wd51yf/GHCN_CAMS/",
 		"webstore_url": null,
 		"last_modified": null,
 		"position": 0,
@@ -134,7 +134,7 @@
 	"name": "climate-prediction-center-cpc-global-land-surface-air-temperature-analysis-642f7",
 	"isopen": false,
 	"url": null,
-	"notes": "A station observation-based global land monthly mean surface air temperature dataset at 0.5 x 0.5 latitude-longitude resolution for the period from 1948 to the present was developed at the Climate Prediction Center, National Centers for Environmental Prediction. This data set is different from some existing surface air temperature data sets in: (1) using a combination of two large individual data sets of station observations collected from the Global Historical Climatology Network version 2 and the Climate Anomaly Monitoring System (GHCN + CAMS), so it can be regularly updated in near real time with plenty of stations and (2) some unique interpolation methods, such as the anomaly interpolation approach with spatially-temporally varying temperature lapse rates derived from the observation-based Reanalysis for topographic adjustment. When compared with several existing observation-based land surface air temperature data sets, the preliminary results show that the quality of this new GHCN + CAMS land surface air temperature analysis is reasonably good and the new data set can capture most common temporal-spatial features in the observed climatology and anomaly fields over both regional and global domains. The study also reveals that there are clear biases between the observed surface air temperature and the existing Reanalysis data sets, and they vary in space and seasons. Therefore the Reanalysis 2 m temperature data sets may not be suitable for model forcing and validation. The GHCN + CAMS data set will be mainly used as one of land surface meteorological forcing inputs to derive other land surface variables, such as soil moisture, evaporation, surface runoff, snow accumulation and snow melt, etc. As a byproduct, this monthly mean surface air temperature data set can also be applied to monitor surface air temperature variations over global land routinely or to verify the performance of model simulation and prediction. Refer to this paper: Fan, Y. and H. van den Dool, 2008: A global monthly land surface air temperature analysis for 1948-present. J. Geophys. Res., 113, doi: 10.1029\/2007JD008470.",
+	"notes": "A station observation-based global land monthly mean surface air temperature dataset at 0.5 x 0.5 latitude-longitude resolution for the period from 1948 to the present was developed at the Climate Prediction Center, National Centers for Environmental Prediction. This data set is different from some existing surface air temperature data sets in: (1) using a combination of two large individual data sets of station observations collected from the Global Historical Climatology Network version 2 and the Climate Anomaly Monitoring System (GHCN + CAMS), so it can be regularly updated in near real time with plenty of stations and (2) some unique interpolation methods, such as the anomaly interpolation approach with spatially-temporally varying temperature lapse rates derived from the observation-based Reanalysis for topographic adjustment. When compared with several existing observation-based land surface air temperature data sets, the preliminary results show that the quality of this new GHCN + CAMS land surface air temperature analysis is reasonably good and the new data set can capture most common temporal-spatial features in the observed climatology and anomaly fields over both regional and global domains. The study also reveals that there are clear biases between the observed surface air temperature and the existing Reanalysis data sets, and they vary in space and seasons. Therefore the Reanalysis 2 m temperature data sets may not be suitable for model forcing and validation. The GHCN + CAMS data set will be mainly used as one of land surface meteorological forcing inputs to derive other land surface variables, such as soil moisture, evaporation, surface runoff, snow accumulation and snow melt, etc. As a byproduct, this monthly mean surface air temperature data set can also be applied to monitor surface air temperature variations over global land routinely or to verify the performance of model simulation and prediction. Refer to this paper: Fan, Y. and H. van den Dool, 2008: A global monthly land surface air temperature analysis for 1948-present. J. Geophys. Res., 113, doi: 10.1029/2007JD008470.",
 	"license_title": "License Not Specified",
 	"extras": [{
 		"key": "publisher",
@@ -154,11 +154,11 @@
 	},
 	{
 		"key": "catalog_@context",
-		"value": "https:\/\/project-open-data.cio.gov\/v1.1\/schema\/catalog.jsonld"
+		"value": "https://project-open-data.cio.gov/v1.1/schema/catalog.jsonld"
 	},
 	{
 		"key": "temporal",
-		"value": "1948-01-01T00:00:00\/2014-08-25T10:50:19.030000-04:00"
+		"value": "1948-01-01T00:00:00/2014-08-25T10:50:19.030000-04:00"
 	},
 	{
 		"key": "resource-type",
@@ -190,15 +190,15 @@
 	},
 	{
 		"key": "accrualPeriodicity",
-		"value": "R\/P1M"
+		"value": "R/P1M"
 	},
 	{
 		"key": "spatial",
-		"value": "{\"type\": \"Polygon\", \"coordinates\": [[[-179.75, -89.75], [179.75, -89.75], [179.75, 89.75], [-179.75, 89.75], [-179.75, -89.75]]]}"
+		"value": "{"type": "Polygon", "coordinates": [[[-179.75, -89.75], [179.75, -89.75], [179.75, 89.75], [-179.75, 89.75], [-179.75, -89.75]]]}"
 	},
 	{
 		"key": "catalog_conformsTo",
-		"value": "https:\/\/project-open-data.cio.gov\/v1.1\/schema"
+		"value": "https://project-open-data.cio.gov/v1.1/schema"
 	},
 	{
 		"key": "accessLevel",
@@ -214,7 +214,7 @@
 	},
 	{
 		"key": "catalog_describedBy",
-		"value": "https:\/\/project-open-data.cio.gov\/v1.1\/schema\/catalog.json"
+		"value": "https://project-open-data.cio.gov/v1.1/schema/catalog.json"
 	},
 	{
 		"state": "active",
@@ -239,7 +239,7 @@
 		"revision_timestamp": "2013-05-30T16:50:01.416157",
 		"is_organization": true,
 		"state": "active",
-		"image_url": "http:\/\/www.vos.noaa.gov\/MWL\/aug_10\/Images\/doc_logo_xparent.png",
+		"image_url": "http://www.vos.noaa.gov/MWL/aug_10/Images/doc_logo_xparent.png",
 		"revision_id": "44c851b9-8872-497a-8a13-2f06740b7ffb",
 		"type": "organization",
 		"id": "9cda5205-d632-4814-96e7-a4ab5e0dce85",

@@ -37,7 +37,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2015-11-09T23:13:50.059538",
-		"url": "http:\/\/accession.nodc.noaa.gov\/0001754",
+		"url": "http://accession.nodc.noaa.gov/0001754",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 0,
@@ -67,7 +67,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2015-11-09T23:13:50.059585",
-		"url": "http:\/\/data.nodc.noaa.gov\/accession\/0001754",
+		"url": "http://data.nodc.noaa.gov/accession/0001754",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 1,
@@ -87,11 +87,11 @@
 	"name": "goddard-and-caldwell-oahu-hawaii-surf-observation-dataset-for-1968-2004-nodc-accession-0001754",
 	"isopen": false,
 	"url": null,
-	"notes": "Surf reports are typically made several times per day at select locations around Oahu, primarily by Honolulu City and County lifeguards and the Surf News Network, Inc. Wave heights are reported in Hawaii Scale Feet, which systematically underestimates breaker size by as much as one-half. Although exactly when and why this tendency originated is highly disputed, it became the primary means of communicating surf size by the late 1960s. From publicly available surf reports and other notes from reputable surfers, Mr. Larry Goddard logged heights from 1968 through September 1987 and Mr. Patrick Caldwell has done similarly from September 1987 to 2004. The caretakers of the dataset typically cross-check observations among the various reporters for quality control. The daily value in the GC set represents the upper end of the reported height range, which is roughly equivalent to H1\/10, for the observing time and location with the highest breakers along a given coast facing a similar direction. For the north shore, most observations are taken at Sunset Point, which is usually one of the areas of highest surf under the dominant northwest swells. For days of extreme surf with heights greater than 15 HSF, visual observations are reported from Waimea Bay, where breakers are closer to shore. For the south shores, Ala Moana is usually the reporting site. Observations from the west and east side of Oahu have also been recorded although these reports are of lower quality. Comparisons of the GC database to 1981-2002 data from NOAA buoy 51001, which is located roughly 400 km west-northwest of Oahu, show the north shore surf observations are temporally consistent with the shoaling-only, buoy-estimated breaker heights and have an uncertainty of 10 to 15% of the surf height.",
+	"notes": "Surf reports are typically made several times per day at select locations around Oahu, primarily by Honolulu City and County lifeguards and the Surf News Network, Inc. Wave heights are reported in Hawaii Scale Feet, which systematically underestimates breaker size by as much as one-half. Although exactly when and why this tendency originated is highly disputed, it became the primary means of communicating surf size by the late 1960s. From publicly available surf reports and other notes from reputable surfers, Mr. Larry Goddard logged heights from 1968 through September 1987 and Mr. Patrick Caldwell has done similarly from September 1987 to 2004. The caretakers of the dataset typically cross-check observations among the various reporters for quality control. The daily value in the GC set represents the upper end of the reported height range, which is roughly equivalent to H1/10, for the observing time and location with the highest breakers along a given coast facing a similar direction. For the north shore, most observations are taken at Sunset Point, which is usually one of the areas of highest surf under the dominant northwest swells. For days of extreme surf with heights greater than 15 HSF, visual observations are reported from Waimea Bay, where breakers are closer to shore. For the south shores, Ala Moana is usually the reporting site. Observations from the west and east side of Oahu have also been recorded although these reports are of lower quality. Comparisons of the GC database to 1981-2002 data from NOAA buoy 51001, which is located roughly 400 km west-northwest of Oahu, show the north shore surf observations are temporally consistent with the shoaling-only, buoy-estimated breaker heights and have an uncertainty of 10 to 15% of the surf height.",
 	"license_title": null,
 	"extras": [{
 		"key": "bbox-east-long",
-		"value": "\n          -157.662\n        "
+		"value": "n          -157.662n        "
 	},
 	{
 		"key": "resource-type",
@@ -99,7 +99,7 @@
 	},
 	{
 		"key": "bbox-north-lat",
-		"value": "\n          21.692\n        "
+		"value": "n          21.692n        "
 	},
 	{
 		"key": "coupled-resource",
@@ -115,7 +115,7 @@
 	},
 	{
 		"key": "bbox-south-lat",
-		"value": "\n          21.257\n        "
+		"value": "n          21.257n        "
 	},
 	{
 		"key": "spatial-reference-system",
@@ -123,7 +123,7 @@
 	},
 	{
 		"key": "spatial",
-		"value": "{\"type\": \"Polygon\", \"coordinates\": [[[-158.222, 21.257], [-157.662, 21.257], [-157.662, 21.692], [-158.222, 21.692], [-158.222, 21.257]]]}"
+		"value": "{"type": "Polygon", "coordinates": [[[-158.222, 21.257], [-157.662, 21.257], [-157.662, 21.692], [-158.222, 21.692], [-158.222, 21.257]]]}"
 	},
 	{
 		"key": "progress",
@@ -131,7 +131,7 @@
 	},
 	{
 		"key": "access_constraints",
-		"value": "[\"Use Constraints: Dataset credit required\", \"Access Constraints: None\"]"
+		"value": "["Use Constraints: Dataset credit required", "Access Constraints: None"]"
 	},
 	{
 		"key": "temporal-extent-begin",
@@ -143,7 +143,7 @@
 	},
 	{
 		"key": "bbox-west-long",
-		"value": "\n          -158.222\n        "
+		"value": "n          -158.222n        "
 	},
 	{
 		"key": "metadata-date",
@@ -151,7 +151,7 @@
 	},
 	{
 		"key": "dataset-reference-date",
-		"value": "[{\"type\": \"publication\", \"value\": \"\"}]"
+		"value": "[{"type": "publication", "value": ""}]"
 	},
 	{
 		"key": "frequency-of-update",
@@ -159,7 +159,7 @@
 	},
 	{
 		"key": "licence",
-		"value": "[\"\\n      NOAA makes no warranty regarding these data, expressed or implied, nor does the fact of distribution constitute such a warranty.  NOAA, NESDIS, NODC and NCDDC cannot assume liability for any damages caused by any errors or omissions in these data, nor as a result of the failure of these data to function on a particular system.\\n    \"]"
+		"value": "["\n      NOAA makes no warranty regarding these data, expressed or implied, nor does the fact of distribution constitute such a warranty.  NOAA, NESDIS, NODC and NCDDC cannot assume liability for any damages caused by any errors or omissions in these data, nor as a result of the failure of these data to function on a particular system.\n    "]"
 	},
 	{
 		"key": "metadata_type",
@@ -167,7 +167,7 @@
 	},
 	{
 		"key": "responsible-party",
-		"value": "[{\"name\": \"NOAA\/NESDIS\/NODC\/NCDDC\", \"roles\": [\"pointOfContact\"]}]"
+		"value": "[{"name": "NOAA/NESDIS/NODC/NCDDC", "roles": ["pointOfContact"]}]"
 	},
 	{
 		"key": "temporal-extent-end",
@@ -213,7 +213,7 @@
 		"revision_timestamp": "2013-03-25T23:05:12.923863",
 		"is_organization": true,
 		"state": "active",
-		"image_url": "https:\/\/fortress.wa.gov\/dfw\/score\/score\/images\/noaa_logo.png",
+		"image_url": "https://fortress.wa.gov/dfw/score/score/images/noaa_logo.png",
 		"revision_id": "c6d43080-22e1-405e-a83d-f2a512d9e867",
 		"type": "organization",
 		"id": "e811f0b4-451f-4896-9e8f-fc6802837819",

@@ -25,7 +25,7 @@
 		"last_modified": null,
 		"hash": "",
 		"description": "",
-		"format": "application\/vnd.lotus-organizer",
+		"format": "application/vnd.lotus-organizer",
 		"tracking_summary": {
 			"total": 85,
 			"recent": 4
@@ -37,7 +37,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2015-09-26T18:57:08.692837",
-		"url": "http:\/\/nsidc.org",
+		"url": "http://nsidc.org",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 0,
@@ -67,7 +67,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2015-09-26T18:57:08.692861",
-		"url": "http:\/\/nsidc.org\/noaa\/",
+		"url": "http://nsidc.org/noaa/",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 1,
@@ -85,7 +85,7 @@
 		"last_modified": null,
 		"hash": "",
 		"description": "",
-		"format": "application\/vnd.lotus-organizer",
+		"format": "application/vnd.lotus-organizer",
 		"tracking_summary": {
 			"total": 85,
 			"recent": 4
@@ -97,7 +97,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2015-09-26T18:57:08.692871",
-		"url": "http:\/\/nsidc.org",
+		"url": "http://nsidc.org",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 2,
@@ -117,7 +117,7 @@
 	"name": "adjusted-monthly-precipitation-snowfall-and-rainfall-for-canada-1874-1990",
 	"isopen": false,
 	"url": null,
-	"notes": "\nThis data set was distributed by NSIDC until October, 2003, when it was withdrawn from distribution because it duplicates the NOAA National Climatic Data Center (NCDC) data set TD-9816 'Canadian Monthly Precipitation' (Groisman, P.Y. 1998. National Climatic Data Center Data Documentation for TD-9816, Canadian Monthly Precipitation. National Climatic Data Center 151 Patton Ave., Asheville, NC. 21 pp.). TD-9816 contains monthly rainfall, snowfall and precipitation (the sum of rainfall and snowfall) values from 6,692 stations in Canada. NCDC investigator Pavel Groisman obtained the original data from the Canadian Atmospheric Environment Service (AES) in the early 1990s and adjusted the measurements to account for inconsistencies and changes in instrumentation over the period of record. TD-9816 contains both the original and adjusted data. Related data are the Historical Adjusted Climate Database for Canada, Version December 2002, and Rehabilitated Precipitation and Homogenized Temperature Data Sets provided by the Climate Monitoring and Data Interpretation Division's Climate Research Branch, Meteorological Service of Canada. Monthly Rehabilitated Precipitation and Homogenized Temperature Data Sets (updated annually) includes an alternative version of this data set using different correction methods. It is distributed by the Meteorological Service of Canada, who also provides a Microsoft Word document that compares the two different data correction methods.\n",
+	"notes": "nThis data set was distributed by NSIDC until October, 2003, when it was withdrawn from distribution because it duplicates the NOAA National Climatic Data Center (NCDC) data set TD-9816 'Canadian Monthly Precipitation' (Groisman, P.Y. 1998. National Climatic Data Center Data Documentation for TD-9816, Canadian Monthly Precipitation. National Climatic Data Center 151 Patton Ave., Asheville, NC. 21 pp.). TD-9816 contains monthly rainfall, snowfall and precipitation (the sum of rainfall and snowfall) values from 6,692 stations in Canada. NCDC investigator Pavel Groisman obtained the original data from the Canadian Atmospheric Environment Service (AES) in the early 1990s and adjusted the measurements to account for inconsistencies and changes in instrumentation over the period of record. TD-9816 contains both the original and adjusted data. Related data are the Historical Adjusted Climate Database for Canada, Version December 2002, and Rehabilitated Precipitation and Homogenized Temperature Data Sets provided by the Climate Monitoring and Data Interpretation Division's Climate Research Branch, Meteorological Service of Canada. Monthly Rehabilitated Precipitation and Homogenized Temperature Data Sets (updated annually) includes an alternative version of this data set using different correction methods. It is distributed by the Meteorological Service of Canada, who also provides a Microsoft Word document that compares the two different data correction methods.n",
 	"license_title": null,
 	"extras": [{
 		"key": "bbox-east-long",
@@ -153,7 +153,7 @@
 	},
 	{
 		"key": "spatial",
-		"value": "{\"type\": \"Polygon\", \"coordinates\": [[[-141.0, 41.0], [-52.0, 41.0], [-52.0, 84.0], [-141.0, 84.0], [-141.0, 41.0]]]}"
+		"value": "{"type": "Polygon", "coordinates": [[[-141.0, 41.0], [-52.0, 41.0], [-52.0, 84.0], [-141.0, 84.0], [-141.0, 41.0]]]}"
 	},
 	{
 		"key": "progress",
@@ -161,7 +161,7 @@
 	},
 	{
 		"key": "access_constraints",
-		"value": "[\"Access Constraints : none\", \"Use Constraints : none\"]"
+		"value": "["Access Constraints : none", "Use Constraints : none"]"
 	},
 	{
 		"key": "temporal-extent-begin",
@@ -181,7 +181,7 @@
 	},
 	{
 		"key": "dataset-reference-date",
-		"value": "[{\"type\": \"publication\", \"value\": \"2000-01-01\"}]"
+		"value": "[{"type": "publication", "value": "2000-01-01"}]"
 	},
 	{
 		"key": "frequency-of-update",
@@ -197,7 +197,7 @@
 	},
 	{
 		"key": "responsible-party",
-		"value": "[{\"name\": \"\", \"roles\": [\"principalInvestigator\"]}]"
+		"value": "[{"name": "", "roles": ["principalInvestigator"]}]"
 	},
 	{
 		"key": "temporal-extent-end",
@@ -213,7 +213,7 @@
 	},
 	{
 		"package_id": "a3d6cda3-8f7f-41cb-b3ff-1a4d69dee847",
-		"value": "wind-induced undercatch, corrected data, atmosphere, esip, earth observing system data information system, noaa, north america, canadian arctic, continent, earth science, canada, mean monthly snowfall, precipitation rate, snow, snow cover, precipitation amount, mean monthly rainfall, station data, snow ruler, evaporation loss, rainfall adjustment, arctic, ground stations, rain, mean monthly precipitation, snowfall adjustment, instrumental inhomogeneities, wetting loss, geographic region, earth science information partners program, precipitation, trace precipitation, nipher snow gauge, terrestrial hydrosphere, adjusted data, nipher rain gauge, eosdis, snow\/ice",
+		"value": "wind-induced undercatch, corrected data, atmosphere, esip, earth observing system data information system, noaa, north america, canadian arctic, continent, earth science, canada, mean monthly snowfall, precipitation rate, snow, snow cover, precipitation amount, mean monthly rainfall, station data, snow ruler, evaporation loss, rainfall adjustment, arctic, ground stations, rain, mean monthly precipitation, snowfall adjustment, instrumental inhomogeneities, wetting loss, geographic region, earth science information partners program, precipitation, trace precipitation, nipher snow gauge, terrestrial hydrosphere, adjusted data, nipher rain gauge, eosdis, snow/ice",
 		"revision_timestamp": "2015-09-26T22:57:08.633972",
 		"state": "active",
 		"key": "tags",
@@ -243,7 +243,7 @@
 		"revision_timestamp": "2013-03-25T23:05:12.923863",
 		"is_organization": true,
 		"state": "active",
-		"image_url": "https:\/\/fortress.wa.gov\/dfw\/score\/score\/images\/noaa_logo.png",
+		"image_url": "https://fortress.wa.gov/dfw/score/score/images/noaa_logo.png",
 		"revision_id": "c6d43080-22e1-405e-a83d-f2a512d9e867",
 		"type": "organization",
 		"id": "e811f0b4-451f-4896-9e8f-fc6802837819",

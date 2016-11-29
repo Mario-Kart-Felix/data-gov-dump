@@ -24,7 +24,7 @@
 		"state": "active",
 		"last_modified": null,
 		"hash": "",
-		"description": "http:\/\/www.nd.gov\/gis",
+		"description": "http://www.nd.gov/gis",
 		"format": "user selects download format",
 		"tracking_summary": {
 			"total": 0,
@@ -34,9 +34,9 @@
 		"resource_locator_protocol": "WWW:LINK-1.0-http--link",
 		"mimetype": null,
 		"cache_url": null,
-		"name": "http:\/\/www.nd.gov\/gis",
+		"name": "http://www.nd.gov/gis",
 		"created": "2015-01-09T11:58:31.320025",
-		"url": "http:\/\/NDGIS web site",
+		"url": "http://NDGIS web site",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 0,
@@ -65,7 +65,7 @@
 		"cache_url": null,
 		"name": "Download Water Supply Areas",
 		"created": "2015-01-09T11:58:31.320053",
-		"url": "http:\/\/www.nd.gov\/gis\/apps\/DataDownload\/?clipping=Full&coord=ND83-SF&format=SHAPE&layers=NDHUB.WATERSUPPLYAREAS",
+		"url": "http://www.nd.gov/gis/apps/DataDownload/?clipping=Full&coord=ND83-SF&format=SHAPE&layers=NDHUB.WATERSUPPLYAREAS",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 1,
@@ -94,7 +94,7 @@
 		"cache_url": null,
 		"name": "Water Supply Areas",
 		"created": "2015-01-09T11:58:31.320061",
-		"url": "http:\/\/ndgishub.nd.gov\/arcgis\/services\/All_GovtBoundaries\/MapServer\/WMSServer?",
+		"url": "http://ndgishub.nd.gov/arcgis/services/All_GovtBoundaries/MapServer/WMSServer?",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 2,
@@ -123,7 +123,7 @@
 		"cache_url": null,
 		"name": "Esri REST including WMS",
 		"created": "2015-01-09T11:58:31.320068",
-		"url": "http:\/\/ndgishub.nd.gov\/ArcGIS\/rest\/services\/All_GovtBoundaries\/MapServer",
+		"url": "http://ndgishub.nd.gov/ArcGIS/rest/services/All_GovtBoundaries/MapServer",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 3,
@@ -152,7 +152,7 @@
 		"cache_url": null,
 		"name": "Esri REST including WFS and KML",
 		"created": "2015-01-09T11:58:31.320075",
-		"url": "http:\/\/ndgishub.nd.gov\/ArcGIS\/rest\/services\/Features\/GovtBoundaries\/MapServer",
+		"url": "http://ndgishub.nd.gov/ArcGIS/rest/services/Features/GovtBoundaries/MapServer",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 4,
@@ -185,7 +185,7 @@
 	"name": "water-supply-areas",
 	"isopen": false,
 	"url": null,
-	"notes": "10\/4\/11 - The Western Area Water Supply areas have been added. It should be noted that WAWS overlaps with the Northwest Area Water Supply area (NAWS) due to an oversight on updating ND Century Code which should have removed the WAWS areas from NAWS. Additionally, a portion of the Southwest Water Pipeline Project (SWPP) overlaps WAWS in southeast McKenzie County as it is currently the only service provider in the area. \n\nThe Southwest Water Pipeline Project service area delineations were obtained from Bartlett & West Engineering and combined with the State Water Commissions boundaries\/service areas for the Northwest Area Water Supply system.",
+	"notes": "10/4/11 - The Western Area Water Supply areas have been added. It should be noted that WAWS overlaps with the Northwest Area Water Supply area (NAWS) due to an oversight on updating ND Century Code which should have removed the WAWS areas from NAWS. Additionally, a portion of the Southwest Water Pipeline Project (SWPP) overlaps WAWS in southeast McKenzie County as it is currently the only service provider in the area. nnThe Southwest Water Pipeline Project service area delineations were obtained from Bartlett & West Engineering and combined with the State Water Commissions boundaries/service areas for the Northwest Area Water Supply system.",
 	"license_title": null,
 	"extras": [{
 		"key": "bbox-east-long",
@@ -229,7 +229,7 @@
 	},
 	{
 		"key": "spatial",
-		"value": "{\"type\": \"Polygon\", \"coordinates\": [[[-104.5, 45.5], [-96.5, 45.5], [-96.5, 49.5], [-104.5, 49.5], [-104.5, 45.5]]]}"
+		"value": "{"type": "Polygon", "coordinates": [[[-104.5, 45.5], [-96.5, 45.5], [-96.5, 49.5], [-104.5, 49.5], [-104.5, 45.5]]]}"
 	},
 	{
 		"key": "progress",
@@ -237,7 +237,7 @@
 	},
 	{
 		"key": "access_constraints",
-		"value": "[\"The State of North Dakota has compiled this data according to conventional cartographic standards, using what is thought to be the most reliable information available.  This data is intended to make results of research available at the earliest possible date, but is not intended to constitute final or formal publication.  The State of North Dakota makes every effort to provide virus-free files but does not guarantee uncorrupted files.  The State of North Dakota does not guarantee this data to be free from errors, inaccuracies, or viruses, and disclaims any responsibility or liability for interpretations or decisions based on this data.\"]"
+		"value": "["The State of North Dakota has compiled this data according to conventional cartographic standards, using what is thought to be the most reliable information available.  This data is intended to make results of research available at the earliest possible date, but is not intended to constitute final or formal publication.  The State of North Dakota makes every effort to provide virus-free files but does not guarantee uncorrupted files.  The State of North Dakota does not guarantee this data to be free from errors, inaccuracies, or viruses, and disclaims any responsibility or liability for interpretations or decisions based on this data."]"
 	},
 	{
 		"key": "contact-email",
@@ -253,7 +253,7 @@
 	},
 	{
 		"key": "dataset-reference-date",
-		"value": "[{\"type\": \"publication\", \"value\": \"2011-10-04T00:00:00\"}]"
+		"value": "[{"type": "publication", "value": "2011-10-04T00:00:00"}]"
 	},
 	{
 		"key": "graphic-preview-description",
@@ -273,7 +273,7 @@
 	},
 	{
 		"key": "responsible-party",
-		"value": "[{\"name\": \"North Dakota State Water Commission\", \"roles\": [\"originator\"]}]"
+		"value": "[{"name": "North Dakota State Water Commission", "roles": ["originator"]}]"
 	},
 	{
 		"key": "spatial-data-service-type",
@@ -308,14 +308,14 @@
 		"value": "North Dakota GIS Hub Data Portal"
 	}],
 	"organization": {
-		"description": "The GIS Hub is the state source for GIS - data, services, and information.  More information can be found at www.nd.gov\/gis.",
+		"description": "The GIS Hub is the state source for GIS - data, services, and information.  More information can be found at www.nd.gov/gis.",
 		"created": "2013-03-14T03:44:44.340717",
 		"title": "State of North Dakota",
 		"name": "nd-gov",
 		"revision_timestamp": "2013-07-15T16:27:30.098476",
 		"is_organization": true,
 		"state": "active",
-		"image_url": "http:\/\/www.nd.gov\/gis\/images\/ndgis-logo.gif",
+		"image_url": "http://www.nd.gov/gis/images/ndgis-logo.gif",
 		"revision_id": "27517bb9-815c-4d4f-b45b-b88b6316697b",
 		"type": "organization",
 		"id": "1c782de6-9f1f-4427-93fd-33732e29970f",

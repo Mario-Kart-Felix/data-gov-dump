@@ -36,7 +36,7 @@
 		"cache_url": null,
 		"name": "Zipped 2007 Excel file containing Well Log Observations for the State of Minnesota",
 		"created": "2013-03-15T23:39:11.274106",
-		"url": "http:\/\/repository.stategeothermaldata.org\/metadata\/record\/9e15e1a59b768b330d029e86dc0d73c1\/file\/mnwelllogs_task1441_20121211.zip",
+		"url": "http://repository.stategeothermaldata.org/metadata/record/9e15e1a59b768b330d029e86dc0d73c1/file/mnwelllogs_task1441_20121211.zip",
 		"webstore_url": null,
 		"resource_locator_function": "375",
 		"position": 0,
@@ -65,7 +65,7 @@
 		"cache_url": null,
 		"name": "Service Description",
 		"created": "2013-03-15T23:39:11.274127",
-		"url": "http:\/\/mgsweb2.mngs.umn.edu\/ArcGIS\/rest\/services\/MNHeatFlow\/MapServer",
+		"url": "http://mgsweb2.mngs.umn.edu/ArcGIS/rest/services/MNHeatFlow/MapServer",
 		"webstore_url": null,
 		"resource_locator_function": "381",
 		"position": 1,
@@ -94,7 +94,7 @@
 		"cache_url": null,
 		"name": "Downloadable File",
 		"created": "2013-03-15T23:39:11.274135",
-		"url": "http:\/\/mgsweb2.mngs.umn.edu\/ArcGIS\/services\/MNHeatFlow\/MapServer\/WMSServer?request=GetCapabilities&service=WMS",
+		"url": "http://mgsweb2.mngs.umn.edu/ArcGIS/services/MNHeatFlow/MapServer/WMSServer?request=GetCapabilities&service=WMS",
 		"webstore_url": null,
 		"resource_locator_function": "375",
 		"position": 2,
@@ -123,7 +123,7 @@
 		"cache_url": null,
 		"name": "Service Description",
 		"created": "2013-03-15T23:39:11.274142",
-		"url": "http:\/\/mgsweb2.mngs.umn.edu\/ArcGIS\/services\/MNHeatFlow\/MapServer\/WFSServer?request=GetCapabilities&service=WFS",
+		"url": "http://mgsweb2.mngs.umn.edu/ArcGIS/services/MNHeatFlow/MapServer/WFSServer?request=GetCapabilities&service=WFS",
 		"webstore_url": null,
 		"resource_locator_function": "381",
 		"position": 3,
@@ -156,11 +156,11 @@
 	"name": "minnesota-well-logs",
 	"isopen": false,
 	"url": null,
-	"notes": "These data contain basic information describing well logs and compiled by the Dept. of Geology & Geological Engineering, University of North Dakota, published as a downloadable file, ESRI Service, and as a Web Feature service for the National Geothermal Data System . The downloadable documents contain 9 worksheets, including information about the template, notes related to revisions of the template, resource provider information, the data, a field list (data mapping view) and a worksheet with vocabularies for use in populating the spreadsheet (data valid terms). Data from 2,491 total well logs are included. Fields in the data table include Well Name, API Number, Ended Drilling Date, Well Type, Bottom Logged Interval,and Log Notes.\nPublication Date: Jun 13, 2012 ",
+	"notes": "These data contain basic information describing well logs and compiled by the Dept. of Geology & Geological Engineering, University of North Dakota, published as a downloadable file, ESRI Service, and as a Web Feature service for the National Geothermal Data System . The downloadable documents contain 9 worksheets, including information about the template, notes related to revisions of the template, resource provider information, the data, a field list (data mapping view) and a worksheet with vocabularies for use in populating the spreadsheet (data valid terms). Data from 2,491 total well logs are included. Fields in the data table include Well Name, API Number, Ended Drilling Date, Well Type, Bottom Logged Interval,and Log Notes.nPublication Date: Jun 13, 2012 ",
 	"license_title": null,
 	"extras": [{
 		"key": "responsible-party",
-		"value": "[{\"name\": \"AZGS\", \"roles\": [\"pointOfContact\"]}]"
+		"value": "[{"name": "AZGS", "roles": ["pointOfContact"]}]"
 	},
 	{
 		"key": "contact-email",
@@ -180,7 +180,7 @@
 	},
 	{
 		"key": "dataset-reference-date",
-		"value": "[{\"type\": \"publication\", \"value\": \"2012-12-11T00:00:00\"}]"
+		"value": "[{"type": "publication", "value": "2012-12-11T00:00:00"}]"
 	},
 	{
 		"key": "resource-type",
@@ -216,7 +216,7 @@
 	},
 	{
 		"key": "spatial",
-		"value": "{\"type\": \"Polygon\", \"coordinates\": [[[-98.9292883873, 42.6225441676], [-98.9292883873, 49.7854343475], [-90.2281165123, 49.7854343475], [-90.2281165123, 42.6225441676], [-98.9292883873, 42.6225441676]]]}"
+		"value": "{"type": "Polygon", "coordinates": [[[-98.9292883873, 42.6225441676], [-98.9292883873, 49.7854343475], [-90.2281165123, 49.7854343475], [-90.2281165123, 42.6225441676], [-98.9292883873, 42.6225441676]]]}"
 	},
 	{
 		"key": "guid",
@@ -266,7 +266,7 @@
 		"revision_timestamp": "2013-03-20T21:11:17.592932",
 		"is_organization": true,
 		"state": "active",
-		"image_url": "http:\/\/www.50states.com\/flag\/image\/nunst004.gif",
+		"image_url": "http://www.50states.com/flag/image/nunst004.gif",
 		"revision_id": "61be6428-4398-4199-a336-f3cd1e956f9b",
 		"type": "organization",
 		"id": "f3f6e1d4-64fb-4a2f-b32c-9ac0b76fe4de",

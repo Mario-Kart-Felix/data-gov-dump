@@ -37,7 +37,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2014-12-17T13:21:43.094054",
-		"url": "http:\/\/gis.miamidade.gov",
+		"url": "http://gis.miamidade.gov",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 0,
@@ -67,7 +67,7 @@
 		"cache_url": null,
 		"name": "XML File",
 		"created": "2014-12-17T13:21:43.094089",
-		"url": "http:\/\/gisims2.miamidade.gov\/MiamiMeta\/FDStationTerritoryInhabited.xml",
+		"url": "http://gisims2.miamidade.gov/MiamiMeta/FDStationTerritoryInhabited.xml",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 1,
@@ -97,7 +97,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2014-12-17T13:21:43.094102",
-		"url": "http:\/\/www.miamidade.gov\/technology\/geographic-information-systems.asp",
+		"url": "http://www.miamidade.gov/technology/geographic-information-systems.asp",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 2,
@@ -127,7 +127,7 @@
 		"cache_url": null,
 		"name": "XML File",
 		"created": "2014-12-17T13:21:43.094140",
-		"url": "http:\/\/gisinventory.net\/metadata\/gis-inventory-metadata-6401-25282.xml",
+		"url": "http://gisinventory.net/metadata/gis-inventory-metadata-6401-25282.xml",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 3,
@@ -147,11 +147,11 @@
 	"name": "fire-and-ems-districts-mdc-fdstationterritoryinhabited",
 	"isopen": false,
 	"url": null,
-	"notes": "A polygon feature class of Miami-Dade County Fire Rescue (MDFR) Fire District Station Territories clipped to the extent of inhabited areas. This layer is intended for use by the Fire Hydrant Maintenance application only. This layer is not a complete representation of the MDFR territories since it excludes the unihabited areas of the Everglades and southern Miami-Dade County. The territories shown represent the inhabited portions of the MDFR fire station jurisdiction or responsibility. Therefore, the five municipalities that have their own fire departments - Miami, Miami Beach, Coral Gables, Hialeah, and Key Biscayne - are excluded from the MDFR territories with the exception of the Port of Miami (station 39) which is in the City of Miami and the northeastern corner of Fisher Island (station 42) which is inside Miami Beach. Large areas of water and uninhabited islands, such as those of the Atlantic Ocean and Biscayne Bay, are also excluded from the MDFR territories, although this exclusion is currently considered inconsistent with the true definition of territory (meaning, jurisdiction\/responsibility), since the MDFR Fire Boat at station 39 and many stations with rigid-hull inflatable boats (RHIBs) can and do respond in these unincorporated areas of water. It should also be noted that the FireDistrictStationTerritories are often, but not always, the same as the closest station areas (as depicted in CountywideClosestStationArea). As of this writing, stations 87 (administrative headquarters), 24 (Air Rescue), 41, and 62 do not have territories because they either lack equipment or manpower. Most of the Everglades have been excluded from this layer, although they are technically part of the MDFR jurisdiction.",
+	"notes": "A polygon feature class of Miami-Dade County Fire Rescue (MDFR) Fire District Station Territories clipped to the extent of inhabited areas. This layer is intended for use by the Fire Hydrant Maintenance application only. This layer is not a complete representation of the MDFR territories since it excludes the unihabited areas of the Everglades and southern Miami-Dade County. The territories shown represent the inhabited portions of the MDFR fire station jurisdiction or responsibility. Therefore, the five municipalities that have their own fire departments - Miami, Miami Beach, Coral Gables, Hialeah, and Key Biscayne - are excluded from the MDFR territories with the exception of the Port of Miami (station 39) which is in the City of Miami and the northeastern corner of Fisher Island (station 42) which is inside Miami Beach. Large areas of water and uninhabited islands, such as those of the Atlantic Ocean and Biscayne Bay, are also excluded from the MDFR territories, although this exclusion is currently considered inconsistent with the true definition of territory (meaning, jurisdiction/responsibility), since the MDFR Fire Boat at station 39 and many stations with rigid-hull inflatable boats (RHIBs) can and do respond in these unincorporated areas of water. It should also be noted that the FireDistrictStationTerritories are often, but not always, the same as the closest station areas (as depicted in CountywideClosestStationArea). As of this writing, stations 87 (administrative headquarters), 24 (Air Rescue), 41, and 62 do not have territories because they either lack equipment or manpower. Most of the Everglades have been excluded from this layer, although they are technically part of the MDFR jurisdiction.",
 	"license_title": null,
 	"extras": [{
 		"key": "responsible-party",
-		"value": "[{\"name\": \"Miami-Dade County, Information Technology Department\", \"roles\": [\"pointOfContact\"]}]"
+		"value": "[{"name": "Miami-Dade County, Information Technology Department", "roles": ["pointOfContact"]}]"
 	},
 	{
 		"key": "contact-email",
@@ -171,7 +171,7 @@
 	},
 	{
 		"key": "dataset-reference-date",
-		"value": "[{\"type\": \"publication\", \"value\": \"\"}]"
+		"value": "[{"type": "publication", "value": ""}]"
 	},
 	{
 		"key": "resource-type",
@@ -199,7 +199,7 @@
 	},
 	{
 		"key": "licence",
-		"value": "[\"Although these data have been processed successfully on a computer system by the data steward, no warranty either expressed or implied is made regarding the utility of the data on any system, nor shall this notice generated by the Ramona GIS Inventory System or the act of distribution constitute any such warranty. The data steward may have additional liability information associated with delivery or distribution of this product.\"]"
+		"value": "["Although these data have been processed successfully on a computer system by the data steward, no warranty either expressed or implied is made regarding the utility of the data on any system, nor shall this notice generated by the Ramona GIS Inventory System or the act of distribution constitute any such warranty. The data steward may have additional liability information associated with delivery or distribution of this product."]"
 	},
 	{
 		"key": "metadata_type",
@@ -211,7 +211,7 @@
 	},
 	{
 		"key": "spatial",
-		"value": "{\"type\": \"Polygon\", \"coordinates\": [[[-80.87362671, 25.14383888], [-80.11457062, 25.14383888], [-80.11457062, 25.97943687], [-80.87362671, 25.97943687], [-80.87362671, 25.14383888]]]}"
+		"value": "{"type": "Polygon", "coordinates": [[[-80.87362671, 25.14383888], [-80.11457062, 25.14383888], [-80.11457062, 25.97943687], [-80.87362671, 25.97943687], [-80.87362671, 25.14383888]]]}"
 	},
 	{
 		"key": "guid",
@@ -223,7 +223,7 @@
 	},
 	{
 		"key": "access_constraints",
-		"value": "[\"Use Constraints: This is an incomplete metadata record and use constraints are not documented by the Ramona GIS Inventory system.\", \"Access Constraints: This is an incomplete metadata record and access constraints are not documented by the Ramona GIS Inventory system.\"]"
+		"value": "["Use Constraints: This is an incomplete metadata record and use constraints are not documented by the Ramona GIS Inventory system.", "Access Constraints: This is an incomplete metadata record and access constraints are not documented by the Ramona GIS Inventory system."]"
 	},
 	{
 		"key": "spatial_harvester",
@@ -265,7 +265,7 @@
 		"revision_timestamp": "2014-09-11T20:27:16.009304",
 		"is_organization": true,
 		"state": "active",
-		"image_url": "http:\/\/www.nsgic.org\/public_resources\/nsgic-logo-b_1321892056.gif",
+		"image_url": "http://www.nsgic.org/public_resources/nsgic-logo-b_1321892056.gif",
 		"revision_id": "979d3df0-d323-4e1e-ac62-d1623b463626",
 		"type": "organization",
 		"id": "b0b4c45b-a8ca-416b-b463-ee90d0a1a3df",

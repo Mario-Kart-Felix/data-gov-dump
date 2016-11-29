@@ -37,7 +37,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2013-03-14T13:22:33.918977",
-		"url": "http:\/\/None",
+		"url": "http://None",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 0,
@@ -67,7 +67,7 @@
 		"cache_url": null,
 		"name": "Zip File",
 		"created": "2013-03-14T13:22:33.918999",
-		"url": "http:\/\/giscenter-sl.isu.edu\/AOC\/AOC_DOQQ\/Idaho\/7-NAIP_2009\/100Ktiles_NAIP2009\/NAIP2009_jp2000\/Preston.zip",
+		"url": "http://giscenter-sl.isu.edu/AOC/AOC_DOQQ/Idaho/7-NAIP_2009/100Ktiles_NAIP2009/NAIP2009_jp2000/Preston.zip",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 1,
@@ -97,7 +97,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2013-03-14T13:22:33.919007",
-		"url": "http:\/\/www.idwr.idaho.gov\/GeographicInfo\/",
+		"url": "http://www.idwr.idaho.gov/GeographicInfo/",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 2,
@@ -127,7 +127,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2013-03-14T13:22:33.919014",
-		"url": "http:\/idwr.idaho.gov",
+		"url": "http:/idwr.idaho.gov",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 3,
@@ -147,7 +147,7 @@
 	"name": "pres100k-naip2009-1m-jp2",
 	"isopen": false,
 	"url": null,
-	"notes": "This data set contains imagery from the National Agriculture Imagery Program (NAIP). The NAIP acquires digital ortho imagery during the agricultural growing seasons in the continental U.S.. A primary goal of the NAIP program is to enable availability of ortho imagery within one year of acquisition. The NAIP provides two main products: 1 meter ground sample distance (GSD) ortho imagery rectified to a horizontal accuracy within +\/- 5 meters of reference digital ortho quarter quads (DOQQ's) from the National Digital Ortho Program (NDOP) or from the National Agriculture Imagery Program (NAIP); 1 meter GSD ortho imagery rectified within +\/- 6 meters to true ground. The tiling format of NAIP imagery is based on a 3.75' x 3.75' quarter quadrangle with a 300 meter buffer on all four sides. The NAIP imagery is formatted to the UTM coordinate system using the North American Datum of 1983 (NAD83). The NAIP imagery may contain as much as 10% cloud cover per tile. The quarter quads have been reprojected from UTM 11 or UTM 12 to IDTM83 projection (ESPG 102605), mosaicked into 100k tiles, and compressed using ERDAS Imagine for use in ArcGIS.",
+	"notes": "This data set contains imagery from the National Agriculture Imagery Program (NAIP). The NAIP acquires digital ortho imagery during the agricultural growing seasons in the continental U.S.. A primary goal of the NAIP program is to enable availability of ortho imagery within one year of acquisition. The NAIP provides two main products: 1 meter ground sample distance (GSD) ortho imagery rectified to a horizontal accuracy within +/- 5 meters of reference digital ortho quarter quads (DOQQ's) from the National Digital Ortho Program (NDOP) or from the National Agriculture Imagery Program (NAIP); 1 meter GSD ortho imagery rectified within +/- 6 meters to true ground. The tiling format of NAIP imagery is based on a 3.75' x 3.75' quarter quadrangle with a 300 meter buffer on all four sides. The NAIP imagery is formatted to the UTM coordinate system using the North American Datum of 1983 (NAD83). The NAIP imagery may contain as much as 10% cloud cover per tile. The quarter quads have been reprojected from UTM 11 or UTM 12 to IDTM83 projection (ESPG 102605), mosaicked into 100k tiles, and compressed using ERDAS Imagine for use in ArcGIS.",
 	"license_title": null,
 	"extras": [{
 		"key": "bbox-east-long",
@@ -183,11 +183,11 @@
 	},
 	{
 		"key": "spatial",
-		"value": "{\"type\": \"Polygon\", \"coordinates\": [[[-114.002476, 43.495548], [-114.002476, 44.004285], [-112.992454, 44.004285], [-112.992454, 43.495548], [-114.002476, 43.495548]]]}"
+		"value": "{"type": "Polygon", "coordinates": [[[-114.002476, 43.495548], [-114.002476, 44.004285], [-112.992454, 44.004285], [-112.992454, 43.495548], [-114.002476, 43.495548]]]}"
 	},
 	{
 		"key": "access_constraints",
-		"value": "[\"Use Constraints: None, The USDA-FSA Aerial Photography Field Office asks to be credited in derived products. If defects are found in the NAIP imagery during the warranty period such as horizontal offsets, replacement imagery may be provided. Imagery containing defects that require the acquisition of new imagery, such as excessive cloud cover, specular reflectance, etc., will not be replaced within a NAIP project year.\", \"Access Constraints: None\"]"
+		"value": "["Use Constraints: None, The USDA-FSA Aerial Photography Field Office asks to be credited in derived products. If defects are found in the NAIP imagery during the warranty period such as horizontal offsets, replacement imagery may be provided. Imagery containing defects that require the acquisition of new imagery, such as excessive cloud cover, specular reflectance, etc., will not be replaced within a NAIP project year.", "Access Constraints: None"]"
 	},
 	{
 		"key": "temporal-extent-begin",
@@ -207,7 +207,7 @@
 	},
 	{
 		"key": "dataset-reference-date",
-		"value": "[{\"type\": \"publication\", \"value\": \"2009-01-01\"}, {\"type\": \"publication\", \"value\": \"2009-09-16\"}]"
+		"value": "[{"type": "publication", "value": "2009-01-01"}, {"type": "publication", "value": "2009-09-16"}]"
 	},
 	{
 		"key": "frequency-of-update",
@@ -215,7 +215,7 @@
 	},
 	{
 		"key": "licence",
-		"value": "[\"Although these data have been processed successfully on a computer system at the Idaho Department of Water Resources, no warranty expressed or implied is made regarding the accuracy or utility of the data on any other system or for general or scientific purposes, nor shall the act of distribution constitute any such warranty. It is also strongly recommended that careful attention be paid to the contents of the metadata file associated with these data to evaluate data set limitations, restrictions or intended use. The Idaho Department of Water Resources shall not be held liable for improper or incorrect use of the data described and\/or contained herein.\"]"
+		"value": "["Although these data have been processed successfully on a computer system at the Idaho Department of Water Resources, no warranty expressed or implied is made regarding the accuracy or utility of the data on any other system or for general or scientific purposes, nor shall the act of distribution constitute any such warranty. It is also strongly recommended that careful attention be paid to the contents of the metadata file associated with these data to evaluate data set limitations, restrictions or intended use. The Idaho Department of Water Resources shall not be held liable for improper or incorrect use of the data described and/or contained herein."]"
 	},
 	{
 		"key": "metadata_type",
@@ -223,7 +223,7 @@
 	},
 	{
 		"key": "responsible-party",
-		"value": "[{\"name\": \"Idaho Department of Water Resoources\", \"roles\": [\"pointOfContact\"]}]"
+		"value": "[{"name": "Idaho Department of Water Resoources", "roles": ["pointOfContact"]}]"
 	},
 	{
 		"key": "temporal-extent-end",
@@ -269,7 +269,7 @@
 		"revision_timestamp": "2015-01-16T18:11:48.257570",
 		"is_organization": true,
 		"state": "active",
-		"image_url": "http:\/\/upload.wikimedia.org\/wikipedia\/en\/thumb\/7\/7f\/Idaho_State_University_Seal.svg\/538px-Idaho_State_University_Seal.svg.png",
+		"image_url": "http://upload.wikimedia.org/wikipedia/en/thumb/7/7f/Idaho_State_University_Seal.svg/538px-Idaho_State_University_Seal.svg.png",
 		"revision_id": "082abca7-323d-4508-9cae-ff51228ddbee",
 		"type": "organization",
 		"id": "e2989651-3650-4143-97d2-3989d3d1332c",

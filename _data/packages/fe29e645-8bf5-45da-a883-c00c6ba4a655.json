@@ -37,7 +37,7 @@
 		"cache_url": null,
 		"name": "Zip File",
 		"created": "2015-08-12T01:37:30.379680",
-		"url": "http:\/\/www.data.bsee.gov\/homepg\/pubinfo\/repcat\/arcinfo\/zipped\/ppl_arcs.zip",
+		"url": "http://www.data.bsee.gov/homepg/pubinfo/repcat/arcinfo/zipped/ppl_arcs.zip",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 0,
@@ -67,7 +67,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2015-08-12T01:37:30.379703",
-		"url": "http:\/\/www.data.bsee.gov\/homepg\/data_center\/mapping\/geographic_mapping.asp",
+		"url": "http://www.data.bsee.gov/homepg/data_center/mapping/geographic_mapping.asp",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 1,
@@ -114,7 +114,7 @@
 	"name": "outer-continental-shelf-pipelines-gulf-of-mexico-region-nad-27",
 	"isopen": false,
 	"url": null,
-	"notes": "This polyline data set contains the locations of oil and gas pipelines in the Gulf of Mexico Outer Continental Shelf federal waters that are associated with the oil and gas industry\u00e2\u0080\u0099s pipeline infrastructure. Note: Pipelines are being added or modified continuously; obtaining updates of this data are required to know the true distribution of pipeline data.Because GIS projection and topology functions can change or generalize coordinates, these GIS files are considered to be approximate and are NOT an OFFICIAL record. Contains the pipeline arcs as of December 2014. Used ArcCatalog to create shape files.",
+	"notes": "This polyline data set contains the locations of oil and gas pipelines in the Gulf of Mexico Outer Continental Shelf federal waters that are associated with the oil and gas industryu00e2u0080u0099s pipeline infrastructure. Note: Pipelines are being added or modified continuously; obtaining updates of this data are required to know the true distribution of pipeline data.Because GIS projection and topology functions can change or generalize coordinates, these GIS files are considered to be approximate and are NOT an OFFICIAL record. Contains the pipeline arcs as of December 2014. Used ArcCatalog to create shape files.",
 	"license_title": null,
 	"extras": [{
 		"key": "bbox-east-long",
@@ -138,7 +138,7 @@
 	},
 	{
 		"key": "graphic-preview-file",
-		"value": "http:\/\/www.data.bsee.gov\/images_opt\/graphics\/gis\/GOMR_PPL_masters.png"
+		"value": "http://www.data.bsee.gov/images_opt/graphics/gis/GOMR_PPL_masters.png"
 	},
 	{
 		"key": "bbox-south-lat",
@@ -146,7 +146,7 @@
 	},
 	{
 		"key": "__category_tag_78473e2f-b6ba-4e28-b0c1-d53c35a7e010",
-		"value": "[\"Pipelines\",\"Energy\"]"
+		"value": "["Pipelines","Energy"]"
 	},
 	{
 		"key": "spatial-reference-system",
@@ -158,7 +158,7 @@
 	},
 	{
 		"key": "spatial",
-		"value": "{\"type\": \"Polygon\", \"coordinates\": [[[-97.562131, 26.035513], [-82.574911, 26.035513], [-82.574911, 30.375579], [-97.562131, 30.375579], [-97.562131, 26.035513]]]}"
+		"value": "{"type": "Polygon", "coordinates": [[[-97.562131, 26.035513], [-82.574911, 26.035513], [-82.574911, 30.375579], [-97.562131, 30.375579], [-97.562131, 26.035513]]]}"
 	},
 	{
 		"key": "progress",
@@ -166,7 +166,7 @@
 	},
 	{
 		"key": "access_constraints",
-		"value": "[\"Use Constraints: The data was developed within the U.S. Government; no proprietary rights may be attached to them nor may they be sold to the U.S. Government as part of any procurement of ADP products or services. This data is NOT to be used for any MAS products\", \"Access Constraints: None\"]"
+		"value": "["Use Constraints: The data was developed within the U.S. Government; no proprietary rights may be attached to them nor may they be sold to the U.S. Government as part of any procurement of ADP products or services. This data is NOT to be used for any MAS products", "Access Constraints: None"]"
 	},
 	{
 		"key": "contact-email",
@@ -182,7 +182,7 @@
 	},
 	{
 		"key": "dataset-reference-date",
-		"value": "[{\"type\": \"publication\", \"value\": \"2014-12-24\"}]"
+		"value": "[{"type": "publication", "value": "2014-12-24"}]"
 	},
 	{
 		"key": "graphic-preview-description",
@@ -194,7 +194,7 @@
 	},
 	{
 		"key": "licence",
-		"value": "[\"Although these data have been processed successfully on a computer system at the Bureau of Safety and Environmental Enforcement , no warranty expressed or implied is made regarding the accuracy or utility of the data on any other system or for general or scientific purposes, nor shall the act of distribution constitute any such warranty. It is also strongly recommended that careful attention be paid to the contents of the metadata file associated with these data to evaluate data set limitations, restrictions or intended use. The Bureau of Safety and Environmental Enforcement shall not be held liable for improper or incorrect use of the data described and\/or contained herein.\"]"
+		"value": "["Although these data have been processed successfully on a computer system at the Bureau of Safety and Environmental Enforcement , no warranty expressed or implied is made regarding the accuracy or utility of the data on any other system or for general or scientific purposes, nor shall the act of distribution constitute any such warranty. It is also strongly recommended that careful attention be paid to the contents of the metadata file associated with these data to evaluate data set limitations, restrictions or intended use. The Bureau of Safety and Environmental Enforcement shall not be held liable for improper or incorrect use of the data described and/or contained herein."]"
 	},
 	{
 		"key": "metadata_type",
@@ -202,7 +202,7 @@
 	},
 	{
 		"key": "responsible-party",
-		"value": "[{\"name\": \"Bureau of Safety and Environmental Enforcement\", \"roles\": [\"pointOfContact\"]}]"
+		"value": "[{"name": "Bureau of Safety and Environmental Enforcement", "roles": ["pointOfContact"]}]"
 	},
 	{
 		"key": "spatial-data-service-type",
@@ -244,7 +244,7 @@
 		"revision_timestamp": "2013-03-20T22:26:39.819248",
 		"is_organization": true,
 		"state": "active",
-		"image_url": "http:\/\/www.boem.gov\/images\/boem\/layout\/logo.png",
+		"image_url": "http://www.boem.gov/images/boem/layout/logo.png",
 		"revision_id": "6f2fda4e-48e9-42f6-b1dd-da068900ba24",
 		"type": "organization",
 		"id": "54ed71a6-4861-4dc1-aa78-c5661ba9ab04",

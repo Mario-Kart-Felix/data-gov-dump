@@ -36,7 +36,7 @@
 		"cache_url": null,
 		"name": "Data Subset Form",
 		"created": "2016-10-19T14:48:02.404916",
-		"url": "http:\/\/coastwatch.pfeg.noaa.gov\/erddap\/tabledap\/apdrcArgoAll.html",
+		"url": "http://coastwatch.pfeg.noaa.gov/erddap/tabledap/apdrcArgoAll.html",
 		"webstore_url": null,
 		"resource_locator_function": "download",
 		"position": 0,
@@ -65,7 +65,7 @@
 		"cache_url": null,
 		"name": "Make-A-Graph Form",
 		"created": "2016-10-19T14:48:02.404941",
-		"url": "http:\/\/coastwatch.pfeg.noaa.gov\/erddap\/tabledap\/apdrcArgoAll.graph",
+		"url": "http://coastwatch.pfeg.noaa.gov/erddap/tabledap/apdrcArgoAll.graph",
 		"webstore_url": null,
 		"resource_locator_function": "mapDigital",
 		"position": 1,
@@ -94,7 +94,7 @@
 		"cache_url": null,
 		"name": "Background Information",
 		"created": "2016-10-19T14:48:02.404950",
-		"url": "http:\/\/floats.pmel.noaa.gov\/",
+		"url": "http://floats.pmel.noaa.gov/",
 		"webstore_url": null,
 		"resource_locator_function": "information",
 		"position": 2,
@@ -123,7 +123,7 @@
 		"cache_url": null,
 		"name": "Background Information",
 		"created": "2016-10-19T14:48:02.404958",
-		"url": "http:\/\/floats.pmel.noaa.gov\/",
+		"url": "http://floats.pmel.noaa.gov/",
 		"webstore_url": null,
 		"resource_locator_function": "information",
 		"position": 3,
@@ -152,7 +152,7 @@
 		"cache_url": null,
 		"name": "Background Information",
 		"created": "2016-10-19T14:48:02.404965",
-		"url": "http:\/\/floats.pmel.noaa.gov\/",
+		"url": "http://floats.pmel.noaa.gov/",
 		"webstore_url": null,
 		"resource_locator_function": "information",
 		"position": 4,
@@ -181,7 +181,7 @@
 		"cache_url": null,
 		"name": "ERDDAP-tabledap",
 		"created": "2016-10-19T14:48:02.404972",
-		"url": "http:\/\/coastwatch.pfeg.noaa.gov\/erddap\/tabledap\/apdrcArgoAll",
+		"url": "http://coastwatch.pfeg.noaa.gov/erddap/tabledap/apdrcArgoAll",
 		"webstore_url": null,
 		"resource_locator_function": "download",
 		"position": 5,
@@ -210,7 +210,7 @@
 		"cache_url": null,
 		"name": "Background Information",
 		"created": "2016-10-19T14:48:02.404979",
-		"url": "http:\/\/floats.pmel.noaa.gov\/",
+		"url": "http://floats.pmel.noaa.gov/",
 		"webstore_url": null,
 		"resource_locator_function": "information",
 		"position": 6,
@@ -239,7 +239,7 @@
 		"cache_url": null,
 		"name": "OPeNDAP",
 		"created": "2016-10-19T14:48:02.404987",
-		"url": "http:\/\/coastwatch.pfeg.noaa.gov\/erddap\/tabledap\/apdrcArgoAll",
+		"url": "http://coastwatch.pfeg.noaa.gov/erddap/tabledap/apdrcArgoAll",
 		"webstore_url": null,
 		"resource_locator_function": "download",
 		"position": 7,
@@ -259,7 +259,7 @@
 	"name": "argo-float-data-from-the-apdrc-dapper-server",
 	"isopen": false,
 	"url": null,
-	"notes": "The floats are designed to drift at a fixed pressure (usually 1000 dbar) for 10 days. After this period, the floats move to a profiling pressure (usually between 1000 and 2000 dbar) then rise, collecting profiles of pressure, temperature, and salinity data on their way to the surface. Once at the surface, the floats remain there for under a day, transmitting the data collected by satellite back to NOAA\/PMEL and allowing the satellite to determine their surface drift. They then sink again and repeat their mission. The floats have a nominal lifetime of five years, and will yield valuable information about large-scale ocean water property distributions and currents, including their variability over time scales from seasonal to the duration of the array.\n\nNote that a given request will return a maximum of 15000 rows of data.  So if you get a response with ~15000 rows, resubmit the request as 2 or more smaller requests.",
+	"notes": "The floats are designed to drift at a fixed pressure (usually 1000 dbar) for 10 days. After this period, the floats move to a profiling pressure (usually between 1000 and 2000 dbar) then rise, collecting profiles of pressure, temperature, and salinity data on their way to the surface. Once at the surface, the floats remain there for under a day, transmitting the data collected by satellite back to NOAA/PMEL and allowing the satellite to determine their surface drift. They then sink again and repeat their mission. The floats have a nominal lifetime of five years, and will yield valuable information about large-scale ocean water property distributions and currents, including their variability over time scales from seasonal to the duration of the array.nnNote that a given request will return a maximum of 15000 rows of data.  So if you get a response with ~15000 rows, resubmit the request as 2 or more smaller requests.",
 	"license_title": null,
 	"extras": [{
 		"key": "bbox-east-long",
@@ -275,7 +275,7 @@
 	},
 	{
 		"key": "coupled-resource",
-		"value": "[{\"href\": [\"#DataIdentification\"], \"uuid\": [], \"title\": []}, {\"href\": [\"#DataIdentification\"], \"uuid\": [], \"title\": []}]"
+		"value": "[{"href": ["#DataIdentification"], "uuid": [], "title": []}, {"href": ["#DataIdentification"], "uuid": [], "title": []}]"
 	},
 	{
 		"key": "guid",
@@ -295,7 +295,7 @@
 	},
 	{
 		"key": "spatial",
-		"value": "{\"type\": \"Polygon\", \"coordinates\": [[[-180.0, -90.0], [180.0, -90.0], [180.0, 90.0], [-180.0, 90.0], [-180.0, -90.0]]]}"
+		"value": "{"type": "Polygon", "coordinates": [[[-180.0, -90.0], [180.0, -90.0], [180.0, 90.0], [-180.0, 90.0], [-180.0, -90.0]]]}"
 	},
 	{
 		"key": "progress",
@@ -323,7 +323,7 @@
 	},
 	{
 		"key": "dataset-reference-date",
-		"value": "[{\"type\": \"creation\", \"value\": \"2016-10-06\"}]"
+		"value": "[{"type": "creation", "value": "2016-10-06"}]"
 	},
 	{
 		"key": "frequency-of-update",
@@ -339,7 +339,7 @@
 	},
 	{
 		"key": "responsible-party",
-		"value": "[{\"name\": \"NOAA PMEL\", \"roles\": [\"pointOfContact\"]}]"
+		"value": "[{"name": "NOAA PMEL", "roles": ["pointOfContact"]}]"
 	},
 	{
 		"key": "spatial-data-service-type",
@@ -351,7 +351,7 @@
 	},
 	{
 		"package_id": "cf8455f0-c693-4b19-aa5d-bd9e54e794e8",
-		"value": "water pressure, ocean temperature, adjusted, sequence, float, noaa pmel, noaa, longitude, sea, salinity, quality, its, unit, conductivity, scale, from, temperature, density, per, situ, electrical, water temperature, time, latitude, server, sensor, o2, sea_water_temperature, sea_water_pressure, oceans, sea_water_electrical_conductivity, sea_water_practical_salinity, water, pressure, flag, argo, ocean pressure, dapper, data, salinity\/density, its-90, chemistry, oxygen, dissolved o2, seawater, doxy, ocean, practical, dissolved, mass, error, identifier, moles, ocean chemistry",
+		"value": "water pressure, ocean temperature, adjusted, sequence, float, noaa pmel, noaa, longitude, sea, salinity, quality, its, unit, conductivity, scale, from, temperature, density, per, situ, electrical, water temperature, time, latitude, server, sensor, o2, sea_water_temperature, sea_water_pressure, oceans, sea_water_electrical_conductivity, sea_water_practical_salinity, water, pressure, flag, argo, ocean pressure, dapper, data, salinity/density, its-90, chemistry, oxygen, dissolved o2, seawater, doxy, ocean, practical, dissolved, mass, error, identifier, moles, ocean chemistry",
 		"revision_timestamp": "2015-09-27T00:59:40.590144",
 		"state": "active",
 		"key": "tags",
@@ -381,7 +381,7 @@
 		"revision_timestamp": "2013-03-25T23:05:12.923863",
 		"is_organization": true,
 		"state": "active",
-		"image_url": "https:\/\/fortress.wa.gov\/dfw\/score\/score\/images\/noaa_logo.png",
+		"image_url": "https://fortress.wa.gov/dfw/score/score/images/noaa_logo.png",
 		"revision_id": "c6d43080-22e1-405e-a83d-f2a512d9e867",
 		"type": "organization",
 		"id": "e811f0b4-451f-4896-9e8f-fc6802837819",

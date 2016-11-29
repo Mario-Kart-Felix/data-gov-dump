@@ -36,7 +36,7 @@
 		"cache_url": null,
 		"name": "Export",
 		"created": "2014-11-17T16:08:27.066448",
-		"url": "http:\/\/water.usgs.gov\/GIS\/dsdl\/ofr0287_mar89.e00.gz",
+		"url": "http://water.usgs.gov/GIS/dsdl/ofr0287_mar89.e00.gz",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 0,
@@ -65,7 +65,7 @@
 		"cache_url": null,
 		"name": "Other",
 		"created": "2014-11-17T16:08:27.066482",
-		"url": "http:\/\/water.usgs.gov\/GIS\/dsdl\/ofr0287_mar89_sdts.tar.gz",
+		"url": "http://water.usgs.gov/GIS/dsdl/ofr0287_mar89_sdts.tar.gz",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 1,
@@ -94,7 +94,7 @@
 		"cache_url": null,
 		"name": "Other",
 		"created": "2014-11-17T16:08:27.066498",
-		"url": "http:\/\/water.usgs.gov\/GIS\/dsdl\/ofr0287_mar89_shape.tar.gz",
+		"url": "http://water.usgs.gov/GIS/dsdl/ofr0287_mar89_shape.tar.gz",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 2,
@@ -124,7 +124,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2014-11-17T16:08:27.066511",
-		"url": "http:\/\/water.usgs.gov\/lookup\/getspatial?ofr0287_mar89",
+		"url": "http://water.usgs.gov/lookup/getspatial?ofr0287_mar89",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 3,
@@ -133,7 +133,7 @@
 	}],
 	"num_resources": 4,
 	"tags": [],
-	"title": "Streamflow gain\/loss in the Republican River Basin, Nebraska, March 1989",
+	"title": "Streamflow gain/loss in the Republican River Basin, Nebraska, March 1989",
 	"tracking_summary": {
 		"total": 4,
 		"recent": 1
@@ -144,7 +144,7 @@
 	"name": "streamflow-gain-loss-in-the-republican-river-basin-nebraska-march-1989",
 	"isopen": false,
 	"url": null,
-	"notes": "This arc and point data set contains streamflow measurement sites and reaches indicating streamflow gain or loss under base-flow conditions along the Republican River and tributaries in Nebraska during March 21 to 22, 1989 (Boohar and others, 1990). These measurements were made to obtain data on ground-water\/surface-water interaction. Flow was visually observed to be zero, was measured, or was estimated at 136 sites. The measurements were made on the main stem of the Republican River and all flowing tributaries that enter the Republican River above Swanson Reservoir and parts of the Frenchman, Red Willow, and Medicine Creek drainages in the Nebraska part of the Republican River Basin. Tributaries were followed upstream until the first road crossing where zero flow was encountered. For selected streams, points of zero flow upstream of the first zero flow site also were checked. Streamflow gain or loss for each stream reach was calculated by subtracting the streamflow values measured at the upstream end of the reach and values for contributing tributaries from the downstream value. The data obtained reflected base-flow conditions suitable for estimating streamflow gains and losses for stream reaches between sites. This digital data set was created by manually splitting the lines from a 1:250,000 hydrography data set (Soenksen and others, 1999) at every streamflow-measurement site. Each set of stream segments between measurement sites was assigned a unique reach number.",
+	"notes": "This arc and point data set contains streamflow measurement sites and reaches indicating streamflow gain or loss under base-flow conditions along the Republican River and tributaries in Nebraska during March 21 to 22, 1989 (Boohar and others, 1990). These measurements were made to obtain data on ground-water/surface-water interaction. Flow was visually observed to be zero, was measured, or was estimated at 136 sites. The measurements were made on the main stem of the Republican River and all flowing tributaries that enter the Republican River above Swanson Reservoir and parts of the Frenchman, Red Willow, and Medicine Creek drainages in the Nebraska part of the Republican River Basin. Tributaries were followed upstream until the first road crossing where zero flow was encountered. For selected streams, points of zero flow upstream of the first zero flow site also were checked. Streamflow gain or loss for each stream reach was calculated by subtracting the streamflow values measured at the upstream end of the reach and values for contributing tributaries from the downstream value. The data obtained reflected base-flow conditions suitable for estimating streamflow gains and losses for stream reaches between sites. This digital data set was created by manually splitting the lines from a 1:250,000 hydrography data set (Soenksen and others, 1999) at every streamflow-measurement site. Each set of stream segments between measurement sites was assigned a unique reach number.",
 	"license_title": null,
 	"extras": [{
 		"key": "bbox-east-long",
@@ -180,7 +180,7 @@
 	},
 	{
 		"key": "spatial",
-		"value": "{\"type\": \"Polygon\", \"coordinates\": [[[-102.11923294, 39.9875537], [-101.05836196, 39.9875537], [-101.05836196, 40.92857141], [-102.11923294, 40.92857141], [-102.11923294, 39.9875537]]]}"
+		"value": "{"type": "Polygon", "coordinates": [[[-102.11923294, 39.9875537], [-101.05836196, 39.9875537], [-101.05836196, 40.92857141], [-102.11923294, 40.92857141], [-102.11923294, 39.9875537]]]}"
 	},
 	{
 		"key": "progress",
@@ -188,7 +188,7 @@
 	},
 	{
 		"key": "access_constraints",
-		"value": "[\"Use Constraints: The locations of stream-measurement points were digitized from 1:126,720-scale county road maps. The corresponding stream reaches were derived from a 1:250,000 hydrography coverage (Soenksen and others, 1999). If measurement sites are used separately from reaches, the maximum scale of 1:100,000 should not be exceeded. When used in conjunction with the reach segments, the maximum scale should not exceed 1:250,000.\", \"Access Constraints: none\"]"
+		"value": "["Use Constraints: The locations of stream-measurement points were digitized from 1:126,720-scale county road maps. The corresponding stream reaches were derived from a 1:250,000 hydrography coverage (Soenksen and others, 1999). If measurement sites are used separately from reaches, the maximum scale of 1:100,000 should not be exceeded. When used in conjunction with the reach segments, the maximum scale should not exceed 1:250,000.", "Access Constraints: none"]"
 	},
 	{
 		"key": "temporal-extent-begin",
@@ -208,7 +208,7 @@
 	},
 	{
 		"key": "dataset-reference-date",
-		"value": "[{\"type\": \"publication\", \"value\": \"2002-02-28\"}]"
+		"value": "[{"type": "publication", "value": "2002-02-28"}]"
 	},
 	{
 		"key": "frequency-of-update",
@@ -216,7 +216,7 @@
 	},
 	{
 		"key": "licence",
-		"value": "[\"Although this data set has been used by the U.S. Geological\\nSurvey, U.S. Department of the Interior, no warranty expressed or\\nimplied is made by the U.S. Geological Survey as to the accuracy\\nof the data and related materials. The act of distribution shall not \\nconstitute any such warranty, and no responsibility is assumed by \\nthe U.S. Geological Survey in the use of this data, software, or \\nrelated materials.\\n\\nAny use of trade, product, or firm names is for descriptive\\npurposes only and does not imply endorsement by the U.S.\\nGovernment.\"]"
+		"value": "["Although this data set has been used by the U.S. Geological\nSurvey, U.S. Department of the Interior, no warranty expressed or\nimplied is made by the U.S. Geological Survey as to the accuracy\nof the data and related materials. The act of distribution shall not \nconstitute any such warranty, and no responsibility is assumed by \nthe U.S. Geological Survey in the use of this data, software, or \nrelated materials.\n\nAny use of trade, product, or firm names is for descriptive\npurposes only and does not imply endorsement by the U.S.\nGovernment."]"
 	},
 	{
 		"key": "metadata_type",
@@ -224,7 +224,7 @@
 	},
 	{
 		"key": "responsible-party",
-		"value": "[{\"name\": \"U.S. Geological Survey\", \"roles\": [\"pointOfContact\"]}]"
+		"value": "[{"name": "U.S. Geological Survey", "roles": ["pointOfContact"]}]"
 	},
 	{
 		"key": "temporal-extent-end",
@@ -240,7 +240,7 @@
 	},
 	{
 		"package_id": "3f1741f8-a18a-48a3-b5f1-3bd7c8af3c75",
-		"value": "base flow, streamflow, seepage run, gain\/loss, inlandwaters, republican river basin, republican river, low flow investigations, nebraska",
+		"value": "base flow, streamflow, seepage run, gain/loss, inlandwaters, republican river basin, republican river, low flow investigations, nebraska",
 		"revision_timestamp": "2014-11-17T21:08:26.467011",
 		"state": "active",
 		"key": "tags",
@@ -263,14 +263,14 @@
 		"value": "Water NSDI Node Spatial Datasets"
 	}],
 	"organization": {
-		"description": "http:\/\/www.usgs.gov\/\r\nThe USGS is a federal science agency that provides impartial information on the health of our ecosystems and environment, the natural hazards that threaten us, the natural resources we rely on, the impacts of climate and land-use change, and the core science systems that help us provide timely, relevant, and useable information.",
+		"description": "http://www.usgs.gov/rnThe USGS is a federal science agency that provides impartial information on the health of our ecosystems and environment, the natural hazards that threaten us, the natural resources we rely on, the impacts of climate and land-use change, and the core science systems that help us provide timely, relevant, and useable information.",
 		"created": "2013-03-14T03:44:38.263357",
 		"title": "U.S. Geological Survey, Department of the Interior",
 		"name": "usgs-gov",
 		"revision_timestamp": "2014-09-02T13:43:52.167023",
 		"is_organization": true,
 		"state": "active",
-		"image_url": "http:\/\/pubs.usgs.gov\/sir\/2004\/5296\/04-5296_confluence_park\/usgs_logo.gif",
+		"image_url": "http://pubs.usgs.gov/sir/2004/5296/04-5296_confluence_park/usgs_logo.gif",
 		"revision_id": "2858aa99-9501-4f96-82e5-9647b968ed66",
 		"type": "organization",
 		"id": "bd2cdd5a-4d65-46c0-9937-c8381175f104",

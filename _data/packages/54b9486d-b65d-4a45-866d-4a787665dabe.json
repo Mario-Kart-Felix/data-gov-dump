@@ -36,7 +36,7 @@
 		"cache_url": null,
 		"name": "NDGIS web site",
 		"created": "2014-04-15T13:01:58.674058",
-		"url": "http:\/\/www.nd.gov\/gis",
+		"url": "http://www.nd.gov/gis",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 0,
@@ -65,7 +65,7 @@
 		"cache_url": null,
 		"name": "Download USGS 1992 National Land Cover",
 		"created": "2014-04-15T13:01:58.674096",
-		"url": "http:\/\/gisdata.nd.gov\/LandClass\/NLC\/",
+		"url": "http://gisdata.nd.gov/LandClass/NLC/",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 1,
@@ -94,7 +94,7 @@
 		"cache_url": null,
 		"name": "NDHUB.LANDCLASS_NLC_1992",
 		"created": "2014-04-15T13:01:58.674106",
-		"url": "http:\/\/ndgishub.nd.gov\/arcgis\/services\/All_LanduseLandcover\/MapServer\/WMSServer?",
+		"url": "http://ndgishub.nd.gov/arcgis/services/All_LanduseLandcover/MapServer/WMSServer?",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 2,
@@ -123,7 +123,7 @@
 		"cache_url": null,
 		"name": "Esri REST including WMS and WCS",
 		"created": "2014-04-15T13:01:58.674113",
-		"url": "http:\/\/ndgishub.nd.gov\/ArcGIS\/rest\/services\/All_LanduseLandcover\/MapServer",
+		"url": "http://ndgishub.nd.gov/ArcGIS/rest/services/All_LanduseLandcover/MapServer",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 3,
@@ -200,7 +200,7 @@
 	},
 	{
 		"key": "spatial",
-		"value": "{\"type\": \"Polygon\", \"coordinates\": [[[-104.450245, 45.692348], [-96.390089, 45.692348], [-96.390089, 49.256932], [-104.450245, 49.256932], [-104.450245, 45.692348]]]}"
+		"value": "{"type": "Polygon", "coordinates": [[[-104.450245, 45.692348], [-96.390089, 45.692348], [-96.390089, 49.256932], [-104.450245, 49.256932], [-104.450245, 45.692348]]]}"
 	},
 	{
 		"key": "progress",
@@ -208,7 +208,7 @@
 	},
 	{
 		"key": "access_constraints",
-		"value": "[\"Acknowledgement of the U.S. Geological Survey would be appreciated in products derived from these data.\", \"Although these data have been processed successfully on a computer system at the USGS, no warranty expressed or implied is made by the USGS regarding the use of the data on any other system, nor does the act of distribution constitute any such warranty.\"]"
+		"value": "["Acknowledgement of the U.S. Geological Survey would be appreciated in products derived from these data.", "Although these data have been processed successfully on a computer system at the USGS, no warranty expressed or implied is made by the USGS regarding the use of the data on any other system, nor does the act of distribution constitute any such warranty."]"
 	},
 	{
 		"key": "contact-email",
@@ -224,7 +224,7 @@
 	},
 	{
 		"key": "dataset-reference-date",
-		"value": "[{\"type\": \"publication\", \"value\": \"2000-09-06\"}]"
+		"value": "[{"type": "publication", "value": "2000-09-06"}]"
 	},
 	{
 		"key": "graphic-preview-description",
@@ -244,7 +244,7 @@
 	},
 	{
 		"key": "responsible-party",
-		"value": "[{\"name\": \"U.S. Geological Survey EROS Data Center\", \"roles\": [\"pointOfContact\"]}]"
+		"value": "[{"name": "U.S. Geological Survey EROS Data Center", "roles": ["pointOfContact"]}]"
 	},
 	{
 		"key": "spatial-data-service-type",
@@ -256,7 +256,7 @@
 	},
 	{
 		"package_id": "54b9486d-b65d-4a45-866d-4a787665dabe",
-		"value": "Land Use\/Land Cover, Land Cover, Land Management, Land Characterization, EDC, environment, geoscientificInformation, Remote Sensing, Landsat, imageryBaseMapsEarthCover, USGS, Space Imaging, EPA, Land Resources, Satellite, Imagery, MRLC, farming, EROS, North Dakota, ND, North America, United States of America",
+		"value": "Land Use/Land Cover, Land Cover, Land Management, Land Characterization, EDC, environment, geoscientificInformation, Remote Sensing, Landsat, imageryBaseMapsEarthCover, USGS, Space Imaging, EPA, Land Resources, Satellite, Imagery, MRLC, farming, EROS, North Dakota, ND, North America, United States of America",
 		"revision_timestamp": "2013-12-07T09:05:11.960312",
 		"state": "active",
 		"key": "tags",
@@ -279,14 +279,14 @@
 		"value": "North Dakota GIS Hub Data Portal"
 	}],
 	"organization": {
-		"description": "The GIS Hub is the state source for GIS - data, services, and information.  More information can be found at www.nd.gov\/gis.",
+		"description": "The GIS Hub is the state source for GIS - data, services, and information.  More information can be found at www.nd.gov/gis.",
 		"created": "2013-03-14T03:44:44.340717",
 		"title": "State of North Dakota",
 		"name": "nd-gov",
 		"revision_timestamp": "2013-07-15T16:27:30.098476",
 		"is_organization": true,
 		"state": "active",
-		"image_url": "http:\/\/www.nd.gov\/gis\/images\/ndgis-logo.gif",
+		"image_url": "http://www.nd.gov/gis/images/ndgis-logo.gif",
 		"revision_id": "27517bb9-815c-4d4f-b45b-b88b6316697b",
 		"type": "organization",
 		"id": "1c782de6-9f1f-4427-93fd-33732e29970f",

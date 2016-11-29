@@ -34,9 +34,9 @@
 		"resource_locator_protocol": "WWW:LINK-1.0-http--link",
 		"mimetype": null,
 		"cache_url": null,
-		"name": "https:\/\/swfsc.noaa.gov\/",
+		"name": "https://swfsc.noaa.gov/",
 		"created": "2016-02-22T15:10:31.384528",
-		"url": "https:\/\/swfsc.noaa.gov\/",
+		"url": "https://swfsc.noaa.gov/",
 		"webstore_url": null,
 		"resource_locator_function": "download",
 		"position": 0,
@@ -65,7 +65,7 @@
 		"cache_url": null,
 		"name": "Website",
 		"created": "2016-02-22T15:10:31.384561",
-		"url": "http:\/\/swfsc.noaa.gov\/",
+		"url": "http://swfsc.noaa.gov/",
 		"webstore_url": null,
 		"resource_locator_function": "information",
 		"position": 1,
@@ -94,7 +94,7 @@
 		"cache_url": null,
 		"name": "Website",
 		"created": "2016-02-22T15:10:31.384576",
-		"url": "http:\/\/swfsc.noaa.gov\/",
+		"url": "http://swfsc.noaa.gov/",
 		"webstore_url": null,
 		"resource_locator_function": "information",
 		"position": 2,
@@ -123,7 +123,7 @@
 		"cache_url": null,
 		"name": "Website",
 		"created": "2016-02-22T15:10:31.384590",
-		"url": "http:\/\/swfsc.noaa.gov\/",
+		"url": "http://swfsc.noaa.gov/",
 		"webstore_url": null,
 		"resource_locator_function": "information",
 		"position": 3,
@@ -140,7 +140,7 @@
 		"state": "active",
 		"last_modified": null,
 		"hash": "",
-		"description": "This page describes the NASA GCMD Keywords, how\n                                                        to reference those keywords and provides download instructions.\n                                                    ",
+		"description": "This page describes the NASA GCMD Keywords, hown                                                        to reference those keywords and provides download instructions.n                                                    ",
 		"format": "HTML",
 		"tracking_summary": {
 			"total": 467,
@@ -152,7 +152,7 @@
 		"cache_url": null,
 		"name": "GCMD Keywords Page",
 		"created": "2016-02-22T15:10:31.384603",
-		"url": "http:\/\/gcmd.nasa.gov\/learn\/keyword_list.html",
+		"url": "http://gcmd.nasa.gov/learn/keyword_list.html",
 		"webstore_url": null,
 		"resource_locator_function": "information",
 		"position": 4,
@@ -174,7 +174,7 @@
 		"revision_timestamp": "2013-03-25T23:05:12.923863",
 		"is_organization": true,
 		"state": "active",
-		"image_url": "https:\/\/fortress.wa.gov\/dfw\/score\/score\/images\/noaa_logo.png",
+		"image_url": "https://fortress.wa.gov/dfw/score/score/images/noaa_logo.png",
 		"revision_id": "c6d43080-22e1-405e-a83d-f2a512d9e867",
 		"type": "organization",
 		"id": "e811f0b4-451f-4896-9e8f-fc6802837819",
@@ -185,7 +185,7 @@
 	"name": "scientific-computer-system-scs-data-from-frd-cruises",
 	"isopen": false,
 	"url": null,
-	"notes": "This is a set of raw unprocessed data from the SCS of NOAA ships for cruises conducted by the SWFSC Fisheries Resources Division. It includes periodic data of the ships position and date\/time, thermosalinograph measurements, flourometer readings, and CTD samples.",
+	"notes": "This is a set of raw unprocessed data from the SCS of NOAA ships for cruises conducted by the SWFSC Fisheries Resources Division. It includes periodic data of the ships position and date/time, thermosalinograph measurements, flourometer readings, and CTD samples.",
 	"owner_org": "e811f0b4-451f-4896-9e8f-fc6802837819",
 	"extras": [{
 		"key": "bbox-east-long",
@@ -221,7 +221,7 @@
 	},
 	{
 		"key": "spatial",
-		"value": "{\"type\": \"Polygon\", \"coordinates\": [[[-130.0, 30.0], [-110.0, 30.0], [-110.0, 50.0], [-130.0, 50.0], [-130.0, 30.0]]]}"
+		"value": "{"type": "Polygon", "coordinates": [[[-130.0, 30.0], [-110.0, 30.0], [-110.0, 50.0], [-130.0, 50.0], [-130.0, 30.0]]]}"
 	},
 	{
 		"key": "progress",
@@ -229,7 +229,7 @@
 	},
 	{
 		"key": "access_constraints",
-		"value": "[\"Access Constraints: There are no restrictions or prerequisites for accessing these data. | Use Constraints: Disclaimer - While every effort has been made to ensure that these data are accurate and reliable within the limits of the current state of the art, NOAA cannot assume liability for any damages caused by any errors or omissions in the data, nor as a result of the failure of the data to function on a particular system. NOAA makes no warranty, expressed or implied, nor does the fact of distribution constitute such a warranty.\"]"
+		"value": "["Access Constraints: There are no restrictions or prerequisites for accessing these data. | Use Constraints: Disclaimer - While every effort has been made to ensure that these data are accurate and reliable within the limits of the current state of the art, NOAA cannot assume liability for any damages caused by any errors or omissions in the data, nor as a result of the failure of the data to function on a particular system. NOAA makes no warranty, expressed or implied, nor does the fact of distribution constitute such a warranty."]"
 	},
 	{
 		"key": "temporal-extent-begin",
@@ -249,7 +249,7 @@
 	},
 	{
 		"key": "dataset-reference-date",
-		"value": "[{\"type\": \"publication\", \"value\": \"\"}]"
+		"value": "[{"type": "publication", "value": ""}]"
 	},
 	{
 		"key": "frequency-of-update",
@@ -265,7 +265,7 @@
 	},
 	{
 		"key": "responsible-party",
-		"value": "[{\"name\": \"Southwest Fisheries Science Center\", \"roles\": [\"pointOfContact\"]}]"
+		"value": "[{"name": "Southwest Fisheries Science Center", "roles": ["pointOfContact"]}]"
 	},
 	{
 		"key": "spatial-data-service-type",
@@ -277,7 +277,7 @@
 	},
 	{
 		"key": "tags",
-		"value": "scientific computer system, thermosalinograph, tsg, doc\/noaa\/nmfs\/swfsc, ctd, frd and calcofi cruise data, southwest fisheries science center, national marine fisheries service, noaa. u.s. department of commerce, scs, california current",
+		"value": "scientific computer system, thermosalinograph, tsg, doc/noaa/nmfs/swfsc, ctd, frd and calcofi cruise data, southwest fisheries science center, national marine fisheries service, noaa. u.s. department of commerce, scs, california current",
 		"__extras": {
 			"revision_id": "e9325206-4171-4ba2-8405-ae273287a2fd",
 			"package_id": "35902214-c224-4088-afab-0475552ad419"

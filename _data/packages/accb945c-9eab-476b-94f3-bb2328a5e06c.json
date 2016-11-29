@@ -25,7 +25,7 @@
 		"last_modified": null,
 		"hash": "",
 		"description": "",
-		"format": "application\/vnd.lotus-organizer",
+		"format": "application/vnd.lotus-organizer",
 		"tracking_summary": {
 			"total": 1329,
 			"recent": 40
@@ -37,7 +37,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2014-09-17T15:26:00.019320",
-		"url": "http:\/\/www.IndianaMap.org",
+		"url": "http://www.IndianaMap.org",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 0,
@@ -67,7 +67,7 @@
 		"cache_url": null,
 		"name": "XML File",
 		"created": "2014-09-17T15:26:00.019344",
-		"url": "http:\/\/maps.indiana.edu\/metadata\/Infrastructure\/Interstates_Mile_Markers_System1_INDOT.xml",
+		"url": "http://maps.indiana.edu/metadata/Infrastructure/Interstates_Mile_Markers_System1_INDOT.xml",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 1,
@@ -85,7 +85,7 @@
 		"last_modified": null,
 		"hash": "",
 		"description": "",
-		"format": "application\/vnd.lotus-organizer",
+		"format": "application/vnd.lotus-organizer",
 		"tracking_summary": {
 			"total": 314,
 			"recent": 6
@@ -97,7 +97,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2014-09-17T15:26:00.019355",
-		"url": "http:\/\/www.igic.org",
+		"url": "http://www.igic.org",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 2,
@@ -127,7 +127,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2014-09-17T15:26:00.019367",
-		"url": "http:\/\/maps.indiana.edu\/layers.html",
+		"url": "http://maps.indiana.edu/layers.html",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 3,
@@ -149,7 +149,7 @@
 		"revision_timestamp": "2014-09-11T20:27:16.009304",
 		"is_organization": true,
 		"state": "active",
-		"image_url": "http:\/\/www.nsgic.org\/public_resources\/nsgic-logo-b_1321892056.gif",
+		"image_url": "http://www.nsgic.org/public_resources/nsgic-logo-b_1321892056.gif",
 		"revision_id": "979d3df0-d323-4e1e-ac62-d1623b463626",
 		"type": "organization",
 		"id": "b0b4c45b-a8ca-416b-b463-ee90d0a1a3df",
@@ -160,11 +160,11 @@
 	"name": "mile-markers-and-road-signs-mile-markers-system1-indot-in-mile-markers-for-system-1-roads-in-i6725c",
 	"isopen": false,
 	"url": null,
-	"notes": "MILE_MARKERS_SYSTEM1_INDOT_IN is a point shapefile that contains locations of all mile-markers on System 1 roads in Indiana, provided by personnel of Indiana Department of Transportation (INDOT), Business Information and Technology Systems, GIS Mapping. The source data provided by INDOT was an ESRI point feature class (in a file geodataase) named \"DOTGIS_Ref_Post_Exor.\" MILE_MARKERS_SYSTEM1_INDOT_IN is attributed with route numbers, and mile-marker post numbers. On November 8, 2012 mile-markers for the extension of Interstate 69 (I-69) were added to these data. The term \"System 1 Roads\" refers to all roads found in the System 1 road network that include: interstates, U.S. highways, state routes, ramps, institutional roads (roads in state university properties, state hospitals, Indiana National Guard properties), and IDNR roads (roads contained within properties owned by IDRN and maintained by INDOT). The following is excerpted from the metadata provided by INDOT for the source shapefile STATEREFPOST.SHP: \"StateRefPost.shp is a Point Layer, at one mile increments on all system one roads\"",
+	"notes": "MILE_MARKERS_SYSTEM1_INDOT_IN is a point shapefile that contains locations of all mile-markers on System 1 roads in Indiana, provided by personnel of Indiana Department of Transportation (INDOT), Business Information and Technology Systems, GIS Mapping. The source data provided by INDOT was an ESRI point feature class (in a file geodataase) named "DOTGIS_Ref_Post_Exor." MILE_MARKERS_SYSTEM1_INDOT_IN is attributed with route numbers, and mile-marker post numbers. On November 8, 2012 mile-markers for the extension of Interstate 69 (I-69) were added to these data. The term "System 1 Roads" refers to all roads found in the System 1 road network that include: interstates, U.S. highways, state routes, ramps, institutional roads (roads in state university properties, state hospitals, Indiana National Guard properties), and IDNR roads (roads contained within properties owned by IDRN and maintained by INDOT). The following is excerpted from the metadata provided by INDOT for the source shapefile STATEREFPOST.SHP: "StateRefPost.shp is a Point Layer, at one mile increments on all system one roads"",
 	"owner_org": "b0b4c45b-a8ca-416b-b463-ee90d0a1a3df",
 	"extras": [{
 		"key": "responsible-party",
-		"value": "[{\"name\": \"Indiana Geographic Information Council, Inc. (IGIC)\", \"roles\": [\"pointOfContact\"]}]"
+		"value": "[{"name": "Indiana Geographic Information Council, Inc. (IGIC)", "roles": ["pointOfContact"]}]"
 	},
 	{
 		"key": "contact-email",
@@ -184,7 +184,7 @@
 	},
 	{
 		"key": "dataset-reference-date",
-		"value": "[{\"type\": \"publication\", \"value\": \"2012-01-01\"}]"
+		"value": "[{"type": "publication", "value": "2012-01-01"}]"
 	},
 	{
 		"key": "resource-type",
@@ -212,7 +212,7 @@
 	},
 	{
 		"key": "licence",
-		"value": "[\"Although these data have been processed successfully on a computer system by the data steward, no warranty either expressed or implied is made regarding the utility of the data on any system, nor shall this notice generated by the Ramona GIS Inventory System or the act of distribution constitute any such warranty. The data steward may have additional liability information associated with delivery or distribution of this product.\"]"
+		"value": "["Although these data have been processed successfully on a computer system by the data steward, no warranty either expressed or implied is made regarding the utility of the data on any system, nor shall this notice generated by the Ramona GIS Inventory System or the act of distribution constitute any such warranty. The data steward may have additional liability information associated with delivery or distribution of this product."]"
 	},
 	{
 		"key": "metadata_type",
@@ -224,7 +224,7 @@
 	},
 	{
 		"key": "spatial",
-		"value": "{\"type\": \"Polygon\", \"coordinates\": [[[-88.08974457, 37.7730484], [-84.78767395, 37.7730484], [-84.78767395, 41.76232147], [-88.08974457, 41.76232147], [-88.08974457, 37.7730484]]]}"
+		"value": "{"type": "Polygon", "coordinates": [[[-88.08974457, 37.7730484], [-84.78767395, 37.7730484], [-84.78767395, 41.76232147], [-88.08974457, 41.76232147], [-88.08974457, 37.7730484]]]}"
 	},
 	{
 		"key": "guid",
@@ -236,7 +236,7 @@
 	},
 	{
 		"key": "access_constraints",
-		"value": "[\"Use Constraints: This is an incomplete metadata record and use constraints are not documented by the Ramona GIS Inventory system.\", \"Access Constraints: This is an incomplete metadata record and access constraints are not documented by the Ramona GIS Inventory system.\"]"
+		"value": "["Use Constraints: This is an incomplete metadata record and use constraints are not documented by the Ramona GIS Inventory system.", "Access Constraints: This is an incomplete metadata record and access constraints are not documented by the Ramona GIS Inventory system."]"
 	},
 	{
 		"key": "spatial_harvester",

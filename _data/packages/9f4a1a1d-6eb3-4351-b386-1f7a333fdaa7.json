@@ -36,7 +36,7 @@
 		"cache_url": null,
 		"name": "Service Description",
 		"created": "2013-03-16T01:01:40.934086",
-		"url": "http:\/\/kgs.uky.edu\/arcgis\/rest\/services\/aasggeothermal\/TNBoreholeLithIntervals\/MapServer",
+		"url": "http://kgs.uky.edu/arcgis/rest/services/aasggeothermal/TNBoreholeLithIntervals/MapServer",
 		"webstore_url": null,
 		"resource_locator_function": "381",
 		"position": 0,
@@ -65,7 +65,7 @@
 		"cache_url": null,
 		"name": "Downloadable File",
 		"created": "2013-03-16T01:01:40.934105",
-		"url": "http:\/\/kgs.uky.edu\/arcgis\/services\/aasggeothermal\/TNBoreholeLithIntervals\/MapServer\/WMSServer?request=GetCapabilities&service=WMS",
+		"url": "http://kgs.uky.edu/arcgis/services/aasggeothermal/TNBoreholeLithIntervals/MapServer/WMSServer?request=GetCapabilities&service=WMS",
 		"webstore_url": null,
 		"resource_locator_function": "375",
 		"position": 1,
@@ -94,7 +94,7 @@
 		"cache_url": null,
 		"name": "Service Description",
 		"created": "2013-03-16T01:01:40.934111",
-		"url": "http:\/\/kgs.uky.edu\/arcgis\/services\/aasggeothermal\/TNBoreholeLithIntervals\/MapServer\/WFSServer?request=GetCapabilities&service=WFS",
+		"url": "http://kgs.uky.edu/arcgis/services/aasggeothermal/TNBoreholeLithIntervals/MapServer/WFSServer?request=GetCapabilities&service=WFS",
 		"webstore_url": null,
 		"resource_locator_function": "381",
 		"position": 2,
@@ -123,7 +123,7 @@
 		"cache_url": null,
 		"name": "excel-file.zip",
 		"created": "2013-03-16T01:01:40.934116",
-		"url": "http:\/\/repository.stategeothermaldata.org\/metadata\/record\/98ddf901b9782a25982e01af3b142e3b\/file\/excel-file.zip",
+		"url": "http://repository.stategeothermaldata.org/metadata/record/98ddf901b9782a25982e01af3b142e3b/file/excel-file.zip",
 		"webstore_url": null,
 		"resource_locator_function": "375",
 		"position": 3,
@@ -156,11 +156,11 @@
 	"name": "tennessee-borehole-lithology-intervals",
 	"isopen": false,
 	"url": null,
-	"notes": "This dataset contains borehole lithology interval observations compiled by the Tennessee Division of Geology, and published as a Web feature service for the National Geothermal Data System. Fields in the Borehole Lithology Interval Content Model will become XML elements in interchange documents for WMS simple features provided by a node in the USGIN network. Each feature includes a well name, well type, and top and bottom logged interval as well as Latitude and Longitude spatially referenced to EPSG: 4326 (for interoperability). The data contained in the submitted dataset is available as an Excel Spreadsheet, ESRI service, WMS and WFS service. Link to Borehole Lithology Interval Content Model: http:\/\/stategeothermaldata.org\/data_delivery\/content_models\/lithology_interval_log_feature. ",
+	"notes": "This dataset contains borehole lithology interval observations compiled by the Tennessee Division of Geology, and published as a Web feature service for the National Geothermal Data System. Fields in the Borehole Lithology Interval Content Model will become XML elements in interchange documents for WMS simple features provided by a node in the USGIN network. Each feature includes a well name, well type, and top and bottom logged interval as well as Latitude and Longitude spatially referenced to EPSG: 4326 (for interoperability). The data contained in the submitted dataset is available as an Excel Spreadsheet, ESRI service, WMS and WFS service. Link to Borehole Lithology Interval Content Model: http://stategeothermaldata.org/data_delivery/content_models/lithology_interval_log_feature. ",
 	"license_title": null,
 	"extras": [{
 		"key": "responsible-party",
-		"value": "[{\"name\": \"AZGS\", \"roles\": [\"pointOfContact\"]}]"
+		"value": "[{"name": "AZGS", "roles": ["pointOfContact"]}]"
 	},
 	{
 		"key": "contact-email",
@@ -180,7 +180,7 @@
 	},
 	{
 		"key": "dataset-reference-date",
-		"value": "[{\"type\": \"publication\", \"value\": \"2012-10-03T00:00:00\"}]"
+		"value": "[{"type": "publication", "value": "2012-10-03T00:00:00"}]"
 	},
 	{
 		"key": "resource-type",
@@ -216,7 +216,7 @@
 	},
 	{
 		"key": "spatial",
-		"value": "{\"type\": \"Polygon\", \"coordinates\": [[[-90.4191112518, 34.7537603435], [-90.4191112518, 36.8211206334], [-81.5421581268, 36.8211206334], [-81.5421581268, 34.7537603435], [-90.4191112518, 34.7537603435]]]}"
+		"value": "{"type": "Polygon", "coordinates": [[[-90.4191112518, 34.7537603435], [-90.4191112518, 36.8211206334], [-81.5421581268, 36.8211206334], [-81.5421581268, 34.7537603435], [-90.4191112518, 34.7537603435]]]}"
 	},
 	{
 		"key": "guid",
@@ -266,7 +266,7 @@
 		"revision_timestamp": "2013-03-20T21:11:17.592932",
 		"is_organization": true,
 		"state": "active",
-		"image_url": "http:\/\/www.50states.com\/flag\/image\/nunst004.gif",
+		"image_url": "http://www.50states.com/flag/image/nunst004.gif",
 		"revision_id": "61be6428-4398-4199-a336-f3cd1e956f9b",
 		"type": "organization",
 		"id": "f3f6e1d4-64fb-4a2f-b32c-9ac0b76fe4de",

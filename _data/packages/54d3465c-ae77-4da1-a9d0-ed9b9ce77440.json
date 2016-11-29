@@ -36,7 +36,7 @@
 		"cache_url": null,
 		"name": "WAF",
 		"created": "2016-11-26T12:19:27.825080",
-		"url": "http:\/\/thor-f5.er.usgs.gov\/ngtoc\/metadata\/waf\/orthoimagery\/naip\/",
+		"url": "http://thor-f5.er.usgs.gov/ngtoc/metadata/waf/orthoimagery/naip/",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 0,
@@ -65,7 +65,7 @@
 		"cache_url": null,
 		"name": "JPEG2000",
 		"created": "2016-11-26T12:19:27.825120",
-		"url": "http:\/\/prd-tnm.s3.amazonaws.com\/index.html?prefix=StagedProducts\/NAIP\/",
+		"url": "http://prd-tnm.s3.amazonaws.com/index.html?prefix=StagedProducts/NAIP/",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 1,
@@ -94,7 +94,7 @@
 		"cache_url": null,
 		"name": "ImageryOnly Base Map Service (ArcGIS)",
 		"created": "2016-11-26T12:19:27.825131",
-		"url": "http:\/\/basemap.nationalmap.gov\/arcgis\/rest\/services\/USGSImageryOnly\/MapServer",
+		"url": "http://basemap.nationalmap.gov/arcgis/rest/services/USGSImageryOnly/MapServer",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 2,
@@ -123,7 +123,7 @@
 		"cache_url": null,
 		"name": "ImageryOnly Base Map Service (WMS)",
 		"created": "2016-11-26T12:19:27.825141",
-		"url": "http:\/\/basemap.nationalmap.gov\/arcgis\/services\/USGSImageryOnly\/MapServer\/WMSServer?request=GetCapabilities&service=WMS",
+		"url": "http://basemap.nationalmap.gov/arcgis/services/USGSImageryOnly/MapServer/WMSServer?request=GetCapabilities&service=WMS",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 3,
@@ -152,7 +152,7 @@
 		"cache_url": null,
 		"name": "ImageryOnly Base Map Service (WMTS)",
 		"created": "2016-11-26T12:19:27.825149",
-		"url": "http:\/\/basemap.nationalmap.gov\/arcgis\/rest\/services\/USGSImageryOnly\/MapServer\/WMTS\/1.0.0\/WMTSCapabilities.xml",
+		"url": "http://basemap.nationalmap.gov/arcgis/rest/services/USGSImageryOnly/MapServer/WMTS/1.0.0/WMTSCapabilities.xml",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 4,
@@ -181,7 +181,7 @@
 		"cache_url": null,
 		"name": "NAIP Imagery Map Service (ArcGIS)",
 		"created": "2016-11-26T12:19:27.825157",
-		"url": "http:\/\/services.nationalmap.gov\/arcgis\/rest\/services\/USGSNAIPImagery\/ImageServer",
+		"url": "http://services.nationalmap.gov/arcgis/rest/services/USGSNAIPImagery/ImageServer",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 5,
@@ -210,7 +210,7 @@
 		"cache_url": null,
 		"name": "NAIP Imagery Map Service (WMS)",
 		"created": "2016-11-26T12:19:27.825166",
-		"url": "http:\/\/services.nationalmap.gov\/arcgis\/services\/USGSNAIPImagery\/MapServer\/WMSServer?request=GetCapabilities&service=WMS",
+		"url": "http://services.nationalmap.gov/arcgis/services/USGSNAIPImagery/MapServer/WMSServer?request=GetCapabilities&service=WMS",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 6,
@@ -240,7 +240,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2016-11-26T12:19:27.825174",
-		"url": "http:\/\/viewer.nationalmap.gov",
+		"url": "http://viewer.nationalmap.gov",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 7,
@@ -292,7 +292,7 @@
 	},
 	{
 		"key": "graphic-preview-file",
-		"value": "http:\/\/thor-f5.er.usgs.gov\/ngtoc\/metadata\/waf\/collections\/naip_status.jpg"
+		"value": "http://thor-f5.er.usgs.gov/ngtoc/metadata/waf/collections/naip_status.jpg"
 	},
 	{
 		"key": "metadata-language",
@@ -308,7 +308,7 @@
 	},
 	{
 		"key": "spatial",
-		"value": "{\"type\": \"Polygon\", \"coordinates\": [[[-180.0, -17.0], [-56.0, -17.0], [-56.0, 72.0], [-180.0, 72.0], [-180.0, -17.0]]]}"
+		"value": "{"type": "Polygon", "coordinates": [[[-180.0, -17.0], [-56.0, -17.0], [-56.0, 72.0], [-180.0, 72.0], [-180.0, -17.0]]]}"
 	},
 	{
 		"key": "progress",
@@ -316,7 +316,7 @@
 	},
 	{
 		"key": "access_constraints",
-		"value": "[\"Use Constraints: None. The USDA-FSA Aerial Photography Field office asks to be credited in derived products.\", \"Access Constraints: There are no limitations for access.\"]"
+		"value": "["Use Constraints: None. The USDA-FSA Aerial Photography Field office asks to be credited in derived products.", "Access Constraints: There are no limitations for access."]"
 	},
 	{
 		"key": "temporal-extent-begin",
@@ -336,7 +336,7 @@
 	},
 	{
 		"key": "dataset-reference-date",
-		"value": "[{\"type\": \"publication\", \"value\": \"2016-01-01\"}]"
+		"value": "[{"type": "publication", "value": "2016-01-01"}]"
 	},
 	{
 		"key": "graphic-preview-description",
@@ -348,7 +348,7 @@
 	},
 	{
 		"key": "licence",
-		"value": "[\"In no event shall the creators, custodians, or distributors of this information be\\n      liable for any damages arising out of its use (or the inability to use it).\"]"
+		"value": "["In no event shall the creators, custodians, or distributors of this information be\n      liable for any damages arising out of its use (or the inability to use it)."]"
 	},
 	{
 		"key": "metadata_type",
@@ -356,7 +356,7 @@
 	},
 	{
 		"key": "responsible-party",
-		"value": "[{\"name\": \"Aerial Photography Field Office (APFO)\", \"roles\": [\"pointOfContact\"]}]"
+		"value": "[{"name": "Aerial Photography Field Office (APFO)", "roles": ["pointOfContact"]}]"
 	},
 	{
 		"key": "temporal-extent-end",
@@ -395,14 +395,14 @@
 		"value": "FSA 10:1 NAIP Imagery Collection"
 	}],
 	"organization": {
-		"description": "http:\/\/www.usgs.gov\/\r\nThe USGS is a federal science agency that provides impartial information on the health of our ecosystems and environment, the natural hazards that threaten us, the natural resources we rely on, the impacts of climate and land-use change, and the core science systems that help us provide timely, relevant, and useable information.",
+		"description": "http://www.usgs.gov/rnThe USGS is a federal science agency that provides impartial information on the health of our ecosystems and environment, the natural hazards that threaten us, the natural resources we rely on, the impacts of climate and land-use change, and the core science systems that help us provide timely, relevant, and useable information.",
 		"created": "2013-03-14T03:44:38.263357",
 		"title": "U.S. Geological Survey, Department of the Interior",
 		"name": "usgs-gov",
 		"revision_timestamp": "2014-09-02T13:43:52.167023",
 		"is_organization": true,
 		"state": "active",
-		"image_url": "http:\/\/pubs.usgs.gov\/sir\/2004\/5296\/04-5296_confluence_park\/usgs_logo.gif",
+		"image_url": "http://pubs.usgs.gov/sir/2004/5296/04-5296_confluence_park/usgs_logo.gif",
 		"revision_id": "2858aa99-9501-4f96-82e5-9647b968ed66",
 		"type": "organization",
 		"id": "bd2cdd5a-4d65-46c0-9937-c8381175f104",

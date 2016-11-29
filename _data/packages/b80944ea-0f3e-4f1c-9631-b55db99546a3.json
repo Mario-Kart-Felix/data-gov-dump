@@ -36,7 +36,7 @@
 		"cache_url": null,
 		"name": "NDGIS web site",
 		"created": "2013-12-07T04:05:35.401612",
-		"url": "http:\/\/www.nd.gov\/gis",
+		"url": "http://www.nd.gov/gis",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 0,
@@ -65,7 +65,7 @@
 		"cache_url": null,
 		"name": "Download Statewide Contours 24k",
 		"created": "2013-12-07T04:05:35.401637",
-		"url": "http:\/\/topotools.cr.usgs.gov\/contour_data.php",
+		"url": "http://topotools.cr.usgs.gov/contour_data.php",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 1,
@@ -94,7 +94,7 @@
 		"cache_url": null,
 		"name": "Contours 24k",
 		"created": "2013-12-07T04:05:35.401646",
-		"url": "http:\/\/ndgishub.nd.gov\/arcgis\/services\/All_Elevation\/MapServer\/WMSServer?",
+		"url": "http://ndgishub.nd.gov/arcgis/services/All_Elevation/MapServer/WMSServer?",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 2,
@@ -123,7 +123,7 @@
 		"cache_url": null,
 		"name": "Esri REST including WMS and WCS",
 		"created": "2013-12-07T04:05:35.401654",
-		"url": "http:\/\/ndgishub.nd.gov\/ArcGIS\/rest\/services\/All_Elevation\/MapServer",
+		"url": "http://ndgishub.nd.gov/ArcGIS/rest/services/All_Elevation/MapServer",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 3,
@@ -156,7 +156,7 @@
 	"name": "statewide-topographic-contours-1-24000-scale",
 	"isopen": false,
 	"url": null,
-	"notes": "Please note that these are preliminary contour data downloaded from http:\/\/topotools.cr.usgs.gov\/contour_data.php.\n\nThis contour dataset was generated from the National Elevation Dataset (NED) and the National Hydrography Dataset (NHD) in a fully automated process. The input raster data source was the 1\/3 arc-second version of the NED. The NED data were modified by the NHD flow lines, areas, and water bodies to facilitate improved integration between the hypsography and hydrography. These contour datasets were generated from the National Elevation Dataset (NED) and the National Hydrography Dataset (NHD) in a fully automated process. The input raster data source was the 1\/3 arc-second version of the NED. The NED data were modified by the NHD flow lines, areas, and water bodies to facilitate improved integration between the hypsography and hydrography. These datasets are not the ones that appear on the U.S. Geological Survey's USTopo GeoPDFs.",
+	"notes": "Please note that these are preliminary contour data downloaded from http://topotools.cr.usgs.gov/contour_data.php.nnThis contour dataset was generated from the National Elevation Dataset (NED) and the National Hydrography Dataset (NHD) in a fully automated process. The input raster data source was the 1/3 arc-second version of the NED. The NED data were modified by the NHD flow lines, areas, and water bodies to facilitate improved integration between the hypsography and hydrography. These contour datasets were generated from the National Elevation Dataset (NED) and the National Hydrography Dataset (NHD) in a fully automated process. The input raster data source was the 1/3 arc-second version of the NED. The NED data were modified by the NHD flow lines, areas, and water bodies to facilitate improved integration between the hypsography and hydrography. These datasets are not the ones that appear on the U.S. Geological Survey's USTopo GeoPDFs.",
 	"license_title": null,
 	"extras": [{
 		"key": "bbox-east-long",
@@ -200,7 +200,7 @@
 	},
 	{
 		"key": "spatial",
-		"value": "{\"type\": \"Polygon\", \"coordinates\": [[[-104.5, 45.5], [-96.5, 45.5], [-96.5, 49.5], [-104.5, 49.5], [-104.5, 45.5]]]}"
+		"value": "{"type": "Polygon", "coordinates": [[[-104.5, 45.5], [-96.5, 45.5], [-96.5, 49.5], [-104.5, 49.5], [-104.5, 45.5]]]}"
 	},
 	{
 		"key": "progress",
@@ -208,7 +208,7 @@
 	},
 	{
 		"key": "access_constraints",
-		"value": "[\"There is no guarantee or warranty concerning the accuracy of the data. Users should be aware that temporal changes may have occurred since these data were collected generated and that some parts of these data may no longer represent actual surface conditions. Hydro-enforcement and generalization can also significantly alter the spatial characteristics of the contours. Users should not use these data for critical applications without a full awareness of its limitations. Acknowledgement of the originating agencies would be appreciated in products derived from these data. Any user who modifies the data is obligated to describe the types of modifications they perform. User specifically agrees not to misrepresent the data, nor to imply that changes made were approved or endorsed by the USGS. Any use of trade, firm, or product names is for descriptive purposes only and does not imply endorsement by the U.S. Government. Please refer to http:\/\/www.usgs.gov\/privacy.html for the USGS disclaimer.\"]"
+		"value": "["There is no guarantee or warranty concerning the accuracy of the data. Users should be aware that temporal changes may have occurred since these data were collected generated and that some parts of these data may no longer represent actual surface conditions. Hydro-enforcement and generalization can also significantly alter the spatial characteristics of the contours. Users should not use these data for critical applications without a full awareness of its limitations. Acknowledgement of the originating agencies would be appreciated in products derived from these data. Any user who modifies the data is obligated to describe the types of modifications they perform. User specifically agrees not to misrepresent the data, nor to imply that changes made were approved or endorsed by the USGS. Any use of trade, firm, or product names is for descriptive purposes only and does not imply endorsement by the U.S. Government. Please refer to http://www.usgs.gov/privacy.html for the USGS disclaimer."]"
 	},
 	{
 		"key": "contact-email",
@@ -224,7 +224,7 @@
 	},
 	{
 		"key": "dataset-reference-date",
-		"value": "[{\"type\": \"publication\", \"value\": \"2012-07-12T18:00:00\"}]"
+		"value": "[{"type": "publication", "value": "2012-07-12T18:00:00"}]"
 	},
 	{
 		"key": "graphic-preview-description",
@@ -244,7 +244,7 @@
 	},
 	{
 		"key": "responsible-party",
-		"value": "[{\"name\": \"USGS Center for Earth Resources Observation and Science\", \"roles\": [\"resourceProvider\"]}]"
+		"value": "[{"name": "USGS Center for Earth Resources Observation and Science", "roles": ["resourceProvider"]}]"
 	},
 	{
 		"key": "spatial-data-service-type",
@@ -279,14 +279,14 @@
 		"value": "North Dakota GIS Hub Data Portal"
 	}],
 	"organization": {
-		"description": "The GIS Hub is the state source for GIS - data, services, and information.  More information can be found at www.nd.gov\/gis.",
+		"description": "The GIS Hub is the state source for GIS - data, services, and information.  More information can be found at www.nd.gov/gis.",
 		"created": "2013-03-14T03:44:44.340717",
 		"title": "State of North Dakota",
 		"name": "nd-gov",
 		"revision_timestamp": "2013-07-15T16:27:30.098476",
 		"is_organization": true,
 		"state": "active",
-		"image_url": "http:\/\/www.nd.gov\/gis\/images\/ndgis-logo.gif",
+		"image_url": "http://www.nd.gov/gis/images/ndgis-logo.gif",
 		"revision_id": "27517bb9-815c-4d4f-b45b-b88b6316697b",
 		"type": "organization",
 		"id": "1c782de6-9f1f-4427-93fd-33732e29970f",

@@ -36,7 +36,7 @@
 		"cache_url": null,
 		"name": "NDGIS web site",
 		"created": "2013-12-07T04:04:48.076456",
-		"url": "http:\/\/www.nd.gov\/gis",
+		"url": "http://www.nd.gov/gis",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 0,
@@ -65,7 +65,7 @@
 		"cache_url": null,
 		"name": "Download Minot Area Imagery June 25 2011",
 		"created": "2013-12-07T04:04:48.076486",
-		"url": "http:\/\/gisdata.nd.gov\/Flood\/Cities\/Minot\/SatellitePhotography\/2011\/June25\/GEOEYE\/",
+		"url": "http://gisdata.nd.gov/Flood/Cities/Minot/SatellitePhotography/2011/June25/GEOEYE/",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 1,
@@ -94,7 +94,7 @@
 		"cache_url": null,
 		"name": "Esri REST",
 		"created": "2013-12-07T04:04:48.076495",
-		"url": "http:\/\/ndgishub.nd.gov\/ArcGIS\/rest\/services\/Imagery\/AerialImage_Minot_2011\/ImageServer",
+		"url": "http://ndgishub.nd.gov/ArcGIS/rest/services/Imagery/AerialImage_Minot_2011/ImageServer",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 2,
@@ -171,7 +171,7 @@
 	},
 	{
 		"key": "spatial",
-		"value": "{\"type\": \"Polygon\", \"coordinates\": [[[-101.35, 48.18], [-101.19, 48.18], [-101.19, 48.28], [-101.35, 48.28], [-101.35, 48.18]]]}"
+		"value": "{"type": "Polygon", "coordinates": [[[-101.35, 48.18], [-101.19, 48.18], [-101.19, 48.28], [-101.35, 48.28], [-101.35, 48.18]]]}"
 	},
 	{
 		"key": "progress",
@@ -179,7 +179,7 @@
 	},
 	{
 		"key": "access_constraints",
-		"value": "[\"In no event shall the creators, custodians, or distributors of this information be liable for any damages arising out of its use (or the inability to use it).\"]"
+		"value": "["In no event shall the creators, custodians, or distributors of this information be liable for any damages arising out of its use (or the inability to use it)."]"
 	},
 	{
 		"key": "contact-email",
@@ -195,7 +195,7 @@
 	},
 	{
 		"key": "dataset-reference-date",
-		"value": "[{\"type\": \"publication\", \"value\": \"2011-07-07T00:00:00\"}]"
+		"value": "[{"type": "publication", "value": "2011-07-07T00:00:00"}]"
 	},
 	{
 		"key": "graphic-preview-description",
@@ -215,7 +215,7 @@
 	},
 	{
 		"key": "responsible-party",
-		"value": "[{\"name\": \"Department of Emergency Services\", \"roles\": [\"distributor\"]}]"
+		"value": "[{"name": "Department of Emergency Services", "roles": ["distributor"]}]"
 	},
 	{
 		"key": "spatial-data-service-type",
@@ -250,14 +250,14 @@
 		"value": "North Dakota GIS Hub Data Portal"
 	}],
 	"organization": {
-		"description": "The GIS Hub is the state source for GIS - data, services, and information.  More information can be found at www.nd.gov\/gis.",
+		"description": "The GIS Hub is the state source for GIS - data, services, and information.  More information can be found at www.nd.gov/gis.",
 		"created": "2013-03-14T03:44:44.340717",
 		"title": "State of North Dakota",
 		"name": "nd-gov",
 		"revision_timestamp": "2013-07-15T16:27:30.098476",
 		"is_organization": true,
 		"state": "active",
-		"image_url": "http:\/\/www.nd.gov\/gis\/images\/ndgis-logo.gif",
+		"image_url": "http://www.nd.gov/gis/images/ndgis-logo.gif",
 		"revision_id": "27517bb9-815c-4d4f-b45b-b88b6316697b",
 		"type": "organization",
 		"id": "1c782de6-9f1f-4427-93fd-33732e29970f",

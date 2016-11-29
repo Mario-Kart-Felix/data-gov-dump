@@ -41,7 +41,7 @@
 	"name": "pilot-lidar-data-for-eastern-vermont-fy2014-usgs-contract-g10pc00026-task-order-number-g14-2014",
 	"isopen": false,
 	"url": null,
-	"notes": "Please note this is a Pilot Delivery. Geographic Extent: Eastern Vermont Area of Interest, covering approximately 2,533 square miles. Dataset Description: The Eastern, VT LiDAR project called for the Planning, Acquisition, processing and derivative products of LIDAR data to be collected at a nominal pulse spacing (NPS) of 0.7 meter. Project specifications are based on the U.S. Geological Survey National Geospatial Program Base LIDAR Specification, Version 1. The data was developed based on a horizontal projection\/datum of Vermont State Plane coordinate System (FIPS 4400), NAD83, meters and vertical datum of NAVD1988 (GEOID12A), meters. LiDAR data was delivered in RAW flight line swath format, processed to create Classified LAS 1.2 Files formatted to 272 individual 1400m x 1400m pilot tiles, and corresponding 0.7 meter gridded Hydro Flattened Raster DEM Files tiled to the same 1400m x 1400m schema,tiled Intensity Images, Hydro-Flattening and Hydro-Enforcement Breaklines in ESRI Shapefile format, and 0.7 meter gridded Hydro-Flattening and Hydro-Enforcement Raster DEM Files. Ground Conditions: LiDAR collection began in Fall 2014, while no snow was on the ground and rivers were at or below normal levels. In order to post process the LiDAR data to meet task order specifications, Photo Science established a total of 71 ground control points and 85 QC points that were used to calibrate the LIDAR to known ground locations established throughout the Eastern, Vermont project area. Lot # 6 has 8 control points.",
+	"notes": "Please note this is a Pilot Delivery. Geographic Extent: Eastern Vermont Area of Interest, covering approximately 2,533 square miles. Dataset Description: The Eastern, VT LiDAR project called for the Planning, Acquisition, processing and derivative products of LIDAR data to be collected at a nominal pulse spacing (NPS) of 0.7 meter. Project specifications are based on the U.S. Geological Survey National Geospatial Program Base LIDAR Specification, Version 1. The data was developed based on a horizontal projection/datum of Vermont State Plane coordinate System (FIPS 4400), NAD83, meters and vertical datum of NAVD1988 (GEOID12A), meters. LiDAR data was delivered in RAW flight line swath format, processed to create Classified LAS 1.2 Files formatted to 272 individual 1400m x 1400m pilot tiles, and corresponding 0.7 meter gridded Hydro Flattened Raster DEM Files tiled to the same 1400m x 1400m schema,tiled Intensity Images, Hydro-Flattening and Hydro-Enforcement Breaklines in ESRI Shapefile format, and 0.7 meter gridded Hydro-Flattening and Hydro-Enforcement Raster DEM Files. Ground Conditions: LiDAR collection began in Fall 2014, while no snow was on the ground and rivers were at or below normal levels. In order to post process the LiDAR data to meet task order specifications, Photo Science established a total of 71 ground control points and 85 QC points that were used to calibrate the LIDAR to known ground locations established throughout the Eastern, Vermont project area. Lot # 6 has 8 control points.",
 	"license_title": null,
 	"extras": [{
 		"key": "bbox-east-long",
@@ -77,7 +77,7 @@
 	},
 	{
 		"key": "spatial",
-		"value": "{\"type\": \"Polygon\", \"coordinates\": [[[-73.3313513541, 43.6967857551], [-71.8644879877, 43.6967857551], [-71.8644879877, 45.0201230176], [-73.3313513541, 45.0201230176], [-73.3313513541, 43.6967857551]]]}"
+		"value": "{"type": "Polygon", "coordinates": [[[-73.3313513541, 43.6967857551], [-71.8644879877, 43.6967857551], [-71.8644879877, 45.0201230176], [-73.3313513541, 45.0201230176], [-73.3313513541, 43.6967857551]]]}"
 	},
 	{
 		"key": "progress",
@@ -85,7 +85,7 @@
 	},
 	{
 		"key": "access_constraints",
-		"value": "[\"Use Constraints: None. However, users should be aware that temporal changes may have occurred since this dataset was collected and that some parts of these data may no Longer represent actual surface conditions. Users should not use these data for critical applications without a full awareness of it's limitations. Acknowledgement of the U.S. Geological Survey would be appreciated for products derived from these data.\", \"Access Constraints: No restrictions apply to these data.\"]"
+		"value": "["Use Constraints: None. However, users should be aware that temporal changes may have occurred since this dataset was collected and that some parts of these data may no Longer represent actual surface conditions. Users should not use these data for critical applications without a full awareness of it's limitations. Acknowledgement of the U.S. Geological Survey would be appreciated for products derived from these data.", "Access Constraints: No restrictions apply to these data."]"
 	},
 	{
 		"key": "temporal-extent-begin",
@@ -105,7 +105,7 @@
 	},
 	{
 		"key": "dataset-reference-date",
-		"value": "[{\"type\": \"publication\", \"value\": \"2014-08-29\"}]"
+		"value": "[{"type": "publication", "value": "2014-08-29"}]"
 	},
 	{
 		"key": "frequency-of-update",
@@ -113,7 +113,7 @@
 	},
 	{
 		"key": "licence",
-		"value": "[\" \"]"
+		"value": "[" "]"
 	},
 	{
 		"key": "metadata_type",
@@ -121,7 +121,7 @@
 	},
 	{
 		"key": "responsible-party",
-		"value": "[{\"name\": \"Photo Science, A Quantum Spatial Company, Data Acquisition Department\", \"roles\": [\"pointOfContact\"]}]"
+		"value": "[{"name": "Photo Science, A Quantum Spatial Company, Data Acquisition Department", "roles": ["pointOfContact"]}]"
 	},
 	{
 		"key": "temporal-extent-end",
@@ -167,7 +167,7 @@
 		"revision_timestamp": "2013-03-27T17:47:03.718032",
 		"is_organization": true,
 		"state": "active",
-		"image_url": "http:\/\/vcgi.vermont.gov\/sites\/all\/themes\/vt_template\/logo.png",
+		"image_url": "http://vcgi.vermont.gov/sites/all/themes/vt_template/logo.png",
 		"revision_id": "c5dfbbb0-f1e0-4db6-b566-e932e1520060",
 		"type": "organization",
 		"id": "0c3a4ebc-9929-4f21-bdd0-76a35d52f57d",

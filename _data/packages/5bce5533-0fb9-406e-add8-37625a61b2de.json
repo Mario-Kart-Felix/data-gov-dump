@@ -37,7 +37,7 @@
 		"cache_url": null,
 		"name": "TAR Compressed File",
 		"created": "2014-11-17T16:14:43.735650",
-		"url": "http:\/\/water.usgs.gov\/GIS\/dsdl\/nri_cp330.tgz",
+		"url": "http://water.usgs.gov/GIS/dsdl/nri_cp330.tgz",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 0,
@@ -67,7 +67,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2014-11-17T16:14:43.735682",
-		"url": "http:\/\/water.usgs.gov\/lookup\/getspatial?nri92_cp330",
+		"url": "http://water.usgs.gov/lookup/getspatial?nri92_cp330",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 1,
@@ -87,7 +87,7 @@
 	"name": "contour-farming-on-agricultural-land-in-the-conterminous-united-states-1992-national-resour-330",
 	"isopen": false,
 	"url": null,
-	"notes": "This data set represents the estimated percentage of the 1-km grid cell that is covered by or subject to the agricultural conservation practice (CP330), Contour Farming (CF) on agricultural land by county. Contour Farming is described as \"tillage, planting, and other farming operations performed on or near the contour of the field slope.\" (U.S. Department of Agriculture, 1995) This data set was created with geographic information systems (GIS) and database management tools. The acres on which CF's are applied were totaled at the county level in the tabular NRI database and then apportioned to a raster coverage of agricultural land within the county based on the Enhanced National Land Cover Dataset (NLCDe) 1-kilometer resolution land cover grids (Nakagaki, 2003). Federal land is not considered in this analysis because NRI does not record information on those lands.",
+	"notes": "This data set represents the estimated percentage of the 1-km grid cell that is covered by or subject to the agricultural conservation practice (CP330), Contour Farming (CF) on agricultural land by county. Contour Farming is described as "tillage, planting, and other farming operations performed on or near the contour of the field slope." (U.S. Department of Agriculture, 1995) This data set was created with geographic information systems (GIS) and database management tools. The acres on which CF's are applied were totaled at the county level in the tabular NRI database and then apportioned to a raster coverage of agricultural land within the county based on the Enhanced National Land Cover Dataset (NLCDe) 1-kilometer resolution land cover grids (Nakagaki, 2003). Federal land is not considered in this analysis because NRI does not record information on those lands.",
 	"license_title": null,
 	"extras": [{
 		"key": "bbox-east-long",
@@ -115,7 +115,7 @@
 	},
 	{
 		"key": "graphic-preview-file",
-		"value": "http:\/\/water.usgs.gov\/GIS\/browse\/cp330.jpg"
+		"value": "http://water.usgs.gov/GIS/browse/cp330.jpg"
 	},
 	{
 		"key": "bbox-south-lat",
@@ -131,7 +131,7 @@
 	},
 	{
 		"key": "spatial",
-		"value": "{\"type\": \"Polygon\", \"coordinates\": [[[-127.887748, 22.860749], [-65.34681, 22.860749], [-65.34681, 51.60877], [-127.887748, 51.60877], [-127.887748, 22.860749]]]}"
+		"value": "{"type": "Polygon", "coordinates": [[[-127.887748, 22.860749], [-65.34681, 22.860749], [-65.34681, 51.60877], [-127.887748, 51.60877], [-127.887748, 22.860749]]]}"
 	},
 	{
 		"key": "progress",
@@ -139,7 +139,7 @@
 	},
 	{
 		"key": "access_constraints",
-		"value": "[\"Use Constraints: The NRI dataset is tabulated at the county level only and deemed accurate for this analysis (Nusser and Goebel, 1997). The spatial distribution of this data also assumes the NLCDe has an acceptable accuracy for this analysis (Nakagaki, 2003). Therefore this data set does not provide specific locations of a particular NRI code but the percent of county agricultural land that practices NRI code 607 over the total agricultural land in a particular county.\", \"Access Constraints: None\"]"
+		"value": "["Use Constraints: The NRI dataset is tabulated at the county level only and deemed accurate for this analysis (Nusser and Goebel, 1997). The spatial distribution of this data also assumes the NLCDe has an acceptable accuracy for this analysis (Nakagaki, 2003). Therefore this data set does not provide specific locations of a particular NRI code but the percent of county agricultural land that practices NRI code 607 over the total agricultural land in a particular county.", "Access Constraints: None"]"
 	},
 	{
 		"key": "contact-email",
@@ -155,7 +155,7 @@
 	},
 	{
 		"key": "dataset-reference-date",
-		"value": "[{\"type\": \"publication\", \"value\": \"2004-01-01\"}]"
+		"value": "[{"type": "publication", "value": "2004-01-01"}]"
 	},
 	{
 		"key": "graphic-preview-description",
@@ -167,7 +167,7 @@
 	},
 	{
 		"key": "licence",
-		"value": "[\"Although these data have been used by the U.S. Geological Survey, U.S. Department of the Interior, no warranty expressed or implied is made by the U.S. Geological Survey as to the accuracy of the data.  The act of distribution shall not constitute any such warranty, and no responsibility is assumed by the U.S. Geological Survey in the use of these data, software, or related materials.\\nThe use of firm, trade, or brand names in this report is for identification purposes only and does not constitute endorsement by the U.S. Geological Survey.  The names mentioned in this document may be trademarks or registered trademarks of their respective trademark owners.\"]"
+		"value": "["Although these data have been used by the U.S. Geological Survey, U.S. Department of the Interior, no warranty expressed or implied is made by the U.S. Geological Survey as to the accuracy of the data.  The act of distribution shall not constitute any such warranty, and no responsibility is assumed by the U.S. Geological Survey in the use of these data, software, or related materials.\nThe use of firm, trade, or brand names in this report is for identification purposes only and does not constitute endorsement by the U.S. Geological Survey.  The names mentioned in this document may be trademarks or registered trademarks of their respective trademark owners."]"
 	},
 	{
 		"key": "metadata_type",
@@ -175,7 +175,7 @@
 	},
 	{
 		"key": "responsible-party",
-		"value": "[{\"name\": \"U.S. Geological Survey\", \"roles\": [\"pointOfContact\"]}]"
+		"value": "[{"name": "U.S. Geological Survey", "roles": ["pointOfContact"]}]"
 	},
 	{
 		"key": "spatial-data-service-type",
@@ -210,14 +210,14 @@
 		"value": "Water NSDI Node Spatial Datasets"
 	}],
 	"organization": {
-		"description": "http:\/\/www.usgs.gov\/\r\nThe USGS is a federal science agency that provides impartial information on the health of our ecosystems and environment, the natural hazards that threaten us, the natural resources we rely on, the impacts of climate and land-use change, and the core science systems that help us provide timely, relevant, and useable information.",
+		"description": "http://www.usgs.gov/rnThe USGS is a federal science agency that provides impartial information on the health of our ecosystems and environment, the natural hazards that threaten us, the natural resources we rely on, the impacts of climate and land-use change, and the core science systems that help us provide timely, relevant, and useable information.",
 		"created": "2013-03-14T03:44:38.263357",
 		"title": "U.S. Geological Survey, Department of the Interior",
 		"name": "usgs-gov",
 		"revision_timestamp": "2014-09-02T13:43:52.167023",
 		"is_organization": true,
 		"state": "active",
-		"image_url": "http:\/\/pubs.usgs.gov\/sir\/2004\/5296\/04-5296_confluence_park\/usgs_logo.gif",
+		"image_url": "http://pubs.usgs.gov/sir/2004/5296/04-5296_confluence_park/usgs_logo.gif",
 		"revision_id": "2858aa99-9501-4f96-82e5-9647b968ed66",
 		"type": "organization",
 		"id": "bd2cdd5a-4d65-46c0-9937-c8381175f104",

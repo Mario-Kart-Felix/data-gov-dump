@@ -36,7 +36,7 @@
 		"cache_url": null,
 		"name": "Map Service REST Endpoint",
 		"created": "2016-07-15T21:35:13.428622",
-		"url": "http:\/\/cloud.insideidaho.org\/ArcGIS\/rest\/services\/elevation\/2007_dryCreekWatershed\/MapServer",
+		"url": "http://cloud.insideidaho.org/ArcGIS/rest/services/elevation/2007_dryCreekWatershed/MapServer",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 0,
@@ -65,7 +65,7 @@
 		"cache_url": null,
 		"name": "ESRI Layer File (.lyr)",
 		"created": "2016-07-15T21:35:13.428644",
-		"url": "http:\/\/cloud.insideidaho.org\/data\/elevation\/lidar\/2007_dryCreekWatershed\/2007_dryCreekWatershed.lyr",
+		"url": "http://cloud.insideidaho.org/data/elevation/lidar/2007_dryCreekWatershed/2007_dryCreekWatershed.lyr",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 1,
@@ -94,7 +94,7 @@
 		"cache_url": null,
 		"name": "OGC WMS",
 		"created": "2016-07-15T21:35:13.428653",
-		"url": "http:\/\/cloud.insideidaho.org\/ArcGIS\/services\/elevation\/2007_dryCreekWatershed\/MapServer\/WMSServer?request=GetCapabilities&service=WMS",
+		"url": "http://cloud.insideidaho.org/ArcGIS/services/elevation/2007_dryCreekWatershed/MapServer/WMSServer?request=GetCapabilities&service=WMS",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 2,
@@ -123,7 +123,7 @@
 		"cache_url": null,
 		"name": "OGC WCS",
 		"created": "2016-07-15T21:35:13.428660",
-		"url": "http:\/\/cloud.insideidaho.org\/ArcGIS\/services\/elevation\/2007_dryCreekWatershed\/MapServer\/WCSServer?request=GetCapabilities&service=WCS",
+		"url": "http://cloud.insideidaho.org/ArcGIS/services/elevation/2007_dryCreekWatershed/MapServer/WCSServer?request=GetCapabilities&service=WCS",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 3,
@@ -152,7 +152,7 @@
 		"cache_url": null,
 		"name": "Online Map",
 		"created": "2016-07-15T21:35:13.428667",
-		"url": "http:\/\/cloud.insideidaho.org\/webMaps\/flash\/dryCreekWatershed\/",
+		"url": "http://cloud.insideidaho.org/webMaps/flash/dryCreekWatershed/",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 4,
@@ -181,7 +181,7 @@
 		"cache_url": null,
 		"name": "KML (Google Earth)",
 		"created": "2016-07-15T21:35:13.428674",
-		"url": "http:\/\/cloud.insideidaho.org\/ArcGIS\/rest\/services\/elevation\/2007_dryCreekWatershed\/MapServer\/generatekml",
+		"url": "http://cloud.insideidaho.org/ArcGIS/rest/services/elevation/2007_dryCreekWatershed/MapServer/generatekml",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 5,
@@ -237,7 +237,7 @@
 	},
 	{
 		"key": "spatial",
-		"value": "{\"type\": \"Polygon\", \"coordinates\": [[[-116.1864678, 43.6825269], [-116.0807367, 43.6825269], [-116.0807367, 43.7550358], [-116.1864678, 43.7550358], [-116.1864678, 43.6825269]]]}"
+		"value": "{"type": "Polygon", "coordinates": [[[-116.1864678, 43.6825269], [-116.0807367, 43.6825269], [-116.0807367, 43.7550358], [-116.1864678, 43.7550358], [-116.1864678, 43.6825269]]]}"
 	},
 	{
 		"key": "progress",
@@ -245,7 +245,7 @@
 	},
 	{
 		"key": "access_constraints",
-		"value": "[\"Use Constraints: Proper credit to Idaho LiDAR Consortium\", \"Access Constraints: None\"]"
+		"value": "["Use Constraints: Proper credit to Idaho LiDAR Consortium", "Access Constraints: None"]"
 	},
 	{
 		"key": "temporal-extent-begin",
@@ -265,7 +265,7 @@
 	},
 	{
 		"key": "dataset-reference-date",
-		"value": "[{\"type\": \"publication\", \"value\": \"2010-01-01\"}]"
+		"value": "[{"type": "publication", "value": "2010-01-01"}]"
 	},
 	{
 		"key": "frequency-of-update",
@@ -273,7 +273,7 @@
 	},
 	{
 		"key": "licence",
-		"value": "[\"Although these data have been processed successfully on a computer system at the Idaho Geospatial Data Clearinghouse, no warranty, expressed or implied, is made regarding the utility of the data on any other system, nor shall the act of distribution constitute any such warranty. \"]"
+		"value": "["Although these data have been processed successfully on a computer system at the Idaho Geospatial Data Clearinghouse, no warranty, expressed or implied, is made regarding the utility of the data on any other system, nor shall the act of distribution constitute any such warranty. "]"
 	},
 	{
 		"key": "metadata_type",
@@ -281,7 +281,7 @@
 	},
 	{
 		"key": "responsible-party",
-		"value": "[{\"name\": \"Idaho State University, Boise Aerospace Center Laboratory\", \"roles\": [\"pointOfContact\"]}]"
+		"value": "[{"name": "Idaho State University, Boise Aerospace Center Laboratory", "roles": ["pointOfContact"]}]"
 	},
 	{
 		"key": "temporal-extent-end",
@@ -327,7 +327,7 @@
 		"revision_timestamp": "2015-01-16T18:28:14.593903",
 		"is_organization": true,
 		"state": "active",
-		"image_url": "http:\/\/upload.wikimedia.org\/wikipedia\/en\/thumb\/4\/44\/University_of_Idaho_seal.svg\/300px-University_of_Idaho_seal.svg.png",
+		"image_url": "http://upload.wikimedia.org/wikipedia/en/thumb/4/44/University_of_Idaho_seal.svg/300px-University_of_Idaho_seal.svg.png",
 		"revision_id": "761955d7-9530-4622-8609-d0b01c78e177",
 		"type": "organization",
 		"id": "75e22a8a-da5f-46f3-93d8-924063a3703d",

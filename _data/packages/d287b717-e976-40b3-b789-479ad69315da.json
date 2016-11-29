@@ -37,7 +37,7 @@
 		"cache_url": null,
 		"name": "Web Feature Service",
 		"created": "2013-03-14T21:26:50.737592",
-		"url": "http:\/\/gis.glin.net\/geoserver\/wfs?request=getfeature&service=wfs&version=1.0.0&typename=glin:lmb_coop_stations_ncdc&outputformat=shape-zip",
+		"url": "http://gis.glin.net/geoserver/wfs?request=getfeature&service=wfs&version=1.0.0&typename=glin:lmb_coop_stations_ncdc&outputformat=shape-zip",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 0,
@@ -67,7 +67,7 @@
 		"cache_url": null,
 		"name": "Web Feature Service",
 		"created": "2013-03-14T21:26:50.737614",
-		"url": "http:\/\/gis.glin.net\/geoserver\/wfs?request=getfeature&service=wfs&version=1.0.0&typename=glin:lmb_coop_stations_ncdc&outputformat=GML2-GZIP",
+		"url": "http://gis.glin.net/geoserver/wfs?request=getfeature&service=wfs&version=1.0.0&typename=glin:lmb_coop_stations_ncdc&outputformat=GML2-GZIP",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 1,
@@ -97,7 +97,7 @@
 		"cache_url": null,
 		"name": "Web Mapping Service",
 		"created": "2013-03-14T21:26:50.737622",
-		"url": "http:\/\/gis.glin.net\/geoserver\/wms?bbox=-89.561940,41.383330,-84.150000,46.550000&request=GetMap&layers=glin:lmb_coop_stations_ncdc&width=600&height=400&srs=EPSG:4326&styles=point_black&format=image\/svg",
+		"url": "http://gis.glin.net/geoserver/wms?bbox=-89.561940,41.383330,-84.150000,46.550000&request=GetMap&layers=glin:lmb_coop_stations_ncdc&width=600&height=400&srs=EPSG:4326&styles=point_black&format=image/svg",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 2,
@@ -127,7 +127,7 @@
 		"cache_url": null,
 		"name": "Web Mapping Service",
 		"created": "2013-03-14T21:26:50.737629",
-		"url": "http:\/\/gis.glin.net\/geoserver\/wms?bbox=-89.561940,41.383330,-84.150000,46.550000&request=GetMap&layers=glin:lmb_coop_stations_ncdc&width=600&height=400&srs=EPSG:4326&styles=point_black&format=application\/pdf",
+		"url": "http://gis.glin.net/geoserver/wms?bbox=-89.561940,41.383330,-84.150000,46.550000&request=GetMap&layers=glin:lmb_coop_stations_ncdc&width=600&height=400&srs=EPSG:4326&styles=point_black&format=application/pdf",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 3,
@@ -157,7 +157,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2013-03-14T21:26:50.737636",
-		"url": "http:\/\/gis.glin.net\/ogc\/services.php#lmb_coop_stations_ncdc",
+		"url": "http://gis.glin.net/ogc/services.php#lmb_coop_stations_ncdc",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 4,
@@ -177,11 +177,11 @@
 	"name": "lake-michigan-basin-coop-stations-ncdc",
 	"isopen": false,
 	"url": null,
-	"notes": "Historical cooperative station index. Cooperative stations are U.S. stations operated by local observers which generally report max\/min temperatures and precipitation. National Weather Service (NWS) data are also included in this dataset. The data receive extensive automated + manual quality control. The index includes a county location cross-reference. Over 8000 stations are currently active across the country.",
+	"notes": "Historical cooperative station index. Cooperative stations are U.S. stations operated by local observers which generally report max/min temperatures and precipitation. National Weather Service (NWS) data are also included in this dataset. The data receive extensive automated + manual quality control. The index includes a county location cross-reference. Over 8000 stations are currently active across the country.",
 	"license_title": null,
 	"extras": [{
 		"key": "responsible-party",
-		"value": "[{\"name\": \"University of Michigan\", \"roles\": [\"pointOfContact\"]}]"
+		"value": "[{"name": "University of Michigan", "roles": ["pointOfContact"]}]"
 	},
 	{
 		"key": "contact-email",
@@ -201,7 +201,7 @@
 	},
 	{
 		"key": "dataset-reference-date",
-		"value": "[{\"type\": \"publication\", \"value\": \"9999-01-01\"}]"
+		"value": "[{"type": "publication", "value": "9999-01-01"}]"
 	},
 	{
 		"key": "resource-type",
@@ -229,7 +229,7 @@
 	},
 	{
 		"key": "licence",
-		"value": "[\"Disclaimer. The Great Lakes Commission (GLC) and the Great Lakes Information Network (GLIN) cannot assume liability for any damages caused by any errors or omissions in the data, nor as a result of the failure of the data to function on a particular system. The Great Lakes Commission (GLC) and the Great Lakes Information Network (GLIN) make no warranty, expressed or implied, nor does the fact of distribution constitute such a warranty.\"]"
+		"value": "["Disclaimer. The Great Lakes Commission (GLC) and the Great Lakes Information Network (GLIN) cannot assume liability for any damages caused by any errors or omissions in the data, nor as a result of the failure of the data to function on a particular system. The Great Lakes Commission (GLC) and the Great Lakes Information Network (GLIN) make no warranty, expressed or implied, nor does the fact of distribution constitute such a warranty."]"
 	},
 	{
 		"key": "metadata_type",
@@ -237,7 +237,7 @@
 	},
 	{
 		"key": "spatial",
-		"value": "{\"type\": \"Polygon\", \"coordinates\": [[[-89.56194, 41.38333], [-89.56194, 46.55], [-84.15, 46.55], [-84.15, 41.38333], [-89.56194, 41.38333]]]}"
+		"value": "{"type": "Polygon", "coordinates": [[[-89.56194, 41.38333], [-89.56194, 46.55], [-84.15, 46.55], [-84.15, 41.38333], [-89.56194, 41.38333]]]}"
 	},
 	{
 		"key": "guid",
@@ -249,11 +249,11 @@
 	},
 	{
 		"key": "access_constraints",
-		"value": "[\"Use Constraints: REQUIRED: Restrictions and legal prerequisites for using the data set after access is granted.\", \"Access Constraints: None\"]"
+		"value": "["Use Constraints: REQUIRED: Restrictions and legal prerequisites for using the data set after access is granted.", "Access Constraints: None"]"
 	},
 	{
 		"key": "graphic-preview-file",
-		"value": "http:\/\/gis.glin.net\/geoserver\/wms?bbox=-89.561940,41.383330,-84.150000,46.550000&request=GetMap&layers=glin:lmb_coop_stations_ncdc&width=600&height=400&srs=EPSG:4326&styles=point_black&format=image\/png"
+		"value": "http://gis.glin.net/geoserver/wms?bbox=-89.561940,41.383330,-84.150000,46.550000&request=GetMap&layers=glin:lmb_coop_stations_ncdc&width=600&height=400&srs=EPSG:4326&styles=point_black&format=image/png"
 	},
 	{
 		"key": "frequency-of-update",
@@ -291,7 +291,7 @@
 		"revision_timestamp": "2015-01-16T18:08:30.443285",
 		"is_organization": true,
 		"state": "active",
-		"image_url": "http:\/\/indianarealpropertylaw.com\/wp-content\/uploads\/2013\/07\/Great-Lakes-Commission.jpg",
+		"image_url": "http://indianarealpropertylaw.com/wp-content/uploads/2013/07/Great-Lakes-Commission.jpg",
 		"revision_id": "b1642f30-a698-46dd-ad02-061968095af6",
 		"type": "organization",
 		"id": "6f701557-5979-4d24-9171-73111c57faec",

@@ -37,7 +37,7 @@
 		"cache_url": null,
 		"name": "Zip File",
 		"created": "2016-10-19T19:14:11.650195",
-		"url": "ftp:\/\/ftp.soest.hawaii.edu\/pibhmc\/website\/data\/mhi\/bathymetry\/Nii_DBMB_5m.zip",
+		"url": "ftp://ftp.soest.hawaii.edu/pibhmc/website/data/mhi/bathymetry/Nii_DBMB_5m.zip",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 0,
@@ -67,7 +67,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2016-10-19T19:14:11.650218",
-		"url": "http:\/\/www.soest.hawaii.edu\/pibhmc\/pibhmc_mhi_nii_bathy.htm",
+		"url": "http://www.soest.hawaii.edu/pibhmc/pibhmc_mhi_nii_bathy.htm",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 1,
@@ -97,7 +97,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2016-10-19T19:14:11.650227",
-		"url": "http:\/\/www.soest.hawaii.edu\/pibhmc",
+		"url": "http://www.soest.hawaii.edu/pibhmc",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 2,
@@ -119,7 +119,7 @@
 		"revision_timestamp": "2013-03-25T23:05:12.923863",
 		"is_organization": true,
 		"state": "active",
-		"image_url": "https:\/\/fortress.wa.gov\/dfw\/score\/score\/images\/noaa_logo.png",
+		"image_url": "https://fortress.wa.gov/dfw/score/score/images/noaa_logo.png",
 		"revision_id": "c6d43080-22e1-405e-a83d-f2a512d9e867",
 		"type": "organization",
 		"id": "e811f0b4-451f-4896-9e8f-fc6802837819",
@@ -130,7 +130,7 @@
 	"name": "mosaic-of-gridded-multibeam-bathymetry-and-bathymetry-derived-from-multispectral-world-view-2-sbcc1d",
 	"isopen": false,
 	"url": null,
-	"notes": "Gridded multibeam bathymetry is integrated with bathymetry derived from multpectral World View-2 satellite data. Gridded (5 m cell size) multibeam bathymetry collected aboard NOAA Ship Hiialaka'i and R\/V AHI. Bathymetry values shallower than ~20 m were derived by gauging the reletive attenuation of coastal, blue, green and yellow spectral radiance as a function of depth. A multiple linear regression analysis of coastal,blue, green and yellow band spectral values against depth determined the variables of y-intercept, coastal,blue, green and yellow slope values. Variables then used in multivariate slope intercept formula to derive depth. Digital image processing to derive depths conducted with the ENVI 4.8 software program while data editing and integration was performed using ArcGIS 10. This data set is for the shelf environment of Ni'ihau Island, Hawaii.",
+	"notes": "Gridded multibeam bathymetry is integrated with bathymetry derived from multpectral World View-2 satellite data. Gridded (5 m cell size) multibeam bathymetry collected aboard NOAA Ship Hiialaka'i and R/V AHI. Bathymetry values shallower than ~20 m were derived by gauging the reletive attenuation of coastal, blue, green and yellow spectral radiance as a function of depth. A multiple linear regression analysis of coastal,blue, green and yellow band spectral values against depth determined the variables of y-intercept, coastal,blue, green and yellow slope values. Variables then used in multivariate slope intercept formula to derive depth. Digital image processing to derive depths conducted with the ENVI 4.8 software program while data editing and integration was performed using ArcGIS 10. This data set is for the shelf environment of Ni'ihau Island, Hawaii.",
 	"owner_org": "e811f0b4-451f-4896-9e8f-fc6802837819",
 	"extras": [{
 		"key": "bbox-east-long",
@@ -158,7 +158,7 @@
 	},
 	{
 		"key": "graphic-preview-file",
-		"value": "ftp:\/\/ftp.soest.hawaii.edu\/pibhmc\/website\/data\/mhi\/bathymetry\/NII_DBMB_5m_445.jpg"
+		"value": "ftp://ftp.soest.hawaii.edu/pibhmc/website/data/mhi/bathymetry/NII_DBMB_5m_445.jpg"
 	},
 	{
 		"key": "metadata-language",
@@ -174,7 +174,7 @@
 	},
 	{
 		"key": "spatial",
-		"value": "{\"type\": \"Polygon\", \"coordinates\": [[[-160.282325987, 21.7349740969], [-160.02398098, 21.7349740969], [-160.02398098, 22.056437646], [-160.282325987, 22.056437646], [-160.282325987, 21.7349740969]]]}"
+		"value": "{"type": "Polygon", "coordinates": [[[-160.282325987, 21.7349740969], [-160.02398098, 21.7349740969], [-160.02398098, 22.056437646], [-160.282325987, 22.056437646], [-160.282325987, 21.7349740969]]]}"
 	},
 	{
 		"key": "progress",
@@ -182,7 +182,7 @@
 	},
 	{
 		"key": "access_constraints",
-		"value": "[\"Use Constraints: These data are not to be used for navigation purposes. Please acknowledge the NOAA Coral Reef Ecosystem Division, Pacific Islands Fisheries Science Center and the Pacific Islands Benthic Habitat Mapping Center, School of Ocean and Earth Science and Technology, University of Hawaii as the sources of this information.\", \"Access Constraints: None\"]"
+		"value": "["Use Constraints: These data are not to be used for navigation purposes. Please acknowledge the NOAA Coral Reef Ecosystem Division, Pacific Islands Fisheries Science Center and the Pacific Islands Benthic Habitat Mapping Center, School of Ocean and Earth Science and Technology, University of Hawaii as the sources of this information.", "Access Constraints: None"]"
 	},
 	{
 		"key": "temporal-extent-begin",
@@ -202,7 +202,7 @@
 	},
 	{
 		"key": "dataset-reference-date",
-		"value": "[{\"type\": \"publication\", \"value\": \"2012-12-15\"}]"
+		"value": "[{"type": "publication", "value": "2012-12-15"}]"
 	},
 	{
 		"key": "graphic-preview-description",
@@ -214,7 +214,7 @@
 	},
 	{
 		"key": "licence",
-		"value": "[\"\\nThese data are not to be used for navigational purposes.\\nNOAA makes no warranty regarding these data, expressed or implied,\\nnor does the fact of distribution constitute such a warranty.\\nNOAA cannot assume liability for any damages caused by any errors\\nor omissions in these data, nor as a result of the failure of\\nthese data to function on a particular system.\\n\"]"
+		"value": "["\nThese data are not to be used for navigational purposes.\nNOAA makes no warranty regarding these data, expressed or implied,\nnor does the fact of distribution constitute such a warranty.\nNOAA cannot assume liability for any damages caused by any errors\nor omissions in these data, nor as a result of the failure of\nthese data to function on a particular system.\n"]"
 	},
 	{
 		"key": "metadata_type",
@@ -222,7 +222,7 @@
 	},
 	{
 		"key": "responsible-party",
-		"value": "[{\"name\": \"Pacific Islands Benthic Habitat Mapping Center (PIBHMC), Coral Reef Ecosystem Division (CRED), Pacific Islands Fisheries Science Center (PIFSC), National Marine Fisheries Service (NMFS), National Oceanic and Atmospheric Administration (NOAA)\", \"roles\": [\"pointOfContact\"]}]"
+		"value": "[{"name": "Pacific Islands Benthic Habitat Mapping Center (PIBHMC), Coral Reef Ecosystem Division (CRED), Pacific Islands Fisheries Science Center (PIFSC), National Marine Fisheries Service (NMFS), National Oceanic and Atmospheric Administration (NOAA)", "roles": ["pointOfContact"]}]"
 	},
 	{
 		"key": "temporal-extent-end",
@@ -238,7 +238,7 @@
 	},
 	{
 		"key": "tags",
-		"value": "slope, worldview-2, satellite (digital scans), geographic information, reef monitoring and assessment, biosphere, 467, oceans, united states of america, water depth, hawaii, zoology, multibeam sonar, corals, bathymetry, bathymetry\/seafloor topography, benthic habitat mapping and characterization in the pacific islands region, remote sensing, niihau island, earth science",
+		"value": "slope, worldview-2, satellite (digital scans), geographic information, reef monitoring and assessment, biosphere, 467, oceans, united states of america, water depth, hawaii, zoology, multibeam sonar, corals, bathymetry, bathymetry/seafloor topography, benthic habitat mapping and characterization in the pacific islands region, remote sensing, niihau island, earth science",
 		"__extras": {
 			"revision_id": "d601454c-4f57-4dd7-bc74-4a326d32dea3",
 			"package_id": "c693e82e-6bca-42aa-a2ad-f467be42adcf"

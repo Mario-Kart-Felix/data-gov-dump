@@ -37,7 +37,7 @@
 		"cache_url": null,
 		"name": "Text File",
 		"created": "2015-12-20T13:51:56.055276",
-		"url": "ftp:\/\/ftp.ncdc.noaa.gov\/pub\/data\/paleo\/coral\/indian_ocean\/houtman_abrolhos_1999.txt",
+		"url": "ftp://ftp.ncdc.noaa.gov/pub/data/paleo/coral/indian_ocean/houtman_abrolhos_1999.txt",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 0,
@@ -57,11 +57,11 @@
 	"name": "houtman-abrolhos-isotope-delta-18o-delta-13c-data-for-1795-to-1994",
 	"isopen": false,
 	"url": null,
-	"notes": "DESCRIPTION: VARIABLES AND UNITS: Column #1: core depth in mm Column #2: delta C-13 vs V-PDB Column #3: delta O-18 vs V-PDB Column #4: assigned date in years A.D. Column #5: same as #4, but interpolated to bimonthly data Columns #6 and #7: same as #2 and #3, but interpolated to bimonthly values. All isotope data are reported in per mil versus the Vienna Pee Dee Belemnite standard (V-PDB). PRECISION: Internal precisions (1 SD) are 0.02 per mil for delta O-18, and 0.015 per mil for delta C-13. External precisions (1 SD) of an internal laboratory standard (Solnhofen limestone) are 0.07 per mil for delta O-18, and 0.05 per mil for delta C-13. SAMPLING RESOLUTION: The coral core was originally sampled in half-yearly resolution. For the published chronology additional samples were taken (2-3 new samples between two \"old\" samples). Average sampling density is 7.7 samples per year. The bimonthly data were interpolated with an Excel-macro. AGE MODEL: The following is cited from Kuhnert et al. (1999): \"A first rough age assignment was based on the density banding pattern evident in x-radiographs over most portions of the coral core. Each couplet of one low- and one high-density band represents the growth of one year. The higher-resolving age model is based on the assumption, that coral d18O primarily depends on temperature. In the d18O data deriving from an annual banding couplet the highest value was assigned to the mid of September, the coldest month on average. The chronology is thus tied to one point within each year; the ages of the other sampling points were linearly interpolated according to their spatial distances along the sampling profile. In skeletal portions with unclear density banding pattern the stratigraphy is solely based on cyclic variations in coral d18O. Each cycle was assumed to represent an annual cycle, as long as it occurred over a skeletal portion extending between 10 and 20 mm. Assignments of sub-annual dates were performed as described above. Errors are estimated to be &oacute;1 year per 100 years (due to unclear banding and d18O cycles near 1853 and 1869, respectively).\"",
+	"notes": "DESCRIPTION: VARIABLES AND UNITS: Column #1: core depth in mm Column #2: delta C-13 vs V-PDB Column #3: delta O-18 vs V-PDB Column #4: assigned date in years A.D. Column #5: same as #4, but interpolated to bimonthly data Columns #6 and #7: same as #2 and #3, but interpolated to bimonthly values. All isotope data are reported in per mil versus the Vienna Pee Dee Belemnite standard (V-PDB). PRECISION: Internal precisions (1 SD) are 0.02 per mil for delta O-18, and 0.015 per mil for delta C-13. External precisions (1 SD) of an internal laboratory standard (Solnhofen limestone) are 0.07 per mil for delta O-18, and 0.05 per mil for delta C-13. SAMPLING RESOLUTION: The coral core was originally sampled in half-yearly resolution. For the published chronology additional samples were taken (2-3 new samples between two "old" samples). Average sampling density is 7.7 samples per year. The bimonthly data were interpolated with an Excel-macro. AGE MODEL: The following is cited from Kuhnert et al. (1999): "A first rough age assignment was based on the density banding pattern evident in x-radiographs over most portions of the coral core. Each couplet of one low- and one high-density band represents the growth of one year. The higher-resolving age model is based on the assumption, that coral d18O primarily depends on temperature. In the d18O data deriving from an annual banding couplet the highest value was assigned to the mid of September, the coldest month on average. The chronology is thus tied to one point within each year; the ages of the other sampling points were linearly interpolated according to their spatial distances along the sampling profile. In skeletal portions with unclear density banding pattern the stratigraphy is solely based on cyclic variations in coral d18O. Each cycle was assumed to represent an annual cycle, as long as it occurred over a skeletal portion extending between 10 and 20 mm. Assignments of sub-annual dates were performed as described above. Errors are estimated to be &oacute;1 year per 100 years (due to unclear banding and d18O cycles near 1853 and 1869, respectively)."",
 	"license_title": null,
 	"extras": [{
 		"key": "bbox-east-long",
-		"value": "\n          113.77\n        "
+		"value": "n          113.77n        "
 	},
 	{
 		"key": "resource-type",
@@ -69,7 +69,7 @@
 	},
 	{
 		"key": "bbox-north-lat",
-		"value": "\n          -28.46\n        "
+		"value": "n          -28.46n        "
 	},
 	{
 		"key": "coupled-resource",
@@ -85,7 +85,7 @@
 	},
 	{
 		"key": "bbox-south-lat",
-		"value": "\n          -28.46\n        "
+		"value": "n          -28.46n        "
 	},
 	{
 		"key": "spatial-reference-system",
@@ -93,7 +93,7 @@
 	},
 	{
 		"key": "spatial",
-		"value": "{\"type\": \"Point\", \"coordinates\": [113.77, -28.46]}"
+		"value": "{"type": "Point", "coordinates": [113.77, -28.46]}"
 	},
 	{
 		"key": "progress",
@@ -101,7 +101,7 @@
 	},
 	{
 		"key": "access_constraints",
-		"value": "[\"Use Constraints: Please cite original reference when using this data.\", \"Access Constraints: None\"]"
+		"value": "["Use Constraints: Please cite original reference when using this data.", "Access Constraints: None"]"
 	},
 	{
 		"key": "temporal-extent-begin",
@@ -113,7 +113,7 @@
 	},
 	{
 		"key": "bbox-west-long",
-		"value": "\n          113.77\n        "
+		"value": "n          113.77n        "
 	},
 	{
 		"key": "metadata-date",
@@ -121,7 +121,7 @@
 	},
 	{
 		"key": "dataset-reference-date",
-		"value": "[{\"type\": \"publication\", \"value\": \"1999-07-01\"}]"
+		"value": "[{"type": "publication", "value": "1999-07-01"}]"
 	},
 	{
 		"key": "frequency-of-update",
@@ -129,7 +129,7 @@
 	},
 	{
 		"key": "licence",
-		"value": "[\"\\n      Disclaimer- While every effort has been made to ensure that these data are accurate and reliable within the limits of the current state of the art, NOAA cannot assume liability for any damages caused by any errors or omissions in the data, nor as a result of the failure of the data to function on a particular system.  NOAA makes no warranty, expressed or implied, nor does the fact of distribution constitute such a warranty.\\n    \"]"
+		"value": "["\n      Disclaimer- While every effort has been made to ensure that these data are accurate and reliable within the limits of the current state of the art, NOAA cannot assume liability for any damages caused by any errors or omissions in the data, nor as a result of the failure of the data to function on a particular system.  NOAA makes no warranty, expressed or implied, nor does the fact of distribution constitute such a warranty.\n    "]"
 	},
 	{
 		"key": "metadata_type",
@@ -137,7 +137,7 @@
 	},
 	{
 		"key": "responsible-party",
-		"value": "[{\"name\": \"NOAA Paleoclimatology Program\", \"roles\": [\"pointOfContact\"]}]"
+		"value": "[{"name": "NOAA Paleoclimatology Program", "roles": ["pointOfContact"]}]"
 	},
 	{
 		"key": "temporal-extent-end",
@@ -153,7 +153,7 @@
 	},
 	{
 		"package_id": "b3a07906-3fa4-4dd4-be53-bb35af3e1b7f",
-		"value": "coral records, numeric data sets, delta 18o, houtman abrolhos, density, holocene, modern, country\/territory, indian ocean, paleoclimate, paleoclimatology, australia, houtman abrolhos (28s113e0001), delta 13c, temperature, ocean basin, western australia, earth science",
+		"value": "coral records, numeric data sets, delta 18o, houtman abrolhos, density, holocene, modern, country/territory, indian ocean, paleoclimate, paleoclimatology, australia, houtman abrolhos (28s113e0001), delta 13c, temperature, ocean basin, western australia, earth science",
 		"revision_timestamp": "2015-12-20T18:51:55.939037",
 		"state": "active",
 		"key": "tags",
@@ -183,7 +183,7 @@
 		"revision_timestamp": "2013-03-25T23:05:12.923863",
 		"is_organization": true,
 		"state": "active",
-		"image_url": "https:\/\/fortress.wa.gov\/dfw\/score\/score\/images\/noaa_logo.png",
+		"image_url": "https://fortress.wa.gov/dfw/score/score/images/noaa_logo.png",
 		"revision_id": "c6d43080-22e1-405e-a83d-f2a512d9e867",
 		"type": "organization",
 		"id": "e811f0b4-451f-4896-9e8f-fc6802837819",

@@ -37,7 +37,7 @@
 		"cache_url": null,
 		"name": "Zip File",
 		"created": "2015-11-10T01:49:39.149079",
-		"url": "ftp:\/\/ftp.soest.hawaii.edu\/pibhmc\/website\/data\/mhi\/bathymetry\/vogetrader_1m.zip",
+		"url": "ftp://ftp.soest.hawaii.edu/pibhmc/website/data/mhi/bathymetry/vogetrader_1m.zip",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 0,
@@ -67,7 +67,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2015-11-10T01:49:39.149099",
-		"url": "http:\/\/www.soest.hawaii.edu\/pibhmc\/pibhmc_mhi_oah_bathy.htm",
+		"url": "http://www.soest.hawaii.edu/pibhmc/pibhmc_mhi_oah_bathy.htm",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 1,
@@ -97,7 +97,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2015-11-10T01:49:39.149107",
-		"url": "http:\/\/www.soest.hawaii.edu\/pibhmc",
+		"url": "http://www.soest.hawaii.edu/pibhmc",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 2,
@@ -145,7 +145,7 @@
 	},
 	{
 		"key": "graphic-preview-file",
-		"value": "http:\/\/www.soest.hawaii.edu\/pibhmc\/MHI_images\/vogetrader_1m_445.jpg"
+		"value": "http://www.soest.hawaii.edu/pibhmc/MHI_images/vogetrader_1m_445.jpg"
 	},
 	{
 		"key": "metadata-language",
@@ -161,7 +161,7 @@
 	},
 	{
 		"key": "spatial",
-		"value": "{\"type\": \"Polygon\", \"coordinates\": [[[-158.128621554, 21.3125804288], [-158.123316535, 21.3125804288], [-158.123316535, 21.320176465], [-158.128621554, 21.320176465], [-158.128621554, 21.3125804288]]]}"
+		"value": "{"type": "Polygon", "coordinates": [[[-158.128621554, 21.3125804288], [-158.123316535, 21.3125804288], [-158.123316535, 21.320176465], [-158.128621554, 21.320176465], [-158.128621554, 21.3125804288]]]}"
 	},
 	{
 		"key": "progress",
@@ -169,7 +169,7 @@
 	},
 	{
 		"key": "access_constraints",
-		"value": "[\"Use Constraints: These data are not to be used for navigation purposes. Please acknowledge NOAA Pacific Islands Fisheries Science Center, and the Joint Institute for Marine and Atmospheric Research (JIMAR) University of Hawaii as the sources of this information.\", \"Access Constraints: None\"]"
+		"value": "["Use Constraints: These data are not to be used for navigation purposes. Please acknowledge NOAA Pacific Islands Fisheries Science Center, and the Joint Institute for Marine and Atmospheric Research (JIMAR) University of Hawaii as the sources of this information.", "Access Constraints: None"]"
 	},
 	{
 		"key": "temporal-extent-begin",
@@ -189,7 +189,7 @@
 	},
 	{
 		"key": "dataset-reference-date",
-		"value": "[{\"type\": \"publication\", \"value\": \"2015-02-04\"}]"
+		"value": "[{"type": "publication", "value": "2015-02-04"}]"
 	},
 	{
 		"key": "graphic-preview-description",
@@ -201,7 +201,7 @@
 	},
 	{
 		"key": "licence",
-		"value": "[\"These data are not to be used for navigational purposes. NOAA makes no warranty regarding these data, expressed or implied, nor does the fact of distribution constitute such a warranty. NOAA cannot assume liability for any damages caused by any errors or omissions in these data, nor as a result of the failure of these data to function on a particular system.\"]"
+		"value": "["These data are not to be used for navigational purposes. NOAA makes no warranty regarding these data, expressed or implied, nor does the fact of distribution constitute such a warranty. NOAA cannot assume liability for any damages caused by any errors or omissions in these data, nor as a result of the failure of these data to function on a particular system."]"
 	},
 	{
 		"key": "metadata_type",
@@ -209,7 +209,7 @@
 	},
 	{
 		"key": "responsible-party",
-		"value": "[{\"name\": \"Pacific Islands Benthic Habitat Mapping Center (PIBHMC), Coral Reef Ecosystem Division (CRED), Pacific Islands Fisheries Science Center (PIFSC), National Marine Fisheries Service (NMFS), National Oceanic and Atmospheric Administration (NOAA)\", \"roles\": [\"pointOfContact\"]}]"
+		"value": "[{"name": "Pacific Islands Benthic Habitat Mapping Center (PIBHMC), Coral Reef Ecosystem Division (CRED), Pacific Islands Fisheries Science Center (PIFSC), National Marine Fisheries Service (NMFS), National Oceanic and Atmospheric Administration (NOAA)", "roles": ["pointOfContact"]}]"
 	},
 	{
 		"key": "temporal-extent-end",
@@ -225,7 +225,7 @@
 	},
 	{
 		"package_id": "3165f36b-5bde-42b8-9f7d-c58465270e9c",
-		"value": "geographic information, 467, oceans, hawaiian islands, multibeam sonar, oahu, bathymetry, bathymetry\/seafloor topography, benthic habitat mapping and characterization in the pacific islands region, earth science",
+		"value": "geographic information, 467, oceans, hawaiian islands, multibeam sonar, oahu, bathymetry, bathymetry/seafloor topography, benthic habitat mapping and characterization in the pacific islands region, earth science",
 		"revision_timestamp": "2015-09-27T00:39:12.630272",
 		"state": "active",
 		"key": "tags",
@@ -255,7 +255,7 @@
 		"revision_timestamp": "2013-03-25T23:05:12.923863",
 		"is_organization": true,
 		"state": "active",
-		"image_url": "https:\/\/fortress.wa.gov\/dfw\/score\/score\/images\/noaa_logo.png",
+		"image_url": "https://fortress.wa.gov/dfw/score/score/images/noaa_logo.png",
 		"revision_id": "c6d43080-22e1-405e-a83d-f2a512d9e867",
 		"type": "organization",
 		"id": "e811f0b4-451f-4896-9e8f-fc6802837819",

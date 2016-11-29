@@ -37,7 +37,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2015-09-26T23:04:21.477911",
-		"url": "ftp:\/\/sidads.colorado.edu\/pub\/DATASETS\/NOAA\/G02199",
+		"url": "ftp://sidads.colorado.edu/pub/DATASETS/NOAA/G02199",
 		"webstore_url": null,
 		"resource_locator_function": "function",
 		"position": 0,
@@ -55,7 +55,7 @@
 		"last_modified": null,
 		"hash": "",
 		"description": "",
-		"format": "application\/vnd.lotus-organizer",
+		"format": "application/vnd.lotus-organizer",
 		"tracking_summary": {
 			"total": 85,
 			"recent": 4
@@ -67,7 +67,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2015-09-26T23:04:21.477933",
-		"url": "http:\/\/nsidc.org",
+		"url": "http://nsidc.org",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 1,
@@ -97,7 +97,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2015-09-26T23:04:21.477942",
-		"url": "http:\/\/nsidc.org\/noaa\/",
+		"url": "http://nsidc.org/noaa/",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 2,
@@ -115,7 +115,7 @@
 		"last_modified": null,
 		"hash": "",
 		"description": "",
-		"format": "application\/vnd.lotus-organizer",
+		"format": "application/vnd.lotus-organizer",
 		"tracking_summary": {
 			"total": 85,
 			"recent": 4
@@ -127,7 +127,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2015-09-26T23:04:21.477950",
-		"url": "http:\/\/nsidc.org",
+		"url": "http://nsidc.org",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 3,
@@ -147,7 +147,7 @@
 	"name": "dust-count-observations-march-1933-august-1933-in-college-fairbanks-ak",
 	"isopen": false,
 	"url": null,
-	"notes": "\nThese data are daily dust count observations taken in College-Fairbanks, Alaska from 23 March 1933 to 29 August 1933. The data are part of a larger collection titled \"Second International Polar Year Records, 1931-1936, Department of Terrestrial Magnetism, Carnegie Institute of Washington.\" Within this larger collection, the data are identified as \"Series 1: College-Fairbanks IPY Station Records and Data, 1932-1934: Subseries C: Auroral and Meterological Records and Data, 1932-1933: Dust Count Observations, March 1933 - August 1933.\"The data are provided in a PDF copy of the handwritten entries (Dust_Count_Observations_March1933_to_August1933.pdf). Two supporting files are also included in this data set. The first is a copy of the handwritten data transcribed to a Microsoft Excel spreadsheet (Dust_Count_Observations_March1933_to_August1933.xls). The second is a PDF document that explains the larger collection (DTM_Collection_Description.pdf).The entries were recorded using an Aitken Dust Counter. Each entry includes up to 10 counts per day with measurements of wind, clouds, and visibility. The handwritten copy has the most complete data, as some of the handwritten notes were not transcribed into the computer spreadsheet. For example, handwritten notes concerning problems with the counter itself were not transcribed into the computer spreadsheet.The data are available via FTP.NOAA@NSIDC believes these data to be of value but is unable to provide documentation. If you have information about this data set that others would find useful, please contact <a href=\"mailto:nsidc@nsidc.org\">NSIDC User Services<\/a>.\n",
+	"notes": "nThese data are daily dust count observations taken in College-Fairbanks, Alaska from 23 March 1933 to 29 August 1933. The data are part of a larger collection titled "Second International Polar Year Records, 1931-1936, Department of Terrestrial Magnetism, Carnegie Institute of Washington." Within this larger collection, the data are identified as "Series 1: College-Fairbanks IPY Station Records and Data, 1932-1934: Subseries C: Auroral and Meterological Records and Data, 1932-1933: Dust Count Observations, March 1933 - August 1933."The data are provided in a PDF copy of the handwritten entries (Dust_Count_Observations_March1933_to_August1933.pdf). Two supporting files are also included in this data set. The first is a copy of the handwritten data transcribed to a Microsoft Excel spreadsheet (Dust_Count_Observations_March1933_to_August1933.xls). The second is a PDF document that explains the larger collection (DTM_Collection_Description.pdf).The entries were recorded using an Aitken Dust Counter. Each entry includes up to 10 counts per day with measurements of wind, clouds, and visibility. The handwritten copy has the most complete data, as some of the handwritten notes were not transcribed into the computer spreadsheet. For example, handwritten notes concerning problems with the counter itself were not transcribed into the computer spreadsheet.The data are available via FTP.NOAA@NSIDC believes these data to be of value but is unable to provide documentation. If you have information about this data set that others would find useful, please contact <a href="mailto:nsidc@nsidc.org">NSIDC User Services</a>.n",
 	"license_title": null,
 	"extras": [{
 		"key": "bbox-east-long",
@@ -183,7 +183,7 @@
 	},
 	{
 		"key": "spatial",
-		"value": "{\"type\": \"Polygon\", \"coordinates\": [[[-147.9, 64.8], [-147.8, 64.8], [-147.8, 64.9], [-147.9, 64.9], [-147.9, 64.8]]]}"
+		"value": "{"type": "Polygon", "coordinates": [[[-147.9, 64.8], [-147.8, 64.8], [-147.8, 64.9], [-147.9, 64.9], [-147.9, 64.8]]]}"
 	},
 	{
 		"key": "progress",
@@ -191,7 +191,7 @@
 	},
 	{
 		"key": "access_constraints",
-		"value": "[\"Access Constraints : none\", \"Use Constraints : none\"]"
+		"value": "["Access Constraints : none", "Use Constraints : none"]"
 	},
 	{
 		"key": "temporal-extent-begin",
@@ -211,7 +211,7 @@
 	},
 	{
 		"key": "dataset-reference-date",
-		"value": "[{\"type\": \"publication\", \"value\": \"2010-12-10\"}]"
+		"value": "[{"type": "publication", "value": "2010-12-10"}]"
 	},
 	{
 		"key": "frequency-of-update",
@@ -227,7 +227,7 @@
 	},
 	{
 		"key": "responsible-party",
-		"value": "[{\"name\": \"Carnegie Institute of Washington\", \"roles\": [\"principalInvestigator\"]}, {\"name\": \"National Snow and Ice Data Center\", \"roles\": [\"pointOfContact\"]}]"
+		"value": "[{"name": "Carnegie Institute of Washington", "roles": ["principalInvestigator"]}, {"name": "National Snow and Ice Data Center", "roles": ["pointOfContact"]}]"
 	},
 	{
 		"key": "temporal-extent-end",
@@ -243,7 +243,7 @@
 	},
 	{
 		"package_id": "b02405d9-02d8-4e6d-ad91-6b67436b8fb1",
-		"value": "clouds, dust\/ash\/smoke, atmosphere, particulates, air quality, earth's atmosphere, united states of america, alaska, visibility, international polar year, north america, particulate concentration, atmospheric winds, cloud amount\/frequency, surface winds, dust concentrations, dust, aerosols, ipy, continent, earth science",
+		"value": "clouds, dust/ash/smoke, atmosphere, particulates, air quality, earth's atmosphere, united states of america, alaska, visibility, international polar year, north america, particulate concentration, atmospheric winds, cloud amount/frequency, surface winds, dust concentrations, dust, aerosols, ipy, continent, earth science",
 		"revision_timestamp": "2015-09-27T03:04:21.406587",
 		"state": "active",
 		"key": "tags",
@@ -273,7 +273,7 @@
 		"revision_timestamp": "2013-03-25T23:05:12.923863",
 		"is_organization": true,
 		"state": "active",
-		"image_url": "https:\/\/fortress.wa.gov\/dfw\/score\/score\/images\/noaa_logo.png",
+		"image_url": "https://fortress.wa.gov/dfw/score/score/images/noaa_logo.png",
 		"revision_id": "c6d43080-22e1-405e-a83d-f2a512d9e867",
 		"type": "organization",
 		"id": "e811f0b4-451f-4896-9e8f-fc6802837819",

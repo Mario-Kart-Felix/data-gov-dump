@@ -30,11 +30,11 @@
 			"recent": 4
 		},
 		"mimetype_inner": null,
-		"mimetype": "application\/zip",
+		"mimetype": "application/zip",
 		"cache_url": null,
 		"name": "Global Offshore Wind Shapefile",
 		"created": "2015-02-23T15:22:09.721092",
-		"url": "http:\/\/en.openei.org\/doe-opendata\/dataset\/b072d774-4df5-4489-8b6c-a35d2bdaa78e\/resource\/efede2a1-aa2e-489e-89c0-c8e424da199f\/download\/globaloffshorewind.zip",
+		"url": "http://en.openei.org/doe-opendata/dataset/b072d774-4df5-4489-8b6c-a35d2bdaa78e/resource/efede2a1-aa2e-489e-89c0-c8e424da199f/download/globaloffshorewind.zip",
 		"webstore_url": null,
 		"last_modified": null,
 		"position": 0,
@@ -122,7 +122,7 @@
 	"name": "nrel-global-offshore-wind-gis-data",
 	"isopen": true,
 	"url": null,
-	"notes": "GIS data for offshore wind speed (meters\/second).  Specified to Exclusive Economic Zones (EEZ).\r\n\r\nWind resource based on NOAA blended sea winds and monthly wind speed at 30km resolution, using a 0.11 wind sheer to extrapolate 10m - 90m.  Annual average >= 10 months of data, no nulls.",
+	"notes": "GIS data for offshore wind speed (meters/second).  Specified to Exclusive Economic Zones (EEZ).rnrnWind resource based on NOAA blended sea winds and monthly wind speed at 30km resolution, using a 0.11 wind sheer to extrapolate 10m - 90m.  Annual average >= 10 months of data, no nulls.",
 	"license_title": "Creative Commons Attribution",
 	"extras": [{
 		"key": "harvest_source_id",
@@ -138,27 +138,27 @@
 	},
 	{
 		"key": "__category_tag_aa0c01c9-d292-4dc1-8fec-b10c1bb629a9",
-		"value": "[\"Energy Infrastructure\",\"Energy Resources\",\"Energy Supply\"]"
+		"value": "["Energy Infrastructure","Energy Resources","Energy Supply"]"
 	},
 	{
 		"key": "spatial",
-		"value": "{\"type\":\"Polygon\",\"coordinates\":[[[-157.8093750000001,-60.24315809822545],[176.3486519999998,-60.24315809822545],[176.3486519999998,77.46673759525017],[-157.8093750000001,77.46673759525017],[-157.8093750000001,-60.24315809822545]]]}"
+		"value": "{"type":"Polygon","coordinates":[[[-157.8093750000001,-60.24315809822545],[176.3486519999998,-60.24315809822545],[176.3486519999998,77.46673759525017],[-157.8093750000001,77.46673759525017],[-157.8093750000001,-60.24315809822545]]]}"
 	},
 	{
 		"key": "catalog_conformsTo",
-		"value": "https:\/\/project-open-data.cio.gov\/v1.1\/schema"
+		"value": "https://project-open-data.cio.gov/v1.1/schema"
 	},
 	{
 		"key": "catalog_@context",
-		"value": "https:\/\/project-open-data.cio.gov\/v1.1\/schema\/catalog.jsonld"
+		"value": "https://project-open-data.cio.gov/v1.1/schema/catalog.jsonld"
 	},
 	{
 		"key": "catalog_describedBy",
-		"value": "https:\/\/project-open-data.cio.gov\/v1.1\/schema\/catalog.json"
+		"value": "https://project-open-data.cio.gov/v1.1/schema/catalog.json"
 	},
 	{
 		"key": "format",
-		"value": "application\/unknown"
+		"value": "application/unknown"
 	},
 	{
 		"key": "harvest_source_title",
@@ -186,7 +186,7 @@
 	},
 	{
 		"key": "accessURL",
-		"value": "http:\/\/en.openei.org\/doe-opendata\/dataset\/b072d774-4df5-4489-8b6c-a35d2bdaa78e\/resource\/efede2a1-aa2e-489e-89c0-c8e424da199f\/download\/globaloffshorewind.zip"
+		"value": "http://en.openei.org/doe-opendata/dataset/b072d774-4df5-4489-8b6c-a35d2bdaa78e/resource/efede2a1-aa2e-489e-89c0-c8e424da199f/download/globaloffshorewind.zip"
 	},
 	{
 		"key": "publisher",
@@ -194,7 +194,7 @@
 	},
 	{
 		"key": "license",
-		"value": "https:\/\/creativecommons.org\/licenses\/by\/4.0\/"
+		"value": "https://creativecommons.org/licenses/by/4.0/"
 	},
 	{
 		"key": "modified",
@@ -210,7 +210,7 @@
 	},
 	{
 		"key": "identifier",
-		"value": "http:\/\/en.openei.org\/doe-opendata\/dataset\/b072d774-4df5-4489-8b6c-a35d2bdaa78e"
+		"value": "http://en.openei.org/doe-opendata/dataset/b072d774-4df5-4489-8b6c-a35d2bdaa78e"
 	},
 	{
 		"state": "active",
@@ -227,7 +227,7 @@
 		"key": "harvest_source_title",
 		"value": "Energy JSON"
 	}],
-	"license_url": "http:\/\/www.opendefinition.org\/licenses\/cc-by",
+	"license_url": "http://www.opendefinition.org/licenses/cc-by",
 	"organization": {
 		"description": "",
 		"created": "2013-05-18T11:31:21.471948",
@@ -236,7 +236,7 @@
 		"revision_timestamp": "2013-05-31T20:48:37.771905",
 		"is_organization": true,
 		"state": "active",
-		"image_url": "http:\/\/energy.gov\/sites\/prod\/files\/styles\/imagelink\/public\/DoE-Logo.jpeg",
+		"image_url": "http://energy.gov/sites/prod/files/styles/imagelink/public/DoE-Logo.jpeg",
 		"revision_id": "14e1d3c1-4cc7-460c-bf1c-b10e3429b4b0",
 		"type": "organization",
 		"id": "735d0118-b2a7-4246-a0e3-608b0fa8d1ec",

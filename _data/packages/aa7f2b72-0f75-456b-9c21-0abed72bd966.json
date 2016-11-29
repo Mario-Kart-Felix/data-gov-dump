@@ -36,7 +36,7 @@
 		"cache_url": null,
 		"name": "Download ESRI Shapefile (.shp)",
 		"created": "2016-07-15T21:35:13.862564",
-		"url": "http:\/\/cloud.insideidaho.org\/webApps\/util\/zip.ashx?fn=http:\/\/cloud.insideidaho.org\/data\/blm\/RLTY_ROW_PUB_100K_POINT.shp",
+		"url": "http://cloud.insideidaho.org/webApps/util/zip.ashx?fn=http://cloud.insideidaho.org/data/blm/RLTY_ROW_PUB_100K_POINT.shp",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 0,
@@ -54,7 +54,7 @@
 		"last_modified": null,
 		"hash": "",
 		"description": "",
-		"format": "application\/vnd.lotus-organizer",
+		"format": "application/vnd.lotus-organizer",
 		"tracking_summary": {
 			"total": 5,
 			"recent": 1
@@ -66,7 +66,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2016-07-15T21:35:13.862609",
-		"url": "http:\/\/www.insideidaho.org",
+		"url": "http://www.insideidaho.org",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 1,
@@ -86,11 +86,11 @@
 	"name": "rights-of-ways-on-idaho-blm-land-point-features",
 	"isopen": false,
 	"url": null,
-	"notes": "These are Rights-of-Ways (ROW) on Idaho BLM land (and some other Federal agency land) as shown on Bureau of Land Management (BLM) Master Title Plats (MTP). Every GIS ROW feature has a \"CASEFILE\" value, also known as the serial number of the ROW. This corresponds to the LR2000 database, which is a national BLM database for federal lands information. This GIS ROW feature class can be joined or related to exported information from LR2000 using the \"CASEFILE\" (GIS) and \"SERIAL_NR_FULL\" (LR2000) fields. NOTE: the LR2000 information is only available to internal BLM users and is not available to the public as it contains sensitive information. This ROW data for any given area may not be complete due to new ROW activity or because of missed or coincident ROW features during the initial data creation. It is recommended that a thorough inventory of all ROWs in a specific project area be obtained (an LR2000 report can provide this) and the GIS ROW data be checked before using this data for projects needing utmost ROW accuracy. The ROW data that was digitized is what was present on the MTP at the time of the digitizing done for that township. The project was performed over several years. Therefore, the \"early\" townships digitized are more out of date regarding ROWs compared to the ones more recently digitized. Unfortunately, there is no attribute that indicates the digitizing sequence. Any updates to this ROW feature class should be sent to the BLM Idaho State Office GIS staff for incorporation into the statewide GIS ROW feature classes for improvement over time.",
+	"notes": "These are Rights-of-Ways (ROW) on Idaho BLM land (and some other Federal agency land) as shown on Bureau of Land Management (BLM) Master Title Plats (MTP). Every GIS ROW feature has a "CASEFILE" value, also known as the serial number of the ROW. This corresponds to the LR2000 database, which is a national BLM database for federal lands information. This GIS ROW feature class can be joined or related to exported information from LR2000 using the "CASEFILE" (GIS) and "SERIAL_NR_FULL" (LR2000) fields. NOTE: the LR2000 information is only available to internal BLM users and is not available to the public as it contains sensitive information. This ROW data for any given area may not be complete due to new ROW activity or because of missed or coincident ROW features during the initial data creation. It is recommended that a thorough inventory of all ROWs in a specific project area be obtained (an LR2000 report can provide this) and the GIS ROW data be checked before using this data for projects needing utmost ROW accuracy. The ROW data that was digitized is what was present on the MTP at the time of the digitizing done for that township. The project was performed over several years. Therefore, the "early" townships digitized are more out of date regarding ROWs compared to the ones more recently digitized. Unfortunately, there is no attribute that indicates the digitizing sequence. Any updates to this ROW feature class should be sent to the BLM Idaho State Office GIS staff for incorporation into the statewide GIS ROW feature classes for improvement over time.",
 	"license_title": null,
 	"extras": [{
 		"key": "responsible-party",
-		"value": "[{\"name\": \"Bureau of Land Management, Idaho State Office\", \"roles\": [\"pointOfContact\"]}]"
+		"value": "[{"name": "Bureau of Land Management, Idaho State Office", "roles": ["pointOfContact"]}]"
 	},
 	{
 		"key": "contact-email",
@@ -102,7 +102,7 @@
 	},
 	{
 		"key": "bbox-west-long",
-		"value": "\n-116.995122"
+		"value": "n-116.995122"
 	},
 	{
 		"key": "metadata-date",
@@ -110,7 +110,7 @@
 	},
 	{
 		"key": "dataset-reference-date",
-		"value": "[{\"type\": \"publication\", \"value\": \"2010-07-30\"}]"
+		"value": "[{"type": "publication", "value": "2010-07-30"}]"
 	},
 	{
 		"key": "resource-type",
@@ -118,7 +118,7 @@
 	},
 	{
 		"key": "bbox-east-long",
-		"value": "\n-110.753240"
+		"value": "n-110.753240"
 	},
 	{
 		"key": "spatial-reference-system",
@@ -126,7 +126,7 @@
 	},
 	{
 		"key": "bbox-north-lat",
-		"value": "\n45.384377"
+		"value": "n45.384377"
 	},
 	{
 		"key": "coupled-resource",
@@ -134,11 +134,11 @@
 	},
 	{
 		"key": "bbox-south-lat",
-		"value": "\n41.868210"
+		"value": "n41.868210"
 	},
 	{
 		"key": "licence",
-		"value": "[\"No warranty is made by the Bureau of Land Management. The accuracy, reliability, or completeness of these data for individual use or aggregate use with other data is not guaranteed.\"]"
+		"value": "["No warranty is made by the Bureau of Land Management. The accuracy, reliability, or completeness of these data for individual use or aggregate use with other data is not guaranteed."]"
 	},
 	{
 		"key": "metadata_type",
@@ -150,7 +150,7 @@
 	},
 	{
 		"key": "spatial",
-		"value": "{\"type\": \"Polygon\", \"coordinates\": [[[-116.995122, 41.86821], [-110.75324, 41.86821], [-110.75324, 45.384377], [-116.995122, 45.384377], [-116.995122, 41.86821]]]}"
+		"value": "{"type": "Polygon", "coordinates": [[[-116.995122, 41.86821], [-110.75324, 41.86821], [-110.75324, 45.384377], [-116.995122, 45.384377], [-116.995122, 41.86821]]]}"
 	},
 	{
 		"key": "guid",
@@ -162,7 +162,7 @@
 	},
 	{
 		"key": "access_constraints",
-		"value": "[\"Use Constraints: This data should be used as a general guide only. This data is recommended to be used at a scale of 1:100,000 or smaller. The GIS ROW data for any given area may not be spatially accurate or complete due to new ROW activity or because of missed or coincident ROW features during the initial data creation. It is recommended that a thorough inventory of all ROWs in a specific project area be obtained (an LR2000 report can provide this) and the GIS data be checked before using this ROW data for projects needing extreme ROW accuracy. The following disclaimer must accompany all digital and hard copy prints of this data: \\\"No warranty is made by the Bureau of Land Management. The accuracy, reliability, or completeness of these data for individual use or aggregate use with other data is not guaranteed.\\\"\", \"Access Constraints: None. This data is public data. No warranty is made by the Bureau of Land Management. The accuracy, reliability, or completeness of these data for individual use or aggregate use with other data is not guaranteed.\"]"
+		"value": "["Use Constraints: This data should be used as a general guide only. This data is recommended to be used at a scale of 1:100,000 or smaller. The GIS ROW data for any given area may not be spatially accurate or complete due to new ROW activity or because of missed or coincident ROW features during the initial data creation. It is recommended that a thorough inventory of all ROWs in a specific project area be obtained (an LR2000 report can provide this) and the GIS data be checked before using this ROW data for projects needing extreme ROW accuracy. The following disclaimer must accompany all digital and hard copy prints of this data: \"No warranty is made by the Bureau of Land Management. The accuracy, reliability, or completeness of these data for individual use or aggregate use with other data is not guaranteed.\"", "Access Constraints: None. This data is public data. No warranty is made by the Bureau of Land Management. The accuracy, reliability, or completeness of these data for individual use or aggregate use with other data is not guaranteed."]"
 	},
 	{
 		"key": "spatial_harvester",
@@ -204,7 +204,7 @@
 		"revision_timestamp": "2015-01-16T18:28:14.593903",
 		"is_organization": true,
 		"state": "active",
-		"image_url": "http:\/\/upload.wikimedia.org\/wikipedia\/en\/thumb\/4\/44\/University_of_Idaho_seal.svg\/300px-University_of_Idaho_seal.svg.png",
+		"image_url": "http://upload.wikimedia.org/wikipedia/en/thumb/4/44/University_of_Idaho_seal.svg/300px-University_of_Idaho_seal.svg.png",
 		"revision_id": "761955d7-9530-4622-8609-d0b01c78e177",
 		"type": "organization",
 		"id": "75e22a8a-da5f-46f3-93d8-924063a3703d",

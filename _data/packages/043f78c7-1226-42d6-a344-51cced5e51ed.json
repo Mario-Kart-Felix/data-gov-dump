@@ -36,7 +36,7 @@
 		"cache_url": null,
 		"name": "Export",
 		"created": "2014-11-17T16:12:53.138536",
-		"url": "http:\/\/water.usgs.gov\/GIS\/dsdl\/aquifers-pr.e00.zip",
+		"url": "http://water.usgs.gov/GIS/dsdl/aquifers-pr.e00.zip",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 0,
@@ -65,7 +65,7 @@
 		"cache_url": null,
 		"name": "Export",
 		"created": "2014-11-17T16:12:53.138581",
-		"url": "http:\/\/water.usgs.gov\/GIS\/dsdl\/aquifers-pr.e00.gz",
+		"url": "http://water.usgs.gov/GIS/dsdl/aquifers-pr.e00.gz",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 1,
@@ -95,7 +95,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2014-11-17T16:12:53.138589",
-		"url": "http:\/\/water.usgs.gov\/lookup\/getspatial?aquifers_pr",
+		"url": "http://water.usgs.gov/lookup/getspatial?aquifers_pr",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 2,
@@ -115,11 +115,11 @@
 	"name": "principal-aquifers-of-puerto-rico-and-the-u-s-virgin-islands",
 	"isopen": false,
 	"url": null,
-	"notes": "This is polygon data of shallowest principal aquifers of Puerto Rico and the United States Virgin Islands, developed as part of the effort to produce a map published at 1:500,000 in Chapter HA 730-N of the \"Ground Water Atlas of the United States\" series of printed publications. See Other_Citation_Details for publication information. The published map contains base and cultural features not included in this data. The Ground Water Atlas publication also includes information that may be relevant to the use of this data, such as figures showing where an aquifer may extend beyond the area delineated in this data, but be overlain by one or more other aquifers and\/or low-permeability material. The areal extent of the aquifers, as shown in this data, represent the area in which a named aquifer is the shallowest of the principal aquifers. These aquifer areas are not necessarily the only area in which ground water can be withdrawn because the aquifers shown may have a larger areal extent than is represented here. The boundaries in this data generally represent an interpretation of the surface location (outcrop), or near surface location (shallow subcrop) of the uppermost principal aquifer for the area. An aquifer may extend beyond the area shown in this data, but be overlain by one or more other aquifers, and\/or low-permeability material. These aquifer outcrop and shallow subcrop boundaries represent broad, regional categories and should not be interpreted as site specific. Comments regarding the names of aquifers, or the hydrogeologic interpretation of the aquifers can be can be directed to the USGS Water Resources Division, Office of Ground Water, Roy Sonenshein, sunshine@usgs.gov, (305) 526-2895.",
+	"notes": "This is polygon data of shallowest principal aquifers of Puerto Rico and the United States Virgin Islands, developed as part of the effort to produce a map published at 1:500,000 in Chapter HA 730-N of the "Ground Water Atlas of the United States" series of printed publications. See Other_Citation_Details for publication information. The published map contains base and cultural features not included in this data. The Ground Water Atlas publication also includes information that may be relevant to the use of this data, such as figures showing where an aquifer may extend beyond the area delineated in this data, but be overlain by one or more other aquifers and/or low-permeability material. The areal extent of the aquifers, as shown in this data, represent the area in which a named aquifer is the shallowest of the principal aquifers. These aquifer areas are not necessarily the only area in which ground water can be withdrawn because the aquifers shown may have a larger areal extent than is represented here. The boundaries in this data generally represent an interpretation of the surface location (outcrop), or near surface location (shallow subcrop) of the uppermost principal aquifer for the area. An aquifer may extend beyond the area shown in this data, but be overlain by one or more other aquifers, and/or low-permeability material. These aquifer outcrop and shallow subcrop boundaries represent broad, regional categories and should not be interpreted as site specific. Comments regarding the names of aquifers, or the hydrogeologic interpretation of the aquifers can be can be directed to the USGS Water Resources Division, Office of Ground Water, Roy Sonenshein, sunshine@usgs.gov, (305) 526-2895.",
 	"license_title": null,
 	"extras": [{
 		"key": "responsible-party",
-		"value": "[{\"name\": \"U.S.Geological Survey\", \"roles\": [\"pointOfContact\"]}]"
+		"value": "[{"name": "U.S.Geological Survey", "roles": ["pointOfContact"]}]"
 	},
 	{
 		"key": "contact-email",
@@ -139,7 +139,7 @@
 	},
 	{
 		"key": "dataset-reference-date",
-		"value": "[{\"type\": \"publication\", \"value\": \"1998-11-01\"}]"
+		"value": "[{"type": "publication", "value": "1998-11-01"}]"
 	},
 	{
 		"key": "resource-type",
@@ -167,7 +167,7 @@
 	},
 	{
 		"key": "licence",
-		"value": "[\"Although this data set has been used by the U.S. Geological\\nSurvey, U.S. Department of the Interior, no warranty expressed or\\nimplied is made by the U.S. Geological Survey as to the accuracy\\nof the data and related materials. The act of distribution shall not \\nconstitute any such warranty, and no responsibility is assumed by \\nthe U.S. Geological Survey in the use of this data, software, or \\nrelated materials.\\n\\nAny use of trade, product, or firm names is for descriptive\\npurposes only and does not imply endorsement by the U.S.\\nGovernment.\"]"
+		"value": "["Although this data set has been used by the U.S. Geological\nSurvey, U.S. Department of the Interior, no warranty expressed or\nimplied is made by the U.S. Geological Survey as to the accuracy\nof the data and related materials. The act of distribution shall not \nconstitute any such warranty, and no responsibility is assumed by \nthe U.S. Geological Survey in the use of this data, software, or \nrelated materials.\n\nAny use of trade, product, or firm names is for descriptive\npurposes only and does not imply endorsement by the U.S.\nGovernment."]"
 	},
 	{
 		"key": "metadata_type",
@@ -179,7 +179,7 @@
 	},
 	{
 		"key": "spatial",
-		"value": "{\"type\": \"Polygon\", \"coordinates\": [[[-67.95023603, 17.67259591], [-64.55776822, 17.67259591], [-64.55776822, 18.5132586], [-67.95023603, 18.5132586], [-67.95023603, 17.67259591]]]}"
+		"value": "{"type": "Polygon", "coordinates": [[[-67.95023603, 17.67259591], [-64.55776822, 17.67259591], [-64.55776822, 18.5132586], [-67.95023603, 18.5132586], [-67.95023603, 17.67259591]]]}"
 	},
 	{
 		"key": "guid",
@@ -191,7 +191,7 @@
 	},
 	{
 		"key": "access_constraints",
-		"value": "[\"Use Constraints: Use at map scales of 1:500,000 or smaller\", \"Access Constraints: None\"]"
+		"value": "["Use Constraints: Use at map scales of 1:500,000 or smaller", "Access Constraints: None"]"
 	},
 	{
 		"key": "spatial_harvester",
@@ -226,14 +226,14 @@
 		"value": "Water NSDI Node Spatial Datasets"
 	}],
 	"organization": {
-		"description": "http:\/\/www.usgs.gov\/\r\nThe USGS is a federal science agency that provides impartial information on the health of our ecosystems and environment, the natural hazards that threaten us, the natural resources we rely on, the impacts of climate and land-use change, and the core science systems that help us provide timely, relevant, and useable information.",
+		"description": "http://www.usgs.gov/rnThe USGS is a federal science agency that provides impartial information on the health of our ecosystems and environment, the natural hazards that threaten us, the natural resources we rely on, the impacts of climate and land-use change, and the core science systems that help us provide timely, relevant, and useable information.",
 		"created": "2013-03-14T03:44:38.263357",
 		"title": "U.S. Geological Survey, Department of the Interior",
 		"name": "usgs-gov",
 		"revision_timestamp": "2014-09-02T13:43:52.167023",
 		"is_organization": true,
 		"state": "active",
-		"image_url": "http:\/\/pubs.usgs.gov\/sir\/2004\/5296\/04-5296_confluence_park\/usgs_logo.gif",
+		"image_url": "http://pubs.usgs.gov/sir/2004/5296/04-5296_confluence_park/usgs_logo.gif",
 		"revision_id": "2858aa99-9501-4f96-82e5-9647b968ed66",
 		"type": "organization",
 		"id": "bd2cdd5a-4d65-46c0-9937-c8381175f104",

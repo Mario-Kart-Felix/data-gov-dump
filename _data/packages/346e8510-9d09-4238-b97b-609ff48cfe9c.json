@@ -37,7 +37,7 @@
 		"cache_url": null,
 		"name": "Zip File",
 		"created": "2016-03-04T15:46:33.107178",
-		"url": "ftp:\/\/ftp.dfg.ca.gov\/BDB\/GIS\/BIOS\/Public_Datasets\/100_199\/ds159.zip",
+		"url": "ftp://ftp.dfg.ca.gov/BDB/GIS/BIOS/Public_Datasets/100_199/ds159.zip",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 0,
@@ -67,7 +67,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2016-03-04T15:46:33.107201",
-		"url": "http:\/\/bios.dfg.ca.gov",
+		"url": "http://bios.dfg.ca.gov",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 1,
@@ -87,7 +87,7 @@
 	"name": "stream-habitat-reach-summary-san-francisco-bay-central-coast-ds15959311",
 	"isopen": false,
 	"url": null,
-	"notes": "The Stream Habitat - San Francisco Bay, Central and South Coasts [ds159] shapefile contains four years of in-stream salmonid habitat data at the reach level. The data have been summarized from habitat unit level data collected by DFG from July 1993 into September of 1997. The database represents salmonid stream habitat surveys from 57 streams. Approximately 216 miles of streams were surveyed. The database helps identify and describe in-stream habitat available to anadromous salmonids within watersheds of the California San Francisco Bay, Central and South Coast Hydrologic Regions. Data were collected using standardized survey techniques according to the version of the \"California Stream Habitat Restoration Manual\" (see Flosi et al.) that was current in the year of survey. Field survey teams measured up to 60 parameters for selected habitat units. Stream surveys typically started at the downstream confluence and proceeded upstream to the \"limit of anadromy\" as assessed by the survey crew. WHAT EACH RECORD REPRESENTS Each of the 100 records in this dataset represents in-stream habitat unit level data summarized at the stream reach level. A habitat unit is the base level for the stream habitat surveys and is generally determined by the occurrence of riffle, run and pool sections along the stream. Stream reaches are determined by changes in stream channel type as described by Rosgen (1994).",
+	"notes": "The Stream Habitat - San Francisco Bay, Central and South Coasts [ds159] shapefile contains four years of in-stream salmonid habitat data at the reach level. The data have been summarized from habitat unit level data collected by DFG from July 1993 into September of 1997. The database represents salmonid stream habitat surveys from 57 streams. Approximately 216 miles of streams were surveyed. The database helps identify and describe in-stream habitat available to anadromous salmonids within watersheds of the California San Francisco Bay, Central and South Coast Hydrologic Regions. Data were collected using standardized survey techniques according to the version of the "California Stream Habitat Restoration Manual" (see Flosi et al.) that was current in the year of survey. Field survey teams measured up to 60 parameters for selected habitat units. Stream surveys typically started at the downstream confluence and proceeded upstream to the "limit of anadromy" as assessed by the survey crew. WHAT EACH RECORD REPRESENTS Each of the 100 records in this dataset represents in-stream habitat unit level data summarized at the stream reach level. A habitat unit is the base level for the stream habitat surveys and is generally determined by the occurrence of riffle, run and pool sections along the stream. Stream reaches are determined by changes in stream channel type as described by Rosgen (1994).",
 	"license_title": null,
 	"extras": [{
 		"key": "bbox-east-long",
@@ -131,7 +131,7 @@
 	},
 	{
 		"key": "spatial",
-		"value": "{\"type\": \"Polygon\", \"coordinates\": [[[-122.588963, 33.309625], [-117.126341, 33.309625], [-117.126341, 38.476545], [-122.588963, 38.476545], [-122.588963, 33.309625]]]}"
+		"value": "{"type": "Polygon", "coordinates": [[[-122.588963, 33.309625], [-117.126341, 33.309625], [-117.126341, 38.476545], [-122.588963, 38.476545], [-122.588963, 33.309625]]]}"
 	},
 	{
 		"key": "progress",
@@ -139,7 +139,7 @@
 	},
 	{
 		"key": "access_constraints",
-		"value": "[\"Use Constraints: Use in accordance with the California Salmonid Stream Habitat Restoration Manual.\", \"Access Constraints: None\"]"
+		"value": "["Use Constraints: Use in accordance with the California Salmonid Stream Habitat Restoration Manual.", "Access Constraints: None"]"
 	},
 	{
 		"key": "temporal-extent-begin",
@@ -159,7 +159,7 @@
 	},
 	{
 		"key": "dataset-reference-date",
-		"value": "[{\"type\": \"publication\", \"value\": \"2005-02-24\"}]"
+		"value": "[{"type": "publication", "value": "2005-02-24"}]"
 	},
 	{
 		"key": "graphic-preview-description",
@@ -171,7 +171,7 @@
 	},
 	{
 		"key": "licence",
-		"value": "[\"Location data are accurate to the extent that they were correctly interpreted during the editing and processing for the GIS environment. Some errors will remain while editing procedures are being developed.\"]"
+		"value": "["Location data are accurate to the extent that they were correctly interpreted during the editing and processing for the GIS environment. Some errors will remain while editing procedures are being developed."]"
 	},
 	{
 		"key": "metadata_type",
@@ -179,7 +179,7 @@
 	},
 	{
 		"key": "responsible-party",
-		"value": "[{\"name\": \"California Department of Fish and Game, BDB\", \"roles\": [\"pointOfContact\"]}]"
+		"value": "[{"name": "California Department of Fish and Game, BDB", "roles": ["pointOfContact"]}]"
 	},
 	{
 		"key": "temporal-extent-end",
@@ -225,7 +225,7 @@
 		"revision_timestamp": "2013-05-31T17:51:13.706377",
 		"is_organization": true,
 		"state": "active",
-		"image_url": "http:\/\/www.ca.gov\/images\/template2012\/header_ca.gov.png",
+		"image_url": "http://www.ca.gov/images/template2012/header_ca.gov.png",
 		"revision_id": "ad94cda4-9394-44d0-9c37-573dc3c47c9a",
 		"type": "organization",
 		"id": "467d900f-8a42-452d-9906-6610dd1a767f",

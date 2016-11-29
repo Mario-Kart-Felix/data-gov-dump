@@ -37,7 +37,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2016-03-04T15:38:04.600630",
-		"url": "ftp:\/\/ftp.dfg.ca.gov\/BDB\/GIS\/BIOS\/Public_Datasets\/",
+		"url": "ftp://ftp.dfg.ca.gov/BDB/GIS/BIOS/Public_Datasets/",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 0,
@@ -67,7 +67,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2016-03-04T15:38:04.600675",
-		"url": "http:\/\/bios.dfg.ca.gov",
+		"url": "http://bios.dfg.ca.gov",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 1,
@@ -123,7 +123,7 @@
 	},
 	{
 		"key": "spatial",
-		"value": "{\"type\": \"Polygon\", \"coordinates\": [[[-119.480273, 37.411426], [-118.040861, 37.411426], [-118.040861, 38.695438], [-119.480273, 38.695438], [-119.480273, 37.411426]]]}"
+		"value": "{"type": "Polygon", "coordinates": [[[-119.480273, 37.411426], [-118.040861, 37.411426], [-118.040861, 38.695438], [-119.480273, 38.695438], [-119.480273, 37.411426]]]}"
 	},
 	{
 		"key": "progress",
@@ -131,7 +131,7 @@
 	},
 	{
 		"key": "access_constraints",
-		"value": "[\"Use Constraints: Positional accuracy of individual locations is limited by: accuracy of satellite GPS locations, uncertainty in telemetry locations (observer error), and possible data entry errors. Although, all reasonable attempts have been made to limit these factors, positional accuracy for any individual point should not necessarily be considered minimal. The appropriateness of multiple scales of inference is the end-users responsibility to justify and the originators assume no responsibility for incorrect or misleading uses of this data.\", \"Access Constraints: Current status is public domain, without restrictions. The appropriateness of public display may diminish with Endangered Species listing decisions.\"]"
+		"value": "["Use Constraints: Positional accuracy of individual locations is limited by: accuracy of satellite GPS locations, uncertainty in telemetry locations (observer error), and possible data entry errors. Although, all reasonable attempts have been made to limit these factors, positional accuracy for any individual point should not necessarily be considered minimal. The appropriateness of multiple scales of inference is the end-users responsibility to justify and the originators assume no responsibility for incorrect or misleading uses of this data.", "Access Constraints: Current status is public domain, without restrictions. The appropriateness of public display may diminish with Endangered Species listing decisions."]"
 	},
 	{
 		"key": "temporal-extent-begin",
@@ -151,7 +151,7 @@
 	},
 	{
 		"key": "dataset-reference-date",
-		"value": "[{\"type\": \"publication\", \"value\": \"2005-11-14\"}]"
+		"value": "[{"type": "publication", "value": "2005-11-14"}]"
 	},
 	{
 		"key": "frequency-of-update",
@@ -159,7 +159,7 @@
 	},
 	{
 		"key": "licence",
-		"value": "[\"See access and use constraints information.\"]"
+		"value": "["See access and use constraints information."]"
 	},
 	{
 		"key": "metadata_type",
@@ -167,7 +167,7 @@
 	},
 	{
 		"key": "responsible-party",
-		"value": "[{\"name\": \"United States Geological Survey - BRD\", \"roles\": [\"pointOfContact\"]}]"
+		"value": "[{"name": "United States Geological Survey - BRD", "roles": ["pointOfContact"]}]"
 	},
 	{
 		"key": "temporal-extent-end",
@@ -213,7 +213,7 @@
 		"revision_timestamp": "2013-05-31T17:51:13.706377",
 		"is_organization": true,
 		"state": "active",
-		"image_url": "http:\/\/www.ca.gov\/images\/template2012\/header_ca.gov.png",
+		"image_url": "http://www.ca.gov/images/template2012/header_ca.gov.png",
 		"revision_id": "ad94cda4-9394-44d0-9c37-573dc3c47c9a",
 		"type": "organization",
 		"id": "467d900f-8a42-452d-9906-6610dd1a767f",

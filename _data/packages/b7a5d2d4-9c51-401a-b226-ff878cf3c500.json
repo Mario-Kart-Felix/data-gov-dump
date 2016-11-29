@@ -37,7 +37,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2016-05-31T03:40:02.002081",
-		"url": "https:\/\/coast.noaa.gov\/dataviewer\/#\/lidar\/search\/where:ID=3650",
+		"url": "https://coast.noaa.gov/dataviewer/#/lidar/search/where:ID=3650",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 0,
@@ -67,7 +67,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2016-05-31T03:40:02.002122",
-		"url": "https:\/\/coast.noaa.gov\/htdata\/lidar1_z\/geoid12a\/data\/3650",
+		"url": "https://coast.noaa.gov/htdata/lidar1_z/geoid12a/data/3650",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 1,
@@ -97,7 +97,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2016-05-31T03:40:02.002132",
-		"url": "https:\/\/coast.noaa.gov\/dataviewer",
+		"url": "https://coast.noaa.gov/dataviewer",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 2,
@@ -127,7 +127,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2016-05-31T03:40:02.002139",
-		"url": "https:\/\/coast.noaa.gov",
+		"url": "https://coast.noaa.gov",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 3,
@@ -147,7 +147,7 @@
 	"name": "2010-pacific-gas-and-electric-diablo-canyon-power-plant-dcpp-diablo-canyon-ca-central-coast",
 	"isopen": false,
 	"url": null,
-	"notes": "The Diablo Canyon Power Plant (DCPP) LiDAR and Imagery datasets are comprised of three separate LiDAR surveys: Diablo Canyon (2010), Diablo Canyon (2010), and San Simeon (2013). The Diablo Canyon project study is located in San Luis Obispo County, California, and encompasses approximately 10,634 acres (43.03 square kilometers). Watershed Sciences, Inc. (WSI) collected Light Detection and Ranging (LiDAR) data on both the inland and intertidal land within the Diablo Canyon study area on 28 January 2010. For optimal capture of the intertidal zone, WSI acquired LiDAR data of the coastline during seasonal low tides (between 0.0 ft and peak low of around 1.5 ft) and in conjunction with a PDOP value of less than 3.0. This LiDAR survey utilized a Leica ALS50 Phase II laser system. The sensor scan angle was +\/- 13 from nadir with a pulse rate designed to yield an average native density of more than 8 pulses per square meter over terrestrial surfaces. The area of interest was surveyed with an opposing flight line side-lap of equal-to-or-more-than 50% (equal-to-or-more-than 100% overlap) to reduce laser shadowing and increase surface laser painting.",
+	"notes": "The Diablo Canyon Power Plant (DCPP) LiDAR and Imagery datasets are comprised of three separate LiDAR surveys: Diablo Canyon (2010), Diablo Canyon (2010), and San Simeon (2013). The Diablo Canyon project study is located in San Luis Obispo County, California, and encompasses approximately 10,634 acres (43.03 square kilometers). Watershed Sciences, Inc. (WSI) collected Light Detection and Ranging (LiDAR) data on both the inland and intertidal land within the Diablo Canyon study area on 28 January 2010. For optimal capture of the intertidal zone, WSI acquired LiDAR data of the coastline during seasonal low tides (between 0.0 ft and peak low of around 1.5 ft) and in conjunction with a PDOP value of less than 3.0. This LiDAR survey utilized a Leica ALS50 Phase II laser system. The sensor scan angle was +/- 13 from nadir with a pulse rate designed to yield an average native density of more than 8 pulses per square meter over terrestrial surfaces. The area of interest was surveyed with an opposing flight line side-lap of equal-to-or-more-than 50% (equal-to-or-more-than 100% overlap) to reduce laser shadowing and increase surface laser painting.",
 	"license_title": null,
 	"extras": [{
 		"key": "bbox-east-long",
@@ -175,7 +175,7 @@
 	},
 	{
 		"key": "graphic-preview-file",
-		"value": "https:\/\/coast.noaa.gov\/htdata\/lidar1_z\/geoid12a\/data\/3650\/supplemental\/ca2010_pge_dcpp_diablo_canyon_m3650.kmz"
+		"value": "https://coast.noaa.gov/htdata/lidar1_z/geoid12a/data/3650/supplemental/ca2010_pge_dcpp_diablo_canyon_m3650.kmz"
 	},
 	{
 		"key": "bbox-south-lat",
@@ -191,7 +191,7 @@
 	},
 	{
 		"key": "spatial",
-		"value": "{\"type\": \"Polygon\", \"coordinates\": [[[-120.88968525, 34.99532951], [-120.41361608, 34.99532951], [-120.41361608, 35.37387188], [-120.88968525, 35.37387188], [-120.88968525, 34.99532951]]]}"
+		"value": "{"type": "Polygon", "coordinates": [[[-120.88968525, 34.99532951], [-120.41361608, 34.99532951], [-120.41361608, 35.37387188], [-120.88968525, 35.37387188], [-120.88968525, 34.99532951]]]}"
 	},
 	{
 		"key": "progress",
@@ -199,7 +199,7 @@
 	},
 	{
 		"key": "access_constraints",
-		"value": "[\"Use Constraints: Users should be aware that temporal changes may have occurred since this data set was collected and some parts of this data may no longer represent actual surface conditions. Users should not use this data for critical applications without a full awareness of its limitations. These data depict the heights at the time of the survey and are only accurate for that time\", \"Access Constraints: None\"]"
+		"value": "["Use Constraints: Users should be aware that temporal changes may have occurred since this data set was collected and some parts of this data may no longer represent actual surface conditions. Users should not use this data for critical applications without a full awareness of its limitations. These data depict the heights at the time of the survey and are only accurate for that time", "Access Constraints: None"]"
 	},
 	{
 		"key": "contact-email",
@@ -215,7 +215,7 @@
 	},
 	{
 		"key": "dataset-reference-date",
-		"value": "[{\"type\": \"publication\", \"value\": \"2014-05-19\"}]"
+		"value": "[{"type": "publication", "value": "2014-05-19"}]"
 	},
 	{
 		"key": "graphic-preview-description",
@@ -227,7 +227,7 @@
 	},
 	{
 		"key": "licence",
-		"value": "[\"Any conclusions drawn from the analysis of this information are not the responsibility of Watershed Sciences Inc, PGandE, Diablo Canyon Power Plant, OpenTopography.com, NOAA, the Office for Coastal Management or its partners.\"]"
+		"value": "["Any conclusions drawn from the analysis of this information are not the responsibility of Watershed Sciences Inc, PGandE, Diablo Canyon Power Plant, OpenTopography.com, NOAA, the Office for Coastal Management or its partners."]"
 	},
 	{
 		"key": "metadata_type",
@@ -235,7 +235,7 @@
 	},
 	{
 		"key": "responsible-party",
-		"value": "[{\"name\": \"NOAA Office for Coastal Management\", \"roles\": [\"pointOfContact\"]}]"
+		"value": "[{"name": "NOAA Office for Coastal Management", "roles": ["pointOfContact"]}]"
 	},
 	{
 		"key": "spatial-data-service-type",
@@ -277,7 +277,7 @@
 		"revision_timestamp": "2013-03-25T23:05:12.923863",
 		"is_organization": true,
 		"state": "active",
-		"image_url": "https:\/\/fortress.wa.gov\/dfw\/score\/score\/images\/noaa_logo.png",
+		"image_url": "https://fortress.wa.gov/dfw/score/score/images/noaa_logo.png",
 		"revision_id": "c6d43080-22e1-405e-a83d-f2a512d9e867",
 		"type": "organization",
 		"id": "e811f0b4-451f-4896-9e8f-fc6802837819",

@@ -37,7 +37,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2013-03-15T15:33:22.233013",
-		"url": "http:\/\/www.vcgi.org\/dataware\/default.cfm?layer=FarmStats_CNTYFARM",
+		"url": "http://www.vcgi.org/dataware/default.cfm?layer=FarmStats_CNTYFARM",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 0,
@@ -67,7 +67,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2013-03-15T15:33:22.233055",
-		"url": "http:\/\/www.vcgi.org\/dataware\/default.cfm?layer=FarmStats_CNTYFARM",
+		"url": "http://www.vcgi.org/dataware/default.cfm?layer=FarmStats_CNTYFARM",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 1,
@@ -97,7 +97,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2013-03-15T15:33:22.233064",
-		"url": "http:\/\/www.vcgi.org\/dataware\/default.cfm?layer=FarmStats_CNTYFARM&mapit=yes",
+		"url": "http://www.vcgi.org/dataware/default.cfm?layer=FarmStats_CNTYFARM&mapit=yes",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 2,
@@ -127,7 +127,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2013-03-15T15:33:22.233071",
-		"url": "http:\/\/maps.vcgi.org:8080\/wmsconnector\/com.esri.wms.Esrimap?servicename=DATAWARE_VCGI&VERSION=1.1.1&request=getmap&BBOX=-73.45416,42.72279,-71.46528,45.018356&SRS=EPSG:4326&LAYERS=FARM_CNTYFARM_POLY&WIDTH=300&HEIGHT=400&FORMAT=image\/gif",
+		"url": "http://maps.vcgi.org:8080/wmsconnector/com.esri.wms.Esrimap?servicename=DATAWARE_VCGI&VERSION=1.1.1&request=getmap&BBOX=-73.45416,42.72279,-71.46528,45.018356&SRS=EPSG:4326&LAYERS=FARM_CNTYFARM_POLY&WIDTH=300&HEIGHT=400&FORMAT=image/gif",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 3,
@@ -160,7 +160,7 @@
 	"name": "farmstats-cntyfarm",
 	"isopen": false,
 	"url": null,
-	"notes": "This datalayer contains Vermont agricultural data describing changes in farming activity (1860-1997), by county, extracted from U.S. Census of Agriculture. Initial 1969-1992 data was originally collected by Rick Wackernagel, UVM Extension Service, Department of Community Development & Applied Economics (CDAE), then distributed by VCGI as the data product 'FARMDATA' in 1995. VCGI has since updated and added additional years and items to the dataset, and released it as the geospatial database FarmStats_CNTYFARM. Funding for much of this data was provided by the 'Datashare' agreement between VCGI and The USDA-Natural Resources Consevation Service. Many thanks to Ray Godfrey, USDA-NRCS, for helping to make this datalayer available to the public. One may download Excel spreadsheets or comma-delimited ASCII text files of this data from the VGIS indicators webpage - http:\/\/www.vcgi.org\/indicators\/",
+	"notes": "This datalayer contains Vermont agricultural data describing changes in farming activity (1860-1997), by county, extracted from U.S. Census of Agriculture. Initial 1969-1992 data was originally collected by Rick Wackernagel, UVM Extension Service, Department of Community Development & Applied Economics (CDAE), then distributed by VCGI as the data product 'FARMDATA' in 1995. VCGI has since updated and added additional years and items to the dataset, and released it as the geospatial database FarmStats_CNTYFARM. Funding for much of this data was provided by the 'Datashare' agreement between VCGI and The USDA-Natural Resources Consevation Service. Many thanks to Ray Godfrey, USDA-NRCS, for helping to make this datalayer available to the public. One may download Excel spreadsheets or comma-delimited ASCII text files of this data from the VGIS indicators webpage - http://www.vcgi.org/indicators/",
 	"license_title": null,
 	"extras": [{
 		"key": "bbox-east-long",
@@ -184,7 +184,7 @@
 	},
 	{
 		"key": "graphic-preview-file",
-		"value": "http:\/\/maps.vcgi.org:8080\/wmsconnector\/com.esri.wms.Esrimap?servicename=DATAWARE_VCGI&VERSION=1.1.1&request=getmap&BBOX=-73.45416,42.72279,-71.46528,45.018356&SRS=EPSG:4326&LAYERS=FARM_CNTYFARM_POLY&WIDTH=300&HEIGHT=400&FORMAT=image\/gif"
+		"value": "http://maps.vcgi.org:8080/wmsconnector/com.esri.wms.Esrimap?servicename=DATAWARE_VCGI&VERSION=1.1.1&request=getmap&BBOX=-73.45416,42.72279,-71.46528,45.018356&SRS=EPSG:4326&LAYERS=FARM_CNTYFARM_POLY&WIDTH=300&HEIGHT=400&FORMAT=image/gif"
 	},
 	{
 		"key": "bbox-south-lat",
@@ -196,11 +196,11 @@
 	},
 	{
 		"key": "spatial",
-		"value": "{\"type\": \"Polygon\", \"coordinates\": [[[-73.454162, 42.722789], [-73.454162, 45.018361], [-71.465281, 45.018361], [-71.465281, 42.722789], [-73.454162, 42.722789]]]}"
+		"value": "{"type": "Polygon", "coordinates": [[[-73.454162, 42.722789], [-73.454162, 45.018361], [-71.465281, 45.018361], [-71.465281, 42.722789], [-73.454162, 42.722789]]]}"
 	},
 	{
 		"key": "access_constraints",
-		"value": "[\"Use Constraints: The boundaries do not line up well with coincident water features from the Digital Line Graph (DLG) data at RF 100,000 scale. Producing maps at RF 50,000 or larger scale should be done with caution to avoid obvious data accuracy problems.\", \"Access Constraints: VCGI and the State of Vermont make no representations of any kind including, but not limited to the warranties of merchantability or fitness for a particular use, nor are any such warranties to be implied with respect to the data.\"]"
+		"value": "["Use Constraints: The boundaries do not line up well with coincident water features from the Digital Line Graph (DLG) data at RF 100,000 scale. Producing maps at RF 50,000 or larger scale should be done with caution to avoid obvious data accuracy problems.", "Access Constraints: VCGI and the State of Vermont make no representations of any kind including, but not limited to the warranties of merchantability or fitness for a particular use, nor are any such warranties to be implied with respect to the data."]"
 	},
 	{
 		"key": "temporal-extent-begin",
@@ -220,7 +220,7 @@
 	},
 	{
 		"key": "dataset-reference-date",
-		"value": "[{\"type\": \"publication\", \"value\": \"2000-04-25\"}]"
+		"value": "[{"type": "publication", "value": "2000-04-25"}]"
 	},
 	{
 		"key": "frequency-of-update",
@@ -228,7 +228,7 @@
 	},
 	{
 		"key": "licence",
-		"value": "[\"VCGI and the State of Vermont make no representations of any kind, including but not limited to the warranties of merchantability or fitness for a particular use, nor are any such warranties to be implied with respect to the data.\"]"
+		"value": "["VCGI and the State of Vermont make no representations of any kind, including but not limited to the warranties of merchantability or fitness for a particular use, nor are any such warranties to be implied with respect to the data."]"
 	},
 	{
 		"key": "metadata_type",
@@ -236,7 +236,7 @@
 	},
 	{
 		"key": "responsible-party",
-		"value": "[{\"name\": \"Vermont Center for Geographic Information\", \"roles\": [\"pointOfContact\"]}]"
+		"value": "[{"name": "Vermont Center for Geographic Information", "roles": ["pointOfContact"]}]"
 	},
 	{
 		"key": "temporal-extent-end",
@@ -282,7 +282,7 @@
 		"revision_timestamp": "2013-03-27T17:47:03.718032",
 		"is_organization": true,
 		"state": "active",
-		"image_url": "http:\/\/vcgi.vermont.gov\/sites\/all\/themes\/vt_template\/logo.png",
+		"image_url": "http://vcgi.vermont.gov/sites/all/themes/vt_template/logo.png",
 		"revision_id": "c5dfbbb0-f1e0-4db6-b566-e932e1520060",
 		"type": "organization",
 		"id": "0c3a4ebc-9929-4f21-bdd0-76a35d52f57d",

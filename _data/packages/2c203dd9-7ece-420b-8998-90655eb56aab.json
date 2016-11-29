@@ -34,9 +34,9 @@
 		"resource_locator_protocol": "WWW:LINK-1.0-http--link",
 		"mimetype": null,
 		"cache_url": null,
-		"name": "ftp:\/\/ftp.nefsc.noaa.gov\/",
+		"name": "ftp://ftp.nefsc.noaa.gov/",
 		"created": "2016-08-08T20:24:24.843050",
-		"url": "ftp:\/\/ftp.nefsc.noaa.gov\/",
+		"url": "ftp://ftp.nefsc.noaa.gov/",
 		"webstore_url": null,
 		"resource_locator_function": "download",
 		"position": 0,
@@ -65,7 +65,7 @@
 		"cache_url": null,
 		"name": "Website",
 		"created": "2016-08-08T20:24:24.843075",
-		"url": "http:\/\/www.nefsc.noaa.gov",
+		"url": "http://www.nefsc.noaa.gov",
 		"webstore_url": null,
 		"resource_locator_function": "information",
 		"position": 1,
@@ -94,7 +94,7 @@
 		"cache_url": null,
 		"name": "Website",
 		"created": "2016-08-08T20:24:24.843084",
-		"url": "http:\/\/www.nefsc.noaa.gov",
+		"url": "http://www.nefsc.noaa.gov",
 		"webstore_url": null,
 		"resource_locator_function": "information",
 		"position": 2,
@@ -123,7 +123,7 @@
 		"cache_url": null,
 		"name": "Website",
 		"created": "2016-08-08T20:24:24.843092",
-		"url": "http:\/\/www.nefsc.noaa.gov",
+		"url": "http://www.nefsc.noaa.gov",
 		"webstore_url": null,
 		"resource_locator_function": "information",
 		"position": 3,
@@ -152,7 +152,7 @@
 		"cache_url": null,
 		"name": "NOAA Data Management Plan (DMP)",
 		"created": "2016-08-08T20:24:24.843099",
-		"url": "https:\/\/inport.nmfs.noaa.gov\/inport\/item\/27319\/dmp",
+		"url": "https://inport.nmfs.noaa.gov/inport/item/27319/dmp",
 		"webstore_url": null,
 		"resource_locator_function": "information",
 		"position": 4,
@@ -169,7 +169,7 @@
 		"state": "active",
 		"last_modified": null,
 		"hash": "",
-		"description": "This page describes the NASA GCMD Keywords, how\n                                                        to reference those keywords and provides download instructions.\n                                                    ",
+		"description": "This page describes the NASA GCMD Keywords, hown                                                        to reference those keywords and provides download instructions.n                                                    ",
 		"format": "HTML",
 		"tracking_summary": {
 			"total": 467,
@@ -181,7 +181,7 @@
 		"cache_url": null,
 		"name": "GCMD Keywords Page",
 		"created": "2016-08-08T20:24:24.843106",
-		"url": "http:\/\/gcmd.nasa.gov\/learn\/keyword_list.html",
+		"url": "http://gcmd.nasa.gov/learn/keyword_list.html",
 		"webstore_url": null,
 		"resource_locator_function": "information",
 		"position": 5,
@@ -203,7 +203,7 @@
 		"revision_timestamp": "2013-03-25T23:05:12.923863",
 		"is_organization": true,
 		"state": "active",
-		"image_url": "https:\/\/fortress.wa.gov\/dfw\/score\/score\/images\/noaa_logo.png",
+		"image_url": "https://fortress.wa.gov/dfw/score/score/images/noaa_logo.png",
 		"revision_id": "c6d43080-22e1-405e-a83d-f2a512d9e867",
 		"type": "organization",
 		"id": "e811f0b4-451f-4896-9e8f-fc6802837819",
@@ -214,7 +214,7 @@
 	"name": "bigelow-paired-gear-efficiency-study",
 	"isopen": false,
 	"url": null,
-	"notes": "This study was conducted in a relatively small area of Georges Bank where an earlier Georges Bank pilot flatfish survey indicated the highest abundance of yellowtail flounder. Side-by-side towing was conducted on the F\/V Hera using the same gear and methods used for the Georges Bank flatfish survey and on the R\/V Bigelow using the standard NEFSC bottom trawl survey gear and methods. In addition, an independent method of abundance estimation will be derived using images from HabCam transects conducted simultaneously aboard the R\/V Connecticut. The results from this study will be used to estimate the relative catchability of the three different methods for yellowtail flounder which will provide additional information for fisheries managers to allow comparison between the gear used for the Georges Bank pilot flatfish survey and the standard bottom trawl survey.",
+	"notes": "This study was conducted in a relatively small area of Georges Bank where an earlier Georges Bank pilot flatfish survey indicated the highest abundance of yellowtail flounder. Side-by-side towing was conducted on the F/V Hera using the same gear and methods used for the Georges Bank flatfish survey and on the R/V Bigelow using the standard NEFSC bottom trawl survey gear and methods. In addition, an independent method of abundance estimation will be derived using images from HabCam transects conducted simultaneously aboard the R/V Connecticut. The results from this study will be used to estimate the relative catchability of the three different methods for yellowtail flounder which will provide additional information for fisheries managers to allow comparison between the gear used for the Georges Bank pilot flatfish survey and the standard bottom trawl survey.",
 	"owner_org": "e811f0b4-451f-4896-9e8f-fc6802837819",
 	"extras": [{
 		"key": "temporal-extent-begin",
@@ -238,7 +238,7 @@
 	},
 	{
 		"key": "dataset-reference-date",
-		"value": "[{\"type\": \"publication\", \"value\": \"\"}]"
+		"value": "[{"type": "publication", "value": ""}]"
 	},
 	{
 		"key": "resource-type",
@@ -246,7 +246,7 @@
 	},
 	{
 		"key": "responsible-party",
-		"value": "[{\"name\": \"\", \"roles\": [\"\"]}, {\"name\": \"Northeast Fisheries Science Center\", \"roles\": [\"pointOfContact\", \"custodian\"]}]"
+		"value": "[{"name": "", "roles": [""]}, {"name": "Northeast Fisheries Science Center", "roles": ["pointOfContact", "custodian"]}]"
 	},
 	{
 		"key": "spatial-reference-system",
@@ -282,7 +282,7 @@
 	},
 	{
 		"key": "access_constraints",
-		"value": "[\"Access Constraints: User must read and fully comprehend the metadata prior to use. Applications or inferences derived from the data should be carefully considered for accuracy. \\nNEFSC Data Access Constraint:\\nIf data is stored on an internal NEFSC network, the requester may not have direct access to query the data unless they are also authorized for network access. | Use Constraints: Acknowledgement of NOAA\/NMFS\/NEFSC, as the source from which these data were obtained in any publications and\/or other representations of these, data is suggested.\\n\"]"
+		"value": "["Access Constraints: User must read and fully comprehend the metadata prior to use. Applications or inferences derived from the data should be carefully considered for accuracy. \nNEFSC Data Access Constraint:\nIf data is stored on an internal NEFSC network, the requester may not have direct access to query the data unless they are also authorized for network access. | Use Constraints: Acknowledgement of NOAA/NMFS/NEFSC, as the source from which these data were obtained in any publications and/or other representations of these, data is suggested.\n"]"
 	},
 	{
 		"key": "spatial_harvester",
@@ -290,7 +290,7 @@
 	},
 	{
 		"key": "tags",
-		"value": "georges bank, northeast fisheries science center, national marine fisheries service, noaa, u.s. department of commerce, doc\/noaa\/nmfs\/nefsc, northeast cooperative research program (ncrp), cooperative research, efficiency, fall, bigelow, 2014, paired gear, benthic, demersal",
+		"value": "georges bank, northeast fisheries science center, national marine fisheries service, noaa, u.s. department of commerce, doc/noaa/nmfs/nefsc, northeast cooperative research program (ncrp), cooperative research, efficiency, fall, bigelow, 2014, paired gear, benthic, demersal",
 		"__extras": {
 			"revision_id": "4187390d-1f1f-4c5b-b984-62790437577f",
 			"package_id": "2c203dd9-7ece-420b-8998-90655eb56aab"

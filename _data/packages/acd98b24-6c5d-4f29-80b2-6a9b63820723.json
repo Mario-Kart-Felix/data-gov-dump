@@ -37,7 +37,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2013-03-26T00:57:59.203260",
-		"url": "http:\/\/SoilDataMart.nrcs.usda.gov\/",
+		"url": "http://SoilDataMart.nrcs.usda.gov/",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 0,
@@ -67,7 +67,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2013-03-26T00:57:59.203278",
-		"url": "http:\/\/SoilDataMart.nrcs.usda.gov\/",
+		"url": "http://SoilDataMart.nrcs.usda.gov/",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 1,
@@ -97,7 +97,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2013-03-26T00:57:59.203286",
-		"url": "http:\/\/SoilDataMart.nrcs.usda.gov\/",
+		"url": "http://SoilDataMart.nrcs.usda.gov/",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 2,
@@ -127,7 +127,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2013-03-26T00:57:59.203293",
-		"url": "http:\/\/SoilDataMart.nrcs.usda.gov\/",
+		"url": "http://SoilDataMart.nrcs.usda.gov/",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 3,
@@ -157,7 +157,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2013-03-26T00:57:59.203299",
-		"url": "http:\/\/soildatamart.nrcs.usda.gov\/Download.aspx?Survey=NY605",
+		"url": "http://soildatamart.nrcs.usda.gov/Download.aspx?Survey=NY605",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 4,
@@ -205,7 +205,7 @@
 	},
 	{
 		"key": "dataset-reference-date",
-		"value": "[{\"type\": \"publication\", \"value\": \"2009-09-01\"}]"
+		"value": "[{"type": "publication", "value": "2009-09-01"}]"
 	},
 	{
 		"key": "resource-type",
@@ -233,7 +233,7 @@
 	},
 	{
 		"key": "licence",
-		"value": "[\"\\nAlthough these data have been processed successfully on a computer\\nsystem at the U.S. Department of Agriculture, no warranty expressed\\nor implied is made by the Agency regarding the utility of the data\\non any other system, nor shall the act of distribution constitute\\nany such warranty. The U.S. Department of Agriculture will warrant\\nthe delivery of this product in computer readable format, and will\\noffer appropriate adjustment of credit when the product is determined\\nunreadable by correctly adjusted computer input peripherals, or\\nwhen the physical medium is delivered in damaged condition. Request\\nfor adjustment of credit must be made within 90 days from the date\\nof this shipment from the ordering site.\\n\\nThe U.S. Department of Agriculture, nor any of its agencies are\\nliable for misuse of the data, for damage, for transmission of\\nviruses, or for computer contamination through the distribution of\\nthese data sets. The U.S. Department of Agriculture (USDA) prohibits\\ndiscrimination in all its programs and activities on the basis of race,\\ncolor, national origin, sex, religion, age, disability, political\\nbeliefs, sexual orientation, or marital or family status. (Not all\\nprohibited bases apply to all programs.)\\n\"]"
+		"value": "["\nAlthough these data have been processed successfully on a computer\nsystem at the U.S. Department of Agriculture, no warranty expressed\nor implied is made by the Agency regarding the utility of the data\non any other system, nor shall the act of distribution constitute\nany such warranty. The U.S. Department of Agriculture will warrant\nthe delivery of this product in computer readable format, and will\noffer appropriate adjustment of credit when the product is determined\nunreadable by correctly adjusted computer input peripherals, or\nwhen the physical medium is delivered in damaged condition. Request\nfor adjustment of credit must be made within 90 days from the date\nof this shipment from the ordering site.\n\nThe U.S. Department of Agriculture, nor any of its agencies are\nliable for misuse of the data, for damage, for transmission of\nviruses, or for computer contamination through the distribution of\nthese data sets. The U.S. Department of Agriculture (USDA) prohibits\ndiscrimination in all its programs and activities on the basis of race,\ncolor, national origin, sex, religion, age, disability, political\nbeliefs, sexual orientation, or marital or family status. (Not all\nprohibited bases apply to all programs.)\n"]"
 	},
 	{
 		"key": "metadata_type",
@@ -241,11 +241,11 @@
 	},
 	{
 		"key": "responsible-party",
-		"value": "[{\"name\": \"U.S. Department of Agriculture, Natural Resources Conservation Service\", \"roles\": [\"pointOfContact\"]}]"
+		"value": "[{"name": "U.S. Department of Agriculture, Natural Resources Conservation Service", "roles": ["pointOfContact"]}]"
 	},
 	{
 		"key": "spatial",
-		"value": "{\"type\": \"Polygon\", \"coordinates\": [[[-79.138, 41.998], [-79.138, 42.586], [-78.297, 42.586], [-78.297, 41.998], [-79.138, 41.998]]]}"
+		"value": "{"type": "Polygon", "coordinates": [[[-79.138, 41.998], [-79.138, 42.586], [-78.297, 42.586], [-78.297, 41.998], [-79.138, 41.998]]]}"
 	},
 	{
 		"key": "guid",
@@ -257,7 +257,7 @@
 	},
 	{
 		"key": "access_constraints",
-		"value": "[\"Use Constraints: The U.S. Department of Agriculture, Natural Resources Conservation Service, should be acknowledged as the data source in products derived from these data. This data set is not designed for use as a primary regulatory tool in permitting or citing decisions, but may be used as a reference source. This is public information and may be interpreted by organizations, agencies, units of government, or others based on needs; however, they are responsible for the appropriate application. Federal, State, or local regulatory bodies are not to reassign to the Natural Resources Conservation Service any authority for the decisions that they make. The Natural Resources Conservation Service will not perform any evaluations of these maps for purposes related solely to State or local regulatory programs. Photographic or digital enlargement of these maps to scales greater than at which they were originally mapped can cause misinterpretation of the data. If enlarged, maps do not show the small areas of contrasting soils that could have been shown at a larger scale. The depicted soil boundaries, interpretations, and analysis derived from them do not eliminate the need for onsite sampling, testing, and detailed study of specific sites for intensive uses. Thus, these data and their interpretations are intended for planning purposes only. Digital data files are periodically updated. Files are dated, and users are responsible for obtaining the latest version of the data.\", \"Access Constraints: None\"]"
+		"value": "["Use Constraints: The U.S. Department of Agriculture, Natural Resources Conservation Service, should be acknowledged as the data source in products derived from these data. This data set is not designed for use as a primary regulatory tool in permitting or citing decisions, but may be used as a reference source. This is public information and may be interpreted by organizations, agencies, units of government, or others based on needs; however, they are responsible for the appropriate application. Federal, State, or local regulatory bodies are not to reassign to the Natural Resources Conservation Service any authority for the decisions that they make. The Natural Resources Conservation Service will not perform any evaluations of these maps for purposes related solely to State or local regulatory programs. Photographic or digital enlargement of these maps to scales greater than at which they were originally mapped can cause misinterpretation of the data. If enlarged, maps do not show the small areas of contrasting soils that could have been shown at a larger scale. The depicted soil boundaries, interpretations, and analysis derived from them do not eliminate the need for onsite sampling, testing, and detailed study of specific sites for intensive uses. Thus, these data and their interpretations are intended for planning purposes only. Digital data files are periodically updated. Files are dated, and users are responsible for obtaining the latest version of the data.", "Access Constraints: None"]"
 	},
 	{
 		"key": "frequency-of-update",
@@ -295,7 +295,7 @@
 		"revision_timestamp": "2013-03-25T16:20:43.179153",
 		"is_organization": true,
 		"state": "active",
-		"image_url": "https:\/\/encrypted-tbn0.gstatic.com\/images?q=tbn:ANd9GcSSUlT4KL5Yu0Z4wxvwH6W1RomS6KRl7Cat3zfx4j2MbexEoofWuiXi61-3",
+		"image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSSUlT4KL5Yu0Z4wxvwH6W1RomS6KRl7Cat3zfx4j2MbexEoofWuiXi61-3",
 		"revision_id": "cecc899c-71b7-4197-ab17-e7aa41978b20",
 		"type": "organization",
 		"id": "dd3a2a7c-e157-40d6-af0d-fe0a5a0ed064",

@@ -37,7 +37,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2016-06-15T03:14:08.591897",
-		"url": "http:\/\/pubs.usgs.gov\/ds\/757\/data\/m77t\/s196wo.m77t",
+		"url": "http://pubs.usgs.gov/ds/757/data/m77t/s196wo.m77t",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 0,
@@ -67,7 +67,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2016-06-15T03:14:08.591920",
-		"url": "http:\/\/pubs.usgs.gov\/ds\/757",
+		"url": "http://pubs.usgs.gov/ds/757",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 1,
@@ -97,7 +97,7 @@
 		"cache_url": null,
 		"name": "PDF File",
 		"created": "2016-06-15T03:14:08.591929",
-		"url": "http:\/\/www.ngdc.noaa.gov\/mgg\/dat\/geodas\/docs\/mgd77.pdf",
+		"url": "http://www.ngdc.noaa.gov/mgg/dat/geodas/docs/mgd77.pdf",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 2,
@@ -106,7 +106,7 @@
 	}],
 	"num_resources": 3,
 	"tags": [],
-	"title": "s196wo.m77t and s196wo.h77t: MGD77T data and header file for single-beam bathymetry for field activity S-1-96-WO in Cascadia, Washington from 04\/14\/1996 to 06\/06\/1996",
+	"title": "s196wo.m77t and s196wo.h77t: MGD77T data and header file for single-beam bathymetry for field activity S-1-96-WO in Cascadia, Washington from 04/14/1996 to 06/06/1996",
 	"tracking_summary": {
 		"total": 1,
 		"recent": 1
@@ -117,7 +117,7 @@
 	"name": "s196wo-m77t-and-s196wo-h77t-mgd77t-data-and-header-file-for-single-beam-bathymetry-for-06-1996af700",
 	"isopen": false,
 	"url": null,
-	"notes": "Single-beam bathymetry data along with GPS navigation data was collected as part of the U.S. Geological Survey cruise S-1-96-WO. The cruise was conducted in Cascadia, Washington from April 14 to June 6, 1996. The chief scientists were Mike Fisher from the USGS Coastal and Marine Geology office in Menlo Park, CA and Ernest Flueh from GEOMAR in Germany. The purpose of this cruise was for seismic studies of earthquake hazards posed by the subduction zone off Washington and Oregon. These data are reformatted from space-delimited ASCII text files located in the Coastal and Marine Geology Program (CMGP) InfoBank field activity catalog at http:\/\/walrus.wr.usgs.gov\/infobank\/s\/s196wo\/html\/s-1-96-wo.meta.html into MGD77T format provided by the NOAA's National Geophysical Data Center(NGDC). The MGD77T format includes a header (documentation) file (.h77t) and a data file (.m77t). More information regarding this format can be found in the publication listed in the Cross_reference section of this metadata file.",
+	"notes": "Single-beam bathymetry data along with GPS navigation data was collected as part of the U.S. Geological Survey cruise S-1-96-WO. The cruise was conducted in Cascadia, Washington from April 14 to June 6, 1996. The chief scientists were Mike Fisher from the USGS Coastal and Marine Geology office in Menlo Park, CA and Ernest Flueh from GEOMAR in Germany. The purpose of this cruise was for seismic studies of earthquake hazards posed by the subduction zone off Washington and Oregon. These data are reformatted from space-delimited ASCII text files located in the Coastal and Marine Geology Program (CMGP) InfoBank field activity catalog at http://walrus.wr.usgs.gov/infobank/s/s196wo/html/s-1-96-wo.meta.html into MGD77T format provided by the NOAA's National Geophysical Data Center(NGDC). The MGD77T format includes a header (documentation) file (.h77t) and a data file (.m77t). More information regarding this format can be found in the publication listed in the Cross_reference section of this metadata file.",
 	"license_title": null,
 	"extras": [{
 		"key": "bbox-east-long",
@@ -153,7 +153,7 @@
 	},
 	{
 		"key": "spatial",
-		"value": "{\"type\": \"Polygon\", \"coordinates\": [[[-126.98272, 44.11871], [-124.12401, 44.11871], [-124.12401, 48.2231], [-126.98272, 48.2231], [-126.98272, 44.11871]]]}"
+		"value": "{"type": "Polygon", "coordinates": [[[-126.98272, 44.11871], [-124.12401, 44.11871], [-124.12401, 48.2231], [-126.98272, 48.2231], [-126.98272, 44.11871]]]}"
 	},
 	{
 		"key": "progress",
@@ -161,7 +161,7 @@
 	},
 	{
 		"key": "access_constraints",
-		"value": "[\"Use Constraints: This information is not intended for navigational purposes. Read and fully comprehend the metadata prior to data use. Uses of these data should not violate the spatial resolution of the data. Where these data are used in combination with other data of different resolution, the resolution of the combined output will be limited by the lowest resolution of all the data. Acknowledge the U.S. Geological Survey in products derived from these data. Share data products developed using these data with the U.S. Geological Survey.\", \"Access Constraints: None. These data are held in the public domain.\"]"
+		"value": "["Use Constraints: This information is not intended for navigational purposes. Read and fully comprehend the metadata prior to data use. Uses of these data should not violate the spatial resolution of the data. Where these data are used in combination with other data of different resolution, the resolution of the combined output will be limited by the lowest resolution of all the data. Acknowledge the U.S. Geological Survey in products derived from these data. Share data products developed using these data with the U.S. Geological Survey.", "Access Constraints: None. These data are held in the public domain."]"
 	},
 	{
 		"key": "temporal-extent-begin",
@@ -181,7 +181,7 @@
 	},
 	{
 		"key": "dataset-reference-date",
-		"value": "[{\"type\": \"publication\", \"value\": \"2013-01-01\"}]"
+		"value": "[{"type": "publication", "value": "2013-01-01"}]"
 	},
 	{
 		"key": "frequency-of-update",
@@ -189,7 +189,7 @@
 	},
 	{
 		"key": "licence",
-		"value": "[\" \"]"
+		"value": "[" "]"
 	},
 	{
 		"key": "metadata_type",
@@ -197,7 +197,7 @@
 	},
 	{
 		"key": "responsible-party",
-		"value": "[{\"name\": \"Cherokee Nation Technology Solutions, contracted to U.S. Geological Survey\", \"roles\": [\"pointOfContact\"]}]"
+		"value": "[{"name": "Cherokee Nation Technology Solutions, contracted to U.S. Geological Survey", "roles": ["pointOfContact"]}]"
 	},
 	{
 		"key": "temporal-extent-end",
@@ -236,14 +236,14 @@
 		"value": "USGS Coastal and Marine Geoscience Data System"
 	}],
 	"organization": {
-		"description": "http:\/\/www.usgs.gov\/\r\nThe USGS is a federal science agency that provides impartial information on the health of our ecosystems and environment, the natural hazards that threaten us, the natural resources we rely on, the impacts of climate and land-use change, and the core science systems that help us provide timely, relevant, and useable information.",
+		"description": "http://www.usgs.gov/rnThe USGS is a federal science agency that provides impartial information on the health of our ecosystems and environment, the natural hazards that threaten us, the natural resources we rely on, the impacts of climate and land-use change, and the core science systems that help us provide timely, relevant, and useable information.",
 		"created": "2013-03-14T03:44:38.263357",
 		"title": "U.S. Geological Survey, Department of the Interior",
 		"name": "usgs-gov",
 		"revision_timestamp": "2014-09-02T13:43:52.167023",
 		"is_organization": true,
 		"state": "active",
-		"image_url": "http:\/\/pubs.usgs.gov\/sir\/2004\/5296\/04-5296_confluence_park\/usgs_logo.gif",
+		"image_url": "http://pubs.usgs.gov/sir/2004/5296/04-5296_confluence_park/usgs_logo.gif",
 		"revision_id": "2858aa99-9501-4f96-82e5-9647b968ed66",
 		"type": "organization",
 		"id": "bd2cdd5a-4d65-46c0-9937-c8381175f104",

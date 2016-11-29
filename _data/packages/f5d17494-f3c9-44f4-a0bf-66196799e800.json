@@ -37,7 +37,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2016-03-31T19:56:15.294987",
-		"url": "https:\/\/edg.epa.gov\/data\/PUBLIC\/ORD\/ENVIROATLAS",
+		"url": "https://edg.epa.gov/data/PUBLIC/ORD/ENVIROATLAS",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 0,
@@ -67,7 +67,7 @@
 		"cache_url": null,
 		"name": "Esri Rest API Endpoint",
 		"created": "2016-03-31T19:56:15.295015",
-		"url": "https:\/\/enviroatlas.epa.gov\/arcgis\/rest\/services",
+		"url": "https://enviroatlas.epa.gov/arcgis/rest/services",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 1,
@@ -97,7 +97,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2016-03-31T19:56:15.295025",
-		"url": "https:\/\/www.epa.gov\/enviroatlas\/enviroatlas-data",
+		"url": "https://www.epa.gov/enviroatlas/enviroatlas-data",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 2,
@@ -127,7 +127,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2016-03-31T19:56:15.295034",
-		"url": "https:\/\/www.epa.gov\/enviroatlas",
+		"url": "https://www.epa.gov/enviroatlas",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 3,
@@ -149,7 +149,7 @@
 		"revision_timestamp": "2014-01-16T18:58:42.895981",
 		"is_organization": true,
 		"state": "active",
-		"image_url": "http:\/\/edg.epa.gov\/EPALogo.svg",
+		"image_url": "http://edg.epa.gov/EPALogo.svg",
 		"revision_id": "f0e4b475-7424-4ce0-9a22-412e7e595154",
 		"type": "organization",
 		"id": "6d90e48d-3076-4327-b2f4-c33919f374d5",
@@ -160,7 +160,7 @@
 	"name": "enviroatlas-pittsburgh-pa-estimated-intersection-density-of-walkable-roads",
 	"isopen": false,
 	"url": null,
-	"notes": "This EnviroAtlas dataset estimates the intersection density of walkable roads within a 750 meter radius of any given 10 meter pixel in the community. Intersections are defined as any point where 3 or more roads meet and density is calculated using kernel density, where closer intersections are weighted higher than further intersections. Intersection density is highly correlated with walking for transportation. This dataset was produced by the US EPA to support research and online mapping activities related to EnviroAtlas. EnviroAtlas (https:\/\/www.epa.gov\/enviroatlas) allows the user to interact with a web-based, easy-to-use, mapping application to view and analyze multiple ecosystem services for the contiguous United States. The dataset is available as downloadable data (https:\/\/edg.epa.gov\/data\/Public\/ORD\/EnviroAtlas) or as an EnviroAtlas map service. Additional descriptive information about each attribute in this dataset can be found in its associated EnviroAtlas Fact Sheet (https:\/\/www.epa.gov\/enviroatlas\/enviroatlas-fact-sheets).",
+	"notes": "This EnviroAtlas dataset estimates the intersection density of walkable roads within a 750 meter radius of any given 10 meter pixel in the community. Intersections are defined as any point where 3 or more roads meet and density is calculated using kernel density, where closer intersections are weighted higher than further intersections. Intersection density is highly correlated with walking for transportation. This dataset was produced by the US EPA to support research and online mapping activities related to EnviroAtlas. EnviroAtlas (https://www.epa.gov/enviroatlas) allows the user to interact with a web-based, easy-to-use, mapping application to view and analyze multiple ecosystem services for the contiguous United States. The dataset is available as downloadable data (https://edg.epa.gov/data/Public/ORD/EnviroAtlas) or as an EnviroAtlas map service. Additional descriptive information about each attribute in this dataset can be found in its associated EnviroAtlas Fact Sheet (https://www.epa.gov/enviroatlas/enviroatlas-fact-sheets).",
 	"owner_org": "6d90e48d-3076-4327-b2f4-c33919f374d5",
 	"extras": [{
 		"key": "bbox-east-long",
@@ -196,7 +196,7 @@
 	},
 	{
 		"key": "spatial",
-		"value": "{\"type\": \"Polygon\", \"coordinates\": [[[-80.29781, 40.24197], [-79.68825, 40.24197], [-79.68825, 40.67122], [-80.29781, 40.67122], [-80.29781, 40.24197]]]}"
+		"value": "{"type": "Polygon", "coordinates": [[[-80.29781, 40.24197], [-79.68825, 40.24197], [-79.68825, 40.67122], [-80.29781, 40.67122], [-80.29781, 40.24197]]]}"
 	},
 	{
 		"key": "progress",
@@ -204,11 +204,11 @@
 	},
 	{
 		"key": "access_constraints",
-		"value": "[\"Use Constraints: None. Please check sources, scale, accuracy, currency and other available information. Please confirm that you are using the most recent copy of both data and metadata. Acknowledgement of the EPA would be appreciated.\", \"Access Constraints: None.\"]"
+		"value": "["Use Constraints: None. Please check sources, scale, accuracy, currency and other available information. Please confirm that you are using the most recent copy of both data and metadata. Acknowledgement of the EPA would be appreciated.", "Access Constraints: None."]"
 	},
 	{
 		"key": "licence_url",
-		"value": "https:\/\/edg.epa.gov\/EPA_Data_License.html"
+		"value": "https://edg.epa.gov/EPA_Data_License.html"
 	},
 	{
 		"key": "contact-email",
@@ -224,7 +224,7 @@
 	},
 	{
 		"key": "dataset-reference-date",
-		"value": "[{\"type\": \"publication\", \"value\": \"2015-08-07\"}]"
+		"value": "[{"type": "publication", "value": "2015-08-07"}]"
 	},
 	{
 		"key": "frequency-of-update",
@@ -232,7 +232,7 @@
 	},
 	{
 		"key": "licence",
-		"value": "[\"https:\/\/edg.epa.gov\/EPA_Data_License.html\"]"
+		"value": "["https://edg.epa.gov/EPA_Data_License.html"]"
 	},
 	{
 		"key": "metadata_type",
@@ -240,7 +240,7 @@
 	},
 	{
 		"key": "responsible-party",
-		"value": "[{\"name\": \"U.S. Environmental Protection Agency, Office of Research and Development-Sustainable and Healthy Communities Research Program, EnviroAtlas\", \"roles\": [\"pointOfContact\"]}]"
+		"value": "[{"name": "U.S. Environmental Protection Agency, Office of Research and Development-Sustainable and Healthy Communities Research Program, EnviroAtlas", "roles": ["pointOfContact"]}]"
 	},
 	{
 		"key": "spatial-data-service-type",

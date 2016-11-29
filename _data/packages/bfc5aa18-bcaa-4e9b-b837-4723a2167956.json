@@ -36,7 +36,7 @@
 		"cache_url": null,
 		"name": "ESRI Shapefile",
 		"created": "2014-11-17T16:11:24.557545",
-		"url": "http:\/\/water.usgs.gov\/GIS\/dsdl\/ds240\/polygon\/tilepoly.zip",
+		"url": "http://water.usgs.gov/GIS/dsdl/ds240/polygon/tilepoly.zip",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 0,
@@ -66,7 +66,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2014-11-17T16:11:24.557572",
-		"url": "http:\/\/water.usgs.gov\/lookup\/getspatial?ds240_landuse_tilepoly",
+		"url": "http://water.usgs.gov/lookup/getspatial?ds240_landuse_tilepoly",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 1,
@@ -96,7 +96,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2014-11-17T16:11:24.557584",
-		"url": "http:\/\/pubs.usgs.gov\/ds\/2006\/240\/",
+		"url": "http://pubs.usgs.gov/ds/2006/240/",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 2,
@@ -126,7 +126,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2014-11-17T16:11:24.557595",
-		"url": "http:\/\/www.epa.gov\/waterscience\/BASINS\/metadata\/giras.htm",
+		"url": "http://www.epa.gov/waterscience/BASINS/metadata/giras.htm",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 3,
@@ -156,7 +156,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2014-11-17T16:11:24.557603",
-		"url": "http:\/\/landcover.usgs.gov",
+		"url": "http://landcover.usgs.gov",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 4,
@@ -186,7 +186,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2014-11-17T16:11:24.557610",
-		"url": "http:\/\/landcover.usgs.gov",
+		"url": "http://landcover.usgs.gov",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 5,
@@ -234,7 +234,7 @@
 	},
 	{
 		"key": "graphic-preview-file",
-		"value": "http:\/\/water.usgs.gov\/GIS\/browse\/ds240_landuse_tilepoly.png"
+		"value": "http://water.usgs.gov/GIS/browse/ds240_landuse_tilepoly.png"
 	},
 	{
 		"key": "bbox-south-lat",
@@ -250,7 +250,7 @@
 	},
 	{
 		"key": "spatial",
-		"value": "{\"type\": \"Polygon\", \"coordinates\": [[[-160.497286, 18.497497], [-65.999375, 18.497497], [-65.999375, 61.999559], [-160.497286, 61.999559], [-160.497286, 18.497497]]]}"
+		"value": "{"type": "Polygon", "coordinates": [[[-160.497286, 18.497497], [-65.999375, 18.497497], [-65.999375, 61.999559], [-160.497286, 61.999559], [-160.497286, 18.497497]]]}"
 	},
 	{
 		"key": "progress",
@@ -258,11 +258,11 @@
 	},
 	{
 		"key": "access_constraints",
-		"value": "[\"Use Constraints: none\", \"Access Constraints: none\"]"
+		"value": "["Use Constraints: none", "Access Constraints: none"]"
 	},
 	{
 		"key": "contact-email",
-		"value": "http:\/\/answers.usgs.gov\/cgi-bin\/gsanswers?pemail=h2oteam&subject=GIS+Dataset+ds240_landuse_tilepoly"
+		"value": "http://answers.usgs.gov/cgi-bin/gsanswers?pemail=h2oteam&subject=GIS+Dataset+ds240_landuse_tilepoly"
 	},
 	{
 		"key": "bbox-west-long",
@@ -274,7 +274,7 @@
 	},
 	{
 		"key": "dataset-reference-date",
-		"value": "[{\"type\": \"publication\", \"value\": \"2007-04-01\"}]"
+		"value": "[{"type": "publication", "value": "2007-04-01"}]"
 	},
 	{
 		"key": "graphic-preview-description",
@@ -286,7 +286,7 @@
 	},
 	{
 		"key": "licence",
-		"value": "[\"\\n\\nAlthough this data set has been used by the U.S. Geological Survey, U.S. Department of the Interior, no warranty expressed or implied is made by the U.S. Geological Survey as to the accuracy of the data and related materials. The act of distribution shall not constitute any such warranty, and no responsibility is assumed by the U.S. Geological Survey in the use of this data, software, or related materials. \\n\\nAny use of trade, product, or firm names is for descriptive purposes only and does not imply endorsement by the U.S. Government. \\n\\nAlthough this Federal Geographic Data Committee-compliant metadata file is intended to document the data set in nonproprietary form, this metadata file may include some vendor-specific terminology.\\n\\n\"]"
+		"value": "["\n\nAlthough this data set has been used by the U.S. Geological Survey, U.S. Department of the Interior, no warranty expressed or implied is made by the U.S. Geological Survey as to the accuracy of the data and related materials. The act of distribution shall not constitute any such warranty, and no responsibility is assumed by the U.S. Geological Survey in the use of this data, software, or related materials. \n\nAny use of trade, product, or firm names is for descriptive purposes only and does not imply endorsement by the U.S. Government. \n\nAlthough this Federal Geographic Data Committee-compliant metadata file is intended to document the data set in nonproprietary form, this metadata file may include some vendor-specific terminology.\n\n"]"
 	},
 	{
 		"key": "metadata_type",
@@ -294,7 +294,7 @@
 	},
 	{
 		"key": "responsible-party",
-		"value": "[{\"name\": \"U.S. Geological Survey\", \"roles\": [\"pointOfContact\"]}]"
+		"value": "[{"name": "U.S. Geological Survey", "roles": ["pointOfContact"]}]"
 	},
 	{
 		"key": "spatial-data-service-type",
@@ -329,14 +329,14 @@
 		"value": "Water NSDI Node Spatial Datasets"
 	}],
 	"organization": {
-		"description": "http:\/\/www.usgs.gov\/\r\nThe USGS is a federal science agency that provides impartial information on the health of our ecosystems and environment, the natural hazards that threaten us, the natural resources we rely on, the impacts of climate and land-use change, and the core science systems that help us provide timely, relevant, and useable information.",
+		"description": "http://www.usgs.gov/rnThe USGS is a federal science agency that provides impartial information on the health of our ecosystems and environment, the natural hazards that threaten us, the natural resources we rely on, the impacts of climate and land-use change, and the core science systems that help us provide timely, relevant, and useable information.",
 		"created": "2013-03-14T03:44:38.263357",
 		"title": "U.S. Geological Survey, Department of the Interior",
 		"name": "usgs-gov",
 		"revision_timestamp": "2014-09-02T13:43:52.167023",
 		"is_organization": true,
 		"state": "active",
-		"image_url": "http:\/\/pubs.usgs.gov\/sir\/2004\/5296\/04-5296_confluence_park\/usgs_logo.gif",
+		"image_url": "http://pubs.usgs.gov/sir/2004/5296/04-5296_confluence_park/usgs_logo.gif",
 		"revision_id": "2858aa99-9501-4f96-82e5-9647b968ed66",
 		"type": "organization",
 		"id": "bd2cdd5a-4d65-46c0-9937-c8381175f104",

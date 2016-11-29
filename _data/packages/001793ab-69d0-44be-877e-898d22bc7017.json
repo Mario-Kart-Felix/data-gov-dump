@@ -37,7 +37,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2016-05-30T21:41:06.408332",
-		"url": "https:\/\/coast.noaa.gov\/dataviewer\/#\/lidar\/search\/where:ID=4972",
+		"url": "https://coast.noaa.gov/dataviewer/#/lidar/search/where:ID=4972",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 0,
@@ -67,7 +67,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2016-05-30T21:41:06.408360",
-		"url": "https:\/\/coast.noaa.gov\/htdata\/lidar1_z\/geoid12b\/data\/4972",
+		"url": "https://coast.noaa.gov/htdata/lidar1_z/geoid12b/data/4972",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 1,
@@ -97,7 +97,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2016-05-30T21:41:06.408371",
-		"url": "https:\/\/coast.noaa.gov\/dataviewer",
+		"url": "https://coast.noaa.gov/dataviewer",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 2,
@@ -127,7 +127,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2016-05-30T21:41:06.408379",
-		"url": "https:\/\/coast.noaa.gov",
+		"url": "https://coast.noaa.gov",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 3,
@@ -147,7 +147,7 @@
 	"name": "2014-noaa-ngs-lidar-intracoastal-waterway-florida-keys-fl",
 	"isopen": false,
 	"url": null,
-	"notes": "These data were collected by the National Oceanic Atmospheric Administration National Geodetic Survey Remote Sensing Division using a Riegl VQ820G system. The data were acquired from \"\"\"+str(colbdate)+\"\"\" - \"\"\"+str(coledate)+\"\"\". The data includes topobathy data in an LAS 1.2 format file classified as unclassified (1), ground (2), noise (7), water column (25), bathymetric point (26), toppbathy water surface (27), submerged object (29), and International Hydrographic Organization (IHO) S-57 object (30) in accordance with the American Society for Photogrammetry and Remote Sensing (ASPRS) classification standards. This data set may also include lidar intensity values. Not all delivered data contained the classifications listed above instead, please resort to the attribution below.",
+	"notes": "These data were collected by the National Oceanic Atmospheric Administration National Geodetic Survey Remote Sensing Division using a Riegl VQ820G system. The data were acquired from """+str(colbdate)+""" - """+str(coledate)+""". The data includes topobathy data in an LAS 1.2 format file classified as unclassified (1), ground (2), noise (7), water column (25), bathymetric point (26), toppbathy water surface (27), submerged object (29), and International Hydrographic Organization (IHO) S-57 object (30) in accordance with the American Society for Photogrammetry and Remote Sensing (ASPRS) classification standards. This data set may also include lidar intensity values. Not all delivered data contained the classifications listed above instead, please resort to the attribution below.",
 	"license_title": null,
 	"extras": [{
 		"key": "bbox-east-long",
@@ -175,7 +175,7 @@
 	},
 	{
 		"key": "graphic-preview-file",
-		"value": "https:\/\/coast.noaa.gov\/htdata\/lidar1_z\/geoid12b\/data\/4972\/supplemental\/fl2014_ngs_intracoastal_keys_m4972.kmz"
+		"value": "https://coast.noaa.gov/htdata/lidar1_z/geoid12b/data/4972/supplemental/fl2014_ngs_intracoastal_keys_m4972.kmz"
 	},
 	{
 		"key": "metadata-language",
@@ -191,7 +191,7 @@
 	},
 	{
 		"key": "spatial",
-		"value": "{\"type\": \"Polygon\", \"coordinates\": [[[-74.1773913, 39.7227357], [-74.0674717, 39.7227357], [-74.0674717, 39.82302784], [-74.1773913, 39.82302784], [-74.1773913, 39.7227357]]]}"
+		"value": "{"type": "Polygon", "coordinates": [[[-74.1773913, 39.7227357], [-74.0674717, 39.7227357], [-74.0674717, 39.82302784], [-74.1773913, 39.82302784], [-74.1773913, 39.7227357]]]}"
 	},
 	{
 		"key": "progress",
@@ -199,7 +199,7 @@
 	},
 	{
 		"key": "access_constraints",
-		"value": "[\"Use Constraints: Users should be aware that temporal changes may have occurred since this data set was collected and some parts of this data may no longer represent actual surface conditions. Users should not use this data for critical applications without a full awareness of its limitations.\", \"Access Constraints: None\"]"
+		"value": "["Use Constraints: Users should be aware that temporal changes may have occurred since this data set was collected and some parts of this data may no longer represent actual surface conditions. Users should not use this data for critical applications without a full awareness of its limitations.", "Access Constraints: None"]"
 	},
 	{
 		"key": "temporal-extent-begin",
@@ -219,7 +219,7 @@
 	},
 	{
 		"key": "dataset-reference-date",
-		"value": "[{\"type\": \"publication\", \"value\": \"2015-12-01\"}]"
+		"value": "[{"type": "publication", "value": "2015-12-01"}]"
 	},
 	{
 		"key": "graphic-preview-description",
@@ -231,7 +231,7 @@
 	},
 	{
 		"key": "licence",
-		"value": "[\"Any conclusions drawn from the analysis of this information are not the responsibility or the National Oceanic and Atmospheric Administration (NOAA),\\nNational Ocean Service (NOS), National Geodetic Survey (NGS), the Office for Coastal Management or its partners.\"]"
+		"value": "["Any conclusions drawn from the analysis of this information are not the responsibility or the National Oceanic and Atmospheric Administration (NOAA),\nNational Ocean Service (NOS), National Geodetic Survey (NGS), the Office for Coastal Management or its partners."]"
 	},
 	{
 		"key": "metadata_type",
@@ -239,7 +239,7 @@
 	},
 	{
 		"key": "responsible-party",
-		"value": "[{\"name\": \"National Oceanic and Atmospheric Administration (NOAA), National Ocean Service (NOS), National Geodetic Survey (NGS), Remote Sensing Division\", \"roles\": [\"pointOfContact\"]}]"
+		"value": "[{"name": "National Oceanic and Atmospheric Administration (NOAA), National Ocean Service (NOS), National Geodetic Survey (NGS), Remote Sensing Division", "roles": ["pointOfContact"]}]"
 	},
 	{
 		"key": "temporal-extent-end",
@@ -255,7 +255,7 @@
 	},
 	{
 		"package_id": "001793ab-69d0-44be-877e-898d22bc7017",
-		"value": "atlantic ocean, topography, key west (25n080w0016), lower florida keys, florida, north atlantic ocean, country\/territory, 20140410, lidar, florida reef tract, bathymetry\/topography, ocean basin, 20140422, monroe county, united states of america",
+		"value": "atlantic ocean, topography, key west (25n080w0016), lower florida keys, florida, north atlantic ocean, country/territory, 20140410, lidar, florida reef tract, bathymetry/topography, ocean basin, 20140422, monroe county, united states of america",
 		"revision_timestamp": "2016-05-31T01:41:06.310548",
 		"state": "active",
 		"key": "tags",
@@ -285,7 +285,7 @@
 		"revision_timestamp": "2013-03-25T23:05:12.923863",
 		"is_organization": true,
 		"state": "active",
-		"image_url": "https:\/\/fortress.wa.gov\/dfw\/score\/score\/images\/noaa_logo.png",
+		"image_url": "https://fortress.wa.gov/dfw/score/score/images/noaa_logo.png",
 		"revision_id": "c6d43080-22e1-405e-a83d-f2a512d9e867",
 		"type": "organization",
 		"id": "e811f0b4-451f-4896-9e8f-fc6802837819",

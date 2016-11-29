@@ -36,7 +36,7 @@
 		"cache_url": null,
 		"name": "LAZ",
 		"created": "2016-06-22T03:13:07.786304",
-		"url": "http:\/\/coastal.er.usgs.gov\/data-release\/doi-F70G3H6G\/data\/Breton_Island.laz",
+		"url": "http://coastal.er.usgs.gov/data-release/doi-F70G3H6G/data/Breton_Island.laz",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 0,
@@ -65,7 +65,7 @@
 		"cache_url": null,
 		"name": "LAZ",
 		"created": "2016-06-22T03:13:07.786349",
-		"url": "http:\/\/coastal.er.usgs.gov\/data-release\/doi-F70G3H6G\/data\/Gosier_Islands.laz",
+		"url": "http://coastal.er.usgs.gov/data-release/doi-F70G3H6G/data/Gosier_Islands.laz",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 1,
@@ -95,7 +95,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2016-06-22T03:13:07.786358",
-		"url": "http:\/\/dx.doi.org\/10.5066\/F70G3H6G",
+		"url": "http://dx.doi.org/10.5066/F70G3H6G",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 2,
@@ -125,7 +125,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2016-06-22T03:13:07.786366",
-		"url": "http:\/\/coastal.er.usgs.gov\/data-release\/doi-F7XS5SGM\/",
+		"url": "http://coastal.er.usgs.gov/data-release/doi-F7XS5SGM/",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 3,
@@ -155,7 +155,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2016-06-22T03:13:07.786373",
-		"url": "http:\/\/To be determined",
+		"url": "http://To be determined",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 4,
@@ -175,11 +175,11 @@
 	"name": "topobathymetric-lidar-survey-of-breton-and-gosier-islands-louisiana-january-16-and-18-20143db59",
 	"isopen": false,
 	"url": null,
-	"notes": "This dataset contains binary point-cloud data, produced from remotely sensed, geographically referenced topobathymetric measurements collected by Photo Science, Inc., encompassing the Breton and Gosier Island, LA study areas. The original area of interest was buffered by 100 meters to ensure complete coverage, resulting in approximately 75 square miles of lidar data. The Breton Island Lidar project called for the planning, acquisition, processing, and derivative products of topobathymetric lidar data, collected at a nominal pulse spacing (NPS) of 0.5-0.45 meters (4-5 points\/square meter). Lidar acquisition was prioritized to coincide with the lowest tide possible. Water clarity was also assessed and deemed acceptable prior to acquisition flights. The data, in meters, are projected to UTM Zone 16 North and referenced horizontally to the NAD83 (2011) datum and vertically to the NAVD88 (GEOID12A) datum. The classified point-cloud data were delivered in LAS v1.2 format and the merged DEM was converted to a GeoTIFF file. Each LAS file contains data in a 1-kilometer by 1-kilometer tile named according to the US National Grid conventions. The final product was a LAZ file for Breton Island and another for Gosier Islands.",
+	"notes": "This dataset contains binary point-cloud data, produced from remotely sensed, geographically referenced topobathymetric measurements collected by Photo Science, Inc., encompassing the Breton and Gosier Island, LA study areas. The original area of interest was buffered by 100 meters to ensure complete coverage, resulting in approximately 75 square miles of lidar data. The Breton Island Lidar project called for the planning, acquisition, processing, and derivative products of topobathymetric lidar data, collected at a nominal pulse spacing (NPS) of 0.5-0.45 meters (4-5 points/square meter). Lidar acquisition was prioritized to coincide with the lowest tide possible. Water clarity was also assessed and deemed acceptable prior to acquisition flights. The data, in meters, are projected to UTM Zone 16 North and referenced horizontally to the NAD83 (2011) datum and vertically to the NAVD88 (GEOID12A) datum. The classified point-cloud data were delivered in LAS v1.2 format and the merged DEM was converted to a GeoTIFF file. Each LAS file contains data in a 1-kilometer by 1-kilometer tile named according to the US National Grid conventions. The final product was a LAZ file for Breton Island and another for Gosier Islands.",
 	"license_title": null,
 	"extras": [{
 		"key": "responsible-party",
-		"value": "[{\"name\": \"\", \"roles\": [\"pointOfContact\"]}]"
+		"value": "[{"name": "", "roles": ["pointOfContact"]}]"
 	},
 	{
 		"key": "contact-email",
@@ -199,7 +199,7 @@
 	},
 	{
 		"key": "dataset-reference-date",
-		"value": "[{\"type\": \"publication\", \"value\": \"2016-03-25\"}]"
+		"value": "[{"type": "publication", "value": "2016-03-25"}]"
 	},
 	{
 		"key": "resource-type",
@@ -227,7 +227,7 @@
 	},
 	{
 		"key": "licence",
-		"value": "[\"Although these data have been processed successfully on a computer system at the USGS, no warranty expressed or implied is made regarding the display or utility of the data on any other system, or for general or scientific purposes, nor shall the act of distribution constitute any such warranty. The USGS shall not be held liable for improper or incorrect use of the data described and (or) contained herein. Any use of trade, firm, or product names is for descriptive purposes only and does not imply endorsement by the U.S. Government.\"]"
+		"value": "["Although these data have been processed successfully on a computer system at the USGS, no warranty expressed or implied is made regarding the display or utility of the data on any other system, or for general or scientific purposes, nor shall the act of distribution constitute any such warranty. The USGS shall not be held liable for improper or incorrect use of the data described and (or) contained herein. Any use of trade, firm, or product names is for descriptive purposes only and does not imply endorsement by the U.S. Government."]"
 	},
 	{
 		"key": "metadata_type",
@@ -239,7 +239,7 @@
 	},
 	{
 		"key": "spatial",
-		"value": "{\"type\": \"Polygon\", \"coordinates\": [[[-89.21751, 29.441982], [-89.033051, 29.441982], [-89.033051, 29.580236], [-89.21751, 29.580236], [-89.21751, 29.441982]]]}"
+		"value": "{"type": "Polygon", "coordinates": [[[-89.21751, 29.441982], [-89.033051, 29.441982], [-89.033051, 29.580236], [-89.21751, 29.580236], [-89.21751, 29.441982]]]}"
 	},
 	{
 		"key": "guid",
@@ -251,7 +251,7 @@
 	},
 	{
 		"key": "access_constraints",
-		"value": "[\"Use Constraints: The U.S. Geological Survey requests to be acknowledged as originator of these data in future products or derivative research.\", \"Access Constraints: None\"]"
+		"value": "["Use Constraints: The U.S. Geological Survey requests to be acknowledged as originator of these data in future products or derivative research.", "Access Constraints: None"]"
 	},
 	{
 		"key": "spatial_harvester",
@@ -263,7 +263,7 @@
 	},
 	{
 		"package_id": "75baf658-bef4-4e59-9b2d-1c8183980689",
-		"value": "topography, bare earth, shoreline displacement, terrain elevation, breton island, coastal processes, lidar, land surface, barrier islands, intensity image, gulf of mexico, 2014, coastal and marine geology, u.s. geological survey, u.s. department of interior, louisiana, las point cloud, light detection and ranging, topobathy, digital elevation model, gosier islands, doi\/usgs\/cmg, laz, bathymetry, beaches, ocean, dem, plaquemines parish",
+		"value": "topography, bare earth, shoreline displacement, terrain elevation, breton island, coastal processes, lidar, land surface, barrier islands, intensity image, gulf of mexico, 2014, coastal and marine geology, u.s. geological survey, u.s. department of interior, louisiana, las point cloud, light detection and ranging, topobathy, digital elevation model, gosier islands, doi/usgs/cmg, laz, bathymetry, beaches, ocean, dem, plaquemines parish",
 		"revision_timestamp": "2016-04-13T06:49:40.738465",
 		"state": "active",
 		"key": "tags",
@@ -286,14 +286,14 @@
 		"value": "USGS Coastal and Marine Geoscience Data System"
 	}],
 	"organization": {
-		"description": "http:\/\/www.usgs.gov\/\r\nThe USGS is a federal science agency that provides impartial information on the health of our ecosystems and environment, the natural hazards that threaten us, the natural resources we rely on, the impacts of climate and land-use change, and the core science systems that help us provide timely, relevant, and useable information.",
+		"description": "http://www.usgs.gov/rnThe USGS is a federal science agency that provides impartial information on the health of our ecosystems and environment, the natural hazards that threaten us, the natural resources we rely on, the impacts of climate and land-use change, and the core science systems that help us provide timely, relevant, and useable information.",
 		"created": "2013-03-14T03:44:38.263357",
 		"title": "U.S. Geological Survey, Department of the Interior",
 		"name": "usgs-gov",
 		"revision_timestamp": "2014-09-02T13:43:52.167023",
 		"is_organization": true,
 		"state": "active",
-		"image_url": "http:\/\/pubs.usgs.gov\/sir\/2004\/5296\/04-5296_confluence_park\/usgs_logo.gif",
+		"image_url": "http://pubs.usgs.gov/sir/2004/5296/04-5296_confluence_park/usgs_logo.gif",
 		"revision_id": "2858aa99-9501-4f96-82e5-9647b968ed66",
 		"type": "organization",
 		"id": "bd2cdd5a-4d65-46c0-9937-c8381175f104",

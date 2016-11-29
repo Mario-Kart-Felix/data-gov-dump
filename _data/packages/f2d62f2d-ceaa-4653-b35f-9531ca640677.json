@@ -37,7 +37,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2015-09-26T20:41:11.979050",
-		"url": "ftp:\/\/sidads.colorado.edu\/pub\/DATASETS\/NOAA\/G10006\/",
+		"url": "ftp://sidads.colorado.edu/pub/DATASETS/NOAA/G10006/",
 		"webstore_url": null,
 		"resource_locator_function": "function",
 		"position": 0,
@@ -67,7 +67,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2015-09-26T20:41:11.979073",
-		"url": "http:\/\/nsidc.org\/data\/docs\/noaa\/g10006-unified-sea-ice\/",
+		"url": "http://nsidc.org/data/docs/noaa/g10006-unified-sea-ice/",
 		"webstore_url": null,
 		"resource_locator_function": "function",
 		"position": 1,
@@ -85,7 +85,7 @@
 		"last_modified": null,
 		"hash": "",
 		"description": "",
-		"format": "application\/vnd.lotus-organizer",
+		"format": "application/vnd.lotus-organizer",
 		"tracking_summary": {
 			"total": 85,
 			"recent": 4
@@ -97,7 +97,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2015-09-26T20:41:11.979081",
-		"url": "http:\/\/nsidc.org",
+		"url": "http://nsidc.org",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 2,
@@ -127,7 +127,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2015-09-26T20:41:11.979090",
-		"url": "http:\/\/nsidc.org\/noaa\/",
+		"url": "http://nsidc.org/noaa/",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 3,
@@ -145,7 +145,7 @@
 		"last_modified": null,
 		"hash": "",
 		"description": "",
-		"format": "application\/vnd.lotus-organizer",
+		"format": "application/vnd.lotus-organizer",
 		"tracking_summary": {
 			"total": 85,
 			"recent": 4
@@ -157,7 +157,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2015-09-26T20:41:11.979098",
-		"url": "http:\/\/nsidc.org",
+		"url": "http://nsidc.org",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 4,
@@ -190,7 +190,7 @@
 	"name": "unified-sea-ice-thickness-climate-data-record-collection-spanning-1947-2012",
 	"isopen": false,
 	"url": null,
-	"notes": "\nThe Unified Sea Ice Thickness Climate Data Record is the result of a concerted effort to collect as many observations as possible of Arctic sea-ice draft, freeboard, and thickness and to format them consistently with clear documentation, allowing the scientific community to better utilize what is now a considerable body of observations. The Unified Sea Ice Thickness Climate Data Record includes data from moored and submarine-based upward looking sonar (ULS) instruments, airborne electromagnetic (EM) induction instruments, satellite laser altimeters (ICESat), and airborne laser altimeters (IceBridge). These instruments offer adequate sampling, starting in 1975, to establish the mean Arctic sea-ice thickness and the sea-ice thickness distribution at scales generally appropriate for change detection and climate model validation. The Unified Sea Ice Thickness Climate Data Record consists of 15 different data sets. Each data set consists of a Summary file and a Distribution file. The Unified Sea Ice Thickness Climate Data Record does not currently contain Antarctic sea-ice data but is open to accepting such data.\n",
+	"notes": "nThe Unified Sea Ice Thickness Climate Data Record is the result of a concerted effort to collect as many observations as possible of Arctic sea-ice draft, freeboard, and thickness and to format them consistently with clear documentation, allowing the scientific community to better utilize what is now a considerable body of observations. The Unified Sea Ice Thickness Climate Data Record includes data from moored and submarine-based upward looking sonar (ULS) instruments, airborne electromagnetic (EM) induction instruments, satellite laser altimeters (ICESat), and airborne laser altimeters (IceBridge). These instruments offer adequate sampling, starting in 1975, to establish the mean Arctic sea-ice thickness and the sea-ice thickness distribution at scales generally appropriate for change detection and climate model validation. The Unified Sea Ice Thickness Climate Data Record consists of 15 different data sets. Each data set consists of a Summary file and a Distribution file. The Unified Sea Ice Thickness Climate Data Record does not currently contain Antarctic sea-ice data but is open to accepting such data.n",
 	"license_title": null,
 	"extras": [{
 		"key": "bbox-east-long",
@@ -222,7 +222,7 @@
 	},
 	{
 		"key": "__category_tag_aa0c01c9-d292-4dc1-8fec-b10c1bb629a9",
-		"value": "[\"Arctic\",\"Arctic Ocean, Sea Ice and Coasts\"]"
+		"value": "["Arctic","Arctic Ocean, Sea Ice and Coasts"]"
 	},
 	{
 		"key": "spatial-reference-system",
@@ -230,7 +230,7 @@
 	},
 	{
 		"key": "spatial",
-		"value": "{\"type\": \"Polygon\", \"coordinates\": [[[-180.0, 60.0], [180.0, 60.0], [180.0, 90.0], [-180.0, 90.0], [-180.0, 60.0]]]}"
+		"value": "{"type": "Polygon", "coordinates": [[[-180.0, 60.0], [180.0, 60.0], [180.0, 90.0], [-180.0, 90.0], [-180.0, 60.0]]]}"
 	},
 	{
 		"key": "progress",
@@ -238,7 +238,7 @@
 	},
 	{
 		"key": "access_constraints",
-		"value": "[\"Access Constraints : none\", \"Use Constraints : none\"]"
+		"value": "["Access Constraints : none", "Use Constraints : none"]"
 	},
 	{
 		"key": "temporal-extent-begin",
@@ -258,7 +258,7 @@
 	},
 	{
 		"key": "dataset-reference-date",
-		"value": "[{\"type\": \"publication\", \"value\": \"2013-11-13\"}]"
+		"value": "[{"type": "publication", "value": "2013-11-13"}]"
 	},
 	{
 		"key": "frequency-of-update",
@@ -274,7 +274,7 @@
 	},
 	{
 		"key": "responsible-party",
-		"value": "[{\"name\": \"University of Washington\", \"roles\": [\"principalInvestigator\"]}, {\"name\": \"National Snow and Ice Data Center\", \"roles\": [\"pointOfContact\"]}]"
+		"value": "[{"name": "University of Washington", "roles": ["principalInvestigator"]}, {"name": "National Snow and Ice Data Center", "roles": ["pointOfContact"]}]"
 	},
 	{
 		"key": "temporal-extent-end",
@@ -290,7 +290,7 @@
 	},
 	{
 		"package_id": "f2d62f2d-ceaa-4653-b35f-9531ca640677",
-		"value": "cryosphere, beaufort sea, oceans, ice depth\/thickness, ocean, arctic ocean, chukchi sea, sea ice, ice draft, earth science",
+		"value": "cryosphere, beaufort sea, oceans, ice depth/thickness, ocean, arctic ocean, chukchi sea, sea ice, ice draft, earth science",
 		"revision_timestamp": "2015-09-27T00:41:11.936536",
 		"state": "active",
 		"key": "tags",
@@ -320,7 +320,7 @@
 		"revision_timestamp": "2013-03-25T23:05:12.923863",
 		"is_organization": true,
 		"state": "active",
-		"image_url": "https:\/\/fortress.wa.gov\/dfw\/score\/score\/images\/noaa_logo.png",
+		"image_url": "https://fortress.wa.gov/dfw/score/score/images/noaa_logo.png",
 		"revision_id": "c6d43080-22e1-405e-a83d-f2a512d9e867",
 		"type": "organization",
 		"id": "e811f0b4-451f-4896-9e8f-fc6802837819",

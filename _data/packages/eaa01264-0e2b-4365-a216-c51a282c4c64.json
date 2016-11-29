@@ -36,7 +36,7 @@
 		"cache_url": null,
 		"name": "TGRSHP (compressed)",
 		"created": "2016-03-31T19:57:20.501710",
-		"url": "http:\/\/www.census.gov\/geo\/www\/tiger",
+		"url": "http://www.census.gov/geo/www/tiger",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 0,
@@ -56,7 +56,7 @@
 	"name": "r2-ne-state-level-2006-2010-acs-language-summary",
 	"isopen": false,
 	"url": null,
-	"notes": "The TIGER\/Line Files are shapefiles and related database files (.dbf) that are an extract of selected geographic and cartographic information from the U.S. Census Bureau's Master Address File \/ Topologically Integrated Geographic Encoding and Referencing (MAF\/TIGER) Database (MTDB). The MTDB represents a seamless national file with no overlaps or gaps between parts, however, each TIGER\/Line File is designed to stand alone as an independent data set, or they can be combined to cover the entire nation. States and equivalent entities are the primary governmental divisions of the United States. In addition to the fifty States, the Census Bureau treats the District of Columbia, Puerto Rico, and each of the Island Areas (American Samoa, the Commonwealth of the Northern Mariana Islands, Guam, and the U.S. Virgin Islands) as the statistical equivalents of States for the purpose of data presentation.<br \/><br \/> This table contains data on language ability and linguistic isolation from the American Community Survey 2006-2010 database for states. Linguistic isolation is defined as no one 14 and over speaks English only or speaks English \"very well\". The American Community Survey (ACS) is a household survey conducted by the U.S. Census Bureau that currently has an annual sample size of about 3.5 million addresses. ACS estimates provides communities with the current information they need to plan investments and services. Information from the survey generates estimates that help determine how more than $400 billion in federal and state funds are distributed annually. Each year the survey produces data that cover the periods of 1-year, 3-year, and 5-year estimates for geographic areas in the United States and Puerto Rico, ranging from neighborhoods to Congressional districts to the entire nation. This table also has a companion table (Same table name with MOE Suffix) with the margin of error (MOE) values for each estimated element. MOE is expressed as a measure value for each estimated element. So a value of 25 and an MOE of 5 means 25 +\/- 5 (or statistical certainty between 20 and 30). There are also special cases of MOE. An MOE of -1 means the associated estimates do not have a measured error. An MOE of 0 means that error calculation is not appropriate for the associated value. An MOE of 109 is set whenever an estimate value is 0. The MOEs of aggregated elements and percentages must be calculated. This process means using standard error calculations as described in \"American Community Survey Multiyear Accuracy of the Data (3-year 2008-2010 and 5-year 2006-2010)\". Also, following Census guidelines, aggregated MOEs do not use more than 1 0-element MOE (109) to prevent over estimation of the error. Due to the complexity of the calculations, some percentage MOEs cannot be calculated (these are set to null in the summary-level MOE tables).<br \/><br \/> The name for table 'ACS10LANSTMOE' was added as a prefix to all field names imported from that table. Be sure to turn off 'Show Field Aliases' to see complete field names in the Attribute Table of this feature layer. This can be done in the 'Table Options' drop-down menu in the Attribute Table or with key sequence '[CTRL]+[SHIFT]+N'. Due to database restrictions, the prefix may have been abbreviated if the field name exceded the maximum allowed characters.",
+	"notes": "The TIGER/Line Files are shapefiles and related database files (.dbf) that are an extract of selected geographic and cartographic information from the U.S. Census Bureau's Master Address File / Topologically Integrated Geographic Encoding and Referencing (MAF/TIGER) Database (MTDB). The MTDB represents a seamless national file with no overlaps or gaps between parts, however, each TIGER/Line File is designed to stand alone as an independent data set, or they can be combined to cover the entire nation. States and equivalent entities are the primary governmental divisions of the United States. In addition to the fifty States, the Census Bureau treats the District of Columbia, Puerto Rico, and each of the Island Areas (American Samoa, the Commonwealth of the Northern Mariana Islands, Guam, and the U.S. Virgin Islands) as the statistical equivalents of States for the purpose of data presentation.<br /><br /> This table contains data on language ability and linguistic isolation from the American Community Survey 2006-2010 database for states. Linguistic isolation is defined as no one 14 and over speaks English only or speaks English "very well". The American Community Survey (ACS) is a household survey conducted by the U.S. Census Bureau that currently has an annual sample size of about 3.5 million addresses. ACS estimates provides communities with the current information they need to plan investments and services. Information from the survey generates estimates that help determine how more than $400 billion in federal and state funds are distributed annually. Each year the survey produces data that cover the periods of 1-year, 3-year, and 5-year estimates for geographic areas in the United States and Puerto Rico, ranging from neighborhoods to Congressional districts to the entire nation. This table also has a companion table (Same table name with MOE Suffix) with the margin of error (MOE) values for each estimated element. MOE is expressed as a measure value for each estimated element. So a value of 25 and an MOE of 5 means 25 +/- 5 (or statistical certainty between 20 and 30). There are also special cases of MOE. An MOE of -1 means the associated estimates do not have a measured error. An MOE of 0 means that error calculation is not appropriate for the associated value. An MOE of 109 is set whenever an estimate value is 0. The MOEs of aggregated elements and percentages must be calculated. This process means using standard error calculations as described in "American Community Survey Multiyear Accuracy of the Data (3-year 2008-2010 and 5-year 2006-2010)". Also, following Census guidelines, aggregated MOEs do not use more than 1 0-element MOE (109) to prevent over estimation of the error. Due to the complexity of the calculations, some percentage MOEs cannot be calculated (these are set to null in the summary-level MOE tables).<br /><br /> The name for table 'ACS10LANSTMOE' was added as a prefix to all field names imported from that table. Be sure to turn off 'Show Field Aliases' to see complete field names in the Attribute Table of this feature layer. This can be done in the 'Table Options' drop-down menu in the Attribute Table or with key sequence '[CTRL]+[SHIFT]+N'. Due to database restrictions, the prefix may have been abbreviated if the field name exceded the maximum allowed characters.",
 	"license_title": null,
 	"extras": [{
 		"key": "bbox-east-long",
@@ -92,7 +92,7 @@
 	},
 	{
 		"key": "spatial",
-		"value": "{\"type\": \"Polygon\", \"coordinates\": [[[-179.231086, 17.831509], [179.859681, 17.831509], [179.859681, 71.441059], [-179.231086, 71.441059], [-179.231086, 17.831509]]]}"
+		"value": "{"type": "Polygon", "coordinates": [[[-179.231086, 17.831509], [179.859681, 17.831509], [179.859681, 71.441059], [-179.231086, 71.441059], [-179.231086, 17.831509]]]}"
 	},
 	{
 		"key": "progress",
@@ -100,7 +100,7 @@
 	},
 	{
 		"key": "access_constraints",
-		"value": "[\"Use Constraints: The TIGER\/Line Shapefile products are not copyrighted however TIGER\/Line and Census TIGER are registered trademarks of the U.S. Census Bureau. These products are free to use in a product or publication, however acknowledgement must be given to the U.S. Census Bureau as the source. The boundary information in the TIGER\/Line Shapefiles are for statistical data collection and tabulation purposes only; their depiction and designation for statistical purposes does not constitute a determination of jurisdictional authority or rights of ownership or entitlement and they are not legal land descriptions.Coordinates in the TIGER\/Line shapefiles have six implied decimal places, but the positional accuracy of these coordinates is not as great as the six decimal places suggest.\", \"Access Constraints: None\"]"
+		"value": "["Use Constraints: The TIGER/Line Shapefile products are not copyrighted however TIGER/Line and Census TIGER are registered trademarks of the U.S. Census Bureau. These products are free to use in a product or publication, however acknowledgement must be given to the U.S. Census Bureau as the source. The boundary information in the TIGER/Line Shapefiles are for statistical data collection and tabulation purposes only; their depiction and designation for statistical purposes does not constitute a determination of jurisdictional authority or rights of ownership or entitlement and they are not legal land descriptions.Coordinates in the TIGER/Line shapefiles have six implied decimal places, but the positional accuracy of these coordinates is not as great as the six decimal places suggest.", "Access Constraints: None"]"
 	},
 	{
 		"key": "temporal-extent-begin",
@@ -108,7 +108,7 @@
 	},
 	{
 		"key": "licence_url",
-		"value": "https:\/\/edg.epa.gov\/EPA_Data_License.htm"
+		"value": "https://edg.epa.gov/EPA_Data_License.htm"
 	},
 	{
 		"key": "contact-email",
@@ -124,15 +124,15 @@
 	},
 	{
 		"key": "dataset-reference-date",
-		"value": "[{\"type\": \"publication\", \"value\": \"2012-05-17\"}]"
+		"value": "[{"type": "publication", "value": "2012-05-17"}]"
 	},
 	{
 		"key": "frequency-of-update",
-		"value": "TIGER\/LINE SHAPEFILES ARE EXTRACTED FROM THE CENSUS MAF\/TIGER DATABASE. NO CHANGES OR UPDATES WILL BE MADE TO THIS VERSION OF THE TIGER\/LINE SHAPEFILES. FUTURE RELEASES OF TIGER\/LINE SHAPEFILES WILL REFLECT UPDATES MADE TO THE CENSUS MAF\/TIGER DATABASE."
+		"value": "TIGER/LINE SHAPEFILES ARE EXTRACTED FROM THE CENSUS MAF/TIGER DATABASE. NO CHANGES OR UPDATES WILL BE MADE TO THIS VERSION OF THE TIGER/LINE SHAPEFILES. FUTURE RELEASES OF TIGER/LINE SHAPEFILES WILL REFLECT UPDATES MADE TO THE CENSUS MAF/TIGER DATABASE."
 	},
 	{
 		"key": "licence",
-		"value": "[\"https:\/\/edg.epa.gov\/EPA_Data_License.htm\"]"
+		"value": "["https://edg.epa.gov/EPA_Data_License.htm"]"
 	},
 	{
 		"key": "metadata_type",
@@ -140,7 +140,7 @@
 	},
 	{
 		"key": "responsible-party",
-		"value": "[{\"name\": \"U.S. Environmental Protection Agency, Region 2, GIS Team\", \"roles\": [\"pointOfContact\"]}]"
+		"value": "[{"name": "U.S. Environmental Protection Agency, Region 2, GIS Team", "roles": ["pointOfContact"]}]"
 	},
 	{
 		"key": "temporal-extent-end",
@@ -186,7 +186,7 @@
 		"revision_timestamp": "2014-01-16T18:58:42.895981",
 		"is_organization": true,
 		"state": "active",
-		"image_url": "http:\/\/edg.epa.gov\/EPALogo.svg",
+		"image_url": "http://edg.epa.gov/EPALogo.svg",
 		"revision_id": "f0e4b475-7424-4ce0-9a22-412e7e595154",
 		"type": "organization",
 		"id": "6d90e48d-3076-4327-b2f4-c33919f374d5",

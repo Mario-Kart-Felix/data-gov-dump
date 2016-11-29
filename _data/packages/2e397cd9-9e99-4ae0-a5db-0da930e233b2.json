@@ -37,7 +37,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2015-09-26T20:31:39.736443",
-		"url": "http:\/\/coastalscience.noaa.gov\/projects\/detail?key=33",
+		"url": "http://coastalscience.noaa.gov/projects/detail?key=33",
 		"webstore_url": null,
 		"resource_locator_function": "information",
 		"position": 0,
@@ -67,7 +67,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2015-09-26T20:31:39.736467",
-		"url": "http:\/\/www.coris.noaa.gov\/metadata\/records\/ISO\/html\/pca3_steer_resample_p3m_iso.html",
+		"url": "http://www.coris.noaa.gov/metadata/records/ISO/html/pca3_steer_resample_p3m_iso.html",
 		"webstore_url": null,
 		"resource_locator_function": "information",
 		"position": 1,
@@ -97,7 +97,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2015-09-26T20:31:39.736476",
-		"url": "http:\/\/coastalscience.noaa.gov\/projects\/detail?key=33",
+		"url": "http://coastalscience.noaa.gov/projects/detail?key=33",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 2,
@@ -127,7 +127,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2015-09-26T20:31:39.736484",
-		"url": "http:\/\/coastalscience.noaa.gov\/projects\/detail?key=33",
+		"url": "http://coastalscience.noaa.gov/projects/detail?key=33",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 3,
@@ -147,7 +147,7 @@
 	"name": "principal-component-surface-2011-for-st-thomas-east-end-reserve-st-thomas",
 	"isopen": false,
 	"url": null,
-	"notes": "This image represents a 0.3x0.3 meter principal component analysis (PCA) surface for areas the St. Thomas East End Reserve (STEER) in the U.S. Virgin Islands (USVI). It was created by integrating eight topographic complexity surfaces (mean depth, standard deviation of depth, curvature, plan curvature, profile curvature, rugosity, slope, and slope of slope). The eight complexity surfaces were rendered, stacked and exported to create one image with several different bands (each band representing a specific complexity surface). This stacked image was transformed into its first three principal components using the \"Principal Components Analysis\" function in ENVI 5.0. The transformation reduced the dimensionality of the dataset by removing information that correlated among the different bands (i.e., complexity surfaces). The resulting PCA GeoTIFF was created to aid in the classification of benthic habitat inside the STEER.The original bathymetric surface used to derive the tographic complexity surfaces and PCA was collected by Fugro LADS and funded by the National Oceanic &amp; Atmospheric Administration (NOAA). Bathymetry and reflectivity data were acquired between 1\/29\/2011 - 2\/28\/2011using a LADS (Laser Airborne Depth Sounder) Mark II Airborne System from altitudes between 1,200 and 2,200ft at ground speeds between 140 and 175 knots. The 900 Hertz Nd: YAG (neodymium-doped yttrium aluminum garnet) laser (1064 nm) acquired 3x3 meter spot spacing and 200% seabed coverage. Depths between 3 and 40 m were surveyed, producing a 3x3 m bathymetry and 3x3 m reflectivity surface. These surfaces were resampled to 0.3x0.3 m to match the spatial resolution of the orthophoto mosaic. Environmental factors such as wind strength and direction, cloud cover, water clarity and depth influenced the area of data acquisition on a daily basis. The data was processed using the LADS Mark II Ground System and data visualization, quality control and final products were created using CARIS HIPS and SIPS and CARIS BASE Editor. All users should individually evaluate the suitability of this data according to their own needs and standards.",
+	"notes": "This image represents a 0.3x0.3 meter principal component analysis (PCA) surface for areas the St. Thomas East End Reserve (STEER) in the U.S. Virgin Islands (USVI). It was created by integrating eight topographic complexity surfaces (mean depth, standard deviation of depth, curvature, plan curvature, profile curvature, rugosity, slope, and slope of slope). The eight complexity surfaces were rendered, stacked and exported to create one image with several different bands (each band representing a specific complexity surface). This stacked image was transformed into its first three principal components using the "Principal Components Analysis" function in ENVI 5.0. The transformation reduced the dimensionality of the dataset by removing information that correlated among the different bands (i.e., complexity surfaces). The resulting PCA GeoTIFF was created to aid in the classification of benthic habitat inside the STEER.The original bathymetric surface used to derive the tographic complexity surfaces and PCA was collected by Fugro LADS and funded by the National Oceanic &amp; Atmospheric Administration (NOAA). Bathymetry and reflectivity data were acquired between 1/29/2011 - 2/28/2011using a LADS (Laser Airborne Depth Sounder) Mark II Airborne System from altitudes between 1,200 and 2,200ft at ground speeds between 140 and 175 knots. The 900 Hertz Nd: YAG (neodymium-doped yttrium aluminum garnet) laser (1064 nm) acquired 3x3 meter spot spacing and 200% seabed coverage. Depths between 3 and 40 m were surveyed, producing a 3x3 m bathymetry and 3x3 m reflectivity surface. These surfaces were resampled to 0.3x0.3 m to match the spatial resolution of the orthophoto mosaic. Environmental factors such as wind strength and direction, cloud cover, water clarity and depth influenced the area of data acquisition on a daily basis. The data was processed using the LADS Mark II Ground System and data visualization, quality control and final products were created using CARIS HIPS and SIPS and CARIS BASE Editor. All users should individually evaluate the suitability of this data according to their own needs and standards.",
 	"license_title": null,
 	"extras": [{
 		"key": "bbox-east-long",
@@ -183,7 +183,7 @@
 	},
 	{
 		"key": "spatial",
-		"value": "{\"type\": \"Polygon\", \"coordinates\": [[[-64.742406, 18.281614], [-64.634725, 18.281614], [-64.634725, 18.368585], [-64.742406, 18.368585], [-64.742406, 18.281614]]]}"
+		"value": "{"type": "Polygon", "coordinates": [[[-64.742406, 18.281614], [-64.634725, 18.281614], [-64.634725, 18.368585], [-64.742406, 18.368585], [-64.742406, 18.281614]]]}"
 	},
 	{
 		"key": "progress",
@@ -211,7 +211,7 @@
 	},
 	{
 		"key": "dataset-reference-date",
-		"value": "[{\"type\": \"publication\", \"value\": \"2013-11-30\"}]"
+		"value": "[{"type": "publication", "value": "2013-11-30"}]"
 	},
 	{
 		"key": "frequency-of-update",
@@ -219,7 +219,7 @@
 	},
 	{
 		"key": "licence",
-		"value": "[\"NOT TO BE USED FOR NAVIGATION. Please cite the National Oceanic &amp; Atmospheric Administration (NOAA), National Centers for Coastal Ocean Science (NCCOS), Center for Coastal Monitoring and Assessment (CCMA), Biogeography Branch (BB) in any use of this data.\"]"
+		"value": "["NOT TO BE USED FOR NAVIGATION. Please cite the National Oceanic &amp; Atmospheric Administration (NOAA), National Centers for Coastal Ocean Science (NCCOS), Center for Coastal Monitoring and Assessment (CCMA), Biogeography Branch (BB) in any use of this data."]"
 	},
 	{
 		"key": "metadata_type",
@@ -227,7 +227,7 @@
 	},
 	{
 		"key": "responsible-party",
-		"value": "[{\"name\": \"National Oceanic & Atmospheric Administration, National Centers For Coastal and Ocean Science, Center for Coastal Monitoring and Assessment\", \"roles\": [\"originator\"]}]"
+		"value": "[{"name": "National Oceanic & Atmospheric Administration, National Centers For Coastal and Ocean Science, Center for Coastal Monitoring and Assessment", "roles": ["originator"]}]"
 	},
 	{
 		"key": "temporal-extent-end",
@@ -243,7 +243,7 @@
 	},
 	{
 		"package_id": "2e397cd9-9e99-4ae0-a5db-0da930e233b2",
-		"value": "great st. james island (18n064w0060), united states of america, downloadable data, zoology, u. s. virgin islands, earth science, geographic information, st. thomas (18n064w0033), cow pet bay (18n064w0056), country\/territory, lidar, virgin islands, little st. james island (18n064w0059), st. thomas, caribbean sea, january 29, 2011 - february 28, 2011, aircraft, ocean basin, nazareth bay (18n064w0054), cow and calf rocks (18n064w0057), atlantic ocean, remote sensing, biosphere, leeward islands, reef monitoring and assessment, corals",
+		"value": "great st. james island (18n064w0060), united states of america, downloadable data, zoology, u. s. virgin islands, earth science, geographic information, st. thomas (18n064w0033), cow pet bay (18n064w0056), country/territory, lidar, virgin islands, little st. james island (18n064w0059), st. thomas, caribbean sea, january 29, 2011 - february 28, 2011, aircraft, ocean basin, nazareth bay (18n064w0054), cow and calf rocks (18n064w0057), atlantic ocean, remote sensing, biosphere, leeward islands, reef monitoring and assessment, corals",
 		"revision_timestamp": "2015-09-27T00:31:39.690673",
 		"state": "active",
 		"key": "tags",
@@ -273,7 +273,7 @@
 		"revision_timestamp": "2013-03-25T23:05:12.923863",
 		"is_organization": true,
 		"state": "active",
-		"image_url": "https:\/\/fortress.wa.gov\/dfw\/score\/score\/images\/noaa_logo.png",
+		"image_url": "https://fortress.wa.gov/dfw/score/score/images/noaa_logo.png",
 		"revision_id": "c6d43080-22e1-405e-a83d-f2a512d9e867",
 		"type": "organization",
 		"id": "e811f0b4-451f-4896-9e8f-fc6802837819",

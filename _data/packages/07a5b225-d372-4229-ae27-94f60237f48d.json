@@ -36,7 +36,7 @@
 		"cache_url": null,
 		"name": "Web Accessible Folder of LAS Files",
 		"created": "2016-07-15T21:34:36.092017",
-		"url": "http:\/\/cloud.insideidaho.org\/data\/epscor\/stanley\/lidar\/pointCloud\/",
+		"url": "http://cloud.insideidaho.org/data/epscor/stanley/lidar/pointCloud/",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 0,
@@ -65,7 +65,7 @@
 		"cache_url": null,
 		"name": "View Color Shaded Relief Mosaic in an Online Web Map",
 		"created": "2016-07-15T21:34:36.092048",
-		"url": "http:\/\/cloud.insideidaho.org\/arcgis\/rest\/services\/elevation\/be_2m_stanleyStudyArea\/ImageServer?f=jsapi",
+		"url": "http://cloud.insideidaho.org/arcgis/rest/services/elevation/be_2m_stanleyStudyArea/ImageServer?f=jsapi",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 1,
@@ -94,7 +94,7 @@
 		"cache_url": null,
 		"name": "View Color Shaded Relief Mosaic in ArcMap",
 		"created": "2016-07-15T21:34:36.092060",
-		"url": "http:\/\/cloud.insideidaho.org\/arcgis\/rest\/services\/elevation\/be_2m_stanleyStudyArea\/ImageServer?f=lyr&v=9.3",
+		"url": "http://cloud.insideidaho.org/arcgis/rest/services/elevation/be_2m_stanleyStudyArea/ImageServer?f=lyr&v=9.3",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 2,
@@ -123,7 +123,7 @@
 		"cache_url": null,
 		"name": "View OGC Web Map Service (WMS) Description Information",
 		"created": "2016-07-15T21:34:36.092068",
-		"url": "http:\/\/cloud.insideidaho.org\/arcgis\/services\/elevation\/be_2m_stanleyStudyArea\/ImageServer\/WMSServer?request=GetCapabilities&service=WMS",
+		"url": "http://cloud.insideidaho.org/arcgis/services/elevation/be_2m_stanleyStudyArea/ImageServer/WMSServer?request=GetCapabilities&service=WMS",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 3,
@@ -152,7 +152,7 @@
 		"cache_url": null,
 		"name": "View OGC Web Coverage Service (WCS) Description Information",
 		"created": "2016-07-15T21:34:36.092075",
-		"url": "http:\/\/cloud.insideidaho.org\/arcgis\/services\/elevation\/be_2m_stanleyStudyArea\/ImageServer\/WCSServer?request=GetCapabilities&service=WCS",
+		"url": "http://cloud.insideidaho.org/arcgis/services/elevation/be_2m_stanleyStudyArea/ImageServer/WCSServer?request=GetCapabilities&service=WCS",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 4,
@@ -176,7 +176,7 @@
 	"license_title": null,
 	"extras": [{
 		"key": "responsible-party",
-		"value": "[{\"name\": \"University of Idaho\", \"roles\": [\"pointOfContact\"]}]"
+		"value": "[{"name": "University of Idaho", "roles": ["pointOfContact"]}]"
 	},
 	{
 		"key": "contact-email",
@@ -196,7 +196,7 @@
 	},
 	{
 		"key": "dataset-reference-date",
-		"value": "[{\"type\": \"publication\", \"value\": \"\"}]"
+		"value": "[{"type": "publication", "value": ""}]"
 	},
 	{
 		"key": "resource-type",
@@ -224,7 +224,7 @@
 	},
 	{
 		"key": "licence",
-		"value": "[\" \"]"
+		"value": "[" "]"
 	},
 	{
 		"key": "metadata_type",
@@ -236,7 +236,7 @@
 	},
 	{
 		"key": "spatial",
-		"value": "{\"type\": \"Polygon\", \"coordinates\": [[[-115.187518, 44.249121], [-115.003122, 44.249121], [-115.003122, 44.370205], [-115.187518, 44.370205], [-115.187518, 44.249121]]]}"
+		"value": "{"type": "Polygon", "coordinates": [[[-115.187518, 44.249121], [-115.003122, 44.249121], [-115.003122, 44.370205], [-115.187518, 44.370205], [-115.187518, 44.249121]]]}"
 	},
 	{
 		"key": "guid",
@@ -248,7 +248,7 @@
 	},
 	{
 		"key": "access_constraints",
-		"value": "[\"Use Constraints: Acceptable uses of data provided by Idaho EPSCoR include any academic, research, educational, governmental, recreational, or other not-for-profit activities. Any use of data provided by the Idaho EPSCoR must acknowledge Idaho EPSCoR and the funding source(s) that contributed to the collection of the data. Users are expected to inform the Idaho EPSCoR Office and the PI(s) responsible for the data of any work or publications based on data provided.\", \"Access Constraints: Data will be provided to all who agree to appropriately acknowledge the National Science Foundation (NSF), Idaho EPSCoR and the individual investigators responsible for the data set. By downloading these data and using them to produce further analysis and\/or products, users agree to appropriately acknowledge the National Science Foundation (NSF), Idaho EPSCoR and the individual investigators responsible for the data set.\"]"
+		"value": "["Use Constraints: Acceptable uses of data provided by Idaho EPSCoR include any academic, research, educational, governmental, recreational, or other not-for-profit activities. Any use of data provided by the Idaho EPSCoR must acknowledge Idaho EPSCoR and the funding source(s) that contributed to the collection of the data. Users are expected to inform the Idaho EPSCoR Office and the PI(s) responsible for the data of any work or publications based on data provided.", "Access Constraints: Data will be provided to all who agree to appropriately acknowledge the National Science Foundation (NSF), Idaho EPSCoR and the individual investigators responsible for the data set. By downloading these data and using them to produce further analysis and/or products, users agree to appropriately acknowledge the National Science Foundation (NSF), Idaho EPSCoR and the individual investigators responsible for the data set."]"
 	},
 	{
 		"key": "spatial_harvester",
@@ -290,7 +290,7 @@
 		"revision_timestamp": "2015-01-16T18:28:14.593903",
 		"is_organization": true,
 		"state": "active",
-		"image_url": "http:\/\/upload.wikimedia.org\/wikipedia\/en\/thumb\/4\/44\/University_of_Idaho_seal.svg\/300px-University_of_Idaho_seal.svg.png",
+		"image_url": "http://upload.wikimedia.org/wikipedia/en/thumb/4/44/University_of_Idaho_seal.svg/300px-University_of_Idaho_seal.svg.png",
 		"revision_id": "761955d7-9530-4622-8609-d0b01c78e177",
 		"type": "organization",
 		"id": "75e22a8a-da5f-46f3-93d8-924063a3703d",

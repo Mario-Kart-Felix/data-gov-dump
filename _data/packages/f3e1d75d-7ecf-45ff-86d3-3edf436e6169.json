@@ -36,7 +36,7 @@
 		"cache_url": null,
 		"name": "ARCE",
 		"created": "2016-04-22T22:37:47.996148",
-		"url": "http:\/\/www.vcgi.org\/dataware\/default.cfm?layer=EmergencyE911_RDS",
+		"url": "http://www.vcgi.org/dataware/default.cfm?layer=EmergencyE911_RDS",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 0,
@@ -69,7 +69,7 @@
 	"name": "emergency-rds-archive",
 	"isopen": false,
 	"url": null,
-	"notes": "Archive of past 9-1-1 data releases at rough yearly intervals chosen from availbable datasets from 1999 to present. For a historical overview on the genesis of this layer refer to the VT Road Centerline Data FAQ - http:\/\/www.vcgi.org\/techres\/white_papers\/rdsfaq\/VT_roadcenterline_FAQ.pdf RDS was originally developed using a combination of paper and RC Kodak RF 5000 orthophotos (visual image interpretation and manual digitizing of centerlines) and attributes (RTNO and CLASS) were taken from the official VT Agency of Transportation (VTrans) highway maps. All updates are now done with mobile GPS.",
+	"notes": "Archive of past 9-1-1 data releases at rough yearly intervals chosen from availbable datasets from 1999 to present. For a historical overview on the genesis of this layer refer to the VT Road Centerline Data FAQ - http://www.vcgi.org/techres/white_papers/rdsfaq/VT_roadcenterline_FAQ.pdf RDS was originally developed using a combination of paper and RC Kodak RF 5000 orthophotos (visual image interpretation and manual digitizing of centerlines) and attributes (RTNO and CLASS) were taken from the official VT Agency of Transportation (VTrans) highway maps. All updates are now done with mobile GPS.",
 	"license_title": null,
 	"extras": [{
 		"key": "bbox-east-long",
@@ -97,7 +97,7 @@
 	},
 	{
 		"key": "graphic-preview-file",
-		"value": "http:\/\/maps.vcgi.org:8080\/wmsconnector\/com.esri.wms.Esrimap?servicename=DATAWARE_VCGI&VERSION=1.1.0&request=getmap&BBOX=-72.78108248505863,44.28374275027345,-72.7204763913086,44.360521719023424&SRS=EPSG:4326&LAYERS=EMERGENCY_RDS_LINE&WIDTH=300&HEIGHT=400&FORMAT=image\/gif"
+		"value": "http://maps.vcgi.org:8080/wmsconnector/com.esri.wms.Esrimap?servicename=DATAWARE_VCGI&VERSION=1.1.0&request=getmap&BBOX=-72.78108248505863,44.28374275027345,-72.7204763913086,44.360521719023424&SRS=EPSG:4326&LAYERS=EMERGENCY_RDS_LINE&WIDTH=300&HEIGHT=400&FORMAT=image/gif"
 	},
 	{
 		"key": "metadata-language",
@@ -113,7 +113,7 @@
 	},
 	{
 		"key": "spatial",
-		"value": "{\"type\": \"Polygon\", \"coordinates\": [[[-73.444228, 42.722859], [-71.466476, 42.722859], [-71.466476, 45.018223], [-73.444228, 45.018223], [-73.444228, 42.722859]]]}"
+		"value": "{"type": "Polygon", "coordinates": [[[-73.444228, 42.722859], [-71.466476, 42.722859], [-71.466476, 45.018223], [-73.444228, 45.018223], [-73.444228, 42.722859]]]}"
 	},
 	{
 		"key": "progress",
@@ -121,7 +121,7 @@
 	},
 	{
 		"key": "access_constraints",
-		"value": "[\"Use Constraints: The data was developed and designed for EnhancedThe data was developed and designed for Enhanced 9-1-1 purposes only. The user should understand the nature of Enhanced 9-1-1 data layers where updates are ongoing and all analysis and cartographic output based on this data should be adequately prefaced.\", \"Access Constraints: VCGI and the State of Vermont make no representations of any kind, including but not limited to the warranties of merchantability or fitness for a particular use, nor are any such warranties to be implied with respect to the data.\"]"
+		"value": "["Use Constraints: The data was developed and designed for EnhancedThe data was developed and designed for Enhanced 9-1-1 purposes only. The user should understand the nature of Enhanced 9-1-1 data layers where updates are ongoing and all analysis and cartographic output based on this data should be adequately prefaced.", "Access Constraints: VCGI and the State of Vermont make no representations of any kind, including but not limited to the warranties of merchantability or fitness for a particular use, nor are any such warranties to be implied with respect to the data."]"
 	},
 	{
 		"key": "temporal-extent-begin",
@@ -141,7 +141,7 @@
 	},
 	{
 		"key": "dataset-reference-date",
-		"value": "[{\"type\": \"publication\", \"value\": \"2009-02-02\"}]"
+		"value": "[{"type": "publication", "value": "2009-02-02"}]"
 	},
 	{
 		"key": "graphic-preview-description",
@@ -153,7 +153,7 @@
 	},
 	{
 		"key": "licence",
-		"value": "[\"VCGI and the State of Vermont make no representations of any kind, including but not limited to the warranties of merchantability or fitness for a particular use, nor are any such warranties to be implied with respect to the data.\"]"
+		"value": "["VCGI and the State of Vermont make no representations of any kind, including but not limited to the warranties of merchantability or fitness for a particular use, nor are any such warranties to be implied with respect to the data."]"
 	},
 	{
 		"key": "metadata_type",
@@ -161,7 +161,7 @@
 	},
 	{
 		"key": "responsible-party",
-		"value": "[{\"name\": \"Enhanced 9-1-1 Board\", \"roles\": [\"pointOfContact\"]}]"
+		"value": "[{"name": "Enhanced 9-1-1 Board", "roles": ["pointOfContact"]}]"
 	},
 	{
 		"key": "temporal-extent-end",
@@ -207,7 +207,7 @@
 		"revision_timestamp": "2013-03-27T17:47:03.718032",
 		"is_organization": true,
 		"state": "active",
-		"image_url": "http:\/\/vcgi.vermont.gov\/sites\/all\/themes\/vt_template\/logo.png",
+		"image_url": "http://vcgi.vermont.gov/sites/all/themes/vt_template/logo.png",
 		"revision_id": "c5dfbbb0-f1e0-4db6-b566-e932e1520060",
 		"type": "organization",
 		"id": "0c3a4ebc-9929-4f21-bdd0-76a35d52f57d",

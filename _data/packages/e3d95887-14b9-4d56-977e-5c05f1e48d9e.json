@@ -37,7 +37,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2014-11-19T13:15:25.906435",
-		"url": "http:\/\/volusia.org\/gis",
+		"url": "http://volusia.org/gis",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 0,
@@ -67,7 +67,7 @@
 		"cache_url": null,
 		"name": "XML File",
 		"created": "2014-11-19T13:15:25.906455",
-		"url": "ftp:\/\/74.191.71.194\/GIS\/Metadata\/Brownfields_Areas.xml",
+		"url": "ftp://74.191.71.194/GIS/Metadata/Brownfields_Areas.xml",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 1,
@@ -85,7 +85,7 @@
 		"last_modified": null,
 		"hash": "",
 		"description": "",
-		"format": "application\/vnd.lotus-organizer",
+		"format": "application/vnd.lotus-organizer",
 		"tracking_summary": {
 			"total": 57,
 			"recent": 3
@@ -97,7 +97,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2014-11-19T13:15:25.906463",
-		"url": "http:\/\/www.volusia.org",
+		"url": "http://www.volusia.org",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 2,
@@ -127,7 +127,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2014-11-19T13:15:25.906470",
-		"url": "http:\/\/www.dep.state.fl.us\/gis\/datadir.htm",
+		"url": "http://www.dep.state.fl.us/gis/datadir.htm",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 3,
@@ -149,7 +149,7 @@
 		"revision_timestamp": "2014-09-11T20:27:16.009304",
 		"is_organization": true,
 		"state": "active",
-		"image_url": "http:\/\/www.nsgic.org\/public_resources\/nsgic-logo-b_1321892056.gif",
+		"image_url": "http://www.nsgic.org/public_resources/nsgic-logo-b_1321892056.gif",
 		"revision_id": "979d3df0-d323-4e1e-ac62-d1623b463626",
 		"type": "organization",
 		"id": "b0b4c45b-a8ca-416b-b463-ee90d0a1a3df",
@@ -160,11 +160,11 @@
 	"name": "land-use-and-land-cover-brownfield-areas-in-florida-april-2012",
 	"isopen": false,
 	"url": null,
-	"notes": "This data set contains Brownfield Boundaries. Brownfields are defined by the Florida Department of Environmental Protection (FDEP) as abandoned, idled, or underused industrial and commercial facilities where expansion or redevelopment is complicated by real or perceived environmental contamination. The primary goals of Florida's Brownfields Redevelopment Act (Ch. 97-277, Laws of Florida, codified at ss. 376.77-.85, F.S.) are to reduce health and environmental hazards on existing commercial and industrial sites that are abandoned or underused due to these hazards and create financial and regulatory incentives to encourage redevelopment and voluntary cleanup of contaminated properties. A \"brownfield area\" means a contiguous area of one or more brownfield sites, some of which may not be contaminated, that has been designated as such by a local government resolution. Such areas may include all or portions of community redevelopment areas, enterprise zones, empowerment zones, other such designated economically deprived communities and areas, and Environmental Protection Agency (EPA) designated brownfield pilot projects. This layer provides a polygon representation of the boundaries of these designated Brownfield Areas in Florida. This is an update to the \u00c2\u00a0BROWNFIELD AREAS - April 2012",
+	"notes": "This data set contains Brownfield Boundaries. Brownfields are defined by the Florida Department of Environmental Protection (FDEP) as abandoned, idled, or underused industrial and commercial facilities where expansion or redevelopment is complicated by real or perceived environmental contamination. The primary goals of Florida's Brownfields Redevelopment Act (Ch. 97-277, Laws of Florida, codified at ss. 376.77-.85, F.S.) are to reduce health and environmental hazards on existing commercial and industrial sites that are abandoned or underused due to these hazards and create financial and regulatory incentives to encourage redevelopment and voluntary cleanup of contaminated properties. A "brownfield area" means a contiguous area of one or more brownfield sites, some of which may not be contaminated, that has been designated as such by a local government resolution. Such areas may include all or portions of community redevelopment areas, enterprise zones, empowerment zones, other such designated economically deprived communities and areas, and Environmental Protection Agency (EPA) designated brownfield pilot projects. This layer provides a polygon representation of the boundaries of these designated Brownfield Areas in Florida. This is an update to the u00c2u00a0BROWNFIELD AREAS - April 2012",
 	"owner_org": "b0b4c45b-a8ca-416b-b463-ee90d0a1a3df",
 	"extras": [{
 		"key": "responsible-party",
-		"value": "[{\"name\": \"County of Volusia\", \"roles\": [\"pointOfContact\"]}]"
+		"value": "[{"name": "County of Volusia", "roles": ["pointOfContact"]}]"
 	},
 	{
 		"key": "contact-email",
@@ -184,7 +184,7 @@
 	},
 	{
 		"key": "dataset-reference-date",
-		"value": "[{\"type\": \"publication\", \"value\": \"2001-01-01\"}]"
+		"value": "[{"type": "publication", "value": "2001-01-01"}]"
 	},
 	{
 		"key": "resource-type",
@@ -212,7 +212,7 @@
 	},
 	{
 		"key": "licence",
-		"value": "[\"Although these data have been processed successfully on a computer system by the data steward, no warranty either expressed or implied is made regarding the utility of the data on any system, nor shall this notice generated by the Ramona GIS Inventory System or the act of distribution constitute any such warranty. The data steward may have additional liability information associated with delivery or distribution of this product.\"]"
+		"value": "["Although these data have been processed successfully on a computer system by the data steward, no warranty either expressed or implied is made regarding the utility of the data on any system, nor shall this notice generated by the Ramona GIS Inventory System or the act of distribution constitute any such warranty. The data steward may have additional liability information associated with delivery or distribution of this product."]"
 	},
 	{
 		"key": "metadata_type",
@@ -224,7 +224,7 @@
 	},
 	{
 		"key": "spatial",
-		"value": "{\"type\": \"Polygon\", \"coordinates\": [[[-87.63722992, 24.51832199], [-80.02902222, 24.51832199], [-80.02902222, 31.00210571], [-87.63722992, 31.00210571], [-87.63722992, 24.51832199]]]}"
+		"value": "{"type": "Polygon", "coordinates": [[[-87.63722992, 24.51832199], [-80.02902222, 24.51832199], [-80.02902222, 31.00210571], [-87.63722992, 31.00210571], [-87.63722992, 24.51832199]]]}"
 	},
 	{
 		"key": "guid",
@@ -236,7 +236,7 @@
 	},
 	{
 		"key": "access_constraints",
-		"value": "[\"Use Constraints: FDEP_disclaimer_060608.txt Florida Department of Environmental Protection (FDEP) Data Disclaimer FDEP GIS data is provided as a public service. FDEP makes every effort to provide accurate and complete data. Metadata is provided for all datasets and no data should be used without first reading and understanding the limitations of the data. The Florida Department of Environmental Protection (FDEP) provides NO WARRANTY as to the accuracy of this data or any corresponding attributes or metadata. Data is provided in an as is condition, without warranty of any kind, either expressed or implied, including any assurance that the data is fit for a particular purpose. FDEP shall have no liability, in any case, to the use of provided data (including redistribution and reproduction). Full liability, responsibility and consequence relating to the use of provided data rest with the user. FDEP: Because a variety of sources and methods were used to derive information for this data, the quality of the linework may vary accordingly. This data is intended to be used for general locational representation and should not be considered appropriate for legal and\/or cadastral purposes.\", \"Access Constraints: FDEP: The Brownfields GeoViewer is free, publicly accessible tool for viewing, searching and analyzing geographic data of Brown\"]"
+		"value": "["Use Constraints: FDEP_disclaimer_060608.txt Florida Department of Environmental Protection (FDEP) Data Disclaimer FDEP GIS data is provided as a public service. FDEP makes every effort to provide accurate and complete data. Metadata is provided for all datasets and no data should be used without first reading and understanding the limitations of the data. The Florida Department of Environmental Protection (FDEP) provides NO WARRANTY as to the accuracy of this data or any corresponding attributes or metadata. Data is provided in an as is condition, without warranty of any kind, either expressed or implied, including any assurance that the data is fit for a particular purpose. FDEP shall have no liability, in any case, to the use of provided data (including redistribution and reproduction). Full liability, responsibility and consequence relating to the use of provided data rest with the user. FDEP: Because a variety of sources and methods were used to derive information for this data, the quality of the linework may vary accordingly. This data is intended to be used for general locational representation and should not be considered appropriate for legal and/or cadastral purposes.", "Access Constraints: FDEP: The Brownfields GeoViewer is free, publicly accessible tool for viewing, searching and analyzing geographic data of Brown"]"
 	},
 	{
 		"key": "spatial_harvester",

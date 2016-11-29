@@ -36,7 +36,7 @@
 		"cache_url": null,
 		"name": "Downloadable File",
 		"created": "2013-03-16T02:22:16.346339",
-		"url": "http:\/\/web2.nbmg.unr.edu\/ArcGIS\/services\/NV_data\/NVaqSpringChemistry\/MapServer\/WMSServer?request=GetCapabilities&service=WMS",
+		"url": "http://web2.nbmg.unr.edu/ArcGIS/services/NV_data/NVaqSpringChemistry/MapServer/WMSServer?request=GetCapabilities&service=WMS",
 		"webstore_url": null,
 		"resource_locator_function": "375",
 		"position": 0,
@@ -65,7 +65,7 @@
 		"cache_url": null,
 		"name": "Service Description",
 		"created": "2013-03-16T02:22:16.346357",
-		"url": "http:\/\/web2.nbmg.unr.edu\/ArcGIS\/services\/NV_data\/NVaqSpringChemistry\/MapServer\/WFSServer?request=GetCapabilities&service=WFS",
+		"url": "http://web2.nbmg.unr.edu/ArcGIS/services/NV_data/NVaqSpringChemistry/MapServer/WFSServer?request=GetCapabilities&service=WFS",
 		"webstore_url": null,
 		"resource_locator_function": "381",
 		"position": 1,
@@ -94,7 +94,7 @@
 		"cache_url": null,
 		"name": "Service Description",
 		"created": "2013-03-16T02:22:16.346363",
-		"url": "http:\/\/web2.nbmg.unr.edu\/ArcGIS\/rest\/services\/NV_data\/NVaqSpringChemistry\/MapServer",
+		"url": "http://web2.nbmg.unr.edu/ArcGIS/rest/services/NV_data/NVaqSpringChemistry/MapServer",
 		"webstore_url": null,
 		"resource_locator_function": "381",
 		"position": 2,
@@ -123,7 +123,7 @@
 		"cache_url": null,
 		"name": "Zipped Excel Spreadsheet containing the NV aq Spring Chemistry data",
 		"created": "2013-03-16T02:22:16.346368",
-		"url": "http:\/\/repository.stategeothermaldata.org\/metadata\/record\/9e15e1a59b768b330d029e86dc01c0cd\/file\/nvaqspringchemistry1.9.2.zip",
+		"url": "http://repository.stategeothermaldata.org/metadata/record/9e15e1a59b768b330d029e86dc01c0cd/file/nvaqspringchemistry1.9.2.zip",
 		"webstore_url": null,
 		"resource_locator_function": "375",
 		"position": 3,
@@ -156,11 +156,11 @@
 	"name": "nevada-aqueous-spring-chemistry",
 	"isopen": false,
 	"url": null,
-	"notes": "This dataset contains aqueous chemistry observations compiled by the Nevada Bureau of Mines and Geology, and published as a Web feature service for the National Geothermal Data System. Fields in the Aqueous Chemistry Observation Content Model will become XML elements in interchange documents for WMS simple features provided by a node in the USGIN network. Each feature includes an Analysis Name, label, analysis results and Source. The dataset is spatially referenced to EPSG: 4326 (for interoperability). The data contained in the submitted dataset is available as an Excel Spreadsheet, ESRI service, WMS and WFS service. Link to Aqueous Chemistry Observation Content Model: http:\/\/www.stategeothermaldata.org\/data_delivery\/content_models\/aqueous_chemistry.",
+	"notes": "This dataset contains aqueous chemistry observations compiled by the Nevada Bureau of Mines and Geology, and published as a Web feature service for the National Geothermal Data System. Fields in the Aqueous Chemistry Observation Content Model will become XML elements in interchange documents for WMS simple features provided by a node in the USGIN network. Each feature includes an Analysis Name, label, analysis results and Source. The dataset is spatially referenced to EPSG: 4326 (for interoperability). The data contained in the submitted dataset is available as an Excel Spreadsheet, ESRI service, WMS and WFS service. Link to Aqueous Chemistry Observation Content Model: http://www.stategeothermaldata.org/data_delivery/content_models/aqueous_chemistry.",
 	"license_title": null,
 	"extras": [{
 		"key": "responsible-party",
-		"value": "[{\"name\": \"Arizona Geological Survey\", \"roles\": [\"pointOfContact\"]}]"
+		"value": "[{"name": "Arizona Geological Survey", "roles": ["pointOfContact"]}]"
 	},
 	{
 		"key": "contact-email",
@@ -180,7 +180,7 @@
 	},
 	{
 		"key": "dataset-reference-date",
-		"value": "[{\"type\": \"publication\", \"value\": \"2012-10-17T00:00:00\"}]"
+		"value": "[{"type": "publication", "value": "2012-10-17T00:00:00"}]"
 	},
 	{
 		"key": "resource-type",
@@ -216,7 +216,7 @@
 	},
 	{
 		"key": "spatial",
-		"value": "{\"type\": \"Polygon\", \"coordinates\": [[[-120.407227278, 34.6163319269], [-120.407227278, 42.4407549424], [-113.551758528, 42.4407549424], [-113.551758528, 34.6163319269], [-120.407227278, 34.6163319269]]]}"
+		"value": "{"type": "Polygon", "coordinates": [[[-120.407227278, 34.6163319269], [-120.407227278, 42.4407549424], [-113.551758528, 42.4407549424], [-113.551758528, 34.6163319269], [-120.407227278, 34.6163319269]]]}"
 	},
 	{
 		"key": "guid",
@@ -266,7 +266,7 @@
 		"revision_timestamp": "2013-03-20T21:11:17.592932",
 		"is_organization": true,
 		"state": "active",
-		"image_url": "http:\/\/www.50states.com\/flag\/image\/nunst004.gif",
+		"image_url": "http://www.50states.com/flag/image/nunst004.gif",
 		"revision_id": "61be6428-4398-4199-a336-f3cd1e956f9b",
 		"type": "organization",
 		"id": "f3f6e1d4-64fb-4a2f-b32c-9ac0b76fe4de",

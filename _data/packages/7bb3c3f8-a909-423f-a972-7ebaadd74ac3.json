@@ -36,7 +36,7 @@
 		"cache_url": null,
 		"name": "Shapefile",
 		"created": "2016-03-09T01:28:20.031802",
-		"url": "http:\/\/www.boem.gov\/Oil-and-Gas-Energy-Program\/Mapping-and-Data\/Alaska.aspx",
+		"url": "http://www.boem.gov/Oil-and-Gas-Energy-Program/Mapping-and-Data/Alaska.aspx",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 0,
@@ -66,7 +66,7 @@
 		"cache_url": null,
 		"name": "Zip File",
 		"created": "2016-03-09T01:28:20.031857",
-		"url": "http:\/\/www.boem.gov\/AK-fedstate.zip",
+		"url": "http://www.boem.gov/AK-fedstate.zip",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 1,
@@ -96,7 +96,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2016-03-09T01:28:20.031882",
-		"url": "http:\/\/www.boem.gov\/Oil-and-Gas-Energy-Program\/Mapping-and-Data\/Alaska.aspx",
+		"url": "http://www.boem.gov/Oil-and-Gas-Energy-Program/Mapping-and-Data/Alaska.aspx",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 2,
@@ -126,7 +126,7 @@
 		"cache_url": null,
 		"name": "Esri Rest API Endpoint",
 		"created": "2016-03-09T01:28:20.031901",
-		"url": "http:\/\/gis.boemre.gov\/arcgis\/rest\/services\/BOEM_BSEE\/AK_Layers\/MapServer\/3",
+		"url": "http://gis.boemre.gov/arcgis/rest/services/BOEM_BSEE/AK_Layers/MapServer/3",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 3,
@@ -156,7 +156,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2016-03-09T01:28:20.031918",
-		"url": "http:\/\/www.boem.gov\/Oil-and-Gas-Energy-Program\/Mapping-and-Data\/Alaska.aspx",
+		"url": "http://www.boem.gov/Oil-and-Gas-Energy-Program/Mapping-and-Data/Alaska.aspx",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 4,
@@ -189,7 +189,7 @@
 	"name": "outer-continental-shelf-submerged-lands-act-boundary-alaska-region-nad83",
 	"isopen": false,
 	"url": null,
-	"notes": "This data set contains the Submerged Lands Act (SLA) boundary (also known as State Seaward Boundary (SSB), or Fed State Boundary) in ESRI shapefile format for the BOEM Alaska Region. The SLA boundary defines the seaward limit of a state's submerged lands and the landward boundary of federally managed OCS lands. In the BOEM Alaska Region it is projected 3 nautical miles offshore from the baseline. Further information on the SLA and development of this line from baseline points can be found in OCS Report MMS 99-0006: Boundary Development on the Outer Continental Shelf http:\/\/www.boem.gov\/BOEM-Newsroom\/Library\/Publications\/1999\/99-0006-pdf.aspx. Due to slight differences in process and purpose, NOAA's 3 nautical mile line depicted on its charts may differ in some areas from the SLA boundary depicted on BOEM maps and OPDs and should not be confused with the SLA boundary. Therefore this boundary is the only boundary that should be used to depict state\/federal seperation of jurisdiction for submerged lands. Because GIS projection and topology functions can change or generalize coordinates, these GIS files are considered to be approximate and are NOT an OFFICIAL record for the exact SLA boundary. The Official Protraction Diagrams (OPDs) and Supplemental Official OCS Block Diagrams (SOBDs) serve as the legal definition for offshore boundary coordinates and area descriptions.",
+	"notes": "This data set contains the Submerged Lands Act (SLA) boundary (also known as State Seaward Boundary (SSB), or Fed State Boundary) in ESRI shapefile format for the BOEM Alaska Region. The SLA boundary defines the seaward limit of a state's submerged lands and the landward boundary of federally managed OCS lands. In the BOEM Alaska Region it is projected 3 nautical miles offshore from the baseline. Further information on the SLA and development of this line from baseline points can be found in OCS Report MMS 99-0006: Boundary Development on the Outer Continental Shelf http://www.boem.gov/BOEM-Newsroom/Library/Publications/1999/99-0006-pdf.aspx. Due to slight differences in process and purpose, NOAA's 3 nautical mile line depicted on its charts may differ in some areas from the SLA boundary depicted on BOEM maps and OPDs and should not be confused with the SLA boundary. Therefore this boundary is the only boundary that should be used to depict state/federal seperation of jurisdiction for submerged lands. Because GIS projection and topology functions can change or generalize coordinates, these GIS files are considered to be approximate and are NOT an OFFICIAL record for the exact SLA boundary. The Official Protraction Diagrams (OPDs) and Supplemental Official OCS Block Diagrams (SOBDs) serve as the legal definition for offshore boundary coordinates and area descriptions.",
 	"license_title": null,
 	"extras": [{
 		"key": "bbox-east-long",
@@ -217,7 +217,7 @@
 	},
 	{
 		"key": "graphic-preview-file",
-		"value": "http:\/\/www.boem.gov\/uploadedImages\/BOEM\/Oil_and_Gas_Energy_Program\/Mapping_and_Data\/Alaska\/AK_SLA_BG.jpg"
+		"value": "http://www.boem.gov/uploadedImages/BOEM/Oil_and_Gas_Energy_Program/Mapping_and_Data/Alaska/AK_SLA_BG.jpg"
 	},
 	{
 		"key": "metadata-language",
@@ -233,7 +233,7 @@
 	},
 	{
 		"key": "spatial",
-		"value": "{\"type\": \"Polygon\", \"coordinates\": [[[-171.959349, 52.491191], [-130.651104, 52.491191], [-130.651104, 71.439231], [-171.959349, 71.439231], [-171.959349, 52.491191]]]}"
+		"value": "{"type": "Polygon", "coordinates": [[[-171.959349, 52.491191], [-130.651104, 52.491191], [-130.651104, 71.439231], [-171.959349, 71.439231], [-171.959349, 52.491191]]]}"
 	},
 	{
 		"key": "progress",
@@ -241,7 +241,7 @@
 	},
 	{
 		"key": "access_constraints",
-		"value": "[\"Use Constraints: The data was developed within the U.S. Government; no proprietary rights may be attached to them nor may they be sold to the U.S. Government as part of any procurement of digital data products or services.\", \"Access Constraints: None. The BOEM Offshore Cadastral Data is in the public domain.\"]"
+		"value": "["Use Constraints: The data was developed within the U.S. Government; no proprietary rights may be attached to them nor may they be sold to the U.S. Government as part of any procurement of digital data products or services.", "Access Constraints: None. The BOEM Offshore Cadastral Data is in the public domain."]"
 	},
 	{
 		"key": "temporal-extent-begin",
@@ -261,7 +261,7 @@
 	},
 	{
 		"key": "dataset-reference-date",
-		"value": "[{\"type\": \"publication\", \"value\": \"2008-10-24\"}]"
+		"value": "[{"type": "publication", "value": "2008-10-24"}]"
 	},
 	{
 		"key": "graphic-preview-description",
@@ -273,7 +273,7 @@
 	},
 	{
 		"key": "licence",
-		"value": "[\"As is. No responsibility is assumed for the correctness of this data.\"]"
+		"value": "["As is. No responsibility is assumed for the correctness of this data."]"
 	},
 	{
 		"key": "metadata_type",
@@ -281,7 +281,7 @@
 	},
 	{
 		"key": "responsible-party",
-		"value": "[{\"name\": \"Bureau of Ocean Energy Management, Mapping and Boundary Branch\", \"roles\": [\"pointOfContact\"]}]"
+		"value": "[{"name": "Bureau of Ocean Energy Management, Mapping and Boundary Branch", "roles": ["pointOfContact"]}]"
 	},
 	{
 		"key": "temporal-extent-end",
@@ -297,7 +297,7 @@
 	},
 	{
 		"package_id": "7bb3c3f8-a909-423f-a972-7ebaadd74ac3",
-		"value": "pacific ocean, cadastre, oil and gas, official protraction diagram, opd, state seaward boundary, ssb, beaufort sea, usa, lease blocks, water oceans and coasts theme, chukchi sea, federal state boundary, offshore, bristol bay, supplemental official ocs block diagram, sobd, ngda, submerged lands act (sla) boundary, arctic ocean, national geospatial data asset, alaska, ak, bering sea, gulf of alaska, revenue sharing, limit of \"8(g) zone\", outer continental shelf, ocs, bureau of ocean energy management, boem, bering strait, ocs blocks",
+		"value": "pacific ocean, cadastre, oil and gas, official protraction diagram, opd, state seaward boundary, ssb, beaufort sea, usa, lease blocks, water oceans and coasts theme, chukchi sea, federal state boundary, offshore, bristol bay, supplemental official ocs block diagram, sobd, ngda, submerged lands act (sla) boundary, arctic ocean, national geospatial data asset, alaska, ak, bering sea, gulf of alaska, revenue sharing, limit of "8(g) zone", outer continental shelf, ocs, bureau of ocean energy management, boem, bering strait, ocs blocks",
 		"revision_timestamp": "2015-03-10T17:54:51.877715",
 		"state": "active",
 		"key": "tags",
@@ -327,7 +327,7 @@
 		"revision_timestamp": "2013-03-20T22:26:39.819248",
 		"is_organization": true,
 		"state": "active",
-		"image_url": "http:\/\/www.boem.gov\/images\/boem\/layout\/logo.png",
+		"image_url": "http://www.boem.gov/images/boem/layout/logo.png",
 		"revision_id": "6f2fda4e-48e9-42f6-b1dd-da068900ba24",
 		"type": "organization",
 		"id": "54ed71a6-4861-4dc1-aa78-c5661ba9ab04",

@@ -37,7 +37,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2015-09-26T20:56:48.823178",
-		"url": "ftp:\/\/sidads.colorado.edu\/pub\/DATASETS\/NOAA\/G10007\/",
+		"url": "ftp://sidads.colorado.edu/pub/DATASETS/NOAA/G10007/",
 		"webstore_url": null,
 		"resource_locator_function": "function",
 		"position": 0,
@@ -67,7 +67,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2015-09-26T20:56:48.823214",
-		"url": "http:\/\/nsidc.org\/data\/docs\/noaa\/g10007-dmi-seaice\/",
+		"url": "http://nsidc.org/data/docs/noaa/g10007-dmi-seaice/",
 		"webstore_url": null,
 		"resource_locator_function": "function",
 		"position": 1,
@@ -85,7 +85,7 @@
 		"last_modified": null,
 		"hash": "",
 		"description": "",
-		"format": "application\/vnd.lotus-organizer",
+		"format": "application/vnd.lotus-organizer",
 		"tracking_summary": {
 			"total": 85,
 			"recent": 4
@@ -97,7 +97,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2015-09-26T20:56:48.823223",
-		"url": "http:\/\/nsidc.org",
+		"url": "http://nsidc.org",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 2,
@@ -127,7 +127,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2015-09-26T20:56:48.823231",
-		"url": "http:\/\/nsidc.org\/noaa\/",
+		"url": "http://nsidc.org/noaa/",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 3,
@@ -145,7 +145,7 @@
 		"last_modified": null,
 		"hash": "",
 		"description": "",
-		"format": "application\/vnd.lotus-organizer",
+		"format": "application/vnd.lotus-organizer",
 		"tracking_summary": {
 			"total": 85,
 			"recent": 4
@@ -157,7 +157,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2015-09-26T20:56:48.823239",
-		"url": "http:\/\/nsidc.org",
+		"url": "http://nsidc.org",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 4,
@@ -190,7 +190,7 @@
 	"name": "arctic-sea-ice-concentration-and-extent-from-danish-meteorological-institute-sea-ice-1901-1956",
 	"isopen": false,
 	"url": null,
-	"notes": "\nThis data set provides estimates of Arctic sea ice extent and concentration from 1901 to 1956 created from a collection of historic, hand-drawn sea ice charts from the Danish Meteorological Institute (DMI). These were used to create estimates for each summer month from 1901 to 1956 by manual, subjective interpretation of scanned versions of the charts. These estimates, shown in colored-coded fields, are available as image files in JPEG format and as GIS shapefiles.\n",
+	"notes": "nThis data set provides estimates of Arctic sea ice extent and concentration from 1901 to 1956 created from a collection of historic, hand-drawn sea ice charts from the Danish Meteorological Institute (DMI). These were used to create estimates for each summer month from 1901 to 1956 by manual, subjective interpretation of scanned versions of the charts. These estimates, shown in colored-coded fields, are available as image files in JPEG format and as GIS shapefiles.n",
 	"license_title": null,
 	"extras": [{
 		"key": "bbox-east-long",
@@ -222,7 +222,7 @@
 	},
 	{
 		"key": "__category_tag_aa0c01c9-d292-4dc1-8fec-b10c1bb629a9",
-		"value": "[\"Arctic\",\"Arctic Ocean, Sea Ice and Coasts\"]"
+		"value": "["Arctic","Arctic Ocean, Sea Ice and Coasts"]"
 	},
 	{
 		"key": "spatial-reference-system",
@@ -230,7 +230,7 @@
 	},
 	{
 		"key": "spatial",
-		"value": "{\"type\": \"Polygon\", \"coordinates\": [[[-180.0, 55.0], [180.0, 55.0], [180.0, 90.0], [-180.0, 90.0], [-180.0, 55.0]]]}"
+		"value": "{"type": "Polygon", "coordinates": [[[-180.0, 55.0], [180.0, 55.0], [180.0, 90.0], [-180.0, 90.0], [-180.0, 55.0]]]}"
 	},
 	{
 		"key": "progress",
@@ -238,7 +238,7 @@
 	},
 	{
 		"key": "access_constraints",
-		"value": "[\"Access Constraints : none\", \"Use Constraints : none\"]"
+		"value": "["Access Constraints : none", "Use Constraints : none"]"
 	},
 	{
 		"key": "temporal-extent-begin",
@@ -258,7 +258,7 @@
 	},
 	{
 		"key": "dataset-reference-date",
-		"value": "[{\"type\": \"publication\", \"value\": \"2014-01-31\"}]"
+		"value": "[{"type": "publication", "value": "2014-01-31"}]"
 	},
 	{
 		"key": "frequency-of-update",
@@ -274,7 +274,7 @@
 	},
 	{
 		"key": "responsible-party",
-		"value": "[{\"name\": \"University of Alaska at Fairbanks\", \"roles\": [\"principalInvestigator\"]}, {\"name\": \"University of Colorado at Boulder\", \"roles\": [\"principalInvestigator\"]}, {\"name\": \"National Snow and Ice Data Center\", \"roles\": [\"pointOfContact\", \"principalInvestigator\"]}]"
+		"value": "[{"name": "University of Alaska at Fairbanks", "roles": ["principalInvestigator"]}, {"name": "University of Colorado at Boulder", "roles": ["principalInvestigator"]}, {"name": "National Snow and Ice Data Center", "roles": ["pointOfContact", "principalInvestigator"]}]"
 	},
 	{
 		"key": "temporal-extent-end",
@@ -290,7 +290,7 @@
 	},
 	{
 		"package_id": "ffb30cd1-17f9-411a-8315-23885e4ff014",
-		"value": "oceans, ocean, maps\/charts, arctic ocean, ice extent, sea ice concentration, sea ice, earth science",
+		"value": "oceans, ocean, maps/charts, arctic ocean, ice extent, sea ice concentration, sea ice, earth science",
 		"revision_timestamp": "2015-09-27T00:56:48.775094",
 		"state": "active",
 		"key": "tags",
@@ -320,7 +320,7 @@
 		"revision_timestamp": "2013-03-25T23:05:12.923863",
 		"is_organization": true,
 		"state": "active",
-		"image_url": "https:\/\/fortress.wa.gov\/dfw\/score\/score\/images\/noaa_logo.png",
+		"image_url": "https://fortress.wa.gov/dfw/score/score/images/noaa_logo.png",
 		"revision_id": "c6d43080-22e1-405e-a83d-f2a512d9e867",
 		"type": "organization",
 		"id": "e811f0b4-451f-4896-9e8f-fc6802837819",

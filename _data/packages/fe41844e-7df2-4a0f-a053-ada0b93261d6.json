@@ -37,7 +37,7 @@
 		"cache_url": null,
 		"name": "Esri Rest API Endpoint",
 		"created": "2016-04-27T21:27:32.445773",
-		"url": "https:\/\/map22.epa.gov\/arcgis\/rest\/services\/cimc\/Cleanups_geoplatform\/MapServer\/",
+		"url": "https://map22.epa.gov/arcgis/rest/services/cimc/Cleanups_geoplatform/MapServer/",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 0,
@@ -67,7 +67,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2016-04-27T21:27:32.445795",
-		"url": "https:\/\/www.epa.gov\/cimc",
+		"url": "https://www.epa.gov/cimc",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 1,
@@ -87,11 +87,11 @@
 	"name": "cleanups-in-my-community-cimc-brownfields-properties-national-layer",
 	"isopen": false,
 	"url": null,
-	"notes": "This data layer provides access to Brownfields Properties as part of the CIMC web service, although the data are generally more broadly applicable. Brownfields are real properties, the expansion, redevelopment, or reuse of which may be complicated by the presence or potential presence of a hazardous substance, pollutant, or contaminant. Cleaning up and reinvesting in these properties takes development pressures off of undeveloped, open land, and both improves and protects the environment. CIMC provides information on Brownfields properties for which information is reported back to EPA, as well as areas served by Brownfields grants programs. Brownfields properties may be mapped or listed, and property profiles can be accessed from either maps or lists. There are many properties that meet the definition of a brownfield but are not funded by our program. They may be funded by states, localities, private or non-profit entities. The Brownfields data are reported by grant recipients via the ACRES database and updated and stored in Envirofacts monthly. For more information on the data updates to Envirofacts, please visit the Envirofacts Data Update page. For more information on the data provided through this webservice, please see the processing steps below, and see more information here: https:\/\/www.epa.gov\/cleanups\/cimc-about-data#brownfieldsp. The CIMC web service was initially published in 2013, but the data are updated on the 18th of each month. The full schedule for data updates in CIMC is located here: https:\/\/iaspub.epa.gov\/enviro\/data_update_v2.",
+	"notes": "This data layer provides access to Brownfields Properties as part of the CIMC web service, although the data are generally more broadly applicable. Brownfields are real properties, the expansion, redevelopment, or reuse of which may be complicated by the presence or potential presence of a hazardous substance, pollutant, or contaminant. Cleaning up and reinvesting in these properties takes development pressures off of undeveloped, open land, and both improves and protects the environment. CIMC provides information on Brownfields properties for which information is reported back to EPA, as well as areas served by Brownfields grants programs. Brownfields properties may be mapped or listed, and property profiles can be accessed from either maps or lists. There are many properties that meet the definition of a brownfield but are not funded by our program. They may be funded by states, localities, private or non-profit entities. The Brownfields data are reported by grant recipients via the ACRES database and updated and stored in Envirofacts monthly. For more information on the data updates to Envirofacts, please visit the Envirofacts Data Update page. For more information on the data provided through this webservice, please see the processing steps below, and see more information here: https://www.epa.gov/cleanups/cimc-about-data#brownfieldsp. The CIMC web service was initially published in 2013, but the data are updated on the 18th of each month. The full schedule for data updates in CIMC is located here: https://iaspub.epa.gov/enviro/data_update_v2.",
 	"license_title": null,
 	"extras": [{
 		"key": "responsible-party",
-		"value": "[{\"name\": \"U.S. Environmental Protection Agency\", \"roles\": [\"pointOfContact\"]}]"
+		"value": "[{"name": "U.S. Environmental Protection Agency", "roles": ["pointOfContact"]}]"
 	},
 	{
 		"key": "contact-email",
@@ -111,7 +111,7 @@
 	},
 	{
 		"key": "dataset-reference-date",
-		"value": "[{\"type\": \"publication\", \"value\": \"2013-01-01\"}]"
+		"value": "[{"type": "publication", "value": "2013-01-01"}]"
 	},
 	{
 		"key": "resource-type",
@@ -139,7 +139,7 @@
 	},
 	{
 		"key": "licence",
-		"value": "[\"Although these data have been processed successfully on a computer system at the Environmental Protection Agency, no warranty expressed or implied is made regarding the accuracy or utility of the data on any other system or for general or scientific purposes, nor shall the act of distribution constitute any such warranty. It is also strongly recommended that careful attention be paid to the contents of the metadata file associated with these data to evaluate data set limitations, restrictions or intended use. The U.S. Environmental Protection Agency shall not be held liable for improper or incorrect use of the data described and\/or contained herein.\"]"
+		"value": "["Although these data have been processed successfully on a computer system at the Environmental Protection Agency, no warranty expressed or implied is made regarding the accuracy or utility of the data on any other system or for general or scientific purposes, nor shall the act of distribution constitute any such warranty. It is also strongly recommended that careful attention be paid to the contents of the metadata file associated with these data to evaluate data set limitations, restrictions or intended use. The U.S. Environmental Protection Agency shall not be held liable for improper or incorrect use of the data described and/or contained herein."]"
 	},
 	{
 		"key": "metadata_type",
@@ -151,7 +151,7 @@
 	},
 	{
 		"key": "spatial",
-		"value": "{\"type\": \"Polygon\", \"coordinates\": [[[-176.6525, -14.3601], [151.78372, -14.3601], [151.78372, 70.455278], [-176.6525, 70.455278], [-176.6525, -14.3601]]]}"
+		"value": "{"type": "Polygon", "coordinates": [[[-176.6525, -14.3601], [151.78372, -14.3601], [151.78372, 70.455278], [-176.6525, 70.455278], [-176.6525, -14.3601]]]}"
 	},
 	{
 		"key": "guid",
@@ -163,7 +163,7 @@
 	},
 	{
 		"key": "access_constraints",
-		"value": "[\"Use Constraints: None. Please check sources, scale, accuracy, currentness and other available information. Please confirm that you are using the most recent copy of both data and metadata. Acknowledgement of the EPA would be appreciated.\", \"Access Constraints: None.\"]"
+		"value": "["Use Constraints: None. Please check sources, scale, accuracy, currentness and other available information. Please confirm that you are using the most recent copy of both data and metadata. Acknowledgement of the EPA would be appreciated.", "Access Constraints: None."]"
 	},
 	{
 		"key": "spatial_harvester",
@@ -205,7 +205,7 @@
 		"revision_timestamp": "2014-01-16T18:58:42.895981",
 		"is_organization": true,
 		"state": "active",
-		"image_url": "http:\/\/edg.epa.gov\/EPALogo.svg",
+		"image_url": "http://edg.epa.gov/EPALogo.svg",
 		"revision_id": "f0e4b475-7424-4ce0-9a22-412e7e595154",
 		"type": "organization",
 		"id": "6d90e48d-3076-4327-b2f4-c33919f374d5",

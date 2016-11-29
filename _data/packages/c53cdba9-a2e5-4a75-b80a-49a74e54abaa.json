@@ -37,7 +37,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2016-05-31T03:03:41.933072",
-		"url": "https:\/\/coast.noaa.gov\/dataviewer\/#\/lidar\/search\/where:ID=3674",
+		"url": "https://coast.noaa.gov/dataviewer/#/lidar/search/where:ID=3674",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 0,
@@ -67,7 +67,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2016-05-31T03:03:41.933097",
-		"url": "https:\/\/coast.noaa.gov\/htdata\/lidar1_z\/geoid12a\/data\/3674",
+		"url": "https://coast.noaa.gov/htdata/lidar1_z/geoid12a/data/3674",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 1,
@@ -97,7 +97,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2016-05-31T03:03:41.933108",
-		"url": "https:\/\/coast.noaa.gov\/dataviewer",
+		"url": "https://coast.noaa.gov/dataviewer",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 2,
@@ -127,7 +127,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2016-05-31T03:03:41.933122",
-		"url": "https:\/\/coast.noaa.gov",
+		"url": "https://coast.noaa.gov",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 3,
@@ -149,7 +149,7 @@
 		"revision_timestamp": "2013-03-25T23:05:12.923863",
 		"is_organization": true,
 		"state": "active",
-		"image_url": "https:\/\/fortress.wa.gov\/dfw\/score\/score\/images\/noaa_logo.png",
+		"image_url": "https://fortress.wa.gov/dfw/score/score/images/noaa_logo.png",
 		"revision_id": "c6d43080-22e1-405e-a83d-f2a512d9e867",
 		"type": "organization",
 		"id": "e811f0b4-451f-4896-9e8f-fc6802837819",
@@ -160,7 +160,7 @@
 	"name": "2014-puget-sound-lidar-consortium-pslc-topographic-lidar-cedar-river-watershed-delivery-1",
 	"isopen": false,
 	"url": null,
-	"notes": "In September 2013, WSI, a Quantum Spatial company (QSI), was contracted by the Puget Sound LiDAR Consortium (PSLC) to collect Light Detection and Ranging (LiDAR) data over three areas of interest (AOIs) in the greater Seattle, Washington area. The individual AOIs include the Cedar River Watershed and Floodplain, Lake Youngs Reservoir, and the SCL\/Tolt Reservoir, herein all referred to as the Cedar Watershed LiDAR project. This metadata refers to the first delivery of many. Tiles were delivered as state plane orthometric x,y,z values but have since been reprojected\/transformed to geographic, ellipsoidal coordinates for OCM use and storage. Original naming conventions will apply to the FTP available data. The average first-return density of LiDAR data for the Cedar Watershed LiDAR project was 1.15 points per sq. ft (12.41 points per sq m) while the average ground classified density was 0.25 points per sq. ft (2.67 points per sq m)",
+	"notes": "In September 2013, WSI, a Quantum Spatial company (QSI), was contracted by the Puget Sound LiDAR Consortium (PSLC) to collect Light Detection and Ranging (LiDAR) data over three areas of interest (AOIs) in the greater Seattle, Washington area. The individual AOIs include the Cedar River Watershed and Floodplain, Lake Youngs Reservoir, and the SCL/Tolt Reservoir, herein all referred to as the Cedar Watershed LiDAR project. This metadata refers to the first delivery of many. Tiles were delivered as state plane orthometric x,y,z values but have since been reprojected/transformed to geographic, ellipsoidal coordinates for OCM use and storage. Original naming conventions will apply to the FTP available data. The average first-return density of LiDAR data for the Cedar Watershed LiDAR project was 1.15 points per sq. ft (12.41 points per sq m) while the average ground classified density was 0.25 points per sq. ft (2.67 points per sq m)",
 	"owner_org": "e811f0b4-451f-4896-9e8f-fc6802837819",
 	"extras": [{
 		"key": "bbox-east-long",
@@ -188,7 +188,7 @@
 	},
 	{
 		"key": "graphic-preview-file",
-		"value": "https:\/\/coast.noaa.gov\/htdata\/lidar1_z\/geoid12a\/data\/3674\/supplemental\/wa2014_pslc_cedarriver_delivery1_m3674.kmz"
+		"value": "https://coast.noaa.gov/htdata/lidar1_z/geoid12a/data/3674/supplemental/wa2014_pslc_cedarriver_delivery1_m3674.kmz"
 	},
 	{
 		"key": "metadata-language",
@@ -204,7 +204,7 @@
 	},
 	{
 		"key": "spatial",
-		"value": "{\"type\": \"Polygon\", \"coordinates\": [[[-122.2338078, 47.7500003], [-121.9177786, 47.7500003], [-121.9177786, 48.0757049], [-122.2338078, 48.0757049], [-122.2338078, 47.7500003]]]}"
+		"value": "{"type": "Polygon", "coordinates": [[[-122.2338078, 47.7500003], [-121.9177786, 47.7500003], [-121.9177786, 48.0757049], [-122.2338078, 48.0757049], [-122.2338078, 47.7500003]]]}"
 	},
 	{
 		"key": "progress",
@@ -212,7 +212,7 @@
 	},
 	{
 		"key": "access_constraints",
-		"value": "[\"Use Constraints: Users should be aware that temporal changes may have occurred since this data set was collected and some parts of this data may no longer represent actual surface conditions. Users should not use this data for critical applications without a full awareness of its limitations. These data depict the heights at the time of the survey and are only accurate for that time.\", \"Access Constraints: None\"]"
+		"value": "["Use Constraints: Users should be aware that temporal changes may have occurred since this data set was collected and some parts of this data may no longer represent actual surface conditions. Users should not use this data for critical applications without a full awareness of its limitations. These data depict the heights at the time of the survey and are only accurate for that time.", "Access Constraints: None"]"
 	},
 	{
 		"key": "temporal-extent-begin",
@@ -232,7 +232,7 @@
 	},
 	{
 		"key": "dataset-reference-date",
-		"value": "[{\"type\": \"publication\", \"value\": \"2014-04-14\"}]"
+		"value": "[{"type": "publication", "value": "2014-04-14"}]"
 	},
 	{
 		"key": "graphic-preview-description",
@@ -244,7 +244,7 @@
 	},
 	{
 		"key": "licence",
-		"value": "[\"\\nAny conclusions drawn from the analysis of this information are not the responsibility\\nof Quantum Spatial, PSLC, NOAA, the Office for Coastal Management or its partners.\\n\"]"
+		"value": "["\nAny conclusions drawn from the analysis of this information are not the responsibility\nof Quantum Spatial, PSLC, NOAA, the Office for Coastal Management or its partners.\n"]"
 	},
 	{
 		"key": "metadata_type",
@@ -252,7 +252,7 @@
 	},
 	{
 		"key": "responsible-party",
-		"value": "[{\"name\": \"NOAA Office for Coastal Management\", \"roles\": [\"pointOfContact\"]}]"
+		"value": "[{"name": "NOAA Office for Coastal Management", "roles": ["pointOfContact"]}]"
 	},
 	{
 		"key": "temporal-extent-end",

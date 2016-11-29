@@ -37,7 +37,7 @@
 		"cache_url": null,
 		"name": "Zip File",
 		"created": "2015-11-10T04:07:38.411360",
-		"url": "ftp:\/\/ftp.soest.hawaii.edu\/pibhmc\/website\/data\/amsamoa\/optical\/tutuila\/auv\/auv_SE1202_fish_counts.zip",
+		"url": "ftp://ftp.soest.hawaii.edu/pibhmc/website/data/amsamoa/optical/tutuila/auv/auv_SE1202_fish_counts.zip",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 0,
@@ -67,7 +67,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2015-11-10T04:07:38.411395",
-		"url": "http:\/\/www.soest.hawaii.edu\/pibhmc\/pibhmc_auv.htm",
+		"url": "http://www.soest.hawaii.edu/pibhmc/pibhmc_auv.htm",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 1,
@@ -97,7 +97,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2015-11-10T04:07:38.411403",
-		"url": "http:\/\/www.soest.hawaii.edu\/pibhmc\/",
+		"url": "http://www.soest.hawaii.edu/pibhmc/",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 2,
@@ -119,7 +119,7 @@
 		"revision_timestamp": "2013-03-25T23:05:12.923863",
 		"is_organization": true,
 		"state": "active",
-		"image_url": "https:\/\/fortress.wa.gov\/dfw\/score\/score\/images\/noaa_logo.png",
+		"image_url": "https://fortress.wa.gov/dfw/score/score/images/noaa_logo.png",
 		"revision_id": "c6d43080-22e1-405e-a83d-f2a512d9e867",
 		"type": "organization",
 		"id": "e811f0b4-451f-4896-9e8f-fc6802837819",
@@ -166,7 +166,7 @@
 	},
 	{
 		"key": "spatial",
-		"value": "{\"type\": \"Polygon\", \"coordinates\": [[[-170.92403, -14.33216], [-170.49467, -14.33216], [-170.49467, -14.21815], [-170.92403, -14.21815], [-170.92403, -14.33216]]]}"
+		"value": "{"type": "Polygon", "coordinates": [[[-170.92403, -14.33216], [-170.49467, -14.33216], [-170.49467, -14.21815], [-170.92403, -14.21815], [-170.92403, -14.33216]]]}"
 	},
 	{
 		"key": "progress",
@@ -174,7 +174,7 @@
 	},
 	{
 		"key": "access_constraints",
-		"value": "[\"Use Constraints: Please acknowledge the NOAA Coral Reef Ecosystem Division, Pacific Islands Fisheries Science Center as the source of this information.\", \"Access Constraints: None\"]"
+		"value": "["Use Constraints: Please acknowledge the NOAA Coral Reef Ecosystem Division, Pacific Islands Fisheries Science Center as the source of this information.", "Access Constraints: None"]"
 	},
 	{
 		"key": "temporal-extent-begin",
@@ -194,7 +194,7 @@
 	},
 	{
 		"key": "dataset-reference-date",
-		"value": "[{\"type\": \"publication\", \"value\": \"2014-07-16\"}]"
+		"value": "[{"type": "publication", "value": "2014-07-16"}]"
 	},
 	{
 		"key": "frequency-of-update",
@@ -202,7 +202,7 @@
 	},
 	{
 		"key": "licence",
-		"value": "[\"These data are not to be used for navigational purposes. NOAA makes no warranty regarding these\\ndata, expressed or implied, nor does the fact of distribution constitute such a warranty. NOAA cannot assume liability\\nfor any damages caused by any errors or omissions in these data, nor as a result of the failure of these data to function\\non a particular system.\"]"
+		"value": "["These data are not to be used for navigational purposes. NOAA makes no warranty regarding these\ndata, expressed or implied, nor does the fact of distribution constitute such a warranty. NOAA cannot assume liability\nfor any damages caused by any errors or omissions in these data, nor as a result of the failure of these data to function\non a particular system."]"
 	},
 	{
 		"key": "metadata_type",
@@ -210,7 +210,7 @@
 	},
 	{
 		"key": "responsible-party",
-		"value": "[{\"name\": \"Pacific Islands Benthic Habitat Mapping Center (PIBHMC), Coral Reef Ecosystem Division (CRED), Pacific Islands Fisheries Science Center (PIFSC), National Marine Fisheries Service (NMFS), National Oceanic and Atmospheric Administration (NOAA)\", \"roles\": [\"pointOfContact\"]}]"
+		"value": "[{"name": "Pacific Islands Benthic Habitat Mapping Center (PIBHMC), Coral Reef Ecosystem Division (CRED), Pacific Islands Fisheries Science Center (PIFSC), National Marine Fisheries Service (NMFS), National Oceanic and Atmospheric Administration (NOAA)", "roles": ["pointOfContact"]}]"
 	},
 	{
 		"key": "temporal-extent-end",

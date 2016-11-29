@@ -37,7 +37,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2016-04-29T17:02:35.999738",
-		"url": "http:\/\/bios.dfg.ca.gov\/",
+		"url": "http://bios.dfg.ca.gov/",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 0,
@@ -67,7 +67,7 @@
 		"cache_url": null,
 		"name": "Zip File",
 		"created": "2016-04-29T17:02:35.999762",
-		"url": "ftp:\/\/ftp.dfg.ca.gov\/BDB\/GIS\/BIOS\/Public_Datasets\/1100_1199\/ds1114.zip",
+		"url": "ftp://ftp.dfg.ca.gov/BDB/GIS/BIOS/Public_Datasets/1100_1199/ds1114.zip",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 1,
@@ -89,7 +89,7 @@
 		"revision_timestamp": "2013-05-31T17:51:13.706377",
 		"is_organization": true,
 		"state": "active",
-		"image_url": "http:\/\/www.ca.gov\/images\/template2012\/header_ca.gov.png",
+		"image_url": "http://www.ca.gov/images/template2012/header_ca.gov.png",
 		"revision_id": "ad94cda4-9394-44d0-9c37-573dc3c47c9a",
 		"type": "organization",
 		"id": "467d900f-8a42-452d-9906-6610dd1a767f",
@@ -100,11 +100,11 @@
 	"name": "recreation-north-central-region-ds1114",
 	"isopen": false,
 	"url": null,
-	"notes": "These data are a Kernel Density layers produced using ArcGIS. The Kernel analysis is a nonparametric statistical method for estimating probability densities from a set of points. Conceptually, a smooth raster surface is fitted over each point. The surface value is highest at the location of the point and diminishes with increasing distance (i.e.search radius), eventually reaching zero. A default value is calculated by the analysis tool for the search radius based on the input data; increasing the radius has little affect on the density value. Although more points will fall inside a larger search radius the number will be divided by a larger area when calculating density resulting in a more generalized output raster. The volume under the surface equals the weighted value for the point. The weights were created by Knowledge Networks and applied to the points based on demographics. The density of the output raster is calculated by adding the values of all the individual surfaces where they overlap. The point's weighted value determines the number of times to count the point. For example, a weighted value of 1.5 would cause the point to be counted one and half times. The resulting dataset is a smooth raster surface depicting the intensity use or density of an activity. Based on previous experience and after conducting some tests, all of the activity datasets were given a search radius of one mile. In discussing a similar project with the Oregon Department of Parks and Recreation we discovered that most visitors to the coast stay within a mile of their activity location. This distance also proved to be a good match to the mapped activities. To see the methods used and a list of recreation activities download \"NCC_SocEco Coastal Recreation Methods FINAL.pdf\" using the following link - ftp:\/\/ftp.dfg.ca.gov\/BDB\/GIS\/BIOS\/Public_Datasets\/1100_1199\/ds1114.zip",
+	"notes": "These data are a Kernel Density layers produced using ArcGIS. The Kernel analysis is a nonparametric statistical method for estimating probability densities from a set of points. Conceptually, a smooth raster surface is fitted over each point. The surface value is highest at the location of the point and diminishes with increasing distance (i.e.search radius), eventually reaching zero. A default value is calculated by the analysis tool for the search radius based on the input data; increasing the radius has little affect on the density value. Although more points will fall inside a larger search radius the number will be divided by a larger area when calculating density resulting in a more generalized output raster. The volume under the surface equals the weighted value for the point. The weights were created by Knowledge Networks and applied to the points based on demographics. The density of the output raster is calculated by adding the values of all the individual surfaces where they overlap. The point's weighted value determines the number of times to count the point. For example, a weighted value of 1.5 would cause the point to be counted one and half times. The resulting dataset is a smooth raster surface depicting the intensity use or density of an activity. Based on previous experience and after conducting some tests, all of the activity datasets were given a search radius of one mile. In discussing a similar project with the Oregon Department of Parks and Recreation we discovered that most visitors to the coast stay within a mile of their activity location. This distance also proved to be a good match to the mapped activities. To see the methods used and a list of recreation activities download "NCC_SocEco Coastal Recreation Methods FINAL.pdf" using the following link - ftp://ftp.dfg.ca.gov/BDB/GIS/BIOS/Public_Datasets/1100_1199/ds1114.zip",
 	"owner_org": "467d900f-8a42-452d-9906-6610dd1a767f",
 	"extras": [{
 		"key": "responsible-party",
-		"value": "[{\"name\": \"Ecotrust\", \"roles\": [\"pointOfContact\"]}, {\"name\": \"Ecotrust Marine Consulting Initiative\", \"roles\": [\"pointOfContact\"]}]"
+		"value": "[{"name": "Ecotrust", "roles": ["pointOfContact"]}, {"name": "Ecotrust Marine Consulting Initiative", "roles": ["pointOfContact"]}]"
 	},
 	{
 		"key": "contact-email",
@@ -124,7 +124,7 @@
 	},
 	{
 		"key": "dataset-reference-date",
-		"value": "[{\"type\": \"publication\", \"value\": \"2013-04-23\"}]"
+		"value": "[{"type": "publication", "value": "2013-04-23"}]"
 	},
 	{
 		"key": "resource-type",
@@ -152,7 +152,7 @@
 	},
 	{
 		"key": "licence",
-		"value": "[\" \"]"
+		"value": "[" "]"
 	},
 	{
 		"key": "metadata_type",
@@ -164,7 +164,7 @@
 	},
 	{
 		"key": "spatial",
-		"value": "{\"type\": \"Polygon\", \"coordinates\": [[[-123.759922, 37.113352], [-122.12183, 37.113352], [-122.12183, 39.076476], [-123.759922, 39.076476], [-123.759922, 37.113352]]]}"
+		"value": "{"type": "Polygon", "coordinates": [[[-123.759922, 37.113352], [-122.12183, 37.113352], [-122.12183, 39.076476], [-123.759922, 39.076476], [-123.759922, 37.113352]]]}"
 	},
 	{
 		"key": "guid",
@@ -176,7 +176,7 @@
 	},
 	{
 		"key": "access_constraints",
-		"value": "[\"Use Constraints: Contact Ecotrust about using this data.\", \"Access Constraints: None\"]"
+		"value": "["Use Constraints: Contact Ecotrust about using this data.", "Access Constraints: None"]"
 	},
 	{
 		"key": "spatial_harvester",

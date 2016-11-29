@@ -37,7 +37,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2013-03-15T21:45:43.175739",
-		"url": "http:\/\/<http:\/\/pubs.usgs.gov\/of\/2006\/5256\/>",
+		"url": "http://<http://pubs.usgs.gov/of/2006/5256/>",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 0,
@@ -67,7 +67,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2013-03-15T21:45:43.175759",
-		"url": "http:\/\/pubs.usgs.gov\/sir\/2006\/5256\/",
+		"url": "http://pubs.usgs.gov/sir/2006/5256/",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 1,
@@ -97,7 +97,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2013-03-15T21:45:43.175764",
-		"url": "http:\/\/pubs.usgs.gov\/sri\/2006\/5256",
+		"url": "http://pubs.usgs.gov/sri/2006/5256",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 2,
@@ -117,11 +117,11 @@
 	"name": "kaho-benthichabitats-benthic-habitat-of-the-coral-reef-ecosystem-within-and-adjacent-to-kaloko",
 	"isopen": false,
 	"url": null,
-	"notes": "A benthic habitat polygon coverage has been created of the coral reef ecosystem within and adjacent to Kaloko-Honokohau National Historical Park (KAHO) on the Kona Coast of Hawai'i. Polygons were hand-digitized from visual interpretation of aerial photography and SHOALS bathymetry data. We also utilized in situ knowledge from towed instruments, underwater photography and videography, and diver and snorkeler observations. The polygons have attributes for Main Structure\/Substrate, Dominant Structure\/Substrate, Major Biological Cover, Percent of Major Biological Cover, Reef Zone, Unique ID, and measurements of Area (m2) of each polygon.",
+	"notes": "A benthic habitat polygon coverage has been created of the coral reef ecosystem within and adjacent to Kaloko-Honokohau National Historical Park (KAHO) on the Kona Coast of Hawai'i. Polygons were hand-digitized from visual interpretation of aerial photography and SHOALS bathymetry data. We also utilized in situ knowledge from towed instruments, underwater photography and videography, and diver and snorkeler observations. The polygons have attributes for Main Structure/Substrate, Dominant Structure/Substrate, Major Biological Cover, Percent of Major Biological Cover, Reef Zone, Unique ID, and measurements of Area (m2) of each polygon.",
 	"license_title": null,
 	"extras": [{
 		"key": "responsible-party",
-		"value": "[{\"name\": \"USGS Pacific Science Center\", \"roles\": [\"pointOfContact\"]}]"
+		"value": "[{"name": "USGS Pacific Science Center", "roles": ["pointOfContact"]}]"
 	},
 	{
 		"key": "contact-email",
@@ -141,7 +141,7 @@
 	},
 	{
 		"key": "dataset-reference-date",
-		"value": "[{\"type\": \"publication\", \"value\": \"2007-01-01\"}]"
+		"value": "[{"type": "publication", "value": "2007-01-01"}]"
 	},
 	{
 		"key": "resource-type",
@@ -169,7 +169,7 @@
 	},
 	{
 		"key": "licence",
-		"value": "[\"\\nPlease recognize the U.S. Geological Survey (USGS) as the source of this information.\\n\\nAlthough these data have been used by the U.S. Geological Survey, U.S. Department of the Interior, no warranty expressed or implied is made by the U.S. Geological Survey as to the accuracy of the data.\\n\\nAny use of trade, product, or firm names is for deescriptive purposes only and does not imply endorsement by the U.S. Government.\\n\\nThe act of distribution shall not constitute any such warranty, and no responsibility is assumed by the U.S. Geological Survey in the use of this data, software, or related materials.\\n\\nThese data are not suitable for navigation.\\n\"]"
+		"value": "["\nPlease recognize the U.S. Geological Survey (USGS) as the source of this information.\n\nAlthough these data have been used by the U.S. Geological Survey, U.S. Department of the Interior, no warranty expressed or implied is made by the U.S. Geological Survey as to the accuracy of the data.\n\nAny use of trade, product, or firm names is for deescriptive purposes only and does not imply endorsement by the U.S. Government.\n\nThe act of distribution shall not constitute any such warranty, and no responsibility is assumed by the U.S. Geological Survey in the use of this data, software, or related materials.\n\nThese data are not suitable for navigation.\n"]"
 	},
 	{
 		"key": "metadata_type",
@@ -177,7 +177,7 @@
 	},
 	{
 		"key": "spatial",
-		"value": "{\"type\": \"Polygon\", \"coordinates\": [[[-156.048877, 19.663352], [-156.048877, 19.696424], [-156.025709, 19.696424], [-156.025709, 19.663352], [-156.048877, 19.663352]]]}"
+		"value": "{"type": "Polygon", "coordinates": [[[-156.048877, 19.663352], [-156.048877, 19.696424], [-156.025709, 19.696424], [-156.025709, 19.663352], [-156.048877, 19.663352]]]}"
 	},
 	{
 		"key": "guid",
@@ -189,7 +189,7 @@
 	},
 	{
 		"key": "access_constraints",
-		"value": "[\"Use Constraints: Please recognize the U.S. Geological Survey (USGS) as the source of this information. Although these data have been used by the U.S. Geological Survey, U.S. Department of the Interior, no warranty expressed or implied is made by the U.S. Geological Survey as to the accuracy of the data. The act of distribution shall not constitute any such warranty, and no responsibility is assumed by the U.S. Geological Survey in the use of this data, software, or related materials. These data are not suitable for navigation.\", \"Access Constraints: None\"]"
+		"value": "["Use Constraints: Please recognize the U.S. Geological Survey (USGS) as the source of this information. Although these data have been used by the U.S. Geological Survey, U.S. Department of the Interior, no warranty expressed or implied is made by the U.S. Geological Survey as to the accuracy of the data. The act of distribution shall not constitute any such warranty, and no responsibility is assumed by the U.S. Geological Survey in the use of this data, software, or related materials. These data are not suitable for navigation.", "Access Constraints: None"]"
 	},
 	{
 		"key": "graphic-preview-file",
@@ -224,14 +224,14 @@
 		"value": "U.S. Geological Survey Coastal Map"
 	}],
 	"organization": {
-		"description": "http:\/\/www.usgs.gov\/\r\nThe USGS is a federal science agency that provides impartial information on the health of our ecosystems and environment, the natural hazards that threaten us, the natural resources we rely on, the impacts of climate and land-use change, and the core science systems that help us provide timely, relevant, and useable information.",
+		"description": "http://www.usgs.gov/rnThe USGS is a federal science agency that provides impartial information on the health of our ecosystems and environment, the natural hazards that threaten us, the natural resources we rely on, the impacts of climate and land-use change, and the core science systems that help us provide timely, relevant, and useable information.",
 		"created": "2013-03-14T03:44:38.263357",
 		"title": "U.S. Geological Survey, Department of the Interior",
 		"name": "usgs-gov",
 		"revision_timestamp": "2014-09-02T13:43:52.167023",
 		"is_organization": true,
 		"state": "active",
-		"image_url": "http:\/\/pubs.usgs.gov\/sir\/2004\/5296\/04-5296_confluence_park\/usgs_logo.gif",
+		"image_url": "http://pubs.usgs.gov/sir/2004/5296/04-5296_confluence_park/usgs_logo.gif",
 		"revision_id": "2858aa99-9501-4f96-82e5-9647b968ed66",
 		"type": "organization",
 		"id": "bd2cdd5a-4d65-46c0-9937-c8381175f104",

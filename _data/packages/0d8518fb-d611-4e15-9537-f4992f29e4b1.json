@@ -36,7 +36,7 @@
 		"cache_url": null,
 		"name": "Data Subset Form",
 		"created": "2015-12-20T15:40:21.539746",
-		"url": "http:\/\/coastwatch.pfeg.noaa.gov\/erddap\/tabledap\/nosSosCurrents.html",
+		"url": "http://coastwatch.pfeg.noaa.gov/erddap/tabledap/nosSosCurrents.html",
 		"webstore_url": null,
 		"resource_locator_function": "download",
 		"position": 0,
@@ -65,7 +65,7 @@
 		"cache_url": null,
 		"name": "Make-A-Graph Form",
 		"created": "2015-12-20T15:40:21.539769",
-		"url": "http:\/\/coastwatch.pfeg.noaa.gov\/erddap\/tabledap\/nosSosCurrents.graph",
+		"url": "http://coastwatch.pfeg.noaa.gov/erddap/tabledap/nosSosCurrents.graph",
 		"webstore_url": null,
 		"resource_locator_function": "mapDigital",
 		"position": 1,
@@ -94,7 +94,7 @@
 		"cache_url": null,
 		"name": "Background Information",
 		"created": "2015-12-20T15:40:21.539778",
-		"url": "http:\/\/opendap.co-ops.nos.noaa.gov\/ioos-dif-sos\/",
+		"url": "http://opendap.co-ops.nos.noaa.gov/ioos-dif-sos/",
 		"webstore_url": null,
 		"resource_locator_function": "information",
 		"position": 2,
@@ -123,7 +123,7 @@
 		"cache_url": null,
 		"name": "Background Information",
 		"created": "2015-12-20T15:40:21.539785",
-		"url": "http:\/\/opendap.co-ops.nos.noaa.gov\/ioos-dif-sos\/",
+		"url": "http://opendap.co-ops.nos.noaa.gov/ioos-dif-sos/",
 		"webstore_url": null,
 		"resource_locator_function": "information",
 		"position": 3,
@@ -152,7 +152,7 @@
 		"cache_url": null,
 		"name": "Background Information",
 		"created": "2015-12-20T15:40:21.539792",
-		"url": "http:\/\/opendap.co-ops.nos.noaa.gov\/ioos-dif-sos\/",
+		"url": "http://opendap.co-ops.nos.noaa.gov/ioos-dif-sos/",
 		"webstore_url": null,
 		"resource_locator_function": "information",
 		"position": 4,
@@ -181,7 +181,7 @@
 		"cache_url": null,
 		"name": "ERDDAP-tabledap",
 		"created": "2015-12-20T15:40:21.539799",
-		"url": "http:\/\/coastwatch.pfeg.noaa.gov\/erddap\/tabledap\/nosSosCurrents",
+		"url": "http://coastwatch.pfeg.noaa.gov/erddap/tabledap/nosSosCurrents",
 		"webstore_url": null,
 		"resource_locator_function": "download",
 		"position": 5,
@@ -210,7 +210,7 @@
 		"cache_url": null,
 		"name": "Background Information",
 		"created": "2015-12-20T15:40:21.539806",
-		"url": "http:\/\/opendap.co-ops.nos.noaa.gov\/ioos-dif-sos\/",
+		"url": "http://opendap.co-ops.nos.noaa.gov/ioos-dif-sos/",
 		"webstore_url": null,
 		"resource_locator_function": "information",
 		"position": 6,
@@ -239,7 +239,7 @@
 		"cache_url": null,
 		"name": "OPeNDAP",
 		"created": "2015-12-20T15:40:21.539812",
-		"url": "http:\/\/coastwatch.pfeg.noaa.gov\/erddap\/tabledap\/nosSosCurrents",
+		"url": "http://coastwatch.pfeg.noaa.gov/erddap/tabledap/nosSosCurrents",
 		"webstore_url": null,
 		"resource_locator_function": "download",
 		"position": 7,
@@ -268,7 +268,7 @@
 		"cache_url": null,
 		"name": "Background Information",
 		"created": "2015-12-20T15:40:21.539819",
-		"url": "http:\/\/opendap.co-ops.nos.noaa.gov\/ioos-dif-sos\/",
+		"url": "http://opendap.co-ops.nos.noaa.gov/ioos-dif-sos/",
 		"webstore_url": null,
 		"resource_locator_function": "information",
 		"position": 8,
@@ -297,7 +297,7 @@
 		"cache_url": null,
 		"name": "Subset",
 		"created": "2015-12-20T15:40:21.539826",
-		"url": "http:\/\/coastwatch.pfeg.noaa.gov\/erddap\/tabledap\/nosSosCurrents.subset",
+		"url": "http://coastwatch.pfeg.noaa.gov/erddap/tabledap/nosSosCurrents.subset",
 		"webstore_url": null,
 		"resource_locator_function": "download",
 		"position": 9,
@@ -317,7 +317,7 @@
 	"name": "noaa-nos-sos-experimental-currents",
 	"isopen": false,
 	"url": null,
-	"notes": "The NOAA NOS SOS server is part of the IOOS DIF SOS Project.  The stations in this dataset have currents data.  ****These services are for testing and evaluation use only****\n\nBecause of the nature of SOS requests, requests for data MUST include constraints for the longitude, latitude, time, and\/or station_id variables.  Requests for data from this dataset MUST be for 96 hours worth of data or less.",
+	"notes": "The NOAA NOS SOS server is part of the IOOS DIF SOS Project.  The stations in this dataset have currents data.  ****These services are for testing and evaluation use only****nnBecause of the nature of SOS requests, requests for data MUST include constraints for the longitude, latitude, time, and/or station_id variables.  Requests for data from this dataset MUST be for 96 hours worth of data or less.",
 	"license_title": null,
 	"extras": [{
 		"key": "bbox-east-long",
@@ -333,7 +333,7 @@
 	},
 	{
 		"key": "coupled-resource",
-		"value": "[{\"href\": [\"#DataIdentification\"], \"uuid\": [], \"title\": []}, {\"href\": [\"#DataIdentification\"], \"uuid\": [], \"title\": []}, {\"href\": [\"#DataIdentification\"], \"uuid\": [], \"title\": []}]"
+		"value": "[{"href": ["#DataIdentification"], "uuid": [], "title": []}, {"href": ["#DataIdentification"], "uuid": [], "title": []}, {"href": ["#DataIdentification"], "uuid": [], "title": []}]"
 	},
 	{
 		"key": "guid",
@@ -353,7 +353,7 @@
 	},
 	{
 		"key": "spatial",
-		"value": "{\"type\": \"Polygon\", \"coordinates\": [[[-167.9007, 19.6351], [-66.9956, 19.6351], [-66.9956, 61.2782], [-167.9007, 61.2782], [-167.9007, 19.6351]]]}"
+		"value": "{"type": "Polygon", "coordinates": [[[-167.9007, 19.6351], [-66.9956, 19.6351], [-66.9956, 61.2782], [-167.9007, 61.2782], [-167.9007, 19.6351]]]}"
 	},
 	{
 		"key": "progress",
@@ -381,7 +381,7 @@
 	},
 	{
 		"key": "dataset-reference-date",
-		"value": "[{\"type\": \"creation\", \"value\": \"2015-11-05\"}]"
+		"value": "[{"type": "creation", "value": "2015-11-05"}]"
 	},
 	{
 		"key": "frequency-of-update",
@@ -397,7 +397,7 @@
 	},
 	{
 		"key": "responsible-party",
-		"value": "[{\"name\": \"NOAA NOS\", \"roles\": [\"pointOfContact\"]}]"
+		"value": "[{"name": "NOAA NOS", "roles": ["pointOfContact"]}]"
 	},
 	{
 		"key": "spatial-data-service-type",
@@ -439,7 +439,7 @@
 		"revision_timestamp": "2013-03-25T23:05:12.923863",
 		"is_organization": true,
 		"state": "active",
-		"image_url": "https:\/\/fortress.wa.gov\/dfw\/score\/score\/images\/noaa_logo.png",
+		"image_url": "https://fortress.wa.gov/dfw/score/score/images/noaa_logo.png",
 		"revision_id": "c6d43080-22e1-405e-a83d-f2a512d9e867",
 		"type": "organization",
 		"id": "e811f0b4-451f-4896-9e8f-fc6802837819",

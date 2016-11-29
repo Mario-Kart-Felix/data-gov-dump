@@ -37,7 +37,7 @@
 		"cache_url": null,
 		"name": "Zip File",
 		"created": "2016-03-09T01:27:26.099314",
-		"url": "http:\/\/www.boem.gov\/ATL-BSLN-TN.zip",
+		"url": "http://www.boem.gov/ATL-BSLN-TN.zip",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 0,
@@ -67,7 +67,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2016-03-09T01:27:26.099340",
-		"url": "http:\/\/www.boem.gov\/Oil-and-Gas-Energy-Program\/Mapping-and-Data\/Atlantic.aspx",
+		"url": "http://www.boem.gov/Oil-and-Gas-Energy-Program/Mapping-and-Data/Atlantic.aspx",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 1,
@@ -97,7 +97,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2016-03-09T01:27:26.099350",
-		"url": "http:\/\/www.boem.gov\/Oil-and-Gas-Energy-Program\/Mapping-and-Data\/Atlantic.aspx",
+		"url": "http://www.boem.gov/Oil-and-Gas-Energy-Program/Mapping-and-Data/Atlantic.aspx",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 2,
@@ -130,7 +130,7 @@
 	"name": "atlantic-nad-83-sla-baseline-tangents4244d",
 	"isopen": false,
 	"url": null,
-	"notes": "This data set contains baseline tangent lines in ArcGIS shapefile format for the BOEM Atlantic Region. Baseline tangent lines are typically bay or river closing lines used by the BOEM to calculate the Submerged Lands Act (SLA) boundary, the Limit of '8(g) Zone', and other offshore boundary lines. These tangent lines would project staight line segments in any projected line, while baseline points would project circular arc segments to the projected boundary. A second file containing baseline points is also available. Additional details are available from: http:\/\/www.boemre.gov\/itd\/pubs\/1999\/99-0006.pdf Because GIS projection and topology functions can change or generalize coordinates, these GIS files are considered to be approximate and are NOT an OFFICIAL record for the exact baseline coordinates. The Official Protraction Diagrams (OPDs) and Supplemental Official Block Diagrams (SOBDs) serve as the legal definition for BOEM offshore boundary coordinates and area descriptions.",
+	"notes": "This data set contains baseline tangent lines in ArcGIS shapefile format for the BOEM Atlantic Region. Baseline tangent lines are typically bay or river closing lines used by the BOEM to calculate the Submerged Lands Act (SLA) boundary, the Limit of '8(g) Zone', and other offshore boundary lines. These tangent lines would project staight line segments in any projected line, while baseline points would project circular arc segments to the projected boundary. A second file containing baseline points is also available. Additional details are available from: http://www.boemre.gov/itd/pubs/1999/99-0006.pdf Because GIS projection and topology functions can change or generalize coordinates, these GIS files are considered to be approximate and are NOT an OFFICIAL record for the exact baseline coordinates. The Official Protraction Diagrams (OPDs) and Supplemental Official Block Diagrams (SOBDs) serve as the legal definition for BOEM offshore boundary coordinates and area descriptions.",
 	"license_title": null,
 	"extras": [{
 		"key": "bbox-east-long",
@@ -158,7 +158,7 @@
 	},
 	{
 		"key": "graphic-preview-file",
-		"value": "http:\/\/www.boem.gov\/assets\/0\/79\/99\/203\/b02f7ef2-32d0-4750-806c-608f4c5652ba.gif"
+		"value": "http://www.boem.gov/assets/0/79/99/203/b02f7ef2-32d0-4750-806c-608f4c5652ba.gif"
 	},
 	{
 		"key": "metadata-language",
@@ -174,7 +174,7 @@
 	},
 	{
 		"key": "spatial",
-		"value": "{\"type\": \"Polygon\", \"coordinates\": [[[-81.44768, 25.333176], [-67.166572, 25.333176], [-67.166572, 44.662736], [-81.44768, 44.662736], [-81.44768, 25.333176]]]}"
+		"value": "{"type": "Polygon", "coordinates": [[[-81.44768, 25.333176], [-67.166572, 25.333176], [-67.166572, 44.662736], [-81.44768, 44.662736], [-81.44768, 25.333176]]]}"
 	},
 	{
 		"key": "progress",
@@ -182,7 +182,7 @@
 	},
 	{
 		"key": "access_constraints",
-		"value": "[\"Use Constraints: The data was developed within the U.S. Government; no proprietary rights may be attached to them nor may they be sold to the U.S. Government as part of any procurement of ADP products or services.\", \"Access Constraints: None. The Block and Boundary data is in the public domain.\"]"
+		"value": "["Use Constraints: The data was developed within the U.S. Government; no proprietary rights may be attached to them nor may they be sold to the U.S. Government as part of any procurement of ADP products or services.", "Access Constraints: None. The Block and Boundary data is in the public domain."]"
 	},
 	{
 		"key": "temporal-extent-begin",
@@ -202,7 +202,7 @@
 	},
 	{
 		"key": "dataset-reference-date",
-		"value": "[{\"type\": \"publication\", \"value\": \"2010-10-05\"}]"
+		"value": "[{"type": "publication", "value": "2010-10-05"}]"
 	},
 	{
 		"key": "graphic-preview-description",
@@ -214,7 +214,7 @@
 	},
 	{
 		"key": "licence",
-		"value": "[\"\\nAs is.  No responsibility is assumed for the\\ncorrectness of this data.\\n\"]"
+		"value": "["\nAs is.  No responsibility is assumed for the\ncorrectness of this data.\n"]"
 	},
 	{
 		"key": "metadata_type",
@@ -222,7 +222,7 @@
 	},
 	{
 		"key": "responsible-party",
-		"value": "[{\"name\": \"Bureau of Ocean Energy Management, Mapping and Boundary Branch\", \"roles\": [\"pointOfContact\"]}]"
+		"value": "[{"name": "Bureau of Ocean Energy Management, Mapping and Boundary Branch", "roles": ["pointOfContact"]}]"
 	},
 	{
 		"key": "temporal-extent-end",
@@ -268,7 +268,7 @@
 		"revision_timestamp": "2013-03-20T22:26:39.819248",
 		"is_organization": true,
 		"state": "active",
-		"image_url": "http:\/\/www.boem.gov\/images\/boem\/layout\/logo.png",
+		"image_url": "http://www.boem.gov/images/boem/layout/logo.png",
 		"revision_id": "6f2fda4e-48e9-42f6-b1dd-da068900ba24",
 		"type": "organization",
 		"id": "54ed71a6-4861-4dc1-aa78-c5661ba9ab04",

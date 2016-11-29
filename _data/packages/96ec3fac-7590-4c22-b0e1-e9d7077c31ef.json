@@ -37,7 +37,7 @@
 		"cache_url": null,
 		"name": "Esri Rest API Endpoint",
 		"created": "2015-09-26T21:53:51.327144",
-		"url": "http:\/\/www.ncddc.noaa.gov\/arcgis\/rest\/services\/OceanExploration\/OECruiseData\/MapServer",
+		"url": "http://www.ncddc.noaa.gov/arcgis/rest/services/OceanExploration/OECruiseData/MapServer",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 0,
@@ -67,7 +67,7 @@
 		"cache_url": null,
 		"name": "Web Mapping Service",
 		"created": "2015-09-26T21:53:51.327175",
-		"url": "http:\/\/www.ncddc.noaa.gov\/arcgis\/services\/OceanExploration\/OECruiseData\/MapServer\/WMSServer?request=GetCapabilities&service=WMS",
+		"url": "http://www.ncddc.noaa.gov/arcgis/services/OceanExploration/OECruiseData/MapServer/WMSServer?request=GetCapabilities&service=WMS",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 1,
@@ -97,7 +97,7 @@
 		"cache_url": null,
 		"name": "Esri Rest API Endpoint",
 		"created": "2015-09-26T21:53:51.327185",
-		"url": "http:\/\/www.ncddc.noaa.gov\/arcgis\/rest\/services\/OceanExploration\/OECruiseData\/MapServer",
+		"url": "http://www.ncddc.noaa.gov/arcgis/rest/services/OceanExploration/OECruiseData/MapServer",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 2,
@@ -119,7 +119,7 @@
 		"revision_timestamp": "2013-03-25T23:05:12.923863",
 		"is_organization": true,
 		"state": "active",
-		"image_url": "https:\/\/fortress.wa.gov\/dfw\/score\/score\/images\/noaa_logo.png",
+		"image_url": "https://fortress.wa.gov/dfw/score/score/images/noaa_logo.png",
 		"revision_id": "c6d43080-22e1-405e-a83d-f2a512d9e867",
 		"type": "organization",
 		"id": "e811f0b4-451f-4896-9e8f-fc6802837819",
@@ -130,7 +130,7 @@
 	"name": "ship-sensor-observations-for-operation-deep-scope-2005-office-of-ocean-exploration",
 	"isopen": false,
 	"url": null,
-	"notes": "Hourly measurements made by selected ship sensors on the R\/V Seward Johnson during the \"Operation Deep Scope 2005\" expedition sponsored by the National Oceanic and Atmospheric Administration (NOAA) Office of Ocean Exploration, August 19 through September 4, 2005. Measurements include ship's position and heading, chlorophyll-a (fluorometer), and total solar irradiance. This data set was compiled from Virtual Instrument Data System (VIDS) ASCII files provided by the University of Miami Marine Technology Group at Harbor Branch Oceanographic Institution.",
+	"notes": "Hourly measurements made by selected ship sensors on the R/V Seward Johnson during the "Operation Deep Scope 2005" expedition sponsored by the National Oceanic and Atmospheric Administration (NOAA) Office of Ocean Exploration, August 19 through September 4, 2005. Measurements include ship's position and heading, chlorophyll-a (fluorometer), and total solar irradiance. This data set was compiled from Virtual Instrument Data System (VIDS) ASCII files provided by the University of Miami Marine Technology Group at Harbor Branch Oceanographic Institution.",
 	"owner_org": "e811f0b4-451f-4896-9e8f-fc6802837819",
 	"extras": [{
 		"key": "bbox-east-long",
@@ -158,7 +158,7 @@
 	},
 	{
 		"key": "graphic-preview-file",
-		"value": "http:\/\/www.ncddc.noaa.gov\/approved_recs\/ncddc_ims\/gis\/ims\/final\/ods2005_ship_obs_browse_ods2005_ship_obs.gif"
+		"value": "http://www.ncddc.noaa.gov/approved_recs/ncddc_ims/gis/ims/final/ods2005_ship_obs_browse_ods2005_ship_obs.gif"
 	},
 	{
 		"key": "metadata-language",
@@ -174,7 +174,7 @@
 	},
 	{
 		"key": "spatial",
-		"value": "{\"type\": \"Polygon\", \"coordinates\": [[[-95.5, 24.0], [-79.5, 24.0], [-79.5, 30.5], [-95.5, 30.5], [-95.5, 24.0]]]}"
+		"value": "{"type": "Polygon", "coordinates": [[[-95.5, 24.0], [-79.5, 24.0], [-79.5, 30.5], [-95.5, 30.5], [-95.5, 24.0]]]}"
 	},
 	{
 		"key": "progress",
@@ -182,7 +182,7 @@
 	},
 	{
 		"key": "access_constraints",
-		"value": "[\"Use Constraints: None\", \"Access Constraints: None\"]"
+		"value": "["Use Constraints: None", "Access Constraints: None"]"
 	},
 	{
 		"key": "temporal-extent-begin",
@@ -202,7 +202,7 @@
 	},
 	{
 		"key": "dataset-reference-date",
-		"value": "[{\"type\": \"publication\", \"value\": \"\"}]"
+		"value": "[{"type": "publication", "value": ""}]"
 	},
 	{
 		"key": "graphic-preview-description",
@@ -214,7 +214,7 @@
 	},
 	{
 		"key": "licence",
-		"value": "[\"NOAA makes no warranty regarding these data, expressed or implied, nor does the fact of distribution constitute such a warranty. NOAA, NESDIS, NODC and NCDDC cannot assume liability for any damages caused by any errors or omissions in these data, nor as a result of the failure of these data to function on a particular system.\"]"
+		"value": "["NOAA makes no warranty regarding these data, expressed or implied, nor does the fact of distribution constitute such a warranty. NOAA, NESDIS, NODC and NCDDC cannot assume liability for any damages caused by any errors or omissions in these data, nor as a result of the failure of these data to function on a particular system."]"
 	},
 	{
 		"key": "metadata_type",
@@ -222,7 +222,7 @@
 	},
 	{
 		"key": "responsible-party",
-		"value": "[{\"name\": \"NOAA\/NESDIS\/NODC\/NCDDC-National Coastal Data Development Center\", \"roles\": [\"pointOfContact\"]}]"
+		"value": "[{"name": "NOAA/NESDIS/NODC/NCDDC-National Coastal Data Development Center", "roles": ["pointOfContact"]}]"
 	},
 	{
 		"key": "temporal-extent-end",

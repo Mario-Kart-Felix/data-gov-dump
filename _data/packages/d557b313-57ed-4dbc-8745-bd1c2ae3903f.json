@@ -37,7 +37,7 @@
 		"cache_url": null,
 		"name": "Zip File",
 		"created": "2016-04-01T16:55:19.627705",
-		"url": "ftp:\/\/ftp.dfg.ca.gov\/BDB\/GIS\/BIOS\/Public_Datasets\/500_599\/ds566.zip",
+		"url": "ftp://ftp.dfg.ca.gov/BDB/GIS/BIOS/Public_Datasets/500_599/ds566.zip",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 0,
@@ -67,7 +67,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2016-04-01T16:55:19.627727",
-		"url": "http:\/\/bios.dfg.ca.gov\/",
+		"url": "http://bios.dfg.ca.gov/",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 1,
@@ -87,7 +87,7 @@
 	"name": "vegetation-northern-sierra-nevada-foothills-ds566",
 	"isopen": false,
 	"url": null,
-	"notes": "The California Department of Fish and Game (CDFG) worked collaboratively with the California Native Plant Society (CNPS) and Aerial Information Systems (AIS) to produce a fine-scale vegetation map of the northern Sierra Nevada Foothills region, here defined by the two northern subsections of the USDA's Sierra Nevada Foothills Section (Miles and Goudey 1997). This includes 2.6 million acres of land, with approximately 15% under public ownership and 85% under private ownership. Vegetation sampling by means of the CNPS Relev\u00e9 and Rapid Assessment Protocols was used to obtain a total of 710 Relev\u00e9s and 1691 Rapid Assessments, which were used to develop a quantitative classification based on cluster and indicator species analyses. The resulting classification describes vegetation types according to the National Vegetation Classification System; and was used as a basis for creating a map classification generally at the alliance level, where natural vegetation stands were discernable to that level using 1-meter aerial imagery acquired as part of the National Agricultural Imagery Program (NAIP) in 2005 and 2009. The vegetation map includes 67 map units, of which 54 are natural vegetation map units at the floristic alliance level or higher (group) level and 13 are non-vegetation land use mapping units.",
+	"notes": "The California Department of Fish and Game (CDFG) worked collaboratively with the California Native Plant Society (CNPS) and Aerial Information Systems (AIS) to produce a fine-scale vegetation map of the northern Sierra Nevada Foothills region, here defined by the two northern subsections of the USDA's Sierra Nevada Foothills Section (Miles and Goudey 1997). This includes 2.6 million acres of land, with approximately 15% under public ownership and 85% under private ownership. Vegetation sampling by means of the CNPS Relevu00e9 and Rapid Assessment Protocols was used to obtain a total of 710 Relevu00e9s and 1691 Rapid Assessments, which were used to develop a quantitative classification based on cluster and indicator species analyses. The resulting classification describes vegetation types according to the National Vegetation Classification System; and was used as a basis for creating a map classification generally at the alliance level, where natural vegetation stands were discernable to that level using 1-meter aerial imagery acquired as part of the National Agricultural Imagery Program (NAIP) in 2005 and 2009. The vegetation map includes 67 map units, of which 54 are natural vegetation map units at the floristic alliance level or higher (group) level and 13 are non-vegetation land use mapping units.",
 	"license_title": null,
 	"extras": [{
 		"key": "bbox-east-long",
@@ -123,7 +123,7 @@
 	},
 	{
 		"key": "spatial",
-		"value": "{\"type\": \"Polygon\", \"coordinates\": [[[-122.243793, 37.057372], [-119.895351, 37.057372], [-119.895351, 40.722373], [-122.243793, 40.722373], [-122.243793, 37.057372]]]}"
+		"value": "{"type": "Polygon", "coordinates": [[[-122.243793, 37.057372], [-119.895351, 37.057372], [-119.895351, 40.722373], [-122.243793, 40.722373], [-122.243793, 37.057372]]]}"
 	},
 	{
 		"key": "progress",
@@ -131,7 +131,7 @@
 	},
 	{
 		"key": "access_constraints",
-		"value": "[\"Use Constraints: None\", \"Access Constraints: None\"]"
+		"value": "["Use Constraints: None", "Access Constraints: None"]"
 	},
 	{
 		"key": "temporal-extent-begin",
@@ -151,7 +151,7 @@
 	},
 	{
 		"key": "dataset-reference-date",
-		"value": "[{\"type\": \"publication\", \"value\": \"2011-06-07\"}]"
+		"value": "[{"type": "publication", "value": "2011-06-07"}]"
 	},
 	{
 		"key": "frequency-of-update",
@@ -159,7 +159,7 @@
 	},
 	{
 		"key": "licence",
-		"value": "[\"See access and use constraints information.\"]"
+		"value": "["See access and use constraints information."]"
 	},
 	{
 		"key": "metadata_type",
@@ -167,7 +167,7 @@
 	},
 	{
 		"key": "responsible-party",
-		"value": "[{\"name\": \"CA Dept. of Fish and Game Vegetation Classification and Mapping Program\", \"roles\": [\"pointOfContact\"]}]"
+		"value": "[{"name": "CA Dept. of Fish and Game Vegetation Classification and Mapping Program", "roles": ["pointOfContact"]}]"
 	},
 	{
 		"key": "temporal-extent-end",
@@ -213,7 +213,7 @@
 		"revision_timestamp": "2013-05-31T17:51:13.706377",
 		"is_organization": true,
 		"state": "active",
-		"image_url": "http:\/\/www.ca.gov\/images\/template2012\/header_ca.gov.png",
+		"image_url": "http://www.ca.gov/images/template2012/header_ca.gov.png",
 		"revision_id": "ad94cda4-9394-44d0-9c37-573dc3c47c9a",
 		"type": "organization",
 		"id": "467d900f-8a42-452d-9906-6610dd1a767f",

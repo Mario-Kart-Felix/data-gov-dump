@@ -30,11 +30,11 @@
 			"recent": 1
 		},
 		"mimetype_inner": null,
-		"mimetype": "text\/csv",
+		"mimetype": "text/csv",
 		"cache_url": null,
 		"name": "TMY Station number and location",
 		"created": "2015-02-23T15:19:55.718349",
-		"url": "http:\/\/en.openei.org\/doe-opendata\/dataset\/4a8cbe60-3a98-4e33-9fc2-58bf814c0d69\/resource\/dfd31e27-4ace-4935-8826-8c7f99df4d59\/download\/nepaltmy.csv",
+		"url": "http://en.openei.org/doe-opendata/dataset/4a8cbe60-3a98-4e33-9fc2-58bf814c0d69/resource/dfd31e27-4ace-4935-8826-8c7f99df4d59/download/nepaltmy.csv",
 		"webstore_url": null,
 		"last_modified": null,
 		"position": 0,
@@ -57,11 +57,11 @@
 			"recent": 1
 		},
 		"mimetype_inner": null,
-		"mimetype": "application\/zip",
+		"mimetype": "application/zip",
 		"cache_url": null,
 		"name": "Download TMY data",
 		"created": "2015-02-23T15:19:55.718370",
-		"url": "http:\/\/en.openei.org\/doe-opendata\/dataset\/4a8cbe60-3a98-4e33-9fc2-58bf814c0d69\/resource\/6a87f06a-7a1c-4df7-a2ed-d0da2559974c\/download\/nepalhr155.zip",
+		"url": "http://en.openei.org/doe-opendata/dataset/4a8cbe60-3a98-4e33-9fc2-58bf814c0d69/resource/6a87f06a-7a1c-4df7-a2ed-d0da2559974c/download/nepalhr155.zip",
 		"webstore_url": null,
 		"last_modified": null,
 		"position": 1,
@@ -160,7 +160,7 @@
 	"name": "solar-hourly-solar-direct-normal-dni-global-horizontal-ghi-and-diffuse-data-for-selected-s-f54d0",
 	"isopen": true,
 	"url": null,
-	"notes": "_(Abstract):_  Each data file is a set of hourly values of solar radiation and meteorological elements for a 1-year period. Solar radiation is modeled using the [NREL](http:\/\/en.openei.org\/wiki\/NREL) METSTAT model, with surface observed cloud cover being the principal model input. Each container file contains up to 30 yearly files for one station, plus the Typical Meteorological Year (TMY) file for the selected station, plus documentation files and a TMY data reader file for use with Microsoft Excel.\r\n\r\n_(Purpose):_  Simulations\r\n\r\n_(Supplemental Information):_   The intended use of these data files is for computer simulations of solar energy conversion systems and building systems. The yearly data may be suitable for designing systems and their components to meet the worst-case conditions occurring at a location, if enough years of data are present. The TMY consists of months selected from individual years and concatenated to form a complete year.. Because of the selection criteria, these TMYs are not appropriate for simulations of wind energy conversion systems. A TMY provides a standard for hourly data for solar radiation and other meteorological elements that permit performance comparisons of system types and configurations for one or more locations. A TMY is not necessarily a good indicator of conditions over the next year, or even the next 5 years. Rather, it represents conditions judged to be typical over a long period of time, such as 30 years.",
+	"notes": "_(Abstract):_  Each data file is a set of hourly values of solar radiation and meteorological elements for a 1-year period. Solar radiation is modeled using the [NREL](http://en.openei.org/wiki/NREL) METSTAT model, with surface observed cloud cover being the principal model input. Each container file contains up to 30 yearly files for one station, plus the Typical Meteorological Year (TMY) file for the selected station, plus documentation files and a TMY data reader file for use with Microsoft Excel.rnrn_(Purpose):_  Simulationsrnrn_(Supplemental Information):_   The intended use of these data files is for computer simulations of solar energy conversion systems and building systems. The yearly data may be suitable for designing systems and their components to meet the worst-case conditions occurring at a location, if enough years of data are present. The TMY consists of months selected from individual years and concatenated to form a complete year.. Because of the selection criteria, these TMYs are not appropriate for simulations of wind energy conversion systems. A TMY provides a standard for hourly data for solar radiation and other meteorological elements that permit performance comparisons of system types and configurations for one or more locations. A TMY is not necessarily a good indicator of conditions over the next year, or even the next 5 years. Rather, it represents conditions judged to be typical over a long period of time, such as 30 years.",
 	"license_title": "Other License Specified",
 	"extras": [{
 		"key": "harvest_source_id",
@@ -180,23 +180,23 @@
 	},
 	{
 		"key": "spatial",
-		"value": "{\"type\":\"Polygon\",\"coordinates\":[[[79.97871093749995,26.267667361864945],[88.2163257812499,26.267667361864945],[88.2163257812499,30.48936668494588],[79.97871093749995,30.48936668494588],[79.97871093749995,26.267667361864945]]]}"
+		"value": "{"type":"Polygon","coordinates":[[[79.97871093749995,26.267667361864945],[88.2163257812499,26.267667361864945],[88.2163257812499,30.48936668494588],[79.97871093749995,30.48936668494588],[79.97871093749995,26.267667361864945]]]}"
 	},
 	{
 		"key": "catalog_conformsTo",
-		"value": "https:\/\/project-open-data.cio.gov\/v1.1\/schema"
+		"value": "https://project-open-data.cio.gov/v1.1/schema"
 	},
 	{
 		"key": "catalog_@context",
-		"value": "https:\/\/project-open-data.cio.gov\/v1.1\/schema\/catalog.jsonld"
+		"value": "https://project-open-data.cio.gov/v1.1/schema/catalog.jsonld"
 	},
 	{
 		"key": "catalog_describedBy",
-		"value": "https:\/\/project-open-data.cio.gov\/v1.1\/schema\/catalog.json"
+		"value": "https://project-open-data.cio.gov/v1.1/schema/catalog.json"
 	},
 	{
 		"key": "format",
-		"value": "text\/csv"
+		"value": "text/csv"
 	},
 	{
 		"key": "harvest_source_title",
@@ -216,7 +216,7 @@
 	},
 	{
 		"key": "landingPage",
-		"value": "http:\/\/www.nrel.gov"
+		"value": "http://www.nrel.gov"
 	},
 	{
 		"key": "harvest_object_id",
@@ -224,7 +224,7 @@
 	},
 	{
 		"key": "accessURL",
-		"value": "http:\/\/en.openei.org\/doe-opendata\/dataset\/4a8cbe60-3a98-4e33-9fc2-58bf814c0d69\/resource\/dfd31e27-4ace-4935-8826-8c7f99df4d59\/download\/nepaltmy.csv"
+		"value": "http://en.openei.org/doe-opendata/dataset/4a8cbe60-3a98-4e33-9fc2-58bf814c0d69/resource/dfd31e27-4ace-4935-8826-8c7f99df4d59/download/nepaltmy.csv"
 	},
 	{
 		"key": "publisher",
@@ -232,7 +232,7 @@
 	},
 	{
 		"key": "license",
-		"value": "http:\/\/www.opendefinition.org\/licenses\/odc-pddl"
+		"value": "http://www.opendefinition.org/licenses/odc-pddl"
 	},
 	{
 		"key": "modified",
@@ -248,7 +248,7 @@
 	},
 	{
 		"key": "identifier",
-		"value": "http:\/\/en.openei.org\/doe-opendata\/dataset\/4a8cbe60-3a98-4e33-9fc2-58bf814c0d69"
+		"value": "http://en.openei.org/doe-opendata/dataset/4a8cbe60-3a98-4e33-9fc2-58bf814c0d69"
 	},
 	{
 		"state": "active",
@@ -273,7 +273,7 @@
 		"revision_timestamp": "2013-05-31T20:48:37.771905",
 		"is_organization": true,
 		"state": "active",
-		"image_url": "http:\/\/energy.gov\/sites\/prod\/files\/styles\/imagelink\/public\/DoE-Logo.jpeg",
+		"image_url": "http://energy.gov/sites/prod/files/styles/imagelink/public/DoE-Logo.jpeg",
 		"revision_id": "14e1d3c1-4cc7-460c-bf1c-b10e3429b4b0",
 		"type": "organization",
 		"id": "735d0118-b2a7-4246-a0e3-608b0fa8d1ec",

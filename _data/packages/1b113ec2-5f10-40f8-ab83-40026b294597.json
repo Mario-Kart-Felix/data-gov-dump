@@ -37,7 +37,7 @@
 		"cache_url": null,
 		"name": "Text File",
 		"created": "2015-12-20T13:54:31.214358",
-		"url": "ftp:\/\/ftp.ncdc.noaa.gov\/pub\/data\/paleo\/coral\/west_pacific\/espiritu_santo_1994.txt",
+		"url": "ftp://ftp.ncdc.noaa.gov/pub/data/paleo/coral/west_pacific/espiritu_santo_1994.txt",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 0,
@@ -57,11 +57,11 @@
 	"name": "espiritu-santo-vanuatu-stable-isotope-delta-18o-delta-13c-data-for-1806-to-1979",
 	"isopen": false,
 	"url": null,
-	"notes": "Site: Espiritu Santo Island, Vanuatu, 15S, 167E. 173 year record of d18O and d13C. Variable names: QSR Age, QSR 13C, QSR 18O, GRL Age, GRL Qtrly 13C, GRL Qtrly 18O, Year, MA-13C-2y, MA-18O-2y, MA-13C-4y, MA-18O-4y. Variable unit: per mil relative to PDB. Data precision better than 0.8 per mil for both 13C and 18O. Data format: Excel file. Description of data : Stable isotopic analyses were done at the University of Michigan. Powdered coralline aragonite samples (~ 100 mg) were vacuum roasted for one hour at 200 deg C before isotopic analysis. Samples were reacted with anhydrous phosphoric acid at 75 deg C in individual reaction vessels of a CarboKiel carbonate extraction system coupled to the inlet of a MAT 251 mass spectrometer. Precision ( &oacute; 1 s) was monitored by daily analyses of a powdered calcite standard (NBS-20), and was better than 0.08 0\/00 for both carbon and oxygen. Values are reported in standard d notation relative to the Chicago PDB standard. Ages were derived from annual density banding.",
+	"notes": "Site: Espiritu Santo Island, Vanuatu, 15S, 167E. 173 year record of d18O and d13C. Variable names: QSR Age, QSR 13C, QSR 18O, GRL Age, GRL Qtrly 13C, GRL Qtrly 18O, Year, MA-13C-2y, MA-18O-2y, MA-13C-4y, MA-18O-4y. Variable unit: per mil relative to PDB. Data precision better than 0.8 per mil for both 13C and 18O. Data format: Excel file. Description of data : Stable isotopic analyses were done at the University of Michigan. Powdered coralline aragonite samples (~ 100 mg) were vacuum roasted for one hour at 200 deg C before isotopic analysis. Samples were reacted with anhydrous phosphoric acid at 75 deg C in individual reaction vessels of a CarboKiel carbonate extraction system coupled to the inlet of a MAT 251 mass spectrometer. Precision ( &oacute; 1 s) was monitored by daily analyses of a powdered calcite standard (NBS-20), and was better than 0.08 0/00 for both carbon and oxygen. Values are reported in standard d notation relative to the Chicago PDB standard. Ages were derived from annual density banding.",
 	"license_title": null,
 	"extras": [{
 		"key": "bbox-east-long",
-		"value": "\n          167\n        "
+		"value": "n          167n        "
 	},
 	{
 		"key": "resource-type",
@@ -69,7 +69,7 @@
 	},
 	{
 		"key": "bbox-north-lat",
-		"value": "\n          -15\n        "
+		"value": "n          -15n        "
 	},
 	{
 		"key": "coupled-resource",
@@ -85,7 +85,7 @@
 	},
 	{
 		"key": "bbox-south-lat",
-		"value": "\n          -15\n        "
+		"value": "n          -15n        "
 	},
 	{
 		"key": "spatial-reference-system",
@@ -93,7 +93,7 @@
 	},
 	{
 		"key": "spatial",
-		"value": "{\"type\": \"Point\", \"coordinates\": [167.0, -15.0]}"
+		"value": "{"type": "Point", "coordinates": [167.0, -15.0]}"
 	},
 	{
 		"key": "progress",
@@ -101,7 +101,7 @@
 	},
 	{
 		"key": "access_constraints",
-		"value": "[\"Use Constraints: Please cite original reference when using this data.\", \"Access Constraints: None\"]"
+		"value": "["Use Constraints: Please cite original reference when using this data.", "Access Constraints: None"]"
 	},
 	{
 		"key": "temporal-extent-begin",
@@ -113,7 +113,7 @@
 	},
 	{
 		"key": "bbox-west-long",
-		"value": "\n          167\n        "
+		"value": "n          167n        "
 	},
 	{
 		"key": "metadata-date",
@@ -121,7 +121,7 @@
 	},
 	{
 		"key": "dataset-reference-date",
-		"value": "[{\"type\": \"publication\", \"value\": \"1994-08-01\"}]"
+		"value": "[{"type": "publication", "value": "1994-08-01"}]"
 	},
 	{
 		"key": "frequency-of-update",
@@ -129,7 +129,7 @@
 	},
 	{
 		"key": "licence",
-		"value": "[\"\\n      Disclaimer- While every effort has been made to ensure that these data are accurate and reliable within the limits of the current state of the art, NOAA cannot assume liability for any damages caused by any errors or omissions in the data, nor as a result of the failure of the data to function on a particular system.  NOAA makes no warranty, expressed or implied, nor does the fact of distribution constitute such a warranty.\\n    \"]"
+		"value": "["\n      Disclaimer- While every effort has been made to ensure that these data are accurate and reliable within the limits of the current state of the art, NOAA cannot assume liability for any damages caused by any errors or omissions in the data, nor as a result of the failure of the data to function on a particular system.  NOAA makes no warranty, expressed or implied, nor does the fact of distribution constitute such a warranty.\n    "]"
 	},
 	{
 		"key": "metadata_type",
@@ -137,7 +137,7 @@
 	},
 	{
 		"key": "responsible-party",
-		"value": "[{\"name\": \"NOAA Paleoclimatology Program\", \"roles\": [\"pointOfContact\"]}]"
+		"value": "[{"name": "NOAA Paleoclimatology Program", "roles": ["pointOfContact"]}]"
 	},
 	{
 		"key": "temporal-extent-end",
@@ -153,7 +153,7 @@
 	},
 	{
 		"package_id": "1b113ec2-5f10-40f8-ab83-40026b294597",
-		"value": "coral records, pacific ocean, numeric data sets, delta 18o, shepherd group, espiritu santo, holocene, modern, south pacific ocean, country\/territory, paleoclimate, paleoclimatology, delta 13c, ocean basin, vanuatu, espiritu santo (15s166e0001), earth science",
+		"value": "coral records, pacific ocean, numeric data sets, delta 18o, shepherd group, espiritu santo, holocene, modern, south pacific ocean, country/territory, paleoclimate, paleoclimatology, delta 13c, ocean basin, vanuatu, espiritu santo (15s166e0001), earth science",
 		"revision_timestamp": "2015-12-20T18:54:31.128374",
 		"state": "active",
 		"key": "tags",
@@ -183,7 +183,7 @@
 		"revision_timestamp": "2013-03-25T23:05:12.923863",
 		"is_organization": true,
 		"state": "active",
-		"image_url": "https:\/\/fortress.wa.gov\/dfw\/score\/score\/images\/noaa_logo.png",
+		"image_url": "https://fortress.wa.gov/dfw/score/score/images/noaa_logo.png",
 		"revision_id": "c6d43080-22e1-405e-a83d-f2a512d9e867",
 		"type": "organization",
 		"id": "e811f0b4-451f-4896-9e8f-fc6802837819",

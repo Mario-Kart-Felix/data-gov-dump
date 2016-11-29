@@ -36,7 +36,7 @@
 		"cache_url": null,
 		"name": "NDGIS web site",
 		"created": "2013-12-07T04:05:17.642020",
-		"url": "http:\/\/www.nd.gov\/gis",
+		"url": "http://www.nd.gov/gis",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 0,
@@ -65,7 +65,7 @@
 		"cache_url": null,
 		"name": "Download Railroad Crossings",
 		"created": "2013-12-07T04:05:17.642041",
-		"url": "http:\/\/www.nd.gov\/gis\/apps\/DataDownload\/?clipping=Full&coord=ND83-SF&format=SHAPE&layers=NDHUB.RAILROAD_CROSSINGS",
+		"url": "http://www.nd.gov/gis/apps/DataDownload/?clipping=Full&coord=ND83-SF&format=SHAPE&layers=NDHUB.RAILROAD_CROSSINGS",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 1,
@@ -94,7 +94,7 @@
 		"cache_url": null,
 		"name": "Railroad Crossings",
 		"created": "2013-12-07T04:05:17.642050",
-		"url": "http:\/\/ndgishub.nd.gov\/arcgis\/services\/All_Transportation\/MapServer\/WMSServer?",
+		"url": "http://ndgishub.nd.gov/arcgis/services/All_Transportation/MapServer/WMSServer?",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 2,
@@ -123,7 +123,7 @@
 		"cache_url": null,
 		"name": "Esri REST including WMS",
 		"created": "2013-12-07T04:05:17.642058",
-		"url": "http:\/\/ndgishub.nd.gov\/ArcGIS\/rest\/services\/All_Transportation\/MapServer",
+		"url": "http://ndgishub.nd.gov/ArcGIS/rest/services/All_Transportation/MapServer",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 3,
@@ -152,7 +152,7 @@
 		"cache_url": null,
 		"name": "Esri REST including WFS and KML",
 		"created": "2013-12-07T04:05:17.642066",
-		"url": "http:\/\/ndgishub.nd.gov\/ArcGIS\/rest\/services\/Features\/Transportation\/MapServer",
+		"url": "http://ndgishub.nd.gov/ArcGIS/rest/services/Features/Transportation/MapServer",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 4,
@@ -185,7 +185,7 @@
 	"name": "railroad-crossings",
 	"isopen": false,
 	"url": null,
-	"notes": "6\/18\/09 - No major changes\n\n2\/13\/07 - Updated via 2004 NAIP photos: Barnes, Cass, Eddy, Foster, Griggs, Kidder, Steele, Stutsman, Traill, Wells \n\n5\/16\/06 - added 2 missing crossings in West Fargo. \n\n12\/28\/05 - Counties updated: Emmons, Logan, Mcintosh, Lamoure, Dickey, Ransom, Sargent, Richland, Divide, Williams, Burke, Mountrail, Ward, Renville, Bottineau, and Mchenry \n\nThis data came from the NDDOT's Mapping Section. The original data was digitized from hand scribed maps and registered to the 1:24000 USGS PLSS data. The digitized data is maintained in individual county tiles. These tiles were appended together to make a singe state wide coverage. It was then converted from a projection (NAD 1983 UTM Zone 14N) to a Geographic coordinate system.",
+	"notes": "6/18/09 - No major changesnn2/13/07 - Updated via 2004 NAIP photos: Barnes, Cass, Eddy, Foster, Griggs, Kidder, Steele, Stutsman, Traill, Wells nn5/16/06 - added 2 missing crossings in West Fargo. nn12/28/05 - Counties updated: Emmons, Logan, Mcintosh, Lamoure, Dickey, Ransom, Sargent, Richland, Divide, Williams, Burke, Mountrail, Ward, Renville, Bottineau, and Mchenry nnThis data came from the NDDOT's Mapping Section. The original data was digitized from hand scribed maps and registered to the 1:24000 USGS PLSS data. The digitized data is maintained in individual county tiles. These tiles were appended together to make a singe state wide coverage. It was then converted from a projection (NAD 1983 UTM Zone 14N) to a Geographic coordinate system.",
 	"license_title": null,
 	"extras": [{
 		"key": "bbox-east-long",
@@ -229,7 +229,7 @@
 	},
 	{
 		"key": "spatial",
-		"value": "{\"type\": \"Polygon\", \"coordinates\": [[[-104.041562, 45.935335], [-96.575489, 45.935335], [-96.575489, 48.991926], [-104.041562, 48.991926], [-104.041562, 45.935335]]]}"
+		"value": "{"type": "Polygon", "coordinates": [[[-104.041562, 45.935335], [-96.575489, 45.935335], [-96.575489, 48.991926], [-104.041562, 48.991926], [-104.041562, 45.935335]]]}"
 	},
 	{
 		"key": "progress",
@@ -237,7 +237,7 @@
 	},
 	{
 		"key": "access_constraints",
-		"value": "[\"The State of North Dakota has compiled this data according to conventional cartographic standards, using what is thought to be the most reliable information available. This data is intended to make results of research available at the earliest possible date, but is not intended to constitute final or formal publication. The State of North Dakota makes every effort to provide virus-free files but does not guarantee uncorrupted files. The State of North Dakota does not guarantee this data to be free from errors, inaccuracies, or viruses, and disclaims any responsibility or liability for interpretations or decisions based on this data.\"]"
+		"value": "["The State of North Dakota has compiled this data according to conventional cartographic standards, using what is thought to be the most reliable information available. This data is intended to make results of research available at the earliest possible date, but is not intended to constitute final or formal publication. The State of North Dakota makes every effort to provide virus-free files but does not guarantee uncorrupted files. The State of North Dakota does not guarantee this data to be free from errors, inaccuracies, or viruses, and disclaims any responsibility or liability for interpretations or decisions based on this data."]"
 	},
 	{
 		"key": "contact-email",
@@ -253,7 +253,7 @@
 	},
 	{
 		"key": "dataset-reference-date",
-		"value": "[{\"type\": \"publication\", \"value\": \"2009-06-18\"}]"
+		"value": "[{"type": "publication", "value": "2009-06-18"}]"
 	},
 	{
 		"key": "graphic-preview-description",
@@ -273,7 +273,7 @@
 	},
 	{
 		"key": "responsible-party",
-		"value": "[{\"name\": \"ND Department of Transportation\", \"roles\": [\"pointOfContact\"]}]"
+		"value": "[{"name": "ND Department of Transportation", "roles": ["pointOfContact"]}]"
 	},
 	{
 		"key": "spatial-data-service-type",
@@ -308,14 +308,14 @@
 		"value": "North Dakota GIS Hub Data Portal"
 	}],
 	"organization": {
-		"description": "The GIS Hub is the state source for GIS - data, services, and information.  More information can be found at www.nd.gov\/gis.",
+		"description": "The GIS Hub is the state source for GIS - data, services, and information.  More information can be found at www.nd.gov/gis.",
 		"created": "2013-03-14T03:44:44.340717",
 		"title": "State of North Dakota",
 		"name": "nd-gov",
 		"revision_timestamp": "2013-07-15T16:27:30.098476",
 		"is_organization": true,
 		"state": "active",
-		"image_url": "http:\/\/www.nd.gov\/gis\/images\/ndgis-logo.gif",
+		"image_url": "http://www.nd.gov/gis/images/ndgis-logo.gif",
 		"revision_id": "27517bb9-815c-4d4f-b45b-b88b6316697b",
 		"type": "organization",
 		"id": "1c782de6-9f1f-4427-93fd-33732e29970f",

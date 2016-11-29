@@ -37,7 +37,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2013-03-14T20:21:58.544749",
-		"url": "http:\/\/www.ehib.org\/page.jsp?page_key=20",
+		"url": "http://www.ehib.org/page.jsp?page_key=20",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 0,
@@ -98,7 +98,7 @@
 	},
 	{
 		"key": "dataset-reference-date",
-		"value": "[{\"type\": \"publication\", \"value\": \"2008-09-25\"}]"
+		"value": "[{"type": "publication", "value": "2008-09-25"}]"
 	},
 	{
 		"key": "resource-type",
@@ -126,7 +126,7 @@
 	},
 	{
 		"key": "licence",
-		"value": "[\"Although these data have been processed successfully on a computer system at the CDC, no warranty expressed or implied is made regarding the accuracy or utility of the data on any other system or for general or scientific purposes, nor shall the act of distribution constitute any such warranty. It is also strongly recommended that careful attention be paid to the contents of the metadata file associated with these data to evaluate data set limitations, restrictions or intended use. The U.S. CDC shall not be held liable for improper or incorrect use of the data described and\/or contained herein.\"]"
+		"value": "["Although these data have been processed successfully on a computer system at the CDC, no warranty expressed or implied is made regarding the accuracy or utility of the data on any other system or for general or scientific purposes, nor shall the act of distribution constitute any such warranty. It is also strongly recommended that careful attention be paid to the contents of the metadata file associated with these data to evaluate data set limitations, restrictions or intended use. The U.S. CDC shall not be held liable for improper or incorrect use of the data described and/or contained herein."]"
 	},
 	{
 		"key": "metadata_type",
@@ -134,11 +134,11 @@
 	},
 	{
 		"key": "responsible-party",
-		"value": "[{\"name\": \"Environmental Health Tracking Branch, CDC\", \"roles\": [\"pointOfContact\"]}]"
+		"value": "[{"name": "Environmental Health Tracking Branch, CDC", "roles": ["pointOfContact"]}]"
 	},
 	{
 		"key": "spatial",
-		"value": "{\"type\": \"Polygon\", \"coordinates\": [[[-124.409721, 32.53416], [-124.409721, 42.009522], [-114.131208, 42.009522], [-114.131208, 32.53416], [-124.409721, 32.53416]]]}"
+		"value": "{"type": "Polygon", "coordinates": [[[-124.409721, 32.53416], [-124.409721, 42.009522], [-114.131208, 42.009522], [-114.131208, 32.53416], [-124.409721, 32.53416]]]}"
 	},
 	{
 		"key": "guid",
@@ -150,7 +150,7 @@
 	},
 	{
 		"key": "access_constraints",
-		"value": "[\"Use Constraints: As general indicators of air quality over space and time. These indicators are not intended for use in performing health assessments or otherwise being directly linked (related) with health data. Acknowledgement of the EPA would be appreciated.\", \"Access Constraints: None\"]"
+		"value": "["Use Constraints: As general indicators of air quality over space and time. These indicators are not intended for use in performing health assessments or otherwise being directly linked (related) with health data. Acknowledgement of the EPA would be appreciated.", "Access Constraints: None"]"
 	},
 	{
 		"key": "frequency-of-update",
@@ -188,7 +188,7 @@
 		"revision_timestamp": "2013-03-20T22:38:57.757471",
 		"is_organization": true,
 		"state": "active",
-		"image_url": "http:\/\/www.cdph.ca.gov\/Style%20Library\/images\/heading_department.gif",
+		"image_url": "http://www.cdph.ca.gov/Style%20Library/images/heading_department.gif",
 		"revision_id": "2e6d9df7-d76d-49fe-9ae7-a29b5858a6ec",
 		"type": "organization",
 		"id": "4336fab3-e059-47af-aebe-f02711676b7b",

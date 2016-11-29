@@ -37,7 +37,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2015-09-26T19:44:19.089652",
-		"url": "http:\/\/www.csc.noaa.gov\/digitalcoast",
+		"url": "http://www.csc.noaa.gov/digitalcoast",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 0,
@@ -67,7 +67,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2015-09-26T19:44:19.089673",
-		"url": "http:\/\/www.csc.noaa.gov\/digitalcoast",
+		"url": "http://www.csc.noaa.gov/digitalcoast",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 1,
@@ -89,7 +89,7 @@
 		"revision_timestamp": "2013-03-25T23:05:12.923863",
 		"is_organization": true,
 		"state": "active",
-		"image_url": "https:\/\/fortress.wa.gov\/dfw\/score\/score\/images\/noaa_logo.png",
+		"image_url": "https://fortress.wa.gov/dfw/score/score/images/noaa_logo.png",
 		"revision_id": "c6d43080-22e1-405e-a83d-f2a512d9e867",
 		"type": "organization",
 		"id": "e811f0b4-451f-4896-9e8f-fc6802837819",
@@ -104,7 +104,7 @@
 	"owner_org": "e811f0b4-451f-4896-9e8f-fc6802837819",
 	"extras": [{
 		"key": "bbox-east-long",
-		"value": "-85.824040\n"
+		"value": "-85.824040n"
 	},
 	{
 		"key": "resource-type",
@@ -112,7 +112,7 @@
 	},
 	{
 		"key": "bbox-north-lat",
-		"value": "30.552050\n"
+		"value": "30.552050n"
 	},
 	{
 		"key": "coupled-resource",
@@ -128,7 +128,7 @@
 	},
 	{
 		"key": "bbox-south-lat",
-		"value": "30.255360\n"
+		"value": "30.255360n"
 	},
 	{
 		"key": "spatial-reference-system",
@@ -136,7 +136,7 @@
 	},
 	{
 		"key": "spatial",
-		"value": "{\"type\": \"Polygon\", \"coordinates\": [[[-86.68, 30.25536], [-85.82404, 30.25536], [-85.82404, 30.55205], [-86.68, 30.55205], [-86.68, 30.25536]]]}"
+		"value": "{"type": "Polygon", "coordinates": [[[-86.68, 30.25536], [-85.82404, 30.25536], [-85.82404, 30.55205], [-86.68, 30.55205], [-86.68, 30.25536]]]}"
 	},
 	{
 		"key": "progress",
@@ -144,7 +144,7 @@
 	},
 	{
 		"key": "access_constraints",
-		"value": "[\"Use Constraints: Data set is not for use in litigation. While efforts have been made to ensure that these data are accurate and reliable within the state of the art, NOAA, cannot assume liability for any damages, or misrepresentations, caused by any inaccuracies in the data, or as a result of the data to be used on a particular system. NOAA makes no warranty, expressed or implied, nor does the fact of distribution constitute such a warranty. We do request that you credit the National Oceanic and Atmospheric Administration (NOAA) when you use these photos in a report, publication, or presentation.\", \"Access Constraints: None\"]"
+		"value": "["Use Constraints: Data set is not for use in litigation. While efforts have been made to ensure that these data are accurate and reliable within the state of the art, NOAA, cannot assume liability for any damages, or misrepresentations, caused by any inaccuracies in the data, or as a result of the data to be used on a particular system. NOAA makes no warranty, expressed or implied, nor does the fact of distribution constitute such a warranty. We do request that you credit the National Oceanic and Atmospheric Administration (NOAA) when you use these photos in a report, publication, or presentation.", "Access Constraints: None"]"
 	},
 	{
 		"key": "temporal-extent-begin",
@@ -156,7 +156,7 @@
 	},
 	{
 		"key": "bbox-west-long",
-		"value": "-86.680000\n"
+		"value": "-86.680000n"
 	},
 	{
 		"key": "metadata-date",
@@ -164,7 +164,7 @@
 	},
 	{
 		"key": "dataset-reference-date",
-		"value": "[{\"type\": \"publication\", \"value\": \"2011-04-18\"}]"
+		"value": "[{"type": "publication", "value": "2011-04-18"}]"
 	},
 	{
 		"key": "frequency-of-update",
@@ -172,7 +172,7 @@
 	},
 	{
 		"key": "licence",
-		"value": "[\"Users must assume responsibility to determine the usability of these data. These photographs were obtained for use by NGS during the course of its development of potential final products to fulfill its statutory mission. Although NGS is making these photographs available to others who may find the photographs of value, NGS does not warrant, endorse, or recommend the use of these photographs for any given purpose. NGS is providing these photographs \\\"as is,\\\" and NGS disclaims any and all warranties, whether expressed or implied, including (without limitation) any implied warranties of merchantability or fitness for a particular purpose. In no event will NGS be liable to you or any third party for any direct, indirect, incidental, consequential, special, or exemplary damages or lost profits resulting from any use or misuse of these data.\\n\"]"
+		"value": "["Users must assume responsibility to determine the usability of these data. These photographs were obtained for use by NGS during the course of its development of potential final products to fulfill its statutory mission. Although NGS is making these photographs available to others who may find the photographs of value, NGS does not warrant, endorse, or recommend the use of these photographs for any given purpose. NGS is providing these photographs \"as is,\" and NGS disclaims any and all warranties, whether expressed or implied, including (without limitation) any implied warranties of merchantability or fitness for a particular purpose. In no event will NGS be liable to you or any third party for any direct, indirect, incidental, consequential, special, or exemplary damages or lost profits resulting from any use or misuse of these data.\n"]"
 	},
 	{
 		"key": "metadata_type",
@@ -180,7 +180,7 @@
 	},
 	{
 		"key": "responsible-party",
-		"value": "[{\"name\": \"National Oceanic and Atmospheric Administration (NOAA), National Ocean Service (NOS), National Geodetic Survey (NGS), Remote Sensing Division\", \"roles\": [\"pointOfContact\"]}]"
+		"value": "[{"name": "National Oceanic and Atmospheric Administration (NOAA), National Ocean Service (NOS), National Geodetic Survey (NGS), Remote Sensing Division", "roles": ["pointOfContact"]}]"
 	},
 	{
 		"key": "temporal-extent-end",
@@ -196,7 +196,7 @@
 	},
 	{
 		"key": "tags",
-		"value": "brooks bridge, jolly bay, eastern lake, tucker bayou, churchill bayou, bells leg, bear creek, draper lake, pippin lake, bishop lake, east pass, morris lake, camp creek lake, roberts lake, bunker cove, walker branch, lagrange bayou, mitchell river, silcox branch, east river island, powell lake, poquito bayou, point washington, live oak point, eagle creek, garnier creek, cinco bayou, ninemile branch, lake clyde, bunker island, bowman bayou, early branch, horseshoe bayou, toms creek, nancys cut island, horseshoe lake, oyster lake, west bay, ward creek, ward cove, fourmile creek, little redfish lake, philips inlet, pirate cove, fox head branch, west bay creek, sister river, alaqua point, fort walton beach, stake point, seagrove beach, mcquage bayou, kendrick pond, lake lorraine, peace pond, west bayou, roaring creek, jones bayou, mullet creek, irwin creek, littles bayou, mill creek, norreigo point, alligator lake, camp creek, wheeler point, puddin head lake, lake fox, nancys cutoff, hewett bayou, little trout creek, chula vista bayou, lafayette creek, reedy branch, toms bayou, brooks pond, jack lake, niceville, mill branch, black creek, south mouth, shoreline, shalimar, opossum island, basin bayou, rectified image, black point, broomstraw branch, john bayou, gardner run, big redfish lake, kelly pond, mallet bayou, trout lake, remotely sensed imagery\/photography, four prong lake, orthophoto, mack bayou, paradise point, florida, stewart lake, dons bayou, linton spring branch, cypress river, coastal zone, bens lake, boutwell branch, rushing cutoff, pine lake, rocky creek, destin, buccaroo point, coastal, motes point, alaqua creek, mitchell river island, lake earl, mussett bayou, boggy bayou, otter creek, rocky bayou, fuller lake, lake vivian, marler bayou, topsail bluff, bolton branch, shirk bayou, muddy lake, fourmile point, bass branch, hogtown bayou, santa rosa beach, morrison lake, big hammock point, moreno point, photograph, western lake, duck lake, weekley bayou, tenmile branch, white point, north channel, choctawhatchee river, blue mountain beach, shaw still branch, cobbs point, sewell branch, lower memorial lake, plew lake, nelson point, joyce branch, pate branch, aerial, smack point, destin harbor, sanders branch, sarah ann bayou, valparaiso, turkey creek, turnpike branch, alys beach, grass lake, buck bayou, doe head swamp, trout creek, indian bayou, east river, poley islands, live oak cutoff, boggy point, swift creek, c g melgs bridge, upper memorial lake, digital orthophotography, campbell lake, inside lake, alligator point, smokehouse lake, lightwood knot creek, sunset cove, sharon lake, williams lake, alaqua bayou, peach creek, marshall swamp, bass lake, tiller branch, ramsey branch, joes bayou, red fish lake, mosaic, indian river, sarah ann branch, devils swamp, grassy cove, deer lake, goodwin creek, long creek, shirk point, choctawhatchee bay, indian island, hammock point, garmier bayou, piney point, stalworth lake, clay point, hand cove",
+		"value": "brooks bridge, jolly bay, eastern lake, tucker bayou, churchill bayou, bells leg, bear creek, draper lake, pippin lake, bishop lake, east pass, morris lake, camp creek lake, roberts lake, bunker cove, walker branch, lagrange bayou, mitchell river, silcox branch, east river island, powell lake, poquito bayou, point washington, live oak point, eagle creek, garnier creek, cinco bayou, ninemile branch, lake clyde, bunker island, bowman bayou, early branch, horseshoe bayou, toms creek, nancys cut island, horseshoe lake, oyster lake, west bay, ward creek, ward cove, fourmile creek, little redfish lake, philips inlet, pirate cove, fox head branch, west bay creek, sister river, alaqua point, fort walton beach, stake point, seagrove beach, mcquage bayou, kendrick pond, lake lorraine, peace pond, west bayou, roaring creek, jones bayou, mullet creek, irwin creek, littles bayou, mill creek, norreigo point, alligator lake, camp creek, wheeler point, puddin head lake, lake fox, nancys cutoff, hewett bayou, little trout creek, chula vista bayou, lafayette creek, reedy branch, toms bayou, brooks pond, jack lake, niceville, mill branch, black creek, south mouth, shoreline, shalimar, opossum island, basin bayou, rectified image, black point, broomstraw branch, john bayou, gardner run, big redfish lake, kelly pond, mallet bayou, trout lake, remotely sensed imagery/photography, four prong lake, orthophoto, mack bayou, paradise point, florida, stewart lake, dons bayou, linton spring branch, cypress river, coastal zone, bens lake, boutwell branch, rushing cutoff, pine lake, rocky creek, destin, buccaroo point, coastal, motes point, alaqua creek, mitchell river island, lake earl, mussett bayou, boggy bayou, otter creek, rocky bayou, fuller lake, lake vivian, marler bayou, topsail bluff, bolton branch, shirk bayou, muddy lake, fourmile point, bass branch, hogtown bayou, santa rosa beach, morrison lake, big hammock point, moreno point, photograph, western lake, duck lake, weekley bayou, tenmile branch, white point, north channel, choctawhatchee river, blue mountain beach, shaw still branch, cobbs point, sewell branch, lower memorial lake, plew lake, nelson point, joyce branch, pate branch, aerial, smack point, destin harbor, sanders branch, sarah ann bayou, valparaiso, turkey creek, turnpike branch, alys beach, grass lake, buck bayou, doe head swamp, trout creek, indian bayou, east river, poley islands, live oak cutoff, boggy point, swift creek, c g melgs bridge, upper memorial lake, digital orthophotography, campbell lake, inside lake, alligator point, smokehouse lake, lightwood knot creek, sunset cove, sharon lake, williams lake, alaqua bayou, peach creek, marshall swamp, bass lake, tiller branch, ramsey branch, joes bayou, red fish lake, mosaic, indian river, sarah ann branch, devils swamp, grassy cove, deer lake, goodwin creek, long creek, shirk point, choctawhatchee bay, indian island, hammock point, garmier bayou, piney point, stalworth lake, clay point, hand cove",
 		"__extras": {
 			"revision_id": "36a715fd-bb90-40bd-9dcf-3a5f13e93b16",
 			"package_id": "22cf329e-36c2-43ad-ba44-ef65b6001cfc"

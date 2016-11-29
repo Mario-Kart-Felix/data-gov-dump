@@ -37,7 +37,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2015-09-26T16:33:43.205349",
-		"url": "http:\/\/coast.noaa.gov",
+		"url": "http://coast.noaa.gov",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 0,
@@ -67,7 +67,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2015-09-26T16:33:43.205373",
-		"url": "http:\/\/coast.noaa.gov",
+		"url": "http://coast.noaa.gov",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 1,
@@ -97,7 +97,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2015-09-26T16:33:43.205383",
-		"url": "http:\/\/coast.noaa.gov",
+		"url": "http://coast.noaa.gov",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 2,
@@ -117,7 +117,7 @@
 	"name": "2011-georgia-department-of-natural-resources-gadnr-environmental-protection-division-epd-lidar-eca66",
 	"isopen": false,
 	"url": null,
-	"notes": "This data set is the topographic elevation point data derived from multiple return light detection and ranging (LiDAR) measurements for seven counties in Georgia. These counties are: Bibb, Harris, Heard, Jasper, Jones, Monroe, and Walton. The Statement of Work (SOW) was developed by the National Oceanic and Atmospheric Administration's (NOAA) Coastal Services Center (referred to as the Center) in partnership with the Georgia Department of Natural Resources (GADNR) Environmental Protection Division (EPD). The data included hydro flattened DEMs for inclusion into the National Elevation Dataset (NED). LiDAR was collected as weather permitted between March 2 and April 14, 2011. In all, a total of 2570 square miles were collected in 390 flightlines. The data were collected at 1.0 point per square meter (1.0 m GSD) for the seven \"inland\" counties in Georgia. This area was flown during snow free and leaf-off conditions. The data contains las points with the following classifications: Class -1 No Classification Class 2 Ground Class 7 Low Point (Noise) Class 9 Water Class 10 Land below sea level Class 12 Overlap",
+	"notes": "This data set is the topographic elevation point data derived from multiple return light detection and ranging (LiDAR) measurements for seven counties in Georgia. These counties are: Bibb, Harris, Heard, Jasper, Jones, Monroe, and Walton. The Statement of Work (SOW) was developed by the National Oceanic and Atmospheric Administration's (NOAA) Coastal Services Center (referred to as the Center) in partnership with the Georgia Department of Natural Resources (GADNR) Environmental Protection Division (EPD). The data included hydro flattened DEMs for inclusion into the National Elevation Dataset (NED). LiDAR was collected as weather permitted between March 2 and April 14, 2011. In all, a total of 2570 square miles were collected in 390 flightlines. The data were collected at 1.0 point per square meter (1.0 m GSD) for the seven "inland" counties in Georgia. This area was flown during snow free and leaf-off conditions. The data contains las points with the following classifications: Class -1 No Classification Class 2 Ground Class 7 Low Point (Noise) Class 9 Water Class 10 Land below sea level Class 12 Overlap",
 	"license_title": null,
 	"extras": [{
 		"key": "bbox-east-long",
@@ -145,7 +145,7 @@
 	},
 	{
 		"key": "graphic-preview-file",
-		"value": "ftp:\/\/ftp.csc.noaa.gov\/pub\/crs\/beachmap\/qa_docs\/ga\/ga2011_seven_counties\/2011_GADNR_Seven_Counties_Lidar.kmz"
+		"value": "ftp://ftp.csc.noaa.gov/pub/crs/beachmap/qa_docs/ga/ga2011_seven_counties/2011_GADNR_Seven_Counties_Lidar.kmz"
 	},
 	{
 		"key": "metadata-language",
@@ -161,7 +161,7 @@
 	},
 	{
 		"key": "spatial",
-		"value": "{\"type\": \"Polygon\", \"coordinates\": [[[-85.309409, 32.565594], [-83.331076, 32.565594], [-83.331076, 33.944867], [-85.309409, 33.944867], [-85.309409, 32.565594]]]}"
+		"value": "{"type": "Polygon", "coordinates": [[[-85.309409, 32.565594], [-83.331076, 32.565594], [-83.331076, 33.944867], [-85.309409, 33.944867], [-85.309409, 32.565594]]]}"
 	},
 	{
 		"key": "progress",
@@ -189,7 +189,7 @@
 	},
 	{
 		"key": "dataset-reference-date",
-		"value": "[{\"type\": \"publication\", \"value\": \"2012-09-01\"}]"
+		"value": "[{"type": "publication", "value": "2012-09-01"}]"
 	},
 	{
 		"key": "graphic-preview-description",
@@ -201,7 +201,7 @@
 	},
 	{
 		"key": "licence",
-		"value": "[\"These data depict the elevations at the time of the survey and are only accurate for that time. Users should be aware that\\n            temporal changes may have occurred since this data set was collected and some parts of this data may no longer represent actual surface\\n            conditions. Users should not use this data for critical applications without a full awareness of its limitations. Any conclusions drawn\\n            from analysis of this information are not the responsibility of NOAA or any of its partners. These data are NOT to be used for navigational purposes.\"]"
+		"value": "["These data depict the elevations at the time of the survey and are only accurate for that time. Users should be aware that\n            temporal changes may have occurred since this data set was collected and some parts of this data may no longer represent actual surface\n            conditions. Users should not use this data for critical applications without a full awareness of its limitations. Any conclusions drawn\n            from analysis of this information are not the responsibility of NOAA or any of its partners. These data are NOT to be used for navigational purposes."]"
 	},
 	{
 		"key": "metadata_type",
@@ -209,7 +209,7 @@
 	},
 	{
 		"key": "responsible-party",
-		"value": "[{\"name\": \"DOC\/NOAA\/NOS\/OCM > Office for Coastal Management, National Ocean Service, National Oceanic and Atmospheric Administration, U.S. Department of Commerce\", \"roles\": [\"pointOfContact\"]}]"
+		"value": "[{"name": "DOC/NOAA/NOS/OCM > Office for Coastal Management, National Ocean Service, National Oceanic and Atmospheric Administration, U.S. Department of Commerce", "roles": ["pointOfContact"]}]"
 	},
 	{
 		"key": "temporal-extent-end",
@@ -225,7 +225,7 @@
 	},
 	{
 		"package_id": "a383feed-3777-47f7-953c-dcaea4afab55",
-		"value": "raster, georgia, breaklines, remote sensing, jones county, us, lidar, walton county, monroe county, bathymetry\/topography, dem, jasper county, harris county, elevation, model, bibb county, heard county",
+		"value": "raster, georgia, breaklines, remote sensing, jones county, us, lidar, walton county, monroe county, bathymetry/topography, dem, jasper county, harris county, elevation, model, bibb county, heard county",
 		"revision_timestamp": "2015-09-26T20:33:43.118377",
 		"state": "active",
 		"key": "tags",
@@ -255,7 +255,7 @@
 		"revision_timestamp": "2013-03-25T23:05:12.923863",
 		"is_organization": true,
 		"state": "active",
-		"image_url": "https:\/\/fortress.wa.gov\/dfw\/score\/score\/images\/noaa_logo.png",
+		"image_url": "https://fortress.wa.gov/dfw/score/score/images/noaa_logo.png",
 		"revision_id": "c6d43080-22e1-405e-a83d-f2a512d9e867",
 		"type": "organization",
 		"id": "e811f0b4-451f-4896-9e8f-fc6802837819",

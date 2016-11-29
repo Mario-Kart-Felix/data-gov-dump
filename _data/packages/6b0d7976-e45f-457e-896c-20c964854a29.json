@@ -36,7 +36,7 @@
 		"cache_url": null,
 		"name": "Esri REST",
 		"created": "2016-05-26T22:12:04.140872",
-		"url": "http:\/\/gis.wim.usgs.gov\/arcgis\/rest\/services\/AIR_NDGA\/AIR_NDGA\/MapServer",
+		"url": "http://gis.wim.usgs.gov/arcgis/rest/services/AIR_NDGA/AIR_NDGA/MapServer",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 0,
@@ -66,7 +66,7 @@
 		"cache_url": null,
 		"name": "Esri Rest API Endpoint",
 		"created": "2016-05-26T22:12:04.140905",
-		"url": "http:\/\/gis.wim.usgs.gov\/arcgis\/rest\/services\/AIR_NDGA\/AIR_NDGA\/MapServer",
+		"url": "http://gis.wim.usgs.gov/arcgis/rest/services/AIR_NDGA/AIR_NDGA/MapServer",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 1,
@@ -99,7 +99,7 @@
 	"name": "bia-indian-lands-dataset-indian-lands-of-the-united-states",
 	"isopen": false,
 	"url": null,
-	"notes": "The American Indian Reservations \/ Federally Recognized Tribal Entities dataset depicts feature location, selected demographics and other associated data for the 561 Federally Recognized Tribal entities in the contiguous U.S. and Alaska. Categories included are: American Indian Reservations (AIR), Federally Recognized Tribal Entities (FRTE) and Alaska Native Villages (ANV).",
+	"notes": "The American Indian Reservations / Federally Recognized Tribal Entities dataset depicts feature location, selected demographics and other associated data for the 561 Federally Recognized Tribal entities in the contiguous U.S. and Alaska. Categories included are: American Indian Reservations (AIR), Federally Recognized Tribal Entities (FRTE) and Alaska Native Villages (ANV).",
 	"license_title": null,
 	"extras": [{
 		"key": "bbox-east-long",
@@ -131,7 +131,7 @@
 	},
 	{
 		"key": "__category_tag_aa0c01c9-d292-4dc1-8fec-b10c1bb629a9",
-		"value": "[\"Tribal Nations\"]"
+		"value": "["Tribal Nations"]"
 	},
 	{
 		"key": "spatial-reference-system",
@@ -139,7 +139,7 @@
 	},
 	{
 		"key": "spatial",
-		"value": "{\"type\": \"Polygon\", \"coordinates\": [[[-180.0, 15.820544], [180.0, 15.820544], [180.0, 90.0], [-180.0, 90.0], [-180.0, 15.820544]]]}"
+		"value": "{"type": "Polygon", "coordinates": [[[-180.0, 15.820544], [180.0, 15.820544], [180.0, 90.0], [-180.0, 90.0], [-180.0, 15.820544]]]}"
 	},
 	{
 		"key": "progress",
@@ -147,7 +147,7 @@
 	},
 	{
 		"key": "access_constraints",
-		"value": "[\"Use Constraints: No warrany, expressed or implied, is made by the Bureau of Indian Affairs as to the accuracy of this data and any products derived from it. The terms of use for this data are as follows: The BIA American Indian Reservation dataset, which is a representation of Indian Lands, was last updated in 2005 using U.S. Census data. Due to this vintage, the data is no longer formally endorsed by the BIA. There are likely minor edits and updates that have occurred since 2005 that are not reflected in this data. Its use should be confined to general reference purposes only and by no means, shoud it be used for engineering or legal applications to define boundaries.\", \"Access Constraints: Not for Navigation, Legal or Engineering\"]"
+		"value": "["Use Constraints: No warrany, expressed or implied, is made by the Bureau of Indian Affairs as to the accuracy of this data and any products derived from it. The terms of use for this data are as follows: The BIA American Indian Reservation dataset, which is a representation of Indian Lands, was last updated in 2005 using U.S. Census data. Due to this vintage, the data is no longer formally endorsed by the BIA. There are likely minor edits and updates that have occurred since 2005 that are not reflected in this data. Its use should be confined to general reference purposes only and by no means, shoud it be used for engineering or legal applications to define boundaries.", "Access Constraints: Not for Navigation, Legal or Engineering"]"
 	},
 	{
 		"key": "temporal-extent-begin",
@@ -167,7 +167,7 @@
 	},
 	{
 		"key": "dataset-reference-date",
-		"value": "[{\"type\": \"publication\", \"value\": \"2015-09-28T150000\"}]"
+		"value": "[{"type": "publication", "value": "2015-09-28T150000"}]"
 	},
 	{
 		"key": "frequency-of-update",
@@ -175,7 +175,7 @@
 	},
 	{
 		"key": "licence",
-		"value": "[\"test\"]"
+		"value": "["test"]"
 	},
 	{
 		"key": "metadata_type",
@@ -183,7 +183,7 @@
 	},
 	{
 		"key": "responsible-party",
-		"value": "[{\"name\": \"OTSGS\", \"roles\": [\"pointOfContact\"]}]"
+		"value": "[{"name": "OTSGS", "roles": ["pointOfContact"]}]"
 	},
 	{
 		"key": "temporal-extent-end",
@@ -229,7 +229,7 @@
 		"revision_timestamp": "2013-03-25T16:37:35.703439",
 		"is_organization": true,
 		"state": "active",
-		"image_url": "http:\/\/www.fgdc.gov\/library\/mediakit\/logos\/logo_2mb\/fgdclogo_mid.jpg\/image_preview",
+		"image_url": "http://www.fgdc.gov/library/mediakit/logos/logo_2mb/fgdclogo_mid.jpg/image_preview",
 		"revision_id": "9070bd68-6117-44f9-90ed-7f1dcb81efce",
 		"type": "organization",
 		"id": "ace19361-84f5-4b61-aaa0-fdd668f31f18",

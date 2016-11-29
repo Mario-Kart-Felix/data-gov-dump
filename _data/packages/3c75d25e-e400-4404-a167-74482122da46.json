@@ -36,7 +36,7 @@
 		"cache_url": null,
 		"name": "NDGIS web site",
 		"created": "2015-01-09T11:58:22.075731",
-		"url": "http:\/\/www.nd.gov\/gis",
+		"url": "http://www.nd.gov/gis",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 0,
@@ -65,7 +65,7 @@
 		"cache_url": null,
 		"name": "Download Ground and Surface Water Data",
 		"created": "2015-01-09T11:58:22.075758",
-		"url": "http:\/\/www.nd.gov\/gis\/apps\/DataDownload\/?clipping=Full&coord=ND83-SF&format=SHAPE&layers=NDHUB.WATERDATASITES",
+		"url": "http://www.nd.gov/gis/apps/DataDownload/?clipping=Full&coord=ND83-SF&format=SHAPE&layers=NDHUB.WATERDATASITES",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 1,
@@ -94,7 +94,7 @@
 		"cache_url": null,
 		"name": "Water Data Sites",
 		"created": "2015-01-09T11:58:22.075766",
-		"url": "http:\/\/ndgishub.nd.gov\/arcgis\/services\/All_Hydrography\/MapServer\/WMSServer?",
+		"url": "http://ndgishub.nd.gov/arcgis/services/All_Hydrography/MapServer/WMSServer?",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 2,
@@ -123,7 +123,7 @@
 		"cache_url": null,
 		"name": "Esri REST including WMS",
 		"created": "2015-01-09T11:58:22.075772",
-		"url": "http:\/\/ndgishub.nd.gov\/ArcGIS\/rest\/services\/All_Hydrography\/MapServer",
+		"url": "http://ndgishub.nd.gov/ArcGIS/rest/services/All_Hydrography/MapServer",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 3,
@@ -152,7 +152,7 @@
 		"cache_url": null,
 		"name": "Esri REST including WFS and KML",
 		"created": "2015-01-09T11:58:22.075779",
-		"url": "http:\/\/ndgishub.nd.gov\/ArcGIS\/rest\/services\/Features\/Hydrography\/MapServer",
+		"url": "http://ndgishub.nd.gov/ArcGIS/rest/services/Features/Hydrography/MapServer",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 4,
@@ -185,7 +185,7 @@
 	"name": "ground-and-surface-water-data",
 	"isopen": false,
 	"url": null,
-	"notes": "This dataset is only updated once a month, however, if you want the very latest available data, go to the SWC mapservices at http:\/\/mapservice.swc.nd.gov. If you have further questions about this mapservice or how to get the very latest data, feel free to contact me. Rod Bassler, rbassler@nd.gov, 701-328-4998\n\n6\/27\/14 - Updated with a fresh dump from the SWC database\n\n1\/30\/13 - Corrected some date field errors in CREATE_D and SURVEY_DAT; uploaded fresh dump from the SWC database\n\n1\/4\/12 - Updated with a fresh dump from the SWC databases\n\n10\/6\/2011 - This dataset is a fresh dump of data from the NDSWC's well inventory database. Several new fields have been added including: Vertical Datum Well Log Index Geometry USGS Station Name Hydrologic Unit Sub-Basin, Watershed, and Sub-Watershed Civil Township Set Geometry Null USGS MP Height Datum Correction Survey Date \n\nThis dataset provides access to ground and surface water data that is available in North Dakota. It includes site information, lithologic data, water level data, and water chemistry data.",
+	"notes": "This dataset is only updated once a month, however, if you want the very latest available data, go to the SWC mapservices at http://mapservice.swc.nd.gov. If you have further questions about this mapservice or how to get the very latest data, feel free to contact me. Rod Bassler, rbassler@nd.gov, 701-328-4998nn6/27/14 - Updated with a fresh dump from the SWC databasenn1/30/13 - Corrected some date field errors in CREATE_D and SURVEY_DAT; uploaded fresh dump from the SWC databasenn1/4/12 - Updated with a fresh dump from the SWC databasesnn10/6/2011 - This dataset is a fresh dump of data from the NDSWC's well inventory database. Several new fields have been added including: Vertical Datum Well Log Index Geometry USGS Station Name Hydrologic Unit Sub-Basin, Watershed, and Sub-Watershed Civil Township Set Geometry Null USGS MP Height Datum Correction Survey Date nnThis dataset provides access to ground and surface water data that is available in North Dakota. It includes site information, lithologic data, water level data, and water chemistry data.",
 	"license_title": null,
 	"extras": [{
 		"key": "bbox-east-long",
@@ -229,7 +229,7 @@
 	},
 	{
 		"key": "spatial",
-		"value": "{\"type\": \"Polygon\", \"coordinates\": [[[-104.04795, 45.93553], [-96.56316, 45.93553], [-96.56316, 48.99825], [-104.04795, 48.99825], [-104.04795, 45.93553]]]}"
+		"value": "{"type": "Polygon", "coordinates": [[[-104.04795, 45.93553], [-96.56316, 45.93553], [-96.56316, 48.99825], [-104.04795, 48.99825], [-104.04795, 45.93553]]]}"
 	},
 	{
 		"key": "progress",
@@ -237,7 +237,7 @@
 	},
 	{
 		"key": "access_constraints",
-		"value": "[\"The North Dakota State Water Commission has compiled this data according to conventional cartographic standards, using what is thought to be the most reliable information available. This data is intended to make results of research available at the earliest possible date, but is not intended to constitute final or formal publication. The State of North Dakota makes every effort to provide virus-free files but does not guarantee uncorrupted files. The North Dakota State Water Commission does not guarantee this data to be free from errors, inaccuracies, or viruses, and disclaims any responsibility or liability for interpretations or decisions based on this data.\"]"
+		"value": "["The North Dakota State Water Commission has compiled this data according to conventional cartographic standards, using what is thought to be the most reliable information available. This data is intended to make results of research available at the earliest possible date, but is not intended to constitute final or formal publication. The State of North Dakota makes every effort to provide virus-free files but does not guarantee uncorrupted files. The North Dakota State Water Commission does not guarantee this data to be free from errors, inaccuracies, or viruses, and disclaims any responsibility or liability for interpretations or decisions based on this data."]"
 	},
 	{
 		"key": "contact-email",
@@ -253,7 +253,7 @@
 	},
 	{
 		"key": "dataset-reference-date",
-		"value": "[{\"type\": \"publication\", \"value\": \"2014-06-27\"}]"
+		"value": "[{"type": "publication", "value": "2014-06-27"}]"
 	},
 	{
 		"key": "graphic-preview-description",
@@ -273,7 +273,7 @@
 	},
 	{
 		"key": "responsible-party",
-		"value": "[{\"name\": \"North Dakota State Water Commission\", \"roles\": [\"pointOfContact\"]}]"
+		"value": "[{"name": "North Dakota State Water Commission", "roles": ["pointOfContact"]}]"
 	},
 	{
 		"key": "spatial-data-service-type",
@@ -308,14 +308,14 @@
 		"value": "North Dakota GIS Hub Data Portal"
 	}],
 	"organization": {
-		"description": "The GIS Hub is the state source for GIS - data, services, and information.  More information can be found at www.nd.gov\/gis.",
+		"description": "The GIS Hub is the state source for GIS - data, services, and information.  More information can be found at www.nd.gov/gis.",
 		"created": "2013-03-14T03:44:44.340717",
 		"title": "State of North Dakota",
 		"name": "nd-gov",
 		"revision_timestamp": "2013-07-15T16:27:30.098476",
 		"is_organization": true,
 		"state": "active",
-		"image_url": "http:\/\/www.nd.gov\/gis\/images\/ndgis-logo.gif",
+		"image_url": "http://www.nd.gov/gis/images/ndgis-logo.gif",
 		"revision_id": "27517bb9-815c-4d4f-b45b-b88b6316697b",
 		"type": "organization",
 		"id": "1c782de6-9f1f-4427-93fd-33732e29970f",

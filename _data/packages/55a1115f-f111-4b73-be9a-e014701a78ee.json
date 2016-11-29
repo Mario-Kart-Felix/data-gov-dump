@@ -36,7 +36,7 @@
 		"cache_url": null,
 		"name": "Downloadable File",
 		"created": "2013-03-16T02:05:54.145354",
-		"url": "http:\/\/www.geocommunicator.gov\/ArcGIS\/services\/ROW\/MapServer\/WMSServer?request=GetCapabilities&service=WMS",
+		"url": "http://www.geocommunicator.gov/ArcGIS/services/ROW/MapServer/WMSServer?request=GetCapabilities&service=WMS",
 		"webstore_url": null,
 		"resource_locator_function": "375",
 		"position": 0,
@@ -69,11 +69,11 @@
 	"name": "blm-row-energy-corridors",
 	"isopen": false,
 	"url": null,
-	"notes": "This service shows Bureau of Land Management (BLM) Solar Energy Study Zones and Section 368 federal energy corridors. The Solar Energy Study Zones are from the Solar Energy Development Programmatic Environmental Impact Statement (PEIS). The section 368 energy corridors have been designated (per the requirements of Section 368 of the Energy Policy Act of 2005) as West-wide energy corridors for the final \"Programmatic Environmental Impact Statement, Designation of Energy Corridors on Federal Land in the 11 Western States\", November 2008. The Section 368 energy corridors contained in this map service are shown where they intersect BLM lands and contain centerline and corridor zones showing electric transmission, upgrade existing electrical transmission, underground energy infrastructure and all uses categories.\n",
+	"notes": "This service shows Bureau of Land Management (BLM) Solar Energy Study Zones and Section 368 federal energy corridors. The Solar Energy Study Zones are from the Solar Energy Development Programmatic Environmental Impact Statement (PEIS). The section 368 energy corridors have been designated (per the requirements of Section 368 of the Energy Policy Act of 2005) as West-wide energy corridors for the final "Programmatic Environmental Impact Statement, Designation of Energy Corridors on Federal Land in the 11 Western States", November 2008. The Section 368 energy corridors contained in this map service are shown where they intersect BLM lands and contain centerline and corridor zones showing electric transmission, upgrade existing electrical transmission, underground energy infrastructure and all uses categories.n",
 	"license_title": null,
 	"extras": [{
 		"key": "responsible-party",
-		"value": "[{\"name\": \"AZGS\", \"roles\": [\"pointOfContact\"]}]"
+		"value": "[{"name": "AZGS", "roles": ["pointOfContact"]}]"
 	},
 	{
 		"key": "contact-email",
@@ -93,7 +93,7 @@
 	},
 	{
 		"key": "dataset-reference-date",
-		"value": "[{\"type\": \"publication\", \"value\": \"2012-11-27T00:00:00\"}]"
+		"value": "[{"type": "publication", "value": "2012-11-27T00:00:00"}]"
 	},
 	{
 		"key": "resource-type",
@@ -129,7 +129,7 @@
 	},
 	{
 		"key": "spatial",
-		"value": "{\"type\": \"Polygon\", \"coordinates\": [[[-166.899619102, 16.2121814724], [-166.899619102, 63.3509647702], [-58.6183691025, 63.3509647702], [-58.6183691025, 16.2121814724], [-166.899619102, 16.2121814724]]]}"
+		"value": "{"type": "Polygon", "coordinates": [[[-166.899619102, 16.2121814724], [-166.899619102, 63.3509647702], [-58.6183691025, 63.3509647702], [-58.6183691025, 16.2121814724], [-166.899619102, 16.2121814724]]]}"
 	},
 	{
 		"key": "guid",
@@ -179,7 +179,7 @@
 		"revision_timestamp": "2013-03-20T21:11:17.592932",
 		"is_organization": true,
 		"state": "active",
-		"image_url": "http:\/\/www.50states.com\/flag\/image\/nunst004.gif",
+		"image_url": "http://www.50states.com/flag/image/nunst004.gif",
 		"revision_id": "61be6428-4398-4199-a336-f3cd1e956f9b",
 		"type": "organization",
 		"id": "f3f6e1d4-64fb-4a2f-b32c-9ac0b76fe4de",

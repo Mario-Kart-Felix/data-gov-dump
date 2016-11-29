@@ -37,7 +37,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2013-03-15T15:35:56.728398",
-		"url": "http:\/\/www.vcgi.org\/dataware\/default.cfm?layer=TransStats_HPMS93",
+		"url": "http://www.vcgi.org/dataware/default.cfm?layer=TransStats_HPMS93",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 0,
@@ -67,7 +67,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2013-03-15T15:35:56.728418",
-		"url": "http:\/\/www.vcgi.org\/dataware\/default.cfm?layer=TransStats_HPMS93",
+		"url": "http://www.vcgi.org/dataware/default.cfm?layer=TransStats_HPMS93",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 1,
@@ -97,7 +97,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2013-03-15T15:35:56.728423",
-		"url": "http:\/\/www.vcgi.org\/dataware\/default.cfm?layer=TransStats_HPMS93&mapit=yes",
+		"url": "http://www.vcgi.org/dataware/default.cfm?layer=TransStats_HPMS93&mapit=yes",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 2,
@@ -127,7 +127,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2013-03-15T15:35:56.728427",
-		"url": "http:\/\/maps.vcgi.org:8080\/wmsconnector\/com.esri.wms.Esrimap?servicename=DATAWARE_VTRANS&VERSION=1.1.1&request=getmap&BBOX=-73.45416,42.72279,-71.46528,45.018356&SRS=EPSG:4326&LAYERS=TRANS_HPMS93_LINE&WIDTH=300&HEIGHT=400&FORMAT=image\/gif",
+		"url": "http://maps.vcgi.org:8080/wmsconnector/com.esri.wms.Esrimap?servicename=DATAWARE_VTRANS&VERSION=1.1.1&request=getmap&BBOX=-73.45416,42.72279,-71.46528,45.018356&SRS=EPSG:4326&LAYERS=TRANS_HPMS93_LINE&WIDTH=300&HEIGHT=400&FORMAT=image/gif",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 3,
@@ -157,7 +157,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2013-03-15T15:35:56.728431",
-		"url": "http:\/\/www.vcgi.org\/",
+		"url": "http://www.vcgi.org/",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 4,
@@ -190,11 +190,11 @@
 	"name": "transstats-hpms93",
 	"isopen": false,
 	"url": null,
-	"notes": "The Highway Performance Monitoring System (HPMS) is a spreadsheet maintained by the VT Agency of Transportation (VTrans). The spreadsheet contains references to milemarkers for each section of state-aid highway, which were linked to the route system in layer RDS\\RDSRT (version 4\/26\/94) and converted to a line data layer. The HPMS spreadsheet was provided to VCGI on 10\/11\/93. HPMS consists of 'universe elements' (all records) and 'sample elements' for a subset of sample records. In the VTrans spreadsheets, the sample sections include more detailed information than for the universe elements. Only the information available for all universe elements is included with TransStats_HPMS93.",
+	"notes": "The Highway Performance Monitoring System (HPMS) is a spreadsheet maintained by the VT Agency of Transportation (VTrans). The spreadsheet contains references to milemarkers for each section of state-aid highway, which were linked to the route system in layer RDS\RDSRT (version 4/26/94) and converted to a line data layer. The HPMS spreadsheet was provided to VCGI on 10/11/93. HPMS consists of 'universe elements' (all records) and 'sample elements' for a subset of sample records. In the VTrans spreadsheets, the sample sections include more detailed information than for the universe elements. Only the information available for all universe elements is included with TransStats_HPMS93.",
 	"license_title": null,
 	"extras": [{
 		"key": "responsible-party",
-		"value": "[{\"name\": \"VT Center for Geographic Information\", \"roles\": [\"pointOfContact\"]}]"
+		"value": "[{"name": "VT Center for Geographic Information", "roles": ["pointOfContact"]}]"
 	},
 	{
 		"key": "contact-email",
@@ -214,7 +214,7 @@
 	},
 	{
 		"key": "dataset-reference-date",
-		"value": "[{\"type\": \"publication\", \"value\": \"1994-04-26\"}]"
+		"value": "[{"type": "publication", "value": "1994-04-26"}]"
 	},
 	{
 		"key": "resource-type",
@@ -242,7 +242,7 @@
 	},
 	{
 		"key": "licence",
-		"value": "[\"VCGI and the State of Vermont make no representations of any kind, including but not limited to the warranties of merchantability or fitness for a particular use, nor are any such warranties to be implied with respect to the data.\"]"
+		"value": "["VCGI and the State of Vermont make no representations of any kind, including but not limited to the warranties of merchantability or fitness for a particular use, nor are any such warranties to be implied with respect to the data."]"
 	},
 	{
 		"key": "metadata_type",
@@ -250,7 +250,7 @@
 	},
 	{
 		"key": "spatial",
-		"value": "{\"type\": \"Polygon\", \"coordinates\": [[[-73.454162, 42.722789], [-73.454162, 45.018361], [-71.465281, 45.018361], [-71.465281, 42.722789], [-73.454162, 42.722789]]]}"
+		"value": "{"type": "Polygon", "coordinates": [[[-73.454162, 42.722789], [-73.454162, 45.018361], [-71.465281, 45.018361], [-71.465281, 42.722789], [-73.454162, 42.722789]]]}"
 	},
 	{
 		"key": "guid",
@@ -262,11 +262,11 @@
 	},
 	{
 		"key": "access_constraints",
-		"value": "[\"Use Constraints: The RDSRT layer (used to generate this layer) is currently being refined. A number of potential route coding errors have been identified which need to be checked. Any VTrans data converted by linking to the RDSRT coverage should be used with care. Future updates will identify any refinements made.\", \"Access Constraints: VCGI and the State of VT make no representations of any kind, including but not limited to the warranties of merchantability or fitness for a particular use, nor are any such warranties to be implied with respect to the data.\"]"
+		"value": "["Use Constraints: The RDSRT layer (used to generate this layer) is currently being refined. A number of potential route coding errors have been identified which need to be checked. Any VTrans data converted by linking to the RDSRT coverage should be used with care. Future updates will identify any refinements made.", "Access Constraints: VCGI and the State of VT make no representations of any kind, including but not limited to the warranties of merchantability or fitness for a particular use, nor are any such warranties to be implied with respect to the data."]"
 	},
 	{
 		"key": "graphic-preview-file",
-		"value": "http:\/\/maps.vcgi.org:8080\/wmsconnector\/com.esri.wms.Esrimap?servicename=DATAWARE_VTRANS&VERSION=1.1.1&request=getmap&BBOX=-73.45416,42.72279,-71.46528,45.018356&SRS=EPSG:4326&LAYERS=TRANS_HPMS93_LINE&WIDTH=300&HEIGHT=400&FORMAT=image\/gif"
+		"value": "http://maps.vcgi.org:8080/wmsconnector/com.esri.wms.Esrimap?servicename=DATAWARE_VTRANS&VERSION=1.1.1&request=getmap&BBOX=-73.45416,42.72279,-71.46528,45.018356&SRS=EPSG:4326&LAYERS=TRANS_HPMS93_LINE&WIDTH=300&HEIGHT=400&FORMAT=image/gif"
 	},
 	{
 		"key": "frequency-of-update",
@@ -304,7 +304,7 @@
 		"revision_timestamp": "2013-03-27T17:47:03.718032",
 		"is_organization": true,
 		"state": "active",
-		"image_url": "http:\/\/vcgi.vermont.gov\/sites\/all\/themes\/vt_template\/logo.png",
+		"image_url": "http://vcgi.vermont.gov/sites/all/themes/vt_template/logo.png",
 		"revision_id": "c5dfbbb0-f1e0-4db6-b566-e932e1520060",
 		"type": "organization",
 		"id": "0c3a4ebc-9929-4f21-bdd0-76a35d52f57d",

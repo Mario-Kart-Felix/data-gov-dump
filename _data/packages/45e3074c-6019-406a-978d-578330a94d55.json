@@ -37,7 +37,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2015-09-26T22:08:22.472033",
-		"url": "ftp:\/\/sidads.colorado.edu\/DATASETS\/NOAA\/G02186\/",
+		"url": "ftp://sidads.colorado.edu/DATASETS/NOAA/G02186/",
 		"webstore_url": null,
 		"resource_locator_function": "function",
 		"position": 0,
@@ -67,7 +67,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2015-09-26T22:08:22.472056",
-		"url": "http:\/\/nsidc.org\/data\/docs\/noaa\/g02186_masie\/index.html",
+		"url": "http://nsidc.org/data/docs/noaa/g02186_masie/index.html",
 		"webstore_url": null,
 		"resource_locator_function": "function",
 		"position": 1,
@@ -97,7 +97,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2015-09-26T22:08:22.472065",
-		"url": "http:\/\/nsidc.org\/data\/masie\/index.html",
+		"url": "http://nsidc.org/data/masie/index.html",
 		"webstore_url": null,
 		"resource_locator_function": "function",
 		"position": 2,
@@ -115,7 +115,7 @@
 		"last_modified": null,
 		"hash": "",
 		"description": "",
-		"format": "application\/vnd.lotus-organizer",
+		"format": "application/vnd.lotus-organizer",
 		"tracking_summary": {
 			"total": 85,
 			"recent": 4
@@ -127,7 +127,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2015-09-26T22:08:22.472073",
-		"url": "http:\/\/nsidc.org",
+		"url": "http://nsidc.org",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 3,
@@ -157,7 +157,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2015-09-26T22:08:22.472081",
-		"url": "http:\/\/nsidc.org\/noaa\/",
+		"url": "http://nsidc.org/noaa/",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 4,
@@ -175,7 +175,7 @@
 		"last_modified": null,
 		"hash": "",
 		"description": "",
-		"format": "application\/vnd.lotus-organizer",
+		"format": "application/vnd.lotus-organizer",
 		"tracking_summary": {
 			"total": 85,
 			"recent": 4
@@ -187,7 +187,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2015-09-26T22:08:22.472088",
-		"url": "http:\/\/nsidc.org",
+		"url": "http://nsidc.org",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 5,
@@ -220,7 +220,7 @@
 	"name": "multisensor-analyzed-sea-ice-extent-northern-hemisphere-masie-nh",
 	"isopen": false,
 	"url": null,
-	"notes": "\nThe Multisensor Analyzed Sea Ice Extent Northern Hemisphere (MASIE-NH) products provide measurements of daily sea ice extent and sea ice edge boundary for the Northern Hemisphere and 16 Arctic regions in a polar stereographic projection. Products include an ASCII text file of sea ice extent values in square km over the entire Northern Hemisphere with 16 separate Arctic regions identified, time series plots of the 16 regions, and image files that visually show where the sea ice is. The MASIE-NH imagery are provided at a nominal 4 km resolution. The input data comes from the 4 km Interactive Multisensor Snow and Ice Mapping System (IMS) snow and ice product produced by the National Ice Center (NIC). NIC utilizes visible imagery, passive microwave data, and NIC weekly analysis products to create their data product. The MASIE-NH products are distributed in a number of formats including ASCII text, GeoTIFF, PNG, shapefiles, and Google Earth files and are available from 01 October 2006 to the present. The most recent days worth of imagery plus the ASCII text data file are provided via the MASIE Web site. A complete archive of the imagery and data can be obtained via FTP.Note: MASIE may look like several other sea ice products distributed at NSIDC and elsewhere, but its source data and intended uses are different. If intended and appropriate uses of the data are not clear after reading the documentation, please contact <a href=\"mailto:nsidc@nsidc.org\">NSIDC User Services<\/a>.\n",
+	"notes": "nThe Multisensor Analyzed Sea Ice Extent Northern Hemisphere (MASIE-NH) products provide measurements of daily sea ice extent and sea ice edge boundary for the Northern Hemisphere and 16 Arctic regions in a polar stereographic projection. Products include an ASCII text file of sea ice extent values in square km over the entire Northern Hemisphere with 16 separate Arctic regions identified, time series plots of the 16 regions, and image files that visually show where the sea ice is. The MASIE-NH imagery are provided at a nominal 4 km resolution. The input data comes from the 4 km Interactive Multisensor Snow and Ice Mapping System (IMS) snow and ice product produced by the National Ice Center (NIC). NIC utilizes visible imagery, passive microwave data, and NIC weekly analysis products to create their data product. The MASIE-NH products are distributed in a number of formats including ASCII text, GeoTIFF, PNG, shapefiles, and Google Earth files and are available from 01 October 2006 to the present. The most recent days worth of imagery plus the ASCII text data file are provided via the MASIE Web site. A complete archive of the imagery and data can be obtained via FTP.Note: MASIE may look like several other sea ice products distributed at NSIDC and elsewhere, but its source data and intended uses are different. If intended and appropriate uses of the data are not clear after reading the documentation, please contact <a href="mailto:nsidc@nsidc.org">NSIDC User Services</a>.n",
 	"license_title": null,
 	"extras": [{
 		"key": "bbox-east-long",
@@ -252,7 +252,7 @@
 	},
 	{
 		"key": "__category_tag_aa0c01c9-d292-4dc1-8fec-b10c1bb629a9",
-		"value": "[\"Arctic\",\"Arctic Ocean, Sea Ice and Coasts\",\"Arctic Peoples and Ecosystems\"]"
+		"value": "["Arctic","Arctic Ocean, Sea Ice and Coasts","Arctic Peoples and Ecosystems"]"
 	},
 	{
 		"key": "spatial-reference-system",
@@ -260,7 +260,7 @@
 	},
 	{
 		"key": "spatial",
-		"value": "{\"type\": \"Polygon\", \"coordinates\": [[[-180.0, -90.0], [180.0, -90.0], [180.0, 90.0], [-180.0, 90.0], [-180.0, -90.0]]]}"
+		"value": "{"type": "Polygon", "coordinates": [[[-180.0, -90.0], [180.0, -90.0], [180.0, 90.0], [-180.0, 90.0], [-180.0, -90.0]]]}"
 	},
 	{
 		"key": "progress",
@@ -268,7 +268,7 @@
 	},
 	{
 		"key": "access_constraints",
-		"value": "[\"Access Constraints : none\", \"Use Constraints : none\"]"
+		"value": "["Access Constraints : none", "Use Constraints : none"]"
 	},
 	{
 		"key": "temporal-extent-begin",
@@ -288,7 +288,7 @@
 	},
 	{
 		"key": "dataset-reference-date",
-		"value": "[{\"type\": \"publication\", \"value\": \"2010-12-14\"}]"
+		"value": "[{"type": "publication", "value": "2010-12-14"}]"
 	},
 	{
 		"key": "frequency-of-update",
@@ -304,7 +304,7 @@
 	},
 	{
 		"key": "responsible-party",
-		"value": "[{\"name\": \"NOAA\", \"roles\": [\"principalInvestigator\"]}, {\"name\": \"National\/Naval Ice Center\", \"roles\": [\"principalInvestigator\"]}, {\"name\": \"National Snow and Ice Data Center\", \"roles\": [\"principalInvestigator\", \"pointOfContact\"]}]"
+		"value": "[{"name": "NOAA", "roles": ["principalInvestigator"]}, {"name": "National/Naval Ice Center", "roles": ["principalInvestigator"]}, {"name": "National Snow and Ice Data Center", "roles": ["principalInvestigator", "pointOfContact"]}]"
 	},
 	{
 		"key": "temporal-extent-end",
@@ -320,7 +320,7 @@
 	},
 	{
 		"package_id": "45e3074c-6019-406a-978d-578330a94d55",
-		"value": "pacific ocean, arctic sea ice, cryosphere, north america, barents sea, sea of okhotsk, northern hemisphere, continent, earth science, canada, beaufort sea, western pacific ocean, bering sea, sea ice conditions, ice extent, sea ice, north atlantic ocean, oceans, gulf of st lawrence, arctic ocean, chukchi sea, geographic region, hudson bay, atlantic ocean, ice growth\/melt, ice edges, ocean, baltic sea, north pacific ocean, sea ice extent, yellow sea, ice edge, sea ice prediction network-project",
+		"value": "pacific ocean, arctic sea ice, cryosphere, north america, barents sea, sea of okhotsk, northern hemisphere, continent, earth science, canada, beaufort sea, western pacific ocean, bering sea, sea ice conditions, ice extent, sea ice, north atlantic ocean, oceans, gulf of st lawrence, arctic ocean, chukchi sea, geographic region, hudson bay, atlantic ocean, ice growth/melt, ice edges, ocean, baltic sea, north pacific ocean, sea ice extent, yellow sea, ice edge, sea ice prediction network-project",
 		"revision_timestamp": "2015-09-27T02:08:22.394205",
 		"state": "active",
 		"key": "tags",
@@ -350,7 +350,7 @@
 		"revision_timestamp": "2013-03-25T23:05:12.923863",
 		"is_organization": true,
 		"state": "active",
-		"image_url": "https:\/\/fortress.wa.gov\/dfw\/score\/score\/images\/noaa_logo.png",
+		"image_url": "https://fortress.wa.gov/dfw/score/score/images/noaa_logo.png",
 		"revision_id": "c6d43080-22e1-405e-a83d-f2a512d9e867",
 		"type": "organization",
 		"id": "e811f0b4-451f-4896-9e8f-fc6802837819",

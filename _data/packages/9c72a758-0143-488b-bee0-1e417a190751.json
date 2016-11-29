@@ -37,7 +37,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2016-05-31T03:33:50.702695",
-		"url": "https:\/\/coast.noaa.gov\/slr",
+		"url": "https://coast.noaa.gov/slr",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 0,
@@ -67,7 +67,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2016-05-31T03:33:50.702718",
-		"url": "https:\/\/coast.noaa.gov\/digitalcoast\/tools\/slr",
+		"url": "https://coast.noaa.gov/digitalcoast/tools/slr",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 1,
@@ -97,7 +97,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2016-05-31T03:33:50.702726",
-		"url": "https:\/\/coast.noaa.gov\/",
+		"url": "https://coast.noaa.gov/",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 2,
@@ -117,7 +117,7 @@
 	"name": "noaa-office-for-coastal-management-coastal-inundation-digital-elevation-model-charleston-wfo-ge",
 	"isopen": false,
 	"url": null,
-	"notes": "This digital elevation model (DEM) is a part of a series of DEMs produced for the National Oceanic and Atmospheric Administration Office for Coastal Management's Sea Level Rise and Coastal Flooding Impacts Viewer. The DEM includes best available lidar data known to exist at the time of DEM creation that meets project specifications for those counties in the state of Georgia that fall within the boundary of the Charleston, SC Weather Forecast Office (WFO), as defined by the NOAA National Weather Service. The DEM is derived from LiDAR data collected in 2009 for the Metropolitan Planning Commission of Chatham County and in 2010 under a multi-agency partnership between the Coastal Georgia Regional Development Center, USGS, FEMA, NOAA and local county governments. The DEM extent includes Chatham and McIntosh counties, as well as portions of Bryan and Long counties. Hydrographic breaklines were obtained from used in the creation of the DEM were obtained from Chatham County and the Coastal Georgia Regional Development Center. The DEMs are hydro flattened such that water elevations are less than or equal to 0 meters. The DEM is referenced vertically to the North American Vertical Datum of 1988 (NAVD88) with vertical units of meters and horizontally to the North American Datum of 1983 (NAD83). The resolution of the DEM is approximately 5 meters. This DEM does not include licensed data within the boundary of the WFO that is unavailable for distribution to the general public. As such, the extent of this DEM is different than that of the DEM used by the NOAA Office for Coastal Management in creating the inundation data seen in the Sea Level Rise and Coastal Impacts Viewer (http:\/\/www.coast.noaa.gov\/slr\/viewer\/).",
+	"notes": "This digital elevation model (DEM) is a part of a series of DEMs produced for the National Oceanic and Atmospheric Administration Office for Coastal Management's Sea Level Rise and Coastal Flooding Impacts Viewer. The DEM includes best available lidar data known to exist at the time of DEM creation that meets project specifications for those counties in the state of Georgia that fall within the boundary of the Charleston, SC Weather Forecast Office (WFO), as defined by the NOAA National Weather Service. The DEM is derived from LiDAR data collected in 2009 for the Metropolitan Planning Commission of Chatham County and in 2010 under a multi-agency partnership between the Coastal Georgia Regional Development Center, USGS, FEMA, NOAA and local county governments. The DEM extent includes Chatham and McIntosh counties, as well as portions of Bryan and Long counties. Hydrographic breaklines were obtained from used in the creation of the DEM were obtained from Chatham County and the Coastal Georgia Regional Development Center. The DEMs are hydro flattened such that water elevations are less than or equal to 0 meters. The DEM is referenced vertically to the North American Vertical Datum of 1988 (NAVD88) with vertical units of meters and horizontally to the North American Datum of 1983 (NAD83). The resolution of the DEM is approximately 5 meters. This DEM does not include licensed data within the boundary of the WFO that is unavailable for distribution to the general public. As such, the extent of this DEM is different than that of the DEM used by the NOAA Office for Coastal Management in creating the inundation data seen in the Sea Level Rise and Coastal Impacts Viewer (http://www.coast.noaa.gov/slr/viewer/).",
 	"license_title": null,
 	"extras": [{
 		"key": "bbox-east-long",
@@ -153,7 +153,7 @@
 	},
 	{
 		"key": "spatial",
-		"value": "{\"type\": \"Polygon\", \"coordinates\": [[[-81.9830360366, 31.28945662], [-80.7501710366, 31.28945662], [-80.7501710366, 32.25209662], [-81.9830360366, 32.25209662], [-81.9830360366, 31.28945662]]]}"
+		"value": "{"type": "Polygon", "coordinates": [[[-81.9830360366, 31.28945662], [-80.7501710366, 31.28945662], [-80.7501710366, 32.25209662], [-81.9830360366, 32.25209662], [-81.9830360366, 31.28945662]]]}"
 	},
 	{
 		"key": "progress",
@@ -161,7 +161,7 @@
 	},
 	{
 		"key": "access_constraints",
-		"value": "[\"Use Constraints: The dataset is provided \\\"as is,\\\" without warranty to its performance, merchantable state, or fitness for any particular purpose. The entire risk associated with the results and performance of this dataset is assumed by the user. This dataset should be used strictly as a planning reference and not for navigation, permitting, or other legal purposes.\", \"Access Constraints: None\"]"
+		"value": "["Use Constraints: The dataset is provided \"as is,\" without warranty to its performance, merchantable state, or fitness for any particular purpose. The entire risk associated with the results and performance of this dataset is assumed by the user. This dataset should be used strictly as a planning reference and not for navigation, permitting, or other legal purposes.", "Access Constraints: None"]"
 	},
 	{
 		"key": "temporal-extent-begin",
@@ -181,7 +181,7 @@
 	},
 	{
 		"key": "dataset-reference-date",
-		"value": "[{\"type\": \"publication\", \"value\": \"2012-01-01\"}]"
+		"value": "[{"type": "publication", "value": "2012-01-01"}]"
 	},
 	{
 		"key": "frequency-of-update",
@@ -189,7 +189,7 @@
 	},
 	{
 		"key": "licence",
-		"value": "[\"Any conclusions drawn from the analysis of this information are not the responsibility of the Office for Coastal Management or its partners.\"]"
+		"value": "["Any conclusions drawn from the analysis of this information are not the responsibility of the Office for Coastal Management or its partners."]"
 	},
 	{
 		"key": "metadata_type",
@@ -197,7 +197,7 @@
 	},
 	{
 		"key": "responsible-party",
-		"value": "[{\"name\": \"NOAA Office for Coastal Management\", \"roles\": [\"pointOfContact\"]}]"
+		"value": "[{"name": "NOAA Office for Coastal Management", "roles": ["pointOfContact"]}]"
 	},
 	{
 		"key": "temporal-extent-end",
@@ -213,7 +213,7 @@
 	},
 	{
 		"package_id": "9c72a758-0143-488b-bee0-1e417a190751",
-		"value": "sea level rise, topography, elevation, bryan county, inundation, long county, us, lidar, georgia, bathymetry\/topography, dem, digital elevation model, mcintosh county, chatham county, flooding",
+		"value": "sea level rise, topography, elevation, bryan county, inundation, long county, us, lidar, georgia, bathymetry/topography, dem, digital elevation model, mcintosh county, chatham county, flooding",
 		"revision_timestamp": "2015-09-27T01:50:04.700676",
 		"state": "active",
 		"key": "tags",
@@ -243,7 +243,7 @@
 		"revision_timestamp": "2013-03-25T23:05:12.923863",
 		"is_organization": true,
 		"state": "active",
-		"image_url": "https:\/\/fortress.wa.gov\/dfw\/score\/score\/images\/noaa_logo.png",
+		"image_url": "https://fortress.wa.gov/dfw/score/score/images/noaa_logo.png",
 		"revision_id": "c6d43080-22e1-405e-a83d-f2a512d9e867",
 		"type": "organization",
 		"id": "e811f0b4-451f-4896-9e8f-fc6802837819",

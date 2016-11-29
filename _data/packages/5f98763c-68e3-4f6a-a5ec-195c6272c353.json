@@ -36,7 +36,7 @@
 		"cache_url": null,
 		"name": "shape file",
 		"created": "2014-11-17T16:13:29.036363",
-		"url": "http:\/\/water.usgs.gov\/GIS\/dsdl\/arsenic_nov2001_shp.zip",
+		"url": "http://water.usgs.gov/GIS/dsdl/arsenic_nov2001_shp.zip",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 0,
@@ -65,7 +65,7 @@
 		"cache_url": null,
 		"name": "excel database file",
 		"created": "2014-11-17T16:13:29.036383",
-		"url": "http:\/\/water.usgs.gov\/GIS\/dsdl\/arsenic_nov2001_excel.zip",
+		"url": "http://water.usgs.gov/GIS/dsdl/arsenic_nov2001_excel.zip",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 1,
@@ -94,7 +94,7 @@
 		"cache_url": null,
 		"name": "excel database file",
 		"created": "2014-11-17T16:13:29.036391",
-		"url": "http:\/\/water.usgs.gov\/GIS\/dsdl\/arsenic_nov2001_txt.zip",
+		"url": "http://water.usgs.gov/GIS/dsdl/arsenic_nov2001_txt.zip",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 2,
@@ -124,7 +124,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2014-11-17T16:13:29.036399",
-		"url": "http:\/\/water.usgs.gov\/lookup\/getspatial?arsenic_map",
+		"url": "http://water.usgs.gov/lookup/getspatial?arsenic_map",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 3,
@@ -154,7 +154,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2014-11-17T16:13:29.036405",
-		"url": "http:\/\/pubs.usgs.gov\/wri\/wri994279\/",
+		"url": "http://pubs.usgs.gov/wri/wri994279/",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 4,
@@ -174,7 +174,7 @@
 	"name": "map-of-arsenic-concentrations-in-groundwater-of-the-united-states",
 	"isopen": false,
 	"url": null,
-	"notes": "The map graphic image at http:\/\/water.usgs.gov\/GIS\/browse\/arsenic_map.png illustrates arsenic values, in micrograms per liter, for groundwater samples from about 31,000 wells and springs in 49 states compiled by the United States Geological Survey (USGS). The map graphic illustrates an updated version of figure 1 from Ryker (2001). Cited Reference: Ryker, S.J., Nov. 2001, Mapping arsenic in groundwater-- A real need, but a hard problem: Geotimes Newsmagazine of the Earth Sciences, v. 46 no. 11, p. 34-36 at http:\/\/www.agiweb.org\/geotimes\/nov01\/feature_Asmap.html. An excel tabular data file, a txt file, along with a GIS shape file of arsenic concentrations (20,043 samples collected by the USGS) for a subset of the sites shown on the map. Samples were collected between 1973 and 2001 and are provided for download.",
+	"notes": "The map graphic image at http://water.usgs.gov/GIS/browse/arsenic_map.png illustrates arsenic values, in micrograms per liter, for groundwater samples from about 31,000 wells and springs in 49 states compiled by the United States Geological Survey (USGS). The map graphic illustrates an updated version of figure 1 from Ryker (2001). Cited Reference: Ryker, S.J., Nov. 2001, Mapping arsenic in groundwater-- A real need, but a hard problem: Geotimes Newsmagazine of the Earth Sciences, v. 46 no. 11, p. 34-36 at http://www.agiweb.org/geotimes/nov01/feature_Asmap.html. An excel tabular data file, a txt file, along with a GIS shape file of arsenic concentrations (20,043 samples collected by the USGS) for a subset of the sites shown on the map. Samples were collected between 1973 and 2001 and are provided for download.",
 	"license_title": null,
 	"extras": [{
 		"key": "bbox-east-long",
@@ -202,7 +202,7 @@
 	},
 	{
 		"key": "graphic-preview-file",
-		"value": "http:\/\/water.usgs.gov\/GIS\/browse\/arsenic_map.jpg"
+		"value": "http://water.usgs.gov/GIS/browse/arsenic_map.jpg"
 	},
 	{
 		"key": "metadata-language",
@@ -218,7 +218,7 @@
 	},
 	{
 		"key": "spatial",
-		"value": "{\"type\": \"Polygon\", \"coordinates\": [[[-158.631946, 25.3905], [-66.991122, 25.3905], [-66.991122, 68.143334], [-158.631946, 68.143334], [-158.631946, 25.3905]]]}"
+		"value": "{"type": "Polygon", "coordinates": [[[-158.631946, 25.3905], [-66.991122, 25.3905], [-66.991122, 68.143334], [-158.631946, 68.143334], [-158.631946, 25.3905]]]}"
 	},
 	{
 		"key": "progress",
@@ -226,7 +226,7 @@
 	},
 	{
 		"key": "access_constraints",
-		"value": "[\"Use Constraints: See Supplemental Information.\", \"Access Constraints: Data from Wisconsin, Minnesota, Texas, New Hampshire, Vermont, Maine, Massachusetts, Rhode Island, and Connecticut should be obtained directly from the state agency. The downloadable data sets excludes arsenic concentrations from the non-USGS sources.\"]"
+		"value": "["Use Constraints: See Supplemental Information.", "Access Constraints: Data from Wisconsin, Minnesota, Texas, New Hampshire, Vermont, Maine, Massachusetts, Rhode Island, and Connecticut should be obtained directly from the state agency. The downloadable data sets excludes arsenic concentrations from the non-USGS sources."]"
 	},
 	{
 		"key": "temporal-extent-begin",
@@ -246,7 +246,7 @@
 	},
 	{
 		"key": "dataset-reference-date",
-		"value": "[{\"type\": \"publication\", \"value\": \"2011-11-30\"}]"
+		"value": "[{"type": "publication", "value": "2011-11-30"}]"
 	},
 	{
 		"key": "graphic-preview-description",
@@ -258,7 +258,7 @@
 	},
 	{
 		"key": "licence",
-		"value": "[\"Although these data have been used by the U.S. Geological Survey, U.S. Department of the Interior, no warranty expressed or implied is made by the U.S. Geological Survey as to the accuracy of the data.  The act of distribution shall not constitute any such warranty, and no responsibility is assumed by the U.S. Geological Survey in the use of these data, software, or related materials.\\nThe use of firm, trade, or brand names in this report is for identification purposes only and does not constitute endorsement by the U.S. Geological Survey.  The names mentioned in this document may be trademarks or registered trademarks of their respective trademark owners.\"]"
+		"value": "["Although these data have been used by the U.S. Geological Survey, U.S. Department of the Interior, no warranty expressed or implied is made by the U.S. Geological Survey as to the accuracy of the data.  The act of distribution shall not constitute any such warranty, and no responsibility is assumed by the U.S. Geological Survey in the use of these data, software, or related materials.\nThe use of firm, trade, or brand names in this report is for identification purposes only and does not constitute endorsement by the U.S. Geological Survey.  The names mentioned in this document may be trademarks or registered trademarks of their respective trademark owners."]"
 	},
 	{
 		"key": "metadata_type",
@@ -266,7 +266,7 @@
 	},
 	{
 		"key": "responsible-party",
-		"value": "[{\"name\": \"U.S. Geological Survey, National Water-Quality Assessment Program\", \"roles\": [\"pointOfContact\"]}]"
+		"value": "[{"name": "U.S. Geological Survey, National Water-Quality Assessment Program", "roles": ["pointOfContact"]}]"
 	},
 	{
 		"key": "temporal-extent-end",
@@ -305,14 +305,14 @@
 		"value": "Water NSDI Node Spatial Datasets"
 	}],
 	"organization": {
-		"description": "http:\/\/www.usgs.gov\/\r\nThe USGS is a federal science agency that provides impartial information on the health of our ecosystems and environment, the natural hazards that threaten us, the natural resources we rely on, the impacts of climate and land-use change, and the core science systems that help us provide timely, relevant, and useable information.",
+		"description": "http://www.usgs.gov/rnThe USGS is a federal science agency that provides impartial information on the health of our ecosystems and environment, the natural hazards that threaten us, the natural resources we rely on, the impacts of climate and land-use change, and the core science systems that help us provide timely, relevant, and useable information.",
 		"created": "2013-03-14T03:44:38.263357",
 		"title": "U.S. Geological Survey, Department of the Interior",
 		"name": "usgs-gov",
 		"revision_timestamp": "2014-09-02T13:43:52.167023",
 		"is_organization": true,
 		"state": "active",
-		"image_url": "http:\/\/pubs.usgs.gov\/sir\/2004\/5296\/04-5296_confluence_park\/usgs_logo.gif",
+		"image_url": "http://pubs.usgs.gov/sir/2004/5296/04-5296_confluence_park/usgs_logo.gif",
 		"revision_id": "2858aa99-9501-4f96-82e5-9647b968ed66",
 		"type": "organization",
 		"id": "bd2cdd5a-4d65-46c0-9937-c8381175f104",

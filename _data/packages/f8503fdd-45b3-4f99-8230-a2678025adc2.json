@@ -37,7 +37,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2015-09-26T20:53:56.803395",
-		"url": "ftp:\/\/ftp.cpc.ncep.noaa.gov\/wd52dg\/data\/indices\/tele_index.nh",
+		"url": "ftp://ftp.cpc.ncep.noaa.gov/wd52dg/data/indices/tele_index.nh",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 0,
@@ -67,7 +67,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2015-09-26T20:53:56.803417",
-		"url": "http:\/\/www.cpc.ncep.noaa.gov\/data\/teledoc\/eawruss.shtml",
+		"url": "http://www.cpc.ncep.noaa.gov/data/teledoc/eawruss.shtml",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 1,
@@ -97,7 +97,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2015-09-26T20:53:56.803426",
-		"url": "ftp:\/\/ftp.cpc.ncep.noaa.gov\/wd52dg\/data\/indices\/eawr_index.tim",
+		"url": "ftp://ftp.cpc.ncep.noaa.gov/wd52dg/data/indices/eawr_index.tim",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 2,
@@ -127,7 +127,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2015-09-26T20:53:56.803434",
-		"url": "ftp:\/\/ftp.cpc.ncep.noaa.gov\/wd52dg\/data\/indices\/tele_index.nh",
+		"url": "ftp://ftp.cpc.ncep.noaa.gov/wd52dg/data/indices/tele_index.nh",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 3,
@@ -136,7 +136,7 @@
 	}],
 	"num_resources": 4,
 	"tags": [],
-	"title": "Climate Prediction Center (CPC) East Atlantic\/ Western Russia Teleconnection Pattern Index",
+	"title": "Climate Prediction Center (CPC) East Atlantic/ Western Russia Teleconnection Pattern Index",
 	"tracking_summary": {
 		"total": 59,
 		"recent": 1
@@ -147,7 +147,7 @@
 	"name": "climate-prediction-center-cpc-east-atlantic-western-russia-teleconnection-pattern-index",
 	"isopen": false,
 	"url": null,
-	"notes": "Monthly tabulated index of the East Atlantic\/ Western Russia teleconnection pattern. The data spans the period 1950 to present. The index is derived from a rotated principal component analysis (RPCA) of normalized 500-hPa height anomalies from the period 1950-2000. The data source is the NCEP\/NCAR Reanalysis. The resulting time series is then re-normalized to coincide with the 1981-2010 base period monthly means. The index is updated monthly. Calculating the index using the RPCA approach is a somewhat complicated process, in that it is not derived independently of the other extratropical teleconnection pattern indices.",
+	"notes": "Monthly tabulated index of the East Atlantic/ Western Russia teleconnection pattern. The data spans the period 1950 to present. The index is derived from a rotated principal component analysis (RPCA) of normalized 500-hPa height anomalies from the period 1950-2000. The data source is the NCEP/NCAR Reanalysis. The resulting time series is then re-normalized to coincide with the 1981-2010 base period monthly means. The index is updated monthly. Calculating the index using the RPCA approach is a somewhat complicated process, in that it is not derived independently of the other extratropical teleconnection pattern indices.",
 	"license_title": null,
 	"extras": [{
 		"key": "bbox-east-long",
@@ -175,7 +175,7 @@
 	},
 	{
 		"key": "graphic-preview-file",
-		"value": "http:\/\/www.cpc.ncep.noaa.gov\/data\/teledoc\/eawr.timeseries.gif"
+		"value": "http://www.cpc.ncep.noaa.gov/data/teledoc/eawr.timeseries.gif"
 	},
 	{
 		"key": "metadata-language",
@@ -191,7 +191,7 @@
 	},
 	{
 		"key": "spatial",
-		"value": "{\"type\": \"Polygon\", \"coordinates\": [[[-179.75, 20.0], [179.75, 20.0], [179.75, 90.0], [-179.75, 90.0], [-179.75, 20.0]]]}"
+		"value": "{"type": "Polygon", "coordinates": [[[-179.75, 20.0], [179.75, 20.0], [179.75, 90.0], [-179.75, 90.0], [-179.75, 20.0]]]}"
 	},
 	{
 		"key": "progress",
@@ -199,7 +199,7 @@
 	},
 	{
 		"key": "access_constraints",
-		"value": "[\"Access Constraints: None Use Constraints: Acknowledgment of the Data Originator when using the data item as a source. Distribution Liability: The user assumes the entire risk related to its use of this data. NWS is providing this data \\\"as is,\\\" and NWS disclaims any and all warranties, whether express or implied, including (without limitation) any implied warranties of merchantability or fitness for a particular purpose. In no event will NWS be liable to you or to any third party for any direct, indirect, incidental, consequential, special or exemplary damages or lost profit resulting from any use or misuse of this data. As required by 17 U.S.C. 403, third parties producing copyrighted works consisting predominantly of the material appearing in NWS Web pages must provide notice with such work(s) identifying the NWS material incorporated and stating that such material is not subject to copyright protection. Refer the NOAA National Weather Service disclaimer; http:\/\/www.weather.gov\/disclaimer.php\"]"
+		"value": "["Access Constraints: None Use Constraints: Acknowledgment of the Data Originator when using the data item as a source. Distribution Liability: The user assumes the entire risk related to its use of this data. NWS is providing this data \"as is,\" and NWS disclaims any and all warranties, whether express or implied, including (without limitation) any implied warranties of merchantability or fitness for a particular purpose. In no event will NWS be liable to you or to any third party for any direct, indirect, incidental, consequential, special or exemplary damages or lost profit resulting from any use or misuse of this data. As required by 17 U.S.C. 403, third parties producing copyrighted works consisting predominantly of the material appearing in NWS Web pages must provide notice with such work(s) identifying the NWS material incorporated and stating that such material is not subject to copyright protection. Refer the NOAA National Weather Service disclaimer; http://www.weather.gov/disclaimer.php"]"
 	},
 	{
 		"key": "temporal-extent-begin",
@@ -219,11 +219,11 @@
 	},
 	{
 		"key": "dataset-reference-date",
-		"value": "[{\"type\": \"publication\", \"value\": \"2000-01-01\"}]"
+		"value": "[{"type": "publication", "value": "2000-01-01"}]"
 	},
 	{
 		"key": "graphic-preview-description",
-		"value": "Standardized Three-month running mean time series of the East Atlantic\/ Western Russia teleconnection index"
+		"value": "Standardized Three-month running mean time series of the East Atlantic/ Western Russia teleconnection index"
 	},
 	{
 		"key": "frequency-of-update",
@@ -239,7 +239,7 @@
 	},
 	{
 		"key": "responsible-party",
-		"value": "[{\"name\": \"Climate Prediction Center, NOAA\", \"roles\": [\"pointOfContact\"]}]"
+		"value": "[{"name": "Climate Prediction Center, NOAA", "roles": ["pointOfContact"]}]"
 	},
 	{
 		"key": "temporal-extent-end",
@@ -255,7 +255,7 @@
 	},
 	{
 		"package_id": "f8503fdd-45b3-4f99-8230-a2678025adc2",
-		"value": "east atlantic\/ west russia pattern, climate variability, atmosphere, teleconnections, east atlantic\/ western russia teleconnection pattern, teleconnection, climate indicators, atmospheric pressure, mid-latitude, climatologymeteorologyatmosphere, pressure anomalies, vertical location, northern hemisphere, oscillations, east atlantic\/ western russia teleconnection index, geographic region, troposphere",
+		"value": "east atlantic/ west russia pattern, climate variability, atmosphere, teleconnections, east atlantic/ western russia teleconnection pattern, teleconnection, climate indicators, atmospheric pressure, mid-latitude, climatologymeteorologyatmosphere, pressure anomalies, vertical location, northern hemisphere, oscillations, east atlantic/ western russia teleconnection index, geographic region, troposphere",
 		"revision_timestamp": "2015-09-27T00:53:56.755089",
 		"state": "active",
 		"key": "tags",
@@ -285,7 +285,7 @@
 		"revision_timestamp": "2013-03-25T23:05:12.923863",
 		"is_organization": true,
 		"state": "active",
-		"image_url": "https:\/\/fortress.wa.gov\/dfw\/score\/score\/images\/noaa_logo.png",
+		"image_url": "https://fortress.wa.gov/dfw/score/score/images/noaa_logo.png",
 		"revision_id": "c6d43080-22e1-405e-a83d-f2a512d9e867",
 		"type": "organization",
 		"id": "e811f0b4-451f-4896-9e8f-fc6802837819",

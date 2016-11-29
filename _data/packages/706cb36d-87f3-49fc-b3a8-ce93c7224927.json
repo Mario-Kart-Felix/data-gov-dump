@@ -37,7 +37,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2016-06-22T03:12:14.708855",
-		"url": "http:\/\/www.boem.gov\/BOEM-Seafloor-Anomalies-Layer-Package\/",
+		"url": "http://www.boem.gov/BOEM-Seafloor-Anomalies-Layer-Package/",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 0,
@@ -67,7 +67,7 @@
 		"cache_url": null,
 		"name": "Esri Rest API Endpoint",
 		"created": "2016-06-22T03:12:14.708880",
-		"url": "https:\/\/coast.noaa.gov\/arcgis\/rest\/services\/MarineCadastre\/BOEM_Layers\/MapServer\/11",
+		"url": "https://coast.noaa.gov/arcgis/rest/services/MarineCadastre/BOEM_Layers/MapServer/11",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 1,
@@ -100,7 +100,7 @@
 	"name": "boem-seismic-water-bottom-anomalies-gulf-of-mexico-gulf-of-mexico-nad27",
 	"isopen": false,
 	"url": null,
-	"notes": "Since 1998, geoscientists at the Bureau of Ocean Energy Management (BOEM) have identified and mapped over 31,000 water bottom (seafloor) acoustic amplitude anomalies in the deep water northern Gulf of Mexico (GOM) using 3-D time-migrated seismic surveys. The purpose of this mapping program is to understand the distribution of natural hydrocarbon seeps and related benthic fauna (chemosynthetic and coral communities) in the GOM, and to characterize other seafloor features related to the geological framework of the seafloor. These areas show anomalously high or low acoustic amplitude response relative to typical background, with most areas having overlapping seismic coverage by two or more surveys. These results cover over 230,000 square kilometers of seismic data interpretation. See BOEM website for more detailed information, http:\/\/www.boem.gov\/Oil-and-Gas-Energy-Program\/Mapping-and-Data\/Map-Gallery\/Seismic-Water-Bottom-Anomalies-Map-Gallery.aspx",
+	"notes": "Since 1998, geoscientists at the Bureau of Ocean Energy Management (BOEM) have identified and mapped over 31,000 water bottom (seafloor) acoustic amplitude anomalies in the deep water northern Gulf of Mexico (GOM) using 3-D time-migrated seismic surveys. The purpose of this mapping program is to understand the distribution of natural hydrocarbon seeps and related benthic fauna (chemosynthetic and coral communities) in the GOM, and to characterize other seafloor features related to the geological framework of the seafloor. These areas show anomalously high or low acoustic amplitude response relative to typical background, with most areas having overlapping seismic coverage by two or more surveys. These results cover over 230,000 square kilometers of seismic data interpretation. See BOEM website for more detailed information, http://www.boem.gov/Oil-and-Gas-Energy-Program/Mapping-and-Data/Map-Gallery/Seismic-Water-Bottom-Anomalies-Map-Gallery.aspx",
 	"license_title": null,
 	"extras": [{
 		"key": "bbox-east-long",
@@ -136,7 +136,7 @@
 	},
 	{
 		"key": "spatial",
-		"value": "{\"type\": \"Polygon\", \"coordinates\": [[[-96.96658, 25.541709], [-85.475399, 25.541709], [-85.475399, 29.24931], [-96.96658, 29.24931], [-96.96658, 25.541709]]]}"
+		"value": "{"type": "Polygon", "coordinates": [[[-96.96658, 25.541709], [-85.475399, 25.541709], [-85.475399, 29.24931], [-96.96658, 29.24931], [-96.96658, 25.541709]]]}"
 	},
 	{
 		"key": "progress",
@@ -144,7 +144,7 @@
 	},
 	{
 		"key": "access_constraints",
-		"value": "[\"Use Constraints: Although these data have been processed successfully on a computer system at the Bureau of Ocean Energy Management, no warranty expressed or implied is made regarding the accuracy or utility of the data on any other system or for general or scientific purposes, nor shall the act of distribution constitute any such warranty. It is also strongly recommended that careful attention be paid to the contents of the metadata file associated with these data to evaluate data set limitations, restrictions or intended use. The Bureau of Ocean Energy Management shall not be held liable for improper or incorrect use of the data described and\/or contained herein. These data are not to be used for navigation.\", \"Access Constraints: None\"]"
+		"value": "["Use Constraints: Although these data have been processed successfully on a computer system at the Bureau of Ocean Energy Management, no warranty expressed or implied is made regarding the accuracy or utility of the data on any other system or for general or scientific purposes, nor shall the act of distribution constitute any such warranty. It is also strongly recommended that careful attention be paid to the contents of the metadata file associated with these data to evaluate data set limitations, restrictions or intended use. The Bureau of Ocean Energy Management shall not be held liable for improper or incorrect use of the data described and/or contained herein. These data are not to be used for navigation.", "Access Constraints: None"]"
 	},
 	{
 		"key": "temporal-extent-begin",
@@ -164,7 +164,7 @@
 	},
 	{
 		"key": "dataset-reference-date",
-		"value": "[{\"type\": \"publication\", \"value\": \"2016-06-21\"}]"
+		"value": "[{"type": "publication", "value": "2016-06-21"}]"
 	},
 	{
 		"key": "frequency-of-update",
@@ -172,7 +172,7 @@
 	},
 	{
 		"key": "licence",
-		"value": "[\" \"]"
+		"value": "[" "]"
 	},
 	{
 		"key": "metadata_type",
@@ -180,7 +180,7 @@
 	},
 	{
 		"key": "responsible-party",
-		"value": "[{\"name\": \"Bureau of Ocean Energy Management\", \"roles\": [\"pointOfContact\"]}]"
+		"value": "[{"name": "Bureau of Ocean Energy Management", "roles": ["pointOfContact"]}]"
 	},
 	{
 		"key": "temporal-extent-end",
@@ -226,7 +226,7 @@
 		"revision_timestamp": "2013-03-20T22:26:39.819248",
 		"is_organization": true,
 		"state": "active",
-		"image_url": "http:\/\/www.boem.gov\/images\/boem\/layout\/logo.png",
+		"image_url": "http://www.boem.gov/images/boem/layout/logo.png",
 		"revision_id": "6f2fda4e-48e9-42f6-b1dd-da068900ba24",
 		"type": "organization",
 		"id": "54ed71a6-4861-4dc1-aa78-c5661ba9ab04",

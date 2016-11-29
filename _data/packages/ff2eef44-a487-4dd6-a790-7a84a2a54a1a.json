@@ -37,7 +37,7 @@
 		"cache_url": null,
 		"name": "Zip File",
 		"created": "2013-07-19T12:00:46.246870",
-		"url": "ftp:\/\/ftp.igsb.uiowa.edu\/gis_library\/ia_state\/admin_political_boundary\/political_townships_2010.zip",
+		"url": "ftp://ftp.igsb.uiowa.edu/gis_library/ia_state/admin_political_boundary/political_townships_2010.zip",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 0,
@@ -67,7 +67,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2013-07-19T12:00:46.246901",
-		"url": "http:\/\/www.census.gov\/geo\/www\/tiger",
+		"url": "http://www.census.gov/geo/www/tiger",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 1,
@@ -97,7 +97,7 @@
 		"cache_url": null,
 		"name": "Zip File",
 		"created": "2013-07-19T12:00:46.246912",
-		"url": "ftp:\/\/ftp.igsb.uiowa.edu\/gis_library\/ia_state\/admin_political_boundary\/political_townships_2010.zip",
+		"url": "ftp://ftp.igsb.uiowa.edu/gis_library/ia_state/admin_political_boundary/political_townships_2010.zip",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 2,
@@ -117,7 +117,7 @@
 	"name": "political-township-boundaries-in-iowa-for-2010-derived-from-census-data",
 	"isopen": false,
 	"url": null,
-	"notes": "Currently, Iowa townships are not actually classified as civil townships, but as special district governments. Special district governments exist to provide only one or a limited number ofdesignated functions, and with sufficient administrative and fiscal autonomy to qualify as separate governments. Iowa townships today provide governmental functions that are outside the realm of both county and municipal authority. The three main functions of Iowa townships are fire protection, cemetery management, and fence maintenance and boundary dispute resolution within the township. The TIGER\/Line Files are shapefiles and related database files (.dbf) that are an extract of selected geographic and cartographic information from the U.S. Census Bureau's Master Address File \/ Topologically Integrated Geographic Encoding and Referencing (MAF\/TIGER) Database (MTDB). The MTDB represents a seamless national file with no overlaps or gaps between parts, however, each TIGER\/Line File is designed to stand alone as an independent data set, or they can be combined to cover the entire nation. County subdivisions are the primary divisions of counties and their equivalent entities for the reporting of Census Bureau data, and they include legally minor civil divisions (MCDs) and statistical census county divisions (CCDs), and unorganized territories. For the 2010 Census, the legal MCDs are the primary governmental and\/or administrative divisions of counties in 29 States and Puerto Rico; Tennessee changed from having CCDs for Census 2000 to having MCDs for the 2010 Census. In MCD States where no MCD exists or is not defined, the Census Bureau creates statistical unorganized territories to complete coverage. The entire area of the United States, Puerto Rico, and the Island Areas is covered by county subdivisions. The boundaries of all 2010 Census legal MCDs are as of January 1, 2010 as reported through the Census Bureau's Boundary and Annexation Survey (BAS). For the 2010 Census, CCDs or their equivalents are delineated in 21 States. The boundaries of all 2010 Census statistical CCDs were delineated as part of the Census Bureau's Participant Statistical Areas Program (PSAP).",
+	"notes": "Currently, Iowa townships are not actually classified as civil townships, but as special district governments. Special district governments exist to provide only one or a limited number ofdesignated functions, and with sufficient administrative and fiscal autonomy to qualify as separate governments. Iowa townships today provide governmental functions that are outside the realm of both county and municipal authority. The three main functions of Iowa townships are fire protection, cemetery management, and fence maintenance and boundary dispute resolution within the township. The TIGER/Line Files are shapefiles and related database files (.dbf) that are an extract of selected geographic and cartographic information from the U.S. Census Bureau's Master Address File / Topologically Integrated Geographic Encoding and Referencing (MAF/TIGER) Database (MTDB). The MTDB represents a seamless national file with no overlaps or gaps between parts, however, each TIGER/Line File is designed to stand alone as an independent data set, or they can be combined to cover the entire nation. County subdivisions are the primary divisions of counties and their equivalent entities for the reporting of Census Bureau data, and they include legally minor civil divisions (MCDs) and statistical census county divisions (CCDs), and unorganized territories. For the 2010 Census, the legal MCDs are the primary governmental and/or administrative divisions of counties in 29 States and Puerto Rico; Tennessee changed from having CCDs for Census 2000 to having MCDs for the 2010 Census. In MCD States where no MCD exists or is not defined, the Census Bureau creates statistical unorganized territories to complete coverage. The entire area of the United States, Puerto Rico, and the Island Areas is covered by county subdivisions. The boundaries of all 2010 Census legal MCDs are as of January 1, 2010 as reported through the Census Bureau's Boundary and Annexation Survey (BAS). For the 2010 Census, CCDs or their equivalents are delineated in 21 States. The boundaries of all 2010 Census statistical CCDs were delineated as part of the Census Bureau's Participant Statistical Areas Program (PSAP).",
 	"license_title": null,
 	"extras": [{
 		"key": "bbox-east-long",
@@ -153,11 +153,11 @@
 	},
 	{
 		"key": "spatial",
-		"value": "{\"type\": \"Polygon\", \"coordinates\": [[[-96.639485, 40.37544], [-90.140061, 40.37544], [-90.140061, 43.501196], [-96.639485, 43.501196], [-96.639485, 40.37544]]]}"
+		"value": "{"type": "Polygon", "coordinates": [[[-96.639485, 40.37544], [-90.140061, 40.37544], [-90.140061, 43.501196], [-96.639485, 43.501196], [-96.639485, 40.37544]]]}"
 	},
 	{
 		"key": "access_constraints",
-		"value": "[\"Use Constraints: The TIGER\/Line Shapefile products are not copyrighted however TIGER\/Line and Census TIGER are registered trademarks of the U.S. Census Bureau. These products are free to use in a product or publication, however acknowledgement must be given to the U.S. Census Bureau as the source. The boundary information in the TIGER\/Line Shapefiles are for statistical data collection and tabulation purposes only; their depiction and designation for statistical purposes does not constitute a determination of jurisdictional authority or rights of ownership or entitlement and they are not legal land descriptions.Coordinates in the TIGER\/Line shapefiles have six implied decimal places, but the positional accuracy of these coordinates is not as great as the six decimal places suggest.\", \"Access Constraints: None\"]"
+		"value": "["Use Constraints: The TIGER/Line Shapefile products are not copyrighted however TIGER/Line and Census TIGER are registered trademarks of the U.S. Census Bureau. These products are free to use in a product or publication, however acknowledgement must be given to the U.S. Census Bureau as the source. The boundary information in the TIGER/Line Shapefiles are for statistical data collection and tabulation purposes only; their depiction and designation for statistical purposes does not constitute a determination of jurisdictional authority or rights of ownership or entitlement and they are not legal land descriptions.Coordinates in the TIGER/Line shapefiles have six implied decimal places, but the positional accuracy of these coordinates is not as great as the six decimal places suggest.", "Access Constraints: None"]"
 	},
 	{
 		"key": "temporal-extent-begin",
@@ -177,15 +177,15 @@
 	},
 	{
 		"key": "dataset-reference-date",
-		"value": "[{\"type\": \"publication\", \"value\": \"2010-01-01\"}]"
+		"value": "[{"type": "publication", "value": "2010-01-01"}]"
 	},
 	{
 		"key": "frequency-of-update",
-		"value": "TIGER\/LINE SHAPEFILES ARE EXTRACTED FROM THE CENSUS MAF\/TIGER DATABASE. NO CHANGES OR UPDATES WILL BE MADE TO THIS VERSION OF THE TIGER\/LINE SHAPEFILES. FUTURE RELEASES OF TIGER\/LINE SHAPEFILES WILL REFLECT UPDATES MADE TO THE CENSUS MAF\/TIGER DATABASE."
+		"value": "TIGER/LINE SHAPEFILES ARE EXTRACTED FROM THE CENSUS MAF/TIGER DATABASE. NO CHANGES OR UPDATES WILL BE MADE TO THIS VERSION OF THE TIGER/LINE SHAPEFILES. FUTURE RELEASES OF TIGER/LINE SHAPEFILES WILL REFLECT UPDATES MADE TO THE CENSUS MAF/TIGER DATABASE."
 	},
 	{
 		"key": "licence",
-		"value": "[\"Although efforts have been made in correcting errors in order to make this information useful to the Department, the Department assumes no responsibility for errors in the information.  Similarly, the Department assumes no responsibility for the consequences of inappropriate uses or interpretations of the data made by anyone to whom this data has been made available.  The Department bears no responsibility to inform users of any changes made to this data.  Anyone using this data is advised that precision implied by the coverage may far exceed actual precision.  Comments on this data are invited and the Department would appreciate that documented errors be brought to staff attention.  No warranty, expressed or implied is made with regard to the accuracy of these data, and no liability is assumed by the U.S. Government in general or the U.S. Census Bureau in specific as to the spatial or attribute accuracy of the data.  The act of distribution shall not constitute any such warranty and no responsibility is assumed by the U.S. government in the use of these files.  The boundary information in the TIGER\/Line Shapefiles is for statistical data collection and tabulation purposes only; their depiction and designation for statistical purposes do not constitute a determination of jurisdictional authority or rights of ownership or entitlement and they are not legal land descriptions.\"]"
+		"value": "["Although efforts have been made in correcting errors in order to make this information useful to the Department, the Department assumes no responsibility for errors in the information.  Similarly, the Department assumes no responsibility for the consequences of inappropriate uses or interpretations of the data made by anyone to whom this data has been made available.  The Department bears no responsibility to inform users of any changes made to this data.  Anyone using this data is advised that precision implied by the coverage may far exceed actual precision.  Comments on this data are invited and the Department would appreciate that documented errors be brought to staff attention.  No warranty, expressed or implied is made with regard to the accuracy of these data, and no liability is assumed by the U.S. Government in general or the U.S. Census Bureau in specific as to the spatial or attribute accuracy of the data.  The act of distribution shall not constitute any such warranty and no responsibility is assumed by the U.S. government in the use of these files.  The boundary information in the TIGER/Line Shapefiles is for statistical data collection and tabulation purposes only; their depiction and designation for statistical purposes do not constitute a determination of jurisdictional authority or rights of ownership or entitlement and they are not legal land descriptions."]"
 	},
 	{
 		"key": "metadata_type",
@@ -193,7 +193,7 @@
 	},
 	{
 		"key": "responsible-party",
-		"value": "[{\"name\": \"U.S. Department of Commerce, U.S. Census Bureau, Geography Division, Geographic Products Branch\", \"roles\": [\"pointOfContact\"]}]"
+		"value": "[{"name": "U.S. Department of Commerce, U.S. Census Bureau, Geography Division, Geographic Products Branch", "roles": ["pointOfContact"]}]"
 	},
 	{
 		"key": "temporal-extent-end",
@@ -239,7 +239,7 @@
 		"revision_timestamp": "2013-07-19T15:56:17.219368",
 		"is_organization": true,
 		"state": "active",
-		"image_url": "http:\/\/www.gis.iastate.edu\/images\/GISFlogo50H.png",
+		"image_url": "http://www.gis.iastate.edu/images/GISFlogo50H.png",
 		"revision_id": "3fb02433-fa30-4475-9ff3-e5dcf5cfb139",
 		"type": "organization",
 		"id": "32e644cd-07b4-427e-b867-d7f9dcf23f9c",

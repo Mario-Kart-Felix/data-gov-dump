@@ -36,7 +36,7 @@
 		"cache_url": null,
 		"name": "netCDF",
 		"created": "2016-07-19T23:23:29.554807",
-		"url": "http:\/\/stellwagen.er.usgs.gov\/CI.html",
+		"url": "http://stellwagen.er.usgs.gov/CI.html",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 0,
@@ -66,7 +66,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2016-07-19T23:23:29.554830",
-		"url": "http:\/\/stellwagen.er.usgs.gov\/CI.html",
+		"url": "http://stellwagen.er.usgs.gov/CI.html",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 1,
@@ -96,7 +96,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2016-07-19T23:23:29.554839",
-		"url": "https:\/\/pubs.er.usgs.gov\/publication\/ofr20071194",
+		"url": "https://pubs.er.usgs.gov/publication/ofr20071194",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 2,
@@ -116,7 +116,7 @@
 	"name": "oceanographic-observations-made-adjacent-to-the-chandeleur-islands-louisiana-july-november-2010",
 	"isopen": false,
 	"url": null,
-	"notes": "A program to measure waves, water levels, and currents near the Chandeleur Islands, Louisiana and adjacent berm construction site was conducted by the U.S. Geological Survey (USGS) during Summer and Autumn 2010. The Chandeleur Islands have been the subject of ongoing USGS studies of coastal erosion and land loss. The berm was being constructed by the State of Louisiana in response to the Deepwater Horizon oil spill. The oceanographic measurements accompany USGS observations of geomorphic response to storms of the berm and Chandeleur Islands. For more information see http:\/\/woodshole.er.usgs.gov\/operations\/ia\/public_ds_info.php?fa=10055, http:\/\/woodshole.er.usgs.gov\/operations\/ia\/public_ds_info.php?fa=10069, http:\/\/woodshole.er.usgs.gov\/operations\/ia\/public_ds_info.php?fa=10092.",
+	"notes": "A program to measure waves, water levels, and currents near the Chandeleur Islands, Louisiana and adjacent berm construction site was conducted by the U.S. Geological Survey (USGS) during Summer and Autumn 2010. The Chandeleur Islands have been the subject of ongoing USGS studies of coastal erosion and land loss. The berm was being constructed by the State of Louisiana in response to the Deepwater Horizon oil spill. The oceanographic measurements accompany USGS observations of geomorphic response to storms of the berm and Chandeleur Islands. For more information see http://woodshole.er.usgs.gov/operations/ia/public_ds_info.php?fa=10055, http://woodshole.er.usgs.gov/operations/ia/public_ds_info.php?fa=10069, http://woodshole.er.usgs.gov/operations/ia/public_ds_info.php?fa=10092.",
 	"license_title": null,
 	"extras": [{
 		"key": "bbox-east-long",
@@ -152,7 +152,7 @@
 	},
 	{
 		"key": "spatial",
-		"value": "{\"type\": \"Polygon\", \"coordinates\": [[[-88.8609, 29.7391], [-88.5146, 29.7391], [-88.5146, 29.9698], [-88.8609, 29.9698], [-88.8609, 29.7391]]]}"
+		"value": "{"type": "Polygon", "coordinates": [[[-88.8609, 29.7391], [-88.5146, 29.7391], [-88.5146, 29.9698], [-88.8609, 29.9698], [-88.8609, 29.7391]]]}"
 	},
 	{
 		"key": "progress",
@@ -160,7 +160,7 @@
 	},
 	{
 		"key": "access_constraints",
-		"value": "[\"Use Constraints: Data presented within this publication are in the public domain. Please acknowledge the U.S. Geological Survey, Coastal Marine Geology Program as the source of this data.\", \"Access Constraints: None\"]"
+		"value": "["Use Constraints: Data presented within this publication are in the public domain. Please acknowledge the U.S. Geological Survey, Coastal Marine Geology Program as the source of this data.", "Access Constraints: None"]"
 	},
 	{
 		"key": "temporal-extent-begin",
@@ -180,7 +180,7 @@
 	},
 	{
 		"key": "dataset-reference-date",
-		"value": "[{\"type\": \"publication\", \"value\": \"2011-01-01\"}]"
+		"value": "[{"type": "publication", "value": "2011-01-01"}]"
 	},
 	{
 		"key": "frequency-of-update",
@@ -188,7 +188,7 @@
 	},
 	{
 		"key": "licence",
-		"value": "[\"Neither the U.S. Government, the Department of the Interior, nor the USGS, nor any of their employees, contractors, or subcontractors, make any warranty, express or implied, nor assume any legal liability or responsibility for the accuracy, completeness, or usefulness of any information, apparatus, product, or process disclosed, nor represent that its use would not infringe on privately owned rights. The act of distribution shall not constitute any such warranty, and no responsibility is assumed by the USGS in the use of these data or related materials. Any use of trade, product, or firm names is for descriptive purposes only and does not imply endorsement by the U.S. Government.\"]"
+		"value": "["Neither the U.S. Government, the Department of the Interior, nor the USGS, nor any of their employees, contractors, or subcontractors, make any warranty, express or implied, nor assume any legal liability or responsibility for the accuracy, completeness, or usefulness of any information, apparatus, product, or process disclosed, nor represent that its use would not infringe on privately owned rights. The act of distribution shall not constitute any such warranty, and no responsibility is assumed by the USGS in the use of these data or related materials. Any use of trade, product, or firm names is for descriptive purposes only and does not imply endorsement by the U.S. Government."]"
 	},
 	{
 		"key": "metadata_type",
@@ -196,7 +196,7 @@
 	},
 	{
 		"key": "responsible-party",
-		"value": "[{\"name\": \"U.S. Geological Survey\", \"roles\": [\"pointOfContact\"]}]"
+		"value": "[{"name": "U.S. Geological Survey", "roles": ["pointOfContact"]}]"
 	},
 	{
 		"key": "temporal-extent-end",
@@ -212,7 +212,7 @@
 	},
 	{
 		"package_id": "d62cd6e4-7b1b-4870-9f61-d72d33aaaf32",
-		"value": "united states, netcdf, whcmsc, barrier island, mississippi, gulf of mexico, chandeleur islands, mississippi delta, la, woods hole coastal and marine science center, current, 2010-092-fa, louisiana, 2010, coastal and marine geology program, pressure, u.s. geological survey, waves, deepwater horizon, 2010-055-fa, usgs, temperature, north america, oil spill response, 2010-069-fa, southeast, r\/v acadiana, salinity, cmgp, ms, oceanographic observations, r\/v tommy munroe",
+		"value": "united states, netcdf, whcmsc, barrier island, mississippi, gulf of mexico, chandeleur islands, mississippi delta, la, woods hole coastal and marine science center, current, 2010-092-fa, louisiana, 2010, coastal and marine geology program, pressure, u.s. geological survey, waves, deepwater horizon, 2010-055-fa, usgs, temperature, north america, oil spill response, 2010-069-fa, southeast, r/v acadiana, salinity, cmgp, ms, oceanographic observations, r/v tommy munroe",
 		"revision_timestamp": "2016-07-20T03:23:29.341436",
 		"state": "active",
 		"key": "tags",
@@ -235,14 +235,14 @@
 		"value": "U.S. Geological Survey Coastal Map"
 	}],
 	"organization": {
-		"description": "http:\/\/www.usgs.gov\/\r\nThe USGS is a federal science agency that provides impartial information on the health of our ecosystems and environment, the natural hazards that threaten us, the natural resources we rely on, the impacts of climate and land-use change, and the core science systems that help us provide timely, relevant, and useable information.",
+		"description": "http://www.usgs.gov/rnThe USGS is a federal science agency that provides impartial information on the health of our ecosystems and environment, the natural hazards that threaten us, the natural resources we rely on, the impacts of climate and land-use change, and the core science systems that help us provide timely, relevant, and useable information.",
 		"created": "2013-03-14T03:44:38.263357",
 		"title": "U.S. Geological Survey, Department of the Interior",
 		"name": "usgs-gov",
 		"revision_timestamp": "2014-09-02T13:43:52.167023",
 		"is_organization": true,
 		"state": "active",
-		"image_url": "http:\/\/pubs.usgs.gov\/sir\/2004\/5296\/04-5296_confluence_park\/usgs_logo.gif",
+		"image_url": "http://pubs.usgs.gov/sir/2004/5296/04-5296_confluence_park/usgs_logo.gif",
 		"revision_id": "2858aa99-9501-4f96-82e5-9647b968ed66",
 		"type": "organization",
 		"id": "bd2cdd5a-4d65-46c0-9937-c8381175f104",

@@ -37,7 +37,7 @@
 		"cache_url": null,
 		"name": "Esri Rest API Endpoint",
 		"created": "2016-08-05T03:15:33.423128",
-		"url": "http:\/\/services.arcgis.com\/QVENGdaPbd4LUkLV\/arcgis\/rest\/services\/USFWS_Critical_Habitat\/FeatureServer",
+		"url": "http://services.arcgis.com/QVENGdaPbd4LUkLV/arcgis/rest/services/USFWS_Critical_Habitat/FeatureServer",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 0,
@@ -67,7 +67,7 @@
 		"cache_url": null,
 		"name": "Zip File",
 		"created": "2016-08-05T03:15:33.423152",
-		"url": "http:\/\/ecos.fws.gov\/docs\/crithab\/zip\/FCH_Villosa_perpurpurea_20040831.zip",
+		"url": "http://ecos.fws.gov/docs/crithab/zip/FCH_Villosa_perpurpurea_20040831.zip",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 1,
@@ -91,7 +91,7 @@
 	"license_title": null,
 	"extras": [{
 		"key": "responsible-party",
-		"value": "[{\"name\": \"USFWS\", \"roles\": [\"pointOfContact\"]}]"
+		"value": "[{"name": "USFWS", "roles": ["pointOfContact"]}]"
 	},
 	{
 		"key": "contact-email",
@@ -111,7 +111,7 @@
 	},
 	{
 		"key": "dataset-reference-date",
-		"value": "[{\"type\": \"publication\", \"value\": \"9999-01-01\"}]"
+		"value": "[{"type": "publication", "value": "9999-01-01"}]"
 	},
 	{
 		"key": "resource-type",
@@ -139,7 +139,7 @@
 	},
 	{
 		"key": "licence",
-		"value": "[\"See access and use constraints information.\"]"
+		"value": "["See access and use constraints information."]"
 	},
 	{
 		"key": "metadata_type",
@@ -151,7 +151,7 @@
 	},
 	{
 		"key": "spatial",
-		"value": "{\"type\": \"Polygon\", \"coordinates\": [[[-84.947853208, 35.992397486], [-81.720646737, 35.992397486], [-81.720646737, 37.182323803], [-84.947853208, 37.182323803], [-84.947853208, 35.992397486]]]}"
+		"value": "{"type": "Polygon", "coordinates": [[[-84.947853208, 35.992397486], [-81.720646737, 35.992397486], [-81.720646737, 37.182323803], [-84.947853208, 37.182323803], [-84.947853208, 35.992397486]]]}"
 	},
 	{
 		"key": "guid",
@@ -163,7 +163,7 @@
 	},
 	{
 		"key": "access_constraints",
-		"value": "[\"Use Constraints: none\", \"Access Constraints: none\"]"
+		"value": "["Use Constraints: none", "Access Constraints: none"]"
 	},
 	{
 		"key": "spatial_harvester",
@@ -205,7 +205,7 @@
 		"revision_timestamp": "2013-08-10T21:40:21.503248",
 		"is_organization": true,
 		"state": "active",
-		"image_url": "http:\/\/upload.wikimedia.org\/wikipedia\/commons\/0\/0c\/US-FishAndWildlifeService-Logo.svg",
+		"image_url": "http://upload.wikimedia.org/wikipedia/commons/0/0c/US-FishAndWildlifeService-Logo.svg",
 		"revision_id": "353573b3-02ba-4e95-a876-828e8972ac08",
 		"type": "organization",
 		"id": "4d7ad1cd-3641-420b-8116-e4082f49cd44",

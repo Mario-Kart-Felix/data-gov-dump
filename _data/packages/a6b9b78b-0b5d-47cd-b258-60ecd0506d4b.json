@@ -37,7 +37,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2013-03-15T15:37:52.939855",
-		"url": "http:\/\/www.vcgi.org\/dataware\/default.cfm?layer=EconOther_NMTC",
+		"url": "http://www.vcgi.org/dataware/default.cfm?layer=EconOther_NMTC",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 0,
@@ -67,7 +67,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2013-03-15T15:37:52.939874",
-		"url": "http:\/\/www.vcgi.org\/dataware\/default.cfm?layer=EconOther_NMTC",
+		"url": "http://www.vcgi.org/dataware/default.cfm?layer=EconOther_NMTC",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 1,
@@ -97,7 +97,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2013-03-15T15:37:52.939879",
-		"url": "http:\/\/www.vcgi.org\/dataware\/default.cfm?layer=EconOther_NMTC&mapit=yes",
+		"url": "http://www.vcgi.org/dataware/default.cfm?layer=EconOther_NMTC&mapit=yes",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 2,
@@ -127,7 +127,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2013-03-15T15:37:52.939883",
-		"url": "http:\/\/maps.vcgi.org:8080\/wmsconnector\/com.esri.wms.Esrimap?servicename=DATAWARE_VCGI&VERSION=1.1.1&request=getmap&BBOX=-73.45416,42.72279,-71.46528,45.018356&SRS=EPSG:4326&LAYERS=ECON_NMTC_POLY_HOTZONES&WIDTH=300&HEIGHT=400&FORMAT=image\/gif",
+		"url": "http://maps.vcgi.org:8080/wmsconnector/com.esri.wms.Esrimap?servicename=DATAWARE_VCGI&VERSION=1.1.1&request=getmap&BBOX=-73.45416,42.72279,-71.46528,45.018356&SRS=EPSG:4326&LAYERS=ECON_NMTC_POLY_HOTZONES&WIDTH=300&HEIGHT=400&FORMAT=image/gif",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 3,
@@ -157,7 +157,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2013-03-15T15:37:52.939887",
-		"url": "http:\/\/www.cdfifund.gov\/what_we_do\/programs_id.asp?programID=5",
+		"url": "http://www.cdfifund.gov/what_we_do/programs_id.asp?programID=5",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 4,
@@ -190,11 +190,11 @@
 	"name": "econother-nmtc",
 	"isopen": false,
 	"url": null,
-	"notes": "The EconOther_NMTC layer delineates New Market Tax Credit (NMTC) \"hot zones\" and qualified counties and census tracts. This dataset is designed to help investors estimate whether or not they fall within a qualifying area for New Markets Tax Credit programs. The areas identified here are Housing and Economic Hot Zones. These hot zones are a subset of Investment Areas to target resources to areas of greatest need. New Market Tax Credit Program is part of the Comunity Development Financial Institutions Fund (CDFI), which is administered by the United States Department of Treasury. The New Markets Tax Credit (NMTC) Program permits taxpayers to receive a credit against Federal income taxes for making qualified equity investments in designated Community Development Entities (CDEs). Substantially all of the qualified equity investment must in turn be used by the CDE to provide investments in low-income communities. Refer to the NewMarketTaxHelp.pdf help document for additional information. Its bundled with the EconOther_NMTC.zip download.",
+	"notes": "The EconOther_NMTC layer delineates New Market Tax Credit (NMTC) "hot zones" and qualified counties and census tracts. This dataset is designed to help investors estimate whether or not they fall within a qualifying area for New Markets Tax Credit programs. The areas identified here are Housing and Economic Hot Zones. These hot zones are a subset of Investment Areas to target resources to areas of greatest need. New Market Tax Credit Program is part of the Comunity Development Financial Institutions Fund (CDFI), which is administered by the United States Department of Treasury. The New Markets Tax Credit (NMTC) Program permits taxpayers to receive a credit against Federal income taxes for making qualified equity investments in designated Community Development Entities (CDEs). Substantially all of the qualified equity investment must in turn be used by the CDE to provide investments in low-income communities. Refer to the NewMarketTaxHelp.pdf help document for additional information. Its bundled with the EconOther_NMTC.zip download.",
 	"license_title": null,
 	"extras": [{
 		"key": "responsible-party",
-		"value": "[{\"name\": \"Agency of Commerce and Community Development (ACCD)\", \"roles\": [\"pointOfContact\"]}]"
+		"value": "[{"name": "Agency of Commerce and Community Development (ACCD)", "roles": ["pointOfContact"]}]"
 	},
 	{
 		"key": "contact-email",
@@ -214,7 +214,7 @@
 	},
 	{
 		"key": "dataset-reference-date",
-		"value": "[{\"type\": \"publication\", \"value\": \"2008-11-05\"}]"
+		"value": "[{"type": "publication", "value": "2008-11-05"}]"
 	},
 	{
 		"key": "resource-type",
@@ -242,7 +242,7 @@
 	},
 	{
 		"key": "licence",
-		"value": "[\"VCGI and the State of Vermont make no representations of any kind, including but not limited to the warranties of merchantability or fitness for a particular use, nor are any such warranties to be implied with respect to the data.\"]"
+		"value": "["VCGI and the State of Vermont make no representations of any kind, including but not limited to the warranties of merchantability or fitness for a particular use, nor are any such warranties to be implied with respect to the data."]"
 	},
 	{
 		"key": "metadata_type",
@@ -250,7 +250,7 @@
 	},
 	{
 		"key": "spatial",
-		"value": "{\"type\": \"Polygon\", \"coordinates\": [[[-73.454162, 42.722789], [-73.454162, 45.018361], [-71.465281, 45.018361], [-71.465281, 42.722789], [-73.454162, 42.722789]]]}"
+		"value": "{"type": "Polygon", "coordinates": [[[-73.454162, 42.722789], [-73.454162, 45.018361], [-71.465281, 45.018361], [-71.465281, 42.722789], [-73.454162, 42.722789]]]}"
 	},
 	{
 		"key": "guid",
@@ -262,11 +262,11 @@
 	},
 	{
 		"key": "access_constraints",
-		"value": "[\"Use Constraints: Data should be used for estimating whether or not a property falls within a qualifying area for New Markets Tax Credit programs ONLY.\", \"Access Constraints: VCGI, ACCD, and the State of VT make no representations of any kind, including but not limited to the warranties of merchantability or fitness for a particular use, nor are any such warranties to be implied with respect to the data.\"]"
+		"value": "["Use Constraints: Data should be used for estimating whether or not a property falls within a qualifying area for New Markets Tax Credit programs ONLY.", "Access Constraints: VCGI, ACCD, and the State of VT make no representations of any kind, including but not limited to the warranties of merchantability or fitness for a particular use, nor are any such warranties to be implied with respect to the data."]"
 	},
 	{
 		"key": "graphic-preview-file",
-		"value": "http:\/\/maps.vcgi.org:8080\/wmsconnector\/com.esri.wms.Esrimap?servicename=DATAWARE_VCGI&VERSION=1.1.1&request=getmap&BBOX=-73.45416,42.72279,-71.46528,45.018356&SRS=EPSG:4326&LAYERS=ECON_NMTC_POLY_HOTZONES&WIDTH=300&HEIGHT=400&FORMAT=image\/gif"
+		"value": "http://maps.vcgi.org:8080/wmsconnector/com.esri.wms.Esrimap?servicename=DATAWARE_VCGI&VERSION=1.1.1&request=getmap&BBOX=-73.45416,42.72279,-71.46528,45.018356&SRS=EPSG:4326&LAYERS=ECON_NMTC_POLY_HOTZONES&WIDTH=300&HEIGHT=400&FORMAT=image/gif"
 	},
 	{
 		"key": "frequency-of-update",
@@ -304,7 +304,7 @@
 		"revision_timestamp": "2013-03-27T17:47:03.718032",
 		"is_organization": true,
 		"state": "active",
-		"image_url": "http:\/\/vcgi.vermont.gov\/sites\/all\/themes\/vt_template\/logo.png",
+		"image_url": "http://vcgi.vermont.gov/sites/all/themes/vt_template/logo.png",
 		"revision_id": "c5dfbbb0-f1e0-4db6-b566-e932e1520060",
 		"type": "organization",
 		"id": "0c3a4ebc-9929-4f21-bdd0-76a35d52f57d",

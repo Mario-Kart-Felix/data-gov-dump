@@ -37,7 +37,7 @@
 		"cache_url": null,
 		"name": "Zip File",
 		"created": "2013-03-15T17:37:39.026909",
-		"url": "http:\/\/certmapper.cr.usgs.gov\/data\/nca\/pp1625b\/spatial\/shape\/cpmphg.zip",
+		"url": "http://certmapper.cr.usgs.gov/data/nca/pp1625b/spatial/shape/cpmphg.zip",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 0,
@@ -67,7 +67,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2013-03-15T17:37:39.026932",
-		"url": "http:\/\/energy.cr.usgs.gov\/coal\/coal_assessments\/startmap.html",
+		"url": "http://energy.cr.usgs.gov/coal/coal_assessments/startmap.html",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 1,
@@ -97,7 +97,7 @@
 		"cache_url": null,
 		"name": "Zip File",
 		"created": "2013-03-15T17:37:39.026941",
-		"url": "http:\/\/certmapper.cr.usgs.gov\/data\/nca\/pp1625b\/spatial\/shape\/cpmphg.zip",
+		"url": "http://certmapper.cr.usgs.gov/data/nca/pp1625b/spatial/shape/cpmphg.zip",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 2,
@@ -127,7 +127,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2013-03-15T17:37:39.026948",
-		"url": "http:\/\/energy.cr.usgs.gov\/coal\/coal_assessments\/summary.html",
+		"url": "http://energy.cr.usgs.gov/coal/coal_assessments/summary.html",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 3,
@@ -157,7 +157,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2013-03-15T17:37:39.026955",
-		"url": "http:\/\/greenwood.cr.usgs.gov\/energy\/coal\/PP1625B\/",
+		"url": "http://greenwood.cr.usgs.gov/energy/coal/PP1625B/",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 4,
@@ -201,7 +201,7 @@
 	},
 	{
 		"key": "graphic-preview-file",
-		"value": "http:\/\/certmapper.cr.usgs.gov\/data\/nca\/pp1625b\/graphic\/cpmphg.jpg"
+		"value": "http://certmapper.cr.usgs.gov/data/nca/pp1625b/graphic/cpmphg.jpg"
 	},
 	{
 		"key": "bbox-south-lat",
@@ -213,11 +213,11 @@
 	},
 	{
 		"key": "spatial",
-		"value": "{\"type\": \"Polygon\", \"coordinates\": [[[-111.6605, 34.4621], [-111.6605, 40.4606], [-106.8067, 40.4606], [-106.8067, 34.4621], [-111.6605, 34.4621]]]}"
+		"value": "{"type": "Polygon", "coordinates": [[[-111.6605, 34.4621], [-111.6605, 40.4606], [-106.8067, 40.4606], [-106.8067, 34.4621], [-111.6605, 34.4621]]]}"
 	},
 	{
 		"key": "access_constraints",
-		"value": "[\"Use Constraints: Further verification of this data set is advisable. 1995 data were the most recent data available at the time this work was done. In some instances MSHA's data set contains obvious location discrepancies. The locations are sometimes of the mine itself (proper), but might be of structures and entities associated with the mining operation, i.e.: the mining office, rather than the mine pit. Mine locations were verified by referencing various publications listed below in Source_Information under lineage.\", \"Access Constraints: None\"]"
+		"value": "["Use Constraints: Further verification of this data set is advisable. 1995 data were the most recent data available at the time this work was done. In some instances MSHA's data set contains obvious location discrepancies. The locations are sometimes of the mine itself (proper), but might be of structures and entities associated with the mining operation, i.e.: the mining office, rather than the mine pit. Mine locations were verified by referencing various publications listed below in Source_Information under lineage.", "Access Constraints: None"]"
 	},
 	{
 		"key": "temporal-extent-begin",
@@ -237,7 +237,7 @@
 	},
 	{
 		"key": "dataset-reference-date",
-		"value": "[{\"type\": \"publication\", \"value\": \"2000-01-01\"}]"
+		"value": "[{"type": "publication", "value": "2000-01-01"}]"
 	},
 	{
 		"key": "frequency-of-update",
@@ -245,7 +245,7 @@
 	},
 	{
 		"key": "licence",
-		"value": "[\"\\nDisclaimer: Any use of trade, product, or company names in this\\npublication is for descriptive purposes only and does not imply\\nendorsement by the U.S. Government. Although these data have been\\nprocessed successfully on a computer system at the U.S.\\nGeological Survey, no warranty expressed or implied is made by\\nthe USGS regarding the utility of the data on any other system,\\nnor shall the act of distribution constitute any such warranty.\\n\"]"
+		"value": "["\nDisclaimer: Any use of trade, product, or company names in this\npublication is for descriptive purposes only and does not imply\nendorsement by the U.S. Government. Although these data have been\nprocessed successfully on a computer system at the U.S.\nGeological Survey, no warranty expressed or implied is made by\nthe USGS regarding the utility of the data on any other system,\nnor shall the act of distribution constitute any such warranty.\n"]"
 	},
 	{
 		"key": "metadata_type",
@@ -253,7 +253,7 @@
 	},
 	{
 		"key": "responsible-party",
-		"value": "[{\"name\": \"\", \"roles\": [\"pointOfContact\"]}]"
+		"value": "[{"name": "", "roles": ["pointOfContact"]}]"
 	},
 	{
 		"key": "temporal-extent-end",
@@ -292,14 +292,14 @@
 		"value": "USGS Energy Resource Program Data Finder"
 	}],
 	"organization": {
-		"description": "http:\/\/www.usgs.gov\/\r\nThe USGS is a federal science agency that provides impartial information on the health of our ecosystems and environment, the natural hazards that threaten us, the natural resources we rely on, the impacts of climate and land-use change, and the core science systems that help us provide timely, relevant, and useable information.",
+		"description": "http://www.usgs.gov/rnThe USGS is a federal science agency that provides impartial information on the health of our ecosystems and environment, the natural hazards that threaten us, the natural resources we rely on, the impacts of climate and land-use change, and the core science systems that help us provide timely, relevant, and useable information.",
 		"created": "2013-03-14T03:44:38.263357",
 		"title": "U.S. Geological Survey, Department of the Interior",
 		"name": "usgs-gov",
 		"revision_timestamp": "2014-09-02T13:43:52.167023",
 		"is_organization": true,
 		"state": "active",
-		"image_url": "http:\/\/pubs.usgs.gov\/sir\/2004\/5296\/04-5296_confluence_park\/usgs_logo.gif",
+		"image_url": "http://pubs.usgs.gov/sir/2004/5296/04-5296_confluence_park/usgs_logo.gif",
 		"revision_id": "2858aa99-9501-4f96-82e5-9647b968ed66",
 		"type": "organization",
 		"id": "bd2cdd5a-4d65-46c0-9937-c8381175f104",

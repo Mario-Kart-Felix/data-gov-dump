@@ -36,7 +36,7 @@
 		"cache_url": null,
 		"name": "Export",
 		"created": "2016-07-15T21:35:08.280200",
-		"url": "http:\/\/water.usgs.gov\/GIS\/dsdl\/ecoregion.e00.gz",
+		"url": "http://water.usgs.gov/GIS/dsdl/ecoregion.e00.gz",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 0,
@@ -65,7 +65,7 @@
 		"cache_url": null,
 		"name": "SDTS",
 		"created": "2016-07-15T21:35:08.280244",
-		"url": "http:\/\/water.usgs.gov\/GIS\/dsdl\/ecoregion.sdts.tgz",
+		"url": "http://water.usgs.gov/GIS/dsdl/ecoregion.sdts.tgz",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 1,
@@ -95,7 +95,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2016-07-15T21:35:08.280262",
-		"url": "http:\/\/water.usgs.gov\/lookup\/getspatial?ecoregion",
+		"url": "http://water.usgs.gov/lookup/getspatial?ecoregion",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 2,
@@ -115,7 +115,7 @@
 	"name": "aquatic-ecoregions-of-the-conterminous-united-states86e92",
 	"isopen": false,
 	"url": null,
-	"notes": "Ecoregions are based on perceived patterns of a combination of causal and integrative factors including land use, land surface form, potential natural vegetation, and soils (Omernik, 1987). This is a copy of the ecoregion coverage of Omernik (1987) with some item names modified. This is NOT the most recent version of the ecoregion definitions, which can be obtained from: Environmental Protection Agency, Western Ecology Division, Corvallis, OR at http:\/\/www.epa.gov\/wed\/pages\/ecoregions\/level_iii.htm.",
+	"notes": "Ecoregions are based on perceived patterns of a combination of causal and integrative factors including land use, land surface form, potential natural vegetation, and soils (Omernik, 1987). This is a copy of the ecoregion coverage of Omernik (1987) with some item names modified. This is NOT the most recent version of the ecoregion definitions, which can be obtained from: Environmental Protection Agency, Western Ecology Division, Corvallis, OR at http://www.epa.gov/wed/pages/ecoregions/level_iii.htm.",
 	"license_title": null,
 	"extras": [{
 		"key": "bbox-east-long",
@@ -143,7 +143,7 @@
 	},
 	{
 		"key": "graphic-preview-file",
-		"value": "http:\/\/water.usgs.gov\/GIS\/browse\/ecoregion_s.gif"
+		"value": "http://water.usgs.gov/GIS/browse/ecoregion_s.gif"
 	},
 	{
 		"key": "bbox-south-lat",
@@ -159,7 +159,7 @@
 	},
 	{
 		"key": "spatial",
-		"value": "{\"type\": \"Polygon\", \"coordinates\": [[[-127.87111726, 22.87753347], [-65.35687433, 22.87753347], [-65.35687433, 48.24430721], [-127.87111726, 48.24430721], [-127.87111726, 22.87753347]]]}"
+		"value": "{"type": "Polygon", "coordinates": [[[-127.87111726, 22.87753347], [-65.35687433, 22.87753347], [-65.35687433, 48.24430721], [-127.87111726, 48.24430721], [-127.87111726, 22.87753347]]]}"
 	},
 	{
 		"key": "progress",
@@ -167,7 +167,7 @@
 	},
 	{
 		"key": "access_constraints",
-		"value": "[\"Use Constraints: None\", \"Access Constraints: None\"]"
+		"value": "["Use Constraints: None", "Access Constraints: None"]"
 	},
 	{
 		"key": "contact-email",
@@ -183,7 +183,7 @@
 	},
 	{
 		"key": "dataset-reference-date",
-		"value": "[{\"type\": \"publication\", \"value\": \"1987-01-01\"}]"
+		"value": "[{"type": "publication", "value": "1987-01-01"}]"
 	},
 	{
 		"key": "graphic-preview-description",
@@ -195,7 +195,7 @@
 	},
 	{
 		"key": "licence",
-		"value": "[\"Although this data set has been used by the U.S. Geological\\nSurvey, U.S. Department of the Interior, no warranty expressed or\\nimplied is made by the U.S. Geological Survey as to the accuracy\\nof the data and related materials. The act of distribution shall not \\nconstitute any such warranty, and no responsibility is assumed by \\nthe U.S. Geological Survey in the use of this data, software, or \\nrelated materials.\\n\\nAny use of trade, product, or firm names is for descriptive\\npurposes only and does not imply endorsement by the U.S.\\nGovernment.\"]"
+		"value": "["Although this data set has been used by the U.S. Geological\nSurvey, U.S. Department of the Interior, no warranty expressed or\nimplied is made by the U.S. Geological Survey as to the accuracy\nof the data and related materials. The act of distribution shall not \nconstitute any such warranty, and no responsibility is assumed by \nthe U.S. Geological Survey in the use of this data, software, or \nrelated materials.\n\nAny use of trade, product, or firm names is for descriptive\npurposes only and does not imply endorsement by the U.S.\nGovernment."]"
 	},
 	{
 		"key": "metadata_type",
@@ -203,7 +203,7 @@
 	},
 	{
 		"key": "responsible-party",
-		"value": "[{\"name\": \"U.S. Geological Survey\", \"roles\": [\"pointOfContact\"]}]"
+		"value": "[{"name": "U.S. Geological Survey", "roles": ["pointOfContact"]}]"
 	},
 	{
 		"key": "spatial-data-service-type",
@@ -245,7 +245,7 @@
 		"revision_timestamp": "2015-01-16T18:28:14.593903",
 		"is_organization": true,
 		"state": "active",
-		"image_url": "http:\/\/upload.wikimedia.org\/wikipedia\/en\/thumb\/4\/44\/University_of_Idaho_seal.svg\/300px-University_of_Idaho_seal.svg.png",
+		"image_url": "http://upload.wikimedia.org/wikipedia/en/thumb/4/44/University_of_Idaho_seal.svg/300px-University_of_Idaho_seal.svg.png",
 		"revision_id": "761955d7-9530-4622-8609-d0b01c78e177",
 		"type": "organization",
 		"id": "75e22a8a-da5f-46f3-93d8-924063a3703d",

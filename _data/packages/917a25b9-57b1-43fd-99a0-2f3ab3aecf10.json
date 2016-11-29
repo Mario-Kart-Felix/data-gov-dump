@@ -31,11 +31,11 @@
 		},
 		"mimetype_inner": null,
 		"no_real_name": true,
-		"mimetype": "text\/html",
+		"mimetype": "text/html",
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2016-01-29T08:44:38.328775",
-		"url": "ftp:\/\/ftp.cpc.ncep.noaa.gov\/precip\/gpi\/daily",
+		"url": "ftp://ftp.cpc.ncep.noaa.gov/precip/gpi/daily",
 		"webstore_url": null,
 		"last_modified": null,
 		"position": 0,
@@ -112,7 +112,7 @@
 		"revision_timestamp": "2013-05-30T16:50:01.416157",
 		"is_organization": true,
 		"state": "active",
-		"image_url": "http:\/\/www.vos.noaa.gov\/MWL\/aug_10\/Images\/doc_logo_xparent.png",
+		"image_url": "http://www.vos.noaa.gov/MWL/aug_10/Images/doc_logo_xparent.png",
 		"revision_id": "44c851b9-8872-497a-8a13-2f06740b7ffb",
 		"type": "organization",
 		"id": "9cda5205-d632-4814-96e7-a4ab5e0dce85",
@@ -143,11 +143,11 @@
 	},
 	{
 		"key": "catalog_@context",
-		"value": "https:\/\/project-open-data.cio.gov\/v1.1\/schema\/catalog.jsonld"
+		"value": "https://project-open-data.cio.gov/v1.1/schema/catalog.jsonld"
 	},
 	{
 		"key": "temporal",
-		"value": "1996-10-01T00:00:00\/2014-08-25T10:50:20.309000-04:00"
+		"value": "1996-10-01T00:00:00/2014-08-25T10:50:20.309000-04:00"
 	},
 	{
 		"key": "resource-type",
@@ -179,15 +179,15 @@
 	},
 	{
 		"key": "accrualPeriodicity",
-		"value": "R\/P1M"
+		"value": "R/P1M"
 	},
 	{
 		"key": "spatial",
-		"value": "{\"type\": \"Polygon\", \"coordinates\": [[[-179.5, -39.5], [179.5, -39.5], [179.5, 39.5], [-179.5, 39.5], [-179.5, -39.5]]]}"
+		"value": "{"type": "Polygon", "coordinates": [[[-179.5, -39.5], [179.5, -39.5], [179.5, 39.5], [-179.5, 39.5], [-179.5, -39.5]]]}"
 	},
 	{
 		"key": "catalog_conformsTo",
-		"value": "https:\/\/project-open-data.cio.gov\/v1.1\/schema"
+		"value": "https://project-open-data.cio.gov/v1.1/schema"
 	},
 	{
 		"key": "accessLevel",
@@ -203,7 +203,7 @@
 	},
 	{
 		"key": "catalog_describedBy",
-		"value": "https:\/\/project-open-data.cio.gov\/v1.1\/schema\/catalog.json"
+		"value": "https://project-open-data.cio.gov/v1.1/schema/catalog.json"
 	}],
 	"title": "Climate Prediction Center(CPC)Daily GOES Precipitation Index (GPI)",
 	"revision_id": "78da253e-aca2-451d-8ee8-e849aa116c7d"

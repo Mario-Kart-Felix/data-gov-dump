@@ -37,7 +37,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2016-05-30T21:45:57.692170",
-		"url": "https:\/\/coast.noaa.gov\/slr",
+		"url": "https://coast.noaa.gov/slr",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 0,
@@ -67,7 +67,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2016-05-30T21:45:57.692219",
-		"url": "https:\/\/coast.noaa.gov\/digitalcoast\/tools\/slr",
+		"url": "https://coast.noaa.gov/digitalcoast/tools/slr",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 1,
@@ -97,7 +97,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2016-05-30T21:45:57.692231",
-		"url": "https:\/\/coast.noaa.gov\/",
+		"url": "https://coast.noaa.gov/",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 2,
@@ -117,11 +117,11 @@
 	"name": "noaa-office-for-coastal-management-sea-level-rise-data-current-mean-higher-high-water-inundatio",
 	"isopen": false,
 	"url": null,
-	"notes": "These data were created as part of the National Oceanic and Atmospheric Administration Office for Coastal Management's efforts to create an online mapping viewer depicting potential sea level rise and its associated impacts on the nation's coastal areas. The purpose of the mapping viewer is to provide coastal managers and scientists with a preliminary look at sea level rise (slr) and coastal flooding impacts. The viewer is a screening-level tool that uses nationally consistent data sets and analyses. Data and maps provided can be used at several scales to help gauge trends and prioritize actions for different scenarios. The Sea Level Rise and Coastal Flooding Impacts Viewer may be accessed at: http:\/\/www.coast.noaa.gov\/slr. These data depict the potential inundation of coastal areas in Hawaii resulting from current Mean Higher High Water (MHHW) conditions. The process used to produce the data can be described as a modified bathtub approach that attempts to account for both local\/regional tidal variability as well as hydrological connectivity. The process uses two source datasets to derive the final inundation rasters and polygons and accompanying low-lying polygons: the Digital Elevation Model (DEM) of the area and a tidal surface model that represents spatial tidal variability. The tidal model combines harmonic constituents, tidal datums, and residual water level data measured at tide stations into a composite tide curve. This solution is not a NOAA\/CO-OPS-generated\/recognized tidal-geodetic relationship. The tidal datum values were interpolated from published values using a 2-D mathematical interpolation model that solves for weighting functions that satisfy the Laplacian. This strictly mathematical approach assumes a smooth transition of tidal characteristics and the quality control step entailed comparing the interpolated values with other known values not included in the interpolation model. This derived surface is used in lieu of NAVD88 coverage in the Hawaiian Islands for the purposes of this project. The model used to produce these data does not account for erosion, subsidence, or any future changes in an area's hydrodynamics. It is simply a method to derive data in order to visualize the potential scale, not exact location, of inundation from sea level rise.",
+	"notes": "These data were created as part of the National Oceanic and Atmospheric Administration Office for Coastal Management's efforts to create an online mapping viewer depicting potential sea level rise and its associated impacts on the nation's coastal areas. The purpose of the mapping viewer is to provide coastal managers and scientists with a preliminary look at sea level rise (slr) and coastal flooding impacts. The viewer is a screening-level tool that uses nationally consistent data sets and analyses. Data and maps provided can be used at several scales to help gauge trends and prioritize actions for different scenarios. The Sea Level Rise and Coastal Flooding Impacts Viewer may be accessed at: http://www.coast.noaa.gov/slr. These data depict the potential inundation of coastal areas in Hawaii resulting from current Mean Higher High Water (MHHW) conditions. The process used to produce the data can be described as a modified bathtub approach that attempts to account for both local/regional tidal variability as well as hydrological connectivity. The process uses two source datasets to derive the final inundation rasters and polygons and accompanying low-lying polygons: the Digital Elevation Model (DEM) of the area and a tidal surface model that represents spatial tidal variability. The tidal model combines harmonic constituents, tidal datums, and residual water level data measured at tide stations into a composite tide curve. This solution is not a NOAA/CO-OPS-generated/recognized tidal-geodetic relationship. The tidal datum values were interpolated from published values using a 2-D mathematical interpolation model that solves for weighting functions that satisfy the Laplacian. This strictly mathematical approach assumes a smooth transition of tidal characteristics and the quality control step entailed comparing the interpolated values with other known values not included in the interpolation model. This derived surface is used in lieu of NAVD88 coverage in the Hawaiian Islands for the purposes of this project. The model used to produce these data does not account for erosion, subsidence, or any future changes in an area's hydrodynamics. It is simply a method to derive data in order to visualize the potential scale, not exact location, of inundation from sea level rise.",
 	"license_title": null,
 	"extras": [{
 		"key": "responsible-party",
-		"value": "[{\"name\": \"NOAA Office for Coastal Management\", \"roles\": [\"pointOfContact\"]}]"
+		"value": "[{"name": "NOAA Office for Coastal Management", "roles": ["pointOfContact"]}]"
 	},
 	{
 		"key": "contact-email",
@@ -141,7 +141,7 @@
 	},
 	{
 		"key": "dataset-reference-date",
-		"value": "[{\"type\": \"publication\", \"value\": \"2013-01-01\"}]"
+		"value": "[{"type": "publication", "value": "2013-01-01"}]"
 	},
 	{
 		"key": "resource-type",
@@ -169,7 +169,7 @@
 	},
 	{
 		"key": "licence",
-		"value": "[\"Any conclusions drawn from the analysis of this information are not the responsibility of the Office for Coastal Management or its partners.\"]"
+		"value": "["Any conclusions drawn from the analysis of this information are not the responsibility of the Office for Coastal Management or its partners."]"
 	},
 	{
 		"key": "metadata_type",
@@ -181,7 +181,7 @@
 	},
 	{
 		"key": "spatial",
-		"value": "{\"type\": \"Polygon\", \"coordinates\": [[[-160.278, 18.865], [-154.717, 18.865], [-154.717, 22.336], [-160.278, 22.336], [-160.278, 18.865]]]}"
+		"value": "{"type": "Polygon", "coordinates": [[[-160.278, 18.865], [-154.717, 18.865], [-154.717, 22.336], [-160.278, 22.336], [-160.278, 18.865]]]}"
 	},
 	{
 		"key": "guid",
@@ -193,7 +193,7 @@
 	},
 	{
 		"key": "access_constraints",
-		"value": "[\"Use Constraints: These data illustrate the scale of potential flooding, not the exact location, and do not account for erosion, subsidence, or future construction. Inundation is shown as it would appear during the highest high tides (excludes wind driven tides) with the sea level rise amount. These data should be used only as a screening-level tool for management decisions. As with all remotely sensed data, all features should be verified with a site visit. The dataset is provided \\\"as is,\\\" without warranty to its performance, merchantable state, or fitness for any particular purpose. The entire risk associated with the results and performance of this dataset is assumed by the user. This dataset should be used strictly as a planning reference and not for navigation, permitting, or other legal purposes.\", \"Access Constraints: None\"]"
+		"value": "["Use Constraints: These data illustrate the scale of potential flooding, not the exact location, and do not account for erosion, subsidence, or future construction. Inundation is shown as it would appear during the highest high tides (excludes wind driven tides) with the sea level rise amount. These data should be used only as a screening-level tool for management decisions. As with all remotely sensed data, all features should be verified with a site visit. The dataset is provided \"as is,\" without warranty to its performance, merchantable state, or fitness for any particular purpose. The entire risk associated with the results and performance of this dataset is assumed by the user. This dataset should be used strictly as a planning reference and not for navigation, permitting, or other legal purposes.", "Access Constraints: None"]"
 	},
 	{
 		"key": "spatial_harvester",
@@ -205,7 +205,7 @@
 	},
 	{
 		"package_id": "70bf372d-cb0e-4b88-93d4-485bd739213c",
-		"value": "sea level rise, hawaii island, shoreline, inundation, lanai, molokai, hawaii, united states, bathymetry\/topography, oahu, kauai, maui, flooding",
+		"value": "sea level rise, hawaii island, shoreline, inundation, lanai, molokai, hawaii, united states, bathymetry/topography, oahu, kauai, maui, flooding",
 		"revision_timestamp": "2015-09-26T20:06:50.799224",
 		"state": "active",
 		"key": "tags",
@@ -235,7 +235,7 @@
 		"revision_timestamp": "2013-03-25T23:05:12.923863",
 		"is_organization": true,
 		"state": "active",
-		"image_url": "https:\/\/fortress.wa.gov\/dfw\/score\/score\/images\/noaa_logo.png",
+		"image_url": "https://fortress.wa.gov/dfw/score/score/images/noaa_logo.png",
 		"revision_id": "c6d43080-22e1-405e-a83d-f2a512d9e867",
 		"type": "organization",
 		"id": "e811f0b4-451f-4896-9e8f-fc6802837819",

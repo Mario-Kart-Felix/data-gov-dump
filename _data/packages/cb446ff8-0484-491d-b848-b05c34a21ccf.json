@@ -37,7 +37,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2016-09-15T10:55:27.064620",
-		"url": "https:\/\/edg.epa.gov\/metadata",
+		"url": "https://edg.epa.gov/metadata",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 0,
@@ -67,7 +67,7 @@
 		"cache_url": null,
 		"name": "Esri Rest API Endpoint",
 		"created": "2016-09-15T10:55:27.064663",
-		"url": "https:\/\/geodata.epa.gov\/arcgis\/rest\/services\/OAR_OAQPS\/HySplit_2015\/MapServer",
+		"url": "https://geodata.epa.gov/arcgis/rest/services/OAR_OAQPS/HySplit_2015/MapServer",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 1,
@@ -97,7 +97,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2016-09-15T10:55:27.064672",
-		"url": "http:\/\/ready.arl.noaa.gov\/HYSPLIT.php",
+		"url": "http://ready.arl.noaa.gov/HYSPLIT.php",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 2,
@@ -127,7 +127,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2016-09-15T10:55:27.064679",
-		"url": "https:\/\/www3.epa.gov\/airquality\/",
+		"url": "https://www3.epa.gov/airquality/",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 3,
@@ -136,7 +136,7 @@
 	}],
 	"num_resources": 4,
 	"tags": [],
-	"title": "HYSPLIT 2015, U.S., 2013-2015, EPA\/OAR\/OAQPS\/AQAD",
+	"title": "HYSPLIT 2015, U.S., 2013-2015, EPA/OAR/OAQPS/AQAD",
 	"tracking_summary": {
 		"total": 1,
 		"recent": 0
@@ -147,7 +147,7 @@
 	"name": "hysplit-2015-u-s-2013-2015-epa-oar-oaqps-aqad",
 	"isopen": false,
 	"url": null,
-	"notes": "This web service contains layers which depict HYSPLIT results for days violating the Ozone NAAQs during the years 2013-2015. HYSPLIT (HYbrid Single-Particle Lagrangian Integrated Trajectory) is frequently used to produce trajectories for assessments associated with determining nonattainment area boundaries. The trajectory model, which uses existing meteorological forecast fields from regional or global models to compute advection (i.e., the rate of change of an atmospheric property caused by the horizontal movement of air) and stability, is designed to support a wide range of simulations related to the atmospheric transport of pollutants. While HYSPLIT is a useful tool for identifying meteorological patterns associated with exceedance events, HYSPLIT trajectories alone do not conclusively indicate contribution to measured high concentrations of ozone. Therefore, they cannot be used in isolation to determine inclusion or exclusion of an area within a nonattainment boundary. While a HYSPLIT trajectory analysis alone cannot yield a conclusion that a particular region contributes to ozone concentrations, it may be conceivable that a set of HYSPLIT trajectories that show no wind flow from a particular region on any day with high ozone concentration measurements might support discounting that region as contributing to ozone concentrations. A HYSPLIT backward trajectory, the most common trajectory used in assessments associated with determining nonattainment area boundaries, is usually depicted on a standard map as a single line extending in two dimensional (x,y) space from a starting point, regressing backward in time as the line extends from the starting point. An individual trajectory can have only one starting height; HYSPLIT can plot trajectories of different starting heights using different colors. The line thickness is predetermined as a user option, so it does not imply coverage other than to represent the centerline of an air parcel\u2019s motion calculated to arrive at the starting location at the starting time. In this tool, three starting heights are plotted -- 100m AGL (red), 500m (blue), and 1000m (green) \u2013 for each ozone monitor with a design value greater than 70ppb for each day that monitor\u2019s daily maximum 8-hour average ozone value exceeded 70ppb. The lines represent HYSPLIT trajectories 24 hours in length, utilizing NOAA EDAS data for all meteorological input, including vertical motion. Detailed information for downloading, installing, and operating HYSPLIT can be found at these websites: http:\/\/ready.arl.noaa.gov\/HYSPLIT.php http:\/\/www.arl.noaa.gov\/documents\/reports\/hysplit_user_guide.pdf http:\/\/www.arl.noaa.gov\/documents\/reports\/arl-224.pdf",
+	"notes": "This web service contains layers which depict HYSPLIT results for days violating the Ozone NAAQs during the years 2013-2015. HYSPLIT (HYbrid Single-Particle Lagrangian Integrated Trajectory) is frequently used to produce trajectories for assessments associated with determining nonattainment area boundaries. The trajectory model, which uses existing meteorological forecast fields from regional or global models to compute advection (i.e., the rate of change of an atmospheric property caused by the horizontal movement of air) and stability, is designed to support a wide range of simulations related to the atmospheric transport of pollutants. While HYSPLIT is a useful tool for identifying meteorological patterns associated with exceedance events, HYSPLIT trajectories alone do not conclusively indicate contribution to measured high concentrations of ozone. Therefore, they cannot be used in isolation to determine inclusion or exclusion of an area within a nonattainment boundary. While a HYSPLIT trajectory analysis alone cannot yield a conclusion that a particular region contributes to ozone concentrations, it may be conceivable that a set of HYSPLIT trajectories that show no wind flow from a particular region on any day with high ozone concentration measurements might support discounting that region as contributing to ozone concentrations. A HYSPLIT backward trajectory, the most common trajectory used in assessments associated with determining nonattainment area boundaries, is usually depicted on a standard map as a single line extending in two dimensional (x,y) space from a starting point, regressing backward in time as the line extends from the starting point. An individual trajectory can have only one starting height; HYSPLIT can plot trajectories of different starting heights using different colors. The line thickness is predetermined as a user option, so it does not imply coverage other than to represent the centerline of an air parcelu2019s motion calculated to arrive at the starting location at the starting time. In this tool, three starting heights are plotted -- 100m AGL (red), 500m (blue), and 1000m (green) u2013 for each ozone monitor with a design value greater than 70ppb for each day that monitoru2019s daily maximum 8-hour average ozone value exceeded 70ppb. The lines represent HYSPLIT trajectories 24 hours in length, utilizing NOAA EDAS data for all meteorological input, including vertical motion. Detailed information for downloading, installing, and operating HYSPLIT can be found at these websites: http://ready.arl.noaa.gov/HYSPLIT.php http://www.arl.noaa.gov/documents/reports/hysplit_user_guide.pdf http://www.arl.noaa.gov/documents/reports/arl-224.pdf",
 	"license_title": null,
 	"extras": [{
 		"key": "bbox-east-long",
@@ -183,7 +183,7 @@
 	},
 	{
 		"key": "spatial",
-		"value": "{\"type\": \"Polygon\", \"coordinates\": [[[-138.21454852, 6.65223303], [-12.68151645, 6.65223303], [-12.68151645, 61.7110157], [-138.21454852, 61.7110157], [-138.21454852, 6.65223303]]]}"
+		"value": "{"type": "Polygon", "coordinates": [[[-138.21454852, 6.65223303], [-12.68151645, 6.65223303], [-12.68151645, 61.7110157], [-138.21454852, 61.7110157], [-138.21454852, 6.65223303]]]}"
 	},
 	{
 		"key": "progress",
@@ -191,7 +191,7 @@
 	},
 	{
 		"key": "access_constraints",
-		"value": "[\"Use Constraints: None. Please check sources, scale, accuracy, currency and other available information. Please confirm that you are using the most recent copy of both data and metadata. Acknowledgement of the EPA would be appreciated.\", \"Access Constraints: None\"]"
+		"value": "["Use Constraints: None. Please check sources, scale, accuracy, currency and other available information. Please confirm that you are using the most recent copy of both data and metadata. Acknowledgement of the EPA would be appreciated.", "Access Constraints: None"]"
 	},
 	{
 		"key": "temporal-extent-begin",
@@ -199,7 +199,7 @@
 	},
 	{
 		"key": "licence_url",
-		"value": "https:\/\/edg.epa.gov\/EPA_Data_License.html"
+		"value": "https://edg.epa.gov/EPA_Data_License.html"
 	},
 	{
 		"key": "contact-email",
@@ -215,7 +215,7 @@
 	},
 	{
 		"key": "dataset-reference-date",
-		"value": "[{\"type\": \"publication\", \"value\": \"2016-09-12\"}]"
+		"value": "[{"type": "publication", "value": "2016-09-12"}]"
 	},
 	{
 		"key": "frequency-of-update",
@@ -223,7 +223,7 @@
 	},
 	{
 		"key": "licence",
-		"value": "[\"https:\/\/edg.epa.gov\/EPA_Data_License.html\"]"
+		"value": "["https://edg.epa.gov/EPA_Data_License.html"]"
 	},
 	{
 		"key": "metadata_type",
@@ -231,7 +231,7 @@
 	},
 	{
 		"key": "responsible-party",
-		"value": "[{\"name\": \"U.S. Environmental Protection Agency, Office of Air and Radiation-Office of Air Quality Planning and Standards\", \"roles\": [\"pointOfContact\"]}]"
+		"value": "[{"name": "U.S. Environmental Protection Agency, Office of Air and Radiation-Office of Air Quality Planning and Standards", "roles": ["pointOfContact"]}]"
 	},
 	{
 		"key": "temporal-extent-end",
@@ -277,7 +277,7 @@
 		"revision_timestamp": "2014-01-16T18:58:42.895981",
 		"is_organization": true,
 		"state": "active",
-		"image_url": "http:\/\/edg.epa.gov\/EPALogo.svg",
+		"image_url": "http://edg.epa.gov/EPALogo.svg",
 		"revision_id": "f0e4b475-7424-4ce0-9a22-412e7e595154",
 		"type": "organization",
 		"id": "6d90e48d-3076-4327-b2f4-c33919f374d5",

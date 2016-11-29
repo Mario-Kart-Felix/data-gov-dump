@@ -36,7 +36,7 @@
 		"cache_url": null,
 		"name": "ESRI Shapefile (.shp)",
 		"created": "2016-07-15T21:34:36.442999",
-		"url": "http:\/\/cloud.insideidaho.org\/webApps\/util\/zip.ashx?fn=http:\/\/cloud.insideidaho.org\/data\/ilso\/condist2000_id_ilso.shp",
+		"url": "http://cloud.insideidaho.org/webApps/util/zip.ashx?fn=http://cloud.insideidaho.org/data/ilso/condist2000_id_ilso.shp",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 0,
@@ -65,7 +65,7 @@
 		"cache_url": null,
 		"name": "Adobe Portable Document Format (.pdf)",
 		"created": "2016-07-15T21:34:36.443022",
-		"url": "http:\/\/cloud.insideidaho.org\/data\/ilso\/condist2000_id_ilso.pdf",
+		"url": "http://cloud.insideidaho.org/data/ilso/condist2000_id_ilso.pdf",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 1,
@@ -94,7 +94,7 @@
 		"cache_url": null,
 		"name": "ESRI Map Service REST Endpoint",
 		"created": "2016-07-15T21:34:36.443031",
-		"url": "http:\/\/cloud.insideidaho.org\/ArcGIS\/rest\/services\/boundaries\/boundaries\/MapServer",
+		"url": "http://cloud.insideidaho.org/ArcGIS/rest/services/boundaries/boundaries/MapServer",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 2,
@@ -123,7 +123,7 @@
 		"cache_url": null,
 		"name": "ESRI Layer File (.lyr)",
 		"created": "2016-07-15T21:34:36.443039",
-		"url": "http:\/\/cloud.insideidaho.org\/data\/ilso\/condist2000_id_ilso.lyr",
+		"url": "http://cloud.insideidaho.org/data/ilso/condist2000_id_ilso.lyr",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 3,
@@ -152,7 +152,7 @@
 		"cache_url": null,
 		"name": "OGC WMS",
 		"created": "2016-07-15T21:34:36.443046",
-		"url": "http:\/\/cloud.insideidaho.org\/ArcGIS\/services\/boundaries\/boundaries\/MapServer\/WMSServer?request=GetCapabilities&service=WMS",
+		"url": "http://cloud.insideidaho.org/ArcGIS/services/boundaries/boundaries/MapServer/WMSServer?request=GetCapabilities&service=WMS",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 4,
@@ -181,7 +181,7 @@
 		"cache_url": null,
 		"name": "OGC WFS",
 		"created": "2016-07-15T21:34:36.443054",
-		"url": "http:\/\/cloud.insideidaho.org\/ArcGIS\/services\/boundaries\/boundaries\/MapServer\/WFSServer?request=GetCapabilities&service=WFS",
+		"url": "http://cloud.insideidaho.org/ArcGIS/services/boundaries/boundaries/MapServer/WFSServer?request=GetCapabilities&service=WFS",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 5,
@@ -210,7 +210,7 @@
 		"cache_url": null,
 		"name": "KML (Google Earth)",
 		"created": "2016-07-15T21:34:36.443061",
-		"url": "http:\/\/cloud.insideidaho.org\/ArcGIS\/rest\/services\/boundaries\/boundaries\/MapServer\/generatekml?docName=boundaries&layers=0&layerOptions=nonComposite",
+		"url": "http://cloud.insideidaho.org/ArcGIS/rest/services/boundaries/boundaries/MapServer/generatekml?docName=boundaries&layers=0&layerOptions=nonComposite",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 6,
@@ -240,7 +240,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2016-07-15T21:34:36.443068",
-		"url": "http:\/\/cloud.insideidaho.org\/webApps\/util\/zip.ashx?fn=http:\/\/cloud.insideidaho.org\/data\/ilso\/condist2000_id_ilso.shp",
+		"url": "http://cloud.insideidaho.org/webApps/util/zip.ashx?fn=http://cloud.insideidaho.org/data/ilso/condist2000_id_ilso.shp",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 7,
@@ -296,7 +296,7 @@
 	},
 	{
 		"key": "spatial",
-		"value": "{\"type\": \"Polygon\", \"coordinates\": [[[-117.529546, 41.945874], [-110.655498, 41.945874], [-110.655498, 49.039091], [-117.529546, 49.039091], [-117.529546, 41.945874]]]}"
+		"value": "{"type": "Polygon", "coordinates": [[[-117.529546, 41.945874], [-110.655498, 41.945874], [-110.655498, 49.039091], [-117.529546, 49.039091], [-117.529546, 41.945874]]]}"
 	},
 	{
 		"key": "progress",
@@ -304,7 +304,7 @@
 	},
 	{
 		"key": "access_constraints",
-		"value": "[\"Use Constraints: None\", \"Access Constraints: Read only\"]"
+		"value": "["Use Constraints: None", "Access Constraints: Read only"]"
 	},
 	{
 		"key": "temporal-extent-begin",
@@ -324,7 +324,7 @@
 	},
 	{
 		"key": "dataset-reference-date",
-		"value": "[{\"type\": \"publication\", \"value\": \"2002-03-09\"}]"
+		"value": "[{"type": "publication", "value": "2002-03-09"}]"
 	},
 	{
 		"key": "frequency-of-update",
@@ -332,7 +332,7 @@
 	},
 	{
 		"key": "licence",
-		"value": "[\"Although these data have been processed successfully on a computer system at the Idaho Geospatial Data Clearinghouse, no warranty, expressed or implied, is made regarding the utility of the data on any other system, nor shall the act of distribution constitute any such warranty.\"]"
+		"value": "["Although these data have been processed successfully on a computer system at the Idaho Geospatial Data Clearinghouse, no warranty, expressed or implied, is made regarding the utility of the data on any other system, nor shall the act of distribution constitute any such warranty."]"
 	},
 	{
 		"key": "metadata_type",
@@ -340,7 +340,7 @@
 	},
 	{
 		"key": "responsible-party",
-		"value": "[{\"name\": \"Legislative Services Office\", \"roles\": [\"pointOfContact\"]}]"
+		"value": "[{"name": "Legislative Services Office", "roles": ["pointOfContact"]}]"
 	},
 	{
 		"key": "temporal-extent-end",
@@ -386,7 +386,7 @@
 		"revision_timestamp": "2015-01-16T18:28:14.593903",
 		"is_organization": true,
 		"state": "active",
-		"image_url": "http:\/\/upload.wikimedia.org\/wikipedia\/en\/thumb\/4\/44\/University_of_Idaho_seal.svg\/300px-University_of_Idaho_seal.svg.png",
+		"image_url": "http://upload.wikimedia.org/wikipedia/en/thumb/4/44/University_of_Idaho_seal.svg/300px-University_of_Idaho_seal.svg.png",
 		"revision_id": "761955d7-9530-4622-8609-d0b01c78e177",
 		"type": "organization",
 		"id": "75e22a8a-da5f-46f3-93d8-924063a3703d",

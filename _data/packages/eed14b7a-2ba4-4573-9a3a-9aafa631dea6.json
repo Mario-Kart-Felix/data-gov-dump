@@ -37,7 +37,7 @@
 		"cache_url": null,
 		"name": "PDF File",
 		"created": "2015-09-26T19:40:26.141729",
-		"url": "ftp:\/\/sidads.colorado.edu\/pub\/DATASETS\/NOAA\/G00788",
+		"url": "ftp://sidads.colorado.edu/pub/DATASETS/NOAA/G00788",
 		"webstore_url": null,
 		"resource_locator_function": "function",
 		"position": 0,
@@ -67,7 +67,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2015-09-26T19:40:26.141751",
-		"url": "http:\/\/nsidc.org\/data\/docs\/noaa\/g00788_rand_global_snow_depth\/index.html",
+		"url": "http://nsidc.org/data/docs/noaa/g00788_rand_global_snow_depth/index.html",
 		"webstore_url": null,
 		"resource_locator_function": "function",
 		"position": 1,
@@ -85,7 +85,7 @@
 		"last_modified": null,
 		"hash": "",
 		"description": "",
-		"format": "application\/vnd.lotus-organizer",
+		"format": "application/vnd.lotus-organizer",
 		"tracking_summary": {
 			"total": 85,
 			"recent": 4
@@ -97,7 +97,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2015-09-26T19:40:26.141760",
-		"url": "http:\/\/nsidc.org",
+		"url": "http://nsidc.org",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 2,
@@ -127,7 +127,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2015-09-26T19:40:26.141768",
-		"url": "http:\/\/nsidc.org\/noaa\/",
+		"url": "http://nsidc.org/noaa/",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 3,
@@ -145,7 +145,7 @@
 		"last_modified": null,
 		"hash": "",
 		"description": "",
-		"format": "application\/vnd.lotus-organizer",
+		"format": "application/vnd.lotus-organizer",
 		"tracking_summary": {
 			"total": 85,
 			"recent": 4
@@ -157,7 +157,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2015-09-26T19:40:26.141776",
-		"url": "http:\/\/nsidc.org",
+		"url": "http://nsidc.org",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 4,
@@ -177,7 +177,7 @@
 	"name": "rand-corporation-mean-monthly-global-snow-depth",
 	"isopen": false,
 	"url": null,
-	"notes": "\nAll available monthly snow depth climatologies were integrated   by the Rand Corporation, in the early 1980s, into one global (excluding Africa   and South America) digital data set gridded at 4&deg; latitude   x 5&deg;   longitude. The U.S. Army Corps of Engineers monthly climatologies were a primary   data source. For data-sparse areas such as China, Greenland, the Arctic and   Antarctica, special Rand methodologies were used: empirical evaluation of total  precipitation, weather source regions, latitude, temperature, terrain and annual   snow depth data. Monthly ice-pack limits from U.S. Navy Oceanographic Office  were used to extend the zero snow accumulation line over the oceans. These  mean monthly data can be used strictly as a climatological summary or for systematic   comparison with simulations from any general circulation model (GCM), or for   initiating GCM calculations. Data report copies are also available. The global   grid is too coarse to pick up snow accumulation in Africa and South America, but no more than two grid points are involved in these areas.\n",
+	"notes": "nAll available monthly snow depth climatologies were integrated   by the Rand Corporation, in the early 1980s, into one global (excluding Africa   and South America) digital data set gridded at 4&deg; latitude   x 5&deg;   longitude. The U.S. Army Corps of Engineers monthly climatologies were a primary   data source. For data-sparse areas such as China, Greenland, the Arctic and   Antarctica, special Rand methodologies were used: empirical evaluation of total  precipitation, weather source regions, latitude, temperature, terrain and annual   snow depth data. Monthly ice-pack limits from U.S. Navy Oceanographic Office  were used to extend the zero snow accumulation line over the oceans. These  mean monthly data can be used strictly as a climatological summary or for systematic   comparison with simulations from any general circulation model (GCM), or for   initiating GCM calculations. Data report copies are also available. The global   grid is too coarse to pick up snow accumulation in Africa and South America, but no more than two grid points are involved in these areas.n",
 	"license_title": null,
 	"extras": [{
 		"key": "bbox-east-long",
@@ -213,7 +213,7 @@
 	},
 	{
 		"key": "spatial",
-		"value": "{\"type\": \"Polygon\", \"coordinates\": [[[-180.0, -90.0], [180.0, -90.0], [180.0, 90.0], [-180.0, 90.0], [-180.0, -90.0]]]}"
+		"value": "{"type": "Polygon", "coordinates": [[[-180.0, -90.0], [180.0, -90.0], [180.0, 90.0], [-180.0, 90.0], [-180.0, -90.0]]]}"
 	},
 	{
 		"key": "progress",
@@ -221,7 +221,7 @@
 	},
 	{
 		"key": "access_constraints",
-		"value": "[\"Access Constraints : none\", \"Use Constraints : none\"]"
+		"value": "["Access Constraints : none", "Use Constraints : none"]"
 	},
 	{
 		"key": "temporal-extent-begin",
@@ -241,7 +241,7 @@
 	},
 	{
 		"key": "dataset-reference-date",
-		"value": "[{\"type\": \"publication\", \"value\": \"1988-01-01\"}]"
+		"value": "[{"type": "publication", "value": "1988-01-01"}]"
 	},
 	{
 		"key": "frequency-of-update",
@@ -257,7 +257,7 @@
 	},
 	{
 		"key": "responsible-party",
-		"value": "[{\"name\": \"The Rand Corporation\", \"roles\": [\"principalInvestigator\"]}, {\"name\": \"National Snow and Ice Data Center\", \"roles\": [\"pointOfContact\"]}]"
+		"value": "[{"name": "The Rand Corporation", "roles": ["principalInvestigator"]}, {"name": "National Snow and Ice Data Center", "roles": ["pointOfContact"]}]"
 	},
 	{
 		"key": "temporal-extent-end",
@@ -273,7 +273,7 @@
 	},
 	{
 		"package_id": "eed14b7a-2ba4-4573-9a3a-9aafa631dea6",
-		"value": "terrestrial hydrosphere, atmosphere, climatology, cryosphere, snow depth, gridded data, snowpack, snow, snow cover, global change, snow\/ice, geographic region, global land, precipitation, model input data, earth science",
+		"value": "terrestrial hydrosphere, atmosphere, climatology, cryosphere, snow depth, gridded data, snowpack, snow, snow cover, global change, snow/ice, geographic region, global land, precipitation, model input data, earth science",
 		"revision_timestamp": "2015-09-26T23:40:26.105052",
 		"state": "active",
 		"key": "tags",
@@ -303,7 +303,7 @@
 		"revision_timestamp": "2013-03-25T23:05:12.923863",
 		"is_organization": true,
 		"state": "active",
-		"image_url": "https:\/\/fortress.wa.gov\/dfw\/score\/score\/images\/noaa_logo.png",
+		"image_url": "https://fortress.wa.gov/dfw/score/score/images/noaa_logo.png",
 		"revision_id": "c6d43080-22e1-405e-a83d-f2a512d9e867",
 		"type": "organization",
 		"id": "e811f0b4-451f-4896-9e8f-fc6802837819",

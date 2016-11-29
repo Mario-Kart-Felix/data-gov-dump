@@ -37,7 +37,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2016-10-03T17:23:02.779783",
-		"url": "https:\/\/coast.noaa.gov\/slr",
+		"url": "https://coast.noaa.gov/slr",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 0,
@@ -67,7 +67,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2016-10-03T17:23:02.779819",
-		"url": "https:\/\/coast.noaa.gov\/digitalcoast\/tools\/slr",
+		"url": "https://coast.noaa.gov/digitalcoast/tools/slr",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 1,
@@ -97,7 +97,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2016-10-03T17:23:02.779827",
-		"url": "https:\/\/coast.noaa.gov\/slrdata",
+		"url": "https://coast.noaa.gov/slrdata",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 2,
@@ -127,7 +127,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2016-10-03T17:23:02.779834",
-		"url": "https:\/\/coast.noaa.gov",
+		"url": "https://coast.noaa.gov",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 3,
@@ -147,7 +147,7 @@
 	"name": "noaa-office-for-coastal-management-coastal-inundation-digital-elevation-model-new-york-suffolk-",
 	"isopen": false,
 	"url": null,
-	"notes": "These data were created as part of the National Oceanic and Atmospheric Administration Office for Coastal Management's efforts to create an online mapping viewer called the Sea Level Rise and Coastal Flooding Impacts Viewer. It depicts potential sea level rise and its associated impacts on the nation's coastal areas. The purpose of the mapping viewer is to provide coastal managers and scientists with a preliminary look at sea level rise and coastal flooding impacts. The viewer is a screening-level tool that uses nationally consistent data sets and analyses. Data and maps provided can be used at several scales to help gauge trends and prioritize actions for different scenarios. The Sea Level Rise and Coastal Flooding Impacts Viewer may be accessed at: https:\/\/coast.noaa.gov\/slr. This metadata record describes the New York, Suffolk County digital elevation model (DEM), which is a part of a series of DEMs produced for the National Oceanic and Atmospheric Administration Office for Coastal Management's Sea Level Rise and Coastal Flooding Impacts Viewer described above. This DEM includes the best available lidar known to exist at the time of DEM creation that met project specifications. This DEM includes data for Suffolk County. The DEM was produced from the following lidar data sets: 1. 2014 NGS Coastal Mapping Program Topobathy Lidar: Post-Sandy Atlantic Seaboard 2. 2014 Long Island, NY - Sandy Lidar The DEM is referenced vertically to the North American Vertical Datum of 1988 (NAVD88) with vertical units of meters and horizontally to the North American Datum of 1983 (NAD83). The resolution of the DEM is approximately 3 meters.",
+	"notes": "These data were created as part of the National Oceanic and Atmospheric Administration Office for Coastal Management's efforts to create an online mapping viewer called the Sea Level Rise and Coastal Flooding Impacts Viewer. It depicts potential sea level rise and its associated impacts on the nation's coastal areas. The purpose of the mapping viewer is to provide coastal managers and scientists with a preliminary look at sea level rise and coastal flooding impacts. The viewer is a screening-level tool that uses nationally consistent data sets and analyses. Data and maps provided can be used at several scales to help gauge trends and prioritize actions for different scenarios. The Sea Level Rise and Coastal Flooding Impacts Viewer may be accessed at: https://coast.noaa.gov/slr. This metadata record describes the New York, Suffolk County digital elevation model (DEM), which is a part of a series of DEMs produced for the National Oceanic and Atmospheric Administration Office for Coastal Management's Sea Level Rise and Coastal Flooding Impacts Viewer described above. This DEM includes the best available lidar known to exist at the time of DEM creation that met project specifications. This DEM includes data for Suffolk County. The DEM was produced from the following lidar data sets: 1. 2014 NGS Coastal Mapping Program Topobathy Lidar: Post-Sandy Atlantic Seaboard 2. 2014 Long Island, NY - Sandy Lidar The DEM is referenced vertically to the North American Vertical Datum of 1988 (NAVD88) with vertical units of meters and horizontally to the North American Datum of 1983 (NAD83). The resolution of the DEM is approximately 3 meters.",
 	"license_title": null,
 	"extras": [{
 		"key": "bbox-east-long",
@@ -183,7 +183,7 @@
 	},
 	{
 		"key": "spatial",
-		"value": "{\"type\": \"Polygon\", \"coordinates\": [[[-73.5010891679, 40.5333642202], [-71.7762968729, 40.5333642202], [-71.7762968729, 41.3112872899], [-73.5010891679, 41.3112872899], [-73.5010891679, 40.5333642202]]]}"
+		"value": "{"type": "Polygon", "coordinates": [[[-73.5010891679, 40.5333642202], [-71.7762968729, 40.5333642202], [-71.7762968729, 41.3112872899], [-73.5010891679, 41.3112872899], [-73.5010891679, 40.5333642202]]]}"
 	},
 	{
 		"key": "progress",
@@ -191,7 +191,7 @@
 	},
 	{
 		"key": "access_constraints",
-		"value": "[\"Use Constraints: The dataset is provided as is, without warranty to its performance, merchantable state, or fitness for any particular purpose. The entire risk associated with the results and performance of this dataset is assumed by the user. This dataset should be used strictly as a planning reference and not for navigation, permitting, or other legal purposes.\", \"Access Constraints: None\"]"
+		"value": "["Use Constraints: The dataset is provided as is, without warranty to its performance, merchantable state, or fitness for any particular purpose. The entire risk associated with the results and performance of this dataset is assumed by the user. This dataset should be used strictly as a planning reference and not for navigation, permitting, or other legal purposes.", "Access Constraints: None"]"
 	},
 	{
 		"key": "temporal-extent-begin",
@@ -211,7 +211,7 @@
 	},
 	{
 		"key": "dataset-reference-date",
-		"value": "[{\"type\": \"publication\", \"value\": \"2016-08-01\"}]"
+		"value": "[{"type": "publication", "value": "2016-08-01"}]"
 	},
 	{
 		"key": "frequency-of-update",
@@ -219,7 +219,7 @@
 	},
 	{
 		"key": "licence",
-		"value": "[\"Any conclusions drawn from the analysis of this information are not the responsibility of the NOAA Office for Coastal Management or its partners.\"]"
+		"value": "["Any conclusions drawn from the analysis of this information are not the responsibility of the NOAA Office for Coastal Management or its partners."]"
 	},
 	{
 		"key": "metadata_type",
@@ -227,7 +227,7 @@
 	},
 	{
 		"key": "responsible-party",
-		"value": "[{\"name\": \"NOAA Office for Coastal Management\", \"roles\": [\"pointOfContact\"]}]"
+		"value": "[{"name": "NOAA Office for Coastal Management", "roles": ["pointOfContact"]}]"
 	},
 	{
 		"key": "temporal-extent-end",
@@ -243,7 +243,7 @@
 	},
 	{
 		"package_id": "fcb90188-1a26-4e0f-aece-0cd2b0f37a8f",
-		"value": "sea level rise, topography, elevation, inundation, us, lidar, suffolk county, new york, bathymetry\/topography, dem, digital elevation model, flooding",
+		"value": "sea level rise, topography, elevation, inundation, us, lidar, suffolk county, new york, bathymetry/topography, dem, digital elevation model, flooding",
 		"revision_timestamp": "2016-10-03T21:23:02.653734",
 		"state": "active",
 		"key": "tags",
@@ -273,7 +273,7 @@
 		"revision_timestamp": "2013-03-25T23:05:12.923863",
 		"is_organization": true,
 		"state": "active",
-		"image_url": "https:\/\/fortress.wa.gov\/dfw\/score\/score\/images\/noaa_logo.png",
+		"image_url": "https://fortress.wa.gov/dfw/score/score/images/noaa_logo.png",
 		"revision_id": "c6d43080-22e1-405e-a83d-f2a512d9e867",
 		"type": "organization",
 		"id": "e811f0b4-451f-4896-9e8f-fc6802837819",

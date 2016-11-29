@@ -36,7 +36,7 @@
 		"cache_url": null,
 		"name": "Service Description",
 		"created": "2013-03-15T23:49:23.861673",
-		"url": "http:\/\/atlas.wvgs.wvnet.edu\/arcgis\/rest\/services\/aasg\/WVWellLogs\/MapServer",
+		"url": "http://atlas.wvgs.wvnet.edu/arcgis/rest/services/aasg/WVWellLogs/MapServer",
 		"webstore_url": null,
 		"resource_locator_function": "381",
 		"position": 0,
@@ -65,7 +65,7 @@
 		"cache_url": null,
 		"name": "Service Description",
 		"created": "2013-03-15T23:49:23.861694",
-		"url": "http:\/\/atlas.wvgs.wvnet.edu\/arcgis\/services\/aasg\/WVWellLogs\/MapServer\/WFSServer?request=GetCapabilities&service=WFS",
+		"url": "http://atlas.wvgs.wvnet.edu/arcgis/services/aasg/WVWellLogs/MapServer/WFSServer?request=GetCapabilities&service=WFS",
 		"webstore_url": null,
 		"resource_locator_function": "381",
 		"position": 1,
@@ -94,7 +94,7 @@
 		"cache_url": null,
 		"name": "Downloadable File",
 		"created": "2013-03-15T23:49:23.861703",
-		"url": "http:\/\/atlas.wvgs.wvnet.edu\/arcgis\/services\/aasg\/WVWellLogs\/MapServer\/WMSServer?request=GetCapabilities&service=WMS",
+		"url": "http://atlas.wvgs.wvnet.edu/arcgis/services/aasg/WVWellLogs/MapServer/WMSServer?request=GetCapabilities&service=WMS",
 		"webstore_url": null,
 		"resource_locator_function": "375",
 		"position": 2,
@@ -123,7 +123,7 @@
 		"cache_url": null,
 		"name": "Zipped 2007 Excel File containing the WV Well Logs YR1 data",
 		"created": "2013-03-15T23:49:23.861710",
-		"url": "http:\/\/repository.stategeothermaldata.org\/metadata\/record\/caad517515720208ad5e01bce4042306\/file\/excel-file.zip",
+		"url": "http://repository.stategeothermaldata.org/metadata/record/caad517515720208ad5e01bce4042306/file/excel-file.zip",
 		"webstore_url": null,
 		"resource_locator_function": "375",
 		"position": 3,
@@ -152,7 +152,7 @@
 		"cache_url": null,
 		"name": "Zipped 2007 Excel file containing the WV Well Logs YR2 data",
 		"created": "2013-03-15T23:49:23.861717",
-		"url": "http:\/\/repository.stategeothermaldata.org\/metadata\/record\/caad517515720208ad5e01bce4042306\/file\/wv_yr2_welllogobservations0.8.zip",
+		"url": "http://repository.stategeothermaldata.org/metadata/record/caad517515720208ad5e01bce4042306/file/wv_yr2_welllogobservations0.8.zip",
 		"webstore_url": null,
 		"resource_locator_function": "375",
 		"position": 4,
@@ -185,11 +185,11 @@
 	"name": "west-virginia-well-log-observation-data",
 	"isopen": false,
 	"url": null,
-	"notes": "This dataset contains well log observations compiled by the West Virginia Geological and Economic Survey, and published as a Web feature service for the National Geothermal Data System. Fields in the Well Log Observation Content Model will become XML elements in interchange documents for WMS simple features provided by a node in the USGIN network.  Each feature includes a well name, log type, file location and latitude and Longitude spatially referenced to EPSG: 4326 (for interoperability).  The data contained in the submitted dataset is available as an Excel Spreadsheet, ESRI service, WMS and WFS service.  Year two data does not include location information at this time, but logs and general well information is present and locations may be added at a later time.  Link to Well Log Observation Content Model:  http:\/\/www.stategeothermaldata.org\/data_delivery\/content_models\/well_log_observation.",
+	"notes": "This dataset contains well log observations compiled by the West Virginia Geological and Economic Survey, and published as a Web feature service for the National Geothermal Data System. Fields in the Well Log Observation Content Model will become XML elements in interchange documents for WMS simple features provided by a node in the USGIN network.  Each feature includes a well name, log type, file location and latitude and Longitude spatially referenced to EPSG: 4326 (for interoperability).  The data contained in the submitted dataset is available as an Excel Spreadsheet, ESRI service, WMS and WFS service.  Year two data does not include location information at this time, but logs and general well information is present and locations may be added at a later time.  Link to Well Log Observation Content Model:  http://www.stategeothermaldata.org/data_delivery/content_models/well_log_observation.",
 	"license_title": null,
 	"extras": [{
 		"key": "responsible-party",
-		"value": "[{\"name\": \"No Organization Name Was Given\", \"roles\": [\"pointOfContact\"]}]"
+		"value": "[{"name": "No Organization Name Was Given", "roles": ["pointOfContact"]}]"
 	},
 	{
 		"key": "contact-email",
@@ -209,7 +209,7 @@
 	},
 	{
 		"key": "dataset-reference-date",
-		"value": "[{\"type\": \"publication\", \"value\": \"2012-08-16T12:00:00\"}]"
+		"value": "[{"type": "publication", "value": "2012-08-16T12:00:00"}]"
 	},
 	{
 		"key": "resource-type",
@@ -245,7 +245,7 @@
 	},
 	{
 		"key": "spatial",
-		"value": "{\"type\": \"Polygon\", \"coordinates\": [[[-82.793, 37.1197], [-82.793, 40.7086], [-77.124, 40.7086], [-77.124, 37.1197], [-82.793, 37.1197]]]}"
+		"value": "{"type": "Polygon", "coordinates": [[[-82.793, 37.1197], [-82.793, 40.7086], [-77.124, 40.7086], [-77.124, 37.1197], [-82.793, 37.1197]]]}"
 	},
 	{
 		"key": "guid",
@@ -295,7 +295,7 @@
 		"revision_timestamp": "2013-03-20T21:11:17.592932",
 		"is_organization": true,
 		"state": "active",
-		"image_url": "http:\/\/www.50states.com\/flag\/image\/nunst004.gif",
+		"image_url": "http://www.50states.com/flag/image/nunst004.gif",
 		"revision_id": "61be6428-4398-4199-a336-f3cd1e956f9b",
 		"type": "organization",
 		"id": "f3f6e1d4-64fb-4a2f-b32c-9ac0b76fe4de",

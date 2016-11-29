@@ -41,7 +41,7 @@
 	"name": "lidar-data-for-rutland-vt-usgs-contract-g10pc00026-task-order-number-g13pd00813-vt-rutland-2015",
 	"isopen": false,
 	"url": null,
-	"notes": "Geographic Extent: Rutland Area of Interest in Vermont, covering approximately 1,604 square miles. Dataset Description: The Rutland, VT LiDAR project called for the Planning, Acquisition, processing and derivative products of LIDAR data to be collected at a nominal pulse spacing (NPS) of 0.7 meters. Project specifications are based on the U.S. Geological Survey National Geospatial Program Base LIDAR Specification, Version 1. The data was developed based on a horizontal projection\/datum of Vermont State Plane coordinate System (FIPS 4400), NAD83, meters and vertical datum of NAVD1988 (GEOID12A), meters. LiDAR data was delivered in RAW flight line swath format. This data was also processed to create 2,399 individual 1,400 meter x 1,400 meter tiled Classified LAS 1.2 Files. Hydro-flattened\/hydro-enforced breaklines were produced in Esri Shapefile format. 0.7-meter gridded hydro-flattened raster DEM Files were produced in ERDAS .IMG format, and 0.7-meter hydro-enforced DEMs were produced in Esri Grid format; both were tiled to the same 1,400 meter x 1,400 meter tile layout. Additionally 1-foot contours were produced in Esri shapefile format and tiled Intensity Images were produced in GeoTIFF format. Ground Conditions: LiDAR collection began in November 2013 while no snow was on the ground and rivers were at or below normal levels. In order to post process the LiDAR data to meet task order specifications, Quantum Spatial established a total of 98 ground control points and 100 QC points that were used to calibrate the LIDAR to known ground locations established throughout the Rutland, Vermont project area.",
+	"notes": "Geographic Extent: Rutland Area of Interest in Vermont, covering approximately 1,604 square miles. Dataset Description: The Rutland, VT LiDAR project called for the Planning, Acquisition, processing and derivative products of LIDAR data to be collected at a nominal pulse spacing (NPS) of 0.7 meters. Project specifications are based on the U.S. Geological Survey National Geospatial Program Base LIDAR Specification, Version 1. The data was developed based on a horizontal projection/datum of Vermont State Plane coordinate System (FIPS 4400), NAD83, meters and vertical datum of NAVD1988 (GEOID12A), meters. LiDAR data was delivered in RAW flight line swath format. This data was also processed to create 2,399 individual 1,400 meter x 1,400 meter tiled Classified LAS 1.2 Files. Hydro-flattened/hydro-enforced breaklines were produced in Esri Shapefile format. 0.7-meter gridded hydro-flattened raster DEM Files were produced in ERDAS .IMG format, and 0.7-meter hydro-enforced DEMs were produced in Esri Grid format; both were tiled to the same 1,400 meter x 1,400 meter tile layout. Additionally 1-foot contours were produced in Esri shapefile format and tiled Intensity Images were produced in GeoTIFF format. Ground Conditions: LiDAR collection began in November 2013 while no snow was on the ground and rivers were at or below normal levels. In order to post process the LiDAR data to meet task order specifications, Quantum Spatial established a total of 98 ground control points and 100 QC points that were used to calibrate the LIDAR to known ground locations established throughout the Rutland, Vermont project area.",
 	"license_title": null,
 	"extras": [{
 		"key": "bbox-east-long",
@@ -77,7 +77,7 @@
 	},
 	{
 		"key": "spatial",
-		"value": "{\"type\": \"Polygon\", \"coordinates\": [[[-73.5245151586, 43.2802676116], [-72.6255084983, 43.2802676116], [-72.6255084983, 45.0174788647], [-73.5245151586, 45.0174788647], [-73.5245151586, 43.2802676116]]]}"
+		"value": "{"type": "Polygon", "coordinates": [[[-73.5245151586, 43.2802676116], [-72.6255084983, 43.2802676116], [-72.6255084983, 45.0174788647], [-73.5245151586, 45.0174788647], [-73.5245151586, 43.2802676116]]]}"
 	},
 	{
 		"key": "progress",
@@ -85,7 +85,7 @@
 	},
 	{
 		"key": "access_constraints",
-		"value": "[\"Use Constraints: None. However, users should be aware that temporal changes may have occurred since this dataset was collected and that some parts of these data may no Longer represent actual surface conditions. Users should not use these data for critical applications without a full awareness of it's limitations. Acknowledgement of the U.S. Geological Survey would be appreciated for products derived from these data.\", \"Access Constraints: No restrictions apply to these data.\"]"
+		"value": "["Use Constraints: None. However, users should be aware that temporal changes may have occurred since this dataset was collected and that some parts of these data may no Longer represent actual surface conditions. Users should not use these data for critical applications without a full awareness of it's limitations. Acknowledgement of the U.S. Geological Survey would be appreciated for products derived from these data.", "Access Constraints: No restrictions apply to these data."]"
 	},
 	{
 		"key": "temporal-extent-begin",
@@ -105,7 +105,7 @@
 	},
 	{
 		"key": "dataset-reference-date",
-		"value": "[{\"type\": \"publication\", \"value\": \"2016-01-01\"}]"
+		"value": "[{"type": "publication", "value": "2016-01-01"}]"
 	},
 	{
 		"key": "frequency-of-update",
@@ -113,7 +113,7 @@
 	},
 	{
 		"key": "licence",
-		"value": "[\" \"]"
+		"value": "[" "]"
 	},
 	{
 		"key": "metadata_type",
@@ -121,7 +121,7 @@
 	},
 	{
 		"key": "responsible-party",
-		"value": "[{\"name\": \"Quantum Spatial, Data Acquisition Department\", \"roles\": [\"pointOfContact\"]}]"
+		"value": "[{"name": "Quantum Spatial, Data Acquisition Department", "roles": ["pointOfContact"]}]"
 	},
 	{
 		"key": "temporal-extent-end",
@@ -167,7 +167,7 @@
 		"revision_timestamp": "2013-03-27T17:47:03.718032",
 		"is_organization": true,
 		"state": "active",
-		"image_url": "http:\/\/vcgi.vermont.gov\/sites\/all\/themes\/vt_template\/logo.png",
+		"image_url": "http://vcgi.vermont.gov/sites/all/themes/vt_template/logo.png",
 		"revision_id": "c5dfbbb0-f1e0-4db6-b566-e932e1520060",
 		"type": "organization",
 		"id": "0c3a4ebc-9929-4f21-bdd0-76a35d52f57d",

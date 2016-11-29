@@ -37,7 +37,7 @@
 		"cache_url": null,
 		"name": "Zip File",
 		"created": "2016-05-31T02:30:57.828714",
-		"url": "ftp:\/\/coast.noaa.gov\/pub\/Legis-Atlas\/FederalGeoregulations\/EndangeredSpeciesAct.zip",
+		"url": "ftp://coast.noaa.gov/pub/Legis-Atlas/FederalGeoregulations/EndangeredSpeciesAct.zip",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 0,
@@ -67,7 +67,7 @@
 		"cache_url": null,
 		"name": "Esri Rest API Endpoint",
 		"created": "2016-05-31T02:30:57.828738",
-		"url": "https:\/\/coast.noaa.gov\/arcgis\/rest\/services\/MarineCadastre\/FederalGeoregulations\/MapServer",
+		"url": "https://coast.noaa.gov/arcgis/rest/services/MarineCadastre/FederalGeoregulations/MapServer",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 1,
@@ -97,7 +97,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2016-05-31T02:30:57.828747",
-		"url": "http:\/\/marinecadastre.gov\/data\/",
+		"url": "http://marinecadastre.gov/data/",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 2,
@@ -127,7 +127,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2016-05-31T02:30:57.828755",
-		"url": "https:\/\/coast.noaa.gov\/",
+		"url": "https://coast.noaa.gov/",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 3,
@@ -147,11 +147,11 @@
 	"name": "endangered-species-act",
 	"isopen": false,
 	"url": null,
-	"notes": "The purpose of the Endangered Species Act (ESA) is to protect and recover imperiled species and the ecosystems upon which they depend. The U.S. Fish and Wildlife Service (FWS) and the National Oceanic and Atmospheric Administration's National Marine Fisheries Service (NMFS) administer the ESA. Under the ESA, species may be listed as either endangered or threatened. \"Endangered\" means a species is in danger of extinction throughout all or a significant portion of its range. \"Threatened\" means a species is likely to become endangered within the foreseeable future. All species of plants and animals, except pest insects, are eligible for listing as endangered or threatened. For the purposes of the ESA, Congress defined species to include subspecies, varieties, and, for vertebrates, distinct population segments. As of March 2011, the FWS had listed 1,967 species worldwide as endangered or threatened, 1,372 of which occur in the United States. Decisions made under the ESA are based on the best scientific information available. - Source: https:\/\/www.fws.gov\/le\/USStatutes\/ESA.pdf - Date Enacted: December 28, 1973 - Codification: 16 U.S.C. Sec. 1531 et seq. - Authority: National Oceanic and Atmospheric Administration and U.S. Fish & Wildlife Service When investigating geo-regulatory boundaries near the boundary edges, users should consult the most up to date applicable jurisdictional boundaries from all respective authoritative sources.",
+	"notes": "The purpose of the Endangered Species Act (ESA) is to protect and recover imperiled species and the ecosystems upon which they depend. The U.S. Fish and Wildlife Service (FWS) and the National Oceanic and Atmospheric Administration's National Marine Fisheries Service (NMFS) administer the ESA. Under the ESA, species may be listed as either endangered or threatened. "Endangered" means a species is in danger of extinction throughout all or a significant portion of its range. "Threatened" means a species is likely to become endangered within the foreseeable future. All species of plants and animals, except pest insects, are eligible for listing as endangered or threatened. For the purposes of the ESA, Congress defined species to include subspecies, varieties, and, for vertebrates, distinct population segments. As of March 2011, the FWS had listed 1,967 species worldwide as endangered or threatened, 1,372 of which occur in the United States. Decisions made under the ESA are based on the best scientific information available. - Source: https://www.fws.gov/le/USStatutes/ESA.pdf - Date Enacted: December 28, 1973 - Codification: 16 U.S.C. Sec. 1531 et seq. - Authority: National Oceanic and Atmospheric Administration and U.S. Fish & Wildlife Service When investigating geo-regulatory boundaries near the boundary edges, users should consult the most up to date applicable jurisdictional boundaries from all respective authoritative sources.",
 	"license_title": null,
 	"extras": [{
 		"key": "responsible-party",
-		"value": "[{\"name\": \"NOAA Office for Coastal Management\", \"roles\": [\"pointOfContact\"]}]"
+		"value": "[{"name": "NOAA Office for Coastal Management", "roles": ["pointOfContact"]}]"
 	},
 	{
 		"key": "contact-email",
@@ -171,7 +171,7 @@
 	},
 	{
 		"key": "dataset-reference-date",
-		"value": "[{\"type\": \"publication\", \"value\": \"2016-05-11\"}]"
+		"value": "[{"type": "publication", "value": "2016-05-11"}]"
 	},
 	{
 		"key": "resource-type",
@@ -199,7 +199,7 @@
 	},
 	{
 		"key": "licence",
-		"value": "[\"NOAA makes no warranties or representations whatsoever regarding the availability, quality, accuracy, content, completeness or suitability for the user's needs of such information. The services, information, and data made available on the MarineCadastre.gov web site are provided 'as is' without warranties of any kind. These data are intended for coastal and ocean use planning. Not for navigation.\"]"
+		"value": "["NOAA makes no warranties or representations whatsoever regarding the availability, quality, accuracy, content, completeness or suitability for the user's needs of such information. The services, information, and data made available on the MarineCadastre.gov web site are provided 'as is' without warranties of any kind. These data are intended for coastal and ocean use planning. Not for navigation."]"
 	},
 	{
 		"key": "metadata_type",
@@ -211,7 +211,7 @@
 	},
 	{
 		"key": "spatial",
-		"value": "{\"type\": \"Polygon\", \"coordinates\": [[[-180.0, -17.555000002], [180.0, -17.555000002], [180.0, 74.708840004], [-180.0, 74.708840004], [-180.0, -17.555000002]]]}"
+		"value": "{"type": "Polygon", "coordinates": [[[-180.0, -17.555000002], [180.0, -17.555000002], [180.0, 74.708840004], [-180.0, 74.708840004], [-180.0, -17.555000002]]]}"
 	},
 	{
 		"key": "guid",
@@ -223,7 +223,7 @@
 	},
 	{
 		"key": "access_constraints",
-		"value": "[\"Use Constraints: These data represent the unofficial boundary of the Endangered Species Act, as of 2016. For the official boundary, please reference language within the authoritative legislation and consult the governing agency\/agencies. A copy of the legislation is found here: https:\/\/www.fws.gov\/le\/USStatutes\/ESA.pdf. These data are intended for coastal and ocean use planning. Not for navigation. http:\/\/www.marinecadastre.gov\/about\/disclaimer.html\", \"Access Constraints: None\"]"
+		"value": "["Use Constraints: These data represent the unofficial boundary of the Endangered Species Act, as of 2016. For the official boundary, please reference language within the authoritative legislation and consult the governing agency/agencies. A copy of the legislation is found here: https://www.fws.gov/le/USStatutes/ESA.pdf. These data are intended for coastal and ocean use planning. Not for navigation. http://www.marinecadastre.gov/about/disclaimer.html", "Access Constraints: None"]"
 	},
 	{
 		"key": "spatial_harvester",
@@ -265,7 +265,7 @@
 		"revision_timestamp": "2013-03-25T23:05:12.923863",
 		"is_organization": true,
 		"state": "active",
-		"image_url": "https:\/\/fortress.wa.gov\/dfw\/score\/score\/images\/noaa_logo.png",
+		"image_url": "https://fortress.wa.gov/dfw/score/score/images/noaa_logo.png",
 		"revision_id": "c6d43080-22e1-405e-a83d-f2a512d9e867",
 		"type": "organization",
 		"id": "e811f0b4-451f-4896-9e8f-fc6802837819",

@@ -37,7 +37,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2016-05-30T22:16:27.087005",
-		"url": "https:\/\/coast.noaa.gov\/dataviewer\/#\/lidar\/search\/where:ID=64",
+		"url": "https://coast.noaa.gov/dataviewer/#/lidar/search/where:ID=64",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 0,
@@ -67,7 +67,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2016-05-30T22:16:27.087047",
-		"url": "https:\/\/coast.noaa.gov\/htdata\/lidar1_z\/geoid12a\/data\/64",
+		"url": "https://coast.noaa.gov/htdata/lidar1_z/geoid12a/data/64",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 1,
@@ -97,7 +97,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2016-05-30T22:16:27.087057",
-		"url": "https:\/\/coast.noaa.gov\/dataviewer",
+		"url": "https://coast.noaa.gov/dataviewer",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 2,
@@ -127,7 +127,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2016-05-30T22:16:27.087065",
-		"url": "https:\/\/coast.noaa.gov",
+		"url": "https://coast.noaa.gov",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 3,
@@ -149,7 +149,7 @@
 		"revision_timestamp": "2013-03-25T23:05:12.923863",
 		"is_organization": true,
 		"state": "active",
-		"image_url": "https:\/\/fortress.wa.gov\/dfw\/score\/score\/images\/noaa_logo.png",
+		"image_url": "https://fortress.wa.gov/dfw/score/score/images/noaa_logo.png",
 		"revision_id": "c6d43080-22e1-405e-a83d-f2a512d9e867",
 		"type": "organization",
 		"id": "e811f0b4-451f-4896-9e8f-fc6802837819",
@@ -196,7 +196,7 @@
 	},
 	{
 		"key": "spatial",
-		"value": "{\"type\": \"Polygon\", \"coordinates\": [[[-89.512658, 30.263267], [-89.201145, 30.263267], [-89.201145, 31.010543], [-89.512658, 31.010543], [-89.512658, 30.263267]]]}"
+		"value": "{"type": "Polygon", "coordinates": [[[-89.512658, 30.263267], [-89.201145, 30.263267], [-89.201145, 31.010543], [-89.512658, 31.010543], [-89.512658, 30.263267]]]}"
 	},
 	{
 		"key": "progress",
@@ -204,7 +204,7 @@
 	},
 	{
 		"key": "access_constraints",
-		"value": "[\"Use Constraints: Users should be aware that temporal changes may have occurred since this data set was collected and some parts of this data may no longer represent actual surface conditions. Users should not use this data for critical applications without a full awareness of its limitations.\", \"Access Constraints: None\"]"
+		"value": "["Use Constraints: Users should be aware that temporal changes may have occurred since this data set was collected and some parts of this data may no longer represent actual surface conditions. Users should not use this data for critical applications without a full awareness of its limitations.", "Access Constraints: None"]"
 	},
 	{
 		"key": "temporal-extent-begin",
@@ -224,7 +224,7 @@
 	},
 	{
 		"key": "dataset-reference-date",
-		"value": "[{\"type\": \"publication\", \"value\": \"2011-06-01\"}]"
+		"value": "[{"type": "publication", "value": "2011-06-01"}]"
 	},
 	{
 		"key": "frequency-of-update",
@@ -232,7 +232,7 @@
 	},
 	{
 		"key": "licence",
-		"value": "[\"\\nAny conclusions drawn from the analysis of this information are not the responsibility of the Office for Coastal Management or its partners.\\n\"]"
+		"value": "["\nAny conclusions drawn from the analysis of this information are not the responsibility of the Office for Coastal Management or its partners.\n"]"
 	},
 	{
 		"key": "metadata_type",
@@ -240,7 +240,7 @@
 	},
 	{
 		"key": "responsible-party",
-		"value": "[{\"name\": \"U.S. Army Corps of Engineers Vicksburg District\", \"roles\": [\"pointOfContact\"]}]"
+		"value": "[{"name": "U.S. Army Corps of Engineers Vicksburg District", "roles": ["pointOfContact"]}]"
 	},
 	{
 		"key": "temporal-extent-end",
@@ -256,7 +256,7 @@
 	},
 	{
 		"key": "tags",
-		"value": "airborne light detection and ranging systems, mississippi, topography\/bathymetry, lidar, united states, pearl river county",
+		"value": "airborne light detection and ranging systems, mississippi, topography/bathymetry, lidar, united states, pearl river county",
 		"__extras": {
 			"revision_id": "ce8a6836-b241-4417-97e4-4072661eff01",
 			"package_id": "ed03c26e-2a84-4dad-ad23-ff1709b0d65d"

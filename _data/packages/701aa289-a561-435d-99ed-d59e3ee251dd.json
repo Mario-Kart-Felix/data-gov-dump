@@ -37,7 +37,7 @@
 		"cache_url": null,
 		"name": "Esri Rest API Endpoint",
 		"created": "2016-05-31T01:32:21.890696",
-		"url": "https:\/\/coast.noaa.gov\/arcgis\/rest\/services\/Hurricanes\/AllHurricanes\/MapServer",
+		"url": "https://coast.noaa.gov/arcgis/rest/services/Hurricanes/AllHurricanes/MapServer",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 0,
@@ -67,7 +67,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2016-05-31T01:32:21.890731",
-		"url": "https:\/\/coast.noaa.gov\/hurricanes\/",
+		"url": "https://coast.noaa.gov/hurricanes/",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 1,
@@ -97,7 +97,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2016-05-31T01:32:21.890740",
-		"url": "https:\/\/coast.noaa.gov\/",
+		"url": "https://coast.noaa.gov/",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 2,
@@ -144,7 +144,7 @@
 	"name": "worldwide-historical-hurricane-tracks-from-1848-through-the-previous-hurricane-season",
 	"isopen": false,
 	"url": null,
-	"notes": "This Historical Hurricane Tracks web site provides visualizations of storm tracks derived from the 6-hourly (0000, 0600, 1200, 1800 UTC) center locations and intensities for subtropical depressions and storms, extratropical storms, tropical depressions and storms, and all hurricanes, from 1848 through the previous Atlantic hurricane season (June 1 through November 30) as recorded in the International Best Track Archive for Climate Stewardship (IBTrACS, http:\/\/www.ncdc.noaa.gov\/oa\/ibtracs\/index.php) data set. Users may use this site to search for storms by location, ocean basin, hurricane category\/scale, storm name, and atmospheric pressure.",
+	"notes": "This Historical Hurricane Tracks web site provides visualizations of storm tracks derived from the 6-hourly (0000, 0600, 1200, 1800 UTC) center locations and intensities for subtropical depressions and storms, extratropical storms, tropical depressions and storms, and all hurricanes, from 1848 through the previous Atlantic hurricane season (June 1 through November 30) as recorded in the International Best Track Archive for Climate Stewardship (IBTrACS, http://www.ncdc.noaa.gov/oa/ibtracs/index.php) data set. Users may use this site to search for storms by location, ocean basin, hurricane category/scale, storm name, and atmospheric pressure.",
 	"license_title": null,
 	"extras": [{
 		"key": "bbox-east-long",
@@ -176,11 +176,11 @@
 	},
 	{
 		"key": "__category_tag_78473e2f-b6ba-4e28-b0c1-d53c35a7e010",
-		"value": "[\"Meteorological\",\"Geospatial\"]"
+		"value": "["Meteorological","Geospatial"]"
 	},
 	{
 		"key": "__category_tag_aa0c01c9-d292-4dc1-8fec-b10c1bb629a9",
-		"value": "[\"Energy Infrastructure\"]"
+		"value": "["Energy Infrastructure"]"
 	},
 	{
 		"key": "spatial-reference-system",
@@ -188,7 +188,7 @@
 	},
 	{
 		"key": "spatial",
-		"value": "{\"type\": \"Polygon\", \"coordinates\": [[[-180.0, -60.0], [180.0, -60.0], [180.0, 75.0], [-180.0, 75.0], [-180.0, -60.0]]]}"
+		"value": "{"type": "Polygon", "coordinates": [[[-180.0, -60.0], [180.0, -60.0], [180.0, 75.0], [-180.0, 75.0], [-180.0, -60.0]]]}"
 	},
 	{
 		"key": "progress",
@@ -196,7 +196,7 @@
 	},
 	{
 		"key": "access_constraints",
-		"value": "[\"Use Constraints: Users should be aware that only the location of the center of the storm is available and only every six hours. Storms have wide swaths and do not necessarily travel in the straight lines as implied by the tracks shown by this tool.\", \"Access Constraints: None\"]"
+		"value": "["Use Constraints: Users should be aware that only the location of the center of the storm is available and only every six hours. Storms have wide swaths and do not necessarily travel in the straight lines as implied by the tracks shown by this tool.", "Access Constraints: None"]"
 	},
 	{
 		"key": "temporal-extent-begin",
@@ -216,7 +216,7 @@
 	},
 	{
 		"key": "dataset-reference-date",
-		"value": "[{\"type\": \"publication\", \"value\": \"2010-03-01\"}]"
+		"value": "[{"type": "publication", "value": "2010-03-01"}]"
 	},
 	{
 		"key": "frequency-of-update",
@@ -224,7 +224,7 @@
 	},
 	{
 		"key": "licence",
-		"value": "[\"Although these data have been processed successfully on a computer system at the National Oceanic and Atmospheric Administration, no warranty expressed or implied is made by the National Oceanic and Atmospheric Administration regarding the utility of the data on any other system, nor shall the act of distribution constitute any such warranty.  No responsibility is assumed by the National Oceanic and Atmospheric Administration in the use of these data.\"]"
+		"value": "["Although these data have been processed successfully on a computer system at the National Oceanic and Atmospheric Administration, no warranty expressed or implied is made by the National Oceanic and Atmospheric Administration regarding the utility of the data on any other system, nor shall the act of distribution constitute any such warranty.  No responsibility is assumed by the National Oceanic and Atmospheric Administration in the use of these data."]"
 	},
 	{
 		"key": "metadata_type",
@@ -232,7 +232,7 @@
 	},
 	{
 		"key": "responsible-party",
-		"value": "[{\"name\": \"NOAA Office for Coastal Management\", \"roles\": [\"pointOfContact\"]}]"
+		"value": "[{"name": "NOAA Office for Coastal Management", "roles": ["pointOfContact"]}]"
 	},
 	{
 		"key": "spatial-data-service-type",
@@ -274,7 +274,7 @@
 		"revision_timestamp": "2013-03-25T23:05:12.923863",
 		"is_organization": true,
 		"state": "active",
-		"image_url": "https:\/\/fortress.wa.gov\/dfw\/score\/score\/images\/noaa_logo.png",
+		"image_url": "https://fortress.wa.gov/dfw/score/score/images/noaa_logo.png",
 		"revision_id": "c6d43080-22e1-405e-a83d-f2a512d9e867",
 		"type": "organization",
 		"id": "e811f0b4-451f-4896-9e8f-fc6802837819",

@@ -24,18 +24,18 @@
 		"state": "active",
 		"hash": "",
 		"description": "AIRICRAD.006",
-		"format": "application\/octet-stream",
+		"format": "application/octet-stream",
 		"tracking_summary": {
 			"total": 0,
 			"recent": 0
 		},
 		"mimetype_inner": null,
 		"revision_id": "f43b9c4b-9a09-4159-b388-3913a63a8f18",
-		"mimetype": "application\/octet-stream",
+		"mimetype": "application/octet-stream",
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2015-07-08T15:58:55.916142",
-		"url": "ftp:\/\/airsl1.gesdisc.eosdis.nasa.gov\/ftp\/data\/s4pa\/Aqua_AIRS_Level1\/AIRICRAD.006\/",
+		"url": "ftp://airsl1.gesdisc.eosdis.nasa.gov/ftp/data/s4pa/Aqua_AIRS_Level1/AIRICRAD.006/",
 		"webstore_url": null,
 		"last_modified": null,
 		"position": 0,
@@ -91,7 +91,7 @@
 		"state": "active",
 		"id": "8976b0b3-e423-440d-9ad4-ca2599152650"
 	}],
-	"title": "AIRS\/Aqua Level 1C Infrared (IR) resampled and corrected radiances V006",
+	"title": "AIRS/Aqua Level 1C Infrared (IR) resampled and corrected radiances V006",
 	"tracking_summary": {
 		"total": 3,
 		"recent": 0
@@ -102,7 +102,7 @@
 	"name": "airs-aqua-level-1c-infrared-ir-resampled-and-corrected-radiances-v006",
 	"isopen": true,
 	"url": null,
-	"notes": "The AIRS Infrared (IR) level 1C data set contains AIRS infrared calibrated and geolocated radiances in W\/m2\/micron\/ster. This data set is generated from AIRS level 1B data. The spectral coverage of L1C data is from 3.74 to 15.4 mm. The nominal spectral resolution \u03bb\u2044\u0394\u03bb = 1200. The spectrum is sampled twice per spectral resolution element in a total of 2645 spectral channels. A day of AIRS data is divided into 240 granules (scenes) each of 6-minute duration. For the AIRS IR measurements, an individual granule contains 135 pixels across-track and 90 along-track pixels; there are total of 135 x 90 = 12,150 pixels per granule.\n\nAIRS employs a 49.5 degree crosstrack scanning with a 1.1 degree instantaneous field of view (IFOV) to provide twice daily coverage of essentially the entire globe in a 1:30 PM sun synchronous orbit with the 13.5 x 13.5 km2 spatial resolution at nadir.\n\nThe L1C swath products are derived from the L1B swath products. The primary purpose of the level 1C is to generate the spectra of radiances without spectral gaps caused by the instrument design and bad spectral points. The AIRS L1C data can be used for comparative (with other IR measurements) studies and for weather-climate research.\n\nOnly most-recent 30 days of L1C temporal coverage data files will be stored and made available by GES DISC.\n\n                  (The Shortname for this product is AIRICRAD).",
+	"notes": "The AIRS Infrared (IR) level 1C data set contains AIRS infrared calibrated and geolocated radiances in W/m2/micron/ster. This data set is generated from AIRS level 1B data. The spectral coverage of L1C data is from 3.74 to 15.4 mm. The nominal spectral resolution u03bbu2044u0394u03bb = 1200. The spectrum is sampled twice per spectral resolution element in a total of 2645 spectral channels. A day of AIRS data is divided into 240 granules (scenes) each of 6-minute duration. For the AIRS IR measurements, an individual granule contains 135 pixels across-track and 90 along-track pixels; there are total of 135 x 90 = 12,150 pixels per granule.nnAIRS employs a 49.5 degree crosstrack scanning with a 1.1 degree instantaneous field of view (IFOV) to provide twice daily coverage of essentially the entire globe in a 1:30 PM sun synchronous orbit with the 13.5 x 13.5 km2 spatial resolution at nadir.nnThe L1C swath products are derived from the L1B swath products. The primary purpose of the level 1C is to generate the spectra of radiances without spectral gaps caused by the instrument design and bad spectral points. The AIRS L1C data can be used for comparative (with other IR measurements) studies and for weather-climate research.nnOnly most-recent 30 days of L1C temporal coverage data files will be stored and made available by GES DISC.nn                  (The Shortname for this product is AIRICRAD).",
 	"license_title": "U.S. Government Work",
 	"extras": [{
 		"key": "harvest_source_id",
@@ -126,7 +126,7 @@
 	},
 	{
 		"key": "temporal",
-		"value": "2015-04-28T00:00:00Z\/2015-05-28T23:59:59Z"
+		"value": "2015-04-28T00:00:00Z/2015-05-28T23:59:59Z"
 	},
 	{
 		"key": "theme",
@@ -138,15 +138,15 @@
 	},
 	{
 		"key": "catalog_conformsTo",
-		"value": "https:\/\/project-open-data.cio.gov\/v1.1\/schema"
+		"value": "https://project-open-data.cio.gov/v1.1/schema"
 	},
 	{
 		"key": "catalog_@context",
-		"value": "https:\/\/project-open-data.cio.gov\/v1.1\/schema\/catalog.jsonld"
+		"value": "https://project-open-data.cio.gov/v1.1/schema/catalog.jsonld"
 	},
 	{
 		"key": "catalog_describedBy",
-		"value": "https:\/\/project-open-data.cio.gov\/v1.1\/schema\/catalog.json"
+		"value": "https://project-open-data.cio.gov/v1.1/schema/catalog.json"
 	},
 	{
 		"key": "harvest_source_title",
@@ -188,7 +188,7 @@
 	},
 	{
 		"key": "license",
-		"value": "http:\/\/www.usa.gov\/publicdomain\/label\/1.0\/"
+		"value": "http://www.usa.gov/publicdomain/label/1.0/"
 	},
 	{
 		"key": "language",
@@ -225,16 +225,16 @@
 		"key": "harvest_source_title",
 		"value": "NASA Data.json"
 	}],
-	"license_url": "http:\/\/www.usa.gov\/publicdomain\/label\/1.0\/",
+	"license_url": "http://www.usa.gov/publicdomain/label/1.0/",
 	"organization": {
-		"description": "NASA's vision: To reach for new heights and reveal the unknown so that what we do and learn will benefit all humankind.\r\n\r\nTo do that, thousands of people have been working around the world -- and off of it -- for 50 years, trying to answer some basic questions. What's out there in space? How do we get there? What will we find? What can we learn there, or learn just by trying to get there, that will make life better here on Earth?\r\n\r\nNASA conducts its work in four principal organizations, called mission directorates:\r\n \r\nAeronautics: works to solve the challenges that still exist in our nation's air transportation system: air traffic congestion, safety and environmental impacts.\r\n\r\nHuman Exploration and Operations: focuses on International Space Station operations, development of commercial spaceflight opportunities and human exploration beyond low Earth orbit.\r\n\r\nScience: explores the Earth, solar system and universe beyond; charts the best route of discovery; and reaps the benefits of Earth and space exploration for society.\r\n\r\nSpace Technology: rapidly develops, demonstrates, and infuses revolutionary, high-payoff technologies, expanding the boundaries of the aerospace enterprise.\r\n\r\nIn the early 21st century, NASA's reach spans the universe. The Mars rover Curiosity is still exploring Mars to see if it might once have had environments suitable for life. Cassini is in orbit around Saturn, as Juno makes its way to Jupiter. The restored Hubble Space Telescope continues to explore the deepest reaches of the cosmos as NASA developes the James Webb Space Telescope.\r\n\r\nCloser to home, the latest crew of the International Space Station is extending the permanent human presence in space. With commercial partners such as SpaceX, NASA is helping to foster the development of private-sector aerospace.\r\n\r\nEarth science satellites are sending back unprecedented data on Earth's oceans, climate and other features. NASA's aeronautics team is working with other government organizations, universities, and industry to fundamentally improve the air transportation experience and retain our nation's leadership in global aviation.",
+		"description": "NASA's vision: To reach for new heights and reveal the unknown so that what we do and learn will benefit all humankind.rnrnTo do that, thousands of people have been working around the world -- and off of it -- for 50 years, trying to answer some basic questions. What's out there in space? How do we get there? What will we find? What can we learn there, or learn just by trying to get there, that will make life better here on Earth?rnrnNASA conducts its work in four principal organizations, called mission directorates:rn rnAeronautics: works to solve the challenges that still exist in our nation's air transportation system: air traffic congestion, safety and environmental impacts.rnrnHuman Exploration and Operations: focuses on International Space Station operations, development of commercial spaceflight opportunities and human exploration beyond low Earth orbit.rnrnScience: explores the Earth, solar system and universe beyond; charts the best route of discovery; and reaps the benefits of Earth and space exploration for society.rnrnSpace Technology: rapidly develops, demonstrates, and infuses revolutionary, high-payoff technologies, expanding the boundaries of the aerospace enterprise.rnrnIn the early 21st century, NASA's reach spans the universe. The Mars rover Curiosity is still exploring Mars to see if it might once have had environments suitable for life. Cassini is in orbit around Saturn, as Juno makes its way to Jupiter. The restored Hubble Space Telescope continues to explore the deepest reaches of the cosmos as NASA developes the James Webb Space Telescope.rnrnCloser to home, the latest crew of the International Space Station is extending the permanent human presence in space. With commercial partners such as SpaceX, NASA is helping to foster the development of private-sector aerospace.rnrnEarth science satellites are sending back unprecedented data on Earth's oceans, climate and other features. NASA's aeronautics team is working with other government organizations, universities, and industry to fundamentally improve the air transportation experience and retain our nation's leadership in global aviation.",
 		"created": "2013-03-14T03:44:44.467521",
 		"title": "National Aeronautics and Space Administration",
 		"name": "nasa-gov",
 		"revision_timestamp": "2013-08-20T16:04:52.563777",
 		"is_organization": true,
 		"state": "active",
-		"image_url": "http:\/\/polargateways2008.gsfc.nasa.gov\/images\/LOGO_2in\/NASA_2.jpg",
+		"image_url": "http://polargateways2008.gsfc.nasa.gov/images/LOGO_2in/NASA_2.jpg",
 		"revision_id": "7f05110b-681a-402c-a372-74500dc583dd",
 		"type": "organization",
 		"id": "d8a6202b-c0c3-463d-88a0-3bc021a178ed",

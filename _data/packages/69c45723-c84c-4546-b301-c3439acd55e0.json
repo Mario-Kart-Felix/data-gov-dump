@@ -36,7 +36,7 @@
 		"cache_url": null,
 		"name": "Geodatabase",
 		"created": "2014-11-17T16:12:46.839658",
-		"url": "http:\/\/water.usgs.gov\/GIS\/dsdl\/DS273_IrrigatedAcreage.zip",
+		"url": "http://water.usgs.gov/GIS/dsdl/DS273_IrrigatedAcreage.zip",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 0,
@@ -65,7 +65,7 @@
 		"cache_url": null,
 		"name": "Shapefile",
 		"created": "2014-11-17T16:12:46.839679",
-		"url": "http:\/\/water.usgs.gov\/GIS\/dsdl\/DS273_IrrigatedAcreage_Shape.zip",
+		"url": "http://water.usgs.gov/GIS/dsdl/DS273_IrrigatedAcreage_Shape.zip",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 1,
@@ -95,7 +95,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2014-11-17T16:12:46.839687",
-		"url": "http:\/\/water.usgs.gov\/lookup\/getspatial?ds273_NV_StateWellLog",
+		"url": "http://water.usgs.gov/lookup/getspatial?ds273_NV_StateWellLog",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 2,
@@ -125,7 +125,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2014-11-17T16:12:46.839694",
-		"url": "http:\/\/pubs.usgs.gov\/ds\/2007\/273\/",
+		"url": "http://pubs.usgs.gov/ds/2007/273/",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 3,
@@ -145,11 +145,11 @@
 	"name": "irrigation-wells-from-the-nevada-division-of-water-resources-well-log-database",
 	"isopen": false,
 	"url": null,
-	"notes": "This data set was derived from the Nevada Department of Conservation and Natural Resources, Division of Water Resources (NDWR) well log data base (http:\/\/water.nv.gov\/Engineering\/wlog\/wlog.cfm). This data set was developed from a version of the data base downloaded October 26, 2005 and reflects the wells entered into the data base up to that date. The data base generally contains logs for wells drilled since 1984, however, some basins have information about older wells. No attempts were made to edit or alter the coordinate or attribute information in the data base as presented by NDWR on the date of download.",
+	"notes": "This data set was derived from the Nevada Department of Conservation and Natural Resources, Division of Water Resources (NDWR) well log data base (http://water.nv.gov/Engineering/wlog/wlog.cfm). This data set was developed from a version of the data base downloaded October 26, 2005 and reflects the wells entered into the data base up to that date. The data base generally contains logs for wells drilled since 1984, however, some basins have information about older wells. No attempts were made to edit or alter the coordinate or attribute information in the data base as presented by NDWR on the date of download.",
 	"license_title": null,
 	"extras": [{
 		"key": "responsible-party",
-		"value": "[{\"name\": \"U.S. Geological Survey\", \"roles\": [\"pointOfContact\"]}]"
+		"value": "[{"name": "U.S. Geological Survey", "roles": ["pointOfContact"]}]"
 	},
 	{
 		"key": "contact-email",
@@ -161,7 +161,7 @@
 	},
 	{
 		"key": "bbox-west-long",
-		"value": "\n-116.079248"
+		"value": "n-116.079248"
 	},
 	{
 		"key": "metadata-date",
@@ -169,7 +169,7 @@
 	},
 	{
 		"key": "dataset-reference-date",
-		"value": "[{\"type\": \"publication\", \"value\": \"2005-10-26\"}]"
+		"value": "[{"type": "publication", "value": "2005-10-26"}]"
 	},
 	{
 		"key": "resource-type",
@@ -177,7 +177,7 @@
 	},
 	{
 		"key": "bbox-east-long",
-		"value": "\n-113.991103"
+		"value": "n-113.991103"
 	},
 	{
 		"key": "spatial-reference-system",
@@ -185,7 +185,7 @@
 	},
 	{
 		"key": "bbox-north-lat",
-		"value": "\n40.280607"
+		"value": "n40.280607"
 	},
 	{
 		"key": "coupled-resource",
@@ -193,11 +193,11 @@
 	},
 	{
 		"key": "bbox-south-lat",
-		"value": "\n38.218024"
+		"value": "n38.218024"
 	},
 	{
 		"key": "licence",
-		"value": "[\"Although this data set has been used by the U.S. Geological Survey, U.S. Department of the Interior, no warranty expressed or implied is made by the U.S. Geological Survey as to the accuracy of the data and related materials. The act of distribution shall not constitute any such warranty, and no responsibility is assumed by the U.S. Geological Survey in the use of this data, software, or related materials.\\n\\nThe use of firm, trade, or brand names in this report is for identification purposes only and does not constitute endorsement by the U.S. Geological Survey. The names mentioned in this document may be trademarks or registered trademarks of their respective trademark owners.\"]"
+		"value": "["Although this data set has been used by the U.S. Geological Survey, U.S. Department of the Interior, no warranty expressed or implied is made by the U.S. Geological Survey as to the accuracy of the data and related materials. The act of distribution shall not constitute any such warranty, and no responsibility is assumed by the U.S. Geological Survey in the use of this data, software, or related materials.\n\nThe use of firm, trade, or brand names in this report is for identification purposes only and does not constitute endorsement by the U.S. Geological Survey. The names mentioned in this document may be trademarks or registered trademarks of their respective trademark owners."]"
 	},
 	{
 		"key": "metadata_type",
@@ -209,7 +209,7 @@
 	},
 	{
 		"key": "spatial",
-		"value": "{\"type\": \"Polygon\", \"coordinates\": [[[-116.079248, 38.218024], [-113.991103, 38.218024], [-113.991103, 40.280607], [-116.079248, 40.280607], [-116.079248, 38.218024]]]}"
+		"value": "{"type": "Polygon", "coordinates": [[[-116.079248, 38.218024], [-113.991103, 38.218024], [-113.991103, 40.280607], [-116.079248, 40.280607], [-116.079248, 38.218024]]]}"
 	},
 	{
 		"key": "guid",
@@ -221,7 +221,7 @@
 	},
 	{
 		"key": "access_constraints",
-		"value": "[\"Use Constraints: This data set has not been technically reviewed and does not conform to U.S. Geological Survey standards. It has not received Director's approval and as such is provisional and subject to revision. Although this Federal Geographic Data Committee (FGDC) compliant metadata file is intended to document the data set in nonproprietary form, as well as ArcGIS format, this metadata file may include some ArcGIS-specific terminology. These data are not intended to be used as a survey product and are for reference purposes only.\", \"Access Constraints: These data are intended for internal use only. Requests for the data should be directed to the source data at http:\/\/water.nv.gov\/Engineering\/wlog\/wlog.cfm.\"]"
+		"value": "["Use Constraints: This data set has not been technically reviewed and does not conform to U.S. Geological Survey standards. It has not received Director's approval and as such is provisional and subject to revision. Although this Federal Geographic Data Committee (FGDC) compliant metadata file is intended to document the data set in nonproprietary form, as well as ArcGIS format, this metadata file may include some ArcGIS-specific terminology. These data are not intended to be used as a survey product and are for reference purposes only.", "Access Constraints: These data are intended for internal use only. Requests for the data should be directed to the source data at http://water.nv.gov/Engineering/wlog/wlog.cfm."]"
 	},
 	{
 		"key": "spatial_harvester",
@@ -256,14 +256,14 @@
 		"value": "Water NSDI Node Spatial Datasets"
 	}],
 	"organization": {
-		"description": "http:\/\/www.usgs.gov\/\r\nThe USGS is a federal science agency that provides impartial information on the health of our ecosystems and environment, the natural hazards that threaten us, the natural resources we rely on, the impacts of climate and land-use change, and the core science systems that help us provide timely, relevant, and useable information.",
+		"description": "http://www.usgs.gov/rnThe USGS is a federal science agency that provides impartial information on the health of our ecosystems and environment, the natural hazards that threaten us, the natural resources we rely on, the impacts of climate and land-use change, and the core science systems that help us provide timely, relevant, and useable information.",
 		"created": "2013-03-14T03:44:38.263357",
 		"title": "U.S. Geological Survey, Department of the Interior",
 		"name": "usgs-gov",
 		"revision_timestamp": "2014-09-02T13:43:52.167023",
 		"is_organization": true,
 		"state": "active",
-		"image_url": "http:\/\/pubs.usgs.gov\/sir\/2004\/5296\/04-5296_confluence_park\/usgs_logo.gif",
+		"image_url": "http://pubs.usgs.gov/sir/2004/5296/04-5296_confluence_park/usgs_logo.gif",
 		"revision_id": "2858aa99-9501-4f96-82e5-9647b968ed66",
 		"type": "organization",
 		"id": "bd2cdd5a-4d65-46c0-9937-c8381175f104",

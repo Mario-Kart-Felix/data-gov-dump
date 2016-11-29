@@ -36,7 +36,7 @@
 		"cache_url": null,
 		"name": "Downloadable File (PDF) The Geology of the Rutland Area, Vermont",
 		"created": "2013-03-16T02:22:32.815735",
-		"url": "http:\/\/www.anr.state.vt.us\/dec\/geo\/bull6rutl\/Brace_1953sm.pdf",
+		"url": "http://www.anr.state.vt.us/dec/geo/bull6rutl/Brace_1953sm.pdf",
 		"webstore_url": null,
 		"resource_locator_function": "375",
 		"position": 0,
@@ -65,7 +65,7 @@
 		"cache_url": null,
 		"name": "Service Description",
 		"created": "2013-03-16T02:22:32.815755",
-		"url": "http:\/\/geothermal.isgs.illinois.edu\/ArcGIS\/services\/aasggeothermal\/VTBull06Rutland\/MapServer\/WMSServer?request=GetCapabilities&service=WMS",
+		"url": "http://geothermal.isgs.illinois.edu/ArcGIS/services/aasggeothermal/VTBull06Rutland/MapServer/WMSServer?request=GetCapabilities&service=WMS",
 		"webstore_url": null,
 		"resource_locator_function": "381",
 		"position": 1,
@@ -94,7 +94,7 @@
 		"cache_url": null,
 		"name": "ESRI Service Endpoint - The Geology of the Rutland Area, Vermont",
 		"created": "2013-03-16T02:22:32.815764",
-		"url": "http:\/\/geothermal.isgs.illinois.edu\/ArcGIS\/rest\/services\/aasggeothermal\/VTBull06Rutland\/MapServer",
+		"url": "http://geothermal.isgs.illinois.edu/ArcGIS/rest/services/aasggeothermal/VTBull06Rutland/MapServer",
 		"webstore_url": null,
 		"resource_locator_function": "381",
 		"position": 2,
@@ -123,7 +123,7 @@
 		"cache_url": null,
 		"name": "ESRI Service Endpoint - Plate 1: Geologic Map",
 		"created": "2013-03-16T02:22:32.815771",
-		"url": "http:\/\/geothermal.isgs.illinois.edu\/ArcGIS\/rest\/services\/aasggeothermal\/VTBull06Rutland\/MapServer\/0",
+		"url": "http://geothermal.isgs.illinois.edu/ArcGIS/rest/services/aasggeothermal/VTBull06Rutland/MapServer/0",
 		"webstore_url": null,
 		"resource_locator_function": "381",
 		"position": 3,
@@ -152,7 +152,7 @@
 		"cache_url": null,
 		"name": "ESRI Service Endpoint - Plate 3: Tectonic Map",
 		"created": "2013-03-16T02:22:32.815778",
-		"url": "http:\/\/geothermal.isgs.illinois.edu\/ArcGIS\/rest\/services\/aasggeothermal\/VTBull06Rutland\/MapServer\/1",
+		"url": "http://geothermal.isgs.illinois.edu/ArcGIS/rest/services/aasggeothermal/VTBull06Rutland/MapServer/1",
 		"webstore_url": null,
 		"resource_locator_function": "381",
 		"position": 4,
@@ -185,11 +185,11 @@
 	"name": "the-geology-of-the-rutland-area-vermont",
 	"isopen": false,
 	"url": null,
-	"notes": "This resource is available as a downloadable pdf file, a Web Map Service, and as an ESRI Service. The resource includes a Bedrock map, Tectonic map, Cross Section and a text on Bedrock geology for the Rutland Area, Vermont. For more information see links provided.\nAbstract: The Rutland area, in the Green Mountains of central Vermont, is  underlain by a pre-Cambrian basement complex and flanking Cambro Ordovician sequences arranged in the form of an anticlinorium.  About 10,000 feet of gneiss, schist, quartzite, marble and amphibolite  are exposed in the core of the anticlinorium and lie unconformably beneath Lower Cambrian strata. These pre Cambrian rocks resemble the  Grenville of New York State and may be largely of sedimentary origin,  as shown by abundant beds of marble, quartzite, graphitic schist and  widespread compositional banding.",
+	"notes": "This resource is available as a downloadable pdf file, a Web Map Service, and as an ESRI Service. The resource includes a Bedrock map, Tectonic map, Cross Section and a text on Bedrock geology for the Rutland Area, Vermont. For more information see links provided.nAbstract: The Rutland area, in the Green Mountains of central Vermont, is  underlain by a pre-Cambrian basement complex and flanking Cambro Ordovician sequences arranged in the form of an anticlinorium.  About 10,000 feet of gneiss, schist, quartzite, marble and amphibolite  are exposed in the core of the anticlinorium and lie unconformably beneath Lower Cambrian strata. These pre Cambrian rocks resemble the  Grenville of New York State and may be largely of sedimentary origin,  as shown by abundant beds of marble, quartzite, graphitic schist and  widespread compositional banding.",
 	"license_title": null,
 	"extras": [{
 		"key": "responsible-party",
-		"value": "[{\"name\": \"Arizona Geological Survey\", \"roles\": [\"pointOfContact\"]}]"
+		"value": "[{"name": "Arizona Geological Survey", "roles": ["pointOfContact"]}]"
 	},
 	{
 		"key": "contact-email",
@@ -209,7 +209,7 @@
 	},
 	{
 		"key": "dataset-reference-date",
-		"value": "[{\"type\": \"publication\", \"value\": \"1953-01-01T12:00:00\"}]"
+		"value": "[{"type": "publication", "value": "1953-01-01T12:00:00"}]"
 	},
 	{
 		"key": "resource-type",
@@ -245,7 +245,7 @@
 	},
 	{
 		"key": "spatial",
-		"value": "{\"type\": \"Polygon\", \"coordinates\": [[[-73.0, 43.5], [-73.0, 43.75], [-72.75, 43.75], [-72.75, 43.5], [-73.0, 43.5]]]}"
+		"value": "{"type": "Polygon", "coordinates": [[[-73.0, 43.5], [-73.0, 43.75], [-72.75, 43.75], [-72.75, 43.5], [-73.0, 43.5]]]}"
 	},
 	{
 		"key": "guid",
@@ -295,7 +295,7 @@
 		"revision_timestamp": "2013-03-20T21:11:17.592932",
 		"is_organization": true,
 		"state": "active",
-		"image_url": "http:\/\/www.50states.com\/flag\/image\/nunst004.gif",
+		"image_url": "http://www.50states.com/flag/image/nunst004.gif",
 		"revision_id": "61be6428-4398-4199-a336-f3cd1e956f9b",
 		"type": "organization",
 		"id": "f3f6e1d4-64fb-4a2f-b32c-9ac0b76fe4de",

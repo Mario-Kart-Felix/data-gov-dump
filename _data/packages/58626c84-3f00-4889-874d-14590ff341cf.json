@@ -36,7 +36,7 @@
 		"cache_url": null,
 		"name": "NDGIS web site",
 		"created": "2016-04-01T14:55:15.395199",
-		"url": "http:\/\/www.nd.gov\/gis",
+		"url": "http://www.nd.gov/gis",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 0,
@@ -65,7 +65,7 @@
 		"cache_url": null,
 		"name": "Download Baileys Ecoregions",
 		"created": "2016-04-01T14:55:15.395226",
-		"url": "http:\/\/www.nd.gov\/gis\/apps\/DataDownload\/?clipping=Full&coord=ND83-SF&format=SHAPE&layers=NDHUB.ECOREGIONS_BAILEY",
+		"url": "http://www.nd.gov/gis/apps/DataDownload/?clipping=Full&coord=ND83-SF&format=SHAPE&layers=NDHUB.ECOREGIONS_BAILEY",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 1,
@@ -94,7 +94,7 @@
 		"cache_url": null,
 		"name": "Bailey Ecoregions",
 		"created": "2016-04-01T14:55:15.395235",
-		"url": "http:\/\/ndgishub.nd.gov\/arcgis\/services\/All_Ecological\/MapServer\/WMSServer?",
+		"url": "http://ndgishub.nd.gov/arcgis/services/All_Ecological/MapServer/WMSServer?",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 2,
@@ -123,7 +123,7 @@
 		"cache_url": null,
 		"name": "Esri REST including WMS",
 		"created": "2016-04-01T14:55:15.395242",
-		"url": "http:\/\/ndgishub.nd.gov\/ArcGIS\/rest\/services\/All_Ecological\/MapServer",
+		"url": "http://ndgishub.nd.gov/ArcGIS/rest/services/All_Ecological/MapServer",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 3,
@@ -152,7 +152,7 @@
 		"cache_url": null,
 		"name": "Esri REST including WFS and KML",
 		"created": "2016-04-01T14:55:15.395249",
-		"url": "http:\/\/ndgishub.nd.gov\/ArcGIS\/rest\/services\/Features\/Ecological\/MapServer",
+		"url": "http://ndgishub.nd.gov/ArcGIS/rest/services/Features/Ecological/MapServer",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 4,
@@ -205,7 +205,7 @@
 	},
 	{
 		"key": "__category_tag_9a350fa9-bc49-43d4-8e77-270b9714976d",
-		"value": "[\"Palau\",\"Environment\",\"Pacific Islands\"]"
+		"value": "["Palau","Environment","Pacific Islands"]"
 	},
 	{
 		"key": "graphic-preview-type",
@@ -233,7 +233,7 @@
 	},
 	{
 		"key": "spatial",
-		"value": "{\"type\": \"Polygon\", \"coordinates\": [[[-104.5, 45.5], [-96.5, 45.5], [-96.5, 49.5], [-104.5, 49.5], [-104.5, 45.5]]]}"
+		"value": "{"type": "Polygon", "coordinates": [[[-104.5, 45.5], [-96.5, 45.5], [-96.5, 49.5], [-104.5, 49.5], [-104.5, 45.5]]]}"
 	},
 	{
 		"key": "progress",
@@ -241,7 +241,7 @@
 	},
 	{
 		"key": "access_constraints",
-		"value": "[\"The State of North Dakota has compiled this data according to conventional cartographic standards, using what is thought to be the most reliable information available.  This data is intended to make results of research available at the earliest possible date, but is not intended to constitute final or formal publication.  The State of North Dakota makes every effort to provide virus-free files but does not guarantee uncorrupted files.  The State of North Dakota does not guarantee this data to be free from errors, inaccuracies, or viruses, and disclaims any responsibility or liability for interpretations or decisions based on this data.\", \"Although these data have been processed successfully on a computer system at the U.S. Geological Survey, no warranty expressed or implied is made by the U.S. Geological Survey regarding the utility of the data on any other system, nor shall the act of distribution constitute any such warranty. No responsibility is assumed by the U.S. Geological Survey in the use of these data.\"]"
+		"value": "["The State of North Dakota has compiled this data according to conventional cartographic standards, using what is thought to be the most reliable information available.  This data is intended to make results of research available at the earliest possible date, but is not intended to constitute final or formal publication.  The State of North Dakota makes every effort to provide virus-free files but does not guarantee uncorrupted files.  The State of North Dakota does not guarantee this data to be free from errors, inaccuracies, or viruses, and disclaims any responsibility or liability for interpretations or decisions based on this data.", "Although these data have been processed successfully on a computer system at the U.S. Geological Survey, no warranty expressed or implied is made by the U.S. Geological Survey regarding the utility of the data on any other system, nor shall the act of distribution constitute any such warranty. No responsibility is assumed by the U.S. Geological Survey in the use of these data."]"
 	},
 	{
 		"key": "contact-email",
@@ -257,7 +257,7 @@
 	},
 	{
 		"key": "dataset-reference-date",
-		"value": "[{\"type\": \"publication\", \"value\": \"2004-03-01T11:52:00\"}]"
+		"value": "[{"type": "publication", "value": "2004-03-01T11:52:00"}]"
 	},
 	{
 		"key": "graphic-preview-description",
@@ -277,7 +277,7 @@
 	},
 	{
 		"key": "responsible-party",
-		"value": "[{\"name\": \"North Dakota Game and Fish\", \"roles\": [\"custodian\"]}, {\"name\": \"USDA Forest Service Inventory and Monitoring Institute\", \"roles\": [\"pointOfContact\"]}]"
+		"value": "[{"name": "North Dakota Game and Fish", "roles": ["custodian"]}, {"name": "USDA Forest Service Inventory and Monitoring Institute", "roles": ["pointOfContact"]}]"
 	},
 	{
 		"key": "spatial-data-service-type",
@@ -312,14 +312,14 @@
 		"value": "North Dakota GIS Hub Data Portal"
 	}],
 	"organization": {
-		"description": "The GIS Hub is the state source for GIS - data, services, and information.  More information can be found at www.nd.gov\/gis.",
+		"description": "The GIS Hub is the state source for GIS - data, services, and information.  More information can be found at www.nd.gov/gis.",
 		"created": "2013-03-14T03:44:44.340717",
 		"title": "State of North Dakota",
 		"name": "nd-gov",
 		"revision_timestamp": "2013-07-15T16:27:30.098476",
 		"is_organization": true,
 		"state": "active",
-		"image_url": "http:\/\/www.nd.gov\/gis\/images\/ndgis-logo.gif",
+		"image_url": "http://www.nd.gov/gis/images/ndgis-logo.gif",
 		"revision_id": "27517bb9-815c-4d4f-b45b-b88b6316697b",
 		"type": "organization",
 		"id": "1c782de6-9f1f-4427-93fd-33732e29970f",

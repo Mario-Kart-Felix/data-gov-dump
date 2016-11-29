@@ -36,7 +36,7 @@
 		"cache_url": null,
 		"name": "ftp",
 		"created": "2016-04-18T15:31:36.667857",
-		"url": "ftp:\/\/tgftp.nws.noaa.gov\/data\/raw\/fa\/",
+		"url": "ftp://tgftp.nws.noaa.gov/data/raw/fa/",
 		"webstore_url": null,
 		"resource_locator_function": "download",
 		"position": 0,
@@ -65,7 +65,7 @@
 		"cache_url": null,
 		"name": "http",
 		"created": "2016-04-18T15:31:36.667880",
-		"url": "http:\/\/weather.noaa.gov\/pub\/data\/raw\/fa\/",
+		"url": "http://weather.noaa.gov/pub/data/raw/fa/",
 		"webstore_url": null,
 		"resource_locator_function": "download",
 		"position": 1,
@@ -94,7 +94,7 @@
 		"cache_url": null,
 		"name": "AWC",
 		"created": "2016-04-18T15:31:36.667889",
-		"url": "http:\/\/www.aviationweather.gov\/ccfp",
+		"url": "http://www.aviationweather.gov/ccfp",
 		"webstore_url": null,
 		"resource_locator_function": "information",
 		"position": 2,
@@ -123,7 +123,7 @@
 		"cache_url": null,
 		"name": "Aviation Weather Center CDM Convective Forecast Planning guidance",
 		"created": "2016-04-18T15:31:36.667895",
-		"url": "http:\/\/www.aviationweather.gov\/ccfp",
+		"url": "http://www.aviationweather.gov/ccfp",
 		"webstore_url": null,
 		"resource_locator_function": "download",
 		"position": 3,
@@ -152,7 +152,7 @@
 		"cache_url": null,
 		"name": "Aviation Weather Center CDM Convective Forecast Planning Guidance",
 		"created": "2016-04-18T15:31:36.667902",
-		"url": "http:\/\/www.aviationweather.gov\/ccfp",
+		"url": "http://www.aviationweather.gov/ccfp",
 		"webstore_url": null,
 		"resource_locator_function": "download",
 		"position": 4,
@@ -212,7 +212,7 @@
 	},
 	{
 		"key": "spatial",
-		"value": "{\"type\": \"Polygon\", \"coordinates\": [[[-129.981, 20.018], [-60.004, 20.018], [-60.004, 53.004], [-129.981, 53.004], [-129.981, 20.018]]]}"
+		"value": "{"type": "Polygon", "coordinates": [[[-129.981, 20.018], [-60.004, 20.018], [-60.004, 53.004], [-129.981, 53.004], [-129.981, 20.018]]]}"
 	},
 	{
 		"key": "progress",
@@ -236,7 +236,7 @@
 	},
 	{
 		"key": "dataset-reference-date",
-		"value": "[{\"type\": \"creation\", \"value\": \"2015-03-03\"}]"
+		"value": "[{"type": "creation", "value": "2015-03-03"}]"
 	},
 	{
 		"key": "frequency-of-update",
@@ -244,7 +244,7 @@
 	},
 	{
 		"key": "licence",
-		"value": "[\"Disclaimer - While every effort has been made to ensure that these data are accurate and reliable within the limits of the current state of the art, NOAA cannot assume liability for any damages caused by any errors or omissions in the data, nor as a result of the failure of the data to function on a particular system. NOAA makes no warranty, expressed or implied, nor does the fact of distribution constitute such a warranty.\"]"
+		"value": "["Disclaimer - While every effort has been made to ensure that these data are accurate and reliable within the limits of the current state of the art, NOAA cannot assume liability for any damages caused by any errors or omissions in the data, nor as a result of the failure of the data to function on a particular system. NOAA makes no warranty, expressed or implied, nor does the fact of distribution constitute such a warranty."]"
 	},
 	{
 		"key": "metadata_type",
@@ -252,7 +252,7 @@
 	},
 	{
 		"key": "responsible-party",
-		"value": "[{\"name\": \"\", \"roles\": [\"pointOfContact\"]}]"
+		"value": "[{"name": "", "roles": ["pointOfContact"]}]"
 	},
 	{
 		"key": "spatial-data-service-type",
@@ -264,7 +264,7 @@
 	},
 	{
 		"package_id": "47d8ee03-6e7a-4ea6-87d2-8c6ba12ff222",
-		"value": "doc\/noaa\/nws\/toc\/nwstg, precipitating convective cloud systems, percent convective clouds, storms, convective_cloud_area_fraction, cloud_top_altitude, lightning, convective_cloud_top_altitude, none, convection, forecast, ccfp, faus(2[7-9]|30) kkci, doc\/noaa\/nws\/ncep\/awc",
+		"value": "doc/noaa/nws/toc/nwstg, precipitating convective cloud systems, percent convective clouds, storms, convective_cloud_area_fraction, cloud_top_altitude, lightning, convective_cloud_top_altitude, none, convection, forecast, ccfp, faus(2[7-9]|30) kkci, doc/noaa/nws/ncep/awc",
 		"revision_timestamp": "2016-04-18T19:31:36.542038",
 		"state": "active",
 		"key": "tags",
@@ -294,7 +294,7 @@
 		"revision_timestamp": "2013-03-25T23:05:12.923863",
 		"is_organization": true,
 		"state": "active",
-		"image_url": "https:\/\/fortress.wa.gov\/dfw\/score\/score\/images\/noaa_logo.png",
+		"image_url": "https://fortress.wa.gov/dfw/score/score/images/noaa_logo.png",
 		"revision_id": "c6d43080-22e1-405e-a83d-f2a512d9e867",
 		"type": "organization",
 		"id": "e811f0b4-451f-4896-9e8f-fc6802837819",

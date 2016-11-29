@@ -36,7 +36,7 @@
 		"cache_url": null,
 		"name": "Spidr interface",
 		"created": "2015-10-06T17:17:30.075961",
-		"url": "http:\/\/spidr.ngdc.noaa.gov",
+		"url": "http://spidr.ngdc.noaa.gov",
 		"webstore_url": null,
 		"resource_locator_function": "download",
 		"position": 0,
@@ -66,7 +66,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2015-10-06T17:17:30.076001",
-		"url": "http:\/\/spidr.ngdc.noaa.gov",
+		"url": "http://spidr.ngdc.noaa.gov",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 1,
@@ -95,7 +95,7 @@
 		"cache_url": null,
 		"name": "Spidr interface",
 		"created": "2015-10-06T17:17:30.076015",
-		"url": "http:\/\/spidr.ngdc.noaa.gov",
+		"url": "http://spidr.ngdc.noaa.gov",
 		"webstore_url": null,
 		"resource_locator_function": "download",
 		"position": 2,
@@ -124,7 +124,7 @@
 		"cache_url": null,
 		"name": "GCMD Feedback Form",
 		"created": "2015-10-06T17:17:30.076023",
-		"url": "http:\/\/gcmd.nasa.gov\/MailComments\/MailComments.jsf?rcpt=gcmduso",
+		"url": "http://gcmd.nasa.gov/MailComments/MailComments.jsf?rcpt=gcmduso",
 		"webstore_url": null,
 		"resource_locator_function": "information",
 		"position": 3,
@@ -153,7 +153,7 @@
 		"cache_url": null,
 		"name": "GCMD Keywords Page",
 		"created": "2015-10-06T17:17:30.076030",
-		"url": "http:\/\/gcmd.nasa.gov\/learn\/keyword_list.html",
+		"url": "http://gcmd.nasa.gov/learn/keyword_list.html",
 		"webstore_url": null,
 		"resource_locator_function": "information",
 		"position": 4,
@@ -182,7 +182,7 @@
 		"cache_url": null,
 		"name": "GCMD Feedback Form",
 		"created": "2015-10-06T17:17:30.076037",
-		"url": "http:\/\/gcmd.nasa.gov\/MailComments\/MailComments.jsf?rcpt=gcmduso",
+		"url": "http://gcmd.nasa.gov/MailComments/MailComments.jsf?rcpt=gcmduso",
 		"webstore_url": null,
 		"resource_locator_function": "information",
 		"position": 5,
@@ -211,7 +211,7 @@
 		"cache_url": null,
 		"name": "GCMD Keywords Page",
 		"created": "2015-10-06T17:17:30.076043",
-		"url": "http:\/\/gcmd.nasa.gov\/learn\/keyword_list.html",
+		"url": "http://gcmd.nasa.gov/learn/keyword_list.html",
 		"webstore_url": null,
 		"resource_locator_function": "information",
 		"position": 6,
@@ -231,7 +231,7 @@
 	"name": "instantaneous-absolute-values-of-the-geomagnetic-components-d-h-and-z-or-xy-and-z-at-1-minute-i",
 	"isopen": false,
 	"url": null,
-	"notes": "The file is comprised of instantaneous absolute values of the geomagnetic components D, H, and Z or X, Y, and Z at 1-minute intervals. These values were derived either from analog recordings (magnetograms) with the aid of semiautomatic digitizing equipment or from digital recordings made directly on magnetic tape. These data are available from about 50 observatories operated by the United States, Canada, Australia, Japan, United Kingdom, Taiwan, Sodankayla,\n                    Iceland, Finland and France.",
+	"notes": "The file is comprised of instantaneous absolute values of the geomagnetic components D, H, and Z or X, Y, and Z at 1-minute intervals. These values were derived either from analog recordings (magnetograms) with the aid of semiautomatic digitizing equipment or from digital recordings made directly on magnetic tape. These data are available from about 50 observatories operated by the United States, Canada, Australia, Japan, United Kingdom, Taiwan, Sodankayla,n                    Iceland, Finland and France.",
 	"license_title": null,
 	"extras": [{
 		"key": "bbox-east-long",
@@ -267,7 +267,7 @@
 	},
 	{
 		"key": "spatial",
-		"value": "{\"type\": \"Polygon\", \"coordinates\": [[[-180.0, -90.0], [180.0, -90.0], [180.0, 90.0], [-180.0, 90.0], [-180.0, -90.0]]]}"
+		"value": "{"type": "Polygon", "coordinates": [[[-180.0, -90.0], [180.0, -90.0], [180.0, 90.0], [-180.0, 90.0], [-180.0, -90.0]]]}"
 	},
 	{
 		"key": "progress",
@@ -275,7 +275,7 @@
 	},
 	{
 		"key": "access_constraints",
-		"value": "[\"Use Constraints: None\", \"Access Constraints: No Constraints\"]"
+		"value": "["Use Constraints: None", "Access Constraints: No Constraints"]"
 	},
 	{
 		"key": "temporal-extent-begin",
@@ -295,7 +295,7 @@
 	},
 	{
 		"key": "dataset-reference-date",
-		"value": "[{\"type\": \"publication\", \"value\": \"1979-01-01\"}]"
+		"value": "[{"type": "publication", "value": "1979-01-01"}]"
 	},
 	{
 		"key": "frequency-of-update",
@@ -303,7 +303,7 @@
 	},
 	{
 		"key": "licence",
-		"value": "[\"While every effort has been made to ensure that these data are accurate and reliable within the limits of the current state of the art, NOAA cannot assume liability for any damages caused by any errors or omissions in the data.\"]"
+		"value": "["While every effort has been made to ensure that these data are accurate and reliable within the limits of the current state of the art, NOAA cannot assume liability for any damages caused by any errors or omissions in the data."]"
 	},
 	{
 		"key": "metadata_type",
@@ -311,7 +311,7 @@
 	},
 	{
 		"key": "responsible-party",
-		"value": "[{\"name\": \"DOC\/NOAA\/NESDIS\/NCEI > National Centers for Environmental Information, NESDIS, NOAA, U.S. Department of Commerce\", \"roles\": [\"pointOfContact\"]}]"
+		"value": "[{"name": "DOC/NOAA/NESDIS/NCEI > National Centers for Environmental Information, NESDIS, NOAA, U.S. Department of Commerce", "roles": ["pointOfContact"]}]"
 	},
 	{
 		"key": "spatial-data-service-type",
@@ -323,7 +323,7 @@
 	},
 	{
 		"package_id": "e031df2f-7a03-4aa5-86f1-21dbca5e2eca",
-		"value": "sun-earth interactions, magnetic intensity, solid earth, doc\/noaa\/nesdis\/ngdc, geomagnetism, global, magnetic declination, international council for science - world data system, interior and crust, icsu-wds, national centers for environmental information, nesdis, noaa, u.s. department of commerce, doc\/noaa\/nesdis\/ncei, geomagnetic components, national geophysical data center, nesdis, noaa, u.s. department of commerce, ionosphere\/magnetosphere particles, earth science",
+		"value": "sun-earth interactions, magnetic intensity, solid earth, doc/noaa/nesdis/ngdc, geomagnetism, global, magnetic declination, international council for science - world data system, interior and crust, icsu-wds, national centers for environmental information, nesdis, noaa, u.s. department of commerce, doc/noaa/nesdis/ncei, geomagnetic components, national geophysical data center, nesdis, noaa, u.s. department of commerce, ionosphere/magnetosphere particles, earth science",
 		"revision_timestamp": "2015-10-06T21:17:30.026111",
 		"state": "active",
 		"key": "tags",
@@ -353,7 +353,7 @@
 		"revision_timestamp": "2013-03-25T23:05:12.923863",
 		"is_organization": true,
 		"state": "active",
-		"image_url": "https:\/\/fortress.wa.gov\/dfw\/score\/score\/images\/noaa_logo.png",
+		"image_url": "https://fortress.wa.gov/dfw/score/score/images/noaa_logo.png",
 		"revision_id": "c6d43080-22e1-405e-a83d-f2a512d9e867",
 		"type": "organization",
 		"id": "e811f0b4-451f-4896-9e8f-fc6802837819",

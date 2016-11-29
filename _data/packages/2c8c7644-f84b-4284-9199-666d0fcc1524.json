@@ -37,7 +37,7 @@
 		"cache_url": null,
 		"name": "XML File",
 		"created": "2015-04-25T08:22:19.667209",
-		"url": "http:\/\/atlas.ca.gov\/geoportal\/data\/calsediments\/EurekaLittoralCellCRSMPHumboldtBayMeanMonthlyMaximumWaterElevation2011\/EditionOne\/Shoreline_MMMW_2011.xml",
+		"url": "http://atlas.ca.gov/geoportal/data/calsediments/EurekaLittoralCellCRSMPHumboldtBayMeanMonthlyMaximumWaterElevation2011/EditionOne/Shoreline_MMMW_2011.xml",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 0,
@@ -67,7 +67,7 @@
 		"cache_url": null,
 		"name": "Zip File",
 		"created": "2015-04-25T08:22:19.667235",
-		"url": "http:\/\/atlas.ca.gov\/geoportal\/data\/calsediments\/EurekaLittoralCellCRSMPHumboldtBayMeanMonthlyMaximumWaterElevation2011\/EditionOne\/HB_Shoreline_MMMW_2011.zip",
+		"url": "http://atlas.ca.gov/geoportal/data/calsediments/EurekaLittoralCellCRSMPHumboldtBayMeanMonthlyMaximumWaterElevation2011/EditionOne/HB_Shoreline_MMMW_2011.zip",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 1,
@@ -87,11 +87,11 @@
 	"name": "eureka-littoral-cell-crsmp-humboldt-bay-mean-monthly-maximum-water-elevation-201151fa5",
 	"isopen": false,
 	"url": null,
-	"notes": "The Humboldt Bay Shoreline Assessment and LiDAR Analysis was conducted by field mapping the entire shoreline and assigning an unique segment identifier based on a change in attributes of type, structure, cover, and salt marsh adjacency onto 11x17 aerial photo base maps at a scale of 1\u201d = 200\u2019. Once field mapped shoreline segments were digitized and attributed in GIS. In early 2012 the NOAA Coastal LiDAR dataset became available as a \u201chydro-flattened bare earth\u201d digital elevation model (DEM). Metadata provided with the DEM reported a vertical accuracy RMSE less than or equal to 18 cm and a horizontal accuracy of 50 cm RMSE or better. A subset of the LiDAR DEM was taken that included all portions of the Humboldt Bay shoreline. A contour layer was derived from the DEM and the DEM was color coded in 0.5 meter elevation increments. Digitized artificial shoreline segments were realigned with the contours and color coded DEM to ensure that the segments were aligned with the structures which they represent. Jeff Anderson of Northern Hydrology prepared a DEM of Humboldt Bay representing water surface elevations of the present day mean monthly maximum water surface (MMMW). The MMMW surface was subtracted from the LiDAR DEM to produce a third DEM of relative elevations to the MMMW. These relative elevations were assigned to the shoreline segments at one meter spacing as the DEM is comprised of a one meter pixel resolution. The 1 meter spaced vertices of the shoreline segments were exported to a 3D point feature class. The shoreline segments were then broken at each vertex to produce 169,903 1 meter shoreline segments which all contained the original unique segment identifier, shoreline attributes, and start and end relative elevation values in the attribute table. An average relative elevation was calculated for each one meter shoreline segment and used as the basis for analysis.",
+	"notes": "The Humboldt Bay Shoreline Assessment and LiDAR Analysis was conducted by field mapping the entire shoreline and assigning an unique segment identifier based on a change in attributes of type, structure, cover, and salt marsh adjacency onto 11x17 aerial photo base maps at a scale of 1u201d = 200u2019. Once field mapped shoreline segments were digitized and attributed in GIS. In early 2012 the NOAA Coastal LiDAR dataset became available as a u201chydro-flattened bare earthu201d digital elevation model (DEM). Metadata provided with the DEM reported a vertical accuracy RMSE less than or equal to 18 cm and a horizontal accuracy of 50 cm RMSE or better. A subset of the LiDAR DEM was taken that included all portions of the Humboldt Bay shoreline. A contour layer was derived from the DEM and the DEM was color coded in 0.5 meter elevation increments. Digitized artificial shoreline segments were realigned with the contours and color coded DEM to ensure that the segments were aligned with the structures which they represent. Jeff Anderson of Northern Hydrology prepared a DEM of Humboldt Bay representing water surface elevations of the present day mean monthly maximum water surface (MMMW). The MMMW surface was subtracted from the LiDAR DEM to produce a third DEM of relative elevations to the MMMW. These relative elevations were assigned to the shoreline segments at one meter spacing as the DEM is comprised of a one meter pixel resolution. The 1 meter spaced vertices of the shoreline segments were exported to a 3D point feature class. The shoreline segments were then broken at each vertex to produce 169,903 1 meter shoreline segments which all contained the original unique segment identifier, shoreline attributes, and start and end relative elevation values in the attribute table. An average relative elevation was calculated for each one meter shoreline segment and used as the basis for analysis.",
 	"license_title": null,
 	"extras": [{
 		"key": "responsible-party",
-		"value": "[{\"name\": \"\", \"roles\": [\"pointOfContact\"]}]"
+		"value": "[{"name": "", "roles": ["pointOfContact"]}]"
 	},
 	{
 		"key": "contact-email",
@@ -111,7 +111,7 @@
 	},
 	{
 		"key": "dataset-reference-date",
-		"value": "[{\"type\": \"publication\", \"value\": \"9999-01-01\"}]"
+		"value": "[{"type": "publication", "value": "9999-01-01"}]"
 	},
 	{
 		"key": "resource-type",
@@ -139,7 +139,7 @@
 	},
 	{
 		"key": "licence",
-		"value": "[\" \"]"
+		"value": "[" "]"
 	},
 	{
 		"key": "metadata_type",
@@ -151,7 +151,7 @@
 	},
 	{
 		"key": "spatial",
-		"value": "{\"type\": \"Polygon\", \"coordinates\": [[[-124.271834, 40.674732], [-124.079226, 40.674732], [-124.079226, 40.912719], [-124.271834, 40.912719], [-124.271834, 40.674732]]]}"
+		"value": "{"type": "Polygon", "coordinates": [[[-124.271834, 40.674732], [-124.079226, 40.674732], [-124.079226, 40.912719], [-124.271834, 40.912719], [-124.271834, 40.674732]]]}"
 	},
 	{
 		"key": "guid",
@@ -163,7 +163,7 @@
 	},
 	{
 		"key": "access_constraints",
-		"value": "[\"Use Constraints: This dataset is intended solely to inform users on the shoreline conditions along Humboldt Bay. Information in this dataset is solely for consideration by federal, state, and local government agencies, organizations, and committees involved in the management and protection of coastal resources in California. This dataset has not been accepted nor approved by any governmental agencies and, as such, should not be construed to represent policy for any agency.\", \"Access Constraints:\"]"
+		"value": "["Use Constraints: This dataset is intended solely to inform users on the shoreline conditions along Humboldt Bay. Information in this dataset is solely for consideration by federal, state, and local government agencies, organizations, and committees involved in the management and protection of coastal resources in California. This dataset has not been accepted nor approved by any governmental agencies and, as such, should not be construed to represent policy for any agency.", "Access Constraints:"]"
 	},
 	{
 		"key": "spatial_harvester",
@@ -205,7 +205,7 @@
 		"revision_timestamp": "2013-05-31T17:51:13.706377",
 		"is_organization": true,
 		"state": "active",
-		"image_url": "http:\/\/www.ca.gov\/images\/template2012\/header_ca.gov.png",
+		"image_url": "http://www.ca.gov/images/template2012/header_ca.gov.png",
 		"revision_id": "ad94cda4-9394-44d0-9c37-573dc3c47c9a",
 		"type": "organization",
 		"id": "467d900f-8a42-452d-9906-6610dd1a767f",

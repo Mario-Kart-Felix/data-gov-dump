@@ -28,7 +28,7 @@
 	"name": "nyc-reservoirs-watershed-areas-huc-12",
 	"isopen": false,
 	"url": null,
-	"notes": "This NYC Reservoirs Watershed Areas (HUC 12) GIS layer was derived from the 12-Digit National Watershed Boundary Database (WBD) at 1:24,000 for EPA Region 2 and Surrounding States. HUC 12 polygons were selected from the source based on interactively comparing these HUC 12s in our GIS with images of the New York City's Water Supply System Map found at http:\/\/www.nyc.gov\/html\/dep\/html\/drinking_water\/wsmaps_wide.shtml. The 12 digit Hydrologic Units (HUCs) for EPA Region 2 and surrounding states (Northeastern states, parts of the Great Lakes, Puerto Rico and the USVI) are a subset of the National Watershed Boundary Database (WBD), downloaded from the Natural Resources Conservation Service (NRCS) Geospatial Gateway and imported into the EPA Region 2 Oracle\/SDE database. This layer reflects 2009 updates to the WBD that included new boundary data for New York and New Jersey.",
+	"notes": "This NYC Reservoirs Watershed Areas (HUC 12) GIS layer was derived from the 12-Digit National Watershed Boundary Database (WBD) at 1:24,000 for EPA Region 2 and Surrounding States. HUC 12 polygons were selected from the source based on interactively comparing these HUC 12s in our GIS with images of the New York City's Water Supply System Map found at http://www.nyc.gov/html/dep/html/drinking_water/wsmaps_wide.shtml. The 12 digit Hydrologic Units (HUCs) for EPA Region 2 and surrounding states (Northeastern states, parts of the Great Lakes, Puerto Rico and the USVI) are a subset of the National Watershed Boundary Database (WBD), downloaded from the Natural Resources Conservation Service (NRCS) Geospatial Gateway and imported into the EPA Region 2 Oracle/SDE database. This layer reflects 2009 updates to the WBD that included new boundary data for New York and New Jersey.",
 	"license_title": null,
 	"extras": [{
 		"key": "bbox-east-long",
@@ -64,7 +64,7 @@
 	},
 	{
 		"key": "spatial",
-		"value": "{\"type\": \"Polygon\", \"coordinates\": [[[-75.394901, 41.033143], [-73.486563, 41.033143], [-73.486563, 42.476717], [-75.394901, 42.476717], [-75.394901, 41.033143]]]}"
+		"value": "{"type": "Polygon", "coordinates": [[[-75.394901, 41.033143], [-73.486563, 41.033143], [-73.486563, 42.476717], [-75.394901, 42.476717], [-75.394901, 41.033143]]]}"
 	},
 	{
 		"key": "progress",
@@ -72,11 +72,11 @@
 	},
 	{
 		"key": "access_constraints",
-		"value": "[\"Use Constraints: The U.S. Department of Agriculture, Service Center Agencies should be acknowledged as the data source in products derived from these data. This data set is not designed for use as a primary regulatory tool in permitting or citing decisions, but may be used as a reference source. This information may be interpreted by organizations, agencies, units of government, or others based on needs; however, they are responsible for the appropriate application. Federal, State, or local regulatory bodies are not to reassign to the Service Center Agencies any authority for the decisions that they make. The Service Center Agencies will not perform any evaluations of these data for purposes related solely to State or local regulatory programs. Photographic or digital enlargement of these data to scales greater than at which they were originally mapped can cause misinterpretation of the data. Digital data files are periodically updated, and users are responsible for obtaining the latest version of the data.\", \"Access Constraints: None.\"]"
+		"value": "["Use Constraints: The U.S. Department of Agriculture, Service Center Agencies should be acknowledged as the data source in products derived from these data. This data set is not designed for use as a primary regulatory tool in permitting or citing decisions, but may be used as a reference source. This information may be interpreted by organizations, agencies, units of government, or others based on needs; however, they are responsible for the appropriate application. Federal, State, or local regulatory bodies are not to reassign to the Service Center Agencies any authority for the decisions that they make. The Service Center Agencies will not perform any evaluations of these data for purposes related solely to State or local regulatory programs. Photographic or digital enlargement of these data to scales greater than at which they were originally mapped can cause misinterpretation of the data. Digital data files are periodically updated, and users are responsible for obtaining the latest version of the data.", "Access Constraints: None."]"
 	},
 	{
 		"key": "licence_url",
-		"value": "https:\/\/edg.epa.gov\/EPA_Data_License.htm\n"
+		"value": "https://edg.epa.gov/EPA_Data_License.htmn"
 	},
 	{
 		"key": "contact-email",
@@ -92,7 +92,7 @@
 	},
 	{
 		"key": "dataset-reference-date",
-		"value": "[{\"type\": \"publication\", \"value\": \"2009-02-04\"}]"
+		"value": "[{"type": "publication", "value": "2009-02-04"}]"
 	},
 	{
 		"key": "frequency-of-update",
@@ -100,7 +100,7 @@
 	},
 	{
 		"key": "licence",
-		"value": "[\"https:\/\/edg.epa.gov\/EPA_Data_License.htm\\n\"]"
+		"value": "["https://edg.epa.gov/EPA_Data_License.htm\n"]"
 	},
 	{
 		"key": "metadata_type",
@@ -108,7 +108,7 @@
 	},
 	{
 		"key": "responsible-party",
-		"value": "[{\"name\": \"U.S. Environmental Protection Agency, Region 2, GIS Team\", \"roles\": [\"pointOfContact\"]}]"
+		"value": "[{"name": "U.S. Environmental Protection Agency, Region 2, GIS Team", "roles": ["pointOfContact"]}]"
 	},
 	{
 		"key": "spatial-data-service-type",
@@ -150,7 +150,7 @@
 		"revision_timestamp": "2014-01-16T18:58:42.895981",
 		"is_organization": true,
 		"state": "active",
-		"image_url": "http:\/\/edg.epa.gov\/EPALogo.svg",
+		"image_url": "http://edg.epa.gov/EPALogo.svg",
 		"revision_id": "f0e4b475-7424-4ce0-9a22-412e7e595154",
 		"type": "organization",
 		"id": "6d90e48d-3076-4327-b2f4-c33919f374d5",

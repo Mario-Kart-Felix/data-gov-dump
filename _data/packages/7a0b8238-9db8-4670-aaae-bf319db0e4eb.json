@@ -37,7 +37,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2013-03-26T00:42:29.800854",
-		"url": "http:\/\/<http:\/\/nassgeodata.gmu.edu\/CropScape\/>",
+		"url": "http://<http://nassgeodata.gmu.edu/CropScape/>",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 0,
@@ -67,7 +67,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2013-03-26T00:42:29.800879",
-		"url": "http:\/\/cugir.mannlib.cornell.edu\/bucketinfo.jsp?id=8033",
+		"url": "http://cugir.mannlib.cornell.edu/bucketinfo.jsp?id=8033",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 1,
@@ -97,7 +97,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2013-03-26T00:42:29.800887",
-		"url": "http:\/\/<http:\/\/nassgeodata.gmu.edu\/CropScape\/>",
+		"url": "http://<http://nassgeodata.gmu.edu/CropScape/>",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 2,
@@ -117,7 +117,7 @@
 	"name": "usda-national-agricultural-statistics-service-2010-new-york-cropland-data-layer",
 	"isopen": false,
 	"url": null,
-	"notes": "The USDA, NASS Cropland Data Layer (CDL) is a raster, geo-referenced, crop-specific land cover data layer. The 2010 CDL has a ground resolution of 30 meters. The CDL is produced using satellite imagery from the Landsat 5 TM sensor, Landsat 7 ETM+ sensor, and the Indian Remote Sensing RESOURCESAT-1 (IRS-P6) Advanced Wide Field Sensor (AWiFS) collected during the current growing season. Some CDL states used additional satellite imagery and ancillary inputs to supplement and improve the classification. These additional sources can include the United States Geological Survey (USGS) National Elevation Dataset (NED), the USGS National Land Cover Dataset 2001 (NLCD 2001), and the National Aeronautics and Space Administration (NASA) Moderate Resolution Imaging Spectroradiometer (MODIS) 250 meter 16 day Normalized Difference Vegetation Index (NDVI) composites. Agricultural training and validation data are derived from the Farm Service Agency (FSA) Common Land Unit (CLU) Program. The NLCD 2001 is used as non-agricultural training and validation data. Please refer to the 'Supplemental_Information' Section of this metadata file for a complete list of all imagery, ancillary data, and training\/validation data used to generate this state's CDL. The strength and emphasis of the CDL is agricultural land cover. Please note that no farmer reported data are derivable from the Cropland Data Layer.",
+	"notes": "The USDA, NASS Cropland Data Layer (CDL) is a raster, geo-referenced, crop-specific land cover data layer. The 2010 CDL has a ground resolution of 30 meters. The CDL is produced using satellite imagery from the Landsat 5 TM sensor, Landsat 7 ETM+ sensor, and the Indian Remote Sensing RESOURCESAT-1 (IRS-P6) Advanced Wide Field Sensor (AWiFS) collected during the current growing season. Some CDL states used additional satellite imagery and ancillary inputs to supplement and improve the classification. These additional sources can include the United States Geological Survey (USGS) National Elevation Dataset (NED), the USGS National Land Cover Dataset 2001 (NLCD 2001), and the National Aeronautics and Space Administration (NASA) Moderate Resolution Imaging Spectroradiometer (MODIS) 250 meter 16 day Normalized Difference Vegetation Index (NDVI) composites. Agricultural training and validation data are derived from the Farm Service Agency (FSA) Common Land Unit (CLU) Program. The NLCD 2001 is used as non-agricultural training and validation data. Please refer to the 'Supplemental_Information' Section of this metadata file for a complete list of all imagery, ancillary data, and training/validation data used to generate this state's CDL. The strength and emphasis of the CDL is agricultural land cover. Please note that no farmer reported data are derivable from the Cropland Data Layer.",
 	"license_title": null,
 	"extras": [{
 		"key": "temporal-extent-begin",
@@ -145,7 +145,7 @@
 	},
 	{
 		"key": "dataset-reference-date",
-		"value": "[{\"type\": \"publication\", \"value\": \"2011-01-10\"}]"
+		"value": "[{"type": "publication", "value": "2011-01-10"}]"
 	},
 	{
 		"key": "resource-type",
@@ -173,7 +173,7 @@
 	},
 	{
 		"key": "licence",
-		"value": "[\"Disclaimer: Users of the Cropland Data Layer (CDL) are solely responsible for interpretations made from these products. The CDL is provided 'as is' and the USDA, NASS does not warrant results you may obtain using the Cropland Data Layer. Contact our staff at (HQ_RDD_GIB@nass.usda.gov) if technical questions arise in the use of the CDL. NASS does maintain a Frequently Asked Questions (FAQ's) section on the CDL website at <http:\/\/www.nass.usda.gov\/research\/Cropland\/SARS1a.htm>. Cornell University provides these geographic data \\\"as is.\\\"\\n            Cornell University makes no guarantee or warranty concerning the\\n            accuracy of information contained in the geographic data. Cornell\\n            University further makes no warranty either expressed or implied,\\n            regarding the condition of the product or its fitness for any\\n            particular purpose. The burden for determining fitness for use lies\\n            entirely with the user. Although these files have been processed\\n            successfully on computers at Cornell University, no warranty is made\\n            by Cornell University regarding the use of these data on any other\\n            system, nor does the fact of distribution constitute or imply any\\n            such warranty.\"]"
+		"value": "["Disclaimer: Users of the Cropland Data Layer (CDL) are solely responsible for interpretations made from these products. The CDL is provided 'as is' and the USDA, NASS does not warrant results you may obtain using the Cropland Data Layer. Contact our staff at (HQ_RDD_GIB@nass.usda.gov) if technical questions arise in the use of the CDL. NASS does maintain a Frequently Asked Questions (FAQ's) section on the CDL website at <http://www.nass.usda.gov/research/Cropland/SARS1a.htm>. Cornell University provides these geographic data \"as is.\"\n            Cornell University makes no guarantee or warranty concerning the\n            accuracy of information contained in the geographic data. Cornell\n            University further makes no warranty either expressed or implied,\n            regarding the condition of the product or its fitness for any\n            particular purpose. The burden for determining fitness for use lies\n            entirely with the user. Although these files have been processed\n            successfully on computers at Cornell University, no warranty is made\n            by Cornell University regarding the use of these data on any other\n            system, nor does the fact of distribution constitute or imply any\n            such warranty."]"
 	},
 	{
 		"key": "metadata_type",
@@ -181,11 +181,11 @@
 	},
 	{
 		"key": "responsible-party",
-		"value": "[{\"name\": \"USDA, NASS, Spatial Analysis Research Section\", \"roles\": [\"pointOfContact\"]}]"
+		"value": "[{"name": "USDA, NASS, Spatial Analysis Research Section", "roles": ["pointOfContact"]}]"
 	},
 	{
 		"key": "spatial",
-		"value": "{\"type\": \"Polygon\", \"coordinates\": [[[-79.9963, 40.4565], [-79.9963, 44.9132], [-71.8852, 44.9132], [-71.8852, 40.4565], [-79.9963, 40.4565]]]}"
+		"value": "{"type": "Polygon", "coordinates": [[[-79.9963, 40.4565], [-79.9963, 44.9132], [-71.8852, 44.9132], [-71.8852, 40.4565], [-79.9963, 40.4565]]]}"
 	},
 	{
 		"key": "guid",
@@ -197,7 +197,7 @@
 	},
 	{
 		"key": "access_constraints",
-		"value": "[\"Use Constraints: The USDA, NASS Cropland Data Layer is provided to the public as is and is considered public domain and free to redistribute. The USDA, NASS does not warrant any conclusions drawn from these data. If the user does not have software capable of viewing GEOTIF (.tif) file formats then we suggest using the Cropscape website <http:\/\/nassgeodata.gmu.edu\/CropScape\/> or the freeware browser ESRI ArcGIS Explorer <http:\/\/www.esri.com\/>.\", \"Access Constraints: None\"]"
+		"value": "["Use Constraints: The USDA, NASS Cropland Data Layer is provided to the public as is and is considered public domain and free to redistribute. The USDA, NASS does not warrant any conclusions drawn from these data. If the user does not have software capable of viewing GEOTIF (.tif) file formats then we suggest using the Cropscape website <http://nassgeodata.gmu.edu/CropScape/> or the freeware browser ESRI ArcGIS Explorer <http://www.esri.com/>.", "Access Constraints: None"]"
 	},
 	{
 		"key": "frequency-of-update",
@@ -205,7 +205,7 @@
 	},
 	{
 		"package_id": "7a0b8238-9db8-4670-aaae-bf319db0e4eb",
-		"value": "farming, 001, environment, 007, imageryBaseMapsEarthCover, 010, Earth Science > Biosphere > Terrestrial Ecosystems > Agricultural Lands, Earth Science > Land Surface > Land Use\/Land Cover > Land Cover, MODIS > Moderate-Resolution Imaging Spectroradiometer, MODIS > Moderate-Resolution Imaging Spectroradiometer, crop cover, cropland, agriculture, land cover, crop estimates, AWiFS, MODIS, Landsat, Cropscape",
+		"value": "farming, 001, environment, 007, imageryBaseMapsEarthCover, 010, Earth Science > Biosphere > Terrestrial Ecosystems > Agricultural Lands, Earth Science > Land Surface > Land Use/Land Cover > Land Cover, MODIS > Moderate-Resolution Imaging Spectroradiometer, MODIS > Moderate-Resolution Imaging Spectroradiometer, crop cover, cropland, agriculture, land cover, crop estimates, AWiFS, MODIS, Landsat, Cropscape",
 		"revision_timestamp": "2013-05-17T00:00:00",
 		"state": "active",
 		"key": "tags",
@@ -235,7 +235,7 @@
 		"revision_timestamp": "2013-03-25T16:20:43.179153",
 		"is_organization": true,
 		"state": "active",
-		"image_url": "https:\/\/encrypted-tbn0.gstatic.com\/images?q=tbn:ANd9GcSSUlT4KL5Yu0Z4wxvwH6W1RomS6KRl7Cat3zfx4j2MbexEoofWuiXi61-3",
+		"image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSSUlT4KL5Yu0Z4wxvwH6W1RomS6KRl7Cat3zfx4j2MbexEoofWuiXi61-3",
 		"revision_id": "cecc899c-71b7-4197-ab17-e7aa41978b20",
 		"type": "organization",
 		"id": "dd3a2a7c-e157-40d6-af0d-fe0a5a0ed064",

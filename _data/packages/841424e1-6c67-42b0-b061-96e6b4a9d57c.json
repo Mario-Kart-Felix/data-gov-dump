@@ -36,7 +36,7 @@
 		"cache_url": null,
 		"name": "Data Subset Form",
 		"created": "2016-10-19T19:17:03.116705",
-		"url": "http:\/\/coastwatch.pfeg.noaa.gov\/erddap\/tabledap\/ndbcSosWTemp.html",
+		"url": "http://coastwatch.pfeg.noaa.gov/erddap/tabledap/ndbcSosWTemp.html",
 		"webstore_url": null,
 		"resource_locator_function": "download",
 		"position": 0,
@@ -65,7 +65,7 @@
 		"cache_url": null,
 		"name": "Make-A-Graph Form",
 		"created": "2016-10-19T19:17:03.116745",
-		"url": "http:\/\/coastwatch.pfeg.noaa.gov\/erddap\/tabledap\/ndbcSosWTemp.graph",
+		"url": "http://coastwatch.pfeg.noaa.gov/erddap/tabledap/ndbcSosWTemp.graph",
 		"webstore_url": null,
 		"resource_locator_function": "mapDigital",
 		"position": 1,
@@ -94,7 +94,7 @@
 		"cache_url": null,
 		"name": "Background Information",
 		"created": "2016-10-19T19:17:03.116754",
-		"url": "http:\/\/sdf.ndbc.noaa.gov\/sos\/",
+		"url": "http://sdf.ndbc.noaa.gov/sos/",
 		"webstore_url": null,
 		"resource_locator_function": "information",
 		"position": 2,
@@ -123,7 +123,7 @@
 		"cache_url": null,
 		"name": "Background Information",
 		"created": "2016-10-19T19:17:03.116761",
-		"url": "http:\/\/sdf.ndbc.noaa.gov\/sos\/",
+		"url": "http://sdf.ndbc.noaa.gov/sos/",
 		"webstore_url": null,
 		"resource_locator_function": "information",
 		"position": 3,
@@ -152,7 +152,7 @@
 		"cache_url": null,
 		"name": "Background Information",
 		"created": "2016-10-19T19:17:03.116768",
-		"url": "http:\/\/sdf.ndbc.noaa.gov\/sos\/",
+		"url": "http://sdf.ndbc.noaa.gov/sos/",
 		"webstore_url": null,
 		"resource_locator_function": "information",
 		"position": 4,
@@ -181,7 +181,7 @@
 		"cache_url": null,
 		"name": "ERDDAP-tabledap",
 		"created": "2016-10-19T19:17:03.116775",
-		"url": "http:\/\/coastwatch.pfeg.noaa.gov\/erddap\/tabledap\/ndbcSosWTemp",
+		"url": "http://coastwatch.pfeg.noaa.gov/erddap/tabledap/ndbcSosWTemp",
 		"webstore_url": null,
 		"resource_locator_function": "download",
 		"position": 5,
@@ -210,7 +210,7 @@
 		"cache_url": null,
 		"name": "Background Information",
 		"created": "2016-10-19T19:17:03.116782",
-		"url": "http:\/\/sdf.ndbc.noaa.gov\/sos\/",
+		"url": "http://sdf.ndbc.noaa.gov/sos/",
 		"webstore_url": null,
 		"resource_locator_function": "information",
 		"position": 6,
@@ -239,7 +239,7 @@
 		"cache_url": null,
 		"name": "OPeNDAP",
 		"created": "2016-10-19T19:17:03.116795",
-		"url": "http:\/\/coastwatch.pfeg.noaa.gov\/erddap\/tabledap\/ndbcSosWTemp",
+		"url": "http://coastwatch.pfeg.noaa.gov/erddap/tabledap/ndbcSosWTemp",
 		"webstore_url": null,
 		"resource_locator_function": "download",
 		"position": 7,
@@ -268,7 +268,7 @@
 		"cache_url": null,
 		"name": "Background Information",
 		"created": "2016-10-19T19:17:03.116814",
-		"url": "http:\/\/sdf.ndbc.noaa.gov\/sos\/",
+		"url": "http://sdf.ndbc.noaa.gov/sos/",
 		"webstore_url": null,
 		"resource_locator_function": "information",
 		"position": 8,
@@ -297,7 +297,7 @@
 		"cache_url": null,
 		"name": "Subset",
 		"created": "2016-10-19T19:17:03.116833",
-		"url": "http:\/\/coastwatch.pfeg.noaa.gov\/erddap\/tabledap\/ndbcSosWTemp.subset",
+		"url": "http://coastwatch.pfeg.noaa.gov/erddap/tabledap/ndbcSosWTemp.subset",
 		"webstore_url": null,
 		"resource_locator_function": "download",
 		"position": 9,
@@ -317,7 +317,7 @@
 	"name": "noaa-ndbc-sos-sea-water-temperature",
 	"isopen": false,
 	"url": null,
-	"notes": "The NOAA NDBC SOS server is part of the IOOS DIF SOS Project.  The stations in this dataset have sea_water_temperature data.\n\nBecause of the nature of SOS requests, requests for data MUST include constraints for the longitude, latitude, time, and\/or station_id variables.",
+	"notes": "The NOAA NDBC SOS server is part of the IOOS DIF SOS Project.  The stations in this dataset have sea_water_temperature data.nnBecause of the nature of SOS requests, requests for data MUST include constraints for the longitude, latitude, time, and/or station_id variables.",
 	"license_title": null,
 	"extras": [{
 		"key": "bbox-east-long",
@@ -333,7 +333,7 @@
 	},
 	{
 		"key": "coupled-resource",
-		"value": "[{\"href\": [\"#DataIdentification\"], \"uuid\": [], \"title\": []}, {\"href\": [\"#DataIdentification\"], \"uuid\": [], \"title\": []}, {\"href\": [\"#DataIdentification\"], \"uuid\": [], \"title\": []}]"
+		"value": "[{"href": ["#DataIdentification"], "uuid": [], "title": []}, {"href": ["#DataIdentification"], "uuid": [], "title": []}, {"href": ["#DataIdentification"], "uuid": [], "title": []}]"
 	},
 	{
 		"key": "guid",
@@ -353,7 +353,7 @@
 	},
 	{
 		"key": "spatial",
-		"value": "{\"type\": \"Polygon\", \"coordinates\": [[[-178.343, -14.551], [180.0, -14.551], [180.0, 70.875], [-178.343, 70.875], [-178.343, -14.551]]]}"
+		"value": "{"type": "Polygon", "coordinates": [[[-178.343, -14.551], [180.0, -14.551], [180.0, 70.875], [-178.343, 70.875], [-178.343, -14.551]]]}"
 	},
 	{
 		"key": "progress",
@@ -381,7 +381,7 @@
 	},
 	{
 		"key": "dataset-reference-date",
-		"value": "[{\"type\": \"creation\", \"value\": \"2016-10-12\"}]"
+		"value": "[{"type": "creation", "value": "2016-10-12"}]"
 	},
 	{
 		"key": "frequency-of-update",
@@ -397,7 +397,7 @@
 	},
 	{
 		"key": "responsible-party",
-		"value": "[{\"name\": \"NOAA NDBC\", \"roles\": [\"pointOfContact\"]}]"
+		"value": "[{"name": "NOAA NDBC", "roles": ["pointOfContact"]}]"
 	},
 	{
 		"key": "spatial-data-service-type",
@@ -439,7 +439,7 @@
 		"revision_timestamp": "2013-03-25T23:05:12.923863",
 		"is_organization": true,
 		"state": "active",
-		"image_url": "https:\/\/fortress.wa.gov\/dfw\/score\/score\/images\/noaa_logo.png",
+		"image_url": "https://fortress.wa.gov/dfw/score/score/images/noaa_logo.png",
 		"revision_id": "c6d43080-22e1-405e-a83d-f2a512d9e867",
 		"type": "organization",
 		"id": "e811f0b4-451f-4896-9e8f-fc6802837819",

@@ -37,7 +37,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2015-09-26T22:09:10.329086",
-		"url": "ftp:\/\/sidads.colorado.edu\/pub\/DATASETS\/NOAA\/G01375\/",
+		"url": "ftp://sidads.colorado.edu/pub/DATASETS/NOAA/G01375/",
 		"webstore_url": null,
 		"resource_locator_function": "function",
 		"position": 0,
@@ -67,7 +67,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2015-09-26T22:09:10.329130",
-		"url": "http:\/\/nsidc.org\/data\/docs\/noaa\/g01375_west_greenland_glacier\/index.html",
+		"url": "http://nsidc.org/data/docs/noaa/g01375_west_greenland_glacier/index.html",
 		"webstore_url": null,
 		"resource_locator_function": "function",
 		"position": 1,
@@ -85,7 +85,7 @@
 		"last_modified": null,
 		"hash": "",
 		"description": "",
-		"format": "application\/vnd.lotus-organizer",
+		"format": "application/vnd.lotus-organizer",
 		"tracking_summary": {
 			"total": 85,
 			"recent": 4
@@ -97,7 +97,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2015-09-26T22:09:10.329153",
-		"url": "http:\/\/nsidc.org",
+		"url": "http://nsidc.org",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 2,
@@ -127,7 +127,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2015-09-26T22:09:10.329175",
-		"url": "http:\/\/nsidc.org\/noaa\/",
+		"url": "http://nsidc.org/noaa/",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 3,
@@ -145,7 +145,7 @@
 		"last_modified": null,
 		"hash": "",
 		"description": "",
-		"format": "application\/vnd.lotus-organizer",
+		"format": "application/vnd.lotus-organizer",
 		"tracking_summary": {
 			"total": 85,
 			"recent": 4
@@ -157,7 +157,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2015-09-26T22:09:10.329197",
-		"url": "http:\/\/nsidc.org",
+		"url": "http://nsidc.org",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 4,
@@ -177,7 +177,7 @@
 	"name": "glacier-inventory-of-west-greenland",
 	"isopen": false,
 	"url": null,
-	"notes": "\nThe inventory includes 5,297 Glaciers from west Greenland between 59 to 71 degrees latitude north and 43 to 53 degrees longitude west. The glacier data basin division is based on a simplified version of the World Glacier Monitoring Service (WGMS) system.  Data are based on 1:250000 maps, Landsat imagery, and aerial photos that were taken between 1948 and 1985.\n",
+	"notes": "nThe inventory includes 5,297 Glaciers from west Greenland between 59 to 71 degrees latitude north and 43 to 53 degrees longitude west. The glacier data basin division is based on a simplified version of the World Glacier Monitoring Service (WGMS) system.  Data are based on 1:250000 maps, Landsat imagery, and aerial photos that were taken between 1948 and 1985.n",
 	"license_title": null,
 	"extras": [{
 		"key": "bbox-east-long",
@@ -213,7 +213,7 @@
 	},
 	{
 		"key": "spatial",
-		"value": "{\"type\": \"Polygon\", \"coordinates\": [[[-53.0, 59.0], [-43.0, 59.0], [-43.0, 71.0], [-53.0, 71.0], [-53.0, 59.0]]]}"
+		"value": "{"type": "Polygon", "coordinates": [[[-53.0, 59.0], [-43.0, 59.0], [-43.0, 71.0], [-53.0, 71.0], [-53.0, 59.0]]]}"
 	},
 	{
 		"key": "progress",
@@ -221,7 +221,7 @@
 	},
 	{
 		"key": "access_constraints",
-		"value": "[\"Access Constraints : none\", \"Use Constraints : none\"]"
+		"value": "["Access Constraints : none", "Use Constraints : none"]"
 	},
 	{
 		"key": "temporal-extent-begin",
@@ -241,7 +241,7 @@
 	},
 	{
 		"key": "dataset-reference-date",
-		"value": "[{\"type\": \"publication\", \"value\": \"1992-01-01\"}]"
+		"value": "[{"type": "publication", "value": "1992-01-01"}]"
 	},
 	{
 		"key": "frequency-of-update",
@@ -257,7 +257,7 @@
 	},
 	{
 		"key": "responsible-party",
-		"value": "[{\"name\": \"\", \"roles\": [\"principalInvestigator\"]}, {\"name\": \"National Snow and Ice Data Center\", \"roles\": [\"pointOfContact\"]}]"
+		"value": "[{"name": "", "roles": ["principalInvestigator"]}, {"name": "National Snow and Ice Data Center", "roles": ["pointOfContact"]}]"
 	},
 	{
 		"key": "temporal-extent-end",
@@ -273,7 +273,7 @@
 	},
 	{
 		"package_id": "f11e616e-4f59-4eb9-a04b-d849e4dfa1ba",
-		"value": "nsidc, glaciers\/ice sheets, cryosphere, greenland, terrestrial hydrosphere, noaa, north america, inventory, glaciers, g01375, continent, earth science",
+		"value": "nsidc, glaciers/ice sheets, cryosphere, greenland, terrestrial hydrosphere, noaa, north america, inventory, glaciers, g01375, continent, earth science",
 		"revision_timestamp": "2015-09-27T02:09:10.232039",
 		"state": "active",
 		"key": "tags",
@@ -303,7 +303,7 @@
 		"revision_timestamp": "2013-03-25T23:05:12.923863",
 		"is_organization": true,
 		"state": "active",
-		"image_url": "https:\/\/fortress.wa.gov\/dfw\/score\/score\/images\/noaa_logo.png",
+		"image_url": "https://fortress.wa.gov/dfw/score/score/images/noaa_logo.png",
 		"revision_id": "c6d43080-22e1-405e-a83d-f2a512d9e867",
 		"type": "organization",
 		"id": "e811f0b4-451f-4896-9e8f-fc6802837819",

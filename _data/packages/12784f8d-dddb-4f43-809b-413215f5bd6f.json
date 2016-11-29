@@ -37,7 +37,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2016-04-01T19:54:41.913017",
-		"url": "https:\/\/edg.epa.gov\/data\/PUBLIC\/ORD\/ENVIROATLAS\/Communities\/MilwaukeeWI",
+		"url": "https://edg.epa.gov/data/PUBLIC/ORD/ENVIROATLAS/Communities/MilwaukeeWI",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 0,
@@ -67,7 +67,7 @@
 		"cache_url": null,
 		"name": "Esri Rest API Endpoint",
 		"created": "2016-04-01T19:54:41.913039",
-		"url": "https:\/\/enviroatlas.epa.gov\/arcgis\/rest\/services\/Supplemental\/ESC_MWI_Landcover\/MapServer",
+		"url": "https://enviroatlas.epa.gov/arcgis/rest/services/Supplemental/ESC_MWI_Landcover/MapServer",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 1,
@@ -97,7 +97,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2016-04-01T19:54:41.913047",
-		"url": "https:\/\/www.epa.gov\/enviroatlas\/enviroatlas-data",
+		"url": "https://www.epa.gov/enviroatlas/enviroatlas-data",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 2,
@@ -127,7 +127,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2016-04-01T19:54:41.913055",
-		"url": "https:\/\/www.epa.gov\/enviroatlas",
+		"url": "https://www.epa.gov/enviroatlas",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 3,
@@ -147,7 +147,7 @@
 	"name": "enviroatlas-milwaukee-wi-one-meter-resolution-urban-land-cover-data-2010d98e1",
 	"isopen": false,
 	"url": null,
-	"notes": "The EnviroAtlas Milwaukee, WI land cover data and map were generated from USDA NAIP (National Agricultural Imagery Program) four band (red, green, blue and near infrared) aerial photography from Late Summer 2010 at 1 m spatial resolution. Nine land cover classes were mapped: water, impervious surfaces (dark and light), soil and barren land, trees and forest, grass and herbaceous non-woody vegetation, agriculture, and wetlands (woody and emergent). An accuracy assessment using a completely random sampling of 600 samples yielded an overall accuracy of 85.39% percent using a minimum mapping unit of 9 pixels (3x3 pixel window). The area mapped is defined by the US Census Bureau's 2010 Urban Statistical Area for Milwaukee. This dataset was produced by the US EPA to support research and online mapping activities related to EnviroAtlas. EnviroAtlas (https:\/\/www.epa.gov\/enviroatlas) allows the user to interact with a web-based, easy-to-use, mapping application to view and analyze multiple ecosystem services for the contiguous United States. The dataset is available as downloadable data (https:\/\/edg.epa.gov\/data\/Public\/ORD\/EnviroAtlas) or as an EnviroAtlas map service. Additional descriptive information about each attribute in this dataset can be found in its associated EnviroAtlas Fact Sheet (https:\/\/www.epa.gov\/enviroatlas\/enviroatlas-fact-sheets).",
+	"notes": "The EnviroAtlas Milwaukee, WI land cover data and map were generated from USDA NAIP (National Agricultural Imagery Program) four band (red, green, blue and near infrared) aerial photography from Late Summer 2010 at 1 m spatial resolution. Nine land cover classes were mapped: water, impervious surfaces (dark and light), soil and barren land, trees and forest, grass and herbaceous non-woody vegetation, agriculture, and wetlands (woody and emergent). An accuracy assessment using a completely random sampling of 600 samples yielded an overall accuracy of 85.39% percent using a minimum mapping unit of 9 pixels (3x3 pixel window). The area mapped is defined by the US Census Bureau's 2010 Urban Statistical Area for Milwaukee. This dataset was produced by the US EPA to support research and online mapping activities related to EnviroAtlas. EnviroAtlas (https://www.epa.gov/enviroatlas) allows the user to interact with a web-based, easy-to-use, mapping application to view and analyze multiple ecosystem services for the contiguous United States. The dataset is available as downloadable data (https://edg.epa.gov/data/Public/ORD/EnviroAtlas) or as an EnviroAtlas map service. Additional descriptive information about each attribute in this dataset can be found in its associated EnviroAtlas Fact Sheet (https://www.epa.gov/enviroatlas/enviroatlas-fact-sheets).",
 	"license_title": null,
 	"extras": [{
 		"key": "bbox-east-long",
@@ -183,7 +183,7 @@
 	},
 	{
 		"key": "spatial",
-		"value": "{\"type\": \"Polygon\", \"coordinates\": [[[-88.54936, 42.84283], [-87.79614, 42.84283], [-87.79614, 43.44913], [-88.54936, 43.44913], [-88.54936, 42.84283]]]}"
+		"value": "{"type": "Polygon", "coordinates": [[[-88.54936, 42.84283], [-87.79614, 42.84283], [-87.79614, 43.44913], [-88.54936, 43.44913], [-88.54936, 42.84283]]]}"
 	},
 	{
 		"key": "progress",
@@ -191,11 +191,11 @@
 	},
 	{
 		"key": "access_constraints",
-		"value": "[\"Use Constraints: None. Please check sources, scale, accuracy, currentness and other available information. Please confirm that you are using the most recent copy of both data and metadata. Acknowledgement of the EPA would be appreciated.\", \"Access Constraints: None.\"]"
+		"value": "["Use Constraints: None. Please check sources, scale, accuracy, currentness and other available information. Please confirm that you are using the most recent copy of both data and metadata. Acknowledgement of the EPA would be appreciated.", "Access Constraints: None."]"
 	},
 	{
 		"key": "licence_url",
-		"value": "https:\/\/edg.epa.gov\/EPA_Data_License.htm"
+		"value": "https://edg.epa.gov/EPA_Data_License.htm"
 	},
 	{
 		"key": "contact-email",
@@ -211,7 +211,7 @@
 	},
 	{
 		"key": "dataset-reference-date",
-		"value": "[{\"type\": \"publication\", \"value\": \"2013-11-15\"}]"
+		"value": "[{"type": "publication", "value": "2013-11-15"}]"
 	},
 	{
 		"key": "frequency-of-update",
@@ -219,7 +219,7 @@
 	},
 	{
 		"key": "licence",
-		"value": "[\"https:\/\/edg.epa.gov\/EPA_Data_License.htm\"]"
+		"value": "["https://edg.epa.gov/EPA_Data_License.htm"]"
 	},
 	{
 		"key": "metadata_type",
@@ -227,7 +227,7 @@
 	},
 	{
 		"key": "responsible-party",
-		"value": "[{\"name\": \"US Environmental Protection Agency, Research Triangle Park\", \"roles\": [\"pointOfContact\"]}]"
+		"value": "[{"name": "US Environmental Protection Agency, Research Triangle Park", "roles": ["pointOfContact"]}]"
 	},
 	{
 		"key": "spatial-data-service-type",
@@ -269,7 +269,7 @@
 		"revision_timestamp": "2014-01-16T18:58:42.895981",
 		"is_organization": true,
 		"state": "active",
-		"image_url": "http:\/\/edg.epa.gov\/EPALogo.svg",
+		"image_url": "http://edg.epa.gov/EPALogo.svg",
 		"revision_id": "f0e4b475-7424-4ce0-9a22-412e7e595154",
 		"type": "organization",
 		"id": "6d90e48d-3076-4327-b2f4-c33919f374d5",

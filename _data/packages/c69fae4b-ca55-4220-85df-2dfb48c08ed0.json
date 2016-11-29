@@ -37,7 +37,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2015-12-20T13:47:30.639837",
-		"url": "http:\/\/ccma.nos.noaa.gov\/products\/biogeography\/welcome.html",
+		"url": "http://ccma.nos.noaa.gov/products/biogeography/welcome.html",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 0,
@@ -67,7 +67,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2015-12-20T13:47:30.639859",
-		"url": "http:\/\/ccma.nos.noaa.gov\/products\/biogeography\/lidar_pr\/welcome.html",
+		"url": "http://ccma.nos.noaa.gov/products/biogeography/lidar_pr/welcome.html",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 1,
@@ -89,7 +89,7 @@
 		"revision_timestamp": "2013-03-25T23:05:12.923863",
 		"is_organization": true,
 		"state": "active",
-		"image_url": "https:\/\/fortress.wa.gov\/dfw\/score\/score\/images\/noaa_logo.png",
+		"image_url": "https://fortress.wa.gov/dfw/score/score/images/noaa_logo.png",
 		"revision_id": "c6d43080-22e1-405e-a83d-f2a512d9e867",
 		"type": "organization",
 		"id": "e811f0b4-451f-4896-9e8f-fc6802837819",
@@ -100,11 +100,11 @@
 	"name": "noaa-geotiff-5-meter-lidar-reflectivity-u-s-caribbean-puerto-rico-southwest-projects-opr-i30a7ee9",
 	"isopen": false,
 	"url": null,
-	"notes": "This image represents a LiDAR (Light Detection & Ranging) intensity mosaic (mean 5 meter gridded) from the shoreline of southwestern Puerto Rico to about 50 meters in depth. Reflectivity was calculated for each sounding as the ratio of returned energy to transmitted energy, normalized for losses in a single wavelength (green\/blue 532nm). The numerical values for the relative reflectivity are scaled logarithmically to an 8-bit integer range 0 - 255The Tenix LADS Corporation (TLI) acquired bathymetric LIDAR for NOAA from 4\/07\/2006 to 5\/15\/2006. Data was acquired with a LADS (Laser Airborne Depth Sounder) Mk II Airborne System from altitudes between 1,200 and 2,200ft at ground speeds between 140 and 175 knots. The 900 Hertz Nd: YAG (neodymium-doped yttrium aluminum garnet) laser (1064 nm) acquired 4x4 meter spot spacing and 200% seabed coverage. In total, 265 square nautical miles of LiDAR were collected between -50 m (topographic) and up to 70 m (depth), requiring a total of 102 flight hours (134 hours, including flight time to and from San Juan airport). Environmental factors such as wind strength and direction, cloud cover, and water clarity influenced the area of data acquisition on a daily basis. The data was processed using the LADS Mk II Ground System and data visualization, quality control and final products were created using CARIS HIPS and SIPS 6.1 and CARIS BASE Editor 2.1 The project was conducted to meet the IHO (International Hydrograph Organization) Order 1 accuracy standards, dependant on the project area and depth. All users should individually evaluate the suitability of this data according to their own needs and standards.",
+	"notes": "This image represents a LiDAR (Light Detection & Ranging) intensity mosaic (mean 5 meter gridded) from the shoreline of southwestern Puerto Rico to about 50 meters in depth. Reflectivity was calculated for each sounding as the ratio of returned energy to transmitted energy, normalized for losses in a single wavelength (green/blue 532nm). The numerical values for the relative reflectivity are scaled logarithmically to an 8-bit integer range 0 - 255The Tenix LADS Corporation (TLI) acquired bathymetric LIDAR for NOAA from 4/07/2006 to 5/15/2006. Data was acquired with a LADS (Laser Airborne Depth Sounder) Mk II Airborne System from altitudes between 1,200 and 2,200ft at ground speeds between 140 and 175 knots. The 900 Hertz Nd: YAG (neodymium-doped yttrium aluminum garnet) laser (1064 nm) acquired 4x4 meter spot spacing and 200% seabed coverage. In total, 265 square nautical miles of LiDAR were collected between -50 m (topographic) and up to 70 m (depth), requiring a total of 102 flight hours (134 hours, including flight time to and from San Juan airport). Environmental factors such as wind strength and direction, cloud cover, and water clarity influenced the area of data acquisition on a daily basis. The data was processed using the LADS Mk II Ground System and data visualization, quality control and final products were created using CARIS HIPS and SIPS 6.1 and CARIS BASE Editor 2.1 The project was conducted to meet the IHO (International Hydrograph Organization) Order 1 accuracy standards, dependant on the project area and depth. All users should individually evaluate the suitability of this data according to their own needs and standards.",
 	"owner_org": "e811f0b4-451f-4896-9e8f-fc6802837819",
 	"extras": [{
 		"key": "bbox-east-long",
-		"value": "-66.938870\n"
+		"value": "-66.938870n"
 	},
 	{
 		"key": "resource-type",
@@ -112,7 +112,7 @@
 	},
 	{
 		"key": "bbox-north-lat",
-		"value": "18.192720\n"
+		"value": "18.192720n"
 	},
 	{
 		"key": "coupled-resource",
@@ -128,7 +128,7 @@
 	},
 	{
 		"key": "bbox-south-lat",
-		"value": "17.857964\n"
+		"value": "17.857964n"
 	},
 	{
 		"key": "spatial-reference-system",
@@ -136,7 +136,7 @@
 	},
 	{
 		"key": "spatial",
-		"value": "{\"type\": \"Polygon\", \"coordinates\": [[[-67.439646, 17.857964], [-66.93887, 17.857964], [-66.93887, 18.19272], [-67.439646, 18.19272], [-67.439646, 17.857964]]]}"
+		"value": "{"type": "Polygon", "coordinates": [[[-67.439646, 17.857964], [-66.93887, 17.857964], [-66.93887, 18.19272], [-67.439646, 18.19272], [-67.439646, 17.857964]]]}"
 	},
 	{
 		"key": "progress",
@@ -144,7 +144,7 @@
 	},
 	{
 		"key": "access_constraints",
-		"value": "[\"Use Constraints: These data were prepared by an agency of the United States Government. Neither the United States Government nor any agency thereof, nor any of their employees, make any warranty, expressed or implied, or assumes any legal liability or responsibility for the accuracy, completeness, or usefulness of any information, apparatus, product, or process disclosed in this report, or represents that its use would not infringe privately owned rights. Reference therein to any specific commercial product, process, or service by trade name, trademark, manufacturer, or otherwise does not necessarily constitute or imply its endorsement, recommendation, or favoring by the United States Government or any agency thereof. Any views and opinions of authors expressed herein do not necessarily state or reflect those of the United States Government or any agency thereof. Although all data have been used by NOAA, no warranty, expressed or implied, is made by NOAA as to the accuracy of the data and\/or related materials. The act of distribution shall not constitute any such warranty, and no responsibility is assumed by NOAA in the use of these data or related materials.\", \"Access Constraints: Please cite any use of this data.\"]"
+		"value": "["Use Constraints: These data were prepared by an agency of the United States Government. Neither the United States Government nor any agency thereof, nor any of their employees, make any warranty, expressed or implied, or assumes any legal liability or responsibility for the accuracy, completeness, or usefulness of any information, apparatus, product, or process disclosed in this report, or represents that its use would not infringe privately owned rights. Reference therein to any specific commercial product, process, or service by trade name, trademark, manufacturer, or otherwise does not necessarily constitute or imply its endorsement, recommendation, or favoring by the United States Government or any agency thereof. Any views and opinions of authors expressed herein do not necessarily state or reflect those of the United States Government or any agency thereof. Although all data have been used by NOAA, no warranty, expressed or implied, is made by NOAA as to the accuracy of the data and/or related materials. The act of distribution shall not constitute any such warranty, and no responsibility is assumed by NOAA in the use of these data or related materials.", "Access Constraints: Please cite any use of this data."]"
 	},
 	{
 		"key": "temporal-extent-begin",
@@ -156,7 +156,7 @@
 	},
 	{
 		"key": "bbox-west-long",
-		"value": "-67.439646\n"
+		"value": "-67.439646n"
 	},
 	{
 		"key": "metadata-date",
@@ -164,7 +164,7 @@
 	},
 	{
 		"key": "dataset-reference-date",
-		"value": "[{\"type\": \"publication\", \"value\": \"2007-11-01\"}]"
+		"value": "[{"type": "publication", "value": "2007-11-01"}]"
 	},
 	{
 		"key": "frequency-of-update",
@@ -172,7 +172,7 @@
 	},
 	{
 		"key": "licence",
-		"value": "[\"These data were prepared by an agency of the United States Government. Neither the United States Government nor any agency thereof, nor any of their employees, make any warranty, expressed or implied, or assumes any legal liability or responsibility for the accuracy, completeness, or usefulness of any information, apparatus, product, or process disclosed in this report, or represents that its use would not infringe privately owned rights. Reference therein to any specific commercial product, process, or service by trade name, trademark, manufacturer, or otherwise does not necessarily constitute or imply its endorsement, recommendation, or favoring by the United States Government or any agency thereof. Any views and opinions of authors expressed herein do not necessarily state or reflect those of the United States Government or any agency thereof. Although all data have been used by NOAA, no warranty, expressed or implied, is made by NOAA as to the accuracy of the data and\/or related materials. The act of distribution shall not constitute any such warranty, and no responsibility is assumed by NOAA in the use of these data or related materials.\\n\"]"
+		"value": "["These data were prepared by an agency of the United States Government. Neither the United States Government nor any agency thereof, nor any of their employees, make any warranty, expressed or implied, or assumes any legal liability or responsibility for the accuracy, completeness, or usefulness of any information, apparatus, product, or process disclosed in this report, or represents that its use would not infringe privately owned rights. Reference therein to any specific commercial product, process, or service by trade name, trademark, manufacturer, or otherwise does not necessarily constitute or imply its endorsement, recommendation, or favoring by the United States Government or any agency thereof. Any views and opinions of authors expressed herein do not necessarily state or reflect those of the United States Government or any agency thereof. Although all data have been used by NOAA, no warranty, expressed or implied, is made by NOAA as to the accuracy of the data and/or related materials. The act of distribution shall not constitute any such warranty, and no responsibility is assumed by NOAA in the use of these data or related materials.\n"]"
 	},
 	{
 		"key": "metadata_type",
@@ -180,7 +180,7 @@
 	},
 	{
 		"key": "responsible-party",
-		"value": "[{\"name\": \"Department of Commerce (DOC), National Oceanic and Atmospheric Administration (NOAA), National Ocean Service (NOS), Center for Coastal Monitoring and Assessment (CCMA), Biogeography Branch\", \"roles\": [\"pointOfContact\"]}]"
+		"value": "[{"name": "Department of Commerce (DOC), National Oceanic and Atmospheric Administration (NOAA), National Ocean Service (NOS), Center for Coastal Monitoring and Assessment (CCMA), Biogeography Branch", "roles": ["pointOfContact"]}]"
 	},
 	{
 		"key": "temporal-extent-end",
@@ -196,7 +196,7 @@
 	},
 	{
 		"key": "tags",
-		"value": "biogeography, u.s. caribbean, habitat, aquatic habitat, noaa, intensity, reef habitat, benthic, earth science, gis, geographic information, reflectivity, lidar, iocm, puerto rico, integrated ocean and coastal mapping, lads mk ii, description, southwestern puerto rico, oceans, reef, bathymetry, seafloor, 2006, mosaic, raster, opr-i305-krl-06, biosphere, light, coral, bathymetry\/topography, backscatter, bathymetry\/seafloor topography",
+		"value": "biogeography, u.s. caribbean, habitat, aquatic habitat, noaa, intensity, reef habitat, benthic, earth science, gis, geographic information, reflectivity, lidar, iocm, puerto rico, integrated ocean and coastal mapping, lads mk ii, description, southwestern puerto rico, oceans, reef, bathymetry, seafloor, 2006, mosaic, raster, opr-i305-krl-06, biosphere, light, coral, bathymetry/topography, backscatter, bathymetry/seafloor topography",
 		"__extras": {
 			"revision_id": "0961025a-142d-4a04-b266-d710cd57cefb",
 			"package_id": "c69fae4b-ca55-4220-85df-2dfb48c08ed0"

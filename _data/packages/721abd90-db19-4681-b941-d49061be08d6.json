@@ -36,7 +36,7 @@
 		"cache_url": null,
 		"name": "NOAA National Hurricane Center Home Page",
 		"created": "2016-05-30T21:09:01.558558",
-		"url": "http:\/\/www.nhc.noaa.gov\/",
+		"url": "http://www.nhc.noaa.gov/",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 0,
@@ -65,7 +65,7 @@
 		"cache_url": null,
 		"name": "Global WMS service endpoint for the Prototype NOAA OGC Shared Hosting System",
 		"created": "2016-05-30T21:09:01.558593",
-		"url": "http:\/\/services.ogc.noaa.gov\/geoserver\/wms?request=getcapabilities",
+		"url": "http://services.ogc.noaa.gov/geoserver/wms?request=getcapabilities",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 1,
@@ -74,7 +74,7 @@
 	}],
 	"num_resources": 2,
 	"tags": [],
-	"title": "NOAA\/National Hurricane Center Tropical Cyclone Forecasts WMS\/WFS",
+	"title": "NOAA/National Hurricane Center Tropical Cyclone Forecasts WMS/WFS",
 	"tracking_summary": {
 		"total": 407,
 		"recent": 14
@@ -85,7 +85,7 @@
 	"name": "noaa-national-hurricane-center-tropical-cyclone-forecasts-wms-wfs",
 	"isopen": false,
 	"url": null,
-	"notes": " \nPrototype Web Map Service and Web Feature Service containing NOAA National Hurricane Center tropical cyclone forecast information for Atlantic and Pacific basins.  The data layers include forecast tracks, official forecast positions (points), probable tracks with uncertainty (cones of uncertainty), and associated hurricane and tropical storm watches and warnings line segments.  Also included is a tropical outlook layer with areas depicting probable tropical cyclone formation.\n\nThe service includes two sets of layers for each of the data types (forecast track, forecast points, cone of uncertainty, and watches\/warnings), as well as the tropical outlook layer 'tropical_outlook').  The first set of layers (nhc_forecast_track, nhc_forecast_points, nhc_forecast_cone, nhc_forecast_watches_warnings) displays only data for currently 'active' tropical storms for both Atlantic and Pacific basins.  The second set contains WMS 1.3.0 time-enabled representations that support animation over currently active storm information as well as past storm information dating back to 2011.  These layers are named: nhc_forecast_track_time, nhc_forecast_points_time, nhc_forecast_cone_time, nhc_forecast_watches_warnings_time.   A client that supports the WMS 1.3.0 time dimension can animate through these data layers over time.\n\nDetailed descriptions for the data layers follow.\n\nForecast Points represent the official NHC forecast locations of the center of a tropical cyclone.  Forecast center positions are given for projections valid 12, 24, 36, 48, 72, 96, and 120 h after the forecast's nominal initial time, provided that a closed surface wind circulation is expected to exist at the forecast projection time.  It is important to remember that tropical cyclone track forecasts are subject to error, and that the effects of a tropical cyclone can span many hundreds of miles from the center.\n\nForecast Tracks are the Forecast Points connected by a line segment.  The track line(s) are not a forecast product, however, and because there are an infinite number of ways to connect a set of forecast points, the lines should not be interpreted as representing a specific forecast for the location of a tropical cyclone in between official forecast points.\n\nForecast Cones represents the probable track of the center of a tropical cyclone, and is formed by enclosing the area swept out by a set of circles along the forecast track (at 12, 24, 36 hours, etc). The size of each circle is set so that two-thirds of historical official forecast errors over a 5-year sample fall within the circle. Based on forecasts over the previous 5 years, the entire track of a tropical cyclone can be expected to remain within the cone roughly 60-70% of the time. It is important to note that the area affected by a tropical cyclone can extend well beyond the confines of the cone enclosing the most likely track area of the center. \n\nWatch and Warning Lines: coastal areas placed under tropical cyclone watches or warnings are delimited by specific geographical locations known as \"breakpoints\" (e.g., a hurricane warning is in effect from breakpoint \"A\" to breakpoint \"B\").  This file consists of one or more lines connecting the breakpoints delimiting any current watches or warnings.\n\nSource data displayed in this map service can be downloaded from the National Hurricane Center at the following URL: http:\/\/www.nhc.noaa.gov\/gis\/.\n\t\t\t\t",
+	"notes": " nPrototype Web Map Service and Web Feature Service containing NOAA National Hurricane Center tropical cyclone forecast information for Atlantic and Pacific basins.  The data layers include forecast tracks, official forecast positions (points), probable tracks with uncertainty (cones of uncertainty), and associated hurricane and tropical storm watches and warnings line segments.  Also included is a tropical outlook layer with areas depicting probable tropical cyclone formation.nnThe service includes two sets of layers for each of the data types (forecast track, forecast points, cone of uncertainty, and watches/warnings), as well as the tropical outlook layer 'tropical_outlook').  The first set of layers (nhc_forecast_track, nhc_forecast_points, nhc_forecast_cone, nhc_forecast_watches_warnings) displays only data for currently 'active' tropical storms for both Atlantic and Pacific basins.  The second set contains WMS 1.3.0 time-enabled representations that support animation over currently active storm information as well as past storm information dating back to 2011.  These layers are named: nhc_forecast_track_time, nhc_forecast_points_time, nhc_forecast_cone_time, nhc_forecast_watches_warnings_time.   A client that supports the WMS 1.3.0 time dimension can animate through these data layers over time.nnDetailed descriptions for the data layers follow.nnForecast Points represent the official NHC forecast locations of the center of a tropical cyclone.  Forecast center positions are given for projections valid 12, 24, 36, 48, 72, 96, and 120 h after the forecast's nominal initial time, provided that a closed surface wind circulation is expected to exist at the forecast projection time.  It is important to remember that tropical cyclone track forecasts are subject to error, and that the effects of a tropical cyclone can span many hundreds of miles from the center.nnForecast Tracks are the Forecast Points connected by a line segment.  The track line(s) are not a forecast product, however, and because there are an infinite number of ways to connect a set of forecast points, the lines should not be interpreted as representing a specific forecast for the location of a tropical cyclone in between official forecast points.nnForecast Cones represents the probable track of the center of a tropical cyclone, and is formed by enclosing the area swept out by a set of circles along the forecast track (at 12, 24, 36 hours, etc). The size of each circle is set so that two-thirds of historical official forecast errors over a 5-year sample fall within the circle. Based on forecasts over the previous 5 years, the entire track of a tropical cyclone can be expected to remain within the cone roughly 60-70% of the time. It is important to note that the area affected by a tropical cyclone can extend well beyond the confines of the cone enclosing the most likely track area of the center. nnWatch and Warning Lines: coastal areas placed under tropical cyclone watches or warnings are delimited by specific geographical locations known as "breakpoints" (e.g., a hurricane warning is in effect from breakpoint "A" to breakpoint "B").  This file consists of one or more lines connecting the breakpoints delimiting any current watches or warnings.nnSource data displayed in this map service can be downloaded from the National Hurricane Center at the following URL: http://www.nhc.noaa.gov/gis/.ntttt",
 	"license_title": null,
 	"extras": [{
 		"key": "bbox-east-long",
@@ -109,7 +109,7 @@
 	},
 	{
 		"key": "graphic-preview-file",
-		"value": "http:\/\/www.nhc.noaa.gov\/xgtwo\/two_atl_0d0.png"
+		"value": "http://www.nhc.noaa.gov/xgtwo/two_atl_0d0.png"
 	},
 	{
 		"key": "bbox-south-lat",
@@ -125,7 +125,7 @@
 	},
 	{
 		"key": "spatial",
-		"value": "{\"type\": \"Polygon\", \"coordinates\": [[[-164.0, 8.0], [-1.0, 8.0], [-1.0, 64.0], [-164.0, 64.0], [-164.0, 8.0]]]}"
+		"value": "{"type": "Polygon", "coordinates": [[[-164.0, 8.0], [-1.0, 8.0], [-1.0, 64.0], [-164.0, 64.0], [-164.0, 8.0]]]}"
 	},
 	{
 		"key": "progress",
@@ -133,7 +133,7 @@
 	},
 	{
 		"key": "access_constraints",
-		"value": "[\"No responsibility is assumed by the National Oceanic and Atmospheric Administration in the use of these data.  Acknowledgement of the National Oceanic and Atmospheric Administration, National Weather Service, National Environmental Prediction Center or the National Hurricane Center would be appreciated.\"]"
+		"value": "["No responsibility is assumed by the National Oceanic and Atmospheric Administration in the use of these data.  Acknowledgement of the National Oceanic and Atmospheric Administration, National Weather Service, National Environmental Prediction Center or the National Hurricane Center would be appreciated."]"
 	},
 	{
 		"key": "temporal-extent-begin",
@@ -153,7 +153,7 @@
 	},
 	{
 		"key": "dataset-reference-date",
-		"value": "[{\"type\": \"creation\", \"value\": \"2014-06-01\"}]"
+		"value": "[{"type": "creation", "value": "2014-06-01"}]"
 	},
 	{
 		"key": "frequency-of-update",
@@ -169,7 +169,7 @@
 	},
 	{
 		"key": "responsible-party",
-		"value": "[{\"name\": \"NOAA OGC Web Service Hosting Environment\", \"roles\": [\"pointOfContact\"]}]"
+		"value": "[{"name": "NOAA OGC Web Service Hosting Environment", "roles": ["pointOfContact"]}]"
 	},
 	{
 		"key": "spatial-data-service-type",
@@ -211,7 +211,7 @@
 		"revision_timestamp": "2013-03-25T23:05:12.923863",
 		"is_organization": true,
 		"state": "active",
-		"image_url": "https:\/\/fortress.wa.gov\/dfw\/score\/score\/images\/noaa_logo.png",
+		"image_url": "https://fortress.wa.gov/dfw/score/score/images/noaa_logo.png",
 		"revision_id": "c6d43080-22e1-405e-a83d-f2a512d9e867",
 		"type": "organization",
 		"id": "e811f0b4-451f-4896-9e8f-fc6802837819",

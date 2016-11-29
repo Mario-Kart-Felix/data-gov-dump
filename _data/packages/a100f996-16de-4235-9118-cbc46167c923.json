@@ -37,7 +37,7 @@
 		"cache_url": null,
 		"name": "Zip File",
 		"created": "2014-11-17T16:10:40.042538",
-		"url": "http:\/\/water.usgs.gov\/GIS\/dsdl\/ds573_tillage_lu92e.zip",
+		"url": "http://water.usgs.gov/GIS/dsdl/ds573_tillage_lu92e.zip",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 0,
@@ -67,7 +67,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2014-11-17T16:10:40.042559",
-		"url": "http:\/\/water.usgs.gov\/lookup\/getspatial?ds573_tillage_lu92e",
+		"url": "http://water.usgs.gov/lookup/getspatial?ds573_tillage_lu92e",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 1,
@@ -97,7 +97,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2014-11-17T16:10:40.042567",
-		"url": "http:\/\/pubs.usgs.gov\/ds\/ds573",
+		"url": "http://pubs.usgs.gov/ds/ds573",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 2,
@@ -127,7 +127,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2014-11-17T16:10:40.042575",
-		"url": "http:\/\/www.ctic.purdue.edu\/",
+		"url": "http://www.ctic.purdue.edu/",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 3,
@@ -147,7 +147,7 @@
 	"name": "tillage-practices-in-the-conterminous-united-states-1989-2004-datasets-aggregated-by-watershed-",
 	"isopen": false,
 	"url": null,
-	"notes": "This dataset is an aggregation of county-level tillage practices to the 8-digit hydrologic unit watershed. The original county-level data were collected by the Conservation Technology Information Center (CTIC) and is a proprietary dataset. The CTIC collects tillage data by conducting surveys about tillage systems for all counties in the United States. Watershed aggregations were done by overlying the 8-digit HUC polygons with a raster of county boundaries and a raster of the 1992 enhanced National Land Cover Data for land use 61, 62, 82, 83, and 84 (cultivated land) to derive a county\/land-use area weighting factor. The weighting factor was then applied to the county-level tillage data for the counties within each 8-digit HUC and summed to yield the total acreage of each tillage type within each 8-digit HUC watershed. Tillage systems include three types of conservation tillage (no-till, ridge-till, and mulch-till), reduced tillage, and intensive tillage. Total planted acreage for each tillage practice for each crop grown is reported to the CTIC.The dataset includes total planted acreage by tillage type for selected crops (corn, cotton, grain sorghum, soybeans, fallow, forage, newly established permanent pasture, spring and fall seeded small grains, and \"other\" crops) for 1989-2004. The CTIC did not collect data nationwide for 1999, 2001, and 2003. In addition, data were not collected for all counties every year. Missing data are coded with -9999. The companion WBDHUC8 geospatial dataset is available online: http:\/\/water.usgs.gov\/lookup\/getspatial?wbdhuc8.xml .",
+	"notes": "This dataset is an aggregation of county-level tillage practices to the 8-digit hydrologic unit watershed. The original county-level data were collected by the Conservation Technology Information Center (CTIC) and is a proprietary dataset. The CTIC collects tillage data by conducting surveys about tillage systems for all counties in the United States. Watershed aggregations were done by overlying the 8-digit HUC polygons with a raster of county boundaries and a raster of the 1992 enhanced National Land Cover Data for land use 61, 62, 82, 83, and 84 (cultivated land) to derive a county/land-use area weighting factor. The weighting factor was then applied to the county-level tillage data for the counties within each 8-digit HUC and summed to yield the total acreage of each tillage type within each 8-digit HUC watershed. Tillage systems include three types of conservation tillage (no-till, ridge-till, and mulch-till), reduced tillage, and intensive tillage. Total planted acreage for each tillage practice for each crop grown is reported to the CTIC.The dataset includes total planted acreage by tillage type for selected crops (corn, cotton, grain sorghum, soybeans, fallow, forage, newly established permanent pasture, spring and fall seeded small grains, and "other" crops) for 1989-2004. The CTIC did not collect data nationwide for 1999, 2001, and 2003. In addition, data were not collected for all counties every year. Missing data are coded with -9999. The companion WBDHUC8 geospatial dataset is available online: http://water.usgs.gov/lookup/getspatial?wbdhuc8.xml .",
 	"license_title": null,
 	"extras": [{
 		"key": "bbox-east-long",
@@ -175,7 +175,7 @@
 	},
 	{
 		"key": "graphic-preview-file",
-		"value": "http:\/\/water.usgs.gov\/GIS\/browse\/ds573_tillage_practice.jpg"
+		"value": "http://water.usgs.gov/GIS/browse/ds573_tillage_practice.jpg"
 	},
 	{
 		"key": "bbox-south-lat",
@@ -191,7 +191,7 @@
 	},
 	{
 		"key": "spatial",
-		"value": "{\"type\": \"Polygon\", \"coordinates\": [[[-127.886246, 22.885847], [-64.623167, 22.885847], [-64.623167, 51.602543], [-127.886246, 51.602543], [-127.886246, 22.885847]]]}"
+		"value": "{"type": "Polygon", "coordinates": [[[-127.886246, 22.885847], [-64.623167, 22.885847], [-64.623167, 51.602543], [-127.886246, 51.602543], [-127.886246, 22.885847]]]}"
 	},
 	{
 		"key": "progress",
@@ -199,7 +199,7 @@
 	},
 	{
 		"key": "access_constraints",
-		"value": "[\"Use Constraints: This data set was derived from county-level data and should be used for regional and national studies. Disaggregating the data to sub-county level is not recommended.\", \"Access Constraints: None\"]"
+		"value": "["Use Constraints: This data set was derived from county-level data and should be used for regional and national studies. Disaggregating the data to sub-county level is not recommended.", "Access Constraints: None"]"
 	},
 	{
 		"key": "contact-email",
@@ -215,7 +215,7 @@
 	},
 	{
 		"key": "dataset-reference-date",
-		"value": "[{\"type\": \"publication\", \"value\": \"2011-01-01\"}]"
+		"value": "[{"type": "publication", "value": "2011-01-01"}]"
 	},
 	{
 		"key": "graphic-preview-description",
@@ -227,7 +227,7 @@
 	},
 	{
 		"key": "licence",
-		"value": "[\"Although this data set has been used by the U.S. Geological Survey, U.S. Department of the Interior, no warranty expressed or implied is made by the U.S. Geological Survey as to the accuracy of the data and related materials. The act of distribution shall not constitute any such warranty, and no responsibility is assumed by the U.S. Geological Survey in the use of this data, software, or related materials. Any use of trade, product, or firm names is for descriptive purposes only and does not imply endorsement by the U.S. Government.\"]"
+		"value": "["Although this data set has been used by the U.S. Geological Survey, U.S. Department of the Interior, no warranty expressed or implied is made by the U.S. Geological Survey as to the accuracy of the data and related materials. The act of distribution shall not constitute any such warranty, and no responsibility is assumed by the U.S. Geological Survey in the use of this data, software, or related materials. Any use of trade, product, or firm names is for descriptive purposes only and does not imply endorsement by the U.S. Government."]"
 	},
 	{
 		"key": "metadata_type",
@@ -235,7 +235,7 @@
 	},
 	{
 		"key": "responsible-party",
-		"value": "[{\"name\": \"U.S. Geological Survey\", \"roles\": [\"pointOfContact\"]}]"
+		"value": "[{"name": "U.S. Geological Survey", "roles": ["pointOfContact"]}]"
 	},
 	{
 		"key": "spatial-data-service-type",
@@ -270,14 +270,14 @@
 		"value": "Water NSDI Node Spatial Datasets"
 	}],
 	"organization": {
-		"description": "http:\/\/www.usgs.gov\/\r\nThe USGS is a federal science agency that provides impartial information on the health of our ecosystems and environment, the natural hazards that threaten us, the natural resources we rely on, the impacts of climate and land-use change, and the core science systems that help us provide timely, relevant, and useable information.",
+		"description": "http://www.usgs.gov/rnThe USGS is a federal science agency that provides impartial information on the health of our ecosystems and environment, the natural hazards that threaten us, the natural resources we rely on, the impacts of climate and land-use change, and the core science systems that help us provide timely, relevant, and useable information.",
 		"created": "2013-03-14T03:44:38.263357",
 		"title": "U.S. Geological Survey, Department of the Interior",
 		"name": "usgs-gov",
 		"revision_timestamp": "2014-09-02T13:43:52.167023",
 		"is_organization": true,
 		"state": "active",
-		"image_url": "http:\/\/pubs.usgs.gov\/sir\/2004\/5296\/04-5296_confluence_park\/usgs_logo.gif",
+		"image_url": "http://pubs.usgs.gov/sir/2004/5296/04-5296_confluence_park/usgs_logo.gif",
 		"revision_id": "2858aa99-9501-4f96-82e5-9647b968ed66",
 		"type": "organization",
 		"id": "bd2cdd5a-4d65-46c0-9937-c8381175f104",

@@ -31,11 +31,11 @@
 		},
 		"mimetype_inner": null,
 		"revision_id": "8964c2cf-b79d-46c0-ad46-19d0de16ac32",
-		"mimetype": "text\/csv",
+		"mimetype": "text/csv",
 		"cache_url": null,
 		"name": "Comma Separated Values File",
 		"created": "2015-02-04T14:38:34.100933",
-		"url": "https:\/\/data.cityofchicago.org\/api\/views\/fypr-ksnz\/rows.csv?accessType=DOWNLOAD",
+		"url": "https://data.cityofchicago.org/api/views/fypr-ksnz/rows.csv?accessType=DOWNLOAD",
 		"webstore_url": null,
 		"last_modified": null,
 		"position": 0,
@@ -59,11 +59,11 @@
 		},
 		"mimetype_inner": null,
 		"revision_id": "f1c53f49-2ad7-41ff-826f-12323f6d5cc5",
-		"mimetype": "application\/rdf+xml",
+		"mimetype": "application/rdf+xml",
 		"cache_url": null,
 		"name": "RDF File",
 		"created": "2015-02-04T14:38:34.100954",
-		"url": "https:\/\/data.cityofchicago.org\/api\/views\/fypr-ksnz\/rows.rdf?accessType=DOWNLOAD",
+		"url": "https://data.cityofchicago.org/api/views/fypr-ksnz/rows.rdf?accessType=DOWNLOAD",
 		"webstore_url": null,
 		"last_modified": null,
 		"position": 1,
@@ -87,11 +87,11 @@
 		},
 		"mimetype_inner": null,
 		"revision_id": "f1c53f49-2ad7-41ff-826f-12323f6d5cc5",
-		"mimetype": "application\/json",
+		"mimetype": "application/json",
 		"cache_url": null,
 		"name": "JSON File",
 		"created": "2015-02-04T14:38:34.100962",
-		"url": "https:\/\/data.cityofchicago.org\/api\/views\/fypr-ksnz\/rows.json?accessType=DOWNLOAD",
+		"url": "https://data.cityofchicago.org/api/views/fypr-ksnz/rows.json?accessType=DOWNLOAD",
 		"webstore_url": null,
 		"last_modified": null,
 		"position": 2,
@@ -115,11 +115,11 @@
 		},
 		"mimetype_inner": null,
 		"revision_id": "f1c53f49-2ad7-41ff-826f-12323f6d5cc5",
-		"mimetype": "application\/xml",
+		"mimetype": "application/xml",
 		"cache_url": null,
 		"name": "XML File",
 		"created": "2015-02-04T14:38:34.100969",
-		"url": "https:\/\/data.cityofchicago.org\/api\/views\/fypr-ksnz\/rows.xml?accessType=DOWNLOAD",
+		"url": "https://data.cityofchicago.org/api/views/fypr-ksnz/rows.xml?accessType=DOWNLOAD",
 		"webstore_url": null,
 		"last_modified": null,
 		"position": 3,
@@ -159,7 +159,7 @@
 	"name": "cdph-environmental-complaints-3f9e3",
 	"isopen": false,
 	"url": null,
-	"notes": "Environmental complaints received by the Department of Environment (DOE) from January 1993 to December 31, 2011 and by the Department of Public Health (CDPH) since January 1, 2012. On January 1, 2012, the DOE was disbanded and all its inspection, permitting, and enforcement authorities were transferred to the CDPH.   \r\nData fields requiring description are detailed below. \r\nCOMPLAINT ID:  This is the unique identifier of the complaint incident. \r\nCOMPLAINT TYPE: Specifies the type of complaint. CDPH complaint types are  \u201cAbandoned Site\u201d, \u201cAir Pollution Work Order\u201d, \u201cAsbestos Work Order\u201d, \u201cConstruction and Demolition\u201d, \u201cToxics Hazardous Materials Work Order\u201d, \u201dIllegal Dumping Work Order\u201d, \u201cNoise Complaint\u201d, \u201cPermits Issued by DOE Work Order\u201d, \u201cRecycling Work Order\u201d, \u201cService Stations\/Storage Tanks Work Order\u201d, \u201cVehicle Idling Work Order\u201d, and \u201cWater Pollution.\u201d For consistency, historic DOE complaint types were renamed to match the most appropriate CDPH complaint type. DOE complaint types that had no matches are designated as \u201cOther.\u201d  \r\nMAPPED LOCATION: Contains latitude\/longitude coordinates of the site as determined through the Chicago Open Data Portal\u2019s geocoding engine. In instances where the facility address is a range, the lower number (the value in the \u201cStreet Number From\u201d column) is used for geocoding. For example, for the range address 1000-1005 S Wabash Ave, the Mapped Location would be the coordinates for 1000 S Wabash Ave. \r\n INSPECTOR: Contains the badge or ID number of the inspector or engineer who conducted the compliant inspection. \r\nCOMPLAINT DATE: Date complaint was received by the department. \r\nCOMPLAINT DETAIL: Brief description of the nature of the complaint.  \r\nINSPECTION LOG: This is the inspector\u2019s narrative log of the complaint inspection.\r\nDATA SOURCE: The city department that collected the data.",
+	"notes": "Environmental complaints received by the Department of Environment (DOE) from January 1993 to December 31, 2011 and by the Department of Public Health (CDPH) since January 1, 2012. On January 1, 2012, the DOE was disbanded and all its inspection, permitting, and enforcement authorities were transferred to the CDPH.   rnData fields requiring description are detailed below. rnCOMPLAINT ID:  This is the unique identifier of the complaint incident. rnCOMPLAINT TYPE: Specifies the type of complaint. CDPH complaint types are  u201cAbandoned Siteu201d, u201cAir Pollution Work Orderu201d, u201cAsbestos Work Orderu201d, u201cConstruction and Demolitionu201d, u201cToxics Hazardous Materials Work Orderu201d, u201dIllegal Dumping Work Orderu201d, u201cNoise Complaintu201d, u201cPermits Issued by DOE Work Orderu201d, u201cRecycling Work Orderu201d, u201cService Stations/Storage Tanks Work Orderu201d, u201cVehicle Idling Work Orderu201d, and u201cWater Pollution.u201d For consistency, historic DOE complaint types were renamed to match the most appropriate CDPH complaint type. DOE complaint types that had no matches are designated as u201cOther.u201d  rnMAPPED LOCATION: Contains latitude/longitude coordinates of the site as determined through the Chicago Open Data Portalu2019s geocoding engine. In instances where the facility address is a range, the lower number (the value in the u201cStreet Number Fromu201d column) is used for geocoding. For example, for the range address 1000-1005 S Wabash Ave, the Mapped Location would be the coordinates for 1000 S Wabash Ave. rn INSPECTOR: Contains the badge or ID number of the inspector or engineer who conducted the compliant inspection. rnCOMPLAINT DATE: Date complaint was received by the department. rnCOMPLAINT DETAIL: Brief description of the nature of the complaint.  rnINSPECTION LOG: This is the inspectoru2019s narrative log of the complaint inspection.rnDATA SOURCE: The city department that collected the data.",
 	"license_title": "License Not Specified",
 	"extras": [{
 		"key": "publisher",
@@ -171,7 +171,7 @@
 	},
 	{
 		"key": "catalog_describedBy",
-		"value": "https:\/\/project-open-data.cio.gov\/v1.1\/schema\/catalog.json"
+		"value": "https://project-open-data.cio.gov/v1.1/schema/catalog.json"
 	},
 	{
 		"key": "harvest_source_id",
@@ -179,7 +179,7 @@
 	},
 	{
 		"key": "catalog_@context",
-		"value": "https:\/\/project-open-data.cio.gov\/v1.1\/schema\/catalog.jsonld"
+		"value": "https://project-open-data.cio.gov/v1.1/schema/catalog.jsonld"
 	},
 	{
 		"key": "issued",
@@ -211,19 +211,19 @@
 	},
 	{
 		"key": "catalog_@id",
-		"value": "https:\/\/data.cityofchicago.org\/data.json"
+		"value": "https://data.cityofchicago.org/data.json"
 	},
 	{
 		"key": "catalog_conformsTo",
-		"value": "https:\/\/project-open-data.cio.gov\/v1.1\/schema"
+		"value": "https://project-open-data.cio.gov/v1.1/schema"
 	},
 	{
 		"key": "identifier",
-		"value": "https:\/\/data.cityofchicago.org\/api\/views\/fypr-ksnz"
+		"value": "https://data.cityofchicago.org/api/views/fypr-ksnz"
 	},
 	{
 		"key": "landingPage",
-		"value": "https:\/\/data.cityofchicago.org\/d\/fypr-ksnz"
+		"value": "https://data.cityofchicago.org/d/fypr-ksnz"
 	},
 	{
 		"key": "harvest_object_id",

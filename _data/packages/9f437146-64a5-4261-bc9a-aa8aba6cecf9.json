@@ -36,7 +36,7 @@
 		"cache_url": null,
 		"name": "Roads National Geodatabase",
 		"created": "2015-12-07T15:04:25.194605",
-		"url": "ftp:\/\/ftp2.census.gov\/geo\/tiger\/TGRGDB15\/tlgdb_2015_a_us_roads.gdb.zip",
+		"url": "ftp://ftp2.census.gov/geo/tiger/TGRGDB15/tlgdb_2015_a_us_roads.gdb.zip",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 0,
@@ -65,7 +65,7 @@
 		"cache_url": null,
 		"name": "TIGER Geodatabases",
 		"created": "2015-12-07T15:04:25.194643",
-		"url": "http:\/\/www.census.gov\/geo\/maps-data\/data\/tiger-geodatabases.html",
+		"url": "http://www.census.gov/geo/maps-data/data/tiger-geodatabases.html",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 1,
@@ -94,7 +94,7 @@
 		"cache_url": null,
 		"name": "2015 TIGER Geodatabase Documentation",
 		"created": "2015-12-07T15:04:25.194652",
-		"url": "http:\/\/www2.census.gov\/geo\/pdfs\/maps-data\/data\/tiger\/tgrshp2015\/2015_TIGER_GDB_Record_Layouts.pdf",
+		"url": "http://www2.census.gov/geo/pdfs/maps-data/data/tiger/tgrshp2015/2015_TIGER_GDB_Record_Layouts.pdf",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 2,
@@ -114,7 +114,7 @@
 	"name": "2015-roads-national-geodatabase",
 	"isopen": false,
 	"url": null,
-	"notes": "The 2015 TIGER Geodatabases are extracts of selected nation based and state based geographic and cartographic information from the\n                    U.S. Census Bureau's Master Address File\/Topologically Integrated Geographic Encoding and Referencing (MAF\/TIGER) database. The geodatabases\n                    include feature class layers of information for the fifty states, the District of Columbia, Puerto Rico, and the Island areas (American Samoa, the \n                    Commonwealth of the Northern Mariana Islands, Guam, and the United States Virgin Islands). The geodatabases do not contain any sensitive data. The \n                    2015 TIGER Geodatabases are designed for use with Esri\u00e2\u0080\u0099s ArcGIS.\n                    \n                    The Roads National Geodatabase contains all roads for the nation. This includes all primary, secondary, local neighborhood, and rural roads, city\n                    streets, vehicular trails (4wd), ramps, service drives, alleys, parking lot roads, private roads for service vehicles (logging, oil fields, ranches,\n                    etc.), bike paths or trails, bridle\/horse paths, walkways\/pedestrian trails, and stairways.  \n                ",
+	"notes": "The 2015 TIGER Geodatabases are extracts of selected nation based and state based geographic and cartographic information from then                    U.S. Census Bureau's Master Address File/Topologically Integrated Geographic Encoding and Referencing (MAF/TIGER) database. The geodatabasesn                    include feature class layers of information for the fifty states, the District of Columbia, Puerto Rico, and the Island areas (American Samoa, the n                    Commonwealth of the Northern Mariana Islands, Guam, and the United States Virgin Islands). The geodatabases do not contain any sensitive data. The n                    2015 TIGER Geodatabases are designed for use with Esriu00e2u0080u0099s ArcGIS.n                    n                    The Roads National Geodatabase contains all roads for the nation. This includes all primary, secondary, local neighborhood, and rural roads, cityn                    streets, vehicular trails (4wd), ramps, service drives, alleys, parking lot roads, private roads for service vehicles (logging, oil fields, ranches,n                    etc.), bike paths or trails, bridle/horse paths, walkways/pedestrian trails, and stairways.  n                ",
 	"license_title": null,
 	"extras": [{
 		"key": "bbox-east-long",
@@ -150,7 +150,7 @@
 	},
 	{
 		"key": "spatial",
-		"value": "{\"type\": \"Polygon\", \"coordinates\": [[[-179.148909, -14.548699], [179.77847, -14.548699], [179.77847, 71.365162], [-179.148909, 71.365162], [-179.148909, -14.548699]]]}"
+		"value": "{"type": "Polygon", "coordinates": [[[-179.148909, -14.548699], [179.77847, -14.548699], [179.77847, 71.365162], [-179.148909, 71.365162], [-179.148909, -14.548699]]]}"
 	},
 	{
 		"key": "progress",
@@ -158,7 +158,7 @@
 	},
 	{
 		"key": "access_constraints",
-		"value": "[\" Access Constraints: None\", \" Use Constraints: No warranty, expressed or implied, is made with regard to the accuracy of the data in the\\n                            TIGER Geodatabases, and no liability is assumed by the Unit ed States Government in general, or the Census Bureau specifically, as to the\\n                            positional or attribute accuracy of the data. The boundary information in the TIGER Geodatabases is for statistical data collection and\\n                            tabulation purposes only. Their depiction and designation for statistical purposes does not constitute a determination of jurisdictional\\n                            authority or rights of ownership or entitlement and they are not legal land descriptions.\"]"
+		"value": "[" Access Constraints: None", " Use Constraints: No warranty, expressed or implied, is made with regard to the accuracy of the data in the\n                            TIGER Geodatabases, and no liability is assumed by the Unit ed States Government in general, or the Census Bureau specifically, as to the\n                            positional or attribute accuracy of the data. The boundary information in the TIGER Geodatabases is for statistical data collection and\n                            tabulation purposes only. Their depiction and designation for statistical purposes does not constitute a determination of jurisdictional\n                            authority or rights of ownership or entitlement and they are not legal land descriptions."]"
 	},
 	{
 		"key": "temporal-extent-begin",
@@ -178,7 +178,7 @@
 	},
 	{
 		"key": "dataset-reference-date",
-		"value": "[{\"type\": \"publication\", \"value\": \"20150811\"}]"
+		"value": "[{"type": "publication", "value": "20150811"}]"
 	},
 	{
 		"key": "frequency-of-update",
@@ -206,7 +206,7 @@
 	},
 	{
 		"package_id": "9f437146-64a5-4261-bc9a-aa8aba6cecf9",
-		"value": "address range, linear feature, united states, road feature, alleys, roads, vehicular trails (4wd), street centerline, local neighborhood roads, bike paths, stairways, bike trails, county or equivalent entity, city streets, boundaries, secondary roads, walkways\/pedestrian trails, parking lot roads, primary roads, u.s., bridle\/horse paths, ramps, ranch roads, private roads for service vehicles, logging roads, oil field roads, rural roads, service drives",
+		"value": "address range, linear feature, united states, road feature, alleys, roads, vehicular trails (4wd), street centerline, local neighborhood roads, bike paths, stairways, bike trails, county or equivalent entity, city streets, boundaries, secondary roads, walkways/pedestrian trails, parking lot roads, primary roads, u.s., bridle/horse paths, ramps, ranch roads, private roads for service vehicles, logging roads, oil field roads, rural roads, service drives",
 		"revision_timestamp": "2015-12-07T20:04:25.042493",
 		"state": "active",
 		"key": "tags",
@@ -236,7 +236,7 @@
 		"revision_timestamp": "2013-08-29T13:37:04.171127",
 		"is_organization": true,
 		"state": "active",
-		"image_url": "http:\/\/www.census.gov\/main\/img\/home\/CensusLogo-white.png",
+		"image_url": "http://www.census.gov/main/img/home/CensusLogo-white.png",
 		"revision_id": "0995f525-d563-4254-a535-af5b926fe663",
 		"type": "organization",
 		"id": "31c49abe-512a-412a-9cc7-5b2601325d6b",

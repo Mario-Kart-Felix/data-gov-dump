@@ -36,7 +36,7 @@
 		"cache_url": null,
 		"name": "Zipped 2007 Excel workbook containing Well Log Compilation Workbook v1.4.2",
 		"created": "2013-03-16T01:51:18.147366",
-		"url": "http:\/\/repository.stategeothermaldata.org\/metadata\/record\/98ddf901b9782a25982e01af3b107232\/file\/welllogdatacompilationworkbook1.4.2_0.zip",
+		"url": "http://repository.stategeothermaldata.org/metadata/record/98ddf901b9782a25982e01af3b107232/file/welllogdatacompilationworkbook1.4.2_0.zip",
 		"webstore_url": null,
 		"resource_locator_function": "375",
 		"position": 0,
@@ -69,11 +69,11 @@
 	"name": "aasg-geothermal-data-well-log-compilation-workbook-superseded",
 	"isopen": false,
 	"url": null,
-	"notes": "WELL LOG DATA FOR SERVICE NEEDS TO GO INTO THE WELL LOG CONTENT MODEL (see http:\/\/repository.stategeothermaldata.org\/repository\/resource\/98ddf901b9782a25982e01af3b05b445\/ ). This workbook is designed as a guideline for compiling information from well log headers. Information compiled in this workbook can be used to populate the Well Header data delivery template, Borehole Temperature template and to populate Metadata records for well log documents.  Basic information from the header is used to create Well Header features used to index borehole locations with the information associated with the borehole. Typically maximum temperatures are recorded from log headers, and reported as'bottom hole temperature'using the  borehole temperature observation service. Each row in the WellLogInformation sheet in this workbook will correspond to an individual log from a borehole; thus there may be multiple rows per well. For logs that are scanned or digitized and availble as online resources, metadata records will be created. The HeaderURI for a particular borehole (well for simple wells) is the cross-referencing link (foreign key) used to associate the header record, well log metadata, temperature measurements, and other information from a particular borehole.",
+	"notes": "WELL LOG DATA FOR SERVICE NEEDS TO GO INTO THE WELL LOG CONTENT MODEL (see http://repository.stategeothermaldata.org/repository/resource/98ddf901b9782a25982e01af3b05b445/ ). This workbook is designed as a guideline for compiling information from well log headers. Information compiled in this workbook can be used to populate the Well Header data delivery template, Borehole Temperature template and to populate Metadata records for well log documents.  Basic information from the header is used to create Well Header features used to index borehole locations with the information associated with the borehole. Typically maximum temperatures are recorded from log headers, and reported as'bottom hole temperature'using the  borehole temperature observation service. Each row in the WellLogInformation sheet in this workbook will correspond to an individual log from a borehole; thus there may be multiple rows per well. For logs that are scanned or digitized and availble as online resources, metadata records will be created. The HeaderURI for a particular borehole (well for simple wells) is the cross-referencing link (foreign key) used to associate the header record, well log metadata, temperature measurements, and other information from a particular borehole.",
 	"license_title": null,
 	"extras": [{
 		"key": "responsible-party",
-		"value": "[{\"name\": \"No Organization Name Was Given\", \"roles\": [\"pointOfContact\"]}]"
+		"value": "[{"name": "No Organization Name Was Given", "roles": ["pointOfContact"]}]"
 	},
 	{
 		"key": "contact-email",
@@ -93,7 +93,7 @@
 	},
 	{
 		"key": "dataset-reference-date",
-		"value": "[{\"type\": \"publication\", \"value\": \"2012-05-31T12:00:00\"}]"
+		"value": "[{"type": "publication", "value": "2012-05-31T12:00:00"}]"
 	},
 	{
 		"key": "resource-type",
@@ -129,7 +129,7 @@
 	},
 	{
 		"key": "spatial",
-		"value": "{\"type\": \"Polygon\", \"coordinates\": [[[-180.0, 17.0], [-180.0, 75.0], [-64.0, 75.0], [-64.0, 17.0], [-180.0, 17.0]]]}"
+		"value": "{"type": "Polygon", "coordinates": [[[-180.0, 17.0], [-180.0, 75.0], [-64.0, 75.0], [-64.0, 17.0], [-180.0, 17.0]]]}"
 	},
 	{
 		"key": "guid",
@@ -179,7 +179,7 @@
 		"revision_timestamp": "2013-03-20T21:11:17.592932",
 		"is_organization": true,
 		"state": "active",
-		"image_url": "http:\/\/www.50states.com\/flag\/image\/nunst004.gif",
+		"image_url": "http://www.50states.com/flag/image/nunst004.gif",
 		"revision_id": "61be6428-4398-4199-a336-f3cd1e956f9b",
 		"type": "organization",
 		"id": "f3f6e1d4-64fb-4a2f-b32c-9ac0b76fe4de",

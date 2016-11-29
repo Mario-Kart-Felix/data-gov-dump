@@ -34,9 +34,9 @@
 		"resource_locator_protocol": "WWW:LINK-1.0-http--link",
 		"mimetype": null,
 		"cache_url": null,
-		"name": "ftp:\/\/ftp.nefsc.noaa.gov\/",
+		"name": "ftp://ftp.nefsc.noaa.gov/",
 		"created": "2016-08-08T21:28:16.092141",
-		"url": "ftp:\/\/ftp.nefsc.noaa.gov\/",
+		"url": "ftp://ftp.nefsc.noaa.gov/",
 		"webstore_url": null,
 		"resource_locator_function": "download",
 		"position": 0,
@@ -65,7 +65,7 @@
 		"cache_url": null,
 		"name": "Website",
 		"created": "2016-08-08T21:28:16.092162",
-		"url": "http:\/\/www.nefsc.noaa.gov",
+		"url": "http://www.nefsc.noaa.gov",
 		"webstore_url": null,
 		"resource_locator_function": "information",
 		"position": 1,
@@ -94,7 +94,7 @@
 		"cache_url": null,
 		"name": "Website",
 		"created": "2016-08-08T21:28:16.092170",
-		"url": "http:\/\/www.nefsc.noaa.gov",
+		"url": "http://www.nefsc.noaa.gov",
 		"webstore_url": null,
 		"resource_locator_function": "information",
 		"position": 2,
@@ -123,7 +123,7 @@
 		"cache_url": null,
 		"name": "NOAA Data Management Plan (DMP)",
 		"created": "2016-08-08T21:28:16.092177",
-		"url": "https:\/\/inport.nmfs.noaa.gov\/inport\/item\/27398\/dmp",
+		"url": "https://inport.nmfs.noaa.gov/inport/item/27398/dmp",
 		"webstore_url": null,
 		"resource_locator_function": "information",
 		"position": 3,
@@ -140,7 +140,7 @@
 		"state": "active",
 		"last_modified": null,
 		"hash": "",
-		"description": "This page describes the NASA GCMD Keywords, how\n                                                        to reference those keywords and provides download instructions.\n                                                    ",
+		"description": "This page describes the NASA GCMD Keywords, hown                                                        to reference those keywords and provides download instructions.n                                                    ",
 		"format": "HTML",
 		"tracking_summary": {
 			"total": 476,
@@ -152,7 +152,7 @@
 		"cache_url": null,
 		"name": "GCMD Keywords Page",
 		"created": "2016-08-08T21:28:16.092184",
-		"url": "http:\/\/gcmd.nasa.gov\/learn\/keyword_list.html",
+		"url": "http://gcmd.nasa.gov/learn/keyword_list.html",
 		"webstore_url": null,
 		"resource_locator_function": "information",
 		"position": 4,
@@ -172,7 +172,7 @@
 	"name": "industry-based-survey-ibs-cod",
 	"isopen": false,
 	"url": null,
-	"notes": "The \"Gulf of Maine Atlantic Cod Industry-Based Survey\" was a collaboration of the Massachusetts Division of Marine Fisheries and the fishing industry, with support from NOAA Fisheries. The goal of the survey was to define the broad scale distribution of Atlantic cod aggregations in the Gulf of Maine in space and time, by age and size composition.\nSpecific objectives were to use the resultant data to: 1) compliment the NEFSC bottom trawl surveys and 2) evaluate the Gulf of Maine rolling closure areas that existed at the time. Intensive sampling in Gulf of Maine waters was accomplished using four commercial trawlers equipped with a trawl specifically designed for this program. Sampling protocols were adapted from the NEFSC standardized bottom trawl surveys.",
+	"notes": "The "Gulf of Maine Atlantic Cod Industry-Based Survey" was a collaboration of the Massachusetts Division of Marine Fisheries and the fishing industry, with support from NOAA Fisheries. The goal of the survey was to define the broad scale distribution of Atlantic cod aggregations in the Gulf of Maine in space and time, by age and size composition.nSpecific objectives were to use the resultant data to: 1) compliment the NEFSC bottom trawl surveys and 2) evaluate the Gulf of Maine rolling closure areas that existed at the time. Intensive sampling in Gulf of Maine waters was accomplished using four commercial trawlers equipped with a trawl specifically designed for this program. Sampling protocols were adapted from the NEFSC standardized bottom trawl surveys.",
 	"license_title": null,
 	"extras": [{
 		"key": "bbox-east-long",
@@ -208,7 +208,7 @@
 	},
 	{
 		"key": "spatial",
-		"value": "{\"type\": \"Polygon\", \"coordinates\": [[[-70.865883, 41.108983], [-66.955583, 41.108983], [-66.955583, 44.691317], [-70.865883, 44.691317], [-70.865883, 41.108983]]]}"
+		"value": "{"type": "Polygon", "coordinates": [[[-70.865883, 41.108983], [-66.955583, 41.108983], [-66.955583, 44.691317], [-70.865883, 44.691317], [-70.865883, 41.108983]]]}"
 	},
 	{
 		"key": "progress",
@@ -216,7 +216,7 @@
 	},
 	{
 		"key": "access_constraints",
-		"value": "[\"Access Constraints: User must read and fully comprehend the metadata prior to use. Applications or inferences derived from the data should be carefully considered for accuracy. \\nNEFSC Data Access Constraint:\\nIf data is stored on an internal NEFSC network, the requester may not have direct access to query the data unless they are also authorized for network access. | Use Constraints: Acknowledgement of NOAA\/NMFS\/NEFSC, as the source from which these data were obtained in any publications and\/or other representations of these, data is suggested.\"]"
+		"value": "["Access Constraints: User must read and fully comprehend the metadata prior to use. Applications or inferences derived from the data should be carefully considered for accuracy. \nNEFSC Data Access Constraint:\nIf data is stored on an internal NEFSC network, the requester may not have direct access to query the data unless they are also authorized for network access. | Use Constraints: Acknowledgement of NOAA/NMFS/NEFSC, as the source from which these data were obtained in any publications and/or other representations of these, data is suggested."]"
 	},
 	{
 		"key": "temporal-extent-begin",
@@ -236,7 +236,7 @@
 	},
 	{
 		"key": "dataset-reference-date",
-		"value": "[{\"type\": \"publication\", \"value\": \"\"}]"
+		"value": "[{"type": "publication", "value": ""}]"
 	},
 	{
 		"key": "frequency-of-update",
@@ -252,7 +252,7 @@
 	},
 	{
 		"key": "responsible-party",
-		"value": "[{\"name\": \"\", \"roles\": [\"\"]}, {\"name\": \"Northeast Fisheries Science Center\", \"roles\": [\"pointOfContact\", \"custodian\"]}]"
+		"value": "[{"name": "", "roles": [""]}, {"name": "Northeast Fisheries Science Center", "roles": ["pointOfContact", "custodian"]}]"
 	},
 	{
 		"key": "temporal-extent-end",
@@ -268,7 +268,7 @@
 	},
 	{
 		"package_id": "f5f130fe-6f50-4d62-be97-da57f0dc6dab",
-		"value": "northeast fisheries science center, national marine fisheries service, noaa, u.s. department of commerce, pelagic, doc\/noaa\/nmfs\/nefsc, northeast cooperative research program (ncrp), cooperative research, survey, cod, benthic, demersal",
+		"value": "northeast fisheries science center, national marine fisheries service, noaa, u.s. department of commerce, pelagic, doc/noaa/nmfs/nefsc, northeast cooperative research program (ncrp), cooperative research, survey, cod, benthic, demersal",
 		"revision_timestamp": "2016-07-19T02:20:47.392226",
 		"state": "active",
 		"key": "tags",
@@ -298,7 +298,7 @@
 		"revision_timestamp": "2013-03-25T23:05:12.923863",
 		"is_organization": true,
 		"state": "active",
-		"image_url": "https:\/\/fortress.wa.gov\/dfw\/score\/score\/images\/noaa_logo.png",
+		"image_url": "https://fortress.wa.gov/dfw/score/score/images/noaa_logo.png",
 		"revision_id": "c6d43080-22e1-405e-a83d-f2a512d9e867",
 		"type": "organization",
 		"id": "e811f0b4-451f-4896-9e8f-fc6802837819",

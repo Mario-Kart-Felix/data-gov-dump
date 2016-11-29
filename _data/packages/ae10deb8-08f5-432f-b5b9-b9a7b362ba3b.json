@@ -37,7 +37,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2015-09-26T20:53:56.996418",
-		"url": "http:\/\/coast.noaa.gov",
+		"url": "http://coast.noaa.gov",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 0,
@@ -67,7 +67,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2015-09-26T20:53:56.996440",
-		"url": "http:\/\/coast.noaa.gov",
+		"url": "http://coast.noaa.gov",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 1,
@@ -89,7 +89,7 @@
 		"revision_timestamp": "2013-03-25T23:05:12.923863",
 		"is_organization": true,
 		"state": "active",
-		"image_url": "https:\/\/fortress.wa.gov\/dfw\/score\/score\/images\/noaa_logo.png",
+		"image_url": "https://fortress.wa.gov/dfw/score/score/images/noaa_logo.png",
 		"revision_id": "c6d43080-22e1-405e-a83d-f2a512d9e867",
 		"type": "organization",
 		"id": "e811f0b4-451f-4896-9e8f-fc6802837819",
@@ -100,7 +100,7 @@
 	"name": "2009-aero-metric-inc-topographic-lidar-yukon-flats-alaska",
 	"isopen": false,
 	"url": null,
-	"notes": "This delivery contains point cloud data in LAS 1.2 format, classified in the following manner. Class 1: Unclassified and Class 2: Ground. Overlap points have been flagged as withheld. The timestamps are in absolute GPS time minus 1 billion, in accordance with the LAS 1.2 documentation. The following are the collection parameters and equipment used to create this data set. Aircraft: Piper Navajo (N6GR) Lidar System: Optech ALTM Gemini (03SEN145) Approximate Collection Altitude (Above Mean Terrain): 3800 meters Ground Speed: 160 kts Pulse Rate Frequency: 33 kHz Mirror Scan Frequency: 18 Hz Scan Angle (+\/-): 16 degrees Beam Divergence: Narrow (0.25 mrad) Scan Cutoff: 0.02 degrees Accuracy statements are based on areas of moderate terrain, with points classified as ground. Diminished accuracies are to be expected in areas of extreme terrain and dense vegetation. The accuracy of each point is expected to meet the vertical accuracy standard, derived products may be less accurate in areas of extreme terrain and dense vegetation due to a lesser number of points defining the ground in these areas. Classified data sets such as this one may have varying posting due to some pulses not reaching the ground.",
+	"notes": "This delivery contains point cloud data in LAS 1.2 format, classified in the following manner. Class 1: Unclassified and Class 2: Ground. Overlap points have been flagged as withheld. The timestamps are in absolute GPS time minus 1 billion, in accordance with the LAS 1.2 documentation. The following are the collection parameters and equipment used to create this data set. Aircraft: Piper Navajo (N6GR) Lidar System: Optech ALTM Gemini (03SEN145) Approximate Collection Altitude (Above Mean Terrain): 3800 meters Ground Speed: 160 kts Pulse Rate Frequency: 33 kHz Mirror Scan Frequency: 18 Hz Scan Angle (+/-): 16 degrees Beam Divergence: Narrow (0.25 mrad) Scan Cutoff: 0.02 degrees Accuracy statements are based on areas of moderate terrain, with points classified as ground. Diminished accuracies are to be expected in areas of extreme terrain and dense vegetation. The accuracy of each point is expected to meet the vertical accuracy standard, derived products may be less accurate in areas of extreme terrain and dense vegetation due to a lesser number of points defining the ground in these areas. Classified data sets such as this one may have varying posting due to some pulses not reaching the ground.",
 	"owner_org": "e811f0b4-451f-4896-9e8f-fc6802837819",
 	"extras": [{
 		"key": "bbox-east-long",
@@ -128,7 +128,7 @@
 	},
 	{
 		"key": "graphic-preview-file",
-		"value": "ftp:\/\/ftp.csc.noaa.gov\/pub\/crs\/beachmap\/qa_docs\/ak\/ak2009_aerometric_yukonflats_footprint.KMZ"
+		"value": "ftp://ftp.csc.noaa.gov/pub/crs/beachmap/qa_docs/ak/ak2009_aerometric_yukonflats_footprint.KMZ"
 	},
 	{
 		"key": "bbox-south-lat",
@@ -144,7 +144,7 @@
 	},
 	{
 		"key": "spatial",
-		"value": "{\"type\": \"Polygon\", \"coordinates\": [[[-146.740652, 65.754782], [-145.033223, 65.754782], [-145.033223, 66.592735], [-146.740652, 66.592735], [-146.740652, 65.754782]]]}"
+		"value": "{"type": "Polygon", "coordinates": [[[-146.740652, 65.754782], [-145.033223, 65.754782], [-145.033223, 66.592735], [-146.740652, 66.592735], [-146.740652, 65.754782]]]}"
 	},
 	{
 		"key": "progress",
@@ -168,7 +168,7 @@
 	},
 	{
 		"key": "dataset-reference-date",
-		"value": "[{\"type\": \"publication\", \"value\": \"2013-03-01\"}]"
+		"value": "[{"type": "publication", "value": "2013-03-01"}]"
 	},
 	{
 		"key": "graphic-preview-description",
@@ -180,7 +180,7 @@
 	},
 	{
 		"key": "licence",
-		"value": "[\"These data depict the elevations at the time of the survey and are only accurate for that time. Users should be aware that\\n            temporal changes may have occurred since this data set was collected and some parts of this data may no longer represent actual surface\\n            conditions. Users should not use this data for critical applications without a full awareness of its limitations. Any conclusions drawn\\n            from analysis of this information are not the responsibility of NOAA or any of its partners. These data are NOT to be used for navigational purposes.\"]"
+		"value": "["These data depict the elevations at the time of the survey and are only accurate for that time. Users should be aware that\n            temporal changes may have occurred since this data set was collected and some parts of this data may no longer represent actual surface\n            conditions. Users should not use this data for critical applications without a full awareness of its limitations. Any conclusions drawn\n            from analysis of this information are not the responsibility of NOAA or any of its partners. These data are NOT to be used for navigational purposes."]"
 	},
 	{
 		"key": "metadata_type",
@@ -188,7 +188,7 @@
 	},
 	{
 		"key": "responsible-party",
-		"value": "[{\"name\": \"National Oceanic and Atmospheric Administration (NOAA)\", \"roles\": [\"pointOfContact\"]}]"
+		"value": "[{"name": "National Oceanic and Atmospheric Administration (NOAA)", "roles": ["pointOfContact"]}]"
 	},
 	{
 		"key": "spatial-data-service-type",
@@ -200,7 +200,7 @@
 	},
 	{
 		"key": "tags",
-		"value": "topography, laser, usa, remote sensing, topography\/bathymetry, alaska, lidar, fort yukon, elevation",
+		"value": "topography, laser, usa, remote sensing, topography/bathymetry, alaska, lidar, fort yukon, elevation",
 		"__extras": {
 			"revision_id": "dfd3e236-882f-4d5f-bd97-f2f21f1368c8",
 			"package_id": "ae10deb8-08f5-432f-b5b9-b9a7b362ba3b"

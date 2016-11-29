@@ -37,7 +37,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2015-11-09T21:04:20.730771",
-		"url": "http:\/\/accession.nodc.noaa.gov\/2754",
+		"url": "http://accession.nodc.noaa.gov/2754",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 0,
@@ -67,7 +67,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2015-11-09T21:04:20.730815",
-		"url": "http:\/\/data.nodc.noaa.gov\/accession\/0002754",
+		"url": "http://data.nodc.noaa.gov/accession/0002754",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 1,
@@ -87,11 +87,11 @@
 	"name": "division-of-aquatic-resources-dar-division-of-lands-and-natural-resources-dlnr-of-the-state-of-",
 	"isopen": false,
 	"url": null,
-	"notes": "Data are from underwater visual surveys of fish stocks from 41 survey sites on the islands of Oahu and Hawaii, conducted by biologists and technicians of Hawaii's Division of Aquatic Resources (DAR). Survey data at Kealakekua Bay, Island of Hawaii, begin in 1952. Data begin in 1968 for all other sites. The datasets end in 2000, although updates are pending. Serious weaknesses of the data include that (1) transect dimensions were not consistent even within survey sites, and have not generally been recorded on datasheets; (2) survey locations are generally given as place names which are at least somewhat meaningful (e.g. the Monument site at Kealakekua Bay is in front of Cook's Monument), but lat\/long of start and end points are not given, and even more fundamentally depth ranges are not given; and (3) some surveys were conducted on SCUBA and some on snorkel but, again, that has not been consistently recorded on datasheets. Additional DAR data from other locations and dates are planned for digitization.",
+	"notes": "Data are from underwater visual surveys of fish stocks from 41 survey sites on the islands of Oahu and Hawaii, conducted by biologists and technicians of Hawaii's Division of Aquatic Resources (DAR). Survey data at Kealakekua Bay, Island of Hawaii, begin in 1952. Data begin in 1968 for all other sites. The datasets end in 2000, although updates are pending. Serious weaknesses of the data include that (1) transect dimensions were not consistent even within survey sites, and have not generally been recorded on datasheets; (2) survey locations are generally given as place names which are at least somewhat meaningful (e.g. the Monument site at Kealakekua Bay is in front of Cook's Monument), but lat/long of start and end points are not given, and even more fundamentally depth ranges are not given; and (3) some surveys were conducted on SCUBA and some on snorkel but, again, that has not been consistently recorded on datasheets. Additional DAR data from other locations and dates are planned for digitization.",
 	"license_title": null,
 	"extras": [{
 		"key": "bbox-east-long",
-		"value": "\n          -155.849\n        "
+		"value": "n          -155.849n        "
 	},
 	{
 		"key": "resource-type",
@@ -99,7 +99,7 @@
 	},
 	{
 		"key": "bbox-north-lat",
-		"value": "\n          21.675\n        "
+		"value": "n          21.675n        "
 	},
 	{
 		"key": "coupled-resource",
@@ -115,7 +115,7 @@
 	},
 	{
 		"key": "bbox-south-lat",
-		"value": "\n          19.479\n        "
+		"value": "n          19.479n        "
 	},
 	{
 		"key": "spatial-reference-system",
@@ -123,7 +123,7 @@
 	},
 	{
 		"key": "spatial",
-		"value": "{\"type\": \"Polygon\", \"coordinates\": [[[-158.043, 19.479], [-155.849, 19.479], [-155.849, 21.675], [-158.043, 21.675], [-158.043, 19.479]]]}"
+		"value": "{"type": "Polygon", "coordinates": [[[-158.043, 19.479], [-155.849, 19.479], [-155.849, 21.675], [-158.043, 21.675], [-158.043, 19.479]]]}"
 	},
 	{
 		"key": "progress",
@@ -131,7 +131,7 @@
 	},
 	{
 		"key": "access_constraints",
-		"value": "[\"Use Constraints: Dataset credit required\", \"Access Constraints: None\"]"
+		"value": "["Use Constraints: Dataset credit required", "Access Constraints: None"]"
 	},
 	{
 		"key": "temporal-extent-begin",
@@ -143,7 +143,7 @@
 	},
 	{
 		"key": "bbox-west-long",
-		"value": "\n          -158.043\n        "
+		"value": "n          -158.043n        "
 	},
 	{
 		"key": "metadata-date",
@@ -151,7 +151,7 @@
 	},
 	{
 		"key": "dataset-reference-date",
-		"value": "[{\"type\": \"publication\", \"value\": \"\"}]"
+		"value": "[{"type": "publication", "value": ""}]"
 	},
 	{
 		"key": "frequency-of-update",
@@ -159,7 +159,7 @@
 	},
 	{
 		"key": "licence",
-		"value": "[\"\\n      NOAA makes no warranty regarding these data, expressed or implied, nor does the fact of distribution constitute such a warranty. NOAA and NODC cannot assume liability for any damages caused by any errors or omissions in these data, nor as a result of the failure of these data to function on a particular system.\\n    \"]"
+		"value": "["\n      NOAA makes no warranty regarding these data, expressed or implied, nor does the fact of distribution constitute such a warranty. NOAA and NODC cannot assume liability for any damages caused by any errors or omissions in these data, nor as a result of the failure of these data to function on a particular system.\n    "]"
 	},
 	{
 		"key": "metadata_type",
@@ -167,7 +167,7 @@
 	},
 	{
 		"key": "responsible-party",
-		"value": "[{\"name\": \"Division of Aquatic Resources, Division of Lands and Natural Resources, State of Hawaii\", \"roles\": [\"pointOfContact\"]}]"
+		"value": "[{"name": "Division of Aquatic Resources, Division of Lands and Natural Resources, State of Hawaii", "roles": ["pointOfContact"]}]"
 	},
 	{
 		"key": "temporal-extent-end",
@@ -213,7 +213,7 @@
 		"revision_timestamp": "2013-03-25T23:05:12.923863",
 		"is_organization": true,
 		"state": "active",
-		"image_url": "https:\/\/fortress.wa.gov\/dfw\/score\/score\/images\/noaa_logo.png",
+		"image_url": "https://fortress.wa.gov/dfw/score/score/images/noaa_logo.png",
 		"revision_id": "c6d43080-22e1-405e-a83d-f2a512d9e867",
 		"type": "organization",
 		"id": "e811f0b4-451f-4896-9e8f-fc6802837819",

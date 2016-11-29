@@ -36,7 +36,7 @@
 		"cache_url": null,
 		"name": "ERDAS Imagine *.img format",
 		"created": "2016-07-09T01:26:40.724722",
-		"url": "http:\/\/maps.vcgi.org\/gisdata\/vcgi\/lidar\/2M\/2012\/SLOPE\/",
+		"url": "http://maps.vcgi.org/gisdata/vcgi/lidar/2M/2012/SLOPE/",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 0,
@@ -69,7 +69,7 @@
 	"name": "elevationslope-slope2m",
 	"isopen": false,
 	"url": null,
-	"notes": "This metadata applies to the following collection area(s): Bennington County 2012 2.0m and related SLOPE datasets. Created using ArcGIS \"SLOPE\" command to produce change in elevation over the distance between the cell and its eight neighbors expressed in percent slope or percent grade, i.e., rise\/run * 100. This metadata complies with the VT Geodata Portal format and applies to thematic layers with the same resolution (RESCLASS), e.g., 0p7m, 1m etc., and may include multiple data \"collection\" efforts. For the original vendor metadata containing specific details on each collections \"point cloud\" such as flight dates, nominal pulse spacing and RMSEz etc., see the \"All Available LiDAR\" Product page: (http:\/\/vcgi.vermont.gov\/warehouse\/products\/ALL-LDR_MIX_LIDAR_STATE_ALL). For an overview of the \"Vermont LiDAR Initiative\" please see \"http:\/\/vcgi.vermont.gov\/lidar\".",
+	"notes": "This metadata applies to the following collection area(s): Bennington County 2012 2.0m and related SLOPE datasets. Created using ArcGIS "SLOPE" command to produce change in elevation over the distance between the cell and its eight neighbors expressed in percent slope or percent grade, i.e., rise/run * 100. This metadata complies with the VT Geodata Portal format and applies to thematic layers with the same resolution (RESCLASS), e.g., 0p7m, 1m etc., and may include multiple data "collection" efforts. For the original vendor metadata containing specific details on each collections "point cloud" such as flight dates, nominal pulse spacing and RMSEz etc., see the "All Available LiDAR" Product page: (http://vcgi.vermont.gov/warehouse/products/ALL-LDR_MIX_LIDAR_STATE_ALL). For an overview of the "Vermont LiDAR Initiative" please see "http://vcgi.vermont.gov/lidar".",
 	"license_title": null,
 	"extras": [{
 		"key": "bbox-east-long",
@@ -105,7 +105,7 @@
 	},
 	{
 		"key": "spatial",
-		"value": "{\"type\": \"Polygon\", \"coordinates\": [[[-73.454162, 42.722789], [-71.465281, 42.722789], [-71.465281, 45.018361], [-73.454162, 45.018361], [-73.454162, 42.722789]]]}"
+		"value": "{"type": "Polygon", "coordinates": [[[-73.454162, 42.722789], [-71.465281, 42.722789], [-71.465281, 45.018361], [-73.454162, 45.018361], [-73.454162, 42.722789]]]}"
 	},
 	{
 		"key": "progress",
@@ -113,7 +113,7 @@
 	},
 	{
 		"key": "access_constraints",
-		"value": "[\"Use Constraints: None. No assessment of the accuracy of DEM data or data products has been made by VCGI. Data users should assess DEM data products for appropriate use in a given project.\", \"Access Constraints: VCGI and the State of VT make no representations of any kind, including but not limited to the warranties of merchantability or fitness for a particular use, nor are any such warranties to be implied with respect to the data.\"]"
+		"value": "["Use Constraints: None. No assessment of the accuracy of DEM data or data products has been made by VCGI. Data users should assess DEM data products for appropriate use in a given project.", "Access Constraints: VCGI and the State of VT make no representations of any kind, including but not limited to the warranties of merchantability or fitness for a particular use, nor are any such warranties to be implied with respect to the data."]"
 	},
 	{
 		"key": "temporal-extent-begin",
@@ -133,7 +133,7 @@
 	},
 	{
 		"key": "dataset-reference-date",
-		"value": "[{\"type\": \"publication\", \"value\": \"2016-05-16TAs Updated.\"}]"
+		"value": "[{"type": "publication", "value": "2016-05-16TAs Updated."}]"
 	},
 	{
 		"key": "frequency-of-update",
@@ -141,7 +141,7 @@
 	},
 	{
 		"key": "licence",
-		"value": "[\"VCGI and the State of Vermont make no representations of any kind, including but not limited to the warranties of merchantability or fitness for a particular use, nor are any such warranties to be implied with respect to the data.\"]"
+		"value": "["VCGI and the State of Vermont make no representations of any kind, including but not limited to the warranties of merchantability or fitness for a particular use, nor are any such warranties to be implied with respect to the data."]"
 	},
 	{
 		"key": "metadata_type",
@@ -149,7 +149,7 @@
 	},
 	{
 		"key": "responsible-party",
-		"value": "[{\"name\": \"VT Center for Geographic Information\", \"roles\": [\"pointOfContact\"]}]"
+		"value": "[{"name": "VT Center for Geographic Information", "roles": ["pointOfContact"]}]"
 	},
 	{
 		"key": "temporal-extent-end",
@@ -195,7 +195,7 @@
 		"revision_timestamp": "2013-03-27T17:47:03.718032",
 		"is_organization": true,
 		"state": "active",
-		"image_url": "http:\/\/vcgi.vermont.gov\/sites\/all\/themes\/vt_template\/logo.png",
+		"image_url": "http://vcgi.vermont.gov/sites/all/themes/vt_template/logo.png",
 		"revision_id": "c5dfbbb0-f1e0-4db6-b566-e932e1520060",
 		"type": "organization",
 		"id": "0c3a4ebc-9929-4f21-bdd0-76a35d52f57d",

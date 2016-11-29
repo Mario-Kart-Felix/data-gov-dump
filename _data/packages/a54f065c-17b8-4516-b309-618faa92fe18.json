@@ -37,7 +37,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2015-02-18T15:02:52.096430",
-		"url": "http:\/\/nassgeodata.gmu.edu\/CropScape\/",
+		"url": "http://nassgeodata.gmu.edu/CropScape/",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 0,
@@ -57,11 +57,11 @@
 	"name": "cropscape-cropland-data-layer02c7b",
 	"isopen": false,
 	"url": null,
-	"notes": "The USDA National Agricultural Statistics Service (NASS) releases the annual Cropland Data Layer (CDL) via the NASS CropScape geospatial portal <http:\/\/nassgeodata.gmu.edu\/CropScape\/>. The CDL product depicts agricultural land cover over the Continental United States at 30 meters resolution. CropScape includes historical data dating back to 1997 for some locales. The CDL is an annual raster, geo-referenced, crop-specific land cover data layer produced using satellite imagery and extensive agricultural ground truth collected during the current growing season. The strength and emphasis of CropScape and the CDL is agricultural land cover. Please note that no farmer reported data are derivable from CropScape or the Cropland Data Layer. Please reference CropScape (http:\/\/nassgeodata.gmu.edu\/CropScape\/) or the official CDL website (http:\/\/www.nass.usda.gov\/research\/Cropland\/SARS1a.htm) for a list of the available states and years of data and the individual metadata files that contain the technical details. NASS developed both the CropScape and VegScape web services in cooperation with the Center for Spatial Information Science and Systems, George Mason University, Fairfax, VA.",
+	"notes": "The USDA National Agricultural Statistics Service (NASS) releases the annual Cropland Data Layer (CDL) via the NASS CropScape geospatial portal <http://nassgeodata.gmu.edu/CropScape/>. The CDL product depicts agricultural land cover over the Continental United States at 30 meters resolution. CropScape includes historical data dating back to 1997 for some locales. The CDL is an annual raster, geo-referenced, crop-specific land cover data layer produced using satellite imagery and extensive agricultural ground truth collected during the current growing season. The strength and emphasis of CropScape and the CDL is agricultural land cover. Please note that no farmer reported data are derivable from CropScape or the Cropland Data Layer. Please reference CropScape (http://nassgeodata.gmu.edu/CropScape/) or the official CDL website (http://www.nass.usda.gov/research/Cropland/SARS1a.htm) for a list of the available states and years of data and the individual metadata files that contain the technical details. NASS developed both the CropScape and VegScape web services in cooperation with the Center for Spatial Information Science and Systems, George Mason University, Fairfax, VA.",
 	"license_title": null,
 	"extras": [{
 		"key": "responsible-party",
-		"value": "[{\"name\": \"USDA, NASS, Spatial Analysis Research Section\", \"roles\": [\"pointOfContact\"]}]"
+		"value": "[{"name": "USDA, NASS, Spatial Analysis Research Section", "roles": ["pointOfContact"]}]"
 	},
 	{
 		"key": "contact-email",
@@ -81,7 +81,7 @@
 	},
 	{
 		"key": "dataset-reference-date",
-		"value": "[{\"type\": \"publication\", \"value\": \"2015-02-02\"}]"
+		"value": "[{"type": "publication", "value": "2015-02-02"}]"
 	},
 	{
 		"key": "resource-type",
@@ -109,7 +109,7 @@
 	},
 	{
 		"key": "licence",
-		"value": "[\"Disclaimer: Users of the CropScape and the Cropland Data Layer (CDL) are solely responsible for interpretations made from these products. The CDL is provided 'as is' and the USDA, NASS does not warrant results you may obtain using the Cropland Data Layer. Contact our staff at (HQ_RDD_GIB@nass.usda.gov) if technical questions arise in the use of the CDL. NASS does maintain a Frequently Asked Questions (FAQ's) section on the CDL website at <http:\/\/www.nass.usda.gov\/research\/Cropland\/SARS1a.htm>.\"]"
+		"value": "["Disclaimer: Users of the CropScape and the Cropland Data Layer (CDL) are solely responsible for interpretations made from these products. The CDL is provided 'as is' and the USDA, NASS does not warrant results you may obtain using the Cropland Data Layer. Contact our staff at (HQ_RDD_GIB@nass.usda.gov) if technical questions arise in the use of the CDL. NASS does maintain a Frequently Asked Questions (FAQ's) section on the CDL website at <http://www.nass.usda.gov/research/Cropland/SARS1a.htm>."]"
 	},
 	{
 		"key": "metadata_type",
@@ -121,7 +121,7 @@
 	},
 	{
 		"key": "spatial",
-		"value": "{\"type\": \"Polygon\", \"coordinates\": [[[-127.8873, 23.1496], [-74.1585, 23.1496], [-74.1585, 47.958], [-127.8873, 47.958], [-127.8873, 23.1496]]]}"
+		"value": "{"type": "Polygon", "coordinates": [[[-127.8873, 23.1496], [-74.1585, 23.1496], [-74.1585, 47.958], [-127.8873, 47.958], [-127.8873, 23.1496]]]}"
 	},
 	{
 		"key": "guid",
@@ -133,7 +133,7 @@
 	},
 	{
 		"key": "access_constraints",
-		"value": "[\"Use Constraints: The USDA, NASS Cropland Data Layer and the data offered on the CropScape website is provided to the public as is and is considered public domain and free to redistribute. The USDA, NASS does not warrant any conclusions drawn from these data.\", \"Access Constraints: none\"]"
+		"value": "["Use Constraints: The USDA, NASS Cropland Data Layer and the data offered on the CropScape website is provided to the public as is and is considered public domain and free to redistribute. The USDA, NASS does not warrant any conclusions drawn from these data.", "Access Constraints: none"]"
 	},
 	{
 		"key": "spatial_harvester",
@@ -145,7 +145,7 @@
 	},
 	{
 		"package_id": "a54f065c-17b8-4516-b309-618faa92fe18",
-		"value": "wyoming, colorado, uk-dmc 2, washington, cropland, rhode island, united states, tennessee, kentucky, wisconsin, nevada, agriculture, maine, montana, earth science, mississippi, south dakota, gis, pennsylvania, land cover, cropscape, oklahoma, delaware, minnesota, north carolina, illinois, land surface, nebraska, arkansas, north dakota, crop cover, maryland, louisiana, michigan, idaho, arizona, iowa, agricultural lands, west virginia, ngda, u.s., kansas, digital spatial data, virginia, oregon, connecticut, national geospatial data asset, california, massachusetts, indiana, new york, new jersey, utah, vermont, georgia, biosphere, landsat, florida, us, missouri, terrestrial ecosystems, land use land cover theme, geospatial, new hampshire, texas, land use\/land cover, south carolina, ohio, alabama, deimos-1, new mexico",
+		"value": "wyoming, colorado, uk-dmc 2, washington, cropland, rhode island, united states, tennessee, kentucky, wisconsin, nevada, agriculture, maine, montana, earth science, mississippi, south dakota, gis, pennsylvania, land cover, cropscape, oklahoma, delaware, minnesota, north carolina, illinois, land surface, nebraska, arkansas, north dakota, crop cover, maryland, louisiana, michigan, idaho, arizona, iowa, agricultural lands, west virginia, ngda, u.s., kansas, digital spatial data, virginia, oregon, connecticut, national geospatial data asset, california, massachusetts, indiana, new york, new jersey, utah, vermont, georgia, biosphere, landsat, florida, us, missouri, terrestrial ecosystems, land use land cover theme, geospatial, new hampshire, texas, land use/land cover, south carolina, ohio, alabama, deimos-1, new mexico",
 		"revision_timestamp": "2015-02-18T20:02:51.788733",
 		"state": "active",
 		"key": "tags",
@@ -168,14 +168,14 @@
 		"value": "CropScape"
 	}],
 	"organization": {
-		"description": "http:\/\/www.nass.usda.gov\/",
+		"description": "http://www.nass.usda.gov/",
 		"created": "2013-05-18T11:39:00.999133",
 		"title": "National Agricultural Statistics Service, Department of Agriculture",
 		"name": "nass-usda-gov",
 		"revision_timestamp": "2014-07-11T14:16:29.323779",
 		"is_organization": true,
 		"state": "active",
-		"image_url": "http:\/\/www.data.gov\/app\/uploads\/2014\/07\/USDA_logo.png",
+		"image_url": "http://www.data.gov/app/uploads/2014/07/USDA_logo.png",
 		"revision_id": "890552f7-1105-41db-b814-364da2f40db9",
 		"type": "organization",
 		"id": "5c9259b2-cfb5-44d5-a92b-008ca8c8f182",

@@ -37,7 +37,7 @@
 		"cache_url": null,
 		"name": "Zip File",
 		"created": "2016-03-04T15:45:45.631504",
-		"url": "ftp:\/\/ftp.dfg.ca.gov\/BDB\/GIS\/BIOS\/Public_Datasets\/200_299\/ds294.zip",
+		"url": "ftp://ftp.dfg.ca.gov/BDB/GIS/BIOS/Public_Datasets/200_299/ds294.zip",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 0,
@@ -67,7 +67,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2016-03-04T15:45:45.631542",
-		"url": "http:\/\/bios.dfg.ca.gov",
+		"url": "http://bios.dfg.ca.gov",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 1,
@@ -87,7 +87,7 @@
 	"name": "riparian-area-raptors-sierra-nevada-foothill-ds29426b4c",
 	"isopen": false,
 	"url": null,
-	"notes": "These data are point locations where hawks and owls (raptors) were detected during playback surveys conducted between 28 March 2005 and 21 July 2005 along 36 randomly selected watercourses in the foothills of the Sierra Nevada Mountain Range. These data represent 260 positive responses for several species of hawks and owls to the playback surveys. This study was done by the North Central Region of the California Department of Fish and Game with support from the Resource Assessment Program. These data represent the point locations where individual hawks and owls were detected based on geographic algorithms using estimated distances and compass bearings from fixed points along public roads. Methodology: Playback surveys using MP3 players and battery-powered speakers were done to elicit vocal or behavioral responses from hawks and owls from fixed points along public roads in the foothills of the Sierra Nevada. The surveys were done along 36 randomly selected watercourses, and one or three surveys were done at the points between March and July 2005. Seventeen watercourses had one survey while 19 watercourses had three surveys. Survey periods were (1) March to mid-April, (2) late April to late May, and (3) June to July. Watercourses with one survey were surveyed during the March to mid-April period; watercourses with one survey were dropped from the study after the first survey due to logistic and manpower constraints. Each watercourse had 3-5 fixed points that were between 500-1,000 meters apart to ensure spatial independence. Hawk surveys were conducted between 8:00 am and 5:00 pm, while owl surveys were conducted between 8:30 pm and 4:15 am. Playback surveys were done with fixed sequences of species calls as follows: (1) for hawks, sharp-shinned hawks, Cooper's hawks, and red-shouldered hawks; and (2) for owls, flammulated owl (starting in May), northern saw-whet owl, northern pygmy-owl, western screech-owl, long-eared owl, and great-horned owl. No calls were done for red-tailed hawks, osprey, Swainson's hawks, or barn owls which were detected during the surveys and included in these data. The duration of the playbacks for each species consisted of a 1-minute silent period, a 4-minute playback period with 4 repeated sequences of 30 seconds of vocalizations followed by 30 seconds of silence, and a 1-minute silent period. The speaker initially faced North, and was then rotated South, West, and East with successive 30-second playback\/30-second silence periods. Detected animals were visually or aurally located and identified. Laser rangefinders were used to estimate distances, while compasses were used to derive compass bearings. Habitats of detected animals were determined from field observations during the day for hawks or from aerial photographs with owls based on knowledge of field conditions at the fixed points. A GIS algorithm was used to locate the estimated field locations based on the estimated distances and compass bearings, and then habitats were verified with aerial photographs. The sex and age of each detected individual was determined if possible, and observers rated the confidence of their determination of the number of individuals, species type, sex and age of each detection.",
+	"notes": "These data are point locations where hawks and owls (raptors) were detected during playback surveys conducted between 28 March 2005 and 21 July 2005 along 36 randomly selected watercourses in the foothills of the Sierra Nevada Mountain Range. These data represent 260 positive responses for several species of hawks and owls to the playback surveys. This study was done by the North Central Region of the California Department of Fish and Game with support from the Resource Assessment Program. These data represent the point locations where individual hawks and owls were detected based on geographic algorithms using estimated distances and compass bearings from fixed points along public roads. Methodology: Playback surveys using MP3 players and battery-powered speakers were done to elicit vocal or behavioral responses from hawks and owls from fixed points along public roads in the foothills of the Sierra Nevada. The surveys were done along 36 randomly selected watercourses, and one or three surveys were done at the points between March and July 2005. Seventeen watercourses had one survey while 19 watercourses had three surveys. Survey periods were (1) March to mid-April, (2) late April to late May, and (3) June to July. Watercourses with one survey were surveyed during the March to mid-April period; watercourses with one survey were dropped from the study after the first survey due to logistic and manpower constraints. Each watercourse had 3-5 fixed points that were between 500-1,000 meters apart to ensure spatial independence. Hawk surveys were conducted between 8:00 am and 5:00 pm, while owl surveys were conducted between 8:30 pm and 4:15 am. Playback surveys were done with fixed sequences of species calls as follows: (1) for hawks, sharp-shinned hawks, Cooper's hawks, and red-shouldered hawks; and (2) for owls, flammulated owl (starting in May), northern saw-whet owl, northern pygmy-owl, western screech-owl, long-eared owl, and great-horned owl. No calls were done for red-tailed hawks, osprey, Swainson's hawks, or barn owls which were detected during the surveys and included in these data. The duration of the playbacks for each species consisted of a 1-minute silent period, a 4-minute playback period with 4 repeated sequences of 30 seconds of vocalizations followed by 30 seconds of silence, and a 1-minute silent period. The speaker initially faced North, and was then rotated South, West, and East with successive 30-second playback/30-second silence periods. Detected animals were visually or aurally located and identified. Laser rangefinders were used to estimate distances, while compasses were used to derive compass bearings. Habitats of detected animals were determined from field observations during the day for hawks or from aerial photographs with owls based on knowledge of field conditions at the fixed points. A GIS algorithm was used to locate the estimated field locations based on the estimated distances and compass bearings, and then habitats were verified with aerial photographs. The sex and age of each detected individual was determined if possible, and observers rated the confidence of their determination of the number of individuals, species type, sex and age of each detection.",
 	"license_title": null,
 	"extras": [{
 		"key": "bbox-east-long",
@@ -123,7 +123,7 @@
 	},
 	{
 		"key": "spatial",
-		"value": "{\"type\": \"Polygon\", \"coordinates\": [[[-121.594408, 38.083431], [-120.475186, 38.083431], [-120.475186, 39.691291], [-121.594408, 39.691291], [-121.594408, 38.083431]]]}"
+		"value": "{"type": "Polygon", "coordinates": [[[-121.594408, 38.083431], [-120.475186, 38.083431], [-120.475186, 39.691291], [-121.594408, 39.691291], [-121.594408, 38.083431]]]}"
 	},
 	{
 		"key": "progress",
@@ -131,7 +131,7 @@
 	},
 	{
 		"key": "access_constraints",
-		"value": "[\"Use Constraints: These data can be used without constraints.\", \"Access Constraints: Public use.\"]"
+		"value": "["Use Constraints: These data can be used without constraints.", "Access Constraints: Public use."]"
 	},
 	{
 		"key": "temporal-extent-begin",
@@ -151,7 +151,7 @@
 	},
 	{
 		"key": "dataset-reference-date",
-		"value": "[{\"type\": \"publication\", \"value\": \"2007-03-21\"}]"
+		"value": "[{"type": "publication", "value": "2007-03-21"}]"
 	},
 	{
 		"key": "frequency-of-update",
@@ -159,7 +159,7 @@
 	},
 	{
 		"key": "licence",
-		"value": "[\"Neither the State of California nor the California Department of Fish and Game warrant the correctness or accuracy of the observation data presented in here. They are used at the user's own risk.\"]"
+		"value": "["Neither the State of California nor the California Department of Fish and Game warrant the correctness or accuracy of the observation data presented in here. They are used at the user's own risk."]"
 	},
 	{
 		"key": "metadata_type",
@@ -167,7 +167,7 @@
 	},
 	{
 		"key": "responsible-party",
-		"value": "[{\"name\": \"Resource Assessment Program, California Department of Fish and Game, North Central Region\", \"roles\": [\"pointOfContact\"]}]"
+		"value": "[{"name": "Resource Assessment Program, California Department of Fish and Game, North Central Region", "roles": ["pointOfContact"]}]"
 	},
 	{
 		"key": "temporal-extent-end",
@@ -213,7 +213,7 @@
 		"revision_timestamp": "2013-05-31T17:51:13.706377",
 		"is_organization": true,
 		"state": "active",
-		"image_url": "http:\/\/www.ca.gov\/images\/template2012\/header_ca.gov.png",
+		"image_url": "http://www.ca.gov/images/template2012/header_ca.gov.png",
 		"revision_id": "ad94cda4-9394-44d0-9c37-573dc3c47c9a",
 		"type": "organization",
 		"id": "467d900f-8a42-452d-9906-6610dd1a767f",

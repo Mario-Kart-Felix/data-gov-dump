@@ -37,7 +37,7 @@
 		"cache_url": null,
 		"name": "Esri Rest API Endpoint",
 		"created": "2015-04-25T08:22:52.379958",
-		"url": "http:\/\/atlas.resources.ca.gov\/ArcGIS\/rest\/services\/Ocean\/CSMW_USACE_Navigation_Channels\/MapServer",
+		"url": "http://atlas.resources.ca.gov/ArcGIS/rest/services/Ocean/CSMW_USACE_Navigation_Channels/MapServer",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 0,
@@ -61,7 +61,7 @@
 	"license_title": null,
 	"extras": [{
 		"key": "responsible-party",
-		"value": "[{\"name\": \"\", \"roles\": [\"pointOfContact\"]}]"
+		"value": "[{"name": "", "roles": ["pointOfContact"]}]"
 	},
 	{
 		"key": "contact-email",
@@ -81,7 +81,7 @@
 	},
 	{
 		"key": "dataset-reference-date",
-		"value": "[{\"type\": \"publication\", \"value\": \"9999-01-01\"}]"
+		"value": "[{"type": "publication", "value": "9999-01-01"}]"
 	},
 	{
 		"key": "resource-type",
@@ -109,7 +109,7 @@
 	},
 	{
 		"key": "licence",
-		"value": "[\" \"]"
+		"value": "[" "]"
 	},
 	{
 		"key": "metadata_type",
@@ -121,7 +121,7 @@
 	},
 	{
 		"key": "spatial",
-		"value": "{\"type\": \"Polygon\", \"coordinates\": [[[-124.2594, 32.644614], [-117.120035, 32.644614], [-117.120035, 41.747085], [-124.2594, 41.747085], [-124.2594, 32.644614]]]}"
+		"value": "{"type": "Polygon", "coordinates": [[[-124.2594, 32.644614], [-117.120035, 32.644614], [-117.120035, 41.747085], [-124.2594, 41.747085], [-124.2594, 32.644614]]]}"
 	},
 	{
 		"key": "guid",
@@ -133,7 +133,7 @@
 	},
 	{
 		"key": "access_constraints",
-		"value": "[\"Use Constraints: Not for Navigational Use. Copying and reproduction of eCoastal datasets to any other location outside of the US Army Corps of Engineers for further reproduction or redistribution is discouraged unless approved by the eCoastal Manager. It is assumed that this metadata or a reference to San Francisco District eCoastal will be included with the copied dataset.\", \"Access Constraints:\"]"
+		"value": "["Use Constraints: Not for Navigational Use. Copying and reproduction of eCoastal datasets to any other location outside of the US Army Corps of Engineers for further reproduction or redistribution is discouraged unless approved by the eCoastal Manager. It is assumed that this metadata or a reference to San Francisco District eCoastal will be included with the copied dataset.", "Access Constraints:"]"
 	},
 	{
 		"key": "spatial_harvester",
@@ -175,7 +175,7 @@
 		"revision_timestamp": "2013-05-31T17:51:13.706377",
 		"is_organization": true,
 		"state": "active",
-		"image_url": "http:\/\/www.ca.gov\/images\/template2012\/header_ca.gov.png",
+		"image_url": "http://www.ca.gov/images/template2012/header_ca.gov.png",
 		"revision_id": "ad94cda4-9394-44d0-9c37-573dc3c47c9a",
 		"type": "organization",
 		"id": "467d900f-8a42-452d-9906-6610dd1a767f",

@@ -36,7 +36,7 @@
 		"cache_url": null,
 		"name": "Export",
 		"created": "2014-11-17T16:09:12.784647",
-		"url": "http:\/\/water.usgs.gov\/GIS\/dsdl\/runoff.e00.zip",
+		"url": "http://water.usgs.gov/GIS/dsdl/runoff.e00.zip",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 0,
@@ -65,7 +65,7 @@
 		"cache_url": null,
 		"name": "Export",
 		"created": "2014-11-17T16:09:12.784673",
-		"url": "http:\/\/water.usgs.gov\/GIS\/dsdl\/runoff.e00.gz",
+		"url": "http://water.usgs.gov/GIS/dsdl/runoff.e00.gz",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 1,
@@ -94,7 +94,7 @@
 		"cache_url": null,
 		"name": "Export",
 		"created": "2014-11-17T16:09:12.784680",
-		"url": "http:\/\/water.usgs.gov\/GIS\/dsdl\/runoff.tgz",
+		"url": "http://water.usgs.gov/GIS/dsdl/runoff.tgz",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 2,
@@ -123,7 +123,7 @@
 		"cache_url": null,
 		"name": "SDTS",
 		"created": "2014-11-17T16:09:12.784687",
-		"url": "http:\/\/water.usgs.gov\/GIS\/dsdl\/runoff.sdts.tgz",
+		"url": "http://water.usgs.gov/GIS/dsdl/runoff.sdts.tgz",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 3,
@@ -153,7 +153,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2014-11-17T16:09:12.784696",
-		"url": "http:\/\/water.usgs.gov\/lookup\/getspatial?runoff",
+		"url": "http://water.usgs.gov/lookup/getspatial?runoff",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 4,
@@ -177,11 +177,11 @@
 	"license_title": null,
 	"extras": [{
 		"key": "responsible-party",
-		"value": "[{\"name\": \"U.S. Geological Survey\", \"roles\": [\"pointOfContact\"]}]"
+		"value": "[{"name": "U.S. Geological Survey", "roles": ["pointOfContact"]}]"
 	},
 	{
 		"key": "contact-email",
-		"value": "http:\/\/answers.usgs.gov\/cgi-bin\/gsanswers?pemail=h2oteam&subject=GIS+Dataset+runoff"
+		"value": "http://answers.usgs.gov/cgi-bin/gsanswers?pemail=h2oteam&subject=GIS+Dataset+runoff"
 	},
 	{
 		"key": "metadata-language",
@@ -197,7 +197,7 @@
 	},
 	{
 		"key": "dataset-reference-date",
-		"value": "[{\"type\": \"publication\", \"value\": \"1987-01-01\"}]"
+		"value": "[{"type": "publication", "value": "1987-01-01"}]"
 	},
 	{
 		"key": "resource-type",
@@ -225,7 +225,7 @@
 	},
 	{
 		"key": "licence",
-		"value": "[\"Although this data set has been used by the U.S. Geological\\nSurvey, U.S. Department of the Interior, no warranty expressed or\\nimplied is made by the U.S. Geological Survey as to the accuracy\\nof the data and related materials. The act of distribution shall not \\nconstitute any such warranty, and no responsibility is assumed by \\nthe U.S. Geological Survey in the use of this data, software, or \\nrelated materials.\\n\\nAny use of trade, product, or firm names is for descriptive\\npurposes only and does not imply endorsement by the U.S.\\nGovernment.\"]"
+		"value": "["Although this data set has been used by the U.S. Geological\nSurvey, U.S. Department of the Interior, no warranty expressed or\nimplied is made by the U.S. Geological Survey as to the accuracy\nof the data and related materials. The act of distribution shall not \nconstitute any such warranty, and no responsibility is assumed by \nthe U.S. Geological Survey in the use of this data, software, or \nrelated materials.\n\nAny use of trade, product, or firm names is for descriptive\npurposes only and does not imply endorsement by the U.S.\nGovernment."]"
 	},
 	{
 		"key": "metadata_type",
@@ -237,7 +237,7 @@
 	},
 	{
 		"key": "spatial",
-		"value": "{\"type\": \"Polygon\", \"coordinates\": [[[-127.7850453, 23.07560884], [-65.54477747, 23.07560884], [-65.54477747, 48.20787697], [-127.7850453, 48.20787697], [-127.7850453, 23.07560884]]]}"
+		"value": "{"type": "Polygon", "coordinates": [[[-127.7850453, 23.07560884], [-65.54477747, 23.07560884], [-65.54477747, 48.20787697], [-127.7850453, 48.20787697], [-127.7850453, 23.07560884]]]}"
 	},
 	{
 		"key": "guid",
@@ -249,7 +249,7 @@
 	},
 	{
 		"key": "access_constraints",
-		"value": "[\"Use Constraints: The coverage should not be used to estimate the streamflow at a specific site. More detailed information can be obtained from streamflow data collected by USGS or other agencies. The digital data is more extensive than either publication (see above) portrays. Only contours with the following values are continuous (that is, no state line faults exist) and some of these contours were not printed if the data was too dense to fit at the publication scale: 1, 2, 5, 10, 15, 20, 25, 30, 40, 60, 80, 100, 120, 160\", \"Access Constraints: (describe any restrictions or legal prerequisites for accessing the data set. Put \\\"None\\\" if there are no restrictions)\"]"
+		"value": "["Use Constraints: The coverage should not be used to estimate the streamflow at a specific site. More detailed information can be obtained from streamflow data collected by USGS or other agencies. The digital data is more extensive than either publication (see above) portrays. Only contours with the following values are continuous (that is, no state line faults exist) and some of these contours were not printed if the data was too dense to fit at the publication scale: 1, 2, 5, 10, 15, 20, 25, 30, 40, 60, 80, 100, 120, 160", "Access Constraints: (describe any restrictions or legal prerequisites for accessing the data set. Put \"None\" if there are no restrictions)"]"
 	},
 	{
 		"key": "spatial_harvester",
@@ -284,14 +284,14 @@
 		"value": "Water NSDI Node Spatial Datasets"
 	}],
 	"organization": {
-		"description": "http:\/\/www.usgs.gov\/\r\nThe USGS is a federal science agency that provides impartial information on the health of our ecosystems and environment, the natural hazards that threaten us, the natural resources we rely on, the impacts of climate and land-use change, and the core science systems that help us provide timely, relevant, and useable information.",
+		"description": "http://www.usgs.gov/rnThe USGS is a federal science agency that provides impartial information on the health of our ecosystems and environment, the natural hazards that threaten us, the natural resources we rely on, the impacts of climate and land-use change, and the core science systems that help us provide timely, relevant, and useable information.",
 		"created": "2013-03-14T03:44:38.263357",
 		"title": "U.S. Geological Survey, Department of the Interior",
 		"name": "usgs-gov",
 		"revision_timestamp": "2014-09-02T13:43:52.167023",
 		"is_organization": true,
 		"state": "active",
-		"image_url": "http:\/\/pubs.usgs.gov\/sir\/2004\/5296\/04-5296_confluence_park\/usgs_logo.gif",
+		"image_url": "http://pubs.usgs.gov/sir/2004/5296/04-5296_confluence_park/usgs_logo.gif",
 		"revision_id": "2858aa99-9501-4f96-82e5-9647b968ed66",
 		"type": "organization",
 		"id": "bd2cdd5a-4d65-46c0-9937-c8381175f104",

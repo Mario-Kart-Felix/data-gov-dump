@@ -31,11 +31,11 @@
 		},
 		"mimetype_inner": null,
 		"revision_id": "244782ee-2c8a-456a-9d01-951ff9dfd97d",
-		"mimetype": "text\/html",
+		"mimetype": "text/html",
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2016-09-20T00:25:49.343017",
-		"url": "http:\/\/iowadot.maps.arcgis.com\/home\/webmap\/viewer.html?useExisting=1&layers=d252e5463afe4317bd0dc7c0086338db",
+		"url": "http://iowadot.maps.arcgis.com/home/webmap/viewer.html?useExisting=1&layers=d252e5463afe4317bd0dc7c0086338db",
 		"webstore_url": null,
 		"last_modified": null,
 		"position": 0,
@@ -195,7 +195,7 @@
 	"name": "traffic-cameras-fc",
 	"isopen": false,
 	"url": null,
-	"notes": "This geospatial application allows you to load motion videos from the Iowa Department of Transportation's Intelligent Transportation System (ITS) CCTV Cameras.\r\n\r\nNote: This is an Esri Feature Collection which is different than an Esri Feature Service. Feature Collections allow for high-availability. There are unique characteristics that need to be considered when using this data type: 1) It is a file-based data type so there is no REST endpoint. However, there is JSON that can parsed out. See link at the bottom of this page.; 2) You cannot set a refresh interval in the map document, you must use the Info Summary Widget inside an application or hard-code the refresh in a custom application.; 3) The rotation setting gets wiped out each time the dataset is updated. When you add a feature collection to a new map, you will have to set the rotation. If you have an existing saved map this doesn\u2019t apply to you.",
+	"notes": "This geospatial application allows you to load motion videos from the Iowa Department of Transportation's Intelligent Transportation System (ITS) CCTV Cameras.rnrnNote: This is an Esri Feature Collection which is different than an Esri Feature Service. Feature Collections allow for high-availability. There are unique characteristics that need to be considered when using this data type: 1) It is a file-based data type so there is no REST endpoint. However, there is JSON that can parsed out. See link at the bottom of this page.; 2) You cannot set a refresh interval in the map document, you must use the Info Summary Widget inside an application or hard-code the refresh in a custom application.; 3) The rotation setting gets wiped out each time the dataset is updated. When you add a feature collection to a new map, you will have to set the rotation. If you have an existing saved map this doesnu2019t apply to you.",
 	"license_title": "License Not Specified",
 	"extras": [{
 		"key": "publisher",
@@ -207,7 +207,7 @@
 	},
 	{
 		"key": "catalog_describedBy",
-		"value": "https:\/\/project-open-data.cio.gov\/v1.1\/schema\/catalog.json"
+		"value": "https://project-open-data.cio.gov/v1.1/schema/catalog.json"
 	},
 	{
 		"key": "harvest_source_id",
@@ -215,7 +215,7 @@
 	},
 	{
 		"key": "catalog_@context",
-		"value": "https:\/\/project-open-data.cio.gov\/v1.1\/schema\/catalog.jsonld"
+		"value": "https://project-open-data.cio.gov/v1.1/schema/catalog.jsonld"
 	},
 	{
 		"key": "issued",
@@ -247,19 +247,19 @@
 	},
 	{
 		"key": "catalog_@id",
-		"value": "https:\/\/data.iowa.gov\/data.json"
+		"value": "https://data.iowa.gov/data.json"
 	},
 	{
 		"key": "catalog_conformsTo",
-		"value": "https:\/\/project-open-data.cio.gov\/v1.1\/schema"
+		"value": "https://project-open-data.cio.gov/v1.1/schema"
 	},
 	{
 		"key": "identifier",
-		"value": "https:\/\/data.iowa.gov\/api\/views\/aekb-dzjg"
+		"value": "https://data.iowa.gov/api/views/aekb-dzjg"
 	},
 	{
 		"key": "landingPage",
-		"value": "https:\/\/data.iowa.gov\/d\/aekb-dzjg"
+		"value": "https://data.iowa.gov/d/aekb-dzjg"
 	},
 	{
 		"key": "harvest_object_id",

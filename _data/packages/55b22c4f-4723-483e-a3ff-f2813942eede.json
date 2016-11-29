@@ -36,7 +36,7 @@
 		"cache_url": null,
 		"name": "GEOTIFF",
 		"created": "2016-07-15T21:34:01.588656",
-		"url": "http:\/\/www.nass.usda.gov\/Research_and_Science\/Cropland\/Release\/index.php",
+		"url": "http://www.nass.usda.gov/Research_and_Science/Cropland/Release/index.php",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 0,
@@ -66,7 +66,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2016-07-15T21:34:01.588679",
-		"url": "http:\/\/<http:\/\/nassgeodata.gmu.edu\/CropScape\/ID>",
+		"url": "http://<http://nassgeodata.gmu.edu/CropScape/ID>",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 1,
@@ -86,7 +86,7 @@
 	"name": "usda-national-agricultural-statistics-service-2005-idaho-cropland-data-layer",
 	"isopen": false,
 	"url": null,
-	"notes": "The 2005 Idaho CDL is part of a joint research project with Utah State University, the United Potato Growers of Idaho and the Farm Service Agency. This 30 meter version of the USDA-NASS 2005 Idaho Cropland Data Layer is a raster, geo-referenced, categorized land cover data layer produced using satellite imagery from the Thematic Mapper (TM) instrument on Landsat 5. The approximate scale is 1:100,000 with a ground resolution of 30 meters by 30 meters. The area of coverage for 2005 is the southern half of Idaho. This is part of an annual series in which several states are categorized annually based on the extensive field observations collected during the annual NASS June Agricultural Survey. Please refer to the 'Supplemental_Information' Section of this metadata file for a complete list of all imagery, ancillary data, and training\/validation data used to generate this state's CDL. The strength and emphasis of the CDL is agricultural land cover. Please note that no farmer reported data are derivable from the Cropland Data Layer.",
+	"notes": "The 2005 Idaho CDL is part of a joint research project with Utah State University, the United Potato Growers of Idaho and the Farm Service Agency. This 30 meter version of the USDA-NASS 2005 Idaho Cropland Data Layer is a raster, geo-referenced, categorized land cover data layer produced using satellite imagery from the Thematic Mapper (TM) instrument on Landsat 5. The approximate scale is 1:100,000 with a ground resolution of 30 meters by 30 meters. The area of coverage for 2005 is the southern half of Idaho. This is part of an annual series in which several states are categorized annually based on the extensive field observations collected during the annual NASS June Agricultural Survey. Please refer to the 'Supplemental_Information' Section of this metadata file for a complete list of all imagery, ancillary data, and training/validation data used to generate this state's CDL. The strength and emphasis of the CDL is agricultural land cover. Please note that no farmer reported data are derivable from the Cropland Data Layer.",
 	"license_title": null,
 	"extras": [{
 		"key": "bbox-east-long",
@@ -122,7 +122,7 @@
 	},
 	{
 		"key": "spatial",
-		"value": "{\"type\": \"Polygon\", \"coordinates\": [[[-94.6182, 32.9695], [-89.7603, 32.9695], [-89.7603, 36.5208], [-94.6182, 36.5208], [-94.6182, 32.9695]]]}"
+		"value": "{"type": "Polygon", "coordinates": [[[-94.6182, 32.9695], [-89.7603, 32.9695], [-89.7603, 36.5208], [-94.6182, 36.5208], [-94.6182, 32.9695]]]}"
 	},
 	{
 		"key": "progress",
@@ -130,7 +130,7 @@
 	},
 	{
 		"key": "access_constraints",
-		"value": "[\"Use Constraints: The USDA, NASS Cropland Data Layer is provided to the public as is and is considered public domain and free to redistribute. The USDA, NASS does not warrant any conclusions drawn from these data. If the user does not have software capable of viewing GEOTIF (.tif) file formats then we suggest using the Cropscape website <http:\/\/nassgeodata.gmu.edu\/CropScape\/> or the freeware browser ESRI ArcGIS Explorer <http:\/\/www.esri.com\/>.\", \"Access Constraints: None\"]"
+		"value": "["Use Constraints: The USDA, NASS Cropland Data Layer is provided to the public as is and is considered public domain and free to redistribute. The USDA, NASS does not warrant any conclusions drawn from these data. If the user does not have software capable of viewing GEOTIF (.tif) file formats then we suggest using the Cropscape website <http://nassgeodata.gmu.edu/CropScape/> or the freeware browser ESRI ArcGIS Explorer <http://www.esri.com/>.", "Access Constraints: None"]"
 	},
 	{
 		"key": "temporal-extent-begin",
@@ -150,7 +150,7 @@
 	},
 	{
 		"key": "dataset-reference-date",
-		"value": "[{\"type\": \"publication\", \"value\": \"2006-03-14\"}]"
+		"value": "[{"type": "publication", "value": "2006-03-14"}]"
 	},
 	{
 		"key": "frequency-of-update",
@@ -158,7 +158,7 @@
 	},
 	{
 		"key": "licence",
-		"value": "[\"Disclaimer: Users of the Cropland Data Layer (CDL) are solely responsible for interpretations made from these products. The CDL is provided 'as is' and the USDA, NASS does not warrant results you may obtain using the Cropland Data Layer. Contact our staff at (HQ_RDD_GIB@nass.usda.gov ) if technical questions arise in the use of the CDL. NASS does maintain a Frequently Asked Questions (FAQ's) section on the CDL website at <http:\/\/www.nass.usda.gov\/research\/Cropland\/SARS1a.htm>.\"]"
+		"value": "["Disclaimer: Users of the Cropland Data Layer (CDL) are solely responsible for interpretations made from these products. The CDL is provided 'as is' and the USDA, NASS does not warrant results you may obtain using the Cropland Data Layer. Contact our staff at (HQ_RDD_GIB@nass.usda.gov ) if technical questions arise in the use of the CDL. NASS does maintain a Frequently Asked Questions (FAQ's) section on the CDL website at <http://www.nass.usda.gov/research/Cropland/SARS1a.htm>."]"
 	},
 	{
 		"key": "metadata_type",
@@ -166,7 +166,7 @@
 	},
 	{
 		"key": "responsible-party",
-		"value": "[{\"name\": \"USDA, NASS, Spatial Analysis Research Section\", \"roles\": [\"pointOfContact\"]}]"
+		"value": "[{"name": "USDA, NASS, Spatial Analysis Research Section", "roles": ["pointOfContact"]}]"
 	},
 	{
 		"key": "temporal-extent-end",
@@ -182,7 +182,7 @@
 	},
 	{
 		"package_id": "55b22c4f-4723-483e-a3ff-f2813942eede",
-		"value": "united states of america, cropland, north america, crop estimates, agriculture, continent, earth science, land cover, cropscape, land surface, crop cover, farming, awifs, idaho, modis, agricultural lands, land use\/land cover, biosphere, landsat, terrestrial ecosystems, moderate-resolution imaging spectroradiometer, 2005",
+		"value": "united states of america, cropland, north america, crop estimates, agriculture, continent, earth science, land cover, cropscape, land surface, crop cover, farming, awifs, idaho, modis, agricultural lands, land use/land cover, biosphere, landsat, terrestrial ecosystems, moderate-resolution imaging spectroradiometer, 2005",
 		"revision_timestamp": "2016-07-16T01:34:01.449740",
 		"state": "active",
 		"key": "tags",
@@ -212,7 +212,7 @@
 		"revision_timestamp": "2015-01-16T18:28:14.593903",
 		"is_organization": true,
 		"state": "active",
-		"image_url": "http:\/\/upload.wikimedia.org\/wikipedia\/en\/thumb\/4\/44\/University_of_Idaho_seal.svg\/300px-University_of_Idaho_seal.svg.png",
+		"image_url": "http://upload.wikimedia.org/wikipedia/en/thumb/4/44/University_of_Idaho_seal.svg/300px-University_of_Idaho_seal.svg.png",
 		"revision_id": "761955d7-9530-4622-8609-d0b01c78e177",
 		"type": "organization",
 		"id": "75e22a8a-da5f-46f3-93d8-924063a3703d",

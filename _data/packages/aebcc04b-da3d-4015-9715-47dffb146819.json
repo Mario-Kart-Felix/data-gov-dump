@@ -34,9 +34,9 @@
 		"resource_locator_protocol": "WWW:LINK-1.0-http--link",
 		"mimetype": null,
 		"cache_url": null,
-		"name": "http:\/\/oceanwatch.pifsc.noaa.gov\/",
+		"name": "http://oceanwatch.pifsc.noaa.gov/",
 		"created": "2016-04-11T17:05:45.662480",
-		"url": "http:\/\/oceanwatch.pifsc.noaa.gov\/",
+		"url": "http://oceanwatch.pifsc.noaa.gov/",
 		"webstore_url": null,
 		"resource_locator_function": "download",
 		"position": 0,
@@ -63,9 +63,9 @@
 		"resource_locator_protocol": "WWW:LINK-1.0-http--link",
 		"mimetype": null,
 		"cache_url": null,
-		"name": "http:\/\/oceanwatch.pifsc.noaa.gov\/thredds\/catalog.html?dataset=mon-aqua",
+		"name": "http://oceanwatch.pifsc.noaa.gov/thredds/catalog.html?dataset=mon-aqua",
 		"created": "2016-04-11T17:05:45.662516",
-		"url": "http:\/\/oceanwatch.pifsc.noaa.gov\/thredds\/catalog.html?dataset=mon-aqua",
+		"url": "http://oceanwatch.pifsc.noaa.gov/thredds/catalog.html?dataset=mon-aqua",
 		"webstore_url": null,
 		"resource_locator_function": "download",
 		"position": 1,
@@ -94,7 +94,7 @@
 		"cache_url": null,
 		"name": "Website",
 		"created": "2016-04-11T17:05:45.662525",
-		"url": "http:\/\/www.pifsc.noaa.gov",
+		"url": "http://www.pifsc.noaa.gov",
 		"webstore_url": null,
 		"resource_locator_function": "information",
 		"position": 2,
@@ -123,7 +123,7 @@
 		"cache_url": null,
 		"name": "Website",
 		"created": "2016-04-11T17:05:45.662533",
-		"url": "http:\/\/www.pifsc.noaa.gov",
+		"url": "http://www.pifsc.noaa.gov",
 		"webstore_url": null,
 		"resource_locator_function": "information",
 		"position": 3,
@@ -152,7 +152,7 @@
 		"cache_url": null,
 		"name": "Website",
 		"created": "2016-04-11T17:05:45.662540",
-		"url": "http:\/\/www.pifsc.noaa.gov",
+		"url": "http://www.pifsc.noaa.gov",
 		"webstore_url": null,
 		"resource_locator_function": "information",
 		"position": 4,
@@ -169,7 +169,7 @@
 		"state": "active",
 		"last_modified": null,
 		"hash": "",
-		"description": "This page describes the NASA GCMD Keywords, how\n                                                        to reference those keywords and provides download instructions.\n                                                    ",
+		"description": "This page describes the NASA GCMD Keywords, hown                                                        to reference those keywords and provides download instructions.n                                                    ",
 		"format": "HTML",
 		"tracking_summary": {
 			"total": 467,
@@ -181,7 +181,7 @@
 		"cache_url": null,
 		"name": "GCMD Keywords Page",
 		"created": "2016-04-11T17:05:45.662546",
-		"url": "http:\/\/gcmd.nasa.gov\/learn\/keyword_list.html",
+		"url": "http://gcmd.nasa.gov/learn/keyword_list.html",
 		"webstore_url": null,
 		"resource_locator_function": "information",
 		"position": 5,
@@ -203,7 +203,7 @@
 		"revision_timestamp": "2013-03-25T23:05:12.923863",
 		"is_organization": true,
 		"state": "active",
-		"image_url": "https:\/\/fortress.wa.gov\/dfw\/score\/score\/images\/noaa_logo.png",
+		"image_url": "https://fortress.wa.gov/dfw/score/score/images/noaa_logo.png",
 		"revision_id": "c6d43080-22e1-405e-a83d-f2a512d9e867",
 		"type": "organization",
 		"id": "e811f0b4-451f-4896-9e8f-fc6802837819",
@@ -250,7 +250,7 @@
 	},
 	{
 		"key": "spatial",
-		"value": "{\"type\": \"Polygon\", \"coordinates\": [[[-180.0, -70.0], [180.0, -70.0], [180.0, 70.0], [-180.0, 70.0], [-180.0, -70.0]]]}"
+		"value": "{"type": "Polygon", "coordinates": [[[-180.0, -70.0], [180.0, -70.0], [180.0, 70.0], [-180.0, 70.0], [-180.0, -70.0]]]}"
 	},
 	{
 		"key": "progress",
@@ -258,7 +258,7 @@
 	},
 	{
 		"key": "access_constraints",
-		"value": "[\"Access Constraints: None | Use Constraints: Disclaimer - While every effort has been made to ensure that these data are accurate and reliable within the limits of the current state of the art, NOAA cannot assume liability for any damages caused by any errors or omissions in the data, nor as a result of the failure of the data to function on a particular system. NOAA makes no warranty, expressed or implied, nor does the fact of distribution constitute such a warranty.\"]"
+		"value": "["Access Constraints: None | Use Constraints: Disclaimer - While every effort has been made to ensure that these data are accurate and reliable within the limits of the current state of the art, NOAA cannot assume liability for any damages caused by any errors or omissions in the data, nor as a result of the failure of the data to function on a particular system. NOAA makes no warranty, expressed or implied, nor does the fact of distribution constitute such a warranty."]"
 	},
 	{
 		"key": "temporal-extent-begin",
@@ -278,7 +278,7 @@
 	},
 	{
 		"key": "dataset-reference-date",
-		"value": "[{\"type\": \"publication\", \"value\": \"\"}]"
+		"value": "[{"type": "publication", "value": ""}]"
 	},
 	{
 		"key": "frequency-of-update",
@@ -294,7 +294,7 @@
 	},
 	{
 		"key": "responsible-party",
-		"value": "[{\"name\": \"Pacific Islands Fisheries Science Center\", \"roles\": [\"pointOfContact\"]}]"
+		"value": "[{"name": "Pacific Islands Fisheries Science Center", "roles": ["pointOfContact"]}]"
 	},
 	{
 		"key": "spatial-data-service-type",
@@ -306,7 +306,7 @@
 	},
 	{
 		"key": "tags",
-		"value": "modis, satellite, chlorophyll, near real-time weekly, remote sensing, monthly, global, aqua, national marine fisheries service, noaa, u.s. department of commerce, daily, nasa, ocean color, doc\/noaa\/nmfs, ow, pifsc oceanwatch (ow) metadata portfolio, pifsc, weekly",
+		"value": "modis, satellite, chlorophyll, near real-time weekly, remote sensing, monthly, global, aqua, national marine fisheries service, noaa, u.s. department of commerce, daily, nasa, ocean color, doc/noaa/nmfs, ow, pifsc oceanwatch (ow) metadata portfolio, pifsc, weekly",
 		"__extras": {
 			"revision_id": "ab9d276f-5b69-47fa-b1f6-1b527db286f5",
 			"package_id": "aebcc04b-da3d-4015-9715-47dffb146819"

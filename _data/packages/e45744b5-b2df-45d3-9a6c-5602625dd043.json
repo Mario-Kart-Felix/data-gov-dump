@@ -36,7 +36,7 @@
 		"cache_url": null,
 		"name": "shapefile",
 		"created": "2016-02-17T01:25:39.952203",
-		"url": "http:\/\/mrdata.usgs.gov\/ngdb\/rock\/ngdbrock.zip",
+		"url": "http://mrdata.usgs.gov/ngdb/rock/ngdbrock.zip",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 0,
@@ -65,7 +65,7 @@
 		"cache_url": null,
 		"name": "CSV",
 		"created": "2016-02-17T01:25:39.952238",
-		"url": "http:\/\/mrdata.usgs.gov\/ngdb\/rock\/ngdbrock-tab.zip",
+		"url": "http://mrdata.usgs.gov/ngdb/rock/ngdbrock-tab.zip",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 1,
@@ -94,7 +94,7 @@
 		"cache_url": null,
 		"name": "OGC WMS",
 		"created": "2016-02-17T01:25:39.952247",
-		"url": "http:\/\/mrdata.usgs.gov\/services\/ngdbrock?request=getcapabilities&service=WMS&version=1.1.1&",
+		"url": "http://mrdata.usgs.gov/services/ngdbrock?request=getcapabilities&service=WMS&version=1.1.1&",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 2,
@@ -123,7 +123,7 @@
 		"cache_url": null,
 		"name": "OGC WFS",
 		"created": "2016-02-17T01:25:39.952264",
-		"url": "http:\/\/mrdata.usgs.gov\/wfs\/ngdbrock?request=getcapabilities&service=WFS&version=1.0.0&",
+		"url": "http://mrdata.usgs.gov/wfs/ngdbrock?request=getcapabilities&service=WFS&version=1.0.0&",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 3,
@@ -153,7 +153,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2016-02-17T01:25:39.952274",
-		"url": "http:\/\/mrdata.usgs.gov\/ngdb\/rock\/",
+		"url": "http://mrdata.usgs.gov/ngdb/rock/",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 4,
@@ -209,7 +209,7 @@
 	},
 	{
 		"key": "spatial",
-		"value": "{\"type\": \"Polygon\", \"coordinates\": [[[-180.0, -85.5], [179.9, -85.5], [179.9, 84.2], [-180.0, 84.2], [-180.0, -85.5]]]}"
+		"value": "{"type": "Polygon", "coordinates": [[[-180.0, -85.5], [179.9, -85.5], [179.9, 84.2], [-180.0, 84.2], [-180.0, -85.5]]]}"
 	},
 	{
 		"key": "progress",
@@ -217,7 +217,7 @@
 	},
 	{
 		"key": "access_constraints",
-		"value": "[\"Use Constraints: The U.S. Geological Survey makes no warranties related to the accuracy of the data and users are required to determine the suitability of use for any particular purpose.\", \"Access Constraints: None\"]"
+		"value": "["Use Constraints: The U.S. Geological Survey makes no warranties related to the accuracy of the data and users are required to determine the suitability of use for any particular purpose.", "Access Constraints: None"]"
 	},
 	{
 		"key": "temporal-extent-begin",
@@ -237,7 +237,7 @@
 	},
 	{
 		"key": "dataset-reference-date",
-		"value": "[{\"type\": \"publication\", \"value\": \"2008-01-01\"}]"
+		"value": "[{"type": "publication", "value": "2008-01-01"}]"
 	},
 	{
 		"key": "frequency-of-update",
@@ -245,7 +245,7 @@
 	},
 	{
 		"key": "licence",
-		"value": "[\"These data are released on the condition that neither the U.S.\\nGeological Survey (USGS) nor the United States Government may be\\nheld liable for any damages resulting from authorized or\\nunauthorized use.  The USGS provides these data \\\"as is\\\" and makes\\nno guarantee or warranty concerning the accuracy of information\\ncontained in the data.  The USGS further makes no warranties,\\neither expressed or implied as to any other matter, whatsoever,\\nincluding, without limitation, the condition of the product, or its\\nfitness for any particular purpose.  The burden for determining\\nfitness for use lies entirely with the user.\"]"
+		"value": "["These data are released on the condition that neither the U.S.\nGeological Survey (USGS) nor the United States Government may be\nheld liable for any damages resulting from authorized or\nunauthorized use.  The USGS provides these data \"as is\" and makes\nno guarantee or warranty concerning the accuracy of information\ncontained in the data.  The USGS further makes no warranties,\neither expressed or implied as to any other matter, whatsoever,\nincluding, without limitation, the condition of the product, or its\nfitness for any particular purpose.  The burden for determining\nfitness for use lies entirely with the user."]"
 	},
 	{
 		"key": "metadata_type",
@@ -253,7 +253,7 @@
 	},
 	{
 		"key": "responsible-party",
-		"value": "[{\"name\": \"U.S. Geological Survey\", \"roles\": [\"pointOfContact\"]}]"
+		"value": "[{"name": "U.S. Geological Survey", "roles": ["pointOfContact"]}]"
 	},
 	{
 		"key": "temporal-extent-end",
@@ -292,14 +292,14 @@
 		"value": "Mineral Resources Online Spatial Data"
 	}],
 	"organization": {
-		"description": "http:\/\/www.usgs.gov\/\r\nThe USGS is a federal science agency that provides impartial information on the health of our ecosystems and environment, the natural hazards that threaten us, the natural resources we rely on, the impacts of climate and land-use change, and the core science systems that help us provide timely, relevant, and useable information.",
+		"description": "http://www.usgs.gov/rnThe USGS is a federal science agency that provides impartial information on the health of our ecosystems and environment, the natural hazards that threaten us, the natural resources we rely on, the impacts of climate and land-use change, and the core science systems that help us provide timely, relevant, and useable information.",
 		"created": "2013-03-14T03:44:38.263357",
 		"title": "U.S. Geological Survey, Department of the Interior",
 		"name": "usgs-gov",
 		"revision_timestamp": "2014-09-02T13:43:52.167023",
 		"is_organization": true,
 		"state": "active",
-		"image_url": "http:\/\/pubs.usgs.gov\/sir\/2004\/5296\/04-5296_confluence_park\/usgs_logo.gif",
+		"image_url": "http://pubs.usgs.gov/sir/2004/5296/04-5296_confluence_park/usgs_logo.gif",
 		"revision_id": "2858aa99-9501-4f96-82e5-9647b968ed66",
 		"type": "organization",
 		"id": "bd2cdd5a-4d65-46c0-9937-c8381175f104",

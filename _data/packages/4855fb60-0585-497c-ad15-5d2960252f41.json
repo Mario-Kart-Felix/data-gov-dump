@@ -36,7 +36,7 @@
 		"cache_url": null,
 		"name": "Shapefile",
 		"created": "2016-01-16T08:42:07.448588",
-		"url": "http:\/\/dds.cr.usgs.gov\/pub\/data\/nationalatlas\/bbsrtsl020_nt00071.tar.gz",
+		"url": "http://dds.cr.usgs.gov/pub/data/nationalatlas/bbsrtsl020_nt00071.tar.gz",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 0,
@@ -66,7 +66,7 @@
 		"cache_url": null,
 		"name": "TAR Compressed File",
 		"created": "2016-01-16T08:42:07.448631",
-		"url": "http:\/\/dds.cr.usgs.gov\/pub\/data\/nationalatlas\/bbsrtsl020_nt00071.tar.gz",
+		"url": "http://dds.cr.usgs.gov/pub/data/nationalatlas/bbsrtsl020_nt00071.tar.gz",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 1,
@@ -122,7 +122,7 @@
 	},
 	{
 		"key": "spatial",
-		"value": "{\"type\": \"Polygon\", \"coordinates\": [[[124.9, 24.6], [-67.0, 24.6], [-67.0, 49.0], [124.9, 49.0], [124.9, 24.6]]]}"
+		"value": "{"type": "Polygon", "coordinates": [[[124.9, 24.6], [-67.0, 24.6], [-67.0, 49.0], [124.9, 49.0], [124.9, 24.6]]]}"
 	},
 	{
 		"key": "progress",
@@ -130,7 +130,7 @@
 	},
 	{
 		"key": "access_constraints",
-		"value": "[\"Use Constraints: None. Acknowledgment of the National Atlas of the United States of America and (or) the U.S. Geological Survey Patuxent Wildlife Research Center would be appreciated in products derived from these data.\", \"Access Constraints: None\"]"
+		"value": "["Use Constraints: None. Acknowledgment of the National Atlas of the United States of America and (or) the U.S. Geological Survey Patuxent Wildlife Research Center would be appreciated in products derived from these data.", "Access Constraints: None"]"
 	},
 	{
 		"key": "temporal-extent-begin",
@@ -150,7 +150,7 @@
 	},
 	{
 		"key": "dataset-reference-date",
-		"value": "[{\"type\": \"publication\", \"value\": \"1999-02-11\"}]"
+		"value": "[{"type": "publication", "value": "1999-02-11"}]"
 	},
 	{
 		"key": "frequency-of-update",
@@ -158,7 +158,7 @@
 	},
 	{
 		"key": "licence",
-		"value": "[\"Although these data have been processed successfully on a computer system at the USGS\\n      Patuxent Wildlife Research Center, no warranty expressed or implied is made regarding the\\n      accuracy or utility of the data on any other system or for general or scientific purposes, nor\\n      shall the act of distribution constitute any such warranty. This disclaimer applies both to\\n      individual use of the data and aggregate use with other data. It is strongly recommended that\\n      these data be directly acquired from a U.S. Geological Survey server, and not indirectly\\n      through other sources which may have changed the data in some way. It is also strongly\\n      recommended that careful attention be paid to the contents of the metadata file associated\\n      with these data. The U.S. Geological Survey and USGS Patuxent Wildlife Research Center shall\\n      not be held liable for improper or incorrect use of the data described and (or) contained\\n      herein.\"]"
+		"value": "["Although these data have been processed successfully on a computer system at the USGS\n      Patuxent Wildlife Research Center, no warranty expressed or implied is made regarding the\n      accuracy or utility of the data on any other system or for general or scientific purposes, nor\n      shall the act of distribution constitute any such warranty. This disclaimer applies both to\n      individual use of the data and aggregate use with other data. It is strongly recommended that\n      these data be directly acquired from a U.S. Geological Survey server, and not indirectly\n      through other sources which may have changed the data in some way. It is also strongly\n      recommended that careful attention be paid to the contents of the metadata file associated\n      with these data. The U.S. Geological Survey and USGS Patuxent Wildlife Research Center shall\n      not be held liable for improper or incorrect use of the data described and (or) contained\n      herein."]"
 	},
 	{
 		"key": "metadata_type",
@@ -166,7 +166,7 @@
 	},
 	{
 		"key": "responsible-party",
-		"value": "[{\"name\": \"USGS Patuxent Wildlife Research Center\", \"roles\": [\"pointOfContact\"]}]"
+		"value": "[{"name": "USGS Patuxent Wildlife Research Center", "roles": ["pointOfContact"]}]"
 	},
 	{
 		"key": "temporal-extent-end",
@@ -205,14 +205,14 @@
 		"value": "1997-2014 Edition of The National Atlas of the United States"
 	}],
 	"organization": {
-		"description": "http:\/\/www.usgs.gov\/\r\nThe USGS is a federal science agency that provides impartial information on the health of our ecosystems and environment, the natural hazards that threaten us, the natural resources we rely on, the impacts of climate and land-use change, and the core science systems that help us provide timely, relevant, and useable information.",
+		"description": "http://www.usgs.gov/rnThe USGS is a federal science agency that provides impartial information on the health of our ecosystems and environment, the natural hazards that threaten us, the natural resources we rely on, the impacts of climate and land-use change, and the core science systems that help us provide timely, relevant, and useable information.",
 		"created": "2013-03-14T03:44:38.263357",
 		"title": "U.S. Geological Survey, Department of the Interior",
 		"name": "usgs-gov",
 		"revision_timestamp": "2014-09-02T13:43:52.167023",
 		"is_organization": true,
 		"state": "active",
-		"image_url": "http:\/\/pubs.usgs.gov\/sir\/2004\/5296\/04-5296_confluence_park\/usgs_logo.gif",
+		"image_url": "http://pubs.usgs.gov/sir/2004/5296/04-5296_confluence_park/usgs_logo.gif",
 		"revision_id": "2858aa99-9501-4f96-82e5-9647b968ed66",
 		"type": "organization",
 		"id": "bd2cdd5a-4d65-46c0-9937-c8381175f104",

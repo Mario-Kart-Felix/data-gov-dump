@@ -37,7 +37,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2013-03-14T22:51:47.732384",
-		"url": "ftp:\/\/ftp.fsl.orst.edu\/pub\/sharon",
+		"url": "ftp://ftp.fsl.orst.edu/pub/sharon",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 0,
@@ -67,7 +67,7 @@
 		"cache_url": null,
 		"name": "TAR Compressed File",
 		"created": "2013-03-14T22:51:47.732407",
-		"url": "ftp:\/\/ftp.fsl.orst.edu\/pub\/sharon\/bmlleco.tar.gz",
+		"url": "ftp://ftp.fsl.orst.edu/pub/sharon/bmlleco.tar.gz",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 1,
@@ -91,7 +91,7 @@
 	"license_title": null,
 	"extras": [{
 		"key": "responsible-party",
-		"value": "[{\"name\": \"Corvallis Forest Science Laboratory\", \"roles\": [\"pointOfContact\"]}]"
+		"value": "[{"name": "Corvallis Forest Science Laboratory", "roles": ["pointOfContact"]}]"
 	},
 	{
 		"key": "contact-email",
@@ -111,7 +111,7 @@
 	},
 	{
 		"key": "dataset-reference-date",
-		"value": "[{\"type\": \"publication\", \"value\": \"1997-01-01\"}]"
+		"value": "[{"type": "publication", "value": "1997-01-01"}]"
 	},
 	{
 		"key": "resource-type",
@@ -139,7 +139,7 @@
 	},
 	{
 		"key": "licence",
-		"value": "[\"Although these data have been procesed successfully at Oregon State University, no warranty expressed or implied is made regarding the accuracy or utility of the data on any other system or for general or scientific purposes, nor shall the act of distribution constitute any such warranty.  This disclaimer applies both to individual use of the data and aggregate use of the data.  It is strongly recommended that these data be directly acquired from an OSU server, and not directly through other sources, which may have changed the data in some other way.  It is also strongly recommended that careful attention be paid to the contents of the metadata file associated with these data.  OSU shall not be held liable for improper or incorrect use of the data described and\/or contained herein.\"]"
+		"value": "["Although these data have been procesed successfully at Oregon State University, no warranty expressed or implied is made regarding the accuracy or utility of the data on any other system or for general or scientific purposes, nor shall the act of distribution constitute any such warranty.  This disclaimer applies both to individual use of the data and aggregate use of the data.  It is strongly recommended that these data be directly acquired from an OSU server, and not directly through other sources, which may have changed the data in some other way.  It is also strongly recommended that careful attention be paid to the contents of the metadata file associated with these data.  OSU shall not be held liable for improper or incorrect use of the data described and/or contained herein."]"
 	},
 	{
 		"key": "metadata_type",
@@ -147,7 +147,7 @@
 	},
 	{
 		"key": "spatial",
-		"value": "{\"type\": \"Polygon\", \"coordinates\": [[[-120.600258, 43.869875], [-120.600258, 46.567424], [-116.575471, 46.567424], [-116.575471, 43.869875], [-120.600258, 43.869875]]]}"
+		"value": "{"type": "Polygon", "coordinates": [[[-120.600258, 43.869875], [-120.600258, 46.567424], [-116.575471, 46.567424], [-116.575471, 43.869875], [-120.600258, 43.869875]]]}"
 	},
 	{
 		"key": "guid",
@@ -159,7 +159,7 @@
 	},
 	{
 		"key": "access_constraints",
-		"value": "[\"Use Constraints: None\", \"Access Constraints: None\"]"
+		"value": "["Use Constraints: None", "Access Constraints: None"]"
 	},
 	{
 		"key": "frequency-of-update",
@@ -197,7 +197,7 @@
 		"revision_timestamp": "2015-01-16T18:19:49.340698",
 		"is_organization": true,
 		"state": "active",
-		"image_url": "http:\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/c\/ce\/Oak_Ridge_National_Laboratory_logo.svg\/1280px-Oak_Ridge_National_Laboratory_logo.svg.png",
+		"image_url": "http://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Oak_Ridge_National_Laboratory_logo.svg/1280px-Oak_Ridge_National_Laboratory_logo.svg.png",
 		"revision_id": "88a6d37b-8f40-43f1-87c7-8f40df679bcd",
 		"type": "organization",
 		"id": "eac1d259-3303-4859-9f1f-889e73918472",

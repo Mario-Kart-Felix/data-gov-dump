@@ -37,7 +37,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2015-06-19T11:49:09.995757",
-		"url": "http:\/\/\\\\admcs\\users\\kpederso\\ArcGIS Test Geodatabase\\Temp\\county_1m",
+		"url": "http://\\admcs\users\kpederso\ArcGIS Test Geodatabase\Temp\county_1m",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 0,
@@ -57,11 +57,11 @@
 	"name": "county-1m",
 	"isopen": false,
 	"url": null,
-	"notes": "This is a raster grid dataset (1-Meter Resolution) of the ground points derived from the acquired LiDAR. The Light Detection and Ranging (LiDAR) DEM dataset is a topographic survey conducted for the LaCrosse County LiDAR Survey. These data were produced for LaCrosse County. The LaCrosse County LiDAR Survey consists of 654 tiles. The LiDAR point cloud was flown at a density sufficient to support a maximum final post spacing of 3-meters for unobscured areas. 3001 Inc. acquired 54 flightlines from April 20-25, 2007 through . The data was divided into 5000' by 5000' cells that serve as the final tiling scheme. The LaCrosse County LiDAR Survey was collected under the guidance of a Professional Mapper \/Surveyor.",
+	"notes": "This is a raster grid dataset (1-Meter Resolution) of the ground points derived from the acquired LiDAR. The Light Detection and Ranging (LiDAR) DEM dataset is a topographic survey conducted for the LaCrosse County LiDAR Survey. These data were produced for LaCrosse County. The LaCrosse County LiDAR Survey consists of 654 tiles. The LiDAR point cloud was flown at a density sufficient to support a maximum final post spacing of 3-meters for unobscured areas. 3001 Inc. acquired 54 flightlines from April 20-25, 2007 through . The data was divided into 5000' by 5000' cells that serve as the final tiling scheme. The LaCrosse County LiDAR Survey was collected under the guidance of a Professional Mapper /Surveyor.",
 	"license_title": null,
 	"extras": [{
 		"key": "responsible-party",
-		"value": "[{\"name\": \"3001 Inc\", \"roles\": [\"pointOfContact\"]}]"
+		"value": "[{"name": "3001 Inc", "roles": ["pointOfContact"]}]"
 	},
 	{
 		"key": "contact-email",
@@ -81,7 +81,7 @@
 	},
 	{
 		"key": "dataset-reference-date",
-		"value": "[{\"type\": \"publication\", \"value\": \"\"}]"
+		"value": "[{"type": "publication", "value": ""}]"
 	},
 	{
 		"key": "resource-type",
@@ -109,7 +109,7 @@
 	},
 	{
 		"key": "licence",
-		"value": "[\"The data represent the results of data collection and processing for a specific LaCrosse County activity and indicates the general existing conditions at the time of the data acquisition. As such, it is only valid for its intended use, content, time, and accuracy specifications. The user is responsible for the results of any application of the data for other than its intended purpose.\"]"
+		"value": "["The data represent the results of data collection and processing for a specific LaCrosse County activity and indicates the general existing conditions at the time of the data acquisition. As such, it is only valid for its intended use, content, time, and accuracy specifications. The user is responsible for the results of any application of the data for other than its intended purpose."]"
 	},
 	{
 		"key": "metadata_type",
@@ -121,7 +121,7 @@
 	},
 	{
 		"key": "spatial",
-		"value": "{\"type\": \"Polygon\", \"coordinates\": [[[-91.440629, 43.719603], [-90.902251, 43.719603], [-90.902251, 44.095314], [-91.440629, 44.095314], [-91.440629, 43.719603]]]}"
+		"value": "{"type": "Polygon", "coordinates": [[[-91.440629, 43.719603], [-90.902251, 43.719603], [-90.902251, 44.095314], [-91.440629, 44.095314], [-91.440629, 43.719603]]]}"
 	},
 	{
 		"key": "guid",
@@ -133,7 +133,7 @@
 	},
 	{
 		"key": "access_constraints",
-		"value": "[\"Use Constraints: These unaltered data may not be redistributed without all of the elements of the metadata listed in the Supplemental Information section of this metadata document. Acknowledgement of the USACE St. Louis District would be appreciated in products derived from these data.\", \"Access Constraints: None\"]"
+		"value": "["Use Constraints: These unaltered data may not be redistributed without all of the elements of the metadata listed in the Supplemental Information section of this metadata document. Acknowledgement of the USACE St. Louis District would be appreciated in products derived from these data.", "Access Constraints: None"]"
 	},
 	{
 		"key": "spatial_harvester",
@@ -175,7 +175,7 @@
 		"revision_timestamp": "2013-03-25T17:20:37.167472",
 		"is_organization": true,
 		"state": "active",
-		"image_url": "http:\/\/ep4u.sm4.biz\/communities\/7\/004\/008\/908\/237\/images\/4543640096_pre.jpg",
+		"image_url": "http://ep4u.sm4.biz/communities/7/004/008/908/237/images/4543640096_pre.jpg",
 		"revision_id": "42c731d4-22ea-4393-b3b6-100cc50fc0bd",
 		"type": "organization",
 		"id": "ae816746-a815-4a3f-805d-2b51b561c626",

@@ -37,7 +37,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2015-12-20T13:45:16.872798",
-		"url": "http:\/\/coastalscience.noaa.gov\/projects\/detail?key=263",
+		"url": "http://coastalscience.noaa.gov/projects/detail?key=263",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 0,
@@ -67,7 +67,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2015-12-20T13:45:16.872834",
-		"url": "http:\/\/coastalscience.noaa.gov\/projects\/detail?key=263",
+		"url": "http://coastalscience.noaa.gov/projects/detail?key=263",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 1,
@@ -87,7 +87,7 @@
 	"name": "noaa-point-shapefile-drop-camera-transects-us-caribbean-western-puerto-rico-project-nf-07-06329ba",
 	"isopen": false,
 	"url": null,
-	"notes": "This shapefile denotes the location of underwater photos and\/or video that were collected by NOAA scientists using a drop camera system. Photos and\/or video were collected between 04\/14\/2007 and 04\/24\/2007 at 84 locations around Isla de Mona in Puerto Rico and west of Mayaguez, Puerto Rico in the U.S. Caribbean. These photos and videos will be manually classified into different habitat classes, and integrated with the abiotic data collected by the acoustic sonar (sound navigation and ranging) systems to develop a benthic habitat map for the U.S. Caribbean. Habitat maps describe the location of habitat features (in relation to the shoreline), their physical composition and the types of organisms that colonize them. Fundamentally, habitat maps provide critical information about the extent, health and composition of marine resources, which is vital for communicating information about the distribution and abundance of species to resource managers, scientists and the public. Habitat maps also support an increasing number of landscape ecology studies, as well as the process of marine spatial planning, including the design and evaluation of marine protected areas (MPAs).",
+	"notes": "This shapefile denotes the location of underwater photos and/or video that were collected by NOAA scientists using a drop camera system. Photos and/or video were collected between 04/14/2007 and 04/24/2007 at 84 locations around Isla de Mona in Puerto Rico and west of Mayaguez, Puerto Rico in the U.S. Caribbean. These photos and videos will be manually classified into different habitat classes, and integrated with the abiotic data collected by the acoustic sonar (sound navigation and ranging) systems to develop a benthic habitat map for the U.S. Caribbean. Habitat maps describe the location of habitat features (in relation to the shoreline), their physical composition and the types of organisms that colonize them. Fundamentally, habitat maps provide critical information about the extent, health and composition of marine resources, which is vital for communicating information about the distribution and abundance of species to resource managers, scientists and the public. Habitat maps also support an increasing number of landscape ecology studies, as well as the process of marine spatial planning, including the design and evaluation of marine protected areas (MPAs).",
 	"license_title": null,
 	"extras": [{
 		"key": "bbox-east-long",
@@ -123,7 +123,7 @@
 	},
 	{
 		"key": "spatial",
-		"value": "{\"type\": \"Polygon\", \"coordinates\": [[[-67.96, 18.032], [-67.38, 18.032], [-67.38, 18.267], [-67.96, 18.267], [-67.96, 18.032]]]}"
+		"value": "{"type": "Polygon", "coordinates": [[[-67.96, 18.032], [-67.38, 18.032], [-67.38, 18.267], [-67.96, 18.267], [-67.96, 18.032]]]}"
 	},
 	{
 		"key": "progress",
@@ -131,7 +131,7 @@
 	},
 	{
 		"key": "access_constraints",
-		"value": "[\"Use Constraints: Note: NOT TO BE USED FOR NAVIGATION. These data were prepared by an agency of the United States Government. Neither the United States Government nor any agency thereof, nor any of their employees, make any warranty, expressed or implied, or assumes any legal liability or responsibility for the accuracy, completeness, or usefulness of any information, apparatus, product, or process disclosed in this report, or represents that its use would not infringe privately owned rights. Reference therein to any specific commercial product, process, or service by trade name, trademark, manufacturer, or otherwise does not necessarily constitute or imply its endorsement, recommendation, or favoring by the United States Government or any agency thereof. Any views and opinions of authors expressed herein do not necessarily state or reflect those of the United States Government or any agency thereof. Although all data have been used by NOAA, no warranty, expressed or implied, is made by NOAA as to the accuracy of the data and\/or related materials. The act of distribution shall not constitute any such warranty, and no responsibility is assumed by NOAA in the use of these data or related materials.\", \"Access Constraints: Please cite any use of this data.\"]"
+		"value": "["Use Constraints: Note: NOT TO BE USED FOR NAVIGATION. These data were prepared by an agency of the United States Government. Neither the United States Government nor any agency thereof, nor any of their employees, make any warranty, expressed or implied, or assumes any legal liability or responsibility for the accuracy, completeness, or usefulness of any information, apparatus, product, or process disclosed in this report, or represents that its use would not infringe privately owned rights. Reference therein to any specific commercial product, process, or service by trade name, trademark, manufacturer, or otherwise does not necessarily constitute or imply its endorsement, recommendation, or favoring by the United States Government or any agency thereof. Any views and opinions of authors expressed herein do not necessarily state or reflect those of the United States Government or any agency thereof. Although all data have been used by NOAA, no warranty, expressed or implied, is made by NOAA as to the accuracy of the data and/or related materials. The act of distribution shall not constitute any such warranty, and no responsibility is assumed by NOAA in the use of these data or related materials.", "Access Constraints: Please cite any use of this data."]"
 	},
 	{
 		"key": "temporal-extent-begin",
@@ -151,7 +151,7 @@
 	},
 	{
 		"key": "dataset-reference-date",
-		"value": "[{\"type\": \"publication\", \"value\": \"2007-01-01\"}]"
+		"value": "[{"type": "publication", "value": "2007-01-01"}]"
 	},
 	{
 		"key": "frequency-of-update",
@@ -159,7 +159,7 @@
 	},
 	{
 		"key": "licence",
-		"value": "[\"The National Oceanic and Atmospheric Administration (NOAA) National Centers for Coastal Ocean Science (NCCOS) Biogeography Branch does not guarantee the accuracy of the geographic features or attributes.\"]"
+		"value": "["The National Oceanic and Atmospheric Administration (NOAA) National Centers for Coastal Ocean Science (NCCOS) Biogeography Branch does not guarantee the accuracy of the geographic features or attributes."]"
 	},
 	{
 		"key": "metadata_type",
@@ -167,7 +167,7 @@
 	},
 	{
 		"key": "responsible-party",
-		"value": "[{\"name\": \"Department of Commerce (DOC), National Oceanic and Atmospheric Administration (NOAA), National Ocean Service (NOS), Center for Coastal Monitoring and Assessment (CCMA), Biogeography Branch\", \"roles\": [\"pointOfContact\"]}]"
+		"value": "[{"name": "Department of Commerce (DOC), National Oceanic and Atmospheric Administration (NOAA), National Ocean Service (NOS), Center for Coastal Monitoring and Assessment (CCMA), Biogeography Branch", "roles": ["pointOfContact"]}]"
 	},
 	{
 		"key": "temporal-extent-end",
@@ -213,7 +213,7 @@
 		"revision_timestamp": "2013-03-25T23:05:12.923863",
 		"is_organization": true,
 		"state": "active",
-		"image_url": "https:\/\/fortress.wa.gov\/dfw\/score\/score\/images\/noaa_logo.png",
+		"image_url": "https://fortress.wa.gov/dfw/score/score/images/noaa_logo.png",
 		"revision_id": "c6d43080-22e1-405e-a83d-f2a512d9e867",
 		"type": "organization",
 		"id": "e811f0b4-451f-4896-9e8f-fc6802837819",

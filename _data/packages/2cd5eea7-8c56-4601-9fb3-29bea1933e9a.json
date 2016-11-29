@@ -37,7 +37,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2015-07-16T17:37:12.156077",
-		"url": "http:\/\/www.bts.gov\/programs\/geographic_information_services\/",
+		"url": "http://www.bts.gov/programs/geographic_information_services/",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 0,
@@ -67,7 +67,7 @@
 		"cache_url": null,
 		"name": "Esri Rest API Endpoint",
 		"created": "2015-07-16T17:37:12.156118",
-		"url": "http:\/\/gis.rita.dot.gov\/ArcGIS\/rest\/services\/NTAD",
+		"url": "http://gis.rita.dot.gov/ArcGIS/rest/services/NTAD",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 1,
@@ -97,7 +97,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2015-07-16T17:37:12.156128",
-		"url": "http:\/\/www.rita.dot.gov\/bts\/sites\/rita.dot.gov.bts\/files\/publications\/national_transportation_atlas_database\/2015\/index.html",
+		"url": "http://www.rita.dot.gov/bts/sites/rita.dot.gov.bts/files/publications/national_transportation_atlas_database/2015/index.html",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 2,
@@ -127,7 +127,7 @@
 		"cache_url": null,
 		"name": "XML File",
 		"created": "2015-07-16T17:37:12.156136",
-		"url": "https:\/\/2bts.rita.dot.gov\/pdc\/index.xml",
+		"url": "https://2bts.rita.dot.gov/pdc/index.xml",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 3,
@@ -160,7 +160,7 @@
 	"name": "hazmat-routes-national",
 	"isopen": false,
 	"url": null,
-	"notes": "The Federal Motor Carrier Safety Administration (FMCSA) Hazardous Material Routes (NTAD 2015) were developed using the 2004 First Edition TIGER\/Line files. The routes are described in the National Hazardous Material Route Registry (NMHRR). The on-line NMHRR linkage is http:\/\/hazmat.fmcsa.dot.gov\/nhmrr\/index.asp With the exception of 13 features that were not identified with the Tiger\/Lines, Hazmat routes were created by extracting the TIGER\/Line segments that corresponded to each individual route. Hazmat routes in the NTAD, are organized into 3 database files, hazmat.shp, hmroutes.dbf, and hmstcnty.dbf. Each record in each database represents a unique Tiger\/Line segment. These Tiger\/Line segments are grouped into routes identified as character strings in the ROUTE_ID field in the hmroutes.dbf table. The route name appearing in the ROUTE_ID is assigned by FMCSA and is unique for each State [this sentence could be deleted - it doesn't add a lot to it]. The hmstcnty.dbf table allows the user to select routes by State and County. A single shapefile, called hazmat.shp, represents geometry for all routes in the United States.",
+	"notes": "The Federal Motor Carrier Safety Administration (FMCSA) Hazardous Material Routes (NTAD 2015) were developed using the 2004 First Edition TIGER/Line files. The routes are described in the National Hazardous Material Route Registry (NMHRR). The on-line NMHRR linkage is http://hazmat.fmcsa.dot.gov/nhmrr/index.asp With the exception of 13 features that were not identified with the Tiger/Lines, Hazmat routes were created by extracting the TIGER/Line segments that corresponded to each individual route. Hazmat routes in the NTAD, are organized into 3 database files, hazmat.shp, hmroutes.dbf, and hmstcnty.dbf. Each record in each database represents a unique Tiger/Line segment. These Tiger/Line segments are grouped into routes identified as character strings in the ROUTE_ID field in the hmroutes.dbf table. The route name appearing in the ROUTE_ID is assigned by FMCSA and is unique for each State [this sentence could be deleted - it doesn't add a lot to it]. The hmstcnty.dbf table allows the user to select routes by State and County. A single shapefile, called hazmat.shp, represents geometry for all routes in the United States.",
 	"license_title": null,
 	"extras": [{
 		"key": "bbox-east-long",
@@ -192,7 +192,7 @@
 	},
 	{
 		"key": "__category_tag_aa0c01c9-d292-4dc1-8fec-b10c1bb629a9",
-		"value": "[\"Energy Infrastructure\",\"Transportation\",\"Transportation Nodes\"]"
+		"value": "["Energy Infrastructure","Transportation","Transportation Nodes"]"
 	},
 	{
 		"key": "spatial-reference-system",
@@ -200,7 +200,7 @@
 	},
 	{
 		"key": "spatial",
-		"value": "{\"type\": \"Polygon\", \"coordinates\": [[[-124.216232, 26.111954], [-71.051495, 26.111954], [-71.051495, 49.000758], [-124.216232, 49.000758], [-124.216232, 26.111954]]]}"
+		"value": "{"type": "Polygon", "coordinates": [[[-124.216232, 26.111954], [-71.051495, 26.111954], [-71.051495, 49.000758], [-124.216232, 49.000758], [-124.216232, 26.111954]]]}"
 	},
 	{
 		"key": "progress",
@@ -208,7 +208,7 @@
 	},
 	{
 		"key": "access_constraints",
-		"value": "[\"Use Constraints: Acknowledgment of the Office of the Assistant Secretary for Research and Technology\/Bureau of Transportation Statistics (BTS) National Transportation Atlas Databases (NTAD) 2015 would be appreciated in products derived from these data.\", \"Access Constraints: None\"]"
+		"value": "["Use Constraints: Acknowledgment of the Office of the Assistant Secretary for Research and Technology/Bureau of Transportation Statistics (BTS) National Transportation Atlas Databases (NTAD) 2015 would be appreciated in products derived from these data.", "Access Constraints: None"]"
 	},
 	{
 		"key": "contact-email",
@@ -224,7 +224,7 @@
 	},
 	{
 		"key": "dataset-reference-date",
-		"value": "[{\"type\": \"publication\", \"value\": \"2015-01-01\"}]"
+		"value": "[{"type": "publication", "value": "2015-01-01"}]"
 	},
 	{
 		"key": "frequency-of-update",
@@ -232,7 +232,7 @@
 	},
 	{
 		"key": "licence",
-		"value": "[\"None\"]"
+		"value": "["None"]"
 	},
 	{
 		"key": "metadata_type",
@@ -240,7 +240,7 @@
 	},
 	{
 		"key": "responsible-party",
-		"value": "[{\"name\": \"Office of the Assistant Secretary for Research and Technology\/Bureau of Transportation Statistics\", \"roles\": [\"pointOfContact\"]}, {\"name\": \"Hazardous Material Routes:U.S. Department of Transportation Volpe NTSC TIGER\/Line:U.S. Department of Commerce, U.S. Census Bureau, Geography Division\", \"roles\": [\"pointOfContact\"]}, {\"name\": \"Federal Motor Carrier Safety Administration\", \"roles\": [\"pointOfContact\"]}]"
+		"value": "[{"name": "Office of the Assistant Secretary for Research and Technology/Bureau of Transportation Statistics", "roles": ["pointOfContact"]}, {"name": "Hazardous Material Routes:U.S. Department of Transportation Volpe NTSC TIGER/Line:U.S. Department of Commerce, U.S. Census Bureau, Geography Division", "roles": ["pointOfContact"]}, {"name": "Federal Motor Carrier Safety Administration", "roles": ["pointOfContact"]}]"
 	},
 	{
 		"key": "spatial-data-service-type",
@@ -252,7 +252,7 @@
 	},
 	{
 		"package_id": "2cd5eea7-8c56-4601-9fb3-29bea1933e9a",
-		"value": "tiger\/line identification number (tlid), line feature, united states, ground, tiger\/line, boundaries, state, fwtransportation, puerto rico, 2015, 2014, 2011, 2010, 2013, 2012, feature identifier, fwgovernmentalunits, census feature class code (cfcc), point\/node, hazardous material route, latitude\/longitude, fwroads, vector, 2006, 2007, 2008, 2009, fmcsa",
+		"value": "tiger/line identification number (tlid), line feature, united states, ground, tiger/line, boundaries, state, fwtransportation, puerto rico, 2015, 2014, 2011, 2010, 2013, 2012, feature identifier, fwgovernmentalunits, census feature class code (cfcc), point/node, hazardous material route, latitude/longitude, fwroads, vector, 2006, 2007, 2008, 2009, fmcsa",
 		"revision_timestamp": "2015-07-16T21:37:11.529947",
 		"state": "active",
 		"key": "tags",
@@ -282,7 +282,7 @@
 		"revision_timestamp": "2013-08-30T13:59:29.523214",
 		"is_organization": true,
 		"state": "active",
-		"image_url": "http:\/\/upload.wikimedia.org\/wikipedia\/commons\/8\/81\/US_DOT_Triskelion.png",
+		"image_url": "http://upload.wikimedia.org/wikipedia/commons/8/81/US_DOT_Triskelion.png",
 		"revision_id": "684c8481-4ae2-46b0-a083-b392eea15130",
 		"type": "organization",
 		"id": "fc5cb2c1-d0b0-482a-8a52-7d42ea186ae1",

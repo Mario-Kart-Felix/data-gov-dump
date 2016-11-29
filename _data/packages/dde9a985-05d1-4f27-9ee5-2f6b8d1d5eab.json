@@ -37,7 +37,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2015-09-26T20:42:13.609223",
-		"url": "http:\/\/coast.noaa.gov",
+		"url": "http://coast.noaa.gov",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 0,
@@ -67,7 +67,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2015-09-26T20:42:13.609247",
-		"url": "http:\/\/coast.noaa.gov",
+		"url": "http://coast.noaa.gov",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 1,
@@ -89,7 +89,7 @@
 		"revision_timestamp": "2013-03-25T23:05:12.923863",
 		"is_organization": true,
 		"state": "active",
-		"image_url": "https:\/\/fortress.wa.gov\/dfw\/score\/score\/images\/noaa_logo.png",
+		"image_url": "https://fortress.wa.gov/dfw/score/score/images/noaa_logo.png",
 		"revision_id": "c6d43080-22e1-405e-a83d-f2a512d9e867",
 		"type": "organization",
 		"id": "e811f0b4-451f-4896-9e8f-fc6802837819",
@@ -100,7 +100,7 @@
 	"name": "2000-usace-bathymetric-lidar-hawaiian-islands",
 	"isopen": false,
 	"url": null,
-	"notes": "These data were collected by the SHOALS (Scanning Hydrographic Operational Airborne Lidar Survey) system which consists of an airborne laser transmitter\/receiver capable of measuring 400 soundings per second. The system operates from a deHavilland DHC-6 Twin Otter flying at altitudes between 200 and 400 meters with a ground speed of about 100 knots. The SHOALS system also includes a ground-based data processing system for calculating acurate horizontal position and water depth. Lidar is an acronym for LIght Detection And Ranging. The system operates by emitting a pulse of light that travels from an airborne platform to the water surface where a small portion of the laser energy is backscattered to the airborne receiver. The remaining energy at the water's surface propogates through the water column and reflects off the sea bottom and back to the airborne detector. The time difference between the surface return and the bottom return corresponds to water depth. The maximum depth the system is able to sense is related to the complex interaction of radiance of bottom material, incident sun angle and intensity, and the type and quantity of organics or sediments in the water column. As a rule-of-thumb, the SHOALS system should be capable of sensing bottom to depths equal to two or three times the Secchi depth.",
+	"notes": "These data were collected by the SHOALS (Scanning Hydrographic Operational Airborne Lidar Survey) system which consists of an airborne laser transmitter/receiver capable of measuring 400 soundings per second. The system operates from a deHavilland DHC-6 Twin Otter flying at altitudes between 200 and 400 meters with a ground speed of about 100 knots. The SHOALS system also includes a ground-based data processing system for calculating acurate horizontal position and water depth. Lidar is an acronym for LIght Detection And Ranging. The system operates by emitting a pulse of light that travels from an airborne platform to the water surface where a small portion of the laser energy is backscattered to the airborne receiver. The remaining energy at the water's surface propogates through the water column and reflects off the sea bottom and back to the airborne detector. The time difference between the surface return and the bottom return corresponds to water depth. The maximum depth the system is able to sense is related to the complex interaction of radiance of bottom material, incident sun angle and intensity, and the type and quantity of organics or sediments in the water column. As a rule-of-thumb, the SHOALS system should be capable of sensing bottom to depths equal to two or three times the Secchi depth.",
 	"owner_org": "e811f0b4-451f-4896-9e8f-fc6802837819",
 	"extras": [{
 		"key": "bbox-east-long",
@@ -128,7 +128,7 @@
 	},
 	{
 		"key": "graphic-preview-file",
-		"value": "ftp:\/\/ftp.csc.noaa.gov\/pub\/crs\/beachmap\/qa_docs\/hi\/hi2000_usace_footprint.kmz"
+		"value": "ftp://ftp.csc.noaa.gov/pub/crs/beachmap/qa_docs/hi/hi2000_usace_footprint.kmz"
 	},
 	{
 		"key": "bbox-south-lat",
@@ -144,7 +144,7 @@
 	},
 	{
 		"key": "spatial",
-		"value": "{\"type\": \"Polygon\", \"coordinates\": [[[-158.275, 18.90012], [-154.803683, 18.90012], [-154.803683, 21.718898], [-158.275, 21.718898], [-158.275, 18.90012]]]}"
+		"value": "{"type": "Polygon", "coordinates": [[[-158.275, 18.90012], [-154.803683, 18.90012], [-154.803683, 21.718898], [-158.275, 21.718898], [-158.275, 18.90012]]]}"
 	},
 	{
 		"key": "progress",
@@ -168,7 +168,7 @@
 	},
 	{
 		"key": "dataset-reference-date",
-		"value": "[{\"type\": \"publication\", \"value\": \"2013-03-01\"}]"
+		"value": "[{"type": "publication", "value": "2013-03-01"}]"
 	},
 	{
 		"key": "graphic-preview-description",
@@ -180,7 +180,7 @@
 	},
 	{
 		"key": "licence",
-		"value": "[\"These data depict the elevations at the time of the survey and are only accurate for that time. Users should be aware that\\n            temporal changes may have occurred since this data set was collected and some parts of this data may no longer represent actual surface\\n            conditions. Users should not use this data for critical applications without a full awareness of its limitations. Any conclusions drawn\\n            from analysis of this information are not the responsibility of NOAA or any of its partners. These data are NOT to be used for navigational purposes.\"]"
+		"value": "["These data depict the elevations at the time of the survey and are only accurate for that time. Users should be aware that\n            temporal changes may have occurred since this data set was collected and some parts of this data may no longer represent actual surface\n            conditions. Users should not use this data for critical applications without a full awareness of its limitations. Any conclusions drawn\n            from analysis of this information are not the responsibility of NOAA or any of its partners. These data are NOT to be used for navigational purposes."]"
 	},
 	{
 		"key": "metadata_type",
@@ -188,7 +188,7 @@
 	},
 	{
 		"key": "responsible-party",
-		"value": "[{\"name\": \"US Army Corps of Engineers (USACE) Joint Airborne Lidar Bathymetry Technical Center of eXpertise (JALBTCX)\", \"roles\": [\"pointOfContact\"]}]"
+		"value": "[{"name": "US Army Corps of Engineers (USACE) Joint Airborne Lidar Bathymetry Technical Center of eXpertise (JALBTCX)", "roles": ["pointOfContact"]}]"
 	},
 	{
 		"key": "spatial-data-service-type",
@@ -200,7 +200,7 @@
 	},
 	{
 		"key": "tags",
-		"value": "topography\/bathymetry, usa, moloka'i, lidar survey, lana'i, hawaii, lidar, hawaii (the big island), oahu, hydrographic survey, las",
+		"value": "topography/bathymetry, usa, moloka'i, lidar survey, lana'i, hawaii, lidar, hawaii (the big island), oahu, hydrographic survey, las",
 		"__extras": {
 			"revision_id": "3312a1ba-b905-40f9-a50f-5cf9f13400e2",
 			"package_id": "dde9a985-05d1-4f27-9ee5-2f6b8d1d5eab"

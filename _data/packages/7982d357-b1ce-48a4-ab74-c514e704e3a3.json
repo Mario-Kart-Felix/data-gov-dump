@@ -36,7 +36,7 @@
 		"cache_url": null,
 		"name": "Export",
 		"created": "2014-11-17T16:12:23.869501",
-		"url": "http:\/\/water.usgs.gov\/GIS\/dsdl\/pesticide_use97.dat.e00.gz",
+		"url": "http://water.usgs.gov/GIS/dsdl/pesticide_use97.dat.e00.gz",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 0,
@@ -66,7 +66,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2014-11-17T16:12:23.869528",
-		"url": "http:\/\/water.usgs.gov\/lookup\/getspatial?pesticide_use97",
+		"url": "http://water.usgs.gov/lookup/getspatial?pesticide_use97",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 1,
@@ -96,7 +96,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2014-11-17T16:12:23.869537",
-		"url": "http:\/\/www.ncfap.org\/database\/default.php",
+		"url": "http://www.ncfap.org/database/default.php",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 2,
@@ -126,7 +126,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2014-11-17T16:12:23.869545",
-		"url": "http:\/\/ca.water.usgs.gov\/pnsp",
+		"url": "http://ca.water.usgs.gov/pnsp",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 3,
@@ -146,7 +146,7 @@
 	"name": "1997-county-pesticide-use-estimates-for-220-compounds",
 	"isopen": false,
 	"url": null,
-	"notes": "This dataset includes information for 220 pesticides on the average amount (pounds) applied to 87 agricultural crops and the acres of crops treated for counties within the conterminous United States. These data were derived by combining published state pesticide use coefficients published by the National Center for Food and Agricultural Policy (NCFAP) and county harvested crop acres available from the 1997 Census of Agriculture. A description of the methods used to develop the county datbase is published in USGS OFR 00-250, \"Method for Estimating Pesticide Use\" and is available from: http:\/\/pubs.er.usgs.gov\/pubs\/of\/ofr00250. Maps showing the geographic distribution of use for 219 compounds (BT was not mapped) are available from http:\/\/ca.water.usgs.gov\/pnsp\/. The pesticide use estimates represent average usage patterns for the years 1995-1998 and do not represent a specific year. Key limitations of the data include: (1) state use coefficients represent an average for the entire state and consequently do not reflect the local variability of pesticide management practices found within states and counties, (2) pesticide use estimates are not for a specific year, but represent typical use patterns for a four year period, (3) state pesticide use coefficients may not have been available for all states where a pesticide may have been applied to agricultural land and therefore are not included, and (4) the county crop acreage is based on the 1997 Census of Agriculture and may not represent all crop acreage due to Census nondisclosure rules.",
+	"notes": "This dataset includes information for 220 pesticides on the average amount (pounds) applied to 87 agricultural crops and the acres of crops treated for counties within the conterminous United States. These data were derived by combining published state pesticide use coefficients published by the National Center for Food and Agricultural Policy (NCFAP) and county harvested crop acres available from the 1997 Census of Agriculture. A description of the methods used to develop the county datbase is published in USGS OFR 00-250, "Method for Estimating Pesticide Use" and is available from: http://pubs.er.usgs.gov/pubs/of/ofr00250. Maps showing the geographic distribution of use for 219 compounds (BT was not mapped) are available from http://ca.water.usgs.gov/pnsp/. The pesticide use estimates represent average usage patterns for the years 1995-1998 and do not represent a specific year. Key limitations of the data include: (1) state use coefficients represent an average for the entire state and consequently do not reflect the local variability of pesticide management practices found within states and counties, (2) pesticide use estimates are not for a specific year, but represent typical use patterns for a four year period, (3) state pesticide use coefficients may not have been available for all states where a pesticide may have been applied to agricultural land and therefore are not included, and (4) the county crop acreage is based on the 1997 Census of Agriculture and may not represent all crop acreage due to Census nondisclosure rules.",
 	"license_title": null,
 	"extras": [{
 		"key": "bbox-east-long",
@@ -182,7 +182,7 @@
 	},
 	{
 		"key": "spatial",
-		"value": "{\"type\": \"Polygon\", \"coordinates\": [[[-127.977, 23.0933], [-65.118, 23.0933], [-65.118, 48.283], [-127.977, 48.283], [-127.977, 23.0933]]]}"
+		"value": "{"type": "Polygon", "coordinates": [[[-127.977, 23.0933], [-65.118, 23.0933], [-65.118, 48.283], [-127.977, 48.283], [-127.977, 23.0933]]]}"
 	},
 	{
 		"key": "progress",
@@ -190,7 +190,7 @@
 	},
 	{
 		"key": "access_constraints",
-		"value": "[\"Use Constraints: These data are appropriate for making National, statewide or regional assessments of pesticide use. County estimates are only available for counties with reported crop acreage from the Census of Agriculture and may be effected by Census non-disclosure rules. In some instances, NCFAP may have used a pesticide use-coefficient for a compound and crop from a neighboring state.\", \"Access Constraints: Internal use only\"]"
+		"value": "["Use Constraints: These data are appropriate for making National, statewide or regional assessments of pesticide use. County estimates are only available for counties with reported crop acreage from the Census of Agriculture and may be effected by Census non-disclosure rules. In some instances, NCFAP may have used a pesticide use-coefficient for a compound and crop from a neighboring state.", "Access Constraints: Internal use only"]"
 	},
 	{
 		"key": "temporal-extent-begin",
@@ -210,7 +210,7 @@
 	},
 	{
 		"key": "dataset-reference-date",
-		"value": "[{\"type\": \"publication\", \"value\": \"2005-10-04\"}]"
+		"value": "[{"type": "publication", "value": "2005-10-04"}]"
 	},
 	{
 		"key": "frequency-of-update",
@@ -218,7 +218,7 @@
 	},
 	{
 		"key": "licence",
-		"value": "[\"\\nAlthough these data have been used by the\\nUSGS to map and estimate the occurence of pesticide concentrations,\\nthe U.S. Geological Survey assumes no liability for the use of\\nthese data.\\n\"]"
+		"value": "["\nAlthough these data have been used by the\nUSGS to map and estimate the occurence of pesticide concentrations,\nthe U.S. Geological Survey assumes no liability for the use of\nthese data.\n"]"
 	},
 	{
 		"key": "metadata_type",
@@ -226,7 +226,7 @@
 	},
 	{
 		"key": "responsible-party",
-		"value": "[{\"name\": \"NAWQA Pesticide National Synthesis, U.S. Geological Survey\", \"roles\": [\"pointOfContact\"]}]"
+		"value": "[{"name": "NAWQA Pesticide National Synthesis, U.S. Geological Survey", "roles": ["pointOfContact"]}]"
 	},
 	{
 		"key": "temporal-extent-end",
@@ -265,14 +265,14 @@
 		"value": "Water NSDI Node Spatial Datasets"
 	}],
 	"organization": {
-		"description": "http:\/\/www.usgs.gov\/\r\nThe USGS is a federal science agency that provides impartial information on the health of our ecosystems and environment, the natural hazards that threaten us, the natural resources we rely on, the impacts of climate and land-use change, and the core science systems that help us provide timely, relevant, and useable information.",
+		"description": "http://www.usgs.gov/rnThe USGS is a federal science agency that provides impartial information on the health of our ecosystems and environment, the natural hazards that threaten us, the natural resources we rely on, the impacts of climate and land-use change, and the core science systems that help us provide timely, relevant, and useable information.",
 		"created": "2013-03-14T03:44:38.263357",
 		"title": "U.S. Geological Survey, Department of the Interior",
 		"name": "usgs-gov",
 		"revision_timestamp": "2014-09-02T13:43:52.167023",
 		"is_organization": true,
 		"state": "active",
-		"image_url": "http:\/\/pubs.usgs.gov\/sir\/2004\/5296\/04-5296_confluence_park\/usgs_logo.gif",
+		"image_url": "http://pubs.usgs.gov/sir/2004/5296/04-5296_confluence_park/usgs_logo.gif",
 		"revision_id": "2858aa99-9501-4f96-82e5-9647b968ed66",
 		"type": "organization",
 		"id": "bd2cdd5a-4d65-46c0-9937-c8381175f104",

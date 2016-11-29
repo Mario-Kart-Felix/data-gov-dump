@@ -36,7 +36,7 @@
 		"cache_url": null,
 		"name": "nowCOAST Map Viewer Application",
 		"created": "2016-10-03T17:22:48.316077",
-		"url": "https:\/\/nowcoast.noaa.gov\/",
+		"url": "https://nowcoast.noaa.gov/",
 		"webstore_url": null,
 		"resource_locator_function": "search",
 		"position": 0,
@@ -65,7 +65,7 @@
 		"cache_url": null,
 		"name": "nowCOAST Map Services Information Page",
 		"created": "2016-10-03T17:22:48.316101",
-		"url": "https:\/\/nowcoast.noaa.gov\/help\/#!section=mapservices",
+		"url": "https://nowcoast.noaa.gov/help/#!section=mapservices",
 		"webstore_url": null,
 		"resource_locator_function": "information",
 		"position": 1,
@@ -94,7 +94,7 @@
 		"cache_url": null,
 		"name": "nowCOAST LayerInfo Web Service Information Page",
 		"created": "2016-10-03T17:22:48.316109",
-		"url": "https:\/\/nowcoast.noaa.gov\/help\/#!section=layerinfo",
+		"url": "https://nowcoast.noaa.gov/help/#!section=layerinfo",
 		"webstore_url": null,
 		"resource_locator_function": "information",
 		"position": 2,
@@ -123,7 +123,7 @@
 		"cache_url": null,
 		"name": "nowCOAST 5.0 Transition Guide for ArcGIS Map Services",
 		"created": "2016-10-03T17:22:48.316117",
-		"url": "https:\/\/nowcoast.noaa.gov\/help\/#!section=transitioning",
+		"url": "https://nowcoast.noaa.gov/help/#!section=transitioning",
 		"webstore_url": null,
 		"resource_locator_function": "information",
 		"position": 3,
@@ -152,7 +152,7 @@
 		"cache_url": null,
 		"name": "Map Layer Update Schedule",
 		"created": "2016-10-03T17:22:48.316124",
-		"url": "https:\/\/nowcoast.noaa.gov\/help\/#!section=updateschedule",
+		"url": "https://nowcoast.noaa.gov/help/#!section=updateschedule",
 		"webstore_url": null,
 		"resource_locator_function": "information",
 		"position": 4,
@@ -181,7 +181,7 @@
 		"cache_url": null,
 		"name": "Web Map Service (WMS) GetCapabilities",
 		"created": "2016-10-03T17:22:48.316131",
-		"url": "https:\/\/nowcoast.noaa.gov\/arcgis\/services\/nowcoast\/analysis_ocean_sfc_sst_time\/MapServer\/WMSServer?request=GetCapabilities%26service=WMS",
+		"url": "https://nowcoast.noaa.gov/arcgis/services/nowcoast/analysis_ocean_sfc_sst_time/MapServer/WMSServer?request=GetCapabilities%26service=WMS",
 		"webstore_url": null,
 		"resource_locator_function": "download",
 		"position": 5,
@@ -210,7 +210,7 @@
 		"cache_url": null,
 		"name": "NASA, 2014: Sea Surface Temperature (SST) Product Details",
 		"created": "2016-10-03T17:22:48.316138",
-		"url": "http:\/\/weather.msfc.nasa.gov\/sport\/sst\/descriptions.html",
+		"url": "http://weather.msfc.nasa.gov/sport/sst/descriptions.html",
 		"webstore_url": null,
 		"resource_locator_function": "information",
 		"position": 6,
@@ -239,7 +239,7 @@
 		"cache_url": null,
 		"name": "NWS, 2001: The Real-Time Global Sea Surface Temperature Analysis: RTG_SST, NWS Technical Procedures Bulletin Series No. 477, NWS, Silver Spring, MD",
 		"created": "2016-10-03T17:22:48.316144",
-		"url": "http:\/\/www.nws.noaa.gov\/om\/tpb\/477.pdf",
+		"url": "http://www.nws.noaa.gov/om/tpb/477.pdf",
 		"webstore_url": null,
 		"resource_locator_function": "information",
 		"position": 7,
@@ -268,7 +268,7 @@
 		"cache_url": null,
 		"name": "nowCOAST analysis_ocean_sfc_sst_time Map Service",
 		"created": "2016-10-03T17:22:48.316152",
-		"url": "https:\/\/nowcoast.noaa.gov\/arcgis\/rest\/services\/nowcoast\/analysis_ocean_sfc_sst_time\/MapServer",
+		"url": "https://nowcoast.noaa.gov/arcgis/rest/services/nowcoast/analysis_ocean_sfc_sst_time/MapServer",
 		"webstore_url": null,
 		"resource_locator_function": "information",
 		"position": 8,
@@ -297,7 +297,7 @@
 		"cache_url": null,
 		"name": "nowCOAST analysis_ocean_sfc_sst_time Map Service",
 		"created": "2016-10-03T17:22:48.316158",
-		"url": "https:\/\/nowcoast.noaa.gov\/arcgis\/services\/nowcoast\/analysis_ocean_sfc_sst_time\/MapServer\/WMSServer?request=GetCapabilities%26service=WMS",
+		"url": "https://nowcoast.noaa.gov/arcgis/services/nowcoast/analysis_ocean_sfc_sst_time/MapServer/WMSServer?request=GetCapabilities%26service=WMS",
 		"webstore_url": null,
 		"resource_locator_function": "download",
 		"position": 9,
@@ -317,7 +317,7 @@
 	"name": "nowcoasts-map-service-for-noaa-nws-ncep-real-time-global-and-nasa-sport-sea-surface-temperature",
 	"isopen": false,
 	"url": null,
-	"notes": "Map Information:\n\nThis nowCOAST time-enabled map service provides a map depicting the latest daily sea surface temperature analyses from both the NOAA\/NWS\/NCEP operational Real-Time Global SST Analysis System, commonly referred to as RTG_SST, and the NASA\/SPoRT experimental Sea Surface Temperature Composite.\n\nThe RTG_SST has a 1\/12 degree (~9 km) grid resolution and covers the globe including the Great Lakes. SSTs are indicated by different colors at 2 degrees F intervals. NCEP generates the analysis once per day and it is updated on the nowCOAST map service around 0400 UTC (11 PM EST).\n\nThe experimental SPoRT SST analysis has a 2 km grid resolution and covers the North Atlantic Ocean and the Eastern North Pacific Ocean, the Great Lakes, and occasionally other large lakes. SSTs are displayed by the same color scale used for the RTG_SST analysis. NASA generates the analysis twice per day and it is updated on the nowCOAST map service around 0330 UTC (2230 EST) and 1530 UTC (1030 EST). For more detailed information about layer update frequency and timing, please reference the   nowCOAST Dataset Update Schedule.\n\n\nThis map service is time-enabled, meaning that each individual layer contains time-varying data and can be utilized by clients capable of making map requests that include a time component.\n\nIn addition to ArcGIS Server REST access, time-enabled OGC WMS 1.3.0 access is also provided by this service.\n\nThis particular service can be queried with or without the use of a time component. If the time parameter is specified in a request, the data or imagery most relevant to the provided time value, if any, will be returned. If the time parameter is not specified in a request, the latest data or imagery valid for the present system time will be returned to the client. If the time parameter is not specified and no data or imagery is available for the present time, no data will be returned.\n\nThis service is configured with time coverage support, meaning that the service will always return the most relevant available data, if any, to the specified time value. For example, if the service contains data valid today at 12:00 and 12:10 UTC, but a map request specifies a time value of today at 12:07 UTC, the data valid at 12:10 UTC will be returned to the user. This behavior allows more flexibility for users, especially when displaying multiple time-enabled layers together despite slight differences in temporal resolution or update frequency.\n\nWhen interacting with this time-enabled service, only a single instantaneous time value should be specified in each request. If instead a time range is specified in a request (i.e. separate start time and end time values are given), the data returned may be different than what was intended.\n\nCare must be taken to ensure the time value specified in each request falls within the current time coverage of the service. Because this service is frequently updated as new data becomes available, the user must periodically determine the service's time extent. However, due to software limitations, the time extent of the service and map layers as advertised by ArcGIS Server does not always provide the most up-to-date start and end times of available data. Instead, users have three options for determining the latest time extent of the service:\n\n    1.  Issue a returnUpdates=true request (ArcGIS REST protocol only) for an individual layer or for the service itself, which will return the current start and end times of available data, in epoch time format (milliseconds since 00:00 January 1, 1970). To see an example, click on the \"Return Updates\" link at the bottom of the REST Service page under \"Supported Operations\". Refer to the ArcGIS REST API Map Service Documentation for more information.\n\n    2.  Issue an Identify (ArcGIS REST) or GetFeatureInfo (WMS) request against the proper layer corresponding with the target dataset. For raster data, this would be the \"Image Footprints with Time Attributes\" layer in the same group as the target \"Image\" layer being displayed. For vector (point, line, or polygon) data, the target layer can be queried directly. In either case, the attributes returned for the matching raster(s) or vector feature(s) will include the following:\n\n        validtime: Valid timestamp.\n        starttime: Display start time.\n        endtime: Display end time.\n        reftime: Reference time (sometimes referred to as issuance time, cycle time, or initialization time).\n        projmins: Number of minutes from reference time to valid time.\n        desigreftime: Designated reference time; used as a common reference time for all items when individual reference times do not match.\n        desigprojmins: Number of minutes from designated reference time to valid time.\n\n    3.  Query the nowCOAST LayerInfo web service, which has been created to provide additional information about each data layer in a service, including a list of all available \"time stops\" (i.e. \"valid times\"), individual timestamps, or the valid time of a layer's latest available data (i.e. \"Product Time\"). For more information about the LayerInfo web service, including examples of various types of requests, refer to the nowCOAST LayerInfo Help Documentation.\n",
+	"notes": "Map Information:nnThis nowCOAST time-enabled map service provides a map depicting the latest daily sea surface temperature analyses from both the NOAA/NWS/NCEP operational Real-Time Global SST Analysis System, commonly referred to as RTG_SST, and the NASA/SPoRT experimental Sea Surface Temperature Composite.nnThe RTG_SST has a 1/12 degree (~9 km) grid resolution and covers the globe including the Great Lakes. SSTs are indicated by different colors at 2 degrees F intervals. NCEP generates the analysis once per day and it is updated on the nowCOAST map service around 0400 UTC (11 PM EST).nnThe experimental SPoRT SST analysis has a 2 km grid resolution and covers the North Atlantic Ocean and the Eastern North Pacific Ocean, the Great Lakes, and occasionally other large lakes. SSTs are displayed by the same color scale used for the RTG_SST analysis. NASA generates the analysis twice per day and it is updated on the nowCOAST map service around 0330 UTC (2230 EST) and 1530 UTC (1030 EST). For more detailed information about layer update frequency and timing, please reference the   nowCOAST Dataset Update Schedule.nnnThis map service is time-enabled, meaning that each individual layer contains time-varying data and can be utilized by clients capable of making map requests that include a time component.nnIn addition to ArcGIS Server REST access, time-enabled OGC WMS 1.3.0 access is also provided by this service.nnThis particular service can be queried with or without the use of a time component. If the time parameter is specified in a request, the data or imagery most relevant to the provided time value, if any, will be returned. If the time parameter is not specified in a request, the latest data or imagery valid for the present system time will be returned to the client. If the time parameter is not specified and no data or imagery is available for the present time, no data will be returned.nnThis service is configured with time coverage support, meaning that the service will always return the most relevant available data, if any, to the specified time value. For example, if the service contains data valid today at 12:00 and 12:10 UTC, but a map request specifies a time value of today at 12:07 UTC, the data valid at 12:10 UTC will be returned to the user. This behavior allows more flexibility for users, especially when displaying multiple time-enabled layers together despite slight differences in temporal resolution or update frequency.nnWhen interacting with this time-enabled service, only a single instantaneous time value should be specified in each request. If instead a time range is specified in a request (i.e. separate start time and end time values are given), the data returned may be different than what was intended.nnCare must be taken to ensure the time value specified in each request falls within the current time coverage of the service. Because this service is frequently updated as new data becomes available, the user must periodically determine the service's time extent. However, due to software limitations, the time extent of the service and map layers as advertised by ArcGIS Server does not always provide the most up-to-date start and end times of available data. Instead, users have three options for determining the latest time extent of the service:nn    1.  Issue a returnUpdates=true request (ArcGIS REST protocol only) for an individual layer or for the service itself, which will return the current start and end times of available data, in epoch time format (milliseconds since 00:00 January 1, 1970). To see an example, click on the "Return Updates" link at the bottom of the REST Service page under "Supported Operations". Refer to the ArcGIS REST API Map Service Documentation for more information.nn    2.  Issue an Identify (ArcGIS REST) or GetFeatureInfo (WMS) request against the proper layer corresponding with the target dataset. For raster data, this would be the "Image Footprints with Time Attributes" layer in the same group as the target "Image" layer being displayed. For vector (point, line, or polygon) data, the target layer can be queried directly. In either case, the attributes returned for the matching raster(s) or vector feature(s) will include the following:nn        validtime: Valid timestamp.n        starttime: Display start time.n        endtime: Display end time.n        reftime: Reference time (sometimes referred to as issuance time, cycle time, or initialization time).n        projmins: Number of minutes from reference time to valid time.n        desigreftime: Designated reference time; used as a common reference time for all items when individual reference times do not match.n        desigprojmins: Number of minutes from designated reference time to valid time.nn    3.  Query the nowCOAST LayerInfo web service, which has been created to provide additional information about each data layer in a service, including a list of all available "time stops" (i.e. "valid times"), individual timestamps, or the valid time of a layer's latest available data (i.e. "Product Time"). For more information about the LayerInfo web service, including examples of various types of requests, refer to the nowCOAST LayerInfo Help Documentation.n",
 	"license_title": null,
 	"extras": [{
 		"key": "bbox-east-long",
@@ -345,7 +345,7 @@
 	},
 	{
 		"key": "graphic-preview-file",
-		"value": "https:\/\/nowcoast.noaa.gov\/arcgis\/rest\/services\/nowcoast\/analysis_ocean_sfc_sst_time\/MapServer\/export?bbox=-2.6699258124468453E7,-4.307958081511329E7,3.705828881927511E7,4.463508024634032E7&f=image"
+		"value": "https://nowcoast.noaa.gov/arcgis/rest/services/nowcoast/analysis_ocean_sfc_sst_time/MapServer/export?bbox=-2.6699258124468453E7,-4.307958081511329E7,3.705828881927511E7,4.463508024634032E7&f=image"
 	},
 	{
 		"key": "bbox-south-lat",
@@ -361,7 +361,7 @@
 	},
 	{
 		"key": "spatial",
-		"value": "{\"type\": \"Polygon\", \"coordinates\": [[[-179.999988541, -85.0321079927], [179.990726039, -85.0321079927], [179.990726039, 85.0332670825], [-179.999988541, 85.0332670825], [-179.999988541, -85.0321079927]]]}"
+		"value": "{"type": "Polygon", "coordinates": [[[-179.999988541, -85.0321079927], [179.990726039, -85.0321079927], [179.990726039, 85.0332670825], [-179.999988541, 85.0332670825], [-179.999988541, -85.0321079927]]]}"
 	},
 	{
 		"key": "progress",
@@ -369,7 +369,7 @@
 	},
 	{
 		"key": "access_constraints",
-		"value": "[\"Distribution Liability: NOAA makes no warranty regarding these data, expressed or implied, nor does the fact of distribution constitute such a warranty.  These data are not to be used for navigation.\"]"
+		"value": "["Distribution Liability: NOAA makes no warranty regarding these data, expressed or implied, nor does the fact of distribution constitute such a warranty.  These data are not to be used for navigation."]"
 	},
 	{
 		"key": "contact-email",
@@ -385,7 +385,7 @@
 	},
 	{
 		"key": "dataset-reference-date",
-		"value": "[{\"type\": \"creation\", \"value\": \"2015-09-21\"}, {\"type\": \"publication\", \"value\": \"2015-09-21\"}, {\"type\": \"revision\", \"value\": \"2016-10-05\"}]"
+		"value": "[{"type": "creation", "value": "2015-09-21"}, {"type": "publication", "value": "2015-09-21"}, {"type": "revision", "value": "2016-10-05"}]"
 	},
 	{
 		"key": "frequency-of-update",
@@ -393,7 +393,7 @@
 	},
 	{
 		"key": "licence",
-		"value": "[\"This operational server maintains a current database of meteorological and hydrological data, historical data, and written information generated by the NWS or received from other official sources. In addition, this server accesses in realtime a selection of current official weather observations, forecasts, and warnings from U.S. government sources for use by the national and international community. In an effort to enhance the science, experimental products may be accessible on this server and care must be taken when using such products as they are intended for research use.  This server is available 24 hours a day, seven days a week . Timely delivery of data and products from this server through the Internet is not guaranteed.\\n\\nUse of NOAA\/NWS Data and Products\\nThe information on National Weather Service (NWS) Web pages are in the public domain, unless specifically noted otherwise, and may be used without charge for any lawful purpose so long as you do not: 1) claim it is your own (e.g., by claiming copyright for NWS information -- see below), 2) use it in a manner that implies an endorsement or affiliation with NOAA\/NWS, or 3) modify its content and then present it as official government material. You also cannot present information of your own in a way that makes it appear to be official government information.  Before using information obtained from any NWS Web page special attention should be given to the date and time of the data and products being displayed. \\n\\nThe user assumes the entire risk related to its use of information on NWS Web pages. NWS is provides such information \\\"as is,\\\" and NWS disclaims any and all warranties, whether express or implied, including (without limitation) any implied warranties of merchantability or fitness for a particular purpose. In no event will NWS be liable to you or to any third party for any direct, indirect, incidental, consequential, special or exemplary damages or lost profit resulting from any use or misuse of this data.\"]"
+		"value": "["This operational server maintains a current database of meteorological and hydrological data, historical data, and written information generated by the NWS or received from other official sources. In addition, this server accesses in realtime a selection of current official weather observations, forecasts, and warnings from U.S. government sources for use by the national and international community. In an effort to enhance the science, experimental products may be accessible on this server and care must be taken when using such products as they are intended for research use.  This server is available 24 hours a day, seven days a week . Timely delivery of data and products from this server through the Internet is not guaranteed.\n\nUse of NOAA/NWS Data and Products\nThe information on National Weather Service (NWS) Web pages are in the public domain, unless specifically noted otherwise, and may be used without charge for any lawful purpose so long as you do not: 1) claim it is your own (e.g., by claiming copyright for NWS information -- see below), 2) use it in a manner that implies an endorsement or affiliation with NOAA/NWS, or 3) modify its content and then present it as official government material. You also cannot present information of your own in a way that makes it appear to be official government information.  Before using information obtained from any NWS Web page special attention should be given to the date and time of the data and products being displayed. \n\nThe user assumes the entire risk related to its use of information on NWS Web pages. NWS is provides such information \"as is,\" and NWS disclaims any and all warranties, whether express or implied, including (without limitation) any implied warranties of merchantability or fitness for a particular purpose. In no event will NWS be liable to you or to any third party for any direct, indirect, incidental, consequential, special or exemplary damages or lost profit resulting from any use or misuse of this data."]"
 	},
 	{
 		"key": "metadata_type",
@@ -409,7 +409,7 @@
 	},
 	{
 		"package_id": "0011fdaa-244d-4e0f-b577-e65fb64dfbc0",
-		"value": "doc\/noaa\/nws\/ncep, pacific ocean, data application services, office of coast survey, national ocean service, noaa, u.s. department of commerce, nws, marshall space flight center, seatemp, rtgsst, information management services, rtg_sst, weatherforecasts, sport, oceanography, indian ocean, web map service, web services, msfc, eso, mmab, earth science office, synopticmeteorology, sst, web portal services, national centers for environmental prediction, national weather service, noaa, u.s. department of commerce, environmental modeling center, web-based geographic information systems, arctic ocean, data analysis and visualization, variational interpolation, water temperature, geographic information systems, atlantic ocean, marinemeteorology, hydrology, doc\/noaa\/nos\/ocs, meteorology, avhrr, ncep, ocean, nasa, mcsst",
+		"value": "doc/noaa/nws/ncep, pacific ocean, data application services, office of coast survey, national ocean service, noaa, u.s. department of commerce, nws, marshall space flight center, seatemp, rtgsst, information management services, rtg_sst, weatherforecasts, sport, oceanography, indian ocean, web map service, web services, msfc, eso, mmab, earth science office, synopticmeteorology, sst, web portal services, national centers for environmental prediction, national weather service, noaa, u.s. department of commerce, environmental modeling center, web-based geographic information systems, arctic ocean, data analysis and visualization, variational interpolation, water temperature, geographic information systems, atlantic ocean, marinemeteorology, hydrology, doc/noaa/nos/ocs, meteorology, avhrr, ncep, ocean, nasa, mcsst",
 		"revision_timestamp": "2016-10-03T21:22:48.131660",
 		"state": "active",
 		"key": "tags",
@@ -439,7 +439,7 @@
 		"revision_timestamp": "2013-03-25T23:05:12.923863",
 		"is_organization": true,
 		"state": "active",
-		"image_url": "https:\/\/fortress.wa.gov\/dfw\/score\/score\/images\/noaa_logo.png",
+		"image_url": "https://fortress.wa.gov/dfw/score/score/images/noaa_logo.png",
 		"revision_id": "c6d43080-22e1-405e-a83d-f2a512d9e867",
 		"type": "organization",
 		"id": "e811f0b4-451f-4896-9e8f-fc6802837819",

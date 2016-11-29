@@ -36,7 +36,7 @@
 		"cache_url": null,
 		"name": "NCEI Thredds Data Server",
 		"created": "2016-05-09T20:38:48.748516",
-		"url": "http:\/\/www.ngdc.noaa.gov\/thredds\/catalog.html",
+		"url": "http://www.ngdc.noaa.gov/thredds/catalog.html",
 		"webstore_url": null,
 		"resource_locator_function": "fileAccess",
 		"position": 0,
@@ -53,7 +53,7 @@
 		"state": "active",
 		"last_modified": null,
 		"hash": "",
-		"description": "NOAA\/PMEL\/Center for Tsunami Research (NCTR)",
+		"description": "NOAA/PMEL/Center for Tsunami Research (NCTR)",
 		"format": "",
 		"tracking_summary": {
 			"total": 3,
@@ -65,7 +65,7 @@
 		"cache_url": null,
 		"name": "NOAA Center for Tsunami Research",
 		"created": "2016-05-09T20:38:48.748542",
-		"url": "http:\/\/nctr.pmel.noaa.gov\/",
+		"url": "http://nctr.pmel.noaa.gov/",
 		"webstore_url": null,
 		"resource_locator_function": "information",
 		"position": 1,
@@ -94,7 +94,7 @@
 		"cache_url": null,
 		"name": "GCMD Feedback Form",
 		"created": "2016-05-09T20:38:48.748551",
-		"url": "http:\/\/gcmd.nasa.gov\/MailComments\/MailComments.jsf?rcpt=gcmduso",
+		"url": "http://gcmd.nasa.gov/MailComments/MailComments.jsf?rcpt=gcmduso",
 		"webstore_url": null,
 		"resource_locator_function": "information",
 		"position": 2,
@@ -123,7 +123,7 @@
 		"cache_url": null,
 		"name": "GCMD's Science Keywords and Associated Directory Keywords",
 		"created": "2016-05-09T20:38:48.748559",
-		"url": "http:\/\/gcmd.nasa.gov\/learn\/keyword_list.html",
+		"url": "http://gcmd.nasa.gov/learn/keyword_list.html",
 		"webstore_url": null,
 		"resource_locator_function": "information",
 		"position": 3,
@@ -152,7 +152,7 @@
 		"cache_url": null,
 		"name": "GCMD Feedback Form",
 		"created": "2016-05-09T20:38:48.748567",
-		"url": "http:\/\/gcmd.nasa.gov\/MailComments\/MailComments.jsf?rcpt=gcmduso",
+		"url": "http://gcmd.nasa.gov/MailComments/MailComments.jsf?rcpt=gcmduso",
 		"webstore_url": null,
 		"resource_locator_function": "information",
 		"position": 4,
@@ -181,7 +181,7 @@
 		"cache_url": null,
 		"name": "GCMD's Science Keywords and Associated Directory Keywords",
 		"created": "2016-05-09T20:38:48.748574",
-		"url": "http:\/\/gcmd.nasa.gov\/learn\/keyword_list.html",
+		"url": "http://gcmd.nasa.gov/learn/keyword_list.html",
 		"webstore_url": null,
 		"resource_locator_function": "information",
 		"position": 5,
@@ -201,11 +201,11 @@
 	"name": "portland-maine-tsunami-forecast-grids-for-most-model",
 	"isopen": false,
 	"url": null,
-	"notes": "The Portland, Maine Forecast Model Grids provides bathymetric data strictly for tsunami inundation modeling with the Method of Splitting Tsunami (MOST) model. MOST is a suite of numerical simulation codes capable of simulating three processes of tsunami evolution: generation, transoceanic propagation, and inundation of dry land. Tsunami waves are computationally propagated across a set of three nested grids (A, B, and C), each of which is successively finer in resolution, moving from offshore to onshore. Nearshore details are resolved to the point that model output can be directly compared with tide gauge observations and can provide estimates of wave arrival time, wave amplitude and simulation of wave inundation onto dry land. A Grid Resolution: 60 arc-sec. B Grid Resolution: 12 arc-sec in x direction. 9 arc-sec in y direction. C Grid Resolution: 4\/3 arc-sec in x direction. 1 arc-sec in y direction.",
+	"notes": "The Portland, Maine Forecast Model Grids provides bathymetric data strictly for tsunami inundation modeling with the Method of Splitting Tsunami (MOST) model. MOST is a suite of numerical simulation codes capable of simulating three processes of tsunami evolution: generation, transoceanic propagation, and inundation of dry land. Tsunami waves are computationally propagated across a set of three nested grids (A, B, and C), each of which is successively finer in resolution, moving from offshore to onshore. Nearshore details are resolved to the point that model output can be directly compared with tide gauge observations and can provide estimates of wave arrival time, wave amplitude and simulation of wave inundation onto dry land. A Grid Resolution: 60 arc-sec. B Grid Resolution: 12 arc-sec in x direction. 9 arc-sec in y direction. C Grid Resolution: 4/3 arc-sec in x direction. 1 arc-sec in y direction.",
 	"license_title": null,
 	"extras": [{
 		"key": "responsible-party",
-		"value": "[{\"name\": \"NOAA\/PMEL\/Center for Tsunami Research (NCTR)\", \"roles\": [\"publisher\"]}]"
+		"value": "[{"name": "NOAA/PMEL/Center for Tsunami Research (NCTR)", "roles": ["publisher"]}]"
 	},
 	{
 		"key": "contact-email",
@@ -225,7 +225,7 @@
 	},
 	{
 		"key": "dataset-reference-date",
-		"value": "[{\"type\": \"publication\", \"value\": \"2015-04-01\"}]"
+		"value": "[{"type": "publication", "value": "2015-04-01"}]"
 	},
 	{
 		"key": "resource-type",
@@ -253,7 +253,7 @@
 	},
 	{
 		"key": "licence",
-		"value": "[\"Not to be used for navigation. Although these data are of high quality and useful for planning and modeling purposes, they are not suitable for navigation. For navigation, please refer to the NOS nautical chart series.\", \"Produced by the NOAA National Geophysical Data Center. Not subject to copyright protection within the United States.\", \"While every effort has been made to ensure that these data are accurate and reliable within the limits of the current state of the art, NOAA cannot assume liability for any damages caused by any errors or omissions in the data, nor as a result of the failure of the data to function on a particular system. NOAA makes no warranty, expressed or implied, nor does the fact of distribution constitute such a warranty.\"]"
+		"value": "["Not to be used for navigation. Although these data are of high quality and useful for planning and modeling purposes, they are not suitable for navigation. For navigation, please refer to the NOS nautical chart series.", "Produced by the NOAA National Geophysical Data Center. Not subject to copyright protection within the United States.", "While every effort has been made to ensure that these data are accurate and reliable within the limits of the current state of the art, NOAA cannot assume liability for any damages caused by any errors or omissions in the data, nor as a result of the failure of the data to function on a particular system. NOAA makes no warranty, expressed or implied, nor does the fact of distribution constitute such a warranty."]"
 	},
 	{
 		"key": "metadata_type",
@@ -265,7 +265,7 @@
 	},
 	{
 		"key": "spatial",
-		"value": "{\"type\": \"Polygon\", \"coordinates\": [[[-72.0, 38.0], [-63.0, 38.0], [-63.0, 45.6], [-72.0, 45.6], [-72.0, 38.0]]]}"
+		"value": "{"type": "Polygon", "coordinates": [[[-72.0, 38.0], [-63.0, 38.0], [-63.0, 45.6], [-72.0, 45.6], [-72.0, 38.0]]]}"
 	},
 	{
 		"key": "guid",
@@ -277,7 +277,7 @@
 	},
 	{
 		"key": "access_constraints",
-		"value": "[\"Cite as: NOAA Pacific Marine Environmental Laboratory, Center for Tsunami Research (NCTR), 2015. Portland, Maine Tsunami Forecast Grids for MOST Model. NOAA National Centers for Environmental Information. doi:10.7289\/V5RV0KQ0 [access date].\"]"
+		"value": "["Cite as: NOAA Pacific Marine Environmental Laboratory, Center for Tsunami Research (NCTR), 2015. Portland, Maine Tsunami Forecast Grids for MOST Model. NOAA National Centers for Environmental Information. doi:10.7289/V5RV0KQ0 [access date]."]"
 	},
 	{
 		"key": "spatial_harvester",
@@ -289,7 +289,7 @@
 	},
 	{
 		"package_id": "2e542905-8a85-4ed3-a5f9-3bc99929b9d4",
-		"value": "topography, cape elizabeth, united states of america, gridded elevations, north america, doc\/noaa\/nesdis\/ncei, coastal elevation, portland, continent, earth science, vertical location, coastal processes, land surface, sea floor, terrain elevation, v: < 1 meter, icsu-wds, north atlantic ocean, 2015, seafloor topography, atlantic ocean, national centers for environmental information, nesdis, noaa, u.s. department of commerce, cumberland county, digital elevation model, oceans, maine, water depth, coastal relief, h: 1 meter - < 30 meters, bathymetry, integrated bathymetry and topography, doc\/noaa\/nesdis\/ngdc, topographical relief maps, ocean, dem, bathymetry\/seafloor topography, international council for science - world data system, national geophysical data center, nesdis, noaa, u.s. department of commerce",
+		"value": "topography, cape elizabeth, united states of america, gridded elevations, north america, doc/noaa/nesdis/ncei, coastal elevation, portland, continent, earth science, vertical location, coastal processes, land surface, sea floor, terrain elevation, v: < 1 meter, icsu-wds, north atlantic ocean, 2015, seafloor topography, atlantic ocean, national centers for environmental information, nesdis, noaa, u.s. department of commerce, cumberland county, digital elevation model, oceans, maine, water depth, coastal relief, h: 1 meter - < 30 meters, bathymetry, integrated bathymetry and topography, doc/noaa/nesdis/ngdc, topographical relief maps, ocean, dem, bathymetry/seafloor topography, international council for science - world data system, national geophysical data center, nesdis, noaa, u.s. department of commerce",
 		"revision_timestamp": "2016-02-22T18:49:09.354683",
 		"state": "active",
 		"key": "tags",
@@ -319,7 +319,7 @@
 		"revision_timestamp": "2013-03-25T23:05:12.923863",
 		"is_organization": true,
 		"state": "active",
-		"image_url": "https:\/\/fortress.wa.gov\/dfw\/score\/score\/images\/noaa_logo.png",
+		"image_url": "https://fortress.wa.gov/dfw/score/score/images/noaa_logo.png",
 		"revision_id": "c6d43080-22e1-405e-a83d-f2a512d9e867",
 		"type": "organization",
 		"id": "e811f0b4-451f-4896-9e8f-fc6802837819",

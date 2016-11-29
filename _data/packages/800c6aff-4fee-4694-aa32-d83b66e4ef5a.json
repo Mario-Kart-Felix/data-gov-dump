@@ -37,7 +37,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2016-05-30T22:42:29.800678",
-		"url": "https:\/\/coast.noaa.gov\/dataviewer\/#\/lidar\/search\/where:ID=2544",
+		"url": "https://coast.noaa.gov/dataviewer/#/lidar/search/where:ID=2544",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 0,
@@ -67,7 +67,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2016-05-30T22:42:29.800720",
-		"url": "https:\/\/coast.noaa.gov\/htdata\/lidar1_z\/geoid12a\/data\/2544",
+		"url": "https://coast.noaa.gov/htdata/lidar1_z/geoid12a/data/2544",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 1,
@@ -97,7 +97,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2016-05-30T22:42:29.800729",
-		"url": "https:\/\/coast.noaa.gov\/dataviewer",
+		"url": "https://coast.noaa.gov/dataviewer",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 2,
@@ -127,7 +127,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2016-05-30T22:42:29.800737",
-		"url": "https:\/\/coast.noaa.gov",
+		"url": "https://coast.noaa.gov",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 3,
@@ -147,7 +147,7 @@
 	"name": "2006-osip-ogrip-upland-counties-lidar-survey7a69a",
 	"isopen": false,
 	"url": null,
-	"notes": "The 2006 OSIP digital LiDAR data was collected during the months of March and May (leaf-off conditions). The LiDAR covers the entire land area of the northern tier of Ohio (approximately 23,442 square miles. The LiDAR is delivered in county sets, consisting of 5,000' x 5,000' size tiles. Where the State borders other states (land only), the entire border of the State is buffered by at least 1,000-feet. Along the Lake Erie Shoreline ortho coverage is buffered beyond the shoreline a minimum distance of 2,500-feet. Adjacent flight lines overlap by an average of 30 percent. LiDAR was collected with Leica ALS50 digital LiDAR Systems. The file naming convention is as follows: Nxxxxyyy = 5,000' x 5,000' LiDAR Tiles located in the Ohio State Plane Coordinate System (North Zone). Sxxxxyyy = 5,000' x 5,000' LiDAR Tiles located in the Ohio State Plane Coordinate System (South Zone). Please note that xxxx and yyy represent the easting and northing coordinates (respectively) in state plane feet, The naming convention for each LiDAR tile is based upon (the bottom most-left pixel). The LiDAR was provided in LAS Format containing the above ground and bare-earth LiDAR features. Ownership of the data products resides with the State of Ohio. Orthophotography and ancillary data products produced through this contract are public domain data. LiDAR was acquired Statewide to provide a solid and very accurate base to use during the image rectification process. This same LiDAR can be supplemented with 3D breaklines to generate 2-foot and\/or 4\/5-foot contours. The average post spacing between LiDAR points is 7-feet. The flying altitude was 7,300-feet AMT, with the targeted flying speed at 170 knots.",
+	"notes": "The 2006 OSIP digital LiDAR data was collected during the months of March and May (leaf-off conditions). The LiDAR covers the entire land area of the northern tier of Ohio (approximately 23,442 square miles. The LiDAR is delivered in county sets, consisting of 5,000' x 5,000' size tiles. Where the State borders other states (land only), the entire border of the State is buffered by at least 1,000-feet. Along the Lake Erie Shoreline ortho coverage is buffered beyond the shoreline a minimum distance of 2,500-feet. Adjacent flight lines overlap by an average of 30 percent. LiDAR was collected with Leica ALS50 digital LiDAR Systems. The file naming convention is as follows: Nxxxxyyy = 5,000' x 5,000' LiDAR Tiles located in the Ohio State Plane Coordinate System (North Zone). Sxxxxyyy = 5,000' x 5,000' LiDAR Tiles located in the Ohio State Plane Coordinate System (South Zone). Please note that xxxx and yyy represent the easting and northing coordinates (respectively) in state plane feet, The naming convention for each LiDAR tile is based upon (the bottom most-left pixel). The LiDAR was provided in LAS Format containing the above ground and bare-earth LiDAR features. Ownership of the data products resides with the State of Ohio. Orthophotography and ancillary data products produced through this contract are public domain data. LiDAR was acquired Statewide to provide a solid and very accurate base to use during the image rectification process. This same LiDAR can be supplemented with 3D breaklines to generate 2-foot and/or 4/5-foot contours. The average post spacing between LiDAR points is 7-feet. The flying altitude was 7,300-feet AMT, with the targeted flying speed at 170 knots.",
 	"license_title": null,
 	"extras": [{
 		"key": "bbox-east-long",
@@ -175,7 +175,7 @@
 	},
 	{
 		"key": "graphic-preview-file",
-		"value": "https:\/\/coast.noaa.gov\/htdata\/lidar1_z\/geoid12a\/data\/2544\/supplemental\/oh2006_ogrip_coastalcounties_geo.KMZ"
+		"value": "https://coast.noaa.gov/htdata/lidar1_z/geoid12a/data/2544/supplemental/oh2006_ogrip_coastalcounties_geo.KMZ"
 	},
 	{
 		"key": "metadata-language",
@@ -191,7 +191,7 @@
 	},
 	{
 		"key": "spatial",
-		"value": "{\"type\": \"Polygon\", \"coordinates\": [[[-84.826131, 41.176085], [-80.497619, 41.176085], [-80.497619, 41.730895], [-84.826131, 41.730895], [-84.826131, 41.176085]]]}"
+		"value": "{"type": "Polygon", "coordinates": [[[-84.826131, 41.176085], [-80.497619, 41.176085], [-80.497619, 41.730895], [-84.826131, 41.730895], [-84.826131, 41.176085]]]}"
 	},
 	{
 		"key": "progress",
@@ -199,7 +199,7 @@
 	},
 	{
 		"key": "access_constraints",
-		"value": "[\"Use Constraints: Users should be aware that temporal changes may have occurred since this data set was collected and some parts of this data may no longer represent actual surface conditions. Users should not use this data for critical applications without a full awareness of its limitations.\", \"Access Constraints: None\"]"
+		"value": "["Use Constraints: Users should be aware that temporal changes may have occurred since this data set was collected and some parts of this data may no longer represent actual surface conditions. Users should not use this data for critical applications without a full awareness of its limitations.", "Access Constraints: None"]"
 	},
 	{
 		"key": "temporal-extent-begin",
@@ -219,7 +219,7 @@
 	},
 	{
 		"key": "dataset-reference-date",
-		"value": "[{\"type\": \"publication\", \"value\": \"2013-08-20\"}]"
+		"value": "[{"type": "publication", "value": "2013-08-20"}]"
 	},
 	{
 		"key": "graphic-preview-description",
@@ -231,7 +231,7 @@
 	},
 	{
 		"key": "licence",
-		"value": "[\"Any conclusions drawn from the analysis of this information are not the responsibility of the State of Ohio Office of Information Technology (OSIP), Ohio Geographically Referenced Information Program (OGRIP), the Office for Coastal Management or its partners.\"]"
+		"value": "["Any conclusions drawn from the analysis of this information are not the responsibility of the State of Ohio Office of Information Technology (OSIP), Ohio Geographically Referenced Information Program (OGRIP), the Office for Coastal Management or its partners."]"
 	},
 	{
 		"key": "metadata_type",
@@ -239,7 +239,7 @@
 	},
 	{
 		"key": "responsible-party",
-		"value": "[{\"name\": \"State of Ohio, through the Office of Information Technology, Investment and Governance Division, for the Office of Information Technology, Services Delivery Division and the Ohio Geographically Referenced Information Program (OGRIP)\", \"roles\": [\"pointOfContact\"]}]"
+		"value": "[{"name": "State of Ohio, through the Office of Information Technology, Investment and Governance Division, for the Office of Information Technology, Services Delivery Division and the Ohio Geographically Referenced Information Program (OGRIP)", "roles": ["pointOfContact"]}]"
 	},
 	{
 		"key": "temporal-extent-end",
@@ -255,7 +255,7 @@
 	},
 	{
 		"package_id": "800c6aff-4fee-4694-aa32-d83b66e4ef5a",
-		"value": "wayne county, williams county, wyandot county, defiance county, trumbull county, osip, auglaize county, united states, huron county, georectification, putnam county, marion county, richland county, fulton county, ashland county, portage county, hardin county, lidar, medina county, shelby county, columbiana county, summit county, geauga county, imagerybasemapsearthcover, mercer county, statewide lidar, mahoning county, allen county, stark county, van wert county, woods county, seneca county, hancock county, paulding county, bathymetry\/topography, ohio, statewide imagery, henry county, crawford county",
+		"value": "wayne county, williams county, wyandot county, defiance county, trumbull county, osip, auglaize county, united states, huron county, georectification, putnam county, marion county, richland county, fulton county, ashland county, portage county, hardin county, lidar, medina county, shelby county, columbiana county, summit county, geauga county, imagerybasemapsearthcover, mercer county, statewide lidar, mahoning county, allen county, stark county, van wert county, woods county, seneca county, hancock county, paulding county, bathymetry/topography, ohio, statewide imagery, henry county, crawford county",
 		"revision_timestamp": "2015-09-26T21:20:19.071242",
 		"state": "active",
 		"key": "tags",
@@ -285,7 +285,7 @@
 		"revision_timestamp": "2013-03-25T23:05:12.923863",
 		"is_organization": true,
 		"state": "active",
-		"image_url": "https:\/\/fortress.wa.gov\/dfw\/score\/score\/images\/noaa_logo.png",
+		"image_url": "https://fortress.wa.gov/dfw/score/score/images/noaa_logo.png",
 		"revision_id": "c6d43080-22e1-405e-a83d-f2a512d9e867",
 		"type": "organization",
 		"id": "e811f0b4-451f-4896-9e8f-fc6802837819",

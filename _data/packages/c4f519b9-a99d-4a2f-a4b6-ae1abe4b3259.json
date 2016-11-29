@@ -36,7 +36,7 @@
 		"cache_url": null,
 		"name": "ARC Export",
 		"created": "2016-07-15T21:34:01.565231",
-		"url": "http:\/\/water.usgs.gov\/GIS\/dsdl\/ds573_wbdhuc8.ZIP",
+		"url": "http://water.usgs.gov/GIS/dsdl/ds573_wbdhuc8.ZIP",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 0,
@@ -65,7 +65,7 @@
 		"cache_url": null,
 		"name": "ARC Export",
 		"created": "2016-07-15T21:34:01.565253",
-		"url": "http:\/\/water.usgs.gov\/GIS\/dsdl\/ds573_wbd_huc8_shp.zip",
+		"url": "http://water.usgs.gov/GIS/dsdl/ds573_wbd_huc8_shp.zip",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 1,
@@ -95,7 +95,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2016-07-15T21:34:01.565262",
-		"url": "http:\/\/water.usgs.gov\/lookup\/getspatial?ds573_wbdhuc8",
+		"url": "http://water.usgs.gov/lookup/getspatial?ds573_wbdhuc8",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 2,
@@ -125,7 +125,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2016-07-15T21:34:01.565270",
-		"url": "http:\/\/pubs.usgs.gov\/ds\/ds573\/",
+		"url": "http://pubs.usgs.gov/ds/ds573/",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 3,
@@ -145,7 +145,7 @@
 	"name": "watershed-boundary-dataset-12-digit-watersheds-dissolved-to-8-digit-watershedsa276c",
 	"isopen": false,
 	"url": null,
-	"notes": "This dataset is the digital hydrologic unit boundary layer for the 8-digit subwatershed boundaries for the conterminous United States. This dataset is intended to be used with the following two tabular dBase files: http:\/\/water.usgs.gov\/lookup\/getspatial?ds573_tillage_lu92e and http:\/\/water.usgs.gov\/lookup\/getspatial?ds573_tillage_lu01. The two tabular datasets contain the Tillage Practices in the Conterminous United States, 1989-2004---Datasets Aggregated by Watershed. This dataset and the two tabular datasets can be linked using the common attribute HUC8_N. Information about how the tabular data and geospatial data can be related are given in the data series report: http:\/\/pubs.usgs.gov\/ds\/ds573\/ .The original dataset is the 12-digit Subwatershed boundaries (WBD_archive_17nov2009_9.2_file). The 12-digit boundaries were dissolved to 8-digit boundaries to be used with the two tabular .dbase data files containing the tillage practice data for the United States. ORIGINAL METADATA: This data set is a complete digital hydrologic unit boundary layer to the Subwatershed (12-digit) 6th level for the entire United States. This data set consists of geo-referenced digital data and associated attributes created in accordance with the \"Federal Guidelines, Requirements, and Procedures for the National Watershed Boundary Dataset; Chapter 3 of Section A, Federal Standards, Book 11, Collection and Delineation of Spatial Data; Techniques and Methods 11-A3\" (04\/01\/2009). http:\/\/www.ncgc.nrcs.usda.gov\/products\/datasets\/watershed\/index.html . Polygons are attributed with hydrologic unit codes for 4th level sub-basins, 5th level watersheds, 6th level subwatersheds, name, size, downstream hydrologic unit, type of watershed, non-contributing areas and flow modification.",
+	"notes": "This dataset is the digital hydrologic unit boundary layer for the 8-digit subwatershed boundaries for the conterminous United States. This dataset is intended to be used with the following two tabular dBase files: http://water.usgs.gov/lookup/getspatial?ds573_tillage_lu92e and http://water.usgs.gov/lookup/getspatial?ds573_tillage_lu01. The two tabular datasets contain the Tillage Practices in the Conterminous United States, 1989-2004---Datasets Aggregated by Watershed. This dataset and the two tabular datasets can be linked using the common attribute HUC8_N. Information about how the tabular data and geospatial data can be related are given in the data series report: http://pubs.usgs.gov/ds/ds573/ .The original dataset is the 12-digit Subwatershed boundaries (WBD_archive_17nov2009_9.2_file). The 12-digit boundaries were dissolved to 8-digit boundaries to be used with the two tabular .dbase data files containing the tillage practice data for the United States. ORIGINAL METADATA: This data set is a complete digital hydrologic unit boundary layer to the Subwatershed (12-digit) 6th level for the entire United States. This data set consists of geo-referenced digital data and associated attributes created in accordance with the "Federal Guidelines, Requirements, and Procedures for the National Watershed Boundary Dataset; Chapter 3 of Section A, Federal Standards, Book 11, Collection and Delineation of Spatial Data; Techniques and Methods 11-A3" (04/01/2009). http://www.ncgc.nrcs.usda.gov/products/datasets/watershed/index.html . Polygons are attributed with hydrologic unit codes for 4th level sub-basins, 5th level watersheds, 6th level subwatersheds, name, size, downstream hydrologic unit, type of watershed, non-contributing areas and flow modification.",
 	"license_title": null,
 	"extras": [{
 		"key": "bbox-east-long",
@@ -173,7 +173,7 @@
 	},
 	{
 		"key": "graphic-preview-file",
-		"value": "http:\/\/water.usgs.gov\/GIS\/browse\/ds573_wbdhuc8.jpg"
+		"value": "http://water.usgs.gov/GIS/browse/ds573_wbdhuc8.jpg"
 	},
 	{
 		"key": "bbox-south-lat",
@@ -189,7 +189,7 @@
 	},
 	{
 		"key": "spatial",
-		"value": "{\"type\": \"Polygon\", \"coordinates\": [[[-127.886246, 22.885847], [-64.623167, 22.885847], [-64.623167, 51.602543], [-127.886246, 51.602543], [-127.886246, 22.885847]]]}"
+		"value": "{"type": "Polygon", "coordinates": [[[-127.886246, 22.885847], [-64.623167, 22.885847], [-64.623167, 51.602543], [-127.886246, 51.602543], [-127.886246, 22.885847]]]}"
 	},
 	{
 		"key": "progress",
@@ -197,7 +197,7 @@
 	},
 	{
 		"key": "access_constraints",
-		"value": "[\"Use Constraints: The distributor shall not be held liable for improper or incorrect use of this data, based on the description of appropriate\/inappropriate uses described in this metadata document. It is strongly recommended that this data is directly acquired from the distributor and not indirectly through other sources which may have changed the data in some way. These data should not be used at scales greater than 1:24,000 for the purpose of identifying hydrographic watershed boundary feature locations in the U.S.A. The NRCS should be acknowledged as the data source in products derived from these data. The Watershed Boundary Dataset is public information and may be interpreted by all organizations, agencies, units of government, or others based on needs; however, they are responsible for the appropriate application of the data. Federal, State, or local regulatory bodies are not to reassign to the Natural Resources Conservation Service any authority for the decisions they make. The Natural Resources Conservation Service will not perform any evaluations of these maps or purposes related solely to State or local regulatory programs. Photographic or digital enlargement of these maps to scales greater than that at which they were originally delineated can result in misrepresentation of the data. If enlarged, the maps will not include the fine detail that would be appropriate for mapping at the small scale. Digital data files are periodically updated. Files are dated, and users are responsible for obtaining the latest version of the data from the source distributor.\", \"Access Constraints: None\"]"
+		"value": "["Use Constraints: The distributor shall not be held liable for improper or incorrect use of this data, based on the description of appropriate/inappropriate uses described in this metadata document. It is strongly recommended that this data is directly acquired from the distributor and not indirectly through other sources which may have changed the data in some way. These data should not be used at scales greater than 1:24,000 for the purpose of identifying hydrographic watershed boundary feature locations in the U.S.A. The NRCS should be acknowledged as the data source in products derived from these data. The Watershed Boundary Dataset is public information and may be interpreted by all organizations, agencies, units of government, or others based on needs; however, they are responsible for the appropriate application of the data. Federal, State, or local regulatory bodies are not to reassign to the Natural Resources Conservation Service any authority for the decisions they make. The Natural Resources Conservation Service will not perform any evaluations of these maps or purposes related solely to State or local regulatory programs. Photographic or digital enlargement of these maps to scales greater than that at which they were originally delineated can result in misrepresentation of the data. If enlarged, the maps will not include the fine detail that would be appropriate for mapping at the small scale. Digital data files are periodically updated. Files are dated, and users are responsible for obtaining the latest version of the data from the source distributor.", "Access Constraints: None"]"
 	},
 	{
 		"key": "temporal-extent-begin",
@@ -217,7 +217,7 @@
 	},
 	{
 		"key": "dataset-reference-date",
-		"value": "[{\"type\": \"publication\", \"value\": \"2011-01-01\"}]"
+		"value": "[{"type": "publication", "value": "2011-01-01"}]"
 	},
 	{
 		"key": "graphic-preview-description",
@@ -229,7 +229,7 @@
 	},
 	{
 		"key": "licence",
-		"value": "[\"The distributor shall not be held liable for improper or incorrect use of this data, based on the description of appropriate\/inappropriate uses described in this metadata document. It is strongly recommended that this data is directly acquired from the distributor and not indirectly through other sources which may have changed the data in some way. These data should not be used at scales greater than 1:24,000 for the purpose of identifying hydrographic watershed boundary feature locations in the U.S.A.  The U.S. Department of Agriculture makes no claims for the data's suitability for other purposes. U.S. Department of Agriculture should be acknowledged as the data source in products derived from these data. The Watershed Boundary Dataset is public information and may be interpreted by all organizations, agencies, units of government, or others based on needs; however, they are responsible for the appropriate application of the data. Federal, State, or local regulatory bodies are not to reassign to the U.S. Department of Agriculture or the Natural Resources Conservation Service any authority for the decisions they make.  The Natural Resources Conservation Service will not perform any evaluations of these maps or purposes related solely to State or local regulatory programs. Photographic or digital enlargement of these maps to scales greater than that at which they were originally delineated can result in misrepresentation of the data.  If enlarged, the maps will not include the fine detail that would be appropriate for mapping at the small scale.  Digital data files are periodically updated. Files are dated, and users are responsible for obtaining the latest version of the data from the source distributor.\"]"
+		"value": "["The distributor shall not be held liable for improper or incorrect use of this data, based on the description of appropriate/inappropriate uses described in this metadata document. It is strongly recommended that this data is directly acquired from the distributor and not indirectly through other sources which may have changed the data in some way. These data should not be used at scales greater than 1:24,000 for the purpose of identifying hydrographic watershed boundary feature locations in the U.S.A.  The U.S. Department of Agriculture makes no claims for the data's suitability for other purposes. U.S. Department of Agriculture should be acknowledged as the data source in products derived from these data. The Watershed Boundary Dataset is public information and may be interpreted by all organizations, agencies, units of government, or others based on needs; however, they are responsible for the appropriate application of the data. Federal, State, or local regulatory bodies are not to reassign to the U.S. Department of Agriculture or the Natural Resources Conservation Service any authority for the decisions they make.  The Natural Resources Conservation Service will not perform any evaluations of these maps or purposes related solely to State or local regulatory programs. Photographic or digital enlargement of these maps to scales greater than that at which they were originally delineated can result in misrepresentation of the data.  If enlarged, the maps will not include the fine detail that would be appropriate for mapping at the small scale.  Digital data files are periodically updated. Files are dated, and users are responsible for obtaining the latest version of the data from the source distributor."]"
 	},
 	{
 		"key": "metadata_type",
@@ -237,7 +237,7 @@
 	},
 	{
 		"key": "responsible-party",
-		"value": "[{\"name\": \"U.S. Geological Survey\", \"roles\": [\"pointOfContact\"]}]"
+		"value": "[{"name": "U.S. Geological Survey", "roles": ["pointOfContact"]}]"
 	},
 	{
 		"key": "spatial-data-service-type",
@@ -279,7 +279,7 @@
 		"revision_timestamp": "2015-01-16T18:28:14.593903",
 		"is_organization": true,
 		"state": "active",
-		"image_url": "http:\/\/upload.wikimedia.org\/wikipedia\/en\/thumb\/4\/44\/University_of_Idaho_seal.svg\/300px-University_of_Idaho_seal.svg.png",
+		"image_url": "http://upload.wikimedia.org/wikipedia/en/thumb/4/44/University_of_Idaho_seal.svg/300px-University_of_Idaho_seal.svg.png",
 		"revision_id": "761955d7-9530-4622-8609-d0b01c78e177",
 		"type": "organization",
 		"id": "75e22a8a-da5f-46f3-93d8-924063a3703d",

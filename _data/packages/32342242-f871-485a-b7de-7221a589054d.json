@@ -36,7 +36,7 @@
 		"cache_url": null,
 		"name": "Shapefile Zip File",
 		"created": "2016-09-27T14:47:47.799067",
-		"url": "http:\/\/www2.census.gov\/geo\/tiger\/TIGER2016\/COASTLINE\/tl_2016_us_coastline.zip",
+		"url": "http://www2.census.gov/geo/tiger/TIGER2016/COASTLINE/tl_2016_us_coastline.zip",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 0,
@@ -53,7 +53,7 @@
 		"state": "active",
 		"last_modified": null,
 		"hash": "",
-		"description": "Should be used for most mapping projects--this is our most comprehensive dataset. Designed for use with GIS (geographic\n                                             information systems).",
+		"description": "Should be used for most mapping projects--this is our most comprehensive dataset. Designed for use with GIS (geographicn                                             information systems).",
 		"format": "HTML",
 		"tracking_summary": {
 			"total": 0,
@@ -63,9 +63,9 @@
 		"resource_locator_protocol": "",
 		"mimetype": null,
 		"cache_url": null,
-		"name": "TIGER\/Line\u00ae Shapefiles",
+		"name": "TIGER/Lineu00ae Shapefiles",
 		"created": "2016-09-27T14:47:47.799113",
-		"url": "http:\/\/www.census.gov\/geo\/maps-data\/data\/tiger-line.html",
+		"url": "http://www.census.gov/geo/maps-data/data/tiger-line.html",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 1,
@@ -74,7 +74,7 @@
 	}],
 	"num_resources": 2,
 	"tags": [],
-	"title": "TIGER\/Line Shapefile, 2016,  nation, U.S., Coastline National Shapefile",
+	"title": "TIGER/Line Shapefile, 2016,  nation, U.S., Coastline National Shapefile",
 	"tracking_summary": {
 		"total": 9,
 		"recent": 2
@@ -85,7 +85,7 @@
 	"name": "tiger-line-shapefile-2016-nation-u-s-coastline-national-shapefile",
 	"isopen": false,
 	"url": null,
-	"notes": "The TIGER\/Line shapefiles and related database files (.dbf) are an extract of selected geographic and cartographic information from the\n                                 U.S. Census Bureau's Master Address File \/ Topologically Integrated Geographic Encoding and Referencing (MAF\/TIGER) Database (MTDB).\n                                 The MTDB represents a seamless national file with no overlaps or gaps between parts, however, each TIGER\/Line shapefile is designed to\n                                 stand alone as an independent data set, or they can be combined to cover the entire nation.\n\n                                 The Coastline Shapefile includes all features within the MTDB Class \"Coastline\" distinguished where the MAF\/TIGER Feature\n                                 Classification Code (MTFCC) for the feature in MTDB is L4150. The coastline included in this shapefile was delineated by the Census\n                                 Bureau in the MAF\/TIGER database based on water measurement class for display of statistical information only; its depiction and\n                                 designation for statistical purposes does not constitute a determination of jurisdictional authority or rights of ownership or\n                                 entitlement and it is not a legal land description. This shapefile should be used for data presentation purposes only.  It is not the\n                                 official source for the coastline feature. The name assigned to each Coastline feature is a short form of the name of the large body of\n                                 water bordered by this Coastline feature.\n            ",
+	"notes": "The TIGER/Line shapefiles and related database files (.dbf) are an extract of selected geographic and cartographic information from then                                 U.S. Census Bureau's Master Address File / Topologically Integrated Geographic Encoding and Referencing (MAF/TIGER) Database (MTDB).n                                 The MTDB represents a seamless national file with no overlaps or gaps between parts, however, each TIGER/Line shapefile is designed ton                                 stand alone as an independent data set, or they can be combined to cover the entire nation.nn                                 The Coastline Shapefile includes all features within the MTDB Class "Coastline" distinguished where the MAF/TIGER Featuren                                 Classification Code (MTFCC) for the feature in MTDB is L4150. The coastline included in this shapefile was delineated by the Censusn                                 Bureau in the MAF/TIGER database based on water measurement class for display of statistical information only; its depiction andn                                 designation for statistical purposes does not constitute a determination of jurisdictional authority or rights of ownership orn                                 entitlement and it is not a legal land description. This shapefile should be used for data presentation purposes only.  It is not then                                 official source for the coastline feature. The name assigned to each Coastline feature is a short form of the name of the large body ofn                                 water bordered by this Coastline feature.n            ",
 	"license_title": null,
 	"extras": [{
 		"key": "bbox-east-long",
@@ -121,7 +121,7 @@
 	},
 	{
 		"key": "spatial",
-		"value": "{\"type\": \"Polygon\", \"coordinates\": [[[-179.231086, -14.601813], [179.859681, -14.601813], [179.859681, 71.441059], [-179.231086, 71.441059], [-179.231086, -14.601813]]]}"
+		"value": "{"type": "Polygon", "coordinates": [[[-179.231086, -14.601813], [179.859681, -14.601813], [179.859681, 71.441059], [-179.231086, 71.441059], [-179.231086, -14.601813]]]}"
 	},
 	{
 		"key": "progress",
@@ -129,7 +129,7 @@
 	},
 	{
 		"key": "access_constraints",
-		"value": "[\" Access Constraints: None\", \" Use Constraints:The TIGER\/Line Shapefile products are not copyrighted however TIGER\/Line and Census TIGER are registered\\n                                        trademarks of the U.S. Census Bureau.  These products are free to use in a product or publication, however acknowledgement must\\n                                        be given to the U.S. Census Bureau as the source.\\n                                        \\n                                        The horizontal spatial accuracy information present in these files is provided for the purposes of statistical analysis and\\n                                        census operations only.  No warranty, expressed or implied is made with regard to the accuracy of the spatial accuracy, and no\\n                                        liability is assumed by the U.S. Government in general or the U.S. Census Bureau, specifically as to the spatial or attribute\\n                                        accuracy of the data.  The TIGER\/Line Shapefiles may not be suitable for high-precision measurement applications such as\\n                                        engineering problems, property transfers, or other uses that might require highly accurate measurements of the earth's surface.\\n                                        Coordinates in the TIGER\/Line shapefiles have six implied decimal places, but the positional accuracy of these coordinates is\\n                                        not as great as the six decimal places suggest.\\n                  \"]"
+		"value": "[" Access Constraints: None", " Use Constraints:The TIGER/Line Shapefile products are not copyrighted however TIGER/Line and Census TIGER are registered\n                                        trademarks of the U.S. Census Bureau.  These products are free to use in a product or publication, however acknowledgement must\n                                        be given to the U.S. Census Bureau as the source.\n                                        \n                                        The horizontal spatial accuracy information present in these files is provided for the purposes of statistical analysis and\n                                        census operations only.  No warranty, expressed or implied is made with regard to the accuracy of the spatial accuracy, and no\n                                        liability is assumed by the U.S. Government in general or the U.S. Census Bureau, specifically as to the spatial or attribute\n                                        accuracy of the data.  The TIGER/Line Shapefiles may not be suitable for high-precision measurement applications such as\n                                        engineering problems, property transfers, or other uses that might require highly accurate measurements of the earth's surface.\n                                        Coordinates in the TIGER/Line shapefiles have six implied decimal places, but the positional accuracy of these coordinates is\n                                        not as great as the six decimal places suggest.\n                  "]"
 	},
 	{
 		"key": "temporal-extent-begin",
@@ -149,7 +149,7 @@
 	},
 	{
 		"key": "dataset-reference-date",
-		"value": "[{\"type\": \"publication\", \"value\": \"2016\"}]"
+		"value": "[{"type": "publication", "value": "2016"}]"
 	},
 	{
 		"key": "frequency-of-update",
@@ -207,7 +207,7 @@
 		"revision_timestamp": "2013-08-29T13:37:04.171127",
 		"is_organization": true,
 		"state": "active",
-		"image_url": "http:\/\/www.census.gov\/main\/img\/home\/CensusLogo-white.png",
+		"image_url": "http://www.census.gov/main/img/home/CensusLogo-white.png",
 		"revision_id": "0995f525-d563-4254-a535-af5b926fe663",
 		"type": "organization",
 		"id": "31c49abe-512a-412a-9cc7-5b2601325d6b",

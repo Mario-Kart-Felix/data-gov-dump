@@ -37,7 +37,7 @@
 		"cache_url": null,
 		"name": "Zip File",
 		"created": "2013-03-15T10:42:55.099426",
-		"url": "http:\/\/irmafiles.nps.gov\/Reference\/Holding\/372664\/pisp_utilities.zip",
+		"url": "http://irmafiles.nps.gov/Reference/Holding/372664/pisp_utilities.zip",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 0,
@@ -67,7 +67,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2013-03-15T10:42:55.099449",
-		"url": "http:\/\/www.nps.gov\/gis\/data_info\/",
+		"url": "http://www.nps.gov/gis/data_info/",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 1,
@@ -97,7 +97,7 @@
 		"cache_url": null,
 		"name": "Zip File",
 		"created": "2013-03-15T10:42:55.099458",
-		"url": "http:\/\/irmafiles.nps.gov\/Reference\/Holding\/372664\/pisp_utilities.zip",
+		"url": "http://irmafiles.nps.gov/Reference/Holding/372664/pisp_utilities.zip",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 2,
@@ -127,7 +127,7 @@
 		"cache_url": null,
 		"name": "XML File",
 		"created": "2013-03-15T10:42:55.099465",
-		"url": "http:\/\/nrdata.nps.gov\/pisp\/pispdata\/pisp_sprngwtr.xml",
+		"url": "http://nrdata.nps.gov/pisp/pispdata/pisp_sprngwtr.xml",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 3,
@@ -183,11 +183,11 @@
 	},
 	{
 		"key": "spatial",
-		"value": "{\"type\": \"Polygon\", \"coordinates\": [[[-112.740602, 36.861032], [-112.740602, 36.863259], [-112.73935, 36.863259], [-112.73935, 36.861032], [-112.740602, 36.861032]]]}"
+		"value": "{"type": "Polygon", "coordinates": [[[-112.740602, 36.861032], [-112.740602, 36.863259], [-112.73935, 36.863259], [-112.73935, 36.861032], [-112.740602, 36.861032]]]}"
 	},
 	{
 		"key": "access_constraints",
-		"value": "[\"Use Constraints: Note: location's are approximate. They utility lines were not visible while this coverage was put together. Do not make measurement for digging or other land modification projects solely from this data.\", \"Access Constraints: none\"]"
+		"value": "["Use Constraints: Note: location's are approximate. They utility lines were not visible while this coverage was put together. Do not make measurement for digging or other land modification projects solely from this data.", "Access Constraints: none"]"
 	},
 	{
 		"key": "temporal-extent-begin",
@@ -207,7 +207,7 @@
 	},
 	{
 		"key": "dataset-reference-date",
-		"value": "[{\"type\": \"publication\", \"value\": \"\"}]"
+		"value": "[{"type": "publication", "value": ""}]"
 	},
 	{
 		"key": "frequency-of-update",
@@ -215,7 +215,7 @@
 	},
 	{
 		"key": "licence",
-		"value": "[\"The National Park Service shall not be held liable for improper or incorrect use of the data described and\/or contained herein. These data and related graphics (\\\"GIF\\\" and \\\"JPEG\\\" format files) are not legal documents and are not intended to be used as such. The information contained in these data is dynamic and may change over time. The data are not better than the original sources from which they were derived. It is the responsibility of the data user to use the data appropriately and consistent within the limitations of geospatial data in general and these data in particular. The related graphics are intended to aid the data user in acquiring relevant data; it is not appropriate to use the related graphics as data. The National Park Service gives no warranty, expressed or implied, as to the accuracy, reliability, or completeness of these data. It is strongly recommended that these data be directly acquired from an NPS server and not indirectly through other sources, which may have changed the data in some way. Although these data have been processed successfully on a computer system at the National Park Service, no warranty expressed or implied is made regarding the utility of the data on another system or for general or scientific purposes, nor shall the act of distribution constitute any such warranty. This disclaimer applies both to individual use of the data and aggregate use with other data.\"]"
+		"value": "["The National Park Service shall not be held liable for improper or incorrect use of the data described and/or contained herein. These data and related graphics (\"GIF\" and \"JPEG\" format files) are not legal documents and are not intended to be used as such. The information contained in these data is dynamic and may change over time. The data are not better than the original sources from which they were derived. It is the responsibility of the data user to use the data appropriately and consistent within the limitations of geospatial data in general and these data in particular. The related graphics are intended to aid the data user in acquiring relevant data; it is not appropriate to use the related graphics as data. The National Park Service gives no warranty, expressed or implied, as to the accuracy, reliability, or completeness of these data. It is strongly recommended that these data be directly acquired from an NPS server and not indirectly through other sources, which may have changed the data in some way. Although these data have been processed successfully on a computer system at the National Park Service, no warranty expressed or implied is made regarding the utility of the data on another system or for general or scientific purposes, nor shall the act of distribution constitute any such warranty. This disclaimer applies both to individual use of the data and aggregate use with other data."]"
 	},
 	{
 		"key": "metadata_type",
@@ -223,7 +223,7 @@
 	},
 	{
 		"key": "responsible-party",
-		"value": "[{\"name\": \"Zion National Park\", \"roles\": [\"pointOfContact\"]}]"
+		"value": "[{"name": "Zion National Park", "roles": ["pointOfContact"]}]"
 	},
 	{
 		"key": "temporal-extent-end",
@@ -239,7 +239,7 @@
 	},
 	{
 		"package_id": "b9a2f490-c366-4ba9-84bc-6d70c638f238",
-		"value": "utility, spring, Infrastructure \/ Maintenance , Hydrography , utilitiesCommunication ",
+		"value": "utility, spring, Infrastructure / Maintenance , Hydrography , utilitiesCommunication ",
 		"revision_timestamp": "2013-05-17T00:00:00",
 		"state": "active",
 		"key": "tags",
@@ -269,7 +269,7 @@
 		"revision_timestamp": "2015-03-18T14:25:04.527925",
 		"is_organization": true,
 		"state": "active",
-		"image_url": "https:\/\/raw.githubusercontent.com\/GSA\/logo\/master\/nps.png",
+		"image_url": "https://raw.githubusercontent.com/GSA/logo/master/nps.png",
 		"revision_id": "c01136dc-911c-4651-92b7-36046d755b81",
 		"type": "organization",
 		"id": "ffbc26a5-1ae8-4c8c-ac45-e5b76fc6486a",

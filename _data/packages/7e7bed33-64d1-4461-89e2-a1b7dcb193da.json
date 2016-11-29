@@ -37,7 +37,7 @@
 		"cache_url": null,
 		"name": "Zip File",
 		"created": "2013-03-15T06:58:13.202671",
-		"url": "http:\/\/lagic.lsu.edu\/data\/losco\/landcover_la_gap_usgs_1998.zip",
+		"url": "http://lagic.lsu.edu/data/losco/landcover_la_gap_usgs_1998.zip",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 0,
@@ -70,7 +70,7 @@
 	"name": "land-cover-classification-for-the-louisiana-gap-analysis-utm-zone-15-nad83-usgs-landcover-1998",
 	"isopen": false,
 	"url": null,
-	"notes": "This data set consists of digital data describing the land use\/land cover (mainly vegetation, but including water and urban environments) for the State of Louisiana at 1:100,000 scale. The map was compiled using Landsat 5 Thematic Mapper satellite imagery, botanical surveys, color infrared aerial photography, and existing coastal Louisiana habitat maps produced by the U.S. Fish and Wildlife Service's National Wetlands Inventory. Attribute fields describe the different land cover types occurring within the polygon or associated with each pixel.",
+	"notes": "This data set consists of digital data describing the land use/land cover (mainly vegetation, but including water and urban environments) for the State of Louisiana at 1:100,000 scale. The map was compiled using Landsat 5 Thematic Mapper satellite imagery, botanical surveys, color infrared aerial photography, and existing coastal Louisiana habitat maps produced by the U.S. Fish and Wildlife Service's National Wetlands Inventory. Attribute fields describe the different land cover types occurring within the polygon or associated with each pixel.",
 	"license_title": null,
 	"extras": [{
 		"key": "temporal-extent-begin",
@@ -98,7 +98,7 @@
 	},
 	{
 		"key": "dataset-reference-date",
-		"value": "[{\"type\": \"publication\", \"value\": \"1998-01-01\"}]"
+		"value": "[{"type": "publication", "value": "1998-01-01"}]"
 	},
 	{
 		"key": "resource-type",
@@ -126,7 +126,7 @@
 	},
 	{
 		"key": "licence",
-		"value": "[\"The distributor shall not be liable for improper or incorrect use of this data, based on the description of appropriate\/inappropriate uses described in this metadata document. It is strongly recommended that this data is directly acquired from the distributor described above or from another USGS Biological Resource Division server and not indirectly through other sources which may have changed the data in some way. The distributor makes no claims as to the data's suitability for other purposes. These data are not legal documents and are not to be used as such. Users should be aware that comparison with other data sets for the same area from other time periods may be inaccurate due to inconsistencies resulting from changes in digital conversions and mapping conventions over time. See the Access Constraints section for the NWRC Standard Data Liability Disclaimer.\"]"
+		"value": "["The distributor shall not be liable for improper or incorrect use of this data, based on the description of appropriate/inappropriate uses described in this metadata document. It is strongly recommended that this data is directly acquired from the distributor described above or from another USGS Biological Resource Division server and not indirectly through other sources which may have changed the data in some way. The distributor makes no claims as to the data's suitability for other purposes. These data are not legal documents and are not to be used as such. Users should be aware that comparison with other data sets for the same area from other time periods may be inaccurate due to inconsistencies resulting from changes in digital conversions and mapping conventions over time. See the Access Constraints section for the NWRC Standard Data Liability Disclaimer."]"
 	},
 	{
 		"key": "metadata_type",
@@ -134,11 +134,11 @@
 	},
 	{
 		"key": "responsible-party",
-		"value": "[{\"name\": \"U.S. Geological Survey, National Wetlands Research Center\", \"roles\": [\"pointOfContact\"]}]"
+		"value": "[{"name": "U.S. Geological Survey, National Wetlands Research Center", "roles": ["pointOfContact"]}]"
 	},
 	{
 		"key": "spatial",
-		"value": "{\"type\": \"Polygon\", \"coordinates\": [[[-95.042609, 28.776899], [-95.042609, 33.534912], [-87.902407, 33.534912], [-87.902407, 28.776899], [-95.042609, 28.776899]]]}"
+		"value": "{"type": "Polygon", "coordinates": [[[-95.042609, 28.776899], [-95.042609, 33.534912], [-87.902407, 33.534912], [-87.902407, 28.776899], [-95.042609, 28.776899]]]}"
 	},
 	{
 		"key": "guid",
@@ -150,11 +150,11 @@
 	},
 	{
 		"key": "access_constraints",
-		"value": "[\"Use Constraints: Acknowledgement of the USGS, National Wetlands Research Center as a data source would be appreciated in products developed from these data, and such acknowledgement as is standard for citation and legal practices for data sources is expected by users of these data. Users should be aware that comparison with other data sets for the same area from other time periods may be inaccurate due to inconsistencies resulting from changes in mapping conventions, data collection, and computer processes over time. The distributor shall not be liable for improper or incorrect use of these data, based on the description of appropriate\/inappropriate uses described in this metadata document. These data are not legal documents and are not to be used as such.\", \"Access Constraints: It is strongly recommended that these data are directly acquired from the distributor described in the distribution section of this metadata record or from another USGS server and not indirectly through other sources which may have changed the data in some way. The distributor makes no claim as to the data's suitability for other purposes.\"]"
+		"value": "["Use Constraints: Acknowledgement of the USGS, National Wetlands Research Center as a data source would be appreciated in products developed from these data, and such acknowledgement as is standard for citation and legal practices for data sources is expected by users of these data. Users should be aware that comparison with other data sets for the same area from other time periods may be inaccurate due to inconsistencies resulting from changes in mapping conventions, data collection, and computer processes over time. The distributor shall not be liable for improper or incorrect use of these data, based on the description of appropriate/inappropriate uses described in this metadata document. These data are not legal documents and are not to be used as such.", "Access Constraints: It is strongly recommended that these data are directly acquired from the distributor described in the distribution section of this metadata record or from another USGS server and not indirectly through other sources which may have changed the data in some way. The distributor makes no claim as to the data's suitability for other purposes."]"
 	},
 	{
 		"key": "frequency-of-update",
-		"value": "NO CURRENT PLANS FOR UPDATING THE LAND USE\/LAND COVER DATA, HOWEVER, THE NATIONAL GAP PROGRAM HAS INDICATED A POSSIBLE 10 YEAR INTERVAL FOR UPDATING THE INFORMATION."
+		"value": "NO CURRENT PLANS FOR UPDATING THE LAND USE/LAND COVER DATA, HOWEVER, THE NATIONAL GAP PROGRAM HAS INDICATED A POSSIBLE 10 YEAR INTERVAL FOR UPDATING THE INFORMATION."
 	},
 	{
 		"package_id": "7e7bed33-64d1-4461-89e2-a1b7dcb193da",
@@ -188,7 +188,7 @@
 		"revision_timestamp": "2013-03-25T22:09:53.255504",
 		"is_organization": true,
 		"state": "active",
-		"image_url": "http:\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/2\/2f\/Seal_of_Louisiana.svg\/220px-Seal_of_Louisiana.svg.png",
+		"image_url": "http://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Seal_of_Louisiana.svg/220px-Seal_of_Louisiana.svg.png",
 		"revision_id": "cb2c2109-cc58-4c20-b217-92da3b00ff31",
 		"type": "organization",
 		"id": "c6abf130-9205-49e9-bdde-aff963e263e1",

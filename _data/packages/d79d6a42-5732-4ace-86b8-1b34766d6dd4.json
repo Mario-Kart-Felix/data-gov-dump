@@ -36,7 +36,7 @@
 		"cache_url": null,
 		"name": "NDGIS web site",
 		"created": "2016-04-01T14:55:25.818517",
-		"url": "http:\/\/www.nd.gov\/gis",
+		"url": "http://www.nd.gov/gis",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 0,
@@ -65,7 +65,7 @@
 		"cache_url": null,
 		"name": "Surface Water Quality Data Portal",
 		"created": "2016-04-01T14:55:25.818538",
-		"url": "http:\/\/www.ndhealth.gov\/WQ\/SW\/Z8_SWData\/",
+		"url": "http://www.ndhealth.gov/WQ/SW/Z8_SWData/",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 1,
@@ -94,7 +94,7 @@
 		"cache_url": null,
 		"name": "Download Assessed Lakes and Reservoirs",
 		"created": "2016-04-01T14:55:25.818546",
-		"url": "http:\/\/www.nd.gov\/gis\/apps\/DataDownload\/?clipping=Full&coord=ND83-SF&format=SHAPE&layers=NDHUB.ASSESSEDCATEGORY_LAKE",
+		"url": "http://www.nd.gov/gis/apps/DataDownload/?clipping=Full&coord=ND83-SF&format=SHAPE&layers=NDHUB.ASSESSEDCATEGORY_LAKE",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 2,
@@ -127,7 +127,7 @@
 	"name": "assessed-lakes-and-reservoirs",
 	"isopen": false,
 	"url": null,
-	"notes": "This dataset contains the lakes and reservoirs that have been assessed and categorized by Department of Health-Division of Water Quality (NDDoH-WQ) for the 2014 Integrated Report submitted to and approved by the US EPA. A complete copy of the report is here: http:\/\/www.ndhealth.gov\/WQ\/SW\/Z7_Publications\/IntegratedReports\/2014_North_Dakota_Integrated_Report_Final_20150428.pdf . (clicking on link opens the 276-page report in a new window). The lakes are a subset and enhancement of the 1:100,000 scale National Hydrography Dataset (NHD). NDDoH-WQ adds additional lakes or modifies outlines to reflect current conditions based on the most recent aerial imagery. Since the assessed and categorized lakes are a subset of the NHD lakes, only that subset is included in this dataset. Updated March 17, 2015",
+	"notes": "This dataset contains the lakes and reservoirs that have been assessed and categorized by Department of Health-Division of Water Quality (NDDoH-WQ) for the 2014 Integrated Report submitted to and approved by the US EPA. A complete copy of the report is here: http://www.ndhealth.gov/WQ/SW/Z7_Publications/IntegratedReports/2014_North_Dakota_Integrated_Report_Final_20150428.pdf . (clicking on link opens the 276-page report in a new window). The lakes are a subset and enhancement of the 1:100,000 scale National Hydrography Dataset (NHD). NDDoH-WQ adds additional lakes or modifies outlines to reflect current conditions based on the most recent aerial imagery. Since the assessed and categorized lakes are a subset of the NHD lakes, only that subset is included in this dataset. Updated March 17, 2015",
 	"license_title": null,
 	"extras": [{
 		"key": "bbox-east-long",
@@ -171,7 +171,7 @@
 	},
 	{
 		"key": "spatial",
-		"value": "{\"type\": \"Polygon\", \"coordinates\": [[[-104.5, 45.5], [-96.5, 45.5], [-96.5, 49.5], [-104.5, 49.5], [-104.5, 45.5]]]}"
+		"value": "{"type": "Polygon", "coordinates": [[[-104.5, 45.5], [-96.5, 45.5], [-96.5, 49.5], [-104.5, 49.5], [-104.5, 45.5]]]}"
 	},
 	{
 		"key": "progress",
@@ -179,7 +179,7 @@
 	},
 	{
 		"key": "access_constraints",
-		"value": "[\"The State of North Dakota has compiled this data according to conventional cartographic standards, using what is thought to be the most reliable information available. This data is intended to make results of research available at the earliest possible date, but is not intended to constitute final or formal publication. The State of North Dakota makes every effort to provide virus-free files but does not guarantee uncorrupted files. The State of North Dakota does not guarantee this data to be free from errors, inaccuracies, or viruses, and disclaims any responsibility or liability for interpretations or decisions based on this data.\"]"
+		"value": "["The State of North Dakota has compiled this data according to conventional cartographic standards, using what is thought to be the most reliable information available. This data is intended to make results of research available at the earliest possible date, but is not intended to constitute final or formal publication. The State of North Dakota makes every effort to provide virus-free files but does not guarantee uncorrupted files. The State of North Dakota does not guarantee this data to be free from errors, inaccuracies, or viruses, and disclaims any responsibility or liability for interpretations or decisions based on this data."]"
 	},
 	{
 		"key": "contact-email",
@@ -195,7 +195,7 @@
 	},
 	{
 		"key": "dataset-reference-date",
-		"value": "[{\"type\": \"publication\", \"value\": \"2015-03-17T00:00:00\"}]"
+		"value": "[{"type": "publication", "value": "2015-03-17T00:00:00"}]"
 	},
 	{
 		"key": "graphic-preview-description",
@@ -215,7 +215,7 @@
 	},
 	{
 		"key": "responsible-party",
-		"value": "[{\"name\": \"ND Department of Health-Division of Water Quality\", \"roles\": [\"originator\"]}]"
+		"value": "[{"name": "ND Department of Health-Division of Water Quality", "roles": ["originator"]}]"
 	},
 	{
 		"key": "spatial-data-service-type",
@@ -250,14 +250,14 @@
 		"value": "North Dakota GIS Hub Data Portal"
 	}],
 	"organization": {
-		"description": "The GIS Hub is the state source for GIS - data, services, and information.  More information can be found at www.nd.gov\/gis.",
+		"description": "The GIS Hub is the state source for GIS - data, services, and information.  More information can be found at www.nd.gov/gis.",
 		"created": "2013-03-14T03:44:44.340717",
 		"title": "State of North Dakota",
 		"name": "nd-gov",
 		"revision_timestamp": "2013-07-15T16:27:30.098476",
 		"is_organization": true,
 		"state": "active",
-		"image_url": "http:\/\/www.nd.gov\/gis\/images\/ndgis-logo.gif",
+		"image_url": "http://www.nd.gov/gis/images/ndgis-logo.gif",
 		"revision_id": "27517bb9-815c-4d4f-b45b-b88b6316697b",
 		"type": "organization",
 		"id": "1c782de6-9f1f-4427-93fd-33732e29970f",

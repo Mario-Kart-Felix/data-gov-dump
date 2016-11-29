@@ -37,7 +37,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2015-11-10T00:52:05.310110",
-		"url": "http:\/\/www.soest.hawaii.edu\/pibhmc\/",
+		"url": "http://www.soest.hawaii.edu/pibhmc/",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 0,
@@ -59,7 +59,7 @@
 		"revision_timestamp": "2013-03-25T23:05:12.923863",
 		"is_organization": true,
 		"state": "active",
-		"image_url": "https:\/\/fortress.wa.gov\/dfw\/score\/score\/images\/noaa_logo.png",
+		"image_url": "https://fortress.wa.gov/dfw/score/score/images/noaa_logo.png",
 		"revision_id": "c6d43080-22e1-405e-a83d-f2a512d9e867",
 		"type": "organization",
 		"id": "e811f0b4-451f-4896-9e8f-fc6802837819",
@@ -70,11 +70,11 @@
 	"name": "2006-em300-multibeam-sonar-data-from-cruise-hiialakai-hi-06-12-northwestern-hawaiian-islands",
 	"isopen": false,
 	"url": null,
-	"notes": "EM300 and EM3002D multibeam data were collected between 10-29 October 2006 aboard NOAA Ship Hi'ialakai at Brooks Banks, St. Rogatien Bank, and West Nihoa Island in the Northwestern Hawaiian Islands during cruise HI-06-12. These multibeam data were collected using SAIC ISS-2000 software in the Generic Sensor Format and processed using SABER editing software. Surface sound velocity values were supplied by a Seabird SBE-45 MicroTSG and a SBE-38 remote temperature probe. Sound velocity corrections from a Seabird 911 CTD sensor and motion corrections from a POS-MV vertical reference were applied to the data in real time. Predicted tides were applied to the data in real time using tide zoning and predicted tides supplied by NOAA's National Ocean Service Center for Operational Oceanographic Products and Services (CO-OPS). Horizontal accuracy is 20m (no differential GPS correctors applied), vertical accuracy is depth dependent (~1% of water depth), WGS84 datum. These data are not to be used for navigation. Depths mapped range from 30 to 1000 m. Concurrent mapping was done by the R\/V AHI in water depths ranging from 30-150 m with the data set being AHI-06-12; metadata for AHI-06-12 are submitted separately.",
+	"notes": "EM300 and EM3002D multibeam data were collected between 10-29 October 2006 aboard NOAA Ship Hi'ialakai at Brooks Banks, St. Rogatien Bank, and West Nihoa Island in the Northwestern Hawaiian Islands during cruise HI-06-12. These multibeam data were collected using SAIC ISS-2000 software in the Generic Sensor Format and processed using SABER editing software. Surface sound velocity values were supplied by a Seabird SBE-45 MicroTSG and a SBE-38 remote temperature probe. Sound velocity corrections from a Seabird 911 CTD sensor and motion corrections from a POS-MV vertical reference were applied to the data in real time. Predicted tides were applied to the data in real time using tide zoning and predicted tides supplied by NOAA's National Ocean Service Center for Operational Oceanographic Products and Services (CO-OPS). Horizontal accuracy is 20m (no differential GPS correctors applied), vertical accuracy is depth dependent (~1% of water depth), WGS84 datum. These data are not to be used for navigation. Depths mapped range from 30 to 1000 m. Concurrent mapping was done by the R/V AHI in water depths ranging from 30-150 m with the data set being AHI-06-12; metadata for AHI-06-12 are submitted separately.",
 	"owner_org": "e811f0b4-451f-4896-9e8f-fc6802837819",
 	"extras": [{
 		"key": "bbox-east-long",
-		"value": "\n          -162.100000\n        "
+		"value": "n          -162.100000n        "
 	},
 	{
 		"key": "resource-type",
@@ -82,7 +82,7 @@
 	},
 	{
 		"key": "bbox-north-lat",
-		"value": "\n          24.866667\n        "
+		"value": "n          24.866667n        "
 	},
 	{
 		"key": "coupled-resource",
@@ -98,7 +98,7 @@
 	},
 	{
 		"key": "bbox-south-lat",
-		"value": "\n          24.400000\n        "
+		"value": "n          24.400000n        "
 	},
 	{
 		"key": "spatial-reference-system",
@@ -106,7 +106,7 @@
 	},
 	{
 		"key": "spatial",
-		"value": "{\"type\": \"Polygon\", \"coordinates\": [[[-179.3, 24.4], [-162.1, 24.4], [-162.1, 24.866667], [-179.3, 24.866667], [-179.3, 24.4]]]}"
+		"value": "{"type": "Polygon", "coordinates": [[[-179.3, 24.4], [-162.1, 24.4], [-162.1, 24.866667], [-179.3, 24.866667], [-179.3, 24.4]]]}"
 	},
 	{
 		"key": "progress",
@@ -114,7 +114,7 @@
 	},
 	{
 		"key": "access_constraints",
-		"value": "[\"Use Constraints: These data are NOT TO BE USED FOR NAVIGATION\", \"Access Constraints: None.\"]"
+		"value": "["Use Constraints: These data are NOT TO BE USED FOR NAVIGATION", "Access Constraints: None."]"
 	},
 	{
 		"key": "temporal-extent-begin",
@@ -126,7 +126,7 @@
 	},
 	{
 		"key": "bbox-west-long",
-		"value": "\n          -179.300000\n        "
+		"value": "n          -179.300000n        "
 	},
 	{
 		"key": "metadata-date",
@@ -134,7 +134,7 @@
 	},
 	{
 		"key": "dataset-reference-date",
-		"value": "[{\"type\": \"publication\", \"value\": \"2007-04-06\"}]"
+		"value": "[{"type": "publication", "value": "2007-04-06"}]"
 	},
 	{
 		"key": "frequency-of-update",
@@ -142,7 +142,7 @@
 	},
 	{
 		"key": "licence",
-		"value": "[\"\\n      These data are not to be used for\\nnavigational purposes. NOAA makes no warranty regarding these\\ndata, expressed or implied, nor does the fact of distribution\\nconstitute such a warranty. NOAA cannot assume liability for\\nany damages caused by any errors or omissions in these data,\\nnor as a result of the failure of these data to function on a\\nparticular system.\\n    \"]"
+		"value": "["\n      These data are not to be used for\nnavigational purposes. NOAA makes no warranty regarding these\ndata, expressed or implied, nor does the fact of distribution\nconstitute such a warranty. NOAA cannot assume liability for\nany damages caused by any errors or omissions in these data,\nnor as a result of the failure of these data to function on a\nparticular system.\n    "]"
 	},
 	{
 		"key": "metadata_type",
@@ -150,7 +150,7 @@
 	},
 	{
 		"key": "responsible-party",
-		"value": "[{\"name\": \"Pacific Islands Benthic Habitat Mapping Center (PIBHMC), Coral Reef Ecosystem Division (CRED), Pacific Islands Fisheries Science Center (PIFSC), National Marine Fisheries Service (NMFS), National Oceanic and Atmospheric Administration (NOAA)\", \"roles\": [\"pointOfContact\"]}]"
+		"value": "[{"name": "Pacific Islands Benthic Habitat Mapping Center (PIBHMC), Coral Reef Ecosystem Division (CRED), Pacific Islands Fisheries Science Center (PIFSC), National Marine Fisheries Service (NMFS), National Oceanic and Atmospheric Administration (NOAA)", "roles": ["pointOfContact"]}]"
 	},
 	{
 		"key": "temporal-extent-end",
@@ -166,7 +166,7 @@
 	},
 	{
 		"key": "tags",
-		"value": "northwestern hawaiian islands, west nihoa bank, geographic information, brooks banks, oceans, banks, multibeam sonar, bathymetry, bathymetry\/seafloor topography, st. rogatien bank, earth science",
+		"value": "northwestern hawaiian islands, west nihoa bank, geographic information, brooks banks, oceans, banks, multibeam sonar, bathymetry, bathymetry/seafloor topography, st. rogatien bank, earth science",
 		"__extras": {
 			"package_id": "eb1e26cb-b66a-4984-96c6-704ae95b8a92",
 			"revision_id": "1494514f-12f9-4739-9007-49ed4abf0e93"

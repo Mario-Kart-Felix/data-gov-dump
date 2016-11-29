@@ -36,7 +36,7 @@
 		"cache_url": null,
 		"name": "Data Subset Form",
 		"created": "2016-10-19T15:37:15.683877",
-		"url": "http:\/\/oos.soest.hawaii.edu\/erddap\/tabledap\/nss04_agg.html",
+		"url": "http://oos.soest.hawaii.edu/erddap/tabledap/nss04_agg.html",
 		"webstore_url": null,
 		"resource_locator_function": "download",
 		"position": 0,
@@ -65,7 +65,7 @@
 		"cache_url": null,
 		"name": "Make-A-Graph Form",
 		"created": "2016-10-19T15:37:15.683930",
-		"url": "http:\/\/oos.soest.hawaii.edu\/erddap\/tabledap\/nss04_agg.graph",
+		"url": "http://oos.soest.hawaii.edu/erddap/tabledap/nss04_agg.graph",
 		"webstore_url": null,
 		"resource_locator_function": "mapDigital",
 		"position": 1,
@@ -94,7 +94,7 @@
 		"cache_url": null,
 		"name": "Background Information",
 		"created": "2016-10-19T15:37:15.683940",
-		"url": "http:\/\/pacioos.org\/water\/sensor-waikikiaquarium\/",
+		"url": "http://pacioos.org/water/sensor-waikikiaquarium/",
 		"webstore_url": null,
 		"resource_locator_function": "information",
 		"position": 2,
@@ -123,7 +123,7 @@
 		"cache_url": null,
 		"name": "Background Information",
 		"created": "2016-10-19T15:37:15.683947",
-		"url": "http:\/\/pacioos.org\/water\/sensor-waikikiaquarium\/",
+		"url": "http://pacioos.org/water/sensor-waikikiaquarium/",
 		"webstore_url": null,
 		"resource_locator_function": "information",
 		"position": 3,
@@ -152,7 +152,7 @@
 		"cache_url": null,
 		"name": "Background Information",
 		"created": "2016-10-19T15:37:15.683954",
-		"url": "http:\/\/pacioos.org\/water\/sensor-waikikiaquarium\/",
+		"url": "http://pacioos.org/water/sensor-waikikiaquarium/",
 		"webstore_url": null,
 		"resource_locator_function": "information",
 		"position": 4,
@@ -181,7 +181,7 @@
 		"cache_url": null,
 		"name": "ERDDAP-tabledap",
 		"created": "2016-10-19T15:37:15.683961",
-		"url": "http:\/\/oos.soest.hawaii.edu\/erddap\/tabledap\/nss04_agg",
+		"url": "http://oos.soest.hawaii.edu/erddap/tabledap/nss04_agg",
 		"webstore_url": null,
 		"resource_locator_function": "download",
 		"position": 5,
@@ -210,7 +210,7 @@
 		"cache_url": null,
 		"name": "Background Information",
 		"created": "2016-10-19T15:37:15.683968",
-		"url": "http:\/\/pacioos.org\/water\/sensor-waikikiaquarium\/",
+		"url": "http://pacioos.org/water/sensor-waikikiaquarium/",
 		"webstore_url": null,
 		"resource_locator_function": "information",
 		"position": 6,
@@ -239,7 +239,7 @@
 		"cache_url": null,
 		"name": "OPeNDAP",
 		"created": "2016-10-19T15:37:15.683975",
-		"url": "http:\/\/oos.soest.hawaii.edu\/erddap\/tabledap\/nss04_agg",
+		"url": "http://oos.soest.hawaii.edu/erddap/tabledap/nss04_agg",
 		"webstore_url": null,
 		"resource_locator_function": "download",
 		"position": 7,
@@ -261,7 +261,7 @@
 		"revision_timestamp": "2013-03-25T23:05:12.923863",
 		"is_organization": true,
 		"state": "active",
-		"image_url": "https:\/\/fortress.wa.gov\/dfw\/score\/score\/images\/noaa_logo.png",
+		"image_url": "https://fortress.wa.gov/dfw/score/score/images/noaa_logo.png",
 		"revision_id": "c6d43080-22e1-405e-a83d-f2a512d9e867",
 		"type": "organization",
 		"id": "e811f0b4-451f-4896-9e8f-fc6802837819",
@@ -288,7 +288,7 @@
 	},
 	{
 		"key": "coupled-resource",
-		"value": "[{\"href\": [\"#DataIdentification\"], \"uuid\": [], \"title\": []}, {\"href\": [\"#DataIdentification\"], \"uuid\": [], \"title\": []}]"
+		"value": "[{"href": ["#DataIdentification"], "uuid": [], "title": []}, {"href": ["#DataIdentification"], "uuid": [], "title": []}]"
 	},
 	{
 		"key": "guid",
@@ -308,7 +308,7 @@
 	},
 	{
 		"key": "spatial",
-		"value": "{\"type\": \"Point\", \"coordinates\": [-157.8228, 21.26588]}"
+		"value": "{"type": "Point", "coordinates": [-157.8228, 21.26588]}"
 	},
 	{
 		"key": "progress",
@@ -336,7 +336,7 @@
 	},
 	{
 		"key": "dataset-reference-date",
-		"value": "[{\"type\": \"creation\", \"value\": \"2009-12-18\"}, {\"type\": \"issued\", \"value\": \"2009-12-18\"}]"
+		"value": "[{"type": "creation", "value": "2009-12-18"}, {"type": "issued", "value": "2009-12-18"}]"
 	},
 	{
 		"key": "frequency-of-update",
@@ -352,7 +352,7 @@
 	},
 	{
 		"key": "responsible-party",
-		"value": "[{\"name\": \"University of Hawaii\", \"roles\": [\"pointOfContact\"]}]"
+		"value": "[{"name": "University of Hawaii", "roles": ["pointOfContact"]}]"
 	},
 	{
 		"key": "temporal-extent-end",
@@ -368,7 +368,7 @@
 	},
 	{
 		"key": "tags",
-		"value": "water pressure, ocean temperature, sea_water_temperature, time, oceans, sea_water_salinity, longitude, salinity, latitude, depth, sea_water_electrical_conductivity, water temperature, water quality, pacific islands ocean observing system (pacioos), ocean pressure, earth science, sea_water_pressure, salinity\/density, conductivity",
+		"value": "water pressure, ocean temperature, sea_water_temperature, time, oceans, sea_water_salinity, longitude, salinity, latitude, depth, sea_water_electrical_conductivity, water temperature, water quality, pacific islands ocean observing system (pacioos), ocean pressure, earth science, sea_water_pressure, salinity/density, conductivity",
 		"__extras": {
 			"revision_id": "5f08252a-f6c5-4511-8e33-03651df24e09",
 			"package_id": "d7a4e516-0356-4bcb-9b34-6c9690009fc8"

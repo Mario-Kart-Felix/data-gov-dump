@@ -37,7 +37,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2016-09-08T09:37:03.398763",
-		"url": "https:\/\/www.epa.gov\/ust\/tribal-ust-and-lust-data",
+		"url": "https://www.epa.gov/ust/tribal-ust-and-lust-data",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 0,
@@ -67,7 +67,7 @@
 		"cache_url": null,
 		"name": "Esri Rest API Endpoint",
 		"created": "2016-09-08T09:37:03.398798",
-		"url": "https:\/\/gispub.epa.gov\/arcgis\/rest\/services\/Region9\/LND1502226LeakingUST\/MapServer",
+		"url": "https://gispub.epa.gov/arcgis/rest/services/Region9/LND1502226LeakingUST/MapServer",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 1,
@@ -97,7 +97,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2016-09-08T09:37:03.398807",
-		"url": "https:\/\/geopub.epa.gov\/R9_Tribal_Leaking_UST\/",
+		"url": "https://geopub.epa.gov/R9_Tribal_Leaking_UST/",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 2,
@@ -127,7 +127,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2016-09-08T09:37:03.398818",
-		"url": "https:\/\/www3.epa.gov\/region09\/waste\/ust\/lustcleanup.html",
+		"url": "https://www3.epa.gov/region09/waste/ust/lustcleanup.html",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 3,
@@ -149,7 +149,7 @@
 		"revision_timestamp": "2014-01-16T18:58:42.895981",
 		"is_organization": true,
 		"state": "active",
-		"image_url": "http:\/\/edg.epa.gov\/EPALogo.svg",
+		"image_url": "http://edg.epa.gov/EPALogo.svg",
 		"revision_id": "f0e4b475-7424-4ce0-9a22-412e7e595154",
 		"type": "organization",
 		"id": "6d90e48d-3076-4327-b2f4-c33919f374d5",
@@ -160,7 +160,7 @@
 	"name": "indian-country-leaking-underground-storage-tanks-map-service-region-9-2016",
 	"isopen": false,
 	"url": null,
-	"notes": "This map service displays Leaking Underground Storage Tanks in US EPA Region 9 Indian Country. The service is composed of three layers; one for each unique LUST Status. There are a total of 289 features having a LUST status of \"open\", \"closed with no residual contamination\", or \"closed with residual contamination\". Additional attributes in this dataset contain facility name and locational information, status of LUST case, operating status of facility, inspection dates, and links to No Further Action letters for closed LUST cases. This map service is used in the LUST web map application at https:\/\/geopub.epa.gov\/R9_Tribal_Leaking_UST",
+	"notes": "This map service displays Leaking Underground Storage Tanks in US EPA Region 9 Indian Country. The service is composed of three layers; one for each unique LUST Status. There are a total of 289 features having a LUST status of "open", "closed with no residual contamination", or "closed with residual contamination". Additional attributes in this dataset contain facility name and locational information, status of LUST case, operating status of facility, inspection dates, and links to No Further Action letters for closed LUST cases. This map service is used in the LUST web map application at https://geopub.epa.gov/R9_Tribal_Leaking_UST",
 	"owner_org": "6d90e48d-3076-4327-b2f4-c33919f374d5",
 	"extras": [{
 		"key": "bbox-east-long",
@@ -196,7 +196,7 @@
 	},
 	{
 		"key": "spatial",
-		"value": "{\"type\": \"Polygon\", \"coordinates\": [[[-124.4097356, 31.332183], [-109.045615, 31.332183], [-109.045615, 42.002192], [-124.4097356, 42.002192], [-124.4097356, 31.332183]]]}"
+		"value": "{"type": "Polygon", "coordinates": [[[-124.4097356, 31.332183], [-109.045615, 31.332183], [-109.045615, 42.002192], [-124.4097356, 42.002192], [-124.4097356, 31.332183]]]}"
 	},
 	{
 		"key": "progress",
@@ -204,11 +204,11 @@
 	},
 	{
 		"key": "access_constraints",
-		"value": "[\"Use Constraints: None. Please check sources, scale, accuracy, currency and other available information. Please confirm that you are using the most recent copy of both data and metadata. Acknowledgement of the EPA would be appreciated.\", \"Access Constraints: None\"]"
+		"value": "["Use Constraints: None. Please check sources, scale, accuracy, currency and other available information. Please confirm that you are using the most recent copy of both data and metadata. Acknowledgement of the EPA would be appreciated.", "Access Constraints: None"]"
 	},
 	{
 		"key": "licence_url",
-		"value": "https:\/\/edg.epa.gov\/EPA_Data_License.html"
+		"value": "https://edg.epa.gov/EPA_Data_License.html"
 	},
 	{
 		"key": "contact-email",
@@ -224,7 +224,7 @@
 	},
 	{
 		"key": "dataset-reference-date",
-		"value": "[{\"type\": \"publication\", \"value\": \"2016-08-01\"}]"
+		"value": "[{"type": "publication", "value": "2016-08-01"}]"
 	},
 	{
 		"key": "frequency-of-update",
@@ -232,7 +232,7 @@
 	},
 	{
 		"key": "licence",
-		"value": "[\"https:\/\/edg.epa.gov\/EPA_Data_License.html\"]"
+		"value": "["https://edg.epa.gov/EPA_Data_License.html"]"
 	},
 	{
 		"key": "metadata_type",
@@ -240,7 +240,7 @@
 	},
 	{
 		"key": "responsible-party",
-		"value": "[{\"name\": \"U.S. Environmental Protection Agency, Region 9\", \"roles\": [\"pointOfContact\"]}]"
+		"value": "[{"name": "U.S. Environmental Protection Agency, Region 9", "roles": ["pointOfContact"]}]"
 	},
 	{
 		"key": "spatial-data-service-type",

@@ -37,7 +37,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2014-06-25T15:38:19.010880",
-		"url": "http:\/\/rgis.unm.edu",
+		"url": "http://rgis.unm.edu",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 0,
@@ -67,7 +67,7 @@
 		"cache_url": null,
 		"name": "Zip File",
 		"created": "2014-06-25T15:38:19.010903",
-		"url": "http:\/\/gstore.unm.edu\/apps\/rgis\/datasets\/ce6994f8-d83a-472f-87fb-57b864653de5\/sierraSFHA.original.zip",
+		"url": "http://gstore.unm.edu/apps/rgis/datasets/ce6994f8-d83a-472f-87fb-57b864653de5/sierraSFHA.original.zip",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 1,
@@ -97,7 +97,7 @@
 		"cache_url": null,
 		"name": "XML File",
 		"created": "2014-06-25T15:38:19.010910",
-		"url": "http:\/\/gstore.unm.edu\/apps\/rgis\/datasets\/ce6994f8-d83a-472f-87fb-57b864653de5\/metadata\/FGDC-STD-001-1998.xml",
+		"url": "http://gstore.unm.edu/apps/rgis/datasets/ce6994f8-d83a-472f-87fb-57b864653de5/metadata/FGDC-STD-001-1998.xml",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 2,
@@ -127,7 +127,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2014-06-25T15:38:19.010917",
-		"url": "http:\/\/gstore.unm.edu\/apps\/rgis\/datasets\/ce6994f8-d83a-472f-87fb-57b864653de5\/metadata\/FGDC-STD-001-1998.html",
+		"url": "http://gstore.unm.edu/apps/rgis/datasets/ce6994f8-d83a-472f-87fb-57b864653de5/metadata/FGDC-STD-001-1998.html",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 3,
@@ -157,7 +157,7 @@
 		"cache_url": null,
 		"name": "XML File",
 		"created": "2014-06-25T15:38:19.010923",
-		"url": "http:\/\/gstore.unm.edu\/apps\/rgis\/datasets\/ce6994f8-d83a-472f-87fb-57b864653de5\/metadata\/ISO-19115:2003.xml",
+		"url": "http://gstore.unm.edu/apps/rgis/datasets/ce6994f8-d83a-472f-87fb-57b864653de5/metadata/ISO-19115:2003.xml",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 4,
@@ -187,7 +187,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2014-06-25T15:38:19.010929",
-		"url": "http:\/\/gstore.unm.edu\/apps\/rgis\/datasets\/ce6994f8-d83a-472f-87fb-57b864653de5\/metadata\/ISO-19115:2003.html",
+		"url": "http://gstore.unm.edu/apps/rgis/datasets/ce6994f8-d83a-472f-87fb-57b864653de5/metadata/ISO-19115:2003.html",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 5,
@@ -217,7 +217,7 @@
 		"cache_url": null,
 		"name": "XML File",
 		"created": "2014-06-25T15:38:19.010935",
-		"url": "http:\/\/gstore.unm.edu\/apps\/rgis\/datasets\/ce6994f8-d83a-472f-87fb-57b864653de5\/metadata\/ISO-19110.xml",
+		"url": "http://gstore.unm.edu/apps/rgis/datasets/ce6994f8-d83a-472f-87fb-57b864653de5/metadata/ISO-19110.xml",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 6,
@@ -241,7 +241,7 @@
 	"license_title": null,
 	"extras": [{
 		"key": "responsible-party",
-		"value": "[{\"name\": \"Earth Data Analysis Center\", \"roles\": [\"pointOfContact\"]}]"
+		"value": "[{"name": "Earth Data Analysis Center", "roles": ["pointOfContact"]}]"
 	},
 	{
 		"key": "contact-email",
@@ -261,7 +261,7 @@
 	},
 	{
 		"key": "dataset-reference-date",
-		"value": "[{\"type\": \"publication\", \"value\": \"2013-12-04T14:22:39\"}]"
+		"value": "[{"type": "publication", "value": "2013-12-04T14:22:39"}]"
 	},
 	{
 		"key": "resource-type",
@@ -301,7 +301,7 @@
 	},
 	{
 		"key": "spatial",
-		"value": "{\"type\": \"Polygon\", \"coordinates\": [[[-108.000944, 32.605367], [-106.343831, 32.605367], [-106.343831, 33.47823], [-108.000944, 33.47823], [-108.000944, 32.605367]]]}"
+		"value": "{"type": "Polygon", "coordinates": [[[-108.000944, 32.605367], [-106.343831, 32.605367], [-106.343831, 33.47823], [-108.000944, 33.47823], [-108.000944, 32.605367]]]}"
 	},
 	{
 		"key": "guid",
@@ -313,7 +313,7 @@
 	},
 	{
 		"key": "access_constraints",
-		"value": "[\"Access Constraints: None. Use Constraints: None\"]"
+		"value": "["Access Constraints: None. Use Constraints: None"]"
 	},
 	{
 		"key": "spatial_harvester",
@@ -348,14 +348,14 @@
 		"value": "New Mexico Resource Geographic Information System (NM RGIS)"
 	}],
 	"organization": {
-		"description": "The Earth Data Analysis Center (EDAC) at the University of New Mexico is an Applied Research Center that specializes in geospatial data development, management, analysis and applications. Through partnerships with collaborators in public health, emergency management and planning, resource management, transportation, water resources and many other domains, EDAC enables the integration of geospatial data, knowledge and technologies into solutions across these topic areas. For more information about EDAC please visit our [website](http:\/\/edac.unm.edu \"EDAC web page link\")",
+		"description": "The Earth Data Analysis Center (EDAC) at the University of New Mexico is an Applied Research Center that specializes in geospatial data development, management, analysis and applications. Through partnerships with collaborators in public health, emergency management and planning, resource management, transportation, water resources and many other domains, EDAC enables the integration of geospatial data, knowledge and technologies into solutions across these topic areas. For more information about EDAC please visit our [website](http://edac.unm.edu "EDAC web page link")",
 		"created": "2013-03-14T03:44:43.454581",
 		"title": "Earth Data Analysis Center, University of New Mexico",
 		"name": "edac-unm-edu",
 		"revision_timestamp": "2013-07-16T18:17:15.118126",
 		"is_organization": true,
 		"state": "active",
-		"image_url": "http:\/\/edac.unm.edu\/wordpress\/wp-content\/uploads\/2012\/07\/EDAC-Banner.jpg",
+		"image_url": "http://edac.unm.edu/wordpress/wp-content/uploads/2012/07/EDAC-Banner.jpg",
 		"revision_id": "7a9f30e3-fbc6-4cde-aade-32b84293cc77",
 		"type": "organization",
 		"id": "c64722ff-641a-4ddd-bbb8-4bd9fd2e7963",

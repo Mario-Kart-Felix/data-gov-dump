@@ -37,7 +37,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2016-09-05T17:02:17.053616",
-		"url": "http:\/\/maps.ngdc.noaa.gov\/viewers\/geophysics\/",
+		"url": "http://maps.ngdc.noaa.gov/viewers/geophysics/",
 		"webstore_url": null,
 		"resource_locator_function": "information",
 		"position": 0,
@@ -67,9 +67,9 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2016-09-05T17:02:17.053653",
-		"url": "http:\/\/www.ngdc.noaa.gov\/trackline\/request\/?surveyIds=EX1601",
+		"url": "http://www.ngdc.noaa.gov/trackline/request/?surveyIds=EX1601",
 		"webstore_url": null,
-		"resource_locator_function": "http:\/\/www.ngdc.noaa.gov\/metadata\/published\/xsd\/schema\/resources\/Codelist\/gmxCodelists.xml#CI_OnLineFunctionCode",
+		"resource_locator_function": "http://www.ngdc.noaa.gov/metadata/published/xsd/schema/resources/Codelist/gmxCodelists.xml#CI_OnLineFunctionCode",
 		"position": 1,
 		"no_real_name": true,
 		"resource_type": null
@@ -97,9 +97,9 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2016-09-05T17:02:17.053662",
-		"url": "http:\/\/www.ngdc.noaa.gov\/nndc\/struts\/results?op_0=l&v_0=&op_1=l&v_1=&op_2=l&v_2=EX1601&t=101378&s=2&d=6",
+		"url": "http://www.ngdc.noaa.gov/nndc/struts/results?op_0=l&v_0=&op_1=l&v_1=&op_2=l&v_2=EX1601&t=101378&s=2&d=6",
 		"webstore_url": null,
-		"resource_locator_function": "http:\/\/www.ngdc.noaa.gov\/metadata\/published\/xsd\/schema\/resources\/Codelist\/gmxCodelists.xml#CI_OnLineFunctionCode",
+		"resource_locator_function": "http://www.ngdc.noaa.gov/metadata/published/xsd/schema/resources/Codelist/gmxCodelists.xml#CI_OnLineFunctionCode",
 		"position": 2,
 		"no_real_name": true,
 		"resource_type": null
@@ -126,7 +126,7 @@
 		"cache_url": null,
 		"name": "GCMD Feedback Form",
 		"created": "2016-09-05T17:02:17.053669",
-		"url": "http:\/\/gcmd.nasa.gov\/MailComments\/MailComments.jsf?rcpt=gcmduso",
+		"url": "http://gcmd.nasa.gov/MailComments/MailComments.jsf?rcpt=gcmduso",
 		"webstore_url": null,
 		"resource_locator_function": "information",
 		"position": 3,
@@ -155,7 +155,7 @@
 		"cache_url": null,
 		"name": "GCMD's Science Keywords and Associated Directory Keywords",
 		"created": "2016-09-05T17:02:17.053676",
-		"url": "http:\/\/gcmd.nasa.gov\/learn\/keyword_list.html",
+		"url": "http://gcmd.nasa.gov/learn/keyword_list.html",
 		"webstore_url": null,
 		"resource_locator_function": "information",
 		"position": 4,
@@ -185,7 +185,7 @@
 		"cache_url": null,
 		"name": "XML File",
 		"created": "2016-09-05T17:02:17.053683",
-		"url": "http:\/\/www.ncddc.noaa.gov\/oer-waf\/ISO\/Resolved\/2016\/EX1601_COLLECTION_RESOLVED.xml",
+		"url": "http://www.ncddc.noaa.gov/oer-waf/ISO/Resolved/2016/EX1601_COLLECTION_RESOLVED.xml",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 5,
@@ -241,7 +241,7 @@
 	},
 	{
 		"key": "spatial",
-		"value": "{\"type\": \"Polygon\", \"coordinates\": [[[-160.0, 22.5], [-122.5, 22.5], [-122.5, 38.0], [-160.0, 38.0], [-160.0, 22.5]]]}"
+		"value": "{"type": "Polygon", "coordinates": [[[-160.0, 22.5], [-122.5, 22.5], [-122.5, 38.0], [-160.0, 38.0], [-160.0, 22.5]]]}"
 	},
 	{
 		"key": "progress",
@@ -249,7 +249,7 @@
 	},
 	{
 		"key": "access_constraints",
-		"value": "[\"Access Constraints: None. Use Constraints: The user is responsible for the results of any application of this data for other than its intended purpose. Distribution Liability: While NCEI makes every effort to ensure that its databases are error-free, errors do occur. We ask that you notify us immediately of any errors that you discover in our data. We will make every effort to correct them. With respect to documents available from this server, neither the United States Government nor any of its employees, makes any warranty, express or implied, including the warranties of merchantability and fitness for a particular purpose; nor assumes any legal liability or responsibility for the accuracy, completeness, or usefulness of any information, apparatus, product, or process disclosed; nor represents that its use would not infringe privately owned rights.\"]"
+		"value": "["Access Constraints: None. Use Constraints: The user is responsible for the results of any application of this data for other than its intended purpose. Distribution Liability: While NCEI makes every effort to ensure that its databases are error-free, errors do occur. We ask that you notify us immediately of any errors that you discover in our data. We will make every effort to correct them. With respect to documents available from this server, neither the United States Government nor any of its employees, makes any warranty, express or implied, including the warranties of merchantability and fitness for a particular purpose; nor assumes any legal liability or responsibility for the accuracy, completeness, or usefulness of any information, apparatus, product, or process disclosed; nor represents that its use would not infringe privately owned rights."]"
 	},
 	{
 		"key": "temporal-extent-begin",
@@ -269,7 +269,7 @@
 	},
 	{
 		"key": "dataset-reference-date",
-		"value": "[{\"type\": \"publication\", \"value\": \"2016-03\"}]"
+		"value": "[{"type": "publication", "value": "2016-03"}]"
 	},
 	{
 		"key": "frequency-of-update",
@@ -285,7 +285,7 @@
 	},
 	{
 		"key": "responsible-party",
-		"value": "[{\"name\": \"\", \"roles\": [\"principalInvestigator\"]}]"
+		"value": "[{"name": "", "roles": ["principalInvestigator"]}]"
 	},
 	{
 		"key": "temporal-extent-end",
@@ -331,7 +331,7 @@
 		"revision_timestamp": "2013-03-25T23:05:12.923863",
 		"is_organization": true,
 		"state": "active",
-		"image_url": "https:\/\/fortress.wa.gov\/dfw\/score\/score\/images\/noaa_logo.png",
+		"image_url": "https://fortress.wa.gov/dfw/score/score/images/noaa_logo.png",
 		"revision_id": "c6d43080-22e1-405e-a83d-f2a512d9e867",
 		"type": "organization",
 		"id": "e811f0b4-451f-4896-9e8f-fc6802837819",

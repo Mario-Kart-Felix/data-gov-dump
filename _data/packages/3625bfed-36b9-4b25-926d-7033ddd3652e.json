@@ -36,7 +36,7 @@
 		"cache_url": null,
 		"name": "NCEI FTP server",
 		"created": "2016-05-30T21:21:06.357692",
-		"url": "ftp:\/\/data.ncdc.noaa.gov\/cdr\/solar-irradiance\/ssi\/",
+		"url": "ftp://data.ncdc.noaa.gov/cdr/solar-irradiance/ssi/",
 		"webstore_url": null,
 		"resource_locator_function": "download",
 		"position": 0,
@@ -65,7 +65,7 @@
 		"cache_url": null,
 		"name": "NOAA National Centers for Environmental Information (NCEI)",
 		"created": "2016-05-30T21:21:06.357717",
-		"url": "http:\/\/www.ncei.noaa.gov",
+		"url": "http://www.ncei.noaa.gov",
 		"webstore_url": null,
 		"resource_locator_function": "information",
 		"position": 1,
@@ -94,7 +94,7 @@
 		"cache_url": null,
 		"name": "Operational Climate Data Records in the NOAA CDR Program",
 		"created": "2016-05-30T21:21:06.357727",
-		"url": "http:\/\/ncdc.noaa.gov\/cdr\/operationalcdrs.html",
+		"url": "http://ncdc.noaa.gov/cdr/operationalcdrs.html",
 		"webstore_url": null,
 		"resource_locator_function": "information",
 		"position": 2,
@@ -123,7 +123,7 @@
 		"cache_url": null,
 		"name": "CDR Program Contacts",
 		"created": "2016-05-30T21:21:06.357735",
-		"url": "https:\/\/www.ncdc.noaa.gov\/cdr",
+		"url": "https://www.ncdc.noaa.gov/cdr",
 		"webstore_url": null,
 		"resource_locator_function": "information",
 		"position": 3,
@@ -152,7 +152,7 @@
 		"cache_url": null,
 		"name": "NASA GCMD Keyword Community Page",
 		"created": "2016-05-30T21:21:06.357742",
-		"url": "http:\/\/gcmd.gsfc.nasa.gov\/learn\/keywords.html",
+		"url": "http://gcmd.gsfc.nasa.gov/learn/keywords.html",
 		"webstore_url": null,
 		"resource_locator_function": "information",
 		"position": 4,
@@ -181,7 +181,7 @@
 		"cache_url": null,
 		"name": "NOAA NOAA Environmental Data Management Wiki: MD Keywords",
 		"created": "2016-05-30T21:21:06.357750",
-		"url": "https:\/\/geo-ide.noaa.gov\/wiki\/index.php?title=MD_Keywords",
+		"url": "https://geo-ide.noaa.gov/wiki/index.php?title=MD_Keywords",
 		"webstore_url": null,
 		"resource_locator_function": "information",
 		"position": 5,
@@ -210,7 +210,7 @@
 		"cache_url": null,
 		"name": "NOAA NOAA Environmental Data Management Wiki: MD Keywords",
 		"created": "2016-05-30T21:21:06.357757",
-		"url": "https:\/\/geo-ide.noaa.gov\/wiki\/index.php?title=MD_Keywords",
+		"url": "https://geo-ide.noaa.gov/wiki/index.php?title=MD_Keywords",
 		"webstore_url": null,
 		"resource_locator_function": "information",
 		"position": 6,
@@ -239,7 +239,7 @@
 		"cache_url": null,
 		"name": "NASA GCMD Keyword Community Page",
 		"created": "2016-05-30T21:21:06.357764",
-		"url": "http:\/\/gcmd.gsfc.nasa.gov\/learn\/keywords.html",
+		"url": "http://gcmd.gsfc.nasa.gov/learn/keywords.html",
 		"webstore_url": null,
 		"resource_locator_function": "information",
 		"position": 7,
@@ -268,7 +268,7 @@
 		"cache_url": null,
 		"name": "NASA GCMD Keyword Community Page",
 		"created": "2016-05-30T21:21:06.357772",
-		"url": "http:\/\/gcmd.gsfc.nasa.gov\/learn\/keywords.html",
+		"url": "http://gcmd.gsfc.nasa.gov/learn/keywords.html",
 		"webstore_url": null,
 		"resource_locator_function": "information",
 		"position": 8,
@@ -297,7 +297,7 @@
 		"cache_url": null,
 		"name": "NASA GCMD Keyword Community Page",
 		"created": "2016-05-30T21:21:06.357779",
-		"url": "http:\/\/gcmd.gsfc.nasa.gov\/learn\/keywords.html",
+		"url": "http://gcmd.gsfc.nasa.gov/learn/keywords.html",
 		"webstore_url": null,
 		"resource_locator_function": "information",
 		"position": 9,
@@ -326,7 +326,7 @@
 		"cache_url": null,
 		"name": "NOAA Climate Data Record (CDR) of Total Solar Irradiance (TSI), NRLTSI Version 2",
 		"created": "2016-05-30T21:21:06.357786",
-		"url": "http:\/\/doi.org\/10.7289\/V55B00C1",
+		"url": "http://doi.org/10.7289/V55B00C1",
 		"webstore_url": null,
 		"resource_locator_function": "information",
 		"position": 10,
@@ -374,7 +374,7 @@
 	},
 	{
 		"key": "graphic-preview-file",
-		"value": "http:\/\/www1.ncdc.noaa.gov\/pub\/data\/metadata\/images\/C00899_myssiplot2.png"
+		"value": "http://www1.ncdc.noaa.gov/pub/data/metadata/images/C00899_myssiplot2.png"
 	},
 	{
 		"key": "bbox-south-lat",
@@ -390,7 +390,7 @@
 	},
 	{
 		"key": "spatial",
-		"value": "{\"type\": \"Polygon\", \"coordinates\": [[[-180.0, -90.0], [180.0, -90.0], [180.0, 90.0], [-180.0, 90.0], [-180.0, -90.0]]]}"
+		"value": "{"type": "Polygon", "coordinates": [[[-180.0, -90.0], [180.0, -90.0], [180.0, 90.0], [-180.0, 90.0], [-180.0, -90.0]]]}"
 	},
 	{
 		"key": "progress",
@@ -398,7 +398,7 @@
 	},
 	{
 		"key": "access_constraints",
-		"value": "[\"Cite this dataset when used as a source: Odele Coddington, Judith L. Lean, Doug Lindholm, Peter Pilewskie, Martin Snow, and NOAA CDR Program (2015): NOAA Climate Data Record (CDR) of Solar Spectral Irradiance (SSI), NRLSSI Version 2. [indicate subset used]. NOAA National Centers for Environmental Information. doi:10.7289\/V51J97P6 [access date].\", \"NCEI cannot assume liability for any damages caused by any errors or omissions in the data, nor as a result of the failure of the data to function on a particular system. NCEI makes no warranty, expressed or implied, nor does the fact of distribution constitute such a warranty. NCEI can only certify that the data it distributes are an authentic copy of the records that were accepted for inclusion in the NCEI archives.\"]"
+		"value": "["Cite this dataset when used as a source: Odele Coddington, Judith L. Lean, Doug Lindholm, Peter Pilewskie, Martin Snow, and NOAA CDR Program (2015): NOAA Climate Data Record (CDR) of Solar Spectral Irradiance (SSI), NRLSSI Version 2. [indicate subset used]. NOAA National Centers for Environmental Information. doi:10.7289/V51J97P6 [access date].", "NCEI cannot assume liability for any damages caused by any errors or omissions in the data, nor as a result of the failure of the data to function on a particular system. NCEI makes no warranty, expressed or implied, nor does the fact of distribution constitute such a warranty. NCEI can only certify that the data it distributes are an authentic copy of the records that were accepted for inclusion in the NCEI archives."]"
 	},
 	{
 		"key": "temporal-extent-begin",
@@ -418,7 +418,7 @@
 	},
 	{
 		"key": "dataset-reference-date",
-		"value": "[{\"type\": \"publication\", \"value\": \"2015-07-22\"}]"
+		"value": "[{"type": "publication", "value": "2015-07-22"}]"
 	},
 	{
 		"key": "graphic-preview-description",
@@ -430,7 +430,7 @@
 	},
 	{
 		"key": "licence",
-		"value": "[\"For a complete description of use limiataions for this CDR, see the Algorithm Theoretical Basis Document.\"]"
+		"value": "["For a complete description of use limiataions for this CDR, see the Algorithm Theoretical Basis Document."]"
 	},
 	{
 		"key": "metadata_type",
@@ -438,7 +438,7 @@
 	},
 	{
 		"key": "responsible-party",
-		"value": "[{\"name\": \"UCO\/LASP > Laboratory for Atmospheric and Space Physics, University of Colorado\", \"roles\": [\"pointOfContact\"]}, {\"name\": \"DOC\/NOAA\/NESDIS\/NCEI > National Centers for Environmental Information, NESDIS, NOAA, U.S. Department of Commerce\", \"roles\": [\"pointOfContact\"]}]"
+		"value": "[{"name": "UCO/LASP > Laboratory for Atmospheric and Space Physics, University of Colorado", "roles": ["pointOfContact"]}, {"name": "DOC/NOAA/NESDIS/NCEI > National Centers for Environmental Information, NESDIS, NOAA, U.S. Department of Commerce", "roles": ["pointOfContact"]}]"
 	},
 	{
 		"key": "spatial-data-service-type",
@@ -450,7 +450,7 @@
 	},
 	{
 		"package_id": "3625bfed-36b9-4b25-926d-7033ddd3652e",
-		"value": "sun-earth interactions, national centers for environmental information, nesdis, noaa, u.s. department of commerce, doc\/noaa\/nesdis\/ncei, solar irradiance, solar activity, global, satellite, lasp interactive solar irradiance datacenter, laboratory for atmospheric and space physics, university of colorado, national climatic data center, nesdis, noaa, u.s. department of commerce, noaa climate data record (cdr) program, solar radiation and climate experiment, sorce, geographic region, doc\/noaa\/nesdis\/ncdc, uco\/lasp\/lisird, earth science",
+		"value": "sun-earth interactions, national centers for environmental information, nesdis, noaa, u.s. department of commerce, doc/noaa/nesdis/ncei, solar irradiance, solar activity, global, satellite, lasp interactive solar irradiance datacenter, laboratory for atmospheric and space physics, university of colorado, national climatic data center, nesdis, noaa, u.s. department of commerce, noaa climate data record (cdr) program, solar radiation and climate experiment, sorce, geographic region, doc/noaa/nesdis/ncdc, uco/lasp/lisird, earth science",
 		"revision_timestamp": "2015-09-26T19:30:31.234664",
 		"state": "active",
 		"key": "tags",
@@ -480,7 +480,7 @@
 		"revision_timestamp": "2013-03-25T23:05:12.923863",
 		"is_organization": true,
 		"state": "active",
-		"image_url": "https:\/\/fortress.wa.gov\/dfw\/score\/score\/images\/noaa_logo.png",
+		"image_url": "https://fortress.wa.gov/dfw/score/score/images/noaa_logo.png",
 		"revision_id": "c6d43080-22e1-405e-a83d-f2a512d9e867",
 		"type": "organization",
 		"id": "e811f0b4-451f-4896-9e8f-fc6802837819",

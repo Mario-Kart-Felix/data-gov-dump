@@ -37,7 +37,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2015-09-26T22:53:08.796008",
-		"url": "ftp:\/\/sidads.colorado.edu\/pub\/DATASETS\/NOAA\/G02139\/",
+		"url": "ftp://sidads.colorado.edu/pub/DATASETS/NOAA/G02139/",
 		"webstore_url": null,
 		"resource_locator_function": "function",
 		"position": 0,
@@ -67,7 +67,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2015-09-26T22:53:08.796058",
-		"url": "http:\/\/nsidc.org\/data\/docs\/noaa\/g02139_aws_moored_uls_data\/index.html",
+		"url": "http://nsidc.org/data/docs/noaa/g02139_aws_moored_uls_data/index.html",
 		"webstore_url": null,
 		"resource_locator_function": "function",
 		"position": 1,
@@ -85,7 +85,7 @@
 		"last_modified": null,
 		"hash": "",
 		"description": "",
-		"format": "application\/vnd.lotus-organizer",
+		"format": "application/vnd.lotus-organizer",
 		"tracking_summary": {
 			"total": 85,
 			"recent": 4
@@ -97,7 +97,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2015-09-26T22:53:08.796081",
-		"url": "http:\/\/nsidc.org",
+		"url": "http://nsidc.org",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 2,
@@ -127,7 +127,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2015-09-26T22:53:08.796101",
-		"url": "http:\/\/nsidc.org\/noaa\/",
+		"url": "http://nsidc.org/noaa/",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 3,
@@ -145,7 +145,7 @@
 		"last_modified": null,
 		"hash": "",
 		"description": "",
-		"format": "application\/vnd.lotus-organizer",
+		"format": "application/vnd.lotus-organizer",
 		"tracking_summary": {
 			"total": 85,
 			"recent": 4
@@ -157,7 +157,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2015-09-26T22:53:08.796119",
-		"url": "http:\/\/nsidc.org",
+		"url": "http://nsidc.org",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 4,
@@ -177,7 +177,7 @@
 	"name": "awi-moored-uls-data-greenland-sea-and-fram-strait-1991-2002",
 	"isopen": false,
 	"url": null,
-	"notes": "\nThis data set consists of Upward Looking Sonar (ULS) data from 11 moorings in the Greenland Sea. Parameters in the processed data files include ice draft, water pressure, and water temperature. Raw data files with sonar travel time, and files with draft frequency of occurrence, are available as well. A single statistical file for each mooring summarizes that mooring's record. These data were contributed by the Alfred Wegener Institute for Polar and Marine Research, Bremerhaven, Germany, in 2002 and 2004, as a contribution to the World Climate Research Programme's Arctic Climate System Study\/Climate and Cryosphere (ACSYS\/CliC) Project. Data are available via FTP.NSIDC strongly encourages you to register as a user of this data product. As a registered user, you will be notified of updates and corrections. When registering, please include the title of this data set, AWI Moored ULS Data, Greenland Sea and Fram Strait, 1991-2002.\n",
+	"notes": "nThis data set consists of Upward Looking Sonar (ULS) data from 11 moorings in the Greenland Sea. Parameters in the processed data files include ice draft, water pressure, and water temperature. Raw data files with sonar travel time, and files with draft frequency of occurrence, are available as well. A single statistical file for each mooring summarizes that mooring's record. These data were contributed by the Alfred Wegener Institute for Polar and Marine Research, Bremerhaven, Germany, in 2002 and 2004, as a contribution to the World Climate Research Programme's Arctic Climate System Study/Climate and Cryosphere (ACSYS/CliC) Project. Data are available via FTP.NSIDC strongly encourages you to register as a user of this data product. As a registered user, you will be notified of updates and corrections. When registering, please include the title of this data set, AWI Moored ULS Data, Greenland Sea and Fram Strait, 1991-2002.n",
 	"license_title": null,
 	"extras": [{
 		"key": "bbox-east-long",
@@ -213,7 +213,7 @@
 	},
 	{
 		"key": "spatial",
-		"value": "{\"type\": \"Polygon\", \"coordinates\": [[[2.0, 74.4], [12.98333, 74.4], [12.98333, 79.0], [2.0, 79.0], [2.0, 74.4]]]}"
+		"value": "{"type": "Polygon", "coordinates": [[[2.0, 74.4], [12.98333, 74.4], [12.98333, 79.0], [2.0, 79.0], [2.0, 74.4]]]}"
 	},
 	{
 		"key": "progress",
@@ -221,7 +221,7 @@
 	},
 	{
 		"key": "access_constraints",
-		"value": "[\"None.\", \"None.\"]"
+		"value": "["None.", "None."]"
 	},
 	{
 		"key": "temporal-extent-begin",
@@ -241,7 +241,7 @@
 	},
 	{
 		"key": "dataset-reference-date",
-		"value": "[{\"type\": \"publication\", \"value\": \"2005-08-31\"}]"
+		"value": "[{"type": "publication", "value": "2005-08-31"}]"
 	},
 	{
 		"key": "frequency-of-update",
@@ -257,7 +257,7 @@
 	},
 	{
 		"key": "responsible-party",
-		"value": "[{\"name\": \"\", \"roles\": [\"principalInvestigator\"]}, {\"name\": \"National Snow and Ice Data Center\", \"roles\": [\"pointOfContact\"]}, {\"name\": \"Alfred Wegener Institute for Polar and Marine Research\", \"roles\": [\"principalInvestigator\"]}]"
+		"value": "[{"name": "", "roles": ["principalInvestigator"]}, {"name": "National Snow and Ice Data Center", "roles": ["pointOfContact"]}, {"name": "Alfred Wegener Institute for Polar and Marine Research", "roles": ["principalInvestigator"]}]"
 	},
 	{
 		"key": "temporal-extent-end",
@@ -273,7 +273,7 @@
 	},
 	{
 		"package_id": "1242e9a9-f35c-4230-8445-82d62aebb2d3",
-		"value": "water pressure, ocean temperature, cryosphere, greenland, north america, moored upward looking sonar-project, greenland sea, surface water, moored buoys, earth science, sea ice motion, upward looking sonar, ice depth\/thickness, continent, moored upward looking sonar, arctic, oceans, nsidc, ocean pressure, geographic region, water temperature, sea ice, terrestrial hydrosphere, sea ice draft, national snow and ice data center, under-ice surface, ice draft",
+		"value": "water pressure, ocean temperature, cryosphere, greenland, north america, moored upward looking sonar-project, greenland sea, surface water, moored buoys, earth science, sea ice motion, upward looking sonar, ice depth/thickness, continent, moored upward looking sonar, arctic, oceans, nsidc, ocean pressure, geographic region, water temperature, sea ice, terrestrial hydrosphere, sea ice draft, national snow and ice data center, under-ice surface, ice draft",
 		"revision_timestamp": "2015-09-27T02:53:08.713223",
 		"state": "active",
 		"key": "tags",
@@ -303,7 +303,7 @@
 		"revision_timestamp": "2013-03-25T23:05:12.923863",
 		"is_organization": true,
 		"state": "active",
-		"image_url": "https:\/\/fortress.wa.gov\/dfw\/score\/score\/images\/noaa_logo.png",
+		"image_url": "https://fortress.wa.gov/dfw/score/score/images/noaa_logo.png",
 		"revision_id": "c6d43080-22e1-405e-a83d-f2a512d9e867",
 		"type": "organization",
 		"id": "e811f0b4-451f-4896-9e8f-fc6802837819",

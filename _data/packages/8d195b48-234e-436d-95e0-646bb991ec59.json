@@ -37,7 +37,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2015-09-26T19:07:07.781233",
-		"url": "ftp:\/\/sidads.colorado.edu\/pub\/DATASETS\/NOAA\/G00805",
+		"url": "ftp://sidads.colorado.edu/pub/DATASETS/NOAA/G00805",
 		"webstore_url": null,
 		"resource_locator_function": "function",
 		"position": 0,
@@ -67,7 +67,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2015-09-26T19:07:07.781255",
-		"url": "http:\/\/nsidc.org\/data\/docs\/noaa\/g00805_surface_ice_reports\/index.html",
+		"url": "http://nsidc.org/data/docs/noaa/g00805_surface_ice_reports/index.html",
 		"webstore_url": null,
 		"resource_locator_function": "function",
 		"position": 1,
@@ -85,7 +85,7 @@
 		"last_modified": null,
 		"hash": "",
 		"description": "",
-		"format": "application\/vnd.lotus-organizer",
+		"format": "application/vnd.lotus-organizer",
 		"tracking_summary": {
 			"total": 85,
 			"recent": 4
@@ -97,7 +97,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2015-09-26T19:07:07.781264",
-		"url": "http:\/\/nsidc.org",
+		"url": "http://nsidc.org",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 2,
@@ -127,7 +127,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2015-09-26T19:07:07.781273",
-		"url": "http:\/\/nsidc.org\/noaa\/",
+		"url": "http://nsidc.org/noaa/",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 3,
@@ -145,7 +145,7 @@
 		"last_modified": null,
 		"hash": "",
 		"description": "",
-		"format": "application\/vnd.lotus-organizer",
+		"format": "application/vnd.lotus-organizer",
 		"tracking_summary": {
 			"total": 85,
 			"recent": 4
@@ -157,7 +157,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2015-09-26T19:07:07.781280",
-		"url": "http:\/\/nsidc.org",
+		"url": "http://nsidc.org",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 4,
@@ -190,7 +190,7 @@
 	"name": "great-lakes-surface-ice-reports-from-u-s-coast-guard",
 	"isopen": false,
 	"url": null,
-	"notes": "\nData consist of ice observations from U.S. Coast Guard vessels operating on the Great Lakes, and from Coast Guard shore stations reported via teletype messages and ice logging forms. Observations include ice thickness and concentration, weather conditions, and ice breaking activity. Data from 1961\/1962 through 1966\/1967 have been processed to a standard format and sorted by year and stations, and are available via FTP as ASCII files, one for each of the five lakes. These data were provided to NSIDC by the NOAA Great Lakes Environmental Research Laboratory (GLERL), along with documentation. The documentation, Great Lakes Environmental Research Laboratory Great Lakes Surface Ice Reports, 1961-1966, is included here. Data from 1970\/1971 through 1993\/1994 are available on microfilm. The original ice reporting forms for these years were filed as part of the ice operations files of the Ninth District U.S. Coast Guard Ice Navigation Center, Cleveland, OH. Data from 1994\/1995 through 2003\/2004 are available via FTP in a single .tar file for each ice season.Note that no editing or quality control has been performed on this data set. Microfilmed records are difficult to use, as they are sorted by date and time only, and contain extraneous information. The electronic data from 1994\/1995 forward are raw teletype reports. These are not in a consistent format, and also contain extraneous information. NSIDC obtained these data from a NOAA National Weather Service public FTP server. The National Weather Service obtained the data from the United States Coast Guard Headquarters. NSIDC was unable to locate a responsible party within NOAA who could provide NSIDC with a new source for the data. Therefore, the records end in 2004. Users may wish to contact the U.S. Coast Guard for information on obtaining the individual ship reports.\n",
+	"notes": "nData consist of ice observations from U.S. Coast Guard vessels operating on the Great Lakes, and from Coast Guard shore stations reported via teletype messages and ice logging forms. Observations include ice thickness and concentration, weather conditions, and ice breaking activity. Data from 1961/1962 through 1966/1967 have been processed to a standard format and sorted by year and stations, and are available via FTP as ASCII files, one for each of the five lakes. These data were provided to NSIDC by the NOAA Great Lakes Environmental Research Laboratory (GLERL), along with documentation. The documentation, Great Lakes Environmental Research Laboratory Great Lakes Surface Ice Reports, 1961-1966, is included here. Data from 1970/1971 through 1993/1994 are available on microfilm. The original ice reporting forms for these years were filed as part of the ice operations files of the Ninth District U.S. Coast Guard Ice Navigation Center, Cleveland, OH. Data from 1994/1995 through 2003/2004 are available via FTP in a single .tar file for each ice season.Note that no editing or quality control has been performed on this data set. Microfilmed records are difficult to use, as they are sorted by date and time only, and contain extraneous information. The electronic data from 1994/1995 forward are raw teletype reports. These are not in a consistent format, and also contain extraneous information. NSIDC obtained these data from a NOAA National Weather Service public FTP server. The National Weather Service obtained the data from the United States Coast Guard Headquarters. NSIDC was unable to locate a responsible party within NOAA who could provide NSIDC with a new source for the data. Therefore, the records end in 2004. Users may wish to contact the U.S. Coast Guard for information on obtaining the individual ship reports.n",
 	"license_title": null,
 	"extras": [{
 		"key": "bbox-east-long",
@@ -222,7 +222,7 @@
 	},
 	{
 		"key": "__category_tag_78473e2f-b6ba-4e28-b0c1-d53c35a7e010",
-		"value": "[\"Hazards\",\"Great Lakes\"]"
+		"value": "["Hazards","Great Lakes"]"
 	},
 	{
 		"key": "spatial-reference-system",
@@ -230,7 +230,7 @@
 	},
 	{
 		"key": "spatial",
-		"value": "{\"type\": \"Polygon\", \"coordinates\": [[[-93.0, 41.0], [-76.0, 41.0], [-76.0, 49.0], [-93.0, 49.0], [-93.0, 41.0]]]}"
+		"value": "{"type": "Polygon", "coordinates": [[[-93.0, 41.0], [-76.0, 41.0], [-76.0, 49.0], [-93.0, 49.0], [-93.0, 41.0]]]}"
 	},
 	{
 		"key": "progress",
@@ -238,7 +238,7 @@
 	},
 	{
 		"key": "access_constraints",
-		"value": "[\"Access Constraints : none\", \"Use Constraints : none\"]"
+		"value": "["Access Constraints : none", "Use Constraints : none"]"
 	},
 	{
 		"key": "temporal-extent-begin",
@@ -258,7 +258,7 @@
 	},
 	{
 		"key": "dataset-reference-date",
-		"value": "[{\"type\": \"publication\", \"value\": \"1995-01-01\"}]"
+		"value": "[{"type": "publication", "value": "1995-01-01"}]"
 	},
 	{
 		"key": "frequency-of-update",
@@ -274,7 +274,7 @@
 	},
 	{
 		"key": "responsible-party",
-		"value": "[{\"name\": \"National Snow and Ice Data Center\", \"roles\": [\"pointOfContact\"]}]"
+		"value": "[{"name": "National Snow and Ice Data Center", "roles": ["pointOfContact"]}]"
 	},
 	{
 		"key": "temporal-extent-end",
@@ -290,7 +290,7 @@
 	},
 	{
 		"package_id": "8d195b48-234e-436d-95e0-646bb991ec59",
-		"value": "atmosphere, lake ice, cryosphere, north america, ice extent, continent, earth science, usa, ice depth\/thickness, maximum\/minimum temperature, atmospheric temperature, seasonal ice, ice navigation, united states of america, mid-latitude, lakes, ice cover, geographic region, great lakes, terrestrial hydrosphere, detroit river, idn_node gsfc\/nsidc, freshwater ice, snow\/ice, climatology",
+		"value": "atmosphere, lake ice, cryosphere, north america, ice extent, continent, earth science, usa, ice depth/thickness, maximum/minimum temperature, atmospheric temperature, seasonal ice, ice navigation, united states of america, mid-latitude, lakes, ice cover, geographic region, great lakes, terrestrial hydrosphere, detroit river, idn_node gsfc/nsidc, freshwater ice, snow/ice, climatology",
 		"revision_timestamp": "2015-09-26T23:07:07.720877",
 		"state": "active",
 		"key": "tags",
@@ -320,7 +320,7 @@
 		"revision_timestamp": "2013-03-25T23:05:12.923863",
 		"is_organization": true,
 		"state": "active",
-		"image_url": "https:\/\/fortress.wa.gov\/dfw\/score\/score\/images\/noaa_logo.png",
+		"image_url": "https://fortress.wa.gov/dfw/score/score/images/noaa_logo.png",
 		"revision_id": "c6d43080-22e1-405e-a83d-f2a512d9e867",
 		"type": "organization",
 		"id": "e811f0b4-451f-4896-9e8f-fc6802837819",

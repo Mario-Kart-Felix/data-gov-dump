@@ -37,7 +37,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2015-09-26T22:08:24.680574",
-		"url": "ftp:\/\/sidads.colorado.edu\/pub\/DATASETS\/NOAA\/G02182\/",
+		"url": "ftp://sidads.colorado.edu/pub/DATASETS/NOAA/G02182/",
 		"webstore_url": null,
 		"resource_locator_function": "function",
 		"position": 0,
@@ -67,7 +67,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2015-09-26T22:08:24.680598",
-		"url": "http:\/\/nsidc.org\/data\/docs\/noaa\/g02182_seaice_edge_extent_russia\/index.html",
+		"url": "http://nsidc.org/data/docs/noaa/g02182_seaice_edge_extent_russia/index.html",
 		"webstore_url": null,
 		"resource_locator_function": "function",
 		"position": 1,
@@ -85,7 +85,7 @@
 		"last_modified": null,
 		"hash": "",
 		"description": "",
-		"format": "application\/vnd.lotus-organizer",
+		"format": "application/vnd.lotus-organizer",
 		"tracking_summary": {
 			"total": 85,
 			"recent": 4
@@ -97,7 +97,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2015-09-26T22:08:24.680607",
-		"url": "http:\/\/nsidc.org",
+		"url": "http://nsidc.org",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 2,
@@ -127,7 +127,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2015-09-26T22:08:24.680615",
-		"url": "http:\/\/nsidc.org\/noaa\/",
+		"url": "http://nsidc.org/noaa/",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 3,
@@ -145,7 +145,7 @@
 		"last_modified": null,
 		"hash": "",
 		"description": "",
-		"format": "application\/vnd.lotus-organizer",
+		"format": "application/vnd.lotus-organizer",
 		"tracking_summary": {
 			"total": 85,
 			"recent": 4
@@ -157,7 +157,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2015-09-26T22:08:24.680623",
-		"url": "http:\/\/nsidc.org",
+		"url": "http://nsidc.org",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 4,
@@ -190,7 +190,7 @@
 	"name": "sea-ice-edge-location-and-extent-in-the-russian-arctic-1933-2006",
 	"isopen": false,
 	"url": null,
-	"notes": "\nThe Sea Ice Edge Location and Extent in the Russian Arctic, 1933-2006 data are derived from sea ice charts from the Arctic and Antarctic Research Institute (AARI), St. Petersburg, Russia. Provided here are sea ice edge locations, where identifiable, in each AARI ice chart and monthly and seasonal mean sea ice extents for each of the marginal seas in the Russian Arctic derived from these ice edges. The original AARI charts were constructed primarily to assist operations in the Northern Sea Route. The digital version, from which this data set is derived, is titled Sea Ice Charts of the Russian Arctic in Gridded Format, 1933-2006.Spatial and temporal coverage vary. There is generally a chart every 10 days. However, the early part of the series only covers summer; in later years, coverage is year round. Sea ice edge position is given in decimal degrees (latitude at every degree longitude from about 30\uc9f8 W to 150\uc9f8 W going from west to east) for each of the 2877 ice charts. Landfast ice edge, multiyear ice edge, and pack ice edge data are available. Total ice cover and multiyear ice cover mean sea ice extent data, for each year, month, and marginal sea, is available as well, along with companion error statistic files.\n",
+	"notes": "nThe Sea Ice Edge Location and Extent in the Russian Arctic, 1933-2006 data are derived from sea ice charts from the Arctic and Antarctic Research Institute (AARI), St. Petersburg, Russia. Provided here are sea ice edge locations, where identifiable, in each AARI ice chart and monthly and seasonal mean sea ice extents for each of the marginal seas in the Russian Arctic derived from these ice edges. The original AARI charts were constructed primarily to assist operations in the Northern Sea Route. The digital version, from which this data set is derived, is titled Sea Ice Charts of the Russian Arctic in Gridded Format, 1933-2006.Spatial and temporal coverage vary. There is generally a chart every 10 days. However, the early part of the series only covers summer; in later years, coverage is year round. Sea ice edge position is given in decimal degrees (latitude at every degree longitude from about 30uc9f8 W to 150uc9f8 W going from west to east) for each of the 2877 ice charts. Landfast ice edge, multiyear ice edge, and pack ice edge data are available. Total ice cover and multiyear ice cover mean sea ice extent data, for each year, month, and marginal sea, is available as well, along with companion error statistic files.n",
 	"license_title": null,
 	"extras": [{
 		"key": "bbox-east-long",
@@ -222,7 +222,7 @@
 	},
 	{
 		"key": "__category_tag_aa0c01c9-d292-4dc1-8fec-b10c1bb629a9",
-		"value": "[\"Arctic\",\"Arctic Ocean, Sea Ice and Coasts\"]"
+		"value": "["Arctic","Arctic Ocean, Sea Ice and Coasts"]"
 	},
 	{
 		"key": "spatial-reference-system",
@@ -230,7 +230,7 @@
 	},
 	{
 		"key": "spatial",
-		"value": "{\"type\": \"Polygon\", \"coordinates\": [[[40.0, 65.0], [145.0, 65.0], [145.0, 90.0], [40.0, 90.0], [40.0, 65.0]]]}"
+		"value": "{"type": "Polygon", "coordinates": [[[40.0, 65.0], [145.0, 65.0], [145.0, 90.0], [40.0, 90.0], [40.0, 65.0]]]}"
 	},
 	{
 		"key": "progress",
@@ -238,7 +238,7 @@
 	},
 	{
 		"key": "access_constraints",
-		"value": "[\"Access Constraints : none\", \"Use Constraints : none\"]"
+		"value": "["Access Constraints : none", "Use Constraints : none"]"
 	},
 	{
 		"key": "temporal-extent-begin",
@@ -258,7 +258,7 @@
 	},
 	{
 		"key": "dataset-reference-date",
-		"value": "[{\"type\": \"publication\", \"value\": \"2008-06-30\"}]"
+		"value": "[{"type": "publication", "value": "2008-06-30"}]"
 	},
 	{
 		"key": "frequency-of-update",
@@ -274,7 +274,7 @@
 	},
 	{
 		"key": "responsible-party",
-		"value": "[{\"name\": \"CIRES\/University of Colorado at Boulder\", \"roles\": [\"principalInvestigator\"]}, {\"name\": \"National Snow and Ice Data Center\", \"roles\": [\"pointOfContact\"]}]"
+		"value": "[{"name": "CIRES/University of Colorado at Boulder", "roles": ["principalInvestigator"]}, {"name": "National Snow and Ice Data Center", "roles": ["pointOfContact"]}]"
 	},
 	{
 		"key": "temporal-extent-end",
@@ -320,7 +320,7 @@
 		"revision_timestamp": "2013-03-25T23:05:12.923863",
 		"is_organization": true,
 		"state": "active",
-		"image_url": "https:\/\/fortress.wa.gov\/dfw\/score\/score\/images\/noaa_logo.png",
+		"image_url": "https://fortress.wa.gov/dfw/score/score/images/noaa_logo.png",
 		"revision_id": "c6d43080-22e1-405e-a83d-f2a512d9e867",
 		"type": "organization",
 		"id": "e811f0b4-451f-4896-9e8f-fc6802837819",

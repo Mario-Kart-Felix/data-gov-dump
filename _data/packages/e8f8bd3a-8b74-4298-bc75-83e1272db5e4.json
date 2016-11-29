@@ -25,7 +25,7 @@
 		"last_modified": null,
 		"hash": "",
 		"description": "",
-		"format": "application\/vnd.lotus-organizer",
+		"format": "application/vnd.lotus-organizer",
 		"tracking_summary": {
 			"total": 85,
 			"recent": 4
@@ -37,7 +37,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2015-09-26T15:59:34.813205",
-		"url": "http:\/\/nsidc.org",
+		"url": "http://nsidc.org",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 0,
@@ -67,7 +67,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2015-09-26T15:59:34.813226",
-		"url": "http:\/\/nsidc.org\/noaa\/",
+		"url": "http://nsidc.org/noaa/",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 1,
@@ -85,7 +85,7 @@
 		"last_modified": null,
 		"hash": "",
 		"description": "",
-		"format": "application\/vnd.lotus-organizer",
+		"format": "application/vnd.lotus-organizer",
 		"tracking_summary": {
 			"total": 85,
 			"recent": 4
@@ -97,7 +97,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2015-09-26T15:59:34.813235",
-		"url": "http:\/\/nsidc.org",
+		"url": "http://nsidc.org",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 2,
@@ -117,7 +117,7 @@
 	"name": "an-electronic-atlas-of-great-lakes-ice-cover-winters-1973-2002",
 	"isopen": false,
 	"url": null,
-	"notes": "\nThis dataset is distributed by the National Oceanic and Atmospheric Administration (NOAA) Great Lakes Environmental Research Laboratory (GLERL). The atlas contains data on over 1200 digitized Great Lakes ice charts for winters from 1973 to 2002 and three types of analysis products.The first analysis product includes ice charts of the following: dates of the first reported ice, dates of the last reported ice, and ice duration for each winter, as well as, the maximum, minimum and average ice cover concentrations.The second analysis product is a 30-year set of annual daily ice cover time series. The daily time series was used to create: 1) computer animations of spatial patterns of ice cover for each winter, 2) line plots of lake averaged ice cover for each lake over the 30 winters.The third analysis product is weekly statistics. There are weekly ice charts and grids of: maximum, 3rd quartile, median, 1st quartile, and minimum ice cover concentrations for the 30-winter base period. The weekly statistics are based on the original ice chart data set and not on the daily time series.NSIDC does not distribute this data set. Please contact the investigator or data compiler to acquire these data, and for further information about these data. Data Compiler: <A HREF='http:\/\/www.glerl.noaa.gov\/data\/ice\/atlas\/'>NOAA Great Lakes Environmental Research Laboratory<\/A>\n",
+	"notes": "nThis dataset is distributed by the National Oceanic and Atmospheric Administration (NOAA) Great Lakes Environmental Research Laboratory (GLERL). The atlas contains data on over 1200 digitized Great Lakes ice charts for winters from 1973 to 2002 and three types of analysis products.The first analysis product includes ice charts of the following: dates of the first reported ice, dates of the last reported ice, and ice duration for each winter, as well as, the maximum, minimum and average ice cover concentrations.The second analysis product is a 30-year set of annual daily ice cover time series. The daily time series was used to create: 1) computer animations of spatial patterns of ice cover for each winter, 2) line plots of lake averaged ice cover for each lake over the 30 winters.The third analysis product is weekly statistics. There are weekly ice charts and grids of: maximum, 3rd quartile, median, 1st quartile, and minimum ice cover concentrations for the 30-winter base period. The weekly statistics are based on the original ice chart data set and not on the daily time series.NSIDC does not distribute this data set. Please contact the investigator or data compiler to acquire these data, and for further information about these data. Data Compiler: <A HREF='http://www.glerl.noaa.gov/data/ice/atlas/'>NOAA Great Lakes Environmental Research Laboratory</A>n",
 	"license_title": null,
 	"extras": [{
 		"key": "bbox-east-long",
@@ -153,7 +153,7 @@
 	},
 	{
 		"key": "spatial",
-		"value": "{\"type\": \"Polygon\", \"coordinates\": [[[-93.0, 41.0], [-75.0, 41.0], [-75.0, 49.0], [-93.0, 49.0], [-93.0, 41.0]]]}"
+		"value": "{"type": "Polygon", "coordinates": [[[-93.0, 41.0], [-75.0, 41.0], [-75.0, 49.0], [-93.0, 49.0], [-93.0, 41.0]]]}"
 	},
 	{
 		"key": "progress",
@@ -161,7 +161,7 @@
 	},
 	{
 		"key": "access_constraints",
-		"value": "[\"Access Constraints : none\", \"Use Constraints : none\"]"
+		"value": "["Access Constraints : none", "Use Constraints : none"]"
 	},
 	{
 		"key": "temporal-extent-begin",
@@ -181,7 +181,7 @@
 	},
 	{
 		"key": "dataset-reference-date",
-		"value": "[{\"type\": \"publication\", \"value\": \"2008-02-05\"}]"
+		"value": "[{"type": "publication", "value": "2008-02-05"}]"
 	},
 	{
 		"key": "frequency-of-update",
@@ -197,7 +197,7 @@
 	},
 	{
 		"key": "responsible-party",
-		"value": "[{\"name\": \"\", \"roles\": [\"principalInvestigator\"]}]"
+		"value": "[{"name": "", "roles": ["principalInvestigator"]}]"
 	},
 	{
 		"key": "temporal-extent-end",
@@ -213,7 +213,7 @@
 	},
 	{
 		"package_id": "e8f8bd3a-8b74-4298-bc75-83e1272db5e4",
-		"value": "ice growth\/melt, cryosphere, terrestrial hydrosphere, lake ice, united states of america, ice depth\/thickness, noaa, north america, ice extent, snow\/ice, great lakes, continent, earth science",
+		"value": "ice growth/melt, cryosphere, terrestrial hydrosphere, lake ice, united states of america, ice depth/thickness, noaa, north america, ice extent, snow/ice, great lakes, continent, earth science",
 		"revision_timestamp": "2015-09-26T19:59:34.769683",
 		"state": "active",
 		"key": "tags",
@@ -243,7 +243,7 @@
 		"revision_timestamp": "2013-03-25T23:05:12.923863",
 		"is_organization": true,
 		"state": "active",
-		"image_url": "https:\/\/fortress.wa.gov\/dfw\/score\/score\/images\/noaa_logo.png",
+		"image_url": "https://fortress.wa.gov/dfw/score/score/images/noaa_logo.png",
 		"revision_id": "c6d43080-22e1-405e-a83d-f2a512d9e867",
 		"type": "organization",
 		"id": "e811f0b4-451f-4896-9e8f-fc6802837819",

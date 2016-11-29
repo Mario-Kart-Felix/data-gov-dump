@@ -37,7 +37,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2013-03-28T02:13:55.782549",
-		"url": "http:\/\/deli.dnr.state.mn.us",
+		"url": "http://deli.dnr.state.mn.us",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 0,
@@ -74,7 +74,7 @@
 	"license_title": null,
 	"extras": [{
 		"key": "responsible-party",
-		"value": "[{\"name\": \"DNR-MIS\", \"roles\": [\"pointOfContact\"]}]"
+		"value": "[{"name": "DNR-MIS", "roles": ["pointOfContact"]}]"
 	},
 	{
 		"key": "contact-email",
@@ -94,7 +94,7 @@
 	},
 	{
 		"key": "dataset-reference-date",
-		"value": "[{\"type\": \"publication\", \"value\": \"9999-01-01\"}]"
+		"value": "[{"type": "publication", "value": "9999-01-01"}]"
 	},
 	{
 		"key": "resource-type",
@@ -122,7 +122,7 @@
 	},
 	{
 		"key": "licence",
-		"value": "[\"The Minnesota Department of Natural Resources makes no representation or warranties, express or implied, with respect to the reuse of data provided herewith, regardless of its format or the means of its transmission. There is no guarantee or representation to the user as to the accuracy, currency, suitability, or reliability of this data for any purpose. The user accepts the data 'as is', and assumes all risks associated with its use. By accepting this data, the user agrees not to transmit this data or provide access to it or any part of it to another party unless the user shall include with the data a copy of this disclaimer. The Minnesota Department of Natural Resources assumes no responsibility for actual or consequential damage incurred as a result of any user's reliance on this data.\"]"
+		"value": "["The Minnesota Department of Natural Resources makes no representation or warranties, express or implied, with respect to the reuse of data provided herewith, regardless of its format or the means of its transmission. There is no guarantee or representation to the user as to the accuracy, currency, suitability, or reliability of this data for any purpose. The user accepts the data 'as is', and assumes all risks associated with its use. By accepting this data, the user agrees not to transmit this data or provide access to it or any part of it to another party unless the user shall include with the data a copy of this disclaimer. The Minnesota Department of Natural Resources assumes no responsibility for actual or consequential damage incurred as a result of any user's reliance on this data."]"
 	},
 	{
 		"key": "metadata_type",
@@ -130,7 +130,7 @@
 	},
 	{
 		"key": "spatial",
-		"value": "{\"type\": \"Polygon\", \"coordinates\": [[[-97.5, 43.0], [-97.5, 49.5], [-89.0, 49.5], [-89.0, 43.0], [-97.5, 43.0]]]}"
+		"value": "{"type": "Polygon", "coordinates": [[[-97.5, 43.0], [-97.5, 49.5], [-89.0, 49.5], [-89.0, 43.0], [-97.5, 43.0]]]}"
 	},
 	{
 		"key": "guid",
@@ -142,11 +142,11 @@
 	},
 	{
 		"key": "access_constraints",
-		"value": "[\"Use Constraints: Minnesota Department of Natural Resources General Geographic Data License Agreement 1) The Minnesota Department of Natural Resources (MNDNR) grants to you a non-exclusive, non-sublicensable, license to use these digital data. This license agreement applies to all digital data acquired from DNR staff, FTP sites, or other internet-based delivery systems. In the event that another license agreement issued by DNR staff is explicitly associated with a particular data set, the terms of the other license agreement prevail, and the terms expressed in this more general license agreement are nullified. 2) The MNDNR makes no representations about the suitability of these data for any purpose. The data are provided 'as is' without express or implied warranties, including warranties of merchantability and fitness for a particular purpose or noninfringement. 3) MNDNR is not obligated to provide updates to these data in the event that newer versions become available. MNDNR provides documentation when available through established distribution mechanisms. 4) The user relieves the MNDNR and its respective officers, agents and employees of any liability for any and all damages resulting from use or mis-use of these data including, but not limited to: a) incidental, consequential, special or indirect damages of any sort, whether arising in tort, contract or otherwise, even if MNDNR has been informed of the possibility of such damages, or b) for any claim by any other party. Furthermore, in States that do not allow the exclusion or limitation of incidental or consequential damages, you may not use these data. 5) When these data are used in the development of digital or analog (hardcopy) products, MNDNR must be acknowledged as having contributed data to the development of the product. 6) Although the use of these data are not restricted, they may not be sold commercially or privately without the written permission of MNDNR.\", \"Access Constraints: None\"]"
+		"value": "["Use Constraints: Minnesota Department of Natural Resources General Geographic Data License Agreement 1) The Minnesota Department of Natural Resources (MNDNR) grants to you a non-exclusive, non-sublicensable, license to use these digital data. This license agreement applies to all digital data acquired from DNR staff, FTP sites, or other internet-based delivery systems. In the event that another license agreement issued by DNR staff is explicitly associated with a particular data set, the terms of the other license agreement prevail, and the terms expressed in this more general license agreement are nullified. 2) The MNDNR makes no representations about the suitability of these data for any purpose. The data are provided 'as is' without express or implied warranties, including warranties of merchantability and fitness for a particular purpose or noninfringement. 3) MNDNR is not obligated to provide updates to these data in the event that newer versions become available. MNDNR provides documentation when available through established distribution mechanisms. 4) The user relieves the MNDNR and its respective officers, agents and employees of any liability for any and all damages resulting from use or mis-use of these data including, but not limited to: a) incidental, consequential, special or indirect damages of any sort, whether arising in tort, contract or otherwise, even if MNDNR has been informed of the possibility of such damages, or b) for any claim by any other party. Furthermore, in States that do not allow the exclusion or limitation of incidental or consequential damages, you may not use these data. 5) When these data are used in the development of digital or analog (hardcopy) products, MNDNR must be acknowledged as having contributed data to the development of the product. 6) Although the use of these data are not restricted, they may not be sold commercially or privately without the written permission of MNDNR.", "Access Constraints: None"]"
 	},
 	{
 		"key": "graphic-preview-file",
-		"value": "http:\/\/jmaps.dnr.state.mn.us\/gis\/dp_datasample.jsp?mpid=39000225&ptid=18&fcid=6&lname=Farm Services Administration (FSA) Color Orthophotos 2002"
+		"value": "http://jmaps.dnr.state.mn.us/gis/dp_datasample.jsp?mpid=39000225&ptid=18&fcid=6&lname=Farm Services Administration (FSA) Color Orthophotos 2002"
 	},
 	{
 		"key": "frequency-of-update",
@@ -184,7 +184,7 @@
 		"revision_timestamp": "2013-03-21T17:53:31.532555",
 		"is_organization": true,
 		"state": "active",
-		"image_url": "http:\/\/www.naturalinnovations.org\/eeresourceguide\/images\/mn_dnr_logo.gif",
+		"image_url": "http://www.naturalinnovations.org/eeresourceguide/images/mn_dnr_logo.gif",
 		"revision_id": "a4813d04-e782-48ad-bd72-dd87a4899e84",
 		"type": "organization",
 		"id": "6bfa9b1b-ca6e-471f-aaef-ca8f2c26769b",

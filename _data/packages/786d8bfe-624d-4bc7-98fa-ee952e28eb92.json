@@ -37,7 +37,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2016-04-01T16:53:23.210622",
-		"url": "http:\/\/bios.dfg.ca.gov\/",
+		"url": "http://bios.dfg.ca.gov/",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 0,
@@ -67,7 +67,7 @@
 		"cache_url": null,
 		"name": "Zip File",
 		"created": "2016-04-01T16:53:23.210645",
-		"url": "ftp:\/\/ftp.dfg.ca.gov\/BDB\/GIS\/BIOS\/Public_Datasets\/700_799\/ds724.zip",
+		"url": "ftp://ftp.dfg.ca.gov/BDB/GIS/BIOS/Public_Datasets/700_799/ds724.zip",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 1,
@@ -87,11 +87,11 @@
 	"name": "medium-scale-central-valley-riparian-vegetation-and-land-use-with-aggregated-delta-veg-2011-ds704f23",
 	"isopen": false,
 	"url": null,
-	"notes": "Geodatabase (SDE) feature class containing map of vegetation along mainstem rivers and major tributaries (including ancillary natural and semi-natural vegetation) found within the Department of Water Resources Central Valley Flood Protection Program's Systemwide Planning Area (SPA). This map includes vegetation outside of the SPA within Great Valley Ecoregion (GVE) of the Central Valley from the King's River drainage north to the town of Red Bluff and vegetation above the GVE along the mainstem of the Sacramento River to Keswick Dam. Data was modified based on Accuracy Assessment feedback from the CA DFW in August 2011. Data was originally developed from June 2010 through April 2011 from interpretation of the National Agicultural Inventory Program's 2009 (NAIP 2009) aerial imagery and hand-digitized at a minimum mapping unit (mmu) of 1.0-acres with a minimum average width of 10-meters per polygon. Medium-scale vegetation categories were based on the National Vegetation Classification System (NVCS) \"group-level\" as interpreted in Appendix 3 (pp. 1227-1240) of the Manual of California Vegetation, 2nd Ed. (Sawer et al. 2009). \"Medium-scale\" thus refers to the mid-level thematic resolution for vegetation used for the map. This medium-scale mapping effort incorporated provisional group categories where no clear relationship between vegetation types and NVCS groups existed. This dataset combines mapping conducted in 2010 and 2011 as described above with the Delta Vegetation and Land Use Map [BIOS ds292]. The Delta map classes were originally at a finer scale and were aggregated up to match the medium scale map as described above for a seamless coverage. No updating of the Delta map was done in this process. Please use the Delta Vegetation and Land Use Map (ds292) for the finer scale information where appropriate.",
+	"notes": "Geodatabase (SDE) feature class containing map of vegetation along mainstem rivers and major tributaries (including ancillary natural and semi-natural vegetation) found within the Department of Water Resources Central Valley Flood Protection Program's Systemwide Planning Area (SPA). This map includes vegetation outside of the SPA within Great Valley Ecoregion (GVE) of the Central Valley from the King's River drainage north to the town of Red Bluff and vegetation above the GVE along the mainstem of the Sacramento River to Keswick Dam. Data was modified based on Accuracy Assessment feedback from the CA DFW in August 2011. Data was originally developed from June 2010 through April 2011 from interpretation of the National Agicultural Inventory Program's 2009 (NAIP 2009) aerial imagery and hand-digitized at a minimum mapping unit (mmu) of 1.0-acres with a minimum average width of 10-meters per polygon. Medium-scale vegetation categories were based on the National Vegetation Classification System (NVCS) "group-level" as interpreted in Appendix 3 (pp. 1227-1240) of the Manual of California Vegetation, 2nd Ed. (Sawer et al. 2009). "Medium-scale" thus refers to the mid-level thematic resolution for vegetation used for the map. This medium-scale mapping effort incorporated provisional group categories where no clear relationship between vegetation types and NVCS groups existed. This dataset combines mapping conducted in 2010 and 2011 as described above with the Delta Vegetation and Land Use Map [BIOS ds292]. The Delta map classes were originally at a finer scale and were aggregated up to match the medium scale map as described above for a seamless coverage. No updating of the Delta map was done in this process. Please use the Delta Vegetation and Land Use Map (ds292) for the finer scale information where appropriate.",
 	"license_title": null,
 	"extras": [{
 		"key": "responsible-party",
-		"value": "[{\"name\": \"California State University, Chico, Geographical Information Center\", \"roles\": [\"pointOfContact\"]}]"
+		"value": "[{"name": "California State University, Chico, Geographical Information Center", "roles": ["pointOfContact"]}]"
 	},
 	{
 		"key": "contact-email",
@@ -111,7 +111,7 @@
 	},
 	{
 		"key": "dataset-reference-date",
-		"value": "[{\"type\": \"publication\", \"value\": \"2011-08-19\"}]"
+		"value": "[{"type": "publication", "value": "2011-08-19"}]"
 	},
 	{
 		"key": "resource-type",
@@ -139,7 +139,7 @@
 	},
 	{
 		"key": "licence",
-		"value": "[\"CSU, Chico, Geographical Information Center (GIC) does not guarantee the accuracy or quality of the digital data. The information is taken \\\"AS IS\\\" without any representations or implied warranties as to the fitness for a particular purpose or otherwise. It is further understood that any and all rights, claims, causes of action or other recourse against GIC for injuries or damages of any type, whether direct, indirect, incidental, consequential or otherwise, resulting from any error or omission in the data or in any programming used to obtain the data, or in any manner arising out of or related to the data retrieved herein, are forever waived. It is agreed that GIC shall not be liable for any liability, claim, loss, damage, injury or expense of any kind caused or alleged to be caused, directly or indirectly, by the inadequacy of data obtained from GIC, by any deficiency of GIC or user systems, by any delay or failure to provide service, or by any other interruption, disruption or loss to operations.\"]"
+		"value": "["CSU, Chico, Geographical Information Center (GIC) does not guarantee the accuracy or quality of the digital data. The information is taken \"AS IS\" without any representations or implied warranties as to the fitness for a particular purpose or otherwise. It is further understood that any and all rights, claims, causes of action or other recourse against GIC for injuries or damages of any type, whether direct, indirect, incidental, consequential or otherwise, resulting from any error or omission in the data or in any programming used to obtain the data, or in any manner arising out of or related to the data retrieved herein, are forever waived. It is agreed that GIC shall not be liable for any liability, claim, loss, damage, injury or expense of any kind caused or alleged to be caused, directly or indirectly, by the inadequacy of data obtained from GIC, by any deficiency of GIC or user systems, by any delay or failure to provide service, or by any other interruption, disruption or loss to operations."]"
 	},
 	{
 		"key": "metadata_type",
@@ -151,7 +151,7 @@
 	},
 	{
 		"key": "spatial",
-		"value": "{\"type\": \"Polygon\", \"coordinates\": [[[-122.51754, 36.236253], [-119.370903, 36.236253], [-119.370903, 40.622013], [-122.51754, 40.622013], [-122.51754, 36.236253]]]}"
+		"value": "{"type": "Polygon", "coordinates": [[[-122.51754, 36.236253], [-119.370903, 36.236253], [-119.370903, 40.622013], [-122.51754, 40.622013], [-122.51754, 36.236253]]]}"
 	},
 	{
 		"key": "guid",
@@ -163,7 +163,7 @@
 	},
 	{
 		"key": "access_constraints",
-		"value": "[\"Use Constraints: Recognition that this dataset was created by the Geographical Information Center (GIC) for the California Department of Water Resources. We would appreciate corrections to the map sent to VegCAMP. Contact Diana Hickson Diana.Hickson@wildlife.ca.gov\", \"Access Constraints: None\"]"
+		"value": "["Use Constraints: Recognition that this dataset was created by the Geographical Information Center (GIC) for the California Department of Water Resources. We would appreciate corrections to the map sent to VegCAMP. Contact Diana Hickson Diana.Hickson@wildlife.ca.gov", "Access Constraints: None"]"
 	},
 	{
 		"key": "spatial_harvester",
@@ -205,7 +205,7 @@
 		"revision_timestamp": "2013-05-31T17:51:13.706377",
 		"is_organization": true,
 		"state": "active",
-		"image_url": "http:\/\/www.ca.gov\/images\/template2012\/header_ca.gov.png",
+		"image_url": "http://www.ca.gov/images/template2012/header_ca.gov.png",
 		"revision_id": "ad94cda4-9394-44d0-9c37-573dc3c47c9a",
 		"type": "organization",
 		"id": "467d900f-8a42-452d-9906-6610dd1a767f",

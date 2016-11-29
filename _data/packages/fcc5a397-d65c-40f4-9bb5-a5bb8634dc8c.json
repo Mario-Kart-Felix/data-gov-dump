@@ -37,7 +37,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2015-10-06T16:23:11.844254",
-		"url": "http:\/\/www.seasketch.org\/#projecthomepage\/5272840f6ec5f42d210016e4",
+		"url": "http://www.seasketch.org/#projecthomepage/5272840f6ec5f42d210016e4",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 0,
@@ -67,7 +67,7 @@
 		"cache_url": null,
 		"name": "Esri Rest API Endpoint",
 		"created": "2015-10-06T16:23:11.844288",
-		"url": "http:\/\/gis.charttools.noaa.gov\/arcgis\/rest\/services\/survey_priorities2_national",
+		"url": "http://gis.charttools.noaa.gov/arcgis/rest/services/survey_priorities2_national",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 1,
@@ -97,7 +97,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2015-10-06T16:23:11.844295",
-		"url": "http:\/\/www.seasketch.org\/home.html",
+		"url": "http://www.seasketch.org/home.html",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 2,
@@ -127,7 +127,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2015-10-06T16:23:11.844302",
-		"url": "http:\/\/www.nauticalcharts.noaa.gov\/",
+		"url": "http://www.nauticalcharts.noaa.gov/",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 3,
@@ -147,7 +147,7 @@
 	"name": "u-s-federal-mapping-coordination",
 	"isopen": false,
 	"url": null,
-	"notes": "The Sandy Emergency Supplemental appropriations contained funds for federal and state agencies that will go to ocean and coastal mapping data acquisition. These data are needed for a variety of reasons - marine debris identification and removal, beach renourishment, engineering and repair decisions, habitat change assessments, nautical chart updates, inundation modeling, strengthening for future storms and coastal resilience... The list goes on, but the common thread is the need for OCM data to support decision-making. As the Integrated Working Group on Ocean and Coastal Mapping, NOAA and its collaborating federal mapping agencies are collecting information on requirements and plans of Federal and state agencies for areas impacted by Hurricane Sandy. The goal is to ensure that the emergency supplemental funding is used to \"map once, use many times.\" The kinds of activities we'd like to include in this Sea Sketch project are requirements AND plans in the Sandy-impacted region for: hydrographic surveys (side scan\/single\/multibeam); topographic, bathymetric, and topobathy lidar; digital imagery; hyperspectral, etc.",
+	"notes": "The Sandy Emergency Supplemental appropriations contained funds for federal and state agencies that will go to ocean and coastal mapping data acquisition. These data are needed for a variety of reasons - marine debris identification and removal, beach renourishment, engineering and repair decisions, habitat change assessments, nautical chart updates, inundation modeling, strengthening for future storms and coastal resilience... The list goes on, but the common thread is the need for OCM data to support decision-making. As the Integrated Working Group on Ocean and Coastal Mapping, NOAA and its collaborating federal mapping agencies are collecting information on requirements and plans of Federal and state agencies for areas impacted by Hurricane Sandy. The goal is to ensure that the emergency supplemental funding is used to "map once, use many times." The kinds of activities we'd like to include in this Sea Sketch project are requirements AND plans in the Sandy-impacted region for: hydrographic surveys (side scan/single/multibeam); topographic, bathymetric, and topobathy lidar; digital imagery; hyperspectral, etc.",
 	"license_title": null,
 	"extras": [{
 		"key": "bbox-east-long",
@@ -183,7 +183,7 @@
 	},
 	{
 		"key": "spatial",
-		"value": "{\"type\": \"Polygon\", \"coordinates\": [[[-79.0, 36.0], [-65.0, 36.0], [-65.0, 48.0], [-79.0, 48.0], [-79.0, 36.0]]]}"
+		"value": "{"type": "Polygon", "coordinates": [[[-79.0, 36.0], [-65.0, 36.0], [-65.0, 48.0], [-79.0, 48.0], [-79.0, 36.0]]]}"
 	},
 	{
 		"key": "progress",
@@ -191,7 +191,7 @@
 	},
 	{
 		"key": "access_constraints",
-		"value": "[\"Use Constraints: None.\", \"Access Constraints: General Users may view content. Collaborative users require user login to collaborate. Request access through NOS Office of Coast Survey Integrated Ocean Coastal Mapping Coordinator\"]"
+		"value": "["Use Constraints: None.", "Access Constraints: General Users may view content. Collaborative users require user login to collaborate. Request access through NOS Office of Coast Survey Integrated Ocean Coastal Mapping Coordinator"]"
 	},
 	{
 		"key": "temporal-extent-begin",
@@ -211,7 +211,7 @@
 	},
 	{
 		"key": "dataset-reference-date",
-		"value": "[{\"type\": \"publication\", \"value\": \"2013-01-01\"}]"
+		"value": "[{"type": "publication", "value": "2013-01-01"}]"
 	},
 	{
 		"key": "frequency-of-update",
@@ -219,7 +219,7 @@
 	},
 	{
 		"key": "licence",
-		"value": "[\"None\"]"
+		"value": "["None"]"
 	},
 	{
 		"key": "metadata_type",
@@ -227,7 +227,7 @@
 	},
 	{
 		"key": "responsible-party",
-		"value": "[{\"name\": \"National Oceanic and Atmospheric Administration (NOAA), National Ocean Service (NOS), Office of Coast Survey (OCS)\", \"roles\": [\"pointOfContact\"]}]"
+		"value": "[{"name": "National Oceanic and Atmospheric Administration (NOAA), National Ocean Service (NOS), Office of Coast Survey (OCS)", "roles": ["pointOfContact"]}]"
 	},
 	{
 		"key": "spatial-data-service-type",
@@ -239,7 +239,7 @@
 	},
 	{
 		"package_id": "fcc5a397-d65c-40f4-9bb5-a5bb8634dc8c",
-		"value": "u.s. waters, inundation modeling, primary planning, iwg-ocm, geodetic\/global positioning, integrated working group on ocean and coastal mapping, u.s. territories, marine boundaries, socioeconomics, engineering and repair decisions, coastal zone management, beach renourishment, habitat change assessments, mapping and planning requirements, marine debris, planned data acquisition, shoreline, remotely sensed imagery\/photos, ocean and coastal mapping, environmental monitoring, hurricanes, u.s. exclusive economic zone, nautical charting, storm and coast resilience, bathymetry\/topography, nautical chart updates, tides and currents, sandy relief",
+		"value": "u.s. waters, inundation modeling, primary planning, iwg-ocm, geodetic/global positioning, integrated working group on ocean and coastal mapping, u.s. territories, marine boundaries, socioeconomics, engineering and repair decisions, coastal zone management, beach renourishment, habitat change assessments, mapping and planning requirements, marine debris, planned data acquisition, shoreline, remotely sensed imagery/photos, ocean and coastal mapping, environmental monitoring, hurricanes, u.s. exclusive economic zone, nautical charting, storm and coast resilience, bathymetry/topography, nautical chart updates, tides and currents, sandy relief",
 		"revision_timestamp": "2015-10-06T20:23:11.719346",
 		"state": "active",
 		"key": "tags",
@@ -269,7 +269,7 @@
 		"revision_timestamp": "2013-03-25T23:05:12.923863",
 		"is_organization": true,
 		"state": "active",
-		"image_url": "https:\/\/fortress.wa.gov\/dfw\/score\/score\/images\/noaa_logo.png",
+		"image_url": "https://fortress.wa.gov/dfw/score/score/images/noaa_logo.png",
 		"revision_id": "c6d43080-22e1-405e-a83d-f2a512d9e867",
 		"type": "organization",
 		"id": "e811f0b4-451f-4896-9e8f-fc6802837819",

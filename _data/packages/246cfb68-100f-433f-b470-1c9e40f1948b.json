@@ -37,7 +37,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2015-11-10T01:39:25.742198",
-		"url": "http:\/\/www.soest.hawaii.edu\/pibhmc\/pibhmc_cnmi_gua_bathy.htm",
+		"url": "http://www.soest.hawaii.edu/pibhmc/pibhmc_cnmi_gua_bathy.htm",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 0,
@@ -67,7 +67,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2015-11-10T01:39:25.742221",
-		"url": "http:\/\/www.soest.hawaii.edu\/pibhmc",
+		"url": "http://www.soest.hawaii.edu/pibhmc",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 1,
@@ -97,7 +97,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2015-11-10T01:39:25.742239",
-		"url": "http:\/\/www.soest.hawaii.edu\/pibhmc\/pibhmc_cnmi_gua_bathy.htm",
+		"url": "http://www.soest.hawaii.edu/pibhmc/pibhmc_cnmi_gua_bathy.htm",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 2,
@@ -117,11 +117,11 @@
 	"name": "coverage-map-of-gridded-multibeam-and-lidar-bathymetry-of-the-us-territory-of-guam",
 	"isopen": false,
 	"url": null,
-	"notes": "Gridded multibeam bathymetry is integrated with gridded lidar bathymetry. Gridded (5 m cell size) multibeam bathymetry were collected aboard NOAA Ship Hiialaka'i and R\/V AHI and by the Naval Oceanographic Office and NOAA Office of Coast Survey in Apra Harbor. Lidar bathymetry were collected by the Naval Oceanographic Office and by the Joint Airborne Lidar Bathymetry Technical Center of Expertise. This map shows the coverage of each of these sources of bathymetry data, for the shelf environment of the US Territory of Guam Island.",
+	"notes": "Gridded multibeam bathymetry is integrated with gridded lidar bathymetry. Gridded (5 m cell size) multibeam bathymetry were collected aboard NOAA Ship Hiialaka'i and R/V AHI and by the Naval Oceanographic Office and NOAA Office of Coast Survey in Apra Harbor. Lidar bathymetry were collected by the Naval Oceanographic Office and by the Joint Airborne Lidar Bathymetry Technical Center of Expertise. This map shows the coverage of each of these sources of bathymetry data, for the shelf environment of the US Territory of Guam Island.",
 	"license_title": null,
 	"extras": [{
 		"key": "bbox-east-long",
-		"value": "\n          145.009\n        "
+		"value": "n          145.009n        "
 	},
 	{
 		"key": "resource-type",
@@ -129,7 +129,7 @@
 	},
 	{
 		"key": "bbox-north-lat",
-		"value": "\n          13.727\n        "
+		"value": "n          13.727n        "
 	},
 	{
 		"key": "coupled-resource",
@@ -145,7 +145,7 @@
 	},
 	{
 		"key": "graphic-preview-file",
-		"value": "http:\/\/www.soest.hawaii.edu\/pibhmc\/CNMI_images\/Guam_5m_Bathymetry_all_445.jpg"
+		"value": "http://www.soest.hawaii.edu/pibhmc/CNMI_images/Guam_5m_Bathymetry_all_445.jpg"
 	},
 	{
 		"key": "metadata-language",
@@ -161,7 +161,7 @@
 	},
 	{
 		"key": "spatial",
-		"value": "{\"type\": \"Polygon\", \"coordinates\": [[[144.608, 13.22], [145.009, 13.22], [145.009, 13.727], [144.608, 13.727], [144.608, 13.22]]]}"
+		"value": "{"type": "Polygon", "coordinates": [[[144.608, 13.22], [145.009, 13.22], [145.009, 13.727], [144.608, 13.727], [144.608, 13.22]]]}"
 	},
 	{
 		"key": "progress",
@@ -169,7 +169,7 @@
 	},
 	{
 		"key": "access_constraints",
-		"value": "[\"Use Constraints: These data are not to be used for navigation purposes. Please acknowledge NOAA Pacific Islands Fisheries Science Center (PIFSC) Coral Reef Ecosystem Division (CRED), the Joint Institute for Marine and Atmospheric Research (JIMAR) University of Hawaii, the NOAA Office of Coast Survey (NOAA OCS), the Naval Oceanographic Office (NAVO), and the Joint Airborne Lidar Bathymetry Technical Center of Expertise (JALBTCX).\", \"Access Constraints: None\"]"
+		"value": "["Use Constraints: These data are not to be used for navigation purposes. Please acknowledge NOAA Pacific Islands Fisheries Science Center (PIFSC) Coral Reef Ecosystem Division (CRED), the Joint Institute for Marine and Atmospheric Research (JIMAR) University of Hawaii, the NOAA Office of Coast Survey (NOAA OCS), the Naval Oceanographic Office (NAVO), and the Joint Airborne Lidar Bathymetry Technical Center of Expertise (JALBTCX).", "Access Constraints: None"]"
 	},
 	{
 		"key": "temporal-extent-begin",
@@ -181,7 +181,7 @@
 	},
 	{
 		"key": "bbox-west-long",
-		"value": "\n          144.608\n        "
+		"value": "n          144.608n        "
 	},
 	{
 		"key": "metadata-date",
@@ -189,7 +189,7 @@
 	},
 	{
 		"key": "dataset-reference-date",
-		"value": "[{\"type\": \"publication\", \"value\": \"2011-03-04\"}]"
+		"value": "[{"type": "publication", "value": "2011-03-04"}]"
 	},
 	{
 		"key": "graphic-preview-description",
@@ -201,7 +201,7 @@
 	},
 	{
 		"key": "licence",
-		"value": "[\"\\n      These data are not to be used for navigational purposes.\\nNOAA makes no warranty regarding these data, expressed or implied,\\nnor does the fact of distribution constitute such a warranty.\\nNOAA cannot assume liability for any damages caused by any errors\\nor omissions in these data, nor as a result of the failure of\\nthese data to function on a particular system.\\n    \"]"
+		"value": "["\n      These data are not to be used for navigational purposes.\nNOAA makes no warranty regarding these data, expressed or implied,\nnor does the fact of distribution constitute such a warranty.\nNOAA cannot assume liability for any damages caused by any errors\nor omissions in these data, nor as a result of the failure of\nthese data to function on a particular system.\n    "]"
 	},
 	{
 		"key": "metadata_type",
@@ -209,7 +209,7 @@
 	},
 	{
 		"key": "responsible-party",
-		"value": "[{\"name\": \"Pacific Islands Benthic Habitat Mapping Center (PIBHMC), Coral Reef Ecosystem Division (CRED), Pacific Islands Fisheries Science Center (PIFSC), National Marine Fisheries Service (NMFS), National Oceanic and Atmospheric Administration (NOAA)\", \"roles\": [\"pointOfContact\"]}]"
+		"value": "[{"name": "Pacific Islands Benthic Habitat Mapping Center (PIBHMC), Coral Reef Ecosystem Division (CRED), Pacific Islands Fisheries Science Center (PIFSC), National Marine Fisheries Service (NMFS), National Oceanic and Atmospheric Administration (NOAA)", "roles": ["pointOfContact"]}]"
 	},
 	{
 		"key": "temporal-extent-end",
@@ -221,11 +221,11 @@
 	},
 	{
 		"key": "bbox-south-lat",
-		"value": "\n          13.220\n        "
+		"value": "n          13.220n        "
 	},
 	{
 		"package_id": "246cfb68-100f-433f-b470-1c9e40f1948b",
-		"value": "pacific ocean, western pacific ocean, geographic information, united states of america, guam, oceans, country\/territory, water depth, ocean basin, bathymetry, bathymetry\/seafloor topography, guam (13n144e0000), earth science",
+		"value": "pacific ocean, western pacific ocean, geographic information, united states of america, guam, oceans, country/territory, water depth, ocean basin, bathymetry, bathymetry/seafloor topography, guam (13n144e0000), earth science",
 		"revision_timestamp": "2015-09-27T02:55:55.908428",
 		"state": "active",
 		"key": "tags",
@@ -255,7 +255,7 @@
 		"revision_timestamp": "2013-03-25T23:05:12.923863",
 		"is_organization": true,
 		"state": "active",
-		"image_url": "https:\/\/fortress.wa.gov\/dfw\/score\/score\/images\/noaa_logo.png",
+		"image_url": "https://fortress.wa.gov/dfw/score/score/images/noaa_logo.png",
 		"revision_id": "c6d43080-22e1-405e-a83d-f2a512d9e867",
 		"type": "organization",
 		"id": "e811f0b4-451f-4896-9e8f-fc6802837819",

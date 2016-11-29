@@ -36,7 +36,7 @@
 		"cache_url": null,
 		"name": "NDGIS web site",
 		"created": "2013-12-07T04:09:10.563133",
-		"url": "http:\/\/www.nd.gov\/gis",
+		"url": "http://www.nd.gov/gis",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 0,
@@ -65,7 +65,7 @@
 		"cache_url": null,
 		"name": "Download US Fish and Wildlife Service 2002 Landcover",
 		"created": "2013-12-07T04:09:10.563168",
-		"url": "http:\/\/gisdata.nd.gov\/LandClass\/USFWS\/",
+		"url": "http://gisdata.nd.gov/LandClass/USFWS/",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 1,
@@ -94,7 +94,7 @@
 		"cache_url": null,
 		"name": "NDHUB.LANDCLASS_USFWS_2002",
 		"created": "2013-12-07T04:09:10.563182",
-		"url": "http:\/\/ndgishub.nd.gov\/arcgis\/services\/All_LanduseLandcover\/MapServer\/WMSServer?",
+		"url": "http://ndgishub.nd.gov/arcgis/services/All_LanduseLandcover/MapServer/WMSServer?",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 2,
@@ -123,7 +123,7 @@
 		"cache_url": null,
 		"name": "Esri REST including WMS and WCS",
 		"created": "2013-12-07T04:09:10.563194",
-		"url": "http:\/\/ndgishub.nd.gov\/ArcGIS\/rest\/services\/All_LanduseLandcover\/MapServer",
+		"url": "http://ndgishub.nd.gov/ArcGIS/rest/services/All_LanduseLandcover/MapServer",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 3,
@@ -200,7 +200,7 @@
 	},
 	{
 		"key": "spatial",
-		"value": "{\"type\": \"Polygon\", \"coordinates\": [[[-104.350858, 45.822645], [-96.406251, 45.822645], [-96.406251, 49.114401], [-104.350858, 49.114401], [-104.350858, 45.822645]]]}"
+		"value": "{"type": "Polygon", "coordinates": [[[-104.350858, 45.822645], [-96.406251, 45.822645], [-96.406251, 49.114401], [-104.350858, 49.114401], [-104.350858, 45.822645]]]}"
 	},
 	{
 		"key": "progress",
@@ -208,7 +208,7 @@
 	},
 	{
 		"key": "access_constraints",
-		"value": "[\"Use at your own risk\", \"USFWS Although these data have been processed successfully on a computer system at the U.S. Fish and Wildlife Service, no warranty expressed or implied is made regarding the accuracy or utility of the data on any other system or for general or scientific purposes, nor shall the act of distribution constitute any such warranty. This disclaimer applies both to individual use of the data and aggregate use with other data. It is strongly recomended that these data are directly acquired from the US Fish and Wildlife Service, and not indirectly through other sources which may have changed the data in some way. It is also strongly recommended that careful attention be paid to the contents of the metadata file associated with these data. The U.S. Fish and Wildlife Service shall not be held liable for improper use of the data described and or contained herein.\"]"
+		"value": "["Use at your own risk", "USFWS Although these data have been processed successfully on a computer system at the U.S. Fish and Wildlife Service, no warranty expressed or implied is made regarding the accuracy or utility of the data on any other system or for general or scientific purposes, nor shall the act of distribution constitute any such warranty. This disclaimer applies both to individual use of the data and aggregate use with other data. It is strongly recomended that these data are directly acquired from the US Fish and Wildlife Service, and not indirectly through other sources which may have changed the data in some way. It is also strongly recommended that careful attention be paid to the contents of the metadata file associated with these data. The U.S. Fish and Wildlife Service shall not be held liable for improper use of the data described and or contained herein."]"
 	},
 	{
 		"key": "contact-email",
@@ -224,7 +224,7 @@
 	},
 	{
 		"key": "dataset-reference-date",
-		"value": "[{\"type\": \"publication\", \"value\": \"2001-01-17\"}]"
+		"value": "[{"type": "publication", "value": "2001-01-17"}]"
 	},
 	{
 		"key": "graphic-preview-description",
@@ -244,7 +244,7 @@
 	},
 	{
 		"key": "responsible-party",
-		"value": "[{\"name\": \"Habitat and Population Evaluation Team, US Fish and Wildlife Service\", \"roles\": [\"pointOfContact\"]}]"
+		"value": "[{"name": "Habitat and Population Evaluation Team, US Fish and Wildlife Service", "roles": ["pointOfContact"]}]"
 	},
 	{
 		"key": "spatial-data-service-type",
@@ -279,14 +279,14 @@
 		"value": "North Dakota GIS Hub Data Portal"
 	}],
 	"organization": {
-		"description": "The GIS Hub is the state source for GIS - data, services, and information.  More information can be found at www.nd.gov\/gis.",
+		"description": "The GIS Hub is the state source for GIS - data, services, and information.  More information can be found at www.nd.gov/gis.",
 		"created": "2013-03-14T03:44:44.340717",
 		"title": "State of North Dakota",
 		"name": "nd-gov",
 		"revision_timestamp": "2013-07-15T16:27:30.098476",
 		"is_organization": true,
 		"state": "active",
-		"image_url": "http:\/\/www.nd.gov\/gis\/images\/ndgis-logo.gif",
+		"image_url": "http://www.nd.gov/gis/images/ndgis-logo.gif",
 		"revision_id": "27517bb9-815c-4d4f-b45b-b88b6316697b",
 		"type": "organization",
 		"id": "1c782de6-9f1f-4427-93fd-33732e29970f",

@@ -37,7 +37,7 @@
 		"cache_url": null,
 		"name": "Zip File",
 		"created": "2016-03-04T15:44:17.383736",
-		"url": "ftp:\/\/ftp.dfg.ca.gov\/BDB\/GIS\/BIOS\/Public_Datasets\/200_299\/ds295.zip",
+		"url": "ftp://ftp.dfg.ca.gov/BDB/GIS/BIOS/Public_Datasets/200_299/ds295.zip",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 0,
@@ -67,7 +67,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2016-03-04T15:44:17.383774",
-		"url": "http:\/\/bios.dfg.ca.gov",
+		"url": "http://bios.dfg.ca.gov",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 1,
@@ -89,7 +89,7 @@
 		"revision_timestamp": "2013-05-31T17:51:13.706377",
 		"is_organization": true,
 		"state": "active",
-		"image_url": "http:\/\/www.ca.gov\/images\/template2012\/header_ca.gov.png",
+		"image_url": "http://www.ca.gov/images/template2012/header_ca.gov.png",
 		"revision_id": "ad94cda4-9394-44d0-9c37-573dc3c47c9a",
 		"type": "organization",
 		"id": "467d900f-8a42-452d-9906-6610dd1a767f",
@@ -100,7 +100,7 @@
 	"name": "perennial-pepperweed-patches-san-francisco-estuary-ds295b83aa",
 	"isopen": false,
 	"url": null,
-	"notes": "This layer contains polygon data for the perennial pepperweed (Lepidium latifolium) database. This database represents distribution data collected within the areas surveyed throughout the San Francisco Bay, San Pablo Bay and Suisun Bay in California between July, 2004 and June, 2007. Perennial pepperweed is a non-native invasive plant that is currently invading wetland, riparian and cultivated areas throughout California. Within the areas surveyed, all patches larger than 1 sq m of pepperweed were recorded using a Trimble geoexplorer III. This shapefile does not represent a complete distribution of Lepidium latifolium within the San Francisco Estuary. It does represent a complete distribution, as of the date surveyed, for the targeted areas as outlined in a separate shapefile, \"Perennial Pepperweed Survey Areas - San Francisco Estuary [ds412]\".",
+	"notes": "This layer contains polygon data for the perennial pepperweed (Lepidium latifolium) database. This database represents distribution data collected within the areas surveyed throughout the San Francisco Bay, San Pablo Bay and Suisun Bay in California between July, 2004 and June, 2007. Perennial pepperweed is a non-native invasive plant that is currently invading wetland, riparian and cultivated areas throughout California. Within the areas surveyed, all patches larger than 1 sq m of pepperweed were recorded using a Trimble geoexplorer III. This shapefile does not represent a complete distribution of Lepidium latifolium within the San Francisco Estuary. It does represent a complete distribution, as of the date surveyed, for the targeted areas as outlined in a separate shapefile, "Perennial Pepperweed Survey Areas - San Francisco Estuary [ds412]".",
 	"owner_org": "467d900f-8a42-452d-9906-6610dd1a767f",
 	"extras": [{
 		"key": "bbox-east-long",
@@ -136,7 +136,7 @@
 	},
 	{
 		"key": "spatial",
-		"value": "{\"type\": \"Polygon\", \"coordinates\": [[[-122.544959, 37.407749], [-121.94438, 37.407749], [-121.94438, 38.130742], [-122.544959, 38.130742], [-122.544959, 37.407749]]]}"
+		"value": "{"type": "Polygon", "coordinates": [[[-122.544959, 37.407749], [-121.94438, 37.407749], [-121.94438, 38.130742], [-122.544959, 38.130742], [-122.544959, 37.407749]]]}"
 	},
 	{
 		"key": "progress",
@@ -144,7 +144,7 @@
 	},
 	{
 		"key": "access_constraints",
-		"value": "[\"Use Constraints: If the data is used in a professional document or published, then Environmental Science Associates should be cited as the authors of the data.\", \"Access Constraints: None\"]"
+		"value": "["Use Constraints: If the data is used in a professional document or published, then Environmental Science Associates should be cited as the authors of the data.", "Access Constraints: None"]"
 	},
 	{
 		"key": "temporal-extent-begin",
@@ -164,7 +164,7 @@
 	},
 	{
 		"key": "dataset-reference-date",
-		"value": "[{\"type\": \"publication\", \"value\": \"2007-07-01\"}]"
+		"value": "[{"type": "publication", "value": "2007-07-01"}]"
 	},
 	{
 		"key": "frequency-of-update",
@@ -172,7 +172,7 @@
 	},
 	{
 		"key": "licence",
-		"value": "[\" \"]"
+		"value": "[" "]"
 	},
 	{
 		"key": "metadata_type",
@@ -180,7 +180,7 @@
 	},
 	{
 		"key": "responsible-party",
-		"value": "[{\"name\": \"ESA\", \"roles\": [\"pointOfContact\"]}]"
+		"value": "[{"name": "ESA", "roles": ["pointOfContact"]}]"
 	},
 	{
 		"key": "temporal-extent-end",

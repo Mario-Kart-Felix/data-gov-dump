@@ -36,7 +36,7 @@
 		"cache_url": null,
 		"name": "Zipped 2007 Excel spreadsheet containing Georgia Thermal Conductivity data",
 		"created": "2013-03-15T23:28:53.687700",
-		"url": "http:\/\/repository.stategeothermaldata.org\/metadata\/record\/98ddf901b9782a25982e01af3b111461\/file\/gathermalconductivity2.0.1_2.zip",
+		"url": "http://repository.stategeothermaldata.org/metadata/record/98ddf901b9782a25982e01af3b111461/file/gathermalconductivity2.0.1_2.zip",
 		"webstore_url": null,
 		"resource_locator_function": "375",
 		"position": 0,
@@ -65,7 +65,7 @@
 		"cache_url": null,
 		"name": "Service Description",
 		"created": "2013-03-15T23:28:53.687718",
-		"url": "http:\/\/kgs.uky.edu\/arcgis\/rest\/services\/aasggeothermal\/VAThermalConductivity\/MapServer",
+		"url": "http://kgs.uky.edu/arcgis/rest/services/aasggeothermal/VAThermalConductivity/MapServer",
 		"webstore_url": null,
 		"resource_locator_function": "381",
 		"position": 1,
@@ -94,7 +94,7 @@
 		"cache_url": null,
 		"name": "Downloadable File",
 		"created": "2013-03-15T23:28:53.687725",
-		"url": "http:\/\/kgs.uky.edu\/arcgis\/services\/aasggeothermal\/VAThermalConductivity\/MapServer\/WMSServer?request=GetCapabilities&service=WMS",
+		"url": "http://kgs.uky.edu/arcgis/services/aasggeothermal/VAThermalConductivity/MapServer/WMSServer?request=GetCapabilities&service=WMS",
 		"webstore_url": null,
 		"resource_locator_function": "375",
 		"position": 2,
@@ -123,7 +123,7 @@
 		"cache_url": null,
 		"name": "Service Description",
 		"created": "2013-03-15T23:28:53.687731",
-		"url": "http:\/\/kgs.uky.edu\/arcgis\/services\/aasggeothermal\/VAThermalConductivity\/MapServer\/WFSServer?request=GetCapabilities&service=WFS",
+		"url": "http://kgs.uky.edu/arcgis/services/aasggeothermal/VAThermalConductivity/MapServer/WFSServer?request=GetCapabilities&service=WFS",
 		"webstore_url": null,
 		"resource_locator_function": "381",
 		"position": 3,
@@ -156,11 +156,11 @@
 	"name": "georgia-thermal-conductivity",
 	"isopen": false,
 	"url": null,
-	"notes": "This dataset contains thermal conductivity observations compiled by the Virginia Department of Mines, Minerals and Energy, Division of Geology and Mineral Resources, and published as a Web feature service for the National Geothermal Data System. Fields in the Thermal Conductivity Observation Content Model will become XML elements in interchange documents for WMS simple features provided by a node in the USGIN network.  Each feature includes an observation name, sample type as well as Latitude and Longitude spatially referenced to EPSG: 4326 (for interoperability).  The data contained in the submitted dataset is available as an Excel Spreadsheet, ESRI service, WMS and WFS service.Link to Thermal Conductivity Observation Content Model:  http:\/\/www.stategeothermaldata.org\/data_delivery\/content_models\/thermal_conductivity.",
+	"notes": "This dataset contains thermal conductivity observations compiled by the Virginia Department of Mines, Minerals and Energy, Division of Geology and Mineral Resources, and published as a Web feature service for the National Geothermal Data System. Fields in the Thermal Conductivity Observation Content Model will become XML elements in interchange documents for WMS simple features provided by a node in the USGIN network.  Each feature includes an observation name, sample type as well as Latitude and Longitude spatially referenced to EPSG: 4326 (for interoperability).  The data contained in the submitted dataset is available as an Excel Spreadsheet, ESRI service, WMS and WFS service.Link to Thermal Conductivity Observation Content Model:  http://www.stategeothermaldata.org/data_delivery/content_models/thermal_conductivity.",
 	"license_title": null,
 	"extras": [{
 		"key": "responsible-party",
-		"value": "[{\"name\": \"No Organization Name Was Given\", \"roles\": [\"pointOfContact\"]}]"
+		"value": "[{"name": "No Organization Name Was Given", "roles": ["pointOfContact"]}]"
 	},
 	{
 		"key": "contact-email",
@@ -180,7 +180,7 @@
 	},
 	{
 		"key": "dataset-reference-date",
-		"value": "[{\"type\": \"publication\", \"value\": \"2012-07-13T12:00:00\"}]"
+		"value": "[{"type": "publication", "value": "2012-07-13T12:00:00"}]"
 	},
 	{
 		"key": "resource-type",
@@ -216,7 +216,7 @@
 	},
 	{
 		"key": "spatial",
-		"value": "{\"type\": \"Polygon\", \"coordinates\": [[[-85.886484375, 30.0830949374], [-85.886484375, 35.4022389183], [-80.788828125, 35.4022389183], [-80.788828125, 30.0830949374], [-85.886484375, 30.0830949374]]]}"
+		"value": "{"type": "Polygon", "coordinates": [[[-85.886484375, 30.0830949374], [-85.886484375, 35.4022389183], [-80.788828125, 35.4022389183], [-80.788828125, 30.0830949374], [-85.886484375, 30.0830949374]]]}"
 	},
 	{
 		"key": "guid",
@@ -266,7 +266,7 @@
 		"revision_timestamp": "2013-03-20T21:11:17.592932",
 		"is_organization": true,
 		"state": "active",
-		"image_url": "http:\/\/www.50states.com\/flag\/image\/nunst004.gif",
+		"image_url": "http://www.50states.com/flag/image/nunst004.gif",
 		"revision_id": "61be6428-4398-4199-a336-f3cd1e956f9b",
 		"type": "organization",
 		"id": "f3f6e1d4-64fb-4a2f-b32c-9ac0b76fe4de",

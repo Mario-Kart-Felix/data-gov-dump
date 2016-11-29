@@ -37,7 +37,7 @@
 		"cache_url": null,
 		"name": "Zip File",
 		"created": "2016-03-04T15:46:27.356765",
-		"url": "ftp:\/\/ftp.dfg.ca.gov\/BDB\/GIS\/BIOS\/Public_Datasets\/400_499\/ds442.zip",
+		"url": "ftp://ftp.dfg.ca.gov/BDB/GIS/BIOS/Public_Datasets/400_499/ds442.zip",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 0,
@@ -67,7 +67,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2016-03-04T15:46:27.356793",
-		"url": "http:\/\/bios.dfg.ca.gov",
+		"url": "http://bios.dfg.ca.gov",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 1,
@@ -89,7 +89,7 @@
 		"revision_timestamp": "2013-05-31T17:51:13.706377",
 		"is_organization": true,
 		"state": "active",
-		"image_url": "http:\/\/www.ca.gov\/images\/template2012\/header_ca.gov.png",
+		"image_url": "http://www.ca.gov/images/template2012/header_ca.gov.png",
 		"revision_id": "ad94cda4-9394-44d0-9c37-573dc3c47c9a",
 		"type": "organization",
 		"id": "467d900f-8a42-452d-9906-6610dd1a767f",
@@ -100,7 +100,7 @@
 	"name": "mammal-track-counts-san-diego-county-ds442ff76e",
 	"isopen": false,
 	"url": null,
-	"notes": "The San Diego Tracking Team (SDTT) is a non-profit organization dedicated to promoting the preservation of wildlife habitat in San Diego County through citizen-based wildlife monitoring coupled with environmental education programs. For over 10 years, the SDTT has conducted wildlife track and sign surveys to evaluate the health of key species, the connectivity of open space areas, and the efficacy of the city and county's Multiple Species\/Habitat Conservation Plans. Scientific advisors from public resource agencies and academic institutions oversee the tracking protocol, and SDTT data is used in planning transportation and urban development projects, as well as in studies on land use in fragmented habitats (Markovchick-Nicholls et al. 2008). Surveys are conducted by trained volunteers from all over San Diego County who together commit over 1500 hours per year to monitoring approximately 50 locations around the county. Transects of approximately one mile in length and 30 feet in width are designated on dirt trails and roads throughout open space lands in San Diego County. Each transect is divided up into multiple segments of variable length ranging from 6-1708 meters (20-5600 ft). Transect teams, which consist of an experienced Transect Leader and from 1 to 6 trained volunteers, survey transects on a seasonal basis each year. This dataset represents a summary of SDTT data collected from 1996-2006. Any track or sign identified from the following animals was recorded during surveys: coyote, mule deer, bobcat, gray fox, raccoon, opossum, wood rat, badger, black-tailed jack rabbit, cougar, black bear, spotted skunk, long-tailed weasel, ringtail and roadrunner. If a track or sign was observed, the location (transect number and transect section) and type of sign (scat, tracks, deer browse, evidence of predation, den\/bed site, sighting) were recorded on data sheets. In addition, age of the sign (Fresh, less than two weeks old or Historic, more than two weeks old) was recorded. Additional data on presence of small mammals (cottontails, skunks, squirrels, or rodents) and habitat characteristics (i.e. topography, vegetation type) were recorded as well as tracking conditions.",
+	"notes": "The San Diego Tracking Team (SDTT) is a non-profit organization dedicated to promoting the preservation of wildlife habitat in San Diego County through citizen-based wildlife monitoring coupled with environmental education programs. For over 10 years, the SDTT has conducted wildlife track and sign surveys to evaluate the health of key species, the connectivity of open space areas, and the efficacy of the city and county's Multiple Species/Habitat Conservation Plans. Scientific advisors from public resource agencies and academic institutions oversee the tracking protocol, and SDTT data is used in planning transportation and urban development projects, as well as in studies on land use in fragmented habitats (Markovchick-Nicholls et al. 2008). Surveys are conducted by trained volunteers from all over San Diego County who together commit over 1500 hours per year to monitoring approximately 50 locations around the county. Transects of approximately one mile in length and 30 feet in width are designated on dirt trails and roads throughout open space lands in San Diego County. Each transect is divided up into multiple segments of variable length ranging from 6-1708 meters (20-5600 ft). Transect teams, which consist of an experienced Transect Leader and from 1 to 6 trained volunteers, survey transects on a seasonal basis each year. This dataset represents a summary of SDTT data collected from 1996-2006. Any track or sign identified from the following animals was recorded during surveys: coyote, mule deer, bobcat, gray fox, raccoon, opossum, wood rat, badger, black-tailed jack rabbit, cougar, black bear, spotted skunk, long-tailed weasel, ringtail and roadrunner. If a track or sign was observed, the location (transect number and transect section) and type of sign (scat, tracks, deer browse, evidence of predation, den/bed site, sighting) were recorded on data sheets. In addition, age of the sign (Fresh, less than two weeks old or Historic, more than two weeks old) was recorded. Additional data on presence of small mammals (cottontails, skunks, squirrels, or rodents) and habitat characteristics (i.e. topography, vegetation type) were recorded as well as tracking conditions.",
 	"owner_org": "467d900f-8a42-452d-9906-6610dd1a767f",
 	"extras": [{
 		"key": "bbox-east-long",
@@ -136,7 +136,7 @@
 	},
 	{
 		"key": "spatial",
-		"value": "{\"type\": \"Polygon\", \"coordinates\": [[[-117.297079, 32.544272], [-116.476075, 32.544272], [-116.476075, 33.188443], [-117.297079, 33.188443], [-117.297079, 32.544272]]]}"
+		"value": "{"type": "Polygon", "coordinates": [[[-117.297079, 32.544272], [-116.476075, 32.544272], [-116.476075, 33.188443], [-117.297079, 33.188443], [-117.297079, 32.544272]]]}"
 	},
 	{
 		"key": "progress",
@@ -144,7 +144,7 @@
 	},
 	{
 		"key": "access_constraints",
-		"value": "[\"Use Constraints: site appropriately\", \"Access Constraints: None\"]"
+		"value": "["Use Constraints: site appropriately", "Access Constraints: None"]"
 	},
 	{
 		"key": "temporal-extent-begin",
@@ -164,7 +164,7 @@
 	},
 	{
 		"key": "dataset-reference-date",
-		"value": "[{\"type\": \"publication\", \"value\": \"2008-01-01\"}]"
+		"value": "[{"type": "publication", "value": "2008-01-01"}]"
 	},
 	{
 		"key": "frequency-of-update",
@@ -172,7 +172,7 @@
 	},
 	{
 		"key": "licence",
-		"value": "[\"See access and use constraints information.\"]"
+		"value": "["See access and use constraints information."]"
 	},
 	{
 		"key": "metadata_type",
@@ -180,7 +180,7 @@
 	},
 	{
 		"key": "responsible-party",
-		"value": "[{\"name\": \"San Diego Tracking Team\", \"roles\": [\"pointOfContact\"]}]"
+		"value": "[{"name": "San Diego Tracking Team", "roles": ["pointOfContact"]}]"
 	},
 	{
 		"key": "temporal-extent-end",

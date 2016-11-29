@@ -36,7 +36,7 @@
 		"cache_url": null,
 		"name": "Vector Digital Data Set (Polygon)",
 		"created": "2016-05-11T17:16:25.591058",
-		"url": "http:\/\/umesc.usgs.gov\/data_library\/aqa_feat_bath_str\/aquatic_areas.html",
+		"url": "http://umesc.usgs.gov/data_library/aqa_feat_bath_str/aquatic_areas.html",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 0,
@@ -66,7 +66,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2016-05-11T17:16:25.591081",
-		"url": "http:\/\/umesc.usgs.gov\/data_library\/aqa_feat_bath_str\/aquatic_areas.html",
+		"url": "http://umesc.usgs.gov/data_library/aqa_feat_bath_str/aquatic_areas.html",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 1,
@@ -86,7 +86,7 @@
 	"name": "1989-91-aquatic-habitats-upper-mississippi-river-system-pool-02",
 	"isopen": false,
 	"url": null,
-	"notes": "The U.S. Geological Survey's Upper Midwest Environmental Sciences Center (UMESC) has created high-resolution land cover\/use data sets for the Upper Mississippi River System (UMRS) from 1:15,000-scale color infrared aerial photos. These data have been used to create a variety of products, one of which is a data set used to classify aquatic areas. The 1989 and 1991 aquatic areas data sets were created by first generalizing the available land cover\/use data into a land\/water data set, then reinterpreting the aerial photography within the areas classified as water to determine the type of aquatic area. Area coverage for this data set is the Upper Mississippi River between Minneapolis, MN and Cairo, IL, and the Illinois River from its confluence with the Mississippi to Joliet, IL. Most of the individual data files were created from 1989 land cover\/use data, except for the La Grange navigation pool on the Illinois River. Due to high water conditions present in 1989, 1991 aerial photography and land cover\/use data were used to create the La Grange data set.",
+	"notes": "The U.S. Geological Survey's Upper Midwest Environmental Sciences Center (UMESC) has created high-resolution land cover/use data sets for the Upper Mississippi River System (UMRS) from 1:15,000-scale color infrared aerial photos. These data have been used to create a variety of products, one of which is a data set used to classify aquatic areas. The 1989 and 1991 aquatic areas data sets were created by first generalizing the available land cover/use data into a land/water data set, then reinterpreting the aerial photography within the areas classified as water to determine the type of aquatic area. Area coverage for this data set is the Upper Mississippi River between Minneapolis, MN and Cairo, IL, and the Illinois River from its confluence with the Mississippi to Joliet, IL. Most of the individual data files were created from 1989 land cover/use data, except for the La Grange navigation pool on the Illinois River. Due to high water conditions present in 1989, 1991 aerial photography and land cover/use data were used to create the La Grange data set.",
 	"license_title": null,
 	"extras": [{
 		"key": "bbox-east-long",
@@ -122,7 +122,7 @@
 	},
 	{
 		"key": "spatial",
-		"value": "{\"type\": \"Polygon\", \"coordinates\": [[[-93.213161, 44.749627], [-92.864194, 44.749627], [-92.864194, 44.94999], [-93.213161, 44.94999], [-93.213161, 44.749627]]]}"
+		"value": "{"type": "Polygon", "coordinates": [[[-93.213161, 44.749627], [-92.864194, 44.749627], [-92.864194, 44.94999], [-93.213161, 44.94999], [-93.213161, 44.749627]]]}"
 	},
 	{
 		"key": "progress",
@@ -130,7 +130,7 @@
 	},
 	{
 		"key": "access_constraints",
-		"value": "[\"Use Constraints: Although these data have been processed successfully on a computer system at the U.S. Geological Survey, no warranty has been expressed or implied regarding the individual use of the data or aggregate use with other data, nor shall the act of distribution constitute any such warranty. It is strongly recommended that these data are directly acquired from a U.S. Geological Survey server and not indirectly through other sources which may have changed the data in some way. It is also strongly recommended that careful attention be paid to the contents of the metadata file associated with these data. The U.S. Geological Survey shall not be held liable for improper or incorrect use of the data described and\/or contained herein.\", \"Access Constraints: Although these data have been processed successfully on a computer system at the U.S. Geological Survey, no warranty has been expressed or implied regarding the individual use of the data or aggregate use with other data, nor shall the act of distribution constitute any such warranty. It is strongly recommended that these data are directly acquired from a U.S. Geological Survey server and not indirectly through other sources which may have changed the data in some way. It is also strongly recommended that careful attention be paid to the contents of the metadata file associated with these data. The U.S. Geological Survey shall not be held liable for improper or incorrect use of the data described and\/or contained herein.\"]"
+		"value": "["Use Constraints: Although these data have been processed successfully on a computer system at the U.S. Geological Survey, no warranty has been expressed or implied regarding the individual use of the data or aggregate use with other data, nor shall the act of distribution constitute any such warranty. It is strongly recommended that these data are directly acquired from a U.S. Geological Survey server and not indirectly through other sources which may have changed the data in some way. It is also strongly recommended that careful attention be paid to the contents of the metadata file associated with these data. The U.S. Geological Survey shall not be held liable for improper or incorrect use of the data described and/or contained herein.", "Access Constraints: Although these data have been processed successfully on a computer system at the U.S. Geological Survey, no warranty has been expressed or implied regarding the individual use of the data or aggregate use with other data, nor shall the act of distribution constitute any such warranty. It is strongly recommended that these data are directly acquired from a U.S. Geological Survey server and not indirectly through other sources which may have changed the data in some way. It is also strongly recommended that careful attention be paid to the contents of the metadata file associated with these data. The U.S. Geological Survey shall not be held liable for improper or incorrect use of the data described and/or contained herein."]"
 	},
 	{
 		"key": "temporal-extent-begin",
@@ -150,7 +150,7 @@
 	},
 	{
 		"key": "dataset-reference-date",
-		"value": "[{\"type\": \"publication\", \"value\": \"1995-12-12\"}]"
+		"value": "[{"type": "publication", "value": "1995-12-12"}]"
 	},
 	{
 		"key": "frequency-of-update",
@@ -158,7 +158,7 @@
 	},
 	{
 		"key": "licence",
-		"value": "[\"Distributor assumes no liability for misuse of data.\"]"
+		"value": "["Distributor assumes no liability for misuse of data."]"
 	},
 	{
 		"key": "metadata_type",
@@ -166,7 +166,7 @@
 	},
 	{
 		"key": "responsible-party",
-		"value": "[{\"name\": \"U.S. Geological Survey, Midwest Region\", \"roles\": [\"pointOfContact\"]}]"
+		"value": "[{"name": "U.S. Geological Survey, Midwest Region", "roles": ["pointOfContact"]}]"
 	},
 	{
 		"key": "temporal-extent-end",
@@ -205,14 +205,14 @@
 		"value": "Upper Midwest Environmental Sciences Center, USGS"
 	}],
 	"organization": {
-		"description": "http:\/\/www.usgs.gov\/\r\nThe USGS is a federal science agency that provides impartial information on the health of our ecosystems and environment, the natural hazards that threaten us, the natural resources we rely on, the impacts of climate and land-use change, and the core science systems that help us provide timely, relevant, and useable information.",
+		"description": "http://www.usgs.gov/rnThe USGS is a federal science agency that provides impartial information on the health of our ecosystems and environment, the natural hazards that threaten us, the natural resources we rely on, the impacts of climate and land-use change, and the core science systems that help us provide timely, relevant, and useable information.",
 		"created": "2013-03-14T03:44:38.263357",
 		"title": "U.S. Geological Survey, Department of the Interior",
 		"name": "usgs-gov",
 		"revision_timestamp": "2014-09-02T13:43:52.167023",
 		"is_organization": true,
 		"state": "active",
-		"image_url": "http:\/\/pubs.usgs.gov\/sir\/2004\/5296\/04-5296_confluence_park\/usgs_logo.gif",
+		"image_url": "http://pubs.usgs.gov/sir/2004/5296/04-5296_confluence_park/usgs_logo.gif",
 		"revision_id": "2858aa99-9501-4f96-82e5-9647b968ed66",
 		"type": "organization",
 		"id": "bd2cdd5a-4d65-46c0-9937-c8381175f104",

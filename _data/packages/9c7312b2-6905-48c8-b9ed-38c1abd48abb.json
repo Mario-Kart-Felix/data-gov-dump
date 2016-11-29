@@ -37,7 +37,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2013-03-15T11:39:01.027187",
-		"url": "http:\/\/www.nps.gov\/gis\/",
+		"url": "http://www.nps.gov/gis/",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 0,
@@ -67,7 +67,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2013-03-15T11:39:01.027210",
-		"url": "http:\/\/irmafiles.nps.gov\/Reference\/Holding\/368686\/joflbndy83.e00",
+		"url": "http://irmafiles.nps.gov/Reference/Holding/368686/joflbndy83.e00",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 1,
@@ -97,7 +97,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2013-03-15T11:39:01.027218",
-		"url": "http:\/\/www.nps.gov\/gis\/",
+		"url": "http://www.nps.gov/gis/",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 2,
@@ -127,7 +127,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2013-03-15T11:39:01.027225",
-		"url": "http:\/\/irmafiles.nps.gov\/Reference\/Holding\/368686\/joflbndy83.e00",
+		"url": "http://irmafiles.nps.gov/Reference/Holding/368686/joflbndy83.e00",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 3,
@@ -157,7 +157,7 @@
 		"cache_url": null,
 		"name": "XML File",
 		"created": "2013-03-15T11:39:01.027233",
-		"url": "http:\/\/nrdata.nps.gov\/jofl\/jofldata\/joflbndy83.xml",
+		"url": "http://nrdata.nps.gov/jofl/jofldata/joflbndy83.xml",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 4,
@@ -181,11 +181,11 @@
 	"license_title": null,
 	"extras": [{
 		"key": "responsible-party",
-		"value": "[{\"name\": \"National Park Service\", \"roles\": [\"pointOfContact\"]}]"
+		"value": "[{"name": "National Park Service", "roles": ["pointOfContact"]}]"
 	},
 	{
 		"key": "dataset-reference-date",
-		"value": "[{\"type\": \"publication\", \"value\": \"2000-09-01\"}]"
+		"value": "[{"type": "publication", "value": "2000-09-01"}]"
 	},
 	{
 		"key": "contact-email",
@@ -233,7 +233,7 @@
 	},
 	{
 		"key": "licence",
-		"value": "[\"\\nThe National Park Service shall not be held liable for improper\\nor incorrect use of the data described and\/or contained herein.\\nThese data and related graphics (\\\"GIF\\\" format files) are not\\nlegal documents and are not intended to be used as such. The\\ninformation contained in these data is dynamic and may change\\nover time. The data are not better than the original sources\\nfrom which they were derived. It is the responsibility of the\\ndata user to use the data appropriately and consistent within\\nthe limitations of geospatial data in general and these data in\\nparticular. The related graphics are intended to aid the data\\nuser in acquiring relevant data; it is not appropriate to use\\nthe related graphics as data. The National Park Service gives\\nno warranty, expressed or implied, as to the accuracy,\\nreliability, or completeness of these data. It is strongly\\nrecommended that these data are directly acquired from an NPS\\nserver and not indirectly through other sources which may have\\nchanged the data in some way. Although these data have been\\nprocessed successfully on a computer system at the National\\nPark Service, no warranty expressed or implied is made\\nregarding the utility of the data on another system or for\\ngeneral or scientific purposes, nor shall the act of\\ndistribution constitute any such warranty. This disclaimer\\napplies both to individual use of the data and aggregate use\\nwith other data.\\n\"]"
+		"value": "["\nThe National Park Service shall not be held liable for improper\nor incorrect use of the data described and/or contained herein.\nThese data and related graphics (\"GIF\" format files) are not\nlegal documents and are not intended to be used as such. The\ninformation contained in these data is dynamic and may change\nover time. The data are not better than the original sources\nfrom which they were derived. It is the responsibility of the\ndata user to use the data appropriately and consistent within\nthe limitations of geospatial data in general and these data in\nparticular. The related graphics are intended to aid the data\nuser in acquiring relevant data; it is not appropriate to use\nthe related graphics as data. The National Park Service gives\nno warranty, expressed or implied, as to the accuracy,\nreliability, or completeness of these data. It is strongly\nrecommended that these data are directly acquired from an NPS\nserver and not indirectly through other sources which may have\nchanged the data in some way. Although these data have been\nprocessed successfully on a computer system at the National\nPark Service, no warranty expressed or implied is made\nregarding the utility of the data on another system or for\ngeneral or scientific purposes, nor shall the act of\ndistribution constitute any such warranty. This disclaimer\napplies both to individual use of the data and aggregate use\nwith other data.\n"]"
 	},
 	{
 		"key": "metadata_type",
@@ -241,7 +241,7 @@
 	},
 	{
 		"key": "spatial",
-		"value": "{\"type\": \"Polygon\", \"coordinates\": [[[-78.625, 40.25], [-78.625, 40.5], [-79.0, 40.5], [-79.0, 40.25], [-78.625, 40.25]]]}"
+		"value": "{"type": "Polygon", "coordinates": [[[-78.625, 40.25], [-78.625, 40.5], [-79.0, 40.5], [-79.0, 40.25], [-78.625, 40.25]]]}"
 	},
 	{
 		"key": "guid",
@@ -253,11 +253,11 @@
 	},
 	{
 		"key": "access_constraints",
-		"value": "[\"Use Constraints: Not for use at scales greater than 1:24000\", \"Access Constraints: None\"]"
+		"value": "["Use Constraints: Not for use at scales greater than 1:24000", "Access Constraints: None"]"
 	},
 	{
 		"package_id": "9c7312b2-6905-48c8-b9ed-38c1abd48abb",
-		"value": "boundaries, political boundaries, Boundary, Land Status \/ Ownership, Boundaries",
+		"value": "boundaries, political boundaries, Boundary, Land Status / Ownership, Boundaries",
 		"revision_timestamp": "2013-05-17T00:00:00",
 		"state": "active",
 		"key": "tags",
@@ -287,7 +287,7 @@
 		"revision_timestamp": "2015-03-18T14:25:04.527925",
 		"is_organization": true,
 		"state": "active",
-		"image_url": "https:\/\/raw.githubusercontent.com\/GSA\/logo\/master\/nps.png",
+		"image_url": "https://raw.githubusercontent.com/GSA/logo/master/nps.png",
 		"revision_id": "c01136dc-911c-4651-92b7-36046d755b81",
 		"type": "organization",
 		"id": "ffbc26a5-1ae8-4c8c-ac45-e5b76fc6486a",

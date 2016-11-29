@@ -37,7 +37,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2015-02-25T14:22:09.220651",
-		"url": "http:\/\/download.geofabrik.de\/africa\/",
+		"url": "http://download.geofabrik.de/africa/",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 0,
@@ -67,7 +67,7 @@
 		"cache_url": null,
 		"name": "Zip File",
 		"created": "2015-02-25T14:22:09.220684",
-		"url": "http:\/\/ebola-data.un.org\/Sierra_Leone\/sierra_leone_wadc00369_osm_natural\/sierra_leone_wadc00369_osm_natural.zip",
+		"url": "http://ebola-data.un.org/Sierra_Leone/sierra_leone_wadc00369_osm_natural/sierra_leone_wadc00369_osm_natural.zip",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 1,
@@ -91,7 +91,7 @@
 	"license_title": null,
 	"extras": [{
 		"key": "responsible-party",
-		"value": "[{\"name\": \"OSM\", \"roles\": [\"pointOfContact\"]}]"
+		"value": "[{"name": "OSM", "roles": ["pointOfContact"]}]"
 	},
 	{
 		"key": "contact-email",
@@ -111,7 +111,7 @@
 	},
 	{
 		"key": "dataset-reference-date",
-		"value": "[{\"type\": \"publication\", \"value\": \"2015-01-27\"}]"
+		"value": "[{"type": "publication", "value": "2015-01-27"}]"
 	},
 	{
 		"key": "resource-type",
@@ -139,7 +139,7 @@
 	},
 	{
 		"key": "licence",
-		"value": "[\" \"]"
+		"value": "[" "]"
 	},
 	{
 		"key": "metadata_type",
@@ -151,7 +151,7 @@
 	},
 	{
 		"key": "spatial",
-		"value": "{\"type\": \"Polygon\", \"coordinates\": [[[-13.279188, 7.000613], [-10.291534, 7.000613], [-10.291534, 9.292521], [-13.279188, 9.292521], [-13.279188, 7.000613]]]}"
+		"value": "{"type": "Polygon", "coordinates": [[[-13.279188, 7.000613], [-10.291534, 7.000613], [-10.291534, 9.292521], [-13.279188, 9.292521], [-13.279188, 7.000613]]]}"
 	},
 	{
 		"key": "guid",
@@ -163,7 +163,7 @@
 	},
 	{
 		"key": "access_constraints",
-		"value": "[\"Use Constraints: Acquired by OSM for public use.\", \"Access Constraints: None\"]"
+		"value": "["Use Constraints: Acquired by OSM for public use.", "Access Constraints: None"]"
 	},
 	{
 		"key": "spatial_harvester",
@@ -195,7 +195,7 @@
 	{
 		"state": "active",
 		"key": "harvest_source_title",
-		"value": "Harvest Source \u2013 Ebola Data Call Collection - Sierra Leone Natural - OSM"
+		"value": "Harvest Source u2013 Ebola Data Call Collection - Sierra Leone Natural - OSM"
 	}],
 	"organization": {
 		"description": "",

@@ -37,7 +37,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2013-03-14T20:49:17.818225",
-		"url": "http:\/\/www.kansasgis.org\/",
+		"url": "http://www.kansasgis.org/",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 0,
@@ -67,7 +67,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2013-03-14T20:49:17.818241",
-		"url": "http:\/\/www.kansasgis.org\/",
+		"url": "http://www.kansasgis.org/",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 1,
@@ -87,7 +87,7 @@
 	"name": "tax-unit-boundaries",
 	"isopen": false,
 	"url": null,
-	"notes": "The Statewide GIS Tax Unit boundary file was created through a collaborative partnership between the State of Kansas Department of Revenue Property Valuation Division, the Kansas GIS Policy Board\u0092s Data Access & Support Center (DASC), and Kansas County Clerks. During 2010, tax unit boundary information was gathered from Kansas County Clerks by DASC and resulted in the first statewide GIS tax unit boundary data file. Certifications are on-going and are integrated as they are received. Users will want to download this data frequently for updates.",
+	"notes": "The Statewide GIS Tax Unit boundary file was created through a collaborative partnership between the State of Kansas Department of Revenue Property Valuation Division, the Kansas GIS Policy Boardu0092s Data Access & Support Center (DASC), and Kansas County Clerks. During 2010, tax unit boundary information was gathered from Kansas County Clerks by DASC and resulted in the first statewide GIS tax unit boundary data file. Certifications are on-going and are integrated as they are received. Users will want to download this data frequently for updates.",
 	"license_title": null,
 	"extras": [{
 		"key": "temporal-extent-begin",
@@ -107,7 +107,7 @@
 	},
 	{
 		"key": "bbox-west-long",
-		"value": "\n-102.051290"
+		"value": "n-102.051290"
 	},
 	{
 		"key": "metadata-date",
@@ -115,7 +115,7 @@
 	},
 	{
 		"key": "dataset-reference-date",
-		"value": "[{\"type\": \"publication\", \"value\": \"2011-01-01\"}]"
+		"value": "[{"type": "publication", "value": "2011-01-01"}]"
 	},
 	{
 		"key": "resource-type",
@@ -123,7 +123,7 @@
 	},
 	{
 		"key": "bbox-east-long",
-		"value": "\n-94.588407"
+		"value": "n-94.588407"
 	},
 	{
 		"key": "spatial-reference-system",
@@ -131,7 +131,7 @@
 	},
 	{
 		"key": "bbox-north-lat",
-		"value": "\n40.003166"
+		"value": "n40.003166"
 	},
 	{
 		"key": "coupled-resource",
@@ -139,11 +139,11 @@
 	},
 	{
 		"key": "bbox-south-lat",
-		"value": "\n36.993088"
+		"value": "n36.993088"
 	},
 	{
 		"key": "licence",
-		"value": "[\"The State of Kansas Geographic Information Systems Core Database's digital data have been tested and their documentation carefully reviewed. However, the State of Kansas Geographic Information Systems Policy Board's Data Access and Support Center and its representatives make no warranty or representation, either expressed or implied, with respect to the digital data and their documentation, their quality, performance, merchantability, or fitness for a particular purpose. The digital data are distributed on \\\"as is\\\" basis, and the user assumes all risk to their quality, the results obtained from their use, and the performance of the data. In no event will the State of Kansas Geographic Information Systems Policy Board or its representatives be liable for any direct, indirect, special, incidental or consequential damages resulting from and defect in the State of Kansas Geographic Information Systems Core Database's digital data or in their documentation. This disclaimer of warranty is exlusive and in lieu of all others, oral or written, express or implied. No agent or employee is authorized to make any modification, extension, or addition to this warranty.\"]"
+		"value": "["The State of Kansas Geographic Information Systems Core Database's digital data have been tested and their documentation carefully reviewed. However, the State of Kansas Geographic Information Systems Policy Board's Data Access and Support Center and its representatives make no warranty or representation, either expressed or implied, with respect to the digital data and their documentation, their quality, performance, merchantability, or fitness for a particular purpose. The digital data are distributed on \"as is\" basis, and the user assumes all risk to their quality, the results obtained from their use, and the performance of the data. In no event will the State of Kansas Geographic Information Systems Policy Board or its representatives be liable for any direct, indirect, special, incidental or consequential damages resulting from and defect in the State of Kansas Geographic Information Systems Core Database's digital data or in their documentation. This disclaimer of warranty is exlusive and in lieu of all others, oral or written, express or implied. No agent or employee is authorized to make any modification, extension, or addition to this warranty."]"
 	},
 	{
 		"key": "metadata_type",
@@ -151,11 +151,11 @@
 	},
 	{
 		"key": "responsible-party",
-		"value": "[{\"name\": \"Kansas Data Access and Support Center (DASC)\", \"roles\": [\"pointOfContact\"]}]"
+		"value": "[{"name": "Kansas Data Access and Support Center (DASC)", "roles": ["pointOfContact"]}]"
 	},
 	{
 		"key": "spatial",
-		"value": "{\"type\": \"Polygon\", \"coordinates\": [[[-102.05129, 36.993088], [-102.05129, 40.003166], [-94.588407, 40.003166], [-94.588407, 36.993088], [-102.05129, 36.993088]]]}"
+		"value": "{"type": "Polygon", "coordinates": [[[-102.05129, 36.993088], [-102.05129, 40.003166], [-94.588407, 40.003166], [-94.588407, 36.993088], [-102.05129, 36.993088]]]}"
 	},
 	{
 		"key": "guid",
@@ -167,7 +167,7 @@
 	},
 	{
 		"key": "access_constraints",
-		"value": "[\"Use Constraints: Individual county data are current as of the date indicated in the CERT_DATE field. Certification updates will be integrated as they are submitted so users will want to download this data frequently for updates. All data is represented to the best of our knowledge as submitted by individual Kansas County Clerk offices.\", \"Access Constraints: None\"]"
+		"value": "["Use Constraints: Individual county data are current as of the date indicated in the CERT_DATE field. Certification updates will be integrated as they are submitted so users will want to download this data frequently for updates. All data is represented to the best of our knowledge as submitted by individual Kansas County Clerk offices.", "Access Constraints: None"]"
 	},
 	{
 		"key": "frequency-of-update",
@@ -205,7 +205,7 @@
 		"revision_timestamp": "2013-05-30T15:56:28.333515",
 		"is_organization": true,
 		"state": "active",
-		"image_url": "http:\/\/www.kansasgis.org\/_style\/img\/banner.png",
+		"image_url": "http://www.kansasgis.org/_style/img/banner.png",
 		"revision_id": "649a4ecd-dd72-4628-b80e-cea6a4f616d2",
 		"type": "organization",
 		"id": "56d45844-910f-4632-a4ff-bf5f0e6cb653",

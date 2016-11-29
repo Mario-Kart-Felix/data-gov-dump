@@ -37,7 +37,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2016-04-22T22:37:32.976797",
-		"url": "http:\/\/maps.vcgi.org\/gisdata\/vcgi\/lidar\/1M\/DEM\/",
+		"url": "http://maps.vcgi.org/gisdata/vcgi/lidar/1M/DEM/",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 0,
@@ -70,7 +70,7 @@
 	"name": "elevationdem-dem1m",
 	"isopen": false,
 	"url": null,
-	"notes": "A \"Bare Earth\" Digital Elevation Model (DEM) data represents the bare ground surface without any objects like plants and buildings on it, was derived from the best available LiDAR \"point cloud\" data sources across the state by the UVM Spatial Analysis Lab and grouped into four seperate resolutions, i.e., ElevationDEM_DEM0p7m; ElevationDEM_DEM1m, ElevationDEM_DEM1p4m & ElevationDEM_DEM1p6m. For an overview of the \"Vermont LiDAR Initiative\" please see \"http:\/\/vcgi.vermont.gov\/lidar\". For specific details on each project extent's \"point cloud\", e.g., flight dates, nominal pulse spacing and RMSEz etc., see the VCGI LiDAR data product page for links to vendor based metadata - http:\/\/vcgi.vermont.gov\/warehouse\/products\/ALL-LDR_MIX_LIDAR_STATE_ALL. Ultimately, each LiDAR dataset extent will be integrated with the multi-resolution National Elevation Dataset (NED), at resolutions of approx. 1\/27 arc-second (ranging from 0.7 to 1.6 meters) and \"Elevation Quality Levels (QL)\" of QL2 and QL3. See the \"LiDAR Data Quality Levels (QLs) - Specifications for the varying \"QLs\" link under the \"Resources\" section of the VT LiDAR Initiative web page for details - \"vcgi.vermont.gov\/lidar\" . The NED is the ultimatel repository for the best available public domain raster elevation data of the conterminous United States, Alaska, Hawaii, and territorial islands in a seamless format from diverse source data and processed to a common coordinate system and unit of vertical measure.",
+	"notes": "A "Bare Earth" Digital Elevation Model (DEM) data represents the bare ground surface without any objects like plants and buildings on it, was derived from the best available LiDAR "point cloud" data sources across the state by the UVM Spatial Analysis Lab and grouped into four seperate resolutions, i.e., ElevationDEM_DEM0p7m; ElevationDEM_DEM1m, ElevationDEM_DEM1p4m & ElevationDEM_DEM1p6m. For an overview of the "Vermont LiDAR Initiative" please see "http://vcgi.vermont.gov/lidar". For specific details on each project extent's "point cloud", e.g., flight dates, nominal pulse spacing and RMSEz etc., see the VCGI LiDAR data product page for links to vendor based metadata - http://vcgi.vermont.gov/warehouse/products/ALL-LDR_MIX_LIDAR_STATE_ALL. Ultimately, each LiDAR dataset extent will be integrated with the multi-resolution National Elevation Dataset (NED), at resolutions of approx. 1/27 arc-second (ranging from 0.7 to 1.6 meters) and "Elevation Quality Levels (QL)" of QL2 and QL3. See the "LiDAR Data Quality Levels (QLs) - Specifications for the varying "QLs" link under the "Resources" section of the VT LiDAR Initiative web page for details - "vcgi.vermont.gov/lidar" . The NED is the ultimatel repository for the best available public domain raster elevation data of the conterminous United States, Alaska, Hawaii, and territorial islands in a seamless format from diverse source data and processed to a common coordinate system and unit of vertical measure.",
 	"license_title": null,
 	"extras": [{
 		"key": "bbox-east-long",
@@ -106,7 +106,7 @@
 	},
 	{
 		"key": "spatial",
-		"value": "{\"type\": \"Polygon\", \"coordinates\": [[[-71.9925532527, 44.3407788197], [-71.4371829993, 44.3407788197], [-71.4371829993, 45.0264638091], [-71.9925532527, 45.0264638091], [-71.9925532527, 44.3407788197]]]}"
+		"value": "{"type": "Polygon", "coordinates": [[[-71.9925532527, 44.3407788197], [-71.4371829993, 44.3407788197], [-71.4371829993, 45.0264638091], [-71.9925532527, 45.0264638091], [-71.9925532527, 44.3407788197]]]}"
 	},
 	{
 		"key": "progress",
@@ -114,7 +114,7 @@
 	},
 	{
 		"key": "access_constraints",
-		"value": "[\"Use Constraints: No assessment of the accuracy of LiDAR data or data products has been made by VCGI. Data users should assess DEM data products for appropriate use, especially in critical applications without a full awareness of it's limitations. Users should also be aware that temporal changes may have occurred since this dataset was collected and that some parts of these data may no Longer represent actual surface conditions. Acknowledgement of the U.S. Geological Survey would be appreciated for products derived from these data.\", \"Access Constraints: VCGI and the State of VT make no representations of any kind, including but not limited to the warranties of merchantability or fitness for a particular use, nor are any such warranties to be implied with respect to the data.\"]"
+		"value": "["Use Constraints: No assessment of the accuracy of LiDAR data or data products has been made by VCGI. Data users should assess DEM data products for appropriate use, especially in critical applications without a full awareness of it's limitations. Users should also be aware that temporal changes may have occurred since this dataset was collected and that some parts of these data may no Longer represent actual surface conditions. Acknowledgement of the U.S. Geological Survey would be appreciated for products derived from these data.", "Access Constraints: VCGI and the State of VT make no representations of any kind, including but not limited to the warranties of merchantability or fitness for a particular use, nor are any such warranties to be implied with respect to the data."]"
 	},
 	{
 		"key": "temporal-extent-begin",
@@ -134,7 +134,7 @@
 	},
 	{
 		"key": "dataset-reference-date",
-		"value": "[{\"type\": \"publication\", \"value\": \"2014-03-20TAs Updated.\"}]"
+		"value": "[{"type": "publication", "value": "2014-03-20TAs Updated."}]"
 	},
 	{
 		"key": "frequency-of-update",
@@ -142,7 +142,7 @@
 	},
 	{
 		"key": "licence",
-		"value": "[\"None\"]"
+		"value": "["None"]"
 	},
 	{
 		"key": "metadata_type",
@@ -150,7 +150,7 @@
 	},
 	{
 		"key": "responsible-party",
-		"value": "[{\"name\": \"VT Center for Geographic Information\", \"roles\": [\"pointOfContact\"]}]"
+		"value": "[{"name": "VT Center for Geographic Information", "roles": ["pointOfContact"]}]"
 	},
 	{
 		"key": "temporal-extent-end",
@@ -196,7 +196,7 @@
 		"revision_timestamp": "2013-03-27T17:47:03.718032",
 		"is_organization": true,
 		"state": "active",
-		"image_url": "http:\/\/vcgi.vermont.gov\/sites\/all\/themes\/vt_template\/logo.png",
+		"image_url": "http://vcgi.vermont.gov/sites/all/themes/vt_template/logo.png",
 		"revision_id": "c5dfbbb0-f1e0-4db6-b566-e932e1520060",
 		"type": "organization",
 		"id": "0c3a4ebc-9929-4f21-bdd0-76a35d52f57d",

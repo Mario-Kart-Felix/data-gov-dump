@@ -37,7 +37,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2016-05-13T22:11:30.451417",
-		"url": "https:\/\/edg.epa.gov\/data\/PUBLIC\/ORD\/ENVIROATLAS\/Other",
+		"url": "https://edg.epa.gov/data/PUBLIC/ORD/ENVIROATLAS/Other",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 0,
@@ -67,7 +67,7 @@
 		"cache_url": null,
 		"name": "Esri Rest API Endpoint",
 		"created": "2016-05-13T22:11:30.451440",
-		"url": "https:\/\/enviroatlas.epa.gov\/arcgis\/rest\/services\/Other",
+		"url": "https://enviroatlas.epa.gov/arcgis/rest/services/Other",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 1,
@@ -97,7 +97,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2016-05-13T22:11:30.451449",
-		"url": "https:\/\/www.epa.gov\/enviroatlas\/enviroatlas-data",
+		"url": "https://www.epa.gov/enviroatlas/enviroatlas-data",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 2,
@@ -127,7 +127,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2016-05-13T22:11:30.451457",
-		"url": "https:\/\/www.epa.gov\/enviroatlas",
+		"url": "https://www.epa.gov/enviroatlas",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 3,
@@ -147,7 +147,7 @@
 	"name": "enviroatlas-number-of-water-markets-per-huc8-watershed-u-s-2015-forest-trends-ecosystem-market",
 	"isopen": false,
 	"url": null,
-	"notes": "This EnviroAtlas dataset contains polygons depicting the number of watershed-level market-based programs, referred to herein as markets, in operation per 8-digit HUC watershed throughout the United States. The data were collected via surveys and desk research conducted by Forest Trends' Ecosystem Marketplace during 2014 regarding markets operating to protect watershed ecosystem services. Utilizing these data, the number of water market coverage areas overlaying each HUC8 watershed were calculated to produce this dataset. Only water markets identified as operating at the watershed level (i.e., single or multiple watersheds define the market boundaries) were included in the count of water markets per HUC8 watershed. Excluded were water markets operating at the national, state, county, or federal lands level and all water projects. Attribute data include the watershed's 8-digit hydrologic unit code and name, in addition to the watershed-level water market count associated with the watershed. This dataset was produced by Forest Trends' Ecosystem Marketplace to support research and online mapping activities related to EnviroAtlas. EnviroAtlas (https:\/\/www.epa.gov\/enviroatlas) allows the user to interact with a web-based, easy-to-use, mapping application to view and analyze multiple ecosystem services for the contiguous United States. The dataset is available as downloadable data (https:\/\/edg.epa.gov\/data\/Public\/ORD\/EnviroAtlas) or as an EnviroAtlas map service. Additional descriptive information about each attribute in this dataset can be found in its associated EnviroAtlas Fact Sheet (https:\/\/www.epa.gov\/enviroatlas\/enviroatlas-fact-sheets).",
+	"notes": "This EnviroAtlas dataset contains polygons depicting the number of watershed-level market-based programs, referred to herein as markets, in operation per 8-digit HUC watershed throughout the United States. The data were collected via surveys and desk research conducted by Forest Trends' Ecosystem Marketplace during 2014 regarding markets operating to protect watershed ecosystem services. Utilizing these data, the number of water market coverage areas overlaying each HUC8 watershed were calculated to produce this dataset. Only water markets identified as operating at the watershed level (i.e., single or multiple watersheds define the market boundaries) were included in the count of water markets per HUC8 watershed. Excluded were water markets operating at the national, state, county, or federal lands level and all water projects. Attribute data include the watershed's 8-digit hydrologic unit code and name, in addition to the watershed-level water market count associated with the watershed. This dataset was produced by Forest Trends' Ecosystem Marketplace to support research and online mapping activities related to EnviroAtlas. EnviroAtlas (https://www.epa.gov/enviroatlas) allows the user to interact with a web-based, easy-to-use, mapping application to view and analyze multiple ecosystem services for the contiguous United States. The dataset is available as downloadable data (https://edg.epa.gov/data/Public/ORD/EnviroAtlas) or as an EnviroAtlas map service. Additional descriptive information about each attribute in this dataset can be found in its associated EnviroAtlas Fact Sheet (https://www.epa.gov/enviroatlas/enviroatlas-fact-sheets).",
 	"license_title": null,
 	"extras": [{
 		"key": "bbox-east-long",
@@ -183,7 +183,7 @@
 	},
 	{
 		"key": "spatial",
-		"value": "{\"type\": \"Polygon\", \"coordinates\": [[[-128.02839229, 22.7348894], [-65.20336449, 22.7348894], [-65.20336449, 51.6773602], [-128.02839229, 51.6773602], [-128.02839229, 22.7348894]]]}"
+		"value": "{"type": "Polygon", "coordinates": [[[-128.02839229, 22.7348894], [-65.20336449, 22.7348894], [-65.20336449, 51.6773602], [-128.02839229, 51.6773602], [-128.02839229, 22.7348894]]]}"
 	},
 	{
 		"key": "progress",
@@ -191,11 +191,11 @@
 	},
 	{
 		"key": "access_constraints",
-		"value": "[\"Use Constraints: None. Please check sources, scale, accuracy, currency and other available information. Please confirm that you are using the most recent copy of both data and metadata. Acknowledgement of Forest Trends' Ecosystem Marketplace would be appreciated.\", \"Access Constraints: None\"]"
+		"value": "["Use Constraints: None. Please check sources, scale, accuracy, currency and other available information. Please confirm that you are using the most recent copy of both data and metadata. Acknowledgement of Forest Trends' Ecosystem Marketplace would be appreciated.", "Access Constraints: None"]"
 	},
 	{
 		"key": "licence_url",
-		"value": "https:\/\/edg.epa.gov\/EPA_Data_License.html"
+		"value": "https://edg.epa.gov/EPA_Data_License.html"
 	},
 	{
 		"key": "contact-email",
@@ -211,7 +211,7 @@
 	},
 	{
 		"key": "dataset-reference-date",
-		"value": "[{\"type\": \"publication\", \"value\": \"2015-12-16\"}]"
+		"value": "[{"type": "publication", "value": "2015-12-16"}]"
 	},
 	{
 		"key": "frequency-of-update",
@@ -219,7 +219,7 @@
 	},
 	{
 		"key": "licence",
-		"value": "[\"https:\/\/edg.epa.gov\/EPA_Data_License.html\"]"
+		"value": "["https://edg.epa.gov/EPA_Data_License.html"]"
 	},
 	{
 		"key": "metadata_type",
@@ -227,7 +227,7 @@
 	},
 	{
 		"key": "responsible-party",
-		"value": "[{\"name\": \"U.S. Environmental Protection Agency, Office of Research and Development-Sustainable and Healthy Communities Research Program, EnviroAtlas\", \"roles\": [\"pointOfContact\"]}]"
+		"value": "[{"name": "U.S. Environmental Protection Agency, Office of Research and Development-Sustainable and Healthy Communities Research Program, EnviroAtlas", "roles": ["pointOfContact"]}]"
 	},
 	{
 		"key": "spatial-data-service-type",
@@ -269,7 +269,7 @@
 		"revision_timestamp": "2014-01-16T18:58:42.895981",
 		"is_organization": true,
 		"state": "active",
-		"image_url": "http:\/\/edg.epa.gov\/EPALogo.svg",
+		"image_url": "http://edg.epa.gov/EPALogo.svg",
 		"revision_id": "f0e4b475-7424-4ce0-9a22-412e7e595154",
 		"type": "organization",
 		"id": "6d90e48d-3076-4327-b2f4-c33919f374d5",

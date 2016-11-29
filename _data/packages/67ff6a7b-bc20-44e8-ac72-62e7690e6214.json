@@ -37,7 +37,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2015-09-26T17:23:00.224483",
-		"url": "http:\/\/olympiccoast.noaa.gov\/research\/mapping\/",
+		"url": "http://olympiccoast.noaa.gov/research/mapping/",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 0,
@@ -57,11 +57,11 @@
 	"name": "olympic-coast-national-marine-sanctuary-mos120-0602a-side-scan-sonar-mosaic-from-survey-0602",
 	"isopen": false,
 	"url": null,
-	"notes": "This side scan sonar imagery of the sea floor (35-55 m water depths) was mosaiced from acoustic data collected in 2006 aboard the R\/V Tatoosh. A Klein System 3000 dual frequency side scan system was used for geophysical surveying, using only the 100Khz data to create the mosaic. A Trimble DSM212Ldifferential GPS was used for towfish positioning. Navigation from the GPS was logged in Hypack Max. Isis Sonar (Triton Imaging International) was used to log the digital sonar packets and cable counter data. Sonar data were captured using the 150m range scale setting.",
+	"notes": "This side scan sonar imagery of the sea floor (35-55 m water depths) was mosaiced from acoustic data collected in 2006 aboard the R/V Tatoosh. A Klein System 3000 dual frequency side scan system was used for geophysical surveying, using only the 100Khz data to create the mosaic. A Trimble DSM212Ldifferential GPS was used for towfish positioning. Navigation from the GPS was logged in Hypack Max. Isis Sonar (Triton Imaging International) was used to log the digital sonar packets and cable counter data. Sonar data were captured using the 150m range scale setting.",
 	"license_title": null,
 	"extras": [{
 		"key": "bbox-east-long",
-		"value": "-124.820655\n"
+		"value": "-124.820655n"
 	},
 	{
 		"key": "resource-type",
@@ -69,7 +69,7 @@
 	},
 	{
 		"key": "bbox-north-lat",
-		"value": "48.244662\n"
+		"value": "48.244662n"
 	},
 	{
 		"key": "coupled-resource",
@@ -85,7 +85,7 @@
 	},
 	{
 		"key": "bbox-south-lat",
-		"value": "48.193620\n"
+		"value": "48.193620n"
 	},
 	{
 		"key": "spatial-reference-system",
@@ -93,7 +93,7 @@
 	},
 	{
 		"key": "spatial",
-		"value": "{\"type\": \"Polygon\", \"coordinates\": [[[-124.862481, 48.19362], [-124.820655, 48.19362], [-124.820655, 48.244662], [-124.862481, 48.244662], [-124.862481, 48.19362]]]}"
+		"value": "{"type": "Polygon", "coordinates": [[[-124.862481, 48.19362], [-124.820655, 48.19362], [-124.820655, 48.244662], [-124.862481, 48.244662], [-124.862481, 48.19362]]]}"
 	},
 	{
 		"key": "progress",
@@ -101,7 +101,7 @@
 	},
 	{
 		"key": "access_constraints",
-		"value": "[\"Use Constraints: Please recognize OCNMS as the source of this information.\", \"Access Constraints: None\"]"
+		"value": "["Use Constraints: Please recognize OCNMS as the source of this information.", "Access Constraints: None"]"
 	},
 	{
 		"key": "temporal-extent-begin",
@@ -113,7 +113,7 @@
 	},
 	{
 		"key": "bbox-west-long",
-		"value": "-124.862481\n"
+		"value": "-124.862481n"
 	},
 	{
 		"key": "metadata-date",
@@ -121,7 +121,7 @@
 	},
 	{
 		"key": "dataset-reference-date",
-		"value": "[{\"type\": \"publication\", \"value\": \"2007-12-31\"}]"
+		"value": "[{"type": "publication", "value": "2007-12-31"}]"
 	},
 	{
 		"key": "frequency-of-update",
@@ -129,7 +129,7 @@
 	},
 	{
 		"key": "licence",
-		"value": "[\"Please recognize the Olympic Coast national marine sanctuary (OCNMS) as the source of these data. The Olympic Coast National Marine Sanctuary nor any of their employees, make any warranty, express or implied, including the warranties of merchantability and fitness for a particular purpose, or assumes any legal liability or responsibility for the accuracy, completeness, or usefulness of any information, apparatus, product or process disclosed, or represents that its use would not infringe privately owned rights. Original data elements may have been compiled from various sources. Spatial information may not meet National Mapping Accuracy Standards. This information may be updated, corrected, or otherwise modified without notification. For additional information about this data contact the Olympic Coast national marine sanctuary.\\n\"]"
+		"value": "["Please recognize the Olympic Coast national marine sanctuary (OCNMS) as the source of these data. The Olympic Coast National Marine Sanctuary nor any of their employees, make any warranty, express or implied, including the warranties of merchantability and fitness for a particular purpose, or assumes any legal liability or responsibility for the accuracy, completeness, or usefulness of any information, apparatus, product or process disclosed, or represents that its use would not infringe privately owned rights. Original data elements may have been compiled from various sources. Spatial information may not meet National Mapping Accuracy Standards. This information may be updated, corrected, or otherwise modified without notification. For additional information about this data contact the Olympic Coast national marine sanctuary.\n"]"
 	},
 	{
 		"key": "metadata_type",
@@ -137,7 +137,7 @@
 	},
 	{
 		"key": "responsible-party",
-		"value": "[{\"name\": \"NOAA, Olympic Coast National Marine Sanctuary\", \"roles\": [\"pointOfContact\"]}]"
+		"value": "[{"name": "NOAA, Olympic Coast National Marine Sanctuary", "roles": ["pointOfContact"]}]"
 	},
 	{
 		"key": "temporal-extent-end",
@@ -183,7 +183,7 @@
 		"revision_timestamp": "2013-03-25T23:05:12.923863",
 		"is_organization": true,
 		"state": "active",
-		"image_url": "https:\/\/fortress.wa.gov\/dfw\/score\/score\/images\/noaa_logo.png",
+		"image_url": "https://fortress.wa.gov/dfw/score/score/images/noaa_logo.png",
 		"revision_id": "c6d43080-22e1-405e-a83d-f2a512d9e867",
 		"type": "organization",
 		"id": "e811f0b4-451f-4896-9e8f-fc6802837819",

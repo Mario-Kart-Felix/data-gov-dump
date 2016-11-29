@@ -34,9 +34,9 @@
 		"resource_locator_protocol": "WWW:LINK-1.0-http--link",
 		"mimetype": null,
 		"cache_url": null,
-		"name": "ftp:\/\/ftp.nefsc.noaa.gov",
+		"name": "ftp://ftp.nefsc.noaa.gov",
 		"created": "2016-08-08T22:37:29.776358",
-		"url": "ftp:\/\/ftp.nefsc.noaa.gov",
+		"url": "ftp://ftp.nefsc.noaa.gov",
 		"webstore_url": null,
 		"resource_locator_function": "download",
 		"position": 0,
@@ -65,7 +65,7 @@
 		"cache_url": null,
 		"name": "Website",
 		"created": "2016-08-08T22:37:29.776381",
-		"url": "http:\/\/www.nefsc.noaa.gov",
+		"url": "http://www.nefsc.noaa.gov",
 		"webstore_url": null,
 		"resource_locator_function": "information",
 		"position": 1,
@@ -94,7 +94,7 @@
 		"cache_url": null,
 		"name": "Website",
 		"created": "2016-08-08T22:37:29.776390",
-		"url": "http:\/\/www.nefsc.noaa.gov",
+		"url": "http://www.nefsc.noaa.gov",
 		"webstore_url": null,
 		"resource_locator_function": "information",
 		"position": 2,
@@ -123,7 +123,7 @@
 		"cache_url": null,
 		"name": "Website",
 		"created": "2016-08-08T22:37:29.776398",
-		"url": "http:\/\/www.nefsc.noaa.gov",
+		"url": "http://www.nefsc.noaa.gov",
 		"webstore_url": null,
 		"resource_locator_function": "information",
 		"position": 3,
@@ -152,7 +152,7 @@
 		"cache_url": null,
 		"name": "NOAA Data Management Plan (DMP)",
 		"created": "2016-08-08T22:37:29.776404",
-		"url": "https:\/\/inport.nmfs.noaa.gov\/inport\/item\/22562\/dmp",
+		"url": "https://inport.nmfs.noaa.gov/inport/item/22562/dmp",
 		"webstore_url": null,
 		"resource_locator_function": "information",
 		"position": 4,
@@ -169,7 +169,7 @@
 		"state": "active",
 		"last_modified": null,
 		"hash": "",
-		"description": "This page describes the NASA GCMD Keywords, how\n                                                        to reference those keywords and provides download instructions.\n                                                    ",
+		"description": "This page describes the NASA GCMD Keywords, hown                                                        to reference those keywords and provides download instructions.n                                                    ",
 		"format": "HTML",
 		"tracking_summary": {
 			"total": 467,
@@ -181,7 +181,7 @@
 		"cache_url": null,
 		"name": "GCMD Keywords Page",
 		"created": "2016-08-08T22:37:29.776411",
-		"url": "http:\/\/gcmd.nasa.gov\/learn\/keyword_list.html",
+		"url": "http://gcmd.nasa.gov/learn/keyword_list.html",
 		"webstore_url": null,
 		"resource_locator_function": "information",
 		"position": 5,
@@ -203,7 +203,7 @@
 		"revision_timestamp": "2013-03-25T23:05:12.923863",
 		"is_organization": true,
 		"state": "active",
-		"image_url": "https:\/\/fortress.wa.gov\/dfw\/score\/score\/images\/noaa_logo.png",
+		"image_url": "https://fortress.wa.gov/dfw/score/score/images/noaa_logo.png",
 		"revision_id": "c6d43080-22e1-405e-a83d-f2a512d9e867",
 		"type": "organization",
 		"id": "e811f0b4-451f-4896-9e8f-fc6802837819",
@@ -250,7 +250,7 @@
 	},
 	{
 		"key": "spatial",
-		"value": "{\"type\": \"Polygon\", \"coordinates\": [[[-70.83, 41.4], [-66.31, 41.4], [-66.31, 44.8], [-70.83, 44.8], [-70.83, 41.4]]]}"
+		"value": "{"type": "Polygon", "coordinates": [[[-70.83, 41.4], [-66.31, 41.4], [-66.31, 44.8], [-70.83, 44.8], [-70.83, 41.4]]]}"
 	},
 	{
 		"key": "progress",
@@ -258,7 +258,7 @@
 	},
 	{
 		"key": "access_constraints",
-		"value": "[\"Access Constraints: If data is stored on an internal NEFSC network, the requester may not have direct access to query the data unless they are also authorized for network access. | Use Constraints: User must read and fully comprehend the metadata prior to use. Applications or inferences derived from the data should be carefully considered for accuracy. Acknowledgement of NOAA\/NMFS\/NEFSC, as the source from which these data were obtained in any publications and\/or other representations of these, data is suggested.\"]"
+		"value": "["Access Constraints: If data is stored on an internal NEFSC network, the requester may not have direct access to query the data unless they are also authorized for network access. | Use Constraints: User must read and fully comprehend the metadata prior to use. Applications or inferences derived from the data should be carefully considered for accuracy. Acknowledgement of NOAA/NMFS/NEFSC, as the source from which these data were obtained in any publications and/or other representations of these, data is suggested."]"
 	},
 	{
 		"key": "temporal-extent-begin",
@@ -278,7 +278,7 @@
 	},
 	{
 		"key": "dataset-reference-date",
-		"value": "[{\"type\": \"publication\", \"value\": \"\"}]"
+		"value": "[{"type": "publication", "value": ""}]"
 	},
 	{
 		"key": "frequency-of-update",
@@ -294,7 +294,7 @@
 	},
 	{
 		"key": "responsible-party",
-		"value": "[{\"name\": \"\", \"roles\": [\"\"]}, {\"name\": \"Northeast Fisheries Science Center\", \"roles\": [\"pointOfContact\", \"custodian\"]}]"
+		"value": "[{"name": "", "roles": [""]}, {"name": "Northeast Fisheries Science Center", "roles": ["pointOfContact", "custodian"]}]"
 	},
 	{
 		"key": "temporal-extent-end",
@@ -310,7 +310,7 @@
 	},
 	{
 		"key": "tags",
-		"value": "summer, age sampling, groundfish, relative abundance, maturity data, benthic, feeding ecology, continental shelf, pelagic, fr\/v delaware ii, physical measures, biological measures, demersal, ichthyoplantkon, biological sampling, oceanographic, zooplankton, fishery-independent surveys, doc\/noaa\/nmfs\/nefsc, population surveys, northwest atlantic, genotype\/species identification, gulf of maine, bottom trawl surveys, bottom trawl, northeast fisheries science center, national marine fisheries service, noaa, u.s. department of commerce, stratified random sampling, seasonal distribution, age & growth, size composition, survey, invertebrates, distribution, cape cod bay",
+		"value": "summer, age sampling, groundfish, relative abundance, maturity data, benthic, feeding ecology, continental shelf, pelagic, fr/v delaware ii, physical measures, biological measures, demersal, ichthyoplantkon, biological sampling, oceanographic, zooplankton, fishery-independent surveys, doc/noaa/nmfs/nefsc, population surveys, northwest atlantic, genotype/species identification, gulf of maine, bottom trawl surveys, bottom trawl, northeast fisheries science center, national marine fisheries service, noaa, u.s. department of commerce, stratified random sampling, seasonal distribution, age & growth, size composition, survey, invertebrates, distribution, cape cod bay",
 		"__extras": {
 			"revision_id": "0cb678c0-adeb-498b-9dbd-a1252f8ce11f",
 			"package_id": "a3cf01f0-afe3-49c3-9db3-40603a25cb9f"

@@ -36,7 +36,7 @@
 		"cache_url": null,
 		"name": "ESRI Layer File (.lyr)",
 		"created": "2016-07-15T21:34:28.986618",
-		"url": "http:\/\/cloud.insideidaho.org\/data\/imageryBaseMapsEarthCover\/topographicMaps\/drg_100k_idaho\/drg_100k_idaho.lyr",
+		"url": "http://cloud.insideidaho.org/data/imageryBaseMapsEarthCover/topographicMaps/drg_100k_idaho/drg_100k_idaho.lyr",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 0,
@@ -65,7 +65,7 @@
 		"cache_url": null,
 		"name": "Image Service REST Endpoint",
 		"created": "2016-07-15T21:34:28.986641",
-		"url": "http:\/\/cloud.insideidaho.org\/ArcGIS\/rest\/services\/imageryBaseMapsEarthCover\/drg_100k_idaho\/ImageServer",
+		"url": "http://cloud.insideidaho.org/ArcGIS/rest/services/imageryBaseMapsEarthCover/drg_100k_idaho/ImageServer",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 1,
@@ -94,7 +94,7 @@
 		"cache_url": null,
 		"name": "Online Map",
 		"created": "2016-07-15T21:34:28.986667",
-		"url": "http:\/\/cloud.insideidaho.org\/webMaps\/flash\/tiledownload\/index.html?collection=topographicMaps&layerName=DRG_100K_Idaho",
+		"url": "http://cloud.insideidaho.org/webMaps/flash/tiledownload/index.html?collection=topographicMaps&layerName=DRG_100K_Idaho",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 2,
@@ -123,7 +123,7 @@
 		"cache_url": null,
 		"name": "OGC WMS",
 		"created": "2016-07-15T21:34:28.986675",
-		"url": "http:\/\/cloud.insideidaho.org\/ArcGIS\/services\/imageryBaseMapsEarthCover\/drg_100k_idaho\/ImageServer\/WMSServer?request=GetCapabilities&service=WMS",
+		"url": "http://cloud.insideidaho.org/ArcGIS/services/imageryBaseMapsEarthCover/drg_100k_idaho/ImageServer/WMSServer?request=GetCapabilities&service=WMS",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 3,
@@ -152,7 +152,7 @@
 		"cache_url": null,
 		"name": "OGC WCS",
 		"created": "2016-07-15T21:34:28.986682",
-		"url": "http:\/\/cloud.insideidaho.org\/ArcGIS\/services\/imageryBaseMapsEarthCover\/drg_100k_idaho\/ImageServer\/WCSServer?request=GetCapabilities&service=WCS",
+		"url": "http://cloud.insideidaho.org/ArcGIS/services/imageryBaseMapsEarthCover/drg_100k_idaho/ImageServer/WCSServer?request=GetCapabilities&service=WCS",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 4,
@@ -208,7 +208,7 @@
 	},
 	{
 		"key": "spatial",
-		"value": "{\"type\": \"Polygon\", \"coordinates\": [[[-119.3, 40.6], [-108.9, 40.6], [-108.9, 49.3], [-119.3, 49.3], [-119.3, 40.6]]]}"
+		"value": "{"type": "Polygon", "coordinates": [[[-119.3, 40.6], [-108.9, 40.6], [-108.9, 49.3], [-119.3, 49.3], [-119.3, 40.6]]]}"
 	},
 	{
 		"key": "progress",
@@ -216,7 +216,7 @@
 	},
 	{
 		"key": "access_constraints",
-		"value": "[\"Use Constraints: Acknowledgment of the USGS would be appreciated in products derived from these data.\", \"Access Constraints: none\"]"
+		"value": "["Use Constraints: Acknowledgment of the USGS would be appreciated in products derived from these data.", "Access Constraints: none"]"
 	},
 	{
 		"key": "temporal-extent-begin",
@@ -236,7 +236,7 @@
 	},
 	{
 		"key": "dataset-reference-date",
-		"value": "[{\"type\": \"publication\", \"value\": \"1997-01-01\"}]"
+		"value": "[{"type": "publication", "value": "1997-01-01"}]"
 	},
 	{
 		"key": "frequency-of-update",
@@ -244,7 +244,7 @@
 	},
 	{
 		"key": "licence",
-		"value": "[\"Although these data have been processed successfully on a computer system at the Idaho Geospatial Data Clearinghouse, no warranty, expressed or implied, is made regarding the utility of the data on any other system, nor shall the act of distribution constitute any such warranty. \"]"
+		"value": "["Although these data have been processed successfully on a computer system at the Idaho Geospatial Data Clearinghouse, no warranty, expressed or implied, is made regarding the utility of the data on any other system, nor shall the act of distribution constitute any such warranty. "]"
 	},
 	{
 		"key": "metadata_type",
@@ -252,7 +252,7 @@
 	},
 	{
 		"key": "responsible-party",
-		"value": "[{\"name\": \"Idaho Geospatial Data Clearinghouse\", \"roles\": [\"pointOfContact\"]}]"
+		"value": "[{"name": "Idaho Geospatial Data Clearinghouse", "roles": ["pointOfContact"]}]"
 	},
 	{
 		"key": "temporal-extent-end",
@@ -298,7 +298,7 @@
 		"revision_timestamp": "2015-01-16T18:28:14.593903",
 		"is_organization": true,
 		"state": "active",
-		"image_url": "http:\/\/upload.wikimedia.org\/wikipedia\/en\/thumb\/4\/44\/University_of_Idaho_seal.svg\/300px-University_of_Idaho_seal.svg.png",
+		"image_url": "http://upload.wikimedia.org/wikipedia/en/thumb/4/44/University_of_Idaho_seal.svg/300px-University_of_Idaho_seal.svg.png",
 		"revision_id": "761955d7-9530-4622-8609-d0b01c78e177",
 		"type": "organization",
 		"id": "75e22a8a-da5f-46f3-93d8-924063a3703d",

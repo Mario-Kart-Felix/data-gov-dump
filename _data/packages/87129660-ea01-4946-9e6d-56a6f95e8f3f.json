@@ -36,7 +36,7 @@
 		"cache_url": null,
 		"name": "GOES Space Environment Monitor",
 		"created": "2015-10-06T16:58:44.948635",
-		"url": "http:\/\/www.ngdc.noaa.gov\/stp\/satellite\/goes\/",
+		"url": "http://www.ngdc.noaa.gov/stp/satellite/goes/",
 		"webstore_url": null,
 		"resource_locator_function": "information",
 		"position": 0,
@@ -65,7 +65,7 @@
 		"cache_url": null,
 		"name": "GOES Data",
 		"created": "2015-10-06T16:58:44.948671",
-		"url": "http:\/\/www.ngdc.noaa.gov\/stp\/satellite\/goes\/",
+		"url": "http://www.ngdc.noaa.gov/stp/satellite/goes/",
 		"webstore_url": null,
 		"resource_locator_function": "download",
 		"position": 1,
@@ -95,7 +95,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2015-10-06T16:58:44.948679",
-		"url": "http:\/\/www.ngdc.noaa.gov\/stp\/satellite\/goes\/",
+		"url": "http://www.ngdc.noaa.gov/stp/satellite/goes/",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 2,
@@ -124,7 +124,7 @@
 		"cache_url": null,
 		"name": "GOES Space Environment Monitor",
 		"created": "2015-10-06T16:58:44.948686",
-		"url": "http:\/\/www.ngdc.noaa.gov\/stp\/satellite\/goes\/",
+		"url": "http://www.ngdc.noaa.gov/stp/satellite/goes/",
 		"webstore_url": null,
 		"resource_locator_function": "information",
 		"position": 3,
@@ -153,7 +153,7 @@
 		"cache_url": null,
 		"name": "GCMD Feedback Form",
 		"created": "2015-10-06T16:58:44.948692",
-		"url": "http:\/\/gcmd.nasa.gov\/MailComments\/MailComments.jsf?rcpt=gcmduso",
+		"url": "http://gcmd.nasa.gov/MailComments/MailComments.jsf?rcpt=gcmduso",
 		"webstore_url": null,
 		"resource_locator_function": "information",
 		"position": 4,
@@ -182,7 +182,7 @@
 		"cache_url": null,
 		"name": "GCMD Keywords Page",
 		"created": "2015-10-06T16:58:44.948699",
-		"url": "http:\/\/gcmd.nasa.gov\/learn\/keyword_list.html",
+		"url": "http://gcmd.nasa.gov/learn/keyword_list.html",
 		"webstore_url": null,
 		"resource_locator_function": "information",
 		"position": 5,
@@ -211,7 +211,7 @@
 		"cache_url": null,
 		"name": "GCMD Feedback Form",
 		"created": "2015-10-06T16:58:44.948705",
-		"url": "http:\/\/gcmd.nasa.gov\/MailComments\/MailComments.jsf?rcpt=gcmduso",
+		"url": "http://gcmd.nasa.gov/MailComments/MailComments.jsf?rcpt=gcmduso",
 		"webstore_url": null,
 		"resource_locator_function": "information",
 		"position": 6,
@@ -240,7 +240,7 @@
 		"cache_url": null,
 		"name": "GCMD Keywords Page",
 		"created": "2015-10-06T16:58:44.948711",
-		"url": "http:\/\/gcmd.nasa.gov\/learn\/keyword_list.html",
+		"url": "http://gcmd.nasa.gov/learn/keyword_list.html",
 		"webstore_url": null,
 		"resource_locator_function": "information",
 		"position": 7,
@@ -296,7 +296,7 @@
 	},
 	{
 		"key": "spatial",
-		"value": "{\"type\": \"Polygon\", \"coordinates\": [[[-180.0, -90.0], [180.0, -90.0], [180.0, 90.0], [-180.0, 90.0], [-180.0, -90.0]]]}"
+		"value": "{"type": "Polygon", "coordinates": [[[-180.0, -90.0], [180.0, -90.0], [180.0, 90.0], [-180.0, 90.0], [-180.0, -90.0]]]}"
 	},
 	{
 		"key": "progress",
@@ -304,7 +304,7 @@
 	},
 	{
 		"key": "access_constraints",
-		"value": "[\"Use Constraints: none\", \"Access Constraints: none\"]"
+		"value": "["Use Constraints: none", "Access Constraints: none"]"
 	},
 	{
 		"key": "temporal-extent-begin",
@@ -324,7 +324,7 @@
 	},
 	{
 		"key": "dataset-reference-date",
-		"value": "[{\"type\": \"publication\", \"value\": \"1974-07-01\"}]"
+		"value": "[{"type": "publication", "value": "1974-07-01"}]"
 	},
 	{
 		"key": "frequency-of-update",
@@ -332,7 +332,7 @@
 	},
 	{
 		"key": "licence",
-		"value": "[\"While NESDIS makes every effort to ensure that its databases are error-free, errors do occur. We ask that you notify us immediately of any errors that you discover in our data. We will make every effort to correct them.\"]"
+		"value": "["While NESDIS makes every effort to ensure that its databases are error-free, errors do occur. We ask that you notify us immediately of any errors that you discover in our data. We will make every effort to correct them."]"
 	},
 	{
 		"key": "metadata_type",
@@ -340,7 +340,7 @@
 	},
 	{
 		"key": "responsible-party",
-		"value": "[{\"name\": \"DOC\/NOAA\/NESDIS\/NCEI > National Centers for Environmental Information, NESDIS, NOAA, U.S. Department of Commerce\", \"roles\": [\"pointOfContact\"]}]"
+		"value": "[{"name": "DOC/NOAA/NESDIS/NCEI > National Centers for Environmental Information, NESDIS, NOAA, U.S. Department of Commerce", "roles": ["pointOfContact"]}]"
 	},
 	{
 		"key": "spatial-data-service-type",
@@ -352,7 +352,7 @@
 	},
 	{
 		"package_id": "87129660-ea01-4946-9e6d-56a6f95e8f3f",
-		"value": "ionosphere\/magnetosphere dynamics, sun-earth interactions, national centers for environmental information, nesdis, noaa, u.s. department of commerce, solid earth, magnetic storms, doc\/noaa\/nesdis\/ngdc, geomagnetic indices, geomagnetism, international council for science - world data system, magnetic fields\/magnetic currents, icsu-wds, doc\/noaa\/nesdis\/ncei, national geophysical data center, nesdis, noaa, u.s. department of commerce, geomagnetic forecasts, earth science",
+		"value": "ionosphere/magnetosphere dynamics, sun-earth interactions, national centers for environmental information, nesdis, noaa, u.s. department of commerce, solid earth, magnetic storms, doc/noaa/nesdis/ngdc, geomagnetic indices, geomagnetism, international council for science - world data system, magnetic fields/magnetic currents, icsu-wds, doc/noaa/nesdis/ncei, national geophysical data center, nesdis, noaa, u.s. department of commerce, geomagnetic forecasts, earth science",
 		"revision_timestamp": "2015-10-06T20:58:44.723049",
 		"state": "active",
 		"key": "tags",
@@ -382,7 +382,7 @@
 		"revision_timestamp": "2013-03-25T23:05:12.923863",
 		"is_organization": true,
 		"state": "active",
-		"image_url": "https:\/\/fortress.wa.gov\/dfw\/score\/score\/images\/noaa_logo.png",
+		"image_url": "https://fortress.wa.gov/dfw/score/score/images/noaa_logo.png",
 		"revision_id": "c6d43080-22e1-405e-a83d-f2a512d9e867",
 		"type": "organization",
 		"id": "e811f0b4-451f-4896-9e8f-fc6802837819",

@@ -37,7 +37,7 @@
 		"cache_url": null,
 		"name": "Zip File",
 		"created": "2016-05-31T02:18:29.115963",
-		"url": "ftp:\/\/coast.noaa.gov\/pub\/Legis-Atlas\/FederalGeoregulations\/EnergyPolicyAct.zip",
+		"url": "ftp://coast.noaa.gov/pub/Legis-Atlas/FederalGeoregulations/EnergyPolicyAct.zip",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 0,
@@ -67,7 +67,7 @@
 		"cache_url": null,
 		"name": "Esri Rest API Endpoint",
 		"created": "2016-05-31T02:18:29.115986",
-		"url": "https:\/\/coast.noaa.gov\/arcgis\/rest\/services\/MarineCadastre\/FederalGeoregulations\/MapServer",
+		"url": "https://coast.noaa.gov/arcgis/rest/services/MarineCadastre/FederalGeoregulations/MapServer",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 1,
@@ -97,7 +97,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2016-05-31T02:18:29.115996",
-		"url": "http:\/\/marinecadastre.gov\/data\/",
+		"url": "http://marinecadastre.gov/data/",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 2,
@@ -127,7 +127,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2016-05-31T02:18:29.116003",
-		"url": "https:\/\/coast.noaa.gov\/",
+		"url": "https://coast.noaa.gov/",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 3,
@@ -147,11 +147,11 @@
 	"name": "energy-policy-act",
 	"isopen": false,
 	"url": null,
-	"notes": "The Energy Policy Act (EPA) addresses energy production in the United States, including: (1) energy efficiency; (2) renewable energy; (3) oil and gas; (4) coal; (5) Tribal energy; (6) nuclear matters and security; (7) vehicles and motor fuels, including ethanol; (8) hydrogen; (9) electricity; (10) energy tax incentives; (11) hydropower and geothermal energy; and (12) climate change technology. For example, the Act provides loan guarantees for entities that develop or use innovative technologies that avoid the by-production of greenhouse gases. - Source: http:\/\/energy.gov\/sites\/prod\/files\/2013\/10\/f3\/epact_2005.pdf - Date Enacted: August 8, 2005 - Codification: 42 U.S.C. Sec. 15801 et seq. - Authority: U.S. Departments of Energy and the Interior, and U.S. Environmental Protection Agency When investigating geo-regulatory boundaries near the boundary edges, users should consult the most up to date applicable jurisdictional boundaries from all respective authoritative sources.",
+	"notes": "The Energy Policy Act (EPA) addresses energy production in the United States, including: (1) energy efficiency; (2) renewable energy; (3) oil and gas; (4) coal; (5) Tribal energy; (6) nuclear matters and security; (7) vehicles and motor fuels, including ethanol; (8) hydrogen; (9) electricity; (10) energy tax incentives; (11) hydropower and geothermal energy; and (12) climate change technology. For example, the Act provides loan guarantees for entities that develop or use innovative technologies that avoid the by-production of greenhouse gases. - Source: http://energy.gov/sites/prod/files/2013/10/f3/epact_2005.pdf - Date Enacted: August 8, 2005 - Codification: 42 U.S.C. Sec. 15801 et seq. - Authority: U.S. Departments of Energy and the Interior, and U.S. Environmental Protection Agency When investigating geo-regulatory boundaries near the boundary edges, users should consult the most up to date applicable jurisdictional boundaries from all respective authoritative sources.",
 	"license_title": null,
 	"extras": [{
 		"key": "responsible-party",
-		"value": "[{\"name\": \"NOAA Office for Coastal Management\", \"roles\": [\"pointOfContact\"]}]"
+		"value": "[{"name": "NOAA Office for Coastal Management", "roles": ["pointOfContact"]}]"
 	},
 	{
 		"key": "contact-email",
@@ -171,7 +171,7 @@
 	},
 	{
 		"key": "dataset-reference-date",
-		"value": "[{\"type\": \"publication\", \"value\": \"2016-05-11\"}]"
+		"value": "[{"type": "publication", "value": "2016-05-11"}]"
 	},
 	{
 		"key": "resource-type",
@@ -199,7 +199,7 @@
 	},
 	{
 		"key": "licence",
-		"value": "[\"NOAA makes no warranties or representations whatsoever regarding the availability, quality, accuracy, content, completeness or suitability for the user's needs of such information. The services, information, and data made available on the MarineCadastre.gov web site are provided 'as is' without warranties of any kind. These data are intended for coastal and ocean use planning. Not for navigation.\"]"
+		"value": "["NOAA makes no warranties or representations whatsoever regarding the availability, quality, accuracy, content, completeness or suitability for the user's needs of such information. The services, information, and data made available on the MarineCadastre.gov web site are provided 'as is' without warranties of any kind. These data are intended for coastal and ocean use planning. Not for navigation."]"
 	},
 	{
 		"key": "metadata_type",
@@ -211,7 +211,7 @@
 	},
 	{
 		"key": "spatial",
-		"value": "{\"type\": \"Polygon\", \"coordinates\": [[[-180.0, -17.555000002], [180.0, -17.555000002], [180.0, 74.708840004], [-180.0, 74.708840004], [-180.0, -17.555000002]]]}"
+		"value": "{"type": "Polygon", "coordinates": [[[-180.0, -17.555000002], [180.0, -17.555000002], [180.0, 74.708840004], [-180.0, 74.708840004], [-180.0, -17.555000002]]]}"
 	},
 	{
 		"key": "guid",
@@ -223,7 +223,7 @@
 	},
 	{
 		"key": "access_constraints",
-		"value": "[\"Use Constraints: These data represent the unofficial boundary of the Energy Policy Act, as of 2016. For the official boundary, please reference language within the authoritative legislation and consult the governing agency\/agencies. A copy of the legislation is found here: http:\/\/energy.gov\/sites\/prod\/files\/2013\/10\/f3\/epact_2005.pdf These data are intended for coastal and ocean use planning. Not for navigation. http:\/\/www.marinecadastre.gov\/about\/disclaimer.html\", \"Access Constraints: None\"]"
+		"value": "["Use Constraints: These data represent the unofficial boundary of the Energy Policy Act, as of 2016. For the official boundary, please reference language within the authoritative legislation and consult the governing agency/agencies. A copy of the legislation is found here: http://energy.gov/sites/prod/files/2013/10/f3/epact_2005.pdf These data are intended for coastal and ocean use planning. Not for navigation. http://www.marinecadastre.gov/about/disclaimer.html", "Access Constraints: None"]"
 	},
 	{
 		"key": "spatial_harvester",
@@ -265,7 +265,7 @@
 		"revision_timestamp": "2013-03-25T23:05:12.923863",
 		"is_organization": true,
 		"state": "active",
-		"image_url": "https:\/\/fortress.wa.gov\/dfw\/score\/score\/images\/noaa_logo.png",
+		"image_url": "https://fortress.wa.gov/dfw/score/score/images/noaa_logo.png",
 		"revision_id": "c6d43080-22e1-405e-a83d-f2a512d9e867",
 		"type": "organization",
 		"id": "e811f0b4-451f-4896-9e8f-fc6802837819",

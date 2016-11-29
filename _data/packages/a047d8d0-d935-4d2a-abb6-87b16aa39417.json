@@ -25,7 +25,7 @@
 		"last_modified": null,
 		"hash": "",
 		"description": "sdatt03.exe",
-		"format": "application\/octet-stream",
+		"format": "application/octet-stream",
 		"tracking_summary": {
 			"total": 3,
 			"recent": 1
@@ -37,7 +37,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2013-06-12T14:00:35.569260",
-		"url": "ftp:\/\/ftp.lmic.state.mn.us\/pub\/data\/admin_poli\/sdatt03.exe",
+		"url": "ftp://ftp.lmic.state.mn.us/pub/data/admin_poli/sdatt03.exe",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 0,
@@ -110,11 +110,11 @@
 	},
 	{
 		"key": "spatial",
-		"value": "{\"type\": \"Polygon\", \"coordinates\": [[[-97.269854, 43.435253], [-89.389133, 43.435253], [-89.389133, 49.404388], [-97.269854, 49.404388], [-97.269854, 43.435253]]]}"
+		"value": "{"type": "Polygon", "coordinates": [[[-97.269854, 43.435253], [-89.389133, 43.435253], [-89.389133, 49.404388], [-97.269854, 49.404388], [-97.269854, 43.435253]]]}"
 	},
 	{
 		"key": "access_constraints",
-		"value": "[\"Use Constraints: If you obtain data from LMIC, it is understood that you and\/or your organization have the right to use them for any internal purpose. If you modify them, you should document those changes in a metadata record that should accompany all redistributed data. If you transmit or provide these data in any form to another user, the data MUST be accompanied by a copy of LMIC's disclaimer NOTICE.TXT and all documentation provided with the original data set including the full metadata record.\", \"Access Constraints: ISO 19115 Topic Category\"]"
+		"value": "["Use Constraints: If you obtain data from LMIC, it is understood that you and/or your organization have the right to use them for any internal purpose. If you modify them, you should document those changes in a metadata record that should accompany all redistributed data. If you transmit or provide these data in any form to another user, the data MUST be accompanied by a copy of LMIC's disclaimer NOTICE.TXT and all documentation provided with the original data set including the full metadata record.", "Access Constraints: ISO 19115 Topic Category"]"
 	},
 	{
 		"key": "contact-email",
@@ -130,7 +130,7 @@
 	},
 	{
 		"key": "dataset-reference-date",
-		"value": "[{\"type\": \"publication\", \"value\": \"2003-01-01\"}]"
+		"value": "[{"type": "publication", "value": "2003-01-01"}]"
 	},
 	{
 		"key": "graphic-preview-description",
@@ -142,7 +142,7 @@
 	},
 	{
 		"key": "licence",
-		"value": "[\"The Minnesota Department of Education (MDE) and the Land Management Information Center (LMIC) do not warrant the results you may obtain by using this dataset. This dataset is provided ''as is'' without express or implied warranties, including warranties of merchantability and fitness. In no event will MDE or LMIC be liable for any consequential, incidental or special damages, including any lost profits or lost savings, even if an MDE or LMIC representative has been advised of the possibility of such damages or any other claim by any third party.\"]"
+		"value": "["The Minnesota Department of Education (MDE) and the Land Management Information Center (LMIC) do not warrant the results you may obtain by using this dataset. This dataset is provided ''as is'' without express or implied warranties, including warranties of merchantability and fitness. In no event will MDE or LMIC be liable for any consequential, incidental or special damages, including any lost profits or lost savings, even if an MDE or LMIC representative has been advised of the possibility of such damages or any other claim by any third party."]"
 	},
 	{
 		"key": "metadata_type",
@@ -150,7 +150,7 @@
 	},
 	{
 		"key": "responsible-party",
-		"value": "[{\"name\": \"Land Management Information Center\", \"roles\": [\"pointOfContact\"]}]"
+		"value": "[{"name": "Land Management Information Center", "roles": ["pointOfContact"]}]"
 	},
 	{
 		"key": "spatial-data-service-type",
@@ -192,7 +192,7 @@
 		"revision_timestamp": "2013-03-27T17:32:06.049250",
 		"is_organization": true,
 		"state": "active",
-		"image_url": "http:\/\/mn.gov\/portal\/images\/mn_header_mn-logo.png",
+		"image_url": "http://mn.gov/portal/images/mn_header_mn-logo.png",
 		"revision_id": "018d8409-7698-467f-8dc2-c58188806480",
 		"type": "organization",
 		"id": "24298fe4-ee0d-43ae-af51-81ae5f5c6165",

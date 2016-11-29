@@ -34,7 +34,7 @@
 		"cache_url": null,
 		"name": "cdof-data.mat",
 		"created": "2016-10-06T13:43:29.430905",
-		"url": "http:\/\/mhkdr.openei.org\/files\/149\/CDOF_data.mat",
+		"url": "http://mhkdr.openei.org/files/149/CDOF_data.mat",
 		"webstore_url": null,
 		"last_modified": null,
 		"position": 0,
@@ -57,11 +57,11 @@
 			"recent": 0
 		},
 		"mimetype_inner": null,
-		"mimetype": "application\/pdf",
+		"mimetype": "application/pdf",
 		"cache_url": null,
 		"name": "cdof-wec-sand-report.pdf",
 		"created": "2016-10-06T13:43:29.430934",
-		"url": "http:\/\/mhkdr.openei.org\/files\/149\/CDOF_WEC_SAND_Report.pdf",
+		"url": "http://mhkdr.openei.org/files/149/CDOF_WEC_SAND_Report.pdf",
 		"webstore_url": null,
 		"last_modified": null,
 		"position": 1,
@@ -120,7 +120,7 @@
 	"name": "modeling-and-perormance-data-for-heaving-bouy-wave-energy-converter-with-a-compressible-de",
 	"isopen": true,
 	"url": null,
-	"notes": "The data is composed of a .mat file and a pdf.\nThe pdf document describes the model, the simulations, and the analysis that has been carried out.\nThe .mat file contains 3 matlab structures:\n\n- WEC_model: all the data necessary to build the model is contained in this file. The notation is consistent with the report (variables have the same name as in the attached report).\n\n-simRes_fix: this structure contains simulation results for the WEC with compressible degree of freedom reacting against a fixed structure. The description of all the quantities and their unit are also contained in this variable.\n\n-simRes_sr: this structure contains simulation results for then self-reacting WEC with compressible degree of freedom. The description of all the quantities and their unit are also contained in this variable",
+	"notes": "The data is composed of a .mat file and a pdf.nThe pdf document describes the model, the simulations, and the analysis that has been carried out.nThe .mat file contains 3 matlab structures:nn- WEC_model: all the data necessary to build the model is contained in this file. The notation is consistent with the report (variables have the same name as in the attached report).nn-simRes_fix: this structure contains simulation results for the WEC with compressible degree of freedom reacting against a fixed structure. The description of all the quantities and their unit are also contained in this variable.nn-simRes_sr: this structure contains simulation results for then self-reacting WEC with compressible degree of freedom. The description of all the quantities and their unit are also contained in this variable",
 	"license_title": "Creative Commons Attribution",
 	"extras": [{
 		"key": "harvest_source_id",
@@ -144,23 +144,23 @@
 	},
 	{
 		"key": "spatial",
-		"value": "{\"type\":\"Polygon\",\"coordinates\":[[[-127.912309375,43.723676294292],[-117.9478109375,43.723676294292],[-117.9478109375,49.635089993872],[-127.912309375,49.635089993872],[-127.912309375,43.723676294292]]]}"
+		"value": "{"type":"Polygon","coordinates":[[[-127.912309375,43.723676294292],[-117.9478109375,43.723676294292],[-117.9478109375,49.635089993872],[-127.912309375,49.635089993872],[-127.912309375,43.723676294292]]]}"
 	},
 	{
 		"key": "catalog_conformsTo",
-		"value": "https:\/\/project-open-data.cio.gov\/v1.1\/schema"
+		"value": "https://project-open-data.cio.gov/v1.1/schema"
 	},
 	{
 		"key": "catalog_@context",
-		"value": "https:\/\/project-open-data.cio.gov\/v1.1\/schema\/catalog.jsonld"
+		"value": "https://project-open-data.cio.gov/v1.1/schema/catalog.jsonld"
 	},
 	{
 		"key": "catalog_describedBy",
-		"value": "https:\/\/project-open-data.cio.gov\/v1.1\/schema\/catalog.json"
+		"value": "https://project-open-data.cio.gov/v1.1/schema/catalog.json"
 	},
 	{
 		"key": "format",
-		"value": "application\/unknown"
+		"value": "application/unknown"
 	},
 	{
 		"key": "harvest_source_title",
@@ -180,7 +180,7 @@
 	},
 	{
 		"key": "landingPage",
-		"value": "http:\/\/mhkdr.openei.org\/submissions\/149"
+		"value": "http://mhkdr.openei.org/submissions/149"
 	},
 	{
 		"key": "harvest_object_id",
@@ -188,7 +188,7 @@
 	},
 	{
 		"key": "accessURL",
-		"value": "http:\/\/mhkdr.openei.org\/files\/149\/CDOF_data.mat"
+		"value": "http://mhkdr.openei.org/files/149/CDOF_data.mat"
 	},
 	{
 		"key": "publisher",
@@ -196,7 +196,7 @@
 	},
 	{
 		"key": "license",
-		"value": "https:\/\/creativecommons.org\/licenses\/by\/4.0\/"
+		"value": "https://creativecommons.org/licenses/by/4.0/"
 	},
 	{
 		"key": "modified",
@@ -212,7 +212,7 @@
 	},
 	{
 		"key": "identifier",
-		"value": "http:\/\/en.openei.org\/doe-opendata\/dataset\/f0000000-e214-4b72-acd2-000000000149"
+		"value": "http://en.openei.org/doe-opendata/dataset/f0000000-e214-4b72-acd2-000000000149"
 	},
 	{
 		"state": "active",
@@ -229,7 +229,7 @@
 		"key": "harvest_source_title",
 		"value": "Energy JSON"
 	}],
-	"license_url": "http:\/\/www.opendefinition.org\/licenses\/cc-by",
+	"license_url": "http://www.opendefinition.org/licenses/cc-by",
 	"organization": {
 		"description": "",
 		"created": "2013-05-18T11:31:21.471948",
@@ -238,7 +238,7 @@
 		"revision_timestamp": "2013-05-31T20:48:37.771905",
 		"is_organization": true,
 		"state": "active",
-		"image_url": "http:\/\/energy.gov\/sites\/prod\/files\/styles\/imagelink\/public\/DoE-Logo.jpeg",
+		"image_url": "http://energy.gov/sites/prod/files/styles/imagelink/public/DoE-Logo.jpeg",
 		"revision_id": "14e1d3c1-4cc7-460c-bf1c-b10e3429b4b0",
 		"type": "organization",
 		"id": "735d0118-b2a7-4246-a0e3-608b0fa8d1ec",

@@ -37,7 +37,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2015-04-25T08:20:30.372794",
-		"url": "http:\/\/bios.dfg.ca.gov",
+		"url": "http://bios.dfg.ca.gov",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 0,
@@ -67,7 +67,7 @@
 		"cache_url": null,
 		"name": "Zip File",
 		"created": "2015-04-25T08:20:30.372816",
-		"url": "ftp:\/\/ftp.dfg.ca.gov\/BDB\/GIS\/BIOS\/Public_Datasets\/100_199\/ds158.zip",
+		"url": "ftp://ftp.dfg.ca.gov/BDB/GIS/BIOS/Public_Datasets/100_199/ds158.zip",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 1,
@@ -97,7 +97,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2015-04-25T08:20:30.372824",
-		"url": "http:\/\/TBA",
+		"url": "http://TBA",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 2,
@@ -117,11 +117,11 @@
 	"name": "stream-habitat-reach-summary-ncwap-ds158fd3a1",
 	"isopen": false,
 	"url": null,
-	"notes": "The Stream Habitat - NCWAP - Reach Summary [ds158] shapefile contains in-stream habitat survey data summarized to the stream reach level. It is a derivative of the Stream Habitat - NCWAP [ds119] shapefile, which is based on habitat unit level surveys collected by DFG from 1991 to 2002, with most effort in 1995 and 1996. The database helps identify and describe in-stream habitat available to anadromous salmonids within watersheds of the California North Coast Hydrologic Region. The North Coast Watershed Assessment Program (NCWAP) uses these and other data in conjunction with the Ecological Management Decision Support system model (EMDS; Reynolds 1999) to evaluate and synthesize information on watershed and stream conditions for salmonids. Data were collected using standardized survey techniques according to the version of the \"California Stream Habitat Restoration Manual\" (see Flosi et al.) that was current in the year of survey. Field survey teams measured up to 60 parameters for selected habitat units. Stream surveys typically started at the downstream confluence and proceeded upstream to the \"limit of anadromy\" as assessed by the survey crew. For more information regarding the NCWAP program, including analytical model development and results, see http:\/\/www.ncwatershed.ca.gov\/ . WHAT EACH RECORD REPRESENTS: Each record represents in-stream habitat unit data summarized to the stream reach level. A habitat unit is the base level for the stream habitat surveys and is generally determined by the occurrence of riffle, run and pool sections along the stream. Stream reaches are determined by changes in stream channel type as described by Rosgen (1994).",
+	"notes": "The Stream Habitat - NCWAP - Reach Summary [ds158] shapefile contains in-stream habitat survey data summarized to the stream reach level. It is a derivative of the Stream Habitat - NCWAP [ds119] shapefile, which is based on habitat unit level surveys collected by DFG from 1991 to 2002, with most effort in 1995 and 1996. The database helps identify and describe in-stream habitat available to anadromous salmonids within watersheds of the California North Coast Hydrologic Region. The North Coast Watershed Assessment Program (NCWAP) uses these and other data in conjunction with the Ecological Management Decision Support system model (EMDS; Reynolds 1999) to evaluate and synthesize information on watershed and stream conditions for salmonids. Data were collected using standardized survey techniques according to the version of the "California Stream Habitat Restoration Manual" (see Flosi et al.) that was current in the year of survey. Field survey teams measured up to 60 parameters for selected habitat units. Stream surveys typically started at the downstream confluence and proceeded upstream to the "limit of anadromy" as assessed by the survey crew. For more information regarding the NCWAP program, including analytical model development and results, see http://www.ncwatershed.ca.gov/ . WHAT EACH RECORD REPRESENTS: Each record represents in-stream habitat unit data summarized to the stream reach level. A habitat unit is the base level for the stream habitat surveys and is generally determined by the occurrence of riffle, run and pool sections along the stream. Stream reaches are determined by changes in stream channel type as described by Rosgen (1994).",
 	"license_title": null,
 	"extras": [{
 		"key": "bbox-east-long",
-		"value": "\n-123.149327"
+		"value": "n-123.149327"
 	},
 	{
 		"key": "resource-type",
@@ -129,7 +129,7 @@
 	},
 	{
 		"key": "bbox-north-lat",
-		"value": "\n41.322808"
+		"value": "n41.322808"
 	},
 	{
 		"key": "coupled-resource",
@@ -161,7 +161,7 @@
 	},
 	{
 		"key": "spatial",
-		"value": "{\"type\": \"Polygon\", \"coordinates\": [[[-124.366441, 38.554977], [-123.149327, 38.554977], [-123.149327, 41.322808], [-124.366441, 41.322808], [-124.366441, 38.554977]]]}"
+		"value": "{"type": "Polygon", "coordinates": [[[-124.366441, 38.554977], [-123.149327, 38.554977], [-123.149327, 41.322808], [-124.366441, 41.322808], [-124.366441, 38.554977]]]}"
 	},
 	{
 		"key": "progress",
@@ -169,7 +169,7 @@
 	},
 	{
 		"key": "access_constraints",
-		"value": "[\"Use Constraints: In accordance with the California Salmonid Stream Habitat Restoration Manual,\", \"Access Constraints: None\"]"
+		"value": "["Use Constraints: In accordance with the California Salmonid Stream Habitat Restoration Manual,", "Access Constraints: None"]"
 	},
 	{
 		"key": "temporal-extent-begin",
@@ -181,7 +181,7 @@
 	},
 	{
 		"key": "bbox-west-long",
-		"value": "\n-124.366441"
+		"value": "n-124.366441"
 	},
 	{
 		"key": "metadata-date",
@@ -189,7 +189,7 @@
 	},
 	{
 		"key": "dataset-reference-date",
-		"value": "[{\"type\": \"publication\", \"value\": \"2005-08-29\"}]"
+		"value": "[{"type": "publication", "value": "2005-08-29"}]"
 	},
 	{
 		"key": "graphic-preview-description",
@@ -201,7 +201,7 @@
 	},
 	{
 		"key": "licence",
-		"value": "[\"Location data are accurate to the extent that they were correctly interpreted during the editing and processing for the GIS environment.  Some errors will remain while editing procedures are being developed.\"]"
+		"value": "["Location data are accurate to the extent that they were correctly interpreted during the editing and processing for the GIS environment.  Some errors will remain while editing procedures are being developed."]"
 	},
 	{
 		"key": "metadata_type",
@@ -209,7 +209,7 @@
 	},
 	{
 		"key": "responsible-party",
-		"value": "[{\"name\": \"California Department of Fish and Game, WHDAB\", \"roles\": [\"pointOfContact\"]}]"
+		"value": "[{"name": "California Department of Fish and Game, WHDAB", "roles": ["pointOfContact"]}]"
 	},
 	{
 		"key": "temporal-extent-end",
@@ -221,7 +221,7 @@
 	},
 	{
 		"key": "bbox-south-lat",
-		"value": "\n38.554977"
+		"value": "n38.554977"
 	},
 	{
 		"package_id": "d70b3c73-a03f-4a7a-bd5d-10e047ed5e7e",
@@ -255,7 +255,7 @@
 		"revision_timestamp": "2013-05-31T17:51:13.706377",
 		"is_organization": true,
 		"state": "active",
-		"image_url": "http:\/\/www.ca.gov\/images\/template2012\/header_ca.gov.png",
+		"image_url": "http://www.ca.gov/images/template2012/header_ca.gov.png",
 		"revision_id": "ad94cda4-9394-44d0-9c37-573dc3c47c9a",
 		"type": "organization",
 		"id": "467d900f-8a42-452d-9906-6610dd1a767f",

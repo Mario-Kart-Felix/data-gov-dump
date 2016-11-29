@@ -37,7 +37,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2015-10-06T16:41:23.025460",
-		"url": "http:\/\/www.ngdc.noaa.gov\/stp\/SOLAR\/",
+		"url": "http://www.ngdc.noaa.gov/stp/SOLAR/",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 0,
@@ -66,7 +66,7 @@
 		"cache_url": null,
 		"name": "GCMD Feedback Form",
 		"created": "2015-10-06T16:41:23.025491",
-		"url": "http:\/\/gcmd.nasa.gov\/MailComments\/MailComments.jsf?rcpt=gcmduso",
+		"url": "http://gcmd.nasa.gov/MailComments/MailComments.jsf?rcpt=gcmduso",
 		"webstore_url": null,
 		"resource_locator_function": "information",
 		"position": 1,
@@ -95,7 +95,7 @@
 		"cache_url": null,
 		"name": "GCMD Keywords Page",
 		"created": "2015-10-06T16:41:23.025499",
-		"url": "http:\/\/gcmd.nasa.gov\/learn\/keyword_list.html",
+		"url": "http://gcmd.nasa.gov/learn/keyword_list.html",
 		"webstore_url": null,
 		"resource_locator_function": "information",
 		"position": 2,
@@ -115,7 +115,7 @@
 	"name": "geomagnetic-kn-ks-km-indices",
 	"isopen": false,
 	"url": null,
-	"notes": "A full description of the indices Kn, Ks, Km is given in a monography,\"Indices Kn, Ks et Km, 1964-1967\", edited in 1968 by the Centre National de la Recherche Scientifique, 15 quai Anatole, France, 75007 Paris, which contains these indices for 2964-1967 while the International Association of Geomagnetism and Aeronony (IAGA) Bulletin NO. 39 contains those for 1959-1963. Yearly computations of these data are published in the series of IAGA Bulletin No.32. All\n                    of them are available in digital form at the appropriate World Data Center. Briefly, the three-hourly indices Kn and Ks for the Northern and Southern Hemispheres respectively are derived from the K indices of observatories approximately well distributed in latitude and in longitude. The indices are standardized according to the distances of the stations to the auroral zones. The stations are arranged in groups representing a longitude sector in one of the hemispheres (5 in\n                    the Northern Hemisphere, 4 in the Southern). The observatories currently in use are: MGD-Magadan, EYR-Eyrewell, PET-Petropavlovsk, LAU-Lauder, MMB-Memambetsu, CAN-Canberra, POD-Podkammenaya Tunguska, SVE-Sverdlovsk, GNA-Gnangara, NGK-Niemegk, KGL-Kerguelen, CZT-Crozet, HAD-Hartland, HER-Hermanus, OTT-Ottawa, AIA-Argentine Island, FRD-Fredericksburg, NEW-Newport, VIC-Victoria, TUC-Tucson The mean standardized K of each sector is converted into an equivalent amplitude and the\n                    weighted (in longitude) averages and these amplitudes are converted back into Kn and Ks. Km is derived in the same way from am, the average of an and as. Indices an, as and am are expressed in gammas (one gamma equals one nanoTesla) and correspond to the magnetic activity level (as it can be inferred from K indices 0 at an invariant magnetic latitude of 50 degrees. Indices Kn, Ks and Km are expressed in the same units as Kp. Values published in these reports are only\n                    provisional because in some months all observatories used in each longitude sector have not sent K indices at the right time and because K indices of Antarctic Stations have be rescaled at the end of each wintering.",
+	"notes": "A full description of the indices Kn, Ks, Km is given in a monography,"Indices Kn, Ks et Km, 1964-1967", edited in 1968 by the Centre National de la Recherche Scientifique, 15 quai Anatole, France, 75007 Paris, which contains these indices for 2964-1967 while the International Association of Geomagnetism and Aeronony (IAGA) Bulletin NO. 39 contains those for 1959-1963. Yearly computations of these data are published in the series of IAGA Bulletin No.32. Alln                    of them are available in digital form at the appropriate World Data Center. Briefly, the three-hourly indices Kn and Ks for the Northern and Southern Hemispheres respectively are derived from the K indices of observatories approximately well distributed in latitude and in longitude. The indices are standardized according to the distances of the stations to the auroral zones. The stations are arranged in groups representing a longitude sector in one of the hemispheres (5 inn                    the Northern Hemisphere, 4 in the Southern). The observatories currently in use are: MGD-Magadan, EYR-Eyrewell, PET-Petropavlovsk, LAU-Lauder, MMB-Memambetsu, CAN-Canberra, POD-Podkammenaya Tunguska, SVE-Sverdlovsk, GNA-Gnangara, NGK-Niemegk, KGL-Kerguelen, CZT-Crozet, HAD-Hartland, HER-Hermanus, OTT-Ottawa, AIA-Argentine Island, FRD-Fredericksburg, NEW-Newport, VIC-Victoria, TUC-Tucson The mean standardized K of each sector is converted into an equivalent amplitude and then                    weighted (in longitude) averages and these amplitudes are converted back into Kn and Ks. Km is derived in the same way from am, the average of an and as. Indices an, as and am are expressed in gammas (one gamma equals one nanoTesla) and correspond to the magnetic activity level (as it can be inferred from K indices 0 at an invariant magnetic latitude of 50 degrees. Indices Kn, Ks and Km are expressed in the same units as Kp. Values published in these reports are onlyn                    provisional because in some months all observatories used in each longitude sector have not sent K indices at the right time and because K indices of Antarctic Stations have be rescaled at the end of each wintering.",
 	"license_title": null,
 	"extras": [{
 		"key": "bbox-east-long",
@@ -151,7 +151,7 @@
 	},
 	{
 		"key": "spatial",
-		"value": "{\"type\": \"Polygon\", \"coordinates\": [[[-180.0, -90.0], [180.0, -90.0], [180.0, 90.0], [-180.0, 90.0], [-180.0, -90.0]]]}"
+		"value": "{"type": "Polygon", "coordinates": [[[-180.0, -90.0], [180.0, -90.0], [180.0, 90.0], [-180.0, 90.0], [-180.0, -90.0]]]}"
 	},
 	{
 		"key": "progress",
@@ -159,7 +159,7 @@
 	},
 	{
 		"key": "access_constraints",
-		"value": "[\"Use Constraints: None\", \"Access Constraints: No Constraints\"]"
+		"value": "["Use Constraints: None", "Access Constraints: No Constraints"]"
 	},
 	{
 		"key": "temporal-extent-begin",
@@ -179,7 +179,7 @@
 	},
 	{
 		"key": "dataset-reference-date",
-		"value": "[{\"type\": \"publication\", \"value\": \"1998-05-13\"}]"
+		"value": "[{"type": "publication", "value": "1998-05-13"}]"
 	},
 	{
 		"key": "frequency-of-update",
@@ -187,7 +187,7 @@
 	},
 	{
 		"key": "licence",
-		"value": "[\"While every effort has been made to ensure that these data are accurate and reliable within the limits of the current state of the art, NOAA cannot assume liability for any damages caused by any errors or omissions in the data, nor as a result of the failure of the data to function on a particular system. NOAA makes no warranty, expressed or implied, nor does the fact of distribution constitute such a warranty.\"]"
+		"value": "["While every effort has been made to ensure that these data are accurate and reliable within the limits of the current state of the art, NOAA cannot assume liability for any damages caused by any errors or omissions in the data, nor as a result of the failure of the data to function on a particular system. NOAA makes no warranty, expressed or implied, nor does the fact of distribution constitute such a warranty."]"
 	},
 	{
 		"key": "metadata_type",
@@ -195,7 +195,7 @@
 	},
 	{
 		"key": "responsible-party",
-		"value": "[{\"name\": \"DOC\/NOAA\/NESDIS\/NCEI > National Centers for Environmental Information, NESDIS, NOAA, U.S. Department of Commerce\", \"roles\": [\"pointOfContact\"]}]"
+		"value": "[{"name": "DOC/NOAA/NESDIS/NCEI > National Centers for Environmental Information, NESDIS, NOAA, U.S. Department of Commerce", "roles": ["pointOfContact"]}]"
 	},
 	{
 		"key": "spatial-data-service-type",
@@ -207,7 +207,7 @@
 	},
 	{
 		"package_id": "bfb802d0-1cc0-4076-a7f7-0baf48d2731a",
-		"value": "national centers for environmental information, nesdis, noaa, u.s. department of commerce, azimuthal component, solid earth, national geophysical data center, nesdis, noaa, u.s. department of commerce, doc\/noaa\/nesdis\/ngdc, geomagnetic indices, geomagnetism, global, doc\/noaa\/nesdis\/ncei, geomagnetic field, magnetosphere, ks, kn, km indices, earth science",
+		"value": "national centers for environmental information, nesdis, noaa, u.s. department of commerce, azimuthal component, solid earth, national geophysical data center, nesdis, noaa, u.s. department of commerce, doc/noaa/nesdis/ngdc, geomagnetic indices, geomagnetism, global, doc/noaa/nesdis/ncei, geomagnetic field, magnetosphere, ks, kn, km indices, earth science",
 		"revision_timestamp": "2015-10-06T20:41:22.888976",
 		"state": "active",
 		"key": "tags",
@@ -237,7 +237,7 @@
 		"revision_timestamp": "2013-03-25T23:05:12.923863",
 		"is_organization": true,
 		"state": "active",
-		"image_url": "https:\/\/fortress.wa.gov\/dfw\/score\/score\/images\/noaa_logo.png",
+		"image_url": "https://fortress.wa.gov/dfw/score/score/images/noaa_logo.png",
 		"revision_id": "c6d43080-22e1-405e-a83d-f2a512d9e867",
 		"type": "organization",
 		"id": "e811f0b4-451f-4896-9e8f-fc6802837819",

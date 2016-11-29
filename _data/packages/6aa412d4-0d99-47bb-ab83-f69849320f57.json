@@ -37,7 +37,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2015-09-26T22:53:05.855128",
-		"url": "ftp:\/\/sidads.colorado.edu\/DATASETS\/NOAA\/G02130",
+		"url": "ftp://sidads.colorado.edu/DATASETS/NOAA/G02130",
 		"webstore_url": null,
 		"resource_locator_function": "function",
 		"position": 0,
@@ -67,7 +67,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2015-09-26T22:53:05.855151",
-		"url": "http:\/\/nsidc.org\/data\/docs\/noaa\/g02130_frei_snow_cover\/index.html",
+		"url": "http://nsidc.org/data/docs/noaa/g02130_frei_snow_cover/index.html",
 		"webstore_url": null,
 		"resource_locator_function": "function",
 		"position": 1,
@@ -85,7 +85,7 @@
 		"last_modified": null,
 		"hash": "",
 		"description": "",
-		"format": "application\/vnd.lotus-organizer",
+		"format": "application/vnd.lotus-organizer",
 		"tracking_summary": {
 			"total": 81,
 			"recent": 2
@@ -97,7 +97,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2015-09-26T22:53:05.855161",
-		"url": "http:\/\/nsidc.org",
+		"url": "http://nsidc.org",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 2,
@@ -127,7 +127,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2015-09-26T22:53:05.855169",
-		"url": "http:\/\/nsidc.org\/noaa\/",
+		"url": "http://nsidc.org/noaa/",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 3,
@@ -145,7 +145,7 @@
 		"last_modified": null,
 		"hash": "",
 		"description": "",
-		"format": "application\/vnd.lotus-organizer",
+		"format": "application/vnd.lotus-organizer",
 		"tracking_summary": {
 			"total": 81,
 			"recent": 2
@@ -157,7 +157,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2015-09-26T22:53:05.855177",
-		"url": "http:\/\/nsidc.org",
+		"url": "http://nsidc.org",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 4,
@@ -179,7 +179,7 @@
 		"revision_timestamp": "2013-03-25T23:05:12.923863",
 		"is_organization": true,
 		"state": "active",
-		"image_url": "https:\/\/fortress.wa.gov\/dfw\/score\/score\/images\/noaa_logo.png",
+		"image_url": "https://fortress.wa.gov/dfw/score/score/images/noaa_logo.png",
 		"revision_id": "c6d43080-22e1-405e-a83d-f2a512d9e867",
 		"type": "organization",
 		"id": "e811f0b4-451f-4896-9e8f-fc6802837819",
@@ -190,7 +190,7 @@
 	"name": "reconstructed-north-american-snow-extent-1900-1993",
 	"isopen": false,
 	"url": null,
-	"notes": "\nThis data set contains reconstructed monthly North American snow extent values for November through March, 1900-1993. Investigators used a combination of satellite and station observations and based the reconstruction on linear regressions between the two types of observations. The data also includes standard errors of estimates as well as the observed values upon which the regressions were based.Station-based snow observations are available for dates since the early twentieth century but lack comprehensive spatial coverage. A remotely sensed product based on visible-band imagery provides more complete spatial coverage but has only been available since the early 1970s. Since the reconstructed values are based on regression, variability is underestimated and therefore the magnitude of some extreme values is underestimated.Data are available via FTP.\n",
+	"notes": "nThis data set contains reconstructed monthly North American snow extent values for November through March, 1900-1993. Investigators used a combination of satellite and station observations and based the reconstruction on linear regressions between the two types of observations. The data also includes standard errors of estimates as well as the observed values upon which the regressions were based.Station-based snow observations are available for dates since the early twentieth century but lack comprehensive spatial coverage. A remotely sensed product based on visible-band imagery provides more complete spatial coverage but has only been available since the early 1970s. Since the reconstructed values are based on regression, variability is underestimated and therefore the magnitude of some extreme values is underestimated.Data are available via FTP.n",
 	"owner_org": "e811f0b4-451f-4896-9e8f-fc6802837819",
 	"extras": [{
 		"key": "bbox-east-long",
@@ -226,7 +226,7 @@
 	},
 	{
 		"key": "spatial",
-		"value": "{\"type\": \"Polygon\", \"coordinates\": [[[-125.0, 35.0], [-60.0, 35.0], [-60.0, 49.0], [-125.0, 49.0], [-125.0, 35.0]]]}"
+		"value": "{"type": "Polygon", "coordinates": [[[-125.0, 35.0], [-60.0, 35.0], [-60.0, 49.0], [-125.0, 49.0], [-125.0, 35.0]]]}"
 	},
 	{
 		"key": "progress",
@@ -234,7 +234,7 @@
 	},
 	{
 		"key": "access_constraints",
-		"value": "[\"Access Constraints : none\", \"Use Constraints : none\"]"
+		"value": "["Access Constraints : none", "Use Constraints : none"]"
 	},
 	{
 		"key": "temporal-extent-begin",
@@ -254,7 +254,7 @@
 	},
 	{
 		"key": "dataset-reference-date",
-		"value": "[{\"type\": \"publication\", \"value\": \"2002-01-01\"}]"
+		"value": "[{"type": "publication", "value": "2002-01-01"}]"
 	},
 	{
 		"key": "frequency-of-update",
@@ -270,7 +270,7 @@
 	},
 	{
 		"key": "responsible-party",
-		"value": "[{\"name\": \"\", \"roles\": [\"principalInvestigator\"]}, {\"name\": \"Rutgers University\", \"roles\": [\"principalInvestigator\"]}, {\"name\": \"National Snow and Ice Data Center\", \"roles\": [\"pointOfContact\"]}]"
+		"value": "[{"name": "", "roles": ["principalInvestigator"]}, {"name": "Rutgers University", "roles": ["principalInvestigator"]}, {"name": "National Snow and Ice Data Center", "roles": ["pointOfContact"]}]"
 	},
 	{
 		"key": "temporal-extent-end",
@@ -286,7 +286,7 @@
 	},
 	{
 		"key": "tags",
-		"value": "terrestrial hydrosphere, cryosphere, snow extent, hdcd, north american snow extent, snow, snow cover, north america, reconstructed, linear regression analysis, snow\/ice, continent, historical daily climate dataset, earth science",
+		"value": "terrestrial hydrosphere, cryosphere, snow extent, hdcd, north american snow extent, snow, snow cover, north america, reconstructed, linear regression analysis, snow/ice, continent, historical daily climate dataset, earth science",
 		"__extras": {
 			"revision_id": "16f344d7-b8d9-48ad-85f3-6583283ab98c",
 			"package_id": "6aa412d4-0d99-47bb-ab83-f69849320f57"

@@ -36,7 +36,7 @@
 		"cache_url": null,
 		"name": "Data Subset Form",
 		"created": "2016-10-19T17:04:02.695398",
-		"url": "http:\/\/coastwatch.pfeg.noaa.gov\/erddap\/tabledap\/erdCinpKfmRPC.html",
+		"url": "http://coastwatch.pfeg.noaa.gov/erddap/tabledap/erdCinpKfmRPC.html",
 		"webstore_url": null,
 		"resource_locator_function": "download",
 		"position": 0,
@@ -65,7 +65,7 @@
 		"cache_url": null,
 		"name": "Make-A-Graph Form",
 		"created": "2016-10-19T17:04:02.695424",
-		"url": "http:\/\/coastwatch.pfeg.noaa.gov\/erddap\/tabledap\/erdCinpKfmRPC.graph",
+		"url": "http://coastwatch.pfeg.noaa.gov/erddap/tabledap/erdCinpKfmRPC.graph",
 		"webstore_url": null,
 		"resource_locator_function": "mapDigital",
 		"position": 1,
@@ -94,7 +94,7 @@
 		"cache_url": null,
 		"name": "Background Information",
 		"created": "2016-10-19T17:04:02.695432",
-		"url": "http:\/\/www.nps.gov\/chis\/naturescience\/index.htm",
+		"url": "http://www.nps.gov/chis/naturescience/index.htm",
 		"webstore_url": null,
 		"resource_locator_function": "information",
 		"position": 2,
@@ -123,7 +123,7 @@
 		"cache_url": null,
 		"name": "Background Information",
 		"created": "2016-10-19T17:04:02.695440",
-		"url": "http:\/\/www.nps.gov\/chis\/naturescience\/index.htm",
+		"url": "http://www.nps.gov/chis/naturescience/index.htm",
 		"webstore_url": null,
 		"resource_locator_function": "information",
 		"position": 3,
@@ -152,7 +152,7 @@
 		"cache_url": null,
 		"name": "Background Information",
 		"created": "2016-10-19T17:04:02.695447",
-		"url": "http:\/\/www.nps.gov\/chis\/naturescience\/index.htm",
+		"url": "http://www.nps.gov/chis/naturescience/index.htm",
 		"webstore_url": null,
 		"resource_locator_function": "information",
 		"position": 4,
@@ -181,7 +181,7 @@
 		"cache_url": null,
 		"name": "ERDDAP-tabledap",
 		"created": "2016-10-19T17:04:02.695454",
-		"url": "http:\/\/coastwatch.pfeg.noaa.gov\/erddap\/tabledap\/erdCinpKfmRPC",
+		"url": "http://coastwatch.pfeg.noaa.gov/erddap/tabledap/erdCinpKfmRPC",
 		"webstore_url": null,
 		"resource_locator_function": "download",
 		"position": 5,
@@ -210,7 +210,7 @@
 		"cache_url": null,
 		"name": "Background Information",
 		"created": "2016-10-19T17:04:02.695461",
-		"url": "http:\/\/www.nps.gov\/chis\/naturescience\/index.htm",
+		"url": "http://www.nps.gov/chis/naturescience/index.htm",
 		"webstore_url": null,
 		"resource_locator_function": "information",
 		"position": 6,
@@ -239,7 +239,7 @@
 		"cache_url": null,
 		"name": "OPeNDAP",
 		"created": "2016-10-19T17:04:02.695468",
-		"url": "http:\/\/coastwatch.pfeg.noaa.gov\/erddap\/tabledap\/erdCinpKfmRPC",
+		"url": "http://coastwatch.pfeg.noaa.gov/erddap/tabledap/erdCinpKfmRPC",
 		"webstore_url": null,
 		"resource_locator_function": "download",
 		"position": 7,
@@ -268,7 +268,7 @@
 		"cache_url": null,
 		"name": "Background Information",
 		"created": "2016-10-19T17:04:02.695475",
-		"url": "http:\/\/www.nps.gov\/chis\/naturescience\/index.htm",
+		"url": "http://www.nps.gov/chis/naturescience/index.htm",
 		"webstore_url": null,
 		"resource_locator_function": "information",
 		"position": 8,
@@ -297,7 +297,7 @@
 		"cache_url": null,
 		"name": "Subset",
 		"created": "2016-10-19T17:04:02.695482",
-		"url": "http:\/\/coastwatch.pfeg.noaa.gov\/erddap\/tabledap\/erdCinpKfmRPC.subset",
+		"url": "http://coastwatch.pfeg.noaa.gov/erddap/tabledap/erdCinpKfmRPC.subset",
 		"webstore_url": null,
 		"resource_locator_function": "download",
 		"position": 9,
@@ -333,7 +333,7 @@
 	},
 	{
 		"key": "coupled-resource",
-		"value": "[{\"href\": [\"#DataIdentification\"], \"uuid\": [], \"title\": []}, {\"href\": [\"#DataIdentification\"], \"uuid\": [], \"title\": []}, {\"href\": [\"#DataIdentification\"], \"uuid\": [], \"title\": []}]"
+		"value": "[{"href": ["#DataIdentification"], "uuid": [], "title": []}, {"href": ["#DataIdentification"], "uuid": [], "title": []}, {"href": ["#DataIdentification"], "uuid": [], "title": []}]"
 	},
 	{
 		"key": "guid",
@@ -353,7 +353,7 @@
 	},
 	{
 		"key": "spatial",
-		"value": "{\"type\": \"Polygon\", \"coordinates\": [[[-120.4, 32.8], [-118.4, 32.8], [-118.4, 34.05], [-120.4, 34.05], [-120.4, 32.8]]]}"
+		"value": "{"type": "Polygon", "coordinates": [[[-120.4, 32.8], [-118.4, 32.8], [-118.4, 34.05], [-120.4, 34.05], [-120.4, 32.8]]]}"
 	},
 	{
 		"key": "progress",
@@ -381,7 +381,7 @@
 	},
 	{
 		"key": "dataset-reference-date",
-		"value": "[{\"type\": \"creation\", \"value\": \"2008-06-11\"}, {\"type\": \"issued\", \"value\": \"2008-06-11\"}]"
+		"value": "[{"type": "creation", "value": "2008-06-11"}, {"type": "issued", "value": "2008-06-11"}]"
 	},
 	{
 		"key": "frequency-of-update",
@@ -397,7 +397,7 @@
 	},
 	{
 		"key": "responsible-party",
-		"value": "[{\"name\": \"CINP\", \"roles\": [\"pointOfContact\"]}]"
+		"value": "[{"name": "CINP", "roles": ["pointOfContact"]}]"
 	},
 	{
 		"key": "temporal-extent-end",
@@ -413,7 +413,7 @@
 	},
 	{
 		"package_id": "44a7e089-ce98-4df4-8468-c89600128c0d",
-		"value": "all, aquatic, squamigerus, random, pterygophora, atmosphere, ophiothrix, lajollaensis, including, corynactis, macrocystis, gigartina, tunicates, aquatic ecosystems, diaperoecia, kelp, latitude, leucetta, encrusting, brown, desmarestia, cobble, articulated, ecosystems, arborea, substrate, excluding, sand, ornata, cinp, stderr, rock, biological, identifier, mean, habitat, fish, cystoseira, pachythyone, bare, elegans, coastal habitat, red, biology, stddev, phragmatopoma, seaweeds, polymastia, marine, algae, biosphere, pyrifera, losangelensis, survey, islands, bryozoans, classification, point, biological classification, farlowii, coastal, balanus, statistics, spirobrancus, macroalgae, rubra, station, combined, sponges, coralline, vertebrates, spiculata, diopatra, astrangia, plants, animals, hydroids, longitude, eisenia, serpulorbis, spp, spinosus, sargassum, pachymastia, monitoring, gelidium, noaa nmfs swfsc erd (http:\/\/www.pfel.noaa.gov\/), forest, macroalgae (seaweeds), channel, marine habitat, animals\/vertebrates, miscellaneous, balanophyllia, laminaria, depth, contact, green, californica, time, invertebrates",
+		"value": "all, aquatic, squamigerus, random, pterygophora, atmosphere, ophiothrix, lajollaensis, including, corynactis, macrocystis, gigartina, tunicates, aquatic ecosystems, diaperoecia, kelp, latitude, leucetta, encrusting, brown, desmarestia, cobble, articulated, ecosystems, arborea, substrate, excluding, sand, ornata, cinp, stderr, rock, biological, identifier, mean, habitat, fish, cystoseira, pachythyone, bare, elegans, coastal habitat, red, biology, stddev, phragmatopoma, seaweeds, polymastia, marine, algae, biosphere, pyrifera, losangelensis, survey, islands, bryozoans, classification, point, biological classification, farlowii, coastal, balanus, statistics, spirobrancus, macroalgae, rubra, station, combined, sponges, coralline, vertebrates, spiculata, diopatra, astrangia, plants, animals, hydroids, longitude, eisenia, serpulorbis, spp, spinosus, sargassum, pachymastia, monitoring, gelidium, noaa nmfs swfsc erd (http://www.pfel.noaa.gov/), forest, macroalgae (seaweeds), channel, marine habitat, animals/vertebrates, miscellaneous, balanophyllia, laminaria, depth, contact, green, californica, time, invertebrates",
 		"revision_timestamp": "2016-07-25T20:56:20.576414",
 		"state": "active",
 		"key": "tags",
@@ -443,7 +443,7 @@
 		"revision_timestamp": "2013-03-25T23:05:12.923863",
 		"is_organization": true,
 		"state": "active",
-		"image_url": "https:\/\/fortress.wa.gov\/dfw\/score\/score\/images\/noaa_logo.png",
+		"image_url": "https://fortress.wa.gov/dfw/score/score/images/noaa_logo.png",
 		"revision_id": "c6d43080-22e1-405e-a83d-f2a512d9e867",
 		"type": "organization",
 		"id": "e811f0b4-451f-4896-9e8f-fc6802837819",

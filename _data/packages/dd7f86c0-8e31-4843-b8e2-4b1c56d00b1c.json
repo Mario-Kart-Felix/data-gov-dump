@@ -37,7 +37,7 @@
 		"cache_url": null,
 		"name": "Zip File",
 		"created": "2016-02-22T18:06:38.978613",
-		"url": "ftp:\/\/ftp.coast.noaa.gov\/pub\/MSP\/OceanUsesOregonWashingtonPROUA.zip",
+		"url": "ftp://ftp.coast.noaa.gov/pub/MSP/OceanUsesOregonWashingtonPROUA.zip",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 0,
@@ -67,7 +67,7 @@
 		"cache_url": null,
 		"name": "Esri Rest API Endpoint",
 		"created": "2016-02-22T18:06:38.978650",
-		"url": "https:\/\/coast.noaa.gov\/arcgis\/rest\/services\/MarineCadastre\/OceanUsesOregonWashingtonPROUA\/MapServer",
+		"url": "https://coast.noaa.gov/arcgis/rest/services/MarineCadastre/OceanUsesOregonWashingtonPROUA/MapServer",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 1,
@@ -97,7 +97,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2016-02-22T18:06:38.978663",
-		"url": "http:\/\/www.marinecadastre.gov\/data",
+		"url": "http://www.marinecadastre.gov/data",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 2,
@@ -127,7 +127,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2016-02-22T18:06:38.978682",
-		"url": "https:\/\/www.coast.noaa.gov\/",
+		"url": "https://www.coast.noaa.gov/",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 3,
@@ -147,11 +147,11 @@
 	"name": "ocean-uses-oregon-and-washington-proua",
 	"isopen": false,
 	"url": null,
-	"notes": "This Pacific Regional Ocean Uses Atlas (PROUA) Project is an innovative partnership between NOAA and the Bureau of Ocean Energy Management (BOEM) designed to document where coastal communities in Oregon and Washington use the ocean across a full range of typical human activities and sectors. Using participatory mapping techniques, the project offers a proven, flexible, and scalable approach allowing coastal communities to consider an accurate account of human use for ocean planning. Tribal uses of the ocean were not mapped explicitly, though tribal chairs and\/or their designated representatives were formally invited by BOEM to participate in the mapping workshops. The sharing of tribal use information was dependent upon each tribe's determination of whether the mapping workshops were an appropriate forum for sharing such information. Any tribal use information shared during the workshops was incorporated into the defined use categories. Thus, the atlas data and map products do not explicitly depict tribal use. For more information on the project, please visit http:\/\/marinecadastre.gov\/oceanuses\/.",
+	"notes": "This Pacific Regional Ocean Uses Atlas (PROUA) Project is an innovative partnership between NOAA and the Bureau of Ocean Energy Management (BOEM) designed to document where coastal communities in Oregon and Washington use the ocean across a full range of typical human activities and sectors. Using participatory mapping techniques, the project offers a proven, flexible, and scalable approach allowing coastal communities to consider an accurate account of human use for ocean planning. Tribal uses of the ocean were not mapped explicitly, though tribal chairs and/or their designated representatives were formally invited by BOEM to participate in the mapping workshops. The sharing of tribal use information was dependent upon each tribe's determination of whether the mapping workshops were an appropriate forum for sharing such information. Any tribal use information shared during the workshops was incorporated into the defined use categories. Thus, the atlas data and map products do not explicitly depict tribal use. For more information on the project, please visit http://marinecadastre.gov/oceanuses/.",
 	"license_title": null,
 	"extras": [{
 		"key": "responsible-party",
-		"value": "[{\"name\": \"NOAA Office for Coastal Management\", \"roles\": [\"pointOfContact\"]}]"
+		"value": "[{"name": "NOAA Office for Coastal Management", "roles": ["pointOfContact"]}]"
 	},
 	{
 		"key": "contact-email",
@@ -171,7 +171,7 @@
 	},
 	{
 		"key": "dataset-reference-date",
-		"value": "[{\"type\": \"publication\", \"value\": \"2015-10-01\"}]"
+		"value": "[{"type": "publication", "value": "2015-10-01"}]"
 	},
 	{
 		"key": "resource-type",
@@ -199,7 +199,7 @@
 	},
 	{
 		"key": "licence",
-		"value": "[\"NOAA makes no warranties or representations whatsoever regarding the availability, quality, accuracy, content, completeness or suitability for the user's needs of such information. The services, information, and data made available on the MarineCadastre.gov web site are provided 'as is' without warranties of any kind. These data are intended for coastal and ocean use planning. Not for navigation.\"]"
+		"value": "["NOAA makes no warranties or representations whatsoever regarding the availability, quality, accuracy, content, completeness or suitability for the user's needs of such information. The services, information, and data made available on the MarineCadastre.gov web site are provided 'as is' without warranties of any kind. These data are intended for coastal and ocean use planning. Not for navigation."]"
 	},
 	{
 		"key": "metadata_type",
@@ -211,7 +211,7 @@
 	},
 	{
 		"key": "spatial",
-		"value": "{\"type\": \"Polygon\", \"coordinates\": [[[-129.17791, 41.988024], [-123.333489, 41.988024], [-123.333489, 48.515996], [-129.17791, 48.515996], [-129.17791, 41.988024]]]}"
+		"value": "{"type": "Polygon", "coordinates": [[[-129.17791, 41.988024], [-123.333489, 41.988024], [-123.333489, 48.515996], [-129.17791, 48.515996], [-129.17791, 41.988024]]]}"
 	},
 	{
 		"key": "guid",
@@ -223,7 +223,7 @@
 	},
 	{
 		"key": "access_constraints",
-		"value": "[\"Use Constraints: These data are intended for coastal and ocean use planning. Not for navigation. http:\/\/www.marinecadastre.gov\/about\/disclaimer.html\", \"Access Constraints: None\"]"
+		"value": "["Use Constraints: These data are intended for coastal and ocean use planning. Not for navigation. http://www.marinecadastre.gov/about/disclaimer.html", "Access Constraints: None"]"
 	},
 	{
 		"key": "spatial_harvester",
@@ -265,7 +265,7 @@
 		"revision_timestamp": "2013-03-25T23:05:12.923863",
 		"is_organization": true,
 		"state": "active",
-		"image_url": "https:\/\/fortress.wa.gov\/dfw\/score\/score\/images\/noaa_logo.png",
+		"image_url": "https://fortress.wa.gov/dfw/score/score/images/noaa_logo.png",
 		"revision_id": "c6d43080-22e1-405e-a83d-f2a512d9e867",
 		"type": "organization",
 		"id": "e811f0b4-451f-4896-9e8f-fc6802837819",

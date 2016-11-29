@@ -37,7 +37,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2014-11-17T16:12:27.381048",
-		"url": "http:\/\/water.usgs.gov\/GIS\/dsdl\/ds412\/index.html",
+		"url": "http://water.usgs.gov/GIS/dsdl/ds412/index.html",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 0,
@@ -67,7 +67,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2014-11-17T16:12:27.381081",
-		"url": "http:\/\/water.usgs.gov\/lookup\/getspatial?ds412_syntheticperennialstreams",
+		"url": "http://water.usgs.gov/lookup/getspatial?ds412_syntheticperennialstreams",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 1,
@@ -97,7 +97,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2014-11-17T16:12:27.381089",
-		"url": "http:\/\/pubs.usgs.gov\/ds\/412\/",
+		"url": "http://pubs.usgs.gov/ds/412/",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 2,
@@ -117,15 +117,15 @@
 	"name": "estimated-perennial-streams-in-idaho",
 	"isopen": false,
 	"url": null,
-	"notes": "Perennial streams in Idaho have been modeled using regression equations for 7-day, 2-year low flows (7Q2) described in Wood and others (2009, U.S. Geological Survey Scientific Investigations Report 2009-5015). The model produces \"synthetic\" streams based on 10-meter resolution digitial elevation models that have been processed to agree closely with 1:24,000-scale National Hydrography Dataset flowlines. Lines having attribute PerCode = 1 represent model grid cells having 7Q2 flow estimates between 0.1 cubic feet per second (ft3\/s) and 0.1 minus the standard error for the applicable regional regression equation. Lines having attribute PerCode = 2 represent model grid cells having 7Q2 flow estimates between 0.1 ft3\/s and 0.1 plus the standard error for the applicable regional regression equation. Lines having attribute PerCode = 3 represent model grid cells having 7Q2 flow estimates greater than 0.1 ft3\/s plus the standard error for the applicable regional regression equation. These three categories of lines indicate approximate levels of uncertainty in the model results, with lines having PerCode = 1 representing the most uncertainty, and lines having PerCode = 3 representing the least uncertainty with respect to representing a perennial stream.",
+	"notes": "Perennial streams in Idaho have been modeled using regression equations for 7-day, 2-year low flows (7Q2) described in Wood and others (2009, U.S. Geological Survey Scientific Investigations Report 2009-5015). The model produces "synthetic" streams based on 10-meter resolution digitial elevation models that have been processed to agree closely with 1:24,000-scale National Hydrography Dataset flowlines. Lines having attribute PerCode = 1 represent model grid cells having 7Q2 flow estimates between 0.1 cubic feet per second (ft3/s) and 0.1 minus the standard error for the applicable regional regression equation. Lines having attribute PerCode = 2 represent model grid cells having 7Q2 flow estimates between 0.1 ft3/s and 0.1 plus the standard error for the applicable regional regression equation. Lines having attribute PerCode = 3 represent model grid cells having 7Q2 flow estimates greater than 0.1 ft3/s plus the standard error for the applicable regional regression equation. These three categories of lines indicate approximate levels of uncertainty in the model results, with lines having PerCode = 1 representing the most uncertainty, and lines having PerCode = 3 representing the least uncertainty with respect to representing a perennial stream.",
 	"license_title": null,
 	"extras": [{
 		"key": "responsible-party",
-		"value": "[{\"name\": \"U.S. Geological Survey\", \"roles\": [\"pointOfContact\"]}]"
+		"value": "[{"name": "U.S. Geological Survey", "roles": ["pointOfContact"]}]"
 	},
 	{
 		"key": "contact-email",
-		"value": "http:\/\/answers.usgs.gov\/cgi-bin\/gsanswers?pemail=h2oteam&amp;subject=GIS+Dataset+ds412_syntheticperennialstreams"
+		"value": "http://answers.usgs.gov/cgi-bin/gsanswers?pemail=h2oteam&amp;subject=GIS+Dataset+ds412_syntheticperennialstreams"
 	},
 	{
 		"key": "metadata-language",
@@ -133,7 +133,7 @@
 	},
 	{
 		"key": "bbox-west-long",
-		"value": "\n-118.566350"
+		"value": "n-118.566350"
 	},
 	{
 		"key": "metadata-date",
@@ -141,7 +141,7 @@
 	},
 	{
 		"key": "dataset-reference-date",
-		"value": "[{\"type\": \"publication\", \"value\": \"2009-01-01\"}]"
+		"value": "[{"type": "publication", "value": "2009-01-01"}]"
 	},
 	{
 		"key": "resource-type",
@@ -149,7 +149,7 @@
 	},
 	{
 		"key": "bbox-east-long",
-		"value": "\n-110.219926"
+		"value": "n-110.219926"
 	},
 	{
 		"key": "spatial-reference-system",
@@ -157,7 +157,7 @@
 	},
 	{
 		"key": "bbox-north-lat",
-		"value": "\n49.048670"
+		"value": "n49.048670"
 	},
 	{
 		"key": "coupled-resource",
@@ -165,11 +165,11 @@
 	},
 	{
 		"key": "bbox-south-lat",
-		"value": "\n41.088104"
+		"value": "n41.088104"
 	},
 	{
 		"key": "licence",
-		"value": "[\"Although these data have been used by the U.S.\\nGeological Survey, U.S. Department of the Interior, no warranty\\nexpressed or implied is made by the U.S. Geological Survey as to the\\naccuracy of the data. The act of distribution shall not constitute any\\nsuch warranty, and no responsibility is assumed by the U.S. Geological\\nSurvey in the use of these data, software, or related materials.  \\n\\nThe use of firm, trade, or brand names in this report is for\\nidentification purposes only and does not constitute endorsement by the\\nU.S. Geological Survey. The names mentioned in this document may be\\ntrademarks or registered trademarks of their respective trademark\\nowners.\"]"
+		"value": "["Although these data have been used by the U.S.\nGeological Survey, U.S. Department of the Interior, no warranty\nexpressed or implied is made by the U.S. Geological Survey as to the\naccuracy of the data. The act of distribution shall not constitute any\nsuch warranty, and no responsibility is assumed by the U.S. Geological\nSurvey in the use of these data, software, or related materials.  \n\nThe use of firm, trade, or brand names in this report is for\nidentification purposes only and does not constitute endorsement by the\nU.S. Geological Survey. The names mentioned in this document may be\ntrademarks or registered trademarks of their respective trademark\nowners."]"
 	},
 	{
 		"key": "metadata_type",
@@ -181,7 +181,7 @@
 	},
 	{
 		"key": "spatial",
-		"value": "{\"type\": \"Polygon\", \"coordinates\": [[[-118.56635, 41.088104], [-110.219926, 41.088104], [-110.219926, 49.04867], [-118.56635, 49.04867], [-118.56635, 41.088104]]]}"
+		"value": "{"type": "Polygon", "coordinates": [[[-118.56635, 41.088104], [-110.219926, 41.088104], [-110.219926, 49.04867], [-118.56635, 49.04867], [-118.56635, 41.088104]]]}"
 	},
 	{
 		"key": "guid",
@@ -193,7 +193,7 @@
 	},
 	{
 		"key": "access_constraints",
-		"value": "[\"Use Constraints: None\", \"Access Constraints: None\"]"
+		"value": "["Use Constraints: None", "Access Constraints: None"]"
 	},
 	{
 		"key": "spatial_harvester",
@@ -228,14 +228,14 @@
 		"value": "Water NSDI Node Spatial Datasets"
 	}],
 	"organization": {
-		"description": "http:\/\/www.usgs.gov\/\r\nThe USGS is a federal science agency that provides impartial information on the health of our ecosystems and environment, the natural hazards that threaten us, the natural resources we rely on, the impacts of climate and land-use change, and the core science systems that help us provide timely, relevant, and useable information.",
+		"description": "http://www.usgs.gov/rnThe USGS is a federal science agency that provides impartial information on the health of our ecosystems and environment, the natural hazards that threaten us, the natural resources we rely on, the impacts of climate and land-use change, and the core science systems that help us provide timely, relevant, and useable information.",
 		"created": "2013-03-14T03:44:38.263357",
 		"title": "U.S. Geological Survey, Department of the Interior",
 		"name": "usgs-gov",
 		"revision_timestamp": "2014-09-02T13:43:52.167023",
 		"is_organization": true,
 		"state": "active",
-		"image_url": "http:\/\/pubs.usgs.gov\/sir\/2004\/5296\/04-5296_confluence_park\/usgs_logo.gif",
+		"image_url": "http://pubs.usgs.gov/sir/2004/5296/04-5296_confluence_park/usgs_logo.gif",
 		"revision_id": "2858aa99-9501-4f96-82e5-9647b968ed66",
 		"type": "organization",
 		"id": "bd2cdd5a-4d65-46c0-9937-c8381175f104",

@@ -37,7 +37,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2014-12-01T08:57:50.120302",
-		"url": "http:\/\/www2.census.gov\/geo\/tiger\/TIGER2013\/METDIV",
+		"url": "http://www2.census.gov/geo/tiger/TIGER2013/METDIV",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 0,
@@ -46,7 +46,7 @@
 	}],
 	"num_resources": 1,
 	"tags": [],
-	"title": "TIGER\/Line Shapefile, 2013, Series Information File for\n                        the Current Metropolitan Division National",
+	"title": "TIGER/Line Shapefile, 2013, Series Information File forn                        the Current Metropolitan Division National",
 	"tracking_summary": {
 		"total": 35,
 		"recent": 0
@@ -57,7 +57,7 @@
 	"name": "tiger-line-shapefile-2013-series-information-file-for-the-current-metropolitan-divis",
 	"isopen": false,
 	"url": null,
-	"notes": "The TIGER\/Line shapefiles and related database files (.dbf) are an extract of selected geographic and cartographic information from the U.S. Census Bureau's Master Address File \/ Topologically Integrated Geographic Encoding and Referencing (MAF\/TIGER) Database (MTDB).  The MTDB represents a seamless national file with no overlaps or gaps between parts, however, each TIGER\/Line shapefile is designed to stand alone as an independent data set, or they can be combined to cover the entire nation.\nMetropolitan Divisions subdivide a Metropolitan Statistical Area containing a single core urban area that has a population of at least 2.5 million to form smaller groupings of counties or equivalent entities.  Not all Metropolitan Statistical Areas with urban areas of this size will contain Metropolitan Divisions.  Metropolitan Division are defined by the Office of Management and Budget (OMB) and consist of one or more main counties or equivalent entities that represent an employment center or centers, plus adjacent counties associated with the main county or counties through commuting ties.  Because Metropolitan Divisions represent subdivisions of larger Metropolitan Statistical Areas, it is not appropriate to rank or compare Metropolitan Divisions with Metropolitan and Micropolitan Statistical Areas.\nThe Metropolitan Divisions boundaries are those defined by OMB based on the 2010 Census and published in 2013.",
+	"notes": "The TIGER/Line shapefiles and related database files (.dbf) are an extract of selected geographic and cartographic information from the U.S. Census Bureau's Master Address File / Topologically Integrated Geographic Encoding and Referencing (MAF/TIGER) Database (MTDB).  The MTDB represents a seamless national file with no overlaps or gaps between parts, however, each TIGER/Line shapefile is designed to stand alone as an independent data set, or they can be combined to cover the entire nation.nMetropolitan Divisions subdivide a Metropolitan Statistical Area containing a single core urban area that has a population of at least 2.5 million to form smaller groupings of counties or equivalent entities.  Not all Metropolitan Statistical Areas with urban areas of this size will contain Metropolitan Divisions.  Metropolitan Division are defined by the Office of Management and Budget (OMB) and consist of one or more main counties or equivalent entities that represent an employment center or centers, plus adjacent counties associated with the main county or counties through commuting ties.  Because Metropolitan Divisions represent subdivisions of larger Metropolitan Statistical Areas, it is not appropriate to rank or compare Metropolitan Divisions with Metropolitan and Micropolitan Statistical Areas.nThe Metropolitan Divisions boundaries are those defined by OMB based on the 2010 Census and published in 2013.",
 	"license_title": null,
 	"extras": [{
 		"key": "bbox-east-long",
@@ -97,7 +97,7 @@
 	},
 	{
 		"key": "spatial",
-		"value": "{\"type\": \"Polygon\", \"coordinates\": [[[-179.231086, -14.601813], [179.859681, -14.601813], [179.859681, 71.441059], [-179.231086, 71.441059], [-179.231086, -14.601813]]]}"
+		"value": "{"type": "Polygon", "coordinates": [[[-179.231086, -14.601813], [179.859681, -14.601813], [179.859681, 71.441059], [-179.231086, 71.441059], [-179.231086, -14.601813]]]}"
 	},
 	{
 		"key": "progress",
@@ -105,7 +105,7 @@
 	},
 	{
 		"key": "access_constraints",
-		"value": "[\"Use Constraints: The TIGER\/Line Shapefile products are not copyrighted however TIGER\/Line and Census TIGER are registered trademarks of the U.S. Census Bureau.  These products are free to use in a product or publication, however acknowledgement must be given to the U.S. Census Bureau as the source.\\nThe boundary information in the TIGER\/Line Shapefiles are for statistical data collection and tabulation purposes only; their depiction and designation for statistical purposes does not constitute a determination of jurisdictional authority or rights of ownership or entitlement and they are not legal land descriptions.Coordinates in the TIGER\/Line shapefiles have six implied decimal places, but the positional accuracy of these coordinates is not as great as the six decimal places suggest.\", \"Distribution Liability: No warranty, expressed or implied is made with regard to the accuracy of these data, and no liability is assumed by the U.S. Government in general or the U.S. Census Bureau in specific as to the spatial or attribute accuracy of the data.  The act of distribution shall not constitute any such warranty and no responsibility is assumed by the U.S. government in the use of these files.  The boundary information in the TIGER\/Line Shapefiles is for statistical data collection and tabulation purposes only; their depiction and designation for statistical purposes do not constitute a determination of jurisdictional authority or rights of ownership or entitlement and they are not legal land descriptions.\"]"
+		"value": "["Use Constraints: The TIGER/Line Shapefile products are not copyrighted however TIGER/Line and Census TIGER are registered trademarks of the U.S. Census Bureau.  These products are free to use in a product or publication, however acknowledgement must be given to the U.S. Census Bureau as the source.\nThe boundary information in the TIGER/Line Shapefiles are for statistical data collection and tabulation purposes only; their depiction and designation for statistical purposes does not constitute a determination of jurisdictional authority or rights of ownership or entitlement and they are not legal land descriptions.Coordinates in the TIGER/Line shapefiles have six implied decimal places, but the positional accuracy of these coordinates is not as great as the six decimal places suggest.", "Distribution Liability: No warranty, expressed or implied is made with regard to the accuracy of these data, and no liability is assumed by the U.S. Government in general or the U.S. Census Bureau in specific as to the spatial or attribute accuracy of the data.  The act of distribution shall not constitute any such warranty and no responsibility is assumed by the U.S. government in the use of these files.  The boundary information in the TIGER/Line Shapefiles is for statistical data collection and tabulation purposes only; their depiction and designation for statistical purposes do not constitute a determination of jurisdictional authority or rights of ownership or entitlement and they are not legal land descriptions."]"
 	},
 	{
 		"key": "temporal-extent-begin",
@@ -125,7 +125,7 @@
 	},
 	{
 		"key": "dataset-reference-date",
-		"value": "[{\"type\": \"publication\", \"value\": \"2013\"}]"
+		"value": "[{"type": "publication", "value": "2013"}]"
 	},
 	{
 		"key": "frequency-of-update",
@@ -141,7 +141,7 @@
 	},
 	{
 		"key": "responsible-party",
-		"value": "[{\"name\": \"U.S. Department of Commerce, U.S. Census Bureau, Geography Division, Geographic Products Branch\", \"roles\": [\"pointOfContact\"]}]"
+		"value": "[{"name": "U.S. Department of Commerce, U.S. Census Bureau, Geography Division, Geographic Products Branch", "roles": ["pointOfContact"]}]"
 	},
 	{
 		"key": "temporal-extent-end",
@@ -187,7 +187,7 @@
 		"revision_timestamp": "2013-08-29T13:37:04.171127",
 		"is_organization": true,
 		"state": "active",
-		"image_url": "http:\/\/www.census.gov\/main\/img\/home\/CensusLogo-white.png",
+		"image_url": "http://www.census.gov/main/img/home/CensusLogo-white.png",
 		"revision_id": "0995f525-d563-4254-a535-af5b926fe663",
 		"type": "organization",
 		"id": "31c49abe-512a-412a-9cc7-5b2601325d6b",

@@ -37,7 +37,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2013-03-15T15:32:12.866420",
-		"url": "http:\/\/www.vcgi.org\/dataware\/default.cfm?layer=TransStats_AADT9007",
+		"url": "http://www.vcgi.org/dataware/default.cfm?layer=TransStats_AADT9007",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 0,
@@ -67,7 +67,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2013-03-15T15:32:12.866443",
-		"url": "http:\/\/www.vcgi.org\/dataware\/default.cfm?layer=TransStats_AADT",
+		"url": "http://www.vcgi.org/dataware/default.cfm?layer=TransStats_AADT",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 1,
@@ -97,7 +97,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2013-03-15T15:32:12.866451",
-		"url": "http:\/\/www.vcgi.org\/dataware\/default.cfm?layer=TransStats_AADT&mapit=yes",
+		"url": "http://www.vcgi.org/dataware/default.cfm?layer=TransStats_AADT&mapit=yes",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 2,
@@ -127,7 +127,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2013-03-15T15:32:12.866458",
-		"url": "http:\/\/maps.vcgi.org:8080\/wmsconnector\/com.esri.wms.Esrimap?servicename=DATAWARE_VTRANS&VERSION=1.1.1&request=getmap&BBOX=-73.45416,42.72279,-71.46528,45.018356&SRS=EPSG:4326&LAYERS=TRANS_AADT_LINE&WIDTH=300&HEIGHT=400&FORMAT=image\/gif",
+		"url": "http://maps.vcgi.org:8080/wmsconnector/com.esri.wms.Esrimap?servicename=DATAWARE_VTRANS&VERSION=1.1.1&request=getmap&BBOX=-73.45416,42.72279,-71.46528,45.018356&SRS=EPSG:4326&LAYERS=TRANS_AADT_LINE&WIDTH=300&HEIGHT=400&FORMAT=image/gif",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 3,
@@ -160,11 +160,11 @@
 	"name": "transtats-aadt9007",
 	"isopen": false,
 	"url": null,
-	"notes": "This data layer includes Average Annual Daily Traffic (AADT) data collected by the Vermont Agency of Transporation for the years 1990 to 2007. The dataset includes AADT data for Interstate, US, VT highways. It also includes Federal Urban Area (FUA) routes and Major Collectors (MC). The data was \"ported\" to GIS format via a GIS Linear Reference data layer called TransRoad_LRS2007 (refer to metadata).",
+	"notes": "This data layer includes Average Annual Daily Traffic (AADT) data collected by the Vermont Agency of Transporation for the years 1990 to 2007. The dataset includes AADT data for Interstate, US, VT highways. It also includes Federal Urban Area (FUA) routes and Major Collectors (MC). The data was "ported" to GIS format via a GIS Linear Reference data layer called TransRoad_LRS2007 (refer to metadata).",
 	"license_title": null,
 	"extras": [{
 		"key": "responsible-party",
-		"value": "[{\"name\": \"Vermont Agency of Transportation\", \"roles\": [\"pointOfContact\"]}]"
+		"value": "[{"name": "Vermont Agency of Transportation", "roles": ["pointOfContact"]}]"
 	},
 	{
 		"key": "contact-email",
@@ -184,7 +184,7 @@
 	},
 	{
 		"key": "dataset-reference-date",
-		"value": "[{\"type\": \"publication\", \"value\": \"2009-02-09\"}]"
+		"value": "[{"type": "publication", "value": "2009-02-09"}]"
 	},
 	{
 		"key": "resource-type",
@@ -212,7 +212,7 @@
 	},
 	{
 		"key": "licence",
-		"value": "[\"VCGI and the State of Vermont make no representations of any kind, including but not limited to the warranties of merchantability or fitness for a particular use, nor are any such warranties to be implied with respect to the data.\"]"
+		"value": "["VCGI and the State of Vermont make no representations of any kind, including but not limited to the warranties of merchantability or fitness for a particular use, nor are any such warranties to be implied with respect to the data."]"
 	},
 	{
 		"key": "metadata_type",
@@ -220,7 +220,7 @@
 	},
 	{
 		"key": "spatial",
-		"value": "{\"type\": \"Polygon\", \"coordinates\": [[[-73.438808, 42.723092], [-73.438808, 45.017699], [-71.49978, 45.017699], [-71.49978, 42.723092], [-73.438808, 42.723092]]]}"
+		"value": "{"type": "Polygon", "coordinates": [[[-73.438808, 42.723092], [-73.438808, 45.017699], [-71.49978, 45.017699], [-71.49978, 42.723092], [-73.438808, 42.723092]]]}"
 	},
 	{
 		"key": "guid",
@@ -232,11 +232,11 @@
 	},
 	{
 		"key": "access_constraints",
-		"value": "[\"Use Constraints: It should also be noted that AADT values prior to 2007 may not be accurately located along the linear reference system (state highways) for areas which have been realigned since 1990.\", \"Access Constraints: VCGI and the State of VT make no representations of any kind, including but not limited to the warranties of merchantability or fitness for a particular use, nor are any such warranties to be implied with respect to the data.\"]"
+		"value": "["Use Constraints: It should also be noted that AADT values prior to 2007 may not be accurately located along the linear reference system (state highways) for areas which have been realigned since 1990.", "Access Constraints: VCGI and the State of VT make no representations of any kind, including but not limited to the warranties of merchantability or fitness for a particular use, nor are any such warranties to be implied with respect to the data."]"
 	},
 	{
 		"key": "graphic-preview-file",
-		"value": "http:\/\/maps.vcgi.org:8080\/wmsconnector\/com.esri.wms.Esrimap?servicename=DATAWARE_VTRANS&VERSION=1.1.1&request=getmap&BBOX=-73.45416,42.72279,-71.46528,45.018356&SRS=EPSG:4326&LAYERS=TRANS_AADT_LINE&WIDTH=300&HEIGHT=400&FORMAT=image\/gif"
+		"value": "http://maps.vcgi.org:8080/wmsconnector/com.esri.wms.Esrimap?servicename=DATAWARE_VTRANS&VERSION=1.1.1&request=getmap&BBOX=-73.45416,42.72279,-71.46528,45.018356&SRS=EPSG:4326&LAYERS=TRANS_AADT_LINE&WIDTH=300&HEIGHT=400&FORMAT=image/gif"
 	},
 	{
 		"key": "frequency-of-update",
@@ -274,7 +274,7 @@
 		"revision_timestamp": "2013-03-27T17:47:03.718032",
 		"is_organization": true,
 		"state": "active",
-		"image_url": "http:\/\/vcgi.vermont.gov\/sites\/all\/themes\/vt_template\/logo.png",
+		"image_url": "http://vcgi.vermont.gov/sites/all/themes/vt_template/logo.png",
 		"revision_id": "c5dfbbb0-f1e0-4db6-b566-e932e1520060",
 		"type": "organization",
 		"id": "0c3a4ebc-9929-4f21-bdd0-76a35d52f57d",

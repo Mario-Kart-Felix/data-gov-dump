@@ -36,7 +36,7 @@
 		"cache_url": null,
 		"name": "NWS Telecommunication Operations Center (TOC) TGFTP Server",
 		"created": "2016-04-18T15:34:17.211195",
-		"url": "ftp:\/\/tgftp.nws.noaa.gov\/data\/observations\/metar",
+		"url": "ftp://tgftp.nws.noaa.gov/data/observations/metar",
 		"webstore_url": null,
 		"resource_locator_function": "download",
 		"position": 0,
@@ -65,7 +65,7 @@
 		"cache_url": null,
 		"name": "Office of Observations",
 		"created": "2016-04-18T15:34:17.211222",
-		"url": "http:\/\/www.weather.gov\/organization\/obs",
+		"url": "http://www.weather.gov/organization/obs",
 		"webstore_url": null,
 		"resource_locator_function": "information",
 		"position": 1,
@@ -94,7 +94,7 @@
 		"cache_url": null,
 		"name": "IWXXM-US Overview",
 		"created": "2016-04-18T15:34:17.211231",
-		"url": "http:\/\/nws.weather.gov\/schemas\/IWXXM-US\/",
+		"url": "http://nws.weather.gov/schemas/IWXXM-US/",
 		"webstore_url": null,
 		"resource_locator_function": "download",
 		"position": 2,
@@ -116,7 +116,7 @@
 		"revision_timestamp": "2013-03-25T23:05:12.923863",
 		"is_organization": true,
 		"state": "active",
-		"image_url": "https:\/\/fortress.wa.gov\/dfw\/score\/score\/images\/noaa_logo.png",
+		"image_url": "https://fortress.wa.gov/dfw/score/score/images/noaa_logo.png",
 		"revision_id": "c6d43080-22e1-405e-a83d-f2a512d9e867",
 		"type": "organization",
 		"id": "e811f0b4-451f-4896-9e8f-fc6802837819",
@@ -167,7 +167,7 @@
 	},
 	{
 		"key": "spatial",
-		"value": "{\"type\": \"Point\", \"coordinates\": [-90.42, 30.52]}"
+		"value": "{"type": "Point", "coordinates": [-90.42, 30.52]}"
 	},
 	{
 		"key": "progress",
@@ -191,7 +191,7 @@
 	},
 	{
 		"key": "dataset-reference-date",
-		"value": "[{\"type\": \"creation\", \"value\": \"2015-01-23\"}]"
+		"value": "[{"type": "creation", "value": "2015-01-23"}]"
 	},
 	{
 		"key": "frequency-of-update",
@@ -199,7 +199,7 @@
 	},
 	{
 		"key": "licence",
-		"value": "[\"Disclaimer - While every effort has been made to ensure that these data are accurate and reliable within the limits of the current state of the art, NOAA cannot assume liability for any damages caused by any errors or omissions in the data, nor as a result of the failure of the data to function on a particular system. NOAA makes no warranty, expressed or implied, nor does the fact of distribution constitute such a warranty.\"]"
+		"value": "["Disclaimer - While every effort has been made to ensure that these data are accurate and reliable within the limits of the current state of the art, NOAA cannot assume liability for any damages caused by any errors or omissions in the data, nor as a result of the failure of the data to function on a particular system. NOAA makes no warranty, expressed or implied, nor does the fact of distribution constitute such a warranty."]"
 	},
 	{
 		"key": "metadata_type",
@@ -207,7 +207,7 @@
 	},
 	{
 		"key": "responsible-party",
-		"value": "[{\"name\": \"DOC\/NOAA\/National Weather Service (NWS), Office of Observations\", \"roles\": [\"pointOfContact\"]}]"
+		"value": "[{"name": "DOC/NOAA/National Weather Service (NWS), Office of Observations", "roles": ["pointOfContact"]}]"
 	},
 	{
 		"key": "spatial-data-service-type",
@@ -219,7 +219,7 @@
 	},
 	{
 		"key": "tags",
-		"value": "metar, present weather, saus.. ...., hail, cloud_area_fraction, sleet, air_temperature, saus.., saus[0-9][0-9] ...., winds, cloud ceiling, cloud_base_height, saus[0-9][0-9] kwbc, asos, snow, wind speed\/wind direction, cloud fraction, precipitation amount, fog, toc, altimeter setting, saus.. kwbc, dew_point_temperature, visibility_in_air, rain, saus, visibility, cloud height, wind_speed, dew point temperature, none, clouds, current weather, precipitation_amount, surface pressure, wind_from_direction, khdc, surface air temperature, surface winds",
+		"value": "metar, present weather, saus.. ...., hail, cloud_area_fraction, sleet, air_temperature, saus.., saus[0-9][0-9] ...., winds, cloud ceiling, cloud_base_height, saus[0-9][0-9] kwbc, asos, snow, wind speed/wind direction, cloud fraction, precipitation amount, fog, toc, altimeter setting, saus.. kwbc, dew_point_temperature, visibility_in_air, rain, saus, visibility, cloud height, wind_speed, dew point temperature, none, clouds, current weather, precipitation_amount, surface pressure, wind_from_direction, khdc, surface air temperature, surface winds",
 		"__extras": {
 			"revision_id": "b4036152-a902-4d94-a997-02a084fe555d",
 			"package_id": "58a832ce-155d-467d-a31e-70a76c7d0ca8"

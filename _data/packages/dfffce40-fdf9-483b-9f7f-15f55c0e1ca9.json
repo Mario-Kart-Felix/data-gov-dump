@@ -37,7 +37,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2016-05-30T21:52:28.768257",
-		"url": "https:\/\/coast.noaa.gov\/dataregistry",
+		"url": "https://coast.noaa.gov/dataregistry",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 0,
@@ -67,7 +67,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2016-05-30T21:52:28.768297",
-		"url": "https:\/\/coast.noaa.gov\/ccapftp\/",
+		"url": "https://coast.noaa.gov/ccapftp/",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 1,
@@ -89,7 +89,7 @@
 		"revision_timestamp": "2013-03-25T23:05:12.923863",
 		"is_organization": true,
 		"state": "active",
-		"image_url": "https:\/\/fortress.wa.gov\/dfw\/score\/score\/images\/noaa_logo.png",
+		"image_url": "https://fortress.wa.gov/dfw/score/score/images/noaa_logo.png",
 		"revision_id": "c6d43080-22e1-405e-a83d-f2a512d9e867",
 		"type": "organization",
 		"id": "e811f0b4-451f-4896-9e8f-fc6802837819",
@@ -136,7 +136,7 @@
 	},
 	{
 		"key": "spatial",
-		"value": "{\"type\": \"Polygon\", \"coordinates\": [[[-158.174039, 21.142355], [-157.374595, 21.142355], [-157.374595, 21.433932], [-158.174039, 21.433932], [-158.174039, 21.142355]]]}"
+		"value": "{"type": "Polygon", "coordinates": [[[-158.174039, 21.142355], [-157.374595, 21.142355], [-157.374595, 21.433932], [-158.174039, 21.433932], [-158.174039, 21.142355]]]}"
 	},
 	{
 		"key": "progress",
@@ -144,7 +144,7 @@
 	},
 	{
 		"key": "access_constraints",
-		"value": "[\"Use Constraints: Data set is not for use in litigation. While efforts have been made to ensure that these data are accurate and reliable within the state of the art, NOAA, cannot assume liability for any damages, or misrepresentations, caused by any inaccuracies in the data, or as a result of the data to be used on a particular system. NOAA makes no warranty, expressed or implied, nor does the fact of distribution constitute such a warranty.\", \"Access Constraints: None\"]"
+		"value": "["Use Constraints: Data set is not for use in litigation. While efforts have been made to ensure that these data are accurate and reliable within the state of the art, NOAA, cannot assume liability for any damages, or misrepresentations, caused by any inaccuracies in the data, or as a result of the data to be used on a particular system. NOAA makes no warranty, expressed or implied, nor does the fact of distribution constitute such a warranty.", "Access Constraints: None"]"
 	},
 	{
 		"key": "temporal-extent-begin",
@@ -164,7 +164,7 @@
 	},
 	{
 		"key": "dataset-reference-date",
-		"value": "[{\"type\": \"publication\", \"value\": \"2014-06-24\"}]"
+		"value": "[{"type": "publication", "value": "2014-06-24"}]"
 	},
 	{
 		"key": "frequency-of-update",
@@ -172,7 +172,7 @@
 	},
 	{
 		"key": "licence",
-		"value": "[\"Users must assume responsibility to determine the usability of these data.\"]"
+		"value": "["Users must assume responsibility to determine the usability of these data."]"
 	},
 	{
 		"key": "metadata_type",
@@ -180,7 +180,7 @@
 	},
 	{
 		"key": "responsible-party",
-		"value": "[{\"name\": \"NOAA Office for Coastal Management\", \"roles\": [\"pointOfContact\"]}]"
+		"value": "[{"name": "NOAA Office for Coastal Management", "roles": ["pointOfContact"]}]"
 	},
 	{
 		"key": "temporal-extent-end",
@@ -196,7 +196,7 @@
 	},
 	{
 		"key": "tags",
-		"value": "oahu, land cover analysis, change detection analysis, coastal zone, remotely sensed imagery\/photos",
+		"value": "oahu, land cover analysis, change detection analysis, coastal zone, remotely sensed imagery/photos",
 		"__extras": {
 			"revision_id": "a32c2461-7da2-4f25-b4da-d3ed8a74969e",
 			"package_id": "dfffce40-fdf9-483b-9f7f-15f55c0e1ca9"

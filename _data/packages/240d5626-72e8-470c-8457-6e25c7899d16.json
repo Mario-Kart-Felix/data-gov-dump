@@ -37,7 +37,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2013-03-14T20:46:06.008765",
-		"url": "http:\\\\www.kansasgis.org",
+		"url": "http:\\www.kansasgis.org",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 0,
@@ -67,7 +67,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2013-03-14T20:46:06.008786",
-		"url": "http:\/\/www.kansasgis.org",
+		"url": "http://www.kansasgis.org",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 1,
@@ -100,7 +100,7 @@
 	"name": "law-enforcement-locations",
 	"isopen": false,
 	"url": null,
-	"notes": "Law Enforcement Locations in Kansas Any location where sworn officers of a law enforcement agency are regularly based or stationed. Law enforcement agencies \"are publicly funded and employ at least one full-time or part-time sworn officer with general arrest powers\". This is the definition used by the US Department of Justice - Bureau of Justice Statistics (DOJ-BJS) for their Law Enforcement Management and Administrative Statistics (LEMAS) survey. Although LEMAS only includes non Federal Agencies, this dataset includes locations for federal, state, local, and special jurisdiction law enforcement agencies. Law enforcement agencies include, but are not limited to, municipal police, county sheriffs, state police, school police, park police, railroad police, federal law enforcement agencies, departments within non law enforcement federal agencies charged with law enforcement (e.g., US Postal Inspectors), and cross jurisdictional authorities (e.g., Port Authority Police). In general, the requirements and training for becoming a sworn law enforcement officer are set by each state. Law Enforcement agencies themselves are not chartered or licensed by their state. County, city, and other government authorities within each state are usually empowered by their state law to setup or disband Law Enforcement agencies. Generally, sworn Law Enforcement officers must report which agency they are employed by to the state. Although TGS's intention is to only include locations associated with agencies that meet the above definition, TGS has discovered a few locations that are associated with agencies that are not publicly funded. TGS is deleting these locations as we become aware of them, but some probably still exist in this dataset. Personal homes, administrative offices and temporary locations are intended to be excluded from this dataset, but a few may be included. Personal homes of constables may exist due to fact that many constables work out of their home. FBI entites are intended to be excluded from this dataset, but a few may be included. Text fields in this dataset have been set to all upper case to facilitate consistent database engine search results. All diacritics (e.g., the German umlaut or the Spanish tilde) have been replaced with their closest equivalent English character to facilitate use with database systems that may not support diacritics. The currentness of this dataset is indicated by the [CONTDATE] attribute. Based upon this attribute, the oldest record dates from 2006\/06\/27 and the newest record dates from 2008\/03\/06",
+	"notes": "Law Enforcement Locations in Kansas Any location where sworn officers of a law enforcement agency are regularly based or stationed. Law enforcement agencies "are publicly funded and employ at least one full-time or part-time sworn officer with general arrest powers". This is the definition used by the US Department of Justice - Bureau of Justice Statistics (DOJ-BJS) for their Law Enforcement Management and Administrative Statistics (LEMAS) survey. Although LEMAS only includes non Federal Agencies, this dataset includes locations for federal, state, local, and special jurisdiction law enforcement agencies. Law enforcement agencies include, but are not limited to, municipal police, county sheriffs, state police, school police, park police, railroad police, federal law enforcement agencies, departments within non law enforcement federal agencies charged with law enforcement (e.g., US Postal Inspectors), and cross jurisdictional authorities (e.g., Port Authority Police). In general, the requirements and training for becoming a sworn law enforcement officer are set by each state. Law Enforcement agencies themselves are not chartered or licensed by their state. County, city, and other government authorities within each state are usually empowered by their state law to setup or disband Law Enforcement agencies. Generally, sworn Law Enforcement officers must report which agency they are employed by to the state. Although TGS's intention is to only include locations associated with agencies that meet the above definition, TGS has discovered a few locations that are associated with agencies that are not publicly funded. TGS is deleting these locations as we become aware of them, but some probably still exist in this dataset. Personal homes, administrative offices and temporary locations are intended to be excluded from this dataset, but a few may be included. Personal homes of constables may exist due to fact that many constables work out of their home. FBI entites are intended to be excluded from this dataset, but a few may be included. Text fields in this dataset have been set to all upper case to facilitate consistent database engine search results. All diacritics (e.g., the German umlaut or the Spanish tilde) have been replaced with their closest equivalent English character to facilitate use with database systems that may not support diacritics. The currentness of this dataset is indicated by the [CONTDATE] attribute. Based upon this attribute, the oldest record dates from 2006/06/27 and the newest record dates from 2008/03/06",
 	"license_title": null,
 	"extras": [{
 		"key": "bbox-east-long",
@@ -120,7 +120,7 @@
 	},
 	{
 		"key": "__category_tag_9a350fa9-bc49-43d4-8e77-270b9714976d",
-		"value": "[\"Pacific Islands\",\"Hawaii\",\"Criminal Justice\"]"
+		"value": "["Pacific Islands","Hawaii","Criminal Justice"]"
 	},
 	{
 		"key": "guid",
@@ -136,11 +136,11 @@
 	},
 	{
 		"key": "spatial",
-		"value": "{\"type\": \"Polygon\", \"coordinates\": [[[-150.000915, 0.000335], [-150.000915, 0.000362], [-150.00085, 0.000362], [-150.00085, 0.000335], [-150.000915, 0.000335]]]}"
+		"value": "{"type": "Polygon", "coordinates": [[[-150.000915, 0.000335], [-150.000915, 0.000362], [-150.00085, 0.000362], [-150.00085, 0.000335], [-150.000915, 0.000335]]]}"
 	},
 	{
 		"key": "access_constraints",
-		"value": "[\"Use Constraints: None\", \"Access Constraints: None\"]"
+		"value": "["Use Constraints: None", "Access Constraints: None"]"
 	},
 	{
 		"key": "temporal-extent-begin",
@@ -160,7 +160,7 @@
 	},
 	{
 		"key": "dataset-reference-date",
-		"value": "[{\"type\": \"publication\", \"value\": \"2008-04-07\"}]"
+		"value": "[{"type": "publication", "value": "2008-04-07"}]"
 	},
 	{
 		"key": "frequency-of-update",
@@ -168,7 +168,7 @@
 	},
 	{
 		"key": "licence",
-		"value": "[\"The State of Kansas Geographic Information Systems Core Database's digital data have been tested and their documentation carefully reviewed. However, the State of Kansas Geographic Information Systems Policy Board's Data Access and Support Center and its representatives make no warranty or representation, either expressed or implied, with respect to the digital data and their documentation, their quality, performance, merchantability, or fitness for a particular purpose. The digital data are distributed on \\\"as is\\\" basis, and the user assumes all risk to their quality, the results obtained from their use, and the performance of the data. In no event will the State of Kansas Geographic Information Systems Policy Board or its representatives be liable for any direct, indirect, special, incidental or consequential damages resulting from and defect in the State of Kansas Geographic Information Systems Core Database's digital data or in their documentation. This disclaimer of warranty is exlusive and in lieu of all others, oral or written, express or implied. No agent or employee is authorized to make any modification, extension, or addition to this warranty.\"]"
+		"value": "["The State of Kansas Geographic Information Systems Core Database's digital data have been tested and their documentation carefully reviewed. However, the State of Kansas Geographic Information Systems Policy Board's Data Access and Support Center and its representatives make no warranty or representation, either expressed or implied, with respect to the digital data and their documentation, their quality, performance, merchantability, or fitness for a particular purpose. The digital data are distributed on \"as is\" basis, and the user assumes all risk to their quality, the results obtained from their use, and the performance of the data. In no event will the State of Kansas Geographic Information Systems Policy Board or its representatives be liable for any direct, indirect, special, incidental or consequential damages resulting from and defect in the State of Kansas Geographic Information Systems Core Database's digital data or in their documentation. This disclaimer of warranty is exlusive and in lieu of all others, oral or written, express or implied. No agent or employee is authorized to make any modification, extension, or addition to this warranty."]"
 	},
 	{
 		"key": "metadata_type",
@@ -176,7 +176,7 @@
 	},
 	{
 		"key": "responsible-party",
-		"value": "[{\"name\": \"TechniGraphics, Inc.\", \"roles\": [\"pointOfContact\"]}]"
+		"value": "[{"name": "TechniGraphics, Inc.", "roles": ["pointOfContact"]}]"
 	},
 	{
 		"key": "temporal-extent-end",
@@ -222,7 +222,7 @@
 		"revision_timestamp": "2013-05-30T15:56:28.333515",
 		"is_organization": true,
 		"state": "active",
-		"image_url": "http:\/\/www.kansasgis.org\/_style\/img\/banner.png",
+		"image_url": "http://www.kansasgis.org/_style/img/banner.png",
 		"revision_id": "649a4ecd-dd72-4628-b80e-cea6a4f616d2",
 		"type": "organization",
 		"id": "56d45844-910f-4632-a4ff-bf5f0e6cb653",

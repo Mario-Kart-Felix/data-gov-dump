@@ -37,7 +37,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2015-11-09T20:35:20.928349",
-		"url": "http:\/\/www.soest.hawaii.edu\/pibhmc\/pibhmc_nwhi_ffs_geomorph.htm",
+		"url": "http://www.soest.hawaii.edu/pibhmc/pibhmc_nwhi_ffs_geomorph.htm",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 0,
@@ -67,7 +67,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2015-11-09T20:35:20.928383",
-		"url": "http:\/\/www.soest.hawaii.edu\/pibhmc\/pibhmc_nwhi_ffs_geomorph.htm",
+		"url": "http://www.soest.hawaii.edu/pibhmc/pibhmc_nwhi_ffs_geomorph.htm",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 1,
@@ -87,11 +87,11 @@
 	"name": "slope-grid-derived-from-gridded-bathymetry-of-french-frigate-shoals-hawaii-usa",
 	"isopen": false,
 	"url": null,
-	"notes": "Slope is derived from gridded (5 m cell size) multibeam bathymetry, collected aboard NOAA Ship Hiialaka'i and R\/V AHI. Cell values reflect the maximum rate of change (in degrees) in elevation between neighboring cells derived with the ArcGIS Spatial Analyst extension. This data set is for the shelf environment of French Frigate Shoals, Hawaii, USA.",
+	"notes": "Slope is derived from gridded (5 m cell size) multibeam bathymetry, collected aboard NOAA Ship Hiialaka'i and R/V AHI. Cell values reflect the maximum rate of change (in degrees) in elevation between neighboring cells derived with the ArcGIS Spatial Analyst extension. This data set is for the shelf environment of French Frigate Shoals, Hawaii, USA.",
 	"license_title": null,
 	"extras": [{
 		"key": "bbox-east-long",
-		"value": "\n          -165.99708\n        "
+		"value": "n          -165.99708n        "
 	},
 	{
 		"key": "resource-type",
@@ -99,7 +99,7 @@
 	},
 	{
 		"key": "bbox-north-lat",
-		"value": "\n          23.923124\n        "
+		"value": "n          23.923124n        "
 	},
 	{
 		"key": "coupled-resource",
@@ -115,7 +115,7 @@
 	},
 	{
 		"key": "graphic-preview-file",
-		"value": "http:\/\/www.soest.hawaii.edu\/pibhmc\/NWHI_images\/FFS_5m_Slope_445.jpg"
+		"value": "http://www.soest.hawaii.edu/pibhmc/NWHI_images/FFS_5m_Slope_445.jpg"
 	},
 	{
 		"key": "metadata-language",
@@ -131,7 +131,7 @@
 	},
 	{
 		"key": "spatial",
-		"value": "{\"type\": \"Polygon\", \"coordinates\": [[[-166.40396, 23.546832], [-165.99708, 23.546832], [-165.99708, 23.923124], [-166.40396, 23.923124], [-166.40396, 23.546832]]]}"
+		"value": "{"type": "Polygon", "coordinates": [[[-166.40396, 23.546832], [-165.99708, 23.546832], [-165.99708, 23.923124], [-166.40396, 23.923124], [-166.40396, 23.546832]]]}"
 	},
 	{
 		"key": "progress",
@@ -139,7 +139,7 @@
 	},
 	{
 		"key": "access_constraints",
-		"value": "[\"Use Constraints: These data are not to be used for navigation purposes. Please acknowledge the NOAA Pacific Islands Fisheries Science Center (PIFSC) Coral Reef Ecosystem Division (CRED) and the Pacific Islands Benthic Habitat Mapping Center, and the Joint Institute for Marine and Atmospheric Research (JIMAR) and School of Ocean and Earth Science and Technology (SOEST), University of Hawaii as the sources of this information.\", \"Access Constraints: None\"]"
+		"value": "["Use Constraints: These data are not to be used for navigation purposes. Please acknowledge the NOAA Pacific Islands Fisheries Science Center (PIFSC) Coral Reef Ecosystem Division (CRED) and the Pacific Islands Benthic Habitat Mapping Center, and the Joint Institute for Marine and Atmospheric Research (JIMAR) and School of Ocean and Earth Science and Technology (SOEST), University of Hawaii as the sources of this information.", "Access Constraints: None"]"
 	},
 	{
 		"key": "temporal-extent-begin",
@@ -151,7 +151,7 @@
 	},
 	{
 		"key": "bbox-west-long",
-		"value": "\n          -166.40396\n        "
+		"value": "n          -166.40396n        "
 	},
 	{
 		"key": "metadata-date",
@@ -159,7 +159,7 @@
 	},
 	{
 		"key": "dataset-reference-date",
-		"value": "[{\"type\": \"publication\", \"value\": \"2009-09-01\"}]"
+		"value": "[{"type": "publication", "value": "2009-09-01"}]"
 	},
 	{
 		"key": "graphic-preview-description",
@@ -171,7 +171,7 @@
 	},
 	{
 		"key": "licence",
-		"value": "[\"\\n      These data are not to be used for navigational purposes.\\nNOAA makes no warranty regarding these data, expressed or implied,\\nnor does the fact of distribution constitute such a warranty.\\nNOAA cannot assume liability for any damages caused by any errors\\nor omissions in these data, nor as a result of the failure of\\nthese data to function on a particular system.\\n    \"]"
+		"value": "["\n      These data are not to be used for navigational purposes.\nNOAA makes no warranty regarding these data, expressed or implied,\nnor does the fact of distribution constitute such a warranty.\nNOAA cannot assume liability for any damages caused by any errors\nor omissions in these data, nor as a result of the failure of\nthese data to function on a particular system.\n    "]"
 	},
 	{
 		"key": "metadata_type",
@@ -179,7 +179,7 @@
 	},
 	{
 		"key": "responsible-party",
-		"value": "[{\"name\": \"Pacific Islands Benthic Habitat Mapping Center (PIBHMC), Coral Reef Ecosystem Division (CRED), Pacific Islands Fisheries Science Center (PIFSC), National Marine Fisheries Service (NMFS), National Oceanic and Atmospheric Administration (NOAA)\", \"roles\": [\"pointOfContact\"]}]"
+		"value": "[{"name": "Pacific Islands Benthic Habitat Mapping Center (PIBHMC), Coral Reef Ecosystem Division (CRED), Pacific Islands Fisheries Science Center (PIFSC), National Marine Fisheries Service (NMFS), National Oceanic and Atmospheric Administration (NOAA)", "roles": ["pointOfContact"]}]"
 	},
 	{
 		"key": "temporal-extent-end",
@@ -191,11 +191,11 @@
 	},
 	{
 		"key": "bbox-south-lat",
-		"value": "\n          23.546832\n        "
+		"value": "n          23.546832n        "
 	},
 	{
 		"package_id": "89bc4549-b870-4904-a792-278940fd4a6c",
-		"value": "slope, northwestern hawaiian islands, benthic habitat mapping and characterization - northwestern and main hawaiian islands, 1217, french frigate shoals, oceans, united states of america, hawaii, habitats, multibeam sonar, bathymetry, bathymetry\/seafloor topography, geographic information, earth science",
+		"value": "slope, northwestern hawaiian islands, benthic habitat mapping and characterization - northwestern and main hawaiian islands, 1217, french frigate shoals, oceans, united states of america, hawaii, habitats, multibeam sonar, bathymetry, bathymetry/seafloor topography, geographic information, earth science",
 		"revision_timestamp": "2015-11-10T01:35:20.846580",
 		"state": "active",
 		"key": "tags",
@@ -225,7 +225,7 @@
 		"revision_timestamp": "2013-03-25T23:05:12.923863",
 		"is_organization": true,
 		"state": "active",
-		"image_url": "https:\/\/fortress.wa.gov\/dfw\/score\/score\/images\/noaa_logo.png",
+		"image_url": "https://fortress.wa.gov/dfw/score/score/images/noaa_logo.png",
 		"revision_id": "c6d43080-22e1-405e-a83d-f2a512d9e867",
 		"type": "organization",
 		"id": "e811f0b4-451f-4896-9e8f-fc6802837819",

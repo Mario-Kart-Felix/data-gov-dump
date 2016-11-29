@@ -37,7 +37,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2015-10-06T16:26:43.432497",
-		"url": "http:\/\/www.ngs.noaa.gov\/GRAV-D\/data_cs08.shtml",
+		"url": "http://www.ngs.noaa.gov/GRAV-D/data_cs08.shtml",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 0,
@@ -67,7 +67,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2015-10-06T16:26:43.432535",
-		"url": "http:\/\/www.ngs.noaa.gov\/GRAV-D\/data_cs08.shtml",
+		"url": "http://www.ngs.noaa.gov/GRAV-D/data_cs08.shtml",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 1,
@@ -97,7 +97,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2015-10-06T16:26:43.432544",
-		"url": "http:\/\/www.ngs.noaa.gov\/GRAV-D\/data_products.shtml",
+		"url": "http://www.ngs.noaa.gov/GRAV-D/data_products.shtml",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 2,
@@ -127,7 +127,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2015-10-06T16:26:43.432551",
-		"url": "http:\/\/www.ngs.noaa.gov\/",
+		"url": "http://www.ngs.noaa.gov/",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 3,
@@ -147,7 +147,7 @@
 	"name": "airborne-gravity-ngs-gravity-data-for-cs08-2015",
 	"isopen": false,
 	"url": null,
-	"notes": "Airborne gravity data for CS08 collected in 2006 over 1 survey. This data set is part of the Gravity for the Re-definition of the American Vertical Datum (GRAV-D) project initiated by NOAA's National Geodetic Survey to collect and monitor gravity data suitable for the re-definition of the vertical datum for at least the United States and territories. The data is available at http:\/\/www.ngs.noaa.gov\/GRAV-D\/data_cs08.shtml in ASCII text format.",
+	"notes": "Airborne gravity data for CS08 collected in 2006 over 1 survey. This data set is part of the Gravity for the Re-definition of the American Vertical Datum (GRAV-D) project initiated by NOAA's National Geodetic Survey to collect and monitor gravity data suitable for the re-definition of the vertical datum for at least the United States and territories. The data is available at http://www.ngs.noaa.gov/GRAV-D/data_cs08.shtml in ASCII text format.",
 	"license_title": null,
 	"extras": [{
 		"key": "bbox-east-long",
@@ -183,7 +183,7 @@
 	},
 	{
 		"key": "spatial",
-		"value": "{\"type\": \"Polygon\", \"coordinates\": [[[-89.0, 27.1], [-85.0, 27.1], [-85.0, 31.3], [-89.0, 31.3], [-89.0, 27.1]]]}"
+		"value": "{"type": "Polygon", "coordinates": [[[-89.0, 27.1], [-85.0, 27.1], [-85.0, 31.3], [-89.0, 31.3], [-89.0, 27.1]]]}"
 	},
 	{
 		"key": "progress",
@@ -191,7 +191,7 @@
 	},
 	{
 		"key": "access_constraints",
-		"value": "[\"Use Constraints: Must read and fully comprehend the metadata prior to use, acknowledgment of the Originator when using the data set as a source, data should not be used beyond the limits of the source scale\", \"Access Constraints: None\"]"
+		"value": "["Use Constraints: Must read and fully comprehend the metadata prior to use, acknowledgment of the Originator when using the data set as a source, data should not be used beyond the limits of the source scale", "Access Constraints: None"]"
 	},
 	{
 		"key": "temporal-extent-begin",
@@ -211,7 +211,7 @@
 	},
 	{
 		"key": "dataset-reference-date",
-		"value": "[{\"type\": \"publication\", \"value\": \"2015-09-01\"}]"
+		"value": "[{"type": "publication", "value": "2015-09-01"}]"
 	},
 	{
 		"key": "frequency-of-update",
@@ -219,7 +219,7 @@
 	},
 	{
 		"key": "licence",
-		"value": "[\"While every effort has been made to ensure that these data are accurate and reliable within the limits of the current state of the art, NOAA cannot assume liability for any damages caused by any errors or omissions in the data, nor as a result of the failure of the data to function on a particular system. NOAA makes no warranty, expressed or implied, nor does the fact of distribution constitute such a warranty.\"]"
+		"value": "["While every effort has been made to ensure that these data are accurate and reliable within the limits of the current state of the art, NOAA cannot assume liability for any damages caused by any errors or omissions in the data, nor as a result of the failure of the data to function on a particular system. NOAA makes no warranty, expressed or implied, nor does the fact of distribution constitute such a warranty."]"
 	},
 	{
 		"key": "metadata_type",
@@ -227,7 +227,7 @@
 	},
 	{
 		"key": "responsible-party",
-		"value": "[{\"name\": \"NOAA's National Geodetic Survey\", \"roles\": [\"pointOfContact\"]}]"
+		"value": "[{"name": "NOAA's National Geodetic Survey", "roles": ["pointOfContact"]}]"
 	},
 	{
 		"key": "temporal-extent-end",
@@ -243,7 +243,7 @@
 	},
 	{
 		"package_id": "b42ff911-656d-4ac4-a482-06985c5a884f",
-		"value": "marine gravity field, alabama, atmosphere, geodetics\/gravity, envisat, solid earth, geopotential height, datum, topex\/poseidion, in situ land-based platform, lacoste-romberg gravity meter, national spatial reference system, insitu\/laboratory instruments, airborne gravity, height modernization, noaa cessna citation ii, ers1, ers2, continent, earth science, marine geophysics, mississippi, geodetic\/global positioning, goce, instrument, global positioning system satellites, altitude, gps receivers, north america, gravity, north american vertical datum of 1988, platform, dod\/navy\/nrl, gravity field and steady-state ocean circulation explorer, location, orthometric height, spatial reference, ggos, gps, global earth observation system of systems, geophysical, vertical, gravity recovery and climate experiment, united states of america, oceans, geoss, gulf of mexico, aircraft, inertial measurement units, geoid, ellipsoid height, national geodetic survey, national ocean service, noaa, u.s. department of commerce, navd88, grace, government agencies-u.s. federal agencies, government agencies\u2010u.s. federal agencies, doc\/noaa\/nos\/ngs, lrgm, jason-1, florida, gravitation field, geoid properties, data center, geodetic, global geodetic observing system, naval research laboratory (nrl), u.s. navy, department of defense, ground-based observations, gravimeters, earth observation satellites, nsrs, jason-2",
+		"value": "marine gravity field, alabama, atmosphere, geodetics/gravity, envisat, solid earth, geopotential height, datum, topex/poseidion, in situ land-based platform, lacoste-romberg gravity meter, national spatial reference system, insitu/laboratory instruments, airborne gravity, height modernization, noaa cessna citation ii, ers1, ers2, continent, earth science, marine geophysics, mississippi, geodetic/global positioning, goce, instrument, global positioning system satellites, altitude, gps receivers, north america, gravity, north american vertical datum of 1988, platform, dod/navy/nrl, gravity field and steady-state ocean circulation explorer, location, orthometric height, spatial reference, ggos, gps, global earth observation system of systems, geophysical, vertical, gravity recovery and climate experiment, united states of america, oceans, geoss, gulf of mexico, aircraft, inertial measurement units, geoid, ellipsoid height, national geodetic survey, national ocean service, noaa, u.s. department of commerce, navd88, grace, government agencies-u.s. federal agencies, government agenciesu2010u.s. federal agencies, doc/noaa/nos/ngs, lrgm, jason-1, florida, gravitation field, geoid properties, data center, geodetic, global geodetic observing system, naval research laboratory (nrl), u.s. navy, department of defense, ground-based observations, gravimeters, earth observation satellites, nsrs, jason-2",
 		"revision_timestamp": "2015-10-06T20:26:43.331805",
 		"state": "active",
 		"key": "tags",
@@ -273,7 +273,7 @@
 		"revision_timestamp": "2013-03-25T23:05:12.923863",
 		"is_organization": true,
 		"state": "active",
-		"image_url": "https:\/\/fortress.wa.gov\/dfw\/score\/score\/images\/noaa_logo.png",
+		"image_url": "https://fortress.wa.gov/dfw/score/score/images/noaa_logo.png",
 		"revision_id": "c6d43080-22e1-405e-a83d-f2a512d9e867",
 		"type": "organization",
 		"id": "e811f0b4-451f-4896-9e8f-fc6802837819",

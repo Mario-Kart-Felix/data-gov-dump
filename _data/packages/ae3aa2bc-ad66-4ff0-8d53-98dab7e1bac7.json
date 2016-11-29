@@ -37,7 +37,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2013-03-15T22:04:03.715435",
-		"url": "http:\/\/www.streamnet.org\/mapping_apps.cfm?tab=base",
+		"url": "http://www.streamnet.org/mapping_apps.cfm?tab=base",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 0,
@@ -67,7 +67,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2013-03-15T22:04:03.715452",
-		"url": "http:\/\/Server=honu; Service=5151; Database=sde; User=sde_dbo; Version=sde.DEFAULT",
+		"url": "http://Server=honu; Service=5151; Database=sde; User=sde_dbo; Version=sde.DEFAULT",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 1,
@@ -97,7 +97,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2013-03-15T22:04:03.715456",
-		"url": "http:\/\/www.streamnet.org\/mapping_apps.cfm?tab=base#hydro",
+		"url": "http://www.streamnet.org/mapping_apps.cfm?tab=base#hydro",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 2,
@@ -117,11 +117,11 @@
 	"name": "pnw-river-reach-files-1-100k-watercourses-arcs",
 	"isopen": false,
 	"url": null,
-	"notes": "This feature class includes the ARC features from the 2001 version of the PNW River Reach files Arc\/INFO coverage. Separate, companion feature classes are also available from StreamNet, including a ROUTE system built on this layer's LLID attribute and the related POLYGON waterbody features. Background: The U.S. Geological Survey (USGS) in Portland, in cooperation with Bonneville Power Administration, the Northwest Power Planning Council, and other Federal and state agencies and NW Indian Tribes produced a 1:100,000-scale River Reach data layer for the Pacific Northwest in the early 1990s. The Pacific Northwest (PNW) 1:100k River Reach Files (RF3) are a geo-referenced river reach data layer that encompasses the Columbia River Basin within the conterminous United States, the coasts of Oregon and Washington, Puget Sound in Washington, the Klamath and Goose Lake Basins in southern Oregon and the Bear Lake Basin in southeastern Idaho. The system is basically a 1:100,000 scale enhancement of the pre-existing 1:250,000 scale EPA River Reach File 2 (RF2). The RF3 creation process was a primary task of the PNW River Reach Project because these reach identifiers are an integral hydrologic component in a regional rivers and fisheries information system now known as StreamNet (formerly the Coordinated Information System (CIS) and the Northwest Environmental Database (NED)). StreamNet is an ongoing effort by federal, state, and tribal organizations within the region to compile reach and stream specific information pertinent to the Region's fish and wildlife resources in Oregon, Idaho, Washington, and western Montana. The PNW Reach Files carry the U.S. Environmental Protection Agency's (US EPA) river reach numbers. The system was transferred over to the StreamNet project at Pacific States Marine Fisheries Commission (PSMFC) in early 1997 for maintenance, enhancement, and distribution. This dataset was last updated in August of 2001 and includes changes and corrections to the 100k Reach Files originally posted on the streamnet site (www.streamnet.org) in the fall of 1997. Numerous routing errors have been corrected, flow direction of routes and arcs has been made consistent, and attribute miscodes have been addressed. In addition, the files maintained by WDFW, IDFG, ODFW, and MFWP have been made consistent, especially in the hucs along the state borders. All of the LLIDs in these coverages have been approved by the state fish and wildlife agencies, and will be kept unchanged unless compelling reasons necessitate updates. Some routes may have LLIDs different than those posted in earlier versions, but every effort has been made to minimize this as much as is practical. Please see the supplemental information section for additional details and contact StreamNetGIS@psmfc.org if you have any questions.",
+	"notes": "This feature class includes the ARC features from the 2001 version of the PNW River Reach files Arc/INFO coverage. Separate, companion feature classes are also available from StreamNet, including a ROUTE system built on this layer's LLID attribute and the related POLYGON waterbody features. Background: The U.S. Geological Survey (USGS) in Portland, in cooperation with Bonneville Power Administration, the Northwest Power Planning Council, and other Federal and state agencies and NW Indian Tribes produced a 1:100,000-scale River Reach data layer for the Pacific Northwest in the early 1990s. The Pacific Northwest (PNW) 1:100k River Reach Files (RF3) are a geo-referenced river reach data layer that encompasses the Columbia River Basin within the conterminous United States, the coasts of Oregon and Washington, Puget Sound in Washington, the Klamath and Goose Lake Basins in southern Oregon and the Bear Lake Basin in southeastern Idaho. The system is basically a 1:100,000 scale enhancement of the pre-existing 1:250,000 scale EPA River Reach File 2 (RF2). The RF3 creation process was a primary task of the PNW River Reach Project because these reach identifiers are an integral hydrologic component in a regional rivers and fisheries information system now known as StreamNet (formerly the Coordinated Information System (CIS) and the Northwest Environmental Database (NED)). StreamNet is an ongoing effort by federal, state, and tribal organizations within the region to compile reach and stream specific information pertinent to the Region's fish and wildlife resources in Oregon, Idaho, Washington, and western Montana. The PNW Reach Files carry the U.S. Environmental Protection Agency's (US EPA) river reach numbers. The system was transferred over to the StreamNet project at Pacific States Marine Fisheries Commission (PSMFC) in early 1997 for maintenance, enhancement, and distribution. This dataset was last updated in August of 2001 and includes changes and corrections to the 100k Reach Files originally posted on the streamnet site (www.streamnet.org) in the fall of 1997. Numerous routing errors have been corrected, flow direction of routes and arcs has been made consistent, and attribute miscodes have been addressed. In addition, the files maintained by WDFW, IDFG, ODFW, and MFWP have been made consistent, especially in the hucs along the state borders. All of the LLIDs in these coverages have been approved by the state fish and wildlife agencies, and will be kept unchanged unless compelling reasons necessitate updates. Some routes may have LLIDs different than those posted in earlier versions, but every effort has been made to minimize this as much as is practical. Please see the supplemental information section for additional details and contact StreamNetGIS@psmfc.org if you have any questions.",
 	"license_title": null,
 	"extras": [{
 		"key": "responsible-party",
-		"value": "[{\"name\": \"Pacific States Marine Fisheries Commission\", \"roles\": [\"pointOfContact\"]}]"
+		"value": "[{"name": "Pacific States Marine Fisheries Commission", "roles": ["pointOfContact"]}]"
 	},
 	{
 		"key": "contact-email",
@@ -141,7 +141,7 @@
 	},
 	{
 		"key": "dataset-reference-date",
-		"value": "[{\"type\": \"publication\", \"value\": \"9999-01-01\"}]"
+		"value": "[{"type": "publication", "value": "9999-01-01"}]"
 	},
 	{
 		"key": "resource-type",
@@ -169,7 +169,7 @@
 	},
 	{
 		"key": "licence",
-		"value": "[\"This product was prepared as a cooperative effort of the U.S. Government, state governments, the region's tribes and tribal fish organizations, and the Pacific States Marine Fisheries Commission. None of these organizations, nor any of their employees, makes any warranty, express or implied, or assumes any legal liability or responsibility for the accuracy, completeness, or usefulness of any information, apparatus, product, or process disclosed, or represents that its use would not infringe on privately owned rights. Reference herein to any specific commercial product, process, or service by trade name, trademark, manufacturer, or otherwise does not necessarily constitute or imply its endorsement, recommendation, or favoring by the participating organizations. The views and opinions of authors expressed herein do not necessarily reflect those of the participating agencies.\"]"
+		"value": "["This product was prepared as a cooperative effort of the U.S. Government, state governments, the region's tribes and tribal fish organizations, and the Pacific States Marine Fisheries Commission. None of these organizations, nor any of their employees, makes any warranty, express or implied, or assumes any legal liability or responsibility for the accuracy, completeness, or usefulness of any information, apparatus, product, or process disclosed, or represents that its use would not infringe on privately owned rights. Reference herein to any specific commercial product, process, or service by trade name, trademark, manufacturer, or otherwise does not necessarily constitute or imply its endorsement, recommendation, or favoring by the participating organizations. The views and opinions of authors expressed herein do not necessarily reflect those of the participating agencies."]"
 	},
 	{
 		"key": "metadata_type",
@@ -177,7 +177,7 @@
 	},
 	{
 		"key": "spatial",
-		"value": "{\"type\": \"Polygon\", \"coordinates\": [[[-125.427176, 40.885456], [-125.427176, 49.151793], [-109.020003, 49.151793], [-109.020003, 40.885456], [-125.427176, 40.885456]]]}"
+		"value": "{"type": "Polygon", "coordinates": [[[-125.427176, 40.885456], [-125.427176, 49.151793], [-109.020003, 49.151793], [-109.020003, 40.885456], [-125.427176, 40.885456]]]}"
 	},
 	{
 		"key": "guid",
@@ -189,7 +189,7 @@
 	},
 	{
 		"key": "access_constraints",
-		"value": "[\"Use Constraints: The PNW River Reach Files were compiled from 1:100,000-scale Digital Line Graphs for hydrography, which were constructed from scanned 1:24,000 and 1:63,000-scale separates and then edited. The county boundaries coverage was at 1:500,000-scale. This lower resolution may have caused some reaches to be incorrectly coded for COUNTY and COUNTY-2. Not all stream reaches have been named. None of the water body features were named or coded with a unique identifier. Stream ID's (LLID) have only been assigned to named streams in Oregon, Washington, Idaho, and Montana, and unnamed streams in Oregon and Washington.\", \"Access Constraints: None.\"]"
+		"value": "["Use Constraints: The PNW River Reach Files were compiled from 1:100,000-scale Digital Line Graphs for hydrography, which were constructed from scanned 1:24,000 and 1:63,000-scale separates and then edited. The county boundaries coverage was at 1:500,000-scale. This lower resolution may have caused some reaches to be incorrectly coded for COUNTY and COUNTY-2. Not all stream reaches have been named. None of the water body features were named or coded with a unique identifier. Stream ID's (LLID) have only been assigned to named streams in Oregon, Washington, Idaho, and Montana, and unnamed streams in Oregon and Washington.", "Access Constraints: None."]"
 	},
 	{
 		"key": "frequency-of-update",
@@ -227,7 +227,7 @@
 		"revision_timestamp": "2013-03-26T22:13:28.360124",
 		"is_organization": true,
 		"state": "active",
-		"image_url": "http:\/\/www.psmfc.org\/wp-content\/themes\/pacific-state-marine-fisheries-commission\/images\/logo.png",
+		"image_url": "http://www.psmfc.org/wp-content/themes/pacific-state-marine-fisheries-commission/images/logo.png",
 		"revision_id": "00e5f250-e93b-4aa7-aa98-079758cf4772",
 		"type": "organization",
 		"id": "6279ebdd-c41b-45cb-ad1d-770fe599bded",

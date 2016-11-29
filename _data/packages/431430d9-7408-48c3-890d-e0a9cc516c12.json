@@ -37,7 +37,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2014-12-02T09:18:46.762903",
-		"url": "http:\/\/www2.census.gov\/geo\/tiger\/TIGER2013\/PLACE",
+		"url": "http://www2.census.gov/geo/tiger/TIGER2013/PLACE",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 0,
@@ -46,7 +46,7 @@
 	}],
 	"num_resources": 1,
 	"tags": [],
-	"title": "TIGER\/Line Shapefile, 2013, Series Information File for the Current Place State-based Shapefile",
+	"title": "TIGER/Line Shapefile, 2013, Series Information File for the Current Place State-based Shapefile",
 	"tracking_summary": {
 		"total": 917,
 		"recent": 15
@@ -57,7 +57,7 @@
 	"name": "tiger-line-shapefile-2013-series-information-file-for-the-current-place-state-based-shapefile",
 	"isopen": false,
 	"url": null,
-	"notes": "The TIGER\/Line shapefiles and related database files (.dbf) are an extract of selected\n          geographic and cartographic information from the U.S. Census Bureau's Master Address File \/ Topologically Integrated Geographic Encoding and Referencing\n          (MAF\/TIGER) Database (MTDB).  The MTDB represents a seamless national file with no overlaps or gaps between parts, however, each TIGER\/Line shapefile is\n          designed to stand alone as an independent data set, or they can be combined to cover the entire nation.\n          \n          The TIGER\/Line shapefiles include both incorporated places (legal entities) and census designated places or CDPs (statistical entities).  An incorporated\n          place is established to provide governmental functions for a concentration of people as opposed to a minor civil division (MCD), which generally is created to\n          provide services or administer an area without regard, necessarily, to population.  Places always nest within a state, but may extend across county and county\n          subdivision boundaries.  An incorporated place usually is a city, town, village, or borough, but can have other legal descriptions.  CDPs are delineated for\n          the decennial census as the statistical counterparts of incorporated places.  CDPs are delineated to provide data for settled concentrations of population\n          that are identifiable by name, but are not legally incorporated under the laws of the state in which they are located.  The boundaries for CDPs often are\n          defined in partnership with state, local, and\/or tribal officials and usually coincide with visible features or the boundary of an adjacent incorporated place\n          or another legal entity.  CDP boundaries often change from one decennial census to the next with changes in the settlement pattern and development; a CDP with\n          the same name as in an earlier census does not necessarily have the same boundary.  The only population\/housing size requirement for CDPs is that they must\n          contain some housing and population.\n          \n          The boundaries of all incorporated places are as of January 1, 2013 as reported through the Census Bureau's Boundary and Annexation Survey (BAS).  The\n          boundaries of all CDPs were delineated as part of the Census Bureau's Participant Statistical Areas Program (PSAP) for the 2010 Census.",
+	"notes": "The TIGER/Line shapefiles and related database files (.dbf) are an extract of selectedn          geographic and cartographic information from the U.S. Census Bureau's Master Address File / Topologically Integrated Geographic Encoding and Referencingn          (MAF/TIGER) Database (MTDB).  The MTDB represents a seamless national file with no overlaps or gaps between parts, however, each TIGER/Line shapefile isn          designed to stand alone as an independent data set, or they can be combined to cover the entire nation.n          n          The TIGER/Line shapefiles include both incorporated places (legal entities) and census designated places or CDPs (statistical entities).  An incorporatedn          place is established to provide governmental functions for a concentration of people as opposed to a minor civil division (MCD), which generally is created ton          provide services or administer an area without regard, necessarily, to population.  Places always nest within a state, but may extend across county and countyn          subdivision boundaries.  An incorporated place usually is a city, town, village, or borough, but can have other legal descriptions.  CDPs are delineated forn          the decennial census as the statistical counterparts of incorporated places.  CDPs are delineated to provide data for settled concentrations of populationn          that are identifiable by name, but are not legally incorporated under the laws of the state in which they are located.  The boundaries for CDPs often aren          defined in partnership with state, local, and/or tribal officials and usually coincide with visible features or the boundary of an adjacent incorporated placen          or another legal entity.  CDP boundaries often change from one decennial census to the next with changes in the settlement pattern and development; a CDP withn          the same name as in an earlier census does not necessarily have the same boundary.  The only population/housing size requirement for CDPs is that they mustn          contain some housing and population.n          n          The boundaries of all incorporated places are as of January 1, 2013 as reported through the Census Bureau's Boundary and Annexation Survey (BAS).  Then          boundaries of all CDPs were delineated as part of the Census Bureau's Participant Statistical Areas Program (PSAP) for the 2010 Census.",
 	"license_title": null,
 	"extras": [{
 		"key": "bbox-east-long",
@@ -97,7 +97,7 @@
 	},
 	{
 		"key": "spatial",
-		"value": "{\"type\": \"Polygon\", \"coordinates\": [[[-179.231086, -14.601813], [179.859681, -14.601813], [179.859681, 71.441059], [-179.231086, 71.441059], [-179.231086, -14.601813]]]}"
+		"value": "{"type": "Polygon", "coordinates": [[[-179.231086, -14.601813], [179.859681, -14.601813], [179.859681, 71.441059], [-179.231086, 71.441059], [-179.231086, -14.601813]]]}"
 	},
 	{
 		"key": "progress",
@@ -105,7 +105,7 @@
 	},
 	{
 		"key": "access_constraints",
-		"value": "[\"Use Constraints: The TIGER\/Line Shapefile products are not copyrighted however TIGER\/Line\\n              and Census TIGER are registered trademarks of the U.S. Census Bureau.  These products are free to use in a product or publication, however acknowledgement\\n              must be given to the U.S. Census Bureau as the source.\\n              \\n              The boundary information in the TIGER\/Line Shapefiles are for statistical data collection and tabulation purposes only; their depiction and designation\\n              for statistical purposes does not constitute a determination of jurisdictional authority or rights of ownership or entitlement and they are not legal land\\n              descriptions.Coordinates in the TIGER\/Line shapefiles have six implied decimal places, but the positional accuracy of these coordinates is not as great as\\n              the six decimal places suggest.\", \"Distribution Liability: No warranty, expressed or implied is made with regard to the\\n              accuracy of these data, and no liability is assumed by the U.S. Government in general or the U.S. Census Bureau in specific as to the spatial or attribute\\n              accuracy of the data.  The act of distribution shall not constitute any such warranty and no responsibility is assumed by the U.S. government in the use\\n              of these files.  The boundary information in the TIGER\/Line Shapefiles is for statistical data collection and tabulation purposes only; their depiction\\n              and designation for statistical purposes do not constitute a determination of jurisdictional authority or rights of ownership or entitlement and they are\\n              not legal land descriptions.\"]"
+		"value": "["Use Constraints: The TIGER/Line Shapefile products are not copyrighted however TIGER/Line\n              and Census TIGER are registered trademarks of the U.S. Census Bureau.  These products are free to use in a product or publication, however acknowledgement\n              must be given to the U.S. Census Bureau as the source.\n              \n              The boundary information in the TIGER/Line Shapefiles are for statistical data collection and tabulation purposes only; their depiction and designation\n              for statistical purposes does not constitute a determination of jurisdictional authority or rights of ownership or entitlement and they are not legal land\n              descriptions.Coordinates in the TIGER/Line shapefiles have six implied decimal places, but the positional accuracy of these coordinates is not as great as\n              the six decimal places suggest.", "Distribution Liability: No warranty, expressed or implied is made with regard to the\n              accuracy of these data, and no liability is assumed by the U.S. Government in general or the U.S. Census Bureau in specific as to the spatial or attribute\n              accuracy of the data.  The act of distribution shall not constitute any such warranty and no responsibility is assumed by the U.S. government in the use\n              of these files.  The boundary information in the TIGER/Line Shapefiles is for statistical data collection and tabulation purposes only; their depiction\n              and designation for statistical purposes do not constitute a determination of jurisdictional authority or rights of ownership or entitlement and they are\n              not legal land descriptions."]"
 	},
 	{
 		"key": "temporal-extent-begin",
@@ -125,7 +125,7 @@
 	},
 	{
 		"key": "dataset-reference-date",
-		"value": "[{\"type\": \"publication\", \"value\": \"2013\"}]"
+		"value": "[{"type": "publication", "value": "2013"}]"
 	},
 	{
 		"key": "frequency-of-update",
@@ -141,7 +141,7 @@
 	},
 	{
 		"key": "responsible-party",
-		"value": "[{\"name\": \"U.S. Department of Commerce, U.S. Census Bureau, Geography Division, Geographic Products Branch\", \"roles\": [\"pointofContact\"]}]"
+		"value": "[{"name": "U.S. Department of Commerce, U.S. Census Bureau, Geography Division, Geographic Products Branch", "roles": ["pointofContact"]}]"
 	},
 	{
 		"key": "temporal-extent-end",
@@ -187,7 +187,7 @@
 		"revision_timestamp": "2013-08-29T13:37:04.171127",
 		"is_organization": true,
 		"state": "active",
-		"image_url": "http:\/\/www.census.gov\/main\/img\/home\/CensusLogo-white.png",
+		"image_url": "http://www.census.gov/main/img/home/CensusLogo-white.png",
 		"revision_id": "0995f525-d563-4254-a535-af5b926fe663",
 		"type": "organization",
 		"id": "31c49abe-512a-412a-9cc7-5b2601325d6b",

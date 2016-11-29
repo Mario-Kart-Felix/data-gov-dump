@@ -37,7 +37,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2015-09-26T18:33:42.121894",
-		"url": "http:\/\/coast.noaa.gov",
+		"url": "http://coast.noaa.gov",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 0,
@@ -67,7 +67,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2015-09-26T18:33:42.121918",
-		"url": "http:\/\/coast.noaa.gov",
+		"url": "http://coast.noaa.gov",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 1,
@@ -94,9 +94,9 @@
 		"resource_locator_protocol": "",
 		"mimetype": null,
 		"cache_url": null,
-		"name": "Lidar QA\/QC Report",
+		"name": "Lidar QA/QC Report",
 		"created": "2015-09-26T18:33:42.121927",
-		"url": "ftp:\/\/ftp.csc.noaa.gov\/pub\/crs\/beachmap\/qa_docs\/md\/Dorchester_Somerset_Talbot_Wicomico_QA_Report_2003.pdf",
+		"url": "ftp://ftp.csc.noaa.gov/pub/crs/beachmap/qa_docs/md/Dorchester_Somerset_Talbot_Wicomico_QA_Report_2003.pdf",
 		"webstore_url": null,
 		"resource_locator_function": "information",
 		"position": 2,
@@ -116,7 +116,7 @@
 	"name": "2003-maryland-department-of-natural-resources-lidar-dorchester-somerset-talbotand-wicomico-coun",
 	"isopen": false,
 	"url": null,
-	"notes": "Light Detection and Ranging (LiDAR) is a method of locating objects on the ground using aerial-borne equipment. It is similar to RADAR or SONAR in that the two-way travel time of an energy beam reflected off an object is precisely measured, but this technology uses laser light instead of radio or sound waves. This technology has proven very useful in remote sensing of the earth. It can be used for determining elevations of both the earth's surface and items (natural and man-made) on the surface. Analysis of LiDAR data is used in detailed modeling of the earth's surface for drainage and floodplain studies, determining how a new structure will affect views from various locations, shoreline erosion studies, and other reasons. The bare earth mass points data show the calculated elevation of the earth's surface (the ground, without objects such as trees or buildings). Mass points may appear to have \"holes\" with no elevation values in areas where the surface could not be determined, such as very dense forests or urban areas.",
+	"notes": "Light Detection and Ranging (LiDAR) is a method of locating objects on the ground using aerial-borne equipment. It is similar to RADAR or SONAR in that the two-way travel time of an energy beam reflected off an object is precisely measured, but this technology uses laser light instead of radio or sound waves. This technology has proven very useful in remote sensing of the earth. It can be used for determining elevations of both the earth's surface and items (natural and man-made) on the surface. Analysis of LiDAR data is used in detailed modeling of the earth's surface for drainage and floodplain studies, determining how a new structure will affect views from various locations, shoreline erosion studies, and other reasons. The bare earth mass points data show the calculated elevation of the earth's surface (the ground, without objects such as trees or buildings). Mass points may appear to have "holes" with no elevation values in areas where the surface could not be determined, such as very dense forests or urban areas.",
 	"license_title": null,
 	"extras": [{
 		"key": "bbox-east-long",
@@ -152,7 +152,7 @@
 	},
 	{
 		"key": "spatial",
-		"value": "{\"type\": \"Polygon\", \"coordinates\": [[[-76.390925, 37.892377], [-75.350752, 37.892377], [-75.350752, 39.132246], [-76.390925, 39.132246], [-76.390925, 37.892377]]]}"
+		"value": "{"type": "Polygon", "coordinates": [[[-76.390925, 37.892377], [-75.350752, 37.892377], [-75.350752, 39.132246], [-76.390925, 39.132246], [-76.390925, 37.892377]]]}"
 	},
 	{
 		"key": "progress",
@@ -180,7 +180,7 @@
 	},
 	{
 		"key": "dataset-reference-date",
-		"value": "[{\"type\": \"publication\", \"value\": \"2006-10-18\"}]"
+		"value": "[{"type": "publication", "value": "2006-10-18"}]"
 	},
 	{
 		"key": "frequency-of-update",
@@ -188,7 +188,7 @@
 	},
 	{
 		"key": "licence",
-		"value": "[\"These data depict the elevations at the time of the survey and are only accurate for that time. Users should be aware that\\n            temporal changes may have occurred since this data set was collected and some parts of this data may no longer represent actual surface\\n            conditions. Users should not use this data for critical applications without a full awareness of its limitations. Any conclusions drawn\\n            from analysis of this information are not the responsibility of NOAA or any of its partners. These data are NOT to be used for navigational purposes.\"]"
+		"value": "["These data depict the elevations at the time of the survey and are only accurate for that time. Users should be aware that\n            temporal changes may have occurred since this data set was collected and some parts of this data may no longer represent actual surface\n            conditions. Users should not use this data for critical applications without a full awareness of its limitations. Any conclusions drawn\n            from analysis of this information are not the responsibility of NOAA or any of its partners. These data are NOT to be used for navigational purposes."]"
 	},
 	{
 		"key": "metadata_type",
@@ -196,7 +196,7 @@
 	},
 	{
 		"key": "responsible-party",
-		"value": "[{\"name\": \"Maryland Department of Natural Resources\", \"roles\": [\"pointOfContact\"]}]"
+		"value": "[{"name": "Maryland Department of Natural Resources", "roles": ["pointOfContact"]}]"
 	},
 	{
 		"key": "temporal-extent-end",
@@ -212,7 +212,7 @@
 	},
 	{
 		"package_id": "87f1af88-ffb4-47c0-822f-4baa6c643053",
-		"value": "elevation model, gridded dem, kent county, elevation, us, dorchester county, talbot county, digital elevation model, chesapeake bay, mass points, lidar, queen anne's county, wicomico county, bathymetry\/topography, dem, maryland, surface model, caroline county, somerset county",
+		"value": "elevation model, gridded dem, kent county, elevation, us, dorchester county, talbot county, digital elevation model, chesapeake bay, mass points, lidar, queen anne's county, wicomico county, bathymetry/topography, dem, maryland, surface model, caroline county, somerset county",
 		"revision_timestamp": "2015-09-26T22:33:42.081426",
 		"state": "active",
 		"key": "tags",
@@ -242,7 +242,7 @@
 		"revision_timestamp": "2013-03-25T23:05:12.923863",
 		"is_organization": true,
 		"state": "active",
-		"image_url": "https:\/\/fortress.wa.gov\/dfw\/score\/score\/images\/noaa_logo.png",
+		"image_url": "https://fortress.wa.gov/dfw/score/score/images/noaa_logo.png",
 		"revision_id": "c6d43080-22e1-405e-a83d-f2a512d9e867",
 		"type": "organization",
 		"id": "e811f0b4-451f-4896-9e8f-fc6802837819",

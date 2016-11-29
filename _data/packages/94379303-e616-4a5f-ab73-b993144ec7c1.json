@@ -36,7 +36,7 @@
 		"cache_url": null,
 		"name": "http",
 		"created": "2016-04-18T15:43:06.781433",
-		"url": "http:\/\/www.aviationweather.gov\/wifs",
+		"url": "http://www.aviationweather.gov/wifs",
 		"webstore_url": null,
 		"resource_locator_function": "download",
 		"position": 0,
@@ -80,7 +80,7 @@
 	},
 	{
 		"key": "dataset-reference-date",
-		"value": "[{\"type\": \"creation\", \"value\": \"2015-11-23\"}]"
+		"value": "[{"type": "creation", "value": "2015-11-23"}]"
 	},
 	{
 		"key": "resource-type",
@@ -120,7 +120,7 @@
 	},
 	{
 		"key": "spatial",
-		"value": "{\"type\": \"Polygon\", \"coordinates\": [[[0.0, -90.0], [360.0, -90.0], [360.0, 90.0], [0.0, 90.0], [0.0, -90.0]]]}"
+		"value": "{"type": "Polygon", "coordinates": [[[0.0, -90.0], [360.0, -90.0], [360.0, 90.0], [0.0, 90.0], [0.0, -90.0]]]}"
 	},
 	{
 		"key": "guid",
@@ -144,7 +144,7 @@
 	},
 	{
 		"package_id": "94379303-e616-4a5f-ab73-b993144ec7c1",
-		"value": "wind_speed, doc\/noaa\/nws\/toc\/nwstg, none, wafs, geopotential height, wind speed\/wind direction, air_temperature, atmospheric temperature, world area forecast system, geopotential_height, y[htuv]x[cdefghijklm][0-9][0-9] egrr, doc\/noaa\/nws\/ncep\/awc",
+		"value": "wind_speed, doc/noaa/nws/toc/nwstg, none, wafs, geopotential height, wind speed/wind direction, air_temperature, atmospheric temperature, world area forecast system, geopotential_height, y[htuv]x[cdefghijklm][0-9][0-9] egrr, doc/noaa/nws/ncep/awc",
 		"revision_timestamp": "2016-04-18T19:43:06.686436",
 		"state": "active",
 		"key": "tags",
@@ -174,7 +174,7 @@
 		"revision_timestamp": "2013-03-25T23:05:12.923863",
 		"is_organization": true,
 		"state": "active",
-		"image_url": "https:\/\/fortress.wa.gov\/dfw\/score\/score\/images\/noaa_logo.png",
+		"image_url": "https://fortress.wa.gov/dfw/score/score/images/noaa_logo.png",
 		"revision_id": "c6d43080-22e1-405e-a83d-f2a512d9e867",
 		"type": "organization",
 		"id": "e811f0b4-451f-4896-9e8f-fc6802837819",

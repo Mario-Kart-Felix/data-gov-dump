@@ -24,18 +24,18 @@
 		"state": "active",
 		"hash": "",
 		"description": "",
-		"format": "application\/octet-stream",
+		"format": "application/octet-stream",
 		"tracking_summary": {
 			"total": 1,
 			"recent": 1
 		},
 		"mimetype_inner": null,
 		"revision_id": "3cb9d061-0394-46c8-8b08-8aa6b4f6ca67",
-		"mimetype": "application\/octet-stream",
+		"mimetype": "application/octet-stream",
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2014-11-26T13:39:45.962001",
-		"url": "http:\/\/daac.ornl.gov\/cgi-bin\/dsviewer.pl?ds_id=1248",
+		"url": "http://daac.ornl.gov/cgi-bin/dsviewer.pl?ds_id=1248",
 		"webstore_url": null,
 		"last_modified": null,
 		"position": 0,
@@ -102,7 +102,7 @@
 	"name": "harmonized-global-land-use-for-years-1500-2100-v1",
 	"isopen": true,
 	"url": null,
-	"notes": "These data represent fractional land use and land cover patterns annually for the years 1500 - 2100 for the globe at 0.5-degree (~50-km) spatial resolution. Land use categories of cropland, pasture, primary land, secondary (recovering) land, and urban land, and underlying annual land-use transitions, are included. Annual data on age and biomass density of secondary land, as well as annual wood harvest, are included for each grid cell. Historical land cover data for the years 1500 - 2005 are based on HYDE 3.1 and future land cover projections for the period 2006 - 2100 came from four Integrated Assessment Model (IAM) scenarios which reach different levels of radiative forcing by year 2100: MESSAGE (8.5 W\/m2), AIM (6 W\/m2), GCAM (4.5 W\/m2), and IMAGE (2.6 W\/m2). A key feature of these data is that historical reconstructions of land use were harmonized (computationally adjusted to minimize differences at the transition period) with modeled future scenarios, allowing for a seamless examination of historical and future land use. The output data present a single consistent, spatially gridded set of land-use change scenarios for studies of human impacts on the past, present, and future Earth system. For additional information about the algorithms, inputs, and options used in creating the land use transitions data, please refer to Hurtt et al. (2006) and Hurtt et al. (2011).Data are presented as a series of twenty (20) different data products representing different past and future model scenarios. There are a total of 560 NetCDF v4 files (*.nc4), one for each combination of data product and land use variable.",
+	"notes": "These data represent fractional land use and land cover patterns annually for the years 1500 - 2100 for the globe at 0.5-degree (~50-km) spatial resolution. Land use categories of cropland, pasture, primary land, secondary (recovering) land, and urban land, and underlying annual land-use transitions, are included. Annual data on age and biomass density of secondary land, as well as annual wood harvest, are included for each grid cell. Historical land cover data for the years 1500 - 2005 are based on HYDE 3.1 and future land cover projections for the period 2006 - 2100 came from four Integrated Assessment Model (IAM) scenarios which reach different levels of radiative forcing by year 2100: MESSAGE (8.5 W/m2), AIM (6 W/m2), GCAM (4.5 W/m2), and IMAGE (2.6 W/m2). A key feature of these data is that historical reconstructions of land use were harmonized (computationally adjusted to minimize differences at the transition period) with modeled future scenarios, allowing for a seamless examination of historical and future land use. The output data present a single consistent, spatially gridded set of land-use change scenarios for studies of human impacts on the past, present, and future Earth system. For additional information about the algorithms, inputs, and options used in creating the land use transitions data, please refer to Hurtt et al. (2006) and Hurtt et al. (2011).Data are presented as a series of twenty (20) different data products representing different past and future model scenarios. There are a total of 560 NetCDF v4 files (*.nc4), one for each combination of data product and land use variable.",
 	"license_title": "U.S. Government Work",
 	"extras": [{
 		"key": "harvest_source_id",
@@ -130,7 +130,7 @@
 	},
 	{
 		"key": "temporal",
-		"value": "1500-01-01T00:00:00Z\/2100-01-01T00:00:00Z"
+		"value": "1500-01-01T00:00:00Z/2100-01-01T00:00:00Z"
 	},
 	{
 		"key": "theme",
@@ -142,15 +142,15 @@
 	},
 	{
 		"key": "catalog_conformsTo",
-		"value": "https:\/\/project-open-data.cio.gov\/v1.1\/schema"
+		"value": "https://project-open-data.cio.gov/v1.1/schema"
 	},
 	{
 		"key": "catalog_@context",
-		"value": "https:\/\/project-open-data.cio.gov\/v1.1\/schema\/catalog.jsonld"
+		"value": "https://project-open-data.cio.gov/v1.1/schema/catalog.jsonld"
 	},
 	{
 		"key": "catalog_describedBy",
-		"value": "https:\/\/project-open-data.cio.gov\/v1.1\/schema\/catalog.json"
+		"value": "https://project-open-data.cio.gov/v1.1/schema/catalog.json"
 	},
 	{
 		"key": "harvest_source_title",
@@ -174,7 +174,7 @@
 	},
 	{
 		"key": "landingPage",
-		"value": "http:\/\/reverb.echo.nasa.gov\/reverb?selected=C179131625-ORNL_DAAC"
+		"value": "http://reverb.echo.nasa.gov/reverb?selected=C179131625-ORNL_DAAC"
 	},
 	{
 		"key": "harvest_object_id",
@@ -192,7 +192,7 @@
 	},
 	{
 		"key": "license",
-		"value": "http:\/\/www.usa.gov\/publicdomain\/label\/1.0\/"
+		"value": "http://www.usa.gov/publicdomain/label/1.0/"
 	},
 	{
 		"key": "language",
@@ -233,16 +233,16 @@
 		"key": "harvest_source_title",
 		"value": "NASA Data.json"
 	}],
-	"license_url": "http:\/\/www.usa.gov\/publicdomain\/label\/1.0\/",
+	"license_url": "http://www.usa.gov/publicdomain/label/1.0/",
 	"organization": {
-		"description": "NASA's vision: To reach for new heights and reveal the unknown so that what we do and learn will benefit all humankind.\r\n\r\nTo do that, thousands of people have been working around the world -- and off of it -- for 50 years, trying to answer some basic questions. What's out there in space? How do we get there? What will we find? What can we learn there, or learn just by trying to get there, that will make life better here on Earth?\r\n\r\nNASA conducts its work in four principal organizations, called mission directorates:\r\n \r\nAeronautics: works to solve the challenges that still exist in our nation's air transportation system: air traffic congestion, safety and environmental impacts.\r\n\r\nHuman Exploration and Operations: focuses on International Space Station operations, development of commercial spaceflight opportunities and human exploration beyond low Earth orbit.\r\n\r\nScience: explores the Earth, solar system and universe beyond; charts the best route of discovery; and reaps the benefits of Earth and space exploration for society.\r\n\r\nSpace Technology: rapidly develops, demonstrates, and infuses revolutionary, high-payoff technologies, expanding the boundaries of the aerospace enterprise.\r\n\r\nIn the early 21st century, NASA's reach spans the universe. The Mars rover Curiosity is still exploring Mars to see if it might once have had environments suitable for life. Cassini is in orbit around Saturn, as Juno makes its way to Jupiter. The restored Hubble Space Telescope continues to explore the deepest reaches of the cosmos as NASA developes the James Webb Space Telescope.\r\n\r\nCloser to home, the latest crew of the International Space Station is extending the permanent human presence in space. With commercial partners such as SpaceX, NASA is helping to foster the development of private-sector aerospace.\r\n\r\nEarth science satellites are sending back unprecedented data on Earth's oceans, climate and other features. NASA's aeronautics team is working with other government organizations, universities, and industry to fundamentally improve the air transportation experience and retain our nation's leadership in global aviation.",
+		"description": "NASA's vision: To reach for new heights and reveal the unknown so that what we do and learn will benefit all humankind.rnrnTo do that, thousands of people have been working around the world -- and off of it -- for 50 years, trying to answer some basic questions. What's out there in space? How do we get there? What will we find? What can we learn there, or learn just by trying to get there, that will make life better here on Earth?rnrnNASA conducts its work in four principal organizations, called mission directorates:rn rnAeronautics: works to solve the challenges that still exist in our nation's air transportation system: air traffic congestion, safety and environmental impacts.rnrnHuman Exploration and Operations: focuses on International Space Station operations, development of commercial spaceflight opportunities and human exploration beyond low Earth orbit.rnrnScience: explores the Earth, solar system and universe beyond; charts the best route of discovery; and reaps the benefits of Earth and space exploration for society.rnrnSpace Technology: rapidly develops, demonstrates, and infuses revolutionary, high-payoff technologies, expanding the boundaries of the aerospace enterprise.rnrnIn the early 21st century, NASA's reach spans the universe. The Mars rover Curiosity is still exploring Mars to see if it might once have had environments suitable for life. Cassini is in orbit around Saturn, as Juno makes its way to Jupiter. The restored Hubble Space Telescope continues to explore the deepest reaches of the cosmos as NASA developes the James Webb Space Telescope.rnrnCloser to home, the latest crew of the International Space Station is extending the permanent human presence in space. With commercial partners such as SpaceX, NASA is helping to foster the development of private-sector aerospace.rnrnEarth science satellites are sending back unprecedented data on Earth's oceans, climate and other features. NASA's aeronautics team is working with other government organizations, universities, and industry to fundamentally improve the air transportation experience and retain our nation's leadership in global aviation.",
 		"created": "2013-03-14T03:44:44.467521",
 		"title": "National Aeronautics and Space Administration",
 		"name": "nasa-gov",
 		"revision_timestamp": "2013-08-20T16:04:52.563777",
 		"is_organization": true,
 		"state": "active",
-		"image_url": "http:\/\/polargateways2008.gsfc.nasa.gov\/images\/LOGO_2in\/NASA_2.jpg",
+		"image_url": "http://polargateways2008.gsfc.nasa.gov/images/LOGO_2in/NASA_2.jpg",
 		"revision_id": "7f05110b-681a-402c-a372-74500dc583dd",
 		"type": "organization",
 		"id": "d8a6202b-c0c3-463d-88a0-3bc021a178ed",

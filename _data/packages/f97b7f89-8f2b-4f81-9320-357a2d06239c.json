@@ -37,7 +37,7 @@
 		"cache_url": null,
 		"name": "Esri Rest API Endpoint",
 		"created": "2015-09-26T19:18:04.043414",
-		"url": "http:\/\/www.ncddc.noaa.gov\/arcgis\/rest\/services\/OceanExploration\/OE_MethaneSeeps\/MapServer",
+		"url": "http://www.ncddc.noaa.gov/arcgis/rest/services/OceanExploration/OE_MethaneSeeps/MapServer",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 0,
@@ -59,7 +59,7 @@
 		"revision_timestamp": "2013-03-25T23:05:12.923863",
 		"is_organization": true,
 		"state": "active",
-		"image_url": "https:\/\/fortress.wa.gov\/dfw\/score\/score\/images\/noaa_logo.png",
+		"image_url": "https://fortress.wa.gov/dfw/score/score/images/noaa_logo.png",
 		"revision_id": "c6d43080-22e1-405e-a83d-f2a512d9e867",
 		"type": "organization",
 		"id": "e811f0b4-451f-4896-9e8f-fc6802837819",
@@ -70,7 +70,7 @@
 	"name": "methane-seeps-in-the-northern-us-atlantic-margin",
 	"isopen": false,
 	"url": null,
-	"notes": "These locations of methane seeps in the northern US Atlantic margin were derived from analysis of multibeam and water column data collected during several expeditions of the NOAA Ship Okeanos Explorer. The results of the analysis were published in a paper titled \"Widespread methane leakage from the sea floor on the northern US Atlantic margin\" by A. Skarke, C. Ruppel, M. Kodis, D. Brothers, and E. Lobecker.",
+	"notes": "These locations of methane seeps in the northern US Atlantic margin were derived from analysis of multibeam and water column data collected during several expeditions of the NOAA Ship Okeanos Explorer. The results of the analysis were published in a paper titled "Widespread methane leakage from the sea floor on the northern US Atlantic margin" by A. Skarke, C. Ruppel, M. Kodis, D. Brothers, and E. Lobecker.",
 	"owner_org": "e811f0b4-451f-4896-9e8f-fc6802837819",
 	"extras": [{
 		"key": "bbox-east-long",
@@ -106,7 +106,7 @@
 	},
 	{
 		"key": "spatial",
-		"value": "{\"type\": \"Polygon\", \"coordinates\": [[[-76.197538, 32.489676], [-67.673053, 32.489676], [-67.673053, 40.569787], [-76.197538, 40.569787], [-76.197538, 32.489676]]]}"
+		"value": "{"type": "Polygon", "coordinates": [[[-76.197538, 32.489676], [-67.673053, 32.489676], [-67.673053, 40.569787], [-76.197538, 40.569787], [-76.197538, 32.489676]]]}"
 	},
 	{
 		"key": "progress",
@@ -114,7 +114,7 @@
 	},
 	{
 		"key": "access_constraints",
-		"value": "[\"Use Constraints: None\", \"Access Constraints: None\"]"
+		"value": "["Use Constraints: None", "Access Constraints: None"]"
 	},
 	{
 		"key": "temporal-extent-begin",
@@ -134,7 +134,7 @@
 	},
 	{
 		"key": "dataset-reference-date",
-		"value": "[{\"type\": \"publication\", \"value\": \"\"}]"
+		"value": "[{"type": "publication", "value": ""}]"
 	},
 	{
 		"key": "frequency-of-update",
@@ -142,7 +142,7 @@
 	},
 	{
 		"key": "licence",
-		"value": "[\"NOAA makes no warranty regarding these data, expressed or implied, nor does the fact of distribution constitute such a warranty. NOAA, NESDIS, NODC and NCDDC cannot assume liability for any damages caused by any errors or omissions in these data, nor as a result of the failure of these data to function on a particular system.\"]"
+		"value": "["NOAA makes no warranty regarding these data, expressed or implied, nor does the fact of distribution constitute such a warranty. NOAA, NESDIS, NODC and NCDDC cannot assume liability for any damages caused by any errors or omissions in these data, nor as a result of the failure of these data to function on a particular system."]"
 	},
 	{
 		"key": "metadata_type",
@@ -150,7 +150,7 @@
 	},
 	{
 		"key": "responsible-party",
-		"value": "[{\"name\": \"NOAA\/NESDIS\/NODC\/NCDDC-National Coastal Data Development Center\", \"roles\": [\"pointOfContact\"]}]"
+		"value": "[{"name": "NOAA/NESDIS/NODC/NCDDC-National Coastal Data Development Center", "roles": ["pointOfContact"]}]"
 	},
 	{
 		"key": "temporal-extent-end",

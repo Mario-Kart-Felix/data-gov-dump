@@ -30,11 +30,11 @@
 			"recent": 1
 		},
 		"mimetype_inner": null,
-		"mimetype": "application\/zip",
+		"mimetype": "application/zip",
 		"cache_url": null,
 		"name": "solardni.zip",
 		"created": "2016-05-06T20:09:13.254222",
-		"url": "http:\/\/data.nrel.gov\/files\/43\/solardni.zip",
+		"url": "http://data.nrel.gov/files/43/solardni.zip",
 		"webstore_url": null,
 		"last_modified": null,
 		"position": 0,
@@ -57,11 +57,11 @@
 			"recent": 2
 		},
 		"mimetype_inner": null,
-		"mimetype": "application\/zip",
+		"mimetype": "application/zip",
 		"cache_url": null,
 		"name": "solarghi.zip",
 		"created": "2016-05-06T20:09:13.254272",
-		"url": "http:\/\/data.nrel.gov\/files\/43\/solarghi.zip",
+		"url": "http://data.nrel.gov/files/43/solarghi.zip",
 		"webstore_url": null,
 		"last_modified": null,
 		"position": 1,
@@ -84,11 +84,11 @@
 			"recent": 1
 		},
 		"mimetype_inner": null,
-		"mimetype": "text\/plain",
+		"mimetype": "text/plain",
 		"cache_url": null,
 		"name": "indian solar resources disclaimer.txt",
 		"created": "2016-05-06T20:09:13.254283",
-		"url": "http:\/\/data.nrel.gov\/files\/43\/Indian%20Solar%20Resources%20Disclaimer.txt",
+		"url": "http://data.nrel.gov/files/43/Indian%20Solar%20Resources%20Disclaimer.txt",
 		"webstore_url": null,
 		"last_modified": null,
 		"position": 2,
@@ -251,7 +251,7 @@
 	"name": "india-direct-normal-global-horizontal-irradiance-solar-resources",
 	"isopen": true,
 	"url": null,
-	"notes": "GIS data for India's direct normal irradiance (DNI) and global horizontal irradiance.\n\nProvides 10-kilometer (km) solar resource maps and data for India. The 10-km hourly solar resource data were developed using weather satellite (METEOSAT) measurements incorporated into a site-time specific solar modeling approach developed at the U.S. State University of New York at Albany. The data is made publicly available in geographic information system (GIS) format (shape files etc).\n\nThe new maps and data were released in June 2013. The new data expands the time period of analysis from 2002-2007 to 2002-2011 and incorporates enhanced aerosols information to improve direct normal irradiance (DNI).\n\nThese products were developed by the U.S. National Renewable Energy Laboratory (NREL) in cooperation with India's Ministry of New and Renewable Energy, through funding from the U.S. Department of Energy and U.S. Department of State.",
+	"notes": "GIS data for India's direct normal irradiance (DNI) and global horizontal irradiance.nnProvides 10-kilometer (km) solar resource maps and data for India. The 10-km hourly solar resource data were developed using weather satellite (METEOSAT) measurements incorporated into a site-time specific solar modeling approach developed at the U.S. State University of New York at Albany. The data is made publicly available in geographic information system (GIS) format (shape files etc).nnThe new maps and data were released in June 2013. The new data expands the time period of analysis from 2002-2007 to 2002-2011 and incorporates enhanced aerosols information to improve direct normal irradiance (DNI).nnThese products were developed by the U.S. National Renewable Energy Laboratory (NREL) in cooperation with India's Ministry of New and Renewable Energy, through funding from the U.S. Department of Energy and U.S. Department of State.",
 	"license_title": "Creative Commons Attribution",
 	"extras": [{
 		"key": "harvest_source_id",
@@ -275,23 +275,23 @@
 	},
 	{
 		"key": "spatial",
-		"value": "{\"type\":\"Polygon\",\"coordinates\":[[[68.33643125,4.9817168434942],[97.22043025,4.9817168434942],[97.22043025,31.04748927057],[68.33643125,31.04748927057],[68.33643125,4.9817168434942]]]}"
+		"value": "{"type":"Polygon","coordinates":[[[68.33643125,4.9817168434942],[97.22043025,4.9817168434942],[97.22043025,31.04748927057],[68.33643125,31.04748927057],[68.33643125,4.9817168434942]]]}"
 	},
 	{
 		"key": "catalog_conformsTo",
-		"value": "https:\/\/project-open-data.cio.gov\/v1.1\/schema"
+		"value": "https://project-open-data.cio.gov/v1.1/schema"
 	},
 	{
 		"key": "catalog_@context",
-		"value": "https:\/\/project-open-data.cio.gov\/v1.1\/schema\/catalog.jsonld"
+		"value": "https://project-open-data.cio.gov/v1.1/schema/catalog.jsonld"
 	},
 	{
 		"key": "catalog_describedBy",
-		"value": "https:\/\/project-open-data.cio.gov\/v1.1\/schema\/catalog.json"
+		"value": "https://project-open-data.cio.gov/v1.1/schema/catalog.json"
 	},
 	{
 		"key": "format",
-		"value": "application\/unknown"
+		"value": "application/unknown"
 	},
 	{
 		"key": "harvest_source_title",
@@ -311,7 +311,7 @@
 	},
 	{
 		"key": "landingPage",
-		"value": "http:\/\/data.nrel.gov\/submissions\/43"
+		"value": "http://data.nrel.gov/submissions/43"
 	},
 	{
 		"key": "harvest_object_id",
@@ -319,7 +319,7 @@
 	},
 	{
 		"key": "accessURL",
-		"value": "http:\/\/data.nrel.gov\/files\/43\/solardni.zip"
+		"value": "http://data.nrel.gov/files/43/solardni.zip"
 	},
 	{
 		"key": "publisher",
@@ -327,7 +327,7 @@
 	},
 	{
 		"key": "license",
-		"value": "https:\/\/creativecommons.org\/licenses\/by\/4.0\/"
+		"value": "https://creativecommons.org/licenses/by/4.0/"
 	},
 	{
 		"key": "modified",
@@ -343,7 +343,7 @@
 	},
 	{
 		"key": "identifier",
-		"value": "http:\/\/en.openei.org\/doe-opendata\/dataset\/f0000000-d9e3-4bd6-80f2-000000000043"
+		"value": "http://en.openei.org/doe-opendata/dataset/f0000000-d9e3-4bd6-80f2-000000000043"
 	},
 	{
 		"state": "active",
@@ -360,7 +360,7 @@
 		"key": "harvest_source_title",
 		"value": "Energy JSON"
 	}],
-	"license_url": "http:\/\/www.opendefinition.org\/licenses\/cc-by",
+	"license_url": "http://www.opendefinition.org/licenses/cc-by",
 	"organization": {
 		"description": "",
 		"created": "2013-05-18T11:31:21.471948",
@@ -369,7 +369,7 @@
 		"revision_timestamp": "2013-05-31T20:48:37.771905",
 		"is_organization": true,
 		"state": "active",
-		"image_url": "http:\/\/energy.gov\/sites\/prod\/files\/styles\/imagelink\/public\/DoE-Logo.jpeg",
+		"image_url": "http://energy.gov/sites/prod/files/styles/imagelink/public/DoE-Logo.jpeg",
 		"revision_id": "14e1d3c1-4cc7-460c-bf1c-b10e3429b4b0",
 		"type": "organization",
 		"id": "735d0118-b2a7-4246-a0e3-608b0fa8d1ec",

@@ -36,7 +36,7 @@
 		"cache_url": null,
 		"name": "shp",
 		"created": "2016-03-04T15:45:38.849743",
-		"url": "http:\/\/www.nps.gov\/gis\/data_info\/clearinghouse.html",
+		"url": "http://www.nps.gov/gis/data_info/clearinghouse.html",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 0,
@@ -65,7 +65,7 @@
 		"cache_url": null,
 		"name": "shp",
 		"created": "2016-03-04T15:45:38.849767",
-		"url": "http:\/\/nrdata.nps.gov\/pore\/poredata\/vegetation-pore&goga-1994.zip",
+		"url": "http://nrdata.nps.gov/pore/poredata/vegetation-pore&goga-1994.zip",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 1,
@@ -95,7 +95,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2016-03-04T15:45:38.849776",
-		"url": "ftp:\/\/ftp.dfg.ca.gov\/BDB\/GIS\/BIOS\/Public_Datasets\/",
+		"url": "ftp://ftp.dfg.ca.gov/BDB/GIS/BIOS/Public_Datasets/",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 2,
@@ -125,7 +125,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2016-03-04T15:45:38.849784",
-		"url": "http:\/\/bios.dfg.ca.gov",
+		"url": "http://bios.dfg.ca.gov",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 3,
@@ -155,7 +155,7 @@
 		"cache_url": null,
 		"name": "XML File",
 		"created": "2016-03-04T15:45:38.849792",
-		"url": "http:\/\/nrdata.nps.gov\/pore\/poredata\/vegetation-pore&goga-1994.xml",
+		"url": "http://nrdata.nps.gov/pore/poredata/vegetation-pore&goga-1994.xml",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 4,
@@ -179,7 +179,7 @@
 	"license_title": null,
 	"extras": [{
 		"key": "responsible-party",
-		"value": "[{\"name\": \"Point Reyes National Seashore\", \"roles\": [\"pointOfContact\"]}]"
+		"value": "[{"name": "Point Reyes National Seashore", "roles": ["pointOfContact"]}]"
 	},
 	{
 		"key": "contact-email",
@@ -199,7 +199,7 @@
 	},
 	{
 		"key": "dataset-reference-date",
-		"value": "[{\"type\": \"publication\", \"value\": \"2003-07-30\"}]"
+		"value": "[{"type": "publication", "value": "2003-07-30"}]"
 	},
 	{
 		"key": "resource-type",
@@ -227,7 +227,7 @@
 	},
 	{
 		"key": "licence",
-		"value": "[\"The National Park Service shall not be held liable for improper or incorrect use of the data described and\/or contained herein. These data and related graphics (i.e. \\\"\\\"GIF\\\"\\\" or \\\"\\\"JPG\\\"\\\" format files) are not legal documents and are not intended to be used as such. Description: PORE-GOGA Plant Community Map. The information contained in these data is dynamic and may change over time. The data are not better than the original sources from which they were derived. It is the responsibility of the data user to use the data appropriately and consistent within the limitations of geospatial data in general and these data in particular. The related graphics are intended to aid the data user in acquiring relevant data; it is not appropriate to use the related graphics as data. The National Park Service gives no warranty, expressed or implied, as to the accuracy, reliability, or completeness of these data. It is strongly recommended that these data are directly acquired from an NPS server and not indirectly through other sources which may have changed the data in some way. Although these data have been processed successfully on computer systems at the National Park Service, no warranty expressed or implied is made regarding the utility of the data on other systems for general or scientific purposes, nor shall the act of distribution constitute any such warranty. This disclaimer applies both to individual use of the data and aggregate use with other data.\"]"
+		"value": "["The National Park Service shall not be held liable for improper or incorrect use of the data described and/or contained herein. These data and related graphics (i.e. \"\"GIF\"\" or \"\"JPG\"\" format files) are not legal documents and are not intended to be used as such. Description: PORE-GOGA Plant Community Map. The information contained in these data is dynamic and may change over time. The data are not better than the original sources from which they were derived. It is the responsibility of the data user to use the data appropriately and consistent within the limitations of geospatial data in general and these data in particular. The related graphics are intended to aid the data user in acquiring relevant data; it is not appropriate to use the related graphics as data. The National Park Service gives no warranty, expressed or implied, as to the accuracy, reliability, or completeness of these data. It is strongly recommended that these data are directly acquired from an NPS server and not indirectly through other sources which may have changed the data in some way. Although these data have been processed successfully on computer systems at the National Park Service, no warranty expressed or implied is made regarding the utility of the data on other systems for general or scientific purposes, nor shall the act of distribution constitute any such warranty. This disclaimer applies both to individual use of the data and aggregate use with other data."]"
 	},
 	{
 		"key": "metadata_type",
@@ -239,7 +239,7 @@
 	},
 	{
 		"key": "spatial",
-		"value": "{\"type\": \"Polygon\", \"coordinates\": [[[-123.045901, 37.414204], [-122.272954, 37.414204], [-122.272954, 38.265359], [-123.045901, 38.265359], [-123.045901, 37.414204]]]}"
+		"value": "{"type": "Polygon", "coordinates": [[[-123.045901, 37.414204], [-122.272954, 37.414204], [-122.272954, 38.265359], [-123.045901, 38.265359], [-123.045901, 37.414204]]]}"
 	},
 	{
 		"key": "guid",
@@ -251,7 +251,7 @@
 	},
 	{
 		"key": "access_constraints",
-		"value": "[\"Use Constraints: Any person using the information presented here should fully understand the data collection and compilation procedures, as described in these metadata, before beginning analysis. The burden for determining fitness for use lies entirely with the user. For purposes of publication or dissemination, citations should be given to the National Park Service and the U.S. Geological Survey.\", \"Access Constraints: None. Users should download it from the NPS DataStore to get the most recent version.\"]"
+		"value": "["Use Constraints: Any person using the information presented here should fully understand the data collection and compilation procedures, as described in these metadata, before beginning analysis. The burden for determining fitness for use lies entirely with the user. For purposes of publication or dissemination, citations should be given to the National Park Service and the U.S. Geological Survey.", "Access Constraints: None. Users should download it from the NPS DataStore to get the most recent version."]"
 	},
 	{
 		"key": "spatial_harvester",
@@ -293,7 +293,7 @@
 		"revision_timestamp": "2013-05-31T17:51:13.706377",
 		"is_organization": true,
 		"state": "active",
-		"image_url": "http:\/\/www.ca.gov\/images\/template2012\/header_ca.gov.png",
+		"image_url": "http://www.ca.gov/images/template2012/header_ca.gov.png",
 		"revision_id": "ad94cda4-9394-44d0-9c37-573dc3c47c9a",
 		"type": "organization",
 		"id": "467d900f-8a42-452d-9906-6610dd1a767f",

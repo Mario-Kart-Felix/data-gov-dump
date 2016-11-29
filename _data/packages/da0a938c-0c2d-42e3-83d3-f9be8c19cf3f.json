@@ -37,7 +37,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2015-06-02T22:42:16.391547",
-		"url": "http:\/\/walrus.wr.usgs.gov\/infobank\/f\/f890nc\/html\/f-8-90-nc.bath.html",
+		"url": "http://walrus.wr.usgs.gov/infobank/f/f890nc/html/f-8-90-nc.bath.html",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 0,
@@ -67,7 +67,7 @@
 		"cache_url": null,
 		"name": "PDF File",
 		"created": "2015-06-02T22:42:16.391587",
-		"url": "http:\/\/cotuit.er.usgs.gov\/Data\/1990-018-FA\/NL\/001\/01\/90018rpt.pdf",
+		"url": "http://cotuit.er.usgs.gov/Data/1990-018-FA/NL/001/01/90018rpt.pdf",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 1,
@@ -97,7 +97,7 @@
 		"cache_url": null,
 		"name": "PDF File",
 		"created": "2015-06-02T22:42:16.391645",
-		"url": "http:\/\/www.ngdc.noaa.gov\/mgg\/dat\/geodas\/docs\/mgd77.pdf",
+		"url": "http://www.ngdc.noaa.gov/mgg/dat/geodas/docs/mgd77.pdf",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 2,
@@ -106,7 +106,7 @@
 	}],
 	"num_resources": 3,
 	"tags": [],
-	"title": "Raw data files for single-beam bathymetry data of field activity 90027 (F-8-90-NC) in Gulf of Farallones, Northern California from 08\/05\/1990 to 08\/17\/1990",
+	"title": "Raw data files for single-beam bathymetry data of field activity 90027 (F-8-90-NC) in Gulf of Farallones, Northern California from 08/05/1990 to 08/17/1990",
 	"tracking_summary": {
 		"total": 14,
 		"recent": 1
@@ -117,7 +117,7 @@
 	"name": "raw-data-files-for-single-beam-bathymetry-data-of-field-activity-90027-f-8-90-nc-in-gul-17-1990",
 	"isopen": false,
 	"url": null,
-	"notes": "Single-beam bathymetry data along with DGPS navigation data was collected as part of the U.S. Geological Survey cruise 1990-027-FA. The cruise was conducted in Gulf of Farallones, Northern California from August 5 to August 17, 1990. The chief scientists were Herman Karl , Dave Drake, and Bill Schwaball from the USGS Coastal and Marine Geology office in Menlo Park, CA. The geophysical source was a Knudsen 12 kHz 320B\/R echosounder. These data are reformatted from space-delimited ASCII text files located in the Coastal and Marine Geology Program (CMGP) InfoBank field activity catalog at http:\/\/walrus.wr.usgs.gov\/infobank\/f\/f890nc\/html\/f-8-90-nc.bath.html",
+	"notes": "Single-beam bathymetry data along with DGPS navigation data was collected as part of the U.S. Geological Survey cruise 1990-027-FA. The cruise was conducted in Gulf of Farallones, Northern California from August 5 to August 17, 1990. The chief scientists were Herman Karl , Dave Drake, and Bill Schwaball from the USGS Coastal and Marine Geology office in Menlo Park, CA. The geophysical source was a Knudsen 12 kHz 320B/R echosounder. These data are reformatted from space-delimited ASCII text files located in the Coastal and Marine Geology Program (CMGP) InfoBank field activity catalog at http://walrus.wr.usgs.gov/infobank/f/f890nc/html/f-8-90-nc.bath.html",
 	"license_title": null,
 	"extras": [{
 		"key": "bbox-east-long",
@@ -153,7 +153,7 @@
 	},
 	{
 		"key": "spatial",
-		"value": "{\"type\": \"Polygon\", \"coordinates\": [[[-123.53189, 37.16215], [-122.20077, 37.16215], [-122.20077, 38.07073], [-123.53189, 38.07073], [-123.53189, 37.16215]]]}"
+		"value": "{"type": "Polygon", "coordinates": [[[-123.53189, 37.16215], [-122.20077, 37.16215], [-122.20077, 38.07073], [-123.53189, 38.07073], [-123.53189, 37.16215]]]}"
 	},
 	{
 		"key": "progress",
@@ -161,7 +161,7 @@
 	},
 	{
 		"key": "access_constraints",
-		"value": "[\"Use Constraints: This information is not intended for navigational purposes.Read and fully comprehend the metadata prior to data use. Uses of thesedata should not violate the spatial resolution of the data. Wherethese data are used in combination with other data of different resolution,the resolution of the combined output will be limited by the lowestresolution of all the data.Acknowledge the U.S. Geological Survey in products derived from these data.Share data products developed using these data with the U.S. GeologicalSurvey.\", \"Access Constraints: None. These data are held in the public domain.\"]"
+		"value": "["Use Constraints: This information is not intended for navigational purposes.Read and fully comprehend the metadata prior to data use. Uses of thesedata should not violate the spatial resolution of the data. Wherethese data are used in combination with other data of different resolution,the resolution of the combined output will be limited by the lowestresolution of all the data.Acknowledge the U.S. Geological Survey in products derived from these data.Share data products developed using these data with the U.S. GeologicalSurvey.", "Access Constraints: None. These data are held in the public domain."]"
 	},
 	{
 		"key": "temporal-extent-begin",
@@ -181,7 +181,7 @@
 	},
 	{
 		"key": "dataset-reference-date",
-		"value": "[{\"type\": \"publication\", \"value\": \"2012-01-01\"}]"
+		"value": "[{"type": "publication", "value": "2012-01-01"}]"
 	},
 	{
 		"key": "frequency-of-update",
@@ -189,7 +189,7 @@
 	},
 	{
 		"key": "licence",
-		"value": "[\" \"]"
+		"value": "[" "]"
 	},
 	{
 		"key": "metadata_type",
@@ -197,7 +197,7 @@
 	},
 	{
 		"key": "responsible-party",
-		"value": "[{\"name\": \"U.S. Geological Survey\", \"roles\": [\"pointOfContact\"]}]"
+		"value": "[{"name": "U.S. Geological Survey", "roles": ["pointOfContact"]}]"
 	},
 	{
 		"key": "temporal-extent-end",
@@ -236,14 +236,14 @@
 		"value": "USGS Coastal and Marine Geoscience Data System"
 	}],
 	"organization": {
-		"description": "http:\/\/www.usgs.gov\/\r\nThe USGS is a federal science agency that provides impartial information on the health of our ecosystems and environment, the natural hazards that threaten us, the natural resources we rely on, the impacts of climate and land-use change, and the core science systems that help us provide timely, relevant, and useable information.",
+		"description": "http://www.usgs.gov/rnThe USGS is a federal science agency that provides impartial information on the health of our ecosystems and environment, the natural hazards that threaten us, the natural resources we rely on, the impacts of climate and land-use change, and the core science systems that help us provide timely, relevant, and useable information.",
 		"created": "2013-03-14T03:44:38.263357",
 		"title": "U.S. Geological Survey, Department of the Interior",
 		"name": "usgs-gov",
 		"revision_timestamp": "2014-09-02T13:43:52.167023",
 		"is_organization": true,
 		"state": "active",
-		"image_url": "http:\/\/pubs.usgs.gov\/sir\/2004\/5296\/04-5296_confluence_park\/usgs_logo.gif",
+		"image_url": "http://pubs.usgs.gov/sir/2004/5296/04-5296_confluence_park/usgs_logo.gif",
 		"revision_id": "2858aa99-9501-4f96-82e5-9647b968ed66",
 		"type": "organization",
 		"id": "bd2cdd5a-4d65-46c0-9937-c8381175f104",

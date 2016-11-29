@@ -37,7 +37,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2015-06-19T11:49:46.059431",
-		"url": "http:\/\/hazards.fema.gov",
+		"url": "http://hazards.fema.gov",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 0,
@@ -67,7 +67,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2015-06-19T11:49:46.059454",
-		"url": "http:\/\/ogrip.oit.ohio.gov",
+		"url": "http://ogrip.oit.ohio.gov",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 1,
@@ -87,11 +87,11 @@
 	"name": "terrain-erie-county-ohio-usaa1781",
 	"isopen": false,
 	"url": null,
-	"notes": "The 2006 OSIP bare-earth Digital Elevation Model (DEM) was derived from digital LiDAR data was collected during the months of March and May (leaf-off conditions). The DEM data covers the entire land area of the northern tier of Ohio (approximately 23,442 square miles. The DEM is delivered in county sets, consisting of 5,000' x 5,000' size tiles that correspond to the tile sizes for the OSIP 1FT imagery products. Where the State borders other states (land only), the entire border of the State is buffered by at least 1,000-feet. Along the Lake Erie Shoreline ortho coverage is buffered beyond the shoreline a minimum distance of 2,500-feet. The file naming convention is as follows: Nxxxxyyy = 5,000' x 5,000' Tiles located in the Ohio State Plane Coordinate System (North Zone). Sxxxxyyy = 5,000' x 5,000' Tiles located in the Ohio State Plane Coordinate System (South Zone). Please note that xxxx and yyy represent the easting and northing coordinates (respectively) in state plane feet, The naming convention for each tile is based upon (the bottom most-left pixel). The full county mosaic is an aggregation of the tiles by county. The mosaic is devloped in the Ohio State Plane Coordinate System (North Zone).. The DEM tiles were provided in ESRI ArcINFO GRID raster and ASCII grid formats, with only the LiDAR in LAS Format containing the above ground and bare-earth LiDAR features. Ownership of the data products resides with the State of Ohio. Orthophotography and ancillary data products produced through this contract are public domain data. The LiDAR used to generate the DEM was acquired Statewide to provide a solid and very accurate base to use during the image rectification process. This same LiDAR can be supplemented with 3D breaklines to generate 2-foot and\/or 4\/5-foot contours. The average post spacing between LiDAR points is 7-feet. The flying altitude was 7,300-feet AMT, with the targeted flying speed at 170 knots.",
+	"notes": "The 2006 OSIP bare-earth Digital Elevation Model (DEM) was derived from digital LiDAR data was collected during the months of March and May (leaf-off conditions). The DEM data covers the entire land area of the northern tier of Ohio (approximately 23,442 square miles. The DEM is delivered in county sets, consisting of 5,000' x 5,000' size tiles that correspond to the tile sizes for the OSIP 1FT imagery products. Where the State borders other states (land only), the entire border of the State is buffered by at least 1,000-feet. Along the Lake Erie Shoreline ortho coverage is buffered beyond the shoreline a minimum distance of 2,500-feet. The file naming convention is as follows: Nxxxxyyy = 5,000' x 5,000' Tiles located in the Ohio State Plane Coordinate System (North Zone). Sxxxxyyy = 5,000' x 5,000' Tiles located in the Ohio State Plane Coordinate System (South Zone). Please note that xxxx and yyy represent the easting and northing coordinates (respectively) in state plane feet, The naming convention for each tile is based upon (the bottom most-left pixel). The full county mosaic is an aggregation of the tiles by county. The mosaic is devloped in the Ohio State Plane Coordinate System (North Zone).. The DEM tiles were provided in ESRI ArcINFO GRID raster and ASCII grid formats, with only the LiDAR in LAS Format containing the above ground and bare-earth LiDAR features. Ownership of the data products resides with the State of Ohio. Orthophotography and ancillary data products produced through this contract are public domain data. The LiDAR used to generate the DEM was acquired Statewide to provide a solid and very accurate base to use during the image rectification process. This same LiDAR can be supplemented with 3D breaklines to generate 2-foot and/or 4/5-foot contours. The average post spacing between LiDAR points is 7-feet. The flying altitude was 7,300-feet AMT, with the targeted flying speed at 170 knots.",
 	"license_title": null,
 	"extras": [{
 		"key": "responsible-party",
-		"value": "[{\"name\": \"State of Ohio, through the Office of Information Technology, Investment and Governance Division, for the Office of Information Technology, Services Delivery Division and the Ohio Geographically Referenced Information Program (OGRIP)\", \"roles\": [\"pointOfContact\"]}]"
+		"value": "[{"name": "State of Ohio, through the Office of Information Technology, Investment and Governance Division, for the Office of Information Technology, Services Delivery Division and the Ohio Geographically Referenced Information Program (OGRIP)", "roles": ["pointOfContact"]}]"
 	},
 	{
 		"key": "contact-email",
@@ -111,7 +111,7 @@
 	},
 	{
 		"key": "dataset-reference-date",
-		"value": "[{\"type\": \"publication\", \"value\": \"2007-01-01\"}]"
+		"value": "[{"type": "publication", "value": "2007-01-01"}]"
 	},
 	{
 		"key": "resource-type",
@@ -139,7 +139,7 @@
 	},
 	{
 		"key": "licence",
-		"value": "[\"No warranty expressed or implied is made by FEMA regarding the utility of the data on any other system nor shall the act of distribution constitute any such warranty.\"]"
+		"value": "["No warranty expressed or implied is made by FEMA regarding the utility of the data on any other system nor shall the act of distribution constitute any such warranty."]"
 	},
 	{
 		"key": "metadata_type",
@@ -151,7 +151,7 @@
 	},
 	{
 		"key": "spatial",
-		"value": "{\"type\": \"Polygon\", \"coordinates\": [[[-83.058359, 41.189245], [-82.171111, 41.189245], [-82.171111, 41.699861], [-83.058359, 41.699861], [-83.058359, 41.189245]]]}"
+		"value": "{"type": "Polygon", "coordinates": [[[-83.058359, 41.189245], [-82.171111, 41.189245], [-82.171111, 41.699861], [-83.058359, 41.699861], [-83.058359, 41.189245]]]}"
 	},
 	{
 		"key": "guid",
@@ -163,7 +163,7 @@
 	},
 	{
 		"key": "access_constraints",
-		"value": "[\"Use Constraints: OGRIP should be credited in derived products.This data set was acquired for the State of Ohio by Woolpert Inc. Subcontractors for LiDAR data acquisition included Horizons, Inc.\", \"Access Constraints: None\"]"
+		"value": "["Use Constraints: OGRIP should be credited in derived products.This data set was acquired for the State of Ohio by Woolpert Inc. Subcontractors for LiDAR data acquisition included Horizons, Inc.", "Access Constraints: None"]"
 	},
 	{
 		"key": "spatial_harvester",
@@ -205,7 +205,7 @@
 		"revision_timestamp": "2013-03-25T17:20:37.167472",
 		"is_organization": true,
 		"state": "active",
-		"image_url": "http:\/\/ep4u.sm4.biz\/communities\/7\/004\/008\/908\/237\/images\/4543640096_pre.jpg",
+		"image_url": "http://ep4u.sm4.biz/communities/7/004/008/908/237/images/4543640096_pre.jpg",
 		"revision_id": "42c731d4-22ea-4393-b3b6-100cc50fc0bd",
 		"type": "organization",
 		"id": "ae816746-a815-4a3f-805d-2b51b561c626",

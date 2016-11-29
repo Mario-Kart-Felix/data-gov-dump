@@ -37,7 +37,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2015-09-26T21:44:53.303194",
-		"url": "ftp:\/\/sidads.colorado.edu\/pub\/DATASETS\/NOAA\/G01174\/",
+		"url": "ftp://sidads.colorado.edu/pub/DATASETS/NOAA/G01174/",
 		"webstore_url": null,
 		"resource_locator_function": "function",
 		"position": 0,
@@ -67,7 +67,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2015-09-26T21:44:53.303227",
-		"url": "http:\/\/nsidc.org\/data\/docs\/noaa\/g01174_estonian_snow_depth\/index.html",
+		"url": "http://nsidc.org/data/docs/noaa/g01174_estonian_snow_depth/index.html",
 		"webstore_url": null,
 		"resource_locator_function": "function",
 		"position": 1,
@@ -85,7 +85,7 @@
 		"last_modified": null,
 		"hash": "",
 		"description": "",
-		"format": "application\/vnd.lotus-organizer",
+		"format": "application/vnd.lotus-organizer",
 		"tracking_summary": {
 			"total": 85,
 			"recent": 4
@@ -97,7 +97,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2015-09-26T21:44:53.303240",
-		"url": "http:\/\/nsidc.org",
+		"url": "http://nsidc.org",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 2,
@@ -127,7 +127,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2015-09-26T21:44:53.303258",
-		"url": "http:\/\/nsidc.org\/noaa\/",
+		"url": "http://nsidc.org/noaa/",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 3,
@@ -145,7 +145,7 @@
 		"last_modified": null,
 		"hash": "",
 		"description": "",
-		"format": "application\/vnd.lotus-organizer",
+		"format": "application/vnd.lotus-organizer",
 		"tracking_summary": {
 			"total": 85,
 			"recent": 4
@@ -157,7 +157,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2015-09-26T21:44:53.303276",
-		"url": "http:\/\/nsidc.org",
+		"url": "http://nsidc.org",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 4,
@@ -177,7 +177,7 @@
 	"name": "estonian-mean-snow-depth-and-duration-1891-1994",
 	"isopen": false,
 	"url": null,
-	"notes": "\nThis data set contains the number of days of snow cover in days per year, and three 10-day snow depth means per month in centimeters from stations across Estonia. The days of snow cover data extend from 1891 through 1994, while the snow depth means extend from 1891 through 1990. Some stations for some years have two data entries, one for a protected collection area, and one for an exposed collection area. Jaak Jaagus of the University of Tartu in Estonia contributed these data to the National Snow and Ice Data Center. Data are available via ftp.\n",
+	"notes": "nThis data set contains the number of days of snow cover in days per year, and three 10-day snow depth means per month in centimeters from stations across Estonia. The days of snow cover data extend from 1891 through 1994, while the snow depth means extend from 1891 through 1990. Some stations for some years have two data entries, one for a protected collection area, and one for an exposed collection area. Jaak Jaagus of the University of Tartu in Estonia contributed these data to the National Snow and Ice Data Center. Data are available via ftp.n",
 	"license_title": null,
 	"extras": [{
 		"key": "bbox-east-long",
@@ -213,7 +213,7 @@
 	},
 	{
 		"key": "spatial",
-		"value": "{\"type\": \"Polygon\", \"coordinates\": [[[21.5, 57.3], [28.1, 57.3], [28.1, 59.5], [21.5, 59.5], [21.5, 57.3]]]}"
+		"value": "{"type": "Polygon", "coordinates": [[[21.5, 57.3], [28.1, 57.3], [28.1, 59.5], [21.5, 59.5], [21.5, 57.3]]]}"
 	},
 	{
 		"key": "progress",
@@ -221,7 +221,7 @@
 	},
 	{
 		"key": "access_constraints",
-		"value": "[\"Access Constraints : none\", \"Use Constraints : none\"]"
+		"value": "["Access Constraints : none", "Use Constraints : none"]"
 	},
 	{
 		"key": "temporal-extent-begin",
@@ -241,7 +241,7 @@
 	},
 	{
 		"key": "dataset-reference-date",
-		"value": "[{\"type\": \"publication\", \"value\": \"2000-01-01\"}]"
+		"value": "[{"type": "publication", "value": "2000-01-01"}]"
 	},
 	{
 		"key": "frequency-of-update",
@@ -257,7 +257,7 @@
 	},
 	{
 		"key": "responsible-party",
-		"value": "[{\"name\": \"\", \"roles\": [\"principalInvestigator\"]}, {\"name\": \"National Snow and Ice Data Center\", \"roles\": [\"pointOfContact\"]}]"
+		"value": "[{"name": "", "roles": ["principalInvestigator"]}, {"name": "National Snow and Ice Data Center", "roles": ["pointOfContact"]}]"
 	},
 	{
 		"key": "temporal-extent-end",
@@ -273,7 +273,7 @@
 	},
 	{
 		"package_id": "ac4f7be5-2129-426d-aabf-3345798cfb4b",
-		"value": "europe, terrestrial hydrosphere, cryosphere, snow extent, estonia, northern europe, snow depth, monthly data, meteorology, climate, snow cover, daily data, snow\/ice, climatology, continent, earth science",
+		"value": "europe, terrestrial hydrosphere, cryosphere, snow extent, estonia, northern europe, snow depth, monthly data, meteorology, climate, snow cover, daily data, snow/ice, climatology, continent, earth science",
 		"revision_timestamp": "2015-09-27T01:44:53.245754",
 		"state": "active",
 		"key": "tags",
@@ -303,7 +303,7 @@
 		"revision_timestamp": "2013-03-25T23:05:12.923863",
 		"is_organization": true,
 		"state": "active",
-		"image_url": "https:\/\/fortress.wa.gov\/dfw\/score\/score\/images\/noaa_logo.png",
+		"image_url": "https://fortress.wa.gov/dfw/score/score/images/noaa_logo.png",
 		"revision_id": "c6d43080-22e1-405e-a83d-f2a512d9e867",
 		"type": "organization",
 		"id": "e811f0b4-451f-4896-9e8f-fc6802837819",

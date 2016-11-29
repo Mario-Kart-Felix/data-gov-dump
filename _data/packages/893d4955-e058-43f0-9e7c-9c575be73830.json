@@ -37,7 +37,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2015-09-26T22:55:03.931386",
-		"url": "ftp:\/\/ftp.ngdc.noaa.gov\/STP\/GEOMAGNETIC_DATA\/",
+		"url": "ftp://ftp.ngdc.noaa.gov/STP/GEOMAGNETIC_DATA/",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 0,
@@ -66,7 +66,7 @@
 		"cache_url": null,
 		"name": "GCMD Feedback Form",
 		"created": "2015-09-26T22:55:03.931409",
-		"url": "http:\/\/gcmd.nasa.gov\/MailComments\/MailComments.jsf?rcpt=gcmduso",
+		"url": "http://gcmd.nasa.gov/MailComments/MailComments.jsf?rcpt=gcmduso",
 		"webstore_url": null,
 		"resource_locator_function": "information",
 		"position": 1,
@@ -95,7 +95,7 @@
 		"cache_url": null,
 		"name": "GCMD Keywords Page",
 		"created": "2015-09-26T22:55:03.931418",
-		"url": "http:\/\/gcmd.nasa.gov\/learn\/keyword_list.html",
+		"url": "http://gcmd.nasa.gov/learn/keyword_list.html",
 		"webstore_url": null,
 		"resource_locator_function": "information",
 		"position": 2,
@@ -115,7 +115,7 @@
 	"name": "geomagnetic-aa-indices",
 	"isopen": false,
 	"url": null,
-	"notes": "The geomagnetic aa indices are the continuation of the series beginning in the year 1868. A full description of these indices is given in the International Association of Geomagnetism and Aeronomy (IAGA) Bulletin No 33, which contains them for the years 1868-1967. Descriptions are also given (especially comparisons with am, ap, or Ci indices) in two short papers [Ann. Geoph., 27, 62-70, 1971 and J. Geophys. Res., 77, 6870-6874, 1972]. The aa values form 1968-1975 are contained in the IAGA Bulletin 39. From 1976 onward they are included in IAGA Bulletin 32. Revised aa values for the years 1969-1976 have been distributed in 1979 to the recipients of IAGA Bulletin 32 in the form of loose sheets to be inserted in the Bulletin 39 (1968-1975) and 32f (1976). A graph of these values 1868 - 1979 is published in the 426 Part I issue of Solar-Geophysical Data (SGD) (page 137). Revised aa values for 1968-1977 appear in the 411 Part II February 1977 SGD. Briefly, such three-hourly indices as these, computed from K indices of two antipodal observatories (invariant magnetic latitude 50 degrees), provide a quantitative characterization of the magnetic activity, which is homogeneous through the whole series. Half-daily and daily values give an estimation of the activity level very close to that obtained with \"am\" indices. Values are in gammas and correspond to the activity level at an invariant magnetic latitude of 50 degrees. The aa indices are computed for: N = daily values for the Northern Hemisphere, S = daily values for the Southern Hemisphere, M = half-daily values of aa indices for the Greenwich day. Letters C and K refer to a classification of the quiet days of the month (C = really quiet, K = quiet but with slightly disturbed three-hourly intervals). The letters on the left refer to the 24-hour Greenwich day, on the right to a period of 48 hours centered on the Greenwich noon. The three-hourly indices aa are available from the appropriate World Data Centers in digital form using the format described in IAGA Bulletin 33.",
+	"notes": "The geomagnetic aa indices are the continuation of the series beginning in the year 1868. A full description of these indices is given in the International Association of Geomagnetism and Aeronomy (IAGA) Bulletin No 33, which contains them for the years 1868-1967. Descriptions are also given (especially comparisons with am, ap, or Ci indices) in two short papers [Ann. Geoph., 27, 62-70, 1971 and J. Geophys. Res., 77, 6870-6874, 1972]. The aa values form 1968-1975 are contained in the IAGA Bulletin 39. From 1976 onward they are included in IAGA Bulletin 32. Revised aa values for the years 1969-1976 have been distributed in 1979 to the recipients of IAGA Bulletin 32 in the form of loose sheets to be inserted in the Bulletin 39 (1968-1975) and 32f (1976). A graph of these values 1868 - 1979 is published in the 426 Part I issue of Solar-Geophysical Data (SGD) (page 137). Revised aa values for 1968-1977 appear in the 411 Part II February 1977 SGD. Briefly, such three-hourly indices as these, computed from K indices of two antipodal observatories (invariant magnetic latitude 50 degrees), provide a quantitative characterization of the magnetic activity, which is homogeneous through the whole series. Half-daily and daily values give an estimation of the activity level very close to that obtained with "am" indices. Values are in gammas and correspond to the activity level at an invariant magnetic latitude of 50 degrees. The aa indices are computed for: N = daily values for the Northern Hemisphere, S = daily values for the Southern Hemisphere, M = half-daily values of aa indices for the Greenwich day. Letters C and K refer to a classification of the quiet days of the month (C = really quiet, K = quiet but with slightly disturbed three-hourly intervals). The letters on the left refer to the 24-hour Greenwich day, on the right to a period of 48 hours centered on the Greenwich noon. The three-hourly indices aa are available from the appropriate World Data Centers in digital form using the format described in IAGA Bulletin 33.",
 	"license_title": null,
 	"extras": [{
 		"key": "bbox-east-long",
@@ -151,7 +151,7 @@
 	},
 	{
 		"key": "spatial",
-		"value": "{\"type\": \"Polygon\", \"coordinates\": [[[-180.0, -90.0], [180.0, -90.0], [180.0, 90.0], [-180.0, 90.0], [-180.0, -90.0]]]}"
+		"value": "{"type": "Polygon", "coordinates": [[[-180.0, -90.0], [180.0, -90.0], [180.0, 90.0], [-180.0, 90.0], [-180.0, -90.0]]]}"
 	},
 	{
 		"key": "progress",
@@ -159,7 +159,7 @@
 	},
 	{
 		"key": "access_constraints",
-		"value": "[\"Use Constraints: None\", \"Access Constraints: No Constraints\"]"
+		"value": "["Use Constraints: None", "Access Constraints: No Constraints"]"
 	},
 	{
 		"key": "temporal-extent-begin",
@@ -179,7 +179,7 @@
 	},
 	{
 		"key": "dataset-reference-date",
-		"value": "[{\"type\": \"publication\", \"value\": \"1957-01-01\"}]"
+		"value": "[{"type": "publication", "value": "1957-01-01"}]"
 	},
 	{
 		"key": "frequency-of-update",
@@ -187,7 +187,7 @@
 	},
 	{
 		"key": "licence",
-		"value": "[\"While every effort has been made to ensure that these data are accurate and reliable within the limits of the current state of the art, NOAA cannot assume liability for any damages caused by any errors or omissions in the data, nor as a result of the failure of the data to function on a particular system. NOAA makes no warranty, expressed or implied, nor does the fact of distribution constitute such a warranty.\"]"
+		"value": "["While every effort has been made to ensure that these data are accurate and reliable within the limits of the current state of the art, NOAA cannot assume liability for any damages caused by any errors or omissions in the data, nor as a result of the failure of the data to function on a particular system. NOAA makes no warranty, expressed or implied, nor does the fact of distribution constitute such a warranty."]"
 	},
 	{
 		"key": "metadata_type",
@@ -195,7 +195,7 @@
 	},
 	{
 		"key": "responsible-party",
-		"value": "[{\"name\": \"DOC\/NOAA\/NESDIS\/NCEI > National Centers for Environmental Information, NESDIS, NOAA, U.S. Department of Commerce\", \"roles\": [\"pointOfContact\"]}]"
+		"value": "[{"name": "DOC/NOAA/NESDIS/NCEI > National Centers for Environmental Information, NESDIS, NOAA, U.S. Department of Commerce", "roles": ["pointOfContact"]}]"
 	},
 	{
 		"key": "spatial-data-service-type",
@@ -207,7 +207,7 @@
 	},
 	{
 		"package_id": "893d4955-e058-43f0-9e7c-9c575be73830",
-		"value": "national centers for environmental information, nesdis, noaa, u.s. department of commerce, solid earth, national geophysical data center, nesdis, noaa, u.s. department of commerce, doc\/noaa\/nesdis\/ngdc, geomagnetic indices, geomagnetism, global, space physics, solar physics, doc\/noaa\/nesdis\/ncei, indices, interior & crust, earth science",
+		"value": "national centers for environmental information, nesdis, noaa, u.s. department of commerce, solid earth, national geophysical data center, nesdis, noaa, u.s. department of commerce, doc/noaa/nesdis/ngdc, geomagnetic indices, geomagnetism, global, space physics, solar physics, doc/noaa/nesdis/ncei, indices, interior & crust, earth science",
 		"revision_timestamp": "2015-09-27T02:55:03.796510",
 		"state": "active",
 		"key": "tags",
@@ -237,7 +237,7 @@
 		"revision_timestamp": "2013-03-25T23:05:12.923863",
 		"is_organization": true,
 		"state": "active",
-		"image_url": "https:\/\/fortress.wa.gov\/dfw\/score\/score\/images\/noaa_logo.png",
+		"image_url": "https://fortress.wa.gov/dfw/score/score/images/noaa_logo.png",
 		"revision_id": "c6d43080-22e1-405e-a83d-f2a512d9e867",
 		"type": "organization",
 		"id": "e811f0b4-451f-4896-9e8f-fc6802837819",

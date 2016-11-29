@@ -36,7 +36,7 @@
 		"cache_url": null,
 		"name": "ND GIS Web Site",
 		"created": "2013-12-07T04:05:27.578021",
-		"url": "http:\/\/www.nd.gov\/gis",
+		"url": "http://www.nd.gov/gis",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 0,
@@ -65,7 +65,7 @@
 		"cache_url": null,
 		"name": "Click to view the General Base Map REST information",
 		"created": "2013-12-07T04:05:27.578044",
-		"url": "http:\/\/ndgishub.nd.gov\/ArcGIS\/rest\/services\/Basemap_General\/MapServer",
+		"url": "http://ndgishub.nd.gov/ArcGIS/rest/services/Basemap_General/MapServer",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 1,
@@ -94,7 +94,7 @@
 		"cache_url": null,
 		"name": "Click to view the Imagery Base Map REST information",
 		"created": "2013-12-07T04:05:27.578052",
-		"url": "http:\/\/ndgishub.nd.gov\/ArcGIS\/rest\/services\/Basemap_Imagery\/MapServer",
+		"url": "http://ndgishub.nd.gov/ArcGIS/rest/services/Basemap_Imagery/MapServer",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 2,
@@ -127,7 +127,7 @@
 	"name": "cached-base-map-services",
 	"isopen": false,
 	"url": null,
-	"notes": "North Dakota GIS Hub cached base map services include a composite of aerial photography and another for boundary, water, and transportation data.\n\nThe aerial photography includes the latest statewide NAIP data overlaid by the best possible and most recent local imagery.",
+	"notes": "North Dakota GIS Hub cached base map services include a composite of aerial photography and another for boundary, water, and transportation data.nnThe aerial photography includes the latest statewide NAIP data overlaid by the best possible and most recent local imagery.",
 	"license_title": null,
 	"extras": [{
 		"key": "bbox-east-long",
@@ -171,7 +171,7 @@
 	},
 	{
 		"key": "spatial",
-		"value": "{\"type\": \"Polygon\", \"coordinates\": [[[-104.5, 45.5], [-96.5, 45.5], [-96.5, 49.5], [-104.5, 49.5], [-104.5, 45.5]]]}"
+		"value": "{"type": "Polygon", "coordinates": [[[-104.5, 45.5], [-96.5, 45.5], [-96.5, 49.5], [-104.5, 49.5], [-104.5, 45.5]]]}"
 	},
 	{
 		"key": "progress",
@@ -179,7 +179,7 @@
 	},
 	{
 		"key": "access_constraints",
-		"value": "[\"The State of North Dakota has compiled this data according to conventional cartographic standards, using what is thought to be the most reliable information available. This data is intended to make results of research available at the earliest possible date, but is not intended to constitute final or formal publication. The State of North Dakota makes every effort to provide virus-free files but does not guarantee uncorrupted files. The State of North Dakota does not guarantee this data to be free from errors, inaccuracies, or viruses, and disclaims any responsibility or liability for interpretations or decisions based on this data.\"]"
+		"value": "["The State of North Dakota has compiled this data according to conventional cartographic standards, using what is thought to be the most reliable information available. This data is intended to make results of research available at the earliest possible date, but is not intended to constitute final or formal publication. The State of North Dakota makes every effort to provide virus-free files but does not guarantee uncorrupted files. The State of North Dakota does not guarantee this data to be free from errors, inaccuracies, or viruses, and disclaims any responsibility or liability for interpretations or decisions based on this data."]"
 	},
 	{
 		"key": "contact-email",
@@ -195,7 +195,7 @@
 	},
 	{
 		"key": "dataset-reference-date",
-		"value": "[{\"type\": \"publication\", \"value\": \"2013-12-05T00:00:00\"}]"
+		"value": "[{"type": "publication", "value": "2013-12-05T00:00:00"}]"
 	},
 	{
 		"key": "graphic-preview-description",
@@ -215,7 +215,7 @@
 	},
 	{
 		"key": "responsible-party",
-		"value": "[{\"name\": \"Information Technology Department\", \"roles\": [\"originator\"]}]"
+		"value": "[{"name": "Information Technology Department", "roles": ["originator"]}]"
 	},
 	{
 		"key": "spatial-data-service-type",
@@ -250,14 +250,14 @@
 		"value": "North Dakota GIS Hub Data Portal"
 	}],
 	"organization": {
-		"description": "The GIS Hub is the state source for GIS - data, services, and information.  More information can be found at www.nd.gov\/gis.",
+		"description": "The GIS Hub is the state source for GIS - data, services, and information.  More information can be found at www.nd.gov/gis.",
 		"created": "2013-03-14T03:44:44.340717",
 		"title": "State of North Dakota",
 		"name": "nd-gov",
 		"revision_timestamp": "2013-07-15T16:27:30.098476",
 		"is_organization": true,
 		"state": "active",
-		"image_url": "http:\/\/www.nd.gov\/gis\/images\/ndgis-logo.gif",
+		"image_url": "http://www.nd.gov/gis/images/ndgis-logo.gif",
 		"revision_id": "27517bb9-815c-4d4f-b45b-b88b6316697b",
 		"type": "organization",
 		"id": "1c782de6-9f1f-4427-93fd-33732e29970f",

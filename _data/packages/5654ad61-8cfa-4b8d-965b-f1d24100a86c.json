@@ -83,7 +83,7 @@
 	"name": "capacity-management-database-cmd-9405b",
 	"isopen": true,
 	"url": null,
-	"notes": "The Capacity Management Database (CMD) is designed to track computer resource usage of the computer hardware running Veterans Health Information Systems and Technology Architecture (VistA). Information derived from CMD is used to assess the impact of planned new software products, identify the ramifications of archiving and purging of existing data, recognize emerging problems through database analysis, and validate sizing model expectations. Data for CMD is captured from all VistA systems in real time. Accumulated data is processed at each site and the results are transmitted to CMD using MailMan messages. Data can be added to CMD daily, along with the monthly updates. On a monthly basis, reports are sent to the Chief Information Officers (CIOs) of the Veterans Integrated Service Networks (VISNs) and Veterans Affairs Medical Center (VAMC) CIOs to allow review of the system's performance and identify future problems (e.g., lack of available disk space). IT personnel can access the database through the VA's intranet (http:\/\/vaww.oed.portal.va.gov\/engineering\/testing\/CP\/default.aspx) for comparison of their system with other sites. The users of CMD include the VA Office of Information & Technology, VISN CIOs, and facility CIO staff.",
+	"notes": "The Capacity Management Database (CMD) is designed to track computer resource usage of the computer hardware running Veterans Health Information Systems and Technology Architecture (VistA). Information derived from CMD is used to assess the impact of planned new software products, identify the ramifications of archiving and purging of existing data, recognize emerging problems through database analysis, and validate sizing model expectations. Data for CMD is captured from all VistA systems in real time. Accumulated data is processed at each site and the results are transmitted to CMD using MailMan messages. Data can be added to CMD daily, along with the monthly updates. On a monthly basis, reports are sent to the Chief Information Officers (CIOs) of the Veterans Integrated Service Networks (VISNs) and Veterans Affairs Medical Center (VAMC) CIOs to allow review of the system's performance and identify future problems (e.g., lack of available disk space). IT personnel can access the database through the VA's intranet (http://vaww.oed.portal.va.gov/engineering/testing/CP/default.aspx) for comparison of their system with other sites. The users of CMD include the VA Office of Information & Technology, VISN CIOs, and facility CIO staff.",
 	"license_title": "U.S. Government Work",
 	"extras": [{
 		"key": "harvest_source_id",
@@ -99,7 +99,7 @@
 	},
 	{
 		"key": "temporal",
-		"value": "1992-01-01\/2013-12-31"
+		"value": "1992-01-01/2013-12-31"
 	},
 	{
 		"key": "spatial",
@@ -107,15 +107,15 @@
 	},
 	{
 		"key": "catalog_conformsTo",
-		"value": "https:\/\/project-open-data.cio.gov\/v1.1\/schema"
+		"value": "https://project-open-data.cio.gov/v1.1/schema"
 	},
 	{
 		"key": "catalog_@context",
-		"value": "https:\/\/project-open-data.cio.gov\/v1.1\/schema\/catalog.jsonld"
+		"value": "https://project-open-data.cio.gov/v1.1/schema/catalog.jsonld"
 	},
 	{
 		"key": "catalog_describedBy",
-		"value": "https:\/\/project-open-data.cio.gov\/v1.1\/schema\/catalog.json"
+		"value": "https://project-open-data.cio.gov/v1.1/schema/catalog.json"
 	},
 	{
 		"key": "harvest_source_title",
@@ -151,7 +151,7 @@
 	},
 	{
 		"key": "license",
-		"value": "http:\/\/www.usa.gov\/publicdomain\/label\/1.0\/"
+		"value": "http://www.usa.gov/publicdomain/label/1.0/"
 	},
 	{
 		"key": "rights",
@@ -188,7 +188,7 @@
 		"key": "harvest_source_title",
 		"value": "VA JSON"
 	}],
-	"license_url": "http:\/\/www.usa.gov\/publicdomain\/label\/1.0\/",
+	"license_url": "http://www.usa.gov/publicdomain/label/1.0/",
 	"organization": {
 		"description": "",
 		"created": "2013-05-18T11:31:11.529883",
@@ -197,7 +197,7 @@
 		"revision_timestamp": "2014-11-19T19:55:14.636069",
 		"is_organization": true,
 		"state": "active",
-		"image_url": "https:\/\/raw.githubusercontent.com\/GSA\/logo\/master\/va.png",
+		"image_url": "https://raw.githubusercontent.com/GSA/logo/master/va.png",
 		"revision_id": "7c651ccc-eb67-439e-82dd-1ae7fff33f63",
 		"type": "organization",
 		"id": "ff9ae098-eccc-41d8-bfcd-5e8ed047db05",

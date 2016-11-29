@@ -37,7 +37,7 @@
 		"cache_url": null,
 		"name": "MrSID",
 		"created": "2015-06-19T11:48:27.570385",
-		"url": "http:\/\/hazards.fema.gov",
+		"url": "http://hazards.fema.gov",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 0,
@@ -67,7 +67,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2015-06-19T11:48:27.570408",
-		"url": "http:\/\/hazards.fema.gov",
+		"url": "http://hazards.fema.gov",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 1,
@@ -87,11 +87,11 @@
 	"name": "orthophotography-of-indiana",
 	"isopen": false,
 	"url": null,
-	"notes": "Digital orthographic imagery datasets contain georeferenced images of the Earth's surface, collected by a sensor in which object displacement has been removed for sensor distortions and orientation, and terrain relief. Digital orthoimages have the geometric characteristics of a map, and image qualities of a photograph. (Source: Circular A-16, p. 16) The Indiana 2005 digital natural-color orthophotography was collected during March and April leaf-off conditions. Data covering Vanderburgh County were collected at 6-inch resolution. Data are delivered in county sets, consisting of 4000'x4000' uncompressed 24-bit natural color TIFF files. The MrSID files were created from these data. Adjacent flight lines overlap by a minimum of 30 percent. Imagery was collected with the Leica ADS40 digital pushbroom sensor and processed with the ISTAR system. The file naming convention is as follows: xxxxyyyyH = high resolution photos (e.g., 6-inch), where xxxx and yyyy represent the easting and northing coordinates (respectively) in state plane feet, divided by 1000, of the tile origin (the top-left pixel). 6-inch MRSID files are approximately 8 MB in size. Ownership of the data products resides with the counties. Orthophotography and ancillary data products produced through this contract are public domain data. These data represent a public version of the data set and hold no distribution restrictions - please cite the data set as \"IndianaMap Framework Data\" with link to www.indianamap.org.",
+	"notes": "Digital orthographic imagery datasets contain georeferenced images of the Earth's surface, collected by a sensor in which object displacement has been removed for sensor distortions and orientation, and terrain relief. Digital orthoimages have the geometric characteristics of a map, and image qualities of a photograph. (Source: Circular A-16, p. 16) The Indiana 2005 digital natural-color orthophotography was collected during March and April leaf-off conditions. Data covering Vanderburgh County were collected at 6-inch resolution. Data are delivered in county sets, consisting of 4000'x4000' uncompressed 24-bit natural color TIFF files. The MrSID files were created from these data. Adjacent flight lines overlap by a minimum of 30 percent. Imagery was collected with the Leica ADS40 digital pushbroom sensor and processed with the ISTAR system. The file naming convention is as follows: xxxxyyyyH = high resolution photos (e.g., 6-inch), where xxxx and yyyy represent the easting and northing coordinates (respectively) in state plane feet, divided by 1000, of the tile origin (the top-left pixel). 6-inch MRSID files are approximately 8 MB in size. Ownership of the data products resides with the counties. Orthophotography and ancillary data products produced through this contract are public domain data. These data represent a public version of the data set and hold no distribution restrictions - please cite the data set as "IndianaMap Framework Data" with link to www.indianamap.org.",
 	"license_title": null,
 	"extras": [{
 		"key": "responsible-party",
-		"value": "[{\"name\": \"Federal Emergency Management Agency\", \"roles\": [\"pointOfContact\"]}]"
+		"value": "[{"name": "Federal Emergency Management Agency", "roles": ["pointOfContact"]}]"
 	},
 	{
 		"key": "contact-email",
@@ -111,7 +111,7 @@
 	},
 	{
 		"key": "dataset-reference-date",
-		"value": "[{\"type\": \"publication\", \"value\": \"2005-10-24\"}]"
+		"value": "[{"type": "publication", "value": "2005-10-24"}]"
 	},
 	{
 		"key": "resource-type",
@@ -139,7 +139,7 @@
 	},
 	{
 		"key": "licence",
-		"value": "[\"No warranty expressed or implied is made by FEMA regarding the utility of the data on any other system nor shall the act of distribution constitute any such warranty.\"]"
+		"value": "["No warranty expressed or implied is made by FEMA regarding the utility of the data on any other system nor shall the act of distribution constitute any such warranty."]"
 	},
 	{
 		"key": "metadata_type",
@@ -151,7 +151,7 @@
 	},
 	{
 		"key": "spatial",
-		"value": "{\"type\": \"Polygon\", \"coordinates\": [[[-88.1607, 37.7554], [-84.6882, 37.7554], [-84.6882, 41.7753], [-88.1607, 41.7753], [-88.1607, 37.7554]]]}"
+		"value": "{"type": "Polygon", "coordinates": [[[-88.1607, 37.7554], [-84.6882, 37.7554], [-84.6882, 41.7753], [-88.1607, 41.7753], [-88.1607, 37.7554]]]}"
 	},
 	{
 		"key": "guid",
@@ -163,7 +163,7 @@
 	},
 	{
 		"key": "access_constraints",
-		"value": "[\"Use Constraints: It is requested that the IndianaMap be cited in any products generated from this data. The following source citation should be included: [2005 Indiana Orthophotography (IndianaMap Framework Data www.indianamap.org)].\", \"Access Constraints: None\"]"
+		"value": "["Use Constraints: It is requested that the IndianaMap be cited in any products generated from this data. The following source citation should be included: [2005 Indiana Orthophotography (IndianaMap Framework Data www.indianamap.org)].", "Access Constraints: None"]"
 	},
 	{
 		"key": "spatial_harvester",
@@ -205,7 +205,7 @@
 		"revision_timestamp": "2013-03-25T17:20:37.167472",
 		"is_organization": true,
 		"state": "active",
-		"image_url": "http:\/\/ep4u.sm4.biz\/communities\/7\/004\/008\/908\/237\/images\/4543640096_pre.jpg",
+		"image_url": "http://ep4u.sm4.biz/communities/7/004/008/908/237/images/4543640096_pre.jpg",
 		"revision_id": "42c731d4-22ea-4393-b3b6-100cc50fc0bd",
 		"type": "organization",
 		"id": "ae816746-a815-4a3f-805d-2b51b561c626",

@@ -36,7 +36,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2013-05-18T11:36:24.741035",
-		"url": "http:\/\/www.sec.gov\/open\/datasets\/failunder_10000.csv",
+		"url": "http://www.sec.gov/open/datasets/failunder_10000.csv",
 		"webstore_url": null,
 		"last_modified": null,
 		"position": 0,
@@ -69,7 +69,7 @@
 	"name": "fails-to-deliver-data-under-10000-shares-between-september-16-2008-and-july-1-20",
 	"isopen": false,
 	"url": null,
-	"notes": "This file contains the date, CUSIP numbers, ticker symbols, issuer name, price, and total number of fails-to-deliver (i.e., the balance level outstanding) recorded in the National Securities Clearing Corporation's (\"NSCC\") Continuous Net Settlement (CNS) system aggregated over all NSCC members for securities with a balance of total fails-to-deliver of under 10,000 shares between September 16, 2008 and June 30, 2009. Prior to January 21, 2010, this data was not available. The data include fails-to-deliver in equity securities. The values of total fails-to-deliver shares represent the aggregate net balance of shares that failed to be delivered as of a particular settlement date. Fails to deliver on a given day are a cumulative number of all fails outstanding until that day, plus new fails that occur that day, less fails that settle that day. The figure is not a daily amount of fails, but a combined figure that includes both new fails on the reporting day as well as existing fails. In other words, these numbers reflect aggregate fails as of a specific point in time, and may have little or no relationship to yesterday's aggregate fails. Thus, it is important to note that the age of fails cannot be determined by looking at these numbers. In addition, the underlying source(s) of the fails-to-deliver shares is not necessarily the same as the underlying source(s) of the fails-to-deliver shares reported the day prior or the day after.",
+	"notes": "This file contains the date, CUSIP numbers, ticker symbols, issuer name, price, and total number of fails-to-deliver (i.e., the balance level outstanding) recorded in the National Securities Clearing Corporation's ("NSCC") Continuous Net Settlement (CNS) system aggregated over all NSCC members for securities with a balance of total fails-to-deliver of under 10,000 shares between September 16, 2008 and June 30, 2009. Prior to January 21, 2010, this data was not available. The data include fails-to-deliver in equity securities. The values of total fails-to-deliver shares represent the aggregate net balance of shares that failed to be delivered as of a particular settlement date. Fails to deliver on a given day are a cumulative number of all fails outstanding until that day, plus new fails that occur that day, less fails that settle that day. The figure is not a daily amount of fails, but a combined figure that includes both new fails on the reporting day as well as existing fails. In other words, these numbers reflect aggregate fails as of a specific point in time, and may have little or no relationship to yesterday's aggregate fails. Thus, it is important to note that the age of fails cannot be determined by looking at these numbers. In addition, the underlying source(s) of the fails-to-deliver shares is not necessarily the same as the underlying source(s) of the fails-to-deliver shares reported the day prior or the day after.",
 	"license_title": null,
 	"extras": [{
 		"key": "data-quality",
@@ -81,11 +81,11 @@
 	},
 	{
 		"key": "data-dictiionary",
-		"value": "http:\/\/www.sec.gov\/foia\/docs\/failsdata.htm"
+		"value": "http://www.sec.gov/foia/docs/failsdata.htm"
 	},
 	{
 		"key": "issued",
-		"value": "1\/22\/2010"
+		"value": "1/22/2010"
 	},
 	{
 		"key": "resource-type",
@@ -105,7 +105,7 @@
 	},
 	{
 		"key": "references",
-		"value": ["http:\/\/www.sec.gov\/foia\/docs\/failsdata.htm"]
+		"value": ["http://www.sec.gov/foia/docs/failsdata.htm"]
 	},
 	{
 		"key": "frequency-of-update",
@@ -130,7 +130,7 @@
 	},
 	{
 		"package_id": "SEC-1579",
-		"value": "{SEC,\"Securities & Exchange Commission\",\"short sales\",\"fails to deliver\",fails,stocks,CUSIP}",
+		"value": "{SEC,"Securities & Exchange Commission","short sales","fails to deliver",fails,stocks,CUSIP}",
 		"revision_timestamp": "2014-01-12T07:06:55.457903",
 		"state": "active",
 		"key": "tags",

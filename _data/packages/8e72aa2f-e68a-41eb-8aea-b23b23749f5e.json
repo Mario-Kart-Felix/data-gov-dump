@@ -37,7 +37,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2015-04-25T08:23:07.965057",
-		"url": "http:\/\/bios.dfg.ca.gov",
+		"url": "http://bios.dfg.ca.gov",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 0,
@@ -67,7 +67,7 @@
 		"cache_url": null,
 		"name": "Zip File",
 		"created": "2015-04-25T08:23:07.965105",
-		"url": "ftp:\/\/ftp.dfg.ca.gov\/BDB\/GIS\/BIOS\/Public_Datasets\/1000_1099\/ds1027.zip",
+		"url": "ftp://ftp.dfg.ca.gov/BDB/GIS/BIOS/Public_Datasets/1000_1099/ds1027.zip",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 1,
@@ -87,11 +87,11 @@
 	"name": "bobcat-habitat-suitability-model-for-nsnf-connectivity-cdfw-ds1027",
 	"isopen": false,
 	"url": null,
-	"notes": "This grid represents habitat suitability based on the California Wildlife Habitat Relationships (CWHR) expert opinion habitat suitability rankings by habitat type. Habitat suitability rankings (ranging 0-100) for each combination of habitat type, size class (dbh) and cover class (density) were applied to the 30 m vegetation grid using CWHR's Bioview. These values were then averaged across grid cells to create a 270 m grid consistent with that used in the Maxent models for the project. The grid was then symbolized to represent low (0-50), medium (50-75) and high (75-100) habitat suitability. Models were reviewed by CDFW species experts; please review the use limitations.For more information see the project report at [https:\/\/nrm.dfg.ca.gov\/FileHandler.ashx?DocumentID=85358].",
+	"notes": "This grid represents habitat suitability based on the California Wildlife Habitat Relationships (CWHR) expert opinion habitat suitability rankings by habitat type. Habitat suitability rankings (ranging 0-100) for each combination of habitat type, size class (dbh) and cover class (density) were applied to the 30 m vegetation grid using CWHR's Bioview. These values were then averaged across grid cells to create a 270 m grid consistent with that used in the Maxent models for the project. The grid was then symbolized to represent low (0-50), medium (50-75) and high (75-100) habitat suitability. Models were reviewed by CDFW species experts; please review the use limitations.For more information see the project report at [https://nrm.dfg.ca.gov/FileHandler.ashx?DocumentID=85358].",
 	"license_title": null,
 	"extras": [{
 		"key": "responsible-party",
-		"value": "[{\"name\": \"California Department of Fish and Wildlife, Data and Technology Division, Biogeographic Data Branch\", \"roles\": [\"pointOfContact\"]}]"
+		"value": "[{"name": "California Department of Fish and Wildlife, Data and Technology Division, Biogeographic Data Branch", "roles": ["pointOfContact"]}]"
 	},
 	{
 		"key": "contact-email",
@@ -111,7 +111,7 @@
 	},
 	{
 		"key": "dataset-reference-date",
-		"value": "[{\"type\": \"publication\", \"value\": \"2014-06-17\"}]"
+		"value": "[{"type": "publication", "value": "2014-06-17"}]"
 	},
 	{
 		"key": "resource-type",
@@ -139,7 +139,7 @@
 	},
 	{
 		"key": "licence",
-		"value": "[\" \"]"
+		"value": "[" "]"
 	},
 	{
 		"key": "metadata_type",
@@ -151,7 +151,7 @@
 	},
 	{
 		"key": "spatial",
-		"value": "{\"type\": \"Polygon\", \"coordinates\": [[[-122.596817, 36.781231], [-119.537973, 36.781231], [-119.537973, 40.993156], [-122.596817, 40.993156], [-122.596817, 36.781231]]]}"
+		"value": "{"type": "Polygon", "coordinates": [[[-122.596817, 36.781231], [-119.537973, 36.781231], [-119.537973, 40.993156], [-122.596817, 40.993156], [-122.596817, 36.781231]]]}"
 	},
 	{
 		"key": "guid",
@@ -163,7 +163,7 @@
 	},
 	{
 		"key": "access_constraints",
-		"value": "[\"Use Constraints: The user accepts sole responsibility for the correct interpretation of this report and the correct use of its accompanying data sets in environmental documents. The northern Sierra Nevada foothills wildlife connectivity project habitat data delineates area likely important to the selected focal species. It is a decision-support tool to be refined by field work and expert knowledge. DO NOT assume that areas predicted as low, medium or high habitat represents the likelihood of the focal species being present or that areas below the predicted threshold are unimportant to wildlife populations or movements.\", \"Access Constraints: None\"]"
+		"value": "["Use Constraints: The user accepts sole responsibility for the correct interpretation of this report and the correct use of its accompanying data sets in environmental documents. The northern Sierra Nevada foothills wildlife connectivity project habitat data delineates area likely important to the selected focal species. It is a decision-support tool to be refined by field work and expert knowledge. DO NOT assume that areas predicted as low, medium or high habitat represents the likelihood of the focal species being present or that areas below the predicted threshold are unimportant to wildlife populations or movements.", "Access Constraints: None"]"
 	},
 	{
 		"key": "spatial_harvester",
@@ -205,7 +205,7 @@
 		"revision_timestamp": "2013-05-31T17:51:13.706377",
 		"is_organization": true,
 		"state": "active",
-		"image_url": "http:\/\/www.ca.gov\/images\/template2012\/header_ca.gov.png",
+		"image_url": "http://www.ca.gov/images/template2012/header_ca.gov.png",
 		"revision_id": "ad94cda4-9394-44d0-9c37-573dc3c47c9a",
 		"type": "organization",
 		"id": "467d900f-8a42-452d-9906-6610dd1a767f",

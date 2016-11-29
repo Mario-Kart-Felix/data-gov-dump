@@ -37,7 +37,7 @@
 		"cache_url": null,
 		"name": "Zip File",
 		"created": "2016-09-09T19:02:12.075574",
-		"url": "ftp:\/\/ftp.dfg.ca.gov\/BDB\/GIS\/BIOS\/Public_Datasets\/600_699\/ds699.zip",
+		"url": "ftp://ftp.dfg.ca.gov/BDB/GIS/BIOS/Public_Datasets/600_699/ds699.zip",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 0,
@@ -67,7 +67,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2016-09-09T19:02:12.075620",
-		"url": "http:\/\/bios.dfg.ca.gov",
+		"url": "http://bios.dfg.ca.gov",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 1,
@@ -87,11 +87,11 @@
 	"name": "winter-steelhead-range-ds699",
 	"isopen": false,
 	"url": null,
-	"notes": "June 2012 Version Data Content: This data set contains all CalWater 2.2.1 Planning Watersheds (PWS) where CDFW has documented winter run steelhead to be present during or after 1990. It was developed for the express purpose of assisting with anadromous fish recovery planning efforts. NOTE: Acreages are calculated for area inside California only. It is important to note that this data set does not attempt to model the entire possible distribution of the species. Rather, it only represents planning watersheds intersecting the known distribution, which is based on where the species has been observed and reported. While the distribution data may indeed represent the extent of the species, generally the upstream extent of the distribution only represents the location of positive sampling or other observations.. Therefore, this data set likely represents an underestimation of the absolute geographic distribution of the species. Data Source: This watershed level data set was derived by intersecting Calwater planning watersheds with point and line features depicting winter run steelhead distribution. These features are derived from a subset of data contained in the Aquatic Species Observation Database (ASOD), a Microsoft Access multi-species observation data capture application. ASOD is an ongoing project developed by the California Department of Fish and Wildlife (CDFW), Northern Region, Environmental Resource Information Services with assistance from CDFW Biogeographic Data Branch and Pacific States Marine Fisheries Commission. These data are based upon confirmed observations of Coho salmon. Effort has been made to identify and correct watersheds that were erroneously selected due to inaccuracies from using data of different scales. The observation data that are the basis for the distribution were compiled from a variety of disparate sources including but not limited to CDFW, U.S. Forest Service, National Marine Fisheries Service, timber companies, and the public. Forms of documentation include CDFW administrative reports, personal communications with biologists, observation reports, and literature reviews. This derived dataset is meant to be continually updated as additional information is acquired. As such, any copy of this dataset is considered to be a snapshot of the known Winter Run Steelhead Distribution at the time of release. It is incumbent upon the user to ensure that they have the most recent version prior to making management or planning decisions. Data Usage: Examples of appropriate uses include: Anadromous fish recovery planning Evaluation of future survey sites for Steelhead Validating steelhead distribution models Examples of inappropriate uses include: Using this data to make parcel or ground level land use management decisions. Using this data set to prove or support non-existence of steelhead at any spatial scale. Assuming that steelhead are prevalent throughout the entire watershed. All users of this data should seek the assistance of qualified professionals such as surveyors, hydrologists, or fishery biologists as needed to ensure that such users possess complete, precise, and up to date information on steelhead distribution and water body location. Please refer to \"Use Constraints\" section below.",
+	"notes": "June 2012 Version Data Content: This data set contains all CalWater 2.2.1 Planning Watersheds (PWS) where CDFW has documented winter run steelhead to be present during or after 1990. It was developed for the express purpose of assisting with anadromous fish recovery planning efforts. NOTE: Acreages are calculated for area inside California only. It is important to note that this data set does not attempt to model the entire possible distribution of the species. Rather, it only represents planning watersheds intersecting the known distribution, which is based on where the species has been observed and reported. While the distribution data may indeed represent the extent of the species, generally the upstream extent of the distribution only represents the location of positive sampling or other observations.. Therefore, this data set likely represents an underestimation of the absolute geographic distribution of the species. Data Source: This watershed level data set was derived by intersecting Calwater planning watersheds with point and line features depicting winter run steelhead distribution. These features are derived from a subset of data contained in the Aquatic Species Observation Database (ASOD), a Microsoft Access multi-species observation data capture application. ASOD is an ongoing project developed by the California Department of Fish and Wildlife (CDFW), Northern Region, Environmental Resource Information Services with assistance from CDFW Biogeographic Data Branch and Pacific States Marine Fisheries Commission. These data are based upon confirmed observations of Coho salmon. Effort has been made to identify and correct watersheds that were erroneously selected due to inaccuracies from using data of different scales. The observation data that are the basis for the distribution were compiled from a variety of disparate sources including but not limited to CDFW, U.S. Forest Service, National Marine Fisheries Service, timber companies, and the public. Forms of documentation include CDFW administrative reports, personal communications with biologists, observation reports, and literature reviews. This derived dataset is meant to be continually updated as additional information is acquired. As such, any copy of this dataset is considered to be a snapshot of the known Winter Run Steelhead Distribution at the time of release. It is incumbent upon the user to ensure that they have the most recent version prior to making management or planning decisions. Data Usage: Examples of appropriate uses include: Anadromous fish recovery planning Evaluation of future survey sites for Steelhead Validating steelhead distribution models Examples of inappropriate uses include: Using this data to make parcel or ground level land use management decisions. Using this data set to prove or support non-existence of steelhead at any spatial scale. Assuming that steelhead are prevalent throughout the entire watershed. All users of this data should seek the assistance of qualified professionals such as surveyors, hydrologists, or fishery biologists as needed to ensure that such users possess complete, precise, and up to date information on steelhead distribution and water body location. Please refer to "Use Constraints" section below.",
 	"license_title": null,
 	"extras": [{
 		"key": "responsible-party",
-		"value": "[{\"name\": \"California Department of Fish and Wildlife NR-ERIS\", \"roles\": [\"pointOfContact\"]}]"
+		"value": "[{"name": "California Department of Fish and Wildlife NR-ERIS", "roles": ["pointOfContact"]}]"
 	},
 	{
 		"key": "contact-email",
@@ -111,7 +111,7 @@
 	},
 	{
 		"key": "dataset-reference-date",
-		"value": "[{\"type\": \"publication\", \"value\": \"2013-02-26\"}]"
+		"value": "[{"type": "publication", "value": "2013-02-26"}]"
 	},
 	{
 		"key": "resource-type",
@@ -139,7 +139,7 @@
 	},
 	{
 		"key": "licence",
-		"value": "[\"See access and use constraints information.\"]"
+		"value": "["See access and use constraints information."]"
 	},
 	{
 		"key": "metadata_type",
@@ -151,7 +151,7 @@
 	},
 	{
 		"key": "spatial",
-		"value": "{\"type\": \"Polygon\", \"coordinates\": [[[-124.505692, 33.151145], [-116.866027, 33.151145], [-116.866027, 42.06144], [-124.505692, 42.06144], [-124.505692, 33.151145]]]}"
+		"value": "{"type": "Polygon", "coordinates": [[[-124.505692, 33.151145], [-116.866027, 33.151145], [-116.866027, 42.06144], [-124.505692, 42.06144], [-124.505692, 33.151145]]]}"
 	},
 	{
 		"key": "guid",
@@ -163,7 +163,7 @@
 	},
 	{
 		"key": "access_constraints",
-		"value": "[\"Use Constraints: Please read the metadata document completely prior to use of this dataset. This data attempts to show the latest available watershed scale data showing confirmed steelhead presence in California, where such information is known. However, steelhead may not utilize each of these PWS on an annual basis due to natural variations in run size, water conditions, and other environmental factors. Please note this data is a work in progress and is subject to change\/update as new information becomes available. This data contains information currently entered into ASOD and should NOT be assumed to represent all known observations. It is complete as far as time and resources have enabled it to be at this point in time, but as a result of these limitations underestimates the actual distribution of anadromous steelhead observations. This data defines general distribution of anadromous steelhead and should NOT be used as a final assessment of fish distribution but rather as a guide for future management and planning. This data set is not accurate enough to support parcel level analyses; it is suitable for watershed level uses only. This watershed level data set was derived by intersecting Calwater PWS with point and line features depicting anadromous steelhead distribution. These companion datasets are based upon confirmed observations of steelhead. Effort has been made to identify and correct watersheds that were erroneously selected due to inaccuracies from using data of different scales. To be used for assessing geographic distribution of anadromous salmon only. It is intended to be temporary in nature until such time as upstream limits of steelhead are more firmly established. All users of this data should seek the assistance of qualified professionals such as surveyors, hydrologists, or fishery biologists as needed to ensure that such users possess complete, precise, and up to date information on steelhead distribution and water body location.\", \"Access Constraints: Made available with permission of California Department of Fish and Wildlife\/Northern Region\/Environmental Resources Information Services (CDFW\/NR\/ERIS). This data is made available with the understanding that it shall be used exclusively by the obtainer or his\/her authorized agents. Digital products may not be reproduced or redistributed in any form or by any means.\"]"
+		"value": "["Use Constraints: Please read the metadata document completely prior to use of this dataset. This data attempts to show the latest available watershed scale data showing confirmed steelhead presence in California, where such information is known. However, steelhead may not utilize each of these PWS on an annual basis due to natural variations in run size, water conditions, and other environmental factors. Please note this data is a work in progress and is subject to change/update as new information becomes available. This data contains information currently entered into ASOD and should NOT be assumed to represent all known observations. It is complete as far as time and resources have enabled it to be at this point in time, but as a result of these limitations underestimates the actual distribution of anadromous steelhead observations. This data defines general distribution of anadromous steelhead and should NOT be used as a final assessment of fish distribution but rather as a guide for future management and planning. This data set is not accurate enough to support parcel level analyses; it is suitable for watershed level uses only. This watershed level data set was derived by intersecting Calwater PWS with point and line features depicting anadromous steelhead distribution. These companion datasets are based upon confirmed observations of steelhead. Effort has been made to identify and correct watersheds that were erroneously selected due to inaccuracies from using data of different scales. To be used for assessing geographic distribution of anadromous salmon only. It is intended to be temporary in nature until such time as upstream limits of steelhead are more firmly established. All users of this data should seek the assistance of qualified professionals such as surveyors, hydrologists, or fishery biologists as needed to ensure that such users possess complete, precise, and up to date information on steelhead distribution and water body location.", "Access Constraints: Made available with permission of California Department of Fish and Wildlife/Northern Region/Environmental Resources Information Services (CDFW/NR/ERIS). This data is made available with the understanding that it shall be used exclusively by the obtainer or his/her authorized agents. Digital products may not be reproduced or redistributed in any form or by any means."]"
 	},
 	{
 		"key": "spatial_harvester",
@@ -205,7 +205,7 @@
 		"revision_timestamp": "2013-05-31T17:51:13.706377",
 		"is_organization": true,
 		"state": "active",
-		"image_url": "http:\/\/www.ca.gov\/images\/template2012\/header_ca.gov.png",
+		"image_url": "http://www.ca.gov/images/template2012/header_ca.gov.png",
 		"revision_id": "ad94cda4-9394-44d0-9c37-573dc3c47c9a",
 		"type": "organization",
 		"id": "467d900f-8a42-452d-9906-6610dd1a767f",

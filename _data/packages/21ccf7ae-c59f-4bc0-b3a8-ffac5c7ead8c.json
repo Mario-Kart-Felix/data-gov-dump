@@ -36,7 +36,7 @@
 		"cache_url": null,
 		"name": "AWC",
 		"created": "2016-04-18T15:43:46.199497",
-		"url": "http:\/\/www.aviationweather.gov\/progchart\/low",
+		"url": "http://www.aviationweather.gov/progchart/low",
 		"webstore_url": null,
 		"resource_locator_function": "information",
 		"position": 0,
@@ -65,7 +65,7 @@
 		"cache_url": null,
 		"name": "SigWx-Low",
 		"created": "2016-04-18T15:43:46.199526",
-		"url": "http:\/\/www.aviationweather.gov\/progchart\/low",
+		"url": "http://www.aviationweather.gov/progchart/low",
 		"webstore_url": null,
 		"resource_locator_function": "download",
 		"position": 1,
@@ -94,7 +94,7 @@
 		"cache_url": null,
 		"name": "USWX Schema",
 		"created": "2016-04-18T15:43:46.199536",
-		"url": "http:\/\/nws.weather.gov\/schemas\/USWX\/1.0\/",
+		"url": "http://nws.weather.gov/schemas/USWX/1.0/",
 		"webstore_url": null,
 		"resource_locator_function": "download",
 		"position": 2,
@@ -123,7 +123,7 @@
 		"cache_url": null,
 		"name": "SigWx-Low",
 		"created": "2016-04-18T15:43:46.199545",
-		"url": "http:\/\/www.aviationweather.gov\/progchart\/low",
+		"url": "http://www.aviationweather.gov/progchart/low",
 		"webstore_url": null,
 		"resource_locator_function": "download",
 		"position": 3,
@@ -183,7 +183,7 @@
 	},
 	{
 		"key": "spatial",
-		"value": "{\"type\": \"Polygon\", \"coordinates\": [[[-135.0, 20.0], [-60.0, 20.0], [-60.0, 55.0], [-135.0, 55.0], [-135.0, 20.0]]]}"
+		"value": "{"type": "Polygon", "coordinates": [[[-135.0, 20.0], [-60.0, 20.0], [-60.0, 55.0], [-135.0, 55.0], [-135.0, 20.0]]]}"
 	},
 	{
 		"key": "progress",
@@ -207,7 +207,7 @@
 	},
 	{
 		"key": "dataset-reference-date",
-		"value": "[{\"type\": \"creation\", \"value\": \"2015-09-15\"}]"
+		"value": "[{"type": "creation", "value": "2015-09-15"}]"
 	},
 	{
 		"key": "frequency-of-update",
@@ -215,7 +215,7 @@
 	},
 	{
 		"key": "licence",
-		"value": "[\"Disclaimer - While every effort has been made to ensure that these data are accurate and reliable within the limits of the current state of the art, NOAA cannot assume liability for any damages caused by any errors or omissions in the data, nor as a result of the failure of the data to function on a particular system. NOAA makes no warranty, expressed or implied, nor does the fact of distribution constitute such a warranty.\"]"
+		"value": "["Disclaimer - While every effort has been made to ensure that these data are accurate and reliable within the limits of the current state of the art, NOAA cannot assume liability for any damages caused by any errors or omissions in the data, nor as a result of the failure of the data to function on a particular system. NOAA makes no warranty, expressed or implied, nor does the fact of distribution constitute such a warranty."]"
 	},
 	{
 		"key": "metadata_type",
@@ -223,7 +223,7 @@
 	},
 	{
 		"key": "responsible-party",
-		"value": "[{\"name\": \"\", \"roles\": [\"pointOfContact\"]}]"
+		"value": "[{"name": "", "roles": ["pointOfContact"]}]"
 	},
 	{
 		"key": "spatial-data-service-type",
@@ -235,7 +235,7 @@
 	},
 	{
 		"package_id": "21ccf7ae-c59f-4bc0-b3a8-ffac5c7ead8c",
-		"value": "doc\/noaa\/nws\/toc\/nwstg, pgi[ce]4[23] kwbc, freeze, low level, cloud ceiling, cloud_base_height, cloud_area_fraction, cloud fraction, sigwx-low, accretion, cloud droplet concentration\/size, doc\/noaa\/nws\/ncep\/awc, sigwx, visibility_in_air, pti[ce]94 kwbc, visibility, riming, cloud height, turbulence, freezing_level_altitude, none, clouds, ifr, mvfr, freezing level, significant weather",
+		"value": "doc/noaa/nws/toc/nwstg, pgi[ce]4[23] kwbc, freeze, low level, cloud ceiling, cloud_base_height, cloud_area_fraction, cloud fraction, sigwx-low, accretion, cloud droplet concentration/size, doc/noaa/nws/ncep/awc, sigwx, visibility_in_air, pti[ce]94 kwbc, visibility, riming, cloud height, turbulence, freezing_level_altitude, none, clouds, ifr, mvfr, freezing level, significant weather",
 		"revision_timestamp": "2016-04-18T19:43:46.113498",
 		"state": "active",
 		"key": "tags",
@@ -265,7 +265,7 @@
 		"revision_timestamp": "2013-03-25T23:05:12.923863",
 		"is_organization": true,
 		"state": "active",
-		"image_url": "https:\/\/fortress.wa.gov\/dfw\/score\/score\/images\/noaa_logo.png",
+		"image_url": "https://fortress.wa.gov/dfw/score/score/images/noaa_logo.png",
 		"revision_id": "c6d43080-22e1-405e-a83d-f2a512d9e867",
 		"type": "organization",
 		"id": "e811f0b4-451f-4896-9e8f-fc6802837819",

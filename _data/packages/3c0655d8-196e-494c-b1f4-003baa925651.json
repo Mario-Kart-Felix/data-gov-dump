@@ -37,7 +37,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2016-05-31T04:28:16.572972",
-		"url": "https:\/\/coast.noaa.gov\/dataviewer\/#\/lidar\/search\/where:ID=4813",
+		"url": "https://coast.noaa.gov/dataviewer/#/lidar/search/where:ID=4813",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 0,
@@ -67,7 +67,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2016-05-31T04:28:16.573001",
-		"url": "https:\/\/coast.noaa.gov\/htdata\/lidar1_z\/geoid12a\/data\/4813",
+		"url": "https://coast.noaa.gov/htdata/lidar1_z/geoid12a/data/4813",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 1,
@@ -97,7 +97,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2016-05-31T04:28:16.573020",
-		"url": "https:\/\/coast.noaa.gov\/dataviewer",
+		"url": "https://coast.noaa.gov/dataviewer",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 2,
@@ -127,7 +127,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2016-05-31T04:28:16.573030",
-		"url": "https:\/\/coast.noaa.gov",
+		"url": "https://coast.noaa.gov",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 3,
@@ -175,7 +175,7 @@
 	},
 	{
 		"key": "graphic-preview-file",
-		"value": "https:\/\/coast.noaa.gov\/htdata\/lidar1_z\/geoid12a\/data\/4813\/supplemental\/ak2013_cbj_juneau_m4813.kmz"
+		"value": "https://coast.noaa.gov/htdata/lidar1_z/geoid12a/data/4813/supplemental/ak2013_cbj_juneau_m4813.kmz"
 	},
 	{
 		"key": "metadata-language",
@@ -191,7 +191,7 @@
 	},
 	{
 		"key": "spatial",
-		"value": "{\"type\": \"Polygon\", \"coordinates\": [[[-135.155767, 58.043303], [-133.665411, 58.043303], [-133.665411, 58.895525], [-135.155767, 58.895525], [-135.155767, 58.043303]]]}"
+		"value": "{"type": "Polygon", "coordinates": [[[-135.155767, 58.043303], [-133.665411, 58.043303], [-133.665411, 58.895525], [-135.155767, 58.895525], [-135.155767, 58.043303]]]}"
 	},
 	{
 		"key": "progress",
@@ -199,7 +199,7 @@
 	},
 	{
 		"key": "access_constraints",
-		"value": "[\"Use Constraints: In some areas of heavy vegetation or forest cover, there may be relatively few ground points in the LiDAR data. TINing the points produces large triangles and hence the elevations may be less accurate within such areas. Elevation values for open water surfaces are derived from waters edge breaklines. Triangles were created across water surfaces by interpolating from the nearest breakline elevation points. RandM Engineering Inc. (Mark A. Johnson - AKPLS#7570) provided the Mean Lower Low Water (MLLW) elevation adjustment for all monuments used for the project. These MLLW elevations were determined by running level loops from tidal benchmarks with published MLLW elevations to each monument. Differences between the orthometric elevations of each monument on Geoid 12A and the MLLW elevations can be found in Appendix B of the Juneau LiDAR data report. The average MLLW adjustment was approximately 1.045m with a standard deviation of 0.066m. As a result of being calibrated using the ellipsoidal MLLW elevations instead of the normal ellipsoidal elevations, the LiDAR data was adjusted to the MLLW vertical datum. Users should be aware that temporal changes may have occurred since this data set was collected and some parts of this data may no longer represent actual surface conditions. Users should not use this data for critical applications without a full awareness of its limitations. These data depict the heights at the time of the survey and are only accurate for that time.\", \"Access Constraints: No restrictions apply to this data.\"]"
+		"value": "["Use Constraints: In some areas of heavy vegetation or forest cover, there may be relatively few ground points in the LiDAR data. TINing the points produces large triangles and hence the elevations may be less accurate within such areas. Elevation values for open water surfaces are derived from waters edge breaklines. Triangles were created across water surfaces by interpolating from the nearest breakline elevation points. RandM Engineering Inc. (Mark A. Johnson - AKPLS#7570) provided the Mean Lower Low Water (MLLW) elevation adjustment for all monuments used for the project. These MLLW elevations were determined by running level loops from tidal benchmarks with published MLLW elevations to each monument. Differences between the orthometric elevations of each monument on Geoid 12A and the MLLW elevations can be found in Appendix B of the Juneau LiDAR data report. The average MLLW adjustment was approximately 1.045m with a standard deviation of 0.066m. As a result of being calibrated using the ellipsoidal MLLW elevations instead of the normal ellipsoidal elevations, the LiDAR data was adjusted to the MLLW vertical datum. Users should be aware that temporal changes may have occurred since this data set was collected and some parts of this data may no longer represent actual surface conditions. Users should not use this data for critical applications without a full awareness of its limitations. These data depict the heights at the time of the survey and are only accurate for that time.", "Access Constraints: No restrictions apply to this data."]"
 	},
 	{
 		"key": "temporal-extent-begin",
@@ -219,7 +219,7 @@
 	},
 	{
 		"key": "dataset-reference-date",
-		"value": "[{\"type\": \"publication\", \"value\": \"2015-03-10\"}]"
+		"value": "[{"type": "publication", "value": "2015-03-10"}]"
 	},
 	{
 		"key": "graphic-preview-description",
@@ -231,7 +231,7 @@
 	},
 	{
 		"key": "licence",
-		"value": "[\"Any conclusions drawn from the analysis of this information are not the responsibility of RandM Engineering Inc., Watershed Sciences Inc (Quantum Spatial), Alaska DGGS, NOAA, the Office for Coastal Management or its partners.\"]"
+		"value": "["Any conclusions drawn from the analysis of this information are not the responsibility of RandM Engineering Inc., Watershed Sciences Inc (Quantum Spatial), Alaska DGGS, NOAA, the Office for Coastal Management or its partners."]"
 	},
 	{
 		"key": "metadata_type",
@@ -239,7 +239,7 @@
 	},
 	{
 		"key": "responsible-party",
-		"value": "[{\"name\": \"NOAA Office for Coastal Management\", \"roles\": [\"pointOfContact\"]}]"
+		"value": "[{"name": "NOAA Office for Coastal Management", "roles": ["pointOfContact"]}]"
 	},
 	{
 		"key": "temporal-extent-end",
@@ -285,7 +285,7 @@
 		"revision_timestamp": "2013-03-25T23:05:12.923863",
 		"is_organization": true,
 		"state": "active",
-		"image_url": "https:\/\/fortress.wa.gov\/dfw\/score\/score\/images\/noaa_logo.png",
+		"image_url": "https://fortress.wa.gov/dfw/score/score/images/noaa_logo.png",
 		"revision_id": "c6d43080-22e1-405e-a83d-f2a512d9e867",
 		"type": "organization",
 		"id": "e811f0b4-451f-4896-9e8f-fc6802837819",

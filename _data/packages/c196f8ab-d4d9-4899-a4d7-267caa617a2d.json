@@ -37,7 +37,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2015-09-26T16:24:03.261334",
-		"url": "ftp:\/\/sidads.colorado.edu\/pub\/DATASETS\/NOAA\/G00874",
+		"url": "ftp://sidads.colorado.edu/pub/DATASETS/NOAA/G00874",
 		"webstore_url": null,
 		"resource_locator_function": "function",
 		"position": 0,
@@ -67,7 +67,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2015-09-26T16:24:03.261361",
-		"url": "http:\/\/nsidc.org\/data\/docs\/noaa\/g00874_iceberg_drift_tracks\/index.html",
+		"url": "http://nsidc.org/data/docs/noaa/g00874_iceberg_drift_tracks/index.html",
 		"webstore_url": null,
 		"resource_locator_function": "function",
 		"position": 1,
@@ -85,7 +85,7 @@
 		"last_modified": null,
 		"hash": "",
 		"description": "",
-		"format": "application\/vnd.lotus-organizer",
+		"format": "application/vnd.lotus-organizer",
 		"tracking_summary": {
 			"total": 85,
 			"recent": 4
@@ -97,7 +97,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2015-09-26T16:24:03.261371",
-		"url": "http:\/\/nsidc.org",
+		"url": "http://nsidc.org",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 2,
@@ -127,7 +127,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2015-09-26T16:24:03.261379",
-		"url": "http:\/\/nsidc.org\/noaa\/",
+		"url": "http://nsidc.org/noaa/",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 3,
@@ -145,7 +145,7 @@
 		"last_modified": null,
 		"hash": "",
 		"description": "",
-		"format": "application\/vnd.lotus-organizer",
+		"format": "application/vnd.lotus-organizer",
 		"tracking_summary": {
 			"total": 85,
 			"recent": 4
@@ -157,7 +157,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2015-09-26T16:24:03.261386",
-		"url": "http:\/\/nsidc.org",
+		"url": "http://nsidc.org",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 4,
@@ -177,7 +177,7 @@
 	"name": "international-ice-patrol-iceberg-drift-tracks",
 	"isopen": false,
 	"url": null,
-	"notes": "\nThe International Ice Patrol (IIP) tracks, plots and predicts iceberg positions in the North Atlantic Ocean. The IIP area of responsibility is 40 to 52 degrees North, 39 to 57 degrees West. During several years (1977, 1978, 1980, 1983, and 1989) individual icebergs were 'tagged' with buoys developed by the U.S. Coast Guard Research and Development Center. The motion of the icebergs bearing the USCG buoys were then tracked via satellite. Observation periods range from one week to two years depending on the buoy. The data are stored in the National Oceanographic Data Center format for drifting buoys (format number 156).\n",
+	"notes": "nThe International Ice Patrol (IIP) tracks, plots and predicts iceberg positions in the North Atlantic Ocean. The IIP area of responsibility is 40 to 52 degrees North, 39 to 57 degrees West. During several years (1977, 1978, 1980, 1983, and 1989) individual icebergs were 'tagged' with buoys developed by the U.S. Coast Guard Research and Development Center. The motion of the icebergs bearing the USCG buoys were then tracked via satellite. Observation periods range from one week to two years depending on the buoy. The data are stored in the National Oceanographic Data Center format for drifting buoys (format number 156).n",
 	"license_title": null,
 	"extras": [{
 		"key": "bbox-east-long",
@@ -213,7 +213,7 @@
 	},
 	{
 		"key": "spatial",
-		"value": "{\"type\": \"Polygon\", \"coordinates\": [[[-57.0, 40.0], [-39.0, 40.0], [-39.0, 52.0], [-57.0, 52.0], [-57.0, 40.0]]]}"
+		"value": "{"type": "Polygon", "coordinates": [[[-57.0, 40.0], [-39.0, 40.0], [-39.0, 52.0], [-57.0, 52.0], [-57.0, 40.0]]]}"
 	},
 	{
 		"key": "progress",
@@ -221,7 +221,7 @@
 	},
 	{
 		"key": "access_constraints",
-		"value": "[\"Access Constraints : none\", \"Use Constraints : none\"]"
+		"value": "["Access Constraints : none", "Use Constraints : none"]"
 	},
 	{
 		"key": "temporal-extent-begin",
@@ -241,7 +241,7 @@
 	},
 	{
 		"key": "dataset-reference-date",
-		"value": "[{\"type\": \"publication\", \"value\": \"1995-01-01\"}]"
+		"value": "[{"type": "publication", "value": "1995-01-01"}]"
 	},
 	{
 		"key": "frequency-of-update",
@@ -257,7 +257,7 @@
 	},
 	{
 		"key": "responsible-party",
-		"value": "[{\"name\": \"National Snow and Ice Data Center\", \"roles\": [\"pointOfContact\"]}]"
+		"value": "[{"name": "National Snow and Ice Data Center", "roles": ["pointOfContact"]}]"
 	},
 	{
 		"key": "temporal-extent-end",
@@ -273,7 +273,7 @@
 	},
 	{
 		"package_id": "c196f8ab-d4d9-4899-a4d7-267caa617a2d",
-		"value": "atlantic ocean, glaciers\/ice sheets, cryosphere, tiros oceanographic drifter, surface drifting buoy, terrestrial hydrosphere, north atlantic ocean, arctic, oceans, ice buoy, surface drifter, ocean, icebergs, drifting buoy, current meter, sea ice, tod, earth science",
+		"value": "atlantic ocean, glaciers/ice sheets, cryosphere, tiros oceanographic drifter, surface drifting buoy, terrestrial hydrosphere, north atlantic ocean, arctic, oceans, ice buoy, surface drifter, ocean, icebergs, drifting buoy, current meter, sea ice, tod, earth science",
 		"revision_timestamp": "2015-09-26T20:24:03.202864",
 		"state": "active",
 		"key": "tags",
@@ -303,7 +303,7 @@
 		"revision_timestamp": "2013-03-25T23:05:12.923863",
 		"is_organization": true,
 		"state": "active",
-		"image_url": "https:\/\/fortress.wa.gov\/dfw\/score\/score\/images\/noaa_logo.png",
+		"image_url": "https://fortress.wa.gov/dfw/score/score/images/noaa_logo.png",
 		"revision_id": "c6d43080-22e1-405e-a83d-f2a512d9e867",
 		"type": "organization",
 		"id": "e811f0b4-451f-4896-9e8f-fc6802837819",

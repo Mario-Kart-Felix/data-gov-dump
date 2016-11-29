@@ -37,7 +37,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2014-10-28T16:55:04.848755",
-		"url": "http:\/\/pubs.usgs.gov\/ds\/781\/",
+		"url": "http://pubs.usgs.gov/ds/781/",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 0,
@@ -67,7 +67,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2014-10-28T16:55:04.848781",
-		"url": "http:\/\/pubs.usgs.gov\/sim\/3254\/",
+		"url": "http://pubs.usgs.gov/sim/3254/",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 1,
@@ -87,7 +87,7 @@
 	"name": "z206sc-video-observations",
 	"isopen": false,
 	"url": null,
-	"notes": "This part of DS 781 presents video observations from cruise Z206SC for the Santa Barbara Channel region and beyond in southern California. The vector data file is included in \"z206sc_video_observations.zip,\" which is accessible from http:\/\/pubs.usgs.gov\/ds\/781\/video_observations\/data_catalog_video_observations.html. Some of the video observations from cruise Z206SC are published in Scientific Investigations Map 3254, \"California State Waters Map Series--Offshore of Ventura, California\" (see sheet 6). In addition, some of the video observations will be published in three future California State Waters Map Series SIMs of the region (namely, the Offshore of Carpinteria, Offshore of Santa Barbara, Offshore of Coal Oil Point, and Offshore of Coal Oil Point map areas) [note that, at the time of this writing, one of the other three SIMs have been published: the Offshore of Carpinteria map area (SIM 3254)]. Between 2006 and 2007, the seafloor in the Offshore of Ventura, Offshore of Carpinteria, Offshore of Santa Barbara, Offshore of Coal Oil Point, Offshore of Refugio Beach, map areas in southern California was mapped by California State University, Monterey Bay, Seafloor Mapping Lab (CSUMB) and by the U.S. Geological Survey (USGS), using both multibeam echosounders and bathymetric sidescan sonar units (for example, see sheets 1, 2, and 3, SIM 3254, for details). These mapping missions combined to collect bathymetry and acoustic-backscatter data from about the 10-m isobath to out beyond the 3-nautical-mile limit of California's State Waters. To validate the interpretations of sonar data in order to turn it into geologically and biologically useful information, the USGS ground-truth surveyed the data by towing camera sleds over specific locations throughout the region. During the 2008 ground-truth cruise, the camera sled housed two video cameras (one forward looking and the other vertical looking), a high-definition video camera, and an 8-megapixel digital still camera. The video was fed in real time to the research vessel, where USGS and NOAA scientists recorded both the geologic and biologic character of the seafloor into programmable keypads once every minute. In addition to recording the seafloor characteristics, a digital still photograph was captured once every 30 seconds. This ArcGIS shape file includes the position of the camera, the time each observation was started, and the visual observations of geologic and biologic habitat.",
+	"notes": "This part of DS 781 presents video observations from cruise Z206SC for the Santa Barbara Channel region and beyond in southern California. The vector data file is included in "z206sc_video_observations.zip," which is accessible from http://pubs.usgs.gov/ds/781/video_observations/data_catalog_video_observations.html. Some of the video observations from cruise Z206SC are published in Scientific Investigations Map 3254, "California State Waters Map Series--Offshore of Ventura, California" (see sheet 6). In addition, some of the video observations will be published in three future California State Waters Map Series SIMs of the region (namely, the Offshore of Carpinteria, Offshore of Santa Barbara, Offshore of Coal Oil Point, and Offshore of Coal Oil Point map areas) [note that, at the time of this writing, one of the other three SIMs have been published: the Offshore of Carpinteria map area (SIM 3254)]. Between 2006 and 2007, the seafloor in the Offshore of Ventura, Offshore of Carpinteria, Offshore of Santa Barbara, Offshore of Coal Oil Point, Offshore of Refugio Beach, map areas in southern California was mapped by California State University, Monterey Bay, Seafloor Mapping Lab (CSUMB) and by the U.S. Geological Survey (USGS), using both multibeam echosounders and bathymetric sidescan sonar units (for example, see sheets 1, 2, and 3, SIM 3254, for details). These mapping missions combined to collect bathymetry and acoustic-backscatter data from about the 10-m isobath to out beyond the 3-nautical-mile limit of California's State Waters. To validate the interpretations of sonar data in order to turn it into geologically and biologically useful information, the USGS ground-truth surveyed the data by towing camera sleds over specific locations throughout the region. During the 2008 ground-truth cruise, the camera sled housed two video cameras (one forward looking and the other vertical looking), a high-definition video camera, and an 8-megapixel digital still camera. The video was fed in real time to the research vessel, where USGS and NOAA scientists recorded both the geologic and biologic character of the seafloor into programmable keypads once every minute. In addition to recording the seafloor characteristics, a digital still photograph was captured once every 30 seconds. This ArcGIS shape file includes the position of the camera, the time each observation was started, and the visual observations of geologic and biologic habitat.",
 	"license_title": null,
 	"extras": [{
 		"key": "bbox-east-long",
@@ -123,7 +123,7 @@
 	},
 	{
 		"key": "spatial",
-		"value": "{\"type\": \"Polygon\", \"coordinates\": [[[-119.92137, 34.21149], [-119.2631, 34.21149], [-119.2631, 34.47285], [-119.92137, 34.47285], [-119.92137, 34.21149]]]}"
+		"value": "{"type": "Polygon", "coordinates": [[[-119.92137, 34.21149], [-119.2631, 34.21149], [-119.2631, 34.47285], [-119.92137, 34.47285], [-119.92137, 34.21149]]]}"
 	},
 	{
 		"key": "progress",
@@ -131,7 +131,7 @@
 	},
 	{
 		"key": "access_constraints",
-		"value": "[\"Use Constraints: This information is not intended for navigational purposes. Read and fully comprehend the metadata prior to data use. Uses of these data should not violate the spatial resolution of the data. Where these data are used in combination with other data of different resolution, the resolution of the combined output will be limited by the lowest resolution of all the data. Acknowledge the U.S. Geological Survey in products derived from these data. Share data products developed using these data with the U.S. Geological Survey. This database has been approved for release and publication by the Director of the USGS. Although this database has been subjected to rigorous review and is substantially complete, the USGS reserves the right to revise the data pursuant to further analysis and review. Furthermore, it is released on condition that neither the USGS nor the United States Government may be held liable for any damages resulting from its authorized or unauthorized use. Although this Federal Geographic Data Committee-compliant metadata file is intended to document these data in nonproprietary form, as well as in ArcInfo format, this metadata file may include some ArcInfo-specific terminology. as in ArcInfo format, this metadata file may include some ArcInfo-specific terminology.\", \"Access Constraints: None\"]"
+		"value": "["Use Constraints: This information is not intended for navigational purposes. Read and fully comprehend the metadata prior to data use. Uses of these data should not violate the spatial resolution of the data. Where these data are used in combination with other data of different resolution, the resolution of the combined output will be limited by the lowest resolution of all the data. Acknowledge the U.S. Geological Survey in products derived from these data. Share data products developed using these data with the U.S. Geological Survey. This database has been approved for release and publication by the Director of the USGS. Although this database has been subjected to rigorous review and is substantially complete, the USGS reserves the right to revise the data pursuant to further analysis and review. Furthermore, it is released on condition that neither the USGS nor the United States Government may be held liable for any damages resulting from its authorized or unauthorized use. Although this Federal Geographic Data Committee-compliant metadata file is intended to document these data in nonproprietary form, as well as in ArcInfo format, this metadata file may include some ArcInfo-specific terminology. as in ArcInfo format, this metadata file may include some ArcInfo-specific terminology.", "Access Constraints: None"]"
 	},
 	{
 		"key": "temporal-extent-begin",
@@ -151,7 +151,7 @@
 	},
 	{
 		"key": "dataset-reference-date",
-		"value": "[{\"type\": \"publication\", \"value\": \"2013-01-01\"}]"
+		"value": "[{"type": "publication", "value": "2013-01-01"}]"
 	},
 	{
 		"key": "frequency-of-update",
@@ -159,7 +159,7 @@
 	},
 	{
 		"key": "licence",
-		"value": "[\"Please recognize the U.S. Geological Survey (USGS) as the source of\\nthis information.\\nAlthough these data have been used by the U.S. Geological Survey,\\nU.S. Department of the Interior, no warranty expressed or implied\\nis made by the U.S. Geological Survey as to the accuracy of the\\ndata.\\nThe act of distribution shall not constitute any such warranty,\\nand no responsibility is assumed by the U.S. Geological Survey in\\nthe use of this data, software, or related materials.\"]"
+		"value": "["Please recognize the U.S. Geological Survey (USGS) as the source of\nthis information.\nAlthough these data have been used by the U.S. Geological Survey,\nU.S. Department of the Interior, no warranty expressed or implied\nis made by the U.S. Geological Survey as to the accuracy of the\ndata.\nThe act of distribution shall not constitute any such warranty,\nand no responsibility is assumed by the U.S. Geological Survey in\nthe use of this data, software, or related materials."]"
 	},
 	{
 		"key": "metadata_type",
@@ -167,7 +167,7 @@
 	},
 	{
 		"key": "responsible-party",
-		"value": "[{\"name\": \"U.S. Geological Survey, Coastal and Marine Geology\", \"roles\": [\"pointOfContact\"]}]"
+		"value": "[{"name": "U.S. Geological Survey, Coastal and Marine Geology", "roles": ["pointOfContact"]}]"
 	},
 	{
 		"key": "temporal-extent-end",
@@ -206,14 +206,14 @@
 		"value": "U.S. Geological Survey Coastal Map"
 	}],
 	"organization": {
-		"description": "http:\/\/www.usgs.gov\/\r\nThe USGS is a federal science agency that provides impartial information on the health of our ecosystems and environment, the natural hazards that threaten us, the natural resources we rely on, the impacts of climate and land-use change, and the core science systems that help us provide timely, relevant, and useable information.",
+		"description": "http://www.usgs.gov/rnThe USGS is a federal science agency that provides impartial information on the health of our ecosystems and environment, the natural hazards that threaten us, the natural resources we rely on, the impacts of climate and land-use change, and the core science systems that help us provide timely, relevant, and useable information.",
 		"created": "2013-03-14T03:44:38.263357",
 		"title": "U.S. Geological Survey, Department of the Interior",
 		"name": "usgs-gov",
 		"revision_timestamp": "2014-09-02T13:43:52.167023",
 		"is_organization": true,
 		"state": "active",
-		"image_url": "http:\/\/pubs.usgs.gov\/sir\/2004\/5296\/04-5296_confluence_park\/usgs_logo.gif",
+		"image_url": "http://pubs.usgs.gov/sir/2004/5296/04-5296_confluence_park/usgs_logo.gif",
 		"revision_id": "2858aa99-9501-4f96-82e5-9647b968ed66",
 		"type": "organization",
 		"id": "bd2cdd5a-4d65-46c0-9937-c8381175f104",

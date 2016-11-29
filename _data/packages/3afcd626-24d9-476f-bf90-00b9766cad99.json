@@ -36,7 +36,7 @@
 		"cache_url": null,
 		"name": "Service Description",
 		"created": "2013-03-16T02:21:50.538094",
-		"url": "http:\/\/mgsweb2.mngs.umn.edu\/arcgis\/rest\/services\/MNBoreholeLithIntervals\/MapServer",
+		"url": "http://mgsweb2.mngs.umn.edu/arcgis/rest/services/MNBoreholeLithIntervals/MapServer",
 		"webstore_url": null,
 		"resource_locator_function": "381",
 		"position": 0,
@@ -65,7 +65,7 @@
 		"cache_url": null,
 		"name": "Downloadable File",
 		"created": "2013-03-16T02:21:50.538115",
-		"url": "http:\/\/mgsweb2.mngs.umn.edu\/ArcGIS\/services\/MNBoreholeLithIntervals\/MapServer\/WMSServer?request=GetCapabilities&service=WMS",
+		"url": "http://mgsweb2.mngs.umn.edu/ArcGIS/services/MNBoreholeLithIntervals/MapServer/WMSServer?request=GetCapabilities&service=WMS",
 		"webstore_url": null,
 		"resource_locator_function": "375",
 		"position": 1,
@@ -94,7 +94,7 @@
 		"cache_url": null,
 		"name": "Service Description",
 		"created": "2013-03-16T02:21:50.538124",
-		"url": "http:\/\/mgsweb2.mngs.umn.edu\/ArcGIS\/services\/MNBoreholeLithIntervals\/MapServer\/WFSServer?request=GetCapabilities&service=WFS",
+		"url": "http://mgsweb2.mngs.umn.edu/ArcGIS/services/MNBoreholeLithIntervals/MapServer/WFSServer?request=GetCapabilities&service=WFS",
 		"webstore_url": null,
 		"resource_locator_function": "381",
 		"position": 2,
@@ -127,11 +127,11 @@
 	"name": "minnesota-borehole-lithology-intervals",
 	"isopen": false,
 	"url": null,
-	"notes": "This dataset contains lithology log interval observations associated with a borehole collected for the State of Minnesota for use by the AASG Geothermal Data Project. Fields in the BoreholeLithIntervalTemplate will become XML elements in interchange documents for WFS simple features served by AASG geothermal data web services. Each interval feature has a top and a bottom, measured from the ground surface (convention for interoperability) and a geologic unit description that will be identical with the content associated with polygons on a geologic map. Other sheets in the workbook provide additional explanatory material and provide information on the origin of the dataset, its review and lineage. Link to Borehole Lithology Content Model v0.9: http:\/\/repository.usgin.org\/sites\/default\/files\/dlio\/files\/2012\/u83\/boreholelithintervaltemplate0.9schema_match_0.zip",
+	"notes": "This dataset contains lithology log interval observations associated with a borehole collected for the State of Minnesota for use by the AASG Geothermal Data Project. Fields in the BoreholeLithIntervalTemplate will become XML elements in interchange documents for WFS simple features served by AASG geothermal data web services. Each interval feature has a top and a bottom, measured from the ground surface (convention for interoperability) and a geologic unit description that will be identical with the content associated with polygons on a geologic map. Other sheets in the workbook provide additional explanatory material and provide information on the origin of the dataset, its review and lineage. Link to Borehole Lithology Content Model v0.9: http://repository.usgin.org/sites/default/files/dlio/files/2012/u83/boreholelithintervaltemplate0.9schema_match_0.zip",
 	"license_title": null,
 	"extras": [{
 		"key": "responsible-party",
-		"value": "[{\"name\": \"AZGS\", \"roles\": [\"pointOfContact\"]}]"
+		"value": "[{"name": "AZGS", "roles": ["pointOfContact"]}]"
 	},
 	{
 		"key": "contact-email",
@@ -151,7 +151,7 @@
 	},
 	{
 		"key": "dataset-reference-date",
-		"value": "[{\"type\": \"publication\", \"value\": \"2013-02-04T00:00:00\"}]"
+		"value": "[{"type": "publication", "value": "2013-02-04T00:00:00"}]"
 	},
 	{
 		"key": "resource-type",
@@ -187,7 +187,7 @@
 	},
 	{
 		"key": "spatial",
-		"value": "{\"type\": \"Polygon\", \"coordinates\": [[[-98.3025527, 42.9783888678], [-98.3025527, 49.4733530577], [-89.074037075, 49.4733530577], [-89.074037075, 42.9783888678], [-98.3025527, 42.9783888678]]]}"
+		"value": "{"type": "Polygon", "coordinates": [[[-98.3025527, 42.9783888678], [-98.3025527, 49.4733530577], [-89.074037075, 49.4733530577], [-89.074037075, 42.9783888678], [-98.3025527, 42.9783888678]]]}"
 	},
 	{
 		"key": "guid",
@@ -237,7 +237,7 @@
 		"revision_timestamp": "2013-03-20T21:11:17.592932",
 		"is_organization": true,
 		"state": "active",
-		"image_url": "http:\/\/www.50states.com\/flag\/image\/nunst004.gif",
+		"image_url": "http://www.50states.com/flag/image/nunst004.gif",
 		"revision_id": "61be6428-4398-4199-a336-f3cd1e956f9b",
 		"type": "organization",
 		"id": "f3f6e1d4-64fb-4a2f-b32c-9ac0b76fe4de",

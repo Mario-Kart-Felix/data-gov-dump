@@ -36,7 +36,7 @@
 		"cache_url": null,
 		"name": "NDGIS web site",
 		"created": "2013-12-07T04:04:59.228756",
-		"url": "http:\/\/www.nd.gov\/gis",
+		"url": "http://www.nd.gov/gis",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 0,
@@ -65,7 +65,7 @@
 		"cache_url": null,
 		"name": "Download Linear Hydrologic Features",
 		"created": "2013-12-07T04:04:59.228777",
-		"url": "http:\/\/www.nd.gov\/gis\/apps\/DataDownload\/?clipping=Full&coord=ND83-SF&format=SHAPE&layers=NDHUB.WATER100K_LINE",
+		"url": "http://www.nd.gov/gis/apps/DataDownload/?clipping=Full&coord=ND83-SF&format=SHAPE&layers=NDHUB.WATER100K_LINE",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 1,
@@ -94,7 +94,7 @@
 		"cache_url": null,
 		"name": "Detailed Rivers and Streams",
 		"created": "2013-12-07T04:04:59.228786",
-		"url": "http:\/\/ndgishub.nd.gov\/arcgis\/services\/All_Hydrography\/MapServer\/WMSServer?",
+		"url": "http://ndgishub.nd.gov/arcgis/services/All_Hydrography/MapServer/WMSServer?",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 2,
@@ -123,7 +123,7 @@
 		"cache_url": null,
 		"name": "Esri REST including WMS",
 		"created": "2013-12-07T04:04:59.228794",
-		"url": "http:\/\/ndgishub.nd.gov\/ArcGIS\/rest\/services\/All_Hydrography\/MapServer",
+		"url": "http://ndgishub.nd.gov/ArcGIS/rest/services/All_Hydrography/MapServer",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 3,
@@ -152,7 +152,7 @@
 		"cache_url": null,
 		"name": "Esri REST including WFS and KML",
 		"created": "2013-12-07T04:04:59.228802",
-		"url": "http:\/\/ndgishub.nd.gov\/ArcGIS\/rest\/services\/Features\/Hydrography\/MapServer",
+		"url": "http://ndgishub.nd.gov/ArcGIS/rest/services/Features/Hydrography/MapServer",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 4,
@@ -185,7 +185,7 @@
 	"name": "1-100000-scale-linear-hydrologic-features",
 	"isopen": false,
 	"url": null,
-	"notes": "1\/31\/08 Changes and Updates - The streams that have the same flow type (perennial\/intermittent) AND feature type (stream, ditch, etc.) have been merged so that, for example, the Cannonball River is now comprised of two line segments, one perennial, and one intermittent. In the past there would have been line segments at every tributary junction resulting in the Cannonball being over 100 line segments. This should make labeling somewhat easier. - All of the streams (all in North Dakota and Montana, 3\/4s of South Dakota, northern half of the Minnesota portion) have been labeled using the USGS 24k topo maps, so even though this is a 100k hydro layer, all of the named streams should be included - Field names have been changed so that they can be dumped out to shapefiles without truncation. I've also added alias' so there is a meaningful name associated with each field. - All of the standard fields in the hydro layers have changed to Flow_Type (alias Flow Type), Feat_Type (alias Feature Type), Feat_Mod (alias Feature Modifier), Name (alias Primary Name), Name_2nd (alias Secondary Name). - Draw and Label fields have been added. Not all of the features in the line features are hydro features. There are river centerlines for example that should not be drawn by default. They are simply there to use for labeling rivers that are displayed as polygons. This allows the user to label a river along it's length and not horizontally like a lake would be labeled. The label field might be useful for only labeling lakes and marshes and not linear polygon features like rivers. If you were to dump this to a GDB or shapefile to customize a map, these fields could be easily modified by the user to not label smaller features for example. This isn't the best database design, but this makes it easy to label something without putting in several complicated boolean statements With the label field you could simply put Label = 'Yes' and knowing that you'd already set the rivers to 'No', you'd be done. North Dakota hydrology, linear features, showing rivers, streams, shorelines and banks of large rivers, ponds, and lakes",
+	"notes": "1/31/08 Changes and Updates - The streams that have the same flow type (perennial/intermittent) AND feature type (stream, ditch, etc.) have been merged so that, for example, the Cannonball River is now comprised of two line segments, one perennial, and one intermittent. In the past there would have been line segments at every tributary junction resulting in the Cannonball being over 100 line segments. This should make labeling somewhat easier. - All of the streams (all in North Dakota and Montana, 3/4s of South Dakota, northern half of the Minnesota portion) have been labeled using the USGS 24k topo maps, so even though this is a 100k hydro layer, all of the named streams should be included - Field names have been changed so that they can be dumped out to shapefiles without truncation. I've also added alias' so there is a meaningful name associated with each field. - All of the standard fields in the hydro layers have changed to Flow_Type (alias Flow Type), Feat_Type (alias Feature Type), Feat_Mod (alias Feature Modifier), Name (alias Primary Name), Name_2nd (alias Secondary Name). - Draw and Label fields have been added. Not all of the features in the line features are hydro features. There are river centerlines for example that should not be drawn by default. They are simply there to use for labeling rivers that are displayed as polygons. This allows the user to label a river along it's length and not horizontally like a lake would be labeled. The label field might be useful for only labeling lakes and marshes and not linear polygon features like rivers. If you were to dump this to a GDB or shapefile to customize a map, these fields could be easily modified by the user to not label smaller features for example. This isn't the best database design, but this makes it easy to label something without putting in several complicated boolean statements With the label field you could simply put Label = 'Yes' and knowing that you'd already set the rivers to 'No', you'd be done. North Dakota hydrology, linear features, showing rivers, streams, shorelines and banks of large rivers, ponds, and lakes",
 	"license_title": null,
 	"extras": [{
 		"key": "bbox-east-long",
@@ -229,7 +229,7 @@
 	},
 	{
 		"key": "spatial",
-		"value": "{\"type\": \"Polygon\", \"coordinates\": [[[-105.000554, 45.499945], [-96.000292, 45.499945], [-96.000292, 49.000031], [-105.000554, 49.000031], [-105.000554, 45.499945]]]}"
+		"value": "{"type": "Polygon", "coordinates": [[[-105.000554, 45.499945], [-96.000292, 45.499945], [-96.000292, 49.000031], [-105.000554, 49.000031], [-105.000554, 45.499945]]]}"
 	},
 	{
 		"key": "progress",
@@ -237,7 +237,7 @@
 	},
 	{
 		"key": "access_constraints",
-		"value": "[\"The State of North Dakota has compiled this data according to conventional cartographic standards, using what is thought to be the most reliable information available. This data is intended to make results of research available at the earliest possible date, but is not intended to constitute final or formal publication. The State of North Dakota makes every effort to provide virus-free files but does not guarantee uncorrupted files. The State of North Dakota does not guarantee this data to be free from errors, inaccuracies, or viruses, and disclaims any responsibility or liability for interpretations or decisions based on this data.\"]"
+		"value": "["The State of North Dakota has compiled this data according to conventional cartographic standards, using what is thought to be the most reliable information available. This data is intended to make results of research available at the earliest possible date, but is not intended to constitute final or formal publication. The State of North Dakota makes every effort to provide virus-free files but does not guarantee uncorrupted files. The State of North Dakota does not guarantee this data to be free from errors, inaccuracies, or viruses, and disclaims any responsibility or liability for interpretations or decisions based on this data."]"
 	},
 	{
 		"key": "contact-email",
@@ -253,7 +253,7 @@
 	},
 	{
 		"key": "dataset-reference-date",
-		"value": "[{\"type\": \"publication\", \"value\": \"2008-02-01\"}]"
+		"value": "[{"type": "publication", "value": "2008-02-01"}]"
 	},
 	{
 		"key": "graphic-preview-description",
@@ -273,7 +273,7 @@
 	},
 	{
 		"key": "responsible-party",
-		"value": "[{\"name\": \"ND State Water Commission\", \"roles\": [\"pointOfContact\"]}]"
+		"value": "[{"name": "ND State Water Commission", "roles": ["pointOfContact"]}]"
 	},
 	{
 		"key": "spatial-data-service-type",
@@ -308,14 +308,14 @@
 		"value": "North Dakota GIS Hub Data Portal"
 	}],
 	"organization": {
-		"description": "The GIS Hub is the state source for GIS - data, services, and information.  More information can be found at www.nd.gov\/gis.",
+		"description": "The GIS Hub is the state source for GIS - data, services, and information.  More information can be found at www.nd.gov/gis.",
 		"created": "2013-03-14T03:44:44.340717",
 		"title": "State of North Dakota",
 		"name": "nd-gov",
 		"revision_timestamp": "2013-07-15T16:27:30.098476",
 		"is_organization": true,
 		"state": "active",
-		"image_url": "http:\/\/www.nd.gov\/gis\/images\/ndgis-logo.gif",
+		"image_url": "http://www.nd.gov/gis/images/ndgis-logo.gif",
 		"revision_id": "27517bb9-815c-4d4f-b45b-b88b6316697b",
 		"type": "organization",
 		"id": "1c782de6-9f1f-4427-93fd-33732e29970f",

@@ -37,7 +37,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2015-09-26T20:22:30.160147",
-		"url": "ftp:\/\/ftp.cpc.ncep.noaa.gov\/precip\/50yr\/gauge\/50yr\/gauge\/0.5deg\/",
+		"url": "ftp://ftp.cpc.ncep.noaa.gov/precip/50yr/gauge/50yr/gauge/0.5deg/",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 0,
@@ -67,7 +67,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2015-09-26T20:22:30.160170",
-		"url": "ftp:\/\/ftp.cpc.ncep.noaa.gov\/precip\/50yr\/gauge\/0.5deg\/",
+		"url": "ftp://ftp.cpc.ncep.noaa.gov/precip/50yr/gauge/0.5deg/",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 1,
@@ -87,7 +87,7 @@
 	"name": "climate-prediction-centercpc-monthly-precipitation-reconstruction-precat-spatial-resolution-of-",
 	"isopen": false,
 	"url": null,
-	"notes": "This global monthly precipitation analysis is called the Climate Prediction Center (CPC) Precipitation Reconstruction (PREC). This analysis consists of two components, the land analysis PREC\/L and oceanic analysis PREC\/O. The land analysis is defined by interpolation of gauge observations from the Global Historical Climatology Network (GHCN) version 2, and the Climate Prediction Center Climate Anomaly Monitoring System (CAMS) dataset through the Optimal Interpolation (OI) algorithm. The oceanic analysis is defined by Empirical Orthogonal Function (EOF) reconstruction of historical gauge observation from islands and atolls and land. The output resolutions are 0.5deg, 1.0deg, and 2.5deg latitude\/longitude for the PREC\/L, and 2.5deg latitude\/longitude for PREC\/O. The analysis covers time period from 1948 to current and is updated on real time basis. The data set is available at format of ASCII and binary.",
+	"notes": "This global monthly precipitation analysis is called the Climate Prediction Center (CPC) Precipitation Reconstruction (PREC). This analysis consists of two components, the land analysis PREC/L and oceanic analysis PREC/O. The land analysis is defined by interpolation of gauge observations from the Global Historical Climatology Network (GHCN) version 2, and the Climate Prediction Center Climate Anomaly Monitoring System (CAMS) dataset through the Optimal Interpolation (OI) algorithm. The oceanic analysis is defined by Empirical Orthogonal Function (EOF) reconstruction of historical gauge observation from islands and atolls and land. The output resolutions are 0.5deg, 1.0deg, and 2.5deg latitude/longitude for the PREC/L, and 2.5deg latitude/longitude for PREC/O. The analysis covers time period from 1948 to current and is updated on real time basis. The data set is available at format of ASCII and binary.",
 	"license_title": null,
 	"extras": [{
 		"key": "bbox-east-long",
@@ -115,7 +115,7 @@
 	},
 	{
 		"key": "graphic-preview-file",
-		"value": "ftp:\/\/ftp.cpc.ncep.noaa.gov\/precip\/50yr\/gauge\/0.5deg\/format_bin_lnx\/precl_mon_0.50deg.gif"
+		"value": "ftp://ftp.cpc.ncep.noaa.gov/precip/50yr/gauge/0.5deg/format_bin_lnx/precl_mon_0.50deg.gif"
 	},
 	{
 		"key": "metadata-language",
@@ -131,7 +131,7 @@
 	},
 	{
 		"key": "spatial",
-		"value": "{\"type\": \"Polygon\", \"coordinates\": [[[-180.0, -89.75], [180.0, -89.75], [180.0, 89.75], [-180.0, 89.75], [-180.0, -89.75]]]}"
+		"value": "{"type": "Polygon", "coordinates": [[[-180.0, -89.75], [180.0, -89.75], [180.0, 89.75], [-180.0, 89.75], [-180.0, -89.75]]]}"
 	},
 	{
 		"key": "progress",
@@ -139,7 +139,7 @@
 	},
 	{
 		"key": "access_constraints",
-		"value": "[\"Access Constraints: None Use Constraints: Acknowledgment of the Data Originator when using the data item as a source. Distribution Liability: The user assumes the entire risk related to its use of this data. NWS is providing this data as is, and NWS disclaims any and all warranties, whether express or implied, including (without limitation) any implied warranties of merchantability or fitness for a particular purpose. In no event will NWS be liable to you or to any third party for any direct, indirect, incidental, consequential, special or exemplary damages or lost profit resulting from any use or misuse of this data. As required by 17 U.S.C. 403, third parties producing copyrighted works consisting predominantly of the material appearing in NWS Web pages must provide notice with such work(s) identifying the NWS material incorporated and stating that such material is not subject to copyright protection. Refer the NOAA National Weather Service disclaimer; http:\/\/www.weather.gov\/disclaimer.php\"]"
+		"value": "["Access Constraints: None Use Constraints: Acknowledgment of the Data Originator when using the data item as a source. Distribution Liability: The user assumes the entire risk related to its use of this data. NWS is providing this data as is, and NWS disclaims any and all warranties, whether express or implied, including (without limitation) any implied warranties of merchantability or fitness for a particular purpose. In no event will NWS be liable to you or to any third party for any direct, indirect, incidental, consequential, special or exemplary damages or lost profit resulting from any use or misuse of this data. As required by 17 U.S.C. 403, third parties producing copyrighted works consisting predominantly of the material appearing in NWS Web pages must provide notice with such work(s) identifying the NWS material incorporated and stating that such material is not subject to copyright protection. Refer the NOAA National Weather Service disclaimer; http://www.weather.gov/disclaimer.php"]"
 	},
 	{
 		"key": "temporal-extent-begin",
@@ -159,7 +159,7 @@
 	},
 	{
 		"key": "dataset-reference-date",
-		"value": "[{\"type\": \"publication\", \"value\": \"2002-06-01\"}]"
+		"value": "[{"type": "publication", "value": "2002-06-01"}]"
 	},
 	{
 		"key": "graphic-preview-description",
@@ -179,7 +179,7 @@
 	},
 	{
 		"key": "responsible-party",
-		"value": "[{\"name\": \"Climate Prediction Center, NOAA\", \"roles\": [\"pointOfContact\"]}]"
+		"value": "[{"name": "Climate Prediction Center, NOAA", "roles": ["pointOfContact"]}]"
 	},
 	{
 		"key": "temporal-extent-end",
@@ -225,7 +225,7 @@
 		"revision_timestamp": "2013-03-25T23:05:12.923863",
 		"is_organization": true,
 		"state": "active",
-		"image_url": "https:\/\/fortress.wa.gov\/dfw\/score\/score\/images\/noaa_logo.png",
+		"image_url": "https://fortress.wa.gov/dfw/score/score/images/noaa_logo.png",
 		"revision_id": "c6d43080-22e1-405e-a83d-f2a512d9e867",
 		"type": "organization",
 		"id": "e811f0b4-451f-4896-9e8f-fc6802837819",

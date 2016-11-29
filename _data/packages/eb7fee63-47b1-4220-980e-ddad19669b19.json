@@ -37,7 +37,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2014-09-17T14:33:01.066794",
-		"url": "http:\/\/msdis-maps.missouri.edu\/",
+		"url": "http://msdis-maps.missouri.edu/",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 0,
@@ -67,7 +67,7 @@
 		"cache_url": null,
 		"name": "XML File",
 		"created": "2014-09-17T14:33:01.066832",
-		"url": "ftp:\/\/msdis.missouri.edu\/pub\/metadata_gos\/MO_2009_March_MoDOT_Roads_Arcs_shp.xml",
+		"url": "ftp://msdis.missouri.edu/pub/metadata_gos/MO_2009_March_MoDOT_Roads_Arcs_shp.xml",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 1,
@@ -97,7 +97,7 @@
 		"cache_url": null,
 		"name": "Zip File",
 		"created": "2014-09-17T14:33:01.066849",
-		"url": "ftp:\/\/msdis.missouri.edu\/pub\/Transportation_Networks\/MO_2009_March_MoDOT_Roads_Arcs_shp.zip",
+		"url": "ftp://msdis.missouri.edu/pub/Transportation_Networks/MO_2009_March_MoDOT_Roads_Arcs_shp.zip",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 2,
@@ -117,11 +117,11 @@
 	"name": "road-and-street-centerlines-mo-2009-march-modot-roads-arcs-shp",
 	"isopen": false,
 	"url": null,
-	"notes": "The MoDOT roadway coverage is based on a Dynamic Segmentation model. Dynamic Segmentation models linear features using routes and events, associating multiple sets of attributes to any portion of a linear feature. The ARC feature class forms the basic linear infrastructure from which Dynamic Segmentation models or route-systems are built. NODES indicate the endpoints and intersections of ARCS. The 'from-node' is the first vertex of the arc; the 'to-node' is the last vertex. Together, they define the direction of the arc. Arc-node topology defines connectivity of Dynamic Segmentation models or route-systems. Route systems are built without modifying the underlying arc-node topology. A route represents a single linear feature, such as a city street or highway. Routes are linear features composed of one or more arcs or parts of an arc; for example, a highway may be composed of a number of connected arcs. A route, for Dynamic Segmentation purposes, is simply a linear feature with measure values attached to it. Each route is associated with a measurement system, a linear method consisting of a starting value and other measures along the route, which describe distance along them. The measures are used to locate data that describe parts of the route. Data along routes is modeled using events. Event data, such as accidents, signs, functional classification, pavement condition, pavement type, is based on the Dynamic Segmentation model, the foundation of which is the route system. The state system network (IS, US, MO, RT) originated from 1980-DIME data, which was later updated with 1995 TIGER files from the US Census Bureau. Currently the coverage is updated monthly utilizing design plans, GPS, aerial imagery and county\/city maps. All Census related fields have been removed, as they are not utilized nor updated by MoDOT. As of July 2007, approximately 87% of the state system network was matched to either imagery, gps or other improved data source. All Census related fields have been removed, as they are not utilized nor updated by MoDOT.",
+	"notes": "The MoDOT roadway coverage is based on a Dynamic Segmentation model. Dynamic Segmentation models linear features using routes and events, associating multiple sets of attributes to any portion of a linear feature. The ARC feature class forms the basic linear infrastructure from which Dynamic Segmentation models or route-systems are built. NODES indicate the endpoints and intersections of ARCS. The 'from-node' is the first vertex of the arc; the 'to-node' is the last vertex. Together, they define the direction of the arc. Arc-node topology defines connectivity of Dynamic Segmentation models or route-systems. Route systems are built without modifying the underlying arc-node topology. A route represents a single linear feature, such as a city street or highway. Routes are linear features composed of one or more arcs or parts of an arc; for example, a highway may be composed of a number of connected arcs. A route, for Dynamic Segmentation purposes, is simply a linear feature with measure values attached to it. Each route is associated with a measurement system, a linear method consisting of a starting value and other measures along the route, which describe distance along them. The measures are used to locate data that describe parts of the route. Data along routes is modeled using events. Event data, such as accidents, signs, functional classification, pavement condition, pavement type, is based on the Dynamic Segmentation model, the foundation of which is the route system. The state system network (IS, US, MO, RT) originated from 1980-DIME data, which was later updated with 1995 TIGER files from the US Census Bureau. Currently the coverage is updated monthly utilizing design plans, GPS, aerial imagery and county/city maps. All Census related fields have been removed, as they are not utilized nor updated by MoDOT. As of July 2007, approximately 87% of the state system network was matched to either imagery, gps or other improved data source. All Census related fields have been removed, as they are not utilized nor updated by MoDOT.",
 	"license_title": null,
 	"extras": [{
 		"key": "responsible-party",
-		"value": "[{\"name\": \"Missouri Spatial Data Information Services (MSDIS)\", \"roles\": [\"pointOfContact\"]}]"
+		"value": "[{"name": "Missouri Spatial Data Information Services (MSDIS)", "roles": ["pointOfContact"]}]"
 	},
 	{
 		"key": "contact-email",
@@ -141,7 +141,7 @@
 	},
 	{
 		"key": "dataset-reference-date",
-		"value": "[{\"type\": \"publication\", \"value\": \"2013-01-01\"}]"
+		"value": "[{"type": "publication", "value": "2013-01-01"}]"
 	},
 	{
 		"key": "resource-type",
@@ -169,7 +169,7 @@
 	},
 	{
 		"key": "licence",
-		"value": "[\"Although these data have been processed successfully on a computer system by the data steward, no warranty either expressed or implied is made regarding the utility of the data on any system, nor shall this notice generated by the Ramona GIS Inventory System or the act of distribution constitute any such warranty. The data steward may have additional liability information associated with delivery or distribution of this product.\"]"
+		"value": "["Although these data have been processed successfully on a computer system by the data steward, no warranty either expressed or implied is made regarding the utility of the data on any system, nor shall this notice generated by the Ramona GIS Inventory System or the act of distribution constitute any such warranty. The data steward may have additional liability information associated with delivery or distribution of this product."]"
 	},
 	{
 		"key": "metadata_type",
@@ -181,7 +181,7 @@
 	},
 	{
 		"key": "spatial",
-		"value": "{\"type\": \"Polygon\", \"coordinates\": [[[-95.77441406, 35.99509048], [-89.10059357, 35.99509048], [-89.10059357, 40.61402893], [-95.77441406, 40.61402893], [-95.77441406, 35.99509048]]]}"
+		"value": "{"type": "Polygon", "coordinates": [[[-95.77441406, 35.99509048], [-89.10059357, 35.99509048], [-89.10059357, 40.61402893], [-95.77441406, 40.61402893], [-95.77441406, 35.99509048]]]}"
 	},
 	{
 		"key": "guid",
@@ -193,7 +193,7 @@
 	},
 	{
 		"key": "access_constraints",
-		"value": "[\"Use Constraints: This is an incomplete metadata record and use constraints are not documented by the Ramona GIS Inventory system.\", \"Access Constraints: This is an incomplete metadata record and access constraints are not documented by the Ramona GIS Inventory system.\"]"
+		"value": "["Use Constraints: This is an incomplete metadata record and use constraints are not documented by the Ramona GIS Inventory system.", "Access Constraints: This is an incomplete metadata record and access constraints are not documented by the Ramona GIS Inventory system."]"
 	},
 	{
 		"key": "spatial_harvester",
@@ -235,7 +235,7 @@
 		"revision_timestamp": "2014-09-11T20:27:16.009304",
 		"is_organization": true,
 		"state": "active",
-		"image_url": "http:\/\/www.nsgic.org\/public_resources\/nsgic-logo-b_1321892056.gif",
+		"image_url": "http://www.nsgic.org/public_resources/nsgic-logo-b_1321892056.gif",
 		"revision_id": "979d3df0-d323-4e1e-ac62-d1623b463626",
 		"type": "organization",
 		"id": "b0b4c45b-a8ca-416b-b463-ee90d0a1a3df",

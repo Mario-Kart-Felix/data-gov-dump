@@ -37,7 +37,7 @@
 		"cache_url": null,
 		"name": "PDF File",
 		"created": "2015-09-26T17:08:06.026960",
-		"url": "ftp:\/\/ftp.nodc.noaa.gov\/pub\/outgoing\/CoRIS\/data\/nos\/ESI\/Hawaii\/ESI_DATA\/MAPS\/HI18.PDF",
+		"url": "ftp://ftp.nodc.noaa.gov/pub/outgoing/CoRIS/data/nos/ESI/Hawaii/ESI_DATA/MAPS/HI18.PDF",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 0,
@@ -67,7 +67,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2015-09-26T17:08:06.026987",
-		"url": "http:\/\/response.restoration.noaa.gov\/esi",
+		"url": "http://response.restoration.noaa.gov/esi",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 1,
@@ -97,7 +97,7 @@
 		"cache_url": null,
 		"name": "PDF File",
 		"created": "2015-09-26T17:08:06.026997",
-		"url": "http:\/\/response.restoration.noaa.gov\/book_shelf\/1171_hawaii.pdf",
+		"url": "http://response.restoration.noaa.gov/book_shelf/1171_hawaii.pdf",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 2,
@@ -127,7 +127,7 @@
 		"cache_url": null,
 		"name": "PDF File",
 		"created": "2015-09-26T17:08:06.027006",
-		"url": "http:\/\/response.restoration.noaa.gov\/book_shelf\/1186_ESI_Order_CD_Form.pdf",
+		"url": "http://response.restoration.noaa.gov/book_shelf/1186_ESI_Order_CD_Form.pdf",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 3,
@@ -149,7 +149,7 @@
 		"revision_timestamp": "2013-03-25T23:05:12.923863",
 		"is_organization": true,
 		"state": "active",
-		"image_url": "https:\/\/fortress.wa.gov\/dfw\/score\/score\/images\/noaa_logo.png",
+		"image_url": "https://fortress.wa.gov/dfw/score/score/images/noaa_logo.png",
 		"revision_id": "c6d43080-22e1-405e-a83d-f2a512d9e867",
 		"type": "organization",
 		"id": "e811f0b4-451f-4896-9e8f-fc6802837819",
@@ -164,7 +164,7 @@
 	"owner_org": "e811f0b4-451f-4896-9e8f-fc6802837819",
 	"extras": [{
 		"key": "bbox-east-long",
-		"value": "-155.875\n"
+		"value": "-155.875n"
 	},
 	{
 		"key": "resource-type",
@@ -172,7 +172,7 @@
 	},
 	{
 		"key": "bbox-north-lat",
-		"value": "19.375\n"
+		"value": "19.375n"
 	},
 	{
 		"key": "coupled-resource",
@@ -188,7 +188,7 @@
 	},
 	{
 		"key": "bbox-south-lat",
-		"value": "19.25\n"
+		"value": "19.25n"
 	},
 	{
 		"key": "spatial-reference-system",
@@ -196,7 +196,7 @@
 	},
 	{
 		"key": "spatial",
-		"value": "{\"type\": \"Polygon\", \"coordinates\": [[[-156.0, 19.25], [-155.875, 19.25], [-155.875, 19.375], [-156.0, 19.375], [-156.0, 19.25]]]}"
+		"value": "{"type": "Polygon", "coordinates": [[[-156.0, 19.25], [-155.875, 19.25], [-155.875, 19.375], [-156.0, 19.375], [-156.0, 19.25]]]}"
 	},
 	{
 		"key": "progress",
@@ -204,7 +204,7 @@
 	},
 	{
 		"key": "access_constraints",
-		"value": "[\"Use Constraints: DO NOT USE ESI MAPS FOR NAVIGATIONAL PURPOSES. Besides the above warning, there are no use constraints on these data. Note that the ESI maps should not be used to the exclusion of other pertinent data or information held by state or federal agencies or other organizations. Likewise, information contained in the maps cannot be used in place of consultations with environmental, natural resource, and cultural resource agencies, or in place of field surveys. Recognize that the information contained in the ESI maps represents known concentration areas or occurrences of natural, cultural, and human-use resources, but does not necessarily represent the full distribution or range of each species or resource. This is particularly important to recognize when considering potential impacts to protected resources, such as endangered species, wetlands, etc. Acknowledgment of the originators, publishers, contributors, and sources listed would be appreciated in products derived from these data.\", \"Access Constraints: None.\"]"
+		"value": "["Use Constraints: DO NOT USE ESI MAPS FOR NAVIGATIONAL PURPOSES. Besides the above warning, there are no use constraints on these data. Note that the ESI maps should not be used to the exclusion of other pertinent data or information held by state or federal agencies or other organizations. Likewise, information contained in the maps cannot be used in place of consultations with environmental, natural resource, and cultural resource agencies, or in place of field surveys. Recognize that the information contained in the ESI maps represents known concentration areas or occurrences of natural, cultural, and human-use resources, but does not necessarily represent the full distribution or range of each species or resource. This is particularly important to recognize when considering potential impacts to protected resources, such as endangered species, wetlands, etc. Acknowledgment of the originators, publishers, contributors, and sources listed would be appreciated in products derived from these data.", "Access Constraints: None."]"
 	},
 	{
 		"key": "temporal-extent-begin",
@@ -216,7 +216,7 @@
 	},
 	{
 		"key": "bbox-west-long",
-		"value": "-156.00\n"
+		"value": "-156.00n"
 	},
 	{
 		"key": "metadata-date",
@@ -224,7 +224,7 @@
 	},
 	{
 		"key": "dataset-reference-date",
-		"value": "[{\"type\": \"publication\", \"value\": \"2001-07-01\"}]"
+		"value": "[{"type": "publication", "value": "2001-07-01"}]"
 	},
 	{
 		"key": "frequency-of-update",
@@ -232,7 +232,7 @@
 	},
 	{
 		"key": "licence",
-		"value": "[\"NOAA makes no warranty regarding these data, expressed or implied, nor does the fact of distribution constitute such a warranty. NOAA cannot assume liability for any damages caused by any errors or omissions in these data, nor as a result of the failure of these data to function on a particular system. Although these data have been processed successfully on a computer system at the National Oceanic and Atmospheric Administration, no warranty, expressed or implied, is made by NOAA regarding the utility of the data on any other system, nor shall the act of distribution constitute any such warranty. NOAA warrants the delivery of this product in computer-readable format, and will offer a replacement copy of the product when the product is determined unreadable by computer-input peripherals, or when the physical medium is delivered in damaged condition.\\n\"]"
+		"value": "["NOAA makes no warranty regarding these data, expressed or implied, nor does the fact of distribution constitute such a warranty. NOAA cannot assume liability for any damages caused by any errors or omissions in these data, nor as a result of the failure of these data to function on a particular system. Although these data have been processed successfully on a computer system at the National Oceanic and Atmospheric Administration, no warranty, expressed or implied, is made by NOAA regarding the utility of the data on any other system, nor shall the act of distribution constitute any such warranty. NOAA warrants the delivery of this product in computer-readable format, and will offer a replacement copy of the product when the product is determined unreadable by computer-input peripherals, or when the physical medium is delivered in damaged condition.\n"]"
 	},
 	{
 		"key": "metadata_type",
@@ -240,7 +240,7 @@
 	},
 	{
 		"key": "responsible-party",
-		"value": "[{\"name\": \"National Oceanic and Atmospheric Administration (NOAA), National Ocean Service (NOS), Office of Response and Restoration (OR&R), Hazardous Materials Response Division (HAZMAT)\", \"roles\": [\"pointOfContact\"]}]"
+		"value": "[{"name": "National Oceanic and Atmospheric Administration (NOAA), National Ocean Service (NOS), Office of Response and Restoration (OR&R), Hazardous Materials Response Division (HAZMAT)", "roles": ["pointOfContact"]}]"
 	},
 	{
 		"key": "temporal-extent-end",
@@ -256,7 +256,7 @@
 	},
 	{
 		"key": "tags",
-		"value": "pinnipeds, pacific ocean, hydrography, coral reef conservation, marine birds, country\/territory, united states of america, hawaiian islands, reef habitat, marine reptiles, zoology, coastal resources, esi atlas, earth science, marine invertebrates, sensitivity maps, cetaceans, marine mammals, habitat mapping, environmental sensitivity index, hawaii island (19n155w0003), benthic habitat, coastal zone management, coastal habitat, aquatic habitat, esi, hawaii island, fish, esi maps, oceans, mapping, bathymetry\/seafloor topography, environmental monitoring, central pacific ocean, ocean basin, bathymetry, formats of products, natural hazards assessment, marine biology, wildlife, document, turtles, biosphere, oil and chemical spills, oil spill planning, hawaii, corals, pdf",
+		"value": "pinnipeds, pacific ocean, hydrography, coral reef conservation, marine birds, country/territory, united states of america, hawaiian islands, reef habitat, marine reptiles, zoology, coastal resources, esi atlas, earth science, marine invertebrates, sensitivity maps, cetaceans, marine mammals, habitat mapping, environmental sensitivity index, hawaii island (19n155w0003), benthic habitat, coastal zone management, coastal habitat, aquatic habitat, esi, hawaii island, fish, esi maps, oceans, mapping, bathymetry/seafloor topography, environmental monitoring, central pacific ocean, ocean basin, bathymetry, formats of products, natural hazards assessment, marine biology, wildlife, document, turtles, biosphere, oil and chemical spills, oil spill planning, hawaii, corals, pdf",
 		"__extras": {
 			"revision_id": "6b80c690-dc5d-4f41-bf0b-c1ab0d81aea7",
 			"package_id": "7906b581-4786-4e87-b5ba-fc33fd1eaad5"

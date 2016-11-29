@@ -36,7 +36,7 @@
 		"cache_url": null,
 		"name": "ArcGIS shapefile",
 		"created": "2016-02-03T01:12:09.216571",
-		"url": "http:\/\/coastal.er.usgs.gov\/data-release\/doi-F7XS5SGM\/data\/shapefiles\/shorelines.zip",
+		"url": "http://coastal.er.usgs.gov/data-release/doi-F7XS5SGM/data/shapefiles/shorelines.zip",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 0,
@@ -66,7 +66,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2016-02-03T01:12:09.216596",
-		"url": "http:\/\/coastal.er.usgs.gov\/data-release\/doi-F7XS5SGM\/",
+		"url": "http://coastal.er.usgs.gov/data-release/doi-F7XS5SGM/",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 1,
@@ -96,7 +96,7 @@
 		"cache_url": null,
 		"name": "PDF File",
 		"created": "2016-02-03T01:12:09.216605",
-		"url": "http:\/\/lacoast.gov\/reports\/project\/3890772~1.pdf",
+		"url": "http://lacoast.gov/reports/project/3890772~1.pdf",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 2,
@@ -126,7 +126,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2016-02-03T01:12:09.216613",
-		"url": "http:\/\/pubs.usgs.gov\/ds\/465\/index.html",
+		"url": "http://pubs.usgs.gov/ds/465/index.html",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 3,
@@ -156,7 +156,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2016-02-03T01:12:09.216620",
-		"url": "http:\/\/pubs.usgs.gov\/of\/2004\/1043\/",
+		"url": "http://pubs.usgs.gov/of/2004/1043/",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 4,
@@ -176,7 +176,7 @@
 	"name": "2001-vectorized-shoreline-for-breton-island-louisiana-geographic-nad83",
 	"isopen": false,
 	"url": null,
-	"notes": "A first-surface elevation map was produced cooperatively from remotely sensed, geographically referenced elevation measurements collected by the U.S. Geological Survey (USGS) and National Aeronautics and Space Administration (NASA) on September 07-09, 2001. Elevation measurements were collected over the area using the NASA Airborne Topographic Mapper (ATM), a scanning lidar system that measures high-resolution topography of the land surface. The ATM system is deployed on a Twin Otter or P-3 Orion aircraft and incorporates a green-wavelength laser operating at pulse rates of 2 to 10 kilohertz. Measurements from the laser-ranging device are coupled with data acquired from inertial navigation system (INS) attitude sensors and differentially corrected global positioning system (GPS) receivers to measure topography of the surface at accuracies of +\/-15 centimeters. This dataset contains vectorized shorelines created from data acquired from Breton Island, Louisiana. Shorelines were vectorized in ArcMap 10.2.2 so they could be used for area and shoreline change analysis, using the Digital Shoreline Analysis System (DSAS) Version 4.0.",
+	"notes": "A first-surface elevation map was produced cooperatively from remotely sensed, geographically referenced elevation measurements collected by the U.S. Geological Survey (USGS) and National Aeronautics and Space Administration (NASA) on September 07-09, 2001. Elevation measurements were collected over the area using the NASA Airborne Topographic Mapper (ATM), a scanning lidar system that measures high-resolution topography of the land surface. The ATM system is deployed on a Twin Otter or P-3 Orion aircraft and incorporates a green-wavelength laser operating at pulse rates of 2 to 10 kilohertz. Measurements from the laser-ranging device are coupled with data acquired from inertial navigation system (INS) attitude sensors and differentially corrected global positioning system (GPS) receivers to measure topography of the surface at accuracies of +/-15 centimeters. This dataset contains vectorized shorelines created from data acquired from Breton Island, Louisiana. Shorelines were vectorized in ArcMap 10.2.2 so they could be used for area and shoreline change analysis, using the Digital Shoreline Analysis System (DSAS) Version 4.0.",
 	"license_title": null,
 	"extras": [{
 		"key": "bbox-east-long",
@@ -212,7 +212,7 @@
 	},
 	{
 		"key": "spatial",
-		"value": "{\"type\": \"Polygon\", \"coordinates\": [[[-89.181277, 29.478429], [-89.168168, 29.478429], [-89.168168, 29.497321], [-89.181277, 29.497321], [-89.181277, 29.478429]]]}"
+		"value": "{"type": "Polygon", "coordinates": [[[-89.181277, 29.478429], [-89.168168, 29.478429], [-89.168168, 29.497321], [-89.181277, 29.497321], [-89.181277, 29.478429]]]}"
 	},
 	{
 		"key": "progress",
@@ -220,7 +220,7 @@
 	},
 	{
 		"key": "access_constraints",
-		"value": "[\"Use Constraints: The U.S. Geological Survey requests to be acknowledged as originator of the data in future products or derivative research.\", \"Access Constraints: None\"]"
+		"value": "["Use Constraints: The U.S. Geological Survey requests to be acknowledged as originator of the data in future products or derivative research.", "Access Constraints: None"]"
 	},
 	{
 		"key": "temporal-extent-begin",
@@ -240,7 +240,7 @@
 	},
 	{
 		"key": "dataset-reference-date",
-		"value": "[{\"type\": \"publication\", \"value\": \"2016-01-25\"}]"
+		"value": "[{"type": "publication", "value": "2016-01-25"}]"
 	},
 	{
 		"key": "frequency-of-update",
@@ -248,7 +248,7 @@
 	},
 	{
 		"key": "licence",
-		"value": "[\"This digital publication was prepared by an agency of the United States Government. Although these data have been processed successfully on a computer system at the U.S. Geological Survey, no warranty expressed or implied is made regarding the display or utility of the data on any other system, nor shall the act of distribution imply any such warranty. The U.S. Geological Survey shall not be held liable for improper or incorrect use of the data described and (or) contained herein. Reference herein to any specific commercial product, process, or service by trade name, trademark, manufacturer, or otherwise does not constitute or imply its endorsement, recommendation, or favoring by the United States Government or any agency thereof.\"]"
+		"value": "["This digital publication was prepared by an agency of the United States Government. Although these data have been processed successfully on a computer system at the U.S. Geological Survey, no warranty expressed or implied is made regarding the display or utility of the data on any other system, nor shall the act of distribution imply any such warranty. The U.S. Geological Survey shall not be held liable for improper or incorrect use of the data described and (or) contained herein. Reference herein to any specific commercial product, process, or service by trade name, trademark, manufacturer, or otherwise does not constitute or imply its endorsement, recommendation, or favoring by the United States Government or any agency thereof."]"
 	},
 	{
 		"key": "metadata_type",
@@ -256,7 +256,7 @@
 	},
 	{
 		"key": "responsible-party",
-		"value": "[{\"name\": \"U.S. Geological Survey\", \"roles\": [\"pointOfContact\"]}]"
+		"value": "[{"name": "U.S. Geological Survey", "roles": ["pointOfContact"]}]"
 	},
 	{
 		"key": "temporal-extent-end",
@@ -295,14 +295,14 @@
 		"value": "USGS Coastal and Marine Geoscience Data System"
 	}],
 	"organization": {
-		"description": "http:\/\/www.usgs.gov\/\r\nThe USGS is a federal science agency that provides impartial information on the health of our ecosystems and environment, the natural hazards that threaten us, the natural resources we rely on, the impacts of climate and land-use change, and the core science systems that help us provide timely, relevant, and useable information.",
+		"description": "http://www.usgs.gov/rnThe USGS is a federal science agency that provides impartial information on the health of our ecosystems and environment, the natural hazards that threaten us, the natural resources we rely on, the impacts of climate and land-use change, and the core science systems that help us provide timely, relevant, and useable information.",
 		"created": "2013-03-14T03:44:38.263357",
 		"title": "U.S. Geological Survey, Department of the Interior",
 		"name": "usgs-gov",
 		"revision_timestamp": "2014-09-02T13:43:52.167023",
 		"is_organization": true,
 		"state": "active",
-		"image_url": "http:\/\/pubs.usgs.gov\/sir\/2004\/5296\/04-5296_confluence_park\/usgs_logo.gif",
+		"image_url": "http://pubs.usgs.gov/sir/2004/5296/04-5296_confluence_park/usgs_logo.gif",
 		"revision_id": "2858aa99-9501-4f96-82e5-9647b968ed66",
 		"type": "organization",
 		"id": "bd2cdd5a-4d65-46c0-9937-c8381175f104",

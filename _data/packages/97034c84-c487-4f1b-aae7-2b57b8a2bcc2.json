@@ -36,7 +36,7 @@
 		"cache_url": null,
 		"name": "Export",
 		"created": "2014-11-17T16:13:56.264226",
-		"url": "http:\/\/water.usgs.gov\/GIS\/dsdl\/ut_beaver.e00",
+		"url": "http://water.usgs.gov/GIS/dsdl/ut_beaver.e00",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 0,
@@ -65,7 +65,7 @@
 		"cache_url": null,
 		"name": "SDTS",
 		"created": "2014-11-17T16:13:56.264247",
-		"url": "http:\/\/water.usgs.gov\/GIS\/dsdl\/ut_beaver.tgz",
+		"url": "http://water.usgs.gov/GIS/dsdl/ut_beaver.tgz",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 1,
@@ -95,7 +95,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2014-11-17T16:13:56.264255",
-		"url": "http:\/\/water.usgs.gov\/lookup\/getspatial?ut_beaver",
+		"url": "http://water.usgs.gov/lookup/getspatial?ut_beaver",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 2,
@@ -125,7 +125,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2014-11-17T16:13:56.264262",
-		"url": "http:\/\/water.usgs.gov",
+		"url": "http://water.usgs.gov",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 3,
@@ -140,14 +140,14 @@
 	},
 	"groups": [],
 	"organization": {
-		"description": "http:\/\/www.usgs.gov\/\r\nThe USGS is a federal science agency that provides impartial information on the health of our ecosystems and environment, the natural hazards that threaten us, the natural resources we rely on, the impacts of climate and land-use change, and the core science systems that help us provide timely, relevant, and useable information.",
+		"description": "http://www.usgs.gov/rnThe USGS is a federal science agency that provides impartial information on the health of our ecosystems and environment, the natural hazards that threaten us, the natural resources we rely on, the impacts of climate and land-use change, and the core science systems that help us provide timely, relevant, and useable information.",
 		"title": "U.S. Geological Survey, Department of the Interior",
 		"created": "2013-03-14T03:44:38.263357",
 		"approval_status": "approved",
 		"revision_timestamp": "2014-09-02T13:43:52.167023",
 		"is_organization": true,
 		"state": "active",
-		"image_url": "http:\/\/pubs.usgs.gov\/sir\/2004\/5296\/04-5296_confluence_park\/usgs_logo.gif",
+		"image_url": "http://pubs.usgs.gov/sir/2004/5296/04-5296_confluence_park/usgs_logo.gif",
 		"revision_id": "2858aa99-9501-4f96-82e5-9647b968ed66",
 		"type": "organization",
 		"id": "bd2cdd5a-4d65-46c0-9937-c8381175f104",
@@ -158,11 +158,11 @@
 	"name": "hydrologic-data-sites-for-beaver-county-utah",
 	"isopen": false,
 	"url": null,
-	"notes": "This map shows the USGS (United States Geologic Survey), NWIS (National Water Inventory System) Hydrologic Data Sites for Beaver County, Utah. The scope and purpose of NWIS is defined on the web site: http:\/\/water.usgs.gov\/public\/pubs\/FS\/FS-027-98\/",
+	"notes": "This map shows the USGS (United States Geologic Survey), NWIS (National Water Inventory System) Hydrologic Data Sites for Beaver County, Utah. The scope and purpose of NWIS is defined on the web site: http://water.usgs.gov/public/pubs/FS/FS-027-98/",
 	"owner_org": "bd2cdd5a-4d65-46c0-9937-c8381175f104",
 	"extras": [{
 		"key": "responsible-party",
-		"value": "[{\"name\": \"U.S. Geological Survey\", \"roles\": [\"pointOfContact\"]}]"
+		"value": "[{"name": "U.S. Geological Survey", "roles": ["pointOfContact"]}]"
 	},
 	{
 		"key": "contact-email",
@@ -182,7 +182,7 @@
 	},
 	{
 		"key": "dataset-reference-date",
-		"value": "[{\"type\": \"publication\", \"value\": \"2000-03-01\"}]"
+		"value": "[{"type": "publication", "value": "2000-03-01"}]"
 	},
 	{
 		"key": "resource-type",
@@ -210,7 +210,7 @@
 	},
 	{
 		"key": "licence",
-		"value": "[\"Although this data set has been used by the U.S. Geological\\nSurvey, U.S. Department of the Interior, no warranty expressed or\\nimplied is made by the U.S. Geological Survey as to the accuracy\\nof the data and related materials. The act of distribution shall not \\nconstitute any such warranty, and no responsibility is assumed by \\nthe U.S. Geological Survey in the use of this data, software, or \\nrelated materials.\\n\\nAny use of trade, product, or firm names is for descriptive\\npurposes only and does not imply endorsement by the U.S.\\nGovernment.\"]"
+		"value": "["Although this data set has been used by the U.S. Geological\nSurvey, U.S. Department of the Interior, no warranty expressed or\nimplied is made by the U.S. Geological Survey as to the accuracy\nof the data and related materials. The act of distribution shall not \nconstitute any such warranty, and no responsibility is assumed by \nthe U.S. Geological Survey in the use of this data, software, or \nrelated materials.\n\nAny use of trade, product, or firm names is for descriptive\npurposes only and does not imply endorsement by the U.S.\nGovernment."]"
 	},
 	{
 		"key": "metadata_type",
@@ -222,7 +222,7 @@
 	},
 	{
 		"key": "spatial",
-		"value": "{\"type\": \"Polygon\", \"coordinates\": [[[-113.97265625, 38.13152313], [-112.38139343, 38.13152313], [-112.38139343, 38.59094238], [-113.97265625, 38.59094238], [-113.97265625, 38.13152313]]]}"
+		"value": "{"type": "Polygon", "coordinates": [[[-113.97265625, 38.13152313], [-112.38139343, 38.13152313], [-112.38139343, 38.59094238], [-113.97265625, 38.59094238], [-113.97265625, 38.13152313]]]}"
 	},
 	{
 		"key": "guid",
@@ -234,7 +234,7 @@
 	},
 	{
 		"key": "access_constraints",
-		"value": "[\"Use Constraints: This map coverage is to be used to determine NWIS hydrologic data site locations in Beaver County, Utah. ACCURACY of the location of an hydrologic data site, altitude, well depth, hole depth, and etc. VARIES AND IS NOT INCLUDED HEREIN.\", \"Access Constraints: none\"]"
+		"value": "["Use Constraints: This map coverage is to be used to determine NWIS hydrologic data site locations in Beaver County, Utah. ACCURACY of the location of an hydrologic data site, altitude, well depth, hole depth, and etc. VARIES AND IS NOT INCLUDED HEREIN.", "Access Constraints: none"]"
 	},
 	{
 		"key": "spatial_harvester",

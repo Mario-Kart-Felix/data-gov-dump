@@ -36,7 +36,7 @@
 		"cache_url": null,
 		"name": "Cartographic Boundary Shapefiles - Places (Incorporated Places and Census Designated Places)",
 		"created": "2015-06-19T10:46:07.081744",
-		"url": "http:\/\/www.census.gov\/geo\/maps-data\/data\/cbf\/cbf_place.html",
+		"url": "http://www.census.gov/geo/maps-data/data/cbf/cbf_place.html",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 0,
@@ -56,7 +56,7 @@
 	"name": "series-information-file-for-the-2014-cartographic-boundary-file-state-place-1-500000",
 	"isopen": false,
 	"url": null,
-	"notes": "The 2014 cartographic boundary shapefiles are simplified representations of selected geographic areas from the U.S. Census Bureau's Master Address File \/ Topologically Integrated Geographic Encoding and Referencing (MAF\/TIGER) Database (MTDB). These boundary files are specifically designed for small-scale thematic mapping. When possible, generalization is performed with the intent to maintain the hierarchical relationships among geographies and to maintain the alignment of geographies within a file set for a given year. Geographic areas may not align with the same areas from another year. Some geographies are available as nation-based files while others are available only as state-based files.\n\nThe Cartographic boundary shapefiles include both incorporated places (legal entities) and census designated places or CDPs (statistical entities).  An incorporated place is established to provide governmental functions for a concentration of people as opposed to a minor civil division (MCD), which generally is created to provide services or administer an area without regard, necessarily, to population.  Places always nest within a state, but may extend across county and county subdivision boundaries.  An incorporated place usually is a city, town, village, or borough, but can have other legal descriptions.  CDPs are delineated for the decennial census as the statistical counterparts of incorporated places.  CDPs are delineated to provide data for settled concentrations of population that are identifiable by name, but are not legally incorporated under the laws of the state in which they are located.  The boundaries for CDPs often are defined in partnership with state, local, and\/or tribal officials and usually coincide with visible features or the boundary of an adjacent incorporated place or another legal entity.  CDP boundaries often change from one decennial census to the next with changes in the settlement pattern and development; a CDP with the same name as in an earlier census does not necessarily have the same boundary.  The only population\/housing size requirement for CDPs is that they must contain some housing and population.",
+	"notes": "The 2014 cartographic boundary shapefiles are simplified representations of selected geographic areas from the U.S. Census Bureau's Master Address File / Topologically Integrated Geographic Encoding and Referencing (MAF/TIGER) Database (MTDB). These boundary files are specifically designed for small-scale thematic mapping. When possible, generalization is performed with the intent to maintain the hierarchical relationships among geographies and to maintain the alignment of geographies within a file set for a given year. Geographic areas may not align with the same areas from another year. Some geographies are available as nation-based files while others are available only as state-based files.nnThe Cartographic boundary shapefiles include both incorporated places (legal entities) and census designated places or CDPs (statistical entities).  An incorporated place is established to provide governmental functions for a concentration of people as opposed to a minor civil division (MCD), which generally is created to provide services or administer an area without regard, necessarily, to population.  Places always nest within a state, but may extend across county and county subdivision boundaries.  An incorporated place usually is a city, town, village, or borough, but can have other legal descriptions.  CDPs are delineated for the decennial census as the statistical counterparts of incorporated places.  CDPs are delineated to provide data for settled concentrations of population that are identifiable by name, but are not legally incorporated under the laws of the state in which they are located.  The boundaries for CDPs often are defined in partnership with state, local, and/or tribal officials and usually coincide with visible features or the boundary of an adjacent incorporated place or another legal entity.  CDP boundaries often change from one decennial census to the next with changes in the settlement pattern and development; a CDP with the same name as in an earlier census does not necessarily have the same boundary.  The only population/housing size requirement for CDPs is that they must contain some housing and population.",
 	"license_title": null,
 	"extras": [{
 		"key": "bbox-east-long",
@@ -80,7 +80,7 @@
 	},
 	{
 		"key": "dataset-reference-date",
-		"value": "[{\"type\": \"publication\", \"value\": \"201505\"}]"
+		"value": "[{"type": "publication", "value": "201505"}]"
 	},
 	{
 		"key": "resource-type",
@@ -120,7 +120,7 @@
 	},
 	{
 		"key": "spatial",
-		"value": "{\"type\": \"Polygon\", \"coordinates\": [[[-179.231086, -14.601813], [179.859681, -14.601813], [179.859681, 71.441059], [-179.231086, 71.441059], [-179.231086, -14.601813]]]}"
+		"value": "{"type": "Polygon", "coordinates": [[[-179.231086, -14.601813], [179.859681, -14.601813], [179.859681, 71.441059], [-179.231086, 71.441059], [-179.231086, -14.601813]]]}"
 	},
 	{
 		"key": "guid",
@@ -132,7 +132,7 @@
 	},
 	{
 		"key": "access_constraints",
-		"value": "[\" Access Constraints: None\", \" Use Constraints:The intended display scale for this file is 1:500,000.  This file should not be displayed at scales larger than 1:500,000.\\n\\nThese products are free to use in a product or publication, however acknowledgement must be given to the U.S. Census Bureau as the source.  The boundary information is for visual display at appropriate small scales only.  Cartographic boundary files should not be used for geographic analysis including area or perimeter calculation.  Files should not be used for geocoding addresses.  Files should not be used for determining precise geographic area relationships.\\n\"]"
+		"value": "[" Access Constraints: None", " Use Constraints:The intended display scale for this file is 1:500,000.  This file should not be displayed at scales larger than 1:500,000.\n\nThese products are free to use in a product or publication, however acknowledgement must be given to the U.S. Census Bureau as the source.  The boundary information is for visual display at appropriate small scales only.  Cartographic boundary files should not be used for geographic analysis including area or perimeter calculation.  Files should not be used for geocoding addresses.  Files should not be used for determining precise geographic area relationships.\n"]"
 	},
 	{
 		"key": "spatial_harvester",
@@ -174,7 +174,7 @@
 		"revision_timestamp": "2013-08-29T13:37:04.171127",
 		"is_organization": true,
 		"state": "active",
-		"image_url": "http:\/\/www.census.gov\/main\/img\/home\/CensusLogo-white.png",
+		"image_url": "http://www.census.gov/main/img/home/CensusLogo-white.png",
 		"revision_id": "0995f525-d563-4254-a535-af5b926fe663",
 		"type": "organization",
 		"id": "31c49abe-512a-412a-9cc7-5b2601325d6b",

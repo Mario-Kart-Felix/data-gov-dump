@@ -37,7 +37,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2016-10-14T14:28:48.346870",
-		"url": "http:\/\/www.epa.gov\/nheerl\/arm\/",
+		"url": "http://www.epa.gov/nheerl/arm/",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 0,
@@ -67,7 +67,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2016-10-14T14:28:48.346910",
-		"url": "http:\/\/edg.epa.gov",
+		"url": "http://edg.epa.gov",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 1,
@@ -87,7 +87,7 @@
 	"name": "the-streamcat-dataset-accumulated-attributes-for-nhdplusv2-version-2-1-catchments-for-the-conte",
 	"isopen": false,
 	"url": null,
-	"notes": "This dataset represents geochemical or geophysical attributes in surface or near surface geology within individual, local NHDPlusV2 catchments and upstream, contributing watersheds. Attributes of the landscape layer were calculated for every local NHDPlusV2 catchment and accumulated to provide watershed-level metrics. (See Supplementary Info for Glossary of Terms) For information regarding how the Landscape layers were created see https:\/\/www.sciencebase.gov\/catalog\/item\/53481333e4b06f6ce034aae7. Landscape Layers are partitioned into 4 tables based on the location of no-data cells within their rasters to correctly reflect the PctFull attributes within each table (see Data Structure and Attribute Information for a description).",
+	"notes": "This dataset represents geochemical or geophysical attributes in surface or near surface geology within individual, local NHDPlusV2 catchments and upstream, contributing watersheds. Attributes of the landscape layer were calculated for every local NHDPlusV2 catchment and accumulated to provide watershed-level metrics. (See Supplementary Info for Glossary of Terms) For information regarding how the Landscape layers were created see https://www.sciencebase.gov/catalog/item/53481333e4b06f6ce034aae7. Landscape Layers are partitioned into 4 tables based on the location of no-data cells within their rasters to correctly reflect the PctFull attributes within each table (see Data Structure and Attribute Information for a description).",
 	"license_title": null,
 	"extras": [{
 		"key": "bbox-east-long",
@@ -123,7 +123,7 @@
 	},
 	{
 		"key": "spatial",
-		"value": "{\"type\": \"Polygon\", \"coordinates\": [[[-125.0, 24.5], [-66.5, 24.5], [-66.5, 49.5], [-125.0, 49.5], [-125.0, 24.5]]]}"
+		"value": "{"type": "Polygon", "coordinates": [[[-125.0, 24.5], [-66.5, 24.5], [-66.5, 49.5], [-125.0, 49.5], [-125.0, 24.5]]]}"
 	},
 	{
 		"key": "progress",
@@ -131,11 +131,11 @@
 	},
 	{
 		"key": "access_constraints",
-		"value": "[\"Use Constraints: None. While EPA has used its best efforts to include complete and accurate information in the EME, EPA cannot be held responsible for errors or omissions and is not liable for any direct, indirect or consequential damages resulting from using this information. Reliance on the information contained in this system by any party cannot be used as a defense in any administrative or judicial proceeding. In such proceedings, the specific language of the relevant regulation or statute is binding. Acknowledgement of the EPA would be appreciated.\", \"Access Constraints: None.\"]"
+		"value": "["Use Constraints: None. While EPA has used its best efforts to include complete and accurate information in the EME, EPA cannot be held responsible for errors or omissions and is not liable for any direct, indirect or consequential damages resulting from using this information. Reliance on the information contained in this system by any party cannot be used as a defense in any administrative or judicial proceeding. In such proceedings, the specific language of the relevant regulation or statute is binding. Acknowledgement of the EPA would be appreciated.", "Access Constraints: None."]"
 	},
 	{
 		"key": "licence_url",
-		"value": "https:\/\/edg.epa.gov\/EPA_Data_License.html"
+		"value": "https://edg.epa.gov/EPA_Data_License.html"
 	},
 	{
 		"key": "contact-email",
@@ -151,7 +151,7 @@
 	},
 	{
 		"key": "dataset-reference-date",
-		"value": "[{\"type\": \"publication\", \"value\": \"2015-01-01\"}]"
+		"value": "[{"type": "publication", "value": "2015-01-01"}]"
 	},
 	{
 		"key": "frequency-of-update",
@@ -159,7 +159,7 @@
 	},
 	{
 		"key": "licence",
-		"value": "[\"https:\/\/edg.epa.gov\/EPA_Data_License.html\"]"
+		"value": "["https://edg.epa.gov/EPA_Data_License.html"]"
 	},
 	{
 		"key": "metadata_type",
@@ -167,7 +167,7 @@
 	},
 	{
 		"key": "responsible-party",
-		"value": "[{\"name\": \"US Environmental Protection Agency, Office of Research and Development, National Health and Environmental Effects Research Laboratory (NHEERL)\", \"roles\": [\"pointOfContact\"]}]"
+		"value": "[{"name": "US Environmental Protection Agency, Office of Research and Development, National Health and Environmental Effects Research Laboratory (NHEERL)", "roles": ["pointOfContact"]}]"
 	},
 	{
 		"key": "spatial-data-service-type",
@@ -209,7 +209,7 @@
 		"revision_timestamp": "2014-01-16T18:58:42.895981",
 		"is_organization": true,
 		"state": "active",
-		"image_url": "http:\/\/edg.epa.gov\/EPALogo.svg",
+		"image_url": "http://edg.epa.gov/EPALogo.svg",
 		"revision_id": "f0e4b475-7424-4ce0-9a22-412e7e595154",
 		"type": "organization",
 		"id": "6d90e48d-3076-4327-b2f4-c33919f374d5",

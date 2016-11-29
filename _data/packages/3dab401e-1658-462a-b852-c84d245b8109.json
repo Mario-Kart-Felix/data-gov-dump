@@ -37,7 +37,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2015-09-26T21:48:26.234582",
-		"url": "ftp:\/\/ftp.cpc.ncep.noaa.gov\/precip\/global_full_res_IR",
+		"url": "ftp://ftp.cpc.ncep.noaa.gov/precip/global_full_res_IR",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 0,
@@ -67,7 +67,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2015-09-26T21:48:26.234618",
-		"url": "ftp:\/\/ftp.cpc.ncep.noaa.gov\/precip\/global_full_res_IR",
+		"url": "ftp://ftp.cpc.ncep.noaa.gov/precip/global_full_res_IR",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 1,
@@ -97,7 +97,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2015-09-26T21:48:26.234627",
-		"url": "http:\/\/www.cpc.ncep.noaa.gov\/",
+		"url": "http://www.cpc.ncep.noaa.gov/",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 2,
@@ -145,7 +145,7 @@
 	},
 	{
 		"key": "graphic-preview-file",
-		"value": "http:\/\/www.cpc.ncep.noaa.gov\/products\/global_precip\/gif\/global_27.gif"
+		"value": "http://www.cpc.ncep.noaa.gov/products/global_precip/gif/global_27.gif"
 	},
 	{
 		"key": "metadata-language",
@@ -161,7 +161,7 @@
 	},
 	{
 		"key": "spatial",
-		"value": "{\"type\": \"Polygon\", \"coordinates\": [[[-179.9818, -59.982], [179.9818, -59.982], [179.9818, 59.982], [-179.9818, 59.982], [-179.9818, -59.982]]]}"
+		"value": "{"type": "Polygon", "coordinates": [[[-179.9818, -59.982], [179.9818, -59.982], [179.9818, 59.982], [-179.9818, 59.982], [-179.9818, -59.982]]]}"
 	},
 	{
 		"key": "progress",
@@ -169,7 +169,7 @@
 	},
 	{
 		"key": "access_constraints",
-		"value": "[\"Access Constraints: None Use Constraints: Acknowledgment of the Data Originator when using the data item as a source. Distribution Liability: Refer the NOAA National Weather Service disclaimerhttp:\/\/www.weather.gov\/disclaimer.php\"]"
+		"value": "["Access Constraints: None Use Constraints: Acknowledgment of the Data Originator when using the data item as a source. Distribution Liability: Refer the NOAA National Weather Service disclaimerhttp://www.weather.gov/disclaimer.php"]"
 	},
 	{
 		"key": "temporal-extent-begin",
@@ -189,7 +189,7 @@
 	},
 	{
 		"key": "dataset-reference-date",
-		"value": "[{\"type\": \"publication\", \"value\": \"1998-11-05\"}]"
+		"value": "[{"type": "publication", "value": "1998-11-05"}]"
 	},
 	{
 		"key": "graphic-preview-description",
@@ -209,7 +209,7 @@
 	},
 	{
 		"key": "responsible-party",
-		"value": "[{\"name\": \"Climate Prediction Center, NOAA\", \"roles\": [\"pointOfContact\"]}]"
+		"value": "[{"name": "Climate Prediction Center, NOAA", "roles": ["pointOfContact"]}]"
 	},
 	{
 		"key": "temporal-extent-end",
@@ -225,7 +225,7 @@
 	},
 	{
 		"package_id": "3dab401e-1658-462a-b852-c84d245b8109",
-		"value": "brightness temperature, spectral\/engineering, infrared wavelengths, vertical location, global, infrared, climatologymeteorologyatmosphere, geographic region, boundary layer, precipitation, earth science",
+		"value": "brightness temperature, spectral/engineering, infrared wavelengths, vertical location, global, infrared, climatologymeteorologyatmosphere, geographic region, boundary layer, precipitation, earth science",
 		"revision_timestamp": "2015-09-27T01:48:26.179898",
 		"state": "active",
 		"key": "tags",
@@ -255,7 +255,7 @@
 		"revision_timestamp": "2013-03-25T23:05:12.923863",
 		"is_organization": true,
 		"state": "active",
-		"image_url": "https:\/\/fortress.wa.gov\/dfw\/score\/score\/images\/noaa_logo.png",
+		"image_url": "https://fortress.wa.gov/dfw/score/score/images/noaa_logo.png",
 		"revision_id": "c6d43080-22e1-405e-a83d-f2a512d9e867",
 		"type": "organization",
 		"id": "e811f0b4-451f-4896-9e8f-fc6802837819",

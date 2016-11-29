@@ -36,7 +36,7 @@
 		"cache_url": null,
 		"name": "Shapefile",
 		"created": "2016-06-15T04:16:46.695508",
-		"url": "http:\/\/mrdata.usgs.gov\/geochem\/ngs.zip",
+		"url": "http://mrdata.usgs.gov/geochem/ngs.zip",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 0,
@@ -65,7 +65,7 @@
 		"cache_url": null,
 		"name": "CSV",
 		"created": "2016-06-15T04:16:46.695533",
-		"url": "http:\/\/mrdata.usgs.gov\/geochem\/geochem.zip",
+		"url": "http://mrdata.usgs.gov/geochem/geochem.zip",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 1,
@@ -94,7 +94,7 @@
 		"cache_url": null,
 		"name": "OGC WMS",
 		"created": "2016-06-15T04:16:46.695543",
-		"url": "http:\/\/mrdata.usgs.gov\/services\/ngs?request=getcapabilities&service=WMS&version=1.0.0&",
+		"url": "http://mrdata.usgs.gov/services/ngs?request=getcapabilities&service=WMS&version=1.0.0&",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 2,
@@ -123,7 +123,7 @@
 		"cache_url": null,
 		"name": "OGC WFS",
 		"created": "2016-06-15T04:16:46.695551",
-		"url": "http:\/\/mrdata.usgs.gov\/wfs\/ngs?request=getcapabilities&service=WFS&version=1.0.0&",
+		"url": "http://mrdata.usgs.gov/wfs/ngs?request=getcapabilities&service=WFS&version=1.0.0&",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 3,
@@ -153,7 +153,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2016-06-15T04:16:46.695558",
-		"url": "http:\/\/mrdata.usgs.gov\/geochem\/",
+		"url": "http://mrdata.usgs.gov/geochem/",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 4,
@@ -183,7 +183,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2016-06-15T04:16:46.695580",
-		"url": "http:\/\/minerals.usgs.gov\/news\/newsletter\/v2n1\/2geochem.html",
+		"url": "http://minerals.usgs.gov/news/newsletter/v2n1/2geochem.html",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 5,
@@ -231,7 +231,7 @@
 	},
 	{
 		"key": "graphic-preview-file",
-		"value": "http:\/\/mrdata.usgs.gov\/geochem\/doc\/statusmaps\/sample-types-09-08.jpg"
+		"value": "http://mrdata.usgs.gov/geochem/doc/statusmaps/sample-types-09-08.jpg"
 	},
 	{
 		"key": "metadata-language",
@@ -247,7 +247,7 @@
 	},
 	{
 		"key": "spatial",
-		"value": "{\"type\": \"Polygon\", \"coordinates\": [[[-178.76335, 6.9065], [158.2575, 6.9065], [158.2575, 71.3183], [-178.76335, 71.3183], [-178.76335, 6.9065]]]}"
+		"value": "{"type": "Polygon", "coordinates": [[[-178.76335, 6.9065], [158.2575, 6.9065], [158.2575, 71.3183], [-178.76335, 71.3183], [-178.76335, 6.9065]]]}"
 	},
 	{
 		"key": "progress",
@@ -255,7 +255,7 @@
 	},
 	{
 		"key": "access_constraints",
-		"value": "[\"Use Constraints: Mercury is a difficult element for which to obtain accurate analyses. Samples can easily be contaminated with Hg during handling, storage, and preparation for analysis. Mercury can also be lost from samples during the drying process or while in storage. Recently collected samples were handled and stored in a manner that should result in few such problems. However, many Hg data in the NGS are based on reanalyses of archival samples, e.g., NURE samples, that were neither collected using protocols appropriate for Hg analysis, nor stored under conditions that would necessarily preserve the original Hg concentrations. Some NURE samples in the eastern US were very likely contaminated by Hg at some point after collection (e.g., all samples from Allegany County, Maryland). At the present time, it is not known which archival samples may have been contaminated with Hg in the laboratory, and thus extreme caution should be exercised in interpreting NGS data.\", \"Access Constraints: none\"]"
+		"value": "["Use Constraints: Mercury is a difficult element for which to obtain accurate analyses. Samples can easily be contaminated with Hg during handling, storage, and preparation for analysis. Mercury can also be lost from samples during the drying process or while in storage. Recently collected samples were handled and stored in a manner that should result in few such problems. However, many Hg data in the NGS are based on reanalyses of archival samples, e.g., NURE samples, that were neither collected using protocols appropriate for Hg analysis, nor stored under conditions that would necessarily preserve the original Hg concentrations. Some NURE samples in the eastern US were very likely contaminated by Hg at some point after collection (e.g., all samples from Allegany County, Maryland). At the present time, it is not known which archival samples may have been contaminated with Hg in the laboratory, and thus extreme caution should be exercised in interpreting NGS data.", "Access Constraints: none"]"
 	},
 	{
 		"key": "temporal-extent-begin",
@@ -275,7 +275,7 @@
 	},
 	{
 		"key": "dataset-reference-date",
-		"value": "[{\"type\": \"publication\", \"value\": \"2004-01-01\"}]"
+		"value": "[{"type": "publication", "value": "2004-01-01"}]"
 	},
 	{
 		"key": "graphic-preview-description",
@@ -287,7 +287,7 @@
 	},
 	{
 		"key": "licence",
-		"value": "[\"The USGS makes no guarantee or warranty concerning the accuracy of\\ninformation contained in the geographic data.  The USGS further makes\\nno warranties, either expressed or implied as to any other matter\\nwhatsoever, including, without limitation, the condition of the\\nproduct, or its fitness for any particular purpose.  The burden for\\ndetermining fitness for use lies entirely with the user.  Although\\nthis data has been processed successfully on computers at the USGS, no\\nwarranty, expressed or implied, is made by the USGS regarding the use\\nof this data on any other system, nor does the fact of distribution\\nconstitute or imply any such warranty.\\nIn no event shall the USGS have any liability whatsoever for payment\\nof any consequential, incidental, indirect, special, or tort damages\\nof any kind, including, but not limited to, any loss of profits\\narising out of use of or reliance on the geographic data or arising\\nout of the delivery, installation, operation, or support by the USGS.\"]"
+		"value": "["The USGS makes no guarantee or warranty concerning the accuracy of\ninformation contained in the geographic data.  The USGS further makes\nno warranties, either expressed or implied as to any other matter\nwhatsoever, including, without limitation, the condition of the\nproduct, or its fitness for any particular purpose.  The burden for\ndetermining fitness for use lies entirely with the user.  Although\nthis data has been processed successfully on computers at the USGS, no\nwarranty, expressed or implied, is made by the USGS regarding the use\nof this data on any other system, nor does the fact of distribution\nconstitute or imply any such warranty.\nIn no event shall the USGS have any liability whatsoever for payment\nof any consequential, incidental, indirect, special, or tort damages\nof any kind, including, but not limited to, any loss of profits\narising out of use of or reliance on the geographic data or arising\nout of the delivery, installation, operation, or support by the USGS."]"
 	},
 	{
 		"key": "metadata_type",
@@ -295,7 +295,7 @@
 	},
 	{
 		"key": "responsible-party",
-		"value": "[{\"name\": \"U.S. Geological Survey, ER\", \"roles\": [\"pointOfContact\"]}]"
+		"value": "[{"name": "U.S. Geological Survey, ER", "roles": ["pointOfContact"]}]"
 	},
 	{
 		"key": "temporal-extent-end",
@@ -334,14 +334,14 @@
 		"value": "Mineral Resources Online Spatial Data"
 	}],
 	"organization": {
-		"description": "http:\/\/www.usgs.gov\/\r\nThe USGS is a federal science agency that provides impartial information on the health of our ecosystems and environment, the natural hazards that threaten us, the natural resources we rely on, the impacts of climate and land-use change, and the core science systems that help us provide timely, relevant, and useable information.",
+		"description": "http://www.usgs.gov/rnThe USGS is a federal science agency that provides impartial information on the health of our ecosystems and environment, the natural hazards that threaten us, the natural resources we rely on, the impacts of climate and land-use change, and the core science systems that help us provide timely, relevant, and useable information.",
 		"created": "2013-03-14T03:44:38.263357",
 		"title": "U.S. Geological Survey, Department of the Interior",
 		"name": "usgs-gov",
 		"revision_timestamp": "2014-09-02T13:43:52.167023",
 		"is_organization": true,
 		"state": "active",
-		"image_url": "http:\/\/pubs.usgs.gov\/sir\/2004\/5296\/04-5296_confluence_park\/usgs_logo.gif",
+		"image_url": "http://pubs.usgs.gov/sir/2004/5296/04-5296_confluence_park/usgs_logo.gif",
 		"revision_id": "2858aa99-9501-4f96-82e5-9647b968ed66",
 		"type": "organization",
 		"id": "bd2cdd5a-4d65-46c0-9937-c8381175f104",

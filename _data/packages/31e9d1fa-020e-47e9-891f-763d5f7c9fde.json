@@ -37,7 +37,7 @@
 		"cache_url": null,
 		"name": "Zip File",
 		"created": "2014-11-17T16:09:25.610050",
-		"url": "http:\/\/water.usgs.gov\/GIS\/dsdl\/lower_platte_GAGES5.zip",
+		"url": "http://water.usgs.gov/GIS/dsdl/lower_platte_GAGES5.zip",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 0,
@@ -67,7 +67,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2014-11-17T16:09:25.610091",
-		"url": "http:\/\/water.usgs.gov\/lookup\/getspatial?sir2008-5054_Lower_Platte_gages5",
+		"url": "http://water.usgs.gov/lookup/getspatial?sir2008-5054_Lower_Platte_gages5",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 1,
@@ -82,14 +82,14 @@
 	},
 	"groups": [],
 	"organization": {
-		"description": "http:\/\/www.usgs.gov\/\r\nThe USGS is a federal science agency that provides impartial information on the health of our ecosystems and environment, the natural hazards that threaten us, the natural resources we rely on, the impacts of climate and land-use change, and the core science systems that help us provide timely, relevant, and useable information.",
+		"description": "http://www.usgs.gov/rnThe USGS is a federal science agency that provides impartial information on the health of our ecosystems and environment, the natural hazards that threaten us, the natural resources we rely on, the impacts of climate and land-use change, and the core science systems that help us provide timely, relevant, and useable information.",
 		"title": "U.S. Geological Survey, Department of the Interior",
 		"created": "2013-03-14T03:44:38.263357",
 		"approval_status": "approved",
 		"revision_timestamp": "2014-09-02T13:43:52.167023",
 		"is_organization": true,
 		"state": "active",
-		"image_url": "http:\/\/pubs.usgs.gov\/sir\/2004\/5296\/04-5296_confluence_park\/usgs_logo.gif",
+		"image_url": "http://pubs.usgs.gov/sir/2004/5296/04-5296_confluence_park/usgs_logo.gif",
 		"revision_id": "2858aa99-9501-4f96-82e5-9647b968ed66",
 		"type": "organization",
 		"id": "bd2cdd5a-4d65-46c0-9937-c8381175f104",
@@ -100,11 +100,11 @@
 	"name": "selected-discharge-measurements-at-stream-gaging-stations-on-lower-platte-river-near-1934-2006",
 	"isopen": false,
 	"url": null,
-	"notes": "The accompanying \"Lower_Platte_GAGES5\" data release consists of two parts, a spatial data layer composed of a vector point data set representing five USGS streamflow gaging stations, and a relational tabular database. The relational database is populated with an inventory and summary of selected river discharge measurements along with a table of measurement details for each selected discharge measurement. The spatial data layer was created from published coordinates of decimal degrees for each gaging station. The tabular database was developed chiefly from the archived Discharge Measurement Notes forms on file in the USGS offices, Lincoln, Nebr. The geographic scope is limited to the lower Platte River of eastern Nebraska, and specifically to five selected streamflow-gaging stations located near Duncan, Ashland, North Bend, Leshara, and Louisville. The data were assembled for the purpose of conducting an analysis of temporal changes in hydraulic and channel geometry characteristics of the lower Platte River over five 10-year periods.",
+	"notes": "The accompanying "Lower_Platte_GAGES5" data release consists of two parts, a spatial data layer composed of a vector point data set representing five USGS streamflow gaging stations, and a relational tabular database. The relational database is populated with an inventory and summary of selected river discharge measurements along with a table of measurement details for each selected discharge measurement. The spatial data layer was created from published coordinates of decimal degrees for each gaging station. The tabular database was developed chiefly from the archived Discharge Measurement Notes forms on file in the USGS offices, Lincoln, Nebr. The geographic scope is limited to the lower Platte River of eastern Nebraska, and specifically to five selected streamflow-gaging stations located near Duncan, Ashland, North Bend, Leshara, and Louisville. The data were assembled for the purpose of conducting an analysis of temporal changes in hydraulic and channel geometry characteristics of the lower Platte River over five 10-year periods.",
 	"owner_org": "bd2cdd5a-4d65-46c0-9937-c8381175f104",
 	"extras": [{
 		"key": "bbox-east-long",
-		"value": "\n-96.157778"
+		"value": "n-96.157778"
 	},
 	{
 		"key": "resource-type",
@@ -112,7 +112,7 @@
 	},
 	{
 		"key": "bbox-north-lat",
-		"value": "\n41.455024"
+		"value": "n41.455024"
 	},
 	{
 		"key": "coupled-resource",
@@ -128,7 +128,7 @@
 	},
 	{
 		"key": "bbox-south-lat",
-		"value": "\n41.006699"
+		"value": "n41.006699"
 	},
 	{
 		"key": "spatial-reference-system",
@@ -136,7 +136,7 @@
 	},
 	{
 		"key": "spatial",
-		"value": "{\"type\": \"Polygon\", \"coordinates\": [[[-97.496936, 41.006699], [-96.157778, 41.006699], [-96.157778, 41.455024], [-97.496936, 41.455024], [-97.496936, 41.006699]]]}"
+		"value": "{"type": "Polygon", "coordinates": [[[-97.496936, 41.006699], [-96.157778, 41.006699], [-96.157778, 41.455024], [-97.496936, 41.455024], [-97.496936, 41.006699]]]}"
 	},
 	{
 		"key": "progress",
@@ -144,7 +144,7 @@
 	},
 	{
 		"key": "access_constraints",
-		"value": "[\"Use Constraints: None\", \"Access Constraints: None\"]"
+		"value": "["Use Constraints: None", "Access Constraints: None"]"
 	},
 	{
 		"key": "temporal-extent-begin",
@@ -156,7 +156,7 @@
 	},
 	{
 		"key": "bbox-west-long",
-		"value": "\n-97.496936"
+		"value": "n-97.496936"
 	},
 	{
 		"key": "metadata-date",
@@ -164,7 +164,7 @@
 	},
 	{
 		"key": "dataset-reference-date",
-		"value": "[{\"type\": \"publication\", \"value\": \"2008-01-01\"}]"
+		"value": "[{"type": "publication", "value": "2008-01-01"}]"
 	},
 	{
 		"key": "frequency-of-update",
@@ -172,7 +172,7 @@
 	},
 	{
 		"key": "licence",
-		"value": "[\"Although these data have been used by the U.S. Geological Survey, U.S. Department of the Interior, no warranty expressed or implied is made by the U.S. Geological Survey as to the accuracy of the data.  The act of distribution shall not constitute any such warranty, and no responsibility is assumed by the U.S. Geological Survey in the use of these data, software, or related materials.\\nThe use of firm, trade, or brand names in this report is for identification purposes only and does not constitute endorsement by the U.S. Geological Survey.  The names mentioned in this document may be trademarks or registered trademarks of their respective trademark owners.\"]"
+		"value": "["Although these data have been used by the U.S. Geological Survey, U.S. Department of the Interior, no warranty expressed or implied is made by the U.S. Geological Survey as to the accuracy of the data.  The act of distribution shall not constitute any such warranty, and no responsibility is assumed by the U.S. Geological Survey in the use of these data, software, or related materials.\nThe use of firm, trade, or brand names in this report is for identification purposes only and does not constitute endorsement by the U.S. Geological Survey.  The names mentioned in this document may be trademarks or registered trademarks of their respective trademark owners."]"
 	},
 	{
 		"key": "metadata_type",
@@ -180,7 +180,7 @@
 	},
 	{
 		"key": "responsible-party",
-		"value": "[{\"name\": \"U.S. Geological Survey\", \"roles\": [\"pointOfContact\"]}]"
+		"value": "[{"name": "U.S. Geological Survey", "roles": ["pointOfContact"]}]"
 	},
 	{
 		"key": "temporal-extent-end",

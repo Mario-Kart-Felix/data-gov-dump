@@ -36,7 +36,7 @@
 		"cache_url": null,
 		"name": "National Weather Service Homepage",
 		"created": "2016-05-30T21:08:18.430861",
-		"url": "http:\/\/www.weather.gov\/",
+		"url": "http://www.weather.gov/",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 0,
@@ -65,7 +65,7 @@
 		"cache_url": null,
 		"name": "Global WMS service endpoint for the Prototype NOAA OGC Shared Hosting System",
 		"created": "2016-05-30T21:08:18.430895",
-		"url": "http:\/\/services.ogc.noaa.gov\/geoserver\/wms?request=getcapabilities",
+		"url": "http://services.ogc.noaa.gov/geoserver/wms?request=getcapabilities",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 1,
@@ -74,7 +74,7 @@
 	}],
 	"num_resources": 2,
 	"tags": [],
-	"title": "NOAA\/NWS Short Duration Severe Weather Warnings WMS\/WFS",
+	"title": "NOAA/NWS Short Duration Severe Weather Warnings WMS/WFS",
 	"tracking_summary": {
 		"total": 51,
 		"recent": 2
@@ -85,7 +85,7 @@
 	"name": "noaa-nws-short-duration-severe-weather-warnings-wms-wfs",
 	"isopen": false,
 	"url": null,
-	"notes": "\nA prototype Web Map Service (WMS) displaying NOAA National Weather Service short duration weather warning polygons.  The data are updated on five minute intervals.  Note: this service displays only the 'polygonal' warnings for severe weather events (flash flood warnings, severe thunderstorm warnings, special marine warnings, and tornado warnings), it does not include other watches or hazards that may be active in a particular area.\n\nFor full information about active warnings, watches, hazards, and alerts, please see the National Weather Service page at: http:\/\/www.nws.noaa.gov\/view\/largemap.php.\n\nSource data for this service can be found here: http:\/\/www.nws.noaa.gov\/gis\/shapepage.htm.\n\nThis is a prototype service available on NOAA's Open Geospatial Consortium shared hosting service.  The hosting system is monitored for uptime and is geographically distributed in a high-availability architecture with two mirrored nodes.  However, it should not be relied upon for 24 x 7 uptime for emergency response.\n\t\t\t\t",
+	"notes": "nA prototype Web Map Service (WMS) displaying NOAA National Weather Service short duration weather warning polygons.  The data are updated on five minute intervals.  Note: this service displays only the 'polygonal' warnings for severe weather events (flash flood warnings, severe thunderstorm warnings, special marine warnings, and tornado warnings), it does not include other watches or hazards that may be active in a particular area.nnFor full information about active warnings, watches, hazards, and alerts, please see the National Weather Service page at: http://www.nws.noaa.gov/view/largemap.php.nnSource data for this service can be found here: http://www.nws.noaa.gov/gis/shapepage.htm.nnThis is a prototype service available on NOAA's Open Geospatial Consortium shared hosting service.  The hosting system is monitored for uptime and is geographically distributed in a high-availability architecture with two mirrored nodes.  However, it should not be relied upon for 24 x 7 uptime for emergency response.ntttt",
 	"license_title": null,
 	"extras": [{
 		"key": "bbox-east-long",
@@ -109,7 +109,7 @@
 	},
 	{
 		"key": "graphic-preview-file",
-		"value": "http:\/\/forecast.weather.gov\/wwamap\/png\/US.png"
+		"value": "http://forecast.weather.gov/wwamap/png/US.png"
 	},
 	{
 		"key": "bbox-south-lat",
@@ -125,7 +125,7 @@
 	},
 	{
 		"key": "spatial",
-		"value": "{\"type\": \"Polygon\", \"coordinates\": [[[-164.0, 8.0], [-1.0, 8.0], [-1.0, 64.0], [-164.0, 64.0], [-164.0, 8.0]]]}"
+		"value": "{"type": "Polygon", "coordinates": [[[-164.0, 8.0], [-1.0, 8.0], [-1.0, 64.0], [-164.0, 64.0], [-164.0, 8.0]]]}"
 	},
 	{
 		"key": "progress",
@@ -133,7 +133,7 @@
 	},
 	{
 		"key": "access_constraints",
-		"value": "[\"No responsibility is assumed by the National Oceanic and Atmospheric Administration in the use of these data.  Acknowledgement of the National Oceanic and Atmospheric Administration, National Weather Service, National Environmental Prediction Center or the National Hurricane Center would be appreciated.\"]"
+		"value": "["No responsibility is assumed by the National Oceanic and Atmospheric Administration in the use of these data.  Acknowledgement of the National Oceanic and Atmospheric Administration, National Weather Service, National Environmental Prediction Center or the National Hurricane Center would be appreciated."]"
 	},
 	{
 		"key": "contact-email",
@@ -149,7 +149,7 @@
 	},
 	{
 		"key": "dataset-reference-date",
-		"value": "[{\"type\": \"creation\", \"value\": \"2014-06-01\"}]"
+		"value": "[{"type": "creation", "value": "2014-06-01"}]"
 	},
 	{
 		"key": "frequency-of-update",
@@ -165,7 +165,7 @@
 	},
 	{
 		"key": "responsible-party",
-		"value": "[{\"name\": \"NOAA OGC Web Service Hosting Environment\", \"roles\": [\"pointOfContact\"]}]"
+		"value": "[{"name": "NOAA OGC Web Service Hosting Environment", "roles": ["pointOfContact"]}]"
 	},
 	{
 		"key": "spatial-data-service-type",
@@ -207,7 +207,7 @@
 		"revision_timestamp": "2013-03-25T23:05:12.923863",
 		"is_organization": true,
 		"state": "active",
-		"image_url": "https:\/\/fortress.wa.gov\/dfw\/score\/score\/images\/noaa_logo.png",
+		"image_url": "https://fortress.wa.gov/dfw/score/score/images/noaa_logo.png",
 		"revision_id": "c6d43080-22e1-405e-a83d-f2a512d9e867",
 		"type": "organization",
 		"id": "e811f0b4-451f-4896-9e8f-fc6802837819",

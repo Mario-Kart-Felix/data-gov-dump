@@ -37,7 +37,7 @@
 		"cache_url": null,
 		"name": "Text File",
 		"created": "2015-12-20T13:53:49.852477",
-		"url": "ftp:\/\/ftp.ncdc.noaa.gov\/pub\/data\/paleo\/coral\/west_pacific\/tarawa_1995.txt",
+		"url": "ftp://ftp.ncdc.noaa.gov/pub/data/paleo/coral/west_pacific/tarawa_1995.txt",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 0,
@@ -59,7 +59,7 @@
 		"revision_timestamp": "2013-03-25T23:05:12.923863",
 		"is_organization": true,
 		"state": "active",
-		"image_url": "https:\/\/fortress.wa.gov\/dfw\/score\/score\/images\/noaa_logo.png",
+		"image_url": "https://fortress.wa.gov/dfw/score/score/images/noaa_logo.png",
 		"revision_id": "c6d43080-22e1-405e-a83d-f2a512d9e867",
 		"type": "organization",
 		"id": "e811f0b4-451f-4896-9e8f-fc6802837819",
@@ -70,11 +70,11 @@
 	"name": "tarawa-stable-isotope-delta-18o-delta-13c-and-mineralogy-data-for-1959-to-1979",
 	"isopen": false,
 	"url": null,
-	"notes": "Site: Tarawa Atoll, Republic of Kiribati (1 deg N, 172 deg E). Water depth: 2-4m. Coral species Hydnophora microconos. Time span: 1959-79 at monthly resolution. Files contains stable isotope data presented by Cole and Fairbanks (1990), Mn\/Ca data presented by Shen et al. (1992b), and normalized d18O data presented by Cole, Fairbanks, and Shen (1993) for the years 1893-1959. Stable isotopes were measured on untreated coral samples at Lamont-Doherty Earth Observatory by J. Cole and R. Fairbanks, on a Finnigan MAT-251 mass spectrometer with automated Carousel-48 carbonate device. Values are in standard per mil notation relative to PDB. Isotopic data are given for two corals from the same site, LDGO-39 and LDGO-44. Measurement precisions are 0.08 for d18O and 0.04 for d13C. Mn\/Ca measurements were performed at the University of Washington by G. Shen and L. Linn by graphite furnace atomic absorption spectrophotometry; only coral LDGO-44 was analyzed for Mn\/Ca. Sample treatment procedures are described in Shen et al. (1992b). Average departures from duplicate means are 1.6nmol Mn\/mol Ca. Ages for all samples in this file were derived from annual variations in d13C, assumed to correspond with annual rainy seasons as described in Cole and Fairbanks (1990).Density banding confirms these ages for LDGO-44 samples, but coral LDGO-39 did not exhibit clearly annual banding patterns. For Mn\/Ca data prior to 1962 in LDGO-44, ages were determined by extrapolation based on density band data, as isotopic data only extends to 1962 in LDGO-44.",
+	"notes": "Site: Tarawa Atoll, Republic of Kiribati (1 deg N, 172 deg E). Water depth: 2-4m. Coral species Hydnophora microconos. Time span: 1959-79 at monthly resolution. Files contains stable isotope data presented by Cole and Fairbanks (1990), Mn/Ca data presented by Shen et al. (1992b), and normalized d18O data presented by Cole, Fairbanks, and Shen (1993) for the years 1893-1959. Stable isotopes were measured on untreated coral samples at Lamont-Doherty Earth Observatory by J. Cole and R. Fairbanks, on a Finnigan MAT-251 mass spectrometer with automated Carousel-48 carbonate device. Values are in standard per mil notation relative to PDB. Isotopic data are given for two corals from the same site, LDGO-39 and LDGO-44. Measurement precisions are 0.08 for d18O and 0.04 for d13C. Mn/Ca measurements were performed at the University of Washington by G. Shen and L. Linn by graphite furnace atomic absorption spectrophotometry; only coral LDGO-44 was analyzed for Mn/Ca. Sample treatment procedures are described in Shen et al. (1992b). Average departures from duplicate means are 1.6nmol Mn/mol Ca. Ages for all samples in this file were derived from annual variations in d13C, assumed to correspond with annual rainy seasons as described in Cole and Fairbanks (1990).Density banding confirms these ages for LDGO-44 samples, but coral LDGO-39 did not exhibit clearly annual banding patterns. For Mn/Ca data prior to 1962 in LDGO-44, ages were determined by extrapolation based on density band data, as isotopic data only extends to 1962 in LDGO-44.",
 	"owner_org": "e811f0b4-451f-4896-9e8f-fc6802837819",
 	"extras": [{
 		"key": "bbox-east-long",
-		"value": "\n          172\n        "
+		"value": "n          172n        "
 	},
 	{
 		"key": "resource-type",
@@ -82,7 +82,7 @@
 	},
 	{
 		"key": "bbox-north-lat",
-		"value": "\n          1\n        "
+		"value": "n          1n        "
 	},
 	{
 		"key": "coupled-resource",
@@ -98,7 +98,7 @@
 	},
 	{
 		"key": "bbox-south-lat",
-		"value": "\n          1\n        "
+		"value": "n          1n        "
 	},
 	{
 		"key": "spatial-reference-system",
@@ -106,7 +106,7 @@
 	},
 	{
 		"key": "spatial",
-		"value": "{\"type\": \"Point\", \"coordinates\": [172.0, 1.0]}"
+		"value": "{"type": "Point", "coordinates": [172.0, 1.0]}"
 	},
 	{
 		"key": "progress",
@@ -114,7 +114,7 @@
 	},
 	{
 		"key": "access_constraints",
-		"value": "[\"Use Constraints: Please cite original reference when using this data.\", \"Access Constraints: None\"]"
+		"value": "["Use Constraints: Please cite original reference when using this data.", "Access Constraints: None"]"
 	},
 	{
 		"key": "temporal-extent-begin",
@@ -126,7 +126,7 @@
 	},
 	{
 		"key": "bbox-west-long",
-		"value": "\n          172\n        "
+		"value": "n          172n        "
 	},
 	{
 		"key": "metadata-date",
@@ -134,7 +134,7 @@
 	},
 	{
 		"key": "dataset-reference-date",
-		"value": "[{\"type\": \"publication\", \"value\": \"1995-08-01\"}]"
+		"value": "[{"type": "publication", "value": "1995-08-01"}]"
 	},
 	{
 		"key": "frequency-of-update",
@@ -142,7 +142,7 @@
 	},
 	{
 		"key": "licence",
-		"value": "[\"\\n      Disclaimer- While every effort has been made to ensure that these data are accurate and reliable within the limits of the current state of the art, NOAA cannot assume liability for any damages caused by any errors or omissions in the data, nor as a result of the failure of the data to function on a particular system.  NOAA makes no warranty, expressed or implied, nor does the fact of distribution constitute such a warranty.\\n    \"]"
+		"value": "["\n      Disclaimer- While every effort has been made to ensure that these data are accurate and reliable within the limits of the current state of the art, NOAA cannot assume liability for any damages caused by any errors or omissions in the data, nor as a result of the failure of the data to function on a particular system.  NOAA makes no warranty, expressed or implied, nor does the fact of distribution constitute such a warranty.\n    "]"
 	},
 	{
 		"key": "metadata_type",
@@ -150,7 +150,7 @@
 	},
 	{
 		"key": "responsible-party",
-		"value": "[{\"name\": \"NOAA Paleoclimatology Program\", \"roles\": [\"pointOfContact\"]}]"
+		"value": "[{"name": "NOAA Paleoclimatology Program", "roles": ["pointOfContact"]}]"
 	},
 	{
 		"key": "temporal-extent-end",
@@ -166,7 +166,7 @@
 	},
 	{
 		"key": "tags",
-		"value": "coral records, pacific ocean, numeric data sets, delta 18o, gilbert islands, holocene, modern, country\/territory, paleoclimate, paleoclimatology, delta 13c, central pacific ocean, ocean basin, kiribati, tarawa, mn\/ca, tarawa (01n173e0004), earth science",
+		"value": "coral records, pacific ocean, numeric data sets, delta 18o, gilbert islands, holocene, modern, country/territory, paleoclimate, paleoclimatology, delta 13c, central pacific ocean, ocean basin, kiribati, tarawa, mn/ca, tarawa (01n173e0004), earth science",
 		"__extras": {
 			"package_id": "47297379-3f94-46f0-8152-25c4669edcbd",
 			"revision_id": "dc9a22cc-9326-4747-a096-9594999266dd"

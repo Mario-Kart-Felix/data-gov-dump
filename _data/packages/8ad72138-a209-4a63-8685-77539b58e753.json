@@ -37,7 +37,7 @@
 		"cache_url": null,
 		"name": "Zip File",
 		"created": "2016-03-21T18:42:21.254681",
-		"url": "ftp:\/\/ftp.coast.noaa.gov\/pub\/MSP\/CriticalHabitatDesignations.zip",
+		"url": "ftp://ftp.coast.noaa.gov/pub/MSP/CriticalHabitatDesignations.zip",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 0,
@@ -67,7 +67,7 @@
 		"cache_url": null,
 		"name": "Esri Rest API Endpoint",
 		"created": "2016-03-21T18:42:21.254706",
-		"url": "https:\/\/coast.noaa.gov\/arcgis\/rest\/services\/MarineCadastre\/PhysicalOceanographicAndMarineHabitat\/MapServer\/10",
+		"url": "https://coast.noaa.gov/arcgis/rest/services/MarineCadastre/PhysicalOceanographicAndMarineHabitat/MapServer/10",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 1,
@@ -97,7 +97,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2016-03-21T18:42:21.254715",
-		"url": "http:\/\/www.marinecadastre.gov\/data\/",
+		"url": "http://www.marinecadastre.gov/data/",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 2,
@@ -127,7 +127,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2016-03-21T18:42:21.254723",
-		"url": "https:\/\/www.coast.noaa.gov\/",
+		"url": "https://www.coast.noaa.gov/",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 3,
@@ -157,7 +157,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2016-03-21T18:42:21.254731",
-		"url": "http:\/\/www.nmfs.noaa.gov\/pr\/species\/criticalhabitat.htm",
+		"url": "http://www.nmfs.noaa.gov/pr/species/criticalhabitat.htm",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 4,
@@ -190,7 +190,7 @@
 	"name": "critical-habitat-designations-as-of-february-2015",
 	"isopen": false,
 	"url": null,
-	"notes": "The Endangered Species Act (ESA) requires the Federal government to designate \"critical habitat\" for any ESA listed species. This dataset is a compilation of the NOAA National Marine Fisheries Service and the U.S. Fish & Wildlife Service ESA listed species in coastal areas. Critical habitat is defined as: 1. Specific areas within the geographical area occupied by the species at the time of listing, if they contain physical or biological features essential to conservation, and those features may require special management considerations or protection; and 2. Specific areas outside the geographical area occupied by the species if the agency determines that the area itself is essential for conservation.",
+	"notes": "The Endangered Species Act (ESA) requires the Federal government to designate "critical habitat" for any ESA listed species. This dataset is a compilation of the NOAA National Marine Fisheries Service and the U.S. Fish & Wildlife Service ESA listed species in coastal areas. Critical habitat is defined as: 1. Specific areas within the geographical area occupied by the species at the time of listing, if they contain physical or biological features essential to conservation, and those features may require special management considerations or protection; and 2. Specific areas outside the geographical area occupied by the species if the agency determines that the area itself is essential for conservation.",
 	"license_title": null,
 	"extras": [{
 		"key": "bbox-east-long",
@@ -226,7 +226,7 @@
 	},
 	{
 		"key": "spatial",
-		"value": "{\"type\": \"Polygon\", \"coordinates\": [[[-180.0, 17.630261512], [180.0, 17.630261512], [180.0, 70.333363345], [-180.0, 70.333363345], [-180.0, 17.630261512]]]}"
+		"value": "{"type": "Polygon", "coordinates": [[[-180.0, 17.630261512], [180.0, 17.630261512], [180.0, 70.333363345], [-180.0, 70.333363345], [-180.0, 17.630261512]]]}"
 	},
 	{
 		"key": "progress",
@@ -234,7 +234,7 @@
 	},
 	{
 		"key": "access_constraints",
-		"value": "[\"Use Constraints: These data are intended for coastal and ocean use planning. Not for navigation. http:\/\/www.marinecadastre.gov\/about\/disclaimer.html\", \"Access Constraints: None\"]"
+		"value": "["Use Constraints: These data are intended for coastal and ocean use planning. Not for navigation. http://www.marinecadastre.gov/about/disclaimer.html", "Access Constraints: None"]"
 	},
 	{
 		"key": "temporal-extent-begin",
@@ -254,11 +254,11 @@
 	},
 	{
 		"key": "dataset-reference-date",
-		"value": "[{\"type\": \"publication\", \"value\": \"2016-03-16\"}]"
+		"value": "[{"type": "publication", "value": "2016-03-16"}]"
 	},
 	{
 		"key": "__category_tag_3b2f2e70-3e81-4aa7-8305-a534cd6af6c8",
-		"value": "[\"Ecosystem and Habitat Assessments\"]"
+		"value": "["Ecosystem and Habitat Assessments"]"
 	},
 	{
 		"key": "frequency-of-update",
@@ -266,7 +266,7 @@
 	},
 	{
 		"key": "licence",
-		"value": "[\"NOAA makes no warranties or representations whatsoever regarding the availability, quality, accuracy, content, completeness or suitability for the user's needs of such information. The services, information, and data made available on the Marine Cadastre web site are provided \\\"as is\\\" without warranties of any kind. These data are intended for coastal and ocean use planning. Not for navigation. http:\/\/www.marinecadastre.gov\/about\/disclaimer.html\"]"
+		"value": "["NOAA makes no warranties or representations whatsoever regarding the availability, quality, accuracy, content, completeness or suitability for the user's needs of such information. The services, information, and data made available on the Marine Cadastre web site are provided \"as is\" without warranties of any kind. These data are intended for coastal and ocean use planning. Not for navigation. http://www.marinecadastre.gov/about/disclaimer.html"]"
 	},
 	{
 		"key": "metadata_type",
@@ -274,7 +274,7 @@
 	},
 	{
 		"key": "responsible-party",
-		"value": "[{\"name\": \"NOAA Office for Coastal Management\", \"roles\": [\"pointOfContact\"]}]"
+		"value": "[{"name": "NOAA Office for Coastal Management", "roles": ["pointOfContact"]}]"
 	},
 	{
 		"key": "temporal-extent-end",
@@ -320,7 +320,7 @@
 		"revision_timestamp": "2013-03-25T23:05:12.923863",
 		"is_organization": true,
 		"state": "active",
-		"image_url": "https:\/\/fortress.wa.gov\/dfw\/score\/score\/images\/noaa_logo.png",
+		"image_url": "https://fortress.wa.gov/dfw/score/score/images/noaa_logo.png",
 		"revision_id": "c6d43080-22e1-405e-a83d-f2a512d9e867",
 		"type": "organization",
 		"id": "e811f0b4-451f-4896-9e8f-fc6802837819",

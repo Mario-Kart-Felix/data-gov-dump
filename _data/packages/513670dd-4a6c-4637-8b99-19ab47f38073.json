@@ -37,7 +37,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2013-03-15T15:37:58.381921",
-		"url": "http:\/\/www.vcgi.org\/dataware\/default.cfm?layer=LandLandcov_NFLLAKELCLU",
+		"url": "http://www.vcgi.org/dataware/default.cfm?layer=LandLandcov_NFLLAKELCLU",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 0,
@@ -67,7 +67,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2013-03-15T15:37:58.381939",
-		"url": "http:\/\/www.vcgi.org\/dataware\/default.cfm?layer=LandLandcov_NFLLAKELCLU",
+		"url": "http://www.vcgi.org/dataware/default.cfm?layer=LandLandcov_NFLLAKELCLU",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 1,
@@ -97,7 +97,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2013-03-15T15:37:58.381944",
-		"url": "http:\/\/www.vcgi.org\/dataware\/default.cfm?layer=LandLandcov_NFLLAKELCLU&mapit=yes",
+		"url": "http://www.vcgi.org/dataware/default.cfm?layer=LandLandcov_NFLLAKELCLU&mapit=yes",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 2,
@@ -130,11 +130,11 @@
 	"name": "landlandcov-nfllakelclu",
 	"isopen": false,
 	"url": null,
-	"notes": "This feature dataset contains layers created for an analysis of lakeshore development in the Northern Forest of Vermont by the University of Vermont (UVM) and the Vermont Agency of Natural Resources, Department of Environmental Conservation (DEC). These layers include: 1) land-use\/land-cover (LULC) for 74 lakes within a 600-meter buffer from each lake; and 2) the specific lakeshore boundaries used for each lake. Accompanying this feature dataset is a table containing names for all 74 lakes and their locations by town and county. This table is necessary because some lakes have multiple or duplicate names, which confuses identification. Note that each feature class has separate metadata that describe its content in more detail. The layers should be considered current as of August\/September 2003 because the most recent orthophotographs used to produce LULC data were acquired during this period.",
+	"notes": "This feature dataset contains layers created for an analysis of lakeshore development in the Northern Forest of Vermont by the University of Vermont (UVM) and the Vermont Agency of Natural Resources, Department of Environmental Conservation (DEC). These layers include: 1) land-use/land-cover (LULC) for 74 lakes within a 600-meter buffer from each lake; and 2) the specific lakeshore boundaries used for each lake. Accompanying this feature dataset is a table containing names for all 74 lakes and their locations by town and county. This table is necessary because some lakes have multiple or duplicate names, which confuses identification. Note that each feature class has separate metadata that describe its content in more detail. The layers should be considered current as of August/September 2003 because the most recent orthophotographs used to produce LULC data were acquired during this period.",
 	"license_title": null,
 	"extras": [{
 		"key": "responsible-party",
-		"value": "[{\"name\": \"University of Vermont, Spatial Analysis Laboratory\", \"roles\": [\"pointOfContact\"]}]"
+		"value": "[{"name": "University of Vermont, Spatial Analysis Laboratory", "roles": ["pointOfContact"]}]"
 	},
 	{
 		"key": "contact-email",
@@ -154,7 +154,7 @@
 	},
 	{
 		"key": "dataset-reference-date",
-		"value": "[{\"type\": \"publication\", \"value\": \"2008-03-31\"}]"
+		"value": "[{"type": "publication", "value": "2008-03-31"}]"
 	},
 	{
 		"key": "resource-type",
@@ -182,7 +182,7 @@
 	},
 	{
 		"key": "licence",
-		"value": "[\"VCGI and the State of Vermont make no representations of any kind, including but not limited to the warranties of merchantability or fitness for a particular use, nor are any such warranties to be implied with respect to the data.\"]"
+		"value": "["VCGI and the State of Vermont make no representations of any kind, including but not limited to the warranties of merchantability or fitness for a particular use, nor are any such warranties to be implied with respect to the data."]"
 	},
 	{
 		"key": "metadata_type",
@@ -190,7 +190,7 @@
 	},
 	{
 		"key": "spatial",
-		"value": "{\"type\": \"Polygon\", \"coordinates\": [[[-72.512976, 44.231466], [-72.512976, 45.009673], [-71.626622, 45.009673], [-71.626622, 44.231466], [-72.512976, 44.231466]]]}"
+		"value": "{"type": "Polygon", "coordinates": [[[-72.512976, 44.231466], [-72.512976, 45.009673], [-71.626622, 45.009673], [-71.626622, 44.231466], [-72.512976, 44.231466]]]}"
 	},
 	{
 		"key": "guid",
@@ -202,7 +202,7 @@
 	},
 	{
 		"key": "access_constraints",
-		"value": "[\"Use Constraints: None\", \"Access Constraints: None\"]"
+		"value": "["Use Constraints: None", "Access Constraints: None"]"
 	},
 	{
 		"key": "frequency-of-update",
@@ -210,7 +210,7 @@
 	},
 	{
 		"package_id": "513670dd-4a6c-4637-8b99-19ab47f38073",
-		"value": "imageryBaseMapsEarthCover, lakes, land-use\/land-cover, Northern Forest",
+		"value": "imageryBaseMapsEarthCover, lakes, land-use/land-cover, Northern Forest",
 		"revision_timestamp": "2013-05-17T00:00:00",
 		"state": "active",
 		"key": "tags",
@@ -240,7 +240,7 @@
 		"revision_timestamp": "2013-03-27T17:47:03.718032",
 		"is_organization": true,
 		"state": "active",
-		"image_url": "http:\/\/vcgi.vermont.gov\/sites\/all\/themes\/vt_template\/logo.png",
+		"image_url": "http://vcgi.vermont.gov/sites/all/themes/vt_template/logo.png",
 		"revision_id": "c5dfbbb0-f1e0-4db6-b566-e932e1520060",
 		"type": "organization",
 		"id": "0c3a4ebc-9929-4f21-bdd0-76a35d52f57d",

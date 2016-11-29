@@ -30,7 +30,7 @@
 		"revision_timestamp": "2013-05-31T17:51:13.706377",
 		"is_organization": true,
 		"state": "active",
-		"image_url": "http:\/\/www.ca.gov\/images\/template2012\/header_ca.gov.png",
+		"image_url": "http://www.ca.gov/images/template2012/header_ca.gov.png",
 		"revision_id": "ad94cda4-9394-44d0-9c37-573dc3c47c9a",
 		"type": "organization",
 		"id": "467d900f-8a42-452d-9906-6610dd1a767f",
@@ -41,11 +41,11 @@
 	"name": "washes-nhd",
 	"isopen": false,
 	"url": null,
-	"notes": "This dataset represents washes in Arizona. The Arizona State Land Department downloaded the NHD data from the USGS NHD website (http:\/\/nhd.usgs.gov\/) in 2008. Since then, ASLD have made minor modifications to the dataset (See Process Steps for details). Please note: This is a modified version of the NHD. For a comprehensive and more current version please visit the USGS NHD at http:\/\/nhd.usgs.gov\/.",
+	"notes": "This dataset represents washes in Arizona. The Arizona State Land Department downloaded the NHD data from the USGS NHD website (http://nhd.usgs.gov/) in 2008. Since then, ASLD have made minor modifications to the dataset (See Process Steps for details). Please note: This is a modified version of the NHD. For a comprehensive and more current version please visit the USGS NHD at http://nhd.usgs.gov/.",
 	"owner_org": "467d900f-8a42-452d-9906-6610dd1a767f",
 	"extras": [{
 		"key": "responsible-party",
-		"value": "[{\"name\": \"Earth Science Information Center, U.S. Geological Survey\", \"roles\": [\"pointOfContact\"]}]"
+		"value": "[{"name": "Earth Science Information Center, U.S. Geological Survey", "roles": ["pointOfContact"]}]"
 	},
 	{
 		"key": "contact-email",
@@ -65,7 +65,7 @@
 	},
 	{
 		"key": "dataset-reference-date",
-		"value": "[{\"type\": \"publication\", \"value\": \"2008-01-01\"}]"
+		"value": "[{"type": "publication", "value": "2008-01-01"}]"
 	},
 	{
 		"key": "resource-type",
@@ -93,7 +93,7 @@
 	},
 	{
 		"key": "licence",
-		"value": "[\" \"]"
+		"value": "[" "]"
 	},
 	{
 		"key": "metadata_type",
@@ -105,7 +105,7 @@
 	},
 	{
 		"key": "spatial",
-		"value": "{\"type\": \"Polygon\", \"coordinates\": [[[-114.776977, 31.28511], [-108.941607, 31.28511], [-108.941607, 37.037931], [-114.776977, 37.037931], [-114.776977, 31.28511]]]}"
+		"value": "{"type": "Polygon", "coordinates": [[[-114.776977, 31.28511], [-108.941607, 31.28511], [-108.941607, 37.037931], [-114.776977, 37.037931], [-114.776977, 31.28511]]]}"
 	},
 	{
 		"key": "guid",
@@ -117,7 +117,7 @@
 	},
 	{
 		"key": "access_constraints",
-		"value": "[\"Use Constraints: None. Acknowledgment of the originating agencies would be appreciated in products derived from these data.\", \"Access Constraints: None.\"]"
+		"value": "["Use Constraints: None. Acknowledgment of the originating agencies would be appreciated in products derived from these data.", "Access Constraints: None."]"
 	},
 	{
 		"key": "spatial_harvester",
@@ -129,7 +129,7 @@
 	},
 	{
 		"key": "tags",
-		"value": "reach code, arizona, hydrography, us, water, wash, stream \/ river",
+		"value": "reach code, arizona, hydrography, us, water, wash, stream / river",
 		"__extras": {
 			"package_id": "b466e8d3-2d03-4b55-bac5-11dac851fb9a",
 			"revision_id": "d8cfcaa4-89ed-4242-b122-499b236c67e4"

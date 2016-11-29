@@ -30,11 +30,11 @@
 			"recent": 22
 		},
 		"mimetype_inner": null,
-		"mimetype": "application\/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+		"mimetype": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
 		"cache_url": null,
 		"name": "Original file",
 		"created": "2015-02-23T15:22:20.497428",
-		"url": "http:\/\/en.openei.org\/doe-opendata\/dataset\/19316a50-e55d-45e2-b692-efcebfe16c95\/resource\/3e72f32a-7de1-4e5d-a25a-76928769625f\/download\/solarresourceenergy.xlsx",
+		"url": "http://en.openei.org/doe-opendata/dataset/19316a50-e55d-45e2-b692-efcebfe16c95/resource/3e72f32a-7de1-4e5d-a25a-76928769625f/download/solarresourceenergy.xlsx",
 		"webstore_url": null,
 		"last_modified": null,
 		"position": 0,
@@ -57,11 +57,11 @@
 			"recent": 4
 		},
 		"mimetype_inner": null,
-		"mimetype": "application\/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+		"mimetype": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
 		"cache_url": null,
 		"name": "Tilt = Lat, Subtotaled per Country",
 		"created": "2015-02-23T15:22:20.497467",
-		"url": "http:\/\/en.openei.org\/doe-opendata\/dataset\/19316a50-e55d-45e2-b692-efcebfe16c95\/resource\/544e4dcc-95bc-480a-9669-64e444356c46\/download\/solarresourceenergytiltlatsubtotaled.xlsx",
+		"url": "http://en.openei.org/doe-opendata/dataset/19316a50-e55d-45e2-b692-efcebfe16c95/resource/544e4dcc-95bc-480a-9669-64e444356c46/download/solarresourceenergytiltlatsubtotaled.xlsx",
 		"webstore_url": null,
 		"last_modified": null,
 		"position": 1,
@@ -84,11 +84,11 @@
 			"recent": 5
 		},
 		"mimetype_inner": null,
-		"mimetype": "application\/vnd.ms-excel",
+		"mimetype": "application/vnd.ms-excel",
 		"cache_url": null,
 		"name": "Total Tilt=Lat, Flattened and Ranked per Country",
 		"created": "2015-02-23T15:22:20.497483",
-		"url": "http:\/\/en.openei.org\/doe-opendata\/dataset\/19316a50-e55d-45e2-b692-efcebfe16c95\/resource\/e58a209c-57c0-4423-ba90-2ff867baa015\/download\/totalsolarresourcetiltlatflattenedranked.xls",
+		"url": "http://en.openei.org/doe-opendata/dataset/19316a50-e55d-45e2-b692-efcebfe16c95/resource/e58a209c-57c0-4423-ba90-2ff867baa015/download/totalsolarresourcetiltlatflattenedranked.xls",
 		"webstore_url": null,
 		"last_modified": null,
 		"position": 2,
@@ -248,7 +248,7 @@
 	"name": "solar-resources-by-class-and-country-87c7a",
 	"isopen": true,
 	"url": null,
-	"notes": "These estimates are derived from the best available solar resource data available to NREL.  Resources are organized by class and country.  Resolution varies spatially from 1 km to 1 degree (approximately 100 km) depending on the data source.  High spatial resolution datasets (1 km to 40 km cells) were modeled to support country or regional projects.  Where high resolution datasets were not available, data from NASA\u2019s Surface Meteorology and Solar Energy (SSE) version 6 database were used.  \r\n\r\nThe data represent total potential solar energy per year as a function of land area per solar class (`KWh\/m\u00b2\/day`).  Each solar class correlates to a specific `0.5 kWh\/m\u00b2\/day` range.  Energy is calculated by multiplying the productive land by the class, conversion efficiency and number of days per year.  In this case, a standard calendar year of 365 days was used.  The conversion efficiency rate applied was 10%.\r\n\r\n`E = Productive Land * kWh\/m\u00b2\/day * 365 days * 10% efficiency`\r\n\r\nThe solar data has been derived from solar data measured or modeled between 1961  and 2008, depending on the dataset.",
+	"notes": "These estimates are derived from the best available solar resource data available to NREL.  Resources are organized by class and country.  Resolution varies spatially from 1 km to 1 degree (approximately 100 km) depending on the data source.  High spatial resolution datasets (1 km to 40 km cells) were modeled to support country or regional projects.  Where high resolution datasets were not available, data from NASAu2019s Surface Meteorology and Solar Energy (SSE) version 6 database were used.  rnrnThe data represent total potential solar energy per year as a function of land area per solar class (`KWh/mu00b2/day`).  Each solar class correlates to a specific `0.5 kWh/mu00b2/day` range.  Energy is calculated by multiplying the productive land by the class, conversion efficiency and number of days per year.  In this case, a standard calendar year of 365 days was used.  The conversion efficiency rate applied was 10%.rnrn`E = Productive Land * kWh/mu00b2/day * 365 days * 10% efficiency`rnrnThe solar data has been derived from solar data measured or modeled between 1961  and 2008, depending on the dataset.",
 	"license_title": "Creative Commons CCZero",
 	"extras": [{
 		"key": "harvest_source_id",
@@ -268,23 +268,23 @@
 	},
 	{
 		"key": "__category_tag_aa0c01c9-d292-4dc1-8fec-b10c1bb629a9",
-		"value": "[\"Energy Infrastructure\",\"Energy Resources\",\"Energy Supply\",\"Energy Conversion\"]"
+		"value": "["Energy Infrastructure","Energy Resources","Energy Supply","Energy Conversion"]"
 	},
 	{
 		"key": "catalog_conformsTo",
-		"value": "https:\/\/project-open-data.cio.gov\/v1.1\/schema"
+		"value": "https://project-open-data.cio.gov/v1.1/schema"
 	},
 	{
 		"key": "catalog_@context",
-		"value": "https:\/\/project-open-data.cio.gov\/v1.1\/schema\/catalog.jsonld"
+		"value": "https://project-open-data.cio.gov/v1.1/schema/catalog.jsonld"
 	},
 	{
 		"key": "catalog_describedBy",
-		"value": "https:\/\/project-open-data.cio.gov\/v1.1\/schema\/catalog.json"
+		"value": "https://project-open-data.cio.gov/v1.1/schema/catalog.json"
 	},
 	{
 		"key": "format",
-		"value": "application\/vnd.ms-excel"
+		"value": "application/vnd.ms-excel"
 	},
 	{
 		"key": "harvest_source_title",
@@ -304,7 +304,7 @@
 	},
 	{
 		"key": "landingPage",
-		"value": "http:\/\/www.nrel.gov"
+		"value": "http://www.nrel.gov"
 	},
 	{
 		"key": "harvest_object_id",
@@ -312,7 +312,7 @@
 	},
 	{
 		"key": "accessURL",
-		"value": "http:\/\/en.openei.org\/doe-opendata\/dataset\/19316a50-e55d-45e2-b692-efcebfe16c95\/resource\/e58a209c-57c0-4423-ba90-2ff867baa015\/download\/totalsolarresourcetiltlatflattenedranked.xls"
+		"value": "http://en.openei.org/doe-opendata/dataset/19316a50-e55d-45e2-b692-efcebfe16c95/resource/e58a209c-57c0-4423-ba90-2ff867baa015/download/totalsolarresourcetiltlatflattenedranked.xls"
 	},
 	{
 		"key": "publisher",
@@ -320,7 +320,7 @@
 	},
 	{
 		"key": "license",
-		"value": "https:\/\/creativecommons.org\/publicdomain\/zero\/1.0\/"
+		"value": "https://creativecommons.org/publicdomain/zero/1.0/"
 	},
 	{
 		"key": "modified",
@@ -336,7 +336,7 @@
 	},
 	{
 		"key": "identifier",
-		"value": "http:\/\/en.openei.org\/doe-opendata\/dataset\/19316a50-e55d-45e2-b692-efcebfe16c95"
+		"value": "http://en.openei.org/doe-opendata/dataset/19316a50-e55d-45e2-b692-efcebfe16c95"
 	},
 	{
 		"state": "active",
@@ -353,7 +353,7 @@
 		"key": "harvest_source_title",
 		"value": "Energy JSON"
 	}],
-	"license_url": "http:\/\/www.opendefinition.org\/licenses\/cc-zero",
+	"license_url": "http://www.opendefinition.org/licenses/cc-zero",
 	"organization": {
 		"description": "",
 		"created": "2013-05-18T11:31:21.471948",
@@ -362,7 +362,7 @@
 		"revision_timestamp": "2013-05-31T20:48:37.771905",
 		"is_organization": true,
 		"state": "active",
-		"image_url": "http:\/\/energy.gov\/sites\/prod\/files\/styles\/imagelink\/public\/DoE-Logo.jpeg",
+		"image_url": "http://energy.gov/sites/prod/files/styles/imagelink/public/DoE-Logo.jpeg",
 		"revision_id": "14e1d3c1-4cc7-460c-bf1c-b10e3429b4b0",
 		"type": "organization",
 		"id": "735d0118-b2a7-4246-a0e3-608b0fa8d1ec",

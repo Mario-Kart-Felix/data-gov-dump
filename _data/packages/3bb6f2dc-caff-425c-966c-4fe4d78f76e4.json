@@ -36,7 +36,7 @@
 		"cache_url": null,
 		"name": "JPEG2000 and GeoTIFF",
 		"created": "2016-04-22T22:37:05.198775",
-		"url": "http:\/\/maps.vcgi.org\/gisdata\/vcgi\/imagery\/NAIP\/1M\/CLRIR\/2012\/COMP\/",
+		"url": "http://maps.vcgi.org/gisdata/vcgi/imagery/NAIP/1M/CLRIR/2012/COMP/",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 0,
@@ -63,7 +63,7 @@
 		"revision_timestamp": "2013-03-27T17:47:03.718032",
 		"is_organization": true,
 		"state": "active",
-		"image_url": "http:\/\/vcgi.vermont.gov\/sites\/all\/themes\/vt_template\/logo.png",
+		"image_url": "http://vcgi.vermont.gov/sites/all/themes/vt_template/logo.png",
 		"revision_id": "c5dfbbb0-f1e0-4db6-b566-e932e1520060",
 		"type": "organization",
 		"id": "0c3a4ebc-9929-4f21-bdd0-76a35d52f57d",
@@ -74,7 +74,7 @@
 	"name": "naip-1m-clrir-2012",
 	"isopen": false,
 	"url": null,
-	"notes": "The NAIP_1M_CLRIR_2012 dataset is a (1 meter) truecolor and infrared (4 band) NAIP imagery product acquired during the summer of 2012 by the USDA-FSA-APFO NAIP program, then reprojected to VT State Plane Meters and cropped to the USGS quarter quad boundary by VCGI. This data set contains imagery from the National Agriculture Imagery Program (NAIP). NAIP acquires digital ortho imagery during the agricultural growing seasons in the continental U.S.. A primary goal of the NAIP program is to enable availability of of ortho imagery within one year of acquisition. NAIP provides four main products: 1 meter ground sample distance (GSD) ortho imagery rectified to a horizontal accuracy of within +\/- 5 meters of reference digital ortho quarter quads (DOQQ's) from the National Digital Ortho Program (NDOP); 2 meter GSD ortho imagery rectified to within +\/- 10 meters of reference DOQQs; 1 meter GSD ortho imagery rectified to within +\/- 6 meters to true ground; and, 2 meter GSD ortho imagery rectified to within +\/- 10 meters to true ground. The tiling format of NAIP imagery is based on a 3.75' x 3.75' quarter quadrangle with a 300 meter buffer on all four sides. NAIP quarter quads are formatted to the UTM coordinate system using NAD83. NAIP imagery may contain as much as 10% cloud cover per tile.",
+	"notes": "The NAIP_1M_CLRIR_2012 dataset is a (1 meter) truecolor and infrared (4 band) NAIP imagery product acquired during the summer of 2012 by the USDA-FSA-APFO NAIP program, then reprojected to VT State Plane Meters and cropped to the USGS quarter quad boundary by VCGI. This data set contains imagery from the National Agriculture Imagery Program (NAIP). NAIP acquires digital ortho imagery during the agricultural growing seasons in the continental U.S.. A primary goal of the NAIP program is to enable availability of of ortho imagery within one year of acquisition. NAIP provides four main products: 1 meter ground sample distance (GSD) ortho imagery rectified to a horizontal accuracy of within +/- 5 meters of reference digital ortho quarter quads (DOQQ's) from the National Digital Ortho Program (NDOP); 2 meter GSD ortho imagery rectified to within +/- 10 meters of reference DOQQs; 1 meter GSD ortho imagery rectified to within +/- 6 meters to true ground; and, 2 meter GSD ortho imagery rectified to within +/- 10 meters to true ground. The tiling format of NAIP imagery is based on a 3.75' x 3.75' quarter quadrangle with a 300 meter buffer on all four sides. NAIP quarter quads are formatted to the UTM coordinate system using NAD83. NAIP imagery may contain as much as 10% cloud cover per tile.",
 	"owner_org": "0c3a4ebc-9929-4f21-bdd0-76a35d52f57d",
 	"extras": [{
 		"key": "bbox-east-long",
@@ -110,7 +110,7 @@
 	},
 	{
 		"key": "spatial",
-		"value": "{\"type\": \"Polygon\", \"coordinates\": [[[-72.75, 42.75], [-72.6875, 42.75], [-72.6875, 42.8125], [-72.75, 42.8125], [-72.75, 42.75]]]}"
+		"value": "{"type": "Polygon", "coordinates": [[[-72.75, 42.75], [-72.6875, 42.75], [-72.6875, 42.8125], [-72.75, 42.8125], [-72.75, 42.75]]]}"
 	},
 	{
 		"key": "progress",
@@ -118,7 +118,7 @@
 	},
 	{
 		"key": "access_constraints",
-		"value": "[\"Use Constraints: VCGI, State of VT, and the USDA-FSA-APFO Aerial Photography Field Office make no representations of any kind, including but not limited to the warranties of merchantability or fitness for a particular use, nor are any such warranties to be implied with respect to the data.\", \"Access Constraints: None\"]"
+		"value": "["Use Constraints: VCGI, State of VT, and the USDA-FSA-APFO Aerial Photography Field Office make no representations of any kind, including but not limited to the warranties of merchantability or fitness for a particular use, nor are any such warranties to be implied with respect to the data.", "Access Constraints: None"]"
 	},
 	{
 		"key": "temporal-extent-begin",
@@ -138,7 +138,7 @@
 	},
 	{
 		"key": "dataset-reference-date",
-		"value": "[{\"type\": \"publication\", \"value\": \"2014-06-27\"}, {\"type\": \"publication\", \"value\": \"2012-10-12\"}]"
+		"value": "[{"type": "publication", "value": "2014-06-27"}, {"type": "publication", "value": "2012-10-12"}]"
 	},
 	{
 		"key": "frequency-of-update",
@@ -146,7 +146,7 @@
 	},
 	{
 		"key": "licence",
-		"value": "[\"VCGI and the State of Vermont make no representations of any kind, including but not limited to the warranties of merchantability or fitness for a particular use, nor are any such warranties to be implied with respect to the data.\"]"
+		"value": "["VCGI and the State of Vermont make no representations of any kind, including but not limited to the warranties of merchantability or fitness for a particular use, nor are any such warranties to be implied with respect to the data."]"
 	},
 	{
 		"key": "metadata_type",
@@ -154,7 +154,7 @@
 	},
 	{
 		"key": "responsible-party",
-		"value": "[{\"name\": \"VT Center for Geographic Information\", \"roles\": [\"pointOfContact\"]}]"
+		"value": "[{"name": "VT Center for Geographic Information", "roles": ["pointOfContact"]}]"
 	},
 	{
 		"key": "temporal-extent-end",

@@ -36,7 +36,7 @@
 		"cache_url": null,
 		"name": "Shapefile Zip File",
 		"created": "2016-09-26T13:51:10.824788",
-		"url": "http:\/\/www2.census.gov\/geo\/tiger\/TIGER2016\/AREAWATER",
+		"url": "http://www2.census.gov/geo/tiger/TIGER2016/AREAWATER",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 0,
@@ -53,7 +53,7 @@
 		"state": "active",
 		"last_modified": null,
 		"hash": "",
-		"description": "Should be used for most mapping projects--this is our most comprehensive dataset. Designed for use with GIS (geographic\n                                             information systems).",
+		"description": "Should be used for most mapping projects--this is our most comprehensive dataset. Designed for use with GIS (geographicn                                             information systems).",
 		"format": "HTML",
 		"tracking_summary": {
 			"total": 0,
@@ -63,9 +63,9 @@
 		"resource_locator_protocol": "",
 		"mimetype": null,
 		"cache_url": null,
-		"name": "TIGER\/Line\u00ae Shapefiles",
+		"name": "TIGER/Lineu00ae Shapefiles",
 		"created": "2016-09-26T13:51:10.824820",
-		"url": "http:\/\/www.census.gov\/geo\/maps-data\/data\/tiger-line.html",
+		"url": "http://www.census.gov/geo/maps-data/data/tiger-line.html",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 1,
@@ -94,7 +94,7 @@
 		"cache_url": null,
 		"name": "Entity and Attribute File for the 2016 Area Hydrography County-based Shapefile",
 		"created": "2016-09-26T13:51:10.824829",
-		"url": "http:\/\/meta.geo.census.gov\/data\/existing\/decennial\/GEO\/GPMB\/TIGERline\/TIGER2016\/areawater\/tl_2016_areawater.shp.ea.iso.xml",
+		"url": "http://meta.geo.census.gov/data/existing/decennial/GEO/GPMB/TIGERline/TIGER2016/areawater/tl_2016_areawater.shp.ea.iso.xml",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 2,
@@ -103,7 +103,7 @@
 	}],
 	"num_resources": 3,
 	"tags": [],
-	"title": "TIGER\/Line Shapefile, 2016, Series Information for the Area Hydrography County-based Shapefile",
+	"title": "TIGER/Line Shapefile, 2016, Series Information for the Area Hydrography County-based Shapefile",
 	"tracking_summary": {
 		"total": 3,
 		"recent": 1
@@ -114,7 +114,7 @@
 	"name": "tiger-line-shapefile-2016-series-information-for-the-area-hydrography-county-based-shapefile",
 	"isopen": false,
 	"url": null,
-	"notes": "The TIGER\/Line shapefiles and related database files (.dbf) are an extract of selected geographic and cartographic information from the\n                                 U.S. Census Bureau's Master Address File \/ Topologically Integrated Geographic Encoding and Referencing (MAF\/TIGER) Database (MTDB).\n                                 The MTDB represents a seamless national file with no overlaps or gaps between parts, however, each TIGER\/Line File is designed to stand\n                                 alone as an independent data set, or they can be combined to cover the entire nation.  The Area Hydrography Shapefile contains the\n                                 geometry and attributes of both perennial and intermittent area hydrography features, including ponds, lakes, oceans, swamps (up to the\n                                 U.S. nautical three-mile limit), glaciers, and the area covered by large rivers, streams, and\/or canals that are represented as\n                                 double-line drainage.  Single-line drainage water features can be found in the Linear Hydrography Shapefile (LINEARWATER.shp).  Linear\n                                 water features includes single-line drainage water features and artificial path features, where they exist, that run through\n                                 double-line drainage features such as rivers, streams, and\/or canals, and serve as a linear representation of these features.\n            ",
+	"notes": "The TIGER/Line shapefiles and related database files (.dbf) are an extract of selected geographic and cartographic information from then                                 U.S. Census Bureau's Master Address File / Topologically Integrated Geographic Encoding and Referencing (MAF/TIGER) Database (MTDB).n                                 The MTDB represents a seamless national file with no overlaps or gaps between parts, however, each TIGER/Line File is designed to standn                                 alone as an independent data set, or they can be combined to cover the entire nation.  The Area Hydrography Shapefile contains then                                 geometry and attributes of both perennial and intermittent area hydrography features, including ponds, lakes, oceans, swamps (up to then                                 U.S. nautical three-mile limit), glaciers, and the area covered by large rivers, streams, and/or canals that are represented asn                                 double-line drainage.  Single-line drainage water features can be found in the Linear Hydrography Shapefile (LINEARWATER.shp).  Linearn                                 water features includes single-line drainage water features and artificial path features, where they exist, that run throughn                                 double-line drainage features such as rivers, streams, and/or canals, and serve as a linear representation of these features.n            ",
 	"license_title": null,
 	"extras": [{
 		"key": "bbox-east-long",
@@ -138,7 +138,7 @@
 	},
 	{
 		"key": "dataset-reference-date",
-		"value": "[{\"type\": \"publication\", \"value\": \"2016\"}]"
+		"value": "[{"type": "publication", "value": "2016"}]"
 	},
 	{
 		"key": "resource-type",
@@ -178,7 +178,7 @@
 	},
 	{
 		"key": "spatial",
-		"value": "{\"type\": \"Polygon\", \"coordinates\": [[[-179.231086, -14.601813], [179.859681, -14.601813], [179.859681, 71.441059], [-179.231086, 71.441059], [-179.231086, -14.601813]]]}"
+		"value": "{"type": "Polygon", "coordinates": [[[-179.231086, -14.601813], [179.859681, -14.601813], [179.859681, 71.441059], [-179.231086, 71.441059], [-179.231086, -14.601813]]]}"
 	},
 	{
 		"key": "guid",
@@ -190,7 +190,7 @@
 	},
 	{
 		"key": "access_constraints",
-		"value": "[\" Access Constraints: None\", \" Use Constraints:The TIGER\/Line Shapefile products are not copyrighted however TIGER\/Line and Census TIGER are registered\\n                                        trademarks of the U.S. Census Bureau.  These products are free to use in a product or publication, however acknowledgement must\\n                                        be given to the U.S. Census Bureau as the source.\\n                                        \\n                                        The boundary information in the TIGER\/Line Shapefiles are for statistical data collection and tabulation purposes only; their\\n                                        depiction and designation for statistical purposes does not constitute a determination of jurisdictional authority or rights of\\n                                        ownership or entitlement and they are not legal land descriptions. Coordinates in the TIGER\/Line shapefiles have six implied\\n                                        decimal places, but the positional accuracy of these coordinates is not as great as the six decimal places suggest.\\n                  \"]"
+		"value": "[" Access Constraints: None", " Use Constraints:The TIGER/Line Shapefile products are not copyrighted however TIGER/Line and Census TIGER are registered\n                                        trademarks of the U.S. Census Bureau.  These products are free to use in a product or publication, however acknowledgement must\n                                        be given to the U.S. Census Bureau as the source.\n                                        \n                                        The boundary information in the TIGER/Line Shapefiles are for statistical data collection and tabulation purposes only; their\n                                        depiction and designation for statistical purposes does not constitute a determination of jurisdictional authority or rights of\n                                        ownership or entitlement and they are not legal land descriptions. Coordinates in the TIGER/Line shapefiles have six implied\n                                        decimal places, but the positional accuracy of these coordinates is not as great as the six decimal places suggest.\n                  "]"
 	},
 	{
 		"key": "spatial_harvester",
@@ -232,7 +232,7 @@
 		"revision_timestamp": "2013-08-29T13:37:04.171127",
 		"is_organization": true,
 		"state": "active",
-		"image_url": "http:\/\/www.census.gov\/main\/img\/home\/CensusLogo-white.png",
+		"image_url": "http://www.census.gov/main/img/home/CensusLogo-white.png",
 		"revision_id": "0995f525-d563-4254-a535-af5b926fe663",
 		"type": "organization",
 		"id": "31c49abe-512a-412a-9cc7-5b2601325d6b",

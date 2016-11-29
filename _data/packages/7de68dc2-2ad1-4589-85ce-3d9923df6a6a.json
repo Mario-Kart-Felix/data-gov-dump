@@ -36,7 +36,7 @@
 		"cache_url": null,
 		"name": "NAIP Imagery Map Service (ArcGIS)",
 		"created": "2016-09-27T04:31:04.456522",
-		"url": "http:\/\/services.nationalmap.gov\/arcgis\/rest\/services\/USGSNAIPImagery\/ImageServer",
+		"url": "http://services.nationalmap.gov/arcgis/rest/services/USGSNAIPImagery/ImageServer",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 0,
@@ -65,7 +65,7 @@
 		"cache_url": null,
 		"name": "NAIP Imagery Map Service (WMS)",
 		"created": "2016-09-27T04:31:04.456553",
-		"url": "http:\/\/services.nationalmap.gov\/arcgis\/services\/USGSNAIPImagery\/MapServer\/WMSServer?request=GetCapabilities&service=WMS",
+		"url": "http://services.nationalmap.gov/arcgis/services/USGSNAIPImagery/MapServer/WMSServer?request=GetCapabilities&service=WMS",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 1,
@@ -95,7 +95,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2016-09-27T04:31:04.456562",
-		"url": "http:\/\/viewer.nationalmap.gov",
+		"url": "http://viewer.nationalmap.gov",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 2,
@@ -115,7 +115,7 @@
 	"name": "usgs-naip-imagery-overlay-map-service-from-the-national-map",
 	"isopen": false,
 	"url": null,
-	"notes": "The USGS NAIP Imagery service from The National Map (TNM) consists of high resolution images that combine the visual attributes of an aerial photograph with the spatial accuracy and reliability of a map. Resolution of National Agriculture Imagery Program (NAIP) data is 1 meter, which means that every pixel in the digital orthoimage covers a one meter square of the earth\u00e2\u0080\u0099s surface. Many states contribute orthoimagery to The National Map, and USGS relies on a partnership with the U.S. Department of Agriculture\u00e2\u0080\u0099s Farm Service Agency for NAIP data. The USGS NAIP Imagery service is a mosaic of 1 meter resolution natural color and color infrared aerial imagery, containing NAIP and other imagery sources to complete the mosaic. The National Map viewer allows free downloads of public domain, 1-meter resolution compressed orthoimagery in JPEG 2000 (.jp2) format for the conterminous United States, with many urban areas and other locations at 1-foot (or better) resolution, also in JPEG 2000 (.jp2) format. For additional information on orthoimagery, go to http:\/\/nationalmap.gov\/ortho.html",
+	"notes": "The USGS NAIP Imagery service from The National Map (TNM) consists of high resolution images that combine the visual attributes of an aerial photograph with the spatial accuracy and reliability of a map. Resolution of National Agriculture Imagery Program (NAIP) data is 1 meter, which means that every pixel in the digital orthoimage covers a one meter square of the earthu00e2u0080u0099s surface. Many states contribute orthoimagery to The National Map, and USGS relies on a partnership with the U.S. Department of Agricultureu00e2u0080u0099s Farm Service Agency for NAIP data. The USGS NAIP Imagery service is a mosaic of 1 meter resolution natural color and color infrared aerial imagery, containing NAIP and other imagery sources to complete the mosaic. The National Map viewer allows free downloads of public domain, 1-meter resolution compressed orthoimagery in JPEG 2000 (.jp2) format for the conterminous United States, with many urban areas and other locations at 1-foot (or better) resolution, also in JPEG 2000 (.jp2) format. For additional information on orthoimagery, go to http://nationalmap.gov/ortho.html",
 	"license_title": null,
 	"extras": [{
 		"key": "bbox-east-long",
@@ -143,7 +143,7 @@
 	},
 	{
 		"key": "graphic-preview-file",
-		"value": "http:\/\/thor-f5.er.usgs.gov\/ngtoc\/metadata\/waf\/services\/overlays\/browse\/USGSNAIPImagery.png"
+		"value": "http://thor-f5.er.usgs.gov/ngtoc/metadata/waf/services/overlays/browse/USGSNAIPImagery.png"
 	},
 	{
 		"key": "bbox-south-lat",
@@ -159,7 +159,7 @@
 	},
 	{
 		"key": "spatial",
-		"value": "{\"type\": \"Polygon\", \"coordinates\": [[[-179.1666667, 17.625], [180.0, 17.625], [180.0, 71.5], [-179.1666667, 71.5], [-179.1666667, 17.625]]]}"
+		"value": "{"type": "Polygon", "coordinates": [[[-179.1666667, 17.625], [180.0, 17.625], [180.0, 71.5], [-179.1666667, 71.5], [-179.1666667, 17.625]]]}"
 	},
 	{
 		"key": "progress",
@@ -167,7 +167,7 @@
 	},
 	{
 		"key": "access_constraints",
-		"value": "[\"Use Constraints: None. Acknowledgement of the originating agencies would be appreciated in products derived from these data.\", \"Access Constraints: None\"]"
+		"value": "["Use Constraints: None. Acknowledgement of the originating agencies would be appreciated in products derived from these data.", "Access Constraints: None"]"
 	},
 	{
 		"key": "contact-email",
@@ -183,7 +183,7 @@
 	},
 	{
 		"key": "dataset-reference-date",
-		"value": "[{\"type\": \"publication\", \"value\": \"2016-01-01\"}]"
+		"value": "[{"type": "publication", "value": "2016-01-01"}]"
 	},
 	{
 		"key": "graphic-preview-description",
@@ -195,7 +195,7 @@
 	},
 	{
 		"key": "licence",
-		"value": "[\"Although these data have been processed successfully on a computer system at the\\n            U.S. Geological Survey, no warranty expressed or implied is made regarding the accuracy\\n            or utility of the data on any other system or for general or scientific purposes, nor\\n            shall the act of distribution constitute any such warranty. This disclaimer applies both\\n            to individual use of the data and aggregate use with other data. It is strongly\\n            recommended that these data are directly acquired from a U.S. Geological Survey server,\\n            and not indirectly through other sources which may have changed the data in some way. It\\n            is also strongly recommended that careful attention be paid to the contents of the\\n            metadata file associated with these data. The U.S. Geological Survey shall not be held\\n            liable for improper or incorrect use of the data described and\/or contained\\n            herein.\"]"
+		"value": "["Although these data have been processed successfully on a computer system at the\n            U.S. Geological Survey, no warranty expressed or implied is made regarding the accuracy\n            or utility of the data on any other system or for general or scientific purposes, nor\n            shall the act of distribution constitute any such warranty. This disclaimer applies both\n            to individual use of the data and aggregate use with other data. It is strongly\n            recommended that these data are directly acquired from a U.S. Geological Survey server,\n            and not indirectly through other sources which may have changed the data in some way. It\n            is also strongly recommended that careful attention be paid to the contents of the\n            metadata file associated with these data. The U.S. Geological Survey shall not be held\n            liable for improper or incorrect use of the data described and/or contained\n            herein."]"
 	},
 	{
 		"key": "metadata_type",
@@ -203,7 +203,7 @@
 	},
 	{
 		"key": "responsible-party",
-		"value": "[{\"name\": \"U.S. Geological Survey, National Geospatial Technical Operations Center\", \"roles\": [\"pointOfContact\"]}]"
+		"value": "[{"name": "U.S. Geological Survey, National Geospatial Technical Operations Center", "roles": ["pointOfContact"]}]"
 	},
 	{
 		"key": "spatial-data-service-type",
@@ -238,14 +238,14 @@
 		"value": "Overlay Map Services in The National Map"
 	}],
 	"organization": {
-		"description": "http:\/\/www.usgs.gov\/\r\nThe USGS is a federal science agency that provides impartial information on the health of our ecosystems and environment, the natural hazards that threaten us, the natural resources we rely on, the impacts of climate and land-use change, and the core science systems that help us provide timely, relevant, and useable information.",
+		"description": "http://www.usgs.gov/rnThe USGS is a federal science agency that provides impartial information on the health of our ecosystems and environment, the natural hazards that threaten us, the natural resources we rely on, the impacts of climate and land-use change, and the core science systems that help us provide timely, relevant, and useable information.",
 		"created": "2013-03-14T03:44:38.263357",
 		"title": "U.S. Geological Survey, Department of the Interior",
 		"name": "usgs-gov",
 		"revision_timestamp": "2014-09-02T13:43:52.167023",
 		"is_organization": true,
 		"state": "active",
-		"image_url": "http:\/\/pubs.usgs.gov\/sir\/2004\/5296\/04-5296_confluence_park\/usgs_logo.gif",
+		"image_url": "http://pubs.usgs.gov/sir/2004/5296/04-5296_confluence_park/usgs_logo.gif",
 		"revision_id": "2858aa99-9501-4f96-82e5-9647b968ed66",
 		"type": "organization",
 		"id": "bd2cdd5a-4d65-46c0-9937-c8381175f104",

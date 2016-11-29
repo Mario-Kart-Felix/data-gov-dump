@@ -37,7 +37,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2015-10-11T16:30:05.846122",
-		"url": "http:\/\/maps.ngdc.noaa.gov\/viewers\/firedetects\/",
+		"url": "http://maps.ngdc.noaa.gov/viewers/firedetects/",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 0,
@@ -67,7 +67,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2015-10-11T16:30:05.846152",
-		"url": "http:\/\/maps.ngdc.noaa.gov\/viewers\/firedetects\/",
+		"url": "http://maps.ngdc.noaa.gov/viewers/firedetects/",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 1,
@@ -96,7 +96,7 @@
 		"cache_url": null,
 		"name": "GCMD Feedback Form",
 		"created": "2015-10-11T16:30:05.846160",
-		"url": "http:\/\/gcmd.nasa.gov\/MailComments\/MailComments.jsf?rcpt=gcmduso",
+		"url": "http://gcmd.nasa.gov/MailComments/MailComments.jsf?rcpt=gcmduso",
 		"webstore_url": null,
 		"resource_locator_function": "information",
 		"position": 2,
@@ -125,7 +125,7 @@
 		"cache_url": null,
 		"name": "GCMD Keywords Page",
 		"created": "2015-10-11T16:30:05.846167",
-		"url": "http:\/\/gcmd.nasa.gov\/learn\/keyword_list.html",
+		"url": "http://gcmd.nasa.gov/learn/keyword_list.html",
 		"webstore_url": null,
 		"resource_locator_function": "information",
 		"position": 3,
@@ -145,7 +145,7 @@
 	"name": "goes-fire-detects-from-the-wildfire-automated-biomass-burning-algorithm-wf-abba",
 	"isopen": false,
 	"url": null,
-	"notes": "The GOES ABBA is a contextual multi-spectral thresholding algorithm which utilizes dynamic local thresholds derived from the GOES satellite imagery and ancillary databases to locate fire pixels and provides estimates of the sub-pixel area and mean temperature of the fire(s). Developed by Dr. Elaine Prins, NESDIS\/ORA at the Cooperative Institute for Meteorological Satellite Studies (CIMSS), the algorithm is now run operationally by NESDIS\/OSDPD. OSDPD produces and archives fire detects over N. America.",
+	"notes": "The GOES ABBA is a contextual multi-spectral thresholding algorithm which utilizes dynamic local thresholds derived from the GOES satellite imagery and ancillary databases to locate fire pixels and provides estimates of the sub-pixel area and mean temperature of the fire(s). Developed by Dr. Elaine Prins, NESDIS/ORA at the Cooperative Institute for Meteorological Satellite Studies (CIMSS), the algorithm is now run operationally by NESDIS/OSDPD. OSDPD produces and archives fire detects over N. America.",
 	"license_title": null,
 	"extras": [{
 		"key": "bbox-east-long",
@@ -181,7 +181,7 @@
 	},
 	{
 		"key": "spatial",
-		"value": "{\"type\": \"Polygon\", \"coordinates\": [[[-165.0, 5.0], [-35.0, 5.0], [-35.0, 60.0], [-165.0, 60.0], [-165.0, 5.0]]]}"
+		"value": "{"type": "Polygon", "coordinates": [[[-165.0, 5.0], [-35.0, 5.0], [-35.0, 60.0], [-165.0, 60.0], [-165.0, 5.0]]]}"
 	},
 	{
 		"key": "progress",
@@ -189,7 +189,7 @@
 	},
 	{
 		"key": "access_constraints",
-		"value": "[\"Use Constraints: None\", \"Access Constraints: None\"]"
+		"value": "["Use Constraints: None", "Access Constraints: None"]"
 	},
 	{
 		"key": "temporal-extent-begin",
@@ -209,7 +209,7 @@
 	},
 	{
 		"key": "dataset-reference-date",
-		"value": "[{\"type\": \"publication\", \"value\": \"2003-07-01\"}]"
+		"value": "[{"type": "publication", "value": "2003-07-01"}]"
 	},
 	{
 		"key": "frequency-of-update",
@@ -217,7 +217,7 @@
 	},
 	{
 		"key": "licence",
-		"value": "[\"This server and data are not considered \\\"operational.\\\" We do not guarantee availability or timely delivery of data and the server should not be used to support operational observation, forecasting, emergency, or disaster mitigation operations, either public or private.\"]"
+		"value": "["This server and data are not considered \"operational.\" We do not guarantee availability or timely delivery of data and the server should not be used to support operational observation, forecasting, emergency, or disaster mitigation operations, either public or private."]"
 	},
 	{
 		"key": "metadata_type",
@@ -225,7 +225,7 @@
 	},
 	{
 		"key": "responsible-party",
-		"value": "[{\"name\": \"National Oceanic and Atmospheric Administration (NOAA), National Environmental Satellite, Data, and Information Service (NESDIS), Office of Satellite Data Processing and Distribution (OSDPD), Satellite Services Division (SSD), Fire Detection Program\", \"roles\": [\"pointOfContact\"]}]"
+		"value": "[{"name": "National Oceanic and Atmospheric Administration (NOAA), National Environmental Satellite, Data, and Information Service (NESDIS), Office of Satellite Data Processing and Distribution (OSDPD), Satellite Services Division (SSD), Fire Detection Program", "roles": ["pointOfContact"]}]"
 	},
 	{
 		"key": "spatial-data-service-type",
@@ -237,7 +237,7 @@
 	},
 	{
 		"package_id": "750c3a59-4f2b-4c62-a805-3a5470714b8a",
-		"value": "wildfire, gas flaring, national geophysical data center, nesdis, noaa, u.s. department of commerce, national centers for environmental information, nesdis, noaa, u.s. department of commerce, thermal infrared, infrared wavelengths, radiance or imagery, fire, infrared imagery, doc\/noaa\/nesdis\/ngdc, reflected infrared, north america, environmental impacts, doc\/noaa\/nesdis\/ncei, earth science, human dimensions, natural hazards",
+		"value": "wildfire, gas flaring, national geophysical data center, nesdis, noaa, u.s. department of commerce, national centers for environmental information, nesdis, noaa, u.s. department of commerce, thermal infrared, infrared wavelengths, radiance or imagery, fire, infrared imagery, doc/noaa/nesdis/ngdc, reflected infrared, north america, environmental impacts, doc/noaa/nesdis/ncei, earth science, human dimensions, natural hazards",
 		"revision_timestamp": "2015-10-11T20:30:05.754893",
 		"state": "active",
 		"key": "tags",
@@ -267,7 +267,7 @@
 		"revision_timestamp": "2013-03-25T23:05:12.923863",
 		"is_organization": true,
 		"state": "active",
-		"image_url": "https:\/\/fortress.wa.gov\/dfw\/score\/score\/images\/noaa_logo.png",
+		"image_url": "https://fortress.wa.gov/dfw/score/score/images/noaa_logo.png",
 		"revision_id": "c6d43080-22e1-405e-a83d-f2a512d9e867",
 		"type": "organization",
 		"id": "e811f0b4-451f-4896-9e8f-fc6802837819",

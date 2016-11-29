@@ -37,7 +37,7 @@
 		"cache_url": null,
 		"name": "Esri Rest API Endpoint",
 		"created": "2015-11-25T00:55:46.548798",
-		"url": "http:\/\/coast.noaa.gov\/arcgis\/rest\/services\/MarineCadastre\/",
+		"url": "http://coast.noaa.gov/arcgis/rest/services/MarineCadastre/",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 0,
@@ -67,7 +67,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2015-11-25T00:55:46.548834",
-		"url": "http:\/\/www.marinecadastre.gov\/data\/default.aspx",
+		"url": "http://www.marinecadastre.gov/data/default.aspx",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 1,
@@ -97,7 +97,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2015-11-25T00:55:46.548842",
-		"url": "http:\/\/www.coast.noaa.gov\/",
+		"url": "http://www.coast.noaa.gov/",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 2,
@@ -127,7 +127,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2015-11-25T00:55:46.548849",
-		"url": "http:\/\/www.boem.gov\/National-Assessment-Shape-Files\/",
+		"url": "http://www.boem.gov/National-Assessment-Shape-Files/",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 3,
@@ -157,7 +157,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2015-11-25T00:55:46.548856",
-		"url": "http:\/\/www.boem.gov\/OCSOilandGasResourcePlays\/",
+		"url": "http://www.boem.gov/OCSOilandGasResourcePlays/",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 4,
@@ -187,7 +187,7 @@
 		"cache_url": null,
 		"name": "Esri Rest API Endpoint",
 		"created": "2015-11-25T00:55:46.548862",
-		"url": "http:\/\/gis.boemre.gov\/arcgis\/rest\/services\/BOEM_BSEE\/MMC_Layers\/MapServer\/26",
+		"url": "http://gis.boemre.gov/arcgis/rest/services/BOEM_BSEE/MMC_Layers/MapServer/26",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 5,
@@ -220,11 +220,11 @@
 	"name": "oil-and-gas-resource-playsef171",
 	"isopen": false,
 	"url": null,
-	"notes": "A group of known and\/or postulated sub-seafloor pools (hydrocarbon accumulations) that share common geologic, geographic, and temporal properties, such as history of hydrocarbon generation, migration, reservoir development, and entrapment. Geologic classifications of each play and its potential are described in the associated reports for each region. The analysis was based on seismic surveys analyzed by BOEM geologists.",
+	"notes": "A group of known and/or postulated sub-seafloor pools (hydrocarbon accumulations) that share common geologic, geographic, and temporal properties, such as history of hydrocarbon generation, migration, reservoir development, and entrapment. Geologic classifications of each play and its potential are described in the associated reports for each region. The analysis was based on seismic surveys analyzed by BOEM geologists.",
 	"license_title": null,
 	"extras": [{
 		"key": "responsible-party",
-		"value": "[{\"name\": \"Bureau of Ocean Energy Management\", \"roles\": [\"pointOfContact\"]}]"
+		"value": "[{"name": "Bureau of Ocean Energy Management", "roles": ["pointOfContact"]}]"
 	},
 	{
 		"key": "contact-email",
@@ -244,7 +244,7 @@
 	},
 	{
 		"key": "dataset-reference-date",
-		"value": "[{\"type\": \"publication\", \"value\": \"2015-01-13\"}]"
+		"value": "[{"type": "publication", "value": "2015-01-13"}]"
 	},
 	{
 		"key": "resource-type",
@@ -272,7 +272,7 @@
 	},
 	{
 		"key": "licence",
-		"value": "[\"Although these data have been processed successfully on a computer system at the Bureau of Ocean Energy Management, no warranty expressed or implied is made regarding the accuracy or utility of the data on any other system or for general or scientific purposes, nor shall the act of distribution constitute any such warranty. It is also strongly recommended that careful attention be paid to the contents of the metadata file associated with these data to evaluate data set limitations, restrictions or intended use. The Bureau of Ocean Energy Management shall not be held liable for improper or incorrect use of the data described and\/or contained herein.\"]"
+		"value": "["Although these data have been processed successfully on a computer system at the Bureau of Ocean Energy Management, no warranty expressed or implied is made regarding the accuracy or utility of the data on any other system or for general or scientific purposes, nor shall the act of distribution constitute any such warranty. It is also strongly recommended that careful attention be paid to the contents of the metadata file associated with these data to evaluate data set limitations, restrictions or intended use. The Bureau of Ocean Energy Management shall not be held liable for improper or incorrect use of the data described and/or contained herein."]"
 	},
 	{
 		"key": "metadata_type",
@@ -284,7 +284,7 @@
 	},
 	{
 		"key": "spatial",
-		"value": "{\"type\": \"Polygon\", \"coordinates\": [[[-168.986722, 23.818396], [-65.731898, 23.818396], [-65.731898, 73.486251], [-168.986722, 73.486251], [-168.986722, 23.818396]]]}"
+		"value": "{"type": "Polygon", "coordinates": [[[-168.986722, 23.818396], [-65.731898, 23.818396], [-65.731898, 73.486251], [-168.986722, 73.486251], [-168.986722, 23.818396]]]}"
 	},
 	{
 		"key": "guid",
@@ -296,7 +296,7 @@
 	},
 	{
 		"key": "access_constraints",
-		"value": "[\"Use Constraints: These data are intended for coastal and ocean use planning. Not for navigation.\", \"Access Constraints: None\"]"
+		"value": "["Use Constraints: These data are intended for coastal and ocean use planning. Not for navigation.", "Access Constraints: None"]"
 	},
 	{
 		"key": "spatial_harvester",
@@ -338,7 +338,7 @@
 		"revision_timestamp": "2013-03-20T22:26:39.819248",
 		"is_organization": true,
 		"state": "active",
-		"image_url": "http:\/\/www.boem.gov\/images\/boem\/layout\/logo.png",
+		"image_url": "http://www.boem.gov/images/boem/layout/logo.png",
 		"revision_id": "6f2fda4e-48e9-42f6-b1dd-da068900ba24",
 		"type": "organization",
 		"id": "54ed71a6-4861-4dc1-aa78-c5661ba9ab04",

@@ -37,7 +37,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2016-05-31T03:18:57.497986",
-		"url": "https:\/\/coast.noaa.gov\/dataviewer\/#\/lidar\/search\/where:ID=539",
+		"url": "https://coast.noaa.gov/dataviewer/#/lidar/search/where:ID=539",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 0,
@@ -67,7 +67,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2016-05-31T03:18:57.498014",
-		"url": "https:\/\/coast.noaa.gov\/htdata\/lidar1_z\/geoid12a\/data\/539",
+		"url": "https://coast.noaa.gov/htdata/lidar1_z/geoid12a/data/539",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 1,
@@ -97,7 +97,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2016-05-31T03:18:57.498025",
-		"url": "https:\/\/coast.noaa.gov\/dataviewer",
+		"url": "https://coast.noaa.gov/dataviewer",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 2,
@@ -127,7 +127,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2016-05-31T03:18:57.498034",
-		"url": "https:\/\/coast.noaa.gov",
+		"url": "https://coast.noaa.gov",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 3,
@@ -149,7 +149,7 @@
 		"revision_timestamp": "2013-03-25T23:05:12.923863",
 		"is_organization": true,
 		"state": "active",
-		"image_url": "https:\/\/fortress.wa.gov\/dfw\/score\/score\/images\/noaa_logo.png",
+		"image_url": "https://fortress.wa.gov/dfw/score/score/images/noaa_logo.png",
 		"revision_id": "c6d43080-22e1-405e-a83d-f2a512d9e867",
 		"type": "organization",
 		"id": "e811f0b4-451f-4896-9e8f-fc6802837819",
@@ -160,7 +160,7 @@
 	"name": "2007-florida-division-of-emergency-management-fdem-lidar-project-eastern-indian-river-county",
 	"isopen": false,
 	"url": null,
-	"notes": "This Light Detection and Ranging (LiDAR) LAS dataset is a topographic survey conducted for a coalition of GIS practitioners, including the Florida Division of Emergency Management (FDEM), Florida Water Management Districts, Florida Fish and Wildlife Conservation Commission, Florida Department of Environmental Protection, Army Corps of Engineers Jacksonville District, and other state and federal agencies. The goal for this project is to use the LiDAR data as new elevation inputs for updated SLOSH data grids. The ultimate result is the update of the Regional Hurricane Evacuation Studies (RHES) for the state. The State of Florida Division of Emergency Management LiDAR Survey was collected under the guidance of a Professional Mapper\/Surveyor. Data were collected for 255 square miles in the eastern portion of Indian River County, Florida from August 24 - 28, 2007. This is a classified lidar data set. The data are classified: 1 = Unclassified, 2 = Ground (Bare Earth), 7 = Noise, 9 = Water and 12 = Overlap. The data was collected at a maximum post spacing of 4 feet in unobscured areas for random point data.",
+	"notes": "This Light Detection and Ranging (LiDAR) LAS dataset is a topographic survey conducted for a coalition of GIS practitioners, including the Florida Division of Emergency Management (FDEM), Florida Water Management Districts, Florida Fish and Wildlife Conservation Commission, Florida Department of Environmental Protection, Army Corps of Engineers Jacksonville District, and other state and federal agencies. The goal for this project is to use the LiDAR data as new elevation inputs for updated SLOSH data grids. The ultimate result is the update of the Regional Hurricane Evacuation Studies (RHES) for the state. The State of Florida Division of Emergency Management LiDAR Survey was collected under the guidance of a Professional Mapper/Surveyor. Data were collected for 255 square miles in the eastern portion of Indian River County, Florida from August 24 - 28, 2007. This is a classified lidar data set. The data are classified: 1 = Unclassified, 2 = Ground (Bare Earth), 7 = Noise, 9 = Water and 12 = Overlap. The data was collected at a maximum post spacing of 4 feet in unobscured areas for random point data.",
 	"owner_org": "e811f0b4-451f-4896-9e8f-fc6802837819",
 	"extras": [{
 		"key": "bbox-east-long",
@@ -196,7 +196,7 @@
 	},
 	{
 		"key": "spatial",
-		"value": "{\"type\": \"Polygon\", \"coordinates\": [[[-80.61717, 27.550789], [-80.30907, 27.550789], [-80.30907, 27.867889], [-80.61717, 27.867889], [-80.61717, 27.550789]]]}"
+		"value": "{"type": "Polygon", "coordinates": [[[-80.61717, 27.550789], [-80.30907, 27.550789], [-80.30907, 27.867889], [-80.61717, 27.867889], [-80.61717, 27.550789]]]}"
 	},
 	{
 		"key": "progress",
@@ -204,7 +204,7 @@
 	},
 	{
 		"key": "access_constraints",
-		"value": "[\"Use Constraints: Users should be aware that temporal changes may have occurred since this data set was collected and some parts of this data may no longer represent actual surface conditions. Users should not use this data for critical applications without a full awareness of its limitations.\", \"Access Constraints: None\"]"
+		"value": "["Use Constraints: Users should be aware that temporal changes may have occurred since this data set was collected and some parts of this data may no longer represent actual surface conditions. Users should not use this data for critical applications without a full awareness of its limitations.", "Access Constraints: None"]"
 	},
 	{
 		"key": "temporal-extent-begin",
@@ -224,7 +224,7 @@
 	},
 	{
 		"key": "dataset-reference-date",
-		"value": "[{\"type\": \"publication\", \"value\": \"2008-01-01\"}]"
+		"value": "[{"type": "publication", "value": "2008-01-01"}]"
 	},
 	{
 		"key": "frequency-of-update",
@@ -232,7 +232,7 @@
 	},
 	{
 		"key": "licence",
-		"value": "[\"\\nAny conclusions drawn from the analysis of this information are not the responsibility of NOAA, the Office for Coastal Management\\nor its partners.\\n\"]"
+		"value": "["\nAny conclusions drawn from the analysis of this information are not the responsibility of NOAA, the Office for Coastal Management\nor its partners.\n"]"
 	},
 	{
 		"key": "metadata_type",
@@ -240,7 +240,7 @@
 	},
 	{
 		"key": "responsible-party",
-		"value": "[{\"name\": \"Florida DEM\", \"roles\": [\"pointOfContact\"]}]"
+		"value": "[{"name": "Florida DEM", "roles": ["pointOfContact"]}]"
 	},
 	{
 		"key": "temporal-extent-end",
@@ -256,7 +256,7 @@
 	},
 	{
 		"key": "tags",
-		"value": "indian river county, united states, hydrology, stereo model, florida, terrain, lidar, photogrammetry, bathymetry\/topography, contours, dem",
+		"value": "indian river county, united states, hydrology, stereo model, florida, terrain, lidar, photogrammetry, bathymetry/topography, contours, dem",
 		"__extras": {
 			"revision_id": "5dbed1f8-68d1-4666-a1cd-477b34c4a10a",
 			"package_id": "8921be78-162f-44fd-9dca-af5aea504636"

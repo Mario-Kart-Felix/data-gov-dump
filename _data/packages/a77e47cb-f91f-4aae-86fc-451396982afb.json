@@ -35,7 +35,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2016-05-26T22:32:53.589060",
-		"url": "https:\/\/hifld-dhs-gii.opendata.arcgis.com\/",
+		"url": "https://hifld-dhs-gii.opendata.arcgis.com/",
 		"webstore_url": null,
 		"last_modified": null,
 		"position": 0,
@@ -94,11 +94,11 @@
 	"name": "mines-and-mineral-resources",
 	"isopen": false,
 	"url": null,
-	"notes": " Mines in the United States According to the Homeland Security Infrastructure Program Tiger Team Report Table E-2.V.1 Sub-Layer Geographic Names, a mine is defined as a 'place or area from which commercial minerals are or were removed from the Earth; not including oilfield (pit, quarry, shaft)'. This dataset excludes sand and gravel quarries. Only mines believed to be operational are included. The intention of TGS is to include only those entities that meet the above definition. TGS was not able to contact all of the entities in this layer to verify that they met this definition, therefore some entities may be included in this layer that do not meet the definition. If a mine is closely associated with a manufacturing plant, it was linked to the TGS Industrial PinPointer dataset via a common identifier. For a mine to be 'closely associated' with a manufacturing plant one or both of the following must be true' > 1) The mine supplies a large part of a critical raw material for the manufacturing plant. > 2) The manufacturing plant consumes a large part of the output of the mine. > > The mine and the manufacturing plant need not be located in close proximity to each other to be 'closely associated'. Also, it is possible for more than one mine to be associated with a particular manufacturing plant, and for more than one manufacturing plant to be associated with a particular mine. A mine associated with a manufacturing plant represents an potential additional point of vulnerability to the manufacturing plant, likewise, the manufacturing plant represents a potential additional point of vulnerability to the mine. Any relevant transportation links between the two represents a third potential vulnerability. The links between the mines and the manufacturing plants are contained in the Mines_linked_to_ManufacturingID_table.dbf table. The [MINEID] field corresponds to the [SRCLNKID] attribute in this dataset. The [MNFID] corresponds to the [SRCLNKID] in the manufacturing dataset. Mines are typically large facilities. To enable a first responder or law enforcement team to easily drive to the mine the point representing the mine has been placed at the place where the main 'haul road' meets the nearest public road. This location may be a considerable distance from the mine pit or shaft, but from this point on the ground it should be obvious how to drive to the mine itself. Text fields in this dataset have been set to all upper case to facilitate consistent database engine search results. All diacritics (e.g. the German umlaut or the Spanish tilde) have been replaced with their closest equivalent English character to facilitate use with database systems that may not support diacritics. The currentness of this dataset is indicated by the [CONTDATE] attribute. Based upon this attribute the oldest record dates from 06\/06\/2006 and the newest record dates from 10\/12\/2006. ",
+	"notes": " Mines in the United States According to the Homeland Security Infrastructure Program Tiger Team Report Table E-2.V.1 Sub-Layer Geographic Names, a mine is defined as a 'place or area from which commercial minerals are or were removed from the Earth; not including oilfield (pit, quarry, shaft)'. This dataset excludes sand and gravel quarries. Only mines believed to be operational are included. The intention of TGS is to include only those entities that meet the above definition. TGS was not able to contact all of the entities in this layer to verify that they met this definition, therefore some entities may be included in this layer that do not meet the definition. If a mine is closely associated with a manufacturing plant, it was linked to the TGS Industrial PinPointer dataset via a common identifier. For a mine to be 'closely associated' with a manufacturing plant one or both of the following must be true' > 1) The mine supplies a large part of a critical raw material for the manufacturing plant. > 2) The manufacturing plant consumes a large part of the output of the mine. > > The mine and the manufacturing plant need not be located in close proximity to each other to be 'closely associated'. Also, it is possible for more than one mine to be associated with a particular manufacturing plant, and for more than one manufacturing plant to be associated with a particular mine. A mine associated with a manufacturing plant represents an potential additional point of vulnerability to the manufacturing plant, likewise, the manufacturing plant represents a potential additional point of vulnerability to the mine. Any relevant transportation links between the two represents a third potential vulnerability. The links between the mines and the manufacturing plants are contained in the Mines_linked_to_ManufacturingID_table.dbf table. The [MINEID] field corresponds to the [SRCLNKID] attribute in this dataset. The [MNFID] corresponds to the [SRCLNKID] in the manufacturing dataset. Mines are typically large facilities. To enable a first responder or law enforcement team to easily drive to the mine the point representing the mine has been placed at the place where the main 'haul road' meets the nearest public road. This location may be a considerable distance from the mine pit or shaft, but from this point on the ground it should be obvious how to drive to the mine itself. Text fields in this dataset have been set to all upper case to facilitate consistent database engine search results. All diacritics (e.g. the German umlaut or the Spanish tilde) have been replaced with their closest equivalent English character to facilitate use with database systems that may not support diacritics. The currentness of this dataset is indicated by the [CONTDATE] attribute. Based upon this attribute the oldest record dates from 06/06/2006 and the newest record dates from 10/12/2006. ",
 	"license_title": "License Not Specified",
 	"extras": [{
 		"key": "publisher",
-		"value": "Under Secretary \/ Management"
+		"value": "Under Secretary / Management"
 	},
 	{
 		"key": "identifier",
@@ -114,7 +114,7 @@
 	},
 	{
 		"key": "catalog_@context",
-		"value": "https:\/\/project-open-data.cio.gov\/v1.1\/schema\/catalog.jsonld"
+		"value": "https://project-open-data.cio.gov/v1.1/schema/catalog.jsonld"
 	},
 	{
 		"key": "resource-type",
@@ -146,7 +146,7 @@
 	},
 	{
 		"key": "catalog_conformsTo",
-		"value": "https:\/\/project-open-data.cio.gov\/v1.1\/schema"
+		"value": "https://project-open-data.cio.gov/v1.1/schema"
 	},
 	{
 		"key": "accessLevel",
@@ -183,7 +183,7 @@
 		"revision_timestamp": "2015-06-22T16:39:40.221108",
 		"is_organization": true,
 		"state": "active",
-		"image_url": "https:\/\/raw.githubusercontent.com\/GSA\/logo\/master\/dhs.png",
+		"image_url": "https://raw.githubusercontent.com/GSA/logo/master/dhs.png",
 		"revision_id": "fb44c14e-9b55-46b9-b355-d465242171bb",
 		"type": "organization",
 		"id": "05d603ec-9121-4f71-b09e-5d5b5a7efc64",

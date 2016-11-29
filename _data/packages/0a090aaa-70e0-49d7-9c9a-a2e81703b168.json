@@ -37,7 +37,7 @@
 		"cache_url": null,
 		"name": "Zip File",
 		"created": "2016-03-09T01:28:25.228353",
-		"url": "http:\/\/www.boem.gov\/PC-vessels-2011.zip",
+		"url": "http://www.boem.gov/PC-vessels-2011.zip",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 0,
@@ -67,7 +67,7 @@
 		"cache_url": null,
 		"name": "Esri Rest API Endpoint",
 		"created": "2016-03-09T01:28:25.228381",
-		"url": "http:\/\/tiles.arcgis.com\/tiles\/Hp6G80Pky0om7QvQ\/arcgis\/rest\/services\/VesselTraffic2011\/MapServer",
+		"url": "http://tiles.arcgis.com/tiles/Hp6G80Pky0om7QvQ/arcgis/rest/services/VesselTraffic2011/MapServer",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 1,
@@ -97,7 +97,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2016-03-09T01:28:25.228392",
-		"url": "http:\/\/www.boem.gov\/",
+		"url": "http://www.boem.gov/",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 2,
@@ -130,11 +130,11 @@
 	"name": "ship-traffic-2011-west-coast-region-all-ship-types",
 	"isopen": false,
 	"url": null,
-	"notes": "The data was derived from US Coast Guard raw vessel point returns and preprocessed by ASA (Applied Science Associates), to one minute point interCAls. The data returns are in UTM zone 10 North and UTM zone 11 North. Each vessel type is analyzed seperately based on vessel type data (Cargo, Fishing, Passenger, Tanker, Tow, Tow over 200M, Tugs) included in the AIS dataset. A transit is counted for each unique vessel by MMSI traveling through each 1200 meter by 1200 meter aliquot each day. A running count is continued for each vessel type by aliquot by month, and then the months are summed to provide annual data. <\/SPAN><\/P><P><SPAN>Although traffic diminishes significantly after 20nm from shore, the returns from line of site AIS signals also fade beyond 40nm. Data points input into the density analysis beyond 40nm are considered to be less reliable than closer to shore. For the 2011 data, separate vessel types were also extracted separately and run in addition to the full dataset. These separate counts are included in the attribute table and include Cargo Vessels, Fishing Vessels, Tankers, Passenger Ships, Tugs, Towing Vessels less than 200 meters in length, and Towing Vessels more than 200 meters in length.",
+	"notes": "The data was derived from US Coast Guard raw vessel point returns and preprocessed by ASA (Applied Science Associates), to one minute point interCAls. The data returns are in UTM zone 10 North and UTM zone 11 North. Each vessel type is analyzed seperately based on vessel type data (Cargo, Fishing, Passenger, Tanker, Tow, Tow over 200M, Tugs) included in the AIS dataset. A transit is counted for each unique vessel by MMSI traveling through each 1200 meter by 1200 meter aliquot each day. A running count is continued for each vessel type by aliquot by month, and then the months are summed to provide annual data. </SPAN></P><P><SPAN>Although traffic diminishes significantly after 20nm from shore, the returns from line of site AIS signals also fade beyond 40nm. Data points input into the density analysis beyond 40nm are considered to be less reliable than closer to shore. For the 2011 data, separate vessel types were also extracted separately and run in addition to the full dataset. These separate counts are included in the attribute table and include Cargo Vessels, Fishing Vessels, Tankers, Passenger Ships, Tugs, Towing Vessels less than 200 meters in length, and Towing Vessels more than 200 meters in length.",
 	"license_title": null,
 	"extras": [{
 		"key": "responsible-party",
-		"value": "[{\"name\": \"Bureau of Ocean Energy Management\", \"roles\": [\"pointOfContact\"]}]"
+		"value": "[{"name": "Bureau of Ocean Energy Management", "roles": ["pointOfContact"]}]"
 	},
 	{
 		"key": "contact-email",
@@ -154,7 +154,7 @@
 	},
 	{
 		"key": "dataset-reference-date",
-		"value": "[{\"type\": \"publication\", \"value\": \"2015-01-01\"}]"
+		"value": "[{"type": "publication", "value": "2015-01-01"}]"
 	},
 	{
 		"key": "resource-type",
@@ -182,7 +182,7 @@
 	},
 	{
 		"key": "licence",
-		"value": "[\"Although these data have been processed successfully on a computer system at the Bureau of Ocean Energy Management, no warranty expressed or implied is made regarding the accuracy or utility of the data on any other system or for general or scientific purposes, nor shall the act of distribution constitute any such warranty. It is also strongly recommended that careful attention be paid to the contents of the metadata file associated with these data to eCAluate data set limitations, restrictions or intended use. The Bureau of Ocean Energy Management shall not be held liable for improper or incorrect use of the data described and\/or contained herein.\"]"
+		"value": "["Although these data have been processed successfully on a computer system at the Bureau of Ocean Energy Management, no warranty expressed or implied is made regarding the accuracy or utility of the data on any other system or for general or scientific purposes, nor shall the act of distribution constitute any such warranty. It is also strongly recommended that careful attention be paid to the contents of the metadata file associated with these data to eCAluate data set limitations, restrictions or intended use. The Bureau of Ocean Energy Management shall not be held liable for improper or incorrect use of the data described and/or contained herein."]"
 	},
 	{
 		"key": "metadata_type",
@@ -194,7 +194,7 @@
 	},
 	{
 		"key": "spatial",
-		"value": "{\"type\": \"Polygon\", \"coordinates\": [[[-126.066945, 30.943491], [-117.096527, 30.943491], [-117.096527, 49.012092], [-126.066945, 49.012092], [-126.066945, 30.943491]]]}"
+		"value": "{"type": "Polygon", "coordinates": [[[-126.066945, 30.943491], [-117.096527, 30.943491], [-117.096527, 49.012092], [-126.066945, 49.012092], [-126.066945, 30.943491]]]}"
 	},
 	{
 		"key": "guid",
@@ -206,7 +206,7 @@
 	},
 	{
 		"key": "access_constraints",
-		"value": "[\"Use Constraints: None\", \"Access Constraints: None\"]"
+		"value": "["Use Constraints: None", "Access Constraints: None"]"
 	},
 	{
 		"key": "spatial_harvester",
@@ -248,7 +248,7 @@
 		"revision_timestamp": "2013-03-20T22:26:39.819248",
 		"is_organization": true,
 		"state": "active",
-		"image_url": "http:\/\/www.boem.gov\/images\/boem\/layout\/logo.png",
+		"image_url": "http://www.boem.gov/images/boem/layout/logo.png",
 		"revision_id": "6f2fda4e-48e9-42f6-b1dd-da068900ba24",
 		"type": "organization",
 		"id": "54ed71a6-4861-4dc1-aa78-c5661ba9ab04",

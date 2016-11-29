@@ -36,7 +36,7 @@
 		"cache_url": null,
 		"name": "NDGIS web site",
 		"created": "2013-12-07T04:05:37.883826",
-		"url": "http:\/\/www.nd.gov\/gis",
+		"url": "http://www.nd.gov/gis",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 0,
@@ -65,7 +65,7 @@
 		"cache_url": null,
 		"name": "Download Generalized Lakes, Reservoirs, and Rivers",
 		"created": "2013-12-07T04:05:37.883851",
-		"url": "http:\/\/www.nd.gov\/gis\/apps\/DataDownload\/?clipping=Full&coord=ND83-SF&format=SHAPE&layers=NDHUB.WATER2000K_POLY",
+		"url": "http://www.nd.gov/gis/apps/DataDownload/?clipping=Full&coord=ND83-SF&format=SHAPE&layers=NDHUB.WATER2000K_POLY",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 1,
@@ -94,7 +94,7 @@
 		"cache_url": null,
 		"name": "Generalized Lakes and Ponds",
 		"created": "2013-12-07T04:05:37.883860",
-		"url": "http:\/\/ndgishub.nd.gov\/arcgis\/services\/All_Hydrography\/MapServer\/WMSServer?",
+		"url": "http://ndgishub.nd.gov/arcgis/services/All_Hydrography/MapServer/WMSServer?",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 2,
@@ -123,7 +123,7 @@
 		"cache_url": null,
 		"name": "Esri REST including WMS",
 		"created": "2013-12-07T04:05:37.883868",
-		"url": "http:\/\/ndgishub.nd.gov\/ArcGIS\/rest\/services\/All_Hydrography\/MapServer",
+		"url": "http://ndgishub.nd.gov/ArcGIS/rest/services/All_Hydrography/MapServer",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 3,
@@ -152,7 +152,7 @@
 		"cache_url": null,
 		"name": "Esri REST including WFS and KML",
 		"created": "2013-12-07T04:05:37.883876",
-		"url": "http:\/\/ndgishub.nd.gov\/ArcGIS\/rest\/services\/Features\/Hydrography\/MapServer",
+		"url": "http://ndgishub.nd.gov/ArcGIS/rest/services/Features/Hydrography/MapServer",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 4,
@@ -185,7 +185,7 @@
 	"name": "generalized-lakes-reservoirs-and-rivers",
 	"isopen": false,
 	"url": null,
-	"notes": "This data set was designed for cartographic presentation only and should not be used for hydrologic analysis. 1\/31\/08 - Removed USGS fields as this dataset has changed considerably from it's original USGS format - Water bodies w\/same flow type and feature type have been merged into single entities. For example, water bodies split by a road or swamp feature, but are actually a single lake are merged to one feature - Added Label field to make it easier to symbolize - i.e. you can label lakes but exclude linear river features that are being labeled in the generalized rivers and streams layer - Changed field names to 10 characters or less for ease of conversion to shapefiles - Alias' added so above field name changes were easier to interpret The data set portrays the polygon water features (lakes, reservoirs, and rivers) of North Dakota. The file was produced by joining the individual State hydrography layers from the 1:2,000,000-scale Digital Line Graph (DLG) data produced by the USGS. This data setwas formerly distributed as Hydrography Features of the United States. This is a revised version of the November 1999 data set.",
+	"notes": "This data set was designed for cartographic presentation only and should not be used for hydrologic analysis. 1/31/08 - Removed USGS fields as this dataset has changed considerably from it's original USGS format - Water bodies w/same flow type and feature type have been merged into single entities. For example, water bodies split by a road or swamp feature, but are actually a single lake are merged to one feature - Added Label field to make it easier to symbolize - i.e. you can label lakes but exclude linear river features that are being labeled in the generalized rivers and streams layer - Changed field names to 10 characters or less for ease of conversion to shapefiles - Alias' added so above field name changes were easier to interpret The data set portrays the polygon water features (lakes, reservoirs, and rivers) of North Dakota. The file was produced by joining the individual State hydrography layers from the 1:2,000,000-scale Digital Line Graph (DLG) data produced by the USGS. This data setwas formerly distributed as Hydrography Features of the United States. This is a revised version of the November 1999 data set.",
 	"license_title": null,
 	"extras": [{
 		"key": "bbox-east-long",
@@ -229,7 +229,7 @@
 	},
 	{
 		"key": "spatial",
-		"value": "{\"type\": \"Polygon\", \"coordinates\": [[[170.0, 17.0], [-64.0, 17.0], [-64.0, 72.0], [170.0, 72.0], [170.0, 17.0]]]}"
+		"value": "{"type": "Polygon", "coordinates": [[[170.0, 17.0], [-64.0, 17.0], [-64.0, 72.0], [170.0, 72.0], [170.0, 17.0]]]}"
 	},
 	{
 		"key": "progress",
@@ -237,7 +237,7 @@
 	},
 	{
 		"key": "access_constraints",
-		"value": "[\"Acknowledgment of the National Atlas of the United States of America and (or) the U.S. Geological Survey would be appreciated in products derived from these data.\", \"Although these data have been processed successfully on a computer system at the U.S. Geological Survey, no warranty expressed or implied is made by the U.S. Geological Survey regarding the utility of the data on any other system, nor shall the act of distribution constitute any such warranty. No responsibility is assumed by the U.S. Geological Survey in the use of these data.\"]"
+		"value": "["Acknowledgment of the National Atlas of the United States of America and (or) the U.S. Geological Survey would be appreciated in products derived from these data.", "Although these data have been processed successfully on a computer system at the U.S. Geological Survey, no warranty expressed or implied is made by the U.S. Geological Survey regarding the utility of the data on any other system, nor shall the act of distribution constitute any such warranty. No responsibility is assumed by the U.S. Geological Survey in the use of these data."]"
 	},
 	{
 		"key": "contact-email",
@@ -253,7 +253,7 @@
 	},
 	{
 		"key": "dataset-reference-date",
-		"value": "[{\"type\": \"publication\", \"value\": \"2003-01-02\"}]"
+		"value": "[{"type": "publication", "value": "2003-01-02"}]"
 	},
 	{
 		"key": "graphic-preview-description",
@@ -273,7 +273,7 @@
 	},
 	{
 		"key": "responsible-party",
-		"value": "[{\"name\": \"North Dakota State Water Commission\", \"roles\": [\"pointOfContact\"]}]"
+		"value": "[{"name": "North Dakota State Water Commission", "roles": ["pointOfContact"]}]"
 	},
 	{
 		"key": "spatial-data-service-type",
@@ -308,14 +308,14 @@
 		"value": "North Dakota GIS Hub Data Portal"
 	}],
 	"organization": {
-		"description": "The GIS Hub is the state source for GIS - data, services, and information.  More information can be found at www.nd.gov\/gis.",
+		"description": "The GIS Hub is the state source for GIS - data, services, and information.  More information can be found at www.nd.gov/gis.",
 		"created": "2013-03-14T03:44:44.340717",
 		"title": "State of North Dakota",
 		"name": "nd-gov",
 		"revision_timestamp": "2013-07-15T16:27:30.098476",
 		"is_organization": true,
 		"state": "active",
-		"image_url": "http:\/\/www.nd.gov\/gis\/images\/ndgis-logo.gif",
+		"image_url": "http://www.nd.gov/gis/images/ndgis-logo.gif",
 		"revision_id": "27517bb9-815c-4d4f-b45b-b88b6316697b",
 		"type": "organization",
 		"id": "1c782de6-9f1f-4427-93fd-33732e29970f",

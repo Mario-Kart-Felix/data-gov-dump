@@ -37,7 +37,7 @@
 		"cache_url": null,
 		"name": "Zip File",
 		"created": "2016-10-19T14:00:15.572248",
-		"url": "ftp:\/\/ftp.soest.hawaii.edu\/pibhmc\/website\/data\/pria\/bathymetry\/BAK_DBALL_5m.zip",
+		"url": "ftp://ftp.soest.hawaii.edu/pibhmc/website/data/pria/bathymetry/BAK_DBALL_5m.zip",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 0,
@@ -67,7 +67,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2016-10-19T14:00:15.572289",
-		"url": "http:\/\/www.soest.hawaii.edu\/pibhmc\/pibhmc_pria_bak_bathy.htm",
+		"url": "http://www.soest.hawaii.edu/pibhmc/pibhmc_pria_bak_bathy.htm",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 1,
@@ -97,7 +97,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2016-10-19T14:00:15.572299",
-		"url": "http:\/\/www.soest.hawaii.edu\/pibhmc",
+		"url": "http://www.soest.hawaii.edu/pibhmc",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 2,
@@ -145,7 +145,7 @@
 	},
 	{
 		"key": "graphic-preview-file",
-		"value": "http:\/\/www.soest.hawaii.edu\/pibhmc\/PRIAs_images\/BAK_DBAll_5m_445.jpg"
+		"value": "http://www.soest.hawaii.edu/pibhmc/PRIAs_images/BAK_DBAll_5m_445.jpg"
 	},
 	{
 		"key": "metadata-language",
@@ -161,7 +161,7 @@
 	},
 	{
 		"key": "spatial",
-		"value": "{\"type\": \"Polygon\", \"coordinates\": [[[-176.494544, 0.180621], [-176.449566, 0.180621], [-176.449566, 0.21482], [-176.494544, 0.21482], [-176.494544, 0.180621]]]}"
+		"value": "{"type": "Polygon", "coordinates": [[[-176.494544, 0.180621], [-176.449566, 0.180621], [-176.449566, 0.21482], [-176.494544, 0.21482], [-176.494544, 0.180621]]]}"
 	},
 	{
 		"key": "progress",
@@ -169,7 +169,7 @@
 	},
 	{
 		"key": "access_constraints",
-		"value": "[\"Use Constraints: These data are not to be used for navigation purposes. Please acknowledge NOAA Pacific Islands Fisheries Science Center, the Joint Institute for Marine and Atmospheric Research (JIMAR) University of Hawaii as the sources of this information.\", \"Access Constraints: None\"]"
+		"value": "["Use Constraints: These data are not to be used for navigation purposes. Please acknowledge NOAA Pacific Islands Fisheries Science Center, the Joint Institute for Marine and Atmospheric Research (JIMAR) University of Hawaii as the sources of this information.", "Access Constraints: None"]"
 	},
 	{
 		"key": "temporal-extent-begin",
@@ -189,7 +189,7 @@
 	},
 	{
 		"key": "dataset-reference-date",
-		"value": "[{\"type\": \"publication\", \"value\": \"2014-09-12\"}]"
+		"value": "[{"type": "publication", "value": "2014-09-12"}]"
 	},
 	{
 		"key": "graphic-preview-description",
@@ -201,7 +201,7 @@
 	},
 	{
 		"key": "licence",
-		"value": "[\"These data are not to be used for navigational purposes.\\nNOAA makes no warranty regarding these data, expressed or implied,\\nnor does the fact of distribution constitute such a warranty.\\nNOAA cannot assume liability for any damages caused by any errors\\nor omissions in these data, nor as a result of the failure of\\nthese data to function on a particular system.\"]"
+		"value": "["These data are not to be used for navigational purposes.\nNOAA makes no warranty regarding these data, expressed or implied,\nnor does the fact of distribution constitute such a warranty.\nNOAA cannot assume liability for any damages caused by any errors\nor omissions in these data, nor as a result of the failure of\nthese data to function on a particular system."]"
 	},
 	{
 		"key": "metadata_type",
@@ -209,7 +209,7 @@
 	},
 	{
 		"key": "responsible-party",
-		"value": "[{\"name\": \"Pacific Islands Benthic Habitat Mapping Center (PIBHMC), Coral Reef Ecosystem Division (CRED), Pacific Islands Fisheries Science Center (PIFSC), National Marine Fisheries Service (NMFS), National Oceanic and Atmospheric Administration (NOAA)\", \"roles\": [\"pointOfContact\"]}]"
+		"value": "[{"name": "Pacific Islands Benthic Habitat Mapping Center (PIBHMC), Coral Reef Ecosystem Division (CRED), Pacific Islands Fisheries Science Center (PIFSC), National Marine Fisheries Service (NMFS), National Oceanic and Atmospheric Administration (NOAA)", "roles": ["pointOfContact"]}]"
 	},
 	{
 		"key": "temporal-extent-end",
@@ -225,7 +225,7 @@
 	},
 	{
 		"package_id": "2e8c4c8e-9665-4b12-a7fd-549dcdea6d99",
-		"value": "slope, worldview-2, geographic information, reef monitoring and assessment, biosphere, 467, oceans, corals, water depth, zoology, multibeam sonar, satellite (digital scans), pacific ocean, bathymetry, bathymetry\/seafloor topography, benthic habitat mapping and characterization in the pacific islands region, remote sensing, central pacific, pacific remote island areas, baker island, earth science",
+		"value": "slope, worldview-2, geographic information, reef monitoring and assessment, biosphere, 467, oceans, corals, water depth, zoology, multibeam sonar, satellite (digital scans), pacific ocean, bathymetry, bathymetry/seafloor topography, benthic habitat mapping and characterization in the pacific islands region, remote sensing, central pacific, pacific remote island areas, baker island, earth science",
 		"revision_timestamp": "2016-10-19T18:00:15.452760",
 		"state": "active",
 		"key": "tags",
@@ -255,7 +255,7 @@
 		"revision_timestamp": "2013-03-25T23:05:12.923863",
 		"is_organization": true,
 		"state": "active",
-		"image_url": "https:\/\/fortress.wa.gov\/dfw\/score\/score\/images\/noaa_logo.png",
+		"image_url": "https://fortress.wa.gov/dfw/score/score/images/noaa_logo.png",
 		"revision_id": "c6d43080-22e1-405e-a83d-f2a512d9e867",
 		"type": "organization",
 		"id": "e811f0b4-451f-4896-9e8f-fc6802837819",

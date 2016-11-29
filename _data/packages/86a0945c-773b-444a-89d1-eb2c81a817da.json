@@ -36,7 +36,7 @@
 		"cache_url": null,
 		"name": "Shapefile or File Geodatabase",
 		"created": "2016-03-31T19:56:21.006687",
-		"url": "https:\/\/edg.epa.gov\/clipship\/",
+		"url": "https://edg.epa.gov/clipship/",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 0,
@@ -65,7 +65,7 @@
 		"cache_url": null,
 		"name": "ArcGIS Server Map Service",
 		"created": "2016-03-31T19:56:21.006723",
-		"url": "http:\/\/watersgeo.epa.gov\/ArcGIS\/rest\/services\/OWRAD_NP21\/CWNS_NP21\/MapServer\/",
+		"url": "http://watersgeo.epa.gov/ArcGIS/rest/services/OWRAD_NP21/CWNS_NP21/MapServer/",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 1,
@@ -94,7 +94,7 @@
 		"cache_url": null,
 		"name": "ArcGIS Server WMS Service",
 		"created": "2016-03-31T19:56:21.006733",
-		"url": "http:\/\/watersgeo.epa.gov\/ArcGIS\/services\/OWRAD_NP21\/CWNS_NP21\/MapServer\/WMSServer?request=GetCapabilities&service=WMS",
+		"url": "http://watersgeo.epa.gov/ArcGIS/services/OWRAD_NP21/CWNS_NP21/MapServer/WMSServer?request=GetCapabilities&service=WMS",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 2,
@@ -123,7 +123,7 @@
 		"cache_url": null,
 		"name": "ArcGIS Server REST interface",
 		"created": "2016-03-31T19:56:21.006741",
-		"url": "http:\/\/watersgeo.epa.gov\/ArcGIS\/rest\/services\/OWRAD_NP21\/CWNS_NP21\/MapServer?f=json&pretty=true",
+		"url": "http://watersgeo.epa.gov/ArcGIS/rest/services/OWRAD_NP21/CWNS_NP21/MapServer?f=json&pretty=true",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 3,
@@ -152,7 +152,7 @@
 		"cache_url": null,
 		"name": "ArcGIS Server SOAP interface",
 		"created": "2016-03-31T19:56:21.006749",
-		"url": "http:\/\/watersgeo.epa.gov\/ArcGIS\/services\/OWRAD_NP21\/CWNS_NP21\/MapServer?wsdl",
+		"url": "http://watersgeo.epa.gov/ArcGIS/services/OWRAD_NP21/CWNS_NP21/MapServer?wsdl",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 4,
@@ -182,7 +182,7 @@
 		"cache_url": null,
 		"name": "Esri Rest API Endpoint",
 		"created": "2016-03-31T19:56:21.006756",
-		"url": "http:\/\/watersgeo.epa.gov\/ArcGIS\/rest\/services\/OWRAD_NP21\/CWNS_NP21\/MapServer\/",
+		"url": "http://watersgeo.epa.gov/ArcGIS/rest/services/OWRAD_NP21/CWNS_NP21/MapServer/",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 5,
@@ -238,7 +238,7 @@
 	},
 	{
 		"key": "spatial",
-		"value": "{\"type\": \"Polygon\", \"coordinates\": [[[-169.0, 17.0], [-64.0, 17.0], [-64.0, 72.0], [-169.0, 72.0], [-169.0, 17.0]]]}"
+		"value": "{"type": "Polygon", "coordinates": [[[-169.0, 17.0], [-64.0, 17.0], [-64.0, 72.0], [-169.0, 72.0], [-169.0, 17.0]]]}"
 	},
 	{
 		"key": "progress",
@@ -246,11 +246,11 @@
 	},
 	{
 		"key": "access_constraints",
-		"value": "[\"Use Constraints: None. Please check sources, scale, accuracy, currentness and other available information. Please confirm that you are using the most recent copy of both data and metadata. Acknowledgement of the EPA would be appreciated.\", \"Access Constraints: None.\"]"
+		"value": "["Use Constraints: None. Please check sources, scale, accuracy, currentness and other available information. Please confirm that you are using the most recent copy of both data and metadata. Acknowledgement of the EPA would be appreciated.", "Access Constraints: None."]"
 	},
 	{
 		"key": "licence_url",
-		"value": "https:\/\/edg.epa.gov\/EPA_Data_License.html"
+		"value": "https://edg.epa.gov/EPA_Data_License.html"
 	},
 	{
 		"key": "contact-email",
@@ -266,7 +266,7 @@
 	},
 	{
 		"key": "dataset-reference-date",
-		"value": "[{\"type\": \"publication\", \"value\": \"2008-01-01\"}]"
+		"value": "[{"type": "publication", "value": "2008-01-01"}]"
 	},
 	{
 		"key": "frequency-of-update",
@@ -274,7 +274,7 @@
 	},
 	{
 		"key": "licence",
-		"value": "[\"https:\/\/edg.epa.gov\/EPA_Data_License.html\"]"
+		"value": "["https://edg.epa.gov/EPA_Data_License.html"]"
 	},
 	{
 		"key": "metadata_type",
@@ -282,7 +282,7 @@
 	},
 	{
 		"key": "responsible-party",
-		"value": "[{\"name\": \"U.S. Environmental Protection Agency\", \"roles\": [\"pointOfContact\"]}]"
+		"value": "[{"name": "U.S. Environmental Protection Agency", "roles": ["pointOfContact"]}]"
 	},
 	{
 		"key": "spatial-data-service-type",
@@ -324,7 +324,7 @@
 		"revision_timestamp": "2014-01-16T18:58:42.895981",
 		"is_organization": true,
 		"state": "active",
-		"image_url": "http:\/\/edg.epa.gov\/EPALogo.svg",
+		"image_url": "http://edg.epa.gov/EPALogo.svg",
 		"revision_id": "f0e4b475-7424-4ce0-9a22-412e7e595154",
 		"type": "organization",
 		"id": "6d90e48d-3076-4327-b2f4-c33919f374d5",

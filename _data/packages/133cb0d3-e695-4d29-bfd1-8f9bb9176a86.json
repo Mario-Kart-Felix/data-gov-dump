@@ -28,7 +28,7 @@
 	"name": "draft-reference-grid-cells-for-emergency-response-reconnaissance-developed-for-use-by-the-us-en",
 	"isopen": false,
 	"url": null,
-	"notes": "Draft reference grid cells for emergency response reconnaissance developed for use by the US Environmental Protection Agency. Grid cells are based on densification of the USGS Quarterquad (1:12,000 scale or 12K) grids for the continental United States, Alaska, Hawaii and Puerto Rico and are roughly equivalent to 1:6000 scale (6K) quadrangles approximately 2 miles long on each side. Note: This file is >80MB in size. Regional subsets have been created from this national file that include a 20 mile buffer of tiles around each EPA Region. To access the regional subsets, go to http:\/\/geodata.epa.gov\/OSWER\/6kquads_epa.zip and select the name of the file that corresponds to your region of interest (e.g. 6kquadr1.zip is the name of the file created for EPA Region 1).",
+	"notes": "Draft reference grid cells for emergency response reconnaissance developed for use by the US Environmental Protection Agency. Grid cells are based on densification of the USGS Quarterquad (1:12,000 scale or 12K) grids for the continental United States, Alaska, Hawaii and Puerto Rico and are roughly equivalent to 1:6000 scale (6K) quadrangles approximately 2 miles long on each side. Note: This file is >80MB in size. Regional subsets have been created from this national file that include a 20 mile buffer of tiles around each EPA Region. To access the regional subsets, go to http://geodata.epa.gov/OSWER/6kquads_epa.zip and select the name of the file that corresponds to your region of interest (e.g. 6kquadr1.zip is the name of the file created for EPA Region 1).",
 	"license_title": null,
 	"extras": [{
 		"key": "bbox-east-long",
@@ -64,7 +64,7 @@
 	},
 	{
 		"key": "spatial",
-		"value": "{\"type\": \"Polygon\", \"coordinates\": [[[-177.28125, -14.4375], [163.25, -14.4375], [163.25, 71.40625], [-177.28125, 71.40625], [-177.28125, -14.4375]]]}"
+		"value": "{"type": "Polygon", "coordinates": [[[-177.28125, -14.4375], [163.25, -14.4375], [163.25, 71.40625], [-177.28125, 71.40625], [-177.28125, -14.4375]]]}"
 	},
 	{
 		"key": "progress",
@@ -72,11 +72,11 @@
 	},
 	{
 		"key": "access_constraints",
-		"value": "[\"Use Constraints: Unlimited use within EPA, limited use by other agencies while in draft form.. Final version will have no use constraints.\", \"Access Constraints: Draft version for internal use only. Final version will have no access restraint and will be acitvely shared with other organizations involved in responses.\"]"
+		"value": "["Use Constraints: Unlimited use within EPA, limited use by other agencies while in draft form.. Final version will have no use constraints.", "Access Constraints: Draft version for internal use only. Final version will have no access restraint and will be acitvely shared with other organizations involved in responses."]"
 	},
 	{
 		"key": "licence_url",
-		"value": "https:\/\/edg.epa.gov\/EPA_Data_License.htm"
+		"value": "https://edg.epa.gov/EPA_Data_License.htm"
 	},
 	{
 		"key": "contact-email",
@@ -92,7 +92,7 @@
 	},
 	{
 		"key": "dataset-reference-date",
-		"value": "[{\"type\": \"publication\", \"value\": \"2006-01-04\"}]"
+		"value": "[{"type": "publication", "value": "2006-01-04"}]"
 	},
 	{
 		"key": "frequency-of-update",
@@ -100,7 +100,7 @@
 	},
 	{
 		"key": "licence",
-		"value": "[\"https:\/\/edg.epa.gov\/EPA_Data_License.htm\"]"
+		"value": "["https://edg.epa.gov/EPA_Data_License.htm"]"
 	},
 	{
 		"key": "metadata_type",
@@ -108,7 +108,7 @@
 	},
 	{
 		"key": "responsible-party",
-		"value": "[{\"name\": \"Weston Solutions, Inc. - Dallas Office\", \"roles\": [\"pointOfContact\"]}]"
+		"value": "[{"name": "Weston Solutions, Inc. - Dallas Office", "roles": ["pointOfContact"]}]"
 	},
 	{
 		"key": "spatial-data-service-type",
@@ -150,7 +150,7 @@
 		"revision_timestamp": "2014-01-16T18:58:42.895981",
 		"is_organization": true,
 		"state": "active",
-		"image_url": "http:\/\/edg.epa.gov\/EPALogo.svg",
+		"image_url": "http://edg.epa.gov/EPALogo.svg",
 		"revision_id": "f0e4b475-7424-4ce0-9a22-412e7e595154",
 		"type": "organization",
 		"id": "6d90e48d-3076-4327-b2f4-c33919f374d5",

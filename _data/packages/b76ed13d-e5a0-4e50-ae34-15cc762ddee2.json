@@ -34,9 +34,9 @@
 		"resource_locator_protocol": "WWW:LINK-1.0-http--link",
 		"mimetype": null,
 		"cache_url": null,
-		"name": "ftp:\/\/ftp.nefsc.noaa.gov\/",
+		"name": "ftp://ftp.nefsc.noaa.gov/",
 		"created": "2016-08-08T17:36:18.445666",
-		"url": "ftp:\/\/ftp.nefsc.noaa.gov\/",
+		"url": "ftp://ftp.nefsc.noaa.gov/",
 		"webstore_url": null,
 		"resource_locator_function": "download",
 		"position": 0,
@@ -65,7 +65,7 @@
 		"cache_url": null,
 		"name": "Website",
 		"created": "2016-08-08T17:36:18.445694",
-		"url": "http:\/\/www.nefsc.noaa.gov",
+		"url": "http://www.nefsc.noaa.gov",
 		"webstore_url": null,
 		"resource_locator_function": "information",
 		"position": 1,
@@ -94,7 +94,7 @@
 		"cache_url": null,
 		"name": "Website",
 		"created": "2016-08-08T17:36:18.445713",
-		"url": "http:\/\/www.nefsc.noaa.gov\/nefsc\/woodshole\/",
+		"url": "http://www.nefsc.noaa.gov/nefsc/woodshole/",
 		"webstore_url": null,
 		"resource_locator_function": "information",
 		"position": 2,
@@ -123,7 +123,7 @@
 		"cache_url": null,
 		"name": "NOAA Data Management Plan (DMP)",
 		"created": "2016-08-08T17:36:18.445729",
-		"url": "https:\/\/inport.nmfs.noaa.gov\/inport\/item\/23063\/dmp",
+		"url": "https://inport.nmfs.noaa.gov/inport/item/23063/dmp",
 		"webstore_url": null,
 		"resource_locator_function": "information",
 		"position": 3,
@@ -140,7 +140,7 @@
 		"state": "active",
 		"last_modified": null,
 		"hash": "",
-		"description": "This page describes the NASA GCMD Keywords, how\n                                                        to reference those keywords and provides download instructions.\n                                                    ",
+		"description": "This page describes the NASA GCMD Keywords, hown                                                        to reference those keywords and provides download instructions.n                                                    ",
 		"format": "HTML",
 		"tracking_summary": {
 			"total": 475,
@@ -152,7 +152,7 @@
 		"cache_url": null,
 		"name": "GCMD Keywords Page",
 		"created": "2016-08-08T17:36:18.445738",
-		"url": "http:\/\/gcmd.nasa.gov\/learn\/keyword_list.html",
+		"url": "http://gcmd.nasa.gov/learn/keyword_list.html",
 		"webstore_url": null,
 		"resource_locator_function": "information",
 		"position": 4,
@@ -208,7 +208,7 @@
 	},
 	{
 		"key": "spatial",
-		"value": "{\"type\": \"Polygon\", \"coordinates\": [[[-70.95, 41.248], [-66.7, 41.248], [-66.7, 44.8], [-70.95, 44.8], [-70.95, 41.248]]]}"
+		"value": "{"type": "Polygon", "coordinates": [[[-70.95, 41.248], [-66.7, 41.248], [-66.7, 44.8], [-70.95, 44.8], [-70.95, 41.248]]]}"
 	},
 	{
 		"key": "progress",
@@ -216,7 +216,7 @@
 	},
 	{
 		"key": "access_constraints",
-		"value": "[\"Access Constraints: Data is stored on an internal NEFSC network, the requester may not have direct access to query the data unless they are also authorized for network access. | Use Constraints: User must read and fully comprehend the metadata prior to use. Applications or inferences derived from the data should be carefully considered for accuracy. Acknowledgement of NOAA\/NMFS\/NEFSC as the source from which these data were obtained in any publications and\/or other representations of these data is suggested.\"]"
+		"value": "["Access Constraints: Data is stored on an internal NEFSC network, the requester may not have direct access to query the data unless they are also authorized for network access. | Use Constraints: User must read and fully comprehend the metadata prior to use. Applications or inferences derived from the data should be carefully considered for accuracy. Acknowledgement of NOAA/NMFS/NEFSC as the source from which these data were obtained in any publications and/or other representations of these data is suggested."]"
 	},
 	{
 		"key": "temporal-extent-begin",
@@ -236,7 +236,7 @@
 	},
 	{
 		"key": "dataset-reference-date",
-		"value": "[{\"type\": \"publication\", \"value\": \"\"}]"
+		"value": "[{"type": "publication", "value": ""}]"
 	},
 	{
 		"key": "frequency-of-update",
@@ -252,7 +252,7 @@
 	},
 	{
 		"key": "responsible-party",
-		"value": "[{\"name\": \"\", \"roles\": [\"\"]}, {\"name\": \"Northeast Fisheries Science Center\", \"roles\": [\"pointOfContact\"]}, {\"name\": \"NEFSC Woods Hole Lab\", \"roles\": [\"custodian\"]}]"
+		"value": "[{"name": "", "roles": [""]}, {"name": "Northeast Fisheries Science Center", "roles": ["pointOfContact"]}, {"name": "NEFSC Woods Hole Lab", "roles": ["custodian"]}]"
 	},
 	{
 		"key": "spatial-data-service-type",
@@ -264,7 +264,7 @@
 	},
 	{
 		"package_id": "b76ed13d-e5a0-4e50-ae34-15cc762ddee2",
-		"value": "abundance, haulout, aerial survey, doc\/noaa\/nmfs\/nefsc, survey data, gray seal, harbor seal, northeast fisheries science center, national marine fisheries service, noaa, u.s. department of commerce, halichoerus grypus, distribution, phoca vitulina",
+		"value": "abundance, haulout, aerial survey, doc/noaa/nmfs/nefsc, survey data, gray seal, harbor seal, northeast fisheries science center, national marine fisheries service, noaa, u.s. department of commerce, halichoerus grypus, distribution, phoca vitulina",
 		"revision_timestamp": "2016-03-28T18:43:36.332624",
 		"state": "active",
 		"key": "tags",
@@ -294,7 +294,7 @@
 		"revision_timestamp": "2013-03-25T23:05:12.923863",
 		"is_organization": true,
 		"state": "active",
-		"image_url": "https:\/\/fortress.wa.gov\/dfw\/score\/score\/images\/noaa_logo.png",
+		"image_url": "https://fortress.wa.gov/dfw/score/score/images/noaa_logo.png",
 		"revision_id": "c6d43080-22e1-405e-a83d-f2a512d9e867",
 		"type": "organization",
 		"id": "e811f0b4-451f-4896-9e8f-fc6802837819",

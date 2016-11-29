@@ -24,7 +24,7 @@
 		"state": "active",
 		"last_modified": null,
 		"hash": "",
-		"description": "Alternative landing page used to redirect user to a contextual, Agency-hosted \"homepage\" for the Dataset or API when selecting this resource from the Data.gov user interface.",
+		"description": "Alternative landing page used to redirect user to a contextual, Agency-hosted "homepage" for the Dataset or API when selecting this resource from the Data.gov user interface.",
 		"format": "",
 		"tracking_summary": {
 			"total": 0,
@@ -36,7 +36,7 @@
 		"cache_url": null,
 		"name": "Agency Program URL",
 		"created": "2016-04-27T21:27:30.549738",
-		"url": "https:\/\/www.epa.gov\/ust\/resources-owners-and-operators",
+		"url": "https://www.epa.gov/ust/resources-owners-and-operators",
 		"webstore_url": null,
 		"resource_locator_function": "browsing",
 		"position": 0,
@@ -56,7 +56,7 @@
 	"name": "ust-financial-assurance-information",
 	"isopen": false,
 	"url": null,
-	"notes": "Subtitle I of the Resource Conservation and Recovery Act, as amended by the Hazardous Waste Disposal Act of 1984, brought underground storage tanks (USTs) under federal regulation. As part of that regulation, Congress directed EPA to develop financial responsibility regulations for UST owners and operators. Congress wanted owners and operators of underground storage tanks (USTs) to show that they have the financial resources to clean up a site if a release occurs, correct environmental damage, and compensate third parties for injury to their property or themselves.\n\nOwners and operators have several options: obtain insurance coverage from an insurer or a risk retention group; demonstrate self-insurance using a financial test; obtain corporate guarantees, surety bonds, or letters of credit; place the required amount into a trust fund administered by a third party; or rely on coverage provided by a state financial assurance fund.\n\nInformation in this data asset includes state documentation to support this requirement. Many states have developed financial assurance funds to help owners and operators meet financial responsibility requirements and to help cover the costs of cleanups. State financial assurance fund programs, which supplement or are a substitute for private insurance, have been especially useful for small-to-medium sized petroleum marketers.\n\nEPA requires its Regional Offices to conduct annual reviews of state financial assurance funds. Data is provided by states, and reviewed by EPA, to determine financial soundness as follows:\n\n1. How quickly each state's fund is reducing its federally-regulated, fund-eligible cleanup backlog.\n2. Whether the fund currently has enough resources to address its backlog.\n3. Whether the fund will continue to have adequate resources to continue to reduce its backlog in the future.\n4. Whether there are any major or pending changes to the fund. \n\nEPA has the option of withdrawing fund approval, in which case the Agency works with the state to ensure that UST owners and operators have obtained an alternative financial responsibility mechanism.\n\nAll documentation for these reviews, and subsequent decisions and actions, are maintained at the Regional Offices.",
+	"notes": "Subtitle I of the Resource Conservation and Recovery Act, as amended by the Hazardous Waste Disposal Act of 1984, brought underground storage tanks (USTs) under federal regulation. As part of that regulation, Congress directed EPA to develop financial responsibility regulations for UST owners and operators. Congress wanted owners and operators of underground storage tanks (USTs) to show that they have the financial resources to clean up a site if a release occurs, correct environmental damage, and compensate third parties for injury to their property or themselves.nnOwners and operators have several options: obtain insurance coverage from an insurer or a risk retention group; demonstrate self-insurance using a financial test; obtain corporate guarantees, surety bonds, or letters of credit; place the required amount into a trust fund administered by a third party; or rely on coverage provided by a state financial assurance fund.nnInformation in this data asset includes state documentation to support this requirement. Many states have developed financial assurance funds to help owners and operators meet financial responsibility requirements and to help cover the costs of cleanups. State financial assurance fund programs, which supplement or are a substitute for private insurance, have been especially useful for small-to-medium sized petroleum marketers.nnEPA requires its Regional Offices to conduct annual reviews of state financial assurance funds. Data is provided by states, and reviewed by EPA, to determine financial soundness as follows:nn1. How quickly each state's fund is reducing its federally-regulated, fund-eligible cleanup backlog.n2. Whether the fund currently has enough resources to address its backlog.n3. Whether the fund will continue to have adequate resources to continue to reduce its backlog in the future.n4. Whether there are any major or pending changes to the fund. nnEPA has the option of withdrawing fund approval, in which case the Agency works with the state to ensure that UST owners and operators have obtained an alternative financial responsibility mechanism.nnAll documentation for these reviews, and subsequent decisions and actions, are maintained at the Regional Offices.",
 	"license_title": null,
 	"extras": [{
 		"key": "bbox-east-long",
@@ -92,7 +92,7 @@
 	},
 	{
 		"key": "spatial",
-		"value": "{\"type\": \"Polygon\", \"coordinates\": [[[-180.0, 18.0], [-66.0, 18.0], [-66.0, 72.0], [-180.0, 72.0], [-180.0, 18.0]]]}"
+		"value": "{"type": "Polygon", "coordinates": [[[-180.0, 18.0], [-66.0, 18.0], [-66.0, 72.0], [-180.0, 72.0], [-180.0, 18.0]]]}"
 	},
 	{
 		"key": "progress",
@@ -100,11 +100,11 @@
 	},
 	{
 		"key": "access_constraints",
-		"value": "[\"https:\/\/edg.epa.gov\/EPA_Data_License.htm\"]"
+		"value": "["https://edg.epa.gov/EPA_Data_License.htm"]"
 	},
 	{
 		"key": "temporal-extent-begin",
-		"value": "\n                                    "
+		"value": "n                                    "
 	},
 	{
 		"key": "contact-email",
@@ -120,7 +120,7 @@
 	},
 	{
 		"key": "dataset-reference-date",
-		"value": "[{\"type\": \"publication\", \"value\": \"2014\"}, {\"type\": \"revision\", \"value\": \"2014-09-30\"}]"
+		"value": "[{"type": "publication", "value": "2014"}, {"type": "revision", "value": "2014-09-30"}]"
 	},
 	{
 		"key": "frequency-of-update",
@@ -136,11 +136,11 @@
 	},
 	{
 		"key": "responsible-party",
-		"value": "[{\"name\": \"U.S. EPA Office of Land and Emergency Management (OLEM) - Office of Underground Storage Tanks (OUST)\", \"roles\": [\"owner\"]}]"
+		"value": "[{"name": "U.S. EPA Office of Land and Emergency Management (OLEM) - Office of Underground Storage Tanks (OUST)", "roles": ["owner"]}]"
 	},
 	{
 		"key": "temporal-extent-end",
-		"value": "\n                                    "
+		"value": "n                                    "
 	},
 	{
 		"key": "spatial-data-service-type",
@@ -182,7 +182,7 @@
 		"revision_timestamp": "2014-01-16T18:58:42.895981",
 		"is_organization": true,
 		"state": "active",
-		"image_url": "http:\/\/edg.epa.gov\/EPALogo.svg",
+		"image_url": "http://edg.epa.gov/EPALogo.svg",
 		"revision_id": "f0e4b475-7424-4ce0-9a22-412e7e595154",
 		"type": "organization",
 		"id": "6d90e48d-3076-4327-b2f4-c33919f374d5",

@@ -37,7 +37,7 @@
 		"cache_url": null,
 		"name": "Zip File",
 		"created": "2015-08-18T22:26:02.216756",
-		"url": "http:\/\/water.usgs.gov\/GIS\/dsdl\/ds01BSNRGB_non_prop.zip",
+		"url": "http://water.usgs.gov/GIS/dsdl/ds01BSNRGB_non_prop.zip",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 0,
@@ -67,7 +67,7 @@
 		"cache_url": null,
 		"name": "Zip File",
 		"created": "2015-08-18T22:26:02.216780",
-		"url": "http:\/\/water.usgs.gov\/GIS\/dsdl\/ds01BSNRGB_A10_gdb.zip",
+		"url": "http://water.usgs.gov/GIS/dsdl/ds01BSNRGB_A10_gdb.zip",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 1,
@@ -97,7 +97,7 @@
 		"cache_url": null,
 		"name": "XML File",
 		"created": "2015-08-18T22:26:02.216789",
-		"url": "http:\/\/water.usgs.gov\/lookup\/getspatial?ds01bsnrgb_a10.xml",
+		"url": "http://water.usgs.gov/lookup/getspatial?ds01bsnrgb_a10.xml",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 2,
@@ -117,7 +117,7 @@
 	"name": "geodatabase-of-the-available-top-and-bottom-surface-datasets-that-represent-the-basin-and-range",
 	"isopen": false,
 	"url": null,
-	"notes": "This geodatabase includes spatial datasets that represent the Basin and Range basin-fill aquifers in the States of Arizona, California, Idaho, Nevada, New Mexico, Oregon, and Utah. Included are: (1) polygon extents; datasets that represent the aquifer system extent, the entire extent subdivided into subareas or subunits, and any polygon extents of special interest (outcrop areas, no data available, areas underlying other aquifers, anomalies, for example), (2) contours: thickness contours used to generate the surface rasters in subarea 4 (Arizona), (3) modified source raster datasets for subareas 1 and 3, (4) corrected altitudes of top and bottom surface rasters of the entire aquifer. The thickness contours and modified surface rasters are supplied for reference. The extent of the Basin and Range basin-fill aquifer is from the linework of the Basin and Range aquifer extent maps in U.S. Geological Survey Hydrologic Atlas 730 Chapters B and C, and a digital version of the aquifer extent presented in the Groundwater Atlas of the United States (the U.S. Geological Survey Hydrologic Atlas. The Basin and Range basin-fill aquifer has no aquifer subunits, but is defined by five subareas: 1. Subarea 1 is the area that overlies the Basin and Range Carbonate aquifer, which was the subject of U.S. Geological Survey Scientific Investigations Report 2010-5193 (USGS SIR 2010-5193). 2. Subarea 2 is the area of a different aquifer system, which is set to null for use within the Basin and Range basin-fill aquifer from U.S. Geological Survey Principal Aquifers, 2003 (USGS Circular 1323, Figure 2) 3. Subarea 3 is the area of the Basin and Range basin-fill aquifer that was the subject of U.S. Geological Survey Geophysical Map 1012 (USGS GP-1012) and not covered by USGS SIR 2010-5193 or the Basin and Range basin-fill aquifer in Arizona, Arizona Geological Survey, Digital Geological Map 52 (AZGS DGM-52). Top of aquifer is land surface. USGS GP-1012 dataset is depth from land surface to basin bottom. 4. Subarea 4 is the area of the 01BSNRGB aquifer in Arizona, (AZGS DGM-52) 5. Subarea 5 areas are in the Basin and Range basin-fill extent areas that do not have top\/bot defined. The resultant top and bottom surface rasters for each subarea were merged into surface rasters of the top and bottom of the entire Basin and Range basin-fill aquifer within a GIS using tools that create hydrologically correct surfaces from contour data, deriving the altitude from the thickness (depth from the land surface), and merging the subareas into a single surface. The primary tools were a version of \"Topo to Raster\", and \"Mosaic to New Raster\" used in ArcGIS, ArcMap, Esri 2014.",
+	"notes": "This geodatabase includes spatial datasets that represent the Basin and Range basin-fill aquifers in the States of Arizona, California, Idaho, Nevada, New Mexico, Oregon, and Utah. Included are: (1) polygon extents; datasets that represent the aquifer system extent, the entire extent subdivided into subareas or subunits, and any polygon extents of special interest (outcrop areas, no data available, areas underlying other aquifers, anomalies, for example), (2) contours: thickness contours used to generate the surface rasters in subarea 4 (Arizona), (3) modified source raster datasets for subareas 1 and 3, (4) corrected altitudes of top and bottom surface rasters of the entire aquifer. The thickness contours and modified surface rasters are supplied for reference. The extent of the Basin and Range basin-fill aquifer is from the linework of the Basin and Range aquifer extent maps in U.S. Geological Survey Hydrologic Atlas 730 Chapters B and C, and a digital version of the aquifer extent presented in the Groundwater Atlas of the United States (the U.S. Geological Survey Hydrologic Atlas. The Basin and Range basin-fill aquifer has no aquifer subunits, but is defined by five subareas: 1. Subarea 1 is the area that overlies the Basin and Range Carbonate aquifer, which was the subject of U.S. Geological Survey Scientific Investigations Report 2010-5193 (USGS SIR 2010-5193). 2. Subarea 2 is the area of a different aquifer system, which is set to null for use within the Basin and Range basin-fill aquifer from U.S. Geological Survey Principal Aquifers, 2003 (USGS Circular 1323, Figure 2) 3. Subarea 3 is the area of the Basin and Range basin-fill aquifer that was the subject of U.S. Geological Survey Geophysical Map 1012 (USGS GP-1012) and not covered by USGS SIR 2010-5193 or the Basin and Range basin-fill aquifer in Arizona, Arizona Geological Survey, Digital Geological Map 52 (AZGS DGM-52). Top of aquifer is land surface. USGS GP-1012 dataset is depth from land surface to basin bottom. 4. Subarea 4 is the area of the 01BSNRGB aquifer in Arizona, (AZGS DGM-52) 5. Subarea 5 areas are in the Basin and Range basin-fill extent areas that do not have top/bot defined. The resultant top and bottom surface rasters for each subarea were merged into surface rasters of the top and bottom of the entire Basin and Range basin-fill aquifer within a GIS using tools that create hydrologically correct surfaces from contour data, deriving the altitude from the thickness (depth from the land surface), and merging the subareas into a single surface. The primary tools were a version of "Topo to Raster", and "Mosaic to New Raster" used in ArcGIS, ArcMap, Esri 2014.",
 	"license_title": null,
 	"extras": [{
 		"key": "bbox-east-long",
@@ -145,7 +145,7 @@
 	},
 	{
 		"key": "graphic-preview-file",
-		"value": "http:\/\/water.usgs.gov\/GIS\/browse\/ds01BSNRGB_A10.jpg"
+		"value": "http://water.usgs.gov/GIS/browse/ds01BSNRGB_A10.jpg"
 	},
 	{
 		"key": "bbox-south-lat",
@@ -161,7 +161,7 @@
 	},
 	{
 		"key": "spatial",
-		"value": "{\"type\": \"Polygon\", \"coordinates\": [[[-121.29270439, 30.021792453], [-108.102439435, 30.021792453], [-108.102439435, 44.111356302], [-121.29270439, 44.111356302], [-121.29270439, 30.021792453]]]}"
+		"value": "{"type": "Polygon", "coordinates": [[[-121.29270439, 30.021792453], [-108.102439435, 30.021792453], [-108.102439435, 44.111356302], [-121.29270439, 44.111356302], [-121.29270439, 30.021792453]]]}"
 	},
 	{
 		"key": "progress",
@@ -169,7 +169,7 @@
 	},
 	{
 		"key": "access_constraints",
-		"value": "[\"Use Constraints: The original data were intended to be used at a regional scale of 1:2,500,000. Users are advised to read the dataset's metadata thoroughly to understand appropriate use and data limitations.\", \"Access Constraints: None. Acknowledgement of the U.S. Geological Survey would be appreciated in products derived from these data.\"]"
+		"value": "["Use Constraints: The original data were intended to be used at a regional scale of 1:2,500,000. Users are advised to read the dataset's metadata thoroughly to understand appropriate use and data limitations.", "Access Constraints: None. Acknowledgement of the U.S. Geological Survey would be appreciated in products derived from these data."]"
 	},
 	{
 		"key": "contact-email",
@@ -185,7 +185,7 @@
 	},
 	{
 		"key": "dataset-reference-date",
-		"value": "[{\"type\": \"publication\", \"value\": \"2015-01-01\"}]"
+		"value": "[{"type": "publication", "value": "2015-01-01"}]"
 	},
 	{
 		"key": "graphic-preview-description",
@@ -197,7 +197,7 @@
 	},
 	{
 		"key": "licence",
-		"value": "[\"Although these data have been used by the U.S. Geological Survey, U.S. Department of the Interior, no warranty expressed or implied is made by the U.S. Geological Survey as to the accuracy of the data.  The act of distribution shall not constitute any such warranty, and no responsibility is assumed by the U.S. Geological Survey in the use of these data, software, or related materials.\\nThe use of firm, trade, or brand names in this report is for identification purposes only and does not constitute endorsement by the U.S. Geological Survey.  The names mentioned in this document may be trademarks or registered trademarks of their respective trademark owners.\"]"
+		"value": "["Although these data have been used by the U.S. Geological Survey, U.S. Department of the Interior, no warranty expressed or implied is made by the U.S. Geological Survey as to the accuracy of the data.  The act of distribution shall not constitute any such warranty, and no responsibility is assumed by the U.S. Geological Survey in the use of these data, software, or related materials.\nThe use of firm, trade, or brand names in this report is for identification purposes only and does not constitute endorsement by the U.S. Geological Survey.  The names mentioned in this document may be trademarks or registered trademarks of their respective trademark owners."]"
 	},
 	{
 		"key": "metadata_type",
@@ -205,7 +205,7 @@
 	},
 	{
 		"key": "responsible-party",
-		"value": "[{\"name\": \"U.S. Geological Survey, Midwest Region\", \"roles\": [\"pointOfContact\"]}]"
+		"value": "[{"name": "U.S. Geological Survey, Midwest Region", "roles": ["pointOfContact"]}]"
 	},
 	{
 		"key": "spatial-data-service-type",
@@ -240,14 +240,14 @@
 		"value": "Water NSDI Node Spatial Datasets"
 	}],
 	"organization": {
-		"description": "http:\/\/www.usgs.gov\/\r\nThe USGS is a federal science agency that provides impartial information on the health of our ecosystems and environment, the natural hazards that threaten us, the natural resources we rely on, the impacts of climate and land-use change, and the core science systems that help us provide timely, relevant, and useable information.",
+		"description": "http://www.usgs.gov/rnThe USGS is a federal science agency that provides impartial information on the health of our ecosystems and environment, the natural hazards that threaten us, the natural resources we rely on, the impacts of climate and land-use change, and the core science systems that help us provide timely, relevant, and useable information.",
 		"created": "2013-03-14T03:44:38.263357",
 		"title": "U.S. Geological Survey, Department of the Interior",
 		"name": "usgs-gov",
 		"revision_timestamp": "2014-09-02T13:43:52.167023",
 		"is_organization": true,
 		"state": "active",
-		"image_url": "http:\/\/pubs.usgs.gov\/sir\/2004\/5296\/04-5296_confluence_park\/usgs_logo.gif",
+		"image_url": "http://pubs.usgs.gov/sir/2004/5296/04-5296_confluence_park/usgs_logo.gif",
 		"revision_id": "2858aa99-9501-4f96-82e5-9647b968ed66",
 		"type": "organization",
 		"id": "bd2cdd5a-4d65-46c0-9937-c8381175f104",

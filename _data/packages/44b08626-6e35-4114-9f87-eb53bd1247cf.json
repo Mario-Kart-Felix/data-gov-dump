@@ -36,7 +36,7 @@
 		"cache_url": null,
 		"name": "Downloadable File (PDF) The Geology of the Lyndonville Area, Vermont",
 		"created": "2013-03-16T01:05:02.356323",
-		"url": "http:\/\/www.anr.state.vt.us\/dec\/geo\/bull8lyndon\/Dennis_1956sm.pdf",
+		"url": "http://www.anr.state.vt.us/dec/geo/bull8lyndon/Dennis_1956sm.pdf",
 		"webstore_url": null,
 		"resource_locator_function": "375",
 		"position": 0,
@@ -65,7 +65,7 @@
 		"cache_url": null,
 		"name": "Service Description",
 		"created": "2013-03-16T01:05:02.356342",
-		"url": "http:\/\/geothermal.isgs.illinois.edu\/ArcGIS\/services\/aasggeothermal\/VTBull08Lyndonville\/MapServer\/WMSServer?request=GetCapabilities&service=WMS",
+		"url": "http://geothermal.isgs.illinois.edu/ArcGIS/services/aasggeothermal/VTBull08Lyndonville/MapServer/WMSServer?request=GetCapabilities&service=WMS",
 		"webstore_url": null,
 		"resource_locator_function": "381",
 		"position": 1,
@@ -94,7 +94,7 @@
 		"cache_url": null,
 		"name": "ESRI Service Endpoint - The Geology of the Lyndonville Area, Vermont",
 		"created": "2013-03-16T01:05:02.356349",
-		"url": "http:\/\/geothermal.isgs.illinois.edu\/ArcGIS\/rest\/services\/aasggeothermal\/VTBull08Lyndonville\/MapServer",
+		"url": "http://geothermal.isgs.illinois.edu/ArcGIS/rest/services/aasggeothermal/VTBull08Lyndonville/MapServer",
 		"webstore_url": null,
 		"resource_locator_function": "381",
 		"position": 2,
@@ -123,7 +123,7 @@
 		"cache_url": null,
 		"name": "ESRI Service Endpoint - Plate I: Geologic Map",
 		"created": "2013-03-16T01:05:02.356354",
-		"url": "http:\/\/geothermal.isgs.illinois.edu\/ArcGIS\/rest\/services\/aasggeothermal\/VTBull08Lyndonville\/MapServer\/0",
+		"url": "http://geothermal.isgs.illinois.edu/ArcGIS/rest/services/aasggeothermal/VTBull08Lyndonville/MapServer/0",
 		"webstore_url": null,
 		"resource_locator_function": "381",
 		"position": 3,
@@ -152,7 +152,7 @@
 		"cache_url": null,
 		"name": "ESRI Service Endpoint - Plate II: Tectonic Map",
 		"created": "2013-03-16T01:05:02.356359",
-		"url": "http:\/\/geothermal.isgs.illinois.edu\/ArcGIS\/rest\/services\/aasggeothermal\/VTBull08Lyndonville\/MapServer\/1",
+		"url": "http://geothermal.isgs.illinois.edu/ArcGIS/rest/services/aasggeothermal/VTBull08Lyndonville/MapServer/1",
 		"webstore_url": null,
 		"resource_locator_function": "381",
 		"position": 4,
@@ -181,7 +181,7 @@
 		"cache_url": null,
 		"name": "ESRI Service Endpoint -  Plate III: Eastern Vermont and Adjoining Region, Generalized Geologic Map",
 		"created": "2013-03-16T01:05:02.356364",
-		"url": "http:\/\/geothermal.isgs.illinois.edu\/ArcGIS\/rest\/services\/aasggeothermal\/VTBull08Lyndonville\/MapServer\/2",
+		"url": "http://geothermal.isgs.illinois.edu/ArcGIS/rest/services/aasggeothermal/VTBull08Lyndonville/MapServer/2",
 		"webstore_url": null,
 		"resource_locator_function": "381",
 		"position": 5,
@@ -214,11 +214,11 @@
 	"name": "the-geology-of-the-lyndonville-area-vermont",
 	"isopen": false,
 	"url": null,
-	"notes": "This resource is available as a downloadable pdf file, a Web Map Service, and as an ESRI Service. The resource includes a Bedrock map, Tectonic map, Cross Section image, Generalized map, and a text on the Bedrock geology of the Lyndonville Area, Vermont. Abstract: The Lyndonville quadrangle is situated in northeastern Vermont, between the Green Mountain anticlinorium and the New Hampshire plutonic belt. Two sedimentary formations crop out within the quadrangle, the  Waits River formation (Barton River member) and the Gile Mountain  formation. Both belong to the St. Francis group which extends from  Quebec into Massachusetts and which is here tentatively assigned Devonian age. The rocks consist of an alternation of graywackes, quartzites, siliceous limestones and volcanics, in which are emplaced a  number of cross-cutting \"granite\" plutons.",
+	"notes": "This resource is available as a downloadable pdf file, a Web Map Service, and as an ESRI Service. The resource includes a Bedrock map, Tectonic map, Cross Section image, Generalized map, and a text on the Bedrock geology of the Lyndonville Area, Vermont. Abstract: The Lyndonville quadrangle is situated in northeastern Vermont, between the Green Mountain anticlinorium and the New Hampshire plutonic belt. Two sedimentary formations crop out within the quadrangle, the  Waits River formation (Barton River member) and the Gile Mountain  formation. Both belong to the St. Francis group which extends from  Quebec into Massachusetts and which is here tentatively assigned Devonian age. The rocks consist of an alternation of graywackes, quartzites, siliceous limestones and volcanics, in which are emplaced a  number of cross-cutting "granite" plutons.",
 	"license_title": null,
 	"extras": [{
 		"key": "responsible-party",
-		"value": "[{\"name\": \"Arizona Geological Survey\", \"roles\": [\"pointOfContact\"]}]"
+		"value": "[{"name": "Arizona Geological Survey", "roles": ["pointOfContact"]}]"
 	},
 	{
 		"key": "contact-email",
@@ -238,7 +238,7 @@
 	},
 	{
 		"key": "dataset-reference-date",
-		"value": "[{\"type\": \"publication\", \"value\": \"1956-01-01T12:00:00\"}]"
+		"value": "[{"type": "publication", "value": "1956-01-01T12:00:00"}]"
 	},
 	{
 		"key": "resource-type",
@@ -274,7 +274,7 @@
 	},
 	{
 		"key": "spatial",
-		"value": "{\"type\": \"Polygon\", \"coordinates\": [[[-72.25, 44.5], [-72.25, 44.75], [-72.0, 44.75], [-72.0, 44.5], [-72.25, 44.5]]]}"
+		"value": "{"type": "Polygon", "coordinates": [[[-72.25, 44.5], [-72.25, 44.75], [-72.0, 44.75], [-72.0, 44.5], [-72.25, 44.5]]]}"
 	},
 	{
 		"key": "guid",
@@ -324,7 +324,7 @@
 		"revision_timestamp": "2013-03-20T21:11:17.592932",
 		"is_organization": true,
 		"state": "active",
-		"image_url": "http:\/\/www.50states.com\/flag\/image\/nunst004.gif",
+		"image_url": "http://www.50states.com/flag/image/nunst004.gif",
 		"revision_id": "61be6428-4398-4199-a336-f3cd1e956f9b",
 		"type": "organization",
 		"id": "f3f6e1d4-64fb-4a2f-b32c-9ac0b76fe4de",

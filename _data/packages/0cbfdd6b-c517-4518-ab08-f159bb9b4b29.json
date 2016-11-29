@@ -31,11 +31,11 @@
 		},
 		"mimetype_inner": null,
 		"revision_id": "3c1558df-c699-4eff-8977-90224b53566f",
-		"mimetype": "application\/vnd.ms-excel",
+		"mimetype": "application/vnd.ms-excel",
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2015-02-23T15:20:38.380681",
-		"url": "http:\/\/en.openei.org\/doe-opendata\/dataset\/999de5c1-4a52-4a63-8457-8c7ed22d6995\/resource\/2933e351-2144-4f46-9eb4-136dcfaf8f9f\/download\/sselectricityatgridus2008.xls",
+		"url": "http://en.openei.org/doe-opendata/dataset/999de5c1-4a52-4a63-8457-8c7ed22d6995/resource/2933e351-2144-4f46-9eb4-136dcfaf8f9f/download/sselectricityatgridus2008.xls",
 		"webstore_url": null,
 		"last_modified": null,
 		"position": 0,
@@ -94,7 +94,7 @@
 	"name": "uslci-database-electricity-at-grid-us-2008-9ee02",
 	"isopen": true,
 	"url": null,
-	"notes": "Gate to gate life cycle inventory (LCI) data for the US national grid.  Includes generation and transmission of electricity for US electricity grid. Representative of year 2008 mix of fuels used for utility electricity generation in US.  Fuels include biomass, coal, petroleum, geothermal, natural gas, nuclear, solar, hydroelectric and wind energy sources.\r\n\r\nThis data was developed by:\r\n\r\n- Alberta Carpenter, NREL\r\n- Chris Goemans, Athena Institute\r\n\r\nData is derived from reports from  EIA, IEA, US DOE, Statistics Canada, USEPA, and NERC.  A methodology report is available online at the USLCI Database website (http:\/\/www.nrel.gov\/lci\/)\r\n\r\nData is also available with additional information and in ecospold (XLS and XML) formats at the USLCI Database website (http:\/\/www.nrel.gov\/lci\/).",
+	"notes": "Gate to gate life cycle inventory (LCI) data for the US national grid.  Includes generation and transmission of electricity for US electricity grid. Representative of year 2008 mix of fuels used for utility electricity generation in US.  Fuels include biomass, coal, petroleum, geothermal, natural gas, nuclear, solar, hydroelectric and wind energy sources.rnrnThis data was developed by:rnrn- Alberta Carpenter, NRELrn- Chris Goemans, Athena InstituternrnData is derived from reports from  EIA, IEA, US DOE, Statistics Canada, USEPA, and NERC.  A methodology report is available online at the USLCI Database website (http://www.nrel.gov/lci/)rnrnData is also available with additional information and in ecospold (XLS and XML) formats at the USLCI Database website (http://www.nrel.gov/lci/).",
 	"license_title": "Other License Specified",
 	"extras": [{
 		"key": "harvest_source_id",
@@ -114,23 +114,23 @@
 	},
 	{
 		"key": "spatial",
-		"value": "{\"type\":\"Polygon\",\"coordinates\":[[[-124.76249999999999,24.521],[-66.58103749999998,24.521],[-66.58103749999998,49.3845],[-124.76249999999999,49.3845],[-124.76249999999999,24.521]]]}"
+		"value": "{"type":"Polygon","coordinates":[[[-124.76249999999999,24.521],[-66.58103749999998,24.521],[-66.58103749999998,49.3845],[-124.76249999999999,49.3845],[-124.76249999999999,24.521]]]}"
 	},
 	{
 		"key": "catalog_conformsTo",
-		"value": "https:\/\/project-open-data.cio.gov\/v1.1\/schema"
+		"value": "https://project-open-data.cio.gov/v1.1/schema"
 	},
 	{
 		"key": "catalog_@context",
-		"value": "https:\/\/project-open-data.cio.gov\/v1.1\/schema\/catalog.jsonld"
+		"value": "https://project-open-data.cio.gov/v1.1/schema/catalog.jsonld"
 	},
 	{
 		"key": "catalog_describedBy",
-		"value": "https:\/\/project-open-data.cio.gov\/v1.1\/schema\/catalog.json"
+		"value": "https://project-open-data.cio.gov/v1.1/schema/catalog.json"
 	},
 	{
 		"key": "format",
-		"value": "application\/vnd.ms-excel"
+		"value": "application/vnd.ms-excel"
 	},
 	{
 		"key": "harvest_source_title",
@@ -150,7 +150,7 @@
 	},
 	{
 		"key": "landingPage",
-		"value": "http:\/\/www.nrel.gov\/lci\/"
+		"value": "http://www.nrel.gov/lci/"
 	},
 	{
 		"key": "harvest_object_id",
@@ -158,7 +158,7 @@
 	},
 	{
 		"key": "accessURL",
-		"value": "http:\/\/en.openei.org\/doe-opendata\/dataset\/999de5c1-4a52-4a63-8457-8c7ed22d6995\/resource\/2933e351-2144-4f46-9eb4-136dcfaf8f9f\/download\/sselectricityatgridus2008.xls"
+		"value": "http://en.openei.org/doe-opendata/dataset/999de5c1-4a52-4a63-8457-8c7ed22d6995/resource/2933e351-2144-4f46-9eb4-136dcfaf8f9f/download/sselectricityatgridus2008.xls"
 	},
 	{
 		"key": "publisher",
@@ -166,7 +166,7 @@
 	},
 	{
 		"key": "license",
-		"value": "http:\/\/www.opendefinition.org\/licenses\/odc-pddl"
+		"value": "http://www.opendefinition.org/licenses/odc-pddl"
 	},
 	{
 		"key": "modified",
@@ -182,7 +182,7 @@
 	},
 	{
 		"key": "identifier",
-		"value": "http:\/\/en.openei.org\/doe-opendata\/dataset\/999de5c1-4a52-4a63-8457-8c7ed22d6995"
+		"value": "http://en.openei.org/doe-opendata/dataset/999de5c1-4a52-4a63-8457-8c7ed22d6995"
 	},
 	{
 		"state": "active",
@@ -207,7 +207,7 @@
 		"revision_timestamp": "2013-05-31T20:48:37.771905",
 		"is_organization": true,
 		"state": "active",
-		"image_url": "http:\/\/energy.gov\/sites\/prod\/files\/styles\/imagelink\/public\/DoE-Logo.jpeg",
+		"image_url": "http://energy.gov/sites/prod/files/styles/imagelink/public/DoE-Logo.jpeg",
 		"revision_id": "14e1d3c1-4cc7-460c-bf1c-b10e3429b4b0",
 		"type": "organization",
 		"id": "735d0118-b2a7-4246-a0e3-608b0fa8d1ec",

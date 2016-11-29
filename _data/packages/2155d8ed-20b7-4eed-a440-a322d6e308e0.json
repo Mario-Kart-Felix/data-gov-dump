@@ -24,7 +24,7 @@
 		"state": "active",
 		"last_modified": null,
 		"hash": "",
-		"description": "Should be used for most mapping projects--this is our most comprehensive dataset. Designed for use with GIS (geographic\n                        information systems).",
+		"description": "Should be used for most mapping projects--this is our most comprehensive dataset. Designed for use with GIS (geographicn                        information systems).",
 		"format": "tgrshp (compressed)",
 		"tracking_summary": {
 			"total": 17,
@@ -36,7 +36,7 @@
 		"cache_url": null,
 		"name": "Address Ranges County-based Relationship Files",
 		"created": "2015-10-22T11:07:26.678014",
-		"url": "http:\/\/www2.census.gov\/geo\/tiger\/TIGER2015\/ADDR",
+		"url": "http://www2.census.gov/geo/tiger/TIGER2015/ADDR",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 0,
@@ -63,9 +63,9 @@
 		"resource_locator_protocol": "",
 		"mimetype": null,
 		"cache_url": null,
-		"name": "TIGER\/Line\u00aeShapefiles 2015 Technical Documentation",
+		"name": "TIGER/Lineu00aeShapefiles 2015 Technical Documentation",
 		"created": "2015-10-22T11:07:26.678049",
-		"url": "http:\/\/www2.census.gov\/geo\/pdfs\/maps-data\/data\/tiger\/tgrshp2015\/TGRSHP2015_TechDoc.pdf",
+		"url": "http://www2.census.gov/geo/pdfs/maps-data/data/tiger/tgrshp2015/TGRSHP2015_TechDoc.pdf",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 1,
@@ -92,9 +92,9 @@
 		"resource_locator_protocol": "",
 		"mimetype": null,
 		"cache_url": null,
-		"name": "Feature Catalog for the 2015 TIGER\/Line Shapefile Address Ranges County-based Relationship File",
+		"name": "Feature Catalog for the 2015 TIGER/Line Shapefile Address Ranges County-based Relationship File",
 		"created": "2015-10-22T11:07:26.678057",
-		"url": "http:\/\/meta.geo.census.gov\/data\/existing\/decennial\/GEO\/GPMB\/TIGERline\/TIGER2015\/addr\/tl_2015_addr.dbf.ea.iso.xml",
+		"url": "http://meta.geo.census.gov/data/existing/decennial/GEO/GPMB/TIGERline/TIGER2015/addr/tl_2015_addr.dbf.ea.iso.xml",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 2,
@@ -103,7 +103,7 @@
 	}],
 	"num_resources": 3,
 	"tags": [],
-	"title": "TIGER\/Line Shapefile,  2015, Series Information for the Address Ranges County-based Relationship File",
+	"title": "TIGER/Line Shapefile,  2015, Series Information for the Address Ranges County-based Relationship File",
 	"tracking_summary": {
 		"total": 94,
 		"recent": 1
@@ -114,7 +114,7 @@
 	"name": "tiger-line-shapefile-2015-series-information-for-the-address-ranges-county-based-relationship-f",
 	"isopen": false,
 	"url": null,
-	"notes": " The Address Ranges Relationship File (ADDR.dbf) contains the attributes of each address range.  Each address range applies to a single edge and has a\n               unique address range identifier (ARID) value.  The edge to which an address range applies can be determined by linking the address range to the All Lines\n               Shapefile (EDGES.shp) using the permanent topological edge identifier (TLID) attribute.  Multiple address ranges can apply to the same edge since an edge\n               can have multiple address ranges.  Note that the most inclusive address range associated with each side of a street edge already appears in the All Lines\n               Shapefile (EDGES.shp).  The TIGER\/Line Files contain potential address ranges, not individual addresses.  The term \"address range\" refers to the\n               collection of all possible structure numbers from the first structure number to the last structure number and all numbers of a specified parity in\n               between along an edge side relative to the direction in which the edge is coded.  The address ranges in the TIGER\/Line Files are potential ranges that\n               include the full range of possible structure numbers even though the actual structures may not exist.\n               \n               The TIGER\/Line shapefiles and related database files (.dbf) are an extract of selected geographic and cartographic information from the\n               U.S. Census Bureau's Master Address File \/ Topologically Integrated Geographic Encoding and Referencing (MAF\/TIGER) Database (MTDB).  The MTDB represents\n               a seamless national file with no overlaps or gaps between parts, however, each TIGER\/Line shapefile is designed to stand alone as an independent data set,\n               or they can be combined to cover the entire nation.",
+	"notes": " The Address Ranges Relationship File (ADDR.dbf) contains the attributes of each address range.  Each address range applies to a single edge and has an               unique address range identifier (ARID) value.  The edge to which an address range applies can be determined by linking the address range to the All Linesn               Shapefile (EDGES.shp) using the permanent topological edge identifier (TLID) attribute.  Multiple address ranges can apply to the same edge since an edgen               can have multiple address ranges.  Note that the most inclusive address range associated with each side of a street edge already appears in the All Linesn               Shapefile (EDGES.shp).  The TIGER/Line Files contain potential address ranges, not individual addresses.  The term "address range" refers to then               collection of all possible structure numbers from the first structure number to the last structure number and all numbers of a specified parity inn               between along an edge side relative to the direction in which the edge is coded.  The address ranges in the TIGER/Line Files are potential ranges thatn               include the full range of possible structure numbers even though the actual structures may not exist.n               n               The TIGER/Line shapefiles and related database files (.dbf) are an extract of selected geographic and cartographic information from then               U.S. Census Bureau's Master Address File / Topologically Integrated Geographic Encoding and Referencing (MAF/TIGER) Database (MTDB).  The MTDB representsn               a seamless national file with no overlaps or gaps between parts, however, each TIGER/Line shapefile is designed to stand alone as an independent data set,n               or they can be combined to cover the entire nation.",
 	"license_title": null,
 	"extras": [{
 		"key": "bbox-east-long",
@@ -138,7 +138,7 @@
 	},
 	{
 		"key": "dataset-reference-date",
-		"value": "[{\"type\": \"publication\", \"value\": \"2015\"}]"
+		"value": "[{"type": "publication", "value": "2015"}]"
 	},
 	{
 		"key": "resource-type",
@@ -178,7 +178,7 @@
 	},
 	{
 		"key": "spatial",
-		"value": "{\"type\": \"Polygon\", \"coordinates\": [[[-179.231086, -14.601813], [179.859681, -14.601813], [179.859681, 71.441059], [-179.231086, 71.441059], [-179.231086, -14.601813]]]}"
+		"value": "{"type": "Polygon", "coordinates": [[[-179.231086, -14.601813], [179.859681, -14.601813], [179.859681, 71.441059], [-179.231086, 71.441059], [-179.231086, -14.601813]]]}"
 	},
 	{
 		"key": "guid",
@@ -190,7 +190,7 @@
 	},
 	{
 		"key": "access_constraints",
-		"value": "[\" Access Constraints: None\", \" Use Constraints:The TIGER\/Line Shapefile products are not copyrighted however TIGER\/Line and Census TIGER are registered\\n                     trademarks of the U.S. Census Bureau.  These products are free to use in a product or publication, however acknowledgment must be given to the U.S.\\n                     Census Bureau as the source.\"]"
+		"value": "[" Access Constraints: None", " Use Constraints:The TIGER/Line Shapefile products are not copyrighted however TIGER/Line and Census TIGER are registered\n                     trademarks of the U.S. Census Bureau.  These products are free to use in a product or publication, however acknowledgment must be given to the U.S.\n                     Census Bureau as the source."]"
 	},
 	{
 		"key": "spatial_harvester",
@@ -232,7 +232,7 @@
 		"revision_timestamp": "2013-08-29T13:37:04.171127",
 		"is_organization": true,
 		"state": "active",
-		"image_url": "http:\/\/www.census.gov\/main\/img\/home\/CensusLogo-white.png",
+		"image_url": "http://www.census.gov/main/img/home/CensusLogo-white.png",
 		"revision_id": "0995f525-d563-4254-a535-af5b926fe663",
 		"type": "organization",
 		"id": "31c49abe-512a-412a-9cc7-5b2601325d6b",

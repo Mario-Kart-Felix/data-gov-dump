@@ -36,7 +36,7 @@
 		"cache_url": null,
 		"name": "Data Subset Form",
 		"created": "2016-10-19T20:02:57.823291",
-		"url": "http:\/\/coastwatch.pfeg.noaa.gov\/erddap\/tabledap\/nosCoopsMRH.html",
+		"url": "http://coastwatch.pfeg.noaa.gov/erddap/tabledap/nosCoopsMRH.html",
 		"webstore_url": null,
 		"resource_locator_function": "download",
 		"position": 0,
@@ -65,7 +65,7 @@
 		"cache_url": null,
 		"name": "Make-A-Graph Form",
 		"created": "2016-10-19T20:02:57.823313",
-		"url": "http:\/\/coastwatch.pfeg.noaa.gov\/erddap\/tabledap\/nosCoopsMRH.graph",
+		"url": "http://coastwatch.pfeg.noaa.gov/erddap/tabledap/nosCoopsMRH.graph",
 		"webstore_url": null,
 		"resource_locator_function": "mapDigital",
 		"position": 1,
@@ -94,7 +94,7 @@
 		"cache_url": null,
 		"name": "Background Information",
 		"created": "2016-10-19T20:02:57.823321",
-		"url": "http:\/\/tidesandcurrents.noaa.gov\/",
+		"url": "http://tidesandcurrents.noaa.gov/",
 		"webstore_url": null,
 		"resource_locator_function": "information",
 		"position": 2,
@@ -123,7 +123,7 @@
 		"cache_url": null,
 		"name": "Background Information",
 		"created": "2016-10-19T20:02:57.823329",
-		"url": "http:\/\/tidesandcurrents.noaa.gov\/",
+		"url": "http://tidesandcurrents.noaa.gov/",
 		"webstore_url": null,
 		"resource_locator_function": "information",
 		"position": 3,
@@ -152,7 +152,7 @@
 		"cache_url": null,
 		"name": "Background Information",
 		"created": "2016-10-19T20:02:57.823336",
-		"url": "http:\/\/tidesandcurrents.noaa.gov\/",
+		"url": "http://tidesandcurrents.noaa.gov/",
 		"webstore_url": null,
 		"resource_locator_function": "information",
 		"position": 4,
@@ -181,7 +181,7 @@
 		"cache_url": null,
 		"name": "ERDDAP-tabledap",
 		"created": "2016-10-19T20:02:57.823343",
-		"url": "http:\/\/coastwatch.pfeg.noaa.gov\/erddap\/tabledap\/nosCoopsMRH",
+		"url": "http://coastwatch.pfeg.noaa.gov/erddap/tabledap/nosCoopsMRH",
 		"webstore_url": null,
 		"resource_locator_function": "download",
 		"position": 5,
@@ -210,7 +210,7 @@
 		"cache_url": null,
 		"name": "Background Information",
 		"created": "2016-10-19T20:02:57.823350",
-		"url": "http:\/\/tidesandcurrents.noaa.gov\/",
+		"url": "http://tidesandcurrents.noaa.gov/",
 		"webstore_url": null,
 		"resource_locator_function": "information",
 		"position": 6,
@@ -239,7 +239,7 @@
 		"cache_url": null,
 		"name": "OPeNDAP",
 		"created": "2016-10-19T20:02:57.823357",
-		"url": "http:\/\/coastwatch.pfeg.noaa.gov\/erddap\/tabledap\/nosCoopsMRH",
+		"url": "http://coastwatch.pfeg.noaa.gov/erddap/tabledap/nosCoopsMRH",
 		"webstore_url": null,
 		"resource_locator_function": "download",
 		"position": 7,
@@ -268,7 +268,7 @@
 		"cache_url": null,
 		"name": "Background Information",
 		"created": "2016-10-19T20:02:57.823364",
-		"url": "http:\/\/tidesandcurrents.noaa.gov\/",
+		"url": "http://tidesandcurrents.noaa.gov/",
 		"webstore_url": null,
 		"resource_locator_function": "information",
 		"position": 8,
@@ -297,7 +297,7 @@
 		"cache_url": null,
 		"name": "Subset",
 		"created": "2016-10-19T20:02:57.823371",
-		"url": "http:\/\/coastwatch.pfeg.noaa.gov\/erddap\/tabledap\/nosCoopsMRH.subset",
+		"url": "http://coastwatch.pfeg.noaa.gov/erddap/tabledap/nosCoopsMRH.subset",
 		"webstore_url": null,
 		"resource_locator_function": "download",
 		"position": 9,
@@ -317,11 +317,11 @@
 	"name": "nos-co-ops-meteorological-data-relative-humidity-6-minute",
 	"isopen": false,
 	"url": null,
-	"notes": "This dataset has Relative Humidity data from NOAA NOS Center for Operational\nOceanographic Products and Services (CO-OPS).\n\nWARNING: These preliminary data have not been subjected to the National Ocean\nServices (NOS) Quality Control procedures, and do not necessarily meet the\ncriteria and standards of official NOS data. They are released for limited\npublic use with appropriate caution.\n\nWARNING:\n* Queries for data MUST include stationID= and time>=.\n* Queries USUALLY include time<= (the default end time corresponds to 'now').\n* Queries MUST be for less than 30 days worth of data.\n* The data source isn't completely reliable. If your request returns no data\n  when you think it should:\n  * Try revising the request (e.g., a different time range).\n  * The list of stations offering this data may be incorrect.\n  * Sometimes a station or the entire data service is unavailable.\n    Wait a while and try again.",
+	"notes": "This dataset has Relative Humidity data from NOAA NOS Center for OperationalnOceanographic Products and Services (CO-OPS).nnWARNING: These preliminary data have not been subjected to the National OceannServices (NOS) Quality Control procedures, and do not necessarily meet thencriteria and standards of official NOS data. They are released for limitednpublic use with appropriate caution.nnWARNING:n* Queries for data MUST include stationID= and time>=.n* Queries USUALLY include time<= (the default end time corresponds to 'now').n* Queries MUST be for less than 30 days worth of data.n* The data source isn't completely reliable. If your request returns no datan  when you think it should:n  * Try revising the request (e.g., a different time range).n  * The list of stations offering this data may be incorrect.n  * Sometimes a station or the entire data service is unavailable.n    Wait a while and try again.",
 	"license_title": null,
 	"extras": [{
 		"key": "responsible-party",
-		"value": "[{\"name\": \"NOAA NOS CO-OPS\", \"roles\": [\"pointOfContact\"]}]"
+		"value": "[{"name": "NOAA NOS CO-OPS", "roles": ["pointOfContact"]}]"
 	},
 	{
 		"key": "contact-email",
@@ -341,7 +341,7 @@
 	},
 	{
 		"key": "dataset-reference-date",
-		"value": "[{\"type\": \"creation\", \"value\": \"2016-10-07\"}]"
+		"value": "[{"type": "creation", "value": "2016-10-07"}]"
 	},
 	{
 		"key": "resource-type",
@@ -361,7 +361,7 @@
 	},
 	{
 		"key": "coupled-resource",
-		"value": "[{\"href\": [\"#DataIdentification\"], \"uuid\": [], \"title\": []}, {\"href\": [\"#DataIdentification\"], \"uuid\": [], \"title\": []}, {\"href\": [\"#DataIdentification\"], \"uuid\": [], \"title\": []}]"
+		"value": "[{"href": ["#DataIdentification"], "uuid": [], "title": []}, {"href": ["#DataIdentification"], "uuid": [], "title": []}, {"href": ["#DataIdentification"], "uuid": [], "title": []}]"
 	},
 	{
 		"key": "bbox-south-lat",
@@ -381,7 +381,7 @@
 	},
 	{
 		"key": "spatial",
-		"value": "{\"type\": \"Polygon\", \"coordinates\": [[[-122.3971, 18.3353], [-65.6311, 18.3353], [-65.6311, 47.7478], [-122.3971, 47.7478], [-122.3971, 18.3353]]]}"
+		"value": "{"type": "Polygon", "coordinates": [[[-122.3971, 18.3353], [-65.6311, 18.3353], [-65.6311, 47.7478], [-122.3971, 47.7478], [-122.3971, 18.3353]]]}"
 	},
 	{
 		"key": "guid",
@@ -435,7 +435,7 @@
 		"revision_timestamp": "2013-03-25T23:05:12.923863",
 		"is_organization": true,
 		"state": "active",
-		"image_url": "https:\/\/fortress.wa.gov\/dfw\/score\/score\/images\/noaa_logo.png",
+		"image_url": "https://fortress.wa.gov/dfw/score/score/images/noaa_logo.png",
 		"revision_id": "c6d43080-22e1-405e-a83d-f2a512d9e867",
 		"type": "organization",
 		"id": "e811f0b4-451f-4896-9e8f-fc6802837819",

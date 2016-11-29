@@ -37,7 +37,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2014-12-17T13:46:15.158153",
-		"url": "http:\/\/www2.census.gov\/geo\/tiger\/TIGER2013\/TRACT",
+		"url": "http://www2.census.gov/geo/tiger/TIGER2013/TRACT",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 0,
@@ -46,7 +46,7 @@
 	}],
 	"num_resources": 1,
 	"tags": [],
-	"title": "TIGER\/Line Shapefile, 2013, Series Information File for the Current Census Tract State-based Shapefile",
+	"title": "TIGER/Line Shapefile, 2013, Series Information File for the Current Census Tract State-based Shapefile",
 	"tracking_summary": {
 		"total": 403,
 		"recent": 7
@@ -70,7 +70,7 @@
 	"name": "tiger-line-shapefile-2013-series-information-file-for-the-current-census-tract-state-based-shap",
 	"isopen": false,
 	"url": null,
-	"notes": "The TIGER\/Line shapefiles and related database files (.dbf) are an extract of selected\n          geographic and cartographic information from the U.S. Census Bureau's Master Address File \/ Topologically Integrated Geographic Encoding and Referencing\n          (MAF\/TIGER) Database (MTDB).  The MTDB represents a seamless national file with no overlaps or gaps between parts, however, each TIGER\/Line shapefile is\n          designed to stand alone as an independent data set, or they can be combined to cover the entire nation.  Census tracts are small, relatively permanent\n          statistical subdivisions of a county or equivalent entity, and were defined by local participants as part of the 2010 Census Participant Statistical Areas\n          Program.  The Census Bureau delineated the census tracts in situations where no local participant existed or where all the potential participants declined to\n          participate.  The primary purpose of census tracts is to provide a stable set of geographic units for the presentation of census data and comparison back to\n          previous decennial censuses.  Census tracts generally have a population size between 1,200 and 8,000 people, with an optimum size of 4,000 people.  When first\n          delineated, census tracts were designed to be homogeneous with respect to population characteristics, economic status, and living conditions.  The spatial\n          size of census tracts varies widely depending on the density of settlement.  Physical changes in street patterns caused by highway construction, new\n          development, and so forth, may require boundary revisions.  In addition, census tracts occasionally are split due to population growth, or combined as a\n          result of substantial population decline.  Census tract boundaries generally follow visible and identifiable features.  They may follow legal boundaries such\n          as minor civil division (MCD) or incorporated place boundaries in some States and situations to allow for census tract-to-governmental unit relationships\n          where the governmental boundaries tend to remain unchanged between censuses.  State and county boundaries always are census tract boundaries in the standard\n          census geographic hierarchy.  In a few rare instances, a census tract may consist of noncontiguous areas.  These noncontiguous areas may occur where the\n          census tracts are coextensive with all or parts of legal entities that are themselves noncontiguous.  For the 2010 Census, the census tract code range of 9400\n          through 9499 was enforced for census tracts that include a majority American Indian population according to Census 2000 data and\/or their area was primarily\n          covered by federally recognized American Indian reservations and\/or off-reservation trust lands; the code range 9800 through 9899 was enforced for those\n          census tracts that contained little or no population and represented a relatively large special land use area such as a National Park, military installation,\n          or a business\/industrial park; and the code range 9900 through 9998 was enforced for those census tracts that contained only water area, no land area.\n        ",
+	"notes": "The TIGER/Line shapefiles and related database files (.dbf) are an extract of selectedn          geographic and cartographic information from the U.S. Census Bureau's Master Address File / Topologically Integrated Geographic Encoding and Referencingn          (MAF/TIGER) Database (MTDB).  The MTDB represents a seamless national file with no overlaps or gaps between parts, however, each TIGER/Line shapefile isn          designed to stand alone as an independent data set, or they can be combined to cover the entire nation.  Census tracts are small, relatively permanentn          statistical subdivisions of a county or equivalent entity, and were defined by local participants as part of the 2010 Census Participant Statistical Areasn          Program.  The Census Bureau delineated the census tracts in situations where no local participant existed or where all the potential participants declined ton          participate.  The primary purpose of census tracts is to provide a stable set of geographic units for the presentation of census data and comparison back ton          previous decennial censuses.  Census tracts generally have a population size between 1,200 and 8,000 people, with an optimum size of 4,000 people.  When firstn          delineated, census tracts were designed to be homogeneous with respect to population characteristics, economic status, and living conditions.  The spatialn          size of census tracts varies widely depending on the density of settlement.  Physical changes in street patterns caused by highway construction, newn          development, and so forth, may require boundary revisions.  In addition, census tracts occasionally are split due to population growth, or combined as an          result of substantial population decline.  Census tract boundaries generally follow visible and identifiable features.  They may follow legal boundaries suchn          as minor civil division (MCD) or incorporated place boundaries in some States and situations to allow for census tract-to-governmental unit relationshipsn          where the governmental boundaries tend to remain unchanged between censuses.  State and county boundaries always are census tract boundaries in the standardn          census geographic hierarchy.  In a few rare instances, a census tract may consist of noncontiguous areas.  These noncontiguous areas may occur where then          census tracts are coextensive with all or parts of legal entities that are themselves noncontiguous.  For the 2010 Census, the census tract code range of 9400n          through 9499 was enforced for census tracts that include a majority American Indian population according to Census 2000 data and/or their area was primarilyn          covered by federally recognized American Indian reservations and/or off-reservation trust lands; the code range 9800 through 9899 was enforced for thosen          census tracts that contained little or no population and represented a relatively large special land use area such as a National Park, military installation,n          or a business/industrial park; and the code range 9900 through 9998 was enforced for those census tracts that contained only water area, no land area.n        ",
 	"license_title": null,
 	"extras": [{
 		"key": "bbox-east-long",
@@ -94,7 +94,7 @@
 	},
 	{
 		"key": "__category_tag_9a350fa9-bc49-43d4-8e77-270b9714976d",
-		"value": "[\"Pacific Islands\",\"Hawaii\",\"Guam\",\"Northern Mariana Islands\",\"American Samoa\",\"Education\",\"K-12\"]"
+		"value": "["Pacific Islands","Hawaii","Guam","Northern Mariana Islands","American Samoa","Education","K-12"]"
 	},
 	{
 		"key": "guid",
@@ -114,7 +114,7 @@
 	},
 	{
 		"key": "spatial",
-		"value": "{\"type\": \"Polygon\", \"coordinates\": [[[-179.231086, -14.601813], [179.859681, -14.601813], [179.859681, 71.441059], [-179.231086, 71.441059], [-179.231086, -14.601813]]]}"
+		"value": "{"type": "Polygon", "coordinates": [[[-179.231086, -14.601813], [179.859681, -14.601813], [179.859681, 71.441059], [-179.231086, 71.441059], [-179.231086, -14.601813]]]}"
 	},
 	{
 		"key": "progress",
@@ -122,7 +122,7 @@
 	},
 	{
 		"key": "access_constraints",
-		"value": "[\"Use Constraints: The TIGER\/Line Shapefile products are not copyrighted however TIGER\/Line\\n              and Census TIGER are registered trademarks of the U.S. Census Bureau.  These products are free to use in a product or publication, however acknowledgement\\n              must be given to the U.S. Census Bureau as the source.\\n              \\n              The boundary information in the TIGER\/Line Shapefiles are for statistical data collection and tabulation purposes only; their depiction and designation\\n              for statistical purposes does not constitute a determination of jurisdictional authority or rights of ownership or entitlement and they are not legal land\\n              descriptions.Coordinates in the TIGER\/Line shapefiles have six implied decimal places, but the positional accuracy of these coordinates is not as great as\\n              the six decimal places suggest.\", \"Distribution Liability: No warranty, expressed or implied is made with regard to the\\n              accuracy of these data, and no liability is assumed by the U.S. Government in general or the U.S. Census Bureau in specific as to the spatial or attribute\\n              accuracy of the data.  The act of distribution shall not constitute any such warranty and no responsibility is assumed by the U.S. government in the use\\n              of these files.  The boundary information in the TIGER\/Line Shapefiles is for statistical data collection and tabulation purposes only; their depiction\\n              and designation for statistical purposes do not constitute a determination of jurisdictional authority or rights of ownership or entitlement and they are\\n              not legal land descriptions.\"]"
+		"value": "["Use Constraints: The TIGER/Line Shapefile products are not copyrighted however TIGER/Line\n              and Census TIGER are registered trademarks of the U.S. Census Bureau.  These products are free to use in a product or publication, however acknowledgement\n              must be given to the U.S. Census Bureau as the source.\n              \n              The boundary information in the TIGER/Line Shapefiles are for statistical data collection and tabulation purposes only; their depiction and designation\n              for statistical purposes does not constitute a determination of jurisdictional authority or rights of ownership or entitlement and they are not legal land\n              descriptions.Coordinates in the TIGER/Line shapefiles have six implied decimal places, but the positional accuracy of these coordinates is not as great as\n              the six decimal places suggest.", "Distribution Liability: No warranty, expressed or implied is made with regard to the\n              accuracy of these data, and no liability is assumed by the U.S. Government in general or the U.S. Census Bureau in specific as to the spatial or attribute\n              accuracy of the data.  The act of distribution shall not constitute any such warranty and no responsibility is assumed by the U.S. government in the use\n              of these files.  The boundary information in the TIGER/Line Shapefiles is for statistical data collection and tabulation purposes only; their depiction\n              and designation for statistical purposes do not constitute a determination of jurisdictional authority or rights of ownership or entitlement and they are\n              not legal land descriptions."]"
 	},
 	{
 		"key": "temporal-extent-begin",
@@ -142,7 +142,7 @@
 	},
 	{
 		"key": "dataset-reference-date",
-		"value": "[{\"type\": \"publication\", \"value\": \"2013\"}]"
+		"value": "[{"type": "publication", "value": "2013"}]"
 	},
 	{
 		"key": "frequency-of-update",
@@ -158,7 +158,7 @@
 	},
 	{
 		"key": "responsible-party",
-		"value": "[{\"name\": \"U.S. Department of Commerce, U.S. Census Bureau, Geography Division, Geographic Products Branch\", \"roles\": [\"pointofContact\"]}]"
+		"value": "[{"name": "U.S. Department of Commerce, U.S. Census Bureau, Geography Division, Geographic Products Branch", "roles": ["pointofContact"]}]"
 	},
 	{
 		"key": "temporal-extent-end",
@@ -204,7 +204,7 @@
 		"revision_timestamp": "2013-08-29T13:37:04.171127",
 		"is_organization": true,
 		"state": "active",
-		"image_url": "http:\/\/www.census.gov\/main\/img\/home\/CensusLogo-white.png",
+		"image_url": "http://www.census.gov/main/img/home/CensusLogo-white.png",
 		"revision_id": "0995f525-d563-4254-a535-af5b926fe663",
 		"type": "organization",
 		"id": "31c49abe-512a-412a-9cc7-5b2601325d6b",

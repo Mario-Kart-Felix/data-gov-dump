@@ -25,7 +25,7 @@
 		"last_modified": null,
 		"hash": "",
 		"description": "",
-		"format": "application\/vnd.lotus-organizer",
+		"format": "application/vnd.lotus-organizer",
 		"tracking_summary": {
 			"total": 1387,
 			"recent": 30
@@ -37,7 +37,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2014-09-17T13:54:50.929584",
-		"url": "http:\/\/www.IndianaMap.org",
+		"url": "http://www.IndianaMap.org",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 0,
@@ -67,7 +67,7 @@
 		"cache_url": null,
 		"name": "XML File",
 		"created": "2014-09-17T13:54:50.929604",
-		"url": "http:\/\/maps.indiana.edu\/metadata\/Demographics\/Census_Blockgroups_2011.xml",
+		"url": "http://maps.indiana.edu/metadata/Demographics/Census_Blockgroups_2011.xml",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 1,
@@ -85,7 +85,7 @@
 		"last_modified": null,
 		"hash": "",
 		"description": "",
-		"format": "application\/vnd.lotus-organizer",
+		"format": "application/vnd.lotus-organizer",
 		"tracking_summary": {
 			"total": 328,
 			"recent": 9
@@ -97,7 +97,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2014-09-17T13:54:50.929611",
-		"url": "http:\/\/www.igic.org",
+		"url": "http://www.igic.org",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 2,
@@ -127,7 +127,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2014-09-17T13:54:50.929618",
-		"url": "http:\/\/maps.indiana.edu\/LayerGallery.html",
+		"url": "http://maps.indiana.edu/LayerGallery.html",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 3,
@@ -147,11 +147,11 @@
 	"name": "demographic-data-census-blockgroups-tiger2011-in-census-block-group-areas-for-indiana-in-2011-",
 	"isopen": false,
 	"url": null,
-	"notes": "CENSUS_BLOCKGROUPS_TIGER2011_IN.SHP is a polygon shapefile that contains 2011 census block group boundaries for the state of Indiana. Census block groups are not legal boundaries, but are considered stable geographic units used for the presentation of decennial census data. The following is excerpted from an Adobe Acrobat PDF document named \"TGRSHP2011_TECHDOC.PDF (U.S. Census Bureau): \"Block groups are clusters of blocks within the same census tract that have the same first digit of their 4-digit census block number. For example, blocks 3001, 3002, 3003, \u00e2\u0080\u00a6., 3999 in census tract 1210.02 belong to Block Group 3. As with block groups delineated for Census 2000, block groups delineated for 5-38 the 2010 Census generally contain between 600 and 3,000 people. Most block groups were delineated by local participants in the Census Bureau's Participant Statistical Areas Program. The Census Bureau delineated block groups only where a local or tribal government declined to participate or where the Census Bureau could not identify a potential local participant. \"A block group usually covers a contiguous area. Each census tract contains at least one block group and block groups are uniquely numbered within census tract. Within the standard census geographic hierarchy, block groups never cross county or census tract boundaries, but may cross the boundaries of county subdivisions, places, urban areas, voting districts, congressional districts, and American Indian, Alaska Native, and Native Hawaiian areas. \"Block groups have a valid range of 0 through 9. Block groups beginning with a 0 generally are in coastal and Great Lakes water and territorial seas. Rather than extending a census tract boundary into the Great Lakes or out to the three-mile territorial sea limit, the Census Bureau delineated some census trac boundaries along the shoreline or just offshore. The Census Bureau assigned a default census tract number of 0 and block group of 0 to the offshore areas not included in regularly numbered census tract areas. Because of updates since 2000, there are 0 block groups that now contain land.\"",
+	"notes": "CENSUS_BLOCKGROUPS_TIGER2011_IN.SHP is a polygon shapefile that contains 2011 census block group boundaries for the state of Indiana. Census block groups are not legal boundaries, but are considered stable geographic units used for the presentation of decennial census data. The following is excerpted from an Adobe Acrobat PDF document named "TGRSHP2011_TECHDOC.PDF (U.S. Census Bureau): "Block groups are clusters of blocks within the same census tract that have the same first digit of their 4-digit census block number. For example, blocks 3001, 3002, 3003, u00e2u0080u00a6., 3999 in census tract 1210.02 belong to Block Group 3. As with block groups delineated for Census 2000, block groups delineated for 5-38 the 2010 Census generally contain between 600 and 3,000 people. Most block groups were delineated by local participants in the Census Bureau's Participant Statistical Areas Program. The Census Bureau delineated block groups only where a local or tribal government declined to participate or where the Census Bureau could not identify a potential local participant. "A block group usually covers a contiguous area. Each census tract contains at least one block group and block groups are uniquely numbered within census tract. Within the standard census geographic hierarchy, block groups never cross county or census tract boundaries, but may cross the boundaries of county subdivisions, places, urban areas, voting districts, congressional districts, and American Indian, Alaska Native, and Native Hawaiian areas. "Block groups have a valid range of 0 through 9. Block groups beginning with a 0 generally are in coastal and Great Lakes water and territorial seas. Rather than extending a census tract boundary into the Great Lakes or out to the three-mile territorial sea limit, the Census Bureau delineated some census trac boundaries along the shoreline or just offshore. The Census Bureau assigned a default census tract number of 0 and block group of 0 to the offshore areas not included in regularly numbered census tract areas. Because of updates since 2000, there are 0 block groups that now contain land."",
 	"license_title": null,
 	"extras": [{
 		"key": "responsible-party",
-		"value": "[{\"name\": \"Indiana Geographic Information Council, Inc. (IGIC)\", \"roles\": [\"pointOfContact\"]}]"
+		"value": "[{"name": "Indiana Geographic Information Council, Inc. (IGIC)", "roles": ["pointOfContact"]}]"
 	},
 	{
 		"key": "contact-email",
@@ -171,7 +171,7 @@
 	},
 	{
 		"key": "dataset-reference-date",
-		"value": "[{\"type\": \"publication\", \"value\": \"2011-01-01\"}]"
+		"value": "[{"type": "publication", "value": "2011-01-01"}]"
 	},
 	{
 		"key": "resource-type",
@@ -199,7 +199,7 @@
 	},
 	{
 		"key": "licence",
-		"value": "[\"Although these data have been processed successfully on a computer system by the data steward, no warranty either expressed or implied is made regarding the utility of the data on any system, nor shall this notice generated by the Ramona GIS Inventory System or the act of distribution constitute any such warranty. The data steward may have additional liability information associated with delivery or distribution of this product.\"]"
+		"value": "["Although these data have been processed successfully on a computer system by the data steward, no warranty either expressed or implied is made regarding the utility of the data on any system, nor shall this notice generated by the Ramona GIS Inventory System or the act of distribution constitute any such warranty. The data steward may have additional liability information associated with delivery or distribution of this product."]"
 	},
 	{
 		"key": "metadata_type",
@@ -211,7 +211,7 @@
 	},
 	{
 		"key": "spatial",
-		"value": "{\"type\": \"Polygon\", \"coordinates\": [[[-88.08974457, 37.7730484], [-84.78767395, 37.7730484], [-84.78767395, 41.76232147], [-88.08974457, 41.76232147], [-88.08974457, 37.7730484]]]}"
+		"value": "{"type": "Polygon", "coordinates": [[[-88.08974457, 37.7730484], [-84.78767395, 37.7730484], [-84.78767395, 41.76232147], [-88.08974457, 41.76232147], [-88.08974457, 37.7730484]]]}"
 	},
 	{
 		"key": "guid",
@@ -223,7 +223,7 @@
 	},
 	{
 		"key": "access_constraints",
-		"value": "[\"Use Constraints: This is an incomplete metadata record and use constraints are not documented by the Ramona GIS Inventory system.\", \"Access Constraints: This is an incomplete metadata record and access constraints are not documented by the Ramona GIS Inventory system.\"]"
+		"value": "["Use Constraints: This is an incomplete metadata record and use constraints are not documented by the Ramona GIS Inventory system.", "Access Constraints: This is an incomplete metadata record and access constraints are not documented by the Ramona GIS Inventory system."]"
 	},
 	{
 		"key": "spatial_harvester",
@@ -265,7 +265,7 @@
 		"revision_timestamp": "2014-09-11T20:27:16.009304",
 		"is_organization": true,
 		"state": "active",
-		"image_url": "http:\/\/www.nsgic.org\/public_resources\/nsgic-logo-b_1321892056.gif",
+		"image_url": "http://www.nsgic.org/public_resources/nsgic-logo-b_1321892056.gif",
 		"revision_id": "979d3df0-d323-4e1e-ac62-d1623b463626",
 		"type": "organization",
 		"id": "b0b4c45b-a8ca-416b-b463-ee90d0a1a3df",

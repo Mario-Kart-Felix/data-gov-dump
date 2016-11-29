@@ -37,7 +37,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2015-09-26T17:29:35.161512",
-		"url": "http:\/\/coast.noaa.gov",
+		"url": "http://coast.noaa.gov",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 0,
@@ -67,7 +67,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2015-09-26T17:29:35.161533",
-		"url": "http:\/\/coast.noaa.gov",
+		"url": "http://coast.noaa.gov",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 1,
@@ -94,9 +94,9 @@
 		"resource_locator_protocol": "",
 		"mimetype": null,
 		"cache_url": null,
-		"name": "Where they exist, the supplemental information folder will include acquisition and QA\/QC reports, breaklines, a footprint of the spatial extent of the data and other relevant related information",
+		"name": "Where they exist, the supplemental information folder will include acquisition and QA/QC reports, breaklines, a footprint of the spatial extent of the data and other relevant related information",
 		"created": "2015-09-26T17:29:35.161543",
-		"url": "ftp:\/\/csc.noaa.gov\/pub\/DigitalCoast\/lidar1_z\/geoid12a\/data\/2511\/supplemental\/",
+		"url": "ftp://csc.noaa.gov/pub/DigitalCoast/lidar1_z/geoid12a/data/2511/supplemental/",
 		"webstore_url": null,
 		"resource_locator_function": "information",
 		"position": 2,
@@ -116,7 +116,7 @@
 	"name": "2012-puget-sound-lidar-consortium-pslc-topographic-lidar-upper-naches-river-washington4f43e",
 	"isopen": false,
 	"url": null,
-	"notes": "Watershed Sciences, Inc. (WSI) collected Light Detection and Ranging (LiDAR) data of the Upper Naches River Valley and Nile Slide area of interest on September 30th, 2011-October 1st, 2011 and April 5th, 2012 for the Puget Sound LiDAR Consortium. The valley bottom was reflown in 2012 during ?leaf-off? conditions, to ensure a more detailed bare earth model, and matched with the upslope data from 2011 to provide a seamless dataset. The requested area was expanded to include a 100m buffer to ensure complete coverage and adequate point densities around survey area boundaries. The total acreage of this delivery is 23,771 acres of LiDAR data. The LiDAR survey utilized a Leica ALS60 sensor in a Cessna Caravan 208B. Please see \"Project Report\" below for specific information regarding the airborne survey and ground survey. This Lidar survey acheived a nominal point spacing of 11.60 points per square meter.",
+	"notes": "Watershed Sciences, Inc. (WSI) collected Light Detection and Ranging (LiDAR) data of the Upper Naches River Valley and Nile Slide area of interest on September 30th, 2011-October 1st, 2011 and April 5th, 2012 for the Puget Sound LiDAR Consortium. The valley bottom was reflown in 2012 during ?leaf-off? conditions, to ensure a more detailed bare earth model, and matched with the upslope data from 2011 to provide a seamless dataset. The requested area was expanded to include a 100m buffer to ensure complete coverage and adequate point densities around survey area boundaries. The total acreage of this delivery is 23,771 acres of LiDAR data. The LiDAR survey utilized a Leica ALS60 sensor in a Cessna Caravan 208B. Please see "Project Report" below for specific information regarding the airborne survey and ground survey. This Lidar survey acheived a nominal point spacing of 11.60 points per square meter.",
 	"license_title": null,
 	"extras": [{
 		"key": "bbox-east-long",
@@ -144,7 +144,7 @@
 	},
 	{
 		"key": "graphic-preview-file",
-		"value": "ftp:\/\/ftp.csc.noaa.gov\/pub\/crs\/beachmap\/qa_docs\/wa\/pslc2012\/wa2012_pslc_uppernaches_footprint.KMZ"
+		"value": "ftp://ftp.csc.noaa.gov/pub/crs/beachmap/qa_docs/wa/pslc2012/wa2012_pslc_uppernaches_footprint.KMZ"
 	},
 	{
 		"key": "metadata-language",
@@ -160,7 +160,7 @@
 	},
 	{
 		"key": "spatial",
-		"value": "{\"type\": \"Polygon\", \"coordinates\": [[[-121.112599, 46.79458], [-120.902381, 46.79458], [-120.902381, 46.963177], [-121.112599, 46.963177], [-121.112599, 46.79458]]]}"
+		"value": "{"type": "Polygon", "coordinates": [[[-121.112599, 46.79458], [-120.902381, 46.79458], [-120.902381, 46.963177], [-121.112599, 46.963177], [-121.112599, 46.79458]]]}"
 	},
 	{
 		"key": "progress",
@@ -188,7 +188,7 @@
 	},
 	{
 		"key": "dataset-reference-date",
-		"value": "[{\"type\": \"publication\", \"value\": \"2013-06-01\"}]"
+		"value": "[{"type": "publication", "value": "2013-06-01"}]"
 	},
 	{
 		"key": "graphic-preview-description",
@@ -200,7 +200,7 @@
 	},
 	{
 		"key": "licence",
-		"value": "[\"These data depict the elevations at the time of the survey and are only accurate for that time. Users should be aware that\\n            temporal changes may have occurred since this data set was collected and some parts of this data may no longer represent actual surface\\n            conditions. Users should not use this data for critical applications without a full awareness of its limitations. Any conclusions drawn\\n            from analysis of this information are not the responsibility of NOAA or any of its partners. These data are NOT to be used for navigational purposes.\"]"
+		"value": "["These data depict the elevations at the time of the survey and are only accurate for that time. Users should be aware that\n            temporal changes may have occurred since this data set was collected and some parts of this data may no longer represent actual surface\n            conditions. Users should not use this data for critical applications without a full awareness of its limitations. Any conclusions drawn\n            from analysis of this information are not the responsibility of NOAA or any of its partners. These data are NOT to be used for navigational purposes."]"
 	},
 	{
 		"key": "metadata_type",
@@ -208,7 +208,7 @@
 	},
 	{
 		"key": "responsible-party",
-		"value": "[{\"name\": \"Puget Sound Lidar Consortium (PSLC)\", \"roles\": [\"pointOfContact\"]}]"
+		"value": "[{"name": "Puget Sound Lidar Consortium (PSLC)", "roles": ["pointOfContact"]}]"
 	},
 	{
 		"key": "temporal-extent-end",
@@ -224,7 +224,7 @@
 	},
 	{
 		"package_id": "881ff492-7160-4b9e-84dd-992c4bb469d7",
-		"value": "kittitas county, elevation, remote sensing, yakima county, washington, us, lidar, laz, topography\/bathymetry, model",
+		"value": "kittitas county, elevation, remote sensing, yakima county, washington, us, lidar, laz, topography/bathymetry, model",
 		"revision_timestamp": "2015-09-26T21:29:35.121364",
 		"state": "active",
 		"key": "tags",
@@ -254,7 +254,7 @@
 		"revision_timestamp": "2013-03-25T23:05:12.923863",
 		"is_organization": true,
 		"state": "active",
-		"image_url": "https:\/\/fortress.wa.gov\/dfw\/score\/score\/images\/noaa_logo.png",
+		"image_url": "https://fortress.wa.gov/dfw/score/score/images/noaa_logo.png",
 		"revision_id": "c6d43080-22e1-405e-a83d-f2a512d9e867",
 		"type": "organization",
 		"id": "e811f0b4-451f-4896-9e8f-fc6802837819",

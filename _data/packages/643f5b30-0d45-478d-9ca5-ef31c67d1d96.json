@@ -37,7 +37,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2015-09-26T17:23:28.370610",
-		"url": "ftp:\/\/ftp.cpc.ncep.noaa.gov\/wd52dg\/data\/indices\/tele_index.nh",
+		"url": "ftp://ftp.cpc.ncep.noaa.gov/wd52dg/data/indices/tele_index.nh",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 0,
@@ -67,7 +67,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2015-09-26T17:23:28.370648",
-		"url": "http:\/\/www.cpc.ncep.noaa.gov\/data\/teledoc\/tnh.shtml",
+		"url": "http://www.cpc.ncep.noaa.gov/data/teledoc/tnh.shtml",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 1,
@@ -97,7 +97,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2015-09-26T17:23:28.370657",
-		"url": "ftp:\/\/ftp.cpc.ncep.noaa.gov\/wd52dg\/data\/indices\/tnh_index.tim",
+		"url": "ftp://ftp.cpc.ncep.noaa.gov/wd52dg/data/indices/tnh_index.tim",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 2,
@@ -127,7 +127,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2015-09-26T17:23:28.370665",
-		"url": "ftp:\/\/ftp.cpc.ncep.noaa.gov\/wd52dg\/data\/indices\/tele_index.nh",
+		"url": "ftp://ftp.cpc.ncep.noaa.gov/wd52dg/data/indices/tele_index.nh",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 3,
@@ -136,7 +136,7 @@
 	}],
 	"num_resources": 4,
 	"tags": [],
-	"title": "Prediction Center (CPC) Tropical\/ Northern Hemisphere Teleconnection Pattern Index",
+	"title": "Prediction Center (CPC) Tropical/ Northern Hemisphere Teleconnection Pattern Index",
 	"tracking_summary": {
 		"total": 47,
 		"recent": 3
@@ -147,7 +147,7 @@
 	"name": "prediction-center-cpc-tropical-northern-hemisphere-teleconnection-pattern-index",
 	"isopen": false,
 	"url": null,
-	"notes": "Monthly tabulated index of the Tropical\/ Northern Hemisphere teleconnection pattern. The data spans the period 1950 to present. The index is derived from a rotated principal component analysis (RPCA) of normalized 500-hPa height anomalies from the period 1950-2000. The data source is the NCEP\/NCAR Reanalysis. The resulting time series is then re-normalized to coincide with the 1981-2010 base period monthly means. The index is updated monthly. Calculating the index using the RPCA approach is a somewhat complicated process, in that it is not derived independently of the other extratropical teleconnection pattern indices.",
+	"notes": "Monthly tabulated index of the Tropical/ Northern Hemisphere teleconnection pattern. The data spans the period 1950 to present. The index is derived from a rotated principal component analysis (RPCA) of normalized 500-hPa height anomalies from the period 1950-2000. The data source is the NCEP/NCAR Reanalysis. The resulting time series is then re-normalized to coincide with the 1981-2010 base period monthly means. The index is updated monthly. Calculating the index using the RPCA approach is a somewhat complicated process, in that it is not derived independently of the other extratropical teleconnection pattern indices.",
 	"license_title": null,
 	"extras": [{
 		"key": "bbox-east-long",
@@ -175,7 +175,7 @@
 	},
 	{
 		"key": "graphic-preview-file",
-		"value": "http:\/\/www.cpc.ncep.noaa.gov\/data\/teledoc\/tnh.timeseries.gif"
+		"value": "http://www.cpc.ncep.noaa.gov/data/teledoc/tnh.timeseries.gif"
 	},
 	{
 		"key": "metadata-language",
@@ -191,7 +191,7 @@
 	},
 	{
 		"key": "spatial",
-		"value": "{\"type\": \"Polygon\", \"coordinates\": [[[-179.75, 20.0], [179.75, 20.0], [179.75, 90.0], [-179.75, 90.0], [-179.75, 20.0]]]}"
+		"value": "{"type": "Polygon", "coordinates": [[[-179.75, 20.0], [179.75, 20.0], [179.75, 90.0], [-179.75, 90.0], [-179.75, 20.0]]]}"
 	},
 	{
 		"key": "progress",
@@ -199,7 +199,7 @@
 	},
 	{
 		"key": "access_constraints",
-		"value": "[\"Access Constraints: None Use Constraints: Acknowledgment of the Data Originator when using the data item as a source. Distribution Liability: The user assumes the entire risk related to its use of this data. NWS is providing this data \\\"as is,\\\" and NWS disclaims any and all warranties, whether express or implied, including (without limitation) any implied warranties of merchantability or fitness for a particular purpose. In no event will NWS be liable to you or to any third party for any direct, indirect, incidental, consequential, special or exemplary damages or lost profit resulting from any use or misuse of this data. As required by 17 U.S.C. 403, third parties producing copyrighted works consisting predominantly of the material appearing in NWS Web pages must provide notice with such work(s) identifying the NWS material incorporated and stating that such material is not subject to copyright protection. Refer the NOAA National Weather Service disclaimer; http:\/\/www.weather.gov\/disclaimer.php\"]"
+		"value": "["Access Constraints: None Use Constraints: Acknowledgment of the Data Originator when using the data item as a source. Distribution Liability: The user assumes the entire risk related to its use of this data. NWS is providing this data \"as is,\" and NWS disclaims any and all warranties, whether express or implied, including (without limitation) any implied warranties of merchantability or fitness for a particular purpose. In no event will NWS be liable to you or to any third party for any direct, indirect, incidental, consequential, special or exemplary damages or lost profit resulting from any use or misuse of this data. As required by 17 U.S.C. 403, third parties producing copyrighted works consisting predominantly of the material appearing in NWS Web pages must provide notice with such work(s) identifying the NWS material incorporated and stating that such material is not subject to copyright protection. Refer the NOAA National Weather Service disclaimer; http://www.weather.gov/disclaimer.php"]"
 	},
 	{
 		"key": "temporal-extent-begin",
@@ -219,11 +219,11 @@
 	},
 	{
 		"key": "dataset-reference-date",
-		"value": "[{\"type\": \"publication\", \"value\": \"2000-01-01\"}]"
+		"value": "[{"type": "publication", "value": "2000-01-01"}]"
 	},
 	{
 		"key": "graphic-preview-description",
-		"value": "Standardized Three-month running mean time series of the Tropical\/ Northern Hemisphere teleconnection index"
+		"value": "Standardized Three-month running mean time series of the Tropical/ Northern Hemisphere teleconnection index"
 	},
 	{
 		"key": "frequency-of-update",
@@ -239,7 +239,7 @@
 	},
 	{
 		"key": "responsible-party",
-		"value": "[{\"name\": \"Climate Prediction Center, NOAA\", \"roles\": [\"pointOfContact\"]}]"
+		"value": "[{"name": "Climate Prediction Center, NOAA", "roles": ["pointOfContact"]}]"
 	},
 	{
 		"key": "temporal-extent-end",
@@ -255,7 +255,7 @@
 	},
 	{
 		"package_id": "643f5b30-0d45-478d-9ca5-ef31c67d1d96",
-		"value": "climate variability, atmosphere, teleconnections, teleconnection, tropical\/ northern hemisphere pattern, climate indicators, atmospheric pressure, troposphere, mid-latitude, climatologymeteorologyatmosphere, pna, pressure anomalies, tropical\/ northern hemisphere teleconnection index, vertical location, oscillations, northern hemisphere, geographic region, tropical\/ northern hemisphere teleconnection pattern",
+		"value": "climate variability, atmosphere, teleconnections, teleconnection, tropical/ northern hemisphere pattern, climate indicators, atmospheric pressure, troposphere, mid-latitude, climatologymeteorologyatmosphere, pna, pressure anomalies, tropical/ northern hemisphere teleconnection index, vertical location, oscillations, northern hemisphere, geographic region, tropical/ northern hemisphere teleconnection pattern",
 		"revision_timestamp": "2015-09-26T21:23:28.322444",
 		"state": "active",
 		"key": "tags",
@@ -285,7 +285,7 @@
 		"revision_timestamp": "2013-03-25T23:05:12.923863",
 		"is_organization": true,
 		"state": "active",
-		"image_url": "https:\/\/fortress.wa.gov\/dfw\/score\/score\/images\/noaa_logo.png",
+		"image_url": "https://fortress.wa.gov/dfw/score/score/images/noaa_logo.png",
 		"revision_id": "c6d43080-22e1-405e-a83d-f2a512d9e867",
 		"type": "organization",
 		"id": "e811f0b4-451f-4896-9e8f-fc6802837819",

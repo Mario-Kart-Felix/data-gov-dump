@@ -36,7 +36,7 @@
 		"cache_url": null,
 		"name": "IMAGINE Image",
 		"created": "2016-04-22T22:37:31.698902",
-		"url": "http:\/\/maps.vcgi.org\/gisdata\/vcgi\/lidar\/1_4M\/DSM\/",
+		"url": "http://maps.vcgi.org/gisdata/vcgi/lidar/1_4M/DSM/",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 0,
@@ -66,7 +66,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2016-04-22T22:37:31.698926",
-		"url": "http:\/\/vcgi.vermont.gov\/warehouse\/?layer=ElevationOTHER_DSM1p4m",
+		"url": "http://vcgi.vermont.gov/warehouse/?layer=ElevationOTHER_DSM1p4m",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 1,
@@ -96,7 +96,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2016-04-22T22:37:31.698935",
-		"url": "http:\/\/vcgi.vermont.gov\/warehouse\/?layer=ElevationOTHER_DSM1p4m&mapit=yes",
+		"url": "http://vcgi.vermont.gov/warehouse/?layer=ElevationOTHER_DSM1p4m&mapit=yes",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 2,
@@ -126,7 +126,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2016-04-22T22:37:31.698942",
-		"url": "http:\/\/vcgi.vermont.gov\/lidar",
+		"url": "http://vcgi.vermont.gov/lidar",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 3,
@@ -159,7 +159,7 @@
 	"name": "elevationother-dsm1p4m",
 	"isopen": false,
 	"url": null,
-	"notes": "A Digital Surface Model (DSM) represents the earth's surface and all objects on it like buildings and tree canopy, was derived from the best available LiDAR \"point cloud\" data sources across the state by the UVM Spatial Analysis Lab and grouped into three seperate resolutions, i.e., ElevationOther_DSM0p7m; ElevationOther_DSM1m & ElevationOther_DSM1p4m. For an overview of the \"Vermont LiDAR Initiative\" please see \"VCGI.VERMONT.GOV\/LIDAR\". For specific details on each project extent's \"point cloud\", e.g., flight dates, nominal pulse spacing and RMSEz etc., see the VCGI LiDAR data product page for links to each extents vendor based metadata - http:\/\/vcgi.vermont.gov\/warehouse\/products\/ALL-LDR_MIX_LIDAR_STATE_ALL. Ultimately, each LiDAR dataset extent will be integrated with the multi-resolution National Elevation Dataset (NED), at resolutions of approx. 1\/27 arc-second (ranging from 0.7 to 1.4 meters) and \"Elevation Quality Levels (QL)\" of QL2 and QL3. See the \"LiDAR Data Quality Levels (QLs) - Specifications for the varying \"QLs\" link under the \"Resources\" section of the VT LiDAR Initiative web page for details - \"vcgi.vermont.gov\/lidar\" . The NED is the ultimatel repository for the best available public domain raster elevation data of the conterminous United States, Alaska, Hawaii, and territorial islands in a seamless format from diverse source data and processed to a common coordinate system and unit of vertical measure.",
+	"notes": "A Digital Surface Model (DSM) represents the earth's surface and all objects on it like buildings and tree canopy, was derived from the best available LiDAR "point cloud" data sources across the state by the UVM Spatial Analysis Lab and grouped into three seperate resolutions, i.e., ElevationOther_DSM0p7m; ElevationOther_DSM1m & ElevationOther_DSM1p4m. For an overview of the "Vermont LiDAR Initiative" please see "VCGI.VERMONT.GOV/LIDAR". For specific details on each project extent's "point cloud", e.g., flight dates, nominal pulse spacing and RMSEz etc., see the VCGI LiDAR data product page for links to each extents vendor based metadata - http://vcgi.vermont.gov/warehouse/products/ALL-LDR_MIX_LIDAR_STATE_ALL. Ultimately, each LiDAR dataset extent will be integrated with the multi-resolution National Elevation Dataset (NED), at resolutions of approx. 1/27 arc-second (ranging from 0.7 to 1.4 meters) and "Elevation Quality Levels (QL)" of QL2 and QL3. See the "LiDAR Data Quality Levels (QLs) - Specifications for the varying "QLs" link under the "Resources" section of the VT LiDAR Initiative web page for details - "vcgi.vermont.gov/lidar" . The NED is the ultimatel repository for the best available public domain raster elevation data of the conterminous United States, Alaska, Hawaii, and territorial islands in a seamless format from diverse source data and processed to a common coordinate system and unit of vertical measure.",
 	"license_title": null,
 	"extras": [{
 		"key": "bbox-east-long",
@@ -195,7 +195,7 @@
 	},
 	{
 		"key": "spatial",
-		"value": "{\"type\": \"Polygon\", \"coordinates\": [[[-73.2760183955, 44.3114814809], [-72.7469443214, 44.3114814809], [-72.7469443214, 44.5940740735], [-73.2760183955, 44.5940740735], [-73.2760183955, 44.3114814809]]]}"
+		"value": "{"type": "Polygon", "coordinates": [[[-73.2760183955, 44.3114814809], [-72.7469443214, 44.3114814809], [-72.7469443214, 44.5940740735], [-73.2760183955, 44.5940740735], [-73.2760183955, 44.3114814809]]]}"
 	},
 	{
 		"key": "progress",
@@ -203,7 +203,7 @@
 	},
 	{
 		"key": "access_constraints",
-		"value": "[\"Use Constraints: No assessment of the accuracy of DSM data or data products has been made by VCGI. Data users should assess DSM data products for appropriate use in a given project.\", \"Access Constraints: VCGI and the State of VT make no representations of any kind, including but not limited to the warranties of merchantability or fitness for a particular use, nor are any such warranties to be implied with respect to the data.\"]"
+		"value": "["Use Constraints: No assessment of the accuracy of DSM data or data products has been made by VCGI. Data users should assess DSM data products for appropriate use in a given project.", "Access Constraints: VCGI and the State of VT make no representations of any kind, including but not limited to the warranties of merchantability or fitness for a particular use, nor are any such warranties to be implied with respect to the data."]"
 	},
 	{
 		"key": "temporal-extent-begin",
@@ -223,7 +223,7 @@
 	},
 	{
 		"key": "dataset-reference-date",
-		"value": "[{\"type\": \"publication\", \"value\": \"2013-11-22TAs Updated.\"}]"
+		"value": "[{"type": "publication", "value": "2013-11-22TAs Updated."}]"
 	},
 	{
 		"key": "frequency-of-update",
@@ -231,7 +231,7 @@
 	},
 	{
 		"key": "licence",
-		"value": "[\"VCGI and the State of Vermont make no representations of any kind, including but not limited to the warranties of merchantability or fitness for a particular use, nor are any such warranties to be implied with respect to the data.\"]"
+		"value": "["VCGI and the State of Vermont make no representations of any kind, including but not limited to the warranties of merchantability or fitness for a particular use, nor are any such warranties to be implied with respect to the data."]"
 	},
 	{
 		"key": "metadata_type",
@@ -239,7 +239,7 @@
 	},
 	{
 		"key": "responsible-party",
-		"value": "[{\"name\": \"VT Center for Geographic Information\", \"roles\": [\"pointOfContact\"]}]"
+		"value": "[{"name": "VT Center for Geographic Information", "roles": ["pointOfContact"]}]"
 	},
 	{
 		"key": "temporal-extent-end",
@@ -285,7 +285,7 @@
 		"revision_timestamp": "2013-03-27T17:47:03.718032",
 		"is_organization": true,
 		"state": "active",
-		"image_url": "http:\/\/vcgi.vermont.gov\/sites\/all\/themes\/vt_template\/logo.png",
+		"image_url": "http://vcgi.vermont.gov/sites/all/themes/vt_template/logo.png",
 		"revision_id": "c5dfbbb0-f1e0-4db6-b566-e932e1520060",
 		"type": "organization",
 		"id": "0c3a4ebc-9929-4f21-bdd0-76a35d52f57d",

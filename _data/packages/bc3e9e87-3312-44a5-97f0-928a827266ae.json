@@ -37,7 +37,7 @@
 		"cache_url": null,
 		"name": "Zip File",
 		"created": "2016-05-30T21:33:26.485861",
-		"url": "ftp:\/\/coast.noaa.gov\/pub\/Legis-Atlas\/FederalGeoregulations\/MarineDebrisResearchPreventionAndReductionAct.zip",
+		"url": "ftp://coast.noaa.gov/pub/Legis-Atlas/FederalGeoregulations/MarineDebrisResearchPreventionAndReductionAct.zip",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 0,
@@ -67,7 +67,7 @@
 		"cache_url": null,
 		"name": "Esri Rest API Endpoint",
 		"created": "2016-05-30T21:33:26.485905",
-		"url": "https:\/\/coast.noaa.gov\/arcgis\/rest\/services\/MarineCadastre\/FederalGeoregulations\/MapServer",
+		"url": "https://coast.noaa.gov/arcgis/rest/services/MarineCadastre/FederalGeoregulations/MapServer",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 1,
@@ -97,7 +97,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2016-05-30T21:33:26.485922",
-		"url": "http:\/\/marinecadastre.gov\/data\/",
+		"url": "http://marinecadastre.gov/data/",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 2,
@@ -127,7 +127,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2016-05-30T21:33:26.485936",
-		"url": "https:\/\/coast.noaa.gov\/",
+		"url": "https://coast.noaa.gov/",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 3,
@@ -147,11 +147,11 @@
 	"name": "marine-debris-research-prevention-and-reduction-act",
 	"isopen": false,
 	"url": null,
-	"notes": "The Marine Debris Research, Prevention, and Reduction Act legally establishes the National Oceanic and Atmospheric Administration's (NOAA) Marine Debris Program. The mission of the NOAA Marine Debris Program is to use research, prevention, and reduction activities to investigate and solve problems that stem from marine debris, in order to protect and conserve our Nation's marine environment and ensure navigation safety. The Act outlines three central program components for the MDP to undertake: 1) mapping, identification, impact assessment, removal, and prevention; 2) reducing and preventing gear loss; and 3) outreach. - Source: http:\/\/marinedebris.noaa.gov\/sites\/default\/files\/MDAct06.pdf - Date Enacted: December 22, 2006 - Codification: 33 U.S.C. Sec. 1951 et seq. - Authority: National Oceanic and Atmospheric Administration When investigating geo-regulatory boundaries near the boundary edges, users should consult the most up to date applicable jurisdictional boundaries from all respective authoritative sources.",
+	"notes": "The Marine Debris Research, Prevention, and Reduction Act legally establishes the National Oceanic and Atmospheric Administration's (NOAA) Marine Debris Program. The mission of the NOAA Marine Debris Program is to use research, prevention, and reduction activities to investigate and solve problems that stem from marine debris, in order to protect and conserve our Nation's marine environment and ensure navigation safety. The Act outlines three central program components for the MDP to undertake: 1) mapping, identification, impact assessment, removal, and prevention; 2) reducing and preventing gear loss; and 3) outreach. - Source: http://marinedebris.noaa.gov/sites/default/files/MDAct06.pdf - Date Enacted: December 22, 2006 - Codification: 33 U.S.C. Sec. 1951 et seq. - Authority: National Oceanic and Atmospheric Administration When investigating geo-regulatory boundaries near the boundary edges, users should consult the most up to date applicable jurisdictional boundaries from all respective authoritative sources.",
 	"license_title": null,
 	"extras": [{
 		"key": "responsible-party",
-		"value": "[{\"name\": \"NOAA Office for Coastal Management\", \"roles\": [\"pointOfContact\"]}]"
+		"value": "[{"name": "NOAA Office for Coastal Management", "roles": ["pointOfContact"]}]"
 	},
 	{
 		"key": "contact-email",
@@ -171,7 +171,7 @@
 	},
 	{
 		"key": "dataset-reference-date",
-		"value": "[{\"type\": \"publication\", \"value\": \"2016-05-11\"}]"
+		"value": "[{"type": "publication", "value": "2016-05-11"}]"
 	},
 	{
 		"key": "resource-type",
@@ -199,7 +199,7 @@
 	},
 	{
 		"key": "licence",
-		"value": "[\"NOAA makes no warranties or representations whatsoever regarding the availability, quality, accuracy, content, completeness or suitability for the user's needs of such information. The services, information, and data made available on the MarineCadastre.gov web site are provided 'as is' without warranties of any kind. These data are intended for coastal and ocean use planning. Not for navigation.\"]"
+		"value": "["NOAA makes no warranties or representations whatsoever regarding the availability, quality, accuracy, content, completeness or suitability for the user's needs of such information. The services, information, and data made available on the MarineCadastre.gov web site are provided 'as is' without warranties of any kind. These data are intended for coastal and ocean use planning. Not for navigation."]"
 	},
 	{
 		"key": "metadata_type",
@@ -211,7 +211,7 @@
 	},
 	{
 		"key": "spatial",
-		"value": "{\"type\": \"Polygon\", \"coordinates\": [[[-180.0, -17.555000002], [180.0, -17.555000002], [180.0, 74.708840004], [-180.0, 74.708840004], [-180.0, -17.555000002]]]}"
+		"value": "{"type": "Polygon", "coordinates": [[[-180.0, -17.555000002], [180.0, -17.555000002], [180.0, 74.708840004], [-180.0, 74.708840004], [-180.0, -17.555000002]]]}"
 	},
 	{
 		"key": "guid",
@@ -223,7 +223,7 @@
 	},
 	{
 		"key": "access_constraints",
-		"value": "[\"Use Constraints: These data represent the unofficial boundary of the Marine Debris Research, Prevention, and Reduction Act, as of 2016. For the official boundary, please reference language within the authoritative legislation and consult the governing agency\/agencies. A copy of the legislation is found here: http:\/\/marinedebris.noaa.gov\/sites\/default\/files\/MDAct06.pdf These data are intended for coastal and ocean use planning. Not for navigation. http:\/\/www.marinecadastre.gov\/about\/disclaimer.html\", \"Access Constraints: None\"]"
+		"value": "["Use Constraints: These data represent the unofficial boundary of the Marine Debris Research, Prevention, and Reduction Act, as of 2016. For the official boundary, please reference language within the authoritative legislation and consult the governing agency/agencies. A copy of the legislation is found here: http://marinedebris.noaa.gov/sites/default/files/MDAct06.pdf These data are intended for coastal and ocean use planning. Not for navigation. http://www.marinecadastre.gov/about/disclaimer.html", "Access Constraints: None"]"
 	},
 	{
 		"key": "spatial_harvester",
@@ -265,7 +265,7 @@
 		"revision_timestamp": "2013-03-25T23:05:12.923863",
 		"is_organization": true,
 		"state": "active",
-		"image_url": "https:\/\/fortress.wa.gov\/dfw\/score\/score\/images\/noaa_logo.png",
+		"image_url": "https://fortress.wa.gov/dfw/score/score/images/noaa_logo.png",
 		"revision_id": "c6d43080-22e1-405e-a83d-f2a512d9e867",
 		"type": "organization",
 		"id": "e811f0b4-451f-4896-9e8f-fc6802837819",

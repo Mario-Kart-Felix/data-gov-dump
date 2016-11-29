@@ -37,7 +37,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2015-09-26T18:46:40.664415",
-		"url": "ftp:\/\/sidads.colorado.edu\/pub\/DATASETS\/NOAA\/G02168",
+		"url": "ftp://sidads.colorado.edu/pub/DATASETS/NOAA/G02168",
 		"webstore_url": null,
 		"resource_locator_function": "function",
 		"position": 0,
@@ -67,7 +67,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2015-09-26T18:46:40.664439",
-		"url": "http:\/\/nsidc.org\/data\/docs\/noaa\/g02168_dye_snow_cycle\/index.html",
+		"url": "http://nsidc.org/data/docs/noaa/g02168_dye_snow_cycle/index.html",
 		"webstore_url": null,
 		"resource_locator_function": "function",
 		"position": 1,
@@ -85,7 +85,7 @@
 		"last_modified": null,
 		"hash": "",
 		"description": "",
-		"format": "application\/vnd.lotus-organizer",
+		"format": "application/vnd.lotus-organizer",
 		"tracking_summary": {
 			"total": 85,
 			"recent": 4
@@ -97,7 +97,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2015-09-26T18:46:40.664448",
-		"url": "http:\/\/nsidc.org",
+		"url": "http://nsidc.org",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 2,
@@ -127,7 +127,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2015-09-26T18:46:40.664456",
-		"url": "http:\/\/nsidc.org\/noaa\/",
+		"url": "http://nsidc.org/noaa/",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 3,
@@ -145,7 +145,7 @@
 		"last_modified": null,
 		"hash": "",
 		"description": "",
-		"format": "application\/vnd.lotus-organizer",
+		"format": "application/vnd.lotus-organizer",
 		"tracking_summary": {
 			"total": 85,
 			"recent": 4
@@ -157,7 +157,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2015-09-26T18:46:40.664463",
-		"url": "http:\/\/nsidc.org",
+		"url": "http://nsidc.org",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 4,
@@ -177,7 +177,7 @@
 	"name": "timing-and-statistics-of-autumn-and-spring-annual-snow-cover-for-the-northern-hemisphere-1-2000",
 	"isopen": false,
 	"url": null,
-	"notes": "\nThe National Snow and Ice Data Center hosts a time-series data set comprising annual snow cover data  for the Northern Hemisphere (covering land primarily over 45 degrees North) from 1972 to 2000.  Data are presented for land areas that exhibited snow cover in each of the 29 years. Variables are the  week of snow disappearance, the week of snow cover onset, and the duration of the snow-free period.  These variables were derived from operational NOAA weekly snow cover charts that have been quality  controlled by the Rutgers University Global Snow Lab. For each year of the 29-year period, there are  three binary files with data in an 89 x 89 cell grid. The week of the first detected snow cover in the fall  is included in the WFS file, the week of the last observed snow cover in the spring is given in the WLS  file, and the duration of snow-free period in weeks is given in the DSF file. Data are also provided in ASCII format summary files. In addition, summary statistics for each parameter are provided. These are  grids of the mean and the standard deviation for the three parameters. Gridded latitude and longitude  files are also included with this data set.\n",
+	"notes": "nThe National Snow and Ice Data Center hosts a time-series data set comprising annual snow cover data  for the Northern Hemisphere (covering land primarily over 45 degrees North) from 1972 to 2000.  Data are presented for land areas that exhibited snow cover in each of the 29 years. Variables are the  week of snow disappearance, the week of snow cover onset, and the duration of the snow-free period.  These variables were derived from operational NOAA weekly snow cover charts that have been quality  controlled by the Rutgers University Global Snow Lab. For each year of the 29-year period, there are  three binary files with data in an 89 x 89 cell grid. The week of the first detected snow cover in the fall  is included in the WFS file, the week of the last observed snow cover in the spring is given in the WLS  file, and the duration of snow-free period in weeks is given in the DSF file. Data are also provided in ASCII format summary files. In addition, summary statistics for each parameter are provided. These are  grids of the mean and the standard deviation for the three parameters. Gridded latitude and longitude  files are also included with this data set.n",
 	"license_title": null,
 	"extras": [{
 		"key": "bbox-east-long",
@@ -213,7 +213,7 @@
 	},
 	{
 		"key": "spatial",
-		"value": "{\"type\": \"Polygon\", \"coordinates\": [[[-180.0, -90.0], [180.0, -90.0], [180.0, 90.0], [-180.0, 90.0], [-180.0, -90.0]]]}"
+		"value": "{"type": "Polygon", "coordinates": [[[-180.0, -90.0], [180.0, -90.0], [180.0, 90.0], [-180.0, 90.0], [-180.0, -90.0]]]}"
 	},
 	{
 		"key": "progress",
@@ -221,7 +221,7 @@
 	},
 	{
 		"key": "access_constraints",
-		"value": "[\"Access Constraints : none\", \"Use Constraints : none\"]"
+		"value": "["Access Constraints : none", "Use Constraints : none"]"
 	},
 	{
 		"key": "temporal-extent-begin",
@@ -241,7 +241,7 @@
 	},
 	{
 		"key": "dataset-reference-date",
-		"value": "[{\"type\": \"publication\", \"value\": \"2005-12-21\"}]"
+		"value": "[{"type": "publication", "value": "2005-12-21"}]"
 	},
 	{
 		"key": "frequency-of-update",
@@ -257,7 +257,7 @@
 	},
 	{
 		"key": "responsible-party",
-		"value": "[{\"name\": \"Frontier Research Center for Global Change\", \"roles\": [\"principalInvestigator\"]}, {\"name\": \"National Snow and Ice Data Center\", \"roles\": [\"pointOfContact\"]}]"
+		"value": "[{"name": "Frontier Research Center for Global Change", "roles": ["principalInvestigator"]}, {"name": "National Snow and Ice Data Center", "roles": ["pointOfContact"]}]"
 	},
 	{
 		"key": "temporal-extent-end",
@@ -273,7 +273,7 @@
 	},
 	{
 		"package_id": "91ed1526-84c9-4042-b50f-605b1bd1fd77",
-		"value": "nsidc, terrestrial hydrosphere, cryosphere, national snow and ice data center, snow cover, noaa, duration, timing, snow\/ice, northern hemisphere, geographic region, earth science",
+		"value": "nsidc, terrestrial hydrosphere, cryosphere, national snow and ice data center, snow cover, noaa, duration, timing, snow/ice, northern hemisphere, geographic region, earth science",
 		"revision_timestamp": "2015-09-26T22:46:40.600187",
 		"state": "active",
 		"key": "tags",
@@ -303,7 +303,7 @@
 		"revision_timestamp": "2013-03-25T23:05:12.923863",
 		"is_organization": true,
 		"state": "active",
-		"image_url": "https:\/\/fortress.wa.gov\/dfw\/score\/score\/images\/noaa_logo.png",
+		"image_url": "https://fortress.wa.gov/dfw/score/score/images/noaa_logo.png",
 		"revision_id": "c6d43080-22e1-405e-a83d-f2a512d9e867",
 		"type": "organization",
 		"id": "e811f0b4-451f-4896-9e8f-fc6802837819",

@@ -37,7 +37,7 @@
 		"cache_url": null,
 		"name": "Esri Rest API Endpoint",
 		"created": "2015-04-25T08:20:00.020747",
-		"url": "http:\/\/atlas.resources.ca.gov\/ArcGIS\/rest\/services\/GeoScience\/HazardMaps_09_01_2009_Seismic\/MapServer",
+		"url": "http://atlas.resources.ca.gov/ArcGIS/rest/services/GeoScience/HazardMaps_09_01_2009_Seismic/MapServer",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 0,
@@ -59,7 +59,7 @@
 		"revision_timestamp": "2013-05-31T17:51:13.706377",
 		"is_organization": true,
 		"state": "active",
-		"image_url": "http:\/\/www.ca.gov\/images\/template2012\/header_ca.gov.png",
+		"image_url": "http://www.ca.gov/images/template2012/header_ca.gov.png",
 		"revision_id": "ad94cda4-9394-44d0-9c37-573dc3c47c9a",
 		"type": "organization",
 		"id": "467d900f-8a42-452d-9906-6610dd1a767f",
@@ -70,11 +70,11 @@
 	"name": "siesmic-hazards-of-california",
 	"isopen": false,
 	"url": null,
-	"notes": "Earthquake related hazards in California The Alquist-Priolo Earthquake Fault Zoning Act was signed into California law on December 22, 1972 to mitigate the hazard of surface faulting to structures for human occupancy. It directs the State of California Division of Mines and Geology (now known as the California Geological Survey) to compile detailed maps of the surface traces of known active faults. These maps include both the best known location where faults cut the surface and a buffer zone around the known trace(s). Earthquakes happen when two blocks of the Earth's crust move relative to one another. The place where the blocks meet is called a fault, and faults tend to show up as relatively straight lines on maps. Any structure built directly on top of the fault will be torn in two when the blocks move. It's not easy to build a building that can withstand this sort of movement (often several feet in a matter of seconds), so it's best to avoid building directly on top of an active fault. (See: Wikipedia http:\/\/en.wikipedia.org\/wiki\/Alquist_Priolo_Special_Studies_Zone_Act). IMPORTANT!: The liquefaction and earthquake induced land slide data used for this map service are NOT statewide and are limited to select locations in the San Francisco Bay Area and Southern California.",
+	"notes": "Earthquake related hazards in California The Alquist-Priolo Earthquake Fault Zoning Act was signed into California law on December 22, 1972 to mitigate the hazard of surface faulting to structures for human occupancy. It directs the State of California Division of Mines and Geology (now known as the California Geological Survey) to compile detailed maps of the surface traces of known active faults. These maps include both the best known location where faults cut the surface and a buffer zone around the known trace(s). Earthquakes happen when two blocks of the Earth's crust move relative to one another. The place where the blocks meet is called a fault, and faults tend to show up as relatively straight lines on maps. Any structure built directly on top of the fault will be torn in two when the blocks move. It's not easy to build a building that can withstand this sort of movement (often several feet in a matter of seconds), so it's best to avoid building directly on top of an active fault. (See: Wikipedia http://en.wikipedia.org/wiki/Alquist_Priolo_Special_Studies_Zone_Act). IMPORTANT!: The liquefaction and earthquake induced land slide data used for this map service are NOT statewide and are limited to select locations in the San Francisco Bay Area and Southern California.",
 	"owner_org": "467d900f-8a42-452d-9906-6610dd1a767f",
 	"extras": [{
 		"key": "responsible-party",
-		"value": "[{\"name\": \"\", \"roles\": [\"pointOfContact\"]}]"
+		"value": "[{"name": "", "roles": ["pointOfContact"]}]"
 	},
 	{
 		"key": "contact-email",
@@ -94,7 +94,7 @@
 	},
 	{
 		"key": "dataset-reference-date",
-		"value": "[{\"type\": \"publication\", \"value\": \"9999-01-01\"}]"
+		"value": "[{"type": "publication", "value": "9999-01-01"}]"
 	},
 	{
 		"key": "resource-type",
@@ -122,7 +122,7 @@
 	},
 	{
 		"key": "licence",
-		"value": "[\" \"]"
+		"value": "[" "]"
 	},
 	{
 		"key": "metadata_type",
@@ -134,7 +134,7 @@
 	},
 	{
 		"key": "spatial",
-		"value": "{\"type\": \"Point\", \"coordinates\": [0.0, 0.0]}"
+		"value": "{"type": "Point", "coordinates": [0.0, 0.0]}"
 	},
 	{
 		"key": "guid",
@@ -146,7 +146,7 @@
 	},
 	{
 		"key": "access_constraints",
-		"value": "[\"Use Constraints: none\", \"Access Constraints:\"]"
+		"value": "["Use Constraints: none", "Access Constraints:"]"
 	},
 	{
 		"key": "spatial_harvester",

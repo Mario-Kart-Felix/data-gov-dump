@@ -37,7 +37,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2015-04-25T08:19:49.060498",
-		"url": "http:\/\/bios.dfg.ca.gov",
+		"url": "http://bios.dfg.ca.gov",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 0,
@@ -67,7 +67,7 @@
 		"cache_url": null,
 		"name": "Zip File",
 		"created": "2015-04-25T08:19:49.060521",
-		"url": "ftp:\/\/ftp.dfg.ca.gov\/BDB\/GIS\/BIOS\/Public_Datasets\/300_399\/ds303.zip",
+		"url": "ftp://ftp.dfg.ca.gov/BDB/GIS/BIOS/Public_Datasets/300_399/ds303.zip",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 1,
@@ -123,7 +123,7 @@
 	},
 	{
 		"key": "spatial",
-		"value": "{\"type\": \"Polygon\", \"coordinates\": [[[-121.594654, 38.083544], [-120.475964, 38.083544], [-120.475964, 39.692322], [-121.594654, 39.692322], [-121.594654, 38.083544]]]}"
+		"value": "{"type": "Polygon", "coordinates": [[[-121.594654, 38.083544], [-120.475964, 38.083544], [-120.475964, 39.692322], [-121.594654, 39.692322], [-121.594654, 38.083544]]]}"
 	},
 	{
 		"key": "progress",
@@ -131,7 +131,7 @@
 	},
 	{
 		"key": "access_constraints",
-		"value": "[\"Use Constraints: These data can be used without constraints.\", \"Access Constraints: Public use.\"]"
+		"value": "["Use Constraints: These data can be used without constraints.", "Access Constraints: Public use."]"
 	},
 	{
 		"key": "temporal-extent-begin",
@@ -151,7 +151,7 @@
 	},
 	{
 		"key": "dataset-reference-date",
-		"value": "[{\"type\": \"publication\", \"value\": \"2007-04-20\"}]"
+		"value": "[{"type": "publication", "value": "2007-04-20"}]"
 	},
 	{
 		"key": "frequency-of-update",
@@ -159,7 +159,7 @@
 	},
 	{
 		"key": "licence",
-		"value": "[\"Neither the State of California nor the California Department of Fish and Game warrant the correctness or accuracy of the observation data presented in here. They are used at the user's own risk.\"]"
+		"value": "["Neither the State of California nor the California Department of Fish and Game warrant the correctness or accuracy of the observation data presented in here. They are used at the user's own risk."]"
 	},
 	{
 		"key": "metadata_type",
@@ -167,7 +167,7 @@
 	},
 	{
 		"key": "responsible-party",
-		"value": "[{\"name\": \"Resource Assessment Program, California Department of Fish and Game, North Central Region\", \"roles\": [\"pointOfContact\"]}]"
+		"value": "[{"name": "Resource Assessment Program, California Department of Fish and Game, North Central Region", "roles": ["pointOfContact"]}]"
 	},
 	{
 		"key": "temporal-extent-end",
@@ -213,7 +213,7 @@
 		"revision_timestamp": "2013-05-31T17:51:13.706377",
 		"is_organization": true,
 		"state": "active",
-		"image_url": "http:\/\/www.ca.gov\/images\/template2012\/header_ca.gov.png",
+		"image_url": "http://www.ca.gov/images/template2012/header_ca.gov.png",
 		"revision_id": "ad94cda4-9394-44d0-9c37-573dc3c47c9a",
 		"type": "organization",
 		"id": "467d900f-8a42-452d-9906-6610dd1a767f",

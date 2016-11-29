@@ -37,7 +37,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2015-10-06T17:08:39.569229",
-		"url": "http:\/\/www.ngdc.noaa.gov\/ecosys\/cdroms\/Pathfinder98\/pathfind.htm",
+		"url": "http://www.ngdc.noaa.gov/ecosys/cdroms/Pathfinder98/pathfind.htm",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 0,
@@ -64,9 +64,9 @@
 		"resource_locator_protocol": "http",
 		"mimetype": null,
 		"cache_url": null,
-		"name": "NOAA\/NASA Pathfinder Climate Data",
+		"name": "NOAA/NASA Pathfinder Climate Data",
 		"created": "2015-10-06T17:08:39.569264",
-		"url": "http:\/\/www.ngdc.noaa.gov\/ecosys\/cdroms\/Pathfinder98\/pathfind.htm",
+		"url": "http://www.ngdc.noaa.gov/ecosys/cdroms/Pathfinder98/pathfind.htm",
 		"webstore_url": null,
 		"resource_locator_function": "information",
 		"position": 1,
@@ -95,7 +95,7 @@
 		"cache_url": null,
 		"name": "GCMD Feedback Form",
 		"created": "2015-10-06T17:08:39.569272",
-		"url": "http:\/\/gcmd.nasa.gov\/MailComments\/MailComments.jsf?rcpt=gcmduso",
+		"url": "http://gcmd.nasa.gov/MailComments/MailComments.jsf?rcpt=gcmduso",
 		"webstore_url": null,
 		"resource_locator_function": "information",
 		"position": 2,
@@ -124,7 +124,7 @@
 		"cache_url": null,
 		"name": "GCMD Keywords Page",
 		"created": "2015-10-06T17:08:39.569279",
-		"url": "http:\/\/gcmd.nasa.gov\/learn\/keyword_list.html",
+		"url": "http://gcmd.nasa.gov/learn/keyword_list.html",
 		"webstore_url": null,
 		"resource_locator_function": "information",
 		"position": 3,
@@ -153,7 +153,7 @@
 		"cache_url": null,
 		"name": "GCMD Feedback Form",
 		"created": "2015-10-06T17:08:39.569285",
-		"url": "http:\/\/gcmd.nasa.gov\/MailComments\/MailComments.jsf?rcpt=gcmduso",
+		"url": "http://gcmd.nasa.gov/MailComments/MailComments.jsf?rcpt=gcmduso",
 		"webstore_url": null,
 		"resource_locator_function": "information",
 		"position": 4,
@@ -182,7 +182,7 @@
 		"cache_url": null,
 		"name": "GCMD Keywords Page",
 		"created": "2015-10-06T17:08:39.569292",
-		"url": "http:\/\/gcmd.nasa.gov\/learn\/keyword_list.html",
+		"url": "http://gcmd.nasa.gov/learn/keyword_list.html",
 		"webstore_url": null,
 		"resource_locator_function": "information",
 		"position": 5,
@@ -202,7 +202,7 @@
 	"name": "pathfinder-climate-data",
 	"isopen": false,
 	"url": null,
-	"notes": "The NOAA\/NASA Pathfinder climate data CD-ROM contains seven data sets: Advanced Very High Resolution Radiometer (AVHRR)Land and Ocean, TIROS Operational Vertical Sounder (TOVS) Paths A, C1, C2, Special Sensor Microwave\/Imager (SSM\/I) Precipitation and Atmospheric Moisture for the Benchmark Period of April 1987 to December 1988. These data sets can be viewed with a variety of applications including GeoVu, the NCEI multi-platform data browse and visualization software application, National Center for Supercomputing Applications (NCSA) Collage, IMDISP, Spyglass, and Idrisi.",
+	"notes": "The NOAA/NASA Pathfinder climate data CD-ROM contains seven data sets: Advanced Very High Resolution Radiometer (AVHRR)Land and Ocean, TIROS Operational Vertical Sounder (TOVS) Paths A, C1, C2, Special Sensor Microwave/Imager (SSM/I) Precipitation and Atmospheric Moisture for the Benchmark Period of April 1987 to December 1988. These data sets can be viewed with a variety of applications including GeoVu, the NCEI multi-platform data browse and visualization software application, National Center for Supercomputing Applications (NCSA) Collage, IMDISP, Spyglass, and Idrisi.",
 	"license_title": null,
 	"extras": [{
 		"key": "bbox-east-long",
@@ -238,7 +238,7 @@
 	},
 	{
 		"key": "spatial",
-		"value": "{\"type\": \"Polygon\", \"coordinates\": [[[-180.0, -90.0], [180.0, -90.0], [180.0, 90.0], [-180.0, 90.0], [-180.0, -90.0]]]}"
+		"value": "{"type": "Polygon", "coordinates": [[[-180.0, -90.0], [180.0, -90.0], [180.0, 90.0], [-180.0, 90.0], [-180.0, -90.0]]]}"
 	},
 	{
 		"key": "progress",
@@ -246,7 +246,7 @@
 	},
 	{
 		"key": "access_constraints",
-		"value": "[\"Use Constraints: None\", \"Access Constraints: No Constraints\"]"
+		"value": "["Use Constraints: None", "Access Constraints: No Constraints"]"
 	},
 	{
 		"key": "temporal-extent-begin",
@@ -266,7 +266,7 @@
 	},
 	{
 		"key": "dataset-reference-date",
-		"value": "[{\"type\": \"publication\", \"value\": \"1997-01-01\"}]"
+		"value": "[{"type": "publication", "value": "1997-01-01"}]"
 	},
 	{
 		"key": "frequency-of-update",
@@ -274,7 +274,7 @@
 	},
 	{
 		"key": "licence",
-		"value": "[\"While every effort has been made to ensure that these data are accurate and reliable within the limits of the current state of the art, NOAA cannot assume liability for any damages caused by any errors or omissions in the data, nor as a result of the failure of the data to function on a particular system. NOAA makes no warranty, expressed or implied, nor does the fact of distribution constitute such a warranty.\"]"
+		"value": "["While every effort has been made to ensure that these data are accurate and reliable within the limits of the current state of the art, NOAA cannot assume liability for any damages caused by any errors or omissions in the data, nor as a result of the failure of the data to function on a particular system. NOAA makes no warranty, expressed or implied, nor does the fact of distribution constitute such a warranty."]"
 	},
 	{
 		"key": "metadata_type",
@@ -282,7 +282,7 @@
 	},
 	{
 		"key": "responsible-party",
-		"value": "[{\"name\": \"DOC\/NOAA\/NESDIS\/NCEI > National Centers for Environmental Information, NESDIS, NOAA, U.S. Department of Commerce\", \"roles\": [\"pointOfContact\"]}]"
+		"value": "[{"name": "DOC/NOAA/NESDIS/NCEI > National Centers for Environmental Information, NESDIS, NOAA, U.S. Department of Commerce", "roles": ["pointOfContact"]}]"
 	},
 	{
 		"key": "temporal-extent-end",
@@ -298,7 +298,7 @@
 	},
 	{
 		"package_id": "daba060d-732a-4d97-8d26-681e58065639",
-		"value": "weather studies, ocean temperature, atmosphere, global, radiance or imagery, ssm\/i, earth science, pathfinder, doc\/noaa\/nesdis\/ncei, temperature, tovs a, precipitation rate, avhrr land, microwave, icsu-wds, atmospheric temperature, precipitable water, vegetation, radiation budget, brightness temperature, satellite, national centers for environmental information, nesdis, noaa, u.s. department of commerce, subject disciplines, national geophysical data center, nesdis, noaa, u.s. department of commerce, cloud top pressure, oceans, skin temperature, doc\/noaa\/nesdis\/ngdc, atmospheric moisture, sea surface temperature, clouds, precipitation, water vapor, biosphere, avhrr ocean, air temperature, infoterra, vegetation index, tovs c1, tovs c2, climate studies, cloud liquid water, atmospheric water vapor, surface air temperature, outgoing longwave radiation, international council for science - world data system",
+		"value": "weather studies, ocean temperature, atmosphere, global, radiance or imagery, ssm/i, earth science, pathfinder, doc/noaa/nesdis/ncei, temperature, tovs a, precipitation rate, avhrr land, microwave, icsu-wds, atmospheric temperature, precipitable water, vegetation, radiation budget, brightness temperature, satellite, national centers for environmental information, nesdis, noaa, u.s. department of commerce, subject disciplines, national geophysical data center, nesdis, noaa, u.s. department of commerce, cloud top pressure, oceans, skin temperature, doc/noaa/nesdis/ngdc, atmospheric moisture, sea surface temperature, clouds, precipitation, water vapor, biosphere, avhrr ocean, air temperature, infoterra, vegetation index, tovs c1, tovs c2, climate studies, cloud liquid water, atmospheric water vapor, surface air temperature, outgoing longwave radiation, international council for science - world data system",
 		"revision_timestamp": "2015-10-06T21:08:39.466481",
 		"state": "active",
 		"key": "tags",
@@ -328,7 +328,7 @@
 		"revision_timestamp": "2013-03-25T23:05:12.923863",
 		"is_organization": true,
 		"state": "active",
-		"image_url": "https:\/\/fortress.wa.gov\/dfw\/score\/score\/images\/noaa_logo.png",
+		"image_url": "https://fortress.wa.gov/dfw/score/score/images/noaa_logo.png",
 		"revision_id": "c6d43080-22e1-405e-a83d-f2a512d9e867",
 		"type": "organization",
 		"id": "e811f0b4-451f-4896-9e8f-fc6802837819",

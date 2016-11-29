@@ -34,9 +34,9 @@
 		"resource_locator_protocol": "WWW:LINK-1.0-http--link",
 		"mimetype": null,
 		"cache_url": null,
-		"name": "ftp:\/\/ftp.nefsc.noaa.gov",
+		"name": "ftp://ftp.nefsc.noaa.gov",
 		"created": "2016-10-03T19:26:40.261959",
-		"url": "ftp:\/\/ftp.nefsc.noaa.gov",
+		"url": "ftp://ftp.nefsc.noaa.gov",
 		"webstore_url": null,
 		"resource_locator_function": "download",
 		"position": 0,
@@ -65,7 +65,7 @@
 		"cache_url": null,
 		"name": "Website",
 		"created": "2016-10-03T19:26:40.262001",
-		"url": "http:\/\/www.nefsc.noaa.gov",
+		"url": "http://www.nefsc.noaa.gov",
 		"webstore_url": null,
 		"resource_locator_function": "information",
 		"position": 1,
@@ -94,7 +94,7 @@
 		"cache_url": null,
 		"name": "Website",
 		"created": "2016-10-03T19:26:40.262016",
-		"url": "http:\/\/www.nefsc.noaa.gov",
+		"url": "http://www.nefsc.noaa.gov",
 		"webstore_url": null,
 		"resource_locator_function": "information",
 		"position": 2,
@@ -123,7 +123,7 @@
 		"cache_url": null,
 		"name": "Website",
 		"created": "2016-10-03T19:26:40.262025",
-		"url": "http:\/\/www.nefsc.noaa.gov",
+		"url": "http://www.nefsc.noaa.gov",
 		"webstore_url": null,
 		"resource_locator_function": "information",
 		"position": 3,
@@ -152,7 +152,7 @@
 		"cache_url": null,
 		"name": "Website",
 		"created": "2016-10-03T19:26:40.262032",
-		"url": "http:\/\/www.nefsc.noaa.gov",
+		"url": "http://www.nefsc.noaa.gov",
 		"webstore_url": null,
 		"resource_locator_function": "information",
 		"position": 4,
@@ -181,7 +181,7 @@
 		"cache_url": null,
 		"name": "NOAA Data Management Plan (DMP)",
 		"created": "2016-10-03T19:26:40.262039",
-		"url": "https:\/\/inport.nmfs.noaa.gov\/inport\/item\/26638\/dmp",
+		"url": "https://inport.nmfs.noaa.gov/inport/item/26638/dmp",
 		"webstore_url": null,
 		"resource_locator_function": "information",
 		"position": 5,
@@ -198,7 +198,7 @@
 		"state": "active",
 		"last_modified": null,
 		"hash": "",
-		"description": "This page describes the NASA GCMD Keywords, how\n                                                        to reference those keywords and provides download instructions.\n                                                    ",
+		"description": "This page describes the NASA GCMD Keywords, hown                                                        to reference those keywords and provides download instructions.n                                                    ",
 		"format": "HTML",
 		"tracking_summary": {
 			"total": 475,
@@ -210,7 +210,7 @@
 		"cache_url": null,
 		"name": "GCMD Keywords Page",
 		"created": "2016-10-03T19:26:40.262046",
-		"url": "http:\/\/gcmd.nasa.gov\/learn\/keyword_list.html",
+		"url": "http://gcmd.nasa.gov/learn/keyword_list.html",
 		"webstore_url": null,
 		"resource_locator_function": "information",
 		"position": 6,
@@ -230,7 +230,7 @@
 	"name": "fishing-revenue-intensity-raster-database-2007-2012",
 	"isopen": false,
 	"url": null,
-	"notes": "These revenue-intensity rasters were built as part of an effort to improve upon the spatial precision of self-reported Vessel Trip Report (VTR) fishing locations. Merging VTR information with data collected by at-sea fisheries observers, statistical models were developed to estimate cumulative distribution functions (CDF) for the distance between VTR points and observed set\/haul locations. This method allows us to generate predictions for the spatial footprint of fishing from variables reported on the VTR (e.g. gear type and length of trip) that are and theoretically linked to the trip\u00e2\u0080\u0099s footprint. This process was used to develop a fishing revenue-intensity raster dataset for the years 2007 through 2012, the period studied in the above-mentioned NMFS socio-economic impact report. For additional detail on the process of developing this raster dataset of \"fishing footprints,\" see NOAA Tech Memo NE-229 (DePiper 2014).",
+	"notes": "These revenue-intensity rasters were built as part of an effort to improve upon the spatial precision of self-reported Vessel Trip Report (VTR) fishing locations. Merging VTR information with data collected by at-sea fisheries observers, statistical models were developed to estimate cumulative distribution functions (CDF) for the distance between VTR points and observed set/haul locations. This method allows us to generate predictions for the spatial footprint of fishing from variables reported on the VTR (e.g. gear type and length of trip) that are and theoretically linked to the tripu00e2u0080u0099s footprint. This process was used to develop a fishing revenue-intensity raster dataset for the years 2007 through 2012, the period studied in the above-mentioned NMFS socio-economic impact report. For additional detail on the process of developing this raster dataset of "fishing footprints," see NOAA Tech Memo NE-229 (DePiper 2014).",
 	"license_title": null,
 	"extras": [{
 		"key": "bbox-east-long",
@@ -266,7 +266,7 @@
 	},
 	{
 		"key": "spatial",
-		"value": "{\"type\": \"Polygon\", \"coordinates\": [[[-79.0, 30.0], [-64.0, 30.0], [-64.0, 47.0], [-79.0, 47.0], [-79.0, 30.0]]]}"
+		"value": "{"type": "Polygon", "coordinates": [[[-79.0, 30.0], [-64.0, 30.0], [-64.0, 47.0], [-79.0, 47.0], [-79.0, 30.0]]]}"
 	},
 	{
 		"key": "progress",
@@ -274,7 +274,7 @@
 	},
 	{
 		"key": "access_constraints",
-		"value": "[\"Access Constraints: NEFSC Data Access Constraint:\\nIf data is stored on an internal NEFSC network, the requester may not have direct access to query the data unless they are also authorized for network access. | Use Constraints: Disclaimer - While every effort has been made to ensure that these data are accurate and reliable within the limits of the current state of the art, NOAA cannot assume liability for any damages caused by any errors or omissions in the data, nor as a result of the failure of the data to function on a particular system. NOAA makes no warranty, expressed or implied, nor does the fact of distribution constitute such a warranty.\"]"
+		"value": "["Access Constraints: NEFSC Data Access Constraint:\nIf data is stored on an internal NEFSC network, the requester may not have direct access to query the data unless they are also authorized for network access. | Use Constraints: Disclaimer - While every effort has been made to ensure that these data are accurate and reliable within the limits of the current state of the art, NOAA cannot assume liability for any damages caused by any errors or omissions in the data, nor as a result of the failure of the data to function on a particular system. NOAA makes no warranty, expressed or implied, nor does the fact of distribution constitute such a warranty."]"
 	},
 	{
 		"key": "temporal-extent-begin",
@@ -294,7 +294,7 @@
 	},
 	{
 		"key": "dataset-reference-date",
-		"value": "[{\"type\": \"publication\", \"value\": \"\"}]"
+		"value": "[{"type": "publication", "value": ""}]"
 	},
 	{
 		"key": "frequency-of-update",
@@ -310,7 +310,7 @@
 	},
 	{
 		"key": "responsible-party",
-		"value": "[{\"name\": \"\", \"roles\": [\"\"]}, {\"name\": \"Northeast Fisheries Science Center\", \"roles\": [\"pointOfContact\", \"custodian\"]}]"
+		"value": "[{"name": "", "roles": [""]}, {"name": "Northeast Fisheries Science Center", "roles": ["pointOfContact", "custodian"]}]"
 	},
 	{
 		"key": "temporal-extent-end",
@@ -326,7 +326,7 @@
 	},
 	{
 		"package_id": "352efe07-97db-481b-ac6f-239fd952fe2f",
-		"value": "revenue, atlantic outer continental shelf, georges bank, fishing grounds, mid-atlantic, social sciences branch, vessel trip report, 2007-2012, spatial data, vtr, 2011, 2010, 2012, doc\/noaa\/nmfs\/nefsc, northwest atlantic, gulf of maine, fishery dependent data, raster, northeast fisheries science center, national marine fisheries service, noaa, u.s. department of commerce, new england, 2007, 2008, 2009",
+		"value": "revenue, atlantic outer continental shelf, georges bank, fishing grounds, mid-atlantic, social sciences branch, vessel trip report, 2007-2012, spatial data, vtr, 2011, 2010, 2012, doc/noaa/nmfs/nefsc, northwest atlantic, gulf of maine, fishery dependent data, raster, northeast fisheries science center, national marine fisheries service, noaa, u.s. department of commerce, new england, 2007, 2008, 2009",
 		"revision_timestamp": "2016-03-28T18:44:25.150314",
 		"state": "active",
 		"key": "tags",
@@ -356,7 +356,7 @@
 		"revision_timestamp": "2013-03-25T23:05:12.923863",
 		"is_organization": true,
 		"state": "active",
-		"image_url": "https:\/\/fortress.wa.gov\/dfw\/score\/score\/images\/noaa_logo.png",
+		"image_url": "https://fortress.wa.gov/dfw/score/score/images/noaa_logo.png",
 		"revision_id": "c6d43080-22e1-405e-a83d-f2a512d9e867",
 		"type": "organization",
 		"id": "e811f0b4-451f-4896-9e8f-fc6802837819",

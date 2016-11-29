@@ -37,7 +37,7 @@
 		"cache_url": null,
 		"name": "TAR Compressed File",
 		"created": "2014-10-03T13:25:10.403520",
-		"url": "http:\/\/dds.cr.usgs.gov\/pub\/data\/nationalatlas\/crime2p020_nt00350.tar.gz",
+		"url": "http://dds.cr.usgs.gov/pub/data/nationalatlas/crime2p020_nt00350.tar.gz",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 0,
@@ -67,7 +67,7 @@
 		"cache_url": null,
 		"name": "TAR Compressed File",
 		"created": "2014-10-03T13:25:10.403562",
-		"url": "http:\/\/dds.cr.usgs.gov\/pub\/data\/nationalatlas\/crime2p020_nt00350.tar.gz",
+		"url": "http://dds.cr.usgs.gov/pub/data/nationalatlas/crime2p020_nt00350.tar.gz",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 1,
@@ -97,7 +97,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2014-10-03T13:25:10.403580",
-		"url": "http:\/\/nationalatlas.gov\/atlasftp.html",
+		"url": "http://nationalatlas.gov/atlasftp.html",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 2,
@@ -117,7 +117,7 @@
 	"name": "united-states-crimes-database-2001-2002-direct-download",
 	"isopen": false,
 	"url": null,
-	"notes": "This map layer shows crime statistics for the United States for the years 2001-2002, drawn from the Uniform Crime Reporting Program data compiled by the Federal Bureau of Investigation and archived at the Inter-university Consortium for Political and Social Research (ICPSR). Crime data are reported by county and are provided for eight crimes: murder, forcible rape, robbery, aggravated assault, burglary, larceny, motor vehicle theft, and arson. Statewide allocation data are not included in this map layer. Crime data are adjusted to compensate for incomplete reporting by individual law enforcement agencies. See the online codebook at <http:\/\/www.icpsr.umich.edu\/cgi- bin\/bob\/archive2?study=4009&path=NACJD&docsonly=yes> for more information.",
+	"notes": "This map layer shows crime statistics for the United States for the years 2001-2002, drawn from the Uniform Crime Reporting Program data compiled by the Federal Bureau of Investigation and archived at the Inter-university Consortium for Political and Social Research (ICPSR). Crime data are reported by county and are provided for eight crimes: murder, forcible rape, robbery, aggravated assault, burglary, larceny, motor vehicle theft, and arson. Statewide allocation data are not included in this map layer. Crime data are adjusted to compensate for incomplete reporting by individual law enforcement agencies. See the online codebook at <http://www.icpsr.umich.edu/cgi- bin/bob/archive2?study=4009&path=NACJD&docsonly=yes> for more information.",
 	"license_title": null,
 	"extras": [{
 		"key": "bbox-east-long",
@@ -153,7 +153,7 @@
 	},
 	{
 		"key": "spatial",
-		"value": "{\"type\": \"Polygon\", \"coordinates\": [[[172.0, 18.0], [-66.0, 18.0], [-66.0, 72.0], [172.0, 72.0], [172.0, 18.0]]]}"
+		"value": "{"type": "Polygon", "coordinates": [[[172.0, 18.0], [-66.0, 18.0], [-66.0, 72.0], [172.0, 72.0], [172.0, 18.0]]]}"
 	},
 	{
 		"key": "progress",
@@ -161,7 +161,7 @@
 	},
 	{
 		"key": "access_constraints",
-		"value": "[\"Use Constraints: None. Acknowledgment of the National Atlas of the United States of America, the ICPSR, and (or) the U.S. Dept. of Justice, Federal Bureau of Investigation would be appreciated in products derived from these data.\", \"Access Constraints: None\"]"
+		"value": "["Use Constraints: None. Acknowledgment of the National Atlas of the United States of America, the ICPSR, and (or) the U.S. Dept. of Justice, Federal Bureau of Investigation would be appreciated in products derived from these data.", "Access Constraints: None"]"
 	},
 	{
 		"key": "temporal-extent-begin",
@@ -181,7 +181,7 @@
 	},
 	{
 		"key": "dataset-reference-date",
-		"value": "[{\"type\": \"publication\", \"value\": \"2005-06-01\"}]"
+		"value": "[{"type": "publication", "value": "2005-06-01"}]"
 	},
 	{
 		"key": "frequency-of-update",
@@ -189,7 +189,7 @@
 	},
 	{
 		"key": "licence",
-		"value": "[\"Although these data have been processed successfully on a computer system at the U.S. Geological Survey, no warranty expressed or implied is made by the U.S. Geological Survey regarding the utility of the data on any other system, nor shall the act of distribution constitute any such warranty. No responsibility is assumed by the U.S. Geological Survey in the use of these data.\"]"
+		"value": "["Although these data have been processed successfully on a computer system at the U.S. Geological Survey, no warranty expressed or implied is made by the U.S. Geological Survey regarding the utility of the data on any other system, nor shall the act of distribution constitute any such warranty. No responsibility is assumed by the U.S. Geological Survey in the use of these data."]"
 	},
 	{
 		"key": "metadata_type",
@@ -197,7 +197,7 @@
 	},
 	{
 		"key": "responsible-party",
-		"value": "[{\"name\": \"Inter-university Consortium for Political and Social Research\", \"roles\": [\"pointOfContact\"]}]"
+		"value": "[{"name": "Inter-university Consortium for Political and Social Research", "roles": ["pointOfContact"]}]"
 	},
 	{
 		"key": "temporal-extent-end",
@@ -236,14 +236,14 @@
 		"value": "1997-2014 Edition of The National Atlas of the United States"
 	}],
 	"organization": {
-		"description": "http:\/\/www.usgs.gov\/\r\nThe USGS is a federal science agency that provides impartial information on the health of our ecosystems and environment, the natural hazards that threaten us, the natural resources we rely on, the impacts of climate and land-use change, and the core science systems that help us provide timely, relevant, and useable information.",
+		"description": "http://www.usgs.gov/rnThe USGS is a federal science agency that provides impartial information on the health of our ecosystems and environment, the natural hazards that threaten us, the natural resources we rely on, the impacts of climate and land-use change, and the core science systems that help us provide timely, relevant, and useable information.",
 		"created": "2013-03-14T03:44:38.263357",
 		"title": "U.S. Geological Survey, Department of the Interior",
 		"name": "usgs-gov",
 		"revision_timestamp": "2014-09-02T13:43:52.167023",
 		"is_organization": true,
 		"state": "active",
-		"image_url": "http:\/\/pubs.usgs.gov\/sir\/2004\/5296\/04-5296_confluence_park\/usgs_logo.gif",
+		"image_url": "http://pubs.usgs.gov/sir/2004/5296/04-5296_confluence_park/usgs_logo.gif",
 		"revision_id": "2858aa99-9501-4f96-82e5-9647b968ed66",
 		"type": "organization",
 		"id": "bd2cdd5a-4d65-46c0-9937-c8381175f104",

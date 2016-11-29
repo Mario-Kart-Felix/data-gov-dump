@@ -36,7 +36,7 @@
 		"cache_url": null,
 		"name": "tl_2014_72_subbarrio.zip",
 		"created": "2015-10-08T16:16:07.390305",
-		"url": "ftp:\/\/ftp2.census.gov\/geo\/tiger\/TIGER2014\/SUBMCD\/tl_2014_72_subbarrio.zip",
+		"url": "ftp://ftp2.census.gov/geo/tiger/TIGER2014/SUBMCD/tl_2014_72_subbarrio.zip",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 0,
@@ -53,7 +53,7 @@
 		"state": "active",
 		"last_modified": null,
 		"hash": "",
-		"description": "Should be used for most mapping projects--this is our most comprehensive dataset. Designed for use with GIS (geographic\n                           information systems).",
+		"description": "Should be used for most mapping projects--this is our most comprehensive dataset. Designed for use with GIS (geographicn                           information systems).",
 		"format": "HTML",
 		"tracking_summary": {
 			"total": 1319,
@@ -63,9 +63,9 @@
 		"resource_locator_protocol": "",
 		"mimetype": null,
 		"cache_url": null,
-		"name": "TIGER\/Line\u00ae Shapefiles",
+		"name": "TIGER/Lineu00ae Shapefiles",
 		"created": "2015-10-08T16:16:07.390343",
-		"url": "http:\/\/www.census.gov\/geo\/maps-data\/data\/tiger-line.html",
+		"url": "http://www.census.gov/geo/maps-data/data/tiger-line.html",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 1,
@@ -92,9 +92,9 @@
 		"resource_locator_protocol": "",
 		"mimetype": null,
 		"cache_url": null,
-		"name": "TIGER\/Line\u00ae Shapefiles 2014 Technical Documentation Shapefiles",
+		"name": "TIGER/Lineu00ae Shapefiles 2014 Technical Documentation Shapefiles",
 		"created": "2015-10-08T16:16:07.390352",
-		"url": "http:\/\/www2.census.gov\/geo\/pdfs\/maps-data\/data\/tiger\/tgrshp2014\/TGRSHP2014_TechDoc.pdf",
+		"url": "http://www2.census.gov/geo/pdfs/maps-data/data/tiger/tgrshp2014/TGRSHP2014_TechDoc.pdf",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 2,
@@ -123,7 +123,7 @@
 		"cache_url": null,
 		"name": "Feature Catalog for the 2014 Current Subbarrio State-based Shapefile",
 		"created": "2015-10-08T16:16:07.390360",
-		"url": "http:\/\/meta.geo.census.gov\/data\/existing\/decennial\/GEO\/GPMB\/TIGERline\/TIGER2014\/subbarrio\/tl_2014_subbarrio.shp.ea.iso.xml",
+		"url": "http://meta.geo.census.gov/data/existing/decennial/GEO/GPMB/TIGERline/TIGER2014/subbarrio/tl_2014_subbarrio.shp.ea.iso.xml",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 3,
@@ -132,7 +132,7 @@
 	}],
 	"num_resources": 4,
 	"tags": [],
-	"title": "TIGER\/Line Shapefile, 2014, Series Information File for the Current Subbarrio (Subminor Civil Division) State-based Shapefile",
+	"title": "TIGER/Line Shapefile, 2014, Series Information File for the Current Subbarrio (Subminor Civil Division) State-based Shapefile",
 	"tracking_summary": {
 		"total": 18,
 		"recent": 0
@@ -143,7 +143,7 @@
 	"name": "tiger-line-shapefile-2014-series-information-file-for-the-current-subbarrio-subminor-civil-divi",
 	"isopen": false,
 	"url": null,
-	"notes": "The TIGER\/Line shapefiles and related database files (.dbf) are an extract of selected geographic and cartographic information from the\n               U.S. Census Bureau's Master Address File \/ Topologically Integrated Geographic Encoding and Referencing (MAF\/TIGER) Database (MTDB). The MTDB represents\n               a seamless national file with no overlaps or gaps between parts, however, each TIGER\/Line shapefile is designed to stand alone as an independent data set,\n               or they can be combined to cover the entire nation. For the 2010 Census, subMCDs only exist in Puerto Rico. In Puerto Rico the subMCDs are termed \n               subbarrios and are legally defined subdivisions of the minor civil division (MCD) named barrios-pueblo and barrios. The boundaries of the subbarrios are\n               as of January 1, 2010 and were provided to the Census Bureau by the Puerto Rico Planning Board.",
+	"notes": "The TIGER/Line shapefiles and related database files (.dbf) are an extract of selected geographic and cartographic information from then               U.S. Census Bureau's Master Address File / Topologically Integrated Geographic Encoding and Referencing (MAF/TIGER) Database (MTDB). The MTDB representsn               a seamless national file with no overlaps or gaps between parts, however, each TIGER/Line shapefile is designed to stand alone as an independent data set,n               or they can be combined to cover the entire nation. For the 2010 Census, subMCDs only exist in Puerto Rico. In Puerto Rico the subMCDs are termed n               subbarrios and are legally defined subdivisions of the minor civil division (MCD) named barrios-pueblo and barrios. The boundaries of the subbarrios aren               as of January 1, 2010 and were provided to the Census Bureau by the Puerto Rico Planning Board.",
 	"license_title": null,
 	"extras": [{
 		"key": "bbox-east-long",
@@ -183,7 +183,7 @@
 	},
 	{
 		"key": "spatial",
-		"value": "{\"type\": \"Polygon\", \"coordinates\": [[[-179.231086, -14.601813], [179.859681, -14.601813], [179.859681, 71.441059], [-179.231086, 71.441059], [-179.231086, -14.601813]]]}"
+		"value": "{"type": "Polygon", "coordinates": [[[-179.231086, -14.601813], [179.859681, -14.601813], [179.859681, 71.441059], [-179.231086, 71.441059], [-179.231086, -14.601813]]]}"
 	},
 	{
 		"key": "progress",
@@ -191,7 +191,7 @@
 	},
 	{
 		"key": "access_constraints",
-		"value": "[\"Access Constraints: None\", \"Use Constraints: The TIGER\/Line Shapefile products are not copyrighted however TIGER\/Line and Census TIGER are registered\\n                     trademarks of the U.S. Census Bureau. These products are free to use in a product or publication, however acknowledgment must be given to the U.S.\\n                     Census Bureau as the source. The boundary information in the TIGER\/Line Shapefiles are for statistical data collection and tabulation purposes only;\\n                     their depiction and designation for statistical purposes does not constitute a determination of jurisdictional authority or rights of ownership or\\n                     entitlement and they are not legal land descriptions. Coordinates in the TIGER\/Line shapefiles have six implied decimal places, but the positional\\n                     accuracy of these coordinates is not as great as the six decimal places suggest.\", \"Distribution Liability: No warranty, expressed or implied is made with regard to the accuracy of these data, and no liability is\\n                     assumed by the U.S. Government in general or the U.S. Census Bureau in specific as to the spatial or attribute accuracy of the data. The act of\\n                     distribution shall not constitute any such warranty and no responsibility is assumed by the U.S. government in the use of these files. The boundary\\n                     information in the TIGER\/Line Shapefiles is for statistical data collection and tabulation purposes only; their depiction and designation for\\n                     statistical purposes do not constitute a determination of jurisdictional authority or rights of ownership or entitlement and they are not\\n                     legal land descriptions.\"]"
+		"value": "["Access Constraints: None", "Use Constraints: The TIGER/Line Shapefile products are not copyrighted however TIGER/Line and Census TIGER are registered\n                     trademarks of the U.S. Census Bureau. These products are free to use in a product or publication, however acknowledgment must be given to the U.S.\n                     Census Bureau as the source. The boundary information in the TIGER/Line Shapefiles are for statistical data collection and tabulation purposes only;\n                     their depiction and designation for statistical purposes does not constitute a determination of jurisdictional authority or rights of ownership or\n                     entitlement and they are not legal land descriptions. Coordinates in the TIGER/Line shapefiles have six implied decimal places, but the positional\n                     accuracy of these coordinates is not as great as the six decimal places suggest.", "Distribution Liability: No warranty, expressed or implied is made with regard to the accuracy of these data, and no liability is\n                     assumed by the U.S. Government in general or the U.S. Census Bureau in specific as to the spatial or attribute accuracy of the data. The act of\n                     distribution shall not constitute any such warranty and no responsibility is assumed by the U.S. government in the use of these files. The boundary\n                     information in the TIGER/Line Shapefiles is for statistical data collection and tabulation purposes only; their depiction and designation for\n                     statistical purposes do not constitute a determination of jurisdictional authority or rights of ownership or entitlement and they are not\n                     legal land descriptions."]"
 	},
 	{
 		"key": "temporal-extent-begin",
@@ -211,7 +211,7 @@
 	},
 	{
 		"key": "dataset-reference-date",
-		"value": "[{\"type\": \"publication\", \"value\": \"2014\"}]"
+		"value": "[{"type": "publication", "value": "2014"}]"
 	},
 	{
 		"key": "frequency-of-update",
@@ -269,7 +269,7 @@
 		"revision_timestamp": "2013-08-29T13:37:04.171127",
 		"is_organization": true,
 		"state": "active",
-		"image_url": "http:\/\/www.census.gov\/main\/img\/home\/CensusLogo-white.png",
+		"image_url": "http://www.census.gov/main/img/home/CensusLogo-white.png",
 		"revision_id": "0995f525-d563-4254-a535-af5b926fe663",
 		"type": "organization",
 		"id": "31c49abe-512a-412a-9cc7-5b2601325d6b",

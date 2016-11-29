@@ -37,7 +37,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2015-09-26T19:20:36.025814",
-		"url": "http:\/\/coast.noaa.gov",
+		"url": "http://coast.noaa.gov",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 0,
@@ -67,7 +67,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2015-09-26T19:20:36.025847",
-		"url": "http:\/\/coast.noaa.gov",
+		"url": "http://coast.noaa.gov",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 1,
@@ -97,7 +97,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2015-09-26T19:20:36.025856",
-		"url": "http:\/\/coast.noaa.gov",
+		"url": "http://coast.noaa.gov",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 2,
@@ -124,9 +124,9 @@
 		"resource_locator_protocol": "",
 		"mimetype": null,
 		"cache_url": null,
-		"name": "Lidar QA\/QC Report",
+		"name": "Lidar QA/QC Report",
 		"created": "2015-09-26T19:20:36.025864",
-		"url": "ftp:\/\/ftp.csc.noaa.gov\/pub\/crs\/beachmap\/qa_docs\/ga\/CoastalGA_Final_QAQC_Report.pdf",
+		"url": "ftp://ftp.csc.noaa.gov/pub/crs/beachmap/qa_docs/ga/CoastalGA_Final_QAQC_Report.pdf",
 		"webstore_url": null,
 		"resource_locator_function": "information",
 		"position": 3,
@@ -155,7 +155,7 @@
 		"cache_url": null,
 		"name": "Lidar Survey Final Report",
 		"created": "2015-09-26T19:20:36.025886",
-		"url": "ftp:\/\/ftp.csc.noaa.gov\/pub\/crs\/beachmap\/qa_docs\/ga\/CoastalGA_Final_Project_Report.pdf",
+		"url": "ftp://ftp.csc.noaa.gov/pub/crs/beachmap/qa_docs/ga/CoastalGA_Final_Project_Report.pdf",
 		"webstore_url": null,
 		"resource_locator_function": "information",
 		"position": 4,
@@ -175,7 +175,7 @@
 	"name": "2010-coastal-georgia-elevation-project-lidar-data9d55c",
 	"isopen": false,
 	"url": null,
-	"notes": "Between January and March 2010, lidar data was collected in southeast\/coastal Georgia under a multi-agency partnership between the Coastal Georgia Regional Development Center, USGS, FEMA, NOAA and local county governments. Data acquisition is for the full extent of coastal Georgia, approximately 50 miles inland, excluding counties with existing high-resolution lidar derived elevation data. The data capture area consists of an area of approximately 5703 square miles. This project is within the Atlantic Coastal Priority Area as defined by the National Geospatial Program (NGP) and supports homeland security requirements of the National Geospatial-Intelligence Agency (NGA). This project also supports the National Spatial Data Infrastructure (NSDI) and will advance USGS efforts related to The National Map and the National Elevation Dataset. The data were delivered in LAS format version 1.2 in 5000 x 5000 foot tiles. The data are classified according to ASPRS LAS 1.2 classification scheme: Class 1 - Unclassified Class 2 - Bare Earth Class 7 - Low Point (Noise) Class 9 - Water Class 10 - Reserved Class 12 - Overlap",
+	"notes": "Between January and March 2010, lidar data was collected in southeast/coastal Georgia under a multi-agency partnership between the Coastal Georgia Regional Development Center, USGS, FEMA, NOAA and local county governments. Data acquisition is for the full extent of coastal Georgia, approximately 50 miles inland, excluding counties with existing high-resolution lidar derived elevation data. The data capture area consists of an area of approximately 5703 square miles. This project is within the Atlantic Coastal Priority Area as defined by the National Geospatial Program (NGP) and supports homeland security requirements of the National Geospatial-Intelligence Agency (NGA). This project also supports the National Spatial Data Infrastructure (NSDI) and will advance USGS efforts related to The National Map and the National Elevation Dataset. The data were delivered in LAS format version 1.2 in 5000 x 5000 foot tiles. The data are classified according to ASPRS LAS 1.2 classification scheme: Class 1 - Unclassified Class 2 - Bare Earth Class 7 - Low Point (Noise) Class 9 - Water Class 10 - Reserved Class 12 - Overlap",
 	"license_title": null,
 	"extras": [{
 		"key": "bbox-east-long",
@@ -203,7 +203,7 @@
 	},
 	{
 		"key": "graphic-preview-file",
-		"value": "ftp:\/\/ftp.csc.noaa.gov\/pub\/crs\/beachmap\/qa_docs\/ga\/2010_CoastalGA_Elevation_Project_Lidar.kmz"
+		"value": "ftp://ftp.csc.noaa.gov/pub/crs/beachmap/qa_docs/ga/2010_CoastalGA_Elevation_Project_Lidar.kmz"
 	},
 	{
 		"key": "metadata-language",
@@ -219,7 +219,7 @@
 	},
 	{
 		"key": "spatial",
-		"value": "{\"type\": \"Polygon\", \"coordinates\": [[[-82.284621, 30.369369], [-81.119648, 30.369369], [-81.119648, 33.045639], [-82.284621, 33.045639], [-82.284621, 30.369369]]]}"
+		"value": "{"type": "Polygon", "coordinates": [[[-82.284621, 30.369369], [-81.119648, 30.369369], [-81.119648, 33.045639], [-82.284621, 33.045639], [-82.284621, 30.369369]]]}"
 	},
 	{
 		"key": "progress",
@@ -247,7 +247,7 @@
 	},
 	{
 		"key": "dataset-reference-date",
-		"value": "[{\"type\": \"publication\", \"value\": \"2011-04-01\"}]"
+		"value": "[{"type": "publication", "value": "2011-04-01"}]"
 	},
 	{
 		"key": "graphic-preview-description",
@@ -259,7 +259,7 @@
 	},
 	{
 		"key": "licence",
-		"value": "[\"These data depict the elevations at the time of the survey and are only accurate for that time. Users should be aware that\\n            temporal changes may have occurred since this data set was collected and some parts of this data may no longer represent actual surface\\n            conditions. Users should not use this data for critical applications without a full awareness of its limitations. Any conclusions drawn\\n            from analysis of this information are not the responsibility of NOAA or any of its partners. These data are NOT to be used for navigational purposes.\"]"
+		"value": "["These data depict the elevations at the time of the survey and are only accurate for that time. Users should be aware that\n            temporal changes may have occurred since this data set was collected and some parts of this data may no longer represent actual surface\n            conditions. Users should not use this data for critical applications without a full awareness of its limitations. Any conclusions drawn\n            from analysis of this information are not the responsibility of NOAA or any of its partners. These data are NOT to be used for navigational purposes."]"
 	},
 	{
 		"key": "metadata_type",
@@ -267,7 +267,7 @@
 	},
 	{
 		"key": "responsible-party",
-		"value": "[{\"name\": \"DOC\/NOAA\/NOS\/OCM > Office for Coastal Management, National Ocean Service, National Oceanic and Atmospheric Administration, U.S. Department of Commerce\", \"roles\": [\"pointOfContact\"]}]"
+		"value": "[{"name": "DOC/NOAA/NOS/OCM > Office for Coastal Management, National Ocean Service, National Oceanic and Atmospheric Administration, U.S. Department of Commerce", "roles": ["pointOfContact"]}]"
 	},
 	{
 		"key": "temporal-extent-end",
@@ -283,7 +283,7 @@
 	},
 	{
 		"package_id": "c0484a04-7d84-4307-aca5-57bc37a9b45e",
-		"value": "charlton county, raster, georgia, breaklines, bryan county, brantley county, effingham county, digital elevation model, us, lidar, screven county, long county, bathymetry\/topography, dem, bulloch county, mcintosh county, elevation, camden county, wayne county, las",
+		"value": "charlton county, raster, georgia, breaklines, bryan county, brantley county, effingham county, digital elevation model, us, lidar, screven county, long county, bathymetry/topography, dem, bulloch county, mcintosh county, elevation, camden county, wayne county, las",
 		"revision_timestamp": "2015-09-26T23:20:35.960617",
 		"state": "active",
 		"key": "tags",
@@ -313,7 +313,7 @@
 		"revision_timestamp": "2013-03-25T23:05:12.923863",
 		"is_organization": true,
 		"state": "active",
-		"image_url": "https:\/\/fortress.wa.gov\/dfw\/score\/score\/images\/noaa_logo.png",
+		"image_url": "https://fortress.wa.gov/dfw/score/score/images/noaa_logo.png",
 		"revision_id": "c6d43080-22e1-405e-a83d-f2a512d9e867",
 		"type": "organization",
 		"id": "e811f0b4-451f-4896-9e8f-fc6802837819",

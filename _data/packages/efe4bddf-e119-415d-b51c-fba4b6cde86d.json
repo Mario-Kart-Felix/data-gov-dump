@@ -37,7 +37,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2015-09-26T20:00:37.388777",
-		"url": "http:\/\/coast.noaa.gov",
+		"url": "http://coast.noaa.gov",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 0,
@@ -67,7 +67,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2015-09-26T20:00:37.388797",
-		"url": "http:\/\/coast.noaa.gov",
+		"url": "http://coast.noaa.gov",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 1,
@@ -87,7 +87,7 @@
 	"name": "2007-california-department-of-water-resources-topographic-lidar-san-joaquin-delta",
 	"isopen": false,
 	"url": null,
-	"notes": "These data are from LIDAR flights of the Sacramento-San Joaquin Delta conducted during late January and February of 2007. The work was conducted under contract issued by California Department of Water Resources to URS Corporation. The prime LIDAR creation subcontractor was EarthData International, (later Fugro EarthData), also known as EDI. The principal aerial survey firm under subcontract to EDI was Airborne 1 Corporation. In effect, Airborne 1 performed the aerial survey, and EDI did the processing and deliverables preparation. Also involved in the contract to URS was an independent QA\/QC firm, Spectrum Mapping LLC. The data was delivered to CSC as unclassified, multiple return elevation measurements and intensity in LAS V1.0 format. The NOAA CSC used an unsupervised classification algorithm to classify the data into the following ASPRS classifications: Class 1 (Unclassified), Class 2 (Ground), and Class 7 (Noise) . Class 2 includes bare earth points and water points.",
+	"notes": "These data are from LIDAR flights of the Sacramento-San Joaquin Delta conducted during late January and February of 2007. The work was conducted under contract issued by California Department of Water Resources to URS Corporation. The prime LIDAR creation subcontractor was EarthData International, (later Fugro EarthData), also known as EDI. The principal aerial survey firm under subcontract to EDI was Airborne 1 Corporation. In effect, Airborne 1 performed the aerial survey, and EDI did the processing and deliverables preparation. Also involved in the contract to URS was an independent QA/QC firm, Spectrum Mapping LLC. The data was delivered to CSC as unclassified, multiple return elevation measurements and intensity in LAS V1.0 format. The NOAA CSC used an unsupervised classification algorithm to classify the data into the following ASPRS classifications: Class 1 (Unclassified), Class 2 (Ground), and Class 7 (Noise) . Class 2 includes bare earth points and water points.",
 	"license_title": null,
 	"extras": [{
 		"key": "bbox-east-long",
@@ -115,7 +115,7 @@
 	},
 	{
 		"key": "graphic-preview-file",
-		"value": "ftp:\/\/ftp.csc.noaa.gov\/pub\/crs\/beachmap\/qa_docs\/ca\/sanjoaquin\/ca2007_cwdr_sanjoaquindelta_footprint.kmz"
+		"value": "ftp://ftp.csc.noaa.gov/pub/crs/beachmap/qa_docs/ca/sanjoaquin/ca2007_cwdr_sanjoaquindelta_footprint.kmz"
 	},
 	{
 		"key": "metadata-language",
@@ -131,7 +131,7 @@
 	},
 	{
 		"key": "spatial",
-		"value": "{\"type\": \"Polygon\", \"coordinates\": [[[-122.140593, 37.60116], [-121.182752, 37.60116], [-121.182752, 38.592147], [-122.140593, 38.592147], [-122.140593, 37.60116]]]}"
+		"value": "{"type": "Polygon", "coordinates": [[[-122.140593, 37.60116], [-121.182752, 37.60116], [-121.182752, 38.592147], [-122.140593, 38.592147], [-122.140593, 37.60116]]]}"
 	},
 	{
 		"key": "progress",
@@ -159,7 +159,7 @@
 	},
 	{
 		"key": "dataset-reference-date",
-		"value": "[{\"type\": \"publication\", \"value\": \"2013-08-01\"}]"
+		"value": "[{"type": "publication", "value": "2013-08-01"}]"
 	},
 	{
 		"key": "graphic-preview-description",
@@ -171,7 +171,7 @@
 	},
 	{
 		"key": "licence",
-		"value": "[\"These data depict the elevations at the time of the survey and are only accurate for that time. Users should be aware that\\n            temporal changes may have occurred since this data set was collected and some parts of this data may no longer represent actual surface\\n            conditions. Users should not use this data for critical applications without a full awareness of its limitations. Any conclusions drawn\\n            from analysis of this information are not the responsibility of NOAA or any of its partners. These data are NOT to be used for navigational purposes.\"]"
+		"value": "["These data depict the elevations at the time of the survey and are only accurate for that time. Users should be aware that\n            temporal changes may have occurred since this data set was collected and some parts of this data may no longer represent actual surface\n            conditions. Users should not use this data for critical applications without a full awareness of its limitations. Any conclusions drawn\n            from analysis of this information are not the responsibility of NOAA or any of its partners. These data are NOT to be used for navigational purposes."]"
 	},
 	{
 		"key": "metadata_type",
@@ -179,7 +179,7 @@
 	},
 	{
 		"key": "responsible-party",
-		"value": "[{\"name\": \"California Department of Water Resources\", \"roles\": [\"pointOfContact\"]}]"
+		"value": "[{"name": "California Department of Water Resources", "roles": ["pointOfContact"]}]"
 	},
 	{
 		"key": "temporal-extent-end",
@@ -195,7 +195,7 @@
 	},
 	{
 		"package_id": "efe4bddf-e119-415d-b51c-fba4b6cde86d",
-		"value": "san joaquin county, elevation, point cloud, usa, contra costa county, solano county, lidar, san joaquin river delta, sacramento county, california, alameda county, topography\/bathymetry, yolo county, las",
+		"value": "san joaquin county, elevation, point cloud, usa, contra costa county, solano county, lidar, san joaquin river delta, sacramento county, california, alameda county, topography/bathymetry, yolo county, las",
 		"revision_timestamp": "2015-09-27T00:00:37.326250",
 		"state": "active",
 		"key": "tags",
@@ -225,7 +225,7 @@
 		"revision_timestamp": "2013-03-25T23:05:12.923863",
 		"is_organization": true,
 		"state": "active",
-		"image_url": "https:\/\/fortress.wa.gov\/dfw\/score\/score\/images\/noaa_logo.png",
+		"image_url": "https://fortress.wa.gov/dfw/score/score/images/noaa_logo.png",
 		"revision_id": "c6d43080-22e1-405e-a83d-f2a512d9e867",
 		"type": "organization",
 		"id": "e811f0b4-451f-4896-9e8f-fc6802837819",

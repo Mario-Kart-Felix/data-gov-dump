@@ -37,7 +37,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2015-02-06T15:45:51.921752",
-		"url": "https:\/\/gisdata.mn.gov\/dataset\/base-naip-2008-airphotos",
+		"url": "https://gisdata.mn.gov/dataset/base-naip-2008-airphotos",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 0,
@@ -70,7 +70,7 @@
 	"name": "index-of-acquisition-dates-for-naip-digital-orthorectified-images-doq-minnesota-2008",
 	"isopen": false,
 	"url": null,
-	"notes": "This data set contains lines and\/or polygons delineating the boundary between DOQQ (digital orthophoto quarter quads) imagery used in the creation of compressed county mosaic (CCM). The DOQQ and CCM products were created from imagery acquired in the National Agriculture Imagery Program (NAIP). These boundary lines can be used as a tool in determining the image source and date of each portion of the CCM. The boundary lines separating each DOQQ may be the actual seam line location or an approximation. This is because the various vendors acquiring and processing the data use different algorithms to create the DOQQ and CCM products. Since the seam line may be an approximation, portions of the CCM along the boundary may actually come from the imagery on the other side of the seam line. NAIP acquires digital ortho imagery during the agricultural growing seasons in the continental U.S.. The tiling format of NAIP imagery is based on a 3.75 minute x 3.75 minute quarter quadrangle with a 300 meter buffer on all four sides. NAIP quarter quads are formatted to the UTM coordinate system using NAD83. --------------- Note: The Minnesota Geospatial Information Office (MnGeo) has modified the original metadata for this file from the Farm Service Agency's Aerial Photography Field Office to change fields such as the distributor. ---------------",
+	"notes": "This data set contains lines and/or polygons delineating the boundary between DOQQ (digital orthophoto quarter quads) imagery used in the creation of compressed county mosaic (CCM). The DOQQ and CCM products were created from imagery acquired in the National Agriculture Imagery Program (NAIP). These boundary lines can be used as a tool in determining the image source and date of each portion of the CCM. The boundary lines separating each DOQQ may be the actual seam line location or an approximation. This is because the various vendors acquiring and processing the data use different algorithms to create the DOQQ and CCM products. Since the seam line may be an approximation, portions of the CCM along the boundary may actually come from the imagery on the other side of the seam line. NAIP acquires digital ortho imagery during the agricultural growing seasons in the continental U.S.. The tiling format of NAIP imagery is based on a 3.75 minute x 3.75 minute quarter quadrangle with a 300 meter buffer on all four sides. NAIP quarter quads are formatted to the UTM coordinate system using NAD83. --------------- Note: The Minnesota Geospatial Information Office (MnGeo) has modified the original metadata for this file from the Farm Service Agency's Aerial Photography Field Office to change fields such as the distributor. ---------------",
 	"license_title": null,
 	"extras": [{
 		"key": "bbox-east-long",
@@ -110,7 +110,7 @@
 	},
 	{
 		"key": "spatial",
-		"value": "{\"type\": \"Polygon\", \"coordinates\": [[[-97.5, 43.0], [-89.0, 43.0], [-89.0, 49.5], [-97.5, 49.5], [-97.5, 43.0]]]}"
+		"value": "{"type": "Polygon", "coordinates": [[[-97.5, 43.0], [-89.0, 43.0], [-89.0, 49.5], [-97.5, 49.5], [-97.5, 43.0]]]}"
 	},
 	{
 		"key": "progress",
@@ -118,7 +118,7 @@
 	},
 	{
 		"key": "access_constraints",
-		"value": "[\"Use Constraints: None. The Aerial Photography Field Office asks to be credited in derived products.\", \"Access Constraints: None\"]"
+		"value": "["Use Constraints: None. The Aerial Photography Field Office asks to be credited in derived products.", "Access Constraints: None"]"
 	},
 	{
 		"key": "contact-email",
@@ -134,7 +134,7 @@
 	},
 	{
 		"key": "dataset-reference-date",
-		"value": "[{\"type\": \"publication\", \"value\": \"2008-12-04\"}]"
+		"value": "[{"type": "publication", "value": "2008-12-04"}]"
 	},
 	{
 		"key": "frequency-of-update",
@@ -142,7 +142,7 @@
 	},
 	{
 		"key": "licence",
-		"value": "[\"1.  FSA Liability Statement:  In no event shall the creators, custodians, or distributors of this information be liable for any damages arising out of its use (or the inability to use it).\\n\\n2.  MnGeo's data disclaimer is online: http:\/\/www.mngeo.state.mn.us\/chouse\/disclaimer.html\"]"
+		"value": "["1.  FSA Liability Statement:  In no event shall the creators, custodians, or distributors of this information be liable for any damages arising out of its use (or the inability to use it).\n\n2.  MnGeo's data disclaimer is online: http://www.mngeo.state.mn.us/chouse/disclaimer.html"]"
 	},
 	{
 		"key": "metadata_type",
@@ -150,7 +150,7 @@
 	},
 	{
 		"key": "responsible-party",
-		"value": "[{\"name\": \"USDA-FSA\", \"roles\": [\"pointOfContact\"]}]"
+		"value": "[{"name": "USDA-FSA", "roles": ["pointOfContact"]}]"
 	},
 	{
 		"key": "spatial-data-service-type",
@@ -192,7 +192,7 @@
 		"revision_timestamp": "2013-03-27T17:32:06.049250",
 		"is_organization": true,
 		"state": "active",
-		"image_url": "http:\/\/mn.gov\/portal\/images\/mn_header_mn-logo.png",
+		"image_url": "http://mn.gov/portal/images/mn_header_mn-logo.png",
 		"revision_id": "018d8409-7698-467f-8dc2-c58188806480",
 		"type": "organization",
 		"id": "24298fe4-ee0d-43ae-af51-81ae5f5c6165",

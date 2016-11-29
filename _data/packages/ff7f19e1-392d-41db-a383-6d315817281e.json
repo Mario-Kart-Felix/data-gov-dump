@@ -37,7 +37,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2016-09-19T18:23:49.383241",
-		"url": "https:\/\/www.pifsc.noaa.gov\/cred\/ocean_and_climate_change.php",
+		"url": "https://www.pifsc.noaa.gov/cred/ocean_and_climate_change.php",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 0,
@@ -57,11 +57,11 @@
 	"name": "cred-subsurface-temperature-recorder-str-cnmi-fdp-long-144-89860-lat-20-53790-wgs84-sensor-dept",
 	"isopen": false,
 	"url": null,
-	"notes": "Data from Coral Reef Ecosystem Division (CRED), NOAA Pacific Islands Fisheries Science Center (PIFSC) Subsurface Temperature Recorders (STR) provide a time series of water temperature at coral reef sites. Data is typically collected at 1800 second intervals for a duration of 2 years using a SBE39 Temperature Recorder (Sea-Bird Electronics, Inc., www.seabird.com). When a STR is recovered, a new one is typically deployed in the same place. Time series data combining multiple deployments from a given site may also be available. Please contact CRED with any questions. For program information see the web site https:\/\/www.pifsc.noaa.gov\/cred\/ocean_and_climate_change.php",
+	"notes": "Data from Coral Reef Ecosystem Division (CRED), NOAA Pacific Islands Fisheries Science Center (PIFSC) Subsurface Temperature Recorders (STR) provide a time series of water temperature at coral reef sites. Data is typically collected at 1800 second intervals for a duration of 2 years using a SBE39 Temperature Recorder (Sea-Bird Electronics, Inc., www.seabird.com). When a STR is recovered, a new one is typically deployed in the same place. Time series data combining multiple deployments from a given site may also be available. Please contact CRED with any questions. For program information see the web site https://www.pifsc.noaa.gov/cred/ocean_and_climate_change.php",
 	"license_title": null,
 	"extras": [{
 		"key": "bbox-east-long",
-		"value": "\n          144.89861\n        "
+		"value": "n          144.89861n        "
 	},
 	{
 		"key": "resource-type",
@@ -69,7 +69,7 @@
 	},
 	{
 		"key": "bbox-north-lat",
-		"value": "\n          20.53790\n        "
+		"value": "n          20.53790n        "
 	},
 	{
 		"key": "coupled-resource",
@@ -85,7 +85,7 @@
 	},
 	{
 		"key": "bbox-south-lat",
-		"value": "\n          20.53789\n        "
+		"value": "n          20.53789n        "
 	},
 	{
 		"key": "spatial-reference-system",
@@ -93,7 +93,7 @@
 	},
 	{
 		"key": "spatial",
-		"value": "{\"type\": \"Polygon\", \"coordinates\": [[[144.8986, 20.53789], [144.89861, 20.53789], [144.89861, 20.5379], [144.8986, 20.5379], [144.8986, 20.53789]]]}"
+		"value": "{"type": "Polygon", "coordinates": [[[144.8986, 20.53789], [144.89861, 20.53789], [144.89861, 20.5379], [144.8986, 20.5379], [144.8986, 20.53789]]]}"
 	},
 	{
 		"key": "progress",
@@ -101,7 +101,7 @@
 	},
 	{
 		"key": "access_constraints",
-		"value": "[\"Use Constraints: These oceanographic data are PRELIMINARY data and have not been screened for accuracy. NOAA can not be held liable for use of these data in a manner other than for perusal of preliminary oceanographic data for scientific research on coral reefs ecosystems.\", \"Access Constraints: None\"]"
+		"value": "["Use Constraints: These oceanographic data are PRELIMINARY data and have not been screened for accuracy. NOAA can not be held liable for use of these data in a manner other than for perusal of preliminary oceanographic data for scientific research on coral reefs ecosystems.", "Access Constraints: None"]"
 	},
 	{
 		"key": "temporal-extent-begin",
@@ -113,7 +113,7 @@
 	},
 	{
 		"key": "bbox-west-long",
-		"value": "\n          144.89860\n        "
+		"value": "n          144.89860n        "
 	},
 	{
 		"key": "metadata-date",
@@ -121,7 +121,7 @@
 	},
 	{
 		"key": "dataset-reference-date",
-		"value": "[{\"type\": \"publication\", \"value\": \"2009-09-02\"}]"
+		"value": "[{"type": "publication", "value": "2009-09-02"}]"
 	},
 	{
 		"key": "frequency-of-update",
@@ -129,7 +129,7 @@
 	},
 	{
 		"key": "licence",
-		"value": "[\"\\n      These oceanographic data are PRELIMINARY data and have not been screened for accuracy. NOAA can not be held liable for use of these data in a manner other than for perusal of preliminary oceanographic data for scientific research on coral reefs ecosystems. Disclaimer - NOAA makes no warranty regarding these data, expressed or implied, nor does the fact of distribution constitute such a warranty. NOAA and NODC cannot assume liability for any damages caused by any errors or omissions in these data, nor as a result of the failure of these data to function on a particular system.\\n    \"]"
+		"value": "["\n      These oceanographic data are PRELIMINARY data and have not been screened for accuracy. NOAA can not be held liable for use of these data in a manner other than for perusal of preliminary oceanographic data for scientific research on coral reefs ecosystems. Disclaimer - NOAA makes no warranty regarding these data, expressed or implied, nor does the fact of distribution constitute such a warranty. NOAA and NODC cannot assume liability for any damages caused by any errors or omissions in these data, nor as a result of the failure of these data to function on a particular system.\n    "]"
 	},
 	{
 		"key": "metadata_type",
@@ -137,7 +137,7 @@
 	},
 	{
 		"key": "responsible-party",
-		"value": "[{\"name\": \"Coral Reef Ecosystem Division (CRED), Pacific Islands Fisheries Science Center (PIFSC), National Marine Fisheries Service (NMFS), National Oceanic and Atmospheric Administration (NOAA)\", \"roles\": [\"pointOfContact\"]}]"
+		"value": "[{"name": "Coral Reef Ecosystem Division (CRED), Pacific Islands Fisheries Science Center (PIFSC), National Marine Fisheries Service (NMFS), National Oceanic and Atmospheric Administration (NOAA)", "roles": ["pointOfContact"]}]"
 	},
 	{
 		"key": "temporal-extent-end",
@@ -153,7 +153,7 @@
 	},
 	{
 		"package_id": "ff7f19e1-392d-41db-a383-6d315817281e",
-		"value": "ocean temperature, pacific ocean, sea-bird sbe39 temperature recorder, upwelling, ocean circulation, zoology, farallon de pajaros (20n144e0001), earth science, oceanography, in situ physical, bottom, reef assessment and monitoring program (ramp), coastal processes, country\/territory, farallon de pajaros, coral diseases, numeric data sets, oceanographic, oceans, bleaching, ocean basin, coral reef ecosystem division (cred), noaa pacific islands fisheries science center, western pacific ocean, water temperature, temperature, farallon de pajaros, commonwealth of the northern mariana islands, northern mariana islands, biosphere, coral reefs, reef monitoring and assessment, mooring, subsurface temperature recorder (str), corals, fdp_ocean_004",
+		"value": "ocean temperature, pacific ocean, sea-bird sbe39 temperature recorder, upwelling, ocean circulation, zoology, farallon de pajaros (20n144e0001), earth science, oceanography, in situ physical, bottom, reef assessment and monitoring program (ramp), coastal processes, country/territory, farallon de pajaros, coral diseases, numeric data sets, oceanographic, oceans, bleaching, ocean basin, coral reef ecosystem division (cred), noaa pacific islands fisheries science center, western pacific ocean, water temperature, temperature, farallon de pajaros, commonwealth of the northern mariana islands, northern mariana islands, biosphere, coral reefs, reef monitoring and assessment, mooring, subsurface temperature recorder (str), corals, fdp_ocean_004",
 		"revision_timestamp": "2015-09-26T19:39:59.798437",
 		"state": "active",
 		"key": "tags",
@@ -183,7 +183,7 @@
 		"revision_timestamp": "2013-03-25T23:05:12.923863",
 		"is_organization": true,
 		"state": "active",
-		"image_url": "https:\/\/fortress.wa.gov\/dfw\/score\/score\/images\/noaa_logo.png",
+		"image_url": "https://fortress.wa.gov/dfw/score/score/images/noaa_logo.png",
 		"revision_id": "c6d43080-22e1-405e-a83d-f2a512d9e867",
 		"type": "organization",
 		"id": "e811f0b4-451f-4896-9e8f-fc6802837819",

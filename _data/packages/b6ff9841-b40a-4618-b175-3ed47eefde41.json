@@ -36,7 +36,7 @@
 		"cache_url": null,
 		"name": "SHP",
 		"created": "2016-04-22T22:37:52.344305",
-		"url": "http:\/\/vcgi.vermont.gov\/warehouse\/?layer=GeologicSoils_SOAG",
+		"url": "http://vcgi.vermont.gov/warehouse/?layer=GeologicSoils_SOAG",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 0,
@@ -66,7 +66,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2016-04-22T22:37:52.344333",
-		"url": "http:\/\/websoilsurvey.nrcs.usda.gov",
+		"url": "http://websoilsurvey.nrcs.usda.gov",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 1,
@@ -96,7 +96,7 @@
 		"cache_url": null,
 		"name": "Zip File",
 		"created": "2016-04-22T22:37:52.344342",
-		"url": "http:\/\/maps.vcgi.org\/gisdata\/vcgi\/products\/products_vcgi\/soilattr.zip",
+		"url": "http://maps.vcgi.org/gisdata/vcgi/products/products_vcgi/soilattr.zip",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 2,
@@ -133,7 +133,7 @@
 	"license_title": null,
 	"extras": [{
 		"key": "responsible-party",
-		"value": "[{\"name\": \"VT Center for Geographic Information\", \"roles\": [\"pointOfContact\"]}]"
+		"value": "[{"name": "VT Center for Geographic Information", "roles": ["pointOfContact"]}]"
 	},
 	{
 		"key": "contact-email",
@@ -153,7 +153,7 @@
 	},
 	{
 		"key": "dataset-reference-date",
-		"value": "[{\"type\": \"publication\", \"value\": \"9999-01-01\"}]"
+		"value": "[{"type": "publication", "value": "9999-01-01"}]"
 	},
 	{
 		"key": "resource-type",
@@ -181,7 +181,7 @@
 	},
 	{
 		"key": "licence",
-		"value": "[\"VCGI and the State of Vermont make no representations of any kind, including but not limited to the warranties of merchantability or fitness for a particular use, nor are any such warranties to be implied with respect to the data.\"]"
+		"value": "["VCGI and the State of Vermont make no representations of any kind, including but not limited to the warranties of merchantability or fitness for a particular use, nor are any such warranties to be implied with respect to the data."]"
 	},
 	{
 		"key": "metadata_type",
@@ -193,7 +193,7 @@
 	},
 	{
 		"key": "spatial",
-		"value": "{\"type\": \"Polygon\", \"coordinates\": [[[-73.454162, 42.722789], [-71.465281, 42.722789], [-71.465281, 45.018361], [-73.454162, 45.018361], [-73.454162, 42.722789]]]}"
+		"value": "{"type": "Polygon", "coordinates": [[[-73.454162, 42.722789], [-71.465281, 42.722789], [-71.465281, 45.018361], [-73.454162, 45.018361], [-73.454162, 42.722789]]]}"
 	},
 	{
 		"key": "guid",
@@ -205,7 +205,7 @@
 	},
 	{
 		"key": "access_constraints",
-		"value": "[\"Use Constraints: The U.S. Department of Agriculture, Natural Resources Conservation Service, should be acknowledged as the data source in products derived from these data. This data set is not designed for use as a primary regulatory tool in permitting or citing decisions, but may be used as a reference source. This is public information and may be interpreted by organizations, agencies, units of government, or others based on needs; however, they are responsible for the appropriate application. Federal, State, or local regulatory bodies are not to reassign to the Natural Resources Conservation Service any authority for the decisions that they make. The Natural Resources Conservation Service will not perform any evaluations of these maps for purposes related solely to State or local regulatory programs. Photographic or digital enlargement of these maps to scales greater than at which they were originally mapped can cause misinterpretation of the data. If enlarged, maps do not show the small areas of contrasting soils that could have been shown at a larger scale. The depicted soil boundaries, interpretations, and analysis derived from them do not eliminate the need for onsite sampling, testing, and detailed study of specific sites for intensive uses. Thus, these data and their interpretations are intended for planning purposes only. Digital data files are periodically updated. Files are dated, and users are responsible for obtaining the latest version of the data.\", \"Access Constraints: VCGI and the State of VT make no representations of any kind, including but not limited to the warranties of merchantability or fitness for a particular use, nor are any such warranties to be implied with respect to the data.\"]"
+		"value": "["Use Constraints: The U.S. Department of Agriculture, Natural Resources Conservation Service, should be acknowledged as the data source in products derived from these data. This data set is not designed for use as a primary regulatory tool in permitting or citing decisions, but may be used as a reference source. This is public information and may be interpreted by organizations, agencies, units of government, or others based on needs; however, they are responsible for the appropriate application. Federal, State, or local regulatory bodies are not to reassign to the Natural Resources Conservation Service any authority for the decisions that they make. The Natural Resources Conservation Service will not perform any evaluations of these maps for purposes related solely to State or local regulatory programs. Photographic or digital enlargement of these maps to scales greater than at which they were originally mapped can cause misinterpretation of the data. If enlarged, maps do not show the small areas of contrasting soils that could have been shown at a larger scale. The depicted soil boundaries, interpretations, and analysis derived from them do not eliminate the need for onsite sampling, testing, and detailed study of specific sites for intensive uses. Thus, these data and their interpretations are intended for planning purposes only. Digital data files are periodically updated. Files are dated, and users are responsible for obtaining the latest version of the data.", "Access Constraints: VCGI and the State of VT make no representations of any kind, including but not limited to the warranties of merchantability or fitness for a particular use, nor are any such warranties to be implied with respect to the data."]"
 	},
 	{
 		"key": "spatial_harvester",
@@ -247,7 +247,7 @@
 		"revision_timestamp": "2013-03-27T17:47:03.718032",
 		"is_organization": true,
 		"state": "active",
-		"image_url": "http:\/\/vcgi.vermont.gov\/sites\/all\/themes\/vt_template\/logo.png",
+		"image_url": "http://vcgi.vermont.gov/sites/all/themes/vt_template/logo.png",
 		"revision_id": "c5dfbbb0-f1e0-4db6-b566-e932e1520060",
 		"type": "organization",
 		"id": "0c3a4ebc-9929-4f21-bdd0-76a35d52f57d",

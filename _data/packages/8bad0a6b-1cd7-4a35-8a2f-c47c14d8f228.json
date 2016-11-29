@@ -37,7 +37,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2013-03-15T15:35:46.683033",
-		"url": "http:\/\/www.vcgi.org\/",
+		"url": "http://www.vcgi.org/",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 0,
@@ -67,7 +67,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2013-03-15T15:35:46.683052",
-		"url": "http:\/\/www.vcgi.org\/dataware\/default.cfm?layer=ElevationOTHER_SLOPE10M",
+		"url": "http://www.vcgi.org/dataware/default.cfm?layer=ElevationOTHER_SLOPE10M",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 1,
@@ -97,7 +97,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2013-03-15T15:35:46.683056",
-		"url": "http:\/\/www.vcgi.org\/dataware\/default.cfm?layer=ElevationOTHER_SLOPE10M&mapit=yes",
+		"url": "http://www.vcgi.org/dataware/default.cfm?layer=ElevationOTHER_SLOPE10M&mapit=yes",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 2,
@@ -127,7 +127,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2013-03-15T15:35:46.683061",
-		"url": "http:\/\/www.vcgi.org\/",
+		"url": "http://www.vcgi.org/",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 3,
@@ -174,11 +174,11 @@
 	"name": "elevationother-slope10m",
 	"isopen": false,
 	"url": null,
-	"notes": "Used ElevationDEM_DEM10M and the Arc\/Info SLOPE command with the \"PERCENT_RISE\" and \".3048\" Z_unit options to create this data layer. Input source dataset is derived from the multi-resolution National Elevation Dataset (NED), at resolutions of both 1\/3 arc-second (approx. 10 meters) and in limited areas, 1\/9 arc-second (approx. 3 meters). VCGI extracted the Vermont portion of the NED and re-projected into Vermont State Plane Meters NAD83 (vertical units in feet). Production artifacts were filtered out of this source data prior to acquisition resulting in a much-improved base of elevation data for calculating contours, slope and hydrologic derivatives. The NED is the primary elevation data product produced and distributed by the USGS. The NED provides the best available public domain raster elevation data of the conterminous United States, Alaska, Hawaii, and territorial islands in a seamless format. The NED is derived from diverse source data, processed to a common coordinate system and unit of vertical measure. The source data are distributed in geographic coordinates in units of decimal degrees, and in conformance with the North American Datum of 1983 (NAD 83). The source elevation values are provided in units of meters, and are referenced to the North American Vertical Datum of 1988 (NAVD 88) over the conterminous United States.",
+	"notes": "Used ElevationDEM_DEM10M and the Arc/Info SLOPE command with the "PERCENT_RISE" and ".3048" Z_unit options to create this data layer. Input source dataset is derived from the multi-resolution National Elevation Dataset (NED), at resolutions of both 1/3 arc-second (approx. 10 meters) and in limited areas, 1/9 arc-second (approx. 3 meters). VCGI extracted the Vermont portion of the NED and re-projected into Vermont State Plane Meters NAD83 (vertical units in feet). Production artifacts were filtered out of this source data prior to acquisition resulting in a much-improved base of elevation data for calculating contours, slope and hydrologic derivatives. The NED is the primary elevation data product produced and distributed by the USGS. The NED provides the best available public domain raster elevation data of the conterminous United States, Alaska, Hawaii, and territorial islands in a seamless format. The NED is derived from diverse source data, processed to a common coordinate system and unit of vertical measure. The source data are distributed in geographic coordinates in units of decimal degrees, and in conformance with the North American Datum of 1983 (NAD 83). The source elevation values are provided in units of meters, and are referenced to the North American Vertical Datum of 1988 (NAVD 88) over the conterminous United States.",
 	"license_title": null,
 	"extras": [{
 		"key": "responsible-party",
-		"value": "[{\"name\": \"VT Center for Geographic Information\", \"roles\": [\"pointOfContact\"]}]"
+		"value": "[{"name": "VT Center for Geographic Information", "roles": ["pointOfContact"]}]"
 	},
 	{
 		"key": "contact-email",
@@ -198,7 +198,7 @@
 	},
 	{
 		"key": "dataset-reference-date",
-		"value": "[{\"type\": \"publication\", \"value\": \"2012-02-10\"}]"
+		"value": "[{"type": "publication", "value": "2012-02-10"}]"
 	},
 	{
 		"key": "resource-type",
@@ -222,7 +222,7 @@
 	},
 	{
 		"key": "__category_tag_9a350fa9-bc49-43d4-8e77-270b9714976d",
-		"value": "[\"State\",\"Pacific Islands\",\"Hawaii\"]"
+		"value": "["State","Pacific Islands","Hawaii"]"
 	},
 	{
 		"key": "bbox-south-lat",
@@ -230,7 +230,7 @@
 	},
 	{
 		"key": "licence",
-		"value": "[\" \"]"
+		"value": "[" "]"
 	},
 	{
 		"key": "metadata_type",
@@ -238,7 +238,7 @@
 	},
 	{
 		"key": "spatial",
-		"value": "{\"type\": \"Polygon\", \"coordinates\": [[[-73.454162, 42.722789], [-73.454162, 45.018361], [-71.465281, 45.018361], [-71.465281, 42.722789], [-73.454162, 42.722789]]]}"
+		"value": "{"type": "Polygon", "coordinates": [[[-73.454162, 42.722789], [-73.454162, 45.018361], [-71.465281, 45.018361], [-71.465281, 42.722789], [-73.454162, 42.722789]]]}"
 	},
 	{
 		"key": "guid",
@@ -250,11 +250,11 @@
 	},
 	{
 		"key": "access_constraints",
-		"value": "[\"Use Constraints: No assessment of the accuracy of DEM data or data products has been made by VCGI. Data users should assess DEM data products for appropriate use in a given project.\", \"Access Constraints: VCGI and the State of VT make no representations of any kind, including but not limited to the warranties of merchantability or fitness for a particular use, nor are any such warranties to be implied with respect to the data.\"]"
+		"value": "["Use Constraints: No assessment of the accuracy of DEM data or data products has been made by VCGI. Data users should assess DEM data products for appropriate use in a given project.", "Access Constraints: VCGI and the State of VT make no representations of any kind, including but not limited to the warranties of merchantability or fitness for a particular use, nor are any such warranties to be implied with respect to the data."]"
 	},
 	{
 		"key": "graphic-preview-file",
-		"value": "http:\/\/maps.vcgi.org:8080\/servlet\/com.esri.wms.Esrimap?servicename=WMS_VCGI_OGC&WMTVER=1.0.0&request=map&BBOX=-73.45416,42.72279,-71.46528,45.018356&SRS=EPSG:4326&LAYERS=ElevationOTHER_SLOPE10M&WIDTH=300&HEIGHT=400&FORMAT=GIF"
+		"value": "http://maps.vcgi.org:8080/servlet/com.esri.wms.Esrimap?servicename=WMS_VCGI_OGC&WMTVER=1.0.0&request=map&BBOX=-73.45416,42.72279,-71.46528,45.018356&SRS=EPSG:4326&LAYERS=ElevationOTHER_SLOPE10M&WIDTH=300&HEIGHT=400&FORMAT=GIF"
 	},
 	{
 		"key": "frequency-of-update",
@@ -262,7 +262,7 @@
 	},
 	{
 		"package_id": "8bad0a6b-1cd7-4a35-8a2f-c47c14d8f228",
-		"value": "Slope generated from ElevationDEM_DEM10M (USGS 1\/3 arc-second NED), elevation, shadows, slope, terrain, topographic, topography",
+		"value": "Slope generated from ElevationDEM_DEM10M (USGS 1/3 arc-second NED), elevation, shadows, slope, terrain, topographic, topography",
 		"revision_timestamp": "2013-05-17T00:00:00",
 		"state": "active",
 		"key": "tags",
@@ -292,7 +292,7 @@
 		"revision_timestamp": "2013-03-27T17:47:03.718032",
 		"is_organization": true,
 		"state": "active",
-		"image_url": "http:\/\/vcgi.vermont.gov\/sites\/all\/themes\/vt_template\/logo.png",
+		"image_url": "http://vcgi.vermont.gov/sites/all/themes/vt_template/logo.png",
 		"revision_id": "c5dfbbb0-f1e0-4db6-b566-e932e1520060",
 		"type": "organization",
 		"id": "0c3a4ebc-9929-4f21-bdd0-76a35d52f57d",

@@ -37,7 +37,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2015-10-06T18:35:32.137843",
-		"url": "http:\/\/www.ngdc.noaa.gov\/stp\/SOLAR",
+		"url": "http://www.ngdc.noaa.gov/stp/SOLAR",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 0,
@@ -66,7 +66,7 @@
 		"cache_url": null,
 		"name": "GCMD Feedback Form",
 		"created": "2015-10-06T18:35:32.137865",
-		"url": "http:\/\/gcmd.nasa.gov\/MailComments\/MailComments.jsf?rcpt=gcmduso",
+		"url": "http://gcmd.nasa.gov/MailComments/MailComments.jsf?rcpt=gcmduso",
 		"webstore_url": null,
 		"resource_locator_function": "information",
 		"position": 1,
@@ -95,7 +95,7 @@
 		"cache_url": null,
 		"name": "GCMD Keywords Page",
 		"created": "2015-10-06T18:35:32.137875",
-		"url": "http:\/\/gcmd.nasa.gov\/learn\/keyword_list.html",
+		"url": "http://gcmd.nasa.gov/learn/keyword_list.html",
 		"webstore_url": null,
 		"resource_locator_function": "information",
 		"position": 2,
@@ -124,7 +124,7 @@
 		"cache_url": null,
 		"name": "GCMD Feedback Form",
 		"created": "2015-10-06T18:35:32.137883",
-		"url": "http:\/\/gcmd.nasa.gov\/MailComments\/MailComments.jsf?rcpt=gcmduso",
+		"url": "http://gcmd.nasa.gov/MailComments/MailComments.jsf?rcpt=gcmduso",
 		"webstore_url": null,
 		"resource_locator_function": "information",
 		"position": 3,
@@ -153,7 +153,7 @@
 		"cache_url": null,
 		"name": "GCMD Keywords Page",
 		"created": "2015-10-06T18:35:32.137890",
-		"url": "http:\/\/gcmd.nasa.gov\/learn\/keyword_list.html",
+		"url": "http://gcmd.nasa.gov/learn/keyword_list.html",
 		"webstore_url": null,
 		"resource_locator_function": "information",
 		"position": 4,
@@ -173,7 +173,7 @@
 	"name": "geomagnetic-principal-magnetic-storms",
 	"isopen": false,
 	"url": null,
-	"notes": "The abbreviations used for observatory names are as follows: GEOMAGNETIC OBSERVATORIES Code Station Geomagnetic Latitude ABG Alibag AMS Martin de Vivie. These data present the principal magnetic storms for the month as reported by several observatories through cooperation with the International Association of Geomagnetism and Aeronomy (IAGA). These are the data formerly published in the Journal of Geophysical Research. They are now, however, grouped by the\n                    storm rather than by station. The geomagnetic latitude of the station is indicated. The beginning time is given to the hour and minute in UT. The tupe of sudden commencement, if any, together with its magnitude in each element D, H or Z is next in the format: sc = sudden commencement; sc* = small initial impulse followed by main impulse (in this case the amplitude is that of the main pulse only, neglecting the initial brief pulse); dots in these columns represent a stomr with\n                    gradual commencement; blanks indicate no data entries. Signs of amplitudes of D and Z are taken albegraically; D reckoned positive if toward the east and Z reckoned positive if vertically downward. In the next columns the day and the three-hour periods on that day when the K index reached its maximum are given followed by the K index value. In the next three columns the maximum ranges in D, H and Z during the storm are given. The ending time is given only to the nearest hour.\n                    This is the time of cessation of reasonably marked disturbance movements in the trace. More specifically, it is the time when the K index measure has diminished to 2 or less for a reasonable period. For each date the data are listed in north-to-south geomagnetic latitude order.",
+	"notes": "The abbreviations used for observatory names are as follows: GEOMAGNETIC OBSERVATORIES Code Station Geomagnetic Latitude ABG Alibag AMS Martin de Vivie. These data present the principal magnetic storms for the month as reported by several observatories through cooperation with the International Association of Geomagnetism and Aeronomy (IAGA). These are the data formerly published in the Journal of Geophysical Research. They are now, however, grouped by then                    storm rather than by station. The geomagnetic latitude of the station is indicated. The beginning time is given to the hour and minute in UT. The tupe of sudden commencement, if any, together with its magnitude in each element D, H or Z is next in the format: sc = sudden commencement; sc* = small initial impulse followed by main impulse (in this case the amplitude is that of the main pulse only, neglecting the initial brief pulse); dots in these columns represent a stomr withn                    gradual commencement; blanks indicate no data entries. Signs of amplitudes of D and Z are taken albegraically; D reckoned positive if toward the east and Z reckoned positive if vertically downward. In the next columns the day and the three-hour periods on that day when the K index reached its maximum are given followed by the K index value. In the next three columns the maximum ranges in D, H and Z during the storm are given. The ending time is given only to the nearest hour.n                    This is the time of cessation of reasonably marked disturbance movements in the trace. More specifically, it is the time when the K index measure has diminished to 2 or less for a reasonable period. For each date the data are listed in north-to-south geomagnetic latitude order.",
 	"license_title": null,
 	"extras": [{
 		"key": "bbox-east-long",
@@ -209,7 +209,7 @@
 	},
 	{
 		"key": "spatial",
-		"value": "{\"type\": \"Polygon\", \"coordinates\": [[[-180.0, -90.0], [180.0, -90.0], [180.0, 90.0], [-180.0, 90.0], [-180.0, -90.0]]]}"
+		"value": "{"type": "Polygon", "coordinates": [[[-180.0, -90.0], [180.0, -90.0], [180.0, 90.0], [-180.0, 90.0], [-180.0, -90.0]]]}"
 	},
 	{
 		"key": "progress",
@@ -217,7 +217,7 @@
 	},
 	{
 		"key": "access_constraints",
-		"value": "[\"Use Constraints: None\", \"Access Constraints: No Constraints\"]"
+		"value": "["Use Constraints: None", "Access Constraints: No Constraints"]"
 	},
 	{
 		"key": "temporal-extent-begin",
@@ -237,7 +237,7 @@
 	},
 	{
 		"key": "dataset-reference-date",
-		"value": "[{\"type\": \"publication\", \"value\": \"1998-05-13\"}]"
+		"value": "[{"type": "publication", "value": "1998-05-13"}]"
 	},
 	{
 		"key": "frequency-of-update",
@@ -245,7 +245,7 @@
 	},
 	{
 		"key": "licence",
-		"value": "[\"While every effort has been made to ensure that these data are accurate and reliable within the limits of the current state of the art, NOAA cannot assume liability for any damages caused by any errors or omissions in the data, nor as a result of the failure of the data to function on a particular system. NOAA makes no warranty, expressed or implied, nor does the fact of distribution constitute such a warranty.\"]"
+		"value": "["While every effort has been made to ensure that these data are accurate and reliable within the limits of the current state of the art, NOAA cannot assume liability for any damages caused by any errors or omissions in the data, nor as a result of the failure of the data to function on a particular system. NOAA makes no warranty, expressed or implied, nor does the fact of distribution constitute such a warranty."]"
 	},
 	{
 		"key": "metadata_type",
@@ -253,7 +253,7 @@
 	},
 	{
 		"key": "responsible-party",
-		"value": "[{\"name\": \"DOC\/NOAA\/NESDIS\/NCEI > National Centers for Environmental Information, NESDIS, NOAA, U.S. Department of Commerce\", \"roles\": [\"pointOfContact\"]}]"
+		"value": "[{"name": "DOC/NOAA/NESDIS/NCEI > National Centers for Environmental Information, NESDIS, NOAA, U.S. Department of Commerce", "roles": ["pointOfContact"]}]"
 	},
 	{
 		"key": "spatial-data-service-type",
@@ -265,7 +265,7 @@
 	},
 	{
 		"package_id": "b066987a-9286-43fe-b661-7bca6ade4750",
-		"value": "principal magnetic storms, azimuthal component, solid earth, national geophysical data center, nesdis, noaa, u.s. department of commerce, doc\/noaa\/nesdis\/ngdc, global, national centers for environmental information, nesdis, noaa, u.s. department of commerce, icsu-wds, geomagnetism - geomagnetic indices, doc\/noaa\/nesdis\/ncei, geomagnetic field, magnetosphere, international council for science - world data system, earth science",
+		"value": "principal magnetic storms, azimuthal component, solid earth, national geophysical data center, nesdis, noaa, u.s. department of commerce, doc/noaa/nesdis/ngdc, global, national centers for environmental information, nesdis, noaa, u.s. department of commerce, icsu-wds, geomagnetism - geomagnetic indices, doc/noaa/nesdis/ncei, geomagnetic field, magnetosphere, international council for science - world data system, earth science",
 		"revision_timestamp": "2015-10-06T22:35:32.087690",
 		"state": "active",
 		"key": "tags",
@@ -295,7 +295,7 @@
 		"revision_timestamp": "2013-03-25T23:05:12.923863",
 		"is_organization": true,
 		"state": "active",
-		"image_url": "https:\/\/fortress.wa.gov\/dfw\/score\/score\/images\/noaa_logo.png",
+		"image_url": "https://fortress.wa.gov/dfw/score/score/images/noaa_logo.png",
 		"revision_id": "c6d43080-22e1-405e-a83d-f2a512d9e867",
 		"type": "organization",
 		"id": "e811f0b4-451f-4896-9e8f-fc6802837819",

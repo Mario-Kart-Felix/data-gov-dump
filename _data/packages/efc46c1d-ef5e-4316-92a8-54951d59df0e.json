@@ -36,7 +36,7 @@
 		"cache_url": null,
 		"name": "ESRI shape",
 		"created": "2016-07-15T21:35:06.930197",
-		"url": "http:\/\/www.idahogeology.org\/Products\/reverselook.asp?switch=title&value=NEHRP_Site_Class_and_Liquefaction_Susceptibility_Maps_for_Teton_County,_Idaho",
+		"url": "http://www.idahogeology.org/Products/reverselook.asp?switch=title&value=NEHRP_Site_Class_and_Liquefaction_Susceptibility_Maps_for_Teton_County,_Idaho",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 0,
@@ -66,7 +66,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2016-07-15T21:35:06.930228",
-		"url": "http:\/\/www.idahogeology.org\/Products\/reverselook.asp?switch=title&value=NEHRP_Site_Class_and_Liquefaction_Susceptibility_Maps_for_Teton_County,_Idaho",
+		"url": "http://www.idahogeology.org/Products/reverselook.asp?switch=title&value=NEHRP_Site_Class_and_Liquefaction_Susceptibility_Maps_for_Teton_County,_Idaho",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 1,
@@ -86,11 +86,11 @@
 	"name": "nehrp-site-classes-teto-ncounty-idaho",
 	"isopen": false,
 	"url": null,
-	"notes": "National Earthquake Hazard Reduction Program (NEHRP) seismic site classes for Teton County, Idaho are contained in this shapefile. The intensity of ground shaking during an earthquake varies according to the nature of near-surface materials. NEHRP site classes quantify this effect and permit adjustment of expected ground motion. The site classes were determined in two ways. In the detailed study area containing populated parts of the county, i.e. the towns of Driggs, Victor, and Tetonia, 31 Vs30 measurements were made by Fugro Consultants Inc. using the IMASW technique (O'Connell and Turner, 2011). These measurements were interpolated within the detailed study area using geologic and geomorphic criteria to produce a map. The map contains six classes: C3 (760-620 m\/s), C2 (620-490 m\/s), C1 (490-360 m\/s), D3 (360-300 m\/s), D2, (300-240 m\/s), and D1 (240-180 m\/s). Vs30 measurements ranged between 217 m\/s and 734 m\/s . Outside of the detailed study area, Vs30 was estimated using the U.S. Geological Survey's Global Vs30 Map Server (available at http:\/\/earthquake.usgs.gov\/hazards\/apps\/vs30\/). This technique uses topography as a proxy for Vs30. It produces a map with the same six classes as in the detailed study area. The two maps do not agree in many places along their boundaries. In areas with low relief, the Global Vs30 mapper method generally underestimates Vs30 compared to Vs30 measurements.",
+	"notes": "National Earthquake Hazard Reduction Program (NEHRP) seismic site classes for Teton County, Idaho are contained in this shapefile. The intensity of ground shaking during an earthquake varies according to the nature of near-surface materials. NEHRP site classes quantify this effect and permit adjustment of expected ground motion. The site classes were determined in two ways. In the detailed study area containing populated parts of the county, i.e. the towns of Driggs, Victor, and Tetonia, 31 Vs30 measurements were made by Fugro Consultants Inc. using the IMASW technique (O'Connell and Turner, 2011). These measurements were interpolated within the detailed study area using geologic and geomorphic criteria to produce a map. The map contains six classes: C3 (760-620 m/s), C2 (620-490 m/s), C1 (490-360 m/s), D3 (360-300 m/s), D2, (300-240 m/s), and D1 (240-180 m/s). Vs30 measurements ranged between 217 m/s and 734 m/s . Outside of the detailed study area, Vs30 was estimated using the U.S. Geological Survey's Global Vs30 Map Server (available at http://earthquake.usgs.gov/hazards/apps/vs30/). This technique uses topography as a proxy for Vs30. It produces a map with the same six classes as in the detailed study area. The two maps do not agree in many places along their boundaries. In areas with low relief, the Global Vs30 mapper method generally underestimates Vs30 compared to Vs30 measurements.",
 	"license_title": null,
 	"extras": [{
 		"key": "responsible-party",
-		"value": "[{\"name\": \"Idaho Geological Survey\", \"roles\": [\"pointOfContact\"]}]"
+		"value": "[{"name": "Idaho Geological Survey", "roles": ["pointOfContact"]}]"
 	},
 	{
 		"key": "contact-email",
@@ -110,7 +110,7 @@
 	},
 	{
 		"key": "dataset-reference-date",
-		"value": "[{\"type\": \"publication\", \"value\": \"9999-01-01\"}]"
+		"value": "[{"type": "publication", "value": "9999-01-01"}]"
 	},
 	{
 		"key": "resource-type",
@@ -138,7 +138,7 @@
 	},
 	{
 		"key": "licence",
-		"value": "[\"The Idaho Geological Survey does not assume liability; no warranty expressed or implied is made by the Agency regarding the utility of the data on any other system, nor shall the act of distribution constitute any such warranty\"]"
+		"value": "["The Idaho Geological Survey does not assume liability; no warranty expressed or implied is made by the Agency regarding the utility of the data on any other system, nor shall the act of distribution constitute any such warranty"]"
 	},
 	{
 		"key": "metadata_type",
@@ -150,7 +150,7 @@
 	},
 	{
 		"key": "spatial",
-		"value": "{\"type\": \"Polygon\", \"coordinates\": [[[-111.404817, 43.501378], [-111.035855, 43.501378], [-111.035855, 43.986529], [-111.404817, 43.986529], [-111.404817, 43.501378]]]}"
+		"value": "{"type": "Polygon", "coordinates": [[[-111.404817, 43.501378], [-111.035855, 43.501378], [-111.035855, 43.986529], [-111.404817, 43.986529], [-111.404817, 43.501378]]]}"
 	},
 	{
 		"key": "guid",
@@ -162,7 +162,7 @@
 	},
 	{
 		"key": "access_constraints",
-		"value": "[\"Use Constraints: The data may be used by anyone for any purpose.\", \"Access Constraints: This data is distributed by the Idaho Geological Survey at www.idahogeology.org. All data may be downloaded and saved at no cost by anyone accessing the website.\"]"
+		"value": "["Use Constraints: The data may be used by anyone for any purpose.", "Access Constraints: This data is distributed by the Idaho Geological Survey at www.idahogeology.org. All data may be downloaded and saved at no cost by anyone accessing the website."]"
 	},
 	{
 		"key": "spatial_harvester",
@@ -204,7 +204,7 @@
 		"revision_timestamp": "2015-01-16T18:28:14.593903",
 		"is_organization": true,
 		"state": "active",
-		"image_url": "http:\/\/upload.wikimedia.org\/wikipedia\/en\/thumb\/4\/44\/University_of_Idaho_seal.svg\/300px-University_of_Idaho_seal.svg.png",
+		"image_url": "http://upload.wikimedia.org/wikipedia/en/thumb/4/44/University_of_Idaho_seal.svg/300px-University_of_Idaho_seal.svg.png",
 		"revision_id": "761955d7-9530-4622-8609-d0b01c78e177",
 		"type": "organization",
 		"id": "75e22a8a-da5f-46f3-93d8-924063a3703d",

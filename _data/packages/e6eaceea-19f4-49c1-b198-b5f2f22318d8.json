@@ -36,7 +36,7 @@
 		"cache_url": null,
 		"name": "Zipped Excel file containing Borehole Lithology Log Data for the State of Missouri",
 		"created": "2013-03-16T00:48:50.558344",
-		"url": "http:\/\/repository.stategeothermaldata.org\/metadata\/record\/00570e7187459885e5c18c3a5f498d5d\/file\/mo_yr1_boreholelithintervaltemplate0.9schema_match_rev1_task1456_01302013.zip",
+		"url": "http://repository.stategeothermaldata.org/metadata/record/00570e7187459885e5c18c3a5f498d5d/file/mo_yr1_boreholelithintervaltemplate0.9schema_match_rev1_task1456_01302013.zip",
 		"webstore_url": null,
 		"resource_locator_function": "375",
 		"position": 0,
@@ -65,7 +65,7 @@
 		"cache_url": null,
 		"name": "Service Description",
 		"created": "2013-03-16T00:48:50.558363",
-		"url": "http:\/\/geothermal.isgs.illinois.edu\/ArcGIS\/rest\/services\/aasggeothermal\/MOBoreholeLithIntervals\/MapServer",
+		"url": "http://geothermal.isgs.illinois.edu/ArcGIS/rest/services/aasggeothermal/MOBoreholeLithIntervals/MapServer",
 		"webstore_url": null,
 		"resource_locator_function": "381",
 		"position": 1,
@@ -94,7 +94,7 @@
 		"cache_url": null,
 		"name": "Downloadable File",
 		"created": "2013-03-16T00:48:50.558369",
-		"url": "http:\/\/geothermal.isgs.illinois.edu\/ArcGIS\/services\/aasggeothermal\/MOBoreholeLithIntervals\/MapServer\/WMSServer?request=GetCapabilities&service=WMS",
+		"url": "http://geothermal.isgs.illinois.edu/ArcGIS/services/aasggeothermal/MOBoreholeLithIntervals/MapServer/WMSServer?request=GetCapabilities&service=WMS",
 		"webstore_url": null,
 		"resource_locator_function": "375",
 		"position": 2,
@@ -123,7 +123,7 @@
 		"cache_url": null,
 		"name": "Service Description",
 		"created": "2013-03-16T00:48:50.558374",
-		"url": "http:\/\/geothermal.isgs.illinois.edu\/ArcGIS\/services\/aasggeothermal\/MOBoreholeLithIntervals\/MapServer\/WFSServer?request=GetCapabilities&service=WFS",
+		"url": "http://geothermal.isgs.illinois.edu/ArcGIS/services/aasggeothermal/MOBoreholeLithIntervals/MapServer/WFSServer?request=GetCapabilities&service=WFS",
 		"webstore_url": null,
 		"resource_locator_function": "381",
 		"position": 3,
@@ -156,11 +156,11 @@
 	"name": "missouri-borehole-lithology-intervals",
 	"isopen": false,
 	"url": null,
-	"notes": "This dataset contains borehole lithology interval observations compiled by the Missouri Department of Natural Resources, Division of Geology and Land Survey, and published as a Web feature service for the National Geothermal Data System. Fields in the Borehole Lithology Interval Content Model will become XML elements in interchange documents for WMS simple features provided by a node in the USGIN network. Each feature includes a well name, well type, and top and bottom logged interval as well as Latitude and Longitude spatially referenced to EPSG: 4326 (for interoperability). The data contained in the submitted dataset is available as an Excel Spreadsheet, ESRI service, WMS and WFS service. Link to Borehole Lithology Interval Content Model: http:\/\/stategeothermaldata.org\/data_delivery\/content_models\/lithology_interval_log_feature. ",
+	"notes": "This dataset contains borehole lithology interval observations compiled by the Missouri Department of Natural Resources, Division of Geology and Land Survey, and published as a Web feature service for the National Geothermal Data System. Fields in the Borehole Lithology Interval Content Model will become XML elements in interchange documents for WMS simple features provided by a node in the USGIN network. Each feature includes a well name, well type, and top and bottom logged interval as well as Latitude and Longitude spatially referenced to EPSG: 4326 (for interoperability). The data contained in the submitted dataset is available as an Excel Spreadsheet, ESRI service, WMS and WFS service. Link to Borehole Lithology Interval Content Model: http://stategeothermaldata.org/data_delivery/content_models/lithology_interval_log_feature. ",
 	"license_title": null,
 	"extras": [{
 		"key": "responsible-party",
-		"value": "[{\"name\": \"AZGS\", \"roles\": [\"pointOfContact\"]}]"
+		"value": "[{"name": "AZGS", "roles": ["pointOfContact"]}]"
 	},
 	{
 		"key": "contact-email",
@@ -180,7 +180,7 @@
 	},
 	{
 		"key": "dataset-reference-date",
-		"value": "[{\"type\": \"publication\", \"value\": \"2013-01-30T00:00:00\"}]"
+		"value": "[{"type": "publication", "value": "2013-01-30T00:00:00"}]"
 	},
 	{
 		"key": "resource-type",
@@ -216,7 +216,7 @@
 	},
 	{
 		"key": "spatial",
-		"value": "{\"type\": \"Polygon\", \"coordinates\": [[[-96.0600543022, 36.070174937], [-96.0600543022, 41.2148045944], [-88.8530230522, 41.2148045944], [-88.8530230522, 36.070174937], [-96.0600543022, 36.070174937]]]}"
+		"value": "{"type": "Polygon", "coordinates": [[[-96.0600543022, 36.070174937], [-96.0600543022, 41.2148045944], [-88.8530230522, 41.2148045944], [-88.8530230522, 36.070174937], [-96.0600543022, 36.070174937]]]}"
 	},
 	{
 		"key": "guid",
@@ -266,7 +266,7 @@
 		"revision_timestamp": "2013-03-20T21:11:17.592932",
 		"is_organization": true,
 		"state": "active",
-		"image_url": "http:\/\/www.50states.com\/flag\/image\/nunst004.gif",
+		"image_url": "http://www.50states.com/flag/image/nunst004.gif",
 		"revision_id": "61be6428-4398-4199-a336-f3cd1e956f9b",
 		"type": "organization",
 		"id": "f3f6e1d4-64fb-4a2f-b32c-9ac0b76fe4de",

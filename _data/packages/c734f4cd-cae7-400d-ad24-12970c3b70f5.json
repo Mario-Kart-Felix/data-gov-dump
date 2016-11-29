@@ -37,7 +37,7 @@
 		"cache_url": null,
 		"name": "Text File",
 		"created": "2015-12-20T13:57:01.604819",
-		"url": "ftp:\/\/ftp.ncdc.noaa.gov\/pub\/data\/paleo\/coral\/east_pacific\/clipperton_4b_2000.txt",
+		"url": "ftp://ftp.ncdc.noaa.gov/pub/data/paleo/coral/east_pacific/clipperton_4b_2000.txt",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 0,
@@ -59,7 +59,7 @@
 		"revision_timestamp": "2013-03-25T23:05:12.923863",
 		"is_organization": true,
 		"state": "active",
-		"image_url": "https:\/\/fortress.wa.gov\/dfw\/score\/score\/images\/noaa_logo.png",
+		"image_url": "https://fortress.wa.gov/dfw/score/score/images/noaa_logo.png",
 		"revision_id": "c6d43080-22e1-405e-a83d-f2a512d9e867",
 		"type": "organization",
 		"id": "e811f0b4-451f-4896-9e8f-fc6802837819",
@@ -70,11 +70,11 @@
 	"name": "clipperton-atoll-core-4b-stable-isotope-delta-13c-delta-18o-data-for-1893-to-1994",
 	"isopen": false,
 	"url": null,
-	"notes": "101 year stable isotope record from P. lobata, core 4B, Clipperton Atoll, eastern Pacific. Sampling at annual and 12\/year resolution, files clipperton.4B.iso.txt and clipperton.4B.iso.12yr.txt. 25 year stable isotope record, spanning 1994 to 1970, from cores 3C and 2B, Clipperton Atoll, as shown in Linsley et al 1999. Files clipperton.2B.iso.txt and clipperton.3C.iso.txt.",
+	"notes": "101 year stable isotope record from P. lobata, core 4B, Clipperton Atoll, eastern Pacific. Sampling at annual and 12/year resolution, files clipperton.4B.iso.txt and clipperton.4B.iso.12yr.txt. 25 year stable isotope record, spanning 1994 to 1970, from cores 3C and 2B, Clipperton Atoll, as shown in Linsley et al 1999. Files clipperton.2B.iso.txt and clipperton.3C.iso.txt.",
 	"owner_org": "e811f0b4-451f-4896-9e8f-fc6802837819",
 	"extras": [{
 		"key": "bbox-east-long",
-		"value": "\n          -109.2\n        "
+		"value": "n          -109.2n        "
 	},
 	{
 		"key": "resource-type",
@@ -82,7 +82,7 @@
 	},
 	{
 		"key": "bbox-north-lat",
-		"value": "\n          10.3\n        "
+		"value": "n          10.3n        "
 	},
 	{
 		"key": "coupled-resource",
@@ -98,7 +98,7 @@
 	},
 	{
 		"key": "bbox-south-lat",
-		"value": "\n          10.3\n        "
+		"value": "n          10.3n        "
 	},
 	{
 		"key": "spatial-reference-system",
@@ -106,7 +106,7 @@
 	},
 	{
 		"key": "spatial",
-		"value": "{\"type\": \"Point\", \"coordinates\": [-109.2, 10.3]}"
+		"value": "{"type": "Point", "coordinates": [-109.2, 10.3]}"
 	},
 	{
 		"key": "progress",
@@ -114,7 +114,7 @@
 	},
 	{
 		"key": "access_constraints",
-		"value": "[\"Use Constraints: Please cite original reference when using this data.\", \"Access Constraints: None\"]"
+		"value": "["Use Constraints: Please cite original reference when using this data.", "Access Constraints: None"]"
 	},
 	{
 		"key": "temporal-extent-begin",
@@ -126,7 +126,7 @@
 	},
 	{
 		"key": "bbox-west-long",
-		"value": "\n          -109.2\n        "
+		"value": "n          -109.2n        "
 	},
 	{
 		"key": "metadata-date",
@@ -134,7 +134,7 @@
 	},
 	{
 		"key": "dataset-reference-date",
-		"value": "[{\"type\": \"publication\", \"value\": \"2000-09-01\"}]"
+		"value": "[{"type": "publication", "value": "2000-09-01"}]"
 	},
 	{
 		"key": "frequency-of-update",
@@ -142,7 +142,7 @@
 	},
 	{
 		"key": "licence",
-		"value": "[\"\\n      Disclaimer- While every effort has been made to ensure that these data are accurate and reliable within the limits of the current state of the art, NOAA cannot assume liability for any damages caused by any errors or omissions in the data, nor as a result of the failure of the data to function on a particular system.  NOAA makes no warranty, expressed or implied, nor does the fact of distribution constitute such a warranty.\\n    \"]"
+		"value": "["\n      Disclaimer- While every effort has been made to ensure that these data are accurate and reliable within the limits of the current state of the art, NOAA cannot assume liability for any damages caused by any errors or omissions in the data, nor as a result of the failure of the data to function on a particular system.  NOAA makes no warranty, expressed or implied, nor does the fact of distribution constitute such a warranty.\n    "]"
 	},
 	{
 		"key": "metadata_type",
@@ -150,7 +150,7 @@
 	},
 	{
 		"key": "responsible-party",
-		"value": "[{\"name\": \"NOAA Paleoclimatology Program\", \"roles\": [\"pointOfContact\"]}]"
+		"value": "[{"name": "NOAA Paleoclimatology Program", "roles": ["pointOfContact"]}]"
 	},
 	{
 		"key": "temporal-extent-end",
@@ -166,7 +166,7 @@
 	},
 	{
 		"key": "tags",
-		"value": "coral records, pacific ocean, numeric data sets, clipperton island (10n109w0001), delta 18o, holocene, modern, south pacific ocean, country\/territory, french polynesia, paleoclimate, paleoclimatology, delta 13c, ocean basin, clipperton island, earth science",
+		"value": "coral records, pacific ocean, numeric data sets, clipperton island (10n109w0001), delta 18o, holocene, modern, south pacific ocean, country/territory, french polynesia, paleoclimate, paleoclimatology, delta 13c, ocean basin, clipperton island, earth science",
 		"__extras": {
 			"package_id": "c734f4cd-cae7-400d-ad24-12970c3b70f5",
 			"revision_id": "b11b2d8c-f6b6-4b83-a402-78df2ebee651"

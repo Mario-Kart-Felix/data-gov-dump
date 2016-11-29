@@ -37,7 +37,7 @@
 		"cache_url": null,
 		"name": "Web Feature Service",
 		"created": "2013-03-14T21:26:43.902340",
-		"url": "http:\/\/gis.glin.net\/geoserver\/wfs?request=getfeature&service=wfs&version=1.0.0&typename=glin:lake_erie_nearshore&outputformat=shape-zip",
+		"url": "http://gis.glin.net/geoserver/wfs?request=getfeature&service=wfs&version=1.0.0&typename=glin:lake_erie_nearshore&outputformat=shape-zip",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 0,
@@ -67,7 +67,7 @@
 		"cache_url": null,
 		"name": "Web Feature Service",
 		"created": "2013-03-14T21:26:43.902361",
-		"url": "http:\/\/gis.glin.net\/geoserver\/wfs?request=getfeature&service=wfs&version=1.0.0&typename=glin:lake_erie_nearshore&outputformat=GML2-GZIP",
+		"url": "http://gis.glin.net/geoserver/wfs?request=getfeature&service=wfs&version=1.0.0&typename=glin:lake_erie_nearshore&outputformat=GML2-GZIP",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 1,
@@ -97,7 +97,7 @@
 		"cache_url": null,
 		"name": "Web Mapping Service",
 		"created": "2013-03-14T21:26:43.902369",
-		"url": "http:\/\/gis.glin.net\/geoserver\/wms?bbox=-83.542985,41.366085,-78.852086,42.921359&request=GetMap&layers=glin:lake_erie_nearshore&width=600&height=400&srs=EPSG:4326&styles=poly_gray&format=image\/svg",
+		"url": "http://gis.glin.net/geoserver/wms?bbox=-83.542985,41.366085,-78.852086,42.921359&request=GetMap&layers=glin:lake_erie_nearshore&width=600&height=400&srs=EPSG:4326&styles=poly_gray&format=image/svg",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 2,
@@ -127,7 +127,7 @@
 		"cache_url": null,
 		"name": "Web Mapping Service",
 		"created": "2013-03-14T21:26:43.902377",
-		"url": "http:\/\/gis.glin.net\/geoserver\/wms?bbox=-83.542985,41.366085,-78.852086,42.921359&request=GetMap&layers=glin:lake_erie_nearshore&width=600&height=400&srs=EPSG:4326&styles=poly_gray&format=application\/pdf",
+		"url": "http://gis.glin.net/geoserver/wms?bbox=-83.542985,41.366085,-78.852086,42.921359&request=GetMap&layers=glin:lake_erie_nearshore&width=600&height=400&srs=EPSG:4326&styles=poly_gray&format=application/pdf",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 3,
@@ -157,7 +157,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2013-03-14T21:26:43.902384",
-		"url": "http:\/\/gis.glin.net\/ogc\/services.php#lake_erie_nearshore",
+		"url": "http://gis.glin.net/ogc/services.php#lake_erie_nearshore",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 4,
@@ -181,7 +181,7 @@
 	"license_title": null,
 	"extras": [{
 		"key": "responsible-party",
-		"value": "[{\"name\": \"Natural Resources Research Institute\", \"roles\": [\"pointOfContact\"]}]"
+		"value": "[{"name": "Natural Resources Research Institute", "roles": ["pointOfContact"]}]"
 	},
 	{
 		"key": "contact-email",
@@ -201,7 +201,7 @@
 	},
 	{
 		"key": "dataset-reference-date",
-		"value": "[{\"type\": \"publication\", \"value\": \"9999-01-01\"}]"
+		"value": "[{"type": "publication", "value": "9999-01-01"}]"
 	},
 	{
 		"key": "resource-type",
@@ -229,7 +229,7 @@
 	},
 	{
 		"key": "licence",
-		"value": "[\"Disclaimer. The Great Lakes Commission (GLC) and the Great Lakes Information Network (GLIN) cannot assume liability for any damages caused by any errors or omissions in the data, nor as a result of the failure of the data to function on a particular system. The Great Lakes Commission (GLC) and the Great Lakes Information Network (GLIN) make no warranty, expressed or implied, nor does the fact of distribution constitute such a warranty.\"]"
+		"value": "["Disclaimer. The Great Lakes Commission (GLC) and the Great Lakes Information Network (GLIN) cannot assume liability for any damages caused by any errors or omissions in the data, nor as a result of the failure of the data to function on a particular system. The Great Lakes Commission (GLC) and the Great Lakes Information Network (GLIN) make no warranty, expressed or implied, nor does the fact of distribution constitute such a warranty."]"
 	},
 	{
 		"key": "metadata_type",
@@ -237,7 +237,7 @@
 	},
 	{
 		"key": "spatial",
-		"value": "{\"type\": \"Polygon\", \"coordinates\": [[[-83.542985, 41.366085], [-83.542985, 42.921359], [-78.852086, 42.921359], [-78.852086, 41.366085], [-83.542985, 41.366085]]]}"
+		"value": "{"type": "Polygon", "coordinates": [[[-83.542985, 41.366085], [-83.542985, 42.921359], [-78.852086, 42.921359], [-78.852086, 41.366085], [-83.542985, 41.366085]]]}"
 	},
 	{
 		"key": "guid",
@@ -249,11 +249,11 @@
 	},
 	{
 		"key": "access_constraints",
-		"value": "[\"Use Constraints: None. Acknowledgement to LEMN www.lemn.org\", \"Access Constraints: None\"]"
+		"value": "["Use Constraints: None. Acknowledgement to LEMN www.lemn.org", "Access Constraints: None"]"
 	},
 	{
 		"key": "graphic-preview-file",
-		"value": "http:\/\/gis.glin.net\/geoserver\/wms?bbox=-83.542985,41.366085,-78.852086,42.921359&request=GetMap&layers=glin:lake_erie_nearshore&width=600&height=400&srs=EPSG:4326&styles=poly_gray&format=image\/png"
+		"value": "http://gis.glin.net/geoserver/wms?bbox=-83.542985,41.366085,-78.852086,42.921359&request=GetMap&layers=glin:lake_erie_nearshore&width=600&height=400&srs=EPSG:4326&styles=poly_gray&format=image/png"
 	},
 	{
 		"key": "frequency-of-update",
@@ -291,7 +291,7 @@
 		"revision_timestamp": "2015-01-16T18:08:30.443285",
 		"is_organization": true,
 		"state": "active",
-		"image_url": "http:\/\/indianarealpropertylaw.com\/wp-content\/uploads\/2013\/07\/Great-Lakes-Commission.jpg",
+		"image_url": "http://indianarealpropertylaw.com/wp-content/uploads/2013/07/Great-Lakes-Commission.jpg",
 		"revision_id": "b1642f30-a698-46dd-ad02-061968095af6",
 		"type": "organization",
 		"id": "6f701557-5979-4d24-9171-73111c57faec",

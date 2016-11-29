@@ -37,7 +37,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2015-09-26T16:36:32.535470",
-		"url": "http:\/\/www.cpc.ncep.noaa.gov\/products\/predictions\/long_range\/ecca.php",
+		"url": "http://www.cpc.ncep.noaa.gov/products/predictions/long_range/ecca.php",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 0,
@@ -67,7 +67,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2015-09-26T16:36:32.535495",
-		"url": "http:\/\/www.cpc.ncep.noaa.gov\/products\/predictions\/long_range\/ecca.php",
+		"url": "http://www.cpc.ncep.noaa.gov/products/predictions/long_range/ecca.php",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 1,
@@ -87,7 +87,7 @@
 	"name": "climate-prediction-centercpcensemble-canonical-correlation-analysis-forecast-of-temperature",
 	"isopen": false,
 	"url": null,
-	"notes": "The Ensemble Canonical Correlation Analysis (ECCA) temperature forecast is a 90-day (seasonal) outlook of US surface temperature anomalies. The ECCA uses Canonical Correlation Analysis (CCA), an empirical statistical method that finds patterns of predictors (variables used to make the prediction) and predictands (variables to be predicted) that maximize the correlation between them. The most recent available predictor data for different atmospheric\/oceanic variables are projected onto the loading patterns to create forecasts. The ensemble refers to forecasts produced by using each predictor separately to create a forecast. The final forecast is an equally weighted average of the ensemble of forecasts. The model is trained from 1953 to the year before the present year to create the loading patterns. The available forecasts are rotated, meaning that only the most recently created forecasts are available. Previously made forecasts are not archived. For each produced forecast, 13 different leads (0.5 months with increment of 1 month) for subsequent leads of forecasts are created (each with a different valid date).",
+	"notes": "The Ensemble Canonical Correlation Analysis (ECCA) temperature forecast is a 90-day (seasonal) outlook of US surface temperature anomalies. The ECCA uses Canonical Correlation Analysis (CCA), an empirical statistical method that finds patterns of predictors (variables used to make the prediction) and predictands (variables to be predicted) that maximize the correlation between them. The most recent available predictor data for different atmospheric/oceanic variables are projected onto the loading patterns to create forecasts. The ensemble refers to forecasts produced by using each predictor separately to create a forecast. The final forecast is an equally weighted average of the ensemble of forecasts. The model is trained from 1953 to the year before the present year to create the loading patterns. The available forecasts are rotated, meaning that only the most recently created forecasts are available. Previously made forecasts are not archived. For each produced forecast, 13 different leads (0.5 months with increment of 1 month) for subsequent leads of forecasts are created (each with a different valid date).",
 	"license_title": null,
 	"extras": [{
 		"key": "bbox-east-long",
@@ -115,7 +115,7 @@
 	},
 	{
 		"key": "graphic-preview-file",
-		"value": "http:\/\/www.cpc.ncep.noaa.gov\/products\/predictions\/long_range\/lead01\/eccat.01.gif"
+		"value": "http://www.cpc.ncep.noaa.gov/products/predictions/long_range/lead01/eccat.01.gif"
 	},
 	{
 		"key": "metadata-language",
@@ -131,7 +131,7 @@
 	},
 	{
 		"key": "spatial",
-		"value": "{\"type\": \"Polygon\", \"coordinates\": [[[-125.0, 25.0], [-65.0, 25.0], [-65.0, 50.0], [-125.0, 50.0], [-125.0, 25.0]]]}"
+		"value": "{"type": "Polygon", "coordinates": [[[-125.0, 25.0], [-65.0, 25.0], [-65.0, 50.0], [-125.0, 50.0], [-125.0, 25.0]]]}"
 	},
 	{
 		"key": "progress",
@@ -139,7 +139,7 @@
 	},
 	{
 		"key": "access_constraints",
-		"value": "[\"Access Constraints: None Use Constraints: Acknowledgment of the Data Originator when using the data item as a source. Distribution Liability: The user assumes the entire risk related to its use of this data. NWS is providing this data as is,and NWS disclaims any and all warranties, whether express or implied, including (without limitation) any implied warranties of merchantability or fitness for a particular purpose. In no event will NWS be liable to you or to any third party for any direct, indirect, incidental, consequential, special or exemplary damages or lost profit resulting from any use or misuse of this data. As required by 17 U.S.C. 403, third parties producing copyrighted works consisting predominantly of the material appearing in NWS Web pages must provide notice with such work(s) identifying the NWS material incorporated and stating that such material is not subject to copyright protection. Refer the NOAA National Weather Service disclaimer; http:\/\/www.weather.gov\/disclaimer.php\"]"
+		"value": "["Access Constraints: None Use Constraints: Acknowledgment of the Data Originator when using the data item as a source. Distribution Liability: The user assumes the entire risk related to its use of this data. NWS is providing this data as is,and NWS disclaims any and all warranties, whether express or implied, including (without limitation) any implied warranties of merchantability or fitness for a particular purpose. In no event will NWS be liable to you or to any third party for any direct, indirect, incidental, consequential, special or exemplary damages or lost profit resulting from any use or misuse of this data. As required by 17 U.S.C. 403, third parties producing copyrighted works consisting predominantly of the material appearing in NWS Web pages must provide notice with such work(s) identifying the NWS material incorporated and stating that such material is not subject to copyright protection. Refer the NOAA National Weather Service disclaimer; http://www.weather.gov/disclaimer.php"]"
 	},
 	{
 		"key": "temporal-extent-begin",
@@ -159,7 +159,7 @@
 	},
 	{
 		"key": "dataset-reference-date",
-		"value": "[{\"type\": \"publication\", \"value\": \"2003-01-01\"}]"
+		"value": "[{"type": "publication", "value": "2003-01-01"}]"
 	},
 	{
 		"key": "graphic-preview-description",
@@ -179,7 +179,7 @@
 	},
 	{
 		"key": "responsible-party",
-		"value": "[{\"name\": \"Climate Prediction Center, NOAA\", \"roles\": [\"pointOfContact\"]}]"
+		"value": "[{"name": "Climate Prediction Center, NOAA", "roles": ["pointOfContact"]}]"
 	},
 	{
 		"key": "temporal-extent-end",
@@ -225,7 +225,7 @@
 		"revision_timestamp": "2013-03-25T23:05:12.923863",
 		"is_organization": true,
 		"state": "active",
-		"image_url": "https:\/\/fortress.wa.gov\/dfw\/score\/score\/images\/noaa_logo.png",
+		"image_url": "https://fortress.wa.gov/dfw/score/score/images/noaa_logo.png",
 		"revision_id": "c6d43080-22e1-405e-a83d-f2a512d9e867",
 		"type": "organization",
 		"id": "e811f0b4-451f-4896-9e8f-fc6802837819",

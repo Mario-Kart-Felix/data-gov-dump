@@ -37,7 +37,7 @@
 		"cache_url": null,
 		"name": "Zip File",
 		"created": "2016-07-15T21:34:39.208578",
-		"url": "ftp:\/\/www.co.kootenai.id.us\/GISData\/Gov_Units\/complan.zip",
+		"url": "ftp://www.co.kootenai.id.us/GISData/Gov_Units/complan.zip",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 0,
@@ -67,7 +67,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2016-07-15T21:34:39.208608",
-		"url": "ftp:\/\/www.co.kootenai.id.us\/GISData\/Metadata\/complan.htm",
+		"url": "ftp://www.co.kootenai.id.us/GISData/Metadata/complan.htm",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 1,
@@ -89,7 +89,7 @@
 		"revision_timestamp": "2015-01-16T18:28:14.593903",
 		"is_organization": true,
 		"state": "active",
-		"image_url": "http:\/\/upload.wikimedia.org\/wikipedia\/en\/thumb\/4\/44\/University_of_Idaho_seal.svg\/300px-University_of_Idaho_seal.svg.png",
+		"image_url": "http://upload.wikimedia.org/wikipedia/en/thumb/4/44/University_of_Idaho_seal.svg/300px-University_of_Idaho_seal.svg.png",
 		"revision_id": "761955d7-9530-4622-8609-d0b01c78e177",
 		"type": "organization",
 		"id": "75e22a8a-da5f-46f3-93d8-924063a3703d",
@@ -100,11 +100,11 @@
 	"name": "kootenai-county-comprehensive-plan",
 	"isopen": false,
 	"url": null,
-	"notes": "This theme depicts the Comprehensive Plan designations for Kootenai County as it existed in March of 1999. For more information regarding updated Comprehensive Plan information, see the Comprehensive Plan section of the Kootenai County website at http:\/\/www.co.kootenai.id.us\/departments\/planning\/comprehensiveplan.asp.",
+	"notes": "This theme depicts the Comprehensive Plan designations for Kootenai County as it existed in March of 1999. For more information regarding updated Comprehensive Plan information, see the Comprehensive Plan section of the Kootenai County website at http://www.co.kootenai.id.us/departments/planning/comprehensiveplan.asp.",
 	"owner_org": "75e22a8a-da5f-46f3-93d8-924063a3703d",
 	"extras": [{
 		"key": "responsible-party",
-		"value": "[{\"name\": \"Kootenai County GIS\", \"roles\": [\"pointOfContact\"]}]"
+		"value": "[{"name": "Kootenai County GIS", "roles": ["pointOfContact"]}]"
 	},
 	{
 		"key": "contact-email",
@@ -124,7 +124,7 @@
 	},
 	{
 		"key": "dataset-reference-date",
-		"value": "[{\"type\": \"publication\", \"value\": \"1999-01-01\"}]"
+		"value": "[{"type": "publication", "value": "1999-01-01"}]"
 	},
 	{
 		"key": "resource-type",
@@ -152,7 +152,7 @@
 	},
 	{
 		"key": "licence",
-		"value": "[\"Public Data - None\"]"
+		"value": "["Public Data - None"]"
 	},
 	{
 		"key": "metadata_type",
@@ -164,7 +164,7 @@
 	},
 	{
 		"key": "spatial",
-		"value": "{\"type\": \"Polygon\", \"coordinates\": [[[-117.055306, 47.333296], [-116.320321, 47.333296], [-116.320321, 47.993456], [-117.055306, 47.993456], [-117.055306, 47.333296]]]}"
+		"value": "{"type": "Polygon", "coordinates": [[[-117.055306, 47.333296], [-116.320321, 47.333296], [-116.320321, 47.993456], [-117.055306, 47.993456], [-117.055306, 47.333296]]]}"
 	},
 	{
 		"key": "guid",
@@ -176,7 +176,7 @@
 	},
 	{
 		"key": "access_constraints",
-		"value": "[\"Use Constraints: Public data, no restrictions on use. Data is offered \\\"as is\\\", for reference purposes only, and Kootenai County is not responsible for inaccuracies or misuse of the data. This data is not the official Comprehensive Plan map for Kootenai County. Users should verify designations with the Kootenai County Planning Department.\", \"Access Constraints: Public data, no restrictions on access.\"]"
+		"value": "["Use Constraints: Public data, no restrictions on use. Data is offered \"as is\", for reference purposes only, and Kootenai County is not responsible for inaccuracies or misuse of the data. This data is not the official Comprehensive Plan map for Kootenai County. Users should verify designations with the Kootenai County Planning Department.", "Access Constraints: Public data, no restrictions on access."]"
 	},
 	{
 		"key": "spatial_harvester",

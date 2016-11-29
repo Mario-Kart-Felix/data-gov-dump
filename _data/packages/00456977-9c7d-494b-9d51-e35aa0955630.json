@@ -36,7 +36,7 @@
 		"cache_url": null,
 		"name": "shapefile",
 		"created": "2016-06-22T04:30:21.445237",
-		"url": "http:\/\/pubs.usgs.gov\/sir\/2010\/5090\/s\/PotashGIS.zip",
+		"url": "http://pubs.usgs.gov/sir/2010/5090/s/PotashGIS.zip",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 0,
@@ -65,7 +65,7 @@
 		"cache_url": null,
 		"name": "WMS",
 		"created": "2016-06-22T04:30:21.445279",
-		"url": "http:\/\/mrdata.usgs.gov\/services\/potash?request=GetCapabilities&service=WMS&version=1.1.1",
+		"url": "http://mrdata.usgs.gov/services/potash?request=GetCapabilities&service=WMS&version=1.1.1",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 1,
@@ -94,7 +94,7 @@
 		"cache_url": null,
 		"name": "WFS",
 		"created": "2016-06-22T04:30:21.445291",
-		"url": "http:\/\/mrdata.usgs.gov\/wfs\/potash?request=GetCapabilities&service=WFS&version=1.0.0",
+		"url": "http://mrdata.usgs.gov/wfs/potash?request=GetCapabilities&service=WFS&version=1.0.0",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 2,
@@ -124,7 +124,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2016-06-22T04:30:21.445299",
-		"url": "http:\/\/mrdata.usgs.gov\/potash\/",
+		"url": "http://mrdata.usgs.gov/potash/",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 3,
@@ -154,7 +154,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2016-06-22T04:30:21.445306",
-		"url": "http:\/\/dx.doi.org\/10.3133\/sir20105090S",
+		"url": "http://dx.doi.org/10.3133/sir20105090S",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 4,
@@ -184,7 +184,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2016-06-22T04:30:21.445314",
-		"url": "http:\/\/pubs.er.usgs.gov\/publication\/sir20105090S",
+		"url": "http://pubs.er.usgs.gov/publication/sir20105090S",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 5,
@@ -214,7 +214,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2016-06-22T04:30:21.445321",
-		"url": "http:\/\/pubs.usgs.gov\/sir\/2010\/5090\/s\/",
+		"url": "http://pubs.usgs.gov/sir/2010/5090/s/",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 6,
@@ -262,7 +262,7 @@
 	},
 	{
 		"key": "graphic-preview-file",
-		"value": "http:\/\/mrdata.usgs.gov\/potash\/sir-2010-5090-s.png"
+		"value": "http://mrdata.usgs.gov/potash/sir-2010-5090-s.png"
 	},
 	{
 		"key": "bbox-south-lat",
@@ -278,7 +278,7 @@
 	},
 	{
 		"key": "spatial",
-		"value": "{\"type\": \"Polygon\", \"coordinates\": [[[-120.6833, -38.271373], [145.6056, -38.271373], [145.6056, 61.8185], [-120.6833, 61.8185], [-120.6833, -38.271373]]]}"
+		"value": "{"type": "Polygon", "coordinates": [[[-120.6833, -38.271373], [145.6056, -38.271373], [145.6056, 61.8185], [-120.6833, 61.8185], [-120.6833, -38.271373]]]}"
 	},
 	{
 		"key": "progress",
@@ -286,7 +286,7 @@
 	},
 	{
 		"key": "access_constraints",
-		"value": "[\"Use Constraints: There are no use limitations for this item. The U.S. Geological Survey (USGS) provides these geographic data \\\"as is.\\\" The USGS makes no guarantee or warranty concerning the accuracy of information contained in the geographic data. The USGS further makes no warranties, either expressed or implied as to any other matter whatsoever, including, without limitation, the condition of the product, or its fitness for any particular purpose. The burden for determining fitness for use lies entirely with the user. Although these data have been processed successfully on computers of the USGS, no warranty, expressed or implied, is made by the USGS regarding the use of these data on any other system, nor does the fact of distribution constitute or imply such warranty. Locations for deposits and occurrences were derived from a variety of source maps, the smallest scale of which was about 1:1,000,000; thus, these data should not be used or portrayed at scales larger than 1:1,000,000 (for example, 1:500,000).\", \"Access Constraints: None\"]"
+		"value": "["Use Constraints: There are no use limitations for this item. The U.S. Geological Survey (USGS) provides these geographic data \"as is.\" The USGS makes no guarantee or warranty concerning the accuracy of information contained in the geographic data. The USGS further makes no warranties, either expressed or implied as to any other matter whatsoever, including, without limitation, the condition of the product, or its fitness for any particular purpose. The burden for determining fitness for use lies entirely with the user. Although these data have been processed successfully on computers of the USGS, no warranty, expressed or implied, is made by the USGS regarding the use of these data on any other system, nor does the fact of distribution constitute or imply such warranty. Locations for deposits and occurrences were derived from a variety of source maps, the smallest scale of which was about 1:1,000,000; thus, these data should not be used or portrayed at scales larger than 1:1,000,000 (for example, 1:500,000).", "Access Constraints: None"]"
 	},
 	{
 		"key": "contact-email",
@@ -302,7 +302,7 @@
 	},
 	{
 		"key": "dataset-reference-date",
-		"value": "[{\"type\": \"publication\", \"value\": \"2014-01-01\"}]"
+		"value": "[{"type": "publication", "value": "2014-01-01"}]"
 	},
 	{
 		"key": "graphic-preview-description",
@@ -314,7 +314,7 @@
 	},
 	{
 		"key": "licence",
-		"value": "[\"The U.S. Geological Survey (USGS) provides these geographic data \\\"as is.\\\" The USGS makes no guarantee or warranty concerning the accuracy of information contained in the geographic data. The USGS further makes no warranties, either expressed or implied as to any other matter whatsoever, including, without limitation, the condition of the product, or its fitness for any particular purpose. The burden for determining fitness for use lies entirely with the user. Although these data have been processed successfully on computers of the USGS, no warranty, expressed or implied, is made by the USGS regarding the use of these data on any other system, nor does the fact of distribution constitute or imply such warranty. Locations for deposits and occurrences were derived from a variety of source maps, the smallest scale of which was about 1:1,000,000; thus, these data should not be used or portrayed at scales larger than 1:1,000,000 (for example, 1:500,000).\"]"
+		"value": "["The U.S. Geological Survey (USGS) provides these geographic data \"as is.\" The USGS makes no guarantee or warranty concerning the accuracy of information contained in the geographic data. The USGS further makes no warranties, either expressed or implied as to any other matter whatsoever, including, without limitation, the condition of the product, or its fitness for any particular purpose. The burden for determining fitness for use lies entirely with the user. Although these data have been processed successfully on computers of the USGS, no warranty, expressed or implied, is made by the USGS regarding the use of these data on any other system, nor does the fact of distribution constitute or imply such warranty. Locations for deposits and occurrences were derived from a variety of source maps, the smallest scale of which was about 1:1,000,000; thus, these data should not be used or portrayed at scales larger than 1:1,000,000 (for example, 1:500,000)."]"
 	},
 	{
 		"key": "metadata_type",
@@ -322,7 +322,7 @@
 	},
 	{
 		"key": "responsible-party",
-		"value": "[{\"name\": \"U.S. Geological Survey\", \"roles\": [\"pointOfContact\"]}]"
+		"value": "[{"name": "U.S. Geological Survey", "roles": ["pointOfContact"]}]"
 	},
 	{
 		"key": "spatial-data-service-type",
@@ -357,14 +357,14 @@
 		"value": "Mineral Resources Online Spatial Data"
 	}],
 	"organization": {
-		"description": "http:\/\/www.usgs.gov\/\r\nThe USGS is a federal science agency that provides impartial information on the health of our ecosystems and environment, the natural hazards that threaten us, the natural resources we rely on, the impacts of climate and land-use change, and the core science systems that help us provide timely, relevant, and useable information.",
+		"description": "http://www.usgs.gov/rnThe USGS is a federal science agency that provides impartial information on the health of our ecosystems and environment, the natural hazards that threaten us, the natural resources we rely on, the impacts of climate and land-use change, and the core science systems that help us provide timely, relevant, and useable information.",
 		"created": "2013-03-14T03:44:38.263357",
 		"title": "U.S. Geological Survey, Department of the Interior",
 		"name": "usgs-gov",
 		"revision_timestamp": "2014-09-02T13:43:52.167023",
 		"is_organization": true,
 		"state": "active",
-		"image_url": "http:\/\/pubs.usgs.gov\/sir\/2004\/5296\/04-5296_confluence_park\/usgs_logo.gif",
+		"image_url": "http://pubs.usgs.gov/sir/2004/5296/04-5296_confluence_park/usgs_logo.gif",
 		"revision_id": "2858aa99-9501-4f96-82e5-9647b968ed66",
 		"type": "organization",
 		"id": "bd2cdd5a-4d65-46c0-9937-c8381175f104",

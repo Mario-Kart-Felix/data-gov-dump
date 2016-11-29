@@ -36,7 +36,7 @@
 		"cache_url": null,
 		"name": "Service Description",
 		"created": "2013-03-16T00:56:21.279494",
-		"url": "http:\/\/kgs.uky.edu\/arcgis\/rest\/services\/aasggeothermal\/ALaqWellChemistry\/MapServer",
+		"url": "http://kgs.uky.edu/arcgis/rest/services/aasggeothermal/ALaqWellChemistry/MapServer",
 		"webstore_url": null,
 		"resource_locator_function": "381",
 		"position": 0,
@@ -65,7 +65,7 @@
 		"cache_url": null,
 		"name": "Service Description",
 		"created": "2013-03-16T00:56:21.279516",
-		"url": "http:\/\/kgs.uky.edu\/arcgis\/services\/aasggeothermal\/ALaqWellChemistry\/MapServer\/WMSServer?request=GetCapabilities&service=WMS",
+		"url": "http://kgs.uky.edu/arcgis/services/aasggeothermal/ALaqWellChemistry/MapServer/WMSServer?request=GetCapabilities&service=WMS",
 		"webstore_url": null,
 		"resource_locator_function": "381",
 		"position": 1,
@@ -94,7 +94,7 @@
 		"cache_url": null,
 		"name": "Service Description",
 		"created": "2013-03-16T00:56:21.279524",
-		"url": "http:\/\/kgs.uky.edu\/arcgis\/services\/aasggeothermal\/ALaqWellChemistry\/MapServer\/WFSServer?request=GetCapabilities&service=WFS",
+		"url": "http://kgs.uky.edu/arcgis/services/aasggeothermal/ALaqWellChemistry/MapServer/WFSServer?request=GetCapabilities&service=WFS",
 		"webstore_url": null,
 		"resource_locator_function": "381",
 		"position": 2,
@@ -123,7 +123,7 @@
 		"cache_url": null,
 		"name": "Alabama Aqueous Well Chemistry data, Water Isotopes and Free Gas",
 		"created": "2013-03-16T00:56:21.279531",
-		"url": "http:\/\/repository.stategeothermaldata.org\/metadata\/record\/c1065404d8b9831acb74d625bc099a6d\/file\/al-well_aqueouschemistrytemplate1.9.1.xls",
+		"url": "http://repository.stategeothermaldata.org/metadata/record/c1065404d8b9831acb74d625bc099a6d/file/al-well_aqueouschemistrytemplate1.9.1.xls",
 		"webstore_url": null,
 		"resource_locator_function": "375",
 		"position": 3,
@@ -152,7 +152,7 @@
 		"cache_url": null,
 		"name": "Alabama Aqueous Well Chemistry data, Common Analytes and Water Quality",
 		"created": "2013-03-16T00:56:21.279538",
-		"url": "http:\/\/repository.stategeothermaldata.org\/metadata\/record\/c1065404d8b9831acb74d625bc099a6d\/file\/al-well_aqueouschemistrytemplate1.9.1.xls",
+		"url": "http://repository.stategeothermaldata.org/metadata/record/c1065404d8b9831acb74d625bc099a6d/file/al-well_aqueouschemistrytemplate1.9.1.xls",
 		"webstore_url": null,
 		"resource_locator_function": "375",
 		"position": 4,
@@ -185,7 +185,7 @@
 	"name": "alabama-aqueous-well-chemistry",
 	"isopen": true,
 	"url": null,
-	"notes": "These data contains aqueous well chemistry information compiled by the Geological Survey of Alabama, and published as a Web feature service for the National Geothermal Data System. Fields in the Aqueous Chemistry Content Model will become XML elements in interchange documents for WMS simple features provided by a node in the USGIN network.  Each chemistry analysis includes a fluid temperature, source\/citation, latitude and longitude referenced to EPSG:4326 (for interoperability).  The data contained in the submitted dataset(s) are available as Excel Spreadsheets, ESRI service, WMS and WFS services.For more information see links provided. ",
+	"notes": "These data contains aqueous well chemistry information compiled by the Geological Survey of Alabama, and published as a Web feature service for the National Geothermal Data System. Fields in the Aqueous Chemistry Content Model will become XML elements in interchange documents for WMS simple features provided by a node in the USGIN network.  Each chemistry analysis includes a fluid temperature, source/citation, latitude and longitude referenced to EPSG:4326 (for interoperability).  The data contained in the submitted dataset(s) are available as Excel Spreadsheets, ESRI service, WMS and WFS services.For more information see links provided. ",
 	"license_title": "Creative Commons Attribution",
 	"extras": [{
 		"key": "bbox-east-long",
@@ -221,7 +221,7 @@
 	},
 	{
 		"key": "spatial",
-		"value": "{\"type\": \"Polygon\", \"coordinates\": [[[-88.5498, 30.025], [-88.5498, 35.0602], [-84.7266, 35.0602], [-84.7266, 30.025], [-88.5498, 30.025]]]}"
+		"value": "{"type": "Polygon", "coordinates": [[[-88.5498, 30.025], [-88.5498, 35.0602], [-84.7266, 35.0602], [-84.7266, 30.025], [-88.5498, 30.025]]]}"
 	},
 	{
 		"key": "access_constraints",
@@ -241,7 +241,7 @@
 	},
 	{
 		"key": "dataset-reference-date",
-		"value": "[{\"type\": \"publication\", \"value\": \"2012-07-06T12:00:00\"}]"
+		"value": "[{"type": "publication", "value": "2012-07-06T12:00:00"}]"
 	},
 	{
 		"key": "harvest_source_title",
@@ -265,7 +265,7 @@
 	},
 	{
 		"key": "responsible-party",
-		"value": "[{\"name\": \"Arizona Geological Survey\", \"roles\": [\"pointOfContact\"]}]"
+		"value": "[{"name": "Arizona Geological Survey", "roles": ["pointOfContact"]}]"
 	},
 	{
 		"key": "spatial-data-service-type",
@@ -299,7 +299,7 @@
 		"key": "harvest_source_title",
 		"value": "AASG geothermal data CSW"
 	}],
-	"license_url": "http:\/\/www.opendefinition.org\/licenses\/cc-by",
+	"license_url": "http://www.opendefinition.org/licenses/cc-by",
 	"organization": {
 		"description": "The Arizona Geological Survey collates and serves geological information for Arizona and other states through its partnership with other state geological surveys.",
 		"created": "2013-03-14T03:44:43.328493",
@@ -308,7 +308,7 @@
 		"revision_timestamp": "2013-03-20T21:11:17.592932",
 		"is_organization": true,
 		"state": "active",
-		"image_url": "http:\/\/www.50states.com\/flag\/image\/nunst004.gif",
+		"image_url": "http://www.50states.com/flag/image/nunst004.gif",
 		"revision_id": "61be6428-4398-4199-a336-f3cd1e956f9b",
 		"type": "organization",
 		"id": "f3f6e1d4-64fb-4a2f-b32c-9ac0b76fe4de",

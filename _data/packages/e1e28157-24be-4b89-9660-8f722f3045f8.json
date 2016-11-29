@@ -37,7 +37,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2015-09-26T22:27:42.386976",
-		"url": "http:\/\/coast.noaa.gov",
+		"url": "http://coast.noaa.gov",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 0,
@@ -67,7 +67,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2015-09-26T22:27:42.386999",
-		"url": "http:\/\/coast.noaa.gov",
+		"url": "http://coast.noaa.gov",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 1,
@@ -97,7 +97,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2015-09-26T22:27:42.387008",
-		"url": "http:\/\/coast.noaa.gov",
+		"url": "http://coast.noaa.gov",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 2,
@@ -119,7 +119,7 @@
 		"revision_timestamp": "2013-03-25T23:05:12.923863",
 		"is_organization": true,
 		"state": "active",
-		"image_url": "https:\/\/fortress.wa.gov\/dfw\/score\/score\/images\/noaa_logo.png",
+		"image_url": "https://fortress.wa.gov/dfw/score/score/images/noaa_logo.png",
 		"revision_id": "c6d43080-22e1-405e-a83d-f2a512d9e867",
 		"type": "organization",
 		"id": "e811f0b4-451f-4896-9e8f-fc6802837819",
@@ -158,7 +158,7 @@
 	},
 	{
 		"key": "graphic-preview-file",
-		"value": "ftp:\/\/ftp.csc.noaa.gov\/pub\/crs\/beachmap\/qa_docs\/ga\/2012_gadnr_PS_lidar\/2012_PS_Georgia_LiDAR_Footprints.kmz"
+		"value": "ftp://ftp.csc.noaa.gov/pub/crs/beachmap/qa_docs/ga/2012_gadnr_PS_lidar/2012_PS_Georgia_LiDAR_Footprints.kmz"
 	},
 	{
 		"key": "metadata-language",
@@ -174,7 +174,7 @@
 	},
 	{
 		"key": "spatial",
-		"value": "{\"type\": \"Polygon\", \"coordinates\": [[[-85.215673, 32.854996], [-83.90863, 32.854996], [-83.90863, 34.576794], [-85.215673, 34.576794], [-85.215673, 32.854996]]]}"
+		"value": "{"type": "Polygon", "coordinates": [[[-85.215673, 32.854996], [-83.90863, 32.854996], [-83.90863, 34.576794], [-85.215673, 34.576794], [-85.215673, 32.854996]]]}"
 	},
 	{
 		"key": "progress",
@@ -202,7 +202,7 @@
 	},
 	{
 		"key": "dataset-reference-date",
-		"value": "[{\"type\": \"publication\", \"value\": \"2012-04-09\"}]"
+		"value": "[{"type": "publication", "value": "2012-04-09"}]"
 	},
 	{
 		"key": "graphic-preview-description",
@@ -214,7 +214,7 @@
 	},
 	{
 		"key": "licence",
-		"value": "[\"These data depict the elevations at the time of the survey and are only accurate for that time. Users should be aware that\\n            temporal changes may have occurred since this data set was collected and some parts of this data may no longer represent actual surface\\n            conditions. Users should not use this data for critical applications without a full awareness of its limitations. Any conclusions drawn\\n            from analysis of this information are not the responsibility of NOAA or any of its partners. These data are NOT to be used for navigational purposes.\"]"
+		"value": "["These data depict the elevations at the time of the survey and are only accurate for that time. Users should be aware that\n            temporal changes may have occurred since this data set was collected and some parts of this data may no longer represent actual surface\n            conditions. Users should not use this data for critical applications without a full awareness of its limitations. Any conclusions drawn\n            from analysis of this information are not the responsibility of NOAA or any of its partners. These data are NOT to be used for navigational purposes."]"
 	},
 	{
 		"key": "metadata_type",
@@ -222,7 +222,7 @@
 	},
 	{
 		"key": "responsible-party",
-		"value": "[{\"name\": \"DOC\/NOAA\/NOS\/OCM > Office for Coastal Management, National Ocean Service, National Oceanic and Atmospheric Administration, U.S. Department of Commerce\", \"roles\": [\"pointOfContact\"]}]"
+		"value": "[{"name": "DOC/NOAA/NOS/OCM > Office for Coastal Management, National Ocean Service, National Oceanic and Atmospheric Administration, U.S. Department of Commerce", "roles": ["pointOfContact"]}]"
 	},
 	{
 		"key": "temporal-extent-end",
@@ -238,7 +238,7 @@
 	},
 	{
 		"key": "tags",
-		"value": "georgia, elevation, remote sensing, us, lidar, troup county, pickens county, rockdale county, topography\/bathymetry, model, las",
+		"value": "georgia, elevation, remote sensing, us, lidar, troup county, pickens county, rockdale county, topography/bathymetry, model, las",
 		"__extras": {
 			"revision_id": "4c7a337f-852d-4655-8983-96bdcba11cef",
 			"package_id": "e1e28157-24be-4b89-9660-8f722f3045f8"

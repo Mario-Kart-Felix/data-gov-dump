@@ -25,7 +25,7 @@
 		"last_modified": null,
 		"hash": "",
 		"description": "",
-		"format": "tgrshp\n              (compressed)",
+		"format": "tgrshpn              (compressed)",
 		"tracking_summary": {
 			"total": 8,
 			"recent": 1
@@ -37,7 +37,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2014-12-05T12:48:41.483730",
-		"url": "http:\/\/www2.census.gov\/geo\/tiger\/TIGER2013\/SLDL",
+		"url": "http://www2.census.gov/geo/tiger/TIGER2013/SLDL",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 0,
@@ -46,7 +46,7 @@
 	}],
 	"num_resources": 1,
 	"tags": [],
-	"title": "TIGER\/Line Shapefile, 2013, Series Information File for the Current State Legislative District (SLD) Lower Chamber State-based Shapefile",
+	"title": "TIGER/Line Shapefile, 2013, Series Information File for the Current State Legislative District (SLD) Lower Chamber State-based Shapefile",
 	"tracking_summary": {
 		"total": 108,
 		"recent": 1
@@ -70,7 +70,7 @@
 	"name": "tiger-line-shapefile-2013-series-information-file-for-the-current-state-legislative-district-sl",
 	"isopen": false,
 	"url": null,
-	"notes": "The TIGER\/Line shapefiles\n          and related database files (.dbf) are an extract of selected geographic and cartographic\n          information from the U.S. Census Bureau's Master Address File \/ Topologically Integrated\n          Geographic Encoding and Referencing (MAF\/TIGER) Database (MTDB). The MTDB represents a\n          seamless national file with no overlaps or gaps between parts, however, each TIGER\/Line\n          shapefile is designed to stand alone as an independent data set, or they can be combined\n          to cover the entire nation. State Legislative Districts (SLDs) are the areas from which\n          members are elected to State legislatures. The SLDs embody the upper (senate) and lower\n          (house) chambers of the State legislature. Nebraska has a unicameral legislature and the\n          District of Columbia has a single council, both of which the Census Bureau treats as\n          upper-chamber legislative areas for the purpose of data presentation; there are no data by\n          SLDL for either Nebraska or the District of Columbia. A unique three-character census\n          code, identified by State participants, is assigned to each SLD within a State. In\n          Connecticut, Illinois, Louisiana, Maine, Maryland, Massachusetts, Michigan, Ohio, and\n          Puerto Rico, the Redistricting Data Program (RDP) participant did not define the SLDs to\n          cover all of the State or State equivalent area. In these areas with no SLDs defined, the\n          code \"ZZZ\" has been assigned, which is treated as a single SLD for purposes of data\n          presentation. The boundaries of the 2012 State legislative districts were provided by\n          State-level participants through the RDP and reflect the districts used to elect members\n          in or prior to the November 2012 election.",
+	"notes": "The TIGER/Line shapefilesn          and related database files (.dbf) are an extract of selected geographic and cartographicn          information from the U.S. Census Bureau's Master Address File / Topologically Integratedn          Geographic Encoding and Referencing (MAF/TIGER) Database (MTDB). The MTDB represents an          seamless national file with no overlaps or gaps between parts, however, each TIGER/Linen          shapefile is designed to stand alone as an independent data set, or they can be combinedn          to cover the entire nation. State Legislative Districts (SLDs) are the areas from whichn          members are elected to State legislatures. The SLDs embody the upper (senate) and lowern          (house) chambers of the State legislature. Nebraska has a unicameral legislature and then          District of Columbia has a single council, both of which the Census Bureau treats asn          upper-chamber legislative areas for the purpose of data presentation; there are no data byn          SLDL for either Nebraska or the District of Columbia. A unique three-character censusn          code, identified by State participants, is assigned to each SLD within a State. Inn          Connecticut, Illinois, Louisiana, Maine, Maryland, Massachusetts, Michigan, Ohio, andn          Puerto Rico, the Redistricting Data Program (RDP) participant did not define the SLDs ton          cover all of the State or State equivalent area. In these areas with no SLDs defined, then          code "ZZZ" has been assigned, which is treated as a single SLD for purposes of datan          presentation. The boundaries of the 2012 State legislative districts were provided byn          State-level participants through the RDP and reflect the districts used to elect membersn          in or prior to the November 2012 election.",
 	"license_title": null,
 	"extras": [{
 		"key": "bbox-east-long",
@@ -94,7 +94,7 @@
 	},
 	{
 		"key": "__category_tag_9a350fa9-bc49-43d4-8e77-270b9714976d",
-		"value": "[\"Pacific Islands\",\"Hawaii\"]"
+		"value": "["Pacific Islands","Hawaii"]"
 	},
 	{
 		"key": "guid",
@@ -114,7 +114,7 @@
 	},
 	{
 		"key": "spatial",
-		"value": "{\"type\": \"Polygon\", \"coordinates\": [[[-179.231086, -14.601813], [179.859681, -14.601813], [179.859681, 71.441059], [-179.231086, 71.441059], [-179.231086, -14.601813]]]}"
+		"value": "{"type": "Polygon", "coordinates": [[[-179.231086, -14.601813], [179.859681, -14.601813], [179.859681, 71.441059], [-179.231086, 71.441059], [-179.231086, -14.601813]]]}"
 	},
 	{
 		"key": "progress",
@@ -122,7 +122,7 @@
 	},
 	{
 		"key": "access_constraints",
-		"value": "[\"Use Constraints: The TIGER\/Line Shapefile products are not copyrighted however TIGER\/Line\\n              and Census TIGER are registered trademarks of the U.S. Census Bureau.  These products are free to use in a product or publication, however acknowledgment\\n              must be given to the U.S. Census Bureau as the source.\\n              \\n              The boundary information in the TIGER\/Line Shapefiles are for statistical data collection and tabulation purposes only; their depiction and designation\\n              for statistical purposes does not constitute a determination of jurisdictional authority or rights of ownership or entitlement and they are not legal land\\n              descriptions. Coordinates in the TIGER\/Line shapefiles have six implied decimal places, but the positional accuracy of these coordinates is not as great as\\n              the six decimal places suggest.\", \"Distribution Liability: No warranty, expressed or implied is made with regard to the\\n              accuracy of these data, and no liability is assumed by the U.S. Government in general or the U.S. Census Bureau in specific as to the spatial or attribute\\n              accuracy of the data.  The act of distribution shall not constitute any such warranty and no responsibility is assumed by the U.S. government in the use\\n              of these files.  The boundary information in the TIGER\/Line Shapefiles is for statistical data collection and tabulation purposes only; their depiction\\n              and designation for statistical purposes do not constitute a determination of jurisdictional authority or rights of ownership or entitlement and they are\\n              not legal land descriptions.\"]"
+		"value": "["Use Constraints: The TIGER/Line Shapefile products are not copyrighted however TIGER/Line\n              and Census TIGER are registered trademarks of the U.S. Census Bureau.  These products are free to use in a product or publication, however acknowledgment\n              must be given to the U.S. Census Bureau as the source.\n              \n              The boundary information in the TIGER/Line Shapefiles are for statistical data collection and tabulation purposes only; their depiction and designation\n              for statistical purposes does not constitute a determination of jurisdictional authority or rights of ownership or entitlement and they are not legal land\n              descriptions. Coordinates in the TIGER/Line shapefiles have six implied decimal places, but the positional accuracy of these coordinates is not as great as\n              the six decimal places suggest.", "Distribution Liability: No warranty, expressed or implied is made with regard to the\n              accuracy of these data, and no liability is assumed by the U.S. Government in general or the U.S. Census Bureau in specific as to the spatial or attribute\n              accuracy of the data.  The act of distribution shall not constitute any such warranty and no responsibility is assumed by the U.S. government in the use\n              of these files.  The boundary information in the TIGER/Line Shapefiles is for statistical data collection and tabulation purposes only; their depiction\n              and designation for statistical purposes do not constitute a determination of jurisdictional authority or rights of ownership or entitlement and they are\n              not legal land descriptions."]"
 	},
 	{
 		"key": "temporal-extent-begin",
@@ -142,7 +142,7 @@
 	},
 	{
 		"key": "dataset-reference-date",
-		"value": "[{\"type\": \"publication\", \"value\": \"2013\"}]"
+		"value": "[{"type": "publication", "value": "2013"}]"
 	},
 	{
 		"key": "frequency-of-update",
@@ -158,7 +158,7 @@
 	},
 	{
 		"key": "responsible-party",
-		"value": "[{\"name\": \"U.S. Department of  Commerce, U.S. Census Bureau, Geography Division, Geographic Products Branch\", \"roles\": [\"pointOfContact\"]}]"
+		"value": "[{"name": "U.S. Department of  Commerce, U.S. Census Bureau, Geography Division, Geographic Products Branch", "roles": ["pointOfContact"]}]"
 	},
 	{
 		"key": "temporal-extent-end",
@@ -204,7 +204,7 @@
 		"revision_timestamp": "2013-08-29T13:37:04.171127",
 		"is_organization": true,
 		"state": "active",
-		"image_url": "http:\/\/www.census.gov\/main\/img\/home\/CensusLogo-white.png",
+		"image_url": "http://www.census.gov/main/img/home/CensusLogo-white.png",
 		"revision_id": "0995f525-d563-4254-a535-af5b926fe663",
 		"type": "organization",
 		"id": "31c49abe-512a-412a-9cc7-5b2601325d6b",

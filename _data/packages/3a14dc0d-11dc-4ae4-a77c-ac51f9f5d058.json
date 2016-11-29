@@ -37,7 +37,7 @@
 		"cache_url": null,
 		"name": "Zip File",
 		"created": "2016-01-02T04:40:54.883206",
-		"url": "ftp:\/\/ftp.coast.noaa.gov\/pub\/MSP\/OceanUsesHawaiiWestMaui.zip",
+		"url": "ftp://ftp.coast.noaa.gov/pub/MSP/OceanUsesHawaiiWestMaui.zip",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 0,
@@ -67,7 +67,7 @@
 		"cache_url": null,
 		"name": "Esri Rest API Endpoint",
 		"created": "2016-01-02T04:40:54.883227",
-		"url": "https:\/\/coast.noaa.gov\/arcgis\/rest\/services\/MarineCadastre\/OceanUsesHawaiiWestMaui\/MapServer",
+		"url": "https://coast.noaa.gov/arcgis/rest/services/MarineCadastre/OceanUsesHawaiiWestMaui/MapServer",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 1,
@@ -97,7 +97,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2016-01-02T04:40:54.883236",
-		"url": "http:\/\/www.marinecadastre.gov\/data",
+		"url": "http://www.marinecadastre.gov/data",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 2,
@@ -127,7 +127,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2016-01-02T04:40:54.883243",
-		"url": "https:\/\/coast.noaa.gov\/",
+		"url": "https://coast.noaa.gov/",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 3,
@@ -149,7 +149,7 @@
 		"revision_timestamp": "2013-03-25T23:05:12.923863",
 		"is_organization": true,
 		"state": "active",
-		"image_url": "https:\/\/fortress.wa.gov\/dfw\/score\/score\/images\/noaa_logo.png",
+		"image_url": "https://fortress.wa.gov/dfw/score/score/images/noaa_logo.png",
 		"revision_id": "c6d43080-22e1-405e-a83d-f2a512d9e867",
 		"type": "organization",
 		"id": "e811f0b4-451f-4896-9e8f-fc6802837819",
@@ -160,11 +160,11 @@
 	"name": "ocean-uses-hawaii-and-west-maui",
 	"isopen": false,
 	"url": null,
-	"notes": "The Hawaii Coastal Use Mapping Project is an innovative partnership between NOAA's National Marine Protected Areas Center, NOAA's Pacific Islands Fisheries Science Center, NOAA's Pacific Islands Regional Office, and the Hawaii Division of Aquatic Resources. The West Maui Coastal use Participatory Mapping Project was developed through a partnership between the Hawaii State Division of Aquatic Resources (HDAR), NOAA's Pacific Islands Regional Office (PIRO), NOAA Coral Reef Conservation Program (CRCP) and NOAA's Ocean Service, Office for Coastal Management - Pacific Islands (OCM). These projects were designed to enhance ocean management by gathering geospatial data on human uses of the nearshore ocean environments of the Kawaihae-Keahole and Honolua-Wahikuli regions of Hawaii. The data were gathered from regional ocean experts and users through participatory GIS methods. For more information on the project scope, background and related data products, please visit http:\/\/marinecadastre.gov\/oceanuses\/, http:\/\/marineprotectedareas.noaa.gov\/dataanalysis\/hi_coastal_use\/, or http:\/\/planning.hawaii.gov\/gis\/west-maui-coastal-uses-participatory-mapping-project\/.",
+	"notes": "The Hawaii Coastal Use Mapping Project is an innovative partnership between NOAA's National Marine Protected Areas Center, NOAA's Pacific Islands Fisheries Science Center, NOAA's Pacific Islands Regional Office, and the Hawaii Division of Aquatic Resources. The West Maui Coastal use Participatory Mapping Project was developed through a partnership between the Hawaii State Division of Aquatic Resources (HDAR), NOAA's Pacific Islands Regional Office (PIRO), NOAA Coral Reef Conservation Program (CRCP) and NOAA's Ocean Service, Office for Coastal Management - Pacific Islands (OCM). These projects were designed to enhance ocean management by gathering geospatial data on human uses of the nearshore ocean environments of the Kawaihae-Keahole and Honolua-Wahikuli regions of Hawaii. The data were gathered from regional ocean experts and users through participatory GIS methods. For more information on the project scope, background and related data products, please visit http://marinecadastre.gov/oceanuses/, http://marineprotectedareas.noaa.gov/dataanalysis/hi_coastal_use/, or http://planning.hawaii.gov/gis/west-maui-coastal-uses-participatory-mapping-project/.",
 	"owner_org": "e811f0b4-451f-4896-9e8f-fc6802837819",
 	"extras": [{
 		"key": "responsible-party",
-		"value": "[{\"name\": \"NOAA Office for Coastal Management\", \"roles\": [\"pointOfContact\"]}]"
+		"value": "[{"name": "NOAA Office for Coastal Management", "roles": ["pointOfContact"]}]"
 	},
 	{
 		"key": "contact-email",
@@ -184,7 +184,7 @@
 	},
 	{
 		"key": "dataset-reference-date",
-		"value": "[{\"type\": \"publication\", \"value\": \"2015-10-01\"}]"
+		"value": "[{"type": "publication", "value": "2015-10-01"}]"
 	},
 	{
 		"key": "resource-type",
@@ -212,7 +212,7 @@
 	},
 	{
 		"key": "licence",
-		"value": "[\"NOAA makes no warranties or representations whatsoever regarding the availability, quality, accuracy, content, completeness or suitability for the user's needs of such information. The services, information, and data made available on the MarineCadastre.gov web site are provided 'as is' without warranties of any kind. These data are intended for coastal and ocean use planning. Not for navigation.\"]"
+		"value": "["NOAA makes no warranties or representations whatsoever regarding the availability, quality, accuracy, content, completeness or suitability for the user's needs of such information. The services, information, and data made available on the MarineCadastre.gov web site are provided 'as is' without warranties of any kind. These data are intended for coastal and ocean use planning. Not for navigation."]"
 	},
 	{
 		"key": "metadata_type",
@@ -224,7 +224,7 @@
 	},
 	{
 		"key": "spatial",
-		"value": "{\"type\": \"Polygon\", \"coordinates\": [[[-156.750736, 19.77084], [-155.821544, 19.77084], [-155.821544, 21.058597], [-156.750736, 21.058597], [-156.750736, 19.77084]]]}"
+		"value": "{"type": "Polygon", "coordinates": [[[-156.750736, 19.77084], [-155.821544, 19.77084], [-155.821544, 21.058597], [-156.750736, 21.058597], [-156.750736, 19.77084]]]}"
 	},
 	{
 		"key": "guid",
@@ -236,7 +236,7 @@
 	},
 	{
 		"key": "access_constraints",
-		"value": "[\"Use Constraints: These data are intended for coastal and ocean use planning. Not for navigation. http:\/\/www.marinecadastre.gov\/about\/disclaimer.html\", \"Access Constraints: None\"]"
+		"value": "["Use Constraints: These data are intended for coastal and ocean use planning. Not for navigation. http://www.marinecadastre.gov/about/disclaimer.html", "Access Constraints: None"]"
 	},
 	{
 		"key": "spatial_harvester",

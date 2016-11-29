@@ -36,7 +36,7 @@
 		"cache_url": null,
 		"name": "Vector Digital Data Set (Polygon)",
 		"created": "2016-05-11T16:35:56.837271",
-		"url": "http:\/\/dx.doi.org\/10.5066\/F7K35RRS",
+		"url": "http://dx.doi.org/10.5066/F7K35RRS",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 0,
@@ -66,7 +66,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2016-05-11T16:35:56.837293",
-		"url": "http:\/\/dx.doi.org\/10.5066\/F7K35RRS",
+		"url": "http://dx.doi.org/10.5066/F7K35RRS",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 1,
@@ -86,7 +86,7 @@
 	"name": "modifed-great-basin-extent-buffered",
 	"isopen": false,
 	"url": null,
-	"notes": "Two different great basin perimeter files were intersected and dissolved using ArcGIS 10.2.2 to create the outer perimeter of the great basin for use modeling long-term wildfire effects on sage-grouse population growth, and development of sage-grouse concentration areas based on modeled habitat quality, lek density, and population abundance (Coates et al. 2015). These two perimeter files included a 1:1,000,000 map of hydrographic areas in the Great Basin) (Buto 2009), and vegetation characteristics (Karl et al. 2001). The resulting Modified Great Basin Extent represented a combination of hydrographic and floristic features best suited for the defining the spatial extent of the analyses. To ensure moving window analyses of habitat and fire areas covered the entire extent, the extent was then buffered by 15.8 km. The extent also encompasses large parts of sage-grouse management zones III (Southern Great Basin), IV (Snake River Plain), and V (Northern Great Basin). A small portion (< 5%) of management zone II (Wyoming Basins) is also encompassed. REFERENCES Buto, S.G., 2009, Digital Representation of 1:1,000,000-scale Hydrographic Areas of the Great Basin: U.S. Geological Survey Data Series 457, 5 p .http:\/\/pubs.usgs.gov\/ds\/457 Coates, P.S., Ricca, M.A., Prochazka, B.G., Doherty, K. D., Brooks, M.L., Casazza, M.L. 2015. Long-term effects of wildfire on greater sage-grouse - integrating population and ecosystem concepts for management in Great Basin. http:\/\/pubs.er.usgs.gov\/publication\/ofr20151165 Karl, M., Durtsche, B.M., Morgan, K. 2001. Great Basin Restoration Initiative Area. http:\/\/sagemap.wr.usgs.gov\/SearchData.aspx",
+	"notes": "Two different great basin perimeter files were intersected and dissolved using ArcGIS 10.2.2 to create the outer perimeter of the great basin for use modeling long-term wildfire effects on sage-grouse population growth, and development of sage-grouse concentration areas based on modeled habitat quality, lek density, and population abundance (Coates et al. 2015). These two perimeter files included a 1:1,000,000 map of hydrographic areas in the Great Basin) (Buto 2009), and vegetation characteristics (Karl et al. 2001). The resulting Modified Great Basin Extent represented a combination of hydrographic and floristic features best suited for the defining the spatial extent of the analyses. To ensure moving window analyses of habitat and fire areas covered the entire extent, the extent was then buffered by 15.8 km. The extent also encompasses large parts of sage-grouse management zones III (Southern Great Basin), IV (Snake River Plain), and V (Northern Great Basin). A small portion (< 5%) of management zone II (Wyoming Basins) is also encompassed. REFERENCES Buto, S.G., 2009, Digital Representation of 1:1,000,000-scale Hydrographic Areas of the Great Basin: U.S. Geological Survey Data Series 457, 5 p .http://pubs.usgs.gov/ds/457 Coates, P.S., Ricca, M.A., Prochazka, B.G., Doherty, K. D., Brooks, M.L., Casazza, M.L. 2015. Long-term effects of wildfire on greater sage-grouse - integrating population and ecosystem concepts for management in Great Basin. http://pubs.er.usgs.gov/publication/ofr20151165 Karl, M., Durtsche, B.M., Morgan, K. 2001. Great Basin Restoration Initiative Area. http://sagemap.wr.usgs.gov/SearchData.aspx",
 	"license_title": null,
 	"extras": [{
 		"key": "bbox-east-long",
@@ -122,7 +122,7 @@
 	},
 	{
 		"key": "spatial",
-		"value": "{\"type\": \"Polygon\", \"coordinates\": [[[-122.574408201, 34.865628483], [-110.232476221, 34.865628483], [-110.232476221, 45.356651206], [-122.574408201, 45.356651206], [-122.574408201, 34.865628483]]]}"
+		"value": "{"type": "Polygon", "coordinates": [[[-122.574408201, 34.865628483], [-110.232476221, 34.865628483], [-110.232476221, 45.356651206], [-122.574408201, 45.356651206], [-122.574408201, 34.865628483]]]}"
 	},
 	{
 		"key": "progress",
@@ -130,7 +130,7 @@
 	},
 	{
 		"key": "access_constraints",
-		"value": "[\"Use Constraints: The authors of these data require that users direct any questions pertaining to appropriate use or assistance with understanding limitations and interpretation of the data to the individuals\/organization listed in the Point of Contact section.\", \"Access Constraints: None\"]"
+		"value": "["Use Constraints: The authors of these data require that users direct any questions pertaining to appropriate use or assistance with understanding limitations and interpretation of the data to the individuals/organization listed in the Point of Contact section.", "Access Constraints: None"]"
 	},
 	{
 		"key": "temporal-extent-begin",
@@ -150,7 +150,7 @@
 	},
 	{
 		"key": "dataset-reference-date",
-		"value": "[{\"type\": \"publication\", \"value\": \"2015-09-01\"}]"
+		"value": "[{"type": "publication", "value": "2015-09-01"}]"
 	},
 	{
 		"key": "frequency-of-update",
@@ -158,7 +158,7 @@
 	},
 	{
 		"key": "licence",
-		"value": "[\"Unless otherwise stated, all data, metadata and related materials are considered to satisfy the quality standards relative to the purpose for which the data were collected. Although these data and associated metadata have been reviewed for accuracy and completeness and approved for release by the U.S. Geological Survey (USGS), no warranty expressed or implied is made regarding the display or utility of the data on any other system or for general or scientific purposes, nor shall the act of distribution constitute any such warranty.  Any use of trade, firm, or product names is for descriptive purposes only and does not imply endorsement by the U.S. Government.\"]"
+		"value": "["Unless otherwise stated, all data, metadata and related materials are considered to satisfy the quality standards relative to the purpose for which the data were collected. Although these data and associated metadata have been reviewed for accuracy and completeness and approved for release by the U.S. Geological Survey (USGS), no warranty expressed or implied is made regarding the display or utility of the data on any other system or for general or scientific purposes, nor shall the act of distribution constitute any such warranty.  Any use of trade, firm, or product names is for descriptive purposes only and does not imply endorsement by the U.S. Government."]"
 	},
 	{
 		"key": "metadata_type",
@@ -166,7 +166,7 @@
 	},
 	{
 		"key": "responsible-party",
-		"value": "[{\"name\": \"U.S. Geological Survey, PACIFIC REGION\", \"roles\": [\"pointOfContact\"]}]"
+		"value": "[{"name": "U.S. Geological Survey, PACIFIC REGION", "roles": ["pointOfContact"]}]"
 	},
 	{
 		"key": "temporal-extent-end",
@@ -205,14 +205,14 @@
 		"value": "Western Ecological Research Center (WERC), USGS"
 	}],
 	"organization": {
-		"description": "http:\/\/www.usgs.gov\/\r\nThe USGS is a federal science agency that provides impartial information on the health of our ecosystems and environment, the natural hazards that threaten us, the natural resources we rely on, the impacts of climate and land-use change, and the core science systems that help us provide timely, relevant, and useable information.",
+		"description": "http://www.usgs.gov/rnThe USGS is a federal science agency that provides impartial information on the health of our ecosystems and environment, the natural hazards that threaten us, the natural resources we rely on, the impacts of climate and land-use change, and the core science systems that help us provide timely, relevant, and useable information.",
 		"created": "2013-03-14T03:44:38.263357",
 		"title": "U.S. Geological Survey, Department of the Interior",
 		"name": "usgs-gov",
 		"revision_timestamp": "2014-09-02T13:43:52.167023",
 		"is_organization": true,
 		"state": "active",
-		"image_url": "http:\/\/pubs.usgs.gov\/sir\/2004\/5296\/04-5296_confluence_park\/usgs_logo.gif",
+		"image_url": "http://pubs.usgs.gov/sir/2004/5296/04-5296_confluence_park/usgs_logo.gif",
 		"revision_id": "2858aa99-9501-4f96-82e5-9647b968ed66",
 		"type": "organization",
 		"id": "bd2cdd5a-4d65-46c0-9937-c8381175f104",

@@ -36,7 +36,7 @@
 		"cache_url": null,
 		"name": "NDGIS web site",
 		"created": "2013-12-07T04:04:33.282644",
-		"url": "http:\/\/www.nd.gov\/gis",
+		"url": "http://www.nd.gov/gis",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 0,
@@ -65,7 +65,7 @@
 		"cache_url": null,
 		"name": "Download Cellular Market Areas",
 		"created": "2013-12-07T04:04:33.282677",
-		"url": "http:\/\/www.nd.gov\/gis\/apps\/DataDownload\/?clipping=Full&coord=ND83-SF&format=SHAPE&layers=NDHUB.PHONECELLMARKET",
+		"url": "http://www.nd.gov/gis/apps/DataDownload/?clipping=Full&coord=ND83-SF&format=SHAPE&layers=NDHUB.PHONECELLMARKET",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 1,
@@ -94,7 +94,7 @@
 		"cache_url": null,
 		"name": "Celllular Markets",
 		"created": "2013-12-07T04:04:33.282685",
-		"url": "http:\/\/ndgishub.nd.gov\/arcgis\/services\/All_Communications\/MapServer\/WMSServer?",
+		"url": "http://ndgishub.nd.gov/arcgis/services/All_Communications/MapServer/WMSServer?",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 2,
@@ -123,7 +123,7 @@
 		"cache_url": null,
 		"name": "Esri REST including WMS",
 		"created": "2013-12-07T04:04:33.282693",
-		"url": "http:\/\/ndgishub.nd.gov\/ArcGIS\/rest\/services\/All_Communications\/MapServer",
+		"url": "http://ndgishub.nd.gov/ArcGIS/rest/services/All_Communications/MapServer",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 3,
@@ -152,7 +152,7 @@
 		"cache_url": null,
 		"name": "Esri REST including WFS and KML",
 		"created": "2013-12-07T04:04:33.282701",
-		"url": "http:\/\/ndgishub.nd.gov\/ArcGIS\/rest\/services\/Features\/Communications\/MapServer",
+		"url": "http://ndgishub.nd.gov/ArcGIS/rest/services/Features/Communications/MapServer",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 4,
@@ -199,7 +199,7 @@
 	"name": "cellular-market-areas",
 	"isopen": false,
 	"url": null,
-	"notes": "Federal Communications Commission (FCC) cellular market areas for North Dakota. From the FCC Web site: \"The Cellular Market Areas (CMAs) were created from the 1980 Metropolitan Statistical Areas (MSAs) defined by the Office of Management and Budget (1-305), the Gulf of Mexico (306), and Rural Service Areas (RSAs) established by the FCC which do not cross state borders (307-734). These RSAs include Puerto Rico (723-729), U.S. Virgin Islands (730-731), Guam (732), American Samoa (733), and Northern Mariana Islands (734) .\"",
+	"notes": "Federal Communications Commission (FCC) cellular market areas for North Dakota. From the FCC Web site: "The Cellular Market Areas (CMAs) were created from the 1980 Metropolitan Statistical Areas (MSAs) defined by the Office of Management and Budget (1-305), the Gulf of Mexico (306), and Rural Service Areas (RSAs) established by the FCC which do not cross state borders (307-734). These RSAs include Puerto Rico (723-729), U.S. Virgin Islands (730-731), Guam (732), American Samoa (733), and Northern Mariana Islands (734) ."",
 	"license_title": null,
 	"extras": [{
 		"key": "bbox-east-long",
@@ -219,7 +219,7 @@
 	},
 	{
 		"key": "__category_tag_9a350fa9-bc49-43d4-8e77-270b9714976d",
-		"value": "[\"Pacific Islands\",\"Guam\",\"Environment\",\"American Samoa\",\"Northern Mariana Islands\"]"
+		"value": "["Pacific Islands","Guam","Environment","American Samoa","Northern Mariana Islands"]"
 	},
 	{
 		"key": "graphic-preview-type",
@@ -247,7 +247,7 @@
 	},
 	{
 		"key": "spatial",
-		"value": "{\"type\": \"Polygon\", \"coordinates\": [[[-104.048894, 45.934976], [-96.554483, 45.934976], [-96.554483, 49.000583], [-104.048894, 49.000583], [-104.048894, 45.934976]]]}"
+		"value": "{"type": "Polygon", "coordinates": [[[-104.048894, 45.934976], [-96.554483, 45.934976], [-96.554483, 49.000583], [-104.048894, 49.000583], [-104.048894, 45.934976]]]}"
 	},
 	{
 		"key": "progress",
@@ -255,7 +255,7 @@
 	},
 	{
 		"key": "access_constraints",
-		"value": "[\"The State of North Dakota extracted this data from the FCC Web site, using what is thought to be the most reliable information available. This data is intended to make results of research available at the earliest possible date, but is not intended to constitute final or formal publication. The State of North Dakota makes every effort to provide virus-free files but does not guarantee uncorrupted files. The State does not guarantee this data to be free from errors, inaccuracies, or viruses, and disclaims any responsibility or liability for interpretations or decisions based on this data.\"]"
+		"value": "["The State of North Dakota extracted this data from the FCC Web site, using what is thought to be the most reliable information available. This data is intended to make results of research available at the earliest possible date, but is not intended to constitute final or formal publication. The State of North Dakota makes every effort to provide virus-free files but does not guarantee uncorrupted files. The State does not guarantee this data to be free from errors, inaccuracies, or viruses, and disclaims any responsibility or liability for interpretations or decisions based on this data."]"
 	},
 	{
 		"key": "contact-email",
@@ -271,7 +271,7 @@
 	},
 	{
 		"key": "dataset-reference-date",
-		"value": "[{\"type\": \"publication\", \"value\": \"1998-11-24\"}]"
+		"value": "[{"type": "publication", "value": "1998-11-24"}]"
 	},
 	{
 		"key": "graphic-preview-description",
@@ -291,7 +291,7 @@
 	},
 	{
 		"key": "responsible-party",
-		"value": "[{\"name\": \"Information Technology Department\", \"roles\": [\"pointOfContact\"]}]"
+		"value": "[{"name": "Information Technology Department", "roles": ["pointOfContact"]}]"
 	},
 	{
 		"key": "spatial-data-service-type",
@@ -326,14 +326,14 @@
 		"value": "North Dakota GIS Hub Data Portal"
 	}],
 	"organization": {
-		"description": "The GIS Hub is the state source for GIS - data, services, and information.  More information can be found at www.nd.gov\/gis.",
+		"description": "The GIS Hub is the state source for GIS - data, services, and information.  More information can be found at www.nd.gov/gis.",
 		"created": "2013-03-14T03:44:44.340717",
 		"title": "State of North Dakota",
 		"name": "nd-gov",
 		"revision_timestamp": "2013-07-15T16:27:30.098476",
 		"is_organization": true,
 		"state": "active",
-		"image_url": "http:\/\/www.nd.gov\/gis\/images\/ndgis-logo.gif",
+		"image_url": "http://www.nd.gov/gis/images/ndgis-logo.gif",
 		"revision_id": "27517bb9-815c-4d4f-b45b-b88b6316697b",
 		"type": "organization",
 		"id": "1c782de6-9f1f-4427-93fd-33732e29970f",

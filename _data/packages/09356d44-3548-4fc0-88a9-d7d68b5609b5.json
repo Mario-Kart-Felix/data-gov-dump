@@ -36,7 +36,7 @@
 		"cache_url": null,
 		"name": "shapefile",
 		"created": "2016-02-17T01:25:27.102808",
-		"url": "http:\/\/mrdata.usgs.gov\/akages\/akages.zip",
+		"url": "http://mrdata.usgs.gov/akages/akages.zip",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 0,
@@ -65,7 +65,7 @@
 		"cache_url": null,
 		"name": "OGC WMS",
 		"created": "2016-02-17T01:25:27.102833",
-		"url": "http:\/\/mrdata.usgs.gov\/services\/akages?request=getcapabilities&service=WMS&version=1.1.1&",
+		"url": "http://mrdata.usgs.gov/services/akages?request=getcapabilities&service=WMS&version=1.1.1&",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 1,
@@ -94,7 +94,7 @@
 		"cache_url": null,
 		"name": "OGC WFS",
 		"created": "2016-02-17T01:25:27.102842",
-		"url": "http:\/\/mrdata.usgs.gov\/wfs\/akages?request=getcapabilities&service=WFS&version=1.0.0&",
+		"url": "http://mrdata.usgs.gov/wfs/akages?request=getcapabilities&service=WFS&version=1.0.0&",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 2,
@@ -124,7 +124,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2016-02-17T01:25:27.102849",
-		"url": "http:\/\/mrdata.usgs.gov\/akages\/",
+		"url": "http://mrdata.usgs.gov/akages/",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 3,
@@ -144,11 +144,11 @@
 	"name": "alaska-radiometric-ages4d863",
 	"isopen": false,
 	"url": null,
-	"notes": "The Alaska Radiometric Age file is a database of radiometric ages of rocks or minerals sampled from Alaska. The data was collected from professional publications and\/or received from researchers and used by permission.",
+	"notes": "The Alaska Radiometric Age file is a database of radiometric ages of rocks or minerals sampled from Alaska. The data was collected from professional publications and/or received from researchers and used by permission.",
 	"license_title": null,
 	"extras": [{
 		"key": "responsible-party",
-		"value": "[{\"name\": \"U.S. Geological Survey\", \"roles\": [\"pointOfContact\"]}]"
+		"value": "[{"name": "U.S. Geological Survey", "roles": ["pointOfContact"]}]"
 	},
 	{
 		"key": "contact-email",
@@ -168,7 +168,7 @@
 	},
 	{
 		"key": "dataset-reference-date",
-		"value": "[{\"type\": \"publication\", \"value\": \"1999-01-01\"}]"
+		"value": "[{"type": "publication", "value": "1999-01-01"}]"
 	},
 	{
 		"key": "resource-type",
@@ -196,7 +196,7 @@
 	},
 	{
 		"key": "licence",
-		"value": "[\"The U.S. Geological Survey (USGS) provides this point data \\\"as\\nis.\\\" The USGS make no guarantee or warranty concerning the\\naccuracy of information contained in the dataset.  Further, the\\nUSGS makes no warranties, either expressed or implied, as to any\\nother matter whatsoever, including, without limitation, the\\ncondition of the product, or its fitness for any particular\\npurpose.  The burden for determining fitness for use lies\\nentirely with the user.  Although this data has bee processed\\nsuccessfully on computers at the USGS, no warranty, express or\\nimplied, is made by the USGS regarding the use of this data on\\nany other system, nor does the fact of distribution constitute or\\nimply any such warranty.\"]"
+		"value": "["The U.S. Geological Survey (USGS) provides this point data \"as\nis.\" The USGS make no guarantee or warranty concerning the\naccuracy of information contained in the dataset.  Further, the\nUSGS makes no warranties, either expressed or implied, as to any\nother matter whatsoever, including, without limitation, the\ncondition of the product, or its fitness for any particular\npurpose.  The burden for determining fitness for use lies\nentirely with the user.  Although this data has bee processed\nsuccessfully on computers at the USGS, no warranty, express or\nimplied, is made by the USGS regarding the use of this data on\nany other system, nor does the fact of distribution constitute or\nimply any such warranty."]"
 	},
 	{
 		"key": "metadata_type",
@@ -208,7 +208,7 @@
 	},
 	{
 		"key": "spatial",
-		"value": "{\"type\": \"Polygon\", \"coordinates\": [[[172.0, 54.0], [-130.0, 54.0], [-130.0, 72.0], [172.0, 72.0], [172.0, 54.0]]]}"
+		"value": "{"type": "Polygon", "coordinates": [[[172.0, 54.0], [-130.0, 54.0], [-130.0, 72.0], [172.0, 72.0], [172.0, 54.0]]]}"
 	},
 	{
 		"key": "guid",
@@ -220,7 +220,7 @@
 	},
 	{
 		"key": "access_constraints",
-		"value": "[\"Use Constraints: The U.S. Geological Survey makes no warranties related to the accuracy of the data and users are required to determine the usability for any particular purpose.\", \"Access Constraints: None\"]"
+		"value": "["Use Constraints: The U.S. Geological Survey makes no warranties related to the accuracy of the data and users are required to determine the usability for any particular purpose.", "Access Constraints: None"]"
 	},
 	{
 		"key": "spatial_harvester",
@@ -255,14 +255,14 @@
 		"value": "Mineral Resources Online Spatial Data"
 	}],
 	"organization": {
-		"description": "http:\/\/www.usgs.gov\/\r\nThe USGS is a federal science agency that provides impartial information on the health of our ecosystems and environment, the natural hazards that threaten us, the natural resources we rely on, the impacts of climate and land-use change, and the core science systems that help us provide timely, relevant, and useable information.",
+		"description": "http://www.usgs.gov/rnThe USGS is a federal science agency that provides impartial information on the health of our ecosystems and environment, the natural hazards that threaten us, the natural resources we rely on, the impacts of climate and land-use change, and the core science systems that help us provide timely, relevant, and useable information.",
 		"created": "2013-03-14T03:44:38.263357",
 		"title": "U.S. Geological Survey, Department of the Interior",
 		"name": "usgs-gov",
 		"revision_timestamp": "2014-09-02T13:43:52.167023",
 		"is_organization": true,
 		"state": "active",
-		"image_url": "http:\/\/pubs.usgs.gov\/sir\/2004\/5296\/04-5296_confluence_park\/usgs_logo.gif",
+		"image_url": "http://pubs.usgs.gov/sir/2004/5296/04-5296_confluence_park/usgs_logo.gif",
 		"revision_id": "2858aa99-9501-4f96-82e5-9647b968ed66",
 		"type": "organization",
 		"id": "bd2cdd5a-4d65-46c0-9937-c8381175f104",

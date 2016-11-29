@@ -37,7 +37,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2013-03-15T15:37:45.975286",
-		"url": "http:\/\/www.vcgi.org\/dataware\/default.cfm?layer=EcologicHabitat_WLH",
+		"url": "http://www.vcgi.org/dataware/default.cfm?layer=EcologicHabitat_WLH",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 0,
@@ -67,7 +67,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2013-03-15T15:37:45.975304",
-		"url": "http:\/\/www.vtfishandwildlife.com\/",
+		"url": "http://www.vtfishandwildlife.com/",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 1,
@@ -97,7 +97,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2013-03-15T15:37:45.975309",
-		"url": "http:\/\/www.vcgi.org\/dataware\/default.cfm?layer=EcologicHabitat_WLH",
+		"url": "http://www.vcgi.org/dataware/default.cfm?layer=EcologicHabitat_WLH",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 2,
@@ -127,7 +127,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2013-03-15T15:37:45.975313",
-		"url": "http:\/\/www.vcgi.org\/dataware\/default.cfm?layer=EcologicHabitat_WLH&mapit=yes",
+		"url": "http://www.vcgi.org/dataware/default.cfm?layer=EcologicHabitat_WLH&mapit=yes",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 3,
@@ -160,11 +160,11 @@
 	"name": "ecologichabitat-wlh",
 	"isopen": false,
 	"url": null,
-	"notes": "The Wildlife Linkage Habitat Analysis uses landscape scale data to identify or predict the location of potentially significant wildlife linkage habitats (WLH) associated with state roads throughout Vermont. For purposes of this project, WLH is a term used to describe those habitats associated with Vermont roads where wildlife move, migrate, and access various other habitats and parts of their range (similar to, but broader than, wildlife corridors). This project relied on available GIS data including: (a) land use and land cover data; (b) development density data (E911 sites); and (c) contiguous or \"core\" habitat data from the University of Vermont. The GIS conserved lands data was also used for this project as a way of analyzing the feasibility for conserving or ranking potentially significant WLHs identified as a result of this project. These data were classified according to their relative significance with respect to wildlife movement and habitat areas. The resulting spatial layer is a statewide raster coverage describing the predicability of finding suitable habitat.",
+	"notes": "The Wildlife Linkage Habitat Analysis uses landscape scale data to identify or predict the location of potentially significant wildlife linkage habitats (WLH) associated with state roads throughout Vermont. For purposes of this project, WLH is a term used to describe those habitats associated with Vermont roads where wildlife move, migrate, and access various other habitats and parts of their range (similar to, but broader than, wildlife corridors). This project relied on available GIS data including: (a) land use and land cover data; (b) development density data (E911 sites); and (c) contiguous or "core" habitat data from the University of Vermont. The GIS conserved lands data was also used for this project as a way of analyzing the feasibility for conserving or ranking potentially significant WLHs identified as a result of this project. These data were classified according to their relative significance with respect to wildlife movement and habitat areas. The resulting spatial layer is a statewide raster coverage describing the predicability of finding suitable habitat.",
 	"license_title": null,
 	"extras": [{
 		"key": "responsible-party",
-		"value": "[{\"name\": \"Department of Fish and Wildlife\", \"roles\": [\"pointOfContact\"]}]"
+		"value": "[{"name": "Department of Fish and Wildlife", "roles": ["pointOfContact"]}]"
 	},
 	{
 		"key": "contact-email",
@@ -184,7 +184,7 @@
 	},
 	{
 		"key": "dataset-reference-date",
-		"value": "[{\"type\": \"publication\", \"value\": \"2006-05-16\"}]"
+		"value": "[{"type": "publication", "value": "2006-05-16"}]"
 	},
 	{
 		"key": "resource-type",
@@ -212,7 +212,7 @@
 	},
 	{
 		"key": "licence",
-		"value": "[\"VCGI and the State of Vermont make no representations of any kind, including but not limited to the warranties of merchantability or fitness for a particular use, nor are any such warranties to be implied with respect to the data.\"]"
+		"value": "["VCGI and the State of Vermont make no representations of any kind, including but not limited to the warranties of merchantability or fitness for a particular use, nor are any such warranties to be implied with respect to the data."]"
 	},
 	{
 		"key": "metadata_type",
@@ -220,7 +220,7 @@
 	},
 	{
 		"key": "spatial",
-		"value": "{\"type\": \"Polygon\", \"coordinates\": [[[-73.454162, 42.722789], [-73.454162, 45.018361], [-71.465281, 45.018361], [-71.465281, 42.722789], [-73.454162, 42.722789]]]}"
+		"value": "{"type": "Polygon", "coordinates": [[[-73.454162, 42.722789], [-73.454162, 45.018361], [-71.465281, 45.018361], [-71.465281, 42.722789], [-73.454162, 42.722789]]]}"
 	},
 	{
 		"key": "guid",
@@ -232,7 +232,7 @@
 	},
 	{
 		"key": "access_constraints",
-		"value": "[\"Use Constraints: These data are the result of a regional scale Wildlife Habitat Linkage Assesment. The analysis uses pre-existing publicly available information and is constraigned to the limitations of those foundation layers. (1)LandLandcov_LCLU, released in 1997 has a minimum mapping unit of 2 acres and a grid cell size of 25 meters. (2) EmergencyE911_ESITE is an ongoing project and it is possible that buildings exist that have not yet been included in the data.(3) EcologicHabitat_COREHAB was derived from road information in USGS digital line graphs (RF 1\/100,000)and was created by the University of Vermont's Spatial Analysis Laboratory. Therefore this layer contains fewer roads than appear in the State Road Database and some of these features though they might have an effect on habitat connectivity and fragmentation will not be accurately represented in this analysis. The analysis was compiled to provide a regional scale review of wildlife habitat and movement patterns and is designed to be used with wildlife mortality information collected by the Vermont Agency of Transportation and the Vermont Fish and Wildlife Department . This effort is a preliminary, landscape-scale assessment of Wildlife Linkage Habitat in Vermont. Additional field investigations will be necessary to confirm, on a site-by-site basis, the significance of any given Wildlife Linkage Habitat identified as a result of this analysis. The areas identified through this analysis are 'potential wildlife corridors' and should not assumed to be significant at face value. Please contact a wildlife biologist from the Vermont Fish and Wildlife Department for assistance in interpreting this information.\", \"Access Constraints: VCGI and the State of VT make no representations of any kind, including but not limited to the warranties of merchantability or fitness for a particular use, nor are any such warranties to be implied with respect to the data.\"]"
+		"value": "["Use Constraints: These data are the result of a regional scale Wildlife Habitat Linkage Assesment. The analysis uses pre-existing publicly available information and is constraigned to the limitations of those foundation layers. (1)LandLandcov_LCLU, released in 1997 has a minimum mapping unit of 2 acres and a grid cell size of 25 meters. (2) EmergencyE911_ESITE is an ongoing project and it is possible that buildings exist that have not yet been included in the data.(3) EcologicHabitat_COREHAB was derived from road information in USGS digital line graphs (RF 1/100,000)and was created by the University of Vermont's Spatial Analysis Laboratory. Therefore this layer contains fewer roads than appear in the State Road Database and some of these features though they might have an effect on habitat connectivity and fragmentation will not be accurately represented in this analysis. The analysis was compiled to provide a regional scale review of wildlife habitat and movement patterns and is designed to be used with wildlife mortality information collected by the Vermont Agency of Transportation and the Vermont Fish and Wildlife Department . This effort is a preliminary, landscape-scale assessment of Wildlife Linkage Habitat in Vermont. Additional field investigations will be necessary to confirm, on a site-by-site basis, the significance of any given Wildlife Linkage Habitat identified as a result of this analysis. The areas identified through this analysis are 'potential wildlife corridors' and should not assumed to be significant at face value. Please contact a wildlife biologist from the Vermont Fish and Wildlife Department for assistance in interpreting this information.", "Access Constraints: VCGI and the State of VT make no representations of any kind, including but not limited to the warranties of merchantability or fitness for a particular use, nor are any such warranties to be implied with respect to the data."]"
 	},
 	{
 		"key": "frequency-of-update",
@@ -270,7 +270,7 @@
 		"revision_timestamp": "2013-03-27T17:47:03.718032",
 		"is_organization": true,
 		"state": "active",
-		"image_url": "http:\/\/vcgi.vermont.gov\/sites\/all\/themes\/vt_template\/logo.png",
+		"image_url": "http://vcgi.vermont.gov/sites/all/themes/vt_template/logo.png",
 		"revision_id": "c5dfbbb0-f1e0-4db6-b566-e932e1520060",
 		"type": "organization",
 		"id": "0c3a4ebc-9929-4f21-bdd0-76a35d52f57d",

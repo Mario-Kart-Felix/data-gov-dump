@@ -36,7 +36,7 @@
 		"cache_url": null,
 		"name": "Vector Digital Data Set (Polygon)",
 		"created": "2016-08-02T23:16:51.012576",
-		"url": "http:\/\/water.usgs.gov\/GIS\/dsdl\/SIR_2015-5164_Kauai_WB_components_recent_1978-2007_RF_2010_LC.zip",
+		"url": "http://water.usgs.gov/GIS/dsdl/SIR_2015-5164_Kauai_WB_components_recent_1978-2007_RF_2010_LC.zip",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 0,
@@ -66,7 +66,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2016-08-02T23:16:51.012602",
-		"url": "http:\/\/dx.doi.org\/10.5066\/F7571931",
+		"url": "http://dx.doi.org/10.5066/F7571931",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 1,
@@ -96,7 +96,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2016-08-02T23:16:51.012612",
-		"url": "http:\/\/dx.doi.org\/10.3133\/sir20155164",
+		"url": "http://dx.doi.org/10.3133/sir20155164",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 2,
@@ -116,7 +116,7 @@
 	"name": "mean-annual-water-budget-components-for-the-island-of-kauai-hawaii-for-recent-conditions-1978-2",
 	"isopen": false,
 	"url": null,
-	"notes": "The shapefile associated with this metadata file represents the spatial distribution of mean annual water-budget components, in inches, for the Island of Kauai, Hawaii. The water-budget components in the shapefile were computed by a water-budget model for a scenario representative of recent conditions (1978\u00e2\u0080\u00932007 rainfall and 2010 land cover), as described in USGS Scientific Investigations Report (SIR) 2015-5164. The model was developed for estimating groundwater recharge and other water-budget components for each subarea of the model. The model-subarea data set, consisting of 400,714 subareas (polygons), was generated using Esri ArcGIS software by intersecting (merging) multiple spatial data sets. Spatial datasets merged includes those that characterize the spatial distribution of hydrologic and physical conditions (rainfall, fog interception, irrigation, reference evapotranspiration, direct runoff, soil type, and land cover) that the model uses to compute groundwater recharge and other water-budget components. Additional spatial datasets merged into the model-subarea data set include those of select geographic features that assist in analyzing model results. This metadata file describes the process of merging these spatial data sets. The shapefile attribute information associated with each polygon present an estimate of mean annual rainfall, fog interception, irrigation, septic-system leachate, runoff, canopy evaporation, actual evapotranspiration, storm-drain capture, net precipitation, total evapotranspiration, recharge, and seepage from water mains, reservoirs, and cesspools. This shapefile also includes select geographic and land-cover attributes of the polygons. Brief descriptions of the water-budget components and attributes are included in this metadata file. Refer to USGS SIR 2015-5164 for further details of the methods and sources used to determine these components and attributes.",
+	"notes": "The shapefile associated with this metadata file represents the spatial distribution of mean annual water-budget components, in inches, for the Island of Kauai, Hawaii. The water-budget components in the shapefile were computed by a water-budget model for a scenario representative of recent conditions (1978u00e2u0080u00932007 rainfall and 2010 land cover), as described in USGS Scientific Investigations Report (SIR) 2015-5164. The model was developed for estimating groundwater recharge and other water-budget components for each subarea of the model. The model-subarea data set, consisting of 400,714 subareas (polygons), was generated using Esri ArcGIS software by intersecting (merging) multiple spatial data sets. Spatial datasets merged includes those that characterize the spatial distribution of hydrologic and physical conditions (rainfall, fog interception, irrigation, reference evapotranspiration, direct runoff, soil type, and land cover) that the model uses to compute groundwater recharge and other water-budget components. Additional spatial datasets merged into the model-subarea data set include those of select geographic features that assist in analyzing model results. This metadata file describes the process of merging these spatial data sets. The shapefile attribute information associated with each polygon present an estimate of mean annual rainfall, fog interception, irrigation, septic-system leachate, runoff, canopy evaporation, actual evapotranspiration, storm-drain capture, net precipitation, total evapotranspiration, recharge, and seepage from water mains, reservoirs, and cesspools. This shapefile also includes select geographic and land-cover attributes of the polygons. Brief descriptions of the water-budget components and attributes are included in this metadata file. Refer to USGS SIR 2015-5164 for further details of the methods and sources used to determine these components and attributes.",
 	"license_title": null,
 	"extras": [{
 		"key": "bbox-east-long",
@@ -144,7 +144,7 @@
 	},
 	{
 		"key": "graphic-preview-file",
-		"value": "http:\/\/water.usgs.gov\/GIS\/browse\/Kauai_recent_browse.jpg"
+		"value": "http://water.usgs.gov/GIS/browse/Kauai_recent_browse.jpg"
 	},
 	{
 		"key": "metadata-language",
@@ -160,7 +160,7 @@
 	},
 	{
 		"key": "spatial",
-		"value": "{\"type\": \"Polygon\", \"coordinates\": [[[-159.789239814, 21.867036477], [-159.291908586, 21.867036477], [-159.291908586, 22.232673365], [-159.789239814, 22.232673365], [-159.789239814, 21.867036477]]]}"
+		"value": "{"type": "Polygon", "coordinates": [[[-159.789239814, 21.867036477], [-159.291908586, 21.867036477], [-159.291908586, 22.232673365], [-159.789239814, 22.232673365], [-159.789239814, 21.867036477]]]}"
 	},
 	{
 		"key": "progress",
@@ -168,7 +168,7 @@
 	},
 	{
 		"key": "access_constraints",
-		"value": "[\"Use Constraints: Users are advised to read the data set's metadata and USGS SIR 2015-5164 thoroughly to understand appropriate use and data limitations. The land-cover attributes of this data set are not intended to be used for any purposes other than analyzing and interpreting the water-budget components included in this data set.\", \"Access Constraints: None. Please see 'Distribution Info' for details.\"]"
+		"value": "["Use Constraints: Users are advised to read the data set's metadata and USGS SIR 2015-5164 thoroughly to understand appropriate use and data limitations. The land-cover attributes of this data set are not intended to be used for any purposes other than analyzing and interpreting the water-budget components included in this data set.", "Access Constraints: None. Please see 'Distribution Info' for details."]"
 	},
 	{
 		"key": "temporal-extent-begin",
@@ -188,7 +188,7 @@
 	},
 	{
 		"key": "dataset-reference-date",
-		"value": "[{\"type\": \"publication\", \"value\": \"2016-01-01\"}]"
+		"value": "[{"type": "publication", "value": "2016-01-01"}]"
 	},
 	{
 		"key": "graphic-preview-description",
@@ -200,7 +200,7 @@
 	},
 	{
 		"key": "licence",
-		"value": "[\"Distributor assumes no liability for misuse of data.\"]"
+		"value": "["Distributor assumes no liability for misuse of data."]"
 	},
 	{
 		"key": "metadata_type",
@@ -208,7 +208,7 @@
 	},
 	{
 		"key": "responsible-party",
-		"value": "[{\"name\": \"U.S. Geological Survey Pacific Islands Water Science Center\", \"roles\": [\"pointOfContact\"]}]"
+		"value": "[{"name": "U.S. Geological Survey Pacific Islands Water Science Center", "roles": ["pointOfContact"]}]"
 	},
 	{
 		"key": "temporal-extent-end",
@@ -247,14 +247,14 @@
 		"value": "Water NSDI Node Spatial Datasets"
 	}],
 	"organization": {
-		"description": "http:\/\/www.usgs.gov\/\r\nThe USGS is a federal science agency that provides impartial information on the health of our ecosystems and environment, the natural hazards that threaten us, the natural resources we rely on, the impacts of climate and land-use change, and the core science systems that help us provide timely, relevant, and useable information.",
+		"description": "http://www.usgs.gov/rnThe USGS is a federal science agency that provides impartial information on the health of our ecosystems and environment, the natural hazards that threaten us, the natural resources we rely on, the impacts of climate and land-use change, and the core science systems that help us provide timely, relevant, and useable information.",
 		"created": "2013-03-14T03:44:38.263357",
 		"title": "U.S. Geological Survey, Department of the Interior",
 		"name": "usgs-gov",
 		"revision_timestamp": "2014-09-02T13:43:52.167023",
 		"is_organization": true,
 		"state": "active",
-		"image_url": "http:\/\/pubs.usgs.gov\/sir\/2004\/5296\/04-5296_confluence_park\/usgs_logo.gif",
+		"image_url": "http://pubs.usgs.gov/sir/2004/5296/04-5296_confluence_park/usgs_logo.gif",
 		"revision_id": "2858aa99-9501-4f96-82e5-9647b968ed66",
 		"type": "organization",
 		"id": "bd2cdd5a-4d65-46c0-9937-c8381175f104",

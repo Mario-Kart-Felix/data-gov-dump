@@ -37,7 +37,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2016-08-30T01:22:38.255160",
-		"url": "https:\/\/coast.noaa.gov\/dataviewer\/#\/lidar\/search\/where:ID=5056",
+		"url": "https://coast.noaa.gov/dataviewer/#/lidar/search/where:ID=5056",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 0,
@@ -67,7 +67,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2016-08-30T01:22:38.255193",
-		"url": "https:\/\/coast.noaa.gov\/htdata\/lidar1_z\/geoid12a\/data\/5056",
+		"url": "https://coast.noaa.gov/htdata/lidar1_z/geoid12a/data/5056",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 1,
@@ -97,7 +97,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2016-08-30T01:22:38.255202",
-		"url": "https:\/\/coast.noaa.gov\/dataviewer",
+		"url": "https://coast.noaa.gov/dataviewer",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 2,
@@ -127,7 +127,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2016-08-30T01:22:38.255210",
-		"url": "https:\/\/coast.noaa.gov",
+		"url": "https://coast.noaa.gov",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 3,
@@ -149,7 +149,7 @@
 		"revision_timestamp": "2013-03-25T23:05:12.923863",
 		"is_organization": true,
 		"state": "active",
-		"image_url": "https:\/\/fortress.wa.gov\/dfw\/score\/score\/images\/noaa_logo.png",
+		"image_url": "https://fortress.wa.gov/dfw/score/score/images/noaa_logo.png",
 		"revision_id": "c6d43080-22e1-405e-a83d-f2a512d9e867",
 		"type": "organization",
 		"id": "e811f0b4-451f-4896-9e8f-fc6802837819",
@@ -160,7 +160,7 @@
 	"name": "2005-fema-be-lidar-ulster-county-ny",
 	"isopen": false,
 	"url": null,
-	"notes": "Terrain data, as defined in FEMA Guidelines and Specifications, Appendix N: Data Capture Standards, describe the digital topographic data that were used to create the elevation data representing the terrain environment of a watershed and\/or floodplain. Terrain data requirements allow for flexibility in the types of information provided as sources used to produce final terrain deliverables. Once this type of data is provided, FEMA will be able to account for the origins of the flood study elevation data. NOAA OCM received a delivery from the FEMA Engineering Library which included a point shapefile filled with bare-earth points for the 2005 collection of Ulster County. Within this project was a .ASC DTM file which covered a larger area than the footprint of the shapefile. Ultimately, the smaller footprint was assumed to be validated bare-earth points and processed for public download through the Digital Coast. Final deliverables date to 2007 and cannot be assumed to meet later standards and specifications. Although data review suggests a DEM\/DTM product would suffice as the vertical accuracy was tested thoroughly. Be advised that only portions of Ulster County were delivered and OCM is uncertain if more verified and classified data exist.",
+	"notes": "Terrain data, as defined in FEMA Guidelines and Specifications, Appendix N: Data Capture Standards, describe the digital topographic data that were used to create the elevation data representing the terrain environment of a watershed and/or floodplain. Terrain data requirements allow for flexibility in the types of information provided as sources used to produce final terrain deliverables. Once this type of data is provided, FEMA will be able to account for the origins of the flood study elevation data. NOAA OCM received a delivery from the FEMA Engineering Library which included a point shapefile filled with bare-earth points for the 2005 collection of Ulster County. Within this project was a .ASC DTM file which covered a larger area than the footprint of the shapefile. Ultimately, the smaller footprint was assumed to be validated bare-earth points and processed for public download through the Digital Coast. Final deliverables date to 2007 and cannot be assumed to meet later standards and specifications. Although data review suggests a DEM/DTM product would suffice as the vertical accuracy was tested thoroughly. Be advised that only portions of Ulster County were delivered and OCM is uncertain if more verified and classified data exist.",
 	"owner_org": "e811f0b4-451f-4896-9e8f-fc6802837819",
 	"extras": [{
 		"key": "bbox-east-long",
@@ -188,7 +188,7 @@
 	},
 	{
 		"key": "graphic-preview-file",
-		"value": "https:\/\/coast.noaa.gov\/htdata\/lidar1_z\/geoid12b\/data\/5056\/supplemental\/ny2005_fema_be_ulster_m5056.kmz"
+		"value": "https://coast.noaa.gov/htdata/lidar1_z/geoid12b/data/5056/supplemental/ny2005_fema_be_ulster_m5056.kmz"
 	},
 	{
 		"key": "metadata-language",
@@ -204,7 +204,7 @@
 	},
 	{
 		"key": "spatial",
-		"value": "{\"type\": \"Polygon\", \"coordinates\": [[[-74.783, 41.5794], [-73.9114, 41.5794], [-73.9114, 42.1811], [-74.783, 42.1811], [-74.783, 41.5794]]]}"
+		"value": "{"type": "Polygon", "coordinates": [[[-74.783, 41.5794], [-73.9114, 41.5794], [-73.9114, 42.1811], [-74.783, 42.1811], [-74.783, 41.5794]]]}"
 	},
 	{
 		"key": "progress",
@@ -212,7 +212,7 @@
 	},
 	{
 		"key": "access_constraints",
-		"value": "[\"Use Constraints: Acknowledgement of FEMA would be appreciated in products derived from these data. This digital data is produced for the purposes of updating\/creating a DFIRM database.\", \"Access Constraints: None\"]"
+		"value": "["Use Constraints: Acknowledgement of FEMA would be appreciated in products derived from these data. This digital data is produced for the purposes of updating/creating a DFIRM database.", "Access Constraints: None"]"
 	},
 	{
 		"key": "temporal-extent-begin",
@@ -232,7 +232,7 @@
 	},
 	{
 		"key": "dataset-reference-date",
-		"value": "[{\"type\": \"publication\", \"value\": \"2014-08-10\"}]"
+		"value": "[{"type": "publication", "value": "2014-08-10"}]"
 	},
 	{
 		"key": "graphic-preview-description",
@@ -244,7 +244,7 @@
 	},
 	{
 		"key": "licence",
-		"value": "[\"Any conclusions drawn from the analysis of this information are not the responsibility of PAR Government System, Gomez and Sullivan Engineers, FEMA, Ulster County, NYSDEC, NOAA, the Office for Coastal Management or its partners.\"]"
+		"value": "["Any conclusions drawn from the analysis of this information are not the responsibility of PAR Government System, Gomez and Sullivan Engineers, FEMA, Ulster County, NYSDEC, NOAA, the Office for Coastal Management or its partners."]"
 	},
 	{
 		"key": "metadata_type",
@@ -252,7 +252,7 @@
 	},
 	{
 		"key": "responsible-party",
-		"value": "[{\"name\": \"NOAA Office for Coastal Management\", \"roles\": [\"pointOfContact\"]}]"
+		"value": "[{"name": "NOAA Office for Coastal Management", "roles": ["pointOfContact"]}]"
 	},
 	{
 		"key": "temporal-extent-end",
@@ -268,7 +268,7 @@
 	},
 	{
 		"key": "tags",
-		"value": "topography\/bathymetry, elevation data, ulster county, lidar, united states, land surface, new york, las",
+		"value": "topography/bathymetry, elevation data, ulster county, lidar, united states, land surface, new york, las",
 		"__extras": {
 			"revision_id": "c35abf8a-eb53-4832-bc5f-2cec33930905",
 			"package_id": "85d0514f-19df-4cf0-8ab1-67c9c3cd2b0a"

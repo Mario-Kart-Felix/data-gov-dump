@@ -37,7 +37,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2015-09-26T21:39:32.267091",
-		"url": "ftp:\/\/sidads.colorado.edu\/pub\/DATASETS\/NOAA\/G01171\/",
+		"url": "ftp://sidads.colorado.edu/pub/DATASETS/NOAA/G01171/",
 		"webstore_url": null,
 		"resource_locator_function": "function",
 		"position": 0,
@@ -67,7 +67,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2015-09-26T21:39:32.267114",
-		"url": "http:\/\/nsidc.org\/data\/docs\/noaa\/g01171_central_asian_snow\/index.html",
+		"url": "http://nsidc.org/data/docs/noaa/g01171_central_asian_snow/index.html",
 		"webstore_url": null,
 		"resource_locator_function": "function",
 		"position": 1,
@@ -85,7 +85,7 @@
 		"last_modified": null,
 		"hash": "",
 		"description": "",
-		"format": "application\/vnd.lotus-organizer",
+		"format": "application/vnd.lotus-organizer",
 		"tracking_summary": {
 			"total": 85,
 			"recent": 4
@@ -97,7 +97,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2015-09-26T21:39:32.267123",
-		"url": "http:\/\/nsidc.org",
+		"url": "http://nsidc.org",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 2,
@@ -127,7 +127,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2015-09-26T21:39:32.267131",
-		"url": "http:\/\/nsidc.org\/noaa\/",
+		"url": "http://nsidc.org/noaa/",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 3,
@@ -145,7 +145,7 @@
 		"last_modified": null,
 		"hash": "",
 		"description": "",
-		"format": "application\/vnd.lotus-organizer",
+		"format": "application/vnd.lotus-organizer",
 		"tracking_summary": {
 			"total": 85,
 			"recent": 4
@@ -157,7 +157,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2015-09-26T21:39:32.267139",
-		"url": "http:\/\/nsidc.org",
+		"url": "http://nsidc.org",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 4,
@@ -177,7 +177,7 @@
 	"name": "central-asian-snow-cover-from-hydrometeorological-surveys",
 	"isopen": false,
 	"url": null,
-	"notes": "\nThe Central Asian Snow Cover from Hydrometeorological Surveys data are based on observations made by personnel for three river basins: Amu Darya, Sir Darya, and Naryn. These observations include end of month snow depth, snow density and snow water equivalent. Only snow depth is included for additional snow points measured by helicopter landings. Temporal coverage varies for each snow point, with the longest station record extending from 1932 through 1990. Data were provided to NSIDC by the State Hydrometeorological Service (Russian acronym SANIGMI) in Tashkent, Uzbekistan.Development of this data set was funded by the NOAA Environmental Services, Data, and Information Management (ESDIM) program, through the NOAA\/NESDIS National Geophysical Data Center (NGDC).\n",
+	"notes": "nThe Central Asian Snow Cover from Hydrometeorological Surveys data are based on observations made by personnel for three river basins: Amu Darya, Sir Darya, and Naryn. These observations include end of month snow depth, snow density and snow water equivalent. Only snow depth is included for additional snow points measured by helicopter landings. Temporal coverage varies for each snow point, with the longest station record extending from 1932 through 1990. Data were provided to NSIDC by the State Hydrometeorological Service (Russian acronym SANIGMI) in Tashkent, Uzbekistan.Development of this data set was funded by the NOAA Environmental Services, Data, and Information Management (ESDIM) program, through the NOAA/NESDIS National Geophysical Data Center (NGDC).n",
 	"license_title": null,
 	"extras": [{
 		"key": "bbox-east-long",
@@ -213,7 +213,7 @@
 	},
 	{
 		"key": "spatial",
-		"value": "{\"type\": \"Polygon\", \"coordinates\": [[[66.0, 37.0], [74.0, 37.0], [74.0, 40.0], [66.0, 40.0], [66.0, 37.0]]]}"
+		"value": "{"type": "Polygon", "coordinates": [[[66.0, 37.0], [74.0, 37.0], [74.0, 40.0], [66.0, 40.0], [66.0, 37.0]]]}"
 	},
 	{
 		"key": "progress",
@@ -221,7 +221,7 @@
 	},
 	{
 		"key": "access_constraints",
-		"value": "[\"Access Constraints : none\", \"Use Constraints : none\"]"
+		"value": "["Access Constraints : none", "Use Constraints : none"]"
 	},
 	{
 		"key": "temporal-extent-begin",
@@ -241,7 +241,7 @@
 	},
 	{
 		"key": "dataset-reference-date",
-		"value": "[{\"type\": \"publication\", \"value\": \"2001-01-01\"}]"
+		"value": "[{"type": "publication", "value": "2001-01-01"}]"
 	},
 	{
 		"key": "frequency-of-update",
@@ -257,7 +257,7 @@
 	},
 	{
 		"key": "responsible-party",
-		"value": "[{\"name\": \"\", \"roles\": [\"principalInvestigator\"]}, {\"name\": \"National Snow and Ice Data Center\", \"roles\": [\"pointOfContact\"]}, {\"name\": \"Webster State University\", \"roles\": [\"principalInvestigator\"]}]"
+		"value": "[{"name": "", "roles": ["principalInvestigator"]}, {"name": "National Snow and Ice Data Center", "roles": ["pointOfContact"]}, {"name": "Webster State University", "roles": ["principalInvestigator"]}]"
 	},
 	{
 		"key": "temporal-extent-end",
@@ -273,7 +273,7 @@
 	},
 	{
 		"package_id": "1f39c481-e9a3-4deb-8754-06c676472955",
-		"value": "snow water equivalent, kyrgyzstan, terrestrial hydrosphere, snow depth, snow density, cryosphere, asia, continent, uzbekistan, snow cover, central asia, snow\/ice, tajikistan, southcentral asia, earth science",
+		"value": "snow water equivalent, kyrgyzstan, terrestrial hydrosphere, snow depth, snow density, cryosphere, asia, continent, uzbekistan, snow cover, central asia, snow/ice, tajikistan, southcentral asia, earth science",
 		"revision_timestamp": "2015-09-27T01:39:32.209280",
 		"state": "active",
 		"key": "tags",
@@ -303,7 +303,7 @@
 		"revision_timestamp": "2013-03-25T23:05:12.923863",
 		"is_organization": true,
 		"state": "active",
-		"image_url": "https:\/\/fortress.wa.gov\/dfw\/score\/score\/images\/noaa_logo.png",
+		"image_url": "https://fortress.wa.gov/dfw/score/score/images/noaa_logo.png",
 		"revision_id": "c6d43080-22e1-405e-a83d-f2a512d9e867",
 		"type": "organization",
 		"id": "e811f0b4-451f-4896-9e8f-fc6802837819",

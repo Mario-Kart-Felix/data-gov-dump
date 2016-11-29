@@ -34,9 +34,9 @@
 		"resource_locator_protocol": "WWW:LINK-1.0-http--link",
 		"mimetype": null,
 		"cache_url": null,
-		"name": "ftp:\/\/ftp.nefsc.noaa.gov\/pub\/hydro\/zooplankton_data\/",
+		"name": "ftp://ftp.nefsc.noaa.gov/pub/hydro/zooplankton_data/",
 		"created": "2016-10-19T16:19:39.535858",
-		"url": "ftp:\/\/ftp.nefsc.noaa.gov\/pub\/hydro\/zooplankton_data\/",
+		"url": "ftp://ftp.nefsc.noaa.gov/pub/hydro/zooplankton_data/",
 		"webstore_url": null,
 		"resource_locator_function": "download",
 		"position": 0,
@@ -65,7 +65,7 @@
 		"cache_url": null,
 		"name": "Website",
 		"created": "2016-10-19T16:19:39.535882",
-		"url": "http:\/\/www.nefsc.noaa.gov",
+		"url": "http://www.nefsc.noaa.gov",
 		"webstore_url": null,
 		"resource_locator_function": "information",
 		"position": 1,
@@ -94,7 +94,7 @@
 		"cache_url": null,
 		"name": "Citation URL",
 		"created": "2016-10-19T16:19:39.535891",
-		"url": "http:\/\/www.nefsc.noaa.gov\/epd\/ocean\/MainPage\/ioos.html",
+		"url": "http://www.nefsc.noaa.gov/epd/ocean/MainPage/ioos.html",
 		"webstore_url": null,
 		"resource_locator_function": "download",
 		"position": 2,
@@ -123,7 +123,7 @@
 		"cache_url": null,
 		"name": "Citation URL",
 		"created": "2016-10-19T16:19:39.535899",
-		"url": "ftp:\/\/ftp.nefsc.noaa.gov\/pub\/dropoff\/jhare\/EcoMon_Data\/",
+		"url": "ftp://ftp.nefsc.noaa.gov/pub/dropoff/jhare/EcoMon_Data/",
 		"webstore_url": null,
 		"resource_locator_function": "download",
 		"position": 3,
@@ -152,7 +152,7 @@
 		"cache_url": null,
 		"name": "Website",
 		"created": "2016-10-19T16:19:39.535906",
-		"url": "http:\/\/nefsc.noaa.gov\/nefsc\/Narragansett\/",
+		"url": "http://nefsc.noaa.gov/nefsc/Narragansett/",
 		"webstore_url": null,
 		"resource_locator_function": "information",
 		"position": 4,
@@ -181,7 +181,7 @@
 		"cache_url": null,
 		"name": "Website",
 		"created": "2016-10-19T16:19:39.535913",
-		"url": "http:\/\/www.nefsc.noaa.gov",
+		"url": "http://www.nefsc.noaa.gov",
 		"webstore_url": null,
 		"resource_locator_function": "information",
 		"position": 5,
@@ -210,7 +210,7 @@
 		"cache_url": null,
 		"name": "NOAA Data Management Plan (DMP)",
 		"created": "2016-10-19T16:19:39.535927",
-		"url": "https:\/\/inport.nmfs.noaa.gov\/inport\/item\/9286\/dmp",
+		"url": "https://inport.nmfs.noaa.gov/inport/item/9286/dmp",
 		"webstore_url": null,
 		"resource_locator_function": "information",
 		"position": 6,
@@ -227,7 +227,7 @@
 		"state": "active",
 		"last_modified": null,
 		"hash": "",
-		"description": "This page describes the NASA GCMD Keywords, how\n                                                        to reference those keywords and provides download instructions.\n                                                    ",
+		"description": "This page describes the NASA GCMD Keywords, hown                                                        to reference those keywords and provides download instructions.n                                                    ",
 		"format": "HTML",
 		"tracking_summary": {
 			"total": 479,
@@ -239,7 +239,7 @@
 		"cache_url": null,
 		"name": "GCMD Keywords Page",
 		"created": "2016-10-19T16:19:39.535945",
-		"url": "http:\/\/gcmd.nasa.gov\/learn\/keyword_list.html",
+		"url": "http://gcmd.nasa.gov/learn/keyword_list.html",
 		"webstore_url": null,
 		"resource_locator_function": "information",
 		"position": 7,
@@ -259,7 +259,7 @@
 	"name": "oceanography-branch-plankton-database",
 	"isopen": false,
 	"url": null,
-	"notes": "Shelf-wide Research Vessel Surveys are conducted 4-8 times per year over the continental shelf from Cape Hatteras, North Carolina to Cape Sable, Nova Scotia, using NOAA research ships or charter vessels.  The Cape Hatteras to Cape Sable area is divided into four regions, and 30 randomly selected stations are targeted for sampling from each region.\n\nThe investigation utilizes shelf-wide research vessel surveys to gather data on planktonic organisms including zooplankton and ichtyoplankton. Environmental parameters are also collected but stored in different databases (e.g., OCDBS).\nThe investigation monitors the fishery-relevant components of the Northeast Shelf ecosystem, to characterize the baseline conditions and to determine the effects of biological and physical processes on the recruitment of Northeast shelf fishes.",
+	"notes": "Shelf-wide Research Vessel Surveys are conducted 4-8 times per year over the continental shelf from Cape Hatteras, North Carolina to Cape Sable, Nova Scotia, using NOAA research ships or charter vessels.  The Cape Hatteras to Cape Sable area is divided into four regions, and 30 randomly selected stations are targeted for sampling from each region.nnThe investigation utilizes shelf-wide research vessel surveys to gather data on planktonic organisms including zooplankton and ichtyoplankton. Environmental parameters are also collected but stored in different databases (e.g., OCDBS).nThe investigation monitors the fishery-relevant components of the Northeast Shelf ecosystem, to characterize the baseline conditions and to determine the effects of biological and physical processes on the recruitment of Northeast shelf fishes.",
 	"license_title": null,
 	"extras": [{
 		"key": "bbox-east-long",
@@ -295,7 +295,7 @@
 	},
 	{
 		"key": "spatial",
-		"value": "{\"type\": \"Polygon\", \"coordinates\": [[[-84.68, 26.77], [-63.6, 26.77], [-63.6, 44.7], [-84.68, 44.7], [-84.68, 26.77]]]}"
+		"value": "{"type": "Polygon", "coordinates": [[[-84.68, 26.77], [-63.6, 26.77], [-63.6, 44.7], [-84.68, 44.7], [-84.68, 26.77]]]}"
 	},
 	{
 		"key": "progress",
@@ -303,7 +303,7 @@
 	},
 	{
 		"key": "access_constraints",
-		"value": "[\"Access Constraints: NEFSC Data Access Constraint:\\nIf data is stored on an internal NEFSC network, the requester may not have direct access to query the data unless they are also authorized for network access. | Use Constraints: none\"]"
+		"value": "["Access Constraints: NEFSC Data Access Constraint:\nIf data is stored on an internal NEFSC network, the requester may not have direct access to query the data unless they are also authorized for network access. | Use Constraints: none"]"
 	},
 	{
 		"key": "temporal-extent-begin",
@@ -323,7 +323,7 @@
 	},
 	{
 		"key": "dataset-reference-date",
-		"value": "[{\"type\": \"publication\", \"value\": \"\"}]"
+		"value": "[{"type": "publication", "value": ""}]"
 	},
 	{
 		"key": "frequency-of-update",
@@ -339,7 +339,7 @@
 	},
 	{
 		"key": "responsible-party",
-		"value": "[{\"name\": \"\", \"roles\": [\"\"]}, {\"name\": \"Northeast Fisheries Science Center\", \"roles\": [\"custodian\"]}, {\"name\": \"NEFSC Narragansett Lab\", \"roles\": [\"pointOfContact\"]}]"
+		"value": "[{"name": "", "roles": [""]}, {"name": "Northeast Fisheries Science Center", "roles": ["custodian"]}, {"name": "NEFSC Narragansett Lab", "roles": ["pointOfContact"]}]"
 	},
 	{
 		"key": "spatial-data-service-type",
@@ -351,7 +351,7 @@
 	},
 	{
 		"package_id": "2600f463-427f-49d6-85a6-a22925933dc1",
-		"value": "4-8 times per year, baseline conditions, georges bank, carolina capes (north carolina), oceanography, southern new england, ecosystem monitoring, shelf-wide, zooplankton, uses a random stratified design based on nefsc trawl survey, east florida, nova scotia, doc\/noaa\/nmfs\/nefsc, ichthyoplankton, georgia, 1971-present, northeast fisheries science center, national marine fisheries service, noaa, u.s. department of commerce, remote sensing, mid-atlantic bight, plankton, south carolina, gulf of maine",
+		"value": "4-8 times per year, baseline conditions, georges bank, carolina capes (north carolina), oceanography, southern new england, ecosystem monitoring, shelf-wide, zooplankton, uses a random stratified design based on nefsc trawl survey, east florida, nova scotia, doc/noaa/nmfs/nefsc, ichthyoplankton, georgia, 1971-present, northeast fisheries science center, national marine fisheries service, noaa, u.s. department of commerce, remote sensing, mid-atlantic bight, plankton, south carolina, gulf of maine",
 		"revision_timestamp": "2016-03-28T18:42:24.874834",
 		"state": "active",
 		"key": "tags",
@@ -381,7 +381,7 @@
 		"revision_timestamp": "2013-03-25T23:05:12.923863",
 		"is_organization": true,
 		"state": "active",
-		"image_url": "https:\/\/fortress.wa.gov\/dfw\/score\/score\/images\/noaa_logo.png",
+		"image_url": "https://fortress.wa.gov/dfw/score/score/images/noaa_logo.png",
 		"revision_id": "c6d43080-22e1-405e-a83d-f2a512d9e867",
 		"type": "organization",
 		"id": "e811f0b4-451f-4896-9e8f-fc6802837819",

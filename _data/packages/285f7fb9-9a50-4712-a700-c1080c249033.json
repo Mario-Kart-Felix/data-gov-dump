@@ -36,7 +36,7 @@
 		"cache_url": null,
 		"name": "ASC",
 		"created": "2016-09-02T23:41:32.555358",
-		"url": "http:\/\/maps.vcgi.vermont.gov\/gisdata\/vcgi\/packaged_zips\/ElevationDEM_VTHYDRODEM.zip",
+		"url": "http://maps.vcgi.vermont.gov/gisdata/vcgi/packaged_zips/ElevationDEM_VTHYDRODEM.zip",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 0,
@@ -45,7 +45,7 @@
 	}],
 	"num_resources": 1,
 	"tags": [],
-	"title": "Vermont \"Hydrologically Corrected\" Digital Elevation Model (VTHYDRODEM)",
+	"title": "Vermont "Hydrologically Corrected" Digital Elevation Model (VTHYDRODEM)",
 	"tracking_summary": {
 		"total": 3,
 		"recent": 2
@@ -69,7 +69,7 @@
 	"name": "vermont-hydrologically-corrected-digital-elevation-model-vthydrodem",
 	"isopen": false,
 	"url": null,
-	"notes": "VTHYDRODEM was created to produce a \"hydrologically correct\" DEM, compliant with the Vermont Hydrography Dataset (VHD) in support of the \"flow regime\" project whose goal it is to derive stream perenniality for the VHD through application of logistic regression techniques. Some very important notes about the data: 1)Produced specifically for hydrologic modeling purposes and elevation surface has been altered and should not be used for analyses requiring unmodified elevation values; 2) ELEVATION VALUES, i.e., \"Z units\", are in CENTIMETERS (details below); and 3) Source data spans a five year period where varying techniques were used. This may explain observed inconsistencies both between and within tiles (detailed in the Attribute Accuracy Report below). This dataset has elevation values present in the surface that accurately reflect the down gradient nature and location of surface water features, i.e. the VHD. This process is also known as \"hydro-enforcement\" or \"drainage enforcement\". It is largely unknown that the 1:24k scale National Elevation Dataset (NED) is not \"hydrologically correct\" in relation to the National Hydrography Dataset (NHD) vector data of the same scale, e.g., the flow paths in the NED surface are not perfectly coincident to those in the scale NHD surface water features. This fact precluded the use of the NED data for hydrologic modeling efforts and reaffirmed the need to create a new \"hydrologically correct\" DEM. All processing was done using ARCINFO workstation (v.8.3) commands. The ARCINFO \"TOPOGRID\" command was used to create VTHYDRODEM as it was specifically designed to create \"hydrologically correct\" digital elevation models (DEM's) from elevation, stream and lake data sets. Single line \"1D\" streams and lake\/pond \"2D\" polygons, from the 1:5k scale VHD, were given priority over input elevation data in the interpolation process to ensure that the resulting data is \"hydrologically correct\". Both the VHD and VTHYDRODEM share a common base of the state digital orthophotos, ensuring their interoperability. The Triangulated Irregular Networks (TIN) method was not considered but interested readers should review West Virginia's approach http:\/\/www.wvgis.wvu.edu\/stateactivities\/wvsamb\/elevation\/topogrid_vs_tin.pdf. This report notes the advantages and disadvantages of each approach. It should be noted that the WV effort included more recent imagery, and a much tighter sampling interval of source data. Nonetheless, it makes a strong case for the TIN approach that should be considered in any subsequent DEM development efforts. The density of input points used to create VTHYDRODEM was lower than the 1:24k NED but the vertical accuracy of those points tested at a higher accuracy and these points were generated with less variability in technique than that of the NED (see http:\/\/gisdata.usgs.net\/website\/USGS_GN_NED_DSI\/viewer.htm and check \"production methods\" under \"Layers\" for NED data sources and methods). Vertical accuracy was derived using the FGDC National Standards for Spatial Data Accuracy (NSSDA) standards. For the sake of comparison, VTHYDRODEM tested at 6.05 meters, vertical accuracy at the 95% confidence level, whereas, the 1:24k National Elevation Dataset (DEM_24) tested at 21.3 meters. VTHYDRODEM was created for a specific, in-house project to support hydrologic modeling activities using the 1:5k scale VHD. It was interpolated from: 1) the Vermont Mapping Program (VMP) \"x, y, z\" data known as the \"DEM points\" (originally used to georectify the state digital orthophotos); and 2) VHD surface water features. A 10-meter cell resolution was chosen for VTHYDRODEM as a balance between input data accuracy and practical considerations and does not necessarily reflect the accuracy of the input data. The 10-meter resolution of this dataset was chosen arbitrarily for reasons noted below and should not be confused with an accuracy of 10 meters. This data should not be confused with the \"1\/3 arc second\" 10m NED data. The lower 10m cell resolution has the following advantages when compared to the existing 30m 1:24k NED: 1) Stream confluences (junctions) can be defined with a greater degree of precision; 2) Confluences in close proximity can be represented individually; 3) Smaller landscape features can be represented and larger ones in greater detail; 4) Exponential improvement in volumetric measurement and tripling of precision in linear measurement of derived vector features, e.g., a watershed boundary is composed of aggregated 10m, i.e., 3 cells equals 30m vs. 30m resolution where 3 cells equals 90m. Similarly the concept applies to volumetric measurements); and 5) Improved cartographic accuracy for derived vector features. NOTE! Elevation units, e.g., \"Z units\" are in CENTIMETERS. This seeming arbitrary decision has a number of advantages worth considering. The output grid can now be stored as an \"integer\" type grid while simultaneously preserving the precision of the input data to the nearest centimeter. Integer type grids require one-tenth the storage space and are consequently much faster to process, e.g., deriving watershed boundaries. While it is unlikely that the input data is accurate to the nearest centimeter, this approach allows for greater precision storage, improves the overall appearance of the DEM and precludes problems with the model's depiction of over land flow in hydrologic related analyses when compared to coarser vertical resolutions. This approach mirrors a trend among the USGS and its contractors, who are now producing DEM's with a vertical resolution of decimeters (0.1 meter) for the benefits outlined above.",
+	"notes": "VTHYDRODEM was created to produce a "hydrologically correct" DEM, compliant with the Vermont Hydrography Dataset (VHD) in support of the "flow regime" project whose goal it is to derive stream perenniality for the VHD through application of logistic regression techniques. Some very important notes about the data: 1)Produced specifically for hydrologic modeling purposes and elevation surface has been altered and should not be used for analyses requiring unmodified elevation values; 2) ELEVATION VALUES, i.e., "Z units", are in CENTIMETERS (details below); and 3) Source data spans a five year period where varying techniques were used. This may explain observed inconsistencies both between and within tiles (detailed in the Attribute Accuracy Report below). This dataset has elevation values present in the surface that accurately reflect the down gradient nature and location of surface water features, i.e. the VHD. This process is also known as "hydro-enforcement" or "drainage enforcement". It is largely unknown that the 1:24k scale National Elevation Dataset (NED) is not "hydrologically correct" in relation to the National Hydrography Dataset (NHD) vector data of the same scale, e.g., the flow paths in the NED surface are not perfectly coincident to those in the scale NHD surface water features. This fact precluded the use of the NED data for hydrologic modeling efforts and reaffirmed the need to create a new "hydrologically correct" DEM. All processing was done using ARCINFO workstation (v.8.3) commands. The ARCINFO "TOPOGRID" command was used to create VTHYDRODEM as it was specifically designed to create "hydrologically correct" digital elevation models (DEM's) from elevation, stream and lake data sets. Single line "1D" streams and lake/pond "2D" polygons, from the 1:5k scale VHD, were given priority over input elevation data in the interpolation process to ensure that the resulting data is "hydrologically correct". Both the VHD and VTHYDRODEM share a common base of the state digital orthophotos, ensuring their interoperability. The Triangulated Irregular Networks (TIN) method was not considered but interested readers should review West Virginia's approach http://www.wvgis.wvu.edu/stateactivities/wvsamb/elevation/topogrid_vs_tin.pdf. This report notes the advantages and disadvantages of each approach. It should be noted that the WV effort included more recent imagery, and a much tighter sampling interval of source data. Nonetheless, it makes a strong case for the TIN approach that should be considered in any subsequent DEM development efforts. The density of input points used to create VTHYDRODEM was lower than the 1:24k NED but the vertical accuracy of those points tested at a higher accuracy and these points were generated with less variability in technique than that of the NED (see http://gisdata.usgs.net/website/USGS_GN_NED_DSI/viewer.htm and check "production methods" under "Layers" for NED data sources and methods). Vertical accuracy was derived using the FGDC National Standards for Spatial Data Accuracy (NSSDA) standards. For the sake of comparison, VTHYDRODEM tested at 6.05 meters, vertical accuracy at the 95% confidence level, whereas, the 1:24k National Elevation Dataset (DEM_24) tested at 21.3 meters. VTHYDRODEM was created for a specific, in-house project to support hydrologic modeling activities using the 1:5k scale VHD. It was interpolated from: 1) the Vermont Mapping Program (VMP) "x, y, z" data known as the "DEM points" (originally used to georectify the state digital orthophotos); and 2) VHD surface water features. A 10-meter cell resolution was chosen for VTHYDRODEM as a balance between input data accuracy and practical considerations and does not necessarily reflect the accuracy of the input data. The 10-meter resolution of this dataset was chosen arbitrarily for reasons noted below and should not be confused with an accuracy of 10 meters. This data should not be confused with the "1/3 arc second" 10m NED data. The lower 10m cell resolution has the following advantages when compared to the existing 30m 1:24k NED: 1) Stream confluences (junctions) can be defined with a greater degree of precision; 2) Confluences in close proximity can be represented individually; 3) Smaller landscape features can be represented and larger ones in greater detail; 4) Exponential improvement in volumetric measurement and tripling of precision in linear measurement of derived vector features, e.g., a watershed boundary is composed of aggregated 10m, i.e., 3 cells equals 30m vs. 30m resolution where 3 cells equals 90m. Similarly the concept applies to volumetric measurements); and 5) Improved cartographic accuracy for derived vector features. NOTE! Elevation units, e.g., "Z units" are in CENTIMETERS. This seeming arbitrary decision has a number of advantages worth considering. The output grid can now be stored as an "integer" type grid while simultaneously preserving the precision of the input data to the nearest centimeter. Integer type grids require one-tenth the storage space and are consequently much faster to process, e.g., deriving watershed boundaries. While it is unlikely that the input data is accurate to the nearest centimeter, this approach allows for greater precision storage, improves the overall appearance of the DEM and precludes problems with the model's depiction of over land flow in hydrologic related analyses when compared to coarser vertical resolutions. This approach mirrors a trend among the USGS and its contractors, who are now producing DEM's with a vertical resolution of decimeters (0.1 meter) for the benefits outlined above.",
 	"license_title": null,
 	"extras": [{
 		"key": "bbox-east-long",
@@ -105,7 +105,7 @@
 	},
 	{
 		"key": "spatial",
-		"value": "{\"type\": \"Polygon\", \"coordinates\": [[[-73.456573, 42.722067], [-71.463514, 42.722067], [-71.463514, 45.01927], [-73.456573, 45.01927], [-73.456573, 42.722067]]]}"
+		"value": "{"type": "Polygon", "coordinates": [[[-73.456573, 42.722067], [-71.463514, 42.722067], [-71.463514, 45.01927], [-73.456573, 45.01927], [-73.456573, 42.722067]]]}"
 	},
 	{
 		"key": "progress",
@@ -113,7 +113,7 @@
 	},
 	{
 		"key": "access_constraints",
-		"value": "[\"Use Constraints: While VCGI has made an assessment of the vertical accuracy of VTHYDRODEM data against National Geodetic Survey vertical benchmarks (see Data Quality Section), users should assess this data and derived data products for appropriate use in any given project. This data was produced specifically for hydrologic modeling purposes and should not be used for true elevation analyses.\", \"Access Constraints: VCGI and the State of VT make no representations of any kind, including but not limited to the warranties of merchantability or fitness for a particular use, nor are any such warranties to be implied with respect to the data.\"]"
+		"value": "["Use Constraints: While VCGI has made an assessment of the vertical accuracy of VTHYDRODEM data against National Geodetic Survey vertical benchmarks (see Data Quality Section), users should assess this data and derived data products for appropriate use in any given project. This data was produced specifically for hydrologic modeling purposes and should not be used for true elevation analyses.", "Access Constraints: VCGI and the State of VT make no representations of any kind, including but not limited to the warranties of merchantability or fitness for a particular use, nor are any such warranties to be implied with respect to the data."]"
 	},
 	{
 		"key": "temporal-extent-begin",
@@ -133,7 +133,7 @@
 	},
 	{
 		"key": "dataset-reference-date",
-		"value": "[{\"type\": \"publication\", \"value\": \"2006-10-31\"}]"
+		"value": "[{"type": "publication", "value": "2006-10-31"}]"
 	},
 	{
 		"key": "frequency-of-update",
@@ -141,7 +141,7 @@
 	},
 	{
 		"key": "licence",
-		"value": "[\"VCGI and the State of Vermont make no representations of any kind, including but not limited to the warranties of merchantability or fitness for a particular use, nor are any such warranties to be implied with respect to the data.\"]"
+		"value": "["VCGI and the State of Vermont make no representations of any kind, including but not limited to the warranties of merchantability or fitness for a particular use, nor are any such warranties to be implied with respect to the data."]"
 	},
 	{
 		"key": "metadata_type",
@@ -149,7 +149,7 @@
 	},
 	{
 		"key": "responsible-party",
-		"value": "[{\"name\": \"VT Center for Geographic Information\", \"roles\": [\"pointOfContact\"]}]"
+		"value": "[{"name": "VT Center for Geographic Information", "roles": ["pointOfContact"]}]"
 	},
 	{
 		"key": "temporal-extent-end",
@@ -195,7 +195,7 @@
 		"revision_timestamp": "2013-03-27T17:47:03.718032",
 		"is_organization": true,
 		"state": "active",
-		"image_url": "http:\/\/vcgi.vermont.gov\/sites\/all\/themes\/vt_template\/logo.png",
+		"image_url": "http://vcgi.vermont.gov/sites/all/themes/vt_template/logo.png",
 		"revision_id": "c5dfbbb0-f1e0-4db6-b566-e932e1520060",
 		"type": "organization",
 		"id": "0c3a4ebc-9929-4f21-bdd0-76a35d52f57d",

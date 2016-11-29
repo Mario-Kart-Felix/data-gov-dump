@@ -37,7 +37,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2013-03-14T20:49:19.197059",
-		"url": "http:\\\\www.kansasgis.org",
+		"url": "http:\\www.kansasgis.org",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 0,
@@ -67,7 +67,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2013-03-14T20:49:19.197076",
-		"url": "http:\/\/www.kansasgis.org",
+		"url": "http://www.kansasgis.org",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 1,
@@ -87,11 +87,11 @@
 	"name": "us-national-grid",
 	"isopen": false,
 	"url": null,
-	"notes": "This is a polygon feature data layer of United States National Grid (1000m x 1000m polygons ) constructed by the Center for Interdisciplinary Geospatial Information Technologies at Delta State University with support from the US Geological Survey under the Cooperative Agreement 07ERAG0083. For correct display, please set the base coordinate system and projection such that it matches the UTM zone for which these data were constructed using the NAD 83 datum. Further information about the US National Grid is available from http:\/\/www.fgdc.gov\/usng and a viewing of these layers as applied to local geography may be seen at the National Map, http:\/\/www.nationalmap.gov. The name of each dataset has the following format - StateAbbv_USNG_UTMXX. For example, for the UTM zone 15 of Mississippi, the dataset is named MS_USNG_UTM15.",
+	"notes": "This is a polygon feature data layer of United States National Grid (1000m x 1000m polygons ) constructed by the Center for Interdisciplinary Geospatial Information Technologies at Delta State University with support from the US Geological Survey under the Cooperative Agreement 07ERAG0083. For correct display, please set the base coordinate system and projection such that it matches the UTM zone for which these data were constructed using the NAD 83 datum. Further information about the US National Grid is available from http://www.fgdc.gov/usng and a viewing of these layers as applied to local geography may be seen at the National Map, http://www.nationalmap.gov. The name of each dataset has the following format - StateAbbv_USNG_UTMXX. For example, for the UTM zone 15 of Mississippi, the dataset is named MS_USNG_UTM15.",
 	"license_title": null,
 	"extras": [{
 		"key": "responsible-party",
-		"value": "[{\"name\": \"Center for Interdisciplinary Geospatial Information Technologies\", \"roles\": [\"pointOfContact\"]}]"
+		"value": "[{"name": "Center for Interdisciplinary Geospatial Information Technologies", "roles": ["pointOfContact"]}]"
 	},
 	{
 		"key": "temporal-extent-end",
@@ -107,7 +107,7 @@
 	},
 	{
 		"key": "bbox-west-long",
-		"value": "\n-102.129780"
+		"value": "n-102.129780"
 	},
 	{
 		"key": "metadata-date",
@@ -115,7 +115,7 @@
 	},
 	{
 		"key": "dataset-reference-date",
-		"value": "[{\"type\": \"publication\", \"value\": \"9999-01-01\"}]"
+		"value": "[{"type": "publication", "value": "9999-01-01"}]"
 	},
 	{
 		"key": "resource-type",
@@ -131,7 +131,7 @@
 	},
 	{
 		"key": "bbox-north-lat",
-		"value": "\n40.065256"
+		"value": "n40.065256"
 	},
 	{
 		"key": "coupled-resource",
@@ -139,11 +139,11 @@
 	},
 	{
 		"key": "bbox-south-lat",
-		"value": "\n36.936222"
+		"value": "n36.936222"
 	},
 	{
 		"key": "licence",
-		"value": "[\"The State of Kansas Geographic Information Systems Core Database's digital data have been tested and their documentation carefully reviewed. However, the State of Kansas Geographic Information Systems Policy Board's Data Access and Support Center and its representatives make no warranty or representation, either expressed or implied, with respect to the digital data and their documentation, their quality, performance, merchantability, or fitness for a particular purpose. The digital data are distributed on \\\"as is\\\" basis, and the user assumes all risk to their quality, the results obtained from their use, and the performance of the data. In no event will the State of Kansas Geographic Information Systems Policy Board or its representatives be liable for any direct, indirect, special, incidental or consequential damages resulting from and defect in the State of Kansas Geographic Information Systems Core Database's digital data or in their documentation. This disclaimer of warranty is exlusive and in lieu of all others, oral or written, express or implied. No agent or employee is authorized to make any modification, extension, or addition to this warranty.\"]"
+		"value": "["The State of Kansas Geographic Information Systems Core Database's digital data have been tested and their documentation carefully reviewed. However, the State of Kansas Geographic Information Systems Policy Board's Data Access and Support Center and its representatives make no warranty or representation, either expressed or implied, with respect to the digital data and their documentation, their quality, performance, merchantability, or fitness for a particular purpose. The digital data are distributed on \"as is\" basis, and the user assumes all risk to their quality, the results obtained from their use, and the performance of the data. In no event will the State of Kansas Geographic Information Systems Policy Board or its representatives be liable for any direct, indirect, special, incidental or consequential damages resulting from and defect in the State of Kansas Geographic Information Systems Core Database's digital data or in their documentation. This disclaimer of warranty is exlusive and in lieu of all others, oral or written, express or implied. No agent or employee is authorized to make any modification, extension, or addition to this warranty."]"
 	},
 	{
 		"key": "metadata_type",
@@ -151,7 +151,7 @@
 	},
 	{
 		"key": "spatial",
-		"value": "{\"type\": \"Polygon\", \"coordinates\": [[[-102.12978, 36.936222], [-102.12978, 40.065256], [-95.87022, 40.065256], [-95.87022, 36.936222], [-102.12978, 36.936222]]]}"
+		"value": "{"type": "Polygon", "coordinates": [[[-102.12978, 36.936222], [-102.12978, 40.065256], [-95.87022, 40.065256], [-95.87022, 36.936222], [-102.12978, 36.936222]]]}"
 	},
 	{
 		"key": "guid",
@@ -163,11 +163,11 @@
 	},
 	{
 		"key": "access_constraints",
-		"value": "[\"Use Constraints: The Information contained in this map was derived from a variety of public and private sources. The GIS Center and Delta State University make no warranties as to the completeness, accuracy, reliability or suitability of the source data or for any conclusions derived from this map. Use at your own risk.\", \"Access Constraints: This data set should not be used for commercial purposes. It can be freely used for public good by academic and for emergency\/disaster response. Please contact the Delta State GIS Center at 662 846 4522 for clarification.\"]"
+		"value": "["Use Constraints: The Information contained in this map was derived from a variety of public and private sources. The GIS Center and Delta State University make no warranties as to the completeness, accuracy, reliability or suitability of the source data or for any conclusions derived from this map. Use at your own risk.", "Access Constraints: This data set should not be used for commercial purposes. It can be freely used for public good by academic and for emergency/disaster response. Please contact the Delta State GIS Center at 662 846 4522 for clarification."]"
 	},
 	{
 		"key": "bbox-east-long",
-		"value": "\n-95.870220"
+		"value": "n-95.870220"
 	},
 	{
 		"key": "frequency-of-update",
@@ -205,7 +205,7 @@
 		"revision_timestamp": "2013-05-30T15:56:28.333515",
 		"is_organization": true,
 		"state": "active",
-		"image_url": "http:\/\/www.kansasgis.org\/_style\/img\/banner.png",
+		"image_url": "http://www.kansasgis.org/_style/img/banner.png",
 		"revision_id": "649a4ecd-dd72-4628-b80e-cea6a4f616d2",
 		"type": "organization",
 		"id": "56d45844-910f-4632-a4ff-bf5f0e6cb653",

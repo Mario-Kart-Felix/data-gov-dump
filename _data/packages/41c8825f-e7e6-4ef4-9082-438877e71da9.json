@@ -37,7 +37,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2015-09-26T19:52:05.635814",
-		"url": "http:\/\/www.sanctuaries.noaa.gov\/library\/imast_gis.html",
+		"url": "http://www.sanctuaries.noaa.gov/library/imast_gis.html",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 0,
@@ -67,7 +67,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2015-09-26T19:52:05.635839",
-		"url": "http:\/\/sanctuaries.noaa.gov\/library\/imast_gis.html",
+		"url": "http://sanctuaries.noaa.gov/library/imast_gis.html",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 1,
@@ -97,7 +97,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2015-09-26T19:52:05.635849",
-		"url": "http:\/\/www.sanctuaries.noaa.gov\/",
+		"url": "http://www.sanctuaries.noaa.gov/",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 2,
@@ -121,7 +121,7 @@
 	"license_title": null,
 	"extras": [{
 		"key": "bbox-east-long",
-		"value": "-118.907120\n"
+		"value": "-118.907120n"
 	},
 	{
 		"key": "resource-type",
@@ -129,7 +129,7 @@
 	},
 	{
 		"key": "bbox-north-lat",
-		"value": "34.207070\n"
+		"value": "34.207070n"
 	},
 	{
 		"key": "coupled-resource",
@@ -145,11 +145,11 @@
 	},
 	{
 		"key": "graphic-preview-file",
-		"value": "http:\/\/sanctuaries.noaa.gov\/visit\/images\/ci_map_big.jpg"
+		"value": "http://sanctuaries.noaa.gov/visit/images/ci_map_big.jpg"
 	},
 	{
 		"key": "bbox-south-lat",
-		"value": "33.362410\n"
+		"value": "33.362410n"
 	},
 	{
 		"key": "spatial-reference-system",
@@ -161,7 +161,7 @@
 	},
 	{
 		"key": "spatial",
-		"value": "{\"type\": \"Polygon\", \"coordinates\": [[[-120.64208, 33.36241], [-118.90712, 33.36241], [-118.90712, 34.20707], [-120.64208, 34.20707], [-120.64208, 33.36241]]]}"
+		"value": "{"type": "Polygon", "coordinates": [[[-120.64208, 33.36241], [-118.90712, 33.36241], [-118.90712, 34.20707], [-120.64208, 34.20707], [-120.64208, 33.36241]]]}"
 	},
 	{
 		"key": "progress",
@@ -169,7 +169,7 @@
 	},
 	{
 		"key": "access_constraints",
-		"value": "[\"Use Constraints: NOT FOR LEGAL USE\", \"Access Constraints: None\"]"
+		"value": "["Use Constraints: NOT FOR LEGAL USE", "Access Constraints: None"]"
 	},
 	{
 		"key": "contact-email",
@@ -177,7 +177,7 @@
 	},
 	{
 		"key": "bbox-west-long",
-		"value": "-120.642080\n"
+		"value": "-120.642080n"
 	},
 	{
 		"key": "metadata-date",
@@ -185,7 +185,7 @@
 	},
 	{
 		"key": "dataset-reference-date",
-		"value": "[{\"type\": \"publication\", \"value\": \"2008-06-01\"}]"
+		"value": "[{"type": "publication", "value": "2008-06-01"}]"
 	},
 	{
 		"key": "graphic-preview-description",
@@ -197,7 +197,7 @@
 	},
 	{
 		"key": "licence",
-		"value": "[\"Digital boundary files are available for public consumption from the Office of National Marine Sanctuaies in hard copy or digital formats.  See Distributor Contact Informationfor contact details.\\n\"]"
+		"value": "["Digital boundary files are available for public consumption from the Office of National Marine Sanctuaies in hard copy or digital formats.  See Distributor Contact Informationfor contact details.\n"]"
 	},
 	{
 		"key": "metadata_type",
@@ -205,7 +205,7 @@
 	},
 	{
 		"key": "responsible-party",
-		"value": "[{\"name\": \"NOAA \/ Office of National Marine Sanctuaries\", \"roles\": [\"pointOfContact\"]}]"
+		"value": "[{"name": "NOAA / Office of National Marine Sanctuaries", "roles": ["pointOfContact"]}]"
 	},
 	{
 		"key": "spatial-data-service-type",
@@ -247,7 +247,7 @@
 		"revision_timestamp": "2013-03-25T23:05:12.923863",
 		"is_organization": true,
 		"state": "active",
-		"image_url": "https:\/\/fortress.wa.gov\/dfw\/score\/score\/images\/noaa_logo.png",
+		"image_url": "https://fortress.wa.gov/dfw/score/score/images/noaa_logo.png",
 		"revision_id": "c6d43080-22e1-405e-a83d-f2a512d9e867",
 		"type": "organization",
 		"id": "e811f0b4-451f-4896-9e8f-fc6802837819",

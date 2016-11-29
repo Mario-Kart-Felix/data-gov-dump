@@ -37,7 +37,7 @@
 		"cache_url": null,
 		"name": "XML File",
 		"created": "2015-01-14T13:04:55.024883",
-		"url": "ftp:\/\/ftp.geostor.arkansas.gov\/Public_Statewide\/Metadata\/gisdb.boundaries.PUB_SCHOOL_DISTRICTS_export.xml",
+		"url": "ftp://ftp.geostor.arkansas.gov/Public_Statewide/Metadata/gisdb.boundaries.PUB_SCHOOL_DISTRICTS_export.xml",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 0,
@@ -67,7 +67,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2015-01-14T13:04:55.024918",
-		"url": "http:\/\/gis.arkansas.gov",
+		"url": "http://gis.arkansas.gov",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 1,
@@ -97,7 +97,7 @@
 		"cache_url": null,
 		"name": "XML File",
 		"created": "2015-01-14T13:04:55.024925",
-		"url": "http:\/\/gisinventory.net\/metadata\/gis-inventory-metadata-7133-25511.xml",
+		"url": "http://gisinventory.net/metadata/gis-inventory-metadata-7133-25511.xml",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 2,
@@ -117,11 +117,11 @@
 	"name": "schools-k-12-public-school-district-boundary-polygon",
 	"isopen": false,
 	"url": null,
-	"notes": "The Arkansas Secretary of State contracted the University of Arkansas at Little Rock, GIS Applications Laboratory (UALRGIS) to use modern geographic information technology and improved base maps to create a current and spatially accurate statewide depiction of school district boundaries in the State of Arkansas. The Arkansas Geographic Information Office merged annexed and consolidated districts.UALRGIS followed a work plan for the project that was established by the Arkansas Geographic Information Office (AGIO) for the Secretary of State. The school district boundary editing rules were as follows:1. Legal descriptions take precedent.2. If no legal description was provided the visual evidence presented on the digital ortho quarter quadrangle (DOQQ) was followed.3. Section lines, county boundaries, city boundaries and \/ or roads have only be used as supporting visual evidence viewed on the DOQQ.In the case of consolidation or annexation, state code 6-13-1415 and 6-13-1416 states:(1) A consolidation or annexation order adopted by the state board shall be filed with the:(A) County Clerk of each county that contains school district territory of each affected district, receiving district, or resulting district;(B) Secretary of State; and(C) Arkansas Geographic Information Office.(2) A consolidation or annexation order shall include a map of the boundaries of the resulting district or receiving district.(3) A consolidation or annexation order file with the Secretary of State and the Arkansas Geographic Information Office shall include a digital map showing the boundaries of the resulting district or receiving district in a format prescribed by the Arkansas Geographic Information Office.",
+	"notes": "The Arkansas Secretary of State contracted the University of Arkansas at Little Rock, GIS Applications Laboratory (UALRGIS) to use modern geographic information technology and improved base maps to create a current and spatially accurate statewide depiction of school district boundaries in the State of Arkansas. The Arkansas Geographic Information Office merged annexed and consolidated districts.UALRGIS followed a work plan for the project that was established by the Arkansas Geographic Information Office (AGIO) for the Secretary of State. The school district boundary editing rules were as follows:1. Legal descriptions take precedent.2. If no legal description was provided the visual evidence presented on the digital ortho quarter quadrangle (DOQQ) was followed.3. Section lines, county boundaries, city boundaries and / or roads have only be used as supporting visual evidence viewed on the DOQQ.In the case of consolidation or annexation, state code 6-13-1415 and 6-13-1416 states:(1) A consolidation or annexation order adopted by the state board shall be filed with the:(A) County Clerk of each county that contains school district territory of each affected district, receiving district, or resulting district;(B) Secretary of State; and(C) Arkansas Geographic Information Office.(2) A consolidation or annexation order shall include a map of the boundaries of the resulting district or receiving district.(3) A consolidation or annexation order file with the Secretary of State and the Arkansas Geographic Information Office shall include a digital map showing the boundaries of the resulting district or receiving district in a format prescribed by the Arkansas Geographic Information Office.",
 	"license_title": null,
 	"extras": [{
 		"key": "responsible-party",
-		"value": "[{\"name\": \"Arkansas GIS Office\", \"roles\": [\"pointOfContact\"]}]"
+		"value": "[{"name": "Arkansas GIS Office", "roles": ["pointOfContact"]}]"
 	},
 	{
 		"key": "contact-email",
@@ -141,7 +141,7 @@
 	},
 	{
 		"key": "dataset-reference-date",
-		"value": "[{\"type\": \"publication\", \"value\": \"2014-01-01\"}]"
+		"value": "[{"type": "publication", "value": "2014-01-01"}]"
 	},
 	{
 		"key": "resource-type",
@@ -169,7 +169,7 @@
 	},
 	{
 		"key": "licence",
-		"value": "[\"Although these data have been processed successfully on a computer system by the data steward, no warranty either expressed or implied is made regarding the utility of the data on any system, nor shall this notice generated by the Ramona GIS Inventory System or the act of distribution constitute any such warranty. The data steward may have additional liability information associated with delivery or distribution of this product.\"]"
+		"value": "["Although these data have been processed successfully on a computer system by the data steward, no warranty either expressed or implied is made regarding the utility of the data on any system, nor shall this notice generated by the Ramona GIS Inventory System or the act of distribution constitute any such warranty. The data steward may have additional liability information associated with delivery or distribution of this product."]"
 	},
 	{
 		"key": "metadata_type",
@@ -181,7 +181,7 @@
 	},
 	{
 		"key": "spatial",
-		"value": "{\"type\": \"Polygon\", \"coordinates\": [[[-94.61815643, 33.00452805], [-89.64440918, 33.00452805], [-89.64440918, 36.49965668], [-94.61815643, 36.49965668], [-94.61815643, 33.00452805]]]}"
+		"value": "{"type": "Polygon", "coordinates": [[[-94.61815643, 33.00452805], [-89.64440918, 33.00452805], [-89.64440918, 36.49965668], [-94.61815643, 36.49965668], [-94.61815643, 33.00452805]]]}"
 	},
 	{
 		"key": "guid",
@@ -193,7 +193,7 @@
 	},
 	{
 		"key": "access_constraints",
-		"value": "[\"Use Constraints: None\", \"Access Constraints: None\"]"
+		"value": "["Use Constraints: None", "Access Constraints: None"]"
 	},
 	{
 		"key": "spatial_harvester",
@@ -235,7 +235,7 @@
 		"revision_timestamp": "2014-09-11T20:27:16.009304",
 		"is_organization": true,
 		"state": "active",
-		"image_url": "http:\/\/www.nsgic.org\/public_resources\/nsgic-logo-b_1321892056.gif",
+		"image_url": "http://www.nsgic.org/public_resources/nsgic-logo-b_1321892056.gif",
 		"revision_id": "979d3df0-d323-4e1e-ac62-d1623b463626",
 		"type": "organization",
 		"id": "b0b4c45b-a8ca-416b-b463-ee90d0a1a3df",

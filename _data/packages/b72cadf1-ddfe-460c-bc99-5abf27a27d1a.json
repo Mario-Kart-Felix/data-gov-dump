@@ -36,7 +36,7 @@
 		"cache_url": null,
 		"name": "Granule Search",
 		"created": "2016-10-19T16:44:12.413084",
-		"url": "https:\/\/www.nodc.noaa.gov\/search\/granule\/rest\/find\/document?searchText=fileIdentifier%3AGHRSST-EUR-L4UHRfnd-NWE-ODYSSEA*%20OR%20fileIdentifier%3AEUR-L4UHRfnd-NWE-ODYSSEA*&start=1&max=100&f=SearchPage",
+		"url": "https://www.nodc.noaa.gov/search/granule/rest/find/document?searchText=fileIdentifier%3AGHRSST-EUR-L4UHRfnd-NWE-ODYSSEA*%20OR%20fileIdentifier%3AEUR-L4UHRfnd-NWE-ODYSSEA*&start=1&max=100&f=SearchPage",
 		"webstore_url": null,
 		"resource_locator_function": "search",
 		"position": 0,
@@ -65,7 +65,7 @@
 		"cache_url": null,
 		"name": "LAS",
 		"created": "2016-10-19T16:44:12.413108",
-		"url": "http:\/\/data.nodc.noaa.gov\/las\/getUI.do?dsid=id-1b06ada0f5&varid=analysed_sst-id-1b06ada0f5&auto=true",
+		"url": "http://data.nodc.noaa.gov/las/getUI.do?dsid=id-1b06ada0f5&varid=analysed_sst-id-1b06ada0f5&auto=true",
 		"webstore_url": null,
 		"resource_locator_function": "download",
 		"position": 1,
@@ -94,7 +94,7 @@
 		"cache_url": null,
 		"name": "Descriptive Information",
 		"created": "2016-10-19T16:44:12.413117",
-		"url": "https:\/\/data.nodc.noaa.gov\/cgi-bin\/iso?id=gov.noaa.nodc:GHRSST-EUR-L4UHRfnd-NWE-ODYSSEA",
+		"url": "https://data.nodc.noaa.gov/cgi-bin/iso?id=gov.noaa.nodc:GHRSST-EUR-L4UHRfnd-NWE-ODYSSEA",
 		"webstore_url": null,
 		"resource_locator_function": "information",
 		"position": 2,
@@ -111,7 +111,7 @@
 		"state": "active",
 		"last_modified": null,
 		"hash": "",
-		"description": "These data are available through a variety of services via a THREDDS (Thematic Real-time Environmental Distributed Data Services) Data Server (TDS). Depending on the dataset, the TDS can provide WMS, WCS, DAP, HTTP, and other data access and metadata services as well. For more information on the TDS, see http:\/\/www.unidata.ucar.edu\/software\/thredds\/current\/tds\/.",
+		"description": "These data are available through a variety of services via a THREDDS (Thematic Real-time Environmental Distributed Data Services) Data Server (TDS). Depending on the dataset, the TDS can provide WMS, WCS, DAP, HTTP, and other data access and metadata services as well. For more information on the TDS, see http://www.unidata.ucar.edu/software/thredds/current/tds/.",
 		"format": "NetCDF",
 		"tracking_summary": {
 			"total": 0,
@@ -123,7 +123,7 @@
 		"cache_url": null,
 		"name": "THREDDS",
 		"created": "2016-10-19T16:44:12.413124",
-		"url": "https:\/\/data.nodc.noaa.gov\/thredds\/catalog\/ghrsst\/L4\/NWE\/EUR\/ODYSSEA\/",
+		"url": "https://data.nodc.noaa.gov/thredds/catalog/ghrsst/L4/NWE/EUR/ODYSSEA/",
 		"webstore_url": null,
 		"resource_locator_function": "download",
 		"position": 3,
@@ -140,7 +140,7 @@
 		"state": "active",
 		"last_modified": null,
 		"hash": "",
-		"description": "These data are available through the Data Access Protocol (DAP) via an OPeNDAP Hyrax server. For a listing of OPeNDAP clients which may be used to access OPeNDAP-enabled data sets, please see the OPeNDAP website at http:\/\/opendap.org\/.",
+		"description": "These data are available through the Data Access Protocol (DAP) via an OPeNDAP Hyrax server. For a listing of OPeNDAP clients which may be used to access OPeNDAP-enabled data sets, please see the OPeNDAP website at http://opendap.org/.",
 		"format": "NetCDF",
 		"tracking_summary": {
 			"total": 0,
@@ -152,7 +152,7 @@
 		"cache_url": null,
 		"name": "OPeNDAP",
 		"created": "2016-10-19T16:44:12.413131",
-		"url": "https:\/\/data.nodc.noaa.gov\/opendap\/ghrsst\/L4\/NWE\/EUR\/ODYSSEA\/",
+		"url": "https://data.nodc.noaa.gov/opendap/ghrsst/L4/NWE/EUR/ODYSSEA/",
 		"webstore_url": null,
 		"resource_locator_function": "download",
 		"position": 4,
@@ -181,7 +181,7 @@
 		"cache_url": null,
 		"name": "HTTP",
 		"created": "2016-10-19T16:44:12.413138",
-		"url": "https:\/\/data.nodc.noaa.gov\/ghrsst\/L4\/NWE\/EUR\/ODYSSEA\/",
+		"url": "https://data.nodc.noaa.gov/ghrsst/L4/NWE/EUR/ODYSSEA/",
 		"webstore_url": null,
 		"resource_locator_function": "download",
 		"position": 5,
@@ -210,7 +210,7 @@
 		"cache_url": null,
 		"name": "FTP",
 		"created": "2016-10-19T16:44:12.413145",
-		"url": "ftp:\/\/ftp.nodc.noaa.gov\/pub\/data.nodc\/ghrsst\/L4\/NWE\/EUR\/ODYSSEA\/",
+		"url": "ftp://ftp.nodc.noaa.gov/pub/data.nodc/ghrsst/L4/NWE/EUR/ODYSSEA/",
 		"webstore_url": null,
 		"resource_locator_function": "download",
 		"position": 6,
@@ -239,7 +239,7 @@
 		"cache_url": null,
 		"name": "NOAA National Centers for Environmental Information website",
 		"created": "2016-10-19T16:44:12.413151",
-		"url": "https:\/\/www.ncei.noaa.gov\/",
+		"url": "https://www.ncei.noaa.gov/",
 		"webstore_url": null,
 		"resource_locator_function": "information",
 		"position": 7,
@@ -268,7 +268,7 @@
 		"cache_url": null,
 		"name": "NOAA National Oceanographic Data Center website",
 		"created": "2016-10-19T16:44:12.413158",
-		"url": "https:\/\/www.nodc.noaa.gov\/",
+		"url": "https://www.nodc.noaa.gov/",
 		"webstore_url": null,
 		"resource_locator_function": "information",
 		"position": 8,
@@ -297,7 +297,7 @@
 		"cache_url": null,
 		"name": "NASA Jet Propulsion Laboratory PO DAAC website",
 		"created": "2016-10-19T16:44:12.413165",
-		"url": "http:\/\/podaac.jpl.nasa.gov\/index.html",
+		"url": "http://podaac.jpl.nasa.gov/index.html",
 		"webstore_url": null,
 		"resource_locator_function": "information",
 		"position": 9,
@@ -326,7 +326,7 @@
 		"cache_url": null,
 		"name": "Medspiration website",
 		"created": "2016-10-19T16:44:12.413172",
-		"url": "http:\/\/cersat.ifremer.fr\/thematic-portals\/projects\/medspiration",
+		"url": "http://cersat.ifremer.fr/thematic-portals/projects/medspiration",
 		"webstore_url": null,
 		"resource_locator_function": "information",
 		"position": 10,
@@ -355,7 +355,7 @@
 		"cache_url": null,
 		"name": "NOAA National Centers for Environmental Information website",
 		"created": "2016-10-19T16:44:12.413179",
-		"url": "https:\/\/www.ncei.noaa.gov\/",
+		"url": "https://www.ncei.noaa.gov/",
 		"webstore_url": null,
 		"resource_locator_function": "information",
 		"position": 11,
@@ -385,7 +385,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2016-10-19T16:44:12.413186",
-		"url": "ftp:\/\/ftp.ifremer.fr",
+		"url": "ftp://ftp.ifremer.fr",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 12,
@@ -414,7 +414,7 @@
 		"cache_url": null,
 		"name": "NASA GCMD Keyword Community Page",
 		"created": "2016-10-19T16:44:12.413193",
-		"url": "http:\/\/gcmd.gsfc.nasa.gov\/learn\/keywords.html",
+		"url": "http://gcmd.gsfc.nasa.gov/learn/keywords.html",
 		"webstore_url": null,
 		"resource_locator_function": "information",
 		"position": 13,
@@ -443,7 +443,7 @@
 		"cache_url": null,
 		"name": "NASA GCMD Keyword Community Page",
 		"created": "2016-10-19T16:44:12.413200",
-		"url": "http:\/\/gcmd.gsfc.nasa.gov\/learn\/keywords.html",
+		"url": "http://gcmd.gsfc.nasa.gov/learn/keywords.html",
 		"webstore_url": null,
 		"resource_locator_function": "information",
 		"position": 14,
@@ -472,7 +472,7 @@
 		"cache_url": null,
 		"name": "NASA GCMD Keyword Community Page",
 		"created": "2016-10-19T16:44:12.413207",
-		"url": "http:\/\/gcmd.gsfc.nasa.gov\/learn\/keywords.html",
+		"url": "http://gcmd.gsfc.nasa.gov/learn/keywords.html",
 		"webstore_url": null,
 		"resource_locator_function": "information",
 		"position": 15,
@@ -501,7 +501,7 @@
 		"cache_url": null,
 		"name": "NASA GCMD Keyword Community Page",
 		"created": "2016-10-19T16:44:12.413214",
-		"url": "http:\/\/gcmd.gsfc.nasa.gov\/learn\/keywords.html",
+		"url": "http://gcmd.gsfc.nasa.gov/learn/keywords.html",
 		"webstore_url": null,
 		"resource_locator_function": "information",
 		"position": 16,
@@ -530,7 +530,7 @@
 		"cache_url": null,
 		"name": "NASA GCMD Keyword Community Page",
 		"created": "2016-10-19T16:44:12.413221",
-		"url": "http:\/\/gcmd.gsfc.nasa.gov\/learn\/keywords.html",
+		"url": "http://gcmd.gsfc.nasa.gov/learn/keywords.html",
 		"webstore_url": null,
 		"resource_locator_function": "information",
 		"position": 17,
@@ -559,7 +559,7 @@
 		"cache_url": null,
 		"name": "NASA GCMD Keyword Community Page",
 		"created": "2016-10-19T16:44:12.413227",
-		"url": "http:\/\/gcmd.gsfc.nasa.gov\/learn\/keywords.html",
+		"url": "http://gcmd.gsfc.nasa.gov/learn/keywords.html",
 		"webstore_url": null,
 		"resource_locator_function": "information",
 		"position": 18,
@@ -588,7 +588,7 @@
 		"cache_url": null,
 		"name": "NASA GCMD Keyword Community Page",
 		"created": "2016-10-19T16:44:12.413234",
-		"url": "http:\/\/gcmd.gsfc.nasa.gov\/learn\/keywords.html",
+		"url": "http://gcmd.gsfc.nasa.gov/learn/keywords.html",
 		"webstore_url": null,
 		"resource_locator_function": "information",
 		"position": 19,
@@ -617,7 +617,7 @@
 		"cache_url": null,
 		"name": "NASA GCMD Keyword Community Page",
 		"created": "2016-10-19T16:44:12.413241",
-		"url": "http:\/\/gcmd.gsfc.nasa.gov\/learn\/keywords.html",
+		"url": "http://gcmd.gsfc.nasa.gov/learn/keywords.html",
 		"webstore_url": null,
 		"resource_locator_function": "information",
 		"position": 20,
@@ -646,7 +646,7 @@
 		"cache_url": null,
 		"name": "NASA GCMD Keyword Community Page",
 		"created": "2016-10-19T16:44:12.413248",
-		"url": "http:\/\/gcmd.gsfc.nasa.gov\/learn\/keywords.html",
+		"url": "http://gcmd.gsfc.nasa.gov/learn/keywords.html",
 		"webstore_url": null,
 		"resource_locator_function": "information",
 		"position": 21,
@@ -676,7 +676,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2016-10-19T16:44:12.413255",
-		"url": "ftp:\/\/ftp.ifremer.fr",
+		"url": "ftp://ftp.ifremer.fr",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 22,
@@ -705,7 +705,7 @@
 		"cache_url": null,
 		"name": "Portal to the GHRSST Global Data Assembly Center and data access",
 		"created": "2016-10-19T16:44:12.413262",
-		"url": "http:\/\/ghrsst.jpl.nasa.gov",
+		"url": "http://ghrsst.jpl.nasa.gov",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 23,
@@ -723,7 +723,7 @@
 		"last_modified": null,
 		"hash": "",
 		"description": "GHRSST Project Home Page",
-		"format": "application\/vnd.lotus-organizer",
+		"format": "application/vnd.lotus-organizer",
 		"tracking_summary": {
 			"total": 5,
 			"recent": 1
@@ -734,7 +734,7 @@
 		"cache_url": null,
 		"name": "GHRSST Project Home Page",
 		"created": "2016-10-19T16:44:12.413269",
-		"url": "http:\/\/www.ghrsst.org",
+		"url": "http://www.ghrsst.org",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 24,
@@ -752,7 +752,7 @@
 		"last_modified": null,
 		"hash": "",
 		"description": "Description of the Medspiration project",
-		"format": "application\/vnd.lotus-organizer",
+		"format": "application/vnd.lotus-organizer",
 		"tracking_summary": {
 			"total": 0,
 			"recent": 0
@@ -763,7 +763,7 @@
 		"cache_url": null,
 		"name": "Description of the Medspiration project",
 		"created": "2016-10-19T16:44:12.413275",
-		"url": "http:\/\/www.medspiration.org",
+		"url": "http://www.medspiration.org",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 25,
@@ -792,7 +792,7 @@
 		"cache_url": null,
 		"name": "Access to the data through OpenDAP protocol",
 		"created": "2016-10-19T16:44:12.413282",
-		"url": "http:\/\/www.ifremer.fr\/cgi-bin\/nph-dods\/data\/satellite\/medspiration\/l4uhrsstfnd\/eurdac\/nwe",
+		"url": "http://www.ifremer.fr/cgi-bin/nph-dods/data/satellite/medspiration/l4uhrsstfnd/eurdac/nwe",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 26,
@@ -821,7 +821,7 @@
 		"cache_url": null,
 		"name": "Web Service",
 		"created": "2016-10-19T16:44:12.413289",
-		"url": "http:\/\/podaac.jpl.nasa.gov\/ws\/search\/granule\/?datasetId=PODAAC-GHNOY-4FE01&apidoc",
+		"url": "http://podaac.jpl.nasa.gov/ws/search/granule/?datasetId=PODAAC-GHNOY-4FE01&apidoc",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 27,
@@ -843,7 +843,7 @@
 		"revision_timestamp": "2013-03-25T23:05:12.923863",
 		"is_organization": true,
 		"state": "active",
-		"image_url": "https:\/\/fortress.wa.gov\/dfw\/score\/score\/images\/noaa_logo.png",
+		"image_url": "https://fortress.wa.gov/dfw/score/score/images/noaa_logo.png",
 		"revision_id": "c6d43080-22e1-405e-a83d-f2a512d9e867",
 		"type": "organization",
 		"id": "e811f0b4-451f-4896-9e8f-fc6802837819",
@@ -854,7 +854,7 @@
 	"name": "ghrsst-level-4-odyssea-north-western-europe-regional-foundation-sea-surface-temperature-analysi",
 	"isopen": false,
 	"url": null,
-	"notes": "A Group for High Resolution Sea Surface Temperature (GHRSST) Level 4 sea surface temperature analysis produced daily on an operational basis at Ifremer\/CERSAT (France) using optimal interpolation (OI) on a regional 0.02 degree grid. It provides a daily cloud-free field of foundation sea surface temperature at approximately 2 km resolution (0.02 degree) for the North-Western European shelves. It is generated by merging microwave and infrared satellite sea surface temperature observations including those from the Advanced Very High Resolution Radiometer (AVHRR), the Advanced Along Track Scanning Radiometer (AATSR), the Spinning Enhanced Visible and Infrared Imager (SEVIRI), the Advanced Microwave Scanning Radiometer-EOS (AMSRE), the Tropical Rainfall Measuring Mission Microwave Imager (TMI) and the Geostationary Operational Environmental Satellite (GOES) Imager. The satellite SST observations are intercalibrated using the AATSR sensor as a reference (previously re-calibrated using all available in situ data). The development of the global real-time sea surface temperature at Ifremer\/CERSAT is supported by European Commission initially in the frame of MERSEA project.",
+	"notes": "A Group for High Resolution Sea Surface Temperature (GHRSST) Level 4 sea surface temperature analysis produced daily on an operational basis at Ifremer/CERSAT (France) using optimal interpolation (OI) on a regional 0.02 degree grid. It provides a daily cloud-free field of foundation sea surface temperature at approximately 2 km resolution (0.02 degree) for the North-Western European shelves. It is generated by merging microwave and infrared satellite sea surface temperature observations including those from the Advanced Very High Resolution Radiometer (AVHRR), the Advanced Along Track Scanning Radiometer (AATSR), the Spinning Enhanced Visible and Infrared Imager (SEVIRI), the Advanced Microwave Scanning Radiometer-EOS (AMSRE), the Tropical Rainfall Measuring Mission Microwave Imager (TMI) and the Geostationary Operational Environmental Satellite (GOES) Imager. The satellite SST observations are intercalibrated using the AATSR sensor as a reference (previously re-calibrated using all available in situ data). The development of the global real-time sea surface temperature at Ifremer/CERSAT is supported by European Commission initially in the frame of MERSEA project.",
 	"owner_org": "e811f0b4-451f-4896-9e8f-fc6802837819",
 	"extras": [{
 		"key": "bbox-east-long",
@@ -882,7 +882,7 @@
 	},
 	{
 		"key": "graphic-preview-file",
-		"value": "https:\/\/data.nodc.noaa.gov\/cgi-bin\/gfx?id=gov.noaa.nodc:GHRSST-EUR-L4UHRfnd-NWE-ODYSSEA"
+		"value": "https://data.nodc.noaa.gov/cgi-bin/gfx?id=gov.noaa.nodc:GHRSST-EUR-L4UHRfnd-NWE-ODYSSEA"
 	},
 	{
 		"key": "bbox-south-lat",
@@ -898,7 +898,7 @@
 	},
 	{
 		"key": "spatial",
-		"value": "{\"type\": \"Polygon\", \"coordinates\": [[[-13.0, 43.0], [9.0, 43.0], [9.0, 60.0], [-13.0, 60.0], [-13.0, 43.0]]]}"
+		"value": "{"type": "Polygon", "coordinates": [[[-13.0, 43.0], [9.0, 43.0], [9.0, 60.0], [-13.0, 60.0], [-13.0, 43.0]]]}"
 	},
 	{
 		"key": "progress",
@@ -906,7 +906,7 @@
 	},
 	{
 		"key": "access_constraints",
-		"value": "[\"Cite as: Medspiration (2008). GHRSST Level 4 ODYSSEA North-Western Europe Regional Foundation Sea Surface Temperature Analysis (GDS version 1). National Oceanographic Data Center, NOAA. Dataset. [access date]\", \"NOAA and NCEI cannot provide any warranty as to the accuracy, reliability, or completeness of furnished data. Users assume responsibility to determine the usability of these data. The user is responsible for the results of any application of this data for other than its intended purpose.\"]"
+		"value": "["Cite as: Medspiration (2008). GHRSST Level 4 ODYSSEA North-Western Europe Regional Foundation Sea Surface Temperature Analysis (GDS version 1). National Oceanographic Data Center, NOAA. Dataset. [access date]", "NOAA and NCEI cannot provide any warranty as to the accuracy, reliability, or completeness of furnished data. Users assume responsibility to determine the usability of these data. The user is responsible for the results of any application of this data for other than its intended purpose."]"
 	},
 	{
 		"key": "temporal-extent-begin",
@@ -926,7 +926,7 @@
 	},
 	{
 		"key": "dataset-reference-date",
-		"value": "[{\"type\": \"publication\", \"value\": \"2013-04-16\"}]"
+		"value": "[{"type": "publication", "value": "2013-04-16"}]"
 	},
 	{
 		"key": "graphic-preview-description",
@@ -938,7 +938,7 @@
 	},
 	{
 		"key": "licence",
-		"value": "[\"accessLevel: Public\"]"
+		"value": "["accessLevel: Public"]"
 	},
 	{
 		"key": "metadata_type",
@@ -946,7 +946,7 @@
 	},
 	{
 		"key": "responsible-party",
-		"value": "[{\"name\": \"IFREMER\/CERSAT > Institut Francais de Recherche pour l'Exploitation de la Mer, Center d'Exploitation et de Recherche Satellitaire\", \"roles\": [\"pointOfContact\"]}, {\"name\": \"DOC\/NOAA\/NESDIS\/NCEI > National Centers for Environmental Information, NESDIS, NOAA, U.S. Department of Commerce\", \"roles\": [\"pointOfContact\"]}]"
+		"value": "[{"name": "IFREMER/CERSAT > Institut Francais de Recherche pour l'Exploitation de la Mer, Center d'Exploitation et de Recherche Satellitaire", "roles": ["pointOfContact"]}, {"name": "DOC/NOAA/NESDIS/NCEI > National Centers for Environmental Information, NESDIS, NOAA, U.S. Department of Commerce", "roles": ["pointOfContact"]}]"
 	},
 	{
 		"key": "spatial-data-service-type",
@@ -958,7 +958,7 @@
 	},
 	{
 		"key": "tags",
-		"value": "noaa-18, ocean temperature, envisat, meteosat second generation, earth observing system, aqua, aqua, avhrr-3, irish sea, noaa-17, doc\/noaa\/nesdis\/ncei, spinning enhanced visible and infrared imager, http:\/\/podaac.jpl.nasa.gov\/, national oceanographic data center, nesdis, noaa, u.s. department of commerce, earth science, national oceanic & atmospheric administration-17, oceanography, advanced very high resolution radiometer-3, trmm, earth remote sensing instruments, group for high resolution sea surface temperature, g - i, physical oceanography distributed active archive center, jet propulsion laboratory, nasa, environmental satellite, amsr-e, metop-a, north atlantic ocean, msg, tmi, passive remote sensing, atlantic ocean, national centers for environmental information, nesdis, noaa, u.s. department of commerce, tropical rainfall measuring mission, ghrsst, imaging spectrometers\/radiometers, oceans, seviri, spectrometers\/radiometers, sea surface temperature, aatsr, advanced microwave scanning radiometer-eos, national oceanic & atmospheric administration-18, government agencies-u.s. federal agencies, doc\/noaa\/nesdis\/nodc, foundation sea surface temperature (sstfnd), north sea, meteosat, advanced along-track scanning radiometer, noaa poes (polar orbiting environmental satellites), nasa\/jpl\/podaac, ocean, nasa, trmm microwave imager, earth observation satellites, metop, meteorological operational satellite - a",
+		"value": "noaa-18, ocean temperature, envisat, meteosat second generation, earth observing system, aqua, aqua, avhrr-3, irish sea, noaa-17, doc/noaa/nesdis/ncei, spinning enhanced visible and infrared imager, http://podaac.jpl.nasa.gov/, national oceanographic data center, nesdis, noaa, u.s. department of commerce, earth science, national oceanic & atmospheric administration-17, oceanography, advanced very high resolution radiometer-3, trmm, earth remote sensing instruments, group for high resolution sea surface temperature, g - i, physical oceanography distributed active archive center, jet propulsion laboratory, nasa, environmental satellite, amsr-e, metop-a, north atlantic ocean, msg, tmi, passive remote sensing, atlantic ocean, national centers for environmental information, nesdis, noaa, u.s. department of commerce, tropical rainfall measuring mission, ghrsst, imaging spectrometers/radiometers, oceans, seviri, spectrometers/radiometers, sea surface temperature, aatsr, advanced microwave scanning radiometer-eos, national oceanic & atmospheric administration-18, government agencies-u.s. federal agencies, doc/noaa/nesdis/nodc, foundation sea surface temperature (sstfnd), north sea, meteosat, advanced along-track scanning radiometer, noaa poes (polar orbiting environmental satellites), nasa/jpl/podaac, ocean, nasa, trmm microwave imager, earth observation satellites, metop, meteorological operational satellite - a",
 		"__extras": {
 			"revision_id": "e01968ef-970c-4ba9-8a55-32fe54dd4d67",
 			"package_id": "b72cadf1-ddfe-460c-bc99-5abf27a27d1a"

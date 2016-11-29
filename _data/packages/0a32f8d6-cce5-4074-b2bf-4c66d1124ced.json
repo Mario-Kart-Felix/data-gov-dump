@@ -36,7 +36,7 @@
 		"cache_url": null,
 		"name": "Geomagnetic Data",
 		"created": "2015-10-06T18:00:37.662206",
-		"url": "http:\/\/www.ngdc.noaa.gov\/geomag\/geomag.shtml",
+		"url": "http://www.ngdc.noaa.gov/geomag/geomag.shtml",
 		"webstore_url": null,
 		"resource_locator_function": "information",
 		"position": 0,
@@ -65,7 +65,7 @@
 		"cache_url": null,
 		"name": "GCMD Feedback Form",
 		"created": "2015-10-06T18:00:37.662231",
-		"url": "http:\/\/gcmd.nasa.gov\/MailComments\/MailComments.jsf?rcpt=gcmduso",
+		"url": "http://gcmd.nasa.gov/MailComments/MailComments.jsf?rcpt=gcmduso",
 		"webstore_url": null,
 		"resource_locator_function": "information",
 		"position": 1,
@@ -94,7 +94,7 @@
 		"cache_url": null,
 		"name": "GCMD Keywords Page",
 		"created": "2015-10-06T18:00:37.662241",
-		"url": "http:\/\/gcmd.nasa.gov\/learn\/keyword_list.html",
+		"url": "http://gcmd.nasa.gov/learn/keyword_list.html",
 		"webstore_url": null,
 		"resource_locator_function": "information",
 		"position": 2,
@@ -123,7 +123,7 @@
 		"cache_url": null,
 		"name": "GCMD Feedback Form",
 		"created": "2015-10-06T18:00:37.662255",
-		"url": "http:\/\/gcmd.nasa.gov\/MailComments\/MailComments.jsf?rcpt=gcmduso",
+		"url": "http://gcmd.nasa.gov/MailComments/MailComments.jsf?rcpt=gcmduso",
 		"webstore_url": null,
 		"resource_locator_function": "information",
 		"position": 3,
@@ -152,7 +152,7 @@
 		"cache_url": null,
 		"name": "GCMD Keywords Page",
 		"created": "2015-10-06T18:00:37.662269",
-		"url": "http:\/\/gcmd.nasa.gov\/learn\/keyword_list.html",
+		"url": "http://gcmd.nasa.gov/learn/keyword_list.html",
 		"webstore_url": null,
 		"resource_locator_function": "information",
 		"position": 4,
@@ -172,7 +172,7 @@
 	"name": "geomagnetic-components-d-h-x-y-z-and-r-10-second-instantaneous-measurements",
 	"isopen": false,
 	"url": null,
-	"notes": "These data are generated as part of the International Magnetospheric Study. The file consists of 10-second instantaneous measurements for the geomagnetic components D, H, X, Y, Z and R. The 10 second values were collected digitally in real time by a network of 26 ground observatories and relayed to the Space Environment Center, Boulder, Colorado, via the SMS-GOES satellite and the Wallops Island, Virginia ground station. The 1-minute average values are\n                    computed at the Space Environment Center in Boulder, Colorado. The entry ID number for the 1-minute values is Dataset_ID G00124. These data were generated as part of the International Magnetospheric Study. The file is comprised of values of the geomagnetic components D, H, X, Y, Z and R from instantaneous measurements taken at 10-second intervals at ground observatories. The 10-second values are collected digitally in real time at the magnetic observatories and relayed to the\n                    Space Environment Center via the SMS-GOES satellite to up to 26 geomagnetic observatories that provide data. The data are not continuous in time for all observatories and not necessarily continuous in time sequence for all elements at any one observatory. The sources for the data are the following chains of geomagnetic observatories: Alaska Chain, Churchill Chain, East-West Chain and Mid-Latitude Chain.",
+	"notes": "These data are generated as part of the International Magnetospheric Study. The file consists of 10-second instantaneous measurements for the geomagnetic components D, H, X, Y, Z and R. The 10 second values were collected digitally in real time by a network of 26 ground observatories and relayed to the Space Environment Center, Boulder, Colorado, via the SMS-GOES satellite and the Wallops Island, Virginia ground station. The 1-minute average values aren                    computed at the Space Environment Center in Boulder, Colorado. The entry ID number for the 1-minute values is Dataset_ID G00124. These data were generated as part of the International Magnetospheric Study. The file is comprised of values of the geomagnetic components D, H, X, Y, Z and R from instantaneous measurements taken at 10-second intervals at ground observatories. The 10-second values are collected digitally in real time at the magnetic observatories and relayed to then                    Space Environment Center via the SMS-GOES satellite to up to 26 geomagnetic observatories that provide data. The data are not continuous in time for all observatories and not necessarily continuous in time sequence for all elements at any one observatory. The sources for the data are the following chains of geomagnetic observatories: Alaska Chain, Churchill Chain, East-West Chain and Mid-Latitude Chain.",
 	"license_title": null,
 	"extras": [{
 		"key": "bbox-east-long",
@@ -208,7 +208,7 @@
 	},
 	{
 		"key": "spatial",
-		"value": "{\"type\": \"Polygon\", \"coordinates\": [[[-180.0, -90.0], [180.0, -90.0], [180.0, 90.0], [-180.0, 90.0], [-180.0, -90.0]]]}"
+		"value": "{"type": "Polygon", "coordinates": [[[-180.0, -90.0], [180.0, -90.0], [180.0, 90.0], [-180.0, 90.0], [-180.0, -90.0]]]}"
 	},
 	{
 		"key": "progress",
@@ -216,7 +216,7 @@
 	},
 	{
 		"key": "access_constraints",
-		"value": "[\"Use Constraints: None\", \"Access Constraints: No Constraints\"]"
+		"value": "["Use Constraints: None", "Access Constraints: No Constraints"]"
 	},
 	{
 		"key": "temporal-extent-begin",
@@ -236,7 +236,7 @@
 	},
 	{
 		"key": "dataset-reference-date",
-		"value": "[{\"type\": \"publication\", \"value\": \"1978-01-01\"}]"
+		"value": "[{"type": "publication", "value": "1978-01-01"}]"
 	},
 	{
 		"key": "frequency-of-update",
@@ -244,7 +244,7 @@
 	},
 	{
 		"key": "licence",
-		"value": "[\"While every effort has been made to ensure that these data are accurate and reliable within the limits of the current state of the art, NOAA cannot assume liability for any damages caused by any errors or omissions in the data.\"]"
+		"value": "["While every effort has been made to ensure that these data are accurate and reliable within the limits of the current state of the art, NOAA cannot assume liability for any damages caused by any errors or omissions in the data."]"
 	},
 	{
 		"key": "metadata_type",
@@ -252,7 +252,7 @@
 	},
 	{
 		"key": "responsible-party",
-		"value": "[{\"name\": \"DOC\/NOAA\/NESDIS\/NCEI > National Centers for Environmental Information, NESDIS, NOAA, U.S. Department of Commerce\", \"roles\": [\"pointOfContact\"]}]"
+		"value": "[{"name": "DOC/NOAA/NESDIS/NCEI > National Centers for Environmental Information, NESDIS, NOAA, U.S. Department of Commerce", "roles": ["pointOfContact"]}]"
 	},
 	{
 		"key": "temporal-extent-end",
@@ -268,7 +268,7 @@
 	},
 	{
 		"package_id": "0a32f8d6-cce5-4074-b2bf-4c66d1124ced",
-		"value": "magnetic intensity, solid earth, doc\/noaa\/nesdis\/ngdc, geomagnetism, global, space physics, magnetic declination, interior and crust, icsu-wds, national centers for environmental information, nesdis, noaa, u.s. department of commerce, doc\/noaa\/nesdis\/ncei, magnetospheric science, national geophysical data center, nesdis, noaa, u.s. department of commerce, international council for science - world data system, earth science",
+		"value": "magnetic intensity, solid earth, doc/noaa/nesdis/ngdc, geomagnetism, global, space physics, magnetic declination, interior and crust, icsu-wds, national centers for environmental information, nesdis, noaa, u.s. department of commerce, doc/noaa/nesdis/ncei, magnetospheric science, national geophysical data center, nesdis, noaa, u.s. department of commerce, international council for science - world data system, earth science",
 		"revision_timestamp": "2015-10-06T22:00:37.622392",
 		"state": "active",
 		"key": "tags",
@@ -298,7 +298,7 @@
 		"revision_timestamp": "2013-03-25T23:05:12.923863",
 		"is_organization": true,
 		"state": "active",
-		"image_url": "https:\/\/fortress.wa.gov\/dfw\/score\/score\/images\/noaa_logo.png",
+		"image_url": "https://fortress.wa.gov/dfw/score/score/images/noaa_logo.png",
 		"revision_id": "c6d43080-22e1-405e-a83d-f2a512d9e867",
 		"type": "organization",
 		"id": "e811f0b4-451f-4896-9e8f-fc6802837819",

@@ -37,7 +37,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2016-05-31T04:19:04.800248",
-		"url": "https:\/\/coast.noaa.gov\/dataviewer\/#\/lidar\/search\/where:ID=69",
+		"url": "https://coast.noaa.gov/dataviewer/#/lidar/search/where:ID=69",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 0,
@@ -67,7 +67,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2016-05-31T04:19:04.800272",
-		"url": "https:\/\/coast.noaa.gov\/htdata\/lidar1_z\/geoid12a\/data\/69",
+		"url": "https://coast.noaa.gov/htdata/lidar1_z/geoid12a/data/69",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 1,
@@ -97,7 +97,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2016-05-31T04:19:04.800281",
-		"url": "https:\/\/coast.noaa.gov\/dataviewer",
+		"url": "https://coast.noaa.gov/dataviewer",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 2,
@@ -127,7 +127,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2016-05-31T04:19:04.800289",
-		"url": "https:\/\/coast.noaa.gov",
+		"url": "https://coast.noaa.gov",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 3,
@@ -149,7 +149,7 @@
 		"revision_timestamp": "2013-03-25T23:05:12.923863",
 		"is_organization": true,
 		"state": "active",
-		"image_url": "https:\/\/fortress.wa.gov\/dfw\/score\/score\/images\/noaa_logo.png",
+		"image_url": "https://fortress.wa.gov/dfw/score/score/images/noaa_logo.png",
 		"revision_id": "c6d43080-22e1-405e-a83d-f2a512d9e867",
 		"type": "organization",
 		"id": "e811f0b4-451f-4896-9e8f-fc6802837819",
@@ -196,7 +196,7 @@
 	},
 	{
 		"key": "spatial",
-		"value": "{\"type\": \"Polygon\", \"coordinates\": [[[-82.451361, 27.176931], [-81.879906, 27.176931], [-81.879906, 27.555841], [-82.451361, 27.555841], [-82.451361, 27.176931]]]}"
+		"value": "{"type": "Polygon", "coordinates": [[[-82.451361, 27.176931], [-81.879906, 27.176931], [-81.879906, 27.555841], [-82.451361, 27.555841], [-82.451361, 27.176931]]]}"
 	},
 	{
 		"key": "progress",
@@ -204,7 +204,7 @@
 	},
 	{
 		"key": "access_constraints",
-		"value": "[\"Use Constraints: Users should be aware that temporal changes may have occurred since this data set was collected and some parts of this data may no longer represent actual surface conditions. Users should not use this data for critical applications without a full awareness of its limitations.\", \"Access Constraints: None\"]"
+		"value": "["Use Constraints: Users should be aware that temporal changes may have occurred since this data set was collected and some parts of this data may no longer represent actual surface conditions. Users should not use this data for critical applications without a full awareness of its limitations.", "Access Constraints: None"]"
 	},
 	{
 		"key": "temporal-extent-begin",
@@ -224,7 +224,7 @@
 	},
 	{
 		"key": "dataset-reference-date",
-		"value": "[{\"type\": \"publication\", \"value\": \"2006-12-04\"}]"
+		"value": "[{"type": "publication", "value": "2006-12-04"}]"
 	},
 	{
 		"key": "frequency-of-update",
@@ -232,7 +232,7 @@
 	},
 	{
 		"key": "licence",
-		"value": "[\"\\nAny conclusions drawn for the analysis of this information are not the responsibility of the Office for Coastal Management or its partners.\\n\"]"
+		"value": "["\nAny conclusions drawn for the analysis of this information are not the responsibility of the Office for Coastal Management or its partners.\n"]"
 	},
 	{
 		"key": "metadata_type",
@@ -240,7 +240,7 @@
 	},
 	{
 		"key": "responsible-party",
-		"value": "[{\"name\": \"Southwest Florida Water Management District\", \"roles\": [\"pointOfContact\"]}]"
+		"value": "[{"name": "Southwest Florida Water Management District", "roles": ["pointOfContact"]}]"
 	},
 	{
 		"key": "temporal-extent-end",
@@ -256,7 +256,7 @@
 	},
 	{
 		"key": "tags",
-		"value": "southwest florida, elevation, bare earth, florida, terrain, surface, lidar, bathymetry\/topography, us, model, manatee county, upper myakka",
+		"value": "southwest florida, elevation, bare earth, florida, terrain, surface, lidar, bathymetry/topography, us, model, manatee county, upper myakka",
 		"__extras": {
 			"revision_id": "f029ccb5-30d4-477c-82c1-8981c3d5785e",
 			"package_id": "82a87e3d-6b21-48c0-a184-67de04922f63"

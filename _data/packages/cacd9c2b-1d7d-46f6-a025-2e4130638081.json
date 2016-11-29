@@ -37,7 +37,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2016-10-26T05:56:39.613975",
-		"url": "http:\/\/dx.doi.org\/10.5066\/F7JH3J7N",
+		"url": "http://dx.doi.org/10.5066/F7JH3J7N",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 0,
@@ -57,7 +57,7 @@
 	"name": "coastal-marine-geology-program-video-and-photograph-portal",
 	"isopen": false,
 	"url": null,
-	"notes": "Access to the US Geological Survey (USGS) Coastal and Marine Geology Program\u2019s (CMGP) vast collection of unique and valuable seafloor and coastal imagery is made available in the CMGP Video and Photograph Portal. The portal provides a single location for data discovery and viewing. The CMGP and our research partners invest immense resources collecting, processing, and archiving seafloor and oblique coastal video and photographs. Until the publication of the CMGP Video and Photograph Portal in 2015, only a small number of these data sets were available to the public through static web interfaces. Prior to development of the data portal, retrieving this imagery most often required internal USGS access with specific hardware and software. Furthermore, it was difficult to manage and challenging to share such a large amount of information. The Coastal and Marine Geology Program (CMGP) Video and Photograph Portal contains imagery spanning from 2003 to the present. Video and photographs originally collected on analog film media have been digitized and processed along with more recently collected digital video and photographs to meet a common standard for all CMGP video\/photo imagery. The Portal is based on an interactive map allowing users to zoom into an area of interest and find available USGS imagery. The co-located video and still photographs are displayed simultaneously, just as they were acquired in the field. In the portal, videos are ultimately stored and streamed as embedded YouTube videos, and photographs are stored in Picasa. Presenting the imagery in this way requires multiple processing steps and tools, including video and photo editing, database management, and computer scripting to automate processing, formatting and quality assurance tasks. A robust set of processing tools have been developed to streamline and automate portions of the workflow based on the wide range of data types processed so far. However, sometimes the data received are uniquely organized and formatted, requiring individualized processing. In that case processing tools are updated to accept a wider range of data formats and organizational structures.",
+	"notes": "Access to the US Geological Survey (USGS) Coastal and Marine Geology Programu2019s (CMGP) vast collection of unique and valuable seafloor and coastal imagery is made available in the CMGP Video and Photograph Portal. The portal provides a single location for data discovery and viewing. The CMGP and our research partners invest immense resources collecting, processing, and archiving seafloor and oblique coastal video and photographs. Until the publication of the CMGP Video and Photograph Portal in 2015, only a small number of these data sets were available to the public through static web interfaces. Prior to development of the data portal, retrieving this imagery most often required internal USGS access with specific hardware and software. Furthermore, it was difficult to manage and challenging to share such a large amount of information. The Coastal and Marine Geology Program (CMGP) Video and Photograph Portal contains imagery spanning from 2003 to the present. Video and photographs originally collected on analog film media have been digitized and processed along with more recently collected digital video and photographs to meet a common standard for all CMGP video/photo imagery. The Portal is based on an interactive map allowing users to zoom into an area of interest and find available USGS imagery. The co-located video and still photographs are displayed simultaneously, just as they were acquired in the field. In the portal, videos are ultimately stored and streamed as embedded YouTube videos, and photographs are stored in Picasa. Presenting the imagery in this way requires multiple processing steps and tools, including video and photo editing, database management, and computer scripting to automate processing, formatting and quality assurance tasks. A robust set of processing tools have been developed to streamline and automate portions of the workflow based on the wide range of data types processed so far. However, sometimes the data received are uniquely organized and formatted, requiring individualized processing. In that case processing tools are updated to accept a wider range of data formats and organizational structures.",
 	"license_title": null,
 	"extras": [{
 		"key": "bbox-east-long",
@@ -93,7 +93,7 @@
 	},
 	{
 		"key": "spatial",
-		"value": "{\"type\": \"Polygon\", \"coordinates\": [[[-179.824218743, 23.4027649045], [-56.7773437477, 23.4027649045], [-56.7773437477, 72.1279362798], [-179.824218743, 72.1279362798], [-179.824218743, 23.4027649045]]]}"
+		"value": "{"type": "Polygon", "coordinates": [[[-179.824218743, 23.4027649045], [-56.7773437477, 23.4027649045], [-56.7773437477, 72.1279362798], [-179.824218743, 72.1279362798], [-179.824218743, 23.4027649045]]]}"
 	},
 	{
 		"key": "progress",
@@ -101,7 +101,7 @@
 	},
 	{
 		"key": "access_constraints",
-		"value": "[\"Use Constraints: USGS-authored or produced data and information are in the public domain from the U.S. Government and are freely redistributable with proper metadata and source attribution. Please recognize and acknowledge the U.S. Geological Survey as the originator(s) of the dataset and in products derived from these data\", \"Access Constraints: None\"]"
+		"value": "["Use Constraints: USGS-authored or produced data and information are in the public domain from the U.S. Government and are freely redistributable with proper metadata and source attribution. Please recognize and acknowledge the U.S. Geological Survey as the originator(s) of the dataset and in products derived from these data", "Access Constraints: None"]"
 	},
 	{
 		"key": "temporal-extent-begin",
@@ -121,7 +121,7 @@
 	},
 	{
 		"key": "dataset-reference-date",
-		"value": "[{\"type\": \"publication\", \"value\": \"2015-01-01\"}]"
+		"value": "[{"type": "publication", "value": "2015-01-01"}]"
 	},
 	{
 		"key": "frequency-of-update",
@@ -129,7 +129,7 @@
 	},
 	{
 		"key": "licence",
-		"value": "[\"These data, identified as video and photograph data, have been approved for release and publication by the U.S. Geological Survey (USGS). Although these data have been subjected to rigorous review and are substantially complete, the USGS reserves the right to revise the data pursuant to further analysis and review. Furthermore, they are released on condition that neither the USGS nor the United States Government may be held liable for any damages resulting from its authorized or unauthorized use.\"]"
+		"value": "["These data, identified as video and photograph data, have been approved for release and publication by the U.S. Geological Survey (USGS). Although these data have been subjected to rigorous review and are substantially complete, the USGS reserves the right to revise the data pursuant to further analysis and review. Furthermore, they are released on condition that neither the USGS nor the United States Government may be held liable for any damages resulting from its authorized or unauthorized use."]"
 	},
 	{
 		"key": "metadata_type",
@@ -137,7 +137,7 @@
 	},
 	{
 		"key": "responsible-party",
-		"value": "[{\"name\": \"U.S. Geological Survey, Pacific Coastal and Marine Science Center\", \"roles\": [\"pointOfContact\"]}]"
+		"value": "[{"name": "U.S. Geological Survey, Pacific Coastal and Marine Science Center", "roles": ["pointOfContact"]}]"
 	},
 	{
 		"key": "spatial-data-service-type",
@@ -149,7 +149,7 @@
 	},
 	{
 		"package_id": "cacd9c2b-1d7d-46f6-a025-2e4130638081",
-		"value": "pacific ocean, water column features, state of california, marine ecosystems, hawaii, united states, video, aerial photography, gulf coast, pacific coastal and marine science center, imagery, coastal ecosystems, still imagery, puget sound, photographs, physical habitats and geomorphology, oceans, oregon, photos, u.s. geological survey, videography, california, rhode island, usgs thesaurus, usgs, atlantic ocean, america samoa, biodiversity, substrate, coastal and marine geology, geolgoy, massachussets, pcmsc, image collection, continental margins, bathymetry\/seafloor topography",
+		"value": "pacific ocean, water column features, state of california, marine ecosystems, hawaii, united states, video, aerial photography, gulf coast, pacific coastal and marine science center, imagery, coastal ecosystems, still imagery, puget sound, photographs, physical habitats and geomorphology, oceans, oregon, photos, u.s. geological survey, videography, california, rhode island, usgs thesaurus, usgs, atlantic ocean, america samoa, biodiversity, substrate, coastal and marine geology, geolgoy, massachussets, pcmsc, image collection, continental margins, bathymetry/seafloor topography",
 		"revision_timestamp": "2016-10-26T09:56:39.439187",
 		"state": "active",
 		"key": "tags",
@@ -172,14 +172,14 @@
 		"value": "USGS Coastal and Marine Geoscience Data System"
 	}],
 	"organization": {
-		"description": "http:\/\/www.usgs.gov\/\r\nThe USGS is a federal science agency that provides impartial information on the health of our ecosystems and environment, the natural hazards that threaten us, the natural resources we rely on, the impacts of climate and land-use change, and the core science systems that help us provide timely, relevant, and useable information.",
+		"description": "http://www.usgs.gov/rnThe USGS is a federal science agency that provides impartial information on the health of our ecosystems and environment, the natural hazards that threaten us, the natural resources we rely on, the impacts of climate and land-use change, and the core science systems that help us provide timely, relevant, and useable information.",
 		"created": "2013-03-14T03:44:38.263357",
 		"title": "U.S. Geological Survey, Department of the Interior",
 		"name": "usgs-gov",
 		"revision_timestamp": "2014-09-02T13:43:52.167023",
 		"is_organization": true,
 		"state": "active",
-		"image_url": "http:\/\/pubs.usgs.gov\/sir\/2004\/5296\/04-5296_confluence_park\/usgs_logo.gif",
+		"image_url": "http://pubs.usgs.gov/sir/2004/5296/04-5296_confluence_park/usgs_logo.gif",
 		"revision_id": "2858aa99-9501-4f96-82e5-9647b968ed66",
 		"type": "organization",
 		"id": "bd2cdd5a-4d65-46c0-9937-c8381175f104",

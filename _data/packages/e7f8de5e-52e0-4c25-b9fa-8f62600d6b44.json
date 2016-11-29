@@ -37,7 +37,7 @@
 		"cache_url": null,
 		"name": "Zip File",
 		"created": "2015-11-09T21:23:41.764375",
-		"url": "ftp:\/\/ftp.soest.hawaii.edu\/pibhmc\/website\/data\/mhi\/benthichabitatlayers\/Nii_5m_Rugosity.zip",
+		"url": "ftp://ftp.soest.hawaii.edu/pibhmc/website/data/mhi/benthichabitatlayers/Nii_5m_Rugosity.zip",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 0,
@@ -67,7 +67,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2015-11-09T21:23:41.764407",
-		"url": "http:\/\/www.soest.hawaii.edu\/pibhmc",
+		"url": "http://www.soest.hawaii.edu/pibhmc",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 1,
@@ -97,7 +97,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2015-11-09T21:23:41.764419",
-		"url": "http:\/\/www.soest.hawaii.edu\/pibhmc\/pibhmc_mhi_nii_geomorph.htm",
+		"url": "http://www.soest.hawaii.edu/pibhmc/pibhmc_mhi_nii_geomorph.htm",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 2,
@@ -119,7 +119,7 @@
 		"revision_timestamp": "2013-03-25T23:05:12.923863",
 		"is_organization": true,
 		"state": "active",
-		"image_url": "https:\/\/fortress.wa.gov\/dfw\/score\/score\/images\/noaa_logo.png",
+		"image_url": "https://fortress.wa.gov/dfw/score/score/images/noaa_logo.png",
 		"revision_id": "c6d43080-22e1-405e-a83d-f2a512d9e867",
 		"type": "organization",
 		"id": "e811f0b4-451f-4896-9e8f-fc6802837819",
@@ -130,11 +130,11 @@
 	"name": "rugosity-grid-derived-from-gridded-bathymetry-of-niihau-island-hawaii-usa",
 	"isopen": false,
 	"url": null,
-	"notes": "Rugosity is derived from gridded (5 m cell size) multibeam bathymetry, collected aboard NOAA ship Hi'ialakai and R\/V AHI using the Benthic Terrain Modeler with rugosity methods by Jeff Jenness (2003). Cell values reflect the (surface area) \/ (planimetric area) ratio for the area contained within that cell's boundaries. They provide indices of topographic roughness & convolutedness. This data set is for Ni'ihau Island, Hawaii, USA.",
+	"notes": "Rugosity is derived from gridded (5 m cell size) multibeam bathymetry, collected aboard NOAA ship Hi'ialakai and R/V AHI using the Benthic Terrain Modeler with rugosity methods by Jeff Jenness (2003). Cell values reflect the (surface area) / (planimetric area) ratio for the area contained within that cell's boundaries. They provide indices of topographic roughness & convolutedness. This data set is for Ni'ihau Island, Hawaii, USA.",
 	"owner_org": "e811f0b4-451f-4896-9e8f-fc6802837819",
 	"extras": [{
 		"key": "bbox-east-long",
-		"value": "\n          -160.024013\n        "
+		"value": "n          -160.024013n        "
 	},
 	{
 		"key": "resource-type",
@@ -142,7 +142,7 @@
 	},
 	{
 		"key": "bbox-north-lat",
-		"value": "\n          22.056460\n        "
+		"value": "n          22.056460n        "
 	},
 	{
 		"key": "coupled-resource",
@@ -158,7 +158,7 @@
 	},
 	{
 		"key": "graphic-preview-file",
-		"value": "http:\/\/www.soest.hawaii.edu\/pibhmc\/MHI_images\/Nii_5m_Rugosity_445.jpg"
+		"value": "http://www.soest.hawaii.edu/pibhmc/MHI_images/Nii_5m_Rugosity_445.jpg"
 	},
 	{
 		"key": "metadata-language",
@@ -174,7 +174,7 @@
 	},
 	{
 		"key": "spatial",
-		"value": "{\"type\": \"Polygon\", \"coordinates\": [[[-160.28235, 21.735042], [-160.024013, 21.735042], [-160.024013, 22.05646], [-160.28235, 22.05646], [-160.28235, 21.735042]]]}"
+		"value": "{"type": "Polygon", "coordinates": [[[-160.28235, 21.735042], [-160.024013, 21.735042], [-160.024013, 22.05646], [-160.28235, 22.05646], [-160.28235, 21.735042]]]}"
 	},
 	{
 		"key": "progress",
@@ -182,7 +182,7 @@
 	},
 	{
 		"key": "access_constraints",
-		"value": "[\"Use Constraints: These data are not to be used for navigation purposes. Please acknowledge the NOAA Pacific Islands Fisheries Science Center (PIFSC) Coral Reef Ecosystem Division (CRED) and the Pacific Islands Benthic Habitat Mapping Center, and the Joint Institute for Marine and Atmospheric Research (JIMAR) and School of Ocean and Earth Science and Technology (SOEST), University of Hawaii as the sources of this information.\", \"Access Constraints: None\"]"
+		"value": "["Use Constraints: These data are not to be used for navigation purposes. Please acknowledge the NOAA Pacific Islands Fisheries Science Center (PIFSC) Coral Reef Ecosystem Division (CRED) and the Pacific Islands Benthic Habitat Mapping Center, and the Joint Institute for Marine and Atmospheric Research (JIMAR) and School of Ocean and Earth Science and Technology (SOEST), University of Hawaii as the sources of this information.", "Access Constraints: None"]"
 	},
 	{
 		"key": "temporal-extent-begin",
@@ -194,7 +194,7 @@
 	},
 	{
 		"key": "bbox-west-long",
-		"value": "\n          -160.282350\n        "
+		"value": "n          -160.282350n        "
 	},
 	{
 		"key": "metadata-date",
@@ -202,7 +202,7 @@
 	},
 	{
 		"key": "dataset-reference-date",
-		"value": "[{\"type\": \"publication\", \"value\": \"2010-08-24\"}]"
+		"value": "[{"type": "publication", "value": "2010-08-24"}]"
 	},
 	{
 		"key": "graphic-preview-description",
@@ -214,7 +214,7 @@
 	},
 	{
 		"key": "licence",
-		"value": "[\"\\n      These data are not to be used for navigational purposes.\\nNOAA makes no warranty regarding these data, expressed or implied,\\nnor does the fact of distribution constitute such a warranty.\\nNOAA cannot assume liability for any damages caused by any errors\\nor omissions in these data, nor as a result of the failure of\\nthese data to function on a particular system.\\n    \"]"
+		"value": "["\n      These data are not to be used for navigational purposes.\nNOAA makes no warranty regarding these data, expressed or implied,\nnor does the fact of distribution constitute such a warranty.\nNOAA cannot assume liability for any damages caused by any errors\nor omissions in these data, nor as a result of the failure of\nthese data to function on a particular system.\n    "]"
 	},
 	{
 		"key": "metadata_type",
@@ -222,7 +222,7 @@
 	},
 	{
 		"key": "responsible-party",
-		"value": "[{\"name\": \"Pacific Islands Benthic Habitat Mapping Center (PIBHMC), Coral Reef Ecosystem Division (CRED), Pacific Islands Fisheries Science Center (PIFSC), National Marine Fisheries Service (NMFS), National Oceanic and Atmospheric Administration (NOAA)\", \"roles\": [\"pointOfContact\"]}]"
+		"value": "[{"name": "Pacific Islands Benthic Habitat Mapping Center (PIBHMC), Coral Reef Ecosystem Division (CRED), Pacific Islands Fisheries Science Center (PIFSC), National Marine Fisheries Service (NMFS), National Oceanic and Atmospheric Administration (NOAA)", "roles": ["pointOfContact"]}]"
 	},
 	{
 		"key": "temporal-extent-end",
@@ -234,11 +234,11 @@
 	},
 	{
 		"key": "bbox-south-lat",
-		"value": "\n          21.735042\n        "
+		"value": "n          21.735042n        "
 	},
 	{
 		"key": "tags",
-		"value": "pacific ocean, habitat mapping, aquatic habitat, united states of america, hawaiian islands, zoology, earth science, geographic information, country\/territory, benthic habitat, habitats, geomorphology mapping, oceans, mapping, corals, niihau island, central pacific ocean, ocean basin, rugosity, niihau island (21n160w0001), biosphere, hawaii, reef monitoring and assessment, kauai, bathymetry\/seafloor topography",
+		"value": "pacific ocean, habitat mapping, aquatic habitat, united states of america, hawaiian islands, zoology, earth science, geographic information, country/territory, benthic habitat, habitats, geomorphology mapping, oceans, mapping, corals, niihau island, central pacific ocean, ocean basin, rugosity, niihau island (21n160w0001), biosphere, hawaii, reef monitoring and assessment, kauai, bathymetry/seafloor topography",
 		"__extras": {
 			"revision_id": "44dd7d53-2dcc-4181-9b4c-a638c60e1e30",
 			"package_id": "e7f8de5e-52e0-4c25-b9fa-8f62600d6b44"

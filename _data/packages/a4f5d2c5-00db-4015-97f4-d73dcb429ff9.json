@@ -37,7 +37,7 @@
 		"cache_url": null,
 		"name": "Comma Separated Values File",
 		"created": "2016-02-17T01:25:19.404726",
-		"url": "http:\/\/ardf.wr.usgs.gov\/ardf_data\/ardfcomp.CSV",
+		"url": "http://ardf.wr.usgs.gov/ardf_data/ardfcomp.CSV",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 0,
@@ -66,7 +66,7 @@
 		"cache_url": null,
 		"name": "Shapefile",
 		"created": "2016-02-17T01:25:19.404787",
-		"url": "http:\/\/mrdata.usgs.gov\/ardf\/ardf.zip",
+		"url": "http://mrdata.usgs.gov/ardf/ardf.zip",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 1,
@@ -95,7 +95,7 @@
 		"cache_url": null,
 		"name": "OGC WMS",
 		"created": "2016-02-17T01:25:19.404802",
-		"url": "http:\/\/mrdata.usgs.gov\/services\/ardf?request=getcapabilities&service=WMS&version=1.1.1&",
+		"url": "http://mrdata.usgs.gov/services/ardf?request=getcapabilities&service=WMS&version=1.1.1&",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 2,
@@ -124,7 +124,7 @@
 		"cache_url": null,
 		"name": "OGC WFS",
 		"created": "2016-02-17T01:25:19.404810",
-		"url": "http:\/\/mrdata.usgs.gov\/wfs\/ardf?request=getcapabilities&service=WFS&version=1.0.0&",
+		"url": "http://mrdata.usgs.gov/wfs/ardf?request=getcapabilities&service=WFS&version=1.0.0&",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 3,
@@ -154,7 +154,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2016-02-17T01:25:19.404818",
-		"url": "http:\/\/ardf.wr.usgs.gov\/",
+		"url": "http://ardf.wr.usgs.gov/",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 4,
@@ -184,7 +184,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2016-02-17T01:25:19.404825",
-		"url": "http:\/\/mrdata.usgs.gov\/ardf\/",
+		"url": "http://mrdata.usgs.gov/ardf/",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 5,
@@ -214,7 +214,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2016-02-17T01:25:19.404832",
-		"url": "http:\/\/mrdata.usgs.gov\/mrds\/",
+		"url": "http://mrdata.usgs.gov/mrds/",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 6,
@@ -262,7 +262,7 @@
 	},
 	{
 		"key": "graphic-preview-file",
-		"value": "http:\/\/mrdata.usgs.gov\/ardf\/ardf.png"
+		"value": "http://mrdata.usgs.gov/ardf/ardf.png"
 	},
 	{
 		"key": "bbox-south-lat",
@@ -278,7 +278,7 @@
 	},
 	{
 		"key": "spatial",
-		"value": "{\"type\": \"Polygon\", \"coordinates\": [[[172.0, 52.0], [-130.0, 52.0], [-130.0, 72.0], [172.0, 72.0], [172.0, 52.0]]]}"
+		"value": "{"type": "Polygon", "coordinates": [[[172.0, 52.0], [-130.0, 52.0], [-130.0, 72.0], [172.0, 72.0], [172.0, 52.0]]]}"
 	},
 	{
 		"key": "progress",
@@ -286,7 +286,7 @@
 	},
 	{
 		"key": "access_constraints",
-		"value": "[\"Use Constraints: None\", \"Access Constraints: None\"]"
+		"value": "["Use Constraints: None", "Access Constraints: None"]"
 	},
 	{
 		"key": "temporal-extent-begin",
@@ -306,7 +306,7 @@
 	},
 	{
 		"key": "dataset-reference-date",
-		"value": "[{\"type\": \"publication\", \"value\": \"2008-01-01\"}]"
+		"value": "[{"type": "publication", "value": "2008-01-01"}]"
 	},
 	{
 		"key": "graphic-preview-description",
@@ -318,7 +318,7 @@
 	},
 	{
 		"key": "licence",
-		"value": "[\"The distributor assumes no liability.\"]"
+		"value": "["The distributor assumes no liability."]"
 	},
 	{
 		"key": "metadata_type",
@@ -326,7 +326,7 @@
 	},
 	{
 		"key": "responsible-party",
-		"value": "[{\"name\": \"U.S. Geological Survey Mineral Resources Program, Western Region - Alaska Section\", \"roles\": [\"pointOfContact\"]}]"
+		"value": "[{"name": "U.S. Geological Survey Mineral Resources Program, Western Region - Alaska Section", "roles": ["pointOfContact"]}]"
 	},
 	{
 		"key": "spatial-data-service-type",
@@ -361,14 +361,14 @@
 		"value": "Mineral Resources Online Spatial Data"
 	}],
 	"organization": {
-		"description": "http:\/\/www.usgs.gov\/\r\nThe USGS is a federal science agency that provides impartial information on the health of our ecosystems and environment, the natural hazards that threaten us, the natural resources we rely on, the impacts of climate and land-use change, and the core science systems that help us provide timely, relevant, and useable information.",
+		"description": "http://www.usgs.gov/rnThe USGS is a federal science agency that provides impartial information on the health of our ecosystems and environment, the natural hazards that threaten us, the natural resources we rely on, the impacts of climate and land-use change, and the core science systems that help us provide timely, relevant, and useable information.",
 		"created": "2013-03-14T03:44:38.263357",
 		"title": "U.S. Geological Survey, Department of the Interior",
 		"name": "usgs-gov",
 		"revision_timestamp": "2014-09-02T13:43:52.167023",
 		"is_organization": true,
 		"state": "active",
-		"image_url": "http:\/\/pubs.usgs.gov\/sir\/2004\/5296\/04-5296_confluence_park\/usgs_logo.gif",
+		"image_url": "http://pubs.usgs.gov/sir/2004/5296/04-5296_confluence_park/usgs_logo.gif",
 		"revision_id": "2858aa99-9501-4f96-82e5-9647b968ed66",
 		"type": "organization",
 		"id": "bd2cdd5a-4d65-46c0-9937-c8381175f104",

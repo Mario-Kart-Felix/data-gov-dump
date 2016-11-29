@@ -37,7 +37,7 @@
 		"cache_url": null,
 		"name": "Zip File",
 		"created": "2016-10-15T14:08:05.445383",
-		"url": "https:\/\/edg.epa.gov\/data\/Public\/R1\/SLOSH_inundation.zip",
+		"url": "https://edg.epa.gov/data/Public/R1/SLOSH_inundation.zip",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 0,
@@ -67,7 +67,7 @@
 		"cache_url": null,
 		"name": "Esri Rest API Endpoint",
 		"created": "2016-10-15T14:08:05.445425",
-		"url": "https:\/\/gispub.epa.gov\/arcgis\/rest\/services\/R1\/SLOSH_NoSLR\/MapServer",
+		"url": "https://gispub.epa.gov/arcgis/rest/services/R1/SLOSH_NoSLR/MapServer",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 1,
@@ -97,7 +97,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2016-10-15T14:08:05.445434",
-		"url": "https:\/\/epa.maps.arcgis.com\/apps\/MapJournal\/index.html?appid=1ff4f1d28a254cb689334799d94b74e2",
+		"url": "https://epa.maps.arcgis.com/apps/MapJournal/index.html?appid=1ff4f1d28a254cb689334799d94b74e2",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 2,
@@ -117,11 +117,11 @@
 	"name": "sea-lake-and-overland-surge-from-hurricanes-slosh-inundation-for-categories-2-and-4",
 	"isopen": false,
 	"url": null,
-	"notes": "The file geodatabase (fgdb) contains the Sea, Lake, and Overland Surge from Hurricanes (SLOSH) Maximum of Maximums (MOM) model for hurricane categories 2 and 4. The EPA Office of Research & Development (ORD) modified the original model from NOAA to fit the model parameters for the Buzzards Bay region. The models show storm surge extent for the Mattapoisett area and therefore the flooding area was reduced to the study area. Areas of flooding that were not connected to the main water body were removed. The files in the geodatabase are: Cat2_SLR0_Int_Feet_dissolve_Mattapoisett: Current Category 2 hurricane with 0 ft sea level rise Cat4_SLR0_Int_Feet_dissolve_Mattapoisett: Current Category 4 hurricane with 0 ft sea level rise Cat4_SLR4_Int_Feet_dissolve_Mattapoisett: Future Category 4 hurricane with 4 feet sea level rise The features support the Weather Ready Mattapoisett story map, which can be accessed via the following link: https:\/\/epa.maps.arcgis.com\/apps\/MapJournal\/index.html?appid=1ff4f1d28a254cb689334799d94b74e2",
+	"notes": "The file geodatabase (fgdb) contains the Sea, Lake, and Overland Surge from Hurricanes (SLOSH) Maximum of Maximums (MOM) model for hurricane categories 2 and 4. The EPA Office of Research & Development (ORD) modified the original model from NOAA to fit the model parameters for the Buzzards Bay region. The models show storm surge extent for the Mattapoisett area and therefore the flooding area was reduced to the study area. Areas of flooding that were not connected to the main water body were removed. The files in the geodatabase are: Cat2_SLR0_Int_Feet_dissolve_Mattapoisett: Current Category 2 hurricane with 0 ft sea level rise Cat4_SLR0_Int_Feet_dissolve_Mattapoisett: Current Category 4 hurricane with 0 ft sea level rise Cat4_SLR4_Int_Feet_dissolve_Mattapoisett: Future Category 4 hurricane with 4 feet sea level rise The features support the Weather Ready Mattapoisett story map, which can be accessed via the following link: https://epa.maps.arcgis.com/apps/MapJournal/index.html?appid=1ff4f1d28a254cb689334799d94b74e2",
 	"license_title": null,
 	"extras": [{
 		"key": "responsible-party",
-		"value": "[{\"name\": \"U.S. Environmental Protection Agency, Region 1\", \"roles\": [\"pointOfContact\"]}]"
+		"value": "[{"name": "U.S. Environmental Protection Agency, Region 1", "roles": ["pointOfContact"]}]"
 	},
 	{
 		"key": "contact-email",
@@ -141,7 +141,7 @@
 	},
 	{
 		"key": "dataset-reference-date",
-		"value": "[{\"type\": \"publication\", \"value\": \"2016-10-13\"}]"
+		"value": "[{"type": "publication", "value": "2016-10-13"}]"
 	},
 	{
 		"key": "resource-type",
@@ -169,7 +169,7 @@
 	},
 	{
 		"key": "licence",
-		"value": "[\"Although these data have been processed successfully on a computer system at the Environmental Protection Agency, no warranty expressed or implied is made regarding the accuracy or utility of the data on any other system or for general or scientific purposes, nor shall the act of distribution constitute any such warranty. It is also strongly recommended that careful attention be paid to the contents of the metadata file associated with these data to evaluate data set limitations, restrictions or intended use. The U.S. Environmental Protection Agency shall not be held liable for improper or incorrect use of the data described and\/or contained herein.\"]"
+		"value": "["Although these data have been processed successfully on a computer system at the Environmental Protection Agency, no warranty expressed or implied is made regarding the accuracy or utility of the data on any other system or for general or scientific purposes, nor shall the act of distribution constitute any such warranty. It is also strongly recommended that careful attention be paid to the contents of the metadata file associated with these data to evaluate data set limitations, restrictions or intended use. The U.S. Environmental Protection Agency shall not be held liable for improper or incorrect use of the data described and/or contained herein."]"
 	},
 	{
 		"key": "metadata_type",
@@ -181,7 +181,7 @@
 	},
 	{
 		"key": "spatial",
-		"value": "{\"type\": \"Polygon\", \"coordinates\": [[[-70.847116, 41.633846], [-70.785114, 41.633846], [-70.785114, 41.67461], [-70.847116, 41.67461], [-70.847116, 41.633846]]]}"
+		"value": "{"type": "Polygon", "coordinates": [[[-70.847116, 41.633846], [-70.785114, 41.633846], [-70.785114, 41.67461], [-70.847116, 41.67461], [-70.847116, 41.633846]]]}"
 	},
 	{
 		"key": "guid",
@@ -193,7 +193,7 @@
 	},
 	{
 		"key": "access_constraints",
-		"value": "[\"Use Constraints: None. Please check sources, scale, accuracy, currency and other available information. Please confirm that you are using the most recent copy of both data and metadata. Acknowledgement of the EPA would be appreciated.\", \"Access Constraints: None\"]"
+		"value": "["Use Constraints: None. Please check sources, scale, accuracy, currency and other available information. Please confirm that you are using the most recent copy of both data and metadata. Acknowledgement of the EPA would be appreciated.", "Access Constraints: None"]"
 	},
 	{
 		"key": "spatial_harvester",
@@ -235,7 +235,7 @@
 		"revision_timestamp": "2014-01-16T18:58:42.895981",
 		"is_organization": true,
 		"state": "active",
-		"image_url": "http:\/\/edg.epa.gov\/EPALogo.svg",
+		"image_url": "http://edg.epa.gov/EPALogo.svg",
 		"revision_id": "f0e4b475-7424-4ce0-9a22-412e7e595154",
 		"type": "organization",
 		"id": "6d90e48d-3076-4327-b2f4-c33919f374d5",

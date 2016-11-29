@@ -36,7 +36,7 @@
 		"cache_url": null,
 		"name": "NDGIS web site",
 		"created": "2013-12-07T04:04:33.606147",
-		"url": "http:\/\/www.nd.gov\/gis",
+		"url": "http://www.nd.gov/gis",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 0,
@@ -65,7 +65,7 @@
 		"cache_url": null,
 		"name": "Download Soil Conservation Districts",
 		"created": "2013-12-07T04:04:33.606176",
-		"url": "http:\/\/www.nd.gov\/gis\/apps\/DataDownload\/?clipping=Full&coord=ND83-SF&format=SHAPE&layers=NDHUB.SOILCONSERVATIONDISTRICTS",
+		"url": "http://www.nd.gov/gis/apps/DataDownload/?clipping=Full&coord=ND83-SF&format=SHAPE&layers=NDHUB.SOILCONSERVATIONDISTRICTS",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 1,
@@ -94,7 +94,7 @@
 		"cache_url": null,
 		"name": "Soil Conservation Districts",
 		"created": "2013-12-07T04:04:33.606185",
-		"url": "http:\/\/ndgishub.nd.gov\/arcgis\/services\/All_GovtBoundaries\/MapServer\/WMSServer?",
+		"url": "http://ndgishub.nd.gov/arcgis/services/All_GovtBoundaries/MapServer/WMSServer?",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 2,
@@ -123,7 +123,7 @@
 		"cache_url": null,
 		"name": "Esri REST including WMS",
 		"created": "2013-12-07T04:04:33.606193",
-		"url": "http:\/\/ndgishub.nd.gov\/ArcGIS\/rest\/services\/All_GovtBoundaries\/MapServer",
+		"url": "http://ndgishub.nd.gov/ArcGIS/rest/services/All_GovtBoundaries/MapServer",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 3,
@@ -152,7 +152,7 @@
 		"cache_url": null,
 		"name": "Esri REST including WFS and KML",
 		"created": "2013-12-07T04:04:33.606200",
-		"url": "http:\/\/ndgishub.nd.gov\/ArcGIS\/rest\/services\/Features\/All_GovtBoundaries\/MapServer",
+		"url": "http://ndgishub.nd.gov/ArcGIS/rest/services/Features/All_GovtBoundaries/MapServer",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 4,
@@ -229,7 +229,7 @@
 	},
 	{
 		"key": "spatial",
-		"value": "{\"type\": \"Polygon\", \"coordinates\": [[[-104.5, 45.5], [-96.5, 45.5], [-96.5, 49.5], [-104.5, 49.5], [-104.5, 45.5]]]}"
+		"value": "{"type": "Polygon", "coordinates": [[[-104.5, 45.5], [-96.5, 45.5], [-96.5, 49.5], [-104.5, 49.5], [-104.5, 45.5]]]}"
 	},
 	{
 		"key": "progress",
@@ -237,7 +237,7 @@
 	},
 	{
 		"key": "access_constraints",
-		"value": "[\"The U.S. Department of Agriculture, Natural Resources Conservation Service should be acknowledged as the data source in products derived from these data. This data set is not designed for use as a primary regulatory tool in permitting or citing decisions, but may be used as a reference source. This information may be interpreted by organizations, agencies, units of government, or others based on needs; however, they are responsible for the appropriate application. Federal, State, or local regulatory bodies are not to reassign to the Natural Resources Conservation Service any authority for the decisions that they make. The Natural Resources Conservation Service will not perform any evaluations of these data for purposes related solely to State or local regulatory programs. Photographic or digital enlargement of these data to scales greater than at which they were originally mapped can cause misinterpretation of the data. Digital data files are periodically updated, and users are responsible for obtaining the latest version of the data. Although these data have been processed successfully on a computer system at the U.S. Department of Agriculture, no warranty expressed or implied is made by the Natural Resources Conservation Service regarding the utility of the data on any other system, nor shall the act of distribution constitute any such warranty.  Neither the U.S. Department of Agriculture, nor any of its agencies are liable for misuse of the data, for damage, for transmission of viruses, or for computer contamination through the distribution of these data sets. The U.S. Department of Agriculture prohibits discrimination in all its programs and activities on the basis of race, color, national origin, sex, religion, age, disability, political beliefs, sexual orientation, or marital or family status. (Not all prohibited bases apply to all programs.)\"]"
+		"value": "["The U.S. Department of Agriculture, Natural Resources Conservation Service should be acknowledged as the data source in products derived from these data. This data set is not designed for use as a primary regulatory tool in permitting or citing decisions, but may be used as a reference source. This information may be interpreted by organizations, agencies, units of government, or others based on needs; however, they are responsible for the appropriate application. Federal, State, or local regulatory bodies are not to reassign to the Natural Resources Conservation Service any authority for the decisions that they make. The Natural Resources Conservation Service will not perform any evaluations of these data for purposes related solely to State or local regulatory programs. Photographic or digital enlargement of these data to scales greater than at which they were originally mapped can cause misinterpretation of the data. Digital data files are periodically updated, and users are responsible for obtaining the latest version of the data. Although these data have been processed successfully on a computer system at the U.S. Department of Agriculture, no warranty expressed or implied is made by the Natural Resources Conservation Service regarding the utility of the data on any other system, nor shall the act of distribution constitute any such warranty.  Neither the U.S. Department of Agriculture, nor any of its agencies are liable for misuse of the data, for damage, for transmission of viruses, or for computer contamination through the distribution of these data sets. The U.S. Department of Agriculture prohibits discrimination in all its programs and activities on the basis of race, color, national origin, sex, religion, age, disability, political beliefs, sexual orientation, or marital or family status. (Not all prohibited bases apply to all programs.)"]"
 	},
 	{
 		"key": "contact-email",
@@ -253,7 +253,7 @@
 	},
 	{
 		"key": "dataset-reference-date",
-		"value": "[{\"type\": \"publication\", \"value\": \"2013-05-15T21:00:00\"}]"
+		"value": "[{"type": "publication", "value": "2013-05-15T21:00:00"}]"
 	},
 	{
 		"key": "graphic-preview-description",
@@ -273,7 +273,7 @@
 	},
 	{
 		"key": "responsible-party",
-		"value": "[{\"name\": \"USDA\/NRCS - North Dakota State Office\", \"roles\": [\"originator\"]}]"
+		"value": "[{"name": "USDA/NRCS - North Dakota State Office", "roles": ["originator"]}]"
 	},
 	{
 		"key": "spatial-data-service-type",
@@ -308,14 +308,14 @@
 		"value": "North Dakota GIS Hub Data Portal"
 	}],
 	"organization": {
-		"description": "The GIS Hub is the state source for GIS - data, services, and information.  More information can be found at www.nd.gov\/gis.",
+		"description": "The GIS Hub is the state source for GIS - data, services, and information.  More information can be found at www.nd.gov/gis.",
 		"created": "2013-03-14T03:44:44.340717",
 		"title": "State of North Dakota",
 		"name": "nd-gov",
 		"revision_timestamp": "2013-07-15T16:27:30.098476",
 		"is_organization": true,
 		"state": "active",
-		"image_url": "http:\/\/www.nd.gov\/gis\/images\/ndgis-logo.gif",
+		"image_url": "http://www.nd.gov/gis/images/ndgis-logo.gif",
 		"revision_id": "27517bb9-815c-4d4f-b45b-b88b6316697b",
 		"type": "organization",
 		"id": "1c782de6-9f1f-4427-93fd-33732e29970f",

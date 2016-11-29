@@ -37,7 +37,7 @@
 		"cache_url": null,
 		"name": "Zip File",
 		"created": "2013-07-19T12:00:42.720838",
-		"url": "ftp:\/\/ftp.igsb.uiowa.edu\/gis_library\/ia_state\/hydrologic\/surface_waters\/impaired_lakes_2010.zip",
+		"url": "ftp://ftp.igsb.uiowa.edu/gis_library/ia_state/hydrologic/surface_waters/impaired_lakes_2010.zip",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 0,
@@ -67,7 +67,7 @@
 		"cache_url": null,
 		"name": "Zip File",
 		"created": "2013-07-19T12:00:42.720869",
-		"url": "ftp:\/\/ftp.igsb.uiowa.edu\/gis_library\/ia_state\/hydrologic\/surface_waters\/impaired_lakes_2010.zip",
+		"url": "ftp://ftp.igsb.uiowa.edu/gis_library/ia_state/hydrologic/surface_waters/impaired_lakes_2010.zip",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 1,
@@ -87,11 +87,11 @@
 	"name": "lakes-in-iowa-listed-as-impaired-in-2010-under-the-clean-water-act",
 	"isopen": false,
 	"url": null,
-	"notes": "Under Section 303(d) of the Clean Water Act, states are required from \"time to time\" to submit a list of waters for which effluent limits will not be sufficient to meet all state water quality standards. EPA has defined \"time to time\" to mean April 1 of even numbered years. The failure to meet water quality standards might be due to an individual pollutant, multiple pollutants, \"pollution,\" or an unknown cause of impairment. The 303(d) listing process includes waters impaired by point sources and nonpoint sources of pollutants. States must also establish a priority ranking for the listed waters, taking into account the severity of pollution and uses. The EPA regulations that govern 303(d) listing can be found in the Code of Federal Regulations 40 CFR 130.7. The Iowa Department of Natural Resources compiles this impaired water list, or 303(d) listing. The 303(d) listing is composed of those lakes, wetlands, streams, rivers, and portions of rivers that do not meet all state water quality standards. These are considered \"impaired waterbodies\" and states are required to calculate total maximum daily loads (TMDLs) for pollutants causing impairments.",
+	"notes": "Under Section 303(d) of the Clean Water Act, states are required from "time to time" to submit a list of waters for which effluent limits will not be sufficient to meet all state water quality standards. EPA has defined "time to time" to mean April 1 of even numbered years. The failure to meet water quality standards might be due to an individual pollutant, multiple pollutants, "pollution," or an unknown cause of impairment. The 303(d) listing process includes waters impaired by point sources and nonpoint sources of pollutants. States must also establish a priority ranking for the listed waters, taking into account the severity of pollution and uses. The EPA regulations that govern 303(d) listing can be found in the Code of Federal Regulations 40 CFR 130.7. The Iowa Department of Natural Resources compiles this impaired water list, or 303(d) listing. The 303(d) listing is composed of those lakes, wetlands, streams, rivers, and portions of rivers that do not meet all state water quality standards. These are considered "impaired waterbodies" and states are required to calculate total maximum daily loads (TMDLs) for pollutants causing impairments.",
 	"license_title": null,
 	"extras": [{
 		"key": "responsible-party",
-		"value": "[{\"name\": \"Iowa Department of Natural Resources\", \"roles\": [\"pointOfContact\"]}]"
+		"value": "[{"name": "Iowa Department of Natural Resources", "roles": ["pointOfContact"]}]"
 	},
 	{
 		"key": "contact-email",
@@ -111,7 +111,7 @@
 	},
 	{
 		"key": "dataset-reference-date",
-		"value": "[{\"type\": \"publication\", \"value\": \"2011-02-17\"}]"
+		"value": "[{"type": "publication", "value": "2011-02-17"}]"
 	},
 	{
 		"key": "resource-type",
@@ -139,7 +139,7 @@
 	},
 	{
 		"key": "licence",
-		"value": "[\"Although efforts have been made in correcting errors in order to make this information useful to the Department, the Department assumes no responsibility for errors in the information.  Similarly, the Department assumes no responsibility for the consequences of inappropriate uses or interpretations of the data made by anyone to whom this data has been made available.  The Department bears no responsibility to inform users of any changes made to this data.  Anyone using this data is advised that precision implied by the coverage may far exceed actual precision.  Comments on this data are invited and the Department would appreciate that documented errors be brought to staff attention. \"]"
+		"value": "["Although efforts have been made in correcting errors in order to make this information useful to the Department, the Department assumes no responsibility for errors in the information.  Similarly, the Department assumes no responsibility for the consequences of inappropriate uses or interpretations of the data made by anyone to whom this data has been made available.  The Department bears no responsibility to inform users of any changes made to this data.  Anyone using this data is advised that precision implied by the coverage may far exceed actual precision.  Comments on this data are invited and the Department would appreciate that documented errors be brought to staff attention. "]"
 	},
 	{
 		"key": "metadata_type",
@@ -147,7 +147,7 @@
 	},
 	{
 		"key": "spatial",
-		"value": "{\"type\": \"Polygon\", \"coordinates\": [[[-96.473649, 40.553224], [-90.23301, 40.553224], [-90.23301, 43.517184], [-96.473649, 43.517184], [-96.473649, 40.553224]]]}"
+		"value": "{"type": "Polygon", "coordinates": [[[-96.473649, 40.553224], [-90.23301, 40.553224], [-90.23301, 43.517184], [-96.473649, 43.517184], [-96.473649, 40.553224]]]}"
 	},
 	{
 		"key": "guid",
@@ -159,7 +159,7 @@
 	},
 	{
 		"key": "access_constraints",
-		"value": "[\"Use Constraints: The development of the coverages in the NRGIS Library represents a major investment of staff time and effort. As a professional responsibility, the Iowa DNR expects to receive proper credit when these GIS coverages are utilized. he Department also expects that the original documentation will remain with any redistribution of these coverages.\", \"Access Constraints: None\"]"
+		"value": "["Use Constraints: The development of the coverages in the NRGIS Library represents a major investment of staff time and effort. As a professional responsibility, the Iowa DNR expects to receive proper credit when these GIS coverages are utilized. he Department also expects that the original documentation will remain with any redistribution of these coverages.", "Access Constraints: None"]"
 	},
 	{
 		"key": "spatial_harvester",
@@ -201,7 +201,7 @@
 		"revision_timestamp": "2013-07-19T15:56:17.219368",
 		"is_organization": true,
 		"state": "active",
-		"image_url": "http:\/\/www.gis.iastate.edu\/images\/GISFlogo50H.png",
+		"image_url": "http://www.gis.iastate.edu/images/GISFlogo50H.png",
 		"revision_id": "3fb02433-fa30-4475-9ff3-e5dcf5cfb139",
 		"type": "organization",
 		"id": "32e644cd-07b4-427e-b867-d7f9dcf23f9c",

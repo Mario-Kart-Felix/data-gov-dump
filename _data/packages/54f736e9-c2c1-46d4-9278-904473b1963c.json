@@ -37,7 +37,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2013-03-14T20:46:15.286002",
-		"url": "http:\/\/gisdasc.kgs.ku.edu",
+		"url": "http://gisdasc.kgs.ku.edu",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 0,
@@ -57,11 +57,11 @@
 	"name": "kansas-power-plants",
 	"isopen": false,
 	"url": null,
-	"notes": "The Kansas Power Plants database depicts, as point features, the locations of the various types of power plant locations in Kansas. The locations of the power plants were originally derived from the Environmental Protection Agency's (EPA) Acid Rain database. Using the 'add x,y' function in ArcGIS, the tabular information was converted to an Environmental Systems Research Institute (ESRI) Shapefile format. The spatial accuracy of the power plant locations were improved by georeferencing to visible features on 2002 State of Kansas Digital Orthophoto Quarter Quadrangle (DOQQ) database. The Kansas Power Plants database inherits the accuracy of the 2002 Kansas DOQQ database which conforms to the United States Geological Survey's (USGS) DOQQ specifications and the 1:24,000 National Map Accuracy Standard. For more information on these standards, please visit the USGS National Mapping Program Standards web site at http:\/\/geography.usgs.gov\/standards.",
+	"notes": "The Kansas Power Plants database depicts, as point features, the locations of the various types of power plant locations in Kansas. The locations of the power plants were originally derived from the Environmental Protection Agency's (EPA) Acid Rain database. Using the 'add x,y' function in ArcGIS, the tabular information was converted to an Environmental Systems Research Institute (ESRI) Shapefile format. The spatial accuracy of the power plant locations were improved by georeferencing to visible features on 2002 State of Kansas Digital Orthophoto Quarter Quadrangle (DOQQ) database. The Kansas Power Plants database inherits the accuracy of the 2002 Kansas DOQQ database which conforms to the United States Geological Survey's (USGS) DOQQ specifications and the 1:24,000 National Map Accuracy Standard. For more information on these standards, please visit the USGS National Mapping Program Standards web site at http://geography.usgs.gov/standards.",
 	"license_title": null,
 	"extras": [{
 		"key": "responsible-party",
-		"value": "[{\"name\": \"Kansas Geological Survey\", \"roles\": [\"pointOfContact\"]}]"
+		"value": "[{"name": "Kansas Geological Survey", "roles": ["pointOfContact"]}]"
 	},
 	{
 		"key": "contact-email",
@@ -81,7 +81,7 @@
 	},
 	{
 		"key": "dataset-reference-date",
-		"value": "[{\"type\": \"publication\", \"value\": \"2004-01-01\"}]"
+		"value": "[{"type": "publication", "value": "2004-01-01"}]"
 	},
 	{
 		"key": "resource-type",
@@ -109,7 +109,7 @@
 	},
 	{
 		"key": "licence",
-		"value": "[\" \"]"
+		"value": "[" "]"
 	},
 	{
 		"key": "metadata_type",
@@ -117,7 +117,7 @@
 	},
 	{
 		"key": "spatial",
-		"value": "{\"type\": \"Polygon\", \"coordinates\": [[[-102.5, 37.0], [-102.5, 40.0], [-94.6, 40.0], [-94.6, 37.0], [-102.5, 37.0]]]}"
+		"value": "{"type": "Polygon", "coordinates": [[[-102.5, 37.0], [-102.5, 40.0], [-94.6, 40.0], [-94.6, 37.0], [-102.5, 37.0]]]}"
 	},
 	{
 		"key": "guid",
@@ -129,7 +129,7 @@
 	},
 	{
 		"key": "access_constraints",
-		"value": "[\"Use Constraints: None\", \"Access Constraints: None, Open Record\"]"
+		"value": "["Use Constraints: None", "Access Constraints: None, Open Record"]"
 	},
 	{
 		"key": "frequency-of-update",
@@ -167,7 +167,7 @@
 		"revision_timestamp": "2013-05-30T15:56:28.333515",
 		"is_organization": true,
 		"state": "active",
-		"image_url": "http:\/\/www.kansasgis.org\/_style\/img\/banner.png",
+		"image_url": "http://www.kansasgis.org/_style/img/banner.png",
 		"revision_id": "649a4ecd-dd72-4628-b80e-cea6a4f616d2",
 		"type": "organization",
 		"id": "56d45844-910f-4632-a4ff-bf5f0e6cb653",

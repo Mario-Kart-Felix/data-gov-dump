@@ -36,7 +36,7 @@
 		"cache_url": null,
 		"name": "TGRSHP (compressed)",
 		"created": "2016-03-31T19:57:41.348926",
-		"url": "http:\/\/www.census.gov\/geo\/www\/tiger",
+		"url": "http://www.census.gov/geo/www/tiger",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 0,
@@ -45,7 +45,7 @@
 	}],
 	"num_resources": 1,
 	"tags": [],
-	"title": "TIGER\/Line Shapefile, 2010, 2010 Census Block State-based",
+	"title": "TIGER/Line Shapefile, 2010, 2010 Census Block State-based",
 	"tracking_summary": {
 		"total": 29,
 		"recent": 1
@@ -56,7 +56,7 @@
 	"name": "tiger-line-shapefile-2010-2010-census-block-state-based",
 	"isopen": false,
 	"url": null,
-	"notes": "The TIGER\/Line Files are shapefiles and related database files (.dbf) that are an extract of selected geographic and cartographic information from the U.S. Census Bureau's Master Address File \/ Topologically Integrated Geographic Encoding and Referencing (MAF\/TIGER) Database (MTDB). The MTDB represents a seamless national file with no overlaps or gaps between parts, however, each TIGER\/Line File is designed to stand alone as an independent data set, or they can be combined to cover the entire nation. Census Blocks are statistical areas bounded on all sides by visible features, such as streets, roads, streams, and railroad tracks, and\/or by nonvisible boundaries such as city, town, township, and county limits, and short line-of-sight extensions of streets and roads. Census blocks are relatively small in area; for example, a block in a city bounded by streets. However, census blocks in remote areas are often large and irregular and may even be many square miles in area. A common misunderstanding is that data users think census blocks are used geographically to build all other census geographic areas, rather all other census geographic areas are updated and then used as the primary constraints, along with roads and water features, to delineate the tabulation blocks. As a result, all 2010 Census blocks nest within every other 2010 Census geographic area, so that Census Bureau statistical data can be tabulated at the block level and aggregated up to the appropriate geographic areas. Census blocks cover all territory in the United States, Puerto Rico, and the Island Areas (American Samoa, Guam, the Commonwealth of the Northern Mariana Islands, and the U.S. Virgin Islands). Blocks are the smallest geographic areas for which the Census Bureau publishes data from the decennial census. A block may consist of one or more faces. This table contains housing data derived from the U.S. Census 2010 Summary file 1 database for blocks. The 2010 Summary File 1 (SF 1) contains data compiled from the 2010 Decennial Census questions. This table contains data on housing units, owner and rental. This table contains population data derived from the U.S. Census 2010 Summary file 1 database for blocks. The 2010 Summary File 1 (SF 1) contains data compiled from the 2010 Decennial Census questions. This table contains demographic population data including ancestry groups, age, and sex.",
+	"notes": "The TIGER/Line Files are shapefiles and related database files (.dbf) that are an extract of selected geographic and cartographic information from the U.S. Census Bureau's Master Address File / Topologically Integrated Geographic Encoding and Referencing (MAF/TIGER) Database (MTDB). The MTDB represents a seamless national file with no overlaps or gaps between parts, however, each TIGER/Line File is designed to stand alone as an independent data set, or they can be combined to cover the entire nation. Census Blocks are statistical areas bounded on all sides by visible features, such as streets, roads, streams, and railroad tracks, and/or by nonvisible boundaries such as city, town, township, and county limits, and short line-of-sight extensions of streets and roads. Census blocks are relatively small in area; for example, a block in a city bounded by streets. However, census blocks in remote areas are often large and irregular and may even be many square miles in area. A common misunderstanding is that data users think census blocks are used geographically to build all other census geographic areas, rather all other census geographic areas are updated and then used as the primary constraints, along with roads and water features, to delineate the tabulation blocks. As a result, all 2010 Census blocks nest within every other 2010 Census geographic area, so that Census Bureau statistical data can be tabulated at the block level and aggregated up to the appropriate geographic areas. Census blocks cover all territory in the United States, Puerto Rico, and the Island Areas (American Samoa, Guam, the Commonwealth of the Northern Mariana Islands, and the U.S. Virgin Islands). Blocks are the smallest geographic areas for which the Census Bureau publishes data from the decennial census. A block may consist of one or more faces. This table contains housing data derived from the U.S. Census 2010 Summary file 1 database for blocks. The 2010 Summary File 1 (SF 1) contains data compiled from the 2010 Decennial Census questions. This table contains data on housing units, owner and rental. This table contains population data derived from the U.S. Census 2010 Summary file 1 database for blocks. The 2010 Summary File 1 (SF 1) contains data compiled from the 2010 Decennial Census questions. This table contains demographic population data including ancestry groups, age, and sex.",
 	"license_title": null,
 	"extras": [{
 		"key": "bbox-east-long",
@@ -92,7 +92,7 @@
 	},
 	{
 		"key": "spatial",
-		"value": "{\"type\": \"Polygon\", \"coordinates\": [[[-80.02109, 17.76451], [-63.002662, 17.76451], [-63.002662, 45.040792], [-80.02109, 45.040792], [-80.02109, 17.76451]]]}"
+		"value": "{"type": "Polygon", "coordinates": [[[-80.02109, 17.76451], [-63.002662, 17.76451], [-63.002662, 45.040792], [-80.02109, 45.040792], [-80.02109, 17.76451]]]}"
 	},
 	{
 		"key": "progress",
@@ -100,7 +100,7 @@
 	},
 	{
 		"key": "access_constraints",
-		"value": "[\"Use Constraints: The TIGER\/Line Shapefile products are not copyrighted however TIGER\/Line and Census TIGER are registered trademarks of the U.S. Census Bureau. These products are free to use in a product or publication, however acknowledgement must be given to the U.S. Census Bureau as the source. The boundary information in the TIGER\/Line Shapefiles are for statistical data collection and tabulation purposes only; their depiction and designation for statistical purposes does not constitute a determination of jurisdictional authority or rights of ownership or entitlement and they are not legal land descriptions.Coordinates in the TIGER\/Line shapefiles have six implied decimal places, but the positional accuracy of these coordinates is not as great as the six decimal places suggest.\", \"Access Constraints: None\"]"
+		"value": "["Use Constraints: The TIGER/Line Shapefile products are not copyrighted however TIGER/Line and Census TIGER are registered trademarks of the U.S. Census Bureau. These products are free to use in a product or publication, however acknowledgement must be given to the U.S. Census Bureau as the source. The boundary information in the TIGER/Line Shapefiles are for statistical data collection and tabulation purposes only; their depiction and designation for statistical purposes does not constitute a determination of jurisdictional authority or rights of ownership or entitlement and they are not legal land descriptions.Coordinates in the TIGER/Line shapefiles have six implied decimal places, but the positional accuracy of these coordinates is not as great as the six decimal places suggest.", "Access Constraints: None"]"
 	},
 	{
 		"key": "temporal-extent-begin",
@@ -108,7 +108,7 @@
 	},
 	{
 		"key": "licence_url",
-		"value": "https:\/\/edg.epa.gov\/EPA_Data_License.htm "
+		"value": "https://edg.epa.gov/EPA_Data_License.htm "
 	},
 	{
 		"key": "contact-email",
@@ -124,15 +124,15 @@
 	},
 	{
 		"key": "dataset-reference-date",
-		"value": "[{\"type\": \"publication\", \"value\": \"2012-03-12\"}]"
+		"value": "[{"type": "publication", "value": "2012-03-12"}]"
 	},
 	{
 		"key": "frequency-of-update",
-		"value": "TIGER\/LINE SHAPEFILES ARE EXTRACTED FROM THE CENSUS MAF\/TIGER DATABASE. NO CHANGES OR UPDATES WILL BE MADE TO THIS VERSION OF THE TIGER\/LINE SHAPEFILES. FUTURE RELEASES OF TIGER\/LINE SHAPEFILES WILL REFLECT UPDATES MADE TO THE CENSUS MAF\/TIGER DATABASE."
+		"value": "TIGER/LINE SHAPEFILES ARE EXTRACTED FROM THE CENSUS MAF/TIGER DATABASE. NO CHANGES OR UPDATES WILL BE MADE TO THIS VERSION OF THE TIGER/LINE SHAPEFILES. FUTURE RELEASES OF TIGER/LINE SHAPEFILES WILL REFLECT UPDATES MADE TO THE CENSUS MAF/TIGER DATABASE."
 	},
 	{
 		"key": "licence",
-		"value": "[\"https:\/\/edg.epa.gov\/EPA_Data_License.htm \"]"
+		"value": "["https://edg.epa.gov/EPA_Data_License.htm "]"
 	},
 	{
 		"key": "metadata_type",
@@ -140,7 +140,7 @@
 	},
 	{
 		"key": "responsible-party",
-		"value": "[{\"name\": \"U.S. Environmental Protection Agency, Region 2, GIS Team\", \"roles\": [\"pointOfContact\"]}]"
+		"value": "[{"name": "U.S. Environmental Protection Agency, Region 2, GIS Team", "roles": ["pointOfContact"]}]"
 	},
 	{
 		"key": "temporal-extent-end",
@@ -186,7 +186,7 @@
 		"revision_timestamp": "2014-01-16T18:58:42.895981",
 		"is_organization": true,
 		"state": "active",
-		"image_url": "http:\/\/edg.epa.gov\/EPALogo.svg",
+		"image_url": "http://edg.epa.gov/EPALogo.svg",
 		"revision_id": "f0e4b475-7424-4ce0-9a22-412e7e595154",
 		"type": "organization",
 		"id": "6d90e48d-3076-4327-b2f4-c33919f374d5",

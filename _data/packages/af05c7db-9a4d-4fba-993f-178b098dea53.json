@@ -37,7 +37,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2016-05-30T23:45:04.202504",
-		"url": "https:\/\/coast.noaa.gov\/dataviewer\/#\/lidar\/search\/where:ID=1079",
+		"url": "https://coast.noaa.gov/dataviewer/#/lidar/search/where:ID=1079",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 0,
@@ -67,7 +67,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2016-05-30T23:45:04.202534",
-		"url": "https:\/\/coast.noaa.gov\/htdata\/lidar1_z\/geoid12a\/data\/1079",
+		"url": "https://coast.noaa.gov/htdata/lidar1_z/geoid12a/data/1079",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 1,
@@ -97,7 +97,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2016-05-30T23:45:04.202543",
-		"url": "https:\/\/coast.noaa.gov\/dataviewer",
+		"url": "https://coast.noaa.gov/dataviewer",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 2,
@@ -127,7 +127,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2016-05-30T23:45:04.202551",
-		"url": "https:\/\/coast.noaa.gov",
+		"url": "https://coast.noaa.gov",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 3,
@@ -149,7 +149,7 @@
 		"revision_timestamp": "2013-03-25T23:05:12.923863",
 		"is_organization": true,
 		"state": "active",
-		"image_url": "https:\/\/fortress.wa.gov\/dfw\/score\/score\/images\/noaa_logo.png",
+		"image_url": "https://fortress.wa.gov/dfw/score/score/images/noaa_logo.png",
 		"revision_id": "c6d43080-22e1-405e-a83d-f2a512d9e867",
 		"type": "organization",
 		"id": "e811f0b4-451f-4896-9e8f-fc6802837819",
@@ -160,7 +160,7 @@
 	"name": "2009-oregon-parks-and-recreation-department-lidar-columbia-river",
 	"isopen": false,
 	"url": null,
-	"notes": "The data set represents the lidar elevations along the Columbia River corridor in Oregon, including portions of the following counties: Gilliam, Hood River, Multnomah, Sherman, Umatilla, Wasco. The area includes portions of the Columbia River Gorge, as well as three smaller areas east of Hood River, OR. This data set covers 27,577 acres and was collected between December 7, 2009 and February 22, 2010. This data is part of a larger LiDAR survey effort by the US Army Corps of Engineers along the entire Columbia River. The lidar data are multiple return and are classified as unclassified and bare earth. The LiDAR survey used Leica ALS50 Phase II and ALS60 laser systems. The sensor scan angle was +\/- 14 degrees from nadir with a pulse rate designed to yield an average native density (number of pulses emitted by the laser system) of > or = 8 points per square meter over terrestrial surfaces. In some areas of heavy vegetation or forest cover, there may be relatively few ground points in the LiDAR data. Elevation values for open water surfaces are not valid elevation values because few LiDAR points are returned from water surfaces. Watershed Sciences, Inc. collected the LiDAR and created this data set for Oregon Parks and Recreation Department.",
+	"notes": "The data set represents the lidar elevations along the Columbia River corridor in Oregon, including portions of the following counties: Gilliam, Hood River, Multnomah, Sherman, Umatilla, Wasco. The area includes portions of the Columbia River Gorge, as well as three smaller areas east of Hood River, OR. This data set covers 27,577 acres and was collected between December 7, 2009 and February 22, 2010. This data is part of a larger LiDAR survey effort by the US Army Corps of Engineers along the entire Columbia River. The lidar data are multiple return and are classified as unclassified and bare earth. The LiDAR survey used Leica ALS50 Phase II and ALS60 laser systems. The sensor scan angle was +/- 14 degrees from nadir with a pulse rate designed to yield an average native density (number of pulses emitted by the laser system) of > or = 8 points per square meter over terrestrial surfaces. In some areas of heavy vegetation or forest cover, there may be relatively few ground points in the LiDAR data. Elevation values for open water surfaces are not valid elevation values because few LiDAR points are returned from water surfaces. Watershed Sciences, Inc. collected the LiDAR and created this data set for Oregon Parks and Recreation Department.",
 	"owner_org": "e811f0b4-451f-4896-9e8f-fc6802837819",
 	"extras": [{
 		"key": "bbox-east-long",
@@ -196,7 +196,7 @@
 	},
 	{
 		"key": "spatial",
-		"value": "{\"type\": \"Polygon\", \"coordinates\": [[[-122.336769, 45.516912], [-119.134347, 45.516912], [-119.134347, 45.919502], [-122.336769, 45.919502], [-122.336769, 45.516912]]]}"
+		"value": "{"type": "Polygon", "coordinates": [[[-122.336769, 45.516912], [-119.134347, 45.516912], [-119.134347, 45.919502], [-122.336769, 45.919502], [-122.336769, 45.516912]]]}"
 	},
 	{
 		"key": "progress",
@@ -204,7 +204,7 @@
 	},
 	{
 		"key": "access_constraints",
-		"value": "[\"Use Constraints: Users should be aware that temporal changes may have occurred since this data set was collected and some parts of this data may no longer represent actual surface conditions. Users should not use this data for critical applications without a full awareness of its limitations.\", \"Access Constraints: None\"]"
+		"value": "["Use Constraints: Users should be aware that temporal changes may have occurred since this data set was collected and some parts of this data may no longer represent actual surface conditions. Users should not use this data for critical applications without a full awareness of its limitations.", "Access Constraints: None"]"
 	},
 	{
 		"key": "temporal-extent-begin",
@@ -224,7 +224,7 @@
 	},
 	{
 		"key": "dataset-reference-date",
-		"value": "[{\"type\": \"publication\", \"value\": \"2011-11-01\"}]"
+		"value": "[{"type": "publication", "value": "2011-11-01"}]"
 	},
 	{
 		"key": "frequency-of-update",
@@ -232,7 +232,7 @@
 	},
 	{
 		"key": "licence",
-		"value": "[\"\\nAny conclusions drawn from the analysis of this information are not the responsibility of the Oregon\\nParks and Recreation Department, the Office for Coastal Management, or its partners.\\n\"]"
+		"value": "["\nAny conclusions drawn from the analysis of this information are not the responsibility of the Oregon\nParks and Recreation Department, the Office for Coastal Management, or its partners.\n"]"
 	},
 	{
 		"key": "metadata_type",
@@ -240,7 +240,7 @@
 	},
 	{
 		"key": "responsible-party",
-		"value": "[{\"name\": \"Oregon Parks and Recreation\", \"roles\": [\"pointOfContact\"]}]"
+		"value": "[{"name": "Oregon Parks and Recreation", "roles": ["pointOfContact"]}]"
 	},
 	{
 		"key": "temporal-extent-end",
@@ -256,7 +256,7 @@
 	},
 	{
 		"key": "tags",
-		"value": "topography, bare earth, united states, pacific northwest, columbia river, umatilla county, hood river county, lidar, light detection and ranging, digital terrain model, oregon parks and recreation department, elevation data, oregon, gilliam county, bare ground, sherman county, dtm, bathymetry\/topography, dem, wasco county, multnomah county, high-resolution",
+		"value": "topography, bare earth, united states, pacific northwest, columbia river, umatilla county, hood river county, lidar, light detection and ranging, digital terrain model, oregon parks and recreation department, elevation data, oregon, gilliam county, bare ground, sherman county, dtm, bathymetry/topography, dem, wasco county, multnomah county, high-resolution",
 		"__extras": {
 			"revision_id": "2c1d2210-edf9-4ffb-96c8-2051e035d380",
 			"package_id": "af05c7db-9a4d-4fba-993f-178b098dea53"

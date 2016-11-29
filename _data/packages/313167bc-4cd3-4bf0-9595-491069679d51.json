@@ -37,7 +37,7 @@
 		"cache_url": null,
 		"name": "Zip File",
 		"created": "2015-11-09T20:31:43.523651",
-		"url": "ftp:\/\/ftp.soest.hawaii.edu\/pibhmc\/website\/data\/cnmi-guam\/benthichabitatlayers\/saipan_5m_BPIstructures.zip",
+		"url": "ftp://ftp.soest.hawaii.edu/pibhmc/website/data/cnmi-guam/benthichabitatlayers/saipan_5m_BPIstructures.zip",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 0,
@@ -67,7 +67,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2015-11-09T20:31:43.523681",
-		"url": "http:\/\/www.soest.hawaii.edu\/pibhmc",
+		"url": "http://www.soest.hawaii.edu/pibhmc",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 1,
@@ -97,7 +97,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2015-11-09T20:31:43.523698",
-		"url": "http:\/\/www.soest.hawaii.edu\/pibhmc\/pibhmc_cnmi_sai_geomorph.htm",
+		"url": "http://www.soest.hawaii.edu/pibhmc/pibhmc_cnmi_sai_geomorph.htm",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 2,
@@ -117,11 +117,11 @@
 	"name": "bathymetric-position-index-bpi-structures-5m-grid-derived-from-gridded-bathymetry-of-saipan-isl",
 	"isopen": false,
 	"url": null,
-	"notes": "BPI Structures are derived from a focal mean analysis on bathymetry and slope. The bathymetry grid (5 m cell size) is derived from two sources: Multibeam bathymetry collected by Coral Reef Ecosystem Division aboard NOAA R\/V AHI, and NOAA Ship Hi'ialakai; multibeam bathymetry collected aboard the US Naval Ship Sumner by the Naval Oceanographic Office, and also lidar, also collected by the Naval Oceanographic Office. BPI Structures was created using the Benthic Terrain Modeler (http:\/\/www.csc.noaa.gov\/products\/btm\/). Cell values represent one of 13 classes in an index of seafloor terrains. This data set is for Saipan Islands, Commonwealth of the Northern Marianas (CNMI).",
+	"notes": "BPI Structures are derived from a focal mean analysis on bathymetry and slope. The bathymetry grid (5 m cell size) is derived from two sources: Multibeam bathymetry collected by Coral Reef Ecosystem Division aboard NOAA R/V AHI, and NOAA Ship Hi'ialakai; multibeam bathymetry collected aboard the US Naval Ship Sumner by the Naval Oceanographic Office, and also lidar, also collected by the Naval Oceanographic Office. BPI Structures was created using the Benthic Terrain Modeler (http://www.csc.noaa.gov/products/btm/). Cell values represent one of 13 classes in an index of seafloor terrains. This data set is for Saipan Islands, Commonwealth of the Northern Marianas (CNMI).",
 	"license_title": null,
 	"extras": [{
 		"key": "bbox-east-long",
-		"value": "\n          145.853369\n        "
+		"value": "n          145.853369n        "
 	},
 	{
 		"key": "resource-type",
@@ -129,7 +129,7 @@
 	},
 	{
 		"key": "bbox-north-lat",
-		"value": "\n          15.313391\n        "
+		"value": "n          15.313391n        "
 	},
 	{
 		"key": "coupled-resource",
@@ -145,7 +145,7 @@
 	},
 	{
 		"key": "graphic-preview-file",
-		"value": "http:\/\/www.soest.hawaii.edu\/pibhmc\/CNMI_images\/saipan_5m_BPIstructures_440.jpg"
+		"value": "http://www.soest.hawaii.edu/pibhmc/CNMI_images/saipan_5m_BPIstructures_440.jpg"
 	},
 	{
 		"key": "metadata-language",
@@ -161,7 +161,7 @@
 	},
 	{
 		"key": "spatial",
-		"value": "{\"type\": \"Polygon\", \"coordinates\": [[[145.548484, 15.065562], [145.853369, 15.065562], [145.853369, 15.313391], [145.548484, 15.313391], [145.548484, 15.065562]]]}"
+		"value": "{"type": "Polygon", "coordinates": [[[145.548484, 15.065562], [145.853369, 15.065562], [145.853369, 15.313391], [145.548484, 15.313391], [145.548484, 15.065562]]]}"
 	},
 	{
 		"key": "progress",
@@ -169,7 +169,7 @@
 	},
 	{
 		"key": "access_constraints",
-		"value": "[\"Use Constraints: These data are not to be used for navigation purposes. Please acknowledge NOAA Pacific Islands Fisheries Science Center (PIFSC) Coral Reef Ecosystem Division (CRED), the Joint Institute for Marine and Atmospheric Research (JIMAR) University of Hawaii, Davey Jones Locker GIS Laboratory Oregon State University, and the Naval Oceanographic Office (NAVO) as the sources of this information.\", \"Access Constraints: None\"]"
+		"value": "["Use Constraints: These data are not to be used for navigation purposes. Please acknowledge NOAA Pacific Islands Fisheries Science Center (PIFSC) Coral Reef Ecosystem Division (CRED), the Joint Institute for Marine and Atmospheric Research (JIMAR) University of Hawaii, Davey Jones Locker GIS Laboratory Oregon State University, and the Naval Oceanographic Office (NAVO) as the sources of this information.", "Access Constraints: None"]"
 	},
 	{
 		"key": "temporal-extent-begin",
@@ -181,7 +181,7 @@
 	},
 	{
 		"key": "bbox-west-long",
-		"value": "\n          145.548484\n        "
+		"value": "n          145.548484n        "
 	},
 	{
 		"key": "metadata-date",
@@ -189,7 +189,7 @@
 	},
 	{
 		"key": "dataset-reference-date",
-		"value": "[{\"type\": \"publication\", \"value\": \"2011-02-01\"}]"
+		"value": "[{"type": "publication", "value": "2011-02-01"}]"
 	},
 	{
 		"key": "graphic-preview-description",
@@ -201,7 +201,7 @@
 	},
 	{
 		"key": "licence",
-		"value": "[\"\\n      These data are not to be used for navigational purposes.\\nNOAA makes no warranty regarding these data, expressed or implied,\\nnor does the fact of distribution constitute such a warranty.\\nNOAA cannot assume liability for any damages caused by any errors\\nor omissions in these data, nor as a result of the failure of\\nthese data to function on a particular system.\\n    \"]"
+		"value": "["\n      These data are not to be used for navigational purposes.\nNOAA makes no warranty regarding these data, expressed or implied,\nnor does the fact of distribution constitute such a warranty.\nNOAA cannot assume liability for any damages caused by any errors\nor omissions in these data, nor as a result of the failure of\nthese data to function on a particular system.\n    "]"
 	},
 	{
 		"key": "metadata_type",
@@ -209,7 +209,7 @@
 	},
 	{
 		"key": "responsible-party",
-		"value": "[{\"name\": \"Pacific Islands Benthic Habitat Mapping Center (PIBHMC), Coral Reef Ecosystem Division (CRED), Pacific Islands Fisheries Science Center (PIFSC), National Marine Fisheries Service (NMFS), National Oceanic and Atmospheric Administration (NOAA)\", \"roles\": [\"pointOfContact\"]}]"
+		"value": "[{"name": "Pacific Islands Benthic Habitat Mapping Center (PIBHMC), Coral Reef Ecosystem Division (CRED), Pacific Islands Fisheries Science Center (PIFSC), National Marine Fisheries Service (NMFS), National Oceanic and Atmospheric Administration (NOAA)", "roles": ["pointOfContact"]}]"
 	},
 	{
 		"key": "temporal-extent-end",
@@ -221,11 +221,11 @@
 	},
 	{
 		"key": "bbox-south-lat",
-		"value": "\n          15.065562\n        "
+		"value": "n          15.065562n        "
 	},
 	{
 		"package_id": "313167bc-4cd3-4bf0-9595-491069679d51",
-		"value": "saipan, pacific ocean, oceans, bathymetric position index structures, 1217, biosphere, country\/territory, aquatic habitat, description, saipan island, saipan island (15n145e0002), habitats, m218 benthic habitat mapping and characterization in the pacific islands region, reef habitat, western pacific ocean, ocean basin, bathymetry, bathymetry\/seafloor topography, geographic information, northern mariana islands, earth science",
+		"value": "saipan, pacific ocean, oceans, bathymetric position index structures, 1217, biosphere, country/territory, aquatic habitat, description, saipan island, saipan island (15n145e0002), habitats, m218 benthic habitat mapping and characterization in the pacific islands region, reef habitat, western pacific ocean, ocean basin, bathymetry, bathymetry/seafloor topography, geographic information, northern mariana islands, earth science",
 		"revision_timestamp": "2015-11-10T01:31:43.374590",
 		"state": "active",
 		"key": "tags",
@@ -255,7 +255,7 @@
 		"revision_timestamp": "2013-03-25T23:05:12.923863",
 		"is_organization": true,
 		"state": "active",
-		"image_url": "https:\/\/fortress.wa.gov\/dfw\/score\/score\/images\/noaa_logo.png",
+		"image_url": "https://fortress.wa.gov/dfw/score/score/images/noaa_logo.png",
 		"revision_id": "c6d43080-22e1-405e-a83d-f2a512d9e867",
 		"type": "organization",
 		"id": "e811f0b4-451f-4896-9e8f-fc6802837819",

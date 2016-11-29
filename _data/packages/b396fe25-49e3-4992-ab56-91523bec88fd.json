@@ -37,7 +37,7 @@
 		"cache_url": null,
 		"name": "TIFF Image File",
 		"created": "2016-03-14T17:38:27.914826",
-		"url": "https:\/\/products.coastalscience.noaa.gov\/collections\/benthic\/e49s_atlantic\/default.aspx",
+		"url": "https://products.coastalscience.noaa.gov/collections/benthic/e49s_atlantic/default.aspx",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 0,
@@ -67,7 +67,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2016-03-14T17:38:27.914870",
-		"url": "https:\/\/products.coastalscience.noaa.gov\/collections\/benthic\/e49s_atlantic\/default.aspx",
+		"url": "https://products.coastalscience.noaa.gov/collections/benthic/e49s_atlantic/default.aspx",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 1,
@@ -89,7 +89,7 @@
 		"revision_timestamp": "2013-03-25T23:05:12.923863",
 		"is_organization": true,
 		"state": "active",
-		"image_url": "https:\/\/fortress.wa.gov\/dfw\/score\/score\/images\/noaa_logo.png",
+		"image_url": "https://fortress.wa.gov/dfw/score/score/images/noaa_logo.png",
 		"revision_id": "c6d43080-22e1-405e-a83d-f2a512d9e867",
 		"type": "organization",
 		"id": "e811f0b4-451f-4896-9e8f-fc6802837819",
@@ -100,7 +100,7 @@
 	"name": "noaa-tiff-image-3m-multibeam-bathymetry-miami-south-atlantic-bight-deep-coral-priority-areas-",
 	"isopen": false,
 	"url": null,
-	"notes": "This dataset contains a unified GeoTiff with 3x3 meter cell size representing the bathymetry of the continental shelf off of Jacksonville, FL in the South Atlantic Bight, derived from data collected in 2010. NOAA's NOS\/NCCOS\/CCMA Biogeography Branch, in collaboration with the University of South Florida, as well as the R\/V Lost Coast Explorer , and private sector partners, acquired multibeam bathymetry data for deep coral research from 010\/26\/2010 to 10\/27\/2010. Data was acquired with a hull-mounted Kongsberg Simrad EM 710 multibeam echosounder (70 kHz). It was processed by the University of South Florida using CARIS HIPS software. Data has all correctors applied (attitude, sound velocity) and has been reduced to mean lower low water (MLLW) using final approved tides and zoning from NOAA COOPS. Data is in UTM Zone 17 north, datum NAD83. The processed CARIS data was used to generate a CARIS BASE surface based on swath angle. The CARIS Export option \"BASE Surface to Image\" was then used to create a GeoTiff of the priority areas.",
+	"notes": "This dataset contains a unified GeoTiff with 3x3 meter cell size representing the bathymetry of the continental shelf off of Jacksonville, FL in the South Atlantic Bight, derived from data collected in 2010. NOAA's NOS/NCCOS/CCMA Biogeography Branch, in collaboration with the University of South Florida, as well as the R/V Lost Coast Explorer , and private sector partners, acquired multibeam bathymetry data for deep coral research from 010/26/2010 to 10/27/2010. Data was acquired with a hull-mounted Kongsberg Simrad EM 710 multibeam echosounder (70 kHz). It was processed by the University of South Florida using CARIS HIPS software. Data has all correctors applied (attitude, sound velocity) and has been reduced to mean lower low water (MLLW) using final approved tides and zoning from NOAA COOPS. Data is in UTM Zone 17 north, datum NAD83. The processed CARIS data was used to generate a CARIS BASE surface based on swath angle. The CARIS Export option "BASE Surface to Image" was then used to create a GeoTiff of the priority areas.",
 	"owner_org": "e811f0b4-451f-4896-9e8f-fc6802837819",
 	"extras": [{
 		"key": "bbox-east-long",
@@ -136,7 +136,7 @@
 	},
 	{
 		"key": "spatial",
-		"value": "{\"type\": \"Polygon\", \"coordinates\": [[[-79.759648, 25.5214], [-79.503504, 25.5214], [-79.503504, 26.40248], [-79.759648, 26.40248], [-79.759648, 25.5214]]]}"
+		"value": "{"type": "Polygon", "coordinates": [[[-79.759648, 25.5214], [-79.503504, 25.5214], [-79.503504, 26.40248], [-79.759648, 26.40248], [-79.759648, 25.5214]]]}"
 	},
 	{
 		"key": "progress",
@@ -144,7 +144,7 @@
 	},
 	{
 		"key": "access_constraints",
-		"value": "[\"Use Constraints: Note: NOT TO BE USED FOR NAVIGATION. These data were prepared by an agency of the United States Government. Neither the United States Government nor any agency thereof, nor any of their employees, make any warranty, expressed or implied, or assumes any legal liability or responsibility for the accuracy, completeness, or usefulness of any information, apparatus, product, or process disclosed in this report, or represents that its use would not infringe privately owned rights. Reference therein to any specific commercial product, process, or service by trade name, trademark, manufacturer, or otherwise does not necessarily constitute or imply its endorsement, recommendation, or favoring by the United States Government or any agency thereof. Any views and opinions of authors expressed herein do not necessarily state or reflect those of the United States Government or any agency thereof. Although all data have been used by NOAA, no warranty, expressed or implied, is made by NOAA as to the accuracy of the data and\/or related materials. The act of distribution shall not constitute any such warranty, and no responsibility is assumed by NOAA in the use of these data or related materials.\", \"Access Constraints: Please cite any use of this data.\"]"
+		"value": "["Use Constraints: Note: NOT TO BE USED FOR NAVIGATION. These data were prepared by an agency of the United States Government. Neither the United States Government nor any agency thereof, nor any of their employees, make any warranty, expressed or implied, or assumes any legal liability or responsibility for the accuracy, completeness, or usefulness of any information, apparatus, product, or process disclosed in this report, or represents that its use would not infringe privately owned rights. Reference therein to any specific commercial product, process, or service by trade name, trademark, manufacturer, or otherwise does not necessarily constitute or imply its endorsement, recommendation, or favoring by the United States Government or any agency thereof. Any views and opinions of authors expressed herein do not necessarily state or reflect those of the United States Government or any agency thereof. Although all data have been used by NOAA, no warranty, expressed or implied, is made by NOAA as to the accuracy of the data and/or related materials. The act of distribution shall not constitute any such warranty, and no responsibility is assumed by NOAA in the use of these data or related materials.", "Access Constraints: Please cite any use of this data."]"
 	},
 	{
 		"key": "temporal-extent-begin",
@@ -164,7 +164,7 @@
 	},
 	{
 		"key": "dataset-reference-date",
-		"value": "[{\"type\": \"publication\", \"value\": \"2012-01-01\"}]"
+		"value": "[{"type": "publication", "value": "2012-01-01"}]"
 	},
 	{
 		"key": "frequency-of-update",
@@ -172,7 +172,7 @@
 	},
 	{
 		"key": "licence",
-		"value": "[\"These data were prepared by an agency of the United States Government. Neither the United States Government nor any agency thereof, nor any of their employees, make any warranty, expressed or implied, or assumes any legal liability or responsibility for the accuracy, completeness, or usefulness of any information, apparatus, product, or process disclosed in this report, or represents that its use would not infringe privately owned rights. Reference therein to any specific commercial product, process, or service by trade name, trademark, manufacturer, or otherwise does not necessarily constitute or imply its endorsement, recommendation, or favoring by the United States Government or any agency thereof. Any views and opinions of authors expressed herein do not necessarily state or reflect those of the United States Government or any agency thereof. Although all data have been used by NOAA, no warranty, expressed or implied, is made by NOAA as to the accuracy of the data and\/or related materials. The act of distribution shall not constitute any such warranty, and no responsibility is assumed by NOAA in the use of these data or related materials.\"]"
+		"value": "["These data were prepared by an agency of the United States Government. Neither the United States Government nor any agency thereof, nor any of their employees, make any warranty, expressed or implied, or assumes any legal liability or responsibility for the accuracy, completeness, or usefulness of any information, apparatus, product, or process disclosed in this report, or represents that its use would not infringe privately owned rights. Reference therein to any specific commercial product, process, or service by trade name, trademark, manufacturer, or otherwise does not necessarily constitute or imply its endorsement, recommendation, or favoring by the United States Government or any agency thereof. Any views and opinions of authors expressed herein do not necessarily state or reflect those of the United States Government or any agency thereof. Although all data have been used by NOAA, no warranty, expressed or implied, is made by NOAA as to the accuracy of the data and/or related materials. The act of distribution shall not constitute any such warranty, and no responsibility is assumed by NOAA in the use of these data or related materials."]"
 	},
 	{
 		"key": "metadata_type",
@@ -180,7 +180,7 @@
 	},
 	{
 		"key": "responsible-party",
-		"value": "[{\"name\": \"Department of Commerce (DOC), National Oceanic and Atmospheric Administration (NOAA), National Ocean Service (NOS), Center for Coastal Monitoring and Assessment (CCMA), Biogeography Branch\", \"roles\": [\"pointOfContact\"]}]"
+		"value": "[{"name": "Department of Commerce (DOC), National Oceanic and Atmospheric Administration (NOAA), National Ocean Service (NOS), Center for Coastal Monitoring and Assessment (CCMA), Biogeography Branch", "roles": ["pointOfContact"]}]"
 	},
 	{
 		"key": "temporal-extent-end",
@@ -196,7 +196,7 @@
 	},
 	{
 		"key": "tags",
-		"value": "biogeography, habitat, south atlantic bight, aquatic habitat, noaa, reef habitat, deep coral, benthic, earth science, gis, geographic information, university of south florida, south atlantic ocean, 2010, description, continental shelf, oceans, lost coast explorer, bathymetry\/seafloor topography, simrad em710, reef, bathymetry, seafloor, raster, multibeam, biosphere, mbes, florida, bathymetry\/topography, sonar, grid",
+		"value": "biogeography, habitat, south atlantic bight, aquatic habitat, noaa, reef habitat, deep coral, benthic, earth science, gis, geographic information, university of south florida, south atlantic ocean, 2010, description, continental shelf, oceans, lost coast explorer, bathymetry/seafloor topography, simrad em710, reef, bathymetry, seafloor, raster, multibeam, biosphere, mbes, florida, bathymetry/topography, sonar, grid",
 		"__extras": {
 			"revision_id": "9db07343-0e5a-4b80-a5d5-9d611d5017f0",
 			"package_id": "b396fe25-49e3-4992-ab56-91523bec88fd"

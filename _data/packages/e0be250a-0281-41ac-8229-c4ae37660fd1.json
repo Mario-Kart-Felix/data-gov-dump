@@ -37,7 +37,7 @@
 		"cache_url": null,
 		"name": "TIFF Image File",
 		"created": "2015-12-20T14:05:31.073834",
-		"url": "http:\/\/coastalscience.noaa.gov\/projects\/detail?key=263",
+		"url": "http://coastalscience.noaa.gov/projects/detail?key=263",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 0,
@@ -67,7 +67,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2015-12-20T14:05:31.073855",
-		"url": "http:\/\/coastalscience.noaa.gov\/projects\/detail?key=263",
+		"url": "http://coastalscience.noaa.gov/projects/detail?key=263",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 1,
@@ -87,7 +87,7 @@
 	"name": "noaa-tiff-image-southwest-shelf-st-croix-usvi-benthic-habitat-characterization-noaa-ship-nanf8e5c",
 	"isopen": false,
 	"url": null,
-	"notes": "This Geotiff represents a 1 meter resolution backscatter mosaic of the reef shelf and the steep slopes of the Southwest Shelf (H12640) of St. Croix, US Virgin Islands. The M-I907-NF-14 survey was a continuation of the NOAA Biogeography Branch's Seafloor Mapping of the US Caribbean project. NOAA's NOS\/NCCOS\/CCMA Biogeography Team, in collaboration with NOAA vessel Nancy Foster and territory, federal, and private sector partners, acquired multibeam bathymetry data in St. Croix between March 12th and April 2, 2014. Data was acquired with a hull-mounted Reson 7125 multibeam echosounder (400 kHz) and processed by a NOAA contractor using CARIS HIPS software. Data has all correctors applied (attitude, sound velocity) and has been reduced to mean lower low water (MLLW) using final approved tides from NOAA COOPS. Data is in UTM zone 20 north, datum NAD83. The bathymetry data were geometrically and radiometrically corrected using Hypack 2014 acquisition software. The project was conducted to meet IHO order 1 and 2 accuracy standards, dependant on the project area and depth. All users should individually evaluate the suitability of this data according to their own needs and standards.",
+	"notes": "This Geotiff represents a 1 meter resolution backscatter mosaic of the reef shelf and the steep slopes of the Southwest Shelf (H12640) of St. Croix, US Virgin Islands. The M-I907-NF-14 survey was a continuation of the NOAA Biogeography Branch's Seafloor Mapping of the US Caribbean project. NOAA's NOS/NCCOS/CCMA Biogeography Team, in collaboration with NOAA vessel Nancy Foster and territory, federal, and private sector partners, acquired multibeam bathymetry data in St. Croix between March 12th and April 2, 2014. Data was acquired with a hull-mounted Reson 7125 multibeam echosounder (400 kHz) and processed by a NOAA contractor using CARIS HIPS software. Data has all correctors applied (attitude, sound velocity) and has been reduced to mean lower low water (MLLW) using final approved tides from NOAA COOPS. Data is in UTM zone 20 north, datum NAD83. The bathymetry data were geometrically and radiometrically corrected using Hypack 2014 acquisition software. The project was conducted to meet IHO order 1 and 2 accuracy standards, dependant on the project area and depth. All users should individually evaluate the suitability of this data according to their own needs and standards.",
 	"license_title": null,
 	"extras": [{
 		"key": "bbox-east-long",
@@ -123,7 +123,7 @@
 	},
 	{
 		"key": "spatial",
-		"value": "{\"type\": \"Polygon\", \"coordinates\": [[[-64.9295, 17.6319], [-64.84, 17.6319], [-64.84, 17.664], [-64.9295, 17.664], [-64.9295, 17.6319]]]}"
+		"value": "{"type": "Polygon", "coordinates": [[[-64.9295, 17.6319], [-64.84, 17.6319], [-64.84, 17.664], [-64.9295, 17.664], [-64.9295, 17.6319]]]}"
 	},
 	{
 		"key": "progress",
@@ -131,7 +131,7 @@
 	},
 	{
 		"key": "access_constraints",
-		"value": "[\"Use Constraints: Note: NOT TO BE USED FOR NAVIGATION. These data were prepared by an agency of the United States Government. Neither the United States Government nor any agency thereof, nor any of their employees, make any warranty, expressed or implied, or assumes any legal liability or responsibility for the accuracy, completeness, or usefulness of any information, apparatus, product, or process disclosed in this report, or represents that its use would not infringe privately owned rights. Reference therein to any specific commercial product, process, or service by trade name, trademark, manufacturer, or otherwise does not necessarily constitute or imply its endorsement, recommendation, or favoring by the United States Government or any agency thereof. Any views and opinions of authors expressed herein do not necessarily state or reflect those of the United States Government or any agency thereof. Although all data have been used by NOAA, no warranty, expressed or implied, is made by NOAA as to the accuracy of the data and\/or related materials. The act of distribution shall not constitute any such warranty, and no responsibility is assumed by NOAA in the use of these data or related materials.\", \"Access Constraints: Please cite any use of this data.\"]"
+		"value": "["Use Constraints: Note: NOT TO BE USED FOR NAVIGATION. These data were prepared by an agency of the United States Government. Neither the United States Government nor any agency thereof, nor any of their employees, make any warranty, expressed or implied, or assumes any legal liability or responsibility for the accuracy, completeness, or usefulness of any information, apparatus, product, or process disclosed in this report, or represents that its use would not infringe privately owned rights. Reference therein to any specific commercial product, process, or service by trade name, trademark, manufacturer, or otherwise does not necessarily constitute or imply its endorsement, recommendation, or favoring by the United States Government or any agency thereof. Any views and opinions of authors expressed herein do not necessarily state or reflect those of the United States Government or any agency thereof. Although all data have been used by NOAA, no warranty, expressed or implied, is made by NOAA as to the accuracy of the data and/or related materials. The act of distribution shall not constitute any such warranty, and no responsibility is assumed by NOAA in the use of these data or related materials.", "Access Constraints: Please cite any use of this data."]"
 	},
 	{
 		"key": "temporal-extent-begin",
@@ -151,7 +151,7 @@
 	},
 	{
 		"key": "dataset-reference-date",
-		"value": "[{\"type\": \"publication\", \"value\": \"2015-02-09\"}]"
+		"value": "[{"type": "publication", "value": "2015-02-09"}]"
 	},
 	{
 		"key": "frequency-of-update",
@@ -159,7 +159,7 @@
 	},
 	{
 		"key": "licence",
-		"value": "[\"These data were prepared by an agency of the United States Government. Neither the United States Government nor any agency thereof, nor any of their employees, make any warranty, expressed or implied, or assumes any legal liability or responsibility for the accuracy, completeness, or usefulness of any information, apparatus, product, or process disclosed in this report, or represents that its use would not infringe privately owned rights. Reference therein to any specific commercial product, process, or service by trade name, trademark, manufacturer, or otherwise does not necessarily constitute or imply its endorsement, recommendation, or favoring by the United States Government or any agency thereof. Any views and opinions of authors expressed herein do not necessarily state or reflect those of the United States Government or any agency thereof. Although all data have been used by NOAA, no warranty, expressed or implied, is made by NOAA as to the accuracy of the data and\/or related materials. The act of distribution shall not constitute any such warranty, and no responsibility is assumed by NOAA in the use of these data or related materials.\"]"
+		"value": "["These data were prepared by an agency of the United States Government. Neither the United States Government nor any agency thereof, nor any of their employees, make any warranty, expressed or implied, or assumes any legal liability or responsibility for the accuracy, completeness, or usefulness of any information, apparatus, product, or process disclosed in this report, or represents that its use would not infringe privately owned rights. Reference therein to any specific commercial product, process, or service by trade name, trademark, manufacturer, or otherwise does not necessarily constitute or imply its endorsement, recommendation, or favoring by the United States Government or any agency thereof. Any views and opinions of authors expressed herein do not necessarily state or reflect those of the United States Government or any agency thereof. Although all data have been used by NOAA, no warranty, expressed or implied, is made by NOAA as to the accuracy of the data and/or related materials. The act of distribution shall not constitute any such warranty, and no responsibility is assumed by NOAA in the use of these data or related materials."]"
 	},
 	{
 		"key": "metadata_type",
@@ -167,7 +167,7 @@
 	},
 	{
 		"key": "responsible-party",
-		"value": "[{\"name\": \"Department of Commerce (DOC), National Oceanic and Atmospheric Administration (NOAA), National Ocean Service (NOS), National Centers for Coastal Ocean Science (NCCOS), Center for Coastal Monitoring and Assessment (CCMA), Biogeography Branch\", \"roles\": [\"pointOfContact\"]}]"
+		"value": "[{"name": "Department of Commerce (DOC), National Oceanic and Atmospheric Administration (NOAA), National Ocean Service (NOS), National Centers for Coastal Ocean Science (NCCOS), Center for Coastal Monitoring and Assessment (CCMA), Biogeography Branch", "roles": ["pointOfContact"]}]"
 	},
 	{
 		"key": "temporal-extent-end",
@@ -183,7 +183,7 @@
 	},
 	{
 		"package_id": "e0be250a-0281-41ac-8229-c4ae37660fd1",
-		"value": "biogeography, h12639, habitat, lang bank, aquatic habitat, noaa, nancy foster, st. croix, reef habitat, benthic, earth science, gis, geographic information, iocm, integrated ocean and coastal mapping, reson 7125, backscatter, seafloor mapping of the us caribbean, description, caribbean sea, oceans, h12640, geotiff, reef, 2014, seafloor, m1907-nf-14, us virgin islands, raster, seafloor mapping, multibeam, biosphere, mbes, coral, nf14, bathymetry\/topography, bathymetry\/seafloor topography, sonar, southwest bank",
+		"value": "biogeography, h12639, habitat, lang bank, aquatic habitat, noaa, nancy foster, st. croix, reef habitat, benthic, earth science, gis, geographic information, iocm, integrated ocean and coastal mapping, reson 7125, backscatter, seafloor mapping of the us caribbean, description, caribbean sea, oceans, h12640, geotiff, reef, 2014, seafloor, m1907-nf-14, us virgin islands, raster, seafloor mapping, multibeam, biosphere, mbes, coral, nf14, bathymetry/topography, bathymetry/seafloor topography, sonar, southwest bank",
 		"revision_timestamp": "2015-12-20T19:05:30.998386",
 		"state": "active",
 		"key": "tags",
@@ -213,7 +213,7 @@
 		"revision_timestamp": "2013-03-25T23:05:12.923863",
 		"is_organization": true,
 		"state": "active",
-		"image_url": "https:\/\/fortress.wa.gov\/dfw\/score\/score\/images\/noaa_logo.png",
+		"image_url": "https://fortress.wa.gov/dfw/score/score/images/noaa_logo.png",
 		"revision_id": "c6d43080-22e1-405e-a83d-f2a512d9e867",
 		"type": "organization",
 		"id": "e811f0b4-451f-4896-9e8f-fc6802837819",

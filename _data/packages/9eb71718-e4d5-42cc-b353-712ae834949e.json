@@ -36,7 +36,7 @@
 		"cache_url": null,
 		"name": "ArcGIS Geodatabase",
 		"created": "2014-11-17T16:08:41.173517",
-		"url": "http:\/\/water.usgs.gov\/GIS\/dsdl\/ShorelineManagementTool_NAVD88_OFR2012-1247_v20130410.zip",
+		"url": "http://water.usgs.gov/GIS/dsdl/ShorelineManagementTool_NAVD88_OFR2012-1247_v20130410.zip",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 0,
@@ -65,7 +65,7 @@
 		"cache_url": null,
 		"name": "ArcGIS Geodatabase",
 		"created": "2014-11-17T16:08:41.173543",
-		"url": "http:\/\/water.usgs.gov\/GIS\/dsdl\/ShorelineManagementTool_OFR2012-1247_v20130410.zip",
+		"url": "http://water.usgs.gov/GIS/dsdl/ShorelineManagementTool_OFR2012-1247_v20130410.zip",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 1,
@@ -95,7 +95,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2014-11-17T16:08:41.173551",
-		"url": "http:\/\/water.usgs.gov\/lookup\/getspatial?ofr2012_1247_Shoreline_Management_Tool_NAVD88_v20130410",
+		"url": "http://water.usgs.gov/lookup/getspatial?ofr2012_1247_Shoreline_Management_Tool_NAVD88_v20130410",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 2,
@@ -125,7 +125,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2014-11-17T16:08:41.173558",
-		"url": "http:\/\/pubs.usgs.gov\/of\/2012\/1247",
+		"url": "http://pubs.usgs.gov/of/2012/1247",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 3,
@@ -145,7 +145,7 @@
 	"name": "ofr2012-1247-shoreline-management-tool-navd88-v20130410-version-for-lower-wood-river-valley-or",
 	"isopen": false,
 	"url": null,
-	"notes": "This dataset contains directory structure for use with the Shoreline Management Tool as described in Open File Report 2012-1247 entitled \"The Shoreline Management Tool: An ArcMap Tool for Analyzing Water Depth, Inundated Area, Volume, and Selected Habitats, with an Example for the Lower Wood River Valley, Oregon\". The ShorelineDirectory contains folder in which the Shoreline Management Tool will operate and create output files. The geodatabase in the Processed_Data folder contains the parcel layer for the Wood River Valley, the inundation areas organized by parcel for stages 4135.30 to 4176.30 at every tenth of a foot, and stage-area-volume tables at every hundredth of a foot for each parcel. The naming convention for the inundation area feature datasets is InundationAreasParcel_*, where * is the parcel number. In each feature dataset, the naming convention for the inundation polygons is p#******_polygon, where # is the parcel number and ****** is the stage to the nearest tenth of a foot (no decimal point). The naming convention of the stage-area-volume tables is PARC_*-88 for NAVD88, where * is the parcel number. The parcel number of each parcel can be found in the parcels layer polygon attribute table in the field named PARC_NUMBER.",
+	"notes": "This dataset contains directory structure for use with the Shoreline Management Tool as described in Open File Report 2012-1247 entitled "The Shoreline Management Tool: An ArcMap Tool for Analyzing Water Depth, Inundated Area, Volume, and Selected Habitats, with an Example for the Lower Wood River Valley, Oregon". The ShorelineDirectory contains folder in which the Shoreline Management Tool will operate and create output files. The geodatabase in the Processed_Data folder contains the parcel layer for the Wood River Valley, the inundation areas organized by parcel for stages 4135.30 to 4176.30 at every tenth of a foot, and stage-area-volume tables at every hundredth of a foot for each parcel. The naming convention for the inundation area feature datasets is InundationAreasParcel_*, where * is the parcel number. In each feature dataset, the naming convention for the inundation polygons is p#******_polygon, where # is the parcel number and ****** is the stage to the nearest tenth of a foot (no decimal point). The naming convention of the stage-area-volume tables is PARC_*-88 for NAVD88, where * is the parcel number. The parcel number of each parcel can be found in the parcels layer polygon attribute table in the field named PARC_NUMBER.",
 	"license_title": null,
 	"extras": [{
 		"key": "bbox-east-long",
@@ -173,7 +173,7 @@
 	},
 	{
 		"key": "graphic-preview-file",
-		"value": "http:\/\/water.usgs.gov\/GIS\/browse\/ShorelineManagementTool_NAVD88_OFR2012-1247.pdf"
+		"value": "http://water.usgs.gov/GIS/browse/ShorelineManagementTool_NAVD88_OFR2012-1247.pdf"
 	},
 	{
 		"key": "bbox-south-lat",
@@ -189,7 +189,7 @@
 	},
 	{
 		"key": "spatial",
-		"value": "{\"type\": \"Polygon\", \"coordinates\": [[[-122.090281, 42.530136], [-121.926869, 42.530136], [-121.926869, 42.682971], [-122.090281, 42.682971], [-122.090281, 42.530136]]]}"
+		"value": "{"type": "Polygon", "coordinates": [[[-122.090281, 42.530136], [-121.926869, 42.530136], [-121.926869, 42.682971], [-122.090281, 42.682971], [-122.090281, 42.530136]]]}"
 	},
 	{
 		"key": "progress",
@@ -197,7 +197,7 @@
 	},
 	{
 		"key": "access_constraints",
-		"value": "[\"Use Constraints: The U.S. Geological Survey should be acknowledged as the data source in products derived from these data.\", \"Access Constraints: No access constraints.\"]"
+		"value": "["Use Constraints: The U.S. Geological Survey should be acknowledged as the data source in products derived from these data.", "Access Constraints: No access constraints."]"
 	},
 	{
 		"key": "contact-email",
@@ -213,7 +213,7 @@
 	},
 	{
 		"key": "dataset-reference-date",
-		"value": "[{\"type\": \"publication\", \"value\": \"2012-03-30\"}]"
+		"value": "[{"type": "publication", "value": "2012-03-30"}]"
 	},
 	{
 		"key": "graphic-preview-description",
@@ -225,7 +225,7 @@
 	},
 	{
 		"key": "licence",
-		"value": "[\"Although these data have been processed successfully on a computer system at the U.S. Geological Survey, no warranty expressed or implied is made by the USGS regarding the utility of the data on any other system, nor shall the act of distribution constitute any such warranty. The U.S. Geological Survey will warrant the delivery of this product in computer-readable format, and will offer a replacement when the product is determined unreadable by correctly adjusted computer input peripherals or when the physical medium is delivered in damaged condition.\"]"
+		"value": "["Although these data have been processed successfully on a computer system at the U.S. Geological Survey, no warranty expressed or implied is made by the USGS regarding the utility of the data on any other system, nor shall the act of distribution constitute any such warranty. The U.S. Geological Survey will warrant the delivery of this product in computer-readable format, and will offer a replacement when the product is determined unreadable by correctly adjusted computer input peripherals or when the physical medium is delivered in damaged condition."]"
 	},
 	{
 		"key": "metadata_type",
@@ -233,7 +233,7 @@
 	},
 	{
 		"key": "responsible-party",
-		"value": "[{\"name\": \"U.S. Geological Survey, Northeast Area (WRD District Office)\", \"roles\": [\"pointOfContact\"]}]"
+		"value": "[{"name": "U.S. Geological Survey, Northeast Area (WRD District Office)", "roles": ["pointOfContact"]}]"
 	},
 	{
 		"key": "spatial-data-service-type",
@@ -268,14 +268,14 @@
 		"value": "Water NSDI Node Spatial Datasets"
 	}],
 	"organization": {
-		"description": "http:\/\/www.usgs.gov\/\r\nThe USGS is a federal science agency that provides impartial information on the health of our ecosystems and environment, the natural hazards that threaten us, the natural resources we rely on, the impacts of climate and land-use change, and the core science systems that help us provide timely, relevant, and useable information.",
+		"description": "http://www.usgs.gov/rnThe USGS is a federal science agency that provides impartial information on the health of our ecosystems and environment, the natural hazards that threaten us, the natural resources we rely on, the impacts of climate and land-use change, and the core science systems that help us provide timely, relevant, and useable information.",
 		"created": "2013-03-14T03:44:38.263357",
 		"title": "U.S. Geological Survey, Department of the Interior",
 		"name": "usgs-gov",
 		"revision_timestamp": "2014-09-02T13:43:52.167023",
 		"is_organization": true,
 		"state": "active",
-		"image_url": "http:\/\/pubs.usgs.gov\/sir\/2004\/5296\/04-5296_confluence_park\/usgs_logo.gif",
+		"image_url": "http://pubs.usgs.gov/sir/2004/5296/04-5296_confluence_park/usgs_logo.gif",
 		"revision_id": "2858aa99-9501-4f96-82e5-9647b968ed66",
 		"type": "organization",
 		"id": "bd2cdd5a-4d65-46c0-9937-c8381175f104",

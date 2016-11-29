@@ -37,7 +37,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2016-04-25T21:03:07.018205",
-		"url": "https:\/\/coast.noaa.gov\/inventory\/",
+		"url": "https://coast.noaa.gov/inventory/",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 0,
@@ -67,7 +67,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2016-04-25T21:03:07.018235",
-		"url": "https:\/\/coast.noaa.gov\/digitalcoast\/tools\/inventory\/",
+		"url": "https://coast.noaa.gov/digitalcoast/tools/inventory/",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 1,
@@ -97,7 +97,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2016-04-25T21:03:07.018244",
-		"url": "https:\/\/coast.noaa.gov",
+		"url": "https://coast.noaa.gov",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 2,
@@ -117,11 +117,11 @@
 	"name": "united-states-interagency-elevation-inventory-usiei",
 	"isopen": false,
 	"url": null,
-	"notes": "The U.S. Interagency Elevation Inventory displays high-accuracy topographic and bathymetric data for the United States and its territories. The project is a collaborative effort between NOAA, the U.S. Geological Survey, the Federal Emergency Management Agency, the U.S. Department of Agriculture, the U.S. Forest Service and the U.S. Army Corps of Engineers. This resource is a comprehensive, nationwide listing of known high-accuracy topographic data, including lidar and IfSAR, and bathymetric data,including NOAA hydrographic surveys, multibeam data, and bathymetric lidar. The following data layers are updated annually, with minor updates occurring during the year: topographic lidar, topobathy shoreline lidar, IfSAR data, and bathymetric lidar. The NOAA hydrographic surveys, the multibeam and trackline bathymetry shown are provided via a service that is available from the NOAA National Centers for Environmental Information (NCEI). Access the bathymetric data directly from the NCEI at: http:\/\/maps.ngdc.noaa.gov\/viewers\/bathymetry\/ The US Army Corps of Engineers (USACE) dredge surveys are provided via a NOAA MarineCadastre service. The information provided for each elevation dataset includes many attributes such as vertical accuracy, point spacing, and date of collection. A direct link to access the data or information about the contact organization is also available through the inventory.",
+	"notes": "The U.S. Interagency Elevation Inventory displays high-accuracy topographic and bathymetric data for the United States and its territories. The project is a collaborative effort between NOAA, the U.S. Geological Survey, the Federal Emergency Management Agency, the U.S. Department of Agriculture, the U.S. Forest Service and the U.S. Army Corps of Engineers. This resource is a comprehensive, nationwide listing of known high-accuracy topographic data, including lidar and IfSAR, and bathymetric data,including NOAA hydrographic surveys, multibeam data, and bathymetric lidar. The following data layers are updated annually, with minor updates occurring during the year: topographic lidar, topobathy shoreline lidar, IfSAR data, and bathymetric lidar. The NOAA hydrographic surveys, the multibeam and trackline bathymetry shown are provided via a service that is available from the NOAA National Centers for Environmental Information (NCEI). Access the bathymetric data directly from the NCEI at: http://maps.ngdc.noaa.gov/viewers/bathymetry/ The US Army Corps of Engineers (USACE) dredge surveys are provided via a NOAA MarineCadastre service. The information provided for each elevation dataset includes many attributes such as vertical accuracy, point spacing, and date of collection. A direct link to access the data or information about the contact organization is also available through the inventory.",
 	"license_title": null,
 	"extras": [{
 		"key": "responsible-party",
-		"value": "[{\"name\": \"NOAA Office for Coastal Management (OCM)\", \"roles\": [\"pointOfContact\"]}]"
+		"value": "[{"name": "NOAA Office for Coastal Management (OCM)", "roles": ["pointOfContact"]}]"
 	},
 	{
 		"key": "contact-email",
@@ -141,7 +141,7 @@
 	},
 	{
 		"key": "dataset-reference-date",
-		"value": "[{\"type\": \"publication\", \"value\": \"2016-01-01\"}]"
+		"value": "[{"type": "publication", "value": "2016-01-01"}]"
 	},
 	{
 		"key": "resource-type",
@@ -169,7 +169,7 @@
 	},
 	{
 		"key": "licence",
-		"value": "[\"Intended use of this information is not for navigational purposes. Acquire metadata for additional information on each data set and\\nverification of accuracy of inventory content. Any conclusions drawn from the analysis of this information are not the responsibility\\nof the National Oceanic and Atmospheric Administration (NOAA), the U.S. Geological Survey (USGS), the Federal Emergency Management Agency (FEMA),\\nthe U.S. Department of Agriculture (USDA), the U.S. Forest Service, the U.S. Army Corps of Engineers (USACE), the NOAA National Geophysical Data Center (NGDC),\\nthe NOAA Office for Coastal Management or their partners.\"]"
+		"value": "["Intended use of this information is not for navigational purposes. Acquire metadata for additional information on each data set and\nverification of accuracy of inventory content. Any conclusions drawn from the analysis of this information are not the responsibility\nof the National Oceanic and Atmospheric Administration (NOAA), the U.S. Geological Survey (USGS), the Federal Emergency Management Agency (FEMA),\nthe U.S. Department of Agriculture (USDA), the U.S. Forest Service, the U.S. Army Corps of Engineers (USACE), the NOAA National Geophysical Data Center (NGDC),\nthe NOAA Office for Coastal Management or their partners."]"
 	},
 	{
 		"key": "metadata_type",
@@ -181,7 +181,7 @@
 	},
 	{
 		"key": "spatial",
-		"value": "{\"type\": \"Polygon\", \"coordinates\": [[[-179.86, -68.02], [179.99, -68.02], [179.99, 89.0], [-179.86, 89.0], [-179.86, -68.02]]]}"
+		"value": "{"type": "Polygon", "coordinates": [[[-179.86, -68.02], [179.99, -68.02], [179.99, 89.0], [-179.86, 89.0], [-179.86, -68.02]]]}"
 	},
 	{
 		"key": "guid",
@@ -193,7 +193,7 @@
 	},
 	{
 		"key": "access_constraints",
-		"value": "[\"Use Constraints: None\", \"Access Constraints: None\"]"
+		"value": "["Use Constraints: None", "Access Constraints: None"]"
 	},
 	{
 		"key": "spatial_harvester",
@@ -205,7 +205,7 @@
 	},
 	{
 		"package_id": "ad3bc366-f0c4-4749-9cc1-039f0a0ef687",
-		"value": "us virgin islands, united states, atlantic ocean, topography, topobathy, multibeam, puerto rico, guam, high-accuracy, american samoa, lidar, ifsar, commonwealth of mariana islands, bathymetry\/topography, inventory, pacific ocean, bathymetry, gulf of mexico, caribbean sea, high-resolution, great lakes",
+		"value": "us virgin islands, united states, atlantic ocean, topography, topobathy, multibeam, puerto rico, guam, high-accuracy, american samoa, lidar, ifsar, commonwealth of mariana islands, bathymetry/topography, inventory, pacific ocean, bathymetry, gulf of mexico, caribbean sea, high-resolution, great lakes",
 		"revision_timestamp": "2015-10-06T20:31:56.000852",
 		"state": "active",
 		"key": "tags",
@@ -235,7 +235,7 @@
 		"revision_timestamp": "2013-03-25T23:05:12.923863",
 		"is_organization": true,
 		"state": "active",
-		"image_url": "https:\/\/fortress.wa.gov\/dfw\/score\/score\/images\/noaa_logo.png",
+		"image_url": "https://fortress.wa.gov/dfw/score/score/images/noaa_logo.png",
 		"revision_id": "c6d43080-22e1-405e-a83d-f2a512d9e867",
 		"type": "organization",
 		"id": "e811f0b4-451f-4896-9e8f-fc6802837819",

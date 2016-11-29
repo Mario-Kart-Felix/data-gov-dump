@@ -36,7 +36,7 @@
 		"cache_url": null,
 		"name": "Keyhole Markup Language (KML)",
 		"created": "2015-07-13T15:10:10.329851",
-		"url": "http:\/\/www.census.gov\/geo\/maps-data\/data\/kml\/kml_sld.html",
+		"url": "http://www.census.gov/geo/maps-data/data/kml/kml_sld.html",
 		"webstore_url": null,
 		"resource_locator_function": "download",
 		"position": 0,
@@ -56,7 +56,7 @@
 	"name": "series-information-file-for-the-2014-cartographic-boundary-file-state-state-legislative-distric81c77",
 	"isopen": false,
 	"url": null,
-	"notes": "The 2014 cartographic boundary KMLs are simplified representations of selected geographic areas from the U.S. Census Bureau's Master Address File \/ Topologically Integrated Geographic Encoding and Referencing (MAF\/TIGER) Database (MTDB). These boundary files are specifically designed for small-scale thematic mapping. When possible, generalization is performed with the intent to maintain the hierarchical relationships among geographies and to maintain the alignment of geographies within a file set for a given year. Geographic areas may not align with the same areas from another year. Some geographies are available as nation-based files while others are available only as state-based files.\n\nSLDU stands for State Legislative District Upper Chamber.  State Legislative Districts (SLDs) are the areas from which members are elected to State legislatures. The SLDs embody the upper (senate) and lower (house) chambers of the state legislature. Nebraska has a unicameral legislature and the District of Columbia has a single council, both of which the Census Bureau treats as upper-chamber legislative areas for the purpose of data presentation; there are no data by SLDL for either Nebraska or the District of Columbia. A unique three-character census code, identified by State participants, is assigned to each SLD within a state. In Connecticut, Illinois, Louisiana, Maine, Maryland, Massachusetts, Michigan, Ohio, and Puerto Rico, the Redistricting Data Program (RDP) participant did not define the SLDs to cover all of the state or state equivalent area. In these areas with no SLDs defined, the code \"ZZZ\" has been assigned, which is treated as a single SLD for purposes of data presentation. \n\nThe boundaries of the 2014 State legislative districts were provided by state-level participants through the RDP and reflect the districts used to elect members in or prior to the November 2014 election.",
+	"notes": "The 2014 cartographic boundary KMLs are simplified representations of selected geographic areas from the U.S. Census Bureau's Master Address File / Topologically Integrated Geographic Encoding and Referencing (MAF/TIGER) Database (MTDB). These boundary files are specifically designed for small-scale thematic mapping. When possible, generalization is performed with the intent to maintain the hierarchical relationships among geographies and to maintain the alignment of geographies within a file set for a given year. Geographic areas may not align with the same areas from another year. Some geographies are available as nation-based files while others are available only as state-based files.nnSLDU stands for State Legislative District Upper Chamber.  State Legislative Districts (SLDs) are the areas from which members are elected to State legislatures. The SLDs embody the upper (senate) and lower (house) chambers of the state legislature. Nebraska has a unicameral legislature and the District of Columbia has a single council, both of which the Census Bureau treats as upper-chamber legislative areas for the purpose of data presentation; there are no data by SLDL for either Nebraska or the District of Columbia. A unique three-character census code, identified by State participants, is assigned to each SLD within a state. In Connecticut, Illinois, Louisiana, Maine, Maryland, Massachusetts, Michigan, Ohio, and Puerto Rico, the Redistricting Data Program (RDP) participant did not define the SLDs to cover all of the state or state equivalent area. In these areas with no SLDs defined, the code "ZZZ" has been assigned, which is treated as a single SLD for purposes of data presentation. nnThe boundaries of the 2014 State legislative districts were provided by state-level participants through the RDP and reflect the districts used to elect members in or prior to the November 2014 election.",
 	"license_title": null,
 	"extras": [{
 		"key": "bbox-east-long",
@@ -80,7 +80,7 @@
 	},
 	{
 		"key": "dataset-reference-date",
-		"value": "[{\"type\": \"publication\", \"value\": \"201505\"}]"
+		"value": "[{"type": "publication", "value": "201505"}]"
 	},
 	{
 		"key": "resource-type",
@@ -120,7 +120,7 @@
 	},
 	{
 		"key": "spatial",
-		"value": "{\"type\": \"Polygon\", \"coordinates\": [[[-179.231086, -14.601813], [179.859681, -14.601813], [179.859681, 71.441059], [-179.231086, 71.441059], [-179.231086, -14.601813]]]}"
+		"value": "{"type": "Polygon", "coordinates": [[[-179.231086, -14.601813], [179.859681, -14.601813], [179.859681, 71.441059], [-179.231086, 71.441059], [-179.231086, -14.601813]]]}"
 	},
 	{
 		"key": "guid",
@@ -132,7 +132,7 @@
 	},
 	{
 		"key": "access_constraints",
-		"value": "[\" Access Constraints: None\", \" Use Constraints:The intended display scale for this file is 1:500,000.  This file should not be displayed at scales larger than 1:500,000.\\n\\nThese products are free to use in a product or publication, however acknowledgement must be given to the U.S. Census Bureau as the source.  The boundary information is for visual display at appropriate small scales only.  Cartographic boundary files should not be used for geographic analysis including area or perimeter calculation.  Files should not be used for geocoding addresses.  Files should not be used for determining precise geographic area relationships.\\n\"]"
+		"value": "[" Access Constraints: None", " Use Constraints:The intended display scale for this file is 1:500,000.  This file should not be displayed at scales larger than 1:500,000.\n\nThese products are free to use in a product or publication, however acknowledgement must be given to the U.S. Census Bureau as the source.  The boundary information is for visual display at appropriate small scales only.  Cartographic boundary files should not be used for geographic analysis including area or perimeter calculation.  Files should not be used for geocoding addresses.  Files should not be used for determining precise geographic area relationships.\n"]"
 	},
 	{
 		"key": "spatial_harvester",
@@ -174,7 +174,7 @@
 		"revision_timestamp": "2013-08-29T13:37:04.171127",
 		"is_organization": true,
 		"state": "active",
-		"image_url": "http:\/\/www.census.gov\/main\/img\/home\/CensusLogo-white.png",
+		"image_url": "http://www.census.gov/main/img/home/CensusLogo-white.png",
 		"revision_id": "0995f525-d563-4254-a535-af5b926fe663",
 		"type": "organization",
 		"id": "31c49abe-512a-412a-9cc7-5b2601325d6b",

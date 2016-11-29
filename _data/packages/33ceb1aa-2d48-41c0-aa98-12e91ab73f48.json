@@ -37,7 +37,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2013-03-28T02:13:52.810113",
-		"url": "ftp:\/\/ftp.dnr.state.mn.us",
+		"url": "ftp://ftp.dnr.state.mn.us",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 0,
@@ -74,7 +74,7 @@
 	"license_title": null,
 	"extras": [{
 		"key": "responsible-party",
-		"value": "[{\"name\": \"DNR-Waters\", \"roles\": [\"pointOfContact\"]}]"
+		"value": "[{"name": "DNR-Waters", "roles": ["pointOfContact"]}]"
 	},
 	{
 		"key": "contact-email",
@@ -94,7 +94,7 @@
 	},
 	{
 		"key": "dataset-reference-date",
-		"value": "[{\"type\": \"publication\", \"value\": \"9999-01-01\"}]"
+		"value": "[{"type": "publication", "value": "9999-01-01"}]"
 	},
 	{
 		"key": "resource-type",
@@ -122,7 +122,7 @@
 	},
 	{
 		"key": "licence",
-		"value": "[\"DNR data disclaimer.\"]"
+		"value": "["DNR data disclaimer."]"
 	},
 	{
 		"key": "metadata_type",
@@ -130,7 +130,7 @@
 	},
 	{
 		"key": "spatial",
-		"value": "{\"type\": \"Polygon\", \"coordinates\": [[[-97.5, 43.0], [-97.5, 49.5], [-89.0, 49.5], [-89.0, 43.0], [-97.5, 43.0]]]}"
+		"value": "{"type": "Polygon", "coordinates": [[[-97.5, 43.0], [-97.5, 49.5], [-89.0, 49.5], [-89.0, 43.0], [-97.5, 43.0]]]}"
 	},
 	{
 		"key": "guid",
@@ -142,11 +142,11 @@
 	},
 	{
 		"key": "access_constraints",
-		"value": "[\"Use Constraints: None\", \"Access Constraints: None\"]"
+		"value": "["Use Constraints: None", "Access Constraints: None"]"
 	},
 	{
 		"key": "graphic-preview-file",
-		"value": "http:\/\/jmaps.dnr.state.mn.us\/gis\/dp_datasample.jsp?mpid=39000341&ptid=2&fcid=1&lname=Minnesota Hydrologic Units - Sheds (polygons)"
+		"value": "http://jmaps.dnr.state.mn.us/gis/dp_datasample.jsp?mpid=39000341&ptid=2&fcid=1&lname=Minnesota Hydrologic Units - Sheds (polygons)"
 	},
 	{
 		"key": "frequency-of-update",
@@ -184,7 +184,7 @@
 		"revision_timestamp": "2013-03-21T17:53:31.532555",
 		"is_organization": true,
 		"state": "active",
-		"image_url": "http:\/\/www.naturalinnovations.org\/eeresourceguide\/images\/mn_dnr_logo.gif",
+		"image_url": "http://www.naturalinnovations.org/eeresourceguide/images/mn_dnr_logo.gif",
 		"revision_id": "a4813d04-e782-48ad-bd72-dd87a4899e84",
 		"type": "organization",
 		"id": "6bfa9b1b-ca6e-471f-aaef-ca8f2c26769b",

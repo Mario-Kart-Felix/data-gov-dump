@@ -36,7 +36,7 @@
 		"cache_url": null,
 		"name": "youtube video",
 		"created": "2013-03-16T01:29:47.385175",
-		"url": "http:\/\/www.youtube.com\/watch?v=lwILpMpLBCE",
+		"url": "http://www.youtube.com/watch?v=lwILpMpLBCE",
 		"webstore_url": null,
 		"resource_locator_function": "375",
 		"position": 0,
@@ -65,7 +65,7 @@
 		"cache_url": null,
 		"name": "Metadata Webinar for Geoscience Information Resources Feb 16, 2011 Doc",
 		"created": "2013-03-16T01:29:47.385195",
-		"url": "http:\/\/repository.stategeothermaldata.org\/metadata\/record\/98ddf901b9782a25982e01af3b05fe46\/file\/ngdsmetadatawebinar28feb11.pdf",
+		"url": "http://repository.stategeothermaldata.org/metadata/record/98ddf901b9782a25982e01af3b05fe46/file/ngdsmetadatawebinar28feb11.pdf",
 		"webstore_url": null,
 		"resource_locator_function": "375",
 		"position": 1,
@@ -94,7 +94,7 @@
 		"cache_url": null,
 		"name": "Metadata Webinar for Geoscience Information Resources Feb 16, 2011 Videos",
 		"created": "2013-03-16T01:29:47.385202",
-		"url": "http:\/\/repository.stategeothermaldata.org\/metadata\/record\/98ddf901b9782a25982e01af3b05fe46\/file\/metadatawebinar_28feb11.zip",
+		"url": "http://repository.stategeothermaldata.org/metadata/record/98ddf901b9782a25982e01af3b05fe46/file/metadatawebinar_28feb11.zip",
 		"webstore_url": null,
 		"resource_locator_function": "375",
 		"position": 2,
@@ -127,11 +127,11 @@
 	"name": "metadata-webinar-for-geoscience-information-resources-feb-28-2011",
 	"isopen": false,
 	"url": null,
-	"notes": "A brief overview on creating metadata records for resources in the US Geoscience Information Network, USGIN, and getting them in the system catalog.  The catalog should include records for individually retrievable resources that are considered as a unit such as things that come bundled in an individual file, document, or container. Software applications and services are also resources that should be documented in the catalog. Domain specific description information should be provided in domain specific services like OGC feature or observation services or NetCDF services. Resources that would be provided by such data services include individual database records, polygons in a GIS dataset, individual chemical analyses, and individual temperature measurements.Three workflows are currently supported by the system. The first is for situations in which there is some metadata information already compiled in a structured form that can be converted to a table for manipulation in a spreadsheet or database. Existing metadata should be loaded into the metadata template spreadsheet, see stategeothermaldata.org\/data-delivery\/content models\/metadata\/ and any missing information that can be added can be entered in the spreadsheet. The second workflow is for situations in which the metadata record must be created from scratch. There are two online tools for creating metadata in this situation. If the resource is already accessible online, the metadata see repository.stategeothermaldata.org for forms for generating the metadata record where resource can also be placed in a web accessible repository. The AASG geothermal data project has implemented an online catalog here. This catalog software has functions to harvest metadata from OGC service GetCapabilities documents, providing another path to get service metadata into the catalog. Includes webinar video with audio.",
+	"notes": "A brief overview on creating metadata records for resources in the US Geoscience Information Network, USGIN, and getting them in the system catalog.  The catalog should include records for individually retrievable resources that are considered as a unit such as things that come bundled in an individual file, document, or container. Software applications and services are also resources that should be documented in the catalog. Domain specific description information should be provided in domain specific services like OGC feature or observation services or NetCDF services. Resources that would be provided by such data services include individual database records, polygons in a GIS dataset, individual chemical analyses, and individual temperature measurements.Three workflows are currently supported by the system. The first is for situations in which there is some metadata information already compiled in a structured form that can be converted to a table for manipulation in a spreadsheet or database. Existing metadata should be loaded into the metadata template spreadsheet, see stategeothermaldata.org/data-delivery/content models/metadata/ and any missing information that can be added can be entered in the spreadsheet. The second workflow is for situations in which the metadata record must be created from scratch. There are two online tools for creating metadata in this situation. If the resource is already accessible online, the metadata see repository.stategeothermaldata.org for forms for generating the metadata record where resource can also be placed in a web accessible repository. The AASG geothermal data project has implemented an online catalog here. This catalog software has functions to harvest metadata from OGC service GetCapabilities documents, providing another path to get service metadata into the catalog. Includes webinar video with audio.",
 	"license_title": null,
 	"extras": [{
 		"key": "responsible-party",
-		"value": "[{\"name\": \"No Organization Name Was Given\", \"roles\": [\"pointOfContact\"]}]"
+		"value": "[{"name": "No Organization Name Was Given", "roles": ["pointOfContact"]}]"
 	},
 	{
 		"key": "contact-email",
@@ -151,7 +151,7 @@
 	},
 	{
 		"key": "dataset-reference-date",
-		"value": "[{\"type\": \"publication\", \"value\": \"2011-02-28T12:00:00\"}]"
+		"value": "[{"type": "publication", "value": "2011-02-28T12:00:00"}]"
 	},
 	{
 		"key": "resource-type",
@@ -187,7 +187,7 @@
 	},
 	{
 		"key": "spatial",
-		"value": "{\"type\": \"Polygon\", \"coordinates\": [[[-179.9, 17.0952], [-179.9, 79.0], [-62.0547, 79.0], [-62.0547, 17.0952], [-179.9, 17.0952]]]}"
+		"value": "{"type": "Polygon", "coordinates": [[[-179.9, 17.0952], [-179.9, 79.0], [-62.0547, 79.0], [-62.0547, 17.0952], [-179.9, 17.0952]]]}"
 	},
 	{
 		"key": "guid",
@@ -237,7 +237,7 @@
 		"revision_timestamp": "2013-03-20T21:11:17.592932",
 		"is_organization": true,
 		"state": "active",
-		"image_url": "http:\/\/www.50states.com\/flag\/image\/nunst004.gif",
+		"image_url": "http://www.50states.com/flag/image/nunst004.gif",
 		"revision_id": "61be6428-4398-4199-a336-f3cd1e956f9b",
 		"type": "organization",
 		"id": "f3f6e1d4-64fb-4a2f-b32c-9ac0b76fe4de",

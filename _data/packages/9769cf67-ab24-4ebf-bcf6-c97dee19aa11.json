@@ -37,7 +37,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2013-03-14T14:28:36.266117",
-		"url": "http:\/\/www.granit.sr.unh.edu",
+		"url": "http://www.granit.sr.unh.edu",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 0,
@@ -67,7 +67,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2013-03-14T14:28:36.266138",
-		"url": "http:\/\/<URL:http\/\/www.granit.sr.unh.edu\/cgi-bin\/nhsearch?dset=communitycenterareas\/nh>",
+		"url": "http://<URL:http//www.granit.sr.unh.edu/cgi-bin/nhsearch?dset=communitycenterareas/nh>",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 1,
@@ -87,11 +87,11 @@
 	"name": "community-center-areas",
 	"isopen": false,
 	"url": null,
-	"notes": "This dataset is a set of polygons representing the center area(s) of each municipality in New Hampshire. Community center areas were delineated by staff at the nine Regional Planning Agencies based on a common methodology, with input and review from staff at the NH Department of Environmental Services. The approach for delineating these areas focused on key characteristics of the nature of development including the presence of a higher-density development and\/or a mix of different types of uses, such as residential, commercial and public uses, core main streets areas and historic districts, higher-density neighborhoods within walking distance, appropriate zoning to retain its current characteristics, and recognition by the community as its center. Municipalities can have multiple center areas, provided they each meet the criteria described. Boundary lines generally follow the limits of current development (rather than parcel or property lines) and may follow significant manmade or natural features that serve as a boundary, such as a major roadway or river.",
+	"notes": "This dataset is a set of polygons representing the center area(s) of each municipality in New Hampshire. Community center areas were delineated by staff at the nine Regional Planning Agencies based on a common methodology, with input and review from staff at the NH Department of Environmental Services. The approach for delineating these areas focused on key characteristics of the nature of development including the presence of a higher-density development and/or a mix of different types of uses, such as residential, commercial and public uses, core main streets areas and historic districts, higher-density neighborhoods within walking distance, appropriate zoning to retain its current characteristics, and recognition by the community as its center. Municipalities can have multiple center areas, provided they each meet the criteria described. Boundary lines generally follow the limits of current development (rather than parcel or property lines) and may follow significant manmade or natural features that serve as a boundary, such as a major roadway or river.",
 	"license_title": null,
 	"extras": [{
 		"key": "responsible-party",
-		"value": "[{\"name\": \"New Hampshire Department of Environmental Services\", \"roles\": [\"pointOfContact\"]}]"
+		"value": "[{"name": "New Hampshire Department of Environmental Services", "roles": ["pointOfContact"]}]"
 	},
 	{
 		"key": "contact-email",
@@ -111,7 +111,7 @@
 	},
 	{
 		"key": "dataset-reference-date",
-		"value": "[{\"type\": \"publication\", \"value\": \"2006-12-01\"}]"
+		"value": "[{"type": "publication", "value": "2006-12-01"}]"
 	},
 	{
 		"key": "resource-type",
@@ -139,7 +139,7 @@
 	},
 	{
 		"key": "licence",
-		"value": "[\"NHDES is not responsible for the use or interpretation of this information.  Not intended for legal purposes. Digital data in NH GRANIT represent the efforts of the contributing agencies to record information from the cited source materials. Complex Systems Research Center, under contract to the NH Office of Energy and Planning, and in consultation with cooperating agencies, maintains a continuing program to identify and correct errors in these data. OEP, CSRC, and the cooperating agencies make no claim as to the validity or reliability or to any implied uses of these data.\"]"
+		"value": "["NHDES is not responsible for the use or interpretation of this information.  Not intended for legal purposes. Digital data in NH GRANIT represent the efforts of the contributing agencies to record information from the cited source materials. Complex Systems Research Center, under contract to the NH Office of Energy and Planning, and in consultation with cooperating agencies, maintains a continuing program to identify and correct errors in these data. OEP, CSRC, and the cooperating agencies make no claim as to the validity or reliability or to any implied uses of these data."]"
 	},
 	{
 		"key": "metadata_type",
@@ -147,7 +147,7 @@
 	},
 	{
 		"key": "spatial",
-		"value": "{\"type\": \"Polygon\", \"coordinates\": [[[-72.55829, 42.726863], [-72.55829, 45.057067], [-70.681287, 45.057067], [-70.681287, 42.726863], [-72.55829, 42.726863]]]}"
+		"value": "{"type": "Polygon", "coordinates": [[[-72.55829, 42.726863], [-72.55829, 45.057067], [-70.681287, 45.057067], [-70.681287, 42.726863], [-72.55829, 42.726863]]]}"
 	},
 	{
 		"key": "guid",
@@ -159,7 +159,7 @@
 	},
 	{
 		"key": "access_constraints",
-		"value": "[\"Use Constraints: User is required to read metadata completely before using the data. The information provided in this coverage is a subset of spatial databases developed by the New Hampshire Department of Environmental Services (NHDES). Development of these databases is an ongoing project; they may not contain all existing and potential sites, stations, or threats. The NHDES is not responsible for the use or interpretation of this information, or for any inaccuracies in the site names, tax map and lot information, or locations. All information is subject to verification. These data are to be used for planning purposes only; distribution is discouraged.\", \"Access Constraints: None\"]"
+		"value": "["Use Constraints: User is required to read metadata completely before using the data. The information provided in this coverage is a subset of spatial databases developed by the New Hampshire Department of Environmental Services (NHDES). Development of these databases is an ongoing project; they may not contain all existing and potential sites, stations, or threats. The NHDES is not responsible for the use or interpretation of this information, or for any inaccuracies in the site names, tax map and lot information, or locations. All information is subject to verification. These data are to be used for planning purposes only; distribution is discouraged.", "Access Constraints: None"]"
 	},
 	{
 		"key": "frequency-of-update",
@@ -197,7 +197,7 @@
 		"revision_timestamp": "2013-03-26T22:59:50.307125",
 		"is_organization": true,
 		"state": "active",
-		"image_url": "http:\/\/www.unh.edu\/images\/UNHlogo.gif",
+		"image_url": "http://www.unh.edu/images/UNHlogo.gif",
 		"revision_id": "af978fed-b308-4bc6-a1ec-56a4dec12ceb",
 		"type": "organization",
 		"id": "7b93b22e-2449-4bf3-bd47-17c1c9046689",

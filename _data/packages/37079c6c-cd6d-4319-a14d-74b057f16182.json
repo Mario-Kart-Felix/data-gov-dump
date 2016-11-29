@@ -36,7 +36,7 @@
 		"cache_url": null,
 		"name": "NDGIS web site",
 		"created": "2015-01-09T11:58:41.566748",
-		"url": "http:\/\/www.nd.gov\/gis",
+		"url": "http://www.nd.gov/gis",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 0,
@@ -65,7 +65,7 @@
 		"cache_url": null,
 		"name": "Download City Locations",
 		"created": "2015-01-09T11:58:41.566768",
-		"url": "http:\/\/www.nd.gov\/gis\/apps\/DataDownload\/?clipping=Full&coord=ND83-SF&format=SHAPE&layers=NDHUB.CITIES_PTS",
+		"url": "http://www.nd.gov/gis/apps/DataDownload/?clipping=Full&coord=ND83-SF&format=SHAPE&layers=NDHUB.CITIES_PTS",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 1,
@@ -94,7 +94,7 @@
 		"cache_url": null,
 		"name": "Larger Cities",
 		"created": "2015-01-09T11:58:41.566775",
-		"url": "http:\/\/ndgishub.nd.gov\/arcgis\/services\/All_Locations\/MapServer\/WMSServer?",
+		"url": "http://ndgishub.nd.gov/arcgis/services/All_Locations/MapServer/WMSServer?",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 2,
@@ -123,7 +123,7 @@
 		"cache_url": null,
 		"name": "Esri REST including WMS",
 		"created": "2015-01-09T11:58:41.566782",
-		"url": "http:\/\/ndgishub.nd.gov\/ArcGIS\/rest\/services\/All_Locations\/MapServer",
+		"url": "http://ndgishub.nd.gov/ArcGIS/rest/services/All_Locations/MapServer",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 3,
@@ -152,7 +152,7 @@
 		"cache_url": null,
 		"name": "Esri REST including WFS and KML",
 		"created": "2015-01-09T11:58:41.566788",
-		"url": "http:\/\/ndgishub.nd.gov\/ArcGIS\/rest\/services\/Features\/Locations\/MapServer",
+		"url": "http://ndgishub.nd.gov/ArcGIS/rest/services/Features/Locations/MapServer",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 4,
@@ -185,7 +185,7 @@
 	"name": "city-locations",
 	"isopen": false,
 	"url": null,
-	"notes": "5\/20\/14 - Fixed Mohall as county seat of Renville.  Removed Grafton  as a major city.\n\n4\/30\/13 - Added POP2010 field\n\n1\/15\/06 - City points updated: Deleted Larson and added Grace City which was never added This data came from the NDDOT's Mapping Section. The original data was digitized from hand scribed maps and registered to the 1:24000 USGS PLSS data. It was converted from a projection (NAD 1983 UTM Zone 14N) to a Geographic coordinate system.",
+	"notes": "5/20/14 - Fixed Mohall as county seat of Renville.  Removed Grafton  as a major city.nn4/30/13 - Added POP2010 fieldnn1/15/06 - City points updated: Deleted Larson and added Grace City which was never added This data came from the NDDOT's Mapping Section. The original data was digitized from hand scribed maps and registered to the 1:24000 USGS PLSS data. It was converted from a projection (NAD 1983 UTM Zone 14N) to a Geographic coordinate system.",
 	"license_title": null,
 	"extras": [{
 		"key": "bbox-east-long",
@@ -229,7 +229,7 @@
 	},
 	{
 		"key": "spatial",
-		"value": "{\"type\": \"Polygon\", \"coordinates\": [[[-104.005543, 45.942387], [-96.605652, 45.942387], [-96.605652, 48.996372], [-104.005543, 48.996372], [-104.005543, 45.942387]]]}"
+		"value": "{"type": "Polygon", "coordinates": [[[-104.005543, 45.942387], [-96.605652, 45.942387], [-96.605652, 48.996372], [-104.005543, 48.996372], [-104.005543, 45.942387]]]}"
 	},
 	{
 		"key": "progress",
@@ -237,7 +237,7 @@
 	},
 	{
 		"key": "access_constraints",
-		"value": "[\"The State of North Dakota has compiled this data according to conventional cartographic standards, using what is thought to be the most reliable information available. This data is intended to make results of research available at the earliest possible date, but is not intended to constitute final or formal publication. The State of North Dakota makes every effort to provide virus-free files but does not guarantee uncorrupted files. The State of North Dakota does not guarantee this data to be free from errors, inaccuracies, or viruses, and disclaims any responsibility or liability for interpretations or decisions based on this data.\"]"
+		"value": "["The State of North Dakota has compiled this data according to conventional cartographic standards, using what is thought to be the most reliable information available. This data is intended to make results of research available at the earliest possible date, but is not intended to constitute final or formal publication. The State of North Dakota makes every effort to provide virus-free files but does not guarantee uncorrupted files. The State of North Dakota does not guarantee this data to be free from errors, inaccuracies, or viruses, and disclaims any responsibility or liability for interpretations or decisions based on this data."]"
 	},
 	{
 		"key": "contact-email",
@@ -253,7 +253,7 @@
 	},
 	{
 		"key": "dataset-reference-date",
-		"value": "[{\"type\": \"publication\", \"value\": \"2014-05-20\"}]"
+		"value": "[{"type": "publication", "value": "2014-05-20"}]"
 	},
 	{
 		"key": "graphic-preview-description",
@@ -273,7 +273,7 @@
 	},
 	{
 		"key": "responsible-party",
-		"value": "[{\"name\": \"ND Department of Transportation\", \"roles\": [\"pointOfContact\"]}]"
+		"value": "[{"name": "ND Department of Transportation", "roles": ["pointOfContact"]}]"
 	},
 	{
 		"key": "spatial-data-service-type",
@@ -308,14 +308,14 @@
 		"value": "North Dakota GIS Hub Data Portal"
 	}],
 	"organization": {
-		"description": "The GIS Hub is the state source for GIS - data, services, and information.  More information can be found at www.nd.gov\/gis.",
+		"description": "The GIS Hub is the state source for GIS - data, services, and information.  More information can be found at www.nd.gov/gis.",
 		"created": "2013-03-14T03:44:44.340717",
 		"title": "State of North Dakota",
 		"name": "nd-gov",
 		"revision_timestamp": "2013-07-15T16:27:30.098476",
 		"is_organization": true,
 		"state": "active",
-		"image_url": "http:\/\/www.nd.gov\/gis\/images\/ndgis-logo.gif",
+		"image_url": "http://www.nd.gov/gis/images/ndgis-logo.gif",
 		"revision_id": "27517bb9-815c-4d4f-b45b-b88b6316697b",
 		"type": "organization",
 		"id": "1c782de6-9f1f-4427-93fd-33732e29970f",

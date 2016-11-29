@@ -37,7 +37,7 @@
 		"cache_url": null,
 		"name": "Zip File",
 		"created": "2016-07-18T17:44:36.869394",
-		"url": "ftp:\/\/ftp.coast.noaa.gov\/pub\/MSP\/SubmarineCables.zip",
+		"url": "ftp://ftp.coast.noaa.gov/pub/MSP/SubmarineCables.zip",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 0,
@@ -67,7 +67,7 @@
 		"cache_url": null,
 		"name": "Esri Rest API Endpoint",
 		"created": "2016-07-18T17:44:36.869440",
-		"url": "https:\/\/www.coast.noaa.gov\/ArcGIS\/rest\/services\/MarineCadastre\/NavigationAndMarineTransportation\/MapServer",
+		"url": "https://www.coast.noaa.gov/ArcGIS/rest/services/MarineCadastre/NavigationAndMarineTransportation/MapServer",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 1,
@@ -97,7 +97,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2016-07-18T17:44:36.869449",
-		"url": "http:\/\/marinecadastre.gov\/data\/",
+		"url": "http://marinecadastre.gov/data/",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 2,
@@ -127,7 +127,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2016-07-18T17:44:36.869456",
-		"url": "https:\/\/www.coast.noaa.gov\/",
+		"url": "https://www.coast.noaa.gov/",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 3,
@@ -149,7 +149,7 @@
 		"revision_timestamp": "2013-03-25T23:05:12.923863",
 		"is_organization": true,
 		"state": "active",
-		"image_url": "https:\/\/fortress.wa.gov\/dfw\/score\/score\/images\/noaa_logo.png",
+		"image_url": "https://fortress.wa.gov/dfw/score/score/images/noaa_logo.png",
 		"revision_id": "c6d43080-22e1-405e-a83d-f2a512d9e867",
 		"type": "organization",
 		"id": "e811f0b4-451f-4896-9e8f-fc6802837819",
@@ -160,7 +160,7 @@
 	"name": "noaa-charted-submarine-cables-in-the-united-states-as-of-december-2012",
 	"isopen": false,
 	"url": null,
-	"notes": "These data depict the occurrence of submarine cables in and around U.S. navigable waters. The geographic extent of these data is greater than the \"NASCA Submarine Cables\" dataset. The purpose of these data products are to support coastal planning at the regional and national scale. These data are derived from 2010 NOAA Electronic Navigational Charts (ENCs) and 2009 NOAA Raster Navigational Charts (RNCs). Abandoned cables, or cables that have been removed may appear within this data set. Features defined as cables were compiled from the original sources, exclusive of those features noted as 'cable areas'.",
+	"notes": "These data depict the occurrence of submarine cables in and around U.S. navigable waters. The geographic extent of these data is greater than the "NASCA Submarine Cables" dataset. The purpose of these data products are to support coastal planning at the regional and national scale. These data are derived from 2010 NOAA Electronic Navigational Charts (ENCs) and 2009 NOAA Raster Navigational Charts (RNCs). Abandoned cables, or cables that have been removed may appear within this data set. Features defined as cables were compiled from the original sources, exclusive of those features noted as 'cable areas'.",
 	"owner_org": "e811f0b4-451f-4896-9e8f-fc6802837819",
 	"extras": [{
 		"key": "bbox-east-long",
@@ -196,7 +196,7 @@
 	},
 	{
 		"key": "spatial",
-		"value": "{\"type\": \"Polygon\", \"coordinates\": [[[-179.999989, 5.0], [179.999989, 5.0], [179.999989, 61.19428], [-179.999989, 61.19428], [-179.999989, 5.0]]]}"
+		"value": "{"type": "Polygon", "coordinates": [[[-179.999989, 5.0], [179.999989, 5.0], [179.999989, 61.19428], [-179.999989, 61.19428], [-179.999989, 5.0]]]}"
 	},
 	{
 		"key": "progress",
@@ -204,7 +204,7 @@
 	},
 	{
 		"key": "access_constraints",
-		"value": "[\"Use Constraints: These data are intended for coastal and ocean use planning. Not for navigation.\", \"Access Constraints: None\"]"
+		"value": "["Use Constraints: These data are intended for coastal and ocean use planning. Not for navigation.", "Access Constraints: None"]"
 	},
 	{
 		"key": "temporal-extent-begin",
@@ -224,7 +224,7 @@
 	},
 	{
 		"key": "dataset-reference-date",
-		"value": "[{\"type\": \"publication\", \"value\": \"2016-07-13\"}]"
+		"value": "[{"type": "publication", "value": "2016-07-13"}]"
 	},
 	{
 		"key": "frequency-of-update",
@@ -232,7 +232,7 @@
 	},
 	{
 		"key": "licence",
-		"value": "[\"NOAA makes no warranties or representations whatsoever regarding the availability, quality, accuracy, content, completeness or suitability for the user's needs of such information. The services, information, and data made available on the Multipurpose Marine Cadastre web site are provided \\\"as is\\\" without warranties of any kind. These data are intended for coastal and ocean use planning. Not for navigation.\"]"
+		"value": "["NOAA makes no warranties or representations whatsoever regarding the availability, quality, accuracy, content, completeness or suitability for the user's needs of such information. The services, information, and data made available on the Multipurpose Marine Cadastre web site are provided \"as is\" without warranties of any kind. These data are intended for coastal and ocean use planning. Not for navigation."]"
 	},
 	{
 		"key": "metadata_type",
@@ -240,7 +240,7 @@
 	},
 	{
 		"key": "responsible-party",
-		"value": "[{\"name\": \"NOAA Office for Coastal Management\", \"roles\": [\"pointOfContact\"]}]"
+		"value": "[{"name": "NOAA Office for Coastal Management", "roles": ["pointOfContact"]}]"
 	},
 	{
 		"key": "temporal-extent-end",

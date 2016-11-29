@@ -36,7 +36,7 @@
 		"cache_url": null,
 		"name": "GEOTIFF",
 		"created": "2016-07-15T21:34:53.905897",
-		"url": "http:\/\/www.nass.usda.gov\/Research_and_Science\/Cropland\/Release\/index.php",
+		"url": "http://www.nass.usda.gov/Research_and_Science/Cropland/Release/index.php",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 0,
@@ -66,7 +66,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2016-07-15T21:34:53.905919",
-		"url": "http:\/\/<http:\/\/nassgeodata.gmu.edu\/CropScape\/ID>",
+		"url": "http://<http://nassgeodata.gmu.edu/CropScape/ID>",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 1,
@@ -88,7 +88,7 @@
 		"revision_timestamp": "2015-01-16T18:28:14.593903",
 		"is_organization": true,
 		"state": "active",
-		"image_url": "http:\/\/upload.wikimedia.org\/wikipedia\/en\/thumb\/4\/44\/University_of_Idaho_seal.svg\/300px-University_of_Idaho_seal.svg.png",
+		"image_url": "http://upload.wikimedia.org/wikipedia/en/thumb/4/44/University_of_Idaho_seal.svg/300px-University_of_Idaho_seal.svg.png",
 		"revision_id": "761955d7-9530-4622-8609-d0b01c78e177",
 		"type": "organization",
 		"id": "75e22a8a-da5f-46f3-93d8-924063a3703d",
@@ -99,7 +99,7 @@
 	"name": "usda-national-agricultural-statistics-service-2011-idaho-cropland-data-layer",
 	"isopen": false,
 	"url": null,
-	"notes": "The USDA, NASS Cropland Data Layer (CDL) is a raster, geo-referenced, crop-specific land cover data layer. The 2011 CDL has a ground resolution of 30 meters. The CDL is produced using satellite imagery from the Landsat 5 TM sensor, Landsat 7 ETM+ sensor, the Spanish DEIMOS-1 sensor, the British UK-DMC 2 sensor, and the Indian Remote Sensing RESOURCESAT-1 (IRS-P6) Advanced Wide Field Sensor (AWiFS) collected during the current growing season. Some CDL states used additional satellite imagery and ancillary inputs to supplement and improve the classification. These additional sources can include the United States Geological Survey (USGS) National Elevation Dataset (NED), the USGS National Land Cover Database 2006 (NLCD 2006), and the National Aeronautics and Space Administration (NASA) Moderate Resolution Imaging Spectroradiometer (MODIS) 250 meter 16 day Normalized Difference Vegetation Index (NDVI) composites. Agricultural training and validation data are derived from the Farm Service Agency (FSA) Common Land Unit (CLU) Program. The NLCD 2006 is used as non-agricultural training and validation data. Please refer to the 'Supplemental_Information' Section of this metadata file for a complete list of all imagery, ancillary data, and training\/validation data used to generate this state's CDL. The strength and emphasis of the CDL is agricultural land cover. Please note that no farmer reported data are derivable from the Cropland Data Layer.",
+	"notes": "The USDA, NASS Cropland Data Layer (CDL) is a raster, geo-referenced, crop-specific land cover data layer. The 2011 CDL has a ground resolution of 30 meters. The CDL is produced using satellite imagery from the Landsat 5 TM sensor, Landsat 7 ETM+ sensor, the Spanish DEIMOS-1 sensor, the British UK-DMC 2 sensor, and the Indian Remote Sensing RESOURCESAT-1 (IRS-P6) Advanced Wide Field Sensor (AWiFS) collected during the current growing season. Some CDL states used additional satellite imagery and ancillary inputs to supplement and improve the classification. These additional sources can include the United States Geological Survey (USGS) National Elevation Dataset (NED), the USGS National Land Cover Database 2006 (NLCD 2006), and the National Aeronautics and Space Administration (NASA) Moderate Resolution Imaging Spectroradiometer (MODIS) 250 meter 16 day Normalized Difference Vegetation Index (NDVI) composites. Agricultural training and validation data are derived from the Farm Service Agency (FSA) Common Land Unit (CLU) Program. The NLCD 2006 is used as non-agricultural training and validation data. Please refer to the 'Supplemental_Information' Section of this metadata file for a complete list of all imagery, ancillary data, and training/validation data used to generate this state's CDL. The strength and emphasis of the CDL is agricultural land cover. Please note that no farmer reported data are derivable from the Cropland Data Layer.",
 	"owner_org": "75e22a8a-da5f-46f3-93d8-924063a3703d",
 	"extras": [{
 		"key": "bbox-east-long",
@@ -135,7 +135,7 @@
 	},
 	{
 		"key": "spatial",
-		"value": "{\"type\": \"Polygon\", \"coordinates\": [[[-117.2645, 41.8441], [-111.0614, 41.8441], [-111.0614, 49.0045], [-117.2645, 49.0045], [-117.2645, 41.8441]]]}"
+		"value": "{"type": "Polygon", "coordinates": [[[-117.2645, 41.8441], [-111.0614, 41.8441], [-111.0614, 49.0045], [-117.2645, 49.0045], [-117.2645, 41.8441]]]}"
 	},
 	{
 		"key": "progress",
@@ -143,7 +143,7 @@
 	},
 	{
 		"key": "access_constraints",
-		"value": "[\"Use Constraints: The USDA, NASS Cropland Data Layer is provided to the public as is and is considered public domain and free to redistribute. The USDA, NASS does not warrant any conclusions drawn from these data. If the user does not have software capable of viewing GEOTIF (.tif) file formats then we suggest using the Cropscape website <http:\/\/nassgeodata.gmu.edu\/CropScape\/> or the freeware browser ESRI ArcGIS Explorer <http:\/\/www.esri.com\/>.\", \"Access Constraints: None\"]"
+		"value": "["Use Constraints: The USDA, NASS Cropland Data Layer is provided to the public as is and is considered public domain and free to redistribute. The USDA, NASS does not warrant any conclusions drawn from these data. If the user does not have software capable of viewing GEOTIF (.tif) file formats then we suggest using the Cropscape website <http://nassgeodata.gmu.edu/CropScape/> or the freeware browser ESRI ArcGIS Explorer <http://www.esri.com/>.", "Access Constraints: None"]"
 	},
 	{
 		"key": "temporal-extent-begin",
@@ -163,7 +163,7 @@
 	},
 	{
 		"key": "dataset-reference-date",
-		"value": "[{\"type\": \"publication\", \"value\": \"2012-01-31\"}]"
+		"value": "[{"type": "publication", "value": "2012-01-31"}]"
 	},
 	{
 		"key": "frequency-of-update",
@@ -171,7 +171,7 @@
 	},
 	{
 		"key": "licence",
-		"value": "[\"Disclaimer: Users of the Cropland Data Layer (CDL) are solely responsible for interpretations made from these products. The CDL is provided 'as is' and the USDA, NASS does not warrant results you may obtain using the Cropland Data Layer. Contact our staff at (HQ_RDD_GIB@nass.usda.gov) if technical questions arise in the use of the CDL. NASS does maintain a Frequently Asked Questions (FAQ's) section on the CDL website at <http:\/\/www.nass.usda.gov\/research\/Cropland\/SARS1a.htm>.\"]"
+		"value": "["Disclaimer: Users of the Cropland Data Layer (CDL) are solely responsible for interpretations made from these products. The CDL is provided 'as is' and the USDA, NASS does not warrant results you may obtain using the Cropland Data Layer. Contact our staff at (HQ_RDD_GIB@nass.usda.gov) if technical questions arise in the use of the CDL. NASS does maintain a Frequently Asked Questions (FAQ's) section on the CDL website at <http://www.nass.usda.gov/research/Cropland/SARS1a.htm>."]"
 	},
 	{
 		"key": "metadata_type",
@@ -179,7 +179,7 @@
 	},
 	{
 		"key": "responsible-party",
-		"value": "[{\"name\": \"USDA, NASS, Spatial Analysis Research Section\", \"roles\": [\"pointOfContact\"]}]"
+		"value": "[{"name": "USDA, NASS, Spatial Analysis Research Section", "roles": ["pointOfContact"]}]"
 	},
 	{
 		"key": "temporal-extent-end",
@@ -195,7 +195,7 @@
 	},
 	{
 		"key": "tags",
-		"value": "uk-dmc 2, united states of america, cropland, north america, crop estimates, agriculture, continent, earth science, land cover, cropscape, land surface, crop cover, 2011, awifs, idaho, modis, agricultural lands, biosphere, landsat, terrestrial ecosystems, moderate-resolution imaging spectroradiometer, land use\/land cover, deimos-1",
+		"value": "uk-dmc 2, united states of america, cropland, north america, crop estimates, agriculture, continent, earth science, land cover, cropscape, land surface, crop cover, 2011, awifs, idaho, modis, agricultural lands, biosphere, landsat, terrestrial ecosystems, moderate-resolution imaging spectroradiometer, land use/land cover, deimos-1",
 		"__extras": {
 			"revision_id": "bc56afc3-533a-4bb5-9c6a-a3cdb2b513c4",
 			"package_id": "b89c8c91-9a66-4de3-9ffa-60f32906d341"

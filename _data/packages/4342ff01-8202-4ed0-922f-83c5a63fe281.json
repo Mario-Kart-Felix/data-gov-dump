@@ -36,7 +36,7 @@
 		"cache_url": null,
 		"name": "ESRI GRID",
 		"created": "2016-07-15T21:35:16.075229",
-		"url": "http:\/\/cloud.insideidaho.org\/webApps\/util\/zip.ashx?fn=http:\/\/cloud.insideidaho.org\/data\/blm\/fireHazardRisk\/ros_blm",
+		"url": "http://cloud.insideidaho.org/webApps/util/zip.ashx?fn=http://cloud.insideidaho.org/data/blm/fireHazardRisk/ros_blm",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 0,
@@ -66,7 +66,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2016-07-15T21:35:16.075270",
-		"url": "http:\/\/cloud.insideidaho.org\/webApps\/util\/zip.ashx?fn=http:\/\/cloud.insideidaho.org\/data\/blm\/fireHazardRisk\/ros_blm",
+		"url": "http://cloud.insideidaho.org/webApps/util/zip.ashx?fn=http://cloud.insideidaho.org/data/blm/fireHazardRisk/ros_blm",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 1,
@@ -86,11 +86,11 @@
 	"name": "wildland-relative-rate-of-spread",
 	"isopen": false,
 	"url": null,
-	"notes": "Relative rate of spread was determined based on the estimated predominate surface fuel model as described in Anderson\u00e2\u0080\u0099s \"Aids to Determining Fuel Models for Estimating Fire Behavior (1982)\". These models (1-13) are representative of surface fuels only and key in on fuels that would be the primary carriers of wildland fire (i.e., grass, brush, timber, and logging slash). ROS values were then standardized between 0.0 and 1.0. The table below depicts how areas were rated based on fuel model FBFM Rate of Spread (Chains\/hour) 1 78 2 35 5 18 6 32 8 2 9 7 10 8",
+	"notes": "Relative rate of spread was determined based on the estimated predominate surface fuel model as described in Andersonu00e2u0080u0099s "Aids to Determining Fuel Models for Estimating Fire Behavior (1982)". These models (1-13) are representative of surface fuels only and key in on fuels that would be the primary carriers of wildland fire (i.e., grass, brush, timber, and logging slash). ROS values were then standardized between 0.0 and 1.0. The table below depicts how areas were rated based on fuel model FBFM Rate of Spread (Chains/hour) 1 78 2 35 5 18 6 32 8 2 9 7 10 8",
 	"license_title": null,
 	"extras": [{
 		"key": "responsible-party",
-		"value": "[{\"name\": \"Bureau of Land Management, Idaho State Office\", \"roles\": [\"pointOfContact\"]}]"
+		"value": "[{"name": "Bureau of Land Management, Idaho State Office", "roles": ["pointOfContact"]}]"
 	},
 	{
 		"key": "contact-email",
@@ -110,7 +110,7 @@
 	},
 	{
 		"key": "dataset-reference-date",
-		"value": "[{\"type\": \"publication\", \"value\": \"2007-01-01\"}]"
+		"value": "[{"type": "publication", "value": "2007-01-01"}]"
 	},
 	{
 		"key": "resource-type",
@@ -138,7 +138,7 @@
 	},
 	{
 		"key": "licence",
-		"value": "[\"Although these data have been processed successfully on a computer system at the Idaho Geospatial Data Clearinghouse, no warranty, expressed or implied, is made regarding the utility of the data on any other system, nor shall the act of distribution constitute any such warranty. \"]"
+		"value": "["Although these data have been processed successfully on a computer system at the Idaho Geospatial Data Clearinghouse, no warranty, expressed or implied, is made regarding the utility of the data on any other system, nor shall the act of distribution constitute any such warranty. "]"
 	},
 	{
 		"key": "metadata_type",
@@ -150,7 +150,7 @@
 	},
 	{
 		"key": "spatial",
-		"value": "{\"type\": \"Polygon\", \"coordinates\": [[[-117.673841, 41.852449], [-110.513622, 41.852449], [-110.513622, 49.128909], [-117.673841, 49.128909], [-117.673841, 41.852449]]]}"
+		"value": "{"type": "Polygon", "coordinates": [[[-117.673841, 41.852449], [-110.513622, 41.852449], [-110.513622, 49.128909], [-117.673841, 49.128909], [-117.673841, 41.852449]]]}"
 	},
 	{
 		"key": "guid",
@@ -162,7 +162,7 @@
 	},
 	{
 		"key": "access_constraints",
-		"value": "[\"Use Constraints: No warranty is made by the Bureau of Land Management as to the accuracy, reliability, or completeness of these data for individual use or aggregate use with other data. These data were designed to characterize mid-scale patterns across the state of Idaho at a scale of approximately 1:100,000. The use of these data at scales less than 1:100,000 is not recommended without field verification. This data set is provided \\\"as-is\\\" without warranty of any kind, including, but not limited to, the implied warranties of merchantability and fitness or a particular purpose. The user assumes all responsibility for the accuracy and suitability of this dataset for a specific application. In no event will the creators or USDA Forest Service be liable for any damages, including lost profits, lost savings, or other incidental or consequential damages arising from the use of or inability to use this data set. Use of these data may require the ability to read ArcInfo Grid datasets. Although the resolution of the these data is a 90-m cell, the expected accuracy does not warrant its use for geographic extents smaller than approximately 10,000 acres. That is, these data were not designed to be used for \\\"project level\\\" assessments that typically require 1:24,000 scale data.\", \"Access Constraints: Public\"]"
+		"value": "["Use Constraints: No warranty is made by the Bureau of Land Management as to the accuracy, reliability, or completeness of these data for individual use or aggregate use with other data. These data were designed to characterize mid-scale patterns across the state of Idaho at a scale of approximately 1:100,000. The use of these data at scales less than 1:100,000 is not recommended without field verification. This data set is provided \"as-is\" without warranty of any kind, including, but not limited to, the implied warranties of merchantability and fitness or a particular purpose. The user assumes all responsibility for the accuracy and suitability of this dataset for a specific application. In no event will the creators or USDA Forest Service be liable for any damages, including lost profits, lost savings, or other incidental or consequential damages arising from the use of or inability to use this data set. Use of these data may require the ability to read ArcInfo Grid datasets. Although the resolution of the these data is a 90-m cell, the expected accuracy does not warrant its use for geographic extents smaller than approximately 10,000 acres. That is, these data were not designed to be used for \"project level\" assessments that typically require 1:24,000 scale data.", "Access Constraints: Public"]"
 	},
 	{
 		"key": "spatial_harvester",
@@ -204,7 +204,7 @@
 		"revision_timestamp": "2015-01-16T18:28:14.593903",
 		"is_organization": true,
 		"state": "active",
-		"image_url": "http:\/\/upload.wikimedia.org\/wikipedia\/en\/thumb\/4\/44\/University_of_Idaho_seal.svg\/300px-University_of_Idaho_seal.svg.png",
+		"image_url": "http://upload.wikimedia.org/wikipedia/en/thumb/4/44/University_of_Idaho_seal.svg/300px-University_of_Idaho_seal.svg.png",
 		"revision_id": "761955d7-9530-4622-8609-d0b01c78e177",
 		"type": "organization",
 		"id": "75e22a8a-da5f-46f3-93d8-924063a3703d",

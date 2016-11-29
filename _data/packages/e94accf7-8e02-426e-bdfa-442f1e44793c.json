@@ -36,7 +36,7 @@
 		"cache_url": null,
 		"name": "ftp",
 		"created": "2016-04-18T15:45:52.583544",
-		"url": "ftp:\/\/tgftp.nws.noaa.gov\/SL.us008001\/DC.avspt\/DS.fipgb\/PT.grid_DF.gr1\/",
+		"url": "ftp://tgftp.nws.noaa.gov/SL.us008001/DC.avspt/DS.fipgb/PT.grid_DF.gr1/",
 		"webstore_url": null,
 		"resource_locator_function": "download",
 		"position": 0,
@@ -65,7 +65,7 @@
 		"cache_url": null,
 		"name": "http",
 		"created": "2016-04-18T15:45:52.583570",
-		"url": "http:\/\/weather.noaa.gov\/pub\/SL.us008001\/DC.avspt\/DS.fipgb\/PT.grid_DF.gr1\/",
+		"url": "http://weather.noaa.gov/pub/SL.us008001/DC.avspt/DS.fipgb/PT.grid_DF.gr1/",
 		"webstore_url": null,
 		"resource_locator_function": "download",
 		"position": 1,
@@ -94,7 +94,7 @@
 		"cache_url": null,
 		"name": "awc",
 		"created": "2016-04-18T15:45:52.583579",
-		"url": "http:\/\/www.aviationweather.gov\/icing\/fip",
+		"url": "http://www.aviationweather.gov/icing/fip",
 		"webstore_url": null,
 		"resource_locator_function": "information",
 		"position": 2,
@@ -116,7 +116,7 @@
 		"revision_timestamp": "2013-03-25T23:05:12.923863",
 		"is_organization": true,
 		"state": "active",
-		"image_url": "https:\/\/fortress.wa.gov\/dfw\/score\/score\/images\/noaa_logo.png",
+		"image_url": "https://fortress.wa.gov/dfw/score/score/images/noaa_logo.png",
 		"revision_id": "c6d43080-22e1-405e-a83d-f2a512d9e867",
 		"type": "organization",
 		"id": "e811f0b4-451f-4896-9e8f-fc6802837819",
@@ -151,7 +151,7 @@
 	},
 	{
 		"key": "dataset-reference-date",
-		"value": "[{\"type\": \"creation\", \"value\": \"2014-02-28\"}]"
+		"value": "[{"type": "creation", "value": "2014-02-28"}]"
 	},
 	{
 		"key": "resource-type",
@@ -191,7 +191,7 @@
 	},
 	{
 		"key": "spatial",
-		"value": "{\"type\": \"Polygon\", \"coordinates\": [[[-139.856, 16.281], [-57.383, 16.281], [-57.383, 58.366], [-139.856, 58.366], [-139.856, 16.281]]]}"
+		"value": "{"type": "Polygon", "coordinates": [[[-139.856, 16.281], [-57.383, 16.281], [-57.383, 58.366], [-139.856, 58.366], [-139.856, 16.281]]]}"
 	},
 	{
 		"key": "guid",
@@ -215,7 +215,7 @@
 	},
 	{
 		"key": "tags",
-		"value": "doc\/noaa\/nws\/toc\/nwstg, fip, icing, probability, y(ax|aw|lx)[bcdgjm][0-9][0-9] kkci, graphical, none, riming, doc\/noaa\/nws\/ncep\/awc, accretion, hazard, sld, cloud droplet concentration\/size, supercooled liquid droplets, potential, severity",
+		"value": "doc/noaa/nws/toc/nwstg, fip, icing, probability, y(ax|aw|lx)[bcdgjm][0-9][0-9] kkci, graphical, none, riming, doc/noaa/nws/ncep/awc, accretion, hazard, sld, cloud droplet concentration/size, supercooled liquid droplets, potential, severity",
 		"__extras": {
 			"revision_id": "d71110eb-9906-4eaa-9333-37a56bf6550b",
 			"package_id": "e94accf7-8e02-426e-bdfa-442f1e44793c"

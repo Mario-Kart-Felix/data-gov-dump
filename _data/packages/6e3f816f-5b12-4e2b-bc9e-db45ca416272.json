@@ -36,7 +36,7 @@
 		"cache_url": null,
 		"name": "Shapefile Zip File",
 		"created": "2016-10-05T08:15:07.032804",
-		"url": "http:\/\/www2.census.gov\/geo\/tiger\/TIGER2016\/FACESAL",
+		"url": "http://www2.census.gov/geo/tiger/TIGER2016/FACESAL",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 0,
@@ -53,7 +53,7 @@
 		"state": "active",
 		"last_modified": null,
 		"hash": "",
-		"description": "Should be used for most mapping projects--this is our most comprehensive dataset. Designed for use with GIS (geographic\n                                             information systems).",
+		"description": "Should be used for most mapping projects--this is our most comprehensive dataset. Designed for use with GIS (geographicn                                             information systems).",
 		"format": "HTML",
 		"tracking_summary": {
 			"total": 0,
@@ -63,9 +63,9 @@
 		"resource_locator_protocol": "",
 		"mimetype": null,
 		"cache_url": null,
-		"name": "TIGER\/Line\u00ae Shapefiles",
+		"name": "TIGER/Lineu00ae Shapefiles",
 		"created": "2016-10-05T08:15:07.032840",
-		"url": "http:\/\/www.census.gov\/geo\/maps-data\/data\/tiger-line.html",
+		"url": "http://www.census.gov/geo/maps-data/data/tiger-line.html",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 1,
@@ -94,7 +94,7 @@
 		"cache_url": null,
 		"name": "Entity and Attribute File for the 2016 Topological Faces-Area Landmark State-based Relationship File",
 		"created": "2016-10-05T08:15:07.032849",
-		"url": "http:\/\/meta.geo.census.gov\/data\/existing\/decennial\/GEO\/GPMB\/TIGERline\/TIGER2016\/arealm\/tl_2016_arealm.shp.ea.iso.xml",
+		"url": "http://meta.geo.census.gov/data/existing/decennial/GEO/GPMB/TIGERline/TIGER2016/arealm/tl_2016_arealm.shp.ea.iso.xml",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 2,
@@ -103,7 +103,7 @@
 	}],
 	"num_resources": 3,
 	"tags": [],
-	"title": "TIGER\/Line Shapefile,  2016, Series Information for the   Topological Faces-Area Landmark State-based Relationship File",
+	"title": "TIGER/Line Shapefile,  2016, Series Information for the   Topological Faces-Area Landmark State-based Relationship File",
 	"tracking_summary": {
 		"total": 3,
 		"recent": 1
@@ -114,7 +114,7 @@
 	"name": "tiger-line-shapefile-2016-series-information-for-the-topological-faces-area-landmark-state-bas",
 	"isopen": false,
 	"url": null,
-	"notes": "The TIGER\/Line shapefiles and related database files (.dbf) are an extract of selected geographic and cartographic information from the\n                                 U.S. Census Bureau's Master Address File \/ Topologically Integrated Geographic Encoding and Referencing (MAF\/TIGER) Database (MTDB).\n                                 The MTDB represents a seamless national file with no overlaps or gaps between parts, however, each TIGER\/Line shapefile is designed to\n                                 stand alone as an independent data set, or they can be combined to cover the entire nation.\n\n                                 The Topological Faces \/ Area Landmark Relationship File (FACESAL.dbf) contains a record for each face \/ area landmark relationship.\n                                 Face refers to the areal (polygon) topological primitives that make up MTDB.  A face is bounded by one or more edges; its boundary\n                                 includes only the edges that separate it from other faces, not any interior edges contained within the area of the face.  The face to\n                                 which a record in the Topological Faces \/ Area Landmark Relationship File (FACESAL.dbf) applies can be determined by linking to the\n                                 Topological Faces Shapefile (FACES.shp) on the permanent topological face identifier (TFID) attribute.  The area landmark to which a\n                                 record in the Topological Faces \/ Area Landmark Relationship File (FACESAL.dbf) applies can be determined by linking to the Area\n                                 Landmark Shapefile (AREALM.shp) on the area landmark identifier (AREAID) attribute.  A face may be part of multiple area landmarks.\n                                 An area landmark may consist of multiple faces.\n            ",
+	"notes": "The TIGER/Line shapefiles and related database files (.dbf) are an extract of selected geographic and cartographic information from then                                 U.S. Census Bureau's Master Address File / Topologically Integrated Geographic Encoding and Referencing (MAF/TIGER) Database (MTDB).n                                 The MTDB represents a seamless national file with no overlaps or gaps between parts, however, each TIGER/Line shapefile is designed ton                                 stand alone as an independent data set, or they can be combined to cover the entire nation.nn                                 The Topological Faces / Area Landmark Relationship File (FACESAL.dbf) contains a record for each face / area landmark relationship.n                                 Face refers to the areal (polygon) topological primitives that make up MTDB.  A face is bounded by one or more edges; its boundaryn                                 includes only the edges that separate it from other faces, not any interior edges contained within the area of the face.  The face ton                                 which a record in the Topological Faces / Area Landmark Relationship File (FACESAL.dbf) applies can be determined by linking to then                                 Topological Faces Shapefile (FACES.shp) on the permanent topological face identifier (TFID) attribute.  The area landmark to which an                                 record in the Topological Faces / Area Landmark Relationship File (FACESAL.dbf) applies can be determined by linking to the Arean                                 Landmark Shapefile (AREALM.shp) on the area landmark identifier (AREAID) attribute.  A face may be part of multiple area landmarks.n                                 An area landmark may consist of multiple faces.n            ",
 	"license_title": null,
 	"extras": [{
 		"key": "bbox-east-long",
@@ -138,7 +138,7 @@
 	},
 	{
 		"key": "dataset-reference-date",
-		"value": "[{\"type\": \"publication\", \"value\": \"2016\"}]"
+		"value": "[{"type": "publication", "value": "2016"}]"
 	},
 	{
 		"key": "resource-type",
@@ -178,7 +178,7 @@
 	},
 	{
 		"key": "spatial",
-		"value": "{\"type\": \"Polygon\", \"coordinates\": [[[-179.231086, -14.601813], [179.859681, -14.601813], [179.859681, 71.441059], [-179.231086, 71.441059], [-179.231086, -14.601813]]]}"
+		"value": "{"type": "Polygon", "coordinates": [[[-179.231086, -14.601813], [179.859681, -14.601813], [179.859681, 71.441059], [-179.231086, 71.441059], [-179.231086, -14.601813]]]}"
 	},
 	{
 		"key": "guid",
@@ -190,7 +190,7 @@
 	},
 	{
 		"key": "access_constraints",
-		"value": "[\" Access Constraints: None\", \" Use Constraints:The TIGER\/Line Shapefile products are not copyrighted however TIGER\/Line and Census TIGER are registered\\n                                        trademarks of the U.S. Census Bureau.  These products are free to use in a product or publication, however acknowledgement must\\n                                        be given to the U.S. Census Bureau as the source.\"]"
+		"value": "[" Access Constraints: None", " Use Constraints:The TIGER/Line Shapefile products are not copyrighted however TIGER/Line and Census TIGER are registered\n                                        trademarks of the U.S. Census Bureau.  These products are free to use in a product or publication, however acknowledgement must\n                                        be given to the U.S. Census Bureau as the source."]"
 	},
 	{
 		"key": "spatial_harvester",
@@ -232,7 +232,7 @@
 		"revision_timestamp": "2013-08-29T13:37:04.171127",
 		"is_organization": true,
 		"state": "active",
-		"image_url": "http:\/\/www.census.gov\/main\/img\/home\/CensusLogo-white.png",
+		"image_url": "http://www.census.gov/main/img/home/CensusLogo-white.png",
 		"revision_id": "0995f525-d563-4254-a535-af5b926fe663",
 		"type": "organization",
 		"id": "31c49abe-512a-412a-9cc7-5b2601325d6b",

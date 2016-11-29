@@ -36,7 +36,7 @@
 		"cache_url": null,
 		"name": "zip",
 		"created": "2016-08-16T14:12:02.676258",
-		"url": "http:\/\/USGS Alaska Science Center data distribution site",
+		"url": "http://USGS Alaska Science Center data distribution site",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 0,
@@ -66,7 +66,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2016-08-16T14:12:02.676281",
-		"url": "http:\/\/dx.doi.org\/10.5066\/F7H70CXB",
+		"url": "http://dx.doi.org/10.5066/F7H70CXB",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 1,
@@ -96,7 +96,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2016-08-16T14:12:02.676290",
-		"url": "http:\/\/alaska.usgs.gov\/portal\/project.php?project_id=383",
+		"url": "http://alaska.usgs.gov/portal/project.php?project_id=383",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 2,
@@ -126,7 +126,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2016-08-16T14:12:02.676298",
-		"url": "http:\/\/www.fishcreekwatershed.org\/",
+		"url": "http://www.fishcreekwatershed.org/",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 3,
@@ -146,7 +146,7 @@
 	"name": "fish-creek-watershed-lake-classification-npra-alaska-2016",
 	"isopen": false,
 	"url": null,
-	"notes": "This study focuses on the development of a 20 attribute lake cover classification scheme for the Fish Creek Watershed (FCW), which is located in the National Petroleum Reserve-Alaska (NPR-A). The GIS dataset consists of 4,362 lakes (which were extracted from a 5m resolution IfSAR\/orthophoto image) covering 18% of the 4,900 km2 FCW and provides information on lake morphometry, hydrologic connectivity, surface area dynamics, surrounding terrestrial ecotypes, and other important aquatic conditions. The FCW lake cover classification scheme provides lake specific information for an arctic watershed that will guide research and aid in the management of the natural and human-modified environment.",
+	"notes": "This study focuses on the development of a 20 attribute lake cover classification scheme for the Fish Creek Watershed (FCW), which is located in the National Petroleum Reserve-Alaska (NPR-A). The GIS dataset consists of 4,362 lakes (which were extracted from a 5m resolution IfSAR/orthophoto image) covering 18% of the 4,900 km2 FCW and provides information on lake morphometry, hydrologic connectivity, surface area dynamics, surrounding terrestrial ecotypes, and other important aquatic conditions. The FCW lake cover classification scheme provides lake specific information for an arctic watershed that will guide research and aid in the management of the natural and human-modified environment.",
 	"license_title": null,
 	"extras": [{
 		"key": "bbox-east-long",
@@ -182,7 +182,7 @@
 	},
 	{
 		"key": "spatial",
-		"value": "{\"type\": \"Polygon\", \"coordinates\": [[[-154.304460547, 69.489111261], [-151.105080958, 69.489111261], [-151.105080958, 70.433605596], [-154.304460547, 70.433605596], [-154.304460547, 69.489111261]]]}"
+		"value": "{"type": "Polygon", "coordinates": [[[-154.304460547, 69.489111261], [-151.105080958, 69.489111261], [-151.105080958, 70.433605596], [-154.304460547, 70.433605596], [-154.304460547, 69.489111261]]]}"
 	},
 	{
 		"key": "progress",
@@ -190,7 +190,7 @@
 	},
 	{
 		"key": "access_constraints",
-		"value": "[\"Use Constraints: It is requested that the authors and the USGS Alaska Science Center be cited for any subsequent publications that reference this dataset. It is strongly recommended that careful attention be paid to the contents of the metadata file associated with these data to evaluate data set limitations, restrictions or intended use.\", \"Access Constraints: none\"]"
+		"value": "["Use Constraints: It is requested that the authors and the USGS Alaska Science Center be cited for any subsequent publications that reference this dataset. It is strongly recommended that careful attention be paid to the contents of the metadata file associated with these data to evaluate data set limitations, restrictions or intended use.", "Access Constraints: none"]"
 	},
 	{
 		"key": "temporal-extent-begin",
@@ -210,7 +210,7 @@
 	},
 	{
 		"key": "dataset-reference-date",
-		"value": "[{\"type\": \"publication\", \"value\": \"2016-01-01\"}]"
+		"value": "[{"type": "publication", "value": "2016-01-01"}]"
 	},
 	{
 		"key": "frequency-of-update",
@@ -218,7 +218,7 @@
 	},
 	{
 		"key": "licence",
-		"value": "[\"Unless otherwise stated, all data, metadata and related materials are considered to satisfy the quality standards relative to the purpose for which the data were collected. Although these data and associated metadata have been reviewed for accuracy and completeness and approved for release by the U.S. Geological Survey (USGS), no warranty expressed or implied is made regarding the display or utility of the data on any other system or for general or scientific purposes, nor shall the act of distribution constitute any such warranty.\"]"
+		"value": "["Unless otherwise stated, all data, metadata and related materials are considered to satisfy the quality standards relative to the purpose for which the data were collected. Although these data and associated metadata have been reviewed for accuracy and completeness and approved for release by the U.S. Geological Survey (USGS), no warranty expressed or implied is made regarding the display or utility of the data on any other system or for general or scientific purposes, nor shall the act of distribution constitute any such warranty."]"
 	},
 	{
 		"key": "metadata_type",
@@ -226,7 +226,7 @@
 	},
 	{
 		"key": "responsible-party",
-		"value": "[{\"name\": \"U.S. Geological Survey, Alaska Science Center\", \"roles\": [\"pointOfContact\"]}]"
+		"value": "[{"name": "U.S. Geological Survey, Alaska Science Center", "roles": ["pointOfContact"]}]"
 	},
 	{
 		"key": "temporal-extent-end",
@@ -242,7 +242,7 @@
 	},
 	{
 		"package_id": "6d689327-4ec7-4f0f-b0df-a6f85758ff45",
-		"value": "stream, ecological dynamics, watershed\/drainage basin, climate change impact assessment models, earth science services, landscape, earth science, aquatic ecosystems, ublutuoch river, fish creek, land surface, environmental governance\/management, human dimensions, fluvial landforms, models, lakes, data analysis and visualization, geographic information systems, biosphere, land use\/land cover classification, land management, geomorphic landforms\/processes, judy creek",
+		"value": "stream, ecological dynamics, watershed/drainage basin, climate change impact assessment models, earth science services, landscape, earth science, aquatic ecosystems, ublutuoch river, fish creek, land surface, environmental governance/management, human dimensions, fluvial landforms, models, lakes, data analysis and visualization, geographic information systems, biosphere, land use/land cover classification, land management, geomorphic landforms/processes, judy creek",
 		"revision_timestamp": "2016-08-16T18:12:02.111292",
 		"state": "active",
 		"key": "tags",
@@ -265,14 +265,14 @@
 		"value": "Alaska Science Center"
 	}],
 	"organization": {
-		"description": "http:\/\/www.usgs.gov\/\r\nThe USGS is a federal science agency that provides impartial information on the health of our ecosystems and environment, the natural hazards that threaten us, the natural resources we rely on, the impacts of climate and land-use change, and the core science systems that help us provide timely, relevant, and useable information.",
+		"description": "http://www.usgs.gov/rnThe USGS is a federal science agency that provides impartial information on the health of our ecosystems and environment, the natural hazards that threaten us, the natural resources we rely on, the impacts of climate and land-use change, and the core science systems that help us provide timely, relevant, and useable information.",
 		"created": "2013-03-14T03:44:38.263357",
 		"title": "U.S. Geological Survey, Department of the Interior",
 		"name": "usgs-gov",
 		"revision_timestamp": "2014-09-02T13:43:52.167023",
 		"is_organization": true,
 		"state": "active",
-		"image_url": "http:\/\/pubs.usgs.gov\/sir\/2004\/5296\/04-5296_confluence_park\/usgs_logo.gif",
+		"image_url": "http://pubs.usgs.gov/sir/2004/5296/04-5296_confluence_park/usgs_logo.gif",
 		"revision_id": "2858aa99-9501-4f96-82e5-9647b968ed66",
 		"type": "organization",
 		"id": "bd2cdd5a-4d65-46c0-9937-c8381175f104",

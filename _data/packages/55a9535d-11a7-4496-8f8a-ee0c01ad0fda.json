@@ -37,7 +37,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2016-05-31T04:18:25.137448",
-		"url": "https:\/\/coast.noaa.gov\/dataviewer\/#\/lidar\/search\/where:ID=65",
+		"url": "https://coast.noaa.gov/dataviewer/#/lidar/search/where:ID=65",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 0,
@@ -67,7 +67,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2016-05-31T04:18:25.137487",
-		"url": "https:\/\/coast.noaa.gov\/htdata\/lidar1_z\/geoid12a\/data\/65",
+		"url": "https://coast.noaa.gov/htdata/lidar1_z/geoid12a/data/65",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 1,
@@ -97,7 +97,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2016-05-31T04:18:25.137509",
-		"url": "https:\/\/coast.noaa.gov\/dataviewer",
+		"url": "https://coast.noaa.gov/dataviewer",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 2,
@@ -127,7 +127,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2016-05-31T04:18:25.137522",
-		"url": "https:\/\/coast.noaa.gov",
+		"url": "https://coast.noaa.gov",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 3,
@@ -147,11 +147,11 @@
 	"name": "2006-southwest-florida-water-management-district-swfwmd-lidar-north-district",
 	"isopen": false,
 	"url": null,
-	"notes": "This data set is one component of a digital terrain model (DTM) for the Southwest Florida Water Management District's FY2006 Digital Orthophoto (B089) and LiDAR Project (L470\/L471), encompassing approximately 1,216 square miles across Citrus and Sumter counties. The 2006 LiDAR dataset is comprised of 3-D masspoints delivered in the LAS file format based on the District's 5,000' by 5,000' grid (1,356 cells). The other DTM component is 2-D and 3-D breakline features in the ESRI ArcGIS Personal Geodatabase format. In accordance with the 2006 SWFWMD Topographic Database Design, the following breakline features are contained within the database: closed water bodies (lakes, reservoirs, etc) as 3-D polygons; linear hydrographic features (streams, canals, swales, embankments, etc) as 3-D breaklines; coastal shorelines as 3-D linear features; edge of pavement road features as 3-D breakines; soft features (ridges, valleys, etc.) as 3-D breaklines; obscured vegetation polygons as 2-D polygons; overpasses and bridges as 3-D breaklines; 1-foot contours for visualization purposes; and island features as 3-D polygons. This data falls in Citrus and Sumter Counties. Intensity values, or the measure of reflectance of the laser are also captured. Breakline features were captured to develop a hydrologically correct DTM. Contours (1-foot) were generated from the DTM that meet the National Map Accuracy Standards for 2-foot contours (FEMA specifications). Bare earth LiDAR masspoint data display a vertical accuracy of at least 0.3-feet root mean square error (RMSE) in open unobscured areas",
+	"notes": "This data set is one component of a digital terrain model (DTM) for the Southwest Florida Water Management District's FY2006 Digital Orthophoto (B089) and LiDAR Project (L470/L471), encompassing approximately 1,216 square miles across Citrus and Sumter counties. The 2006 LiDAR dataset is comprised of 3-D masspoints delivered in the LAS file format based on the District's 5,000' by 5,000' grid (1,356 cells). The other DTM component is 2-D and 3-D breakline features in the ESRI ArcGIS Personal Geodatabase format. In accordance with the 2006 SWFWMD Topographic Database Design, the following breakline features are contained within the database: closed water bodies (lakes, reservoirs, etc) as 3-D polygons; linear hydrographic features (streams, canals, swales, embankments, etc) as 3-D breaklines; coastal shorelines as 3-D linear features; edge of pavement road features as 3-D breakines; soft features (ridges, valleys, etc.) as 3-D breaklines; obscured vegetation polygons as 2-D polygons; overpasses and bridges as 3-D breaklines; 1-foot contours for visualization purposes; and island features as 3-D polygons. This data falls in Citrus and Sumter Counties. Intensity values, or the measure of reflectance of the laser are also captured. Breakline features were captured to develop a hydrologically correct DTM. Contours (1-foot) were generated from the DTM that meet the National Map Accuracy Standards for 2-foot contours (FEMA specifications). Bare earth LiDAR masspoint data display a vertical accuracy of at least 0.3-feet root mean square error (RMSE) in open unobscured areas",
 	"license_title": null,
 	"extras": [{
 		"key": "responsible-party",
-		"value": "[{\"name\": \"Southwest Florida Water Management District\", \"roles\": [\"pointOfContact\"]}]"
+		"value": "[{"name": "Southwest Florida Water Management District", "roles": ["pointOfContact"]}]"
 	},
 	{
 		"key": "contact-email",
@@ -171,7 +171,7 @@
 	},
 	{
 		"key": "dataset-reference-date",
-		"value": "[{\"type\": \"publication\", \"value\": \"2007-01-05\"}]"
+		"value": "[{"type": "publication", "value": "2007-01-05"}]"
 	},
 	{
 		"key": "resource-type",
@@ -199,7 +199,7 @@
 	},
 	{
 		"key": "licence",
-		"value": "[\"\\nAny conclusions drawn for the analysis of this information are not the\\nresponsibility of the Office for Coastal Management or it's partners.\\n\"]"
+		"value": "["\nAny conclusions drawn for the analysis of this information are not the\nresponsibility of the Office for Coastal Management or it's partners.\n"]"
 	},
 	{
 		"key": "metadata_type",
@@ -211,7 +211,7 @@
 	},
 	{
 		"key": "spatial",
-		"value": "{\"type\": \"Polygon\", \"coordinates\": [[[-82.73904, 28.29512], [-81.9411, 28.29512], [-81.9411, 29.06432], [-82.73904, 29.06432], [-82.73904, 28.29512]]]}"
+		"value": "{"type": "Polygon", "coordinates": [[[-82.73904, 28.29512], [-81.9411, 28.29512], [-81.9411, 29.06432], [-82.73904, 29.06432], [-82.73904, 28.29512]]]}"
 	},
 	{
 		"key": "guid",
@@ -223,7 +223,7 @@
 	},
 	{
 		"key": "access_constraints",
-		"value": "[\"Use Constraints: Users should be aware that temporal changes may have occurred since this data was collected and some parts of this data may no longer represent actual surface conditions. Users should not use this data for critical applications without a full awareness of it's limitations.\", \"Access Constraints: None\"]"
+		"value": "["Use Constraints: Users should be aware that temporal changes may have occurred since this data was collected and some parts of this data may no longer represent actual surface conditions. Users should not use this data for critical applications without a full awareness of it's limitations.", "Access Constraints: None"]"
 	},
 	{
 		"key": "spatial_harvester",
@@ -235,7 +235,7 @@
 	},
 	{
 		"package_id": "55a9535d-11a7-4496-8f8a-ee0c01ad0fda",
-		"value": "elevation, sumter county, florida, topography\/bathymetry, terrain, surface, lidar, united states, citrus county, laser, model",
+		"value": "elevation, sumter county, florida, topography/bathymetry, terrain, surface, lidar, united states, citrus county, laser, model",
 		"revision_timestamp": "2015-09-27T02:42:19.353424",
 		"state": "active",
 		"key": "tags",
@@ -265,7 +265,7 @@
 		"revision_timestamp": "2013-03-25T23:05:12.923863",
 		"is_organization": true,
 		"state": "active",
-		"image_url": "https:\/\/fortress.wa.gov\/dfw\/score\/score\/images\/noaa_logo.png",
+		"image_url": "https://fortress.wa.gov/dfw/score/score/images/noaa_logo.png",
 		"revision_id": "c6d43080-22e1-405e-a83d-f2a512d9e867",
 		"type": "organization",
 		"id": "e811f0b4-451f-4896-9e8f-fc6802837819",

@@ -30,11 +30,11 @@
 			"recent": 0
 		},
 		"mimetype_inner": null,
-		"mimetype": "application\/pdf",
+		"mimetype": "application/pdf",
 		"cache_url": null,
 		"name": "map of waverider deployment locations.pdf",
 		"created": "2016-04-27T21:27:06.434769",
-		"url": "http:\/\/mhkdr.openei.org\/files\/54\/Deployment_Map.pdf",
+		"url": "http://mhkdr.openei.org/files/54/Deployment_Map.pdf",
 		"webstore_url": null,
 		"last_modified": null,
 		"position": 0,
@@ -57,11 +57,11 @@
 			"recent": 0
 		},
 		"mimetype_inner": null,
-		"mimetype": "application\/zip",
+		"mimetype": "application/zip",
 		"cache_url": null,
 		"name": "waverider buoy data and manuals.zip",
 		"created": "2016-04-27T21:27:06.434778",
-		"url": "http:\/\/mhkdr.openei.org\/files\/54\/DOE_data.zip",
+		"url": "http://mhkdr.openei.org/files/54/DOE_data.zip",
 		"webstore_url": null,
 		"last_modified": null,
 		"position": 1,
@@ -224,7 +224,7 @@
 	"name": "university-of-massachusetts-marine-renewable-energy-center-waverider-bouy-data",
 	"isopen": true,
 	"url": null,
-	"notes": "The compressed (.zip) file contains Datawell MK-III Directional Waverider binary and unpacked data files as well as a description of the data and manuals for the instrumentation. The data files are contained in the two directories within the zip file, ''Apr_July_2012'' and ''Jun_Sept_2013''. Time series and summary data were recorded in the buoy to binary files with extensions '.RDT' and '.SDT', respectively. These are located in the subdirectories 'Data_Raw' in each of the\ntop-level deployment directories. '.RDT' files contain 3 days of time series (at 1.28 Hz) in 30 minute \"bursts\". Each '.SDT' file contains summary statistics for the month indicated computed at half-hour intervals for each burst. Each deployment directory also contains a description (in 'File.list') of the Datawell binary data files, and a figure ('Hs_vs_yearday') showing the significant wave height associated with each .RDT file (decoded from the filename).  The corresponding unpacked Matlab .mat files are contained in the subdirectories 'Data_Mat'. These files have the extension '.mat' but use the root filename of the source .RDT and .SDT files.",
+	"notes": "The compressed (.zip) file contains Datawell MK-III Directional Waverider binary and unpacked data files as well as a description of the data and manuals for the instrumentation. The data files are contained in the two directories within the zip file, ''Apr_July_2012'' and ''Jun_Sept_2013''. Time series and summary data were recorded in the buoy to binary files with extensions '.RDT' and '.SDT', respectively. These are located in the subdirectories 'Data_Raw' in each of thentop-level deployment directories. '.RDT' files contain 3 days of time series (at 1.28 Hz) in 30 minute "bursts". Each '.SDT' file contains summary statistics for the month indicated computed at half-hour intervals for each burst. Each deployment directory also contains a description (in 'File.list') of the Datawell binary data files, and a figure ('Hs_vs_yearday') showing the significant wave height associated with each .RDT file (decoded from the filename).  The corresponding unpacked Matlab .mat files are contained in the subdirectories 'Data_Mat'. These files have the extension '.mat' but use the root filename of the source .RDT and .SDT files.",
 	"license_title": "Creative Commons Attribution",
 	"extras": [{
 		"key": "harvest_source_id",
@@ -248,23 +248,23 @@
 	},
 	{
 		"key": "spatial",
-		"value": "{\"type\":\"Polygon\",\"coordinates\":[[[-70.57591796875,40.933402366838],[-70.06408203125,40.933402366838],[-70.06408203125,41.334752405083],[-70.57591796875,41.334752405083],[-70.57591796875,40.933402366838]]]}"
+		"value": "{"type":"Polygon","coordinates":[[[-70.57591796875,40.933402366838],[-70.06408203125,40.933402366838],[-70.06408203125,41.334752405083],[-70.57591796875,41.334752405083],[-70.57591796875,40.933402366838]]]}"
 	},
 	{
 		"key": "catalog_conformsTo",
-		"value": "https:\/\/project-open-data.cio.gov\/v1.1\/schema"
+		"value": "https://project-open-data.cio.gov/v1.1/schema"
 	},
 	{
 		"key": "catalog_@context",
-		"value": "https:\/\/project-open-data.cio.gov\/v1.1\/schema\/catalog.jsonld"
+		"value": "https://project-open-data.cio.gov/v1.1/schema/catalog.jsonld"
 	},
 	{
 		"key": "catalog_describedBy",
-		"value": "https:\/\/project-open-data.cio.gov\/v1.1\/schema\/catalog.json"
+		"value": "https://project-open-data.cio.gov/v1.1/schema/catalog.json"
 	},
 	{
 		"key": "format",
-		"value": "application\/unknown"
+		"value": "application/unknown"
 	},
 	{
 		"key": "harvest_source_title",
@@ -284,7 +284,7 @@
 	},
 	{
 		"key": "landingPage",
-		"value": "http:\/\/mhkdr.openei.org\/submissions\/54"
+		"value": "http://mhkdr.openei.org/submissions/54"
 	},
 	{
 		"key": "harvest_object_id",
@@ -292,7 +292,7 @@
 	},
 	{
 		"key": "accessURL",
-		"value": "http:\/\/mhkdr.openei.org\/files\/54\/DOE_data.zip"
+		"value": "http://mhkdr.openei.org/files/54/DOE_data.zip"
 	},
 	{
 		"key": "publisher",
@@ -300,7 +300,7 @@
 	},
 	{
 		"key": "license",
-		"value": "https:\/\/creativecommons.org\/licenses\/by\/4.0\/"
+		"value": "https://creativecommons.org/licenses/by/4.0/"
 	},
 	{
 		"key": "modified",
@@ -316,7 +316,7 @@
 	},
 	{
 		"key": "identifier",
-		"value": "http:\/\/en.openei.org\/doe-opendata\/dataset\/f0000000-e214-4b72-acd2-000000000054"
+		"value": "http://en.openei.org/doe-opendata/dataset/f0000000-e214-4b72-acd2-000000000054"
 	},
 	{
 		"state": "active",
@@ -333,7 +333,7 @@
 		"key": "harvest_source_title",
 		"value": "Energy JSON"
 	}],
-	"license_url": "http:\/\/www.opendefinition.org\/licenses\/cc-by",
+	"license_url": "http://www.opendefinition.org/licenses/cc-by",
 	"organization": {
 		"description": "",
 		"created": "2013-05-18T11:31:21.471948",
@@ -342,7 +342,7 @@
 		"revision_timestamp": "2013-05-31T20:48:37.771905",
 		"is_organization": true,
 		"state": "active",
-		"image_url": "http:\/\/energy.gov\/sites\/prod\/files\/styles\/imagelink\/public\/DoE-Logo.jpeg",
+		"image_url": "http://energy.gov/sites/prod/files/styles/imagelink/public/DoE-Logo.jpeg",
 		"revision_id": "14e1d3c1-4cc7-460c-bf1c-b10e3429b4b0",
 		"type": "organization",
 		"id": "735d0118-b2a7-4246-a0e3-608b0fa8d1ec",

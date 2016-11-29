@@ -36,7 +36,7 @@
 		"cache_url": null,
 		"name": "MADIS",
 		"created": "2016-04-18T15:30:45.796668",
-		"url": "https:\/\/madis.ncep.noaa.gov\/madis_api.shtml",
+		"url": "https://madis.ncep.noaa.gov/madis_api.shtml",
 		"webstore_url": null,
 		"resource_locator_function": "information",
 		"position": 0,
@@ -65,7 +65,7 @@
 		"cache_url": null,
 		"name": "USWX Schema",
 		"created": "2016-04-18T15:30:45.796692",
-		"url": "http:\/\/nws.weather.gov\/schemas\/USWX\/1.0\/",
+		"url": "http://nws.weather.gov/schemas/USWX/1.0/",
 		"webstore_url": null,
 		"resource_locator_function": "download",
 		"position": 1,
@@ -85,7 +85,7 @@
 	"name": "madis-mesonet-product",
 	"isopen": false,
 	"url": null,
-	"notes": "In 2006 Congress provided funding to establish \"UrbaNet\", a surface network designed to explore the use of using integrated commercial and government meteorological data in forecasting within the complex topology of the urban environment. These observations are provided in support of homeland security, emergency management, dispersion modeling, and general forecasting applications. In 2010, in response to recommendations from the National Academy of Sciences (NAS) in their 2008 report Observing Weather and Climate From the Ground Up: A Nationwide Network of Networks, and subsequent Congressional directives, NOAA established funding to expand UrbaNet into the \"National Mesonet\".",
+	"notes": "In 2006 Congress provided funding to establish "UrbaNet", a surface network designed to explore the use of using integrated commercial and government meteorological data in forecasting within the complex topology of the urban environment. These observations are provided in support of homeland security, emergency management, dispersion modeling, and general forecasting applications. In 2010, in response to recommendations from the National Academy of Sciences (NAS) in their 2008 report Observing Weather and Climate From the Ground Up: A Nationwide Network of Networks, and subsequent Congressional directives, NOAA established funding to expand UrbaNet into the "National Mesonet".",
 	"license_title": null,
 	"extras": [{
 		"key": "bbox-east-long",
@@ -109,7 +109,7 @@
 	},
 	{
 		"key": "dataset-reference-date",
-		"value": "[{\"type\": \"creation\", \"value\": \"2016-02-26\"}]"
+		"value": "[{"type": "creation", "value": "2016-02-26"}]"
 	},
 	{
 		"key": "resource-type",
@@ -149,7 +149,7 @@
 	},
 	{
 		"key": "spatial",
-		"value": "{\"type\": \"Polygon\", \"coordinates\": [[[-180.0, -90.0], [180.0, -90.0], [180.0, 90.0], [-180.0, 90.0], [-180.0, -90.0]]]}"
+		"value": "{"type": "Polygon", "coordinates": [[[-180.0, -90.0], [180.0, -90.0], [180.0, 90.0], [-180.0, 90.0], [-180.0, -90.0]]]}"
 	},
 	{
 		"key": "guid",
@@ -173,7 +173,7 @@
 	},
 	{
 		"package_id": "c1ff4d72-0450-418c-9dfb-273219d34ced",
-		"value": "wind_speed, present weather, doc\/noaa\/nesdis\/ncei, wind_gust, doc\/noaa\/ncep\/nco, wind_direction, wind direction, air temperature, wind speed\/wind direction, terrain elevation, latitude, sea_level_pressure, doc\/noaa\/oar\/esrl\/gsd, air_temperature, longitude, sea level pressure, none, wind gust, dewpoint_temperature, wind speed",
+		"value": "wind_speed, present weather, doc/noaa/nesdis/ncei, wind_gust, doc/noaa/ncep/nco, wind_direction, wind direction, air temperature, wind speed/wind direction, terrain elevation, latitude, sea_level_pressure, doc/noaa/oar/esrl/gsd, air_temperature, longitude, sea level pressure, none, wind gust, dewpoint_temperature, wind speed",
 		"revision_timestamp": "2016-04-18T19:30:45.558036",
 		"state": "active",
 		"key": "tags",
@@ -203,7 +203,7 @@
 		"revision_timestamp": "2013-03-25T23:05:12.923863",
 		"is_organization": true,
 		"state": "active",
-		"image_url": "https:\/\/fortress.wa.gov\/dfw\/score\/score\/images\/noaa_logo.png",
+		"image_url": "https://fortress.wa.gov/dfw/score/score/images/noaa_logo.png",
 		"revision_id": "c6d43080-22e1-405e-a83d-f2a512d9e867",
 		"type": "organization",
 		"id": "e811f0b4-451f-4896-9e8f-fc6802837819",

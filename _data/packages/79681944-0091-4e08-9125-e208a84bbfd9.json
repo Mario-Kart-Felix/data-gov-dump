@@ -37,7 +37,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2015-09-26T20:58:41.482959",
-		"url": "ftp:\/\/sidads.colorado.edu\/pub\/DATASETS\/NOAA\/G01358\/",
+		"url": "ftp://sidads.colorado.edu/pub/DATASETS/NOAA/G01358/",
 		"webstore_url": null,
 		"resource_locator_function": "function",
 		"position": 0,
@@ -67,7 +67,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2015-09-26T20:58:41.482982",
-		"url": "http:\/\/nsidc.org\/data\/docs\/noaa\/g01358_arctic_ocean_drift_tracks\/index.html",
+		"url": "http://nsidc.org/data/docs/noaa/g01358_arctic_ocean_drift_tracks/index.html",
 		"webstore_url": null,
 		"resource_locator_function": "function",
 		"position": 1,
@@ -85,7 +85,7 @@
 		"last_modified": null,
 		"hash": "",
 		"description": "",
-		"format": "application\/vnd.lotus-organizer",
+		"format": "application/vnd.lotus-organizer",
 		"tracking_summary": {
 			"total": 85,
 			"recent": 4
@@ -97,7 +97,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2015-09-26T20:58:41.482991",
-		"url": "http:\/\/nsidc.org",
+		"url": "http://nsidc.org",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 2,
@@ -127,7 +127,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2015-09-26T20:58:41.482999",
-		"url": "http:\/\/nsidc.org\/noaa\/",
+		"url": "http://nsidc.org/noaa/",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 3,
@@ -145,7 +145,7 @@
 		"last_modified": null,
 		"hash": "",
 		"description": "",
-		"format": "application\/vnd.lotus-organizer",
+		"format": "application/vnd.lotus-organizer",
 		"tracking_summary": {
 			"total": 85,
 			"recent": 4
@@ -157,7 +157,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2015-09-26T20:58:41.483007",
-		"url": "http:\/\/nsidc.org",
+		"url": "http://nsidc.org",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 4,
@@ -190,7 +190,7 @@
 	"name": "arctic-ocean-drift-tracks-from-ships-buoys-and-manned-research-stations-1872-1973",
 	"isopen": false,
 	"url": null,
-	"notes": "\nThirty-four drift tracks in the Arctic Ocean pack ice are collected in a unified tabular data format, one file per track. Data are from drifting ships, manned research stations on ice floes (ice islands) and data buoys. Track names are FRAM (ship, 1893 to 1896), NP-01 through NP-20 (Soviet North Pole stations on ice floes, 1937, 1950, 1954 to 1970), IGY-A and IGY-B (International Geophysical Year ice camps, 1957 to 59), T-3 (Fletcher's Ice Island, 1959 to 1970), ARLIS-II (Arctic Research Laboratory Ice Station II ice camp, 1961 to 1965), BTAE (British Transarctic Expedition, 1968 to 1969), seven buoys deployed during the AIDJEX (Arctic Ice Dynamics Joint Experiment) pilot study (1972), TEGG (Austrian ship Tegetthoff, 1872 to 1873) and St. Anna (Russian ship, 1912 to 1914).\n",
+	"notes": "nThirty-four drift tracks in the Arctic Ocean pack ice are collected in a unified tabular data format, one file per track. Data are from drifting ships, manned research stations on ice floes (ice islands) and data buoys. Track names are FRAM (ship, 1893 to 1896), NP-01 through NP-20 (Soviet North Pole stations on ice floes, 1937, 1950, 1954 to 1970), IGY-A and IGY-B (International Geophysical Year ice camps, 1957 to 59), T-3 (Fletcher's Ice Island, 1959 to 1970), ARLIS-II (Arctic Research Laboratory Ice Station II ice camp, 1961 to 1965), BTAE (British Transarctic Expedition, 1968 to 1969), seven buoys deployed during the AIDJEX (Arctic Ice Dynamics Joint Experiment) pilot study (1972), TEGG (Austrian ship Tegetthoff, 1872 to 1873) and St. Anna (Russian ship, 1912 to 1914).n",
 	"license_title": null,
 	"extras": [{
 		"key": "bbox-east-long",
@@ -222,7 +222,7 @@
 	},
 	{
 		"key": "__category_tag_aa0c01c9-d292-4dc1-8fec-b10c1bb629a9",
-		"value": "[\"Arctic\",\"Arctic Ocean, Sea Ice and Coasts\",\"Melting Glaciers, Snow and Ice\"]"
+		"value": "["Arctic","Arctic Ocean, Sea Ice and Coasts","Melting Glaciers, Snow and Ice"]"
 	},
 	{
 		"key": "spatial-reference-system",
@@ -230,7 +230,7 @@
 	},
 	{
 		"key": "spatial",
-		"value": "{\"type\": \"Polygon\", \"coordinates\": [[[-180.0, 80.0], [180.0, 80.0], [180.0, 90.0], [-180.0, 90.0], [-180.0, 80.0]]]}"
+		"value": "{"type": "Polygon", "coordinates": [[[-180.0, 80.0], [180.0, 80.0], [180.0, 90.0], [-180.0, 90.0], [-180.0, 80.0]]]}"
 	},
 	{
 		"key": "progress",
@@ -238,7 +238,7 @@
 	},
 	{
 		"key": "access_constraints",
-		"value": "[\"Access Constraints : none\", \"Use Constraints : none\"]"
+		"value": "["Access Constraints : none", "Use Constraints : none"]"
 	},
 	{
 		"key": "temporal-extent-begin",
@@ -258,7 +258,7 @@
 	},
 	{
 		"key": "dataset-reference-date",
-		"value": "[{\"type\": \"publication\", \"value\": \"1984-01-01\"}]"
+		"value": "[{"type": "publication", "value": "1984-01-01"}]"
 	},
 	{
 		"key": "frequency-of-update",
@@ -274,7 +274,7 @@
 	},
 	{
 		"key": "responsible-party",
-		"value": "[{\"name\": \"\", \"roles\": [\"principalInvestigator\"]}, {\"name\": \"Polar Science Center\", \"roles\": [\"principalInvestigator\"]}, {\"name\": \"National Snow and Ice Data Center\", \"roles\": [\"pointOfContact\"]}]"
+		"value": "[{"name": "", "roles": ["principalInvestigator"]}, {"name": "Polar Science Center", "roles": ["principalInvestigator"]}, {"name": "National Snow and Ice Data Center", "roles": ["pointOfContact"]}]"
 	},
 	{
 		"key": "temporal-extent-end",
@@ -320,7 +320,7 @@
 		"revision_timestamp": "2013-03-25T23:05:12.923863",
 		"is_organization": true,
 		"state": "active",
-		"image_url": "https:\/\/fortress.wa.gov\/dfw\/score\/score\/images\/noaa_logo.png",
+		"image_url": "https://fortress.wa.gov/dfw/score/score/images/noaa_logo.png",
 		"revision_id": "c6d43080-22e1-405e-a83d-f2a512d9e867",
 		"type": "organization",
 		"id": "e811f0b4-451f-4896-9e8f-fc6802837819",

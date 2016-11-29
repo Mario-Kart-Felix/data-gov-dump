@@ -36,7 +36,7 @@
 		"cache_url": null,
 		"name": "ftp",
 		"created": "2016-04-18T15:49:40.801840",
-		"url": "ftp:\/\/tgftp.nws.noaa.gov\/SL.us008001\/DC.avspt\/DS.gtggb\/PT.grid_DF.gr1\/",
+		"url": "ftp://tgftp.nws.noaa.gov/SL.us008001/DC.avspt/DS.gtggb/PT.grid_DF.gr1/",
 		"webstore_url": null,
 		"resource_locator_function": "download",
 		"position": 0,
@@ -65,7 +65,7 @@
 		"cache_url": null,
 		"name": "http",
 		"created": "2016-04-18T15:49:40.801877",
-		"url": "http:\/\/weather.noaa.gov\/pub\/SL.us008001\/DC.avspt\/DS.gtggb\/PT.grid_DF.gr1\/",
+		"url": "http://weather.noaa.gov/pub/SL.us008001/DC.avspt/DS.gtggb/PT.grid_DF.gr1/",
 		"webstore_url": null,
 		"resource_locator_function": "download",
 		"position": 1,
@@ -94,7 +94,7 @@
 		"cache_url": null,
 		"name": "awc",
 		"created": "2016-04-18T15:49:40.801896",
-		"url": "http:\/\/www.aviationweather.gov\/turbulence\/gtg",
+		"url": "http://www.aviationweather.gov/turbulence/gtg",
 		"webstore_url": null,
 		"resource_locator_function": "information",
 		"position": 2,
@@ -138,7 +138,7 @@
 	},
 	{
 		"key": "dataset-reference-date",
-		"value": "[{\"type\": \"creation\", \"value\": \"2014-02-28\"}]"
+		"value": "[{"type": "creation", "value": "2014-02-28"}]"
 	},
 	{
 		"key": "resource-type",
@@ -178,7 +178,7 @@
 	},
 	{
 		"key": "spatial",
-		"value": "{\"type\": \"Polygon\", \"coordinates\": [[[-139.856, 16.281], [-57.38, 16.281], [-57.38, 58.366], [-139.856, 58.366], [-139.856, 16.281]]]}"
+		"value": "{"type": "Polygon", "coordinates": [[[-139.856, 16.281], [-57.38, 16.281], [-57.38, 58.366], [-139.856, 58.366], [-139.856, 16.281]]]}"
 	},
 	{
 		"key": "guid",
@@ -202,7 +202,7 @@
 	},
 	{
 		"package_id": "c948ceeb-3df1-4715-8aed-ec9289854c01",
-		"value": "doc\/noaa\/nws\/toc\/nwstg, none, clear air turbulence, gtg, guidance, graphical, cat, turbulence, yvw[abcdgjm][0-9][0-9] kkci, doc\/noaa\/nws\/ncep\/awc",
+		"value": "doc/noaa/nws/toc/nwstg, none, clear air turbulence, gtg, guidance, graphical, cat, turbulence, yvw[abcdgjm][0-9][0-9] kkci, doc/noaa/nws/ncep/awc",
 		"revision_timestamp": "2016-04-18T19:49:40.733434",
 		"state": "active",
 		"key": "tags",
@@ -232,7 +232,7 @@
 		"revision_timestamp": "2013-03-25T23:05:12.923863",
 		"is_organization": true,
 		"state": "active",
-		"image_url": "https:\/\/fortress.wa.gov\/dfw\/score\/score\/images\/noaa_logo.png",
+		"image_url": "https://fortress.wa.gov/dfw/score/score/images/noaa_logo.png",
 		"revision_id": "c6d43080-22e1-405e-a83d-f2a512d9e867",
 		"type": "organization",
 		"id": "e811f0b4-451f-4896-9e8f-fc6802837819",

@@ -37,7 +37,7 @@
 		"cache_url": null,
 		"name": "Text File",
 		"created": "2015-12-20T13:45:24.415303",
-		"url": "ftp:\/\/ftp.ncdc.noaa.gov\/pub\/data\/paleo\/coral\/west_pacific\/amedee_1999.txt",
+		"url": "ftp://ftp.ncdc.noaa.gov/pub/data/paleo/coral/west_pacific/amedee_1999.txt",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 0,
@@ -57,11 +57,11 @@
 	"name": "amedee-lighthouse-new-caledonia-stable-isotope-delta-18o-delta-13c-data-for-1657-to-1992",
 	"isopen": false,
 	"url": null,
-	"notes": "Bathymetry: coral collected live in ~3m of water in September of 1992. Coral species: Porites lutea. Variable names: The Excel File contains 4 worksheets labelled Raw Data, 92-52 mo., 1951-1657 qtr., and Published 1992-1657 Qtr. The last worksheet contains age, delta18O and delta 13C used in Quinn et al. (1998). These data have been interpolated at 4 samples\/year using AnalySeries (Paillard et al., 1996). Path refers to sampling pathway; values range from 1 to 30. Sample id refers to numbering scheme used in sampling. Cells with more than 1 value reflect offset and overlapping sequences. Stable isotope data for these cells are averages of overlapped samples. Sample # refers to sequential numbering of all data from top to bottom. Overlapped samples counted as one sample. Raw delta 18O, delta 13C isotopic values as they were determined on the mass spectrometer. Year: calendar year assignments based on integrated use of density-bands and observed SST measurements. Post-AS delta 18O, delta 13C refers to data that have been interpolated at equal age increments using the software program AnalySeries (Paillard et al., 1996). Conversion from depth to age was accomplished using the age model feature of AnalySeries. Variable unit: per mil relative to VPDB. Data precision: Precision (&oacute;2) was monitored by daily analyses of a powdered calcite standard (NBS-20) and was better than 0.08 per mil for both oxygen and carbon. The average standard deviation of forty-six replicate analyses of coral samples is 0.10 per mil for oxygen and 0.07 per mil carbon. Data format: Values are reported in standard notation relative to VPDB after correction for the 17O contribution. Sampling information: We sampled the coral at two levels of sampling density. The upper 40 years of the coral was sampled at 12 samples\/density-band couplet (dbc). The remainder of the coral was sampled at 4 samples\/dbc.",
+	"notes": "Bathymetry: coral collected live in ~3m of water in September of 1992. Coral species: Porites lutea. Variable names: The Excel File contains 4 worksheets labelled Raw Data, 92-52 mo., 1951-1657 qtr., and Published 1992-1657 Qtr. The last worksheet contains age, delta18O and delta 13C used in Quinn et al. (1998). These data have been interpolated at 4 samples/year using AnalySeries (Paillard et al., 1996). Path refers to sampling pathway; values range from 1 to 30. Sample id refers to numbering scheme used in sampling. Cells with more than 1 value reflect offset and overlapping sequences. Stable isotope data for these cells are averages of overlapped samples. Sample # refers to sequential numbering of all data from top to bottom. Overlapped samples counted as one sample. Raw delta 18O, delta 13C isotopic values as they were determined on the mass spectrometer. Year: calendar year assignments based on integrated use of density-bands and observed SST measurements. Post-AS delta 18O, delta 13C refers to data that have been interpolated at equal age increments using the software program AnalySeries (Paillard et al., 1996). Conversion from depth to age was accomplished using the age model feature of AnalySeries. Variable unit: per mil relative to VPDB. Data precision: Precision (&oacute;2) was monitored by daily analyses of a powdered calcite standard (NBS-20) and was better than 0.08 per mil for both oxygen and carbon. The average standard deviation of forty-six replicate analyses of coral samples is 0.10 per mil for oxygen and 0.07 per mil carbon. Data format: Values are reported in standard notation relative to VPDB after correction for the 17O contribution. Sampling information: We sampled the coral at two levels of sampling density. The upper 40 years of the coral was sampled at 12 samples/density-band couplet (dbc). The remainder of the coral was sampled at 4 samples/dbc.",
 	"license_title": null,
 	"extras": [{
 		"key": "bbox-east-long",
-		"value": "\n          166.45\n        "
+		"value": "n          166.45n        "
 	},
 	{
 		"key": "resource-type",
@@ -69,7 +69,7 @@
 	},
 	{
 		"key": "bbox-north-lat",
-		"value": "\n          -22.48\n        "
+		"value": "n          -22.48n        "
 	},
 	{
 		"key": "coupled-resource",
@@ -85,7 +85,7 @@
 	},
 	{
 		"key": "bbox-south-lat",
-		"value": "\n          -22.48\n        "
+		"value": "n          -22.48n        "
 	},
 	{
 		"key": "spatial-reference-system",
@@ -93,7 +93,7 @@
 	},
 	{
 		"key": "spatial",
-		"value": "{\"type\": \"Point\", \"coordinates\": [166.45, -22.48]}"
+		"value": "{"type": "Point", "coordinates": [166.45, -22.48]}"
 	},
 	{
 		"key": "progress",
@@ -101,7 +101,7 @@
 	},
 	{
 		"key": "access_constraints",
-		"value": "[\"Use Constraints: Please cite original reference when using this data.\", \"Access Constraints: None\"]"
+		"value": "["Use Constraints: Please cite original reference when using this data.", "Access Constraints: None"]"
 	},
 	{
 		"key": "temporal-extent-begin",
@@ -113,7 +113,7 @@
 	},
 	{
 		"key": "bbox-west-long",
-		"value": "\n          166.45\n        "
+		"value": "n          166.45n        "
 	},
 	{
 		"key": "metadata-date",
@@ -121,7 +121,7 @@
 	},
 	{
 		"key": "dataset-reference-date",
-		"value": "[{\"type\": \"publication\", \"value\": \"1999-01-01\"}]"
+		"value": "[{"type": "publication", "value": "1999-01-01"}]"
 	},
 	{
 		"key": "frequency-of-update",
@@ -129,7 +129,7 @@
 	},
 	{
 		"key": "licence",
-		"value": "[\"\\n      Disclaimer- While every effort has been made to ensure that these data are accurate and reliable within the limits of the current state of the art, NOAA cannot assume liability for any damages caused by any errors or omissions in the data, nor as a result of the failure of the data to function on a particular system.  NOAA makes no warranty, expressed or implied, nor does the fact of distribution constitute such a warranty.\\n    \"]"
+		"value": "["\n      Disclaimer- While every effort has been made to ensure that these data are accurate and reliable within the limits of the current state of the art, NOAA cannot assume liability for any damages caused by any errors or omissions in the data, nor as a result of the failure of the data to function on a particular system.  NOAA makes no warranty, expressed or implied, nor does the fact of distribution constitute such a warranty.\n    "]"
 	},
 	{
 		"key": "metadata_type",
@@ -137,7 +137,7 @@
 	},
 	{
 		"key": "responsible-party",
-		"value": "[{\"name\": \"NOAA Paleoclimatology Program\", \"roles\": [\"pointOfContact\"]}]"
+		"value": "[{"name": "NOAA Paleoclimatology Program", "roles": ["pointOfContact"]}]"
 	},
 	{
 		"key": "temporal-extent-end",
@@ -153,7 +153,7 @@
 	},
 	{
 		"package_id": "20edb840-ebbc-4047-9473-732984bf4aa2",
-		"value": "coral records, pacific ocean, numeric data sets, delta 18o, density, parc territorial du lagon sud: amedee islet, holocene, modern, south pacific ocean, country\/territory, new caledonia, paleoclimate, paleoclimatology, delta 13c, parc territorial du lagon sud: amedee islet (22s166e0003), ocean basin, french overseas territory, earth science",
+		"value": "coral records, pacific ocean, numeric data sets, delta 18o, density, parc territorial du lagon sud: amedee islet, holocene, modern, south pacific ocean, country/territory, new caledonia, paleoclimate, paleoclimatology, delta 13c, parc territorial du lagon sud: amedee islet (22s166e0003), ocean basin, french overseas territory, earth science",
 		"revision_timestamp": "2015-12-20T18:45:24.315444",
 		"state": "active",
 		"key": "tags",
@@ -183,7 +183,7 @@
 		"revision_timestamp": "2013-03-25T23:05:12.923863",
 		"is_organization": true,
 		"state": "active",
-		"image_url": "https:\/\/fortress.wa.gov\/dfw\/score\/score\/images\/noaa_logo.png",
+		"image_url": "https://fortress.wa.gov/dfw/score/score/images/noaa_logo.png",
 		"revision_id": "c6d43080-22e1-405e-a83d-f2a512d9e867",
 		"type": "organization",
 		"id": "e811f0b4-451f-4896-9e8f-fc6802837819",

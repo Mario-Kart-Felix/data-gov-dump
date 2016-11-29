@@ -30,11 +30,11 @@
 			"recent": 1
 		},
 		"mimetype_inner": null,
-		"mimetype": "application\/zip",
+		"mimetype": "application/zip",
 		"cache_url": null,
 		"name": "New York High Resolution Wind Resource shape file",
 		"created": "2015-02-23T15:19:04.389088",
-		"url": "http:\/\/en.openei.org\/doe-opendata\/dataset\/3f68da45-d3ce-4984-9e37-09d5da841644\/resource\/c14412c3-ba11-46a7-9154-b44f9dcdbd71\/download\/newyorkwindhighresolution.zip",
+		"url": "http://en.openei.org/doe-opendata/dataset/3f68da45-d3ce-4984-9e37-09d5da841644/resource/c14412c3-ba11-46a7-9154-b44f9dcdbd71/download/newyorkwindhighresolution.zip",
 		"webstore_url": null,
 		"last_modified": null,
 		"position": 0,
@@ -57,11 +57,11 @@
 			"recent": 0
 		},
 		"mimetype_inner": null,
-		"mimetype": "text\/plain",
+		"mimetype": "text/plain",
 		"cache_url": null,
 		"name": "LICENSE.txt",
 		"created": "2015-05-26T19:10:58.131692",
-		"url": "http:\/\/en.openei.org\/doe-opendata\/dataset\/3f68da45-d3ce-4984-9e37-09d5da841644\/resource\/09e60654-f7bc-424a-a1d3-a37cf4f200bf\/download\/license.txt",
+		"url": "http://en.openei.org/doe-opendata/dataset/3f68da45-d3ce-4984-9e37-09d5da841644/resource/09e60654-f7bc-424a-a1d3-a37cf4f200bf/download/license.txt",
 		"webstore_url": null,
 		"last_modified": null,
 		"position": 1,
@@ -160,7 +160,7 @@
 	"name": "nrel-gis-data-new-york-high-resolution-wind-resource-c6565",
 	"isopen": true,
 	"url": null,
-	"notes": "Annual average wind resource potential for New York at a 50 meter height.\r\n\r\nThis data set has been validated by NREL and wind energy meteorological consultants. *Note:* This  data is not suitable for micro-siting potential development projects. This shapefile was generated from a raster dataset with a 200 m resolution, in a UTM zone 18, datum WGS 84 projection system.\r\n\r\nThis map has been validated with available surface data by NREL and wind energy meteorological consultants.\r\n",
+	"notes": "Annual average wind resource potential for New York at a 50 meter height.rnrnThis data set has been validated by NREL and wind energy meteorological consultants. *Note:* This  data is not suitable for micro-siting potential development projects. This shapefile was generated from a raster dataset with a 200 m resolution, in a UTM zone 18, datum WGS 84 projection system.rnrnThis map has been validated with available surface data by NREL and wind energy meteorological consultants.rn",
 	"license_title": "Creative Commons Attribution",
 	"extras": [{
 		"key": "harvest_source_id",
@@ -180,23 +180,23 @@
 	},
 	{
 		"key": "spatial",
-		"value": "{\"type\":\"Polygon\",\"coordinates\":[[[-79.76250000000005,40.45853582744154],[-71.83250234375004,40.45853582744154],[-71.83250234375004,45.075828163728],[-79.76250000000005,45.075828163728],[-79.76250000000005,40.45853582744154]]]}"
+		"value": "{"type":"Polygon","coordinates":[[[-79.76250000000005,40.45853582744154],[-71.83250234375004,40.45853582744154],[-71.83250234375004,45.075828163728],[-79.76250000000005,45.075828163728],[-79.76250000000005,40.45853582744154]]]}"
 	},
 	{
 		"key": "catalog_conformsTo",
-		"value": "https:\/\/project-open-data.cio.gov\/v1.1\/schema"
+		"value": "https://project-open-data.cio.gov/v1.1/schema"
 	},
 	{
 		"key": "catalog_@context",
-		"value": "https:\/\/project-open-data.cio.gov\/v1.1\/schema\/catalog.jsonld"
+		"value": "https://project-open-data.cio.gov/v1.1/schema/catalog.jsonld"
 	},
 	{
 		"key": "catalog_describedBy",
-		"value": "https:\/\/project-open-data.cio.gov\/v1.1\/schema\/catalog.json"
+		"value": "https://project-open-data.cio.gov/v1.1/schema/catalog.json"
 	},
 	{
 		"key": "format",
-		"value": "application\/unknown"
+		"value": "application/unknown"
 	},
 	{
 		"key": "harvest_source_title",
@@ -216,7 +216,7 @@
 	},
 	{
 		"key": "landingPage",
-		"value": "http:\/\/www.nrel.gov\/gis\/data_wind.html"
+		"value": "http://www.nrel.gov/gis/data_wind.html"
 	},
 	{
 		"key": "harvest_object_id",
@@ -224,7 +224,7 @@
 	},
 	{
 		"key": "accessURL",
-		"value": "http:\/\/en.openei.org\/doe-opendata\/dataset\/3f68da45-d3ce-4984-9e37-09d5da841644\/resource\/c14412c3-ba11-46a7-9154-b44f9dcdbd71\/download\/newyorkwindhighresolution.zip"
+		"value": "http://en.openei.org/doe-opendata/dataset/3f68da45-d3ce-4984-9e37-09d5da841644/resource/c14412c3-ba11-46a7-9154-b44f9dcdbd71/download/newyorkwindhighresolution.zip"
 	},
 	{
 		"key": "publisher",
@@ -232,7 +232,7 @@
 	},
 	{
 		"key": "license",
-		"value": "https:\/\/creativecommons.org\/licenses\/by\/4.0\/"
+		"value": "https://creativecommons.org/licenses/by/4.0/"
 	},
 	{
 		"key": "modified",
@@ -248,7 +248,7 @@
 	},
 	{
 		"key": "identifier",
-		"value": "http:\/\/en.openei.org\/doe-opendata\/dataset\/3f68da45-d3ce-4984-9e37-09d5da841644"
+		"value": "http://en.openei.org/doe-opendata/dataset/3f68da45-d3ce-4984-9e37-09d5da841644"
 	},
 	{
 		"state": "active",
@@ -265,7 +265,7 @@
 		"key": "harvest_source_title",
 		"value": "Energy JSON"
 	}],
-	"license_url": "http:\/\/www.opendefinition.org\/licenses\/cc-by",
+	"license_url": "http://www.opendefinition.org/licenses/cc-by",
 	"organization": {
 		"description": "",
 		"created": "2013-05-18T11:31:21.471948",
@@ -274,7 +274,7 @@
 		"revision_timestamp": "2013-05-31T20:48:37.771905",
 		"is_organization": true,
 		"state": "active",
-		"image_url": "http:\/\/energy.gov\/sites\/prod\/files\/styles\/imagelink\/public\/DoE-Logo.jpeg",
+		"image_url": "http://energy.gov/sites/prod/files/styles/imagelink/public/DoE-Logo.jpeg",
 		"revision_id": "14e1d3c1-4cc7-460c-bf1c-b10e3429b4b0",
 		"type": "organization",
 		"id": "735d0118-b2a7-4246-a0e3-608b0fa8d1ec",

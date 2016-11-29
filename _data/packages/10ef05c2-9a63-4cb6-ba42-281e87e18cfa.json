@@ -24,18 +24,18 @@
 		"state": "active",
 		"hash": "",
 		"description": "g02172.html",
-		"format": "application\/octet-stream",
+		"format": "application/octet-stream",
 		"tracking_summary": {
 			"total": 0,
 			"recent": 0
 		},
 		"mimetype_inner": null,
 		"revision_id": "2421c9de-7699-4298-bdf2-bc7a527eb052",
-		"mimetype": "application\/octet-stream",
+		"mimetype": "application/octet-stream",
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2014-11-26T13:38:33.681696",
-		"url": "http:\/\/nsidc.org\/data\/g02172.html",
+		"url": "http://nsidc.org/data/g02172.html",
 		"webstore_url": null,
 		"last_modified": null,
 		"position": 0,
@@ -102,7 +102,7 @@
 	"name": "aari-10-day-arctic-ocean-ease-grid-sea-ice-observations",
 	"isopen": true,
 	"url": null,
-	"notes": "<span style=\"color: red; font-weight: bold;\">NOTE: This data set has been replaced by the <a href=\"http:\/\/nsidc.org\/data\/g02176.html\">Sea Ice Charts of the \nRussian Arctic in Gridded Format, 1933-2006<\/a> data set.<\/span>\n\nThese gridded ice charts represent a reformatting of information\ncontained in another data set, the Russian Arctic and Antarctic\nResearch Institute's (AARI) 10 Day Digital Arctic Sea Ice Charts. AARI\ndigitized Arctic sea ice concentration and stage of development charts\nas part of an international data exchange program. The AARI source\ncharts, similar to operational charts distributed by the National Ice\nCenter describing ice type and constitution, were developed from\naircraft and satellite observations for shipping purposes, and provide\nextremely detailed information.  Such data are particularly valued in\nprocess studies tracking the growth and recession of polynyas, or for\nlooking at the preponderance of ice at certain stages of development\nin a particular area. NSIDC does not maintain the operational charts,\nbut archives the AARI digitized version. However, the Arctic and Antarctic Research Institute (AARI) 10 \nDay Digital Arctic Sea Ice\nCharts were encoded in SIGRID (Sea Ice Grid) format, which assigns\nnumerical values to ice parameters and records them at specific\nlat\/lon grid points. But due to the difficulties of visualizing, extracting and working with data in SIGRID, \nNSIDC is now providing\nAARI data in NSIDC's Equal Area SSM\/I Earth Grid.\n\nThe EASE-Grid format makes it especially easy to compare observed ice\nconcentrations or ice types with the same parameters derived from\nsatellite data (such as ice concentrations from passive microwave\nsensors).\n\nAARI sea ice data in the EASE-Grid projection are gridded at a 12.5 km\nresolution, for both Western (24W to 110E) and Eastern (105E to 130W)\nsectors . Data extend from 1953 through 1990, and are available via\nftp in compressed tar format. Postscript (.ps) files depicting\ncoverage per year are also provided with the data.",
+	"notes": "<span style="color: red; font-weight: bold;">NOTE: This data set has been replaced by the <a href="http://nsidc.org/data/g02176.html">Sea Ice Charts of the nRussian Arctic in Gridded Format, 1933-2006</a> data set.</span>nnThese gridded ice charts represent a reformatting of informationncontained in another data set, the Russian Arctic and AntarcticnResearch Institute's (AARI) 10 Day Digital Arctic Sea Ice Charts. AARIndigitized Arctic sea ice concentration and stage of development chartsnas part of an international data exchange program. The AARI sourcencharts, similar to operational charts distributed by the National IcenCenter describing ice type and constitution, were developed fromnaircraft and satellite observations for shipping purposes, and providenextremely detailed information.  Such data are particularly valued innprocess studies tracking the growth and recession of polynyas, or fornlooking at the preponderance of ice at certain stages of developmentnin a particular area. NSIDC does not maintain the operational charts,nbut archives the AARI digitized version. However, the Arctic and Antarctic Research Institute (AARI) 10 nDay Digital Arctic Sea IcenCharts were encoded in SIGRID (Sea Ice Grid) format, which assignsnnumerical values to ice parameters and records them at specificnlat/lon grid points. But due to the difficulties of visualizing, extracting and working with data in SIGRID, nNSIDC is now providingnAARI data in NSIDC's Equal Area SSM/I Earth Grid.nnThe EASE-Grid format makes it especially easy to compare observed icenconcentrations or ice types with the same parameters derived fromnsatellite data (such as ice concentrations from passive microwavensensors).nnAARI sea ice data in the EASE-Grid projection are gridded at a 12.5 kmnresolution, for both Western (24W to 110E) and Eastern (105E to 130W)nsectors . Data extend from 1953 through 1990, and are available vianftp in compressed tar format. Postscript (.ps) files depictingncoverage per year are also provided with the data.",
 	"license_title": "U.S. Government Work",
 	"extras": [{
 		"key": "harvest_source_id",
@@ -130,7 +130,7 @@
 	},
 	{
 		"key": "temporal",
-		"value": "1953-01-01T01:00:00Z\/1990-12-30T23:59:59Z"
+		"value": "1953-01-01T01:00:00Z/1990-12-30T23:59:59Z"
 	},
 	{
 		"key": "theme",
@@ -142,15 +142,15 @@
 	},
 	{
 		"key": "catalog_conformsTo",
-		"value": "https:\/\/project-open-data.cio.gov\/v1.1\/schema"
+		"value": "https://project-open-data.cio.gov/v1.1/schema"
 	},
 	{
 		"key": "catalog_@context",
-		"value": "https:\/\/project-open-data.cio.gov\/v1.1\/schema\/catalog.jsonld"
+		"value": "https://project-open-data.cio.gov/v1.1/schema/catalog.jsonld"
 	},
 	{
 		"key": "catalog_describedBy",
-		"value": "https:\/\/project-open-data.cio.gov\/v1.1\/schema\/catalog.json"
+		"value": "https://project-open-data.cio.gov/v1.1/schema/catalog.json"
 	},
 	{
 		"key": "harvest_source_title",
@@ -174,7 +174,7 @@
 	},
 	{
 		"key": "landingPage",
-		"value": "http:\/\/reverb.echo.nasa.gov\/reverb?selected=C2821-NSIDCV0"
+		"value": "http://reverb.echo.nasa.gov/reverb?selected=C2821-NSIDCV0"
 	},
 	{
 		"key": "harvest_object_id",
@@ -192,7 +192,7 @@
 	},
 	{
 		"key": "license",
-		"value": "http:\/\/www.usa.gov\/publicdomain\/label\/1.0\/"
+		"value": "http://www.usa.gov/publicdomain/label/1.0/"
 	},
 	{
 		"key": "language",
@@ -233,16 +233,16 @@
 		"key": "harvest_source_title",
 		"value": "NASA Data.json"
 	}],
-	"license_url": "http:\/\/www.usa.gov\/publicdomain\/label\/1.0\/",
+	"license_url": "http://www.usa.gov/publicdomain/label/1.0/",
 	"organization": {
-		"description": "NASA's vision: To reach for new heights and reveal the unknown so that what we do and learn will benefit all humankind.\r\n\r\nTo do that, thousands of people have been working around the world -- and off of it -- for 50 years, trying to answer some basic questions. What's out there in space? How do we get there? What will we find? What can we learn there, or learn just by trying to get there, that will make life better here on Earth?\r\n\r\nNASA conducts its work in four principal organizations, called mission directorates:\r\n \r\nAeronautics: works to solve the challenges that still exist in our nation's air transportation system: air traffic congestion, safety and environmental impacts.\r\n\r\nHuman Exploration and Operations: focuses on International Space Station operations, development of commercial spaceflight opportunities and human exploration beyond low Earth orbit.\r\n\r\nScience: explores the Earth, solar system and universe beyond; charts the best route of discovery; and reaps the benefits of Earth and space exploration for society.\r\n\r\nSpace Technology: rapidly develops, demonstrates, and infuses revolutionary, high-payoff technologies, expanding the boundaries of the aerospace enterprise.\r\n\r\nIn the early 21st century, NASA's reach spans the universe. The Mars rover Curiosity is still exploring Mars to see if it might once have had environments suitable for life. Cassini is in orbit around Saturn, as Juno makes its way to Jupiter. The restored Hubble Space Telescope continues to explore the deepest reaches of the cosmos as NASA developes the James Webb Space Telescope.\r\n\r\nCloser to home, the latest crew of the International Space Station is extending the permanent human presence in space. With commercial partners such as SpaceX, NASA is helping to foster the development of private-sector aerospace.\r\n\r\nEarth science satellites are sending back unprecedented data on Earth's oceans, climate and other features. NASA's aeronautics team is working with other government organizations, universities, and industry to fundamentally improve the air transportation experience and retain our nation's leadership in global aviation.",
+		"description": "NASA's vision: To reach for new heights and reveal the unknown so that what we do and learn will benefit all humankind.rnrnTo do that, thousands of people have been working around the world -- and off of it -- for 50 years, trying to answer some basic questions. What's out there in space? How do we get there? What will we find? What can we learn there, or learn just by trying to get there, that will make life better here on Earth?rnrnNASA conducts its work in four principal organizations, called mission directorates:rn rnAeronautics: works to solve the challenges that still exist in our nation's air transportation system: air traffic congestion, safety and environmental impacts.rnrnHuman Exploration and Operations: focuses on International Space Station operations, development of commercial spaceflight opportunities and human exploration beyond low Earth orbit.rnrnScience: explores the Earth, solar system and universe beyond; charts the best route of discovery; and reaps the benefits of Earth and space exploration for society.rnrnSpace Technology: rapidly develops, demonstrates, and infuses revolutionary, high-payoff technologies, expanding the boundaries of the aerospace enterprise.rnrnIn the early 21st century, NASA's reach spans the universe. The Mars rover Curiosity is still exploring Mars to see if it might once have had environments suitable for life. Cassini is in orbit around Saturn, as Juno makes its way to Jupiter. The restored Hubble Space Telescope continues to explore the deepest reaches of the cosmos as NASA developes the James Webb Space Telescope.rnrnCloser to home, the latest crew of the International Space Station is extending the permanent human presence in space. With commercial partners such as SpaceX, NASA is helping to foster the development of private-sector aerospace.rnrnEarth science satellites are sending back unprecedented data on Earth's oceans, climate and other features. NASA's aeronautics team is working with other government organizations, universities, and industry to fundamentally improve the air transportation experience and retain our nation's leadership in global aviation.",
 		"created": "2013-03-14T03:44:44.467521",
 		"title": "National Aeronautics and Space Administration",
 		"name": "nasa-gov",
 		"revision_timestamp": "2013-08-20T16:04:52.563777",
 		"is_organization": true,
 		"state": "active",
-		"image_url": "http:\/\/polargateways2008.gsfc.nasa.gov\/images\/LOGO_2in\/NASA_2.jpg",
+		"image_url": "http://polargateways2008.gsfc.nasa.gov/images/LOGO_2in/NASA_2.jpg",
 		"revision_id": "7f05110b-681a-402c-a372-74500dc583dd",
 		"type": "organization",
 		"id": "d8a6202b-c0c3-463d-88a0-3bc021a178ed",

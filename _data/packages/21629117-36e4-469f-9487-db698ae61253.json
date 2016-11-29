@@ -36,7 +36,7 @@
 		"cache_url": null,
 		"name": "Data Subset Form",
 		"created": "2016-10-19T19:20:47.809316",
-		"url": "http:\/\/coastwatch.pfeg.noaa.gov\/erddap\/tabledap\/nosCoopsWLR1.html",
+		"url": "http://coastwatch.pfeg.noaa.gov/erddap/tabledap/nosCoopsWLR1.html",
 		"webstore_url": null,
 		"resource_locator_function": "download",
 		"position": 0,
@@ -65,7 +65,7 @@
 		"cache_url": null,
 		"name": "Make-A-Graph Form",
 		"created": "2016-10-19T19:20:47.809341",
-		"url": "http:\/\/coastwatch.pfeg.noaa.gov\/erddap\/tabledap\/nosCoopsWLR1.graph",
+		"url": "http://coastwatch.pfeg.noaa.gov/erddap/tabledap/nosCoopsWLR1.graph",
 		"webstore_url": null,
 		"resource_locator_function": "mapDigital",
 		"position": 1,
@@ -94,7 +94,7 @@
 		"cache_url": null,
 		"name": "Background Information",
 		"created": "2016-10-19T19:20:47.809350",
-		"url": "http:\/\/tidesandcurrents.noaa.gov\/",
+		"url": "http://tidesandcurrents.noaa.gov/",
 		"webstore_url": null,
 		"resource_locator_function": "information",
 		"position": 2,
@@ -123,7 +123,7 @@
 		"cache_url": null,
 		"name": "Background Information",
 		"created": "2016-10-19T19:20:47.809357",
-		"url": "http:\/\/tidesandcurrents.noaa.gov\/",
+		"url": "http://tidesandcurrents.noaa.gov/",
 		"webstore_url": null,
 		"resource_locator_function": "information",
 		"position": 3,
@@ -152,7 +152,7 @@
 		"cache_url": null,
 		"name": "Background Information",
 		"created": "2016-10-19T19:20:47.809365",
-		"url": "http:\/\/tidesandcurrents.noaa.gov\/",
+		"url": "http://tidesandcurrents.noaa.gov/",
 		"webstore_url": null,
 		"resource_locator_function": "information",
 		"position": 4,
@@ -181,7 +181,7 @@
 		"cache_url": null,
 		"name": "ERDDAP-tabledap",
 		"created": "2016-10-19T19:20:47.809372",
-		"url": "http:\/\/coastwatch.pfeg.noaa.gov\/erddap\/tabledap\/nosCoopsWLR1",
+		"url": "http://coastwatch.pfeg.noaa.gov/erddap/tabledap/nosCoopsWLR1",
 		"webstore_url": null,
 		"resource_locator_function": "download",
 		"position": 5,
@@ -210,7 +210,7 @@
 		"cache_url": null,
 		"name": "Background Information",
 		"created": "2016-10-19T19:20:47.809379",
-		"url": "http:\/\/tidesandcurrents.noaa.gov\/",
+		"url": "http://tidesandcurrents.noaa.gov/",
 		"webstore_url": null,
 		"resource_locator_function": "information",
 		"position": 6,
@@ -239,7 +239,7 @@
 		"cache_url": null,
 		"name": "OPeNDAP",
 		"created": "2016-10-19T19:20:47.809387",
-		"url": "http:\/\/coastwatch.pfeg.noaa.gov\/erddap\/tabledap\/nosCoopsWLR1",
+		"url": "http://coastwatch.pfeg.noaa.gov/erddap/tabledap/nosCoopsWLR1",
 		"webstore_url": null,
 		"resource_locator_function": "download",
 		"position": 7,
@@ -268,7 +268,7 @@
 		"cache_url": null,
 		"name": "Background Information",
 		"created": "2016-10-19T19:20:47.809394",
-		"url": "http:\/\/tidesandcurrents.noaa.gov\/",
+		"url": "http://tidesandcurrents.noaa.gov/",
 		"webstore_url": null,
 		"resource_locator_function": "information",
 		"position": 8,
@@ -297,7 +297,7 @@
 		"cache_url": null,
 		"name": "Subset",
 		"created": "2016-10-19T19:20:47.809401",
-		"url": "http:\/\/coastwatch.pfeg.noaa.gov\/erddap\/tabledap\/nosCoopsWLR1.subset",
+		"url": "http://coastwatch.pfeg.noaa.gov/erddap/tabledap/nosCoopsWLR1.subset",
 		"webstore_url": null,
 		"resource_locator_function": "download",
 		"position": 9,
@@ -317,11 +317,11 @@
 	"name": "nos-co-ops-water-level-data-preliminary-1-minute",
 	"isopen": false,
 	"url": null,
-	"notes": "This dataset has recent, preliminary (not quality-controlled), 1-minute, water level\n(tide) data from NOAA NOS Center for Operational Oceanographic Products and Services\n(CO-OPS).\n\nWARNING: These raw data have not been subjected to the National Ocean Service's\nquality control or quality assurance procedures and do not meet the criteria and\nstandards of official National Ocean Service data. They are released for limited\npublic use as preliminary data to be used only with appropriate caution.\n\nWARNING:\n* Queries for data MUST include stationID=, datum=, and time>=.\n* Queries for data USUALLY include time<=.\n* Queries MUST be for less than 30 days worth of data.\n  The default time<= value corresponds to 'now'.\n* Different stations support different datums.\n  Use ERDDAP's Subset web page to find out which datums a given station supports.\n* The data source isn't completely reliable. If your request returns no data\n  when you think it should:\n  * Make sure the station you specified supports the datum you specified.\n  * Try revising the request (e.g., a different datum or a different time range).\n  * The list of stations offering this data (or the list of datums) may be incorrect.\n  * Sometimes a station or the entire data service is unavailable.\n    Wait a while and try again.",
+	"notes": "This dataset has recent, preliminary (not quality-controlled), 1-minute, water leveln(tide) data from NOAA NOS Center for Operational Oceanographic Products and Servicesn(CO-OPS).nnWARNING: These raw data have not been subjected to the National Ocean Service'snquality control or quality assurance procedures and do not meet the criteria andnstandards of official National Ocean Service data. They are released for limitednpublic use as preliminary data to be used only with appropriate caution.nnWARNING:n* Queries for data MUST include stationID=, datum=, and time>=.n* Queries for data USUALLY include time<=.n* Queries MUST be for less than 30 days worth of data.n  The default time<= value corresponds to 'now'.n* Different stations support different datums.n  Use ERDDAP's Subset web page to find out which datums a given station supports.n* The data source isn't completely reliable. If your request returns no datan  when you think it should:n  * Make sure the station you specified supports the datum you specified.n  * Try revising the request (e.g., a different datum or a different time range).n  * The list of stations offering this data (or the list of datums) may be incorrect.n  * Sometimes a station or the entire data service is unavailable.n    Wait a while and try again.",
 	"license_title": null,
 	"extras": [{
 		"key": "responsible-party",
-		"value": "[{\"name\": \"NOAA NOS CO-OPS\", \"roles\": [\"pointOfContact\"]}]"
+		"value": "[{"name": "NOAA NOS CO-OPS", "roles": ["pointOfContact"]}]"
 	},
 	{
 		"key": "contact-email",
@@ -341,7 +341,7 @@
 	},
 	{
 		"key": "dataset-reference-date",
-		"value": "[{\"type\": \"creation\", \"value\": \"2016-10-07\"}]"
+		"value": "[{"type": "creation", "value": "2016-10-07"}]"
 	},
 	{
 		"key": "resource-type",
@@ -361,7 +361,7 @@
 	},
 	{
 		"key": "coupled-resource",
-		"value": "[{\"href\": [\"#DataIdentification\"], \"uuid\": [], \"title\": []}, {\"href\": [\"#DataIdentification\"], \"uuid\": [], \"title\": []}, {\"href\": [\"#DataIdentification\"], \"uuid\": [], \"title\": []}]"
+		"value": "[{"href": ["#DataIdentification"], "uuid": [], "title": []}, {"href": ["#DataIdentification"], "uuid": [], "title": []}, {"href": ["#DataIdentification"], "uuid": [], "title": []}]"
 	},
 	{
 		"key": "bbox-south-lat",
@@ -381,7 +381,7 @@
 	},
 	{
 		"key": "spatial",
-		"value": "{\"type\": \"Polygon\", \"coordinates\": [[[-177.3608, -14.2767], [167.7361, -14.2767], [167.7361, 70.4111], [-177.3608, 70.4111], [-177.3608, -14.2767]]]}"
+		"value": "{"type": "Polygon", "coordinates": [[[-177.3608, -14.2767], [167.7361, -14.2767], [167.7361, 70.4111], [-177.3608, 70.4111], [-177.3608, -14.2767]]]}"
 	},
 	{
 		"key": "guid",
@@ -435,7 +435,7 @@
 		"revision_timestamp": "2013-03-25T23:05:12.923863",
 		"is_organization": true,
 		"state": "active",
-		"image_url": "https:\/\/fortress.wa.gov\/dfw\/score\/score\/images\/noaa_logo.png",
+		"image_url": "https://fortress.wa.gov/dfw/score/score/images/noaa_logo.png",
 		"revision_id": "c6d43080-22e1-405e-a83d-f2a512d9e867",
 		"type": "organization",
 		"id": "e811f0b4-451f-4896-9e8f-fc6802837819",

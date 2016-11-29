@@ -37,7 +37,7 @@
 		"cache_url": null,
 		"name": "TIFF Image File",
 		"created": "2016-03-14T19:20:39.031902",
-		"url": "https:\/\/products.coastalscience.noaa.gov\/collections\/benthic\/e49s_atlantic\/default.aspx",
+		"url": "https://products.coastalscience.noaa.gov/collections/benthic/e49s_atlantic/default.aspx",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 0,
@@ -67,7 +67,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2016-03-14T19:20:39.031926",
-		"url": "https:\/\/products.coastalscience.noaa.gov\/collections\/benthic\/e49s_atlantic\/default.aspx",
+		"url": "https://products.coastalscience.noaa.gov/collections/benthic/e49s_atlantic/default.aspx",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 1,
@@ -87,11 +87,11 @@
 	"name": "noaa-tiff-image-10m-bathymetric-slope-south-atlantic-bight-deep-coral-priority-areas-noaa-sh73b8f",
 	"isopen": false,
 	"url": null,
-	"notes": "This dataset contains a unified GeoTiff with 10x10 meter cell size representing the slope (in degrees) of several deep coral priority areas off the South Atlantic Bight, derived from data collected in November 2010. NOAA's NOS\/NCCOS\/CCMA Biogeography Branch, in collaboration with NOAA vessel Nancy Foster, as well as federal, university, and private sector partners, acquired multibeam bathymetry data off the South Atlantic Bight from 11\/13\/2010 to 11\/22\/2010. Data was acquired with a hull-mounted Kongsberg Simrad EM 122 multibeam echosounder (100 kHz). It was processed by a NOAA contractor using CARIS HIPS software. Attitude and sound velocity correctors applied to the data. Verified tides were not applied to the data, leaving the depth values referenced to the ellipsoid. The imagery is projected in the UTM Zone 17 north, NAD83 datum. The processed CARIS data was used to generate a CARIS BASE surface based on swath angle. The CARIS Export option \"BASE Surface to Image\" was then used to create a GeoTiff of the priority areas. Slope was derived from this surface using the slope calculator, a function of ESRI's Spatial Analyst extension.",
+	"notes": "This dataset contains a unified GeoTiff with 10x10 meter cell size representing the slope (in degrees) of several deep coral priority areas off the South Atlantic Bight, derived from data collected in November 2010. NOAA's NOS/NCCOS/CCMA Biogeography Branch, in collaboration with NOAA vessel Nancy Foster, as well as federal, university, and private sector partners, acquired multibeam bathymetry data off the South Atlantic Bight from 11/13/2010 to 11/22/2010. Data was acquired with a hull-mounted Kongsberg Simrad EM 122 multibeam echosounder (100 kHz). It was processed by a NOAA contractor using CARIS HIPS software. Attitude and sound velocity correctors applied to the data. Verified tides were not applied to the data, leaving the depth values referenced to the ellipsoid. The imagery is projected in the UTM Zone 17 north, NAD83 datum. The processed CARIS data was used to generate a CARIS BASE surface based on swath angle. The CARIS Export option "BASE Surface to Image" was then used to create a GeoTiff of the priority areas. Slope was derived from this surface using the slope calculator, a function of ESRI's Spatial Analyst extension.",
 	"license_title": null,
 	"extras": [{
 		"key": "bbox-east-long",
-		"value": "\n          -79.546177\n        "
+		"value": "n          -79.546177n        "
 	},
 	{
 		"key": "resource-type",
@@ -99,7 +99,7 @@
 	},
 	{
 		"key": "bbox-north-lat",
-		"value": "\n          30.760517\n        "
+		"value": "n          30.760517n        "
 	},
 	{
 		"key": "coupled-resource",
@@ -115,7 +115,7 @@
 	},
 	{
 		"key": "bbox-south-lat",
-		"value": "\n          24.403821\n        "
+		"value": "n          24.403821n        "
 	},
 	{
 		"key": "spatial-reference-system",
@@ -123,7 +123,7 @@
 	},
 	{
 		"key": "spatial",
-		"value": "{\"type\": \"Polygon\", \"coordinates\": [[[-80.779409, 24.403821], [-79.546177, 24.403821], [-79.546177, 30.760517], [-80.779409, 30.760517], [-80.779409, 24.403821]]]}"
+		"value": "{"type": "Polygon", "coordinates": [[[-80.779409, 24.403821], [-79.546177, 24.403821], [-79.546177, 30.760517], [-80.779409, 30.760517], [-80.779409, 24.403821]]]}"
 	},
 	{
 		"key": "progress",
@@ -131,7 +131,7 @@
 	},
 	{
 		"key": "access_constraints",
-		"value": "[\"Use Constraints: Note: NOT TO BE USED FOR NAVIGATION. These data were prepared by an agency of the United States Government. Neither the United States Government nor any agency thereof, nor any of their employees, make any warranty, expressed or implied, or assumes any legal liability or responsibility for the accuracy, completeness, or usefulness of any information, apparatus, product, or process disclosed in this report, or represents that its use would not infringe privately owned rights. Reference therein to any specific commercial product, process, or service by trade name, trademark, manufacturer, or otherwise does not necessarily constitute or imply its endorsement, recommendation, or favoring by the United States Government or any agency thereof. Any views and opinions of authors expressed herein do not necessarily state or reflect those of the United States Government or any agency thereof. Although all data have been used by NOAA, no warranty, expressed or implied, is made by NOAA as to the accuracy of the data and\/or related materials. The act of distribution shall not constitute any such warranty, and no responsibility is assumed by NOAA in the use of these data or related materials.\", \"Access Constraints: Please cite any use of this data.\"]"
+		"value": "["Use Constraints: Note: NOT TO BE USED FOR NAVIGATION. These data were prepared by an agency of the United States Government. Neither the United States Government nor any agency thereof, nor any of their employees, make any warranty, expressed or implied, or assumes any legal liability or responsibility for the accuracy, completeness, or usefulness of any information, apparatus, product, or process disclosed in this report, or represents that its use would not infringe privately owned rights. Reference therein to any specific commercial product, process, or service by trade name, trademark, manufacturer, or otherwise does not necessarily constitute or imply its endorsement, recommendation, or favoring by the United States Government or any agency thereof. Any views and opinions of authors expressed herein do not necessarily state or reflect those of the United States Government or any agency thereof. Although all data have been used by NOAA, no warranty, expressed or implied, is made by NOAA as to the accuracy of the data and/or related materials. The act of distribution shall not constitute any such warranty, and no responsibility is assumed by NOAA in the use of these data or related materials.", "Access Constraints: Please cite any use of this data."]"
 	},
 	{
 		"key": "temporal-extent-begin",
@@ -143,7 +143,7 @@
 	},
 	{
 		"key": "bbox-west-long",
-		"value": "\n          -80.779409\n        "
+		"value": "n          -80.779409n        "
 	},
 	{
 		"key": "metadata-date",
@@ -151,7 +151,7 @@
 	},
 	{
 		"key": "dataset-reference-date",
-		"value": "[{\"type\": \"publication\", \"value\": \"2011-01-01\"}]"
+		"value": "[{"type": "publication", "value": "2011-01-01"}]"
 	},
 	{
 		"key": "frequency-of-update",
@@ -159,7 +159,7 @@
 	},
 	{
 		"key": "licence",
-		"value": "[\"\\n      These data were prepared by an agency of the United States Government. Neither the United States Government nor any agency thereof, nor any of their employees, make any warranty, expressed or implied, or assumes any legal liability or responsibility for the accuracy, completeness, or usefulness of any information, apparatus, product, or process disclosed in this report, or represents that its use would not infringe privately owned rights. Reference therein to any specific commercial product, process, or service by trade name, trademark, manufacturer, or otherwise does not necessarily constitute or imply its endorsement, recommendation, or favoring by the United States Government or any agency thereof. Any views and opinions of authors expressed herein do not necessarily state or reflect those of the United States Government or any agency thereof. Although all data have been used by NOAA, no warranty, expressed or implied, is made by NOAA as to the accuracy of the data and\/or related materials. The act of distribution shall not constitute any such warranty, and no responsibility is assumed by NOAA in the use of these data or related materials.\\n    \"]"
+		"value": "["\n      These data were prepared by an agency of the United States Government. Neither the United States Government nor any agency thereof, nor any of their employees, make any warranty, expressed or implied, or assumes any legal liability or responsibility for the accuracy, completeness, or usefulness of any information, apparatus, product, or process disclosed in this report, or represents that its use would not infringe privately owned rights. Reference therein to any specific commercial product, process, or service by trade name, trademark, manufacturer, or otherwise does not necessarily constitute or imply its endorsement, recommendation, or favoring by the United States Government or any agency thereof. Any views and opinions of authors expressed herein do not necessarily state or reflect those of the United States Government or any agency thereof. Although all data have been used by NOAA, no warranty, expressed or implied, is made by NOAA as to the accuracy of the data and/or related materials. The act of distribution shall not constitute any such warranty, and no responsibility is assumed by NOAA in the use of these data or related materials.\n    "]"
 	},
 	{
 		"key": "metadata_type",
@@ -167,7 +167,7 @@
 	},
 	{
 		"key": "responsible-party",
-		"value": "[{\"name\": \"Department of Commerce (DOC), National Oceanic and Atmospheric Administration (NOAA), National Ocean Service (NOS), Center for Coastal Monitoring and Assessment (CCMA), Biogeography Branch\", \"roles\": [\"pointOfContact\"]}]"
+		"value": "[{"name": "Department of Commerce (DOC), National Oceanic and Atmospheric Administration (NOAA), National Ocean Service (NOS), Center for Coastal Monitoring and Assessment (CCMA), Biogeography Branch", "roles": ["pointOfContact"]}]"
 	},
 	{
 		"key": "temporal-extent-end",
@@ -183,7 +183,7 @@
 	},
 	{
 		"package_id": "233b2423-a893-4140-9d36-2cb78a000212",
-		"value": "slope, biogeography, habitat, south atlantic bight, simrad em122, aquatic habitat, noaa, nancy foster, reef habitat, benthic, earth science, gis, geographic information, oculina deepwater reef, description, oceans, bathymetry\/seafloor topography, grid, reef, bathymetry, seafloor, raster, multibeam, biosphere, mbes, coral, florida, bathymetry\/topography, sonar, 2009",
+		"value": "slope, biogeography, habitat, south atlantic bight, simrad em122, aquatic habitat, noaa, nancy foster, reef habitat, benthic, earth science, gis, geographic information, oculina deepwater reef, description, oceans, bathymetry/seafloor topography, grid, reef, bathymetry, seafloor, raster, multibeam, biosphere, mbes, coral, florida, bathymetry/topography, sonar, 2009",
 		"revision_timestamp": "2015-11-10T01:33:46.088474",
 		"state": "active",
 		"key": "tags",
@@ -213,7 +213,7 @@
 		"revision_timestamp": "2013-03-25T23:05:12.923863",
 		"is_organization": true,
 		"state": "active",
-		"image_url": "https:\/\/fortress.wa.gov\/dfw\/score\/score\/images\/noaa_logo.png",
+		"image_url": "https://fortress.wa.gov/dfw/score/score/images/noaa_logo.png",
 		"revision_id": "c6d43080-22e1-405e-a83d-f2a512d9e867",
 		"type": "organization",
 		"id": "e811f0b4-451f-4896-9e8f-fc6802837819",

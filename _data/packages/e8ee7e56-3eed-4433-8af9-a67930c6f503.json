@@ -36,7 +36,7 @@
 		"cache_url": null,
 		"name": "Export",
 		"created": "2016-07-15T21:34:56.463049",
-		"url": "http:\/\/water.usgs.gov\/GIS\/dsdl\/climate_div_shp.zip",
+		"url": "http://water.usgs.gov/GIS/dsdl/climate_div_shp.zip",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 0,
@@ -65,7 +65,7 @@
 		"cache_url": null,
 		"name": "Export",
 		"created": "2016-07-15T21:34:56.463078",
-		"url": "http:\/\/water.usgs.gov\/GIS\/dsdl\/climate_div.e00.zip",
+		"url": "http://water.usgs.gov/GIS/dsdl/climate_div.e00.zip",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 1,
@@ -94,7 +94,7 @@
 		"cache_url": null,
 		"name": "Export",
 		"created": "2016-07-15T21:34:56.463088",
-		"url": "http:\/\/water.usgs.gov\/GIS\/dsdl\/climate_div.e00.gz",
+		"url": "http://water.usgs.gov/GIS/dsdl/climate_div.e00.gz",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 2,
@@ -123,7 +123,7 @@
 		"cache_url": null,
 		"name": "Shape",
 		"created": "2016-07-15T21:34:56.463096",
-		"url": "http:\/\/water.usgs.gov\/GIS\/dsdl\/climate_div.tar.gz",
+		"url": "http://water.usgs.gov/GIS/dsdl/climate_div.tar.gz",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 3,
@@ -153,7 +153,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2016-07-15T21:34:56.463104",
-		"url": "http:\/\/water.usgs.gov\/lookup\/getspatial?climate_div",
+		"url": "http://water.usgs.gov/lookup/getspatial?climate_div",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 4,
@@ -201,7 +201,7 @@
 	},
 	{
 		"key": "graphic-preview-file",
-		"value": "http:\/\/water.usgs.gov\/GIS\/browse\/climate_div.gif"
+		"value": "http://water.usgs.gov/GIS/browse/climate_div.gif"
 	},
 	{
 		"key": "bbox-south-lat",
@@ -217,7 +217,7 @@
 	},
 	{
 		"key": "spatial",
-		"value": "{\"type\": \"Polygon\", \"coordinates\": [[[-127.82331176, 23.25677934], [-65.3860479, 23.25677934], [-65.3860479, 48.18683511], [-127.82331176, 48.18683511], [-127.82331176, 23.25677934]]]}"
+		"value": "{"type": "Polygon", "coordinates": [[[-127.82331176, 23.25677934], [-65.3860479, 23.25677934], [-65.3860479, 48.18683511], [-127.82331176, 48.18683511], [-127.82331176, 23.25677934]]]}"
 	},
 	{
 		"key": "progress",
@@ -225,7 +225,7 @@
 	},
 	{
 		"key": "access_constraints",
-		"value": "[\"Use Constraints: The data are of unknown quality and should be used with caution for analytical purposes.\", \"Access Constraints: (describe any restrictions or legal prerequisites for accessing the data set. Put \\\"None\\\" if there are no restrictions)\"]"
+		"value": "["Use Constraints: The data are of unknown quality and should be used with caution for analytical purposes.", "Access Constraints: (describe any restrictions or legal prerequisites for accessing the data set. Put \"None\" if there are no restrictions)"]"
 	},
 	{
 		"key": "contact-email",
@@ -241,7 +241,7 @@
 	},
 	{
 		"key": "dataset-reference-date",
-		"value": "[{\"type\": \"publication\", \"value\": \"1991-01-01\"}]"
+		"value": "[{"type": "publication", "value": "1991-01-01"}]"
 	},
 	{
 		"key": "graphic-preview-description",
@@ -253,7 +253,7 @@
 	},
 	{
 		"key": "licence",
-		"value": "[\"Although this data set has been used by the U.S. Geological\\nSurvey, U.S. Department of the Interior, no warranty expressed or\\nimplied is made by the U.S. Geological Survey as to the accuracy\\nof the data and related materials. The act of distribution shall not \\nconstitute any such warranty, and no responsibility is assumed by \\nthe U.S. Geological Survey in the use of this data, software, or \\nrelated materials.\\n\\nAny use of trade, product, or firm names is for descriptive\\npurposes only and does not imply endorsement by the U.S.\\nGovernment.\"]"
+		"value": "["Although this data set has been used by the U.S. Geological\nSurvey, U.S. Department of the Interior, no warranty expressed or\nimplied is made by the U.S. Geological Survey as to the accuracy\nof the data and related materials. The act of distribution shall not \nconstitute any such warranty, and no responsibility is assumed by \nthe U.S. Geological Survey in the use of this data, software, or \nrelated materials.\n\nAny use of trade, product, or firm names is for descriptive\npurposes only and does not imply endorsement by the U.S.\nGovernment."]"
 	},
 	{
 		"key": "metadata_type",
@@ -261,7 +261,7 @@
 	},
 	{
 		"key": "responsible-party",
-		"value": "[{\"name\": \"U.S. Geological Survey, Water Resources Div. (WRD)\", \"roles\": [\"pointOfContact\"]}]"
+		"value": "[{"name": "U.S. Geological Survey, Water Resources Div. (WRD)", "roles": ["pointOfContact"]}]"
 	},
 	{
 		"key": "spatial-data-service-type",
@@ -303,7 +303,7 @@
 		"revision_timestamp": "2015-01-16T18:28:14.593903",
 		"is_organization": true,
 		"state": "active",
-		"image_url": "http:\/\/upload.wikimedia.org\/wikipedia\/en\/thumb\/4\/44\/University_of_Idaho_seal.svg\/300px-University_of_Idaho_seal.svg.png",
+		"image_url": "http://upload.wikimedia.org/wikipedia/en/thumb/4/44/University_of_Idaho_seal.svg/300px-University_of_Idaho_seal.svg.png",
 		"revision_id": "761955d7-9530-4622-8609-d0b01c78e177",
 		"type": "organization",
 		"id": "75e22a8a-da5f-46f3-93d8-924063a3703d",

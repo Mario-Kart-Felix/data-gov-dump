@@ -34,9 +34,9 @@
 		"resource_locator_protocol": "WWW:LINK-1.0-http--link",
 		"mimetype": null,
 		"cache_url": null,
-		"name": "ftp:\/\/ftp.nefsc.noaa.gov\/",
+		"name": "ftp://ftp.nefsc.noaa.gov/",
 		"created": "2016-08-15T20:50:37.777872",
-		"url": "ftp:\/\/ftp.nefsc.noaa.gov\/",
+		"url": "ftp://ftp.nefsc.noaa.gov/",
 		"webstore_url": null,
 		"resource_locator_function": "download",
 		"position": 0,
@@ -65,7 +65,7 @@
 		"cache_url": null,
 		"name": "Website",
 		"created": "2016-08-15T20:50:37.777904",
-		"url": "http:\/\/www.nefsc.noaa.gov",
+		"url": "http://www.nefsc.noaa.gov",
 		"webstore_url": null,
 		"resource_locator_function": "information",
 		"position": 1,
@@ -94,7 +94,7 @@
 		"cache_url": null,
 		"name": "Website",
 		"created": "2016-08-15T20:50:37.777914",
-		"url": "http:\/\/www.nefsc.noaa.gov",
+		"url": "http://www.nefsc.noaa.gov",
 		"webstore_url": null,
 		"resource_locator_function": "information",
 		"position": 2,
@@ -123,7 +123,7 @@
 		"cache_url": null,
 		"name": "NOAA Data Management Plan (DMP)",
 		"created": "2016-08-15T20:50:37.777922",
-		"url": "https:\/\/inport.nmfs.noaa.gov\/inport\/item\/27387\/dmp",
+		"url": "https://inport.nmfs.noaa.gov/inport/item/27387/dmp",
 		"webstore_url": null,
 		"resource_locator_function": "information",
 		"position": 3,
@@ -140,7 +140,7 @@
 		"state": "active",
 		"last_modified": null,
 		"hash": "",
-		"description": "This page describes the NASA GCMD Keywords, how\n                                                        to reference those keywords and provides download instructions.\n                                                    ",
+		"description": "This page describes the NASA GCMD Keywords, hown                                                        to reference those keywords and provides download instructions.n                                                    ",
 		"format": "HTML",
 		"tracking_summary": {
 			"total": 467,
@@ -152,7 +152,7 @@
 		"cache_url": null,
 		"name": "GCMD Keywords Page",
 		"created": "2016-08-15T20:50:37.777930",
-		"url": "http:\/\/gcmd.nasa.gov\/learn\/keyword_list.html",
+		"url": "http://gcmd.nasa.gov/learn/keyword_list.html",
 		"webstore_url": null,
 		"resource_locator_function": "information",
 		"position": 4,
@@ -174,7 +174,7 @@
 		"revision_timestamp": "2013-03-25T23:05:12.923863",
 		"is_organization": true,
 		"state": "active",
-		"image_url": "https:\/\/fortress.wa.gov\/dfw\/score\/score\/images\/noaa_logo.png",
+		"image_url": "https://fortress.wa.gov/dfw/score/score/images/noaa_logo.png",
 		"revision_id": "c6d43080-22e1-405e-a83d-f2a512d9e867",
 		"type": "organization",
 		"id": "e811f0b4-451f-4896-9e8f-fc6802837819",
@@ -185,7 +185,7 @@
 	"name": "yellowtail-tagging-data-mrdbs",
 	"isopen": false,
 	"url": null,
-	"notes": "The Yellowtail Flounder Tagging Program began in 2003 and works with commercial fishermen to tag and release yellowtaiI flounder with pink and yellow disc tags or green data storage tags throughout New England.  The location, date and various Information is recorded upon the release of the tagged fish and the same information is recorded when the fish is recaptured by fishermen or other reporters.  From this information stock movements, mortality, and growth can be estimated which leads to more accurate biological and stock assessments.\n",
+	"notes": "The Yellowtail Flounder Tagging Program began in 2003 and works with commercial fishermen to tag and release yellowtaiI flounder with pink and yellow disc tags or green data storage tags throughout New England.  The location, date and various Information is recorded upon the release of the tagged fish and the same information is recorded when the fish is recaptured by fishermen or other reporters.  From this information stock movements, mortality, and growth can be estimated which leads to more accurate biological and stock assessments.n",
 	"owner_org": "e811f0b4-451f-4896-9e8f-fc6802837819",
 	"extras": [{
 		"key": "bbox-east-long",
@@ -221,7 +221,7 @@
 	},
 	{
 		"key": "spatial",
-		"value": "{\"type\": \"Polygon\", \"coordinates\": [[[-73.90728, 37.78106], [-65.29399, 37.78106], [-65.29399, 43.18633], [-73.90728, 43.18633], [-73.90728, 37.78106]]]}"
+		"value": "{"type": "Polygon", "coordinates": [[[-73.90728, 37.78106], [-65.29399, 37.78106], [-65.29399, 43.18633], [-73.90728, 43.18633], [-73.90728, 37.78106]]]}"
 	},
 	{
 		"key": "progress",
@@ -229,7 +229,7 @@
 	},
 	{
 		"key": "access_constraints",
-		"value": "[\"Access Constraints: Network access required\\nNEFSC Data Access Constraint:\\nIf data is stored on an internal NEFSC network, the requester may not have direct access to query the data unless they are also authorized for network access. | Use Constraints: Data application should be conducted withinthe scope of the study objectives which are mainly to characterize\/estimate  movement, mortality and growth of yellowtail flounder in the New England region.\"]"
+		"value": "["Access Constraints: Network access required\nNEFSC Data Access Constraint:\nIf data is stored on an internal NEFSC network, the requester may not have direct access to query the data unless they are also authorized for network access. | Use Constraints: Data application should be conducted withinthe scope of the study objectives which are mainly to characterize/estimate  movement, mortality and growth of yellowtail flounder in the New England region."]"
 	},
 	{
 		"key": "temporal-extent-begin",
@@ -249,7 +249,7 @@
 	},
 	{
 		"key": "dataset-reference-date",
-		"value": "[{\"type\": \"publication\", \"value\": \"\"}]"
+		"value": "[{"type": "publication", "value": ""}]"
 	},
 	{
 		"key": "frequency-of-update",
@@ -265,7 +265,7 @@
 	},
 	{
 		"key": "responsible-party",
-		"value": "[{\"name\": \"\", \"roles\": [\"\"]}, {\"name\": \"Northeast Fisheries Science Center\", \"roles\": [\"pointOfContact\", \"custodian\"]}]"
+		"value": "[{"name": "", "roles": [""]}, {"name": "Northeast Fisheries Science Center", "roles": ["pointOfContact", "custodian"]}]"
 	},
 	{
 		"key": "spatial-data-service-type",
@@ -277,7 +277,7 @@
 	},
 	{
 		"key": "tags",
-		"value": "yellowtail flounder, georges bank, doc\/noaa\/nmfs\/nefsc, northeast fisheries science center, national marine fisheries service, noaa, u.s. department of commerce, mortality rates, tag, northeast cooperative research program (ncrp), cooperative research, tagging program, growth, gulf of maine, behavior, southern new england, release, cape cod, mid-atlantic, recapture",
+		"value": "yellowtail flounder, georges bank, doc/noaa/nmfs/nefsc, northeast fisheries science center, national marine fisheries service, noaa, u.s. department of commerce, mortality rates, tag, northeast cooperative research program (ncrp), cooperative research, tagging program, growth, gulf of maine, behavior, southern new england, release, cape cod, mid-atlantic, recapture",
 		"__extras": {
 			"revision_id": "fabbcf3f-4c82-40ff-9b12-78945b8d4343",
 			"package_id": "e1b30fef-841c-4bf5-b0b3-35ec06159563"

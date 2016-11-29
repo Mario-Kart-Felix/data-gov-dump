@@ -36,7 +36,7 @@
 		"cache_url": null,
 		"name": "Service Description",
 		"created": "2013-03-16T01:12:29.971601",
-		"url": "http:\/\/geothermal.isgs.illinois.edu\/ArcGIS\/rest\/services\/aasggeothermal\/VTSurficialGeologyLondonderryQuad\/MapServer",
+		"url": "http://geothermal.isgs.illinois.edu/ArcGIS/rest/services/aasggeothermal/VTSurficialGeologyLondonderryQuad/MapServer",
 		"webstore_url": null,
 		"resource_locator_function": "381",
 		"position": 0,
@@ -65,7 +65,7 @@
 		"cache_url": null,
 		"name": "Service Description",
 		"created": "2013-03-16T01:12:29.971621",
-		"url": "http:\/\/geothermal.isgs.illinois.edu\/ArcGIS\/services\/aasggeothermal\/VTSurficialGeologyLondonderryQuad\/MapServer\/WMSServer?request=GetCapabilities&service=WMS",
+		"url": "http://geothermal.isgs.illinois.edu/ArcGIS/services/aasggeothermal/VTSurficialGeologyLondonderryQuad/MapServer/WMSServer?request=GetCapabilities&service=WMS",
 		"webstore_url": null,
 		"resource_locator_function": "381",
 		"position": 1,
@@ -98,11 +98,11 @@
 	"name": "surficial-geologic-map-of-the-londonderry-quadrangle-vermont",
 	"isopen": false,
 	"url": null,
-	"notes": "Georeferenced surficial geology map image of the Londonderry Quadrangle, Vermont.This resource is published and available as a Web Map Service as well as an ESRI Service. For more information about this resource and its services, please see links provided. \n\n",
+	"notes": "Georeferenced surficial geology map image of the Londonderry Quadrangle, Vermont.This resource is published and available as a Web Map Service as well as an ESRI Service. For more information about this resource and its services, please see links provided. nn",
 	"license_title": null,
 	"extras": [{
 		"key": "responsible-party",
-		"value": "[{\"name\": \"Arizona Geological Survey\", \"roles\": [\"pointOfContact\"]}]"
+		"value": "[{"name": "Arizona Geological Survey", "roles": ["pointOfContact"]}]"
 	},
 	{
 		"key": "contact-email",
@@ -122,7 +122,7 @@
 	},
 	{
 		"key": "dataset-reference-date",
-		"value": "[{\"type\": \"publication\", \"value\": \"1966-07-01T00:00:00\"}]"
+		"value": "[{"type": "publication", "value": "1966-07-01T00:00:00"}]"
 	},
 	{
 		"key": "resource-type",
@@ -158,7 +158,7 @@
 	},
 	{
 		"key": "spatial",
-		"value": "{\"type\": \"Polygon\", \"coordinates\": [[[-73.0, 43.0], [-73.0, 43.25], [-72.25, 43.25], [-72.25, 43.0], [-73.0, 43.0]]]}"
+		"value": "{"type": "Polygon", "coordinates": [[[-73.0, 43.0], [-73.0, 43.25], [-72.25, 43.25], [-72.25, 43.0], [-73.0, 43.0]]]}"
 	},
 	{
 		"key": "guid",
@@ -208,7 +208,7 @@
 		"revision_timestamp": "2013-03-20T21:11:17.592932",
 		"is_organization": true,
 		"state": "active",
-		"image_url": "http:\/\/www.50states.com\/flag\/image\/nunst004.gif",
+		"image_url": "http://www.50states.com/flag/image/nunst004.gif",
 		"revision_id": "61be6428-4398-4199-a336-f3cd1e956f9b",
 		"type": "organization",
 		"id": "f3f6e1d4-64fb-4a2f-b32c-9ac0b76fe4de",

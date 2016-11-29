@@ -24,7 +24,7 @@
 		"state": "active",
 		"last_modified": null,
 		"hash": "",
-		"description": "TIGER products are spatial extracts from the Census Bureau's MAF\/TIGER database.",
+		"description": "TIGER products are spatial extracts from the Census Bureau's MAF/TIGER database.",
 		"format": "HTML",
 		"tracking_summary": {
 			"total": 143,
@@ -36,7 +36,7 @@
 		"cache_url": null,
 		"name": "TIGER Products",
 		"created": "2015-04-29T11:26:45.802586",
-		"url": "http:\/\/www.census.gov\/geo\/maps-data\/data\/tiger.html",
+		"url": "http://www.census.gov/geo/maps-data/data/tiger.html",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 0,
@@ -65,7 +65,7 @@
 		"cache_url": null,
 		"name": "cb_2013_us_cd113_500k.zip",
 		"created": "2015-04-29T11:26:45.802621",
-		"url": "http:\/\/www2.census.gov\/geo\/tiger\/GENZ2013\/cb_2013_us_cd113_500k.zip",
+		"url": "http://www2.census.gov/geo/tiger/GENZ2013/cb_2013_us_cd113_500k.zip",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 1,
@@ -94,7 +94,7 @@
 		"cache_url": null,
 		"name": "Entity and Attribute file for State-Congressional District (113th) for United States, 1:500,000",
 		"created": "2015-04-29T11:26:45.802631",
-		"url": "http:\/\/meta.geo.census.gov\/data\/existing\/decennial\/GEO\/CPMB\/boundary\/2014gz\/cd113_500k\/2014_cd113_500k.ea.iso.xml",
+		"url": "http://meta.geo.census.gov/data/existing/decennial/GEO/CPMB/boundary/2014gz/cd113_500k/2014_cd113_500k.ea.iso.xml",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 2,
@@ -114,7 +114,7 @@
 	"name": "series-information-for-the-2013-cartographic-boundary-file-state-congressional-district-113th-1faa5b",
 	"isopen": false,
 	"url": null,
-	"notes": "The 2013 cartographic boundary shapefiles are simplified representations of selected\n               geographic areas from the U.S. Census Bureau's Master Address File \/ Topologically Integrated Geographic Encoding and Referencing (MAF\/TIGER) Database\n               (MTDB). These boundary files are specifically designed for small-scale thematic mapping. When possible generalization is performed with the intent to\n               maintain the hierarchical relationships among geographies and to maintain the alignment of geographies within a file set for a given year. Geographic\n               areas may not align with the same areas from another year. Some geographies are available as nation-based shapefiles while others are available only as\n               state-based files.",
+	"notes": "The 2013 cartographic boundary shapefiles are simplified representations of selectedn               geographic areas from the U.S. Census Bureau's Master Address File / Topologically Integrated Geographic Encoding and Referencing (MAF/TIGER) Databasen               (MTDB). These boundary files are specifically designed for small-scale thematic mapping. When possible generalization is performed with the intent ton               maintain the hierarchical relationships among geographies and to maintain the alignment of geographies within a file set for a given year. Geographicn               areas may not align with the same areas from another year. Some geographies are available as nation-based shapefiles while others are available only asn               state-based files.",
 	"license_title": null,
 	"extras": [{
 		"key": "bbox-east-long",
@@ -154,7 +154,7 @@
 	},
 	{
 		"key": "spatial",
-		"value": "{\"type\": \"Polygon\", \"coordinates\": [[[-179.231086, -14.601813], [179.859681, -14.601813], [179.859681, 71.441059], [-179.231086, 71.441059], [-179.231086, -14.601813]]]}"
+		"value": "{"type": "Polygon", "coordinates": [[[-179.231086, -14.601813], [179.859681, -14.601813], [179.859681, 71.441059], [-179.231086, 71.441059], [-179.231086, -14.601813]]]}"
 	},
 	{
 		"key": "progress",
@@ -162,7 +162,7 @@
 	},
 	{
 		"key": "access_constraints",
-		"value": "[\"Access Constraints: None\", \"Use Constraints: The intended display scale for this file is 1:500,000.  This file\\n                     should not be displayed at scales larger than 1:500,000.\\n\\n                     These products are free to use in a product or publication, however acknowledgment must be given to the U.S. Census Bureau as the source.  The\\n                     boundary information is for visual display at appropriate small scales only.  Cartographic boundary files should not be used for geographic\\n                     analysis including area or perimeter calculation.  Files should not be used for geocoding addresses.  Files should not be used for determining\\n                     precise geographic area relationships.\", \"Distribution Liability: No warranty, expressed or implied is made with regard to the\\n                     accuracy of these data, and no liability is assumed by the U.S. Government in general or the U.S. Census Bureau in specific as to the spatial or\\n                     attribute accuracy of the data.  The act of distribution shall not constitute any such warranty and no responsibility is assumed by the U.S.\\n                     government in the use of these files.  The boundary information is for small-scale mapping purposes only; boundary depiction and designation for\\n                     small-scale mapping purposes do not constitute a determination of jurisdictional authority or rights of ownership or entitlement and they are not\\n                     legal land descriptions.\"]"
+		"value": "["Access Constraints: None", "Use Constraints: The intended display scale for this file is 1:500,000.  This file\n                     should not be displayed at scales larger than 1:500,000.\n\n                     These products are free to use in a product or publication, however acknowledgment must be given to the U.S. Census Bureau as the source.  The\n                     boundary information is for visual display at appropriate small scales only.  Cartographic boundary files should not be used for geographic\n                     analysis including area or perimeter calculation.  Files should not be used for geocoding addresses.  Files should not be used for determining\n                     precise geographic area relationships.", "Distribution Liability: No warranty, expressed or implied is made with regard to the\n                     accuracy of these data, and no liability is assumed by the U.S. Government in general or the U.S. Census Bureau in specific as to the spatial or\n                     attribute accuracy of the data.  The act of distribution shall not constitute any such warranty and no responsibility is assumed by the U.S.\n                     government in the use of these files.  The boundary information is for small-scale mapping purposes only; boundary depiction and designation for\n                     small-scale mapping purposes do not constitute a determination of jurisdictional authority or rights of ownership or entitlement and they are not\n                     legal land descriptions."]"
 	},
 	{
 		"key": "temporal-extent-begin",
@@ -182,7 +182,7 @@
 	},
 	{
 		"key": "dataset-reference-date",
-		"value": "[{\"type\": \"publication\", \"value\": \"201404\"}]"
+		"value": "[{"type": "publication", "value": "201404"}]"
 	},
 	{
 		"key": "frequency-of-update",
@@ -240,7 +240,7 @@
 		"revision_timestamp": "2013-08-29T13:37:04.171127",
 		"is_organization": true,
 		"state": "active",
-		"image_url": "http:\/\/www.census.gov\/main\/img\/home\/CensusLogo-white.png",
+		"image_url": "http://www.census.gov/main/img/home/CensusLogo-white.png",
 		"revision_id": "0995f525-d563-4254-a535-af5b926fe663",
 		"type": "organization",
 		"id": "31c49abe-512a-412a-9cc7-5b2601325d6b",

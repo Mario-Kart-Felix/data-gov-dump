@@ -36,7 +36,7 @@
 		"cache_url": null,
 		"name": "Zipped Personal geodatabase containing Colorado Active Faults data",
 		"created": "2013-03-16T00:33:48.270367",
-		"url": "http:\/\/repository.stategeothermaldata.org\/metadata\/record\/9e15e1a59b768b330d029e86dc1a10a1\/file\/coactivefaults.zip",
+		"url": "http://repository.stategeothermaldata.org/metadata/record/9e15e1a59b768b330d029e86dc1a10a1/file/coactivefaults.zip",
 		"webstore_url": null,
 		"resource_locator_function": "375",
 		"position": 0,
@@ -65,7 +65,7 @@
 		"cache_url": null,
 		"name": "WMS Capabilities",
 		"created": "2013-03-16T00:33:48.270388",
-		"url": "http:\/\/web2.nbmg.unr.edu\/ArcGIS\/services\/CO_data\/COActiveFaults\/MapServer\/WMSServer?request=GetCapabilities&service=WMS",
+		"url": "http://web2.nbmg.unr.edu/ArcGIS/services/CO_data/COActiveFaults/MapServer/WMSServer?request=GetCapabilities&service=WMS",
 		"webstore_url": null,
 		"resource_locator_function": "375",
 		"position": 1,
@@ -94,7 +94,7 @@
 		"cache_url": null,
 		"name": "WFS Capabilities",
 		"created": "2013-03-16T00:33:48.270397",
-		"url": "http:\/\/web2.nbmg.unr.edu\/ArcGIS\/services\/CO_data\/COActiveFaults\/MapServer\/WFSServer?request=GetCapabilities&service=WFS",
+		"url": "http://web2.nbmg.unr.edu/ArcGIS/services/CO_data/COActiveFaults/MapServer/WFSServer?request=GetCapabilities&service=WFS",
 		"webstore_url": null,
 		"resource_locator_function": "381",
 		"position": 2,
@@ -123,7 +123,7 @@
 		"cache_url": null,
 		"name": "Service Description",
 		"created": "2013-03-16T00:33:48.270404",
-		"url": "http:\/\/web2.nbmg.unr.edu\/ArcGIS\/rest\/services\/CO_data\/COActiveFaults\/MapServer",
+		"url": "http://web2.nbmg.unr.edu/ArcGIS/rest/services/CO_data/COActiveFaults/MapServer",
 		"webstore_url": null,
 		"resource_locator_function": "381",
 		"position": 3,
@@ -156,11 +156,11 @@
 	"name": "colorado-active-faults",
 	"isopen": false,
 	"url": null,
-	"notes": "This dataset contains quaternary fault features compiled by the Colorado Geological Survey, and published as a Web feature service for the National Geothermal Data System. Fields in the Quaternary (active) Fault Content Model will become XML elements in interchange documents for WMS simple features provided by a node in the USGIN network. Each feature includes a Fault Name, Feature type, geologic age (if available) and Source. The dataset is spatially referenced to EPSG: 4326 (for interoperability). The data contained in the submitted dataset is available as a personal geodatabase, ESRI service, WMS and WFS service. Link to Quaternary (Active) Fault Content Model: http:\/\/stategeothermaldata.org\/data_delivery\/content_models\/active_faultquaternary_fault.",
+	"notes": "This dataset contains quaternary fault features compiled by the Colorado Geological Survey, and published as a Web feature service for the National Geothermal Data System. Fields in the Quaternary (active) Fault Content Model will become XML elements in interchange documents for WMS simple features provided by a node in the USGIN network. Each feature includes a Fault Name, Feature type, geologic age (if available) and Source. The dataset is spatially referenced to EPSG: 4326 (for interoperability). The data contained in the submitted dataset is available as a personal geodatabase, ESRI service, WMS and WFS service. Link to Quaternary (Active) Fault Content Model: http://stategeothermaldata.org/data_delivery/content_models/active_faultquaternary_fault.",
 	"license_title": null,
 	"extras": [{
 		"key": "responsible-party",
-		"value": "[{\"name\": \"Arizona Geological Survey\", \"roles\": [\"pointOfContact\"]}]"
+		"value": "[{"name": "Arizona Geological Survey", "roles": ["pointOfContact"]}]"
 	},
 	{
 		"key": "contact-email",
@@ -180,7 +180,7 @@
 	},
 	{
 		"key": "dataset-reference-date",
-		"value": "[{\"type\": \"publication\", \"value\": \"2013-01-08T00:00:00\"}]"
+		"value": "[{"type": "publication", "value": "2013-01-08T00:00:00"}]"
 	},
 	{
 		"key": "resource-type",
@@ -216,7 +216,7 @@
 	},
 	{
 		"key": "spatial",
-		"value": "{\"type\": \"Polygon\", \"coordinates\": [[[-109.379882812, 36.7740924946], [-109.379882812, 41.409775832], [-101.557617188, 41.409775832], [-101.557617188, 36.7740924946], [-109.379882812, 36.7740924946]]]}"
+		"value": "{"type": "Polygon", "coordinates": [[[-109.379882812, 36.7740924946], [-109.379882812, 41.409775832], [-101.557617188, 41.409775832], [-101.557617188, 36.7740924946], [-109.379882812, 36.7740924946]]]}"
 	},
 	{
 		"key": "guid",
@@ -266,7 +266,7 @@
 		"revision_timestamp": "2013-03-20T21:11:17.592932",
 		"is_organization": true,
 		"state": "active",
-		"image_url": "http:\/\/www.50states.com\/flag\/image\/nunst004.gif",
+		"image_url": "http://www.50states.com/flag/image/nunst004.gif",
 		"revision_id": "61be6428-4398-4199-a336-f3cd1e956f9b",
 		"type": "organization",
 		"id": "f3f6e1d4-64fb-4a2f-b32c-9ac0b76fe4de",

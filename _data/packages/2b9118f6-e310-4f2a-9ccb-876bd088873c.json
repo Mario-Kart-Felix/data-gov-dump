@@ -37,7 +37,7 @@
 		"cache_url": null,
 		"name": "Zip File",
 		"created": "2013-03-15T17:36:58.541232",
-		"url": "http:\/\/certmapper.cr.usgs.gov\/data\/nca\/pp1625b\/spatial\/shape\/kaifing.zip",
+		"url": "http://certmapper.cr.usgs.gov/data/nca/pp1625b/spatial/shape/kaifing.zip",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 0,
@@ -67,7 +67,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2013-03-15T17:36:58.541247",
-		"url": "http:\/\/energy.cr.usgs.gov\/coal\/coal_assessments\/startmap.html",
+		"url": "http://energy.cr.usgs.gov/coal/coal_assessments/startmap.html",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 1,
@@ -97,7 +97,7 @@
 		"cache_url": null,
 		"name": "Zip File",
 		"created": "2013-03-15T17:36:58.541252",
-		"url": "http:\/\/certmapper.cr.usgs.gov\/data\/nca\/pp1625b\/spatial\/shape\/kaifing.zip",
+		"url": "http://certmapper.cr.usgs.gov/data/nca/pp1625b/spatial/shape/kaifing.zip",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 2,
@@ -127,7 +127,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2013-03-15T17:36:58.541255",
-		"url": "http:\/\/energy.cr.usgs.gov\/coal\/coal_assessments\/summary.html",
+		"url": "http://energy.cr.usgs.gov/coal/coal_assessments/summary.html",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 3,
@@ -157,7 +157,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2013-03-15T17:36:58.541259",
-		"url": "http:\/\/pubs.usgs.gov\/pp\/p1625b\/",
+		"url": "http://pubs.usgs.gov/pp/p1625b/",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 4,
@@ -177,11 +177,11 @@
 	"name": "unioned-layers-of-coal-resource-calculation-in-the-kaiparowits-plateau-study-area-southern-utah",
 	"isopen": false,
 	"url": null,
-	"notes": "These are shapefiles and polygon coverages that contain numerous attributes of information on coal in the Calico and A-sequences of the Upper Cretaceous Straight Cliffs Formation in the Kaiparowits Plateau study area in southern Utah. These layers were derived from a \"union\" process of combining numerous polygon coverages using the Environmental Systems Research Institute, Inc. (ESRI) Arc\/Info UNION command, and finally calculating coal tonnage in INFO. Net coal thickness values are from 209 data points and represent all coal beds that are more than 1 foot thick. The outside polygon defines the base of the coal-bearing Calico and A-sequences east of 112 degrees of longitude. The northern boundary is delineated by the Paunsaugunt fault and basal outcrops of volcanic rocks of Tertiary age.",
+	"notes": "These are shapefiles and polygon coverages that contain numerous attributes of information on coal in the Calico and A-sequences of the Upper Cretaceous Straight Cliffs Formation in the Kaiparowits Plateau study area in southern Utah. These layers were derived from a "union" process of combining numerous polygon coverages using the Environmental Systems Research Institute, Inc. (ESRI) Arc/Info UNION command, and finally calculating coal tonnage in INFO. Net coal thickness values are from 209 data points and represent all coal beds that are more than 1 foot thick. The outside polygon defines the base of the coal-bearing Calico and A-sequences east of 112 degrees of longitude. The northern boundary is delineated by the Paunsaugunt fault and basal outcrops of volcanic rocks of Tertiary age.",
 	"license_title": null,
 	"extras": [{
 		"key": "responsible-party",
-		"value": "[{\"name\": \"U.S. Geological Survey\", \"roles\": [\"pointOfContact\"]}]"
+		"value": "[{"name": "U.S. Geological Survey", "roles": ["pointOfContact"]}]"
 	},
 	{
 		"key": "contact-email",
@@ -201,7 +201,7 @@
 	},
 	{
 		"key": "dataset-reference-date",
-		"value": "[{\"type\": \"publication\", \"value\": \"2000-01-01\"}]"
+		"value": "[{"type": "publication", "value": "2000-01-01"}]"
 	},
 	{
 		"key": "resource-type",
@@ -229,7 +229,7 @@
 	},
 	{
 		"key": "licence",
-		"value": "[\"\\nDisclaimer: Any use of trade, product, or company names in this\\npublication is for descriptive purposes only and does not imply\\nendorsement by the U.S. Government. Although these data have been\\nprocessed successfully on a computer system at the U.S.\\nGeological Survey, no warranty expressed or implied is made by\\nthe USGS regarding the utility of the data on any other system,\\nnor shall the act of distribution constitute any such warranty.\\n\"]"
+		"value": "["\nDisclaimer: Any use of trade, product, or company names in this\npublication is for descriptive purposes only and does not imply\nendorsement by the U.S. Government. Although these data have been\nprocessed successfully on a computer system at the U.S.\nGeological Survey, no warranty expressed or implied is made by\nthe USGS regarding the utility of the data on any other system,\nnor shall the act of distribution constitute any such warranty.\n"]"
 	},
 	{
 		"key": "metadata_type",
@@ -237,7 +237,7 @@
 	},
 	{
 		"key": "spatial",
-		"value": "{\"type\": \"Polygon\", \"coordinates\": [[[-112.0039707, 37.0697418], [-112.0039707, 37.94843707], [-111.0066559, 37.94843707], [-111.0066559, 37.0697418], [-112.0039707, 37.0697418]]]}"
+		"value": "{"type": "Polygon", "coordinates": [[[-112.0039707, 37.0697418], [-112.0039707, 37.94843707], [-111.0066559, 37.94843707], [-111.0066559, 37.0697418], [-112.0039707, 37.0697418]]]}"
 	},
 	{
 		"key": "guid",
@@ -249,11 +249,11 @@
 	},
 	{
 		"key": "access_constraints",
-		"value": "[\"Use Constraints: CARE SHOULD BE TAKEN IN USING THE COAL THICKNESS VALUES CONTAINED IN THIS COVERAGE. Coal thickness values in hypothetical areas (item REL = 'hypo' for \\\"hypothetical reliability\\\") reflect decreased levels of accuracy for calculated coal thickness based on their distance from a data point. Limitations of the net coal method used to calculate these resources characterize this data set as being a GUIDE TO WHERE THE THICKEST NET COAL AREAS ARE LIKELY TO BE. These data sets serve as an overall picture of the distribution and relative amount of coal. These coverages represent coal distribution based on the available data. These data sets cannot be used for mine planning or to calculate reserves. Additional work is required to determine the mineability and economics of these coal deposits.\", \"Access Constraints: None\"]"
+		"value": "["Use Constraints: CARE SHOULD BE TAKEN IN USING THE COAL THICKNESS VALUES CONTAINED IN THIS COVERAGE. Coal thickness values in hypothetical areas (item REL = 'hypo' for \"hypothetical reliability\") reflect decreased levels of accuracy for calculated coal thickness based on their distance from a data point. Limitations of the net coal method used to calculate these resources characterize this data set as being a GUIDE TO WHERE THE THICKEST NET COAL AREAS ARE LIKELY TO BE. These data sets serve as an overall picture of the distribution and relative amount of coal. These coverages represent coal distribution based on the available data. These data sets cannot be used for mine planning or to calculate reserves. Additional work is required to determine the mineability and economics of these coal deposits.", "Access Constraints: None"]"
 	},
 	{
 		"key": "graphic-preview-file",
-		"value": "http:\/\/certmapper.cr.usgs.gov\/data\/nca\/pp1625b\/graphic\/kaifing.jpg"
+		"value": "http://certmapper.cr.usgs.gov/data/nca/pp1625b/graphic/kaifing.jpg"
 	},
 	{
 		"key": "frequency-of-update",
@@ -284,14 +284,14 @@
 		"value": "USGS Energy Resource Program Data Finder"
 	}],
 	"organization": {
-		"description": "http:\/\/www.usgs.gov\/\r\nThe USGS is a federal science agency that provides impartial information on the health of our ecosystems and environment, the natural hazards that threaten us, the natural resources we rely on, the impacts of climate and land-use change, and the core science systems that help us provide timely, relevant, and useable information.",
+		"description": "http://www.usgs.gov/rnThe USGS is a federal science agency that provides impartial information on the health of our ecosystems and environment, the natural hazards that threaten us, the natural resources we rely on, the impacts of climate and land-use change, and the core science systems that help us provide timely, relevant, and useable information.",
 		"created": "2013-03-14T03:44:38.263357",
 		"title": "U.S. Geological Survey, Department of the Interior",
 		"name": "usgs-gov",
 		"revision_timestamp": "2014-09-02T13:43:52.167023",
 		"is_organization": true,
 		"state": "active",
-		"image_url": "http:\/\/pubs.usgs.gov\/sir\/2004\/5296\/04-5296_confluence_park\/usgs_logo.gif",
+		"image_url": "http://pubs.usgs.gov/sir/2004/5296/04-5296_confluence_park/usgs_logo.gif",
 		"revision_id": "2858aa99-9501-4f96-82e5-9647b968ed66",
 		"type": "organization",
 		"id": "bd2cdd5a-4d65-46c0-9937-c8381175f104",

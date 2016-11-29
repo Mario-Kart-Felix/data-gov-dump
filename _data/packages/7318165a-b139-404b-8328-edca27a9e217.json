@@ -37,7 +37,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2015-10-11T16:12:30.330369",
-		"url": "http:\/\/www.osdpd.noaa.gov\/ml\/land\/hms.html",
+		"url": "http://www.osdpd.noaa.gov/ml/land/hms.html",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 0,
@@ -66,7 +66,7 @@
 		"cache_url": null,
 		"name": "GCMD Feedback Form",
 		"created": "2015-10-11T16:12:30.330393",
-		"url": "http:\/\/gcmd.nasa.gov\/MailComments\/MailComments.jsf?rcpt=gcmduso",
+		"url": "http://gcmd.nasa.gov/MailComments/MailComments.jsf?rcpt=gcmduso",
 		"webstore_url": null,
 		"resource_locator_function": "information",
 		"position": 1,
@@ -95,7 +95,7 @@
 		"cache_url": null,
 		"name": "GCMD Keywords Page",
 		"created": "2015-10-11T16:12:30.330401",
-		"url": "http:\/\/gcmd.nasa.gov\/learn\/keyword_list.html",
+		"url": "http://gcmd.nasa.gov/learn/keyword_list.html",
 		"webstore_url": null,
 		"resource_locator_function": "information",
 		"position": 2,
@@ -142,7 +142,7 @@
 	"name": "nesdis-hazard-mapping-system-fire-and-smoke-program",
 	"isopen": false,
 	"url": null,
-	"notes": "The Satellite Services Division of NESDIS\/NOAA created an interactive Web-based GIS used to display satellite data of fire detects in near-real time. It converts the data to a format compatible with ArcIMS and creates a steady flow of the data to the Web Server. The Web Server updates the data being displayed on the internet by deleting the old data and displaying new data. The analyzed fires and smoke layer are update primarily between the hours of 1 pm and 11 pm Eastern time, with occasional updates during the rest of the day. The automated layers are updated twenty-four hours a day as new satellite imagery is received. The product covers the continental United States, Alaska and Hawaii.",
+	"notes": "The Satellite Services Division of NESDIS/NOAA created an interactive Web-based GIS used to display satellite data of fire detects in near-real time. It converts the data to a format compatible with ArcIMS and creates a steady flow of the data to the Web Server. The Web Server updates the data being displayed on the internet by deleting the old data and displaying new data. The analyzed fires and smoke layer are update primarily between the hours of 1 pm and 11 pm Eastern time, with occasional updates during the rest of the day. The automated layers are updated twenty-four hours a day as new satellite imagery is received. The product covers the continental United States, Alaska and Hawaii.",
 	"license_title": null,
 	"extras": [{
 		"key": "bbox-east-long",
@@ -150,7 +150,7 @@
 	},
 	{
 		"key": "__category_tag_008741df-42eb-48ba-9e87-f69eb6e7d321",
-		"value": "[\"Fire Hazard\"]"
+		"value": "["Fire Hazard"]"
 	},
 	{
 		"key": "resource-type",
@@ -178,7 +178,7 @@
 	},
 	{
 		"key": "__category_tag_aa0c01c9-d292-4dc1-8fec-b10c1bb629a9",
-		"value": "[\"Energy Infrastructure\"]"
+		"value": "["Energy Infrastructure"]"
 	},
 	{
 		"key": "spatial-reference-system",
@@ -186,7 +186,7 @@
 	},
 	{
 		"key": "spatial",
-		"value": "{\"type\": \"Polygon\", \"coordinates\": [[[-165.0, 5.0], [-65.0, 5.0], [-65.0, 60.0], [-165.0, 60.0], [-165.0, 5.0]]]}"
+		"value": "{"type": "Polygon", "coordinates": [[[-165.0, 5.0], [-65.0, 5.0], [-65.0, 60.0], [-165.0, 60.0], [-165.0, 5.0]]]}"
 	},
 	{
 		"key": "progress",
@@ -194,7 +194,7 @@
 	},
 	{
 		"key": "access_constraints",
-		"value": "[\"Use Constraints: The information on fire position should be used as a general guidance and for strategic planning. Tactical decisions, such as the activation of a response to fight these fires, should not be made without other information to corroborate the fire's existence and location. Users should note:1) Fires from the automatic detection algorithms outside the US may be included in some of the images, BUT they have not been quality controlled. Only the fires within the US have been scrutinized by the analysts.2) The HMS product for any given day is created and updated by a satellite analyst between 1pm and 11pm Eastern time. After 11pm, the analysis is fine-tuned as time permits. The final product for the previous day is \\\"completed\\\" for the archive at the beginning of the next day's fire shift.3) The fire sizes depicted in the product are primarily determined by the field of view of the satellite instrument, or the resolution of the analysis tool. They should not be used toestimate specific fire perimeters.\", \"Access Constraints: None\"]"
+		"value": "["Use Constraints: The information on fire position should be used as a general guidance and for strategic planning. Tactical decisions, such as the activation of a response to fight these fires, should not be made without other information to corroborate the fire's existence and location. Users should note:1) Fires from the automatic detection algorithms outside the US may be included in some of the images, BUT they have not been quality controlled. Only the fires within the US have been scrutinized by the analysts.2) The HMS product for any given day is created and updated by a satellite analyst between 1pm and 11pm Eastern time. After 11pm, the analysis is fine-tuned as time permits. The final product for the previous day is \"completed\" for the archive at the beginning of the next day's fire shift.3) The fire sizes depicted in the product are primarily determined by the field of view of the satellite instrument, or the resolution of the analysis tool. They should not be used toestimate specific fire perimeters.", "Access Constraints: None"]"
 	},
 	{
 		"key": "temporal-extent-begin",
@@ -214,7 +214,7 @@
 	},
 	{
 		"key": "dataset-reference-date",
-		"value": "[{\"type\": \"publication\", \"value\": \"2002-01-01\"}]"
+		"value": "[{"type": "publication", "value": "2002-01-01"}]"
 	},
 	{
 		"key": "frequency-of-update",
@@ -222,7 +222,7 @@
 	},
 	{
 		"key": "licence",
-		"value": "[\"The information on fire position should be used as a general guidance and for strategic planning. Tactical decisions, such as the activation of a response to fight these fires, should not be made without other information to corroborate the fire's existence and location.This server and data are not considered \\\"operational\\\". We do not guarantee availabilityor timely delivery of data and the server should not be used to support operationalobservation, forecasting, emergency, or disaster mitigation operations, either public orprivate.\"]"
+		"value": "["The information on fire position should be used as a general guidance and for strategic planning. Tactical decisions, such as the activation of a response to fight these fires, should not be made without other information to corroborate the fire's existence and location.This server and data are not considered \"operational\". We do not guarantee availabilityor timely delivery of data and the server should not be used to support operationalobservation, forecasting, emergency, or disaster mitigation operations, either public orprivate."]"
 	},
 	{
 		"key": "metadata_type",
@@ -230,7 +230,7 @@
 	},
 	{
 		"key": "responsible-party",
-		"value": "[{\"name\": \"National Oceanic and Atmospheric Administration (NOAA), National Environmental Satellite, Data and Information Service (NESDIS), Office of Satellite Data Processing and Distribution (OSDPD), Satellite Services Division (SSD), Fire Detection Program\", \"roles\": [\"pointOfContact\"]}]"
+		"value": "[{"name": "National Oceanic and Atmospheric Administration (NOAA), National Environmental Satellite, Data and Information Service (NESDIS), Office of Satellite Data Processing and Distribution (OSDPD), Satellite Services Division (SSD), Fire Detection Program", "roles": ["pointOfContact"]}]"
 	},
 	{
 		"key": "spatial-data-service-type",
@@ -242,7 +242,7 @@
 	},
 	{
 		"package_id": "7318165a-b139-404b-8328-edca27a9e217",
-		"value": "automated biomass burning algorithm, hms fire and smoke product, hawaii, moderate resolution imaging spectroradiometer fire algorithm, abba, wf-abba, fire identification mapping and monitoring algorithm, modis, hazard mapping system fire and smoke program, alaska, doc\/noaa\/nesdis\/ngdc, fimma, united states, continental united states, avhrr instrument, national centers for environmental information, nesdis, noaa, u.s. department of commerce, doc\/noaa\/nesdis\/ncei, wildfire automated biomass burning algorithm, goes weather satellite, national geophysical data center, nesdis, noaa, u.s. department of commerce",
+		"value": "automated biomass burning algorithm, hms fire and smoke product, hawaii, moderate resolution imaging spectroradiometer fire algorithm, abba, wf-abba, fire identification mapping and monitoring algorithm, modis, hazard mapping system fire and smoke program, alaska, doc/noaa/nesdis/ngdc, fimma, united states, continental united states, avhrr instrument, national centers for environmental information, nesdis, noaa, u.s. department of commerce, doc/noaa/nesdis/ncei, wildfire automated biomass burning algorithm, goes weather satellite, national geophysical data center, nesdis, noaa, u.s. department of commerce",
 		"revision_timestamp": "2015-10-11T20:12:30.269407",
 		"state": "active",
 		"key": "tags",
@@ -272,7 +272,7 @@
 		"revision_timestamp": "2013-03-25T23:05:12.923863",
 		"is_organization": true,
 		"state": "active",
-		"image_url": "https:\/\/fortress.wa.gov\/dfw\/score\/score\/images\/noaa_logo.png",
+		"image_url": "https://fortress.wa.gov/dfw/score/score/images/noaa_logo.png",
 		"revision_id": "c6d43080-22e1-405e-a83d-f2a512d9e867",
 		"type": "organization",
 		"id": "e811f0b4-451f-4896-9e8f-fc6802837819",

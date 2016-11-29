@@ -37,7 +37,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2013-03-14T20:46:24.061814",
-		"url": "http:\\\\www.kansasgis.org",
+		"url": "http:\\www.kansasgis.org",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 0,
@@ -67,7 +67,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2013-03-14T20:46:24.061835",
-		"url": "http:\/\/www.kansasgis.org",
+		"url": "http://www.kansasgis.org",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 1,
@@ -87,7 +87,7 @@
 	"name": "emergency-medical-service-ems-stations",
 	"isopen": false,
 	"url": null,
-	"notes": "EMS Locations in Kansas The EMS stations dataset consists of any location where emergency medical services (EMS) personnel are stationed or based out of, or where equipment that such personnel use in carrying out their jobs is stored for ready use. Ambulance services are included even if they only provide transportation services, but not if they are located at, and operated by, a hospital. If an independent ambulance service or EMS provider happens to be collocated with a hospital, it will be included in this dataset. The dataset includes both private and governmental entities. This dataset is comprised completely of license free data. The Fire Station dataset and the EMS dataset were merged into one working file. TGS processed as one file and then separated for delivery purposes. Records with \"-DOD\" appended to the end of the [NAME] value are located on a military base, as defined by the Defense Installation Spatial Data Infrastructure (DISDI) military installations and military range boundaries. Text fields in this dataset have been set to all upper case to facilitate consistent database engine search results. All diacritics (e.g., the German umlaut or the Spanish tilde) have been replaced with their closest equivalent English character to facilitate use with database systems that may not support diacritics. The currentness of this dataset is indicated by the [CONTDATE] field. Based upon this field, the oldest record dates from 10\/16\/2006 and the newest record dates from 08\/11\/2008",
+	"notes": "EMS Locations in Kansas The EMS stations dataset consists of any location where emergency medical services (EMS) personnel are stationed or based out of, or where equipment that such personnel use in carrying out their jobs is stored for ready use. Ambulance services are included even if they only provide transportation services, but not if they are located at, and operated by, a hospital. If an independent ambulance service or EMS provider happens to be collocated with a hospital, it will be included in this dataset. The dataset includes both private and governmental entities. This dataset is comprised completely of license free data. The Fire Station dataset and the EMS dataset were merged into one working file. TGS processed as one file and then separated for delivery purposes. Records with "-DOD" appended to the end of the [NAME] value are located on a military base, as defined by the Defense Installation Spatial Data Infrastructure (DISDI) military installations and military range boundaries. Text fields in this dataset have been set to all upper case to facilitate consistent database engine search results. All diacritics (e.g., the German umlaut or the Spanish tilde) have been replaced with their closest equivalent English character to facilitate use with database systems that may not support diacritics. The currentness of this dataset is indicated by the [CONTDATE] field. Based upon this field, the oldest record dates from 10/16/2006 and the newest record dates from 08/11/2008",
 	"license_title": null,
 	"extras": [{
 		"key": "temporal-extent-begin",
@@ -107,7 +107,7 @@
 	},
 	{
 		"key": "bbox-west-long",
-		"value": "\n-101.896699"
+		"value": "n-101.896699"
 	},
 	{
 		"key": "metadata-date",
@@ -115,7 +115,7 @@
 	},
 	{
 		"key": "dataset-reference-date",
-		"value": "[{\"type\": \"publication\", \"value\": \"2008-09-19\"}]"
+		"value": "[{"type": "publication", "value": "2008-09-19"}]"
 	},
 	{
 		"key": "resource-type",
@@ -123,7 +123,7 @@
 	},
 	{
 		"key": "bbox-east-long",
-		"value": "\n-94.614857"
+		"value": "n-94.614857"
 	},
 	{
 		"key": "spatial-reference-system",
@@ -131,7 +131,7 @@
 	},
 	{
 		"key": "bbox-north-lat",
-		"value": "\n39.899959"
+		"value": "n39.899959"
 	},
 	{
 		"key": "coupled-resource",
@@ -139,11 +139,11 @@
 	},
 	{
 		"key": "bbox-south-lat",
-		"value": "\n37.000593"
+		"value": "n37.000593"
 	},
 	{
 		"key": "licence",
-		"value": "[\"The State of Kansas Geographic Information Systems Core Database's digital data have been tested and their documentation carefully reviewed. However, the State of Kansas Geographic Information Systems Policy Board's Data Access and Support Center and its representatives make no warranty or representation, either expressed or implied, with respect to the digital data and their documentation, their quality, performance, merchantability, or fitness for a particular purpose. The digital data are distributed on \\\"as is\\\" basis, and the user assumes all risk to their quality, the results obtained from their use, and the performance of the data. In no event will the State of Kansas Geographic Information Systems Policy Board or its representatives be liable for any direct, indirect, special, incidental or consequential damages resulting from and defect in the State of Kansas Geographic Information Systems Core Database's digital data or in their documentation. This disclaimer of warranty is exlusive and in lieu of all others, oral or written, express or implied. No agent or employee is authorized to make any modification, extension, or addition to this warranty.\"]"
+		"value": "["The State of Kansas Geographic Information Systems Core Database's digital data have been tested and their documentation carefully reviewed. However, the State of Kansas Geographic Information Systems Policy Board's Data Access and Support Center and its representatives make no warranty or representation, either expressed or implied, with respect to the digital data and their documentation, their quality, performance, merchantability, or fitness for a particular purpose. The digital data are distributed on \"as is\" basis, and the user assumes all risk to their quality, the results obtained from their use, and the performance of the data. In no event will the State of Kansas Geographic Information Systems Policy Board or its representatives be liable for any direct, indirect, special, incidental or consequential damages resulting from and defect in the State of Kansas Geographic Information Systems Core Database's digital data or in their documentation. This disclaimer of warranty is exlusive and in lieu of all others, oral or written, express or implied. No agent or employee is authorized to make any modification, extension, or addition to this warranty."]"
 	},
 	{
 		"key": "metadata_type",
@@ -151,11 +151,11 @@
 	},
 	{
 		"key": "responsible-party",
-		"value": "[{\"name\": \"TechniGraphics, Inc.\", \"roles\": [\"pointOfContact\"]}]"
+		"value": "[{"name": "TechniGraphics, Inc.", "roles": ["pointOfContact"]}]"
 	},
 	{
 		"key": "spatial",
-		"value": "{\"type\": \"Polygon\", \"coordinates\": [[[-101.896699, 37.000593], [-101.896699, 39.899959], [-94.614857, 39.899959], [-94.614857, 37.000593], [-101.896699, 37.000593]]]}"
+		"value": "{"type": "Polygon", "coordinates": [[[-101.896699, 37.000593], [-101.896699, 39.899959], [-94.614857, 39.899959], [-94.614857, 37.000593], [-101.896699, 37.000593]]]}"
 	},
 	{
 		"key": "guid",
@@ -167,7 +167,7 @@
 	},
 	{
 		"key": "access_constraints",
-		"value": "[\"Use Constraints: None\", \"Access Constraints: None\"]"
+		"value": "["Use Constraints: None", "Access Constraints: None"]"
 	},
 	{
 		"key": "frequency-of-update",
@@ -205,7 +205,7 @@
 		"revision_timestamp": "2013-05-30T15:56:28.333515",
 		"is_organization": true,
 		"state": "active",
-		"image_url": "http:\/\/www.kansasgis.org\/_style\/img\/banner.png",
+		"image_url": "http://www.kansasgis.org/_style/img/banner.png",
 		"revision_id": "649a4ecd-dd72-4628-b80e-cea6a4f616d2",
 		"type": "organization",
 		"id": "56d45844-910f-4632-a4ff-bf5f0e6cb653",

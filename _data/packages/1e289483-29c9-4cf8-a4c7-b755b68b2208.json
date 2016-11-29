@@ -36,7 +36,7 @@
 		"cache_url": null,
 		"name": "File Information",
 		"created": "2014-10-06T10:24:36.646038",
-		"url": "http:\/\/cida.usgs.gov\/thredds\/dodsC\/mows\/pe.html",
+		"url": "http://cida.usgs.gov/thredds/dodsC/mows/pe.html",
 		"webstore_url": null,
 		"resource_locator_function": "download",
 		"position": 0,
@@ -65,7 +65,7 @@
 		"cache_url": null,
 		"name": "Viewer Information",
 		"created": "2014-10-06T10:24:36.646065",
-		"url": "http:\/\/www.ncdc.noaa.gov\/oa\/wct\/wct-jnlp-beta.php?singlefile=http:\/\/cida.usgs.gov\/thredds\/dodsC\/mows\/pe",
+		"url": "http://www.ncdc.noaa.gov/oa/wct/wct-jnlp-beta.php?singlefile=http://cida.usgs.gov/thredds/dodsC/mows/pe",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 1,
@@ -94,7 +94,7 @@
 		"cache_url": null,
 		"name": "OPeNDAP",
 		"created": "2014-10-06T10:24:36.646075",
-		"url": "http:\/\/cida.usgs.gov\/thredds\/dodsC\/mows\/pe",
+		"url": "http://cida.usgs.gov/thredds/dodsC/mows/pe",
 		"webstore_url": null,
 		"resource_locator_function": "download",
 		"position": 2,
@@ -123,7 +123,7 @@
 		"cache_url": null,
 		"name": "THREDDS_NetCDF_Subset",
 		"created": "2014-10-06T10:24:36.646082",
-		"url": "http:\/\/cida.usgs.gov\/thredds\/ncss\/grid\/mows\/pe\/dataset.html",
+		"url": "http://cida.usgs.gov/thredds/ncss/grid/mows/pe/dataset.html",
 		"webstore_url": null,
 		"resource_locator_function": "download",
 		"position": 3,
@@ -156,7 +156,7 @@
 	"name": "mean-monthly-evaporation-atlas-for-the-contiguous-48-united-states-1956-1970",
 	"isopen": false,
 	"url": null,
-	"notes": "TR-33: Maps are presented showing the areal distribution in the contiguous 48 states of evaporation (1) observed from Class A pans from from May through October, (2) estimated for a free water surface (FWS) and (3) estimated for an FWS for the entire year. A map is presented of the coefficients to convert from pan evaporation to FWS evaporation. Sources of data, analyses of the maps, and limitation on their use are described. TR-34: This publication is a compilation of monthly, seasonal, and annual averages of estimated pan evaporation based on observations from Class A pans and on meteorological measurements by the National Weather Service (NWS) and cooperating agencies. It replace Technical Paper No. 13 (U.S. Weather Bureau, Hydrologic Branch, Division of Climatological and Hydrologic Services, 1950). These tabulations were generated from the augmentation of a smaller data set used to develop evaporation maps published in NOAA Technical Report NWS-33, Evaporation Atlas for the Contiguous 48 United States, (Farnsworth et al., 1982). This report and its companion report, the evaporation atlas, should facilitate the determination of monthly values of evaporation at most points in the country.\n\nFarnsworth, R.K., Thompson, E.S., and Peck, E.L, 1982, Evaporation atlas for the contiguous 48 United States, NOAA Technical Report NWS 33, National Oceanic and Atmospheric Administration, Washington, DC, p. 27.\n\nFarnsworth, R.K. and Thompson, E.S., 1982, Mean monthly, seasonal, and annual pan evaporation for the United States, NOAA Technical Report NWS 34, National Oceanic and Atmospheric Administration, Washington, DC, p. 85.",
+	"notes": "TR-33: Maps are presented showing the areal distribution in the contiguous 48 states of evaporation (1) observed from Class A pans from from May through October, (2) estimated for a free water surface (FWS) and (3) estimated for an FWS for the entire year. A map is presented of the coefficients to convert from pan evaporation to FWS evaporation. Sources of data, analyses of the maps, and limitation on their use are described. TR-34: This publication is a compilation of monthly, seasonal, and annual averages of estimated pan evaporation based on observations from Class A pans and on meteorological measurements by the National Weather Service (NWS) and cooperating agencies. It replace Technical Paper No. 13 (U.S. Weather Bureau, Hydrologic Branch, Division of Climatological and Hydrologic Services, 1950). These tabulations were generated from the augmentation of a smaller data set used to develop evaporation maps published in NOAA Technical Report NWS-33, Evaporation Atlas for the Contiguous 48 United States, (Farnsworth et al., 1982). This report and its companion report, the evaporation atlas, should facilitate the determination of monthly values of evaporation at most points in the country.nnFarnsworth, R.K., Thompson, E.S., and Peck, E.L, 1982, Evaporation atlas for the contiguous 48 United States, NOAA Technical Report NWS 33, National Oceanic and Atmospheric Administration, Washington, DC, p. 27.nnFarnsworth, R.K. and Thompson, E.S., 1982, Mean monthly, seasonal, and annual pan evaporation for the United States, NOAA Technical Report NWS 34, National Oceanic and Atmospheric Administration, Washington, DC, p. 85.",
 	"license_title": null,
 	"extras": [{
 		"key": "bbox-east-long",
@@ -172,7 +172,7 @@
 	},
 	{
 		"key": "coupled-resource",
-		"value": "[{\"href\": [\"#DataIdentification\"], \"uuid\": [], \"title\": []}, {\"href\": [\"#DataIdentification\"], \"uuid\": [], \"title\": []}]"
+		"value": "[{"href": ["#DataIdentification"], "uuid": [], "title": []}, {"href": ["#DataIdentification"], "uuid": [], "title": []}]"
 	},
 	{
 		"key": "guid",
@@ -188,7 +188,7 @@
 	},
 	{
 		"key": "__category_tag_aa0c01c9-d292-4dc1-8fec-b10c1bb629a9",
-		"value": "[\"Water\"]"
+		"value": "["Water"]"
 	},
 	{
 		"key": "spatial-reference-system",
@@ -196,7 +196,7 @@
 	},
 	{
 		"key": "spatial",
-		"value": "{\"type\": \"Polygon\", \"coordinates\": [[[-125.0, 25.0], [-65.0, 25.0], [-65.0, 50.0], [-125.0, 50.0], [-125.0, 25.0]]]}"
+		"value": "{"type": "Polygon", "coordinates": [[[-125.0, 25.0], [-65.0, 25.0], [-65.0, 50.0], [-125.0, 50.0], [-125.0, 25.0]]]}"
 	},
 	{
 		"key": "progress",
@@ -232,7 +232,7 @@
 	},
 	{
 		"key": "licence",
-		"value": "[\"None\"]"
+		"value": "["None"]"
 	},
 	{
 		"key": "metadata_type",
@@ -240,7 +240,7 @@
 	},
 	{
 		"key": "responsible-party",
-		"value": "[{\"name\": \"\", \"roles\": [\"distributor\"]}]"
+		"value": "[{"name": "", "roles": ["distributor"]}]"
 	},
 	{
 		"key": "temporal-extent-end",
@@ -279,14 +279,14 @@
 		"value": "geo-data-portal"
 	}],
 	"organization": {
-		"description": "http:\/\/www.usgs.gov\/\r\nThe USGS is a federal science agency that provides impartial information on the health of our ecosystems and environment, the natural hazards that threaten us, the natural resources we rely on, the impacts of climate and land-use change, and the core science systems that help us provide timely, relevant, and useable information.",
+		"description": "http://www.usgs.gov/rnThe USGS is a federal science agency that provides impartial information on the health of our ecosystems and environment, the natural hazards that threaten us, the natural resources we rely on, the impacts of climate and land-use change, and the core science systems that help us provide timely, relevant, and useable information.",
 		"created": "2013-03-14T03:44:38.263357",
 		"title": "U.S. Geological Survey, Department of the Interior",
 		"name": "usgs-gov",
 		"revision_timestamp": "2014-09-02T13:43:52.167023",
 		"is_organization": true,
 		"state": "active",
-		"image_url": "http:\/\/pubs.usgs.gov\/sir\/2004\/5296\/04-5296_confluence_park\/usgs_logo.gif",
+		"image_url": "http://pubs.usgs.gov/sir/2004/5296/04-5296_confluence_park/usgs_logo.gif",
 		"revision_id": "2858aa99-9501-4f96-82e5-9647b968ed66",
 		"type": "organization",
 		"id": "bd2cdd5a-4d65-46c0-9937-c8381175f104",

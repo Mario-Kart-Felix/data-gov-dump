@@ -37,7 +37,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2015-01-21T11:02:06.923894",
-		"url": "http:\/\/www2.census.gov\/geo\/tiger\/TIGER2012\/AREALM",
+		"url": "http://www2.census.gov/geo/tiger/TIGER2012/AREALM",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 0,
@@ -67,7 +67,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2015-01-21T11:02:06.923920",
-		"url": "http:\/\/www2.census.gov\/geo\/datadotgov\/arealm",
+		"url": "http://www2.census.gov/geo/datadotgov/arealm",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 1,
@@ -97,7 +97,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2015-01-21T11:02:06.923926",
-		"url": "http:\/\/www2.census.gov\/geo\/tiger\/TIGER2012\/AREALM",
+		"url": "http://www2.census.gov/geo/tiger/TIGER2012/AREALM",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 2,
@@ -106,7 +106,7 @@
 	}],
 	"num_resources": 3,
 	"tags": [],
-	"title": "TIGER\/Line Shapefile, 2012, Series Information File for the Current Area Landmark Shapefiles",
+	"title": "TIGER/Line Shapefile, 2012, Series Information File for the Current Area Landmark Shapefiles",
 	"tracking_summary": {
 		"total": 94,
 		"recent": 0
@@ -117,7 +117,7 @@
 	"name": "tiger-line-shapefile-2012-series-information-file-for-the-current-area-landmark-shapefiles",
 	"isopen": false,
 	"url": null,
-	"notes": "The TIGER\/Line shapefiles and related database files (.dbf) are an extract of selected geographic and cartographic information from the\n               U.S. Census Bureau's Master Address File \/ Topologically Integrated Geographic Encoding and Referencing (MAF\/TIGER) Database (MTDB). The MTDB represents\n               a seamless national file with no overlaps or gaps between parts, however, each TIGER\/Line shapefile is designed to stand alone as an independent data\n               set, or they can be combined to cover the entire nation. The Census Bureau includes landmarks in the MTDB for locating special features and to help\n               enumerators during field operations. Some of the more common landmark types include area landmarks such as airports, cemeteries, parks, schools, and\n               churches and other religious institutions. The Census Bureau added landmark features to MTDB on an as-needed basis and made no attempt to ensure that all\n               instances of a particular feature were included. The presence or absence of a landmark such as a hospital or prison does not mean that the living\n               quarters associated with that landmark were geocoded to that census tabulation block or excluded from the census enumeration. The Area Landmark Shapefile\n               does not include military installations or water bodies because they each appear in their own separate shapefiles, MIL.shp and AREAWATER.shp\n               respectively.",
+	"notes": "The TIGER/Line shapefiles and related database files (.dbf) are an extract of selected geographic and cartographic information from then               U.S. Census Bureau's Master Address File / Topologically Integrated Geographic Encoding and Referencing (MAF/TIGER) Database (MTDB). The MTDB representsn               a seamless national file with no overlaps or gaps between parts, however, each TIGER/Line shapefile is designed to stand alone as an independent datan               set, or they can be combined to cover the entire nation. The Census Bureau includes landmarks in the MTDB for locating special features and to helpn               enumerators during field operations. Some of the more common landmark types include area landmarks such as airports, cemeteries, parks, schools, andn               churches and other religious institutions. The Census Bureau added landmark features to MTDB on an as-needed basis and made no attempt to ensure that alln               instances of a particular feature were included. The presence or absence of a landmark such as a hospital or prison does not mean that the livingn               quarters associated with that landmark were geocoded to that census tabulation block or excluded from the census enumeration. The Area Landmark Shapefilen               does not include military installations or water bodies because they each appear in their own separate shapefiles, MIL.shp and AREAWATER.shpn               respectively.",
 	"license_title": null,
 	"extras": [{
 		"key": "bbox-east-long",
@@ -157,7 +157,7 @@
 	},
 	{
 		"key": "spatial",
-		"value": "{\"type\": \"Polygon\", \"coordinates\": [[[-179.231086, -14.601813], [179.859681, -14.601813], [179.859681, 71.441059], [-179.231086, 71.441059], [-179.231086, -14.601813]]]}"
+		"value": "{"type": "Polygon", "coordinates": [[[-179.231086, -14.601813], [179.859681, -14.601813], [179.859681, 71.441059], [-179.231086, 71.441059], [-179.231086, -14.601813]]]}"
 	},
 	{
 		"key": "progress",
@@ -165,7 +165,7 @@
 	},
 	{
 		"key": "access_constraints",
-		"value": "[\"Use Constraints: The TIGER\/Line Shapefile products are not copyrighted however TIGER\/Line and Census TIGER are registered\\n                     trademarks of the U.S. Census Bureau. These products are free to use in a product or publication, however acknowledgment must be given to the U.S.\\n                     Census Bureau as the source. The boundary information in the TIGER\/Line Shapefiles are for statistical data collection and tabulation purposes\\n                     only; their depiction and designation for statistical purposes does not constitute a determination of jurisdictional authority or rights of\\n                     ownership or entitlement and they are not legal land descriptions. Coordinates in the TIGER\/Line shapefiles have six implied decimal places, but the\\n                     positional accuracy of these coordinates is not as great as the six decimal places suggest.\", \"Access Constraints: None\"]"
+		"value": "["Use Constraints: The TIGER/Line Shapefile products are not copyrighted however TIGER/Line and Census TIGER are registered\n                     trademarks of the U.S. Census Bureau. These products are free to use in a product or publication, however acknowledgment must be given to the U.S.\n                     Census Bureau as the source. The boundary information in the TIGER/Line Shapefiles are for statistical data collection and tabulation purposes\n                     only; their depiction and designation for statistical purposes does not constitute a determination of jurisdictional authority or rights of\n                     ownership or entitlement and they are not legal land descriptions. Coordinates in the TIGER/Line shapefiles have six implied decimal places, but the\n                     positional accuracy of these coordinates is not as great as the six decimal places suggest.", "Access Constraints: None"]"
 	},
 	{
 		"key": "temporal-extent-begin",
@@ -185,7 +185,7 @@
 	},
 	{
 		"key": "dataset-reference-date",
-		"value": "[{\"type\": \"publication\", \"value\": \"2012-01-01\"}]"
+		"value": "[{"type": "publication", "value": "2012-01-01"}]"
 	},
 	{
 		"key": "frequency-of-update",
@@ -193,7 +193,7 @@
 	},
 	{
 		"key": "licence",
-		"value": "[\"No warranty, expressed or implied is made with regard to the accuracy of these data, and no liability is assumed by the U.S.\\n                     Government in general or the U.S. Census Bureau in specific as to the spatial or attribute accuracy of the data.  The act of distribution shall not\\n                     constitute any such warranty and no responsibility is assumed by the U.S. government in the use of these files.  The boundary information in the\\n                     TIGER\/Line Shapefiles is for statistical data collection and tabulation purposes only; their depiction and designation for statistical purposes do\\n                     not constitute a determination of jurisdictional authority or rights of ownership or entitlement and they are not legal land descriptions.\\n                  \"]"
+		"value": "["No warranty, expressed or implied is made with regard to the accuracy of these data, and no liability is assumed by the U.S.\n                     Government in general or the U.S. Census Bureau in specific as to the spatial or attribute accuracy of the data.  The act of distribution shall not\n                     constitute any such warranty and no responsibility is assumed by the U.S. government in the use of these files.  The boundary information in the\n                     TIGER/Line Shapefiles is for statistical data collection and tabulation purposes only; their depiction and designation for statistical purposes do\n                     not constitute a determination of jurisdictional authority or rights of ownership or entitlement and they are not legal land descriptions.\n                  "]"
 	},
 	{
 		"key": "metadata_type",
@@ -201,7 +201,7 @@
 	},
 	{
 		"key": "responsible-party",
-		"value": "[{\"name\": \"U.S. Department of Commerce, U.S. Census Bureau, Geography Division, Geographic Products Branch\", \"roles\": [\"pointOfContact\"]}]"
+		"value": "[{"name": "U.S. Department of Commerce, U.S. Census Bureau, Geography Division, Geographic Products Branch", "roles": ["pointOfContact"]}]"
 	},
 	{
 		"key": "temporal-extent-end",
@@ -247,7 +247,7 @@
 		"revision_timestamp": "2013-08-29T13:37:04.171127",
 		"is_organization": true,
 		"state": "active",
-		"image_url": "http:\/\/www.census.gov\/main\/img\/home\/CensusLogo-white.png",
+		"image_url": "http://www.census.gov/main/img/home/CensusLogo-white.png",
 		"revision_id": "0995f525-d563-4254-a535-af5b926fe663",
 		"type": "organization",
 		"id": "31c49abe-512a-412a-9cc7-5b2601325d6b",

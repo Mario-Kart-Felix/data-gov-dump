@@ -37,7 +37,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2015-01-28T15:57:36.081620",
-		"url": "http:\/\/ohdr.nethope.opendata.arcgis.com\/",
+		"url": "http://ohdr.nethope.opendata.arcgis.com/",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 0,
@@ -67,7 +67,7 @@
 		"cache_url": null,
 		"name": "Zip File",
 		"created": "2015-01-28T15:57:36.081649",
-		"url": "http:\/\/ebola-data.un.org\/Liberia\/Liberia_WADC00090_OHDR_Populated_Places\/Liberia_WADC00090_OHDR_Populated_Places.zip",
+		"url": "http://ebola-data.un.org/Liberia/Liberia_WADC00090_OHDR_Populated_Places/Liberia_WADC00090_OHDR_Populated_Places.zip",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 1,
@@ -87,7 +87,7 @@
 	"name": "liberia-wadc00090-ohdr-populated-places",
 	"isopen": false,
 	"url": null,
-	"notes": "This data was created by the Open Humanitarian Data Repository for Liberia populated places data. It was last update 8\/21\/14",
+	"notes": "This data was created by the Open Humanitarian Data Repository for Liberia populated places data. It was last update 8/21/14",
 	"license_title": null,
 	"extras": [{
 		"key": "bbox-east-long",
@@ -123,7 +123,7 @@
 	},
 	{
 		"key": "spatial",
-		"value": "{\"type\": \"Polygon\", \"coordinates\": [[[-11.36861, 4.37575], [-7.71729, 4.37575], [-7.71729, 8.42248], [-11.36861, 8.42248], [-11.36861, 4.37575]]]}"
+		"value": "{"type": "Polygon", "coordinates": [[[-11.36861, 4.37575], [-7.71729, 4.37575], [-7.71729, 8.42248], [-11.36861, 8.42248], [-11.36861, 4.37575]]]}"
 	},
 	{
 		"key": "progress",
@@ -131,7 +131,7 @@
 	},
 	{
 		"key": "access_constraints",
-		"value": "[\"Use Constraints: Aquired by OHDR for public use\", \"Access Constraints: None\"]"
+		"value": "["Use Constraints: Aquired by OHDR for public use", "Access Constraints: None"]"
 	},
 	{
 		"key": "temporal-extent-begin",
@@ -151,7 +151,7 @@
 	},
 	{
 		"key": "dataset-reference-date",
-		"value": "[{\"type\": \"publication\", \"value\": \"2014-10-14\"}]"
+		"value": "[{"type": "publication", "value": "2014-10-14"}]"
 	},
 	{
 		"key": "frequency-of-update",
@@ -159,7 +159,7 @@
 	},
 	{
 		"key": "licence",
-		"value": "[\" \"]"
+		"value": "[" "]"
 	},
 	{
 		"key": "metadata_type",
@@ -167,7 +167,7 @@
 	},
 	{
 		"key": "responsible-party",
-		"value": "[{\"name\": \"OHDR\", \"roles\": [\"pointOfContact\"]}]"
+		"value": "[{"name": "OHDR", "roles": ["pointOfContact"]}]"
 	},
 	{
 		"key": "temporal-extent-end",

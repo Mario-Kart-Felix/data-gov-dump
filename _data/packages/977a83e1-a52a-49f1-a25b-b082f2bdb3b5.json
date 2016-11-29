@@ -37,7 +37,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2013-03-14T14:43:32.099930",
-		"url": "http:\/\/www.des.state.nh.us",
+		"url": "http://www.des.state.nh.us",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 0,
@@ -67,7 +67,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2013-03-14T14:43:32.099952",
-		"url": "http:\/\/<URL:http:\/\/www.granit.unh.edu\/cgi-bin\/nhsearch?dset=bathymetry_a\/nh>",
+		"url": "http://<URL:http://www.granit.unh.edu/cgi-bin/nhsearch?dset=bathymetry_a/nh>",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 1,
@@ -115,7 +115,7 @@
 	},
 	{
 		"key": "dataset-reference-date",
-		"value": "[{\"type\": \"publication\", \"value\": \"2006-10-20\"}]"
+		"value": "[{"type": "publication", "value": "2006-10-20"}]"
 	},
 	{
 		"key": "resource-type",
@@ -143,7 +143,7 @@
 	},
 	{
 		"key": "licence",
-		"value": "[\"\\nNHDES is not responsible for the use or interpretation of this information.\\nNot intended for legal purposes.\\n\\nThe data provide a rough estimate of a lake's depth contours and SHOULD NOT be\\nused for navigational purposes.  Reference NHDES as the source of the data is required\\nin any published use of the data.\\n\"]"
+		"value": "["\nNHDES is not responsible for the use or interpretation of this information.\nNot intended for legal purposes.\n\nThe data provide a rough estimate of a lake's depth contours and SHOULD NOT be\nused for navigational purposes.  Reference NHDES as the source of the data is required\nin any published use of the data.\n"]"
 	},
 	{
 		"key": "metadata_type",
@@ -151,11 +151,11 @@
 	},
 	{
 		"key": "responsible-party",
-		"value": "[{\"name\": \"New Hampshire Department of Environmental Services\", \"roles\": [\"pointOfContact\"]}]"
+		"value": "[{"name": "New Hampshire Department of Environmental Services", "roles": ["pointOfContact"]}]"
 	},
 	{
 		"key": "spatial",
-		"value": "{\"type\": \"Polygon\", \"coordinates\": [[[-72.48892, 42.697692], [-72.48892, 45.22457], [-70.729146, 45.22457], [-70.729146, 42.697692], [-72.48892, 42.697692]]]}"
+		"value": "{"type": "Polygon", "coordinates": [[[-72.48892, 42.697692], [-72.48892, 45.22457], [-70.729146, 45.22457], [-70.729146, 42.697692], [-72.48892, 42.697692]]]}"
 	},
 	{
 		"key": "guid",
@@ -167,7 +167,7 @@
 	},
 	{
 		"key": "access_constraints",
-		"value": "[\"Use Constraints: The data provide a rough estimate of a lake's depth contours and SHOULD NOT be used for navigational purposes. Reference NHDES as the source of the data is required in any published use of the data. User is required to read metadata completely before using the data; The information provided in this coverage is a subset of spatial databases developed by the New Hampshire Department of Environmental Services (DES). Development of these databases is an ongoing project; they may not contain all existing and potential sites, stations, or threats. The DES is not responsible for the use or interpretation of this information, or for any inaccuracies in the site names, tax map and lot information, or locations. All information is subject to verification. These data are to be used for planning purposes only; distribution is discouraged.\", \"Access Constraints: None\"]"
+		"value": "["Use Constraints: The data provide a rough estimate of a lake's depth contours and SHOULD NOT be used for navigational purposes. Reference NHDES as the source of the data is required in any published use of the data. User is required to read metadata completely before using the data; The information provided in this coverage is a subset of spatial databases developed by the New Hampshire Department of Environmental Services (DES). Development of these databases is an ongoing project; they may not contain all existing and potential sites, stations, or threats. The DES is not responsible for the use or interpretation of this information, or for any inaccuracies in the site names, tax map and lot information, or locations. All information is subject to verification. These data are to be used for planning purposes only; distribution is discouraged.", "Access Constraints: None"]"
 	},
 	{
 		"key": "frequency-of-update",
@@ -205,7 +205,7 @@
 		"revision_timestamp": "2013-03-26T22:59:50.307125",
 		"is_organization": true,
 		"state": "active",
-		"image_url": "http:\/\/www.unh.edu\/images\/UNHlogo.gif",
+		"image_url": "http://www.unh.edu/images/UNHlogo.gif",
 		"revision_id": "af978fed-b308-4bc6-a1ec-56a4dec12ceb",
 		"type": "organization",
 		"id": "7b93b22e-2449-4bf3-bd47-17c1c9046689",

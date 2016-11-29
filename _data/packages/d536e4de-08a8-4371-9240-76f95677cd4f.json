@@ -23,18 +23,18 @@
 		"size": null,
 		"state": "active",
 		"hash": "",
-		"description": "The database consists of one zip file.  The zip file holds PNG formatted image files and TXT formatted files that accompany each image that gives the Gender, Class and History information extracted from the ANSI\/NIST-ITL formatted (AN2) file.  There is also an RTF file that gives an explanation of the database and the directory structure.  The size of the zip file 7895 MB with the extracted database being 807 MB.",
+		"description": "The database consists of one zip file.  The zip file holds PNG formatted image files and TXT formatted files that accompany each image that gives the Gender, Class and History information extracted from the ANSI/NIST-ITL formatted (AN2) file.  There is also an RTF file that gives an explanation of the database and the directory structure.  The size of the zip file 7895 MB with the extracted database being 807 MB.",
 		"format": "zip with png formatted images",
 		"tracking_summary": {
 			"total": 8,
 			"recent": 3
 		},
 		"mimetype_inner": null,
-		"mimetype": "application\/zip",
+		"mimetype": "application/zip",
 		"cache_url": null,
 		"name": "Zip file of NIST Special Database 4",
 		"created": "2016-10-07T18:14:30.557192",
-		"url": "https:\/\/s3.amazonaws.com\/nist-srd\/SD4\/NISTSpecialDatabase4GrayScaleImagesofFIGS.zip",
+		"url": "https://s3.amazonaws.com/nist-srd/SD4/NISTSpecialDatabase4GrayScaleImagesofFIGS.zip",
 		"webstore_url": null,
 		"last_modified": null,
 		"position": 0,
@@ -57,11 +57,11 @@
 			"recent": 1
 		},
 		"mimetype_inner": null,
-		"mimetype": "text\/plain",
+		"mimetype": "text/plain",
 		"cache_url": null,
 		"name": "SHA-256 hash of data download file for NIST Special Database 4",
 		"created": "2016-10-07T18:14:30.557222",
-		"url": "https:\/\/s3.amazonaws.com\/nist-srd\/SD4\/HashNISTSpecialDatabase4GrayScaleImagesofFIGS.txt",
+		"url": "https://s3.amazonaws.com/nist-srd/SD4/HashNISTSpecialDatabase4GrayScaleImagesofFIGS.txt",
 		"webstore_url": null,
 		"last_modified": null,
 		"position": 1,
@@ -216,7 +216,7 @@
 	"name": "nist-8-bit-gray-scale-images-of-fingerprint-image-groups-figs-nist-special-database-4",
 	"isopen": true,
 	"url": null,
-	"notes": "This NIST database of fingerprint images contains 2,000 8-bit gray scale fingerprint image pairs. Each image is 512-by-512 pixels (32 rows of white space at the bottom), scanning resolution was 19.7 pixels per millimeter, and classified using one of the five following classes: A=Arch, L=Left Loop, R=Right Loop, T=Tented Arch, W=Whorl. The database is evenly distributed over each of the five classifications with 400 fingerprint pairs from each class. \r\n\r\n The images are PNG formatted with a text file that accompanies each image that gives the Gender, Class and History information extracted from the ANSI\/NIST-ITL formatted (AN2) file. \r\n\r\n It is suitable for automated fingerprint classification research, the database can be used for algorithm development or system training and testing.",
+	"notes": "This NIST database of fingerprint images contains 2,000 8-bit gray scale fingerprint image pairs. Each image is 512-by-512 pixels (32 rows of white space at the bottom), scanning resolution was 19.7 pixels per millimeter, and classified using one of the five following classes: A=Arch, L=Left Loop, R=Right Loop, T=Tented Arch, W=Whorl. The database is evenly distributed over each of the five classifications with 400 fingerprint pairs from each class. rnrn The images are PNG formatted with a text file that accompanies each image that gives the Gender, Class and History information extracted from the ANSI/NIST-ITL formatted (AN2) file. rnrn It is suitable for automated fingerprint classification research, the database can be used for algorithm development or system training and testing.",
 	"license_title": "Other License Specified",
 	"extras": [{
 		"key": "harvest_source_id",
@@ -224,7 +224,7 @@
 	},
 	{
 		"key": "describedByType",
-		"value": "image\/png"
+		"value": "image/png"
 	},
 	{
 		"key": "resource-type",
@@ -232,7 +232,7 @@
 	},
 	{
 		"key": "references",
-		"value": ["http:\/\/biometrics.nist.gov\/cs_links\/fingerprint\/special_databases\/New_readme_sd04.pdf"]
+		"value": ["http://biometrics.nist.gov/cs_links/fingerprint/special_databases/New_readme_sd04.pdf"]
 	},
 	{
 		"key": "source_hash",
@@ -249,15 +249,15 @@
 	},
 	{
 		"key": "catalog_conformsTo",
-		"value": "https:\/\/project-open-data.cio.gov\/v1.1\/schema"
+		"value": "https://project-open-data.cio.gov/v1.1/schema"
 	},
 	{
 		"key": "catalog_@context",
-		"value": "https:\/\/project-open-data.cio.gov\/v1.1\/schema\/catalog.jsonld"
+		"value": "https://project-open-data.cio.gov/v1.1/schema/catalog.jsonld"
 	},
 	{
 		"key": "catalog_describedBy",
-		"value": "https:\/\/project-open-data.cio.gov\/v1.1\/schema\/catalog.json"
+		"value": "https://project-open-data.cio.gov/v1.1/schema/catalog.json"
 	},
 	{
 		"key": "harvest_source_title",
@@ -277,7 +277,7 @@
 	},
 	{
 		"key": "landingPage",
-		"value": "https:\/\/www.nist.gov\/srd\/nist-special-database-4"
+		"value": "https://www.nist.gov/srd/nist-special-database-4"
 	},
 	{
 		"key": "harvest_object_id",
@@ -289,7 +289,7 @@
 	},
 	{
 		"key": "license",
-		"value": "http:\/\/www.nist.gov\/open\/license.cfm"
+		"value": "http://www.nist.gov/open/license.cfm"
 	},
 	{
 		"key": "language",
@@ -330,7 +330,7 @@
 		"revision_timestamp": "2013-05-30T16:50:01.416157",
 		"is_organization": true,
 		"state": "active",
-		"image_url": "http:\/\/www.vos.noaa.gov\/MWL\/aug_10\/Images\/doc_logo_xparent.png",
+		"image_url": "http://www.vos.noaa.gov/MWL/aug_10/Images/doc_logo_xparent.png",
 		"revision_id": "44c851b9-8872-497a-8a13-2f06740b7ffb",
 		"type": "organization",
 		"id": "9cda5205-d632-4814-96e7-a4ab5e0dce85",

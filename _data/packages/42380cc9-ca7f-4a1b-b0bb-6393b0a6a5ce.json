@@ -36,7 +36,7 @@
 		"cache_url": null,
 		"name": "NDGIS web site",
 		"created": "2013-12-07T04:04:18.412721",
-		"url": "http:\/\/www.nd.gov\/gis",
+		"url": "http://www.nd.gov/gis",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 0,
@@ -65,7 +65,7 @@
 		"cache_url": null,
 		"name": "Download USDA-NASS 2010 North Dakota Cropland Data Layer",
 		"created": "2013-12-07T04:04:18.412752",
-		"url": "http:\/\/gisdata.nd.gov\/LandClass\/NASSColorCorrected\/",
+		"url": "http://gisdata.nd.gov/LandClass/NASSColorCorrected/",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 1,
@@ -94,7 +94,7 @@
 		"cache_url": null,
 		"name": "NDHUB.LANDCLASS_NASS_2010",
 		"created": "2013-12-07T04:04:18.412761",
-		"url": "http:\/\/ndgishub.nd.gov\/arcgis\/services\/All_LanduseLandcover\/MapServer\/WMSServer?",
+		"url": "http://ndgishub.nd.gov/arcgis/services/All_LanduseLandcover/MapServer/WMSServer?",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 2,
@@ -123,7 +123,7 @@
 		"cache_url": null,
 		"name": "NASS 2010 Metadata",
 		"created": "2013-12-07T04:04:18.412769",
-		"url": "http:\/\/www.nass.usda.gov\/research\/Cropland\/metadata\/metadata_nd10.htm",
+		"url": "http://www.nass.usda.gov/research/Cropland/metadata/metadata_nd10.htm",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 3,
@@ -152,7 +152,7 @@
 		"cache_url": null,
 		"name": "Esri REST including WMS and WCS",
 		"created": "2013-12-07T04:04:18.412776",
-		"url": "http:\/\/ndgishub.nd.gov\/ArcGIS\/rest\/services\/All_LanduseLandcover\/MapServer",
+		"url": "http://ndgishub.nd.gov/ArcGIS/rest/services/All_LanduseLandcover/MapServer",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 4,
@@ -229,7 +229,7 @@
 	},
 	{
 		"key": "spatial",
-		"value": "{\"type\": \"Polygon\", \"coordinates\": [[[-104.345895, 45.826368], [-96.410786, 45.826368], [-96.410786, 49.110377], [-104.345895, 49.110377], [-104.345895, 45.826368]]]}"
+		"value": "{"type": "Polygon", "coordinates": [[[-104.345895, 45.826368], [-96.410786, 45.826368], [-96.410786, 49.110377], [-104.345895, 49.110377], [-104.345895, 45.826368]]]}"
 	},
 	{
 		"key": "progress",
@@ -237,7 +237,7 @@
 	},
 	{
 		"key": "access_constraints",
-		"value": "[\"Disclaimer: Users of the Cropland Data Layer (CDL) are solely responsible for interpretations made from these products. The CDL is provided 'as is' and the USDA, NASS does not warrant results you may obtain using the Cropland Data Layer. Contact our staff at (HQ_RD_OD@nass.usda.gov) if technical questions arise in the use of the CDL. NASS does maintain a Frequently Asked Questions (FAQ's) section on the CDL website at &lt;<a href=\\\"http:\/\/www.nass.usda.gov\/research\/Cropland\/SARS1a.htm\\\">http:\/\/www.nass.usda.gov\/research\/Cropland\/SARS1a.htm<\/a>&gt;.\", \"The USDA, NASS Cropland Data Layer is provided to the public as is and is considered public domain and free to redistribute. The USDA, NASS does not warrant any conclusions drawn from these data. If the user does not have software capable of viewing GEOTIF (.tif) or ERDAS Imagine (.img) file formats then we suggest using the freeware browser ESRI ArcReader. Visit their site at &lt;<a href=\\\"http:\/\/www.esri.com\/arcreader\/\\\">http:\/\/www.esri.com\/arcreader\/<\/a>&gt; for more information.\"]"
+		"value": "["Disclaimer: Users of the Cropland Data Layer (CDL) are solely responsible for interpretations made from these products. The CDL is provided 'as is' and the USDA, NASS does not warrant results you may obtain using the Cropland Data Layer. Contact our staff at (HQ_RD_OD@nass.usda.gov) if technical questions arise in the use of the CDL. NASS does maintain a Frequently Asked Questions (FAQ's) section on the CDL website at &lt;<a href=\"http://www.nass.usda.gov/research/Cropland/SARS1a.htm\">http://www.nass.usda.gov/research/Cropland/SARS1a.htm</a>&gt;.", "The USDA, NASS Cropland Data Layer is provided to the public as is and is considered public domain and free to redistribute. The USDA, NASS does not warrant any conclusions drawn from these data. If the user does not have software capable of viewing GEOTIF (.tif) or ERDAS Imagine (.img) file formats then we suggest using the freeware browser ESRI ArcReader. Visit their site at &lt;<a href=\"http://www.esri.com/arcreader/\">http://www.esri.com/arcreader/</a>&gt; for more information."]"
 	},
 	{
 		"key": "contact-email",
@@ -253,7 +253,7 @@
 	},
 	{
 		"key": "dataset-reference-date",
-		"value": "[{\"type\": \"publication\", \"value\": \"2011-02-16\"}]"
+		"value": "[{"type": "publication", "value": "2011-02-16"}]"
 	},
 	{
 		"key": "graphic-preview-description",
@@ -273,7 +273,7 @@
 	},
 	{
 		"key": "responsible-party",
-		"value": "[{\"name\": \"USDA, NASS, Spatial Analysis Research Section\", \"roles\": [\"pointOfContact\"]}]"
+		"value": "[{"name": "USDA, NASS, Spatial Analysis Research Section", "roles": ["pointOfContact"]}]"
 	},
 	{
 		"key": "spatial-data-service-type",
@@ -285,7 +285,7 @@
 	},
 	{
 		"package_id": "42380cc9-ca7f-4a1b-b0bb-6393b0a6a5ce",
-		"value": "cropland, AWiFS, agriculture, crop cover, crop estimates, MODIS, land cover, environment, 007, imageryBaseMapsEarthCover, 010, farming, 001, MODIS &gt; Moderate-Resolution Imaging Spectroradiometer, AWIFS &gt; Advanced Wide Field Sensor, Earth Science &gt; Land Surface &gt; Land Use\/Land Cover &gt; Land Cover, Earth Science &gt; Biosphere &gt; Terrestrial Ecosystems &gt; Agricultural Lands, Continent &gt; North America &gt; United States of America &gt; North Dakota, North Dakota, ND",
+		"value": "cropland, AWiFS, agriculture, crop cover, crop estimates, MODIS, land cover, environment, 007, imageryBaseMapsEarthCover, 010, farming, 001, MODIS &gt; Moderate-Resolution Imaging Spectroradiometer, AWIFS &gt; Advanced Wide Field Sensor, Earth Science &gt; Land Surface &gt; Land Use/Land Cover &gt; Land Cover, Earth Science &gt; Biosphere &gt; Terrestrial Ecosystems &gt; Agricultural Lands, Continent &gt; North America &gt; United States of America &gt; North Dakota, North Dakota, ND",
 		"revision_timestamp": "2013-12-07T09:04:18.245650",
 		"state": "active",
 		"key": "tags",
@@ -308,14 +308,14 @@
 		"value": "North Dakota GIS Hub Data Portal"
 	}],
 	"organization": {
-		"description": "The GIS Hub is the state source for GIS - data, services, and information.  More information can be found at www.nd.gov\/gis.",
+		"description": "The GIS Hub is the state source for GIS - data, services, and information.  More information can be found at www.nd.gov/gis.",
 		"created": "2013-03-14T03:44:44.340717",
 		"title": "State of North Dakota",
 		"name": "nd-gov",
 		"revision_timestamp": "2013-07-15T16:27:30.098476",
 		"is_organization": true,
 		"state": "active",
-		"image_url": "http:\/\/www.nd.gov\/gis\/images\/ndgis-logo.gif",
+		"image_url": "http://www.nd.gov/gis/images/ndgis-logo.gif",
 		"revision_id": "27517bb9-815c-4d4f-b45b-b88b6316697b",
 		"type": "organization",
 		"id": "1c782de6-9f1f-4427-93fd-33732e29970f",

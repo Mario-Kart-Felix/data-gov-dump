@@ -37,7 +37,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2016-10-19T19:31:19.642963",
-		"url": "http:\/\/data.nodc.noaa.gov\/accession\/0039382",
+		"url": "http://data.nodc.noaa.gov/accession/0039382",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 0,
@@ -67,7 +67,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2016-10-19T19:31:19.642986",
-		"url": "https:\/\/www.pifsc.noaa.gov\/cred\/ocean_and_climate_change.php",
+		"url": "https://www.pifsc.noaa.gov/cred/ocean_and_climate_change.php",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 1,
@@ -97,7 +97,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2016-10-19T19:31:19.642995",
-		"url": "http:\/\/data.nodc.noaa.gov\/accession\/0039382",
+		"url": "http://data.nodc.noaa.gov/accession/0039382",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 2,
@@ -119,7 +119,7 @@
 		"revision_timestamp": "2013-03-25T23:05:12.923863",
 		"is_organization": true,
 		"state": "active",
-		"image_url": "https:\/\/fortress.wa.gov\/dfw\/score\/score\/images\/noaa_logo.png",
+		"image_url": "https://fortress.wa.gov/dfw/score/score/images/noaa_logo.png",
 		"revision_id": "c6d43080-22e1-405e-a83d-f2a512d9e867",
 		"type": "organization",
 		"id": "e811f0b4-451f-4896-9e8f-fc6802837819",
@@ -130,11 +130,11 @@
 	"name": "cred-shallow-ctd-profiles-french-frigate-shoals-northwestern-hawaiian-islands-papahanaumokuakea9cab3",
 	"isopen": false,
 	"url": null,
-	"notes": "CRED shallow Conductivity-Temperature-Depth (CTD) casts are vertical profiles (max 30 meter depth, downcast only) of temperature, conductivity and pressure. Data are collected at select nearshore locations, both around islands or banks and within lagoons. Data processing was performed using Seabird Instrument's SeaSoft SBE Data Processing Software (http:\/\/www.seabird.com\/software\/SBEDataProcforWindows.htm). Data format is discreet, tabular (formatted, space delimited ASCII) files for each profile, with a full header as provided by SeaSoft. Raw file extension is HEX, processed file extension is CNV. The header contains latitude, longitude and other location information, as well as all data processing steps and settings. All dates and times are UTC. All positions are WGS84 decimal degrees. Contact Coral Reef Ecosystem Division (CRED), NOAA Pacific Island Fisheries Science Center for more information. https:\/\/www.pifsc.noaa.gov\/cred\/ocean_and_climate_change.php",
+	"notes": "CRED shallow Conductivity-Temperature-Depth (CTD) casts are vertical profiles (max 30 meter depth, downcast only) of temperature, conductivity and pressure. Data are collected at select nearshore locations, both around islands or banks and within lagoons. Data processing was performed using Seabird Instrument's SeaSoft SBE Data Processing Software (http://www.seabird.com/software/SBEDataProcforWindows.htm). Data format is discreet, tabular (formatted, space delimited ASCII) files for each profile, with a full header as provided by SeaSoft. Raw file extension is HEX, processed file extension is CNV. The header contains latitude, longitude and other location information, as well as all data processing steps and settings. All dates and times are UTC. All positions are WGS84 decimal degrees. Contact Coral Reef Ecosystem Division (CRED), NOAA Pacific Island Fisheries Science Center for more information. https://www.pifsc.noaa.gov/cred/ocean_and_climate_change.php",
 	"owner_org": "e811f0b4-451f-4896-9e8f-fc6802837819",
 	"extras": [{
 		"key": "bbox-east-long",
-		"value": "\n          -166.27183\n        "
+		"value": "n          -166.27183n        "
 	},
 	{
 		"key": "resource-type",
@@ -142,7 +142,7 @@
 	},
 	{
 		"key": "bbox-north-lat",
-		"value": "\n          23.85678\n        "
+		"value": "n          23.85678n        "
 	},
 	{
 		"key": "coupled-resource",
@@ -158,7 +158,7 @@
 	},
 	{
 		"key": "bbox-south-lat",
-		"value": "\n          23.85678\n        "
+		"value": "n          23.85678n        "
 	},
 	{
 		"key": "spatial-reference-system",
@@ -166,7 +166,7 @@
 	},
 	{
 		"key": "spatial",
-		"value": "{\"type\": \"Point\", \"coordinates\": [-166.27183, 23.85678]}"
+		"value": "{"type": "Point", "coordinates": [-166.27183, 23.85678]}"
 	},
 	{
 		"key": "progress",
@@ -174,7 +174,7 @@
 	},
 	{
 		"key": "access_constraints",
-		"value": "[\"Use Constraints: These oceanographic data are PRELIMINARY data and have not been screened for accuracy. NOAA can not be held liable for use of these data in a manner other than for perusal of preliminary oceanographic data for scientific research on coral reefs ecosystems.\", \"Access Constraints: None\"]"
+		"value": "["Use Constraints: These oceanographic data are PRELIMINARY data and have not been screened for accuracy. NOAA can not be held liable for use of these data in a manner other than for perusal of preliminary oceanographic data for scientific research on coral reefs ecosystems.", "Access Constraints: None"]"
 	},
 	{
 		"key": "temporal-extent-begin",
@@ -186,7 +186,7 @@
 	},
 	{
 		"key": "bbox-west-long",
-		"value": "\n          -166.27183\n        "
+		"value": "n          -166.27183n        "
 	},
 	{
 		"key": "metadata-date",
@@ -194,7 +194,7 @@
 	},
 	{
 		"key": "dataset-reference-date",
-		"value": "[{\"type\": \"publication\", \"value\": \"2011-02-25\"}]"
+		"value": "[{"type": "publication", "value": "2011-02-25"}]"
 	},
 	{
 		"key": "frequency-of-update",
@@ -202,7 +202,7 @@
 	},
 	{
 		"key": "licence",
-		"value": "[\"\\n      These oceanographic data are PRELIMINARY data and have not been screened for accuracy. NOAA can not be held liable for use of these data in a manner other than for perusal of preliminary oceanographic data for scientific research on coral reefs ecosystems. Disclaimer - NOAA makes no warranty regarding these data, expressed or implied, nor does the fact of distribution constitute such a warranty. NOAA and NODC cannot assume liability for any damages caused by any errors or omissions in these data, nor as a result of the failure of these data to function on a particular system.\\n    \"]"
+		"value": "["\n      These oceanographic data are PRELIMINARY data and have not been screened for accuracy. NOAA can not be held liable for use of these data in a manner other than for perusal of preliminary oceanographic data for scientific research on coral reefs ecosystems. Disclaimer - NOAA makes no warranty regarding these data, expressed or implied, nor does the fact of distribution constitute such a warranty. NOAA and NODC cannot assume liability for any damages caused by any errors or omissions in these data, nor as a result of the failure of these data to function on a particular system.\n    "]"
 	},
 	{
 		"key": "metadata_type",
@@ -210,7 +210,7 @@
 	},
 	{
 		"key": "responsible-party",
-		"value": "[{\"name\": \"Coral Reef Ecosystem Division (CRED), Pacific Islands Fisheries Science Center (PIFSC), National Marine Fisheries Service (NMFS), National Oceanic and Atmospheric Administration (NOAA)\", \"roles\": [\"pointOfContact\"]}]"
+		"value": "[{"name": "Coral Reef Ecosystem Division (CRED), Pacific Islands Fisheries Science Center (PIFSC), National Marine Fisheries Service (NMFS), National Oceanic and Atmospheric Administration (NOAA)", "roles": ["pointOfContact"]}]"
 	},
 	{
 		"key": "temporal-extent-end",
@@ -226,7 +226,7 @@
 	},
 	{
 		"key": "tags",
-		"value": "ocean temperature, pacific ocean, honolulu, 1221, french frigate shoals (24n166w0001), upwelling, in situ chemical, hawaii, conductivity temperature depth (ctd) profile, ocean circulation, sea level pressure, zoology, earth science, french frigate shoals, northwestern hawaiian islands (papahanaumokuakea marine national monument), oceanography, in situ physical, density, reef assessment and monitoring program (ramp), coastal processes, country\/territory, ocean mixed layer, salinity\/density, conductivity, coral diseases, profile, northwestern hawaiian islands, numeric data sets, oceanographic, united states of america, oceans, bleaching, central pacific ocean, ocean basin, ocean pressure, pacific reef assessment and monitoring program (pacific ramp): biennial monitoring for the u.s. pacific islands and atolls, water temperature, thermocline, in situ biological, biosphere, coral reefs, salinity, reef monitoring and assessment, downwelling, corals, coral reef ecosystem division (cred), noaa pacific islands fisheries science center, hi0501",
+		"value": "ocean temperature, pacific ocean, honolulu, 1221, french frigate shoals (24n166w0001), upwelling, in situ chemical, hawaii, conductivity temperature depth (ctd) profile, ocean circulation, sea level pressure, zoology, earth science, french frigate shoals, northwestern hawaiian islands (papahanaumokuakea marine national monument), oceanography, in situ physical, density, reef assessment and monitoring program (ramp), coastal processes, country/territory, ocean mixed layer, salinity/density, conductivity, coral diseases, profile, northwestern hawaiian islands, numeric data sets, oceanographic, united states of america, oceans, bleaching, central pacific ocean, ocean basin, ocean pressure, pacific reef assessment and monitoring program (pacific ramp): biennial monitoring for the u.s. pacific islands and atolls, water temperature, thermocline, in situ biological, biosphere, coral reefs, salinity, reef monitoring and assessment, downwelling, corals, coral reef ecosystem division (cred), noaa pacific islands fisheries science center, hi0501",
 		"__extras": {
 			"revision_id": "c15710e2-1f27-4875-8350-8f3f5d6cc8d2",
 			"package_id": "6189b586-3e6c-4cda-a746-091b89fc84bc"

@@ -37,7 +37,7 @@
 		"cache_url": null,
 		"name": "Esri Rest API Endpoint",
 		"created": "2016-03-31T19:58:07.522216",
-		"url": "http:\/\/igeo.epa.gov\/arcgis\/rest\/services\/OEI\/FRS_ESF10\/MapServer",
+		"url": "http://igeo.epa.gov/arcgis/rest/services/OEI/FRS_ESF10/MapServer",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 0,
@@ -67,7 +67,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2016-03-31T19:58:07.522247",
-		"url": "https:\/\/edg.epa.gov\/metadata\/catalog\/search\/resource\/details.page?uuid={0fd2712b-62d0-4aaf-ab20-2cbfe8c26b30}",
+		"url": "https://edg.epa.gov/metadata/catalog/search/resource/details.page?uuid={0fd2712b-62d0-4aaf-ab20-2cbfe8c26b30}",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 1,
@@ -87,11 +87,11 @@
 	"name": "epa-facility-registry-service-frs-er-rmp",
 	"isopen": false,
 	"url": null,
-	"notes": "This web feature service contains location and facility identification information from EPA's Facility Registry System (FRS) for the subset of facilities that link to the Risk Management Plan (RMP) database. RMP stores the risk management plans reported by companies that handle, manufacture, use, or store certain flammable or toxic substances, as required under section 112(r) of the Clean Air Act (CAA). FRS identifies and geospatially locates facilities, sites or places subject to environmental regulations or of environmental interest. Using vigorous verification and data management procedures, FRS integrates facility data from EPA's national program systems, other federal agencies, and State and tribal master facility records and provides EPA with a centrally managed, single source of comprehensive and authoritative information on facilities. This data set contains the subset of FRS integrated facilities that link to RMP facilities once the RMP data has been integrated into the FRS database. Additional information on FRS is available at the EPA website http:\/\/www.epa.gov\/enviro\/html\/fii\/index.html.",
+	"notes": "This web feature service contains location and facility identification information from EPA's Facility Registry System (FRS) for the subset of facilities that link to the Risk Management Plan (RMP) database. RMP stores the risk management plans reported by companies that handle, manufacture, use, or store certain flammable or toxic substances, as required under section 112(r) of the Clean Air Act (CAA). FRS identifies and geospatially locates facilities, sites or places subject to environmental regulations or of environmental interest. Using vigorous verification and data management procedures, FRS integrates facility data from EPA's national program systems, other federal agencies, and State and tribal master facility records and provides EPA with a centrally managed, single source of comprehensive and authoritative information on facilities. This data set contains the subset of FRS integrated facilities that link to RMP facilities once the RMP data has been integrated into the FRS database. Additional information on FRS is available at the EPA website http://www.epa.gov/enviro/html/fii/index.html.",
 	"license_title": null,
 	"extras": [{
 		"key": "bbox-east-long",
-		"value": "\n144.783000"
+		"value": "n144.783000"
 	},
 	{
 		"key": "resource-type",
@@ -99,7 +99,7 @@
 	},
 	{
 		"key": "bbox-north-lat",
-		"value": "\n64.997222"
+		"value": "n64.997222"
 	},
 	{
 		"key": "coupled-resource",
@@ -115,7 +115,7 @@
 	},
 	{
 		"key": "bbox-south-lat",
-		"value": "\n-14.273800"
+		"value": "n-14.273800"
 	},
 	{
 		"key": "spatial-reference-system",
@@ -123,7 +123,7 @@
 	},
 	{
 		"key": "spatial",
-		"value": "{\"type\": \"Polygon\", \"coordinates\": [[[-170.6855, -14.2738], [144.783, -14.2738], [144.783, 64.997222], [-170.6855, 64.997222], [-170.6855, -14.2738]]]}"
+		"value": "{"type": "Polygon", "coordinates": [[[-170.6855, -14.2738], [144.783, -14.2738], [144.783, 64.997222], [-170.6855, 64.997222], [-170.6855, -14.2738]]]}"
 	},
 	{
 		"key": "progress",
@@ -131,11 +131,11 @@
 	},
 	{
 		"key": "access_constraints",
-		"value": "[\"Use Constraints: These data should not be distributed. Please check sources, scale, accuracy, currentness and other available information. Please confirm that you are using the most recent copy of both data and metadata. Acknowledgement of the EPA would be appreciated.\", \"Access Constraints: Data Are Restricted to Internal EPA Personnel Only\"]"
+		"value": "["Use Constraints: These data should not be distributed. Please check sources, scale, accuracy, currentness and other available information. Please confirm that you are using the most recent copy of both data and metadata. Acknowledgement of the EPA would be appreciated.", "Access Constraints: Data Are Restricted to Internal EPA Personnel Only"]"
 	},
 	{
 		"key": "licence_url",
-		"value": "https:\/\/edg.epa.gov\/EPA_Data_License.html"
+		"value": "https://edg.epa.gov/EPA_Data_License.html"
 	},
 	{
 		"key": "contact-email",
@@ -143,7 +143,7 @@
 	},
 	{
 		"key": "bbox-west-long",
-		"value": "\n-170.685500"
+		"value": "n-170.685500"
 	},
 	{
 		"key": "metadata-date",
@@ -151,7 +151,7 @@
 	},
 	{
 		"key": "dataset-reference-date",
-		"value": "[{\"type\": \"publication\", \"value\": \"2015-06-22\"}]"
+		"value": "[{"type": "publication", "value": "2015-06-22"}]"
 	},
 	{
 		"key": "frequency-of-update",
@@ -159,7 +159,7 @@
 	},
 	{
 		"key": "licence",
-		"value": "[\"https:\/\/edg.epa.gov\/EPA_Data_License.html\"]"
+		"value": "["https://edg.epa.gov/EPA_Data_License.html"]"
 	},
 	{
 		"key": "metadata_type",
@@ -167,7 +167,7 @@
 	},
 	{
 		"key": "responsible-party",
-		"value": "[{\"name\": \"U.S. Environmental Protection Agency, Headquarters\", \"roles\": [\"pointOfContact\"]}]"
+		"value": "[{"name": "U.S. Environmental Protection Agency, Headquarters", "roles": ["pointOfContact"]}]"
 	},
 	{
 		"key": "spatial-data-service-type",
@@ -209,7 +209,7 @@
 		"revision_timestamp": "2014-01-16T18:58:42.895981",
 		"is_organization": true,
 		"state": "active",
-		"image_url": "http:\/\/edg.epa.gov\/EPALogo.svg",
+		"image_url": "http://edg.epa.gov/EPALogo.svg",
 		"revision_id": "f0e4b475-7424-4ce0-9a22-412e7e595154",
 		"type": "organization",
 		"id": "6d90e48d-3076-4327-b2f4-c33919f374d5",

@@ -37,7 +37,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2016-03-31T19:56:14.493997",
-		"url": "http:\/\/water.epa.gov\/type\/lakes\/lakessurvey_index.cfm",
+		"url": "http://water.epa.gov/type/lakes/lakessurvey_index.cfm",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 0,
@@ -59,7 +59,7 @@
 		"revision_timestamp": "2014-01-16T18:58:42.895981",
 		"is_organization": true,
 		"state": "active",
-		"image_url": "http:\/\/edg.epa.gov\/EPALogo.svg",
+		"image_url": "http://edg.epa.gov/EPALogo.svg",
 		"revision_id": "f0e4b475-7424-4ce0-9a22-412e7e595154",
 		"type": "organization",
 		"id": "6d90e48d-3076-4327-b2f4-c33919f374d5",
@@ -70,7 +70,7 @@
 	"name": "national-aquatic-resource-surveys-nars-n-p-values-for-lakes-national-lake-assessment",
 	"isopen": false,
 	"url": null,
-	"notes": "The National Aquatic Resource Survey (NARS) findings for nutrients in streams and lakes highlight that nutrient pollution is widespread across the United States and impacts biological communities. The NARS analysis examined the range of values for nutrients in least-disturbed sites in a NLA region [NLA regions are modified Level III ecoregions from Omernik (1987)] and used this distribution for nitrogen and phosphorus to separate sites into those having high, medium, or low concentrations of nutrients. Sites identified as \"high\" were worse (i.e., had higher nutrient concentrations) than 95% of the sites used to define least-disturbed condition. Similarly, the 75th percentile of the least-disturbed distribution was used to distinguish between sites in medium and low condition. This means that sites reported as being as \"low\" were as good as or better than 75% of the sites used to define least-disturbed condition. A relative risk analysis of the data from this survey found that nationally streams and lakes have more than two times greater risk of having degraded biological communities when nutrient concentrations are high than when they are low. For more information, please consult the National Lakes Assessment (NLA): Technical Appendix Report available online at: http:\/\/water.epa.gov\/type\/lakes\/lakessurvey_index.cfm.",
+	"notes": "The National Aquatic Resource Survey (NARS) findings for nutrients in streams and lakes highlight that nutrient pollution is widespread across the United States and impacts biological communities. The NARS analysis examined the range of values for nutrients in least-disturbed sites in a NLA region [NLA regions are modified Level III ecoregions from Omernik (1987)] and used this distribution for nitrogen and phosphorus to separate sites into those having high, medium, or low concentrations of nutrients. Sites identified as "high" were worse (i.e., had higher nutrient concentrations) than 95% of the sites used to define least-disturbed condition. Similarly, the 75th percentile of the least-disturbed distribution was used to distinguish between sites in medium and low condition. This means that sites reported as being as "low" were as good as or better than 75% of the sites used to define least-disturbed condition. A relative risk analysis of the data from this survey found that nationally streams and lakes have more than two times greater risk of having degraded biological communities when nutrient concentrations are high than when they are low. For more information, please consult the National Lakes Assessment (NLA): Technical Appendix Report available online at: http://water.epa.gov/type/lakes/lakessurvey_index.cfm.",
 	"owner_org": "6d90e48d-3076-4327-b2f4-c33919f374d5",
 	"extras": [{
 		"key": "bbox-east-long",
@@ -106,7 +106,7 @@
 	},
 	{
 		"key": "spatial",
-		"value": "{\"type\": \"Polygon\", \"coordinates\": [[[-124.762834, 24.545216], [-66.957107, 24.545216], [-66.957107, 49.371733], [-124.762834, 49.371733], [-124.762834, 24.545216]]]}"
+		"value": "{"type": "Polygon", "coordinates": [[[-124.762834, 24.545216], [-66.957107, 24.545216], [-66.957107, 49.371733], [-124.762834, 49.371733], [-124.762834, 24.545216]]]}"
 	},
 	{
 		"key": "progress",
@@ -114,11 +114,11 @@
 	},
 	{
 		"key": "access_constraints",
-		"value": "[\"Use Constraints: For use at 1:250,000 or smaller scales\", \"Access Constraints: None.\"]"
+		"value": "["Use Constraints: For use at 1:250,000 or smaller scales", "Access Constraints: None."]"
 	},
 	{
 		"key": "licence_url",
-		"value": "https:\/\/edg.epa.gov\/EPA_Data_License.htm"
+		"value": "https://edg.epa.gov/EPA_Data_License.htm"
 	},
 	{
 		"key": "contact-email",
@@ -134,7 +134,7 @@
 	},
 	{
 		"key": "dataset-reference-date",
-		"value": "[{\"type\": \"publication\", \"value\": \"2003-01-01\"}]"
+		"value": "[{"type": "publication", "value": "2003-01-01"}]"
 	},
 	{
 		"key": "frequency-of-update",
@@ -142,7 +142,7 @@
 	},
 	{
 		"key": "licence",
-		"value": "[\"https:\/\/edg.epa.gov\/EPA_Data_License.htm\"]"
+		"value": "["https://edg.epa.gov/EPA_Data_License.htm"]"
 	},
 	{
 		"key": "metadata_type",
@@ -150,7 +150,7 @@
 	},
 	{
 		"key": "responsible-party",
-		"value": "[{\"name\": \"U.S. Environmental Protection Agency\", \"roles\": [\"pointOfContact\"]}]"
+		"value": "[{"name": "U.S. Environmental Protection Agency", "roles": ["pointOfContact"]}]"
 	},
 	{
 		"key": "spatial-data-service-type",
@@ -180,6 +180,6 @@
 		"key": "harvest_source_title",
 		"value": "Environmental Dataset Gateway FGDC CSDGM"
 	}],
-	"title": "National Aquatic Resource Surveys (NARS) N\/P Values for Lakes \u2013 National Lake Assessment",
+	"title": "National Aquatic Resource Surveys (NARS) N/P Values for Lakes u2013 National Lake Assessment",
 	"revision_id": "d50fc05a-85ef-4018-af39-2a1c2c8ab7f3"
 }

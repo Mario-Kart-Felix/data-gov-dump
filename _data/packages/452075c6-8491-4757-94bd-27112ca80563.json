@@ -37,7 +37,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2015-09-26T16:15:20.949883",
-		"url": "http:\/\/coast.noaa.gov",
+		"url": "http://coast.noaa.gov",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 0,
@@ -67,7 +67,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2015-09-26T16:15:20.949909",
-		"url": "http:\/\/coast.noaa.gov",
+		"url": "http://coast.noaa.gov",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 1,
@@ -96,7 +96,7 @@
 		"cache_url": null,
 		"name": "Lidar Final Report",
 		"created": "2015-09-26T16:15:20.949918",
-		"url": "ftp:\/\/ftp.csc.noaa.gov\/pub\/crs\/beachmap\/qa_docs\/fl\/bay\/NBay_County_Preliminary_QA_Report_1_.pdf",
+		"url": "ftp://ftp.csc.noaa.gov/pub/crs/beachmap/qa_docs/fl/bay/NBay_County_Preliminary_QA_Report_1_.pdf",
 		"webstore_url": null,
 		"resource_locator_function": "information",
 		"position": 2,
@@ -113,7 +113,7 @@
 		"state": "active",
 		"last_modified": null,
 		"hash": "",
-		"description": "Calhoun\/Jackson\/Washington Counties QA\/QC Report",
+		"description": "Calhoun/Jackson/Washington Counties QA/QC Report",
 		"format": "PDF",
 		"tracking_summary": {
 			"total": 0,
@@ -123,9 +123,9 @@
 		"resource_locator_protocol": "",
 		"mimetype": null,
 		"cache_url": null,
-		"name": "Lidar QA\/QC Report",
+		"name": "Lidar QA/QC Report",
 		"created": "2015-09-26T16:15:20.949926",
-		"url": "ftp:\/\/ftp.csc.noaa.gov\/pub\/crs\/beachmap\/qa_docs\/fl\/bay\/QA-QC_Report_NWFWMD_BayAddOn.pdf",
+		"url": "ftp://ftp.csc.noaa.gov/pub/crs/beachmap/qa_docs/fl/bay/QA-QC_Report_NWFWMD_BayAddOn.pdf",
 		"webstore_url": null,
 		"resource_locator_function": "information",
 		"position": 3,
@@ -147,7 +147,7 @@
 		"revision_timestamp": "2013-03-25T23:05:12.923863",
 		"is_organization": true,
 		"state": "active",
-		"image_url": "https:\/\/fortress.wa.gov\/dfw\/score\/score\/images\/noaa_logo.png",
+		"image_url": "https://fortress.wa.gov/dfw/score/score/images/noaa_logo.png",
 		"revision_id": "c6d43080-22e1-405e-a83d-f2a512d9e867",
 		"type": "organization",
 		"id": "e811f0b4-451f-4896-9e8f-fc6802837819",
@@ -194,7 +194,7 @@
 	},
 	{
 		"key": "spatial",
-		"value": "{\"type\": \"Polygon\", \"coordinates\": [[[-85.891976, 30.137242], [-85.294776, 30.137242], [-85.294776, 30.647342], [-85.891976, 30.647342], [-85.891976, 30.137242]]]}"
+		"value": "{"type": "Polygon", "coordinates": [[[-85.891976, 30.137242], [-85.294776, 30.137242], [-85.294776, 30.647342], [-85.891976, 30.647342], [-85.891976, 30.137242]]]}"
 	},
 	{
 		"key": "progress",
@@ -222,7 +222,7 @@
 	},
 	{
 		"key": "dataset-reference-date",
-		"value": "[{\"type\": \"publication\", \"value\": \"2007-11-05\"}]"
+		"value": "[{"type": "publication", "value": "2007-11-05"}]"
 	},
 	{
 		"key": "frequency-of-update",
@@ -230,7 +230,7 @@
 	},
 	{
 		"key": "licence",
-		"value": "[\"These data depict the elevations at the time of the survey and are only accurate for that time. Users should be aware that\\n            temporal changes may have occurred since this data set was collected and some parts of this data may no longer represent actual surface\\n            conditions. Users should not use this data for critical applications without a full awareness of its limitations. Any conclusions drawn\\n            from analysis of this information are not the responsibility of NOAA or any of its partners. These data are NOT to be used for navigational purposes.\"]"
+		"value": "["These data depict the elevations at the time of the survey and are only accurate for that time. Users should be aware that\n            temporal changes may have occurred since this data set was collected and some parts of this data may no longer represent actual surface\n            conditions. Users should not use this data for critical applications without a full awareness of its limitations. Any conclusions drawn\n            from analysis of this information are not the responsibility of NOAA or any of its partners. These data are NOT to be used for navigational purposes."]"
 	},
 	{
 		"key": "metadata_type",
@@ -238,7 +238,7 @@
 	},
 	{
 		"key": "responsible-party",
-		"value": "[{\"name\": \"Northwest Florida Water Management District (NWFWMD)\", \"roles\": [\"pointOfContact\"]}]"
+		"value": "[{"name": "Northwest Florida Water Management District (NWFWMD)", "roles": ["pointOfContact"]}]"
 	},
 	{
 		"key": "temporal-extent-end",
@@ -254,7 +254,7 @@
 	},
 	{
 		"key": "tags",
-		"value": "bay county, washington county, elevation, calhoun county, digital elevation model, florida, jackson county, lidar, united states, grid, dem, bathymetry\/topography, surface model",
+		"value": "bay county, washington county, elevation, calhoun county, digital elevation model, florida, jackson county, lidar, united states, grid, dem, bathymetry/topography, surface model",
 		"__extras": {
 			"revision_id": "c5ed6c70-3874-409c-8f9c-e8545d903213",
 			"package_id": "452075c6-8491-4757-94bd-27112ca80563"

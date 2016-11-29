@@ -36,7 +36,7 @@
 		"cache_url": null,
 		"name": "National Sub-State Geography Geodatabase",
 		"created": "2015-12-07T15:04:38.099952",
-		"url": "ftp:\/\/ftp2.census.gov\/geo\/tiger\/TGRGDB15\/tlgdb_2015_a_us_substategeo.gdb.zip",
+		"url": "ftp://ftp2.census.gov/geo/tiger/TGRGDB15/tlgdb_2015_a_us_substategeo.gdb.zip",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 0,
@@ -56,7 +56,7 @@
 	"name": "2015-national-sub-state-geography-geodatabase",
 	"isopen": false,
 	"url": null,
-	"notes": "The 2015 TIGER Geodatabases are extracts of selected nation based and state based geographic and cartographic information from the\n                    U.S. Census Bureau's Master Address File\/Topologically Integrated Geographic Encoding and Referencing (MAF\/TIGER) database. The geodatabases\n                    include feature class layers of information for the fifty states, the District of Columbia, Puerto Rico, and the Island areas (American Samoa, the \n                    Commonwealth of the Northern Mariana Islands, Guam, and the United States Virgin Islands). The geodatabases do not contain any sensitive data. The \n                    2015 TIGER Geodatabases are designed for use with Esri\u00e2\u0080\u0099s ArcGIS.\n                    \n                    The National Sub-State Geography Geodatabase contains multiple nation-based layers reflecting the selected geography. These layers are the \n                    Block Group, Census Designated Place, Census Tract, Consolidated City, County, County Subdivision, Incorporated Place and State layers.\n                ",
+	"notes": "The 2015 TIGER Geodatabases are extracts of selected nation based and state based geographic and cartographic information from then                    U.S. Census Bureau's Master Address File/Topologically Integrated Geographic Encoding and Referencing (MAF/TIGER) database. The geodatabasesn                    include feature class layers of information for the fifty states, the District of Columbia, Puerto Rico, and the Island areas (American Samoa, the n                    Commonwealth of the Northern Mariana Islands, Guam, and the United States Virgin Islands). The geodatabases do not contain any sensitive data. The n                    2015 TIGER Geodatabases are designed for use with Esriu00e2u0080u0099s ArcGIS.n                    n                    The National Sub-State Geography Geodatabase contains multiple nation-based layers reflecting the selected geography. These layers are the n                    Block Group, Census Designated Place, Census Tract, Consolidated City, County, County Subdivision, Incorporated Place and State layers.n                ",
 	"license_title": null,
 	"extras": [{
 		"key": "bbox-east-long",
@@ -92,7 +92,7 @@
 	},
 	{
 		"key": "spatial",
-		"value": "{\"type\": \"Polygon\", \"coordinates\": [[[-179.148909, -14.548699], [179.77847, -14.548699], [179.77847, 71.365162], [-179.148909, 71.365162], [-179.148909, -14.548699]]]}"
+		"value": "{"type": "Polygon", "coordinates": [[[-179.148909, -14.548699], [179.77847, -14.548699], [179.77847, 71.365162], [-179.148909, 71.365162], [-179.148909, -14.548699]]]}"
 	},
 	{
 		"key": "progress",
@@ -100,7 +100,7 @@
 	},
 	{
 		"key": "access_constraints",
-		"value": "[\" Access Constraints: None\", \" Use Constraints: No warranty, expressed or implied, is made with regard to the accuracy of the data in the\\n                            TIGER Geodatabases, and no liability is assumed by the Unit ed States Government in general, or the Census Bureau specifically, as to the\\n                            positional or attribute accuracy of the data. The boundary information in the TIGER Geodatabases is for statistical data collection and\\n                            tabulation purposes only. Their depiction and designation for statistical purposes does not constitute a determination of jurisdictional\\n                            authority or rights of ownership or entitlement and they are not legal land descriptions.\"]"
+		"value": "[" Access Constraints: None", " Use Constraints: No warranty, expressed or implied, is made with regard to the accuracy of the data in the\n                            TIGER Geodatabases, and no liability is assumed by the Unit ed States Government in general, or the Census Bureau specifically, as to the\n                            positional or attribute accuracy of the data. The boundary information in the TIGER Geodatabases is for statistical data collection and\n                            tabulation purposes only. Their depiction and designation for statistical purposes does not constitute a determination of jurisdictional\n                            authority or rights of ownership or entitlement and they are not legal land descriptions."]"
 	},
 	{
 		"key": "temporal-extent-begin",
@@ -120,7 +120,7 @@
 	},
 	{
 		"key": "dataset-reference-date",
-		"value": "[{\"type\": \"publication\", \"value\": \"20150811\"}]"
+		"value": "[{"type": "publication", "value": "20150811"}]"
 	},
 	{
 		"key": "frequency-of-update",
@@ -178,7 +178,7 @@
 		"revision_timestamp": "2013-08-29T13:37:04.171127",
 		"is_organization": true,
 		"state": "active",
-		"image_url": "http:\/\/www.census.gov\/main\/img\/home\/CensusLogo-white.png",
+		"image_url": "http://www.census.gov/main/img/home/CensusLogo-white.png",
 		"revision_id": "0995f525-d563-4254-a535-af5b926fe663",
 		"type": "organization",
 		"id": "31c49abe-512a-412a-9cc7-5b2601325d6b",

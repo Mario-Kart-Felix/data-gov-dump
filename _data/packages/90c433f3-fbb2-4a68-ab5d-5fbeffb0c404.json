@@ -37,7 +37,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2016-07-07T01:12:31.234352",
-		"url": "http:\/\/www.horizon-systems.com\/NHDPlus\/NHDPlusV1_home.php",
+		"url": "http://www.horizon-systems.com/NHDPlus/NHDPlusV1_home.php",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 0,
@@ -67,7 +67,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2016-07-07T01:12:31.234388",
-		"url": "https:\/\/www.epa.gov\/waterdata\/waters-watershed-assessment-tracking-environmental-results-system",
+		"url": "https://www.epa.gov/waterdata/waters-watershed-assessment-tracking-environmental-results-system",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 1,
@@ -87,7 +87,7 @@
 	"name": "national-hydrography-dataset-plus-nhdplus",
 	"isopen": false,
 	"url": null,
-	"notes": "The NHDPlus Version 1.0 is an integrated suite of application-ready geospatial data sets that incorporate many of the best features of the National Hydrography Dataset (NHD) and the National Elevation Dataset (NED). The NHDPlus includes a stream network (based on the 1:100,000-scale NHD), improved networking, naming, and \"value-added attributes\" (VAA's). NHDPlus also includes elevation-derived catchments (drainage areas) produced using a drainageenforcement technique first broadly applied in New England, and thus dubbed \"The New-England Method\". This technique involves \"burning-in\" the 1:100,000-scale NHD and when available building \"walls\" using the national WatershedBoundary Dataset (WBD). The resulting modified digital elevation model(HydroDEM) is used to produce hydrologic derivatives that agree with the NHDand WBD. An interdisciplinary team from the U. S. Geological Survey (USGS), U.S. Environmental Protection Agency (USEPA), and contractors, over the lasttwo years has found this method to produce the best quality NHD catchments using an automated process.The VAAs include greatly enhanced capabilities for upstream and downstream navigation, analysis and modeling. Examples include: retrieve all flowlines (predominantly confluence-to-confluence stream segments) and catchments upstream of a given flowline using queries rather than by slower flowline-by flowline navigation; retrieve flowlines by stream order; subset a stream level path sorted in hydrologic order for stream profile mapping, analysis and plotting; and, calculate cumulative catchment attributes using streamlined VAA hydrologic sequencing routing attributes.The VAAs include results from the use of these cumulative routing techniques, including cumulative drainage areas, precipitation, temperature, and land cover distributions. Several of these cumulative attributes are used to estimate mean annual flow and velocity as part of the VAAs.NHDPlus contains a snapshot (2005) of the 1:100,000-scale NHD that has been extensively improved. While these updates will eventually make their way back to the central NHD repository at USGS, this will not have happened prior to distribution of NHDPlus because the update process for the central NHD repository is still in development. Consequently, the NHDPlus will contain some temporary database keys and, as a result, NHDPlus users may not make updates to the NHD portions of NHDPlus with the intent of sending these updates back to the USGS. Once the NHDPlus updates have been posted to the central NHD repository, a fresh copy of the improved data can be downloaded from the central NHD repository and that copy will be usable for data maintenance. Note that the NHDPlus products are tightly integrated and user modifications to the underlying NHD can compromise this synchronization.",
+	"notes": "The NHDPlus Version 1.0 is an integrated suite of application-ready geospatial data sets that incorporate many of the best features of the National Hydrography Dataset (NHD) and the National Elevation Dataset (NED). The NHDPlus includes a stream network (based on the 1:100,000-scale NHD), improved networking, naming, and "value-added attributes" (VAA's). NHDPlus also includes elevation-derived catchments (drainage areas) produced using a drainageenforcement technique first broadly applied in New England, and thus dubbed "The New-England Method". This technique involves "burning-in" the 1:100,000-scale NHD and when available building "walls" using the national WatershedBoundary Dataset (WBD). The resulting modified digital elevation model(HydroDEM) is used to produce hydrologic derivatives that agree with the NHDand WBD. An interdisciplinary team from the U. S. Geological Survey (USGS), U.S. Environmental Protection Agency (USEPA), and contractors, over the lasttwo years has found this method to produce the best quality NHD catchments using an automated process.The VAAs include greatly enhanced capabilities for upstream and downstream navigation, analysis and modeling. Examples include: retrieve all flowlines (predominantly confluence-to-confluence stream segments) and catchments upstream of a given flowline using queries rather than by slower flowline-by flowline navigation; retrieve flowlines by stream order; subset a stream level path sorted in hydrologic order for stream profile mapping, analysis and plotting; and, calculate cumulative catchment attributes using streamlined VAA hydrologic sequencing routing attributes.The VAAs include results from the use of these cumulative routing techniques, including cumulative drainage areas, precipitation, temperature, and land cover distributions. Several of these cumulative attributes are used to estimate mean annual flow and velocity as part of the VAAs.NHDPlus contains a snapshot (2005) of the 1:100,000-scale NHD that has been extensively improved. While these updates will eventually make their way back to the central NHD repository at USGS, this will not have happened prior to distribution of NHDPlus because the update process for the central NHD repository is still in development. Consequently, the NHDPlus will contain some temporary database keys and, as a result, NHDPlus users may not make updates to the NHD portions of NHDPlus with the intent of sending these updates back to the USGS. Once the NHDPlus updates have been posted to the central NHD repository, a fresh copy of the improved data can be downloaded from the central NHD repository and that copy will be usable for data maintenance. Note that the NHDPlus products are tightly integrated and user modifications to the underlying NHD can compromise this synchronization.",
 	"license_title": null,
 	"extras": [{
 		"key": "bbox-east-long",
@@ -123,7 +123,7 @@
 	},
 	{
 		"key": "spatial",
-		"value": "{\"type\": \"Polygon\", \"coordinates\": [[[-138.21454852, 6.65223303], [-12.68151645, 6.65223303], [-12.68151645, 61.7110157], [-138.21454852, 61.7110157], [-138.21454852, 6.65223303]]]}"
+		"value": "{"type": "Polygon", "coordinates": [[[-138.21454852, 6.65223303], [-12.68151645, 6.65223303], [-12.68151645, 61.7110157], [-138.21454852, 61.7110157], [-138.21454852, 6.65223303]]]}"
 	},
 	{
 		"key": "progress",
@@ -131,11 +131,11 @@
 	},
 	{
 		"key": "access_constraints",
-		"value": "[\"Use Constraints: None. Acknowledgement of the originating agencies (USEPA and USGS) would be appreciated in products derived from these data.\", \"Access Constraints: None.\"]"
+		"value": "["Use Constraints: None. Acknowledgement of the originating agencies (USEPA and USGS) would be appreciated in products derived from these data.", "Access Constraints: None."]"
 	},
 	{
 		"key": "licence_url",
-		"value": "https:\/\/edg.epa.gov\/EPA_Data_License.htm"
+		"value": "https://edg.epa.gov/EPA_Data_License.htm"
 	},
 	{
 		"key": "contact-email",
@@ -151,7 +151,7 @@
 	},
 	{
 		"key": "dataset-reference-date",
-		"value": "[{\"type\": \"publication\", \"value\": \"2006-01-01\"}]"
+		"value": "[{"type": "publication", "value": "2006-01-01"}]"
 	},
 	{
 		"key": "frequency-of-update",
@@ -159,7 +159,7 @@
 	},
 	{
 		"key": "licence",
-		"value": "[\"https:\/\/edg.epa.gov\/EPA_Data_License.htm\"]"
+		"value": "["https://edg.epa.gov/EPA_Data_License.htm"]"
 	},
 	{
 		"key": "metadata_type",
@@ -167,7 +167,7 @@
 	},
 	{
 		"key": "responsible-party",
-		"value": "[{\"name\": \"U.S. Environmental Protection Agency, Office of Water\", \"roles\": [\"pointOfContact\"]}]"
+		"value": "[{"name": "U.S. Environmental Protection Agency, Office of Water", "roles": ["pointOfContact"]}]"
 	},
 	{
 		"key": "spatial-data-service-type",
@@ -209,7 +209,7 @@
 		"revision_timestamp": "2014-01-16T18:58:42.895981",
 		"is_organization": true,
 		"state": "active",
-		"image_url": "http:\/\/edg.epa.gov\/EPALogo.svg",
+		"image_url": "http://edg.epa.gov/EPALogo.svg",
 		"revision_id": "f0e4b475-7424-4ce0-9a22-412e7e595154",
 		"type": "organization",
 		"id": "6d90e48d-3076-4327-b2f4-c33919f374d5",

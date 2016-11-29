@@ -36,7 +36,7 @@
 		"cache_url": null,
 		"name": "ArcGIS Server Map Service",
 		"created": "2016-03-31T19:57:42.926346",
-		"url": "http:\/\/watersgeo.epa.gov\/ArcGIS\/rest\/services\/OW\/WBD_NAD83\/MapServer",
+		"url": "http://watersgeo.epa.gov/ArcGIS/rest/services/OW/WBD_NAD83/MapServer",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 0,
@@ -65,7 +65,7 @@
 		"cache_url": null,
 		"name": "ArcGIS Server WMS Service",
 		"created": "2016-03-31T19:57:42.926373",
-		"url": "http:\/\/watersgeo.epa.gov\/ArcGIS\/rest\/services\/OW\/WBD_NAD83\/MapServer\/WMSServer?request=GetCapabilities&service=WMS",
+		"url": "http://watersgeo.epa.gov/ArcGIS/rest/services/OW/WBD_NAD83/MapServer/WMSServer?request=GetCapabilities&service=WMS",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 1,
@@ -94,7 +94,7 @@
 		"cache_url": null,
 		"name": "ArcGIS Server REST interface",
 		"created": "2016-03-31T19:57:42.926383",
-		"url": "http:\/\/watersgeo.epa.gov\/ArcGIS\/rest\/services\/OW\/WBD_NAD83\/MapServer?f=json&pretty=true",
+		"url": "http://watersgeo.epa.gov/ArcGIS/rest/services/OW/WBD_NAD83/MapServer?f=json&pretty=true",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 2,
@@ -123,7 +123,7 @@
 		"cache_url": null,
 		"name": "ArcGIS Server SOAP interface",
 		"created": "2016-03-31T19:57:42.926391",
-		"url": "http:\/\/watersgeo.epa.gov\/ArcGIS\/rest\/services\/OW\/WBD_NAD83\/MapServer?wsdl",
+		"url": "http://watersgeo.epa.gov/ArcGIS/rest/services/OW/WBD_NAD83/MapServer?wsdl",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 3,
@@ -153,7 +153,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2016-03-31T19:57:42.926399",
-		"url": "http:\/\/www.epa.gov\/waterdata\/waters-watershed-assessment-tracking-environmental-results-system",
+		"url": "http://www.epa.gov/waterdata/waters-watershed-assessment-tracking-environmental-results-system",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 4,
@@ -183,7 +183,7 @@
 		"cache_url": null,
 		"name": "Esri Rest API Endpoint",
 		"created": "2016-03-31T19:57:42.926407",
-		"url": "http:\/\/watersgeo.epa.gov\/ArcGIS\/rest\/services\/OW\/WBD_NAD83\/MapServer",
+		"url": "http://watersgeo.epa.gov/ArcGIS/rest/services/OW/WBD_NAD83/MapServer",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 5,
@@ -203,11 +203,11 @@
 	"name": "epa-office-of-water-ow-12-digit-hydrologic-unit-boundaries-of-the-united-states",
 	"isopen": false,
 	"url": null,
-	"notes": "The Watershed Boundary Dataset (WBD) is a complete digital hydrologic unit national boundary layer that is at the Subwatershed (12-digit) level. It is composed of the watershed boundaries delineated by state agencies at the 1:24,000 scale. Please refer to the individual state metadata as the primary reference source. To access state specific metadata, go to the following link to view documentation created by agencies that performed the watershed delineation. This data set is a complete digital hydrologic unit boundary layer to the Subwatershed (12-digit) 6th level. This data set consists of geo-referenced digital data and associated attributes created in accordance with the \"FGDC Proposal, Version 1.0 - Federal Standards For Delineation of Hydrologic Unit Boundaries 3\/01\/02\". Polygons are attributed with hydrologic unit codes for 4th level sub-basins, 5th level watersheds, 6th level subwatersheds, name, size, downstream hydrologic unit, type of watershed, non-contributing areas and flow modification. Arcs are attributed with the highest hydrologic unit code for each watershed, linesource and a metadata reference file.Please refer to the Metadata contact if you want access to the WBD national data set.",
+	"notes": "The Watershed Boundary Dataset (WBD) is a complete digital hydrologic unit national boundary layer that is at the Subwatershed (12-digit) level. It is composed of the watershed boundaries delineated by state agencies at the 1:24,000 scale. Please refer to the individual state metadata as the primary reference source. To access state specific metadata, go to the following link to view documentation created by agencies that performed the watershed delineation. This data set is a complete digital hydrologic unit boundary layer to the Subwatershed (12-digit) 6th level. This data set consists of geo-referenced digital data and associated attributes created in accordance with the "FGDC Proposal, Version 1.0 - Federal Standards For Delineation of Hydrologic Unit Boundaries 3/01/02". Polygons are attributed with hydrologic unit codes for 4th level sub-basins, 5th level watersheds, 6th level subwatersheds, name, size, downstream hydrologic unit, type of watershed, non-contributing areas and flow modification. Arcs are attributed with the highest hydrologic unit code for each watershed, linesource and a metadata reference file.Please refer to the Metadata contact if you want access to the WBD national data set.",
 	"license_title": null,
 	"extras": [{
 		"key": "responsible-party",
-		"value": "[{\"name\": \"U.S. Federal Agency\", \"roles\": [\"pointOfContact\"]}]"
+		"value": "[{"name": "U.S. Federal Agency", "roles": ["pointOfContact"]}]"
 	},
 	{
 		"key": "contact-email",
@@ -227,7 +227,7 @@
 	},
 	{
 		"key": "dataset-reference-date",
-		"value": "[{\"type\": \"publication\", \"value\": \"2009-03-16\"}]"
+		"value": "[{"type": "publication", "value": "2009-03-16"}]"
 	},
 	{
 		"key": "resource-type",
@@ -255,7 +255,7 @@
 	},
 	{
 		"key": "licence",
-		"value": "[\"Although these data have been processed successfully on a computer system at the Environmental Protection Agency, no warranty expressed or implied is made regarding the accuracy or utility of the data on any other system or for general or scientific purposes, nor shall the act of distribution constitute any such warranty. It is strongly recommended that careful attention be paid to the contents of the metadata file associated with these data to evaluate data set limitations, restrictions or intended use. The U.S. Environmental Protection Agency shall not be held liable for improper or incorrect use of the data described and\/or contained herein.\"]"
+		"value": "["Although these data have been processed successfully on a computer system at the Environmental Protection Agency, no warranty expressed or implied is made regarding the accuracy or utility of the data on any other system or for general or scientific purposes, nor shall the act of distribution constitute any such warranty. It is strongly recommended that careful attention be paid to the contents of the metadata file associated with these data to evaluate data set limitations, restrictions or intended use. The U.S. Environmental Protection Agency shall not be held liable for improper or incorrect use of the data described and/or contained herein."]"
 	},
 	{
 		"key": "metadata_type",
@@ -267,7 +267,7 @@
 	},
 	{
 		"key": "spatial",
-		"value": "{\"type\": \"Polygon\", \"coordinates\": [[[-160.24704, 17.67374], [-64.56519, 17.67374], [-64.56519, 49.38448], [-160.24704, 49.38448], [-160.24704, 17.67374]]]}"
+		"value": "{"type": "Polygon", "coordinates": [[[-160.24704, 17.67374], [-64.56519, 17.67374], [-64.56519, 49.38448], [-160.24704, 49.38448], [-160.24704, 17.67374]]]}"
 	},
 	{
 		"key": "guid",
@@ -279,7 +279,7 @@
 	},
 	{
 		"key": "access_constraints",
-		"value": "[\"Use Constraints: The distributor shall not be held liable for improper or incorrect use of this data, based on the description of appropriate\/inappropriate uses described in this metadata document. It is strongly recommended that this data is directly acquired from the distributor and not indirectly through other sources which may have changed the data in some way. These data should not be used at scales greater than 1:24,000 for the purpose of identifying hydrographic watershed boundary feature locations in STATE. The publisher makes no claims for the data's suitability for other purposes. The publisher should be acknowledged as the data source in products derived from these data. The Watershed Boundary Dataset is public information and may be interpreted by all organizations, agencies, units of government, or others based on needs; however, they are responsible for the appropriate application of the data. Federal, State, or local regulatory bodies are not to reassign to the publisher or the Natural Resources Conservation Service any authority for the decisions they make. The Natural Resources Conservation Service will not perform any evaluations of these maps or purposes related solely to State or local regulatory programs. Photographic or digital enlargement of these maps to scales greater than that at which they were originally delineated can result in misrepresentation of the data. If enlarged, the maps will not include the fine detail that would be appropriate for mapping at the small scale. Digital data files are periodically updated. Files are dated, and users are responsible for obtaining the latest version of the data from the source distributor..\", \"Access Constraints: None.\"]"
+		"value": "["Use Constraints: The distributor shall not be held liable for improper or incorrect use of this data, based on the description of appropriate/inappropriate uses described in this metadata document. It is strongly recommended that this data is directly acquired from the distributor and not indirectly through other sources which may have changed the data in some way. These data should not be used at scales greater than 1:24,000 for the purpose of identifying hydrographic watershed boundary feature locations in STATE. The publisher makes no claims for the data's suitability for other purposes. The publisher should be acknowledged as the data source in products derived from these data. The Watershed Boundary Dataset is public information and may be interpreted by all organizations, agencies, units of government, or others based on needs; however, they are responsible for the appropriate application of the data. Federal, State, or local regulatory bodies are not to reassign to the publisher or the Natural Resources Conservation Service any authority for the decisions they make. The Natural Resources Conservation Service will not perform any evaluations of these maps or purposes related solely to State or local regulatory programs. Photographic or digital enlargement of these maps to scales greater than that at which they were originally delineated can result in misrepresentation of the data. If enlarged, the maps will not include the fine detail that would be appropriate for mapping at the small scale. Digital data files are periodically updated. Files are dated, and users are responsible for obtaining the latest version of the data from the source distributor..", "Access Constraints: None."]"
 	},
 	{
 		"key": "spatial_harvester",
@@ -321,7 +321,7 @@
 		"revision_timestamp": "2014-01-16T18:58:42.895981",
 		"is_organization": true,
 		"state": "active",
-		"image_url": "http:\/\/edg.epa.gov\/EPALogo.svg",
+		"image_url": "http://edg.epa.gov/EPALogo.svg",
 		"revision_id": "f0e4b475-7424-4ce0-9a22-412e7e595154",
 		"type": "organization",
 		"id": "6d90e48d-3076-4327-b2f4-c33919f374d5",

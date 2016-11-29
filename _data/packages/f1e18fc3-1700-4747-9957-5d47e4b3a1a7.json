@@ -37,7 +37,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2013-03-26T00:26:07.385305",
-		"url": "http:\/\/cugir.mannlib.cornell.edu\/bucketinfo.jsp?id=7877",
+		"url": "http://cugir.mannlib.cornell.edu/bucketinfo.jsp?id=7877",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 0,
@@ -57,11 +57,11 @@
 	"name": "wind-resource-of-tompkins-county-70-meters-grid-2003",
 	"isopen": false,
 	"url": null,
-	"notes": "This file was created using the MesoMap system which consists of an integrated set of atmospheric simulation models, databases, and computers and storage systems. At the core of MesoMap is MASS (Mesoscale Atmospheric Simulation System), a numerical weather model, which simulates the physics of the atmosphere. MASS is coupled to a simpler wind flow model, WindMap, which is used to refine the spatial resolution of MASS and account for simple localized effects of terrain and surface roughness. MASS simulates weather conditions over a region for 366 historical days randomly selected from a 15-year period. When the runs are finished, the results are input into WindMap. Truewind subsequently validates the wind maps. The final product is a grid of cells each containing a single value of average wind speed (m\/s) at a hub height of 70 meters, for a 40,000 square meter area.",
+	"notes": "This file was created using the MesoMap system which consists of an integrated set of atmospheric simulation models, databases, and computers and storage systems. At the core of MesoMap is MASS (Mesoscale Atmospheric Simulation System), a numerical weather model, which simulates the physics of the atmosphere. MASS is coupled to a simpler wind flow model, WindMap, which is used to refine the spatial resolution of MASS and account for simple localized effects of terrain and surface roughness. MASS simulates weather conditions over a region for 366 historical days randomly selected from a 15-year period. When the runs are finished, the results are input into WindMap. Truewind subsequently validates the wind maps. The final product is a grid of cells each containing a single value of average wind speed (m/s) at a hub height of 70 meters, for a 40,000 square meter area.",
 	"license_title": null,
 	"extras": [{
 		"key": "responsible-party",
-		"value": "[{\"name\": \"AWS Truewind\", \"roles\": [\"pointOfContact\"]}]"
+		"value": "[{"name": "AWS Truewind", "roles": ["pointOfContact"]}]"
 	},
 	{
 		"key": "contact-email",
@@ -81,7 +81,7 @@
 	},
 	{
 		"key": "dataset-reference-date",
-		"value": "[{\"type\": \"publication\", \"value\": \"2003-01-01\"}]"
+		"value": "[{"type": "publication", "value": "2003-01-01"}]"
 	},
 	{
 		"key": "resource-type",
@@ -109,7 +109,7 @@
 	},
 	{
 		"key": "licence",
-		"value": "[\"Cornell University provides these geographic data \\\"as is.\\\" Cornell University makes no guarantee or warranty concerning the accuracy of information contained in the geographic data. Cornell University further makes no warranty either expressed or implied, regarding the condition of the product or its fitness for any particular purpose. The burden for determining fitness for use lies entirely with the user. Although these files have been processed successfully on computers at Cornell University, no warranty is made by Cornell University regarding the use of these data on any other system, nor does the fact of distribution constitute or imply any such warranty.\"]"
+		"value": "["Cornell University provides these geographic data \"as is.\" Cornell University makes no guarantee or warranty concerning the accuracy of information contained in the geographic data. Cornell University further makes no warranty either expressed or implied, regarding the condition of the product or its fitness for any particular purpose. The burden for determining fitness for use lies entirely with the user. Although these files have been processed successfully on computers at Cornell University, no warranty is made by Cornell University regarding the use of these data on any other system, nor does the fact of distribution constitute or imply any such warranty."]"
 	},
 	{
 		"key": "metadata_type",
@@ -117,7 +117,7 @@
 	},
 	{
 		"key": "spatial",
-		"value": "{\"type\": \"Polygon\", \"coordinates\": [[[-80.009861, 40.265865], [-80.009861, 45.176836], [-71.386484, 45.176836], [-71.386484, 40.265865], [-80.009861, 40.265865]]]}"
+		"value": "{"type": "Polygon", "coordinates": [[[-80.009861, 40.265865], [-80.009861, 45.176836], [-71.386484, 45.176836], [-71.386484, 40.265865], [-80.009861, 40.265865]]]}"
 	},
 	{
 		"key": "guid",
@@ -129,7 +129,7 @@
 	},
 	{
 		"key": "access_constraints",
-		"value": "[\"Use Constraints: This map was created by AWS Truewind using the MesoMap system and historical weather data. Although it is believed to represent an accurate overall picture of the wind energy resource, estimates at any location should be confirmed by measurement. Please cite AWS Truewind, LLC when using these data.\", \"Access Constraints: None\"]"
+		"value": "["Use Constraints: This map was created by AWS Truewind using the MesoMap system and historical weather data. Although it is believed to represent an accurate overall picture of the wind energy resource, estimates at any location should be confirmed by measurement. Please cite AWS Truewind, LLC when using these data.", "Access Constraints: None"]"
 	},
 	{
 		"key": "frequency-of-update",
@@ -167,7 +167,7 @@
 		"revision_timestamp": "2013-03-25T16:20:43.179153",
 		"is_organization": true,
 		"state": "active",
-		"image_url": "https:\/\/encrypted-tbn0.gstatic.com\/images?q=tbn:ANd9GcSSUlT4KL5Yu0Z4wxvwH6W1RomS6KRl7Cat3zfx4j2MbexEoofWuiXi61-3",
+		"image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSSUlT4KL5Yu0Z4wxvwH6W1RomS6KRl7Cat3zfx4j2MbexEoofWuiXi61-3",
 		"revision_id": "cecc899c-71b7-4197-ab17-e7aa41978b20",
 		"type": "organization",
 		"id": "dd3a2a7c-e157-40d6-af0d-fe0a5a0ed064",

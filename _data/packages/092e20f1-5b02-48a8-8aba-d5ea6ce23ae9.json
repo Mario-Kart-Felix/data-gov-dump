@@ -37,7 +37,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2016-10-03T17:22:32.300814",
-		"url": "http:\/\/accession.nodc.noaa.gov\/0130929\/data\/0-data",
+		"url": "http://accession.nodc.noaa.gov/0130929/data/0-data",
 		"webstore_url": null,
 		"resource_locator_function": "download",
 		"position": 0,
@@ -59,7 +59,7 @@
 		"revision_timestamp": "2013-03-25T23:05:12.923863",
 		"is_organization": true,
 		"state": "active",
-		"image_url": "https:\/\/fortress.wa.gov\/dfw\/score\/score\/images\/noaa_logo.png",
+		"image_url": "https://fortress.wa.gov/dfw/score/score/images/noaa_logo.png",
 		"revision_id": "c6d43080-22e1-405e-a83d-f2a512d9e867",
 		"type": "organization",
 		"id": "e811f0b4-451f-4896-9e8f-fc6802837819",
@@ -70,7 +70,7 @@
 	"name": "afsc-refm-isolation-by-distance-ibd-alaskan-fish-stock-structure-modeling",
 	"isopen": false,
 	"url": null,
-	"notes": "There is no established management protocol for stocks subject to isolation-by-distance (IBD) stock structure. This study examines several management strategies for two marine fish species subject to IBD using simulation, Pacific cod in the Aleutian Islands (AI) and northern rockfish in the Eastern Bering Sea (EBS) and Aleutian Islands. A one-dimensional stepping stone model was used to model isolation by distance, and was intended to mimic regions where marine species are exploited along a continental shelf. The performance of spatial assessment and management methods depended on how the range was split. Splitting anywhere within the managed area led to fewer demes falling below target and threshold biomass levels and higher yield than managing the entire area as a single unit. Equilibrium yield was maximized when each deme was assessed and managed separately and under catch cascading, in which harvest quotas within a management unit are spatially allocated based upon the distribution of survey biomass. The longer-lived rockfish declined more slowly than Pacific cod, and experienced greater depletion in biomass under disproportionate fishing effort due to lower productivity. Overall, splitting a management area of the size simulated in the model improved performance measures, and the optimal management strategy grouped management units by demes with similar relative fishing effort.\n\n\n\n\n\n\n\n\n\n",
+	"notes": "There is no established management protocol for stocks subject to isolation-by-distance (IBD) stock structure. This study examines several management strategies for two marine fish species subject to IBD using simulation, Pacific cod in the Aleutian Islands (AI) and northern rockfish in the Eastern Bering Sea (EBS) and Aleutian Islands. A one-dimensional stepping stone model was used to model isolation by distance, and was intended to mimic regions where marine species are exploited along a continental shelf. The performance of spatial assessment and management methods depended on how the range was split. Splitting anywhere within the managed area led to fewer demes falling below target and threshold biomass levels and higher yield than managing the entire area as a single unit. Equilibrium yield was maximized when each deme was assessed and managed separately and under catch cascading, in which harvest quotas within a management unit are spatially allocated based upon the distribution of survey biomass. The longer-lived rockfish declined more slowly than Pacific cod, and experienced greater depletion in biomass under disproportionate fishing effort due to lower productivity. Overall, splitting a management area of the size simulated in the model improved performance measures, and the optimal management strategy grouped management units by demes with similar relative fishing effort.nnnnnnnnnn",
 	"owner_org": "e811f0b4-451f-4896-9e8f-fc6802837819",
 	"extras": [{
 		"key": "bbox-east-long",
@@ -106,7 +106,7 @@
 	},
 	{
 		"key": "spatial",
-		"value": "{\"type\": \"Polygon\", \"coordinates\": [[[170.0, 50.0], [-160.0, 50.0], [-160.0, 62.0], [170.0, 62.0], [170.0, 50.0]]]}"
+		"value": "{"type": "Polygon", "coordinates": [[[170.0, 50.0], [-160.0, 50.0], [-160.0, 62.0], [170.0, 62.0], [170.0, 50.0]]]}"
 	},
 	{
 		"key": "progress",
@@ -114,7 +114,7 @@
 	},
 	{
 		"key": "access_constraints",
-		"value": "[\"There are no legal restrictions on access to the data. They reside in public domain and can be freely distributed.\", \"User must read and fully comprehend the metadata prior to use.  Applications or inferences derived from the data should be carefully considered for accuracy.  Acknowledgement\\nof NOAA\/NMFS\/AFSC, as the source from which these data were obtained in any publications and\/or other representations of these, data is suggested.\"]"
+		"value": "["There are no legal restrictions on access to the data. They reside in public domain and can be freely distributed.", "User must read and fully comprehend the metadata prior to use.  Applications or inferences derived from the data should be carefully considered for accuracy.  Acknowledgement\nof NOAA/NMFS/AFSC, as the source from which these data were obtained in any publications and/or other representations of these, data is suggested."]"
 	},
 	{
 		"key": "temporal-extent-begin",
@@ -134,7 +134,7 @@
 	},
 	{
 		"key": "dataset-reference-date",
-		"value": "[{\"type\": \"publication\", \"value\": \"2016-03-10\"}]"
+		"value": "[{"type": "publication", "value": "2016-03-10"}]"
 	},
 	{
 		"key": "frequency-of-update",
@@ -150,7 +150,7 @@
 	},
 	{
 		"key": "responsible-party",
-		"value": "[{\"name\": \"National Oceanic and Atmospheric Administration (NOAA) Alaska Fisheries Science Center (AFSC) Resource Ecology and Fisheries Management Division (REFM)\", \"roles\": [\"pointOfContact\"]}]"
+		"value": "[{"name": "National Oceanic and Atmospheric Administration (NOAA) Alaska Fisheries Science Center (AFSC) Resource Ecology and Fisheries Management Division (REFM)", "roles": ["pointOfContact"]}]"
 	},
 	{
 		"key": "temporal-extent-end",
@@ -184,6 +184,6 @@
 		"key": "harvest_source_title",
 		"value": "NOAA CSW Harvest Source"
 	}],
-	"title": "AFSC\/REFM: Isolation by distance (IBD) Alaskan fish stock structure modeling",
+	"title": "AFSC/REFM: Isolation by distance (IBD) Alaskan fish stock structure modeling",
 	"revision_id": "d62a5ca3-d6f7-4f6c-a8e9-c6f8fcfbc8f7"
 }

@@ -36,7 +36,7 @@
 		"cache_url": null,
 		"name": "NDGIS web site",
 		"created": "2013-12-07T04:04:14.412384",
-		"url": "http:\/\/www.nd.gov\/gis",
+		"url": "http://www.nd.gov/gis",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 0,
@@ -65,7 +65,7 @@
 		"cache_url": null,
 		"name": "Download Township Polygons of the Public Land Survey System",
 		"created": "2013-12-07T04:04:14.412411",
-		"url": "http:\/\/www.nd.gov\/gis\/apps\/DataDownload\/?clipping=Full&coord=ND83-SF&format=SHAPE&layers=NDHUB.PLSSTOWNSHIPS",
+		"url": "http://www.nd.gov/gis/apps/DataDownload/?clipping=Full&coord=ND83-SF&format=SHAPE&layers=NDHUB.PLSSTOWNSHIPS",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 1,
@@ -94,7 +94,7 @@
 		"cache_url": null,
 		"name": "PLSS Townships",
 		"created": "2013-12-07T04:04:14.412420",
-		"url": "http:\/\/ndgishub.nd.gov\/arcgis\/services\/All_GovtBoundaries\/MapServer\/WMSServer?",
+		"url": "http://ndgishub.nd.gov/arcgis/services/All_GovtBoundaries/MapServer/WMSServer?",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 2,
@@ -123,7 +123,7 @@
 		"cache_url": null,
 		"name": "Esri REST including WMS",
 		"created": "2013-12-07T04:04:14.412428",
-		"url": "http:\/\/ndgishub.nd.gov\/ArcGIS\/rest\/services\/All_GovtBoundaries\/MapServer",
+		"url": "http://ndgishub.nd.gov/ArcGIS/rest/services/All_GovtBoundaries/MapServer",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 3,
@@ -152,7 +152,7 @@
 		"cache_url": null,
 		"name": "Esri REST including WFS and KML",
 		"created": "2013-12-07T04:04:14.412436",
-		"url": "http:\/\/ndgishub.nd.gov\/ArcGIS\/rest\/services\/Features\/GovtBoundaries\/MapServer",
+		"url": "http://ndgishub.nd.gov/ArcGIS/rest/services/Features/GovtBoundaries/MapServer",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 4,
@@ -185,7 +185,7 @@
 	"name": "township-polygons-of-the-public-land-survey-system-plss",
 	"isopen": false,
 	"url": null,
-	"notes": "6\/12\/13 - Errors in section attributes were corrected in the PLSS poly layer, primarily within the Sisseton Reservation area and along the Red River.\n\nThis coverage represents the townships in the US Public Land Survey System for North Dakota. It is derived from the PLSS section layer compiled from ND Public Service Commission data by staff of the North Dakota Geological Survey in 1993.",
+	"notes": "6/12/13 - Errors in section attributes were corrected in the PLSS poly layer, primarily within the Sisseton Reservation area and along the Red River.nnThis coverage represents the townships in the US Public Land Survey System for North Dakota. It is derived from the PLSS section layer compiled from ND Public Service Commission data by staff of the North Dakota Geological Survey in 1993.",
 	"license_title": null,
 	"extras": [{
 		"key": "bbox-east-long",
@@ -229,7 +229,7 @@
 	},
 	{
 		"key": "spatial",
-		"value": "{\"type\": \"Polygon\", \"coordinates\": [[[-104.048894, 45.934976], [-96.554483, 45.934976], [-96.554483, 49.000586], [-104.048894, 49.000586], [-104.048894, 45.934976]]]}"
+		"value": "{"type": "Polygon", "coordinates": [[[-104.048894, 45.934976], [-96.554483, 45.934976], [-96.554483, 49.000586], [-104.048894, 49.000586], [-104.048894, 45.934976]]]}"
 	},
 	{
 		"key": "progress",
@@ -237,7 +237,7 @@
 	},
 	{
 		"key": "access_constraints",
-		"value": "[\"use constraints: Not intended for use at scales greater than 1:24000\"]"
+		"value": "["use constraints: Not intended for use at scales greater than 1:24000"]"
 	},
 	{
 		"key": "contact-email",
@@ -253,7 +253,7 @@
 	},
 	{
 		"key": "dataset-reference-date",
-		"value": "[{\"type\": \"publication\", \"value\": \"2013-06-12\"}]"
+		"value": "[{"type": "publication", "value": "2013-06-12"}]"
 	},
 	{
 		"key": "graphic-preview-description",
@@ -273,7 +273,7 @@
 	},
 	{
 		"key": "responsible-party",
-		"value": "[{\"name\": \"North Dakota State Water Commission\", \"roles\": [\"custodian\"]}]"
+		"value": "[{"name": "North Dakota State Water Commission", "roles": ["custodian"]}]"
 	},
 	{
 		"key": "spatial-data-service-type",
@@ -308,14 +308,14 @@
 		"value": "North Dakota GIS Hub Data Portal"
 	}],
 	"organization": {
-		"description": "The GIS Hub is the state source for GIS - data, services, and information.  More information can be found at www.nd.gov\/gis.",
+		"description": "The GIS Hub is the state source for GIS - data, services, and information.  More information can be found at www.nd.gov/gis.",
 		"created": "2013-03-14T03:44:44.340717",
 		"title": "State of North Dakota",
 		"name": "nd-gov",
 		"revision_timestamp": "2013-07-15T16:27:30.098476",
 		"is_organization": true,
 		"state": "active",
-		"image_url": "http:\/\/www.nd.gov\/gis\/images\/ndgis-logo.gif",
+		"image_url": "http://www.nd.gov/gis/images/ndgis-logo.gif",
 		"revision_id": "27517bb9-815c-4d4f-b45b-b88b6316697b",
 		"type": "organization",
 		"id": "1c782de6-9f1f-4427-93fd-33732e29970f",

@@ -34,9 +34,9 @@
 		"resource_locator_protocol": "WWW:LINK-1.0-http--link",
 		"mimetype": null,
 		"cache_url": null,
-		"name": "ftp:\/\/ftp.nefsc.noaa.gov\/",
+		"name": "ftp://ftp.nefsc.noaa.gov/",
 		"created": "2016-07-18T17:45:16.578564",
-		"url": "ftp:\/\/ftp.nefsc.noaa.gov\/",
+		"url": "ftp://ftp.nefsc.noaa.gov/",
 		"webstore_url": null,
 		"resource_locator_function": "download",
 		"position": 0,
@@ -65,7 +65,7 @@
 		"cache_url": null,
 		"name": "Website",
 		"created": "2016-07-18T17:45:16.578607",
-		"url": "http:\/\/nefsc.noaa.gov\/nefsc\/Narragansett\/",
+		"url": "http://nefsc.noaa.gov/nefsc/Narragansett/",
 		"webstore_url": null,
 		"resource_locator_function": "information",
 		"position": 1,
@@ -94,7 +94,7 @@
 		"cache_url": null,
 		"name": "Website",
 		"created": "2016-07-18T17:45:16.578615",
-		"url": "http:\/\/www.nefsc.noaa.gov",
+		"url": "http://www.nefsc.noaa.gov",
 		"webstore_url": null,
 		"resource_locator_function": "information",
 		"position": 2,
@@ -123,7 +123,7 @@
 		"cache_url": null,
 		"name": "Website",
 		"created": "2016-07-18T17:45:16.578623",
-		"url": "http:\/\/nefsc.noaa.gov\/nefsc\/Narragansett\/",
+		"url": "http://nefsc.noaa.gov/nefsc/Narragansett/",
 		"webstore_url": null,
 		"resource_locator_function": "information",
 		"position": 3,
@@ -152,7 +152,7 @@
 		"cache_url": null,
 		"name": "NOAA Data Management Plan (DMP)",
 		"created": "2016-07-18T17:45:16.578631",
-		"url": "https:\/\/inport.nmfs.noaa.gov\/inport\/item\/25953\/dmp",
+		"url": "https://inport.nmfs.noaa.gov/inport/item/25953/dmp",
 		"webstore_url": null,
 		"resource_locator_function": "information",
 		"position": 4,
@@ -181,7 +181,7 @@
 		"cache_url": null,
 		"name": "Website",
 		"created": "2016-07-18T17:45:16.578638",
-		"url": "http:\/\/nefsc.noaa.gov\/nefsc\/Narragansett\/",
+		"url": "http://nefsc.noaa.gov/nefsc/Narragansett/",
 		"webstore_url": null,
 		"resource_locator_function": "information",
 		"position": 5,
@@ -198,7 +198,7 @@
 		"state": "active",
 		"last_modified": null,
 		"hash": "",
-		"description": "This page describes the NASA GCMD Keywords, how\n                                                        to reference those keywords and provides download instructions.\n                                                    ",
+		"description": "This page describes the NASA GCMD Keywords, hown                                                        to reference those keywords and provides download instructions.n                                                    ",
 		"format": "HTML",
 		"tracking_summary": {
 			"total": 476,
@@ -210,7 +210,7 @@
 		"cache_url": null,
 		"name": "GCMD Keywords Page",
 		"created": "2016-07-18T17:45:16.578645",
-		"url": "http:\/\/gcmd.nasa.gov\/learn\/keyword_list.html",
+		"url": "http://gcmd.nasa.gov/learn/keyword_list.html",
 		"webstore_url": null,
 		"resource_locator_function": "information",
 		"position": 6,
@@ -250,7 +250,7 @@
 	},
 	{
 		"key": "dataset-reference-date",
-		"value": "[{\"type\": \"publication\", \"value\": \"\"}]"
+		"value": "[{"type": "publication", "value": ""}]"
 	},
 	{
 		"key": "resource-type",
@@ -258,7 +258,7 @@
 	},
 	{
 		"key": "responsible-party",
-		"value": "[{\"name\": \"NEFSC Narragansett Lab\", \"roles\": [\"pointOfContact\"]}]"
+		"value": "[{"name": "NEFSC Narragansett Lab", "roles": ["pointOfContact"]}]"
 	},
 	{
 		"key": "spatial-reference-system",
@@ -294,7 +294,7 @@
 	},
 	{
 		"key": "access_constraints",
-		"value": "[\"Access Constraints: May contain PII, such as vessel names, capt names, location data, etc.\\n\\nNEFSC Data Access Constraint:\\nIf data is stored on an internal NEFSC network, the requester may not have direct access to query the data unless they are also authorized for network access. | Use Constraints: Vessel names and specific catch locations must be kept confidential.\"]"
+		"value": "["Access Constraints: May contain PII, such as vessel names, capt names, location data, etc.\n\nNEFSC Data Access Constraint:\nIf data is stored on an internal NEFSC network, the requester may not have direct access to query the data unless they are also authorized for network access. | Use Constraints: Vessel names and specific catch locations must be kept confidential."]"
 	},
 	{
 		"key": "spatial_harvester",
@@ -302,7 +302,7 @@
 	},
 	{
 		"package_id": "72b8bad8-5561-4761-b914-35542d5d6825",
-		"value": "reproduction, sportfishing, food habits, doc\/noaa\/nmfs\/nefsc, northeast us, life history, morphology, age and growth, apex predators program, catch data, northeast fisheries science center, national marine fisheries service, noaa, u.s. department of commerce",
+		"value": "reproduction, sportfishing, food habits, doc/noaa/nmfs/nefsc, northeast us, life history, morphology, age and growth, apex predators program, catch data, northeast fisheries science center, national marine fisheries service, noaa, u.s. department of commerce",
 		"revision_timestamp": "2016-07-18T21:45:16.366157",
 		"state": "active",
 		"key": "tags",
@@ -332,7 +332,7 @@
 		"revision_timestamp": "2013-03-25T23:05:12.923863",
 		"is_organization": true,
 		"state": "active",
-		"image_url": "https:\/\/fortress.wa.gov\/dfw\/score\/score\/images\/noaa_logo.png",
+		"image_url": "https://fortress.wa.gov/dfw/score/score/images/noaa_logo.png",
 		"revision_id": "c6d43080-22e1-405e-a83d-f2a512d9e867",
 		"type": "organization",
 		"id": "e811f0b4-451f-4896-9e8f-fc6802837819",

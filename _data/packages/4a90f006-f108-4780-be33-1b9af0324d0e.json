@@ -37,7 +37,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2016-05-31T03:01:43.274456",
-		"url": "https:\/\/coast.noaa.gov\/slr\/",
+		"url": "https://coast.noaa.gov/slr/",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 0,
@@ -67,7 +67,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2016-05-31T03:01:43.274481",
-		"url": "https:\/\/coast.noaa.gov\/digitalcoast\/tools\/slr",
+		"url": "https://coast.noaa.gov/digitalcoast/tools/slr",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 1,
@@ -97,7 +97,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2016-05-31T03:01:43.274491",
-		"url": "https:\/\/coast.noaa.gov",
+		"url": "https://coast.noaa.gov",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 2,
@@ -130,7 +130,7 @@
 	"name": "noaa-digital-coast-sea-level-rise-and-coastal-flooding-impacts-viewer",
 	"isopen": false,
 	"url": null,
-	"notes": "The Sea Level Rise and Coastal Flooding Impacts Viewer depicts potential sea level rise and its associated impacts on the nation's coastal areas. These coastal areas include all the states (except for Alaska, Louisiana, and Great Lake states) and the U.S. territories of Guam, Puerto Rico, Saipan, and the U.S. Virgin Islands. The purpose of the mapping viewer is to provide coastal managers and scientists with a preliminary look at sea level rise (slr) and coastal flooding impacts. Being able to visualize potential impacts from sea level rise is a powerful teaching and planning tool, and the viewer brings this capability to coastal communities. The viewer is a screening-level tool that uses nationally consistent data sets and analyses. Data and maps provided can be used at several scales to help gauge trends and prioritize actions for different scenarios. The Sea Level Rise and Coastal Flooding Impacts Viewer may be accessed at: http:\/\/www.coast.noaa.gov\/slr\/. Some of the features of this tool are: 1. Displays potential future sea levels 2. Provides simulations of sea level rise at local landmarks 3. Communicates the spatial uncertainty of mapped sea levels 4. Models potential marsh migration due to sea level rise 5. Overlays social and economic data onto potential sea level rise 6. Examines how tidal flooding will become more frequent with sea level rise",
+	"notes": "The Sea Level Rise and Coastal Flooding Impacts Viewer depicts potential sea level rise and its associated impacts on the nation's coastal areas. These coastal areas include all the states (except for Alaska, Louisiana, and Great Lake states) and the U.S. territories of Guam, Puerto Rico, Saipan, and the U.S. Virgin Islands. The purpose of the mapping viewer is to provide coastal managers and scientists with a preliminary look at sea level rise (slr) and coastal flooding impacts. Being able to visualize potential impacts from sea level rise is a powerful teaching and planning tool, and the viewer brings this capability to coastal communities. The viewer is a screening-level tool that uses nationally consistent data sets and analyses. Data and maps provided can be used at several scales to help gauge trends and prioritize actions for different scenarios. The Sea Level Rise and Coastal Flooding Impacts Viewer may be accessed at: http://www.coast.noaa.gov/slr/. Some of the features of this tool are: 1. Displays potential future sea levels 2. Provides simulations of sea level rise at local landmarks 3. Communicates the spatial uncertainty of mapped sea levels 4. Models potential marsh migration due to sea level rise 5. Overlays social and economic data onto potential sea level rise 6. Examines how tidal flooding will become more frequent with sea level rise",
 	"license_title": null,
 	"extras": [{
 		"key": "bbox-east-long",
@@ -162,7 +162,7 @@
 	},
 	{
 		"key": "__category_tag_aa0c01c9-d292-4dc1-8fec-b10c1bb629a9",
-		"value": "[\"Human Health\",\"Transportation\",\"Physical Data\",\"Coastal Flooding\"]"
+		"value": "["Human Health","Transportation","Physical Data","Coastal Flooding"]"
 	},
 	{
 		"key": "spatial-reference-system",
@@ -170,7 +170,7 @@
 	},
 	{
 		"key": "spatial",
-		"value": "{\"type\": \"Polygon\", \"coordinates\": [[[-178.3, -14.53], [-64.5, -14.53], [-64.5, 68.35], [-178.3, 68.35], [-178.3, -14.53]]]}"
+		"value": "{"type": "Polygon", "coordinates": [[[-178.3, -14.53], [-64.5, -14.53], [-64.5, 68.35], [-178.3, 68.35], [-178.3, -14.53]]]}"
 	},
 	{
 		"key": "progress",
@@ -178,7 +178,7 @@
 	},
 	{
 		"key": "access_constraints",
-		"value": "[\"Use Constraints: The tool and data are provided as is, without warranty to its performance, merchantable state, or fitness for any particular purpose. The entire risk associated with the results and performance of this tool is assumed by the user. This tool should be used strictly as a planning reference and not for navigation, permitting, or other legal purposes.\", \"Access Constraints: None\"]"
+		"value": "["Use Constraints: The tool and data are provided as is, without warranty to its performance, merchantable state, or fitness for any particular purpose. The entire risk associated with the results and performance of this tool is assumed by the user. This tool should be used strictly as a planning reference and not for navigation, permitting, or other legal purposes.", "Access Constraints: None"]"
 	},
 	{
 		"key": "temporal-extent-begin",
@@ -198,7 +198,7 @@
 	},
 	{
 		"key": "dataset-reference-date",
-		"value": "[{\"type\": \"publication\", \"value\": \"2014-05-01\"}]"
+		"value": "[{"type": "publication", "value": "2014-05-01"}]"
 	},
 	{
 		"key": "frequency-of-update",
@@ -206,7 +206,7 @@
 	},
 	{
 		"key": "licence",
-		"value": "[\"Any conclusions drawn from the analysis of this information are not the responsibility of the NOAA Office for Coastal Management or its partners.\"]"
+		"value": "["Any conclusions drawn from the analysis of this information are not the responsibility of the NOAA Office for Coastal Management or its partners."]"
 	},
 	{
 		"key": "metadata_type",
@@ -214,7 +214,7 @@
 	},
 	{
 		"key": "responsible-party",
-		"value": "[{\"name\": \"NOAA Office for Coastal Management\", \"roles\": [\"pointOfContact\"]}]"
+		"value": "[{"name": "NOAA Office for Coastal Management", "roles": ["pointOfContact"]}]"
 	},
 	{
 		"key": "spatial-data-service-type",
@@ -226,7 +226,7 @@
 	},
 	{
 		"package_id": "4a90f006-f108-4780-be33-1b9af0324d0e",
-		"value": "sea level rise, us territories, topography, elevation, inundation, lidar, united states, bathymetry\/topography, dem, digital elevation model, flooding, us coastlines",
+		"value": "sea level rise, us territories, topography, elevation, inundation, lidar, united states, bathymetry/topography, dem, digital elevation model, flooding, us coastlines",
 		"revision_timestamp": "2015-09-27T01:18:28.902949",
 		"state": "active",
 		"key": "tags",
@@ -256,7 +256,7 @@
 		"revision_timestamp": "2013-03-25T23:05:12.923863",
 		"is_organization": true,
 		"state": "active",
-		"image_url": "https:\/\/fortress.wa.gov\/dfw\/score\/score\/images\/noaa_logo.png",
+		"image_url": "https://fortress.wa.gov/dfw/score/score/images/noaa_logo.png",
 		"revision_id": "c6d43080-22e1-405e-a83d-f2a512d9e867",
 		"type": "organization",
 		"id": "e811f0b4-451f-4896-9e8f-fc6802837819",

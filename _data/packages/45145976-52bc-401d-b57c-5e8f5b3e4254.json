@@ -37,7 +37,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2016-04-29T16:59:54.720806",
-		"url": "http:\/\/bios.dfg.ca.gov\/",
+		"url": "http://bios.dfg.ca.gov/",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 0,
@@ -67,7 +67,7 @@
 		"cache_url": null,
 		"name": "Zip File",
 		"created": "2016-04-29T16:59:54.720850",
-		"url": "ftp:\/\/ftp.dfg.ca.gov\/BDB\/GIS\/BIOS\/Public_Datasets\/900_999\/ds950.zip",
+		"url": "ftp://ftp.dfg.ca.gov/BDB/GIS/BIOS/Public_Datasets/900_999/ds950.zip",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 1,
@@ -87,11 +87,11 @@
 	"name": "wild-and-scenic-rivers-california-ds950",
 	"isopen": false,
 	"url": null,
-	"notes": "This dataset represents state designated wild, scenic, and recreational (WSR) streams per California Public Resources Code. The line segments used for this dataset were derived from the California Department of Fish and Wildlife (CDFW) \"California Streams\" dataset which is based on National Hydrography Dataset (NHD) High Resolution data. Information regarding the \"California Streams\" dataset is described in that dataset's documentation. FEDERALLY DESIGNATED WSR STREAMS ARE NOT INCLUDED IN THIS DATASET.",
+	"notes": "This dataset represents state designated wild, scenic, and recreational (WSR) streams per California Public Resources Code. The line segments used for this dataset were derived from the California Department of Fish and Wildlife (CDFW) "California Streams" dataset which is based on National Hydrography Dataset (NHD) High Resolution data. Information regarding the "California Streams" dataset is described in that dataset's documentation. FEDERALLY DESIGNATED WSR STREAMS ARE NOT INCLUDED IN THIS DATASET.",
 	"license_title": null,
 	"extras": [{
 		"key": "responsible-party",
-		"value": "[{\"name\": \"California Department of Fish and Wildlife\", \"roles\": [\"pointOfContact\"]}]"
+		"value": "[{"name": "California Department of Fish and Wildlife", "roles": ["pointOfContact"]}]"
 	},
 	{
 		"key": "contact-email",
@@ -111,7 +111,7 @@
 	},
 	{
 		"key": "dataset-reference-date",
-		"value": "[{\"type\": \"publication\", \"value\": \"2012-02-21\"}]"
+		"value": "[{"type": "publication", "value": "2012-02-21"}]"
 	},
 	{
 		"key": "resource-type",
@@ -139,7 +139,7 @@
 	},
 	{
 		"key": "licence",
-		"value": "[\" \"]"
+		"value": "[" "]"
 	},
 	{
 		"key": "metadata_type",
@@ -151,7 +151,7 @@
 	},
 	{
 		"key": "spatial",
-		"value": "{\"type\": \"Polygon\", \"coordinates\": [[[-124.399933, 38.089976], [-119.415579, 38.089976], [-119.415579, 42.23105], [-124.399933, 42.23105], [-124.399933, 38.089976]]]}"
+		"value": "{"type": "Polygon", "coordinates": [[[-124.399933, 38.089976], [-119.415579, 38.089976], [-119.415579, 42.23105], [-124.399933, 42.23105], [-124.399933, 38.089976]]]}"
 	},
 	{
 		"key": "guid",
@@ -163,7 +163,7 @@
 	},
 	{
 		"key": "access_constraints",
-		"value": "[\"Use Constraints: None\", \"Access Constraints: This dataset provides general location information of state designated wild, scenic, and recreational rivers within California. This dataset is not a survey product. The spatial features contained herein are referential only and are not legal records of original survey measurements. They are representations or reproductions of information interpreted from original documents and as such, do not carry legal authority to determine a boundary or the location of actual geographic features, natural or cultural. The California Department of Fish and Wildlife makes no warranty on the suitability of these data for any purpose.\"]"
+		"value": "["Use Constraints: None", "Access Constraints: This dataset provides general location information of state designated wild, scenic, and recreational rivers within California. This dataset is not a survey product. The spatial features contained herein are referential only and are not legal records of original survey measurements. They are representations or reproductions of information interpreted from original documents and as such, do not carry legal authority to determine a boundary or the location of actual geographic features, natural or cultural. The California Department of Fish and Wildlife makes no warranty on the suitability of these data for any purpose."]"
 	},
 	{
 		"key": "spatial_harvester",
@@ -205,7 +205,7 @@
 		"revision_timestamp": "2013-05-31T17:51:13.706377",
 		"is_organization": true,
 		"state": "active",
-		"image_url": "http:\/\/www.ca.gov\/images\/template2012\/header_ca.gov.png",
+		"image_url": "http://www.ca.gov/images/template2012/header_ca.gov.png",
 		"revision_id": "ad94cda4-9394-44d0-9c37-573dc3c47c9a",
 		"type": "organization",
 		"id": "467d900f-8a42-452d-9906-6610dd1a767f",

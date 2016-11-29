@@ -36,7 +36,7 @@
 		"cache_url": null,
 		"name": "NDGIS web site",
 		"created": "2015-01-09T11:58:22.068966",
-		"url": "http:\/\/www.nd.gov\/gis",
+		"url": "http://www.nd.gov/gis",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 0,
@@ -65,7 +65,7 @@
 		"cache_url": null,
 		"name": "Download Two-Foot Bismarck Contours 2005",
 		"created": "2015-01-09T11:58:22.069008",
-		"url": "http:\/\/gisdata.nd.gov\/Cities\/Bismarck\/Elevation\/2005\/",
+		"url": "http://gisdata.nd.gov/Cities/Bismarck/Elevation/2005/",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 1,
@@ -94,7 +94,7 @@
 		"cache_url": null,
 		"name": "Download Two-Foot Mandan Contours 2005",
 		"created": "2015-01-09T11:58:22.069024",
-		"url": "http:\/\/gisdata.nd.gov\/Cities\/Mandan\/Elevation\/2005\/",
+		"url": "http://gisdata.nd.gov/Cities/Mandan/Elevation/2005/",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 2,
@@ -123,7 +123,7 @@
 		"cache_url": null,
 		"name": "Bismarck 2005 2-foot Contours",
 		"created": "2015-01-09T11:58:22.069032",
-		"url": "http:\/\/ndgishub.nd.gov\/arcgis\/services\/All_Elevation\/MapServer\/WMSServer?",
+		"url": "http://ndgishub.nd.gov/arcgis/services/All_Elevation/MapServer/WMSServer?",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 3,
@@ -152,7 +152,7 @@
 		"cache_url": null,
 		"name": "Esri REST including WMS and WCS",
 		"created": "2015-01-09T11:58:22.069038",
-		"url": "http:\/\/ndgishub.nd.gov\/ArcGIS\/rest\/services\/All_Elevation\/MapServer",
+		"url": "http://ndgishub.nd.gov/ArcGIS/rest/services/All_Elevation/MapServer",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 4,
@@ -181,7 +181,7 @@
 		"cache_url": null,
 		"name": "Bismarck 2005 2-foot Contours",
 		"created": "2015-01-09T11:58:22.069045",
-		"url": "http:\/\/ndgishub.nd.gov\/arcgis\/services\/All_Elevation\/MapServer\/WMSServer?request=GetCapabilities&service=WMS",
+		"url": "http://ndgishub.nd.gov/arcgis/services/All_Elevation/MapServer/WMSServer?request=GetCapabilities&service=WMS",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 5,
@@ -214,7 +214,7 @@
 	"name": "bismarck-mandan-topographic-two-foot-contours-2005",
 	"isopen": false,
 	"url": null,
-	"notes": "Horizons, Inc. was contracted by the Bismarck-Mandan Metropolitan Planning Organization to provide accurate 6\" pixel resolution color digital orthophotography, update 2 1\/2 sections of existing 2' contour data and collect new DTM data for the generation on 2' contours on 39 new sections. The project encompassed an area of approximately 197 square miles. The existing DTM data which Horizons had collected in 2001 was updated to support 2' contours where requested. New mapping was performed on 40 sections and an additional 30 sections of DTM collection was done for ortho rectification only. Contour were generated from the updated and new DTM data and delivered in ARC Shape file format in one contiguous file. The DTM data including breaklines, random points and spot elevation points were also delivered in ARC Shape file format.",
+	"notes": "Horizons, Inc. was contracted by the Bismarck-Mandan Metropolitan Planning Organization to provide accurate 6" pixel resolution color digital orthophotography, update 2 1/2 sections of existing 2' contour data and collect new DTM data for the generation on 2' contours on 39 new sections. The project encompassed an area of approximately 197 square miles. The existing DTM data which Horizons had collected in 2001 was updated to support 2' contours where requested. New mapping was performed on 40 sections and an additional 30 sections of DTM collection was done for ortho rectification only. Contour were generated from the updated and new DTM data and delivered in ARC Shape file format in one contiguous file. The DTM data including breaklines, random points and spot elevation points were also delivered in ARC Shape file format.",
 	"license_title": null,
 	"extras": [{
 		"key": "bbox-east-long",
@@ -258,7 +258,7 @@
 	},
 	{
 		"key": "spatial",
-		"value": "{\"type\": \"Polygon\", \"coordinates\": [[[-101.031401, 46.690557], [-100.623362, 46.690557], [-100.623362, 46.926302], [-101.031401, 46.926302], [-101.031401, 46.690557]]]}"
+		"value": "{"type": "Polygon", "coordinates": [[[-101.031401, 46.690557], [-100.623362, 46.690557], [-100.623362, 46.926302], [-101.031401, 46.926302], [-101.031401, 46.690557]]]}"
 	},
 	{
 		"key": "progress",
@@ -266,7 +266,7 @@
 	},
 	{
 		"key": "access_constraints",
-		"value": "[\"access constraints: None\"]"
+		"value": "["access constraints: None"]"
 	},
 	{
 		"key": "contact-email",
@@ -282,7 +282,7 @@
 	},
 	{
 		"key": "dataset-reference-date",
-		"value": "[{\"type\": \"publication\", \"value\": \"2005-12-22\"}]"
+		"value": "[{"type": "publication", "value": "2005-12-22"}]"
 	},
 	{
 		"key": "graphic-preview-description",
@@ -302,7 +302,7 @@
 	},
 	{
 		"key": "responsible-party",
-		"value": "[{\"name\": \"Bismarck-Mandan MPO\", \"roles\": [\"pointOfContact\"]}]"
+		"value": "[{"name": "Bismarck-Mandan MPO", "roles": ["pointOfContact"]}]"
 	},
 	{
 		"key": "spatial-data-service-type",
@@ -337,14 +337,14 @@
 		"value": "North Dakota GIS Hub Data Portal"
 	}],
 	"organization": {
-		"description": "The GIS Hub is the state source for GIS - data, services, and information.  More information can be found at www.nd.gov\/gis.",
+		"description": "The GIS Hub is the state source for GIS - data, services, and information.  More information can be found at www.nd.gov/gis.",
 		"created": "2013-03-14T03:44:44.340717",
 		"title": "State of North Dakota",
 		"name": "nd-gov",
 		"revision_timestamp": "2013-07-15T16:27:30.098476",
 		"is_organization": true,
 		"state": "active",
-		"image_url": "http:\/\/www.nd.gov\/gis\/images\/ndgis-logo.gif",
+		"image_url": "http://www.nd.gov/gis/images/ndgis-logo.gif",
 		"revision_id": "27517bb9-815c-4d4f-b45b-b88b6316697b",
 		"type": "organization",
 		"id": "1c782de6-9f1f-4427-93fd-33732e29970f",

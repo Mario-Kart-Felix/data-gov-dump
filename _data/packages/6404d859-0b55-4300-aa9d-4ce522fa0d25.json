@@ -37,7 +37,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2013-03-15T15:36:39.427764",
-		"url": "http:\/\/www.vcgi.org\/dataware\/default.cfm?layer=ClimateOther_WINDSPD70M",
+		"url": "http://www.vcgi.org/dataware/default.cfm?layer=ClimateOther_WINDSPD70M",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 0,
@@ -67,7 +67,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2013-03-15T15:36:39.427782",
-		"url": "http:\/\/www.vcgi.org\/dataware\/default.cfm?layer=ClimateOther_WINDSPD70M",
+		"url": "http://www.vcgi.org/dataware/default.cfm?layer=ClimateOther_WINDSPD70M",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 1,
@@ -97,7 +97,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2013-03-15T15:36:39.427787",
-		"url": "http:\/\/www.vcgi.org\/dataware\/default.cfm?layer=ClimateOther_WINDSPD70M&mapit=yes",
+		"url": "http://www.vcgi.org/dataware/default.cfm?layer=ClimateOther_WINDSPD70M&mapit=yes",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 2,
@@ -127,7 +127,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2013-03-15T15:36:39.427791",
-		"url": "http:\/\/maps.vcgi.org:8080\/wmsconnector\/com.esri.wms.Esrimap?servicename=DATAWARE_VCGI&VERSION=1.1.1&request=getmap&BBOX=-73.45416,42.72279,-71.46528,45.018356&SRS=EPSG:4326&LAYERS=CLIMATEOTHER_WINDSPD70M&WIDTH=300&HEIGHT=400&FORMAT=image\/gif",
+		"url": "http://maps.vcgi.org:8080/wmsconnector/com.esri.wms.Esrimap?servicename=DATAWARE_VCGI&VERSION=1.1.1&request=getmap&BBOX=-73.45416,42.72279,-71.46528,45.018356&SRS=EPSG:4326&LAYERS=CLIMATEOTHER_WINDSPD70M&WIDTH=300&HEIGHT=400&FORMAT=image/gif",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 3,
@@ -157,7 +157,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2013-03-15T15:36:39.427795",
-		"url": "http:\/\/www.mtpc.org\/rebates\/Community_Wind\/wind_maps.htm",
+		"url": "http://www.mtpc.org/rebates/Community_Wind/wind_maps.htm",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 4,
@@ -214,7 +214,7 @@
 	},
 	{
 		"key": "dataset-reference-date",
-		"value": "[{\"type\": \"publication\", \"value\": \"2008-10-21\"}]"
+		"value": "[{"type": "publication", "value": "2008-10-21"}]"
 	},
 	{
 		"key": "resource-type",
@@ -234,7 +234,7 @@
 	},
 	{
 		"key": "responsible-party",
-		"value": "[{\"name\": \"VT Center for Geographic Information\", \"roles\": [\"pointOfContact\"]}]"
+		"value": "[{"name": "VT Center for Geographic Information", "roles": ["pointOfContact"]}]"
 	},
 	{
 		"key": "frequency-of-update",
@@ -242,7 +242,7 @@
 	},
 	{
 		"key": "licence",
-		"value": "[\"VCGI and the Vermont ANR (Agency of Natural Resources) provides these geographic data \\\"as is.\\\" The Vermont ANR makes no guarantee or warranty concerning the accuracy of information contained in the geographic data. VT ANR further makes no warranty, either expressed or implied, regarding the condition of the product or its fitness for any particular purpose. The burden for determining fitness for use lies entirely with the user. Although these data have been processed successfully on a computer system at Vermont ANR, no warranty expressed or implied is made regarding the accuracy or utility of the data on any other system or for general or scientific purposes, nor shall the act of distribution constitute any such warranty. This disclaimer applies both to individual use of the data and aggregate use with other data. It is strongly recommended that careful attention be paid to the contents of the metadata file associated with these data. Vermont ANR shall not be held liable for improper or incorrect use of the data described and\/or contained herein\"]"
+		"value": "["VCGI and the Vermont ANR (Agency of Natural Resources) provides these geographic data \"as is.\" The Vermont ANR makes no guarantee or warranty concerning the accuracy of information contained in the geographic data. VT ANR further makes no warranty, either expressed or implied, regarding the condition of the product or its fitness for any particular purpose. The burden for determining fitness for use lies entirely with the user. Although these data have been processed successfully on a computer system at Vermont ANR, no warranty expressed or implied is made regarding the accuracy or utility of the data on any other system or for general or scientific purposes, nor shall the act of distribution constitute any such warranty. This disclaimer applies both to individual use of the data and aggregate use with other data. It is strongly recommended that careful attention be paid to the contents of the metadata file associated with these data. Vermont ANR shall not be held liable for improper or incorrect use of the data described and/or contained herein"]"
 	},
 	{
 		"key": "metadata_type",
@@ -254,7 +254,7 @@
 	},
 	{
 		"key": "spatial",
-		"value": "{\"type\": \"Polygon\", \"coordinates\": [[[-74.406898, 40.75182], [-74.406898, 47.744885], [-66.027709, 47.744885], [-66.027709, 40.75182], [-74.406898, 40.75182]]]}"
+		"value": "{"type": "Polygon", "coordinates": [[[-74.406898, 40.75182], [-74.406898, 47.744885], [-66.027709, 47.744885], [-66.027709, 40.75182], [-74.406898, 40.75182]]]}"
 	},
 	{
 		"key": "guid",
@@ -266,11 +266,11 @@
 	},
 	{
 		"key": "access_constraints",
-		"value": "[\"Use Constraints: Although every effort has been made to ensure the accuracy of information, errors may be reflected in data supplied. The user must be aware of data conditions and bear responsibility for the appropriate use of the information with respect to possible errors, orginal map scale, collection methodology, currency of data, and other condition. Secondary distribution must be accompanied by this documentation. Users of the information are requested to acknowledge the roles of TrueWind Solutions, LLC and the three funding organizations; Connecticut Clean Energy Fund, the Massachusetts Technology Collaborative, and Northeast Utilities System.\", \"Access Constraints: VCGI, ANR, and and the State of Vermont make no representations of any kind including, but not limited to the warranties of merchantability or fitness for a particular use, nor are any such warranties to be implied with respect to the data.\"]"
+		"value": "["Use Constraints: Although every effort has been made to ensure the accuracy of information, errors may be reflected in data supplied. The user must be aware of data conditions and bear responsibility for the appropriate use of the information with respect to possible errors, orginal map scale, collection methodology, currency of data, and other condition. Secondary distribution must be accompanied by this documentation. Users of the information are requested to acknowledge the roles of TrueWind Solutions, LLC and the three funding organizations; Connecticut Clean Energy Fund, the Massachusetts Technology Collaborative, and Northeast Utilities System.", "Access Constraints: VCGI, ANR, and and the State of Vermont make no representations of any kind including, but not limited to the warranties of merchantability or fitness for a particular use, nor are any such warranties to be implied with respect to the data."]"
 	},
 	{
 		"key": "graphic-preview-file",
-		"value": "http:\/\/maps.vcgi.org:8080\/wmsconnector\/com.esri.wms.Esrimap?servicename=DATAWARE_VCGI&VERSION=1.1.1&request=getmap&BBOX=-73.45416,42.72279,-71.46528,45.018356&SRS=EPSG:4326&LAYERS=CLIMATEOTHER_WINDSPD70M&WIDTH=300&HEIGHT=400&FORMAT=image\/gif"
+		"value": "http://maps.vcgi.org:8080/wmsconnector/com.esri.wms.Esrimap?servicename=DATAWARE_VCGI&VERSION=1.1.1&request=getmap&BBOX=-73.45416,42.72279,-71.46528,45.018356&SRS=EPSG:4326&LAYERS=CLIMATEOTHER_WINDSPD70M&WIDTH=300&HEIGHT=400&FORMAT=image/gif"
 	},
 	{
 		"package_id": "6404d859-0b55-4300-aa9d-4ce522fa0d25",
@@ -304,7 +304,7 @@
 		"revision_timestamp": "2013-03-27T17:47:03.718032",
 		"is_organization": true,
 		"state": "active",
-		"image_url": "http:\/\/vcgi.vermont.gov\/sites\/all\/themes\/vt_template\/logo.png",
+		"image_url": "http://vcgi.vermont.gov/sites/all/themes/vt_template/logo.png",
 		"revision_id": "c5dfbbb0-f1e0-4db6-b566-e932e1520060",
 		"type": "organization",
 		"id": "0c3a4ebc-9929-4f21-bdd0-76a35d52f57d",

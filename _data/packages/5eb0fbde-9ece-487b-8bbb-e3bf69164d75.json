@@ -37,7 +37,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2016-09-09T18:52:13.364989",
-		"url": "http:\/\/bios.dfg.ca.gov",
+		"url": "http://bios.dfg.ca.gov",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 0,
@@ -67,7 +67,7 @@
 		"cache_url": null,
 		"name": "Zip File",
 		"created": "2016-09-09T18:52:13.365020",
-		"url": "ftp:\/\/ftp.dfg.ca.gov\/BDB\/GIS\/BIOS\/Public_Datasets\/001_099\/ds033.zip",
+		"url": "ftp://ftp.dfg.ca.gov/BDB/GIS/BIOS/Public_Datasets/001_099/ds033.zip",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 1,
@@ -87,7 +87,7 @@
 	"name": "california-red-tree-vole-ds33dcf27",
 	"isopen": false,
 	"url": null,
-	"notes": "The data set represents the known observations of California red tree voles where each point represents a section where one or more voles have been found. Observations listed here were made from 1984 through 2000. There are a number of reports from literature of specimens taken included, but most of these lack a specific date that the animals were taken. However, most of these specimens were likely to have been taken in the late 1980's when there was a big effort made to clarify red tree vole taxonomy which led to the establishment of the California red tree vole as a separate species. Field biologists and foresters looked for and recorded tree vole nests while surveying forest habitats and in checking proposed timber harvest sites. Researchers trapped tree voles to determine the species' genetics and recorded the location of the trapping site. Likewise, some industrial timber companies surveyed for tree voles using live traps to document the occurrence of these voles on their lands. There are 448 records where each is a summary of one or more vole observations in a unique one-mile square section represented by those sections on USGS Quad. maps. Most records come from Humboldt and Mendocino counties though they are present in counties from Oregon through Sonoma County and inland in Siskiyou and Trinity counties. WHAT EACH RECORD REPRESENTS: Each record provides location information as to the smallest part of a section where all of the observations of tree voles in that section have been located. Also, there is information on when a tree vole was last seen at that described part of that section, and how many tree vole nests were seen and\/or how many tree voles were capture during surveys or for specimens. A field showing land ownership has been only partially completed and each record also references the document number(s) for the substantiating report of the observation on file with the Department.",
+	"notes": "The data set represents the known observations of California red tree voles where each point represents a section where one or more voles have been found. Observations listed here were made from 1984 through 2000. There are a number of reports from literature of specimens taken included, but most of these lack a specific date that the animals were taken. However, most of these specimens were likely to have been taken in the late 1980's when there was a big effort made to clarify red tree vole taxonomy which led to the establishment of the California red tree vole as a separate species. Field biologists and foresters looked for and recorded tree vole nests while surveying forest habitats and in checking proposed timber harvest sites. Researchers trapped tree voles to determine the species' genetics and recorded the location of the trapping site. Likewise, some industrial timber companies surveyed for tree voles using live traps to document the occurrence of these voles on their lands. There are 448 records where each is a summary of one or more vole observations in a unique one-mile square section represented by those sections on USGS Quad. maps. Most records come from Humboldt and Mendocino counties though they are present in counties from Oregon through Sonoma County and inland in Siskiyou and Trinity counties. WHAT EACH RECORD REPRESENTS: Each record provides location information as to the smallest part of a section where all of the observations of tree voles in that section have been located. Also, there is information on when a tree vole was last seen at that described part of that section, and how many tree vole nests were seen and/or how many tree voles were capture during surveys or for specimens. A field showing land ownership has been only partially completed and each record also references the document number(s) for the substantiating report of the observation on file with the Department.",
 	"license_title": null,
 	"extras": [{
 		"key": "bbox-east-long",
@@ -123,7 +123,7 @@
 	},
 	{
 		"key": "spatial",
-		"value": "{\"type\": \"Polygon\", \"coordinates\": [[[-124.468941, 38.340079], [-122.916958, 38.340079], [-122.916958, 42.014851], [-124.468941, 42.014851], [-124.468941, 38.340079]]]}"
+		"value": "{"type": "Polygon", "coordinates": [[[-124.468941, 38.340079], [-122.916958, 38.340079], [-122.916958, 42.014851], [-124.468941, 42.014851], [-124.468941, 38.340079]]]}"
 	},
 	{
 		"key": "progress",
@@ -131,7 +131,7 @@
 	},
 	{
 		"key": "access_constraints",
-		"value": "[\"Use Constraints: The California Department of Fish and Wildlife is credited as the source of this data.\", \"Access Constraints: None\"]"
+		"value": "["Use Constraints: The California Department of Fish and Wildlife is credited as the source of this data.", "Access Constraints: None"]"
 	},
 	{
 		"key": "temporal-extent-begin",
@@ -151,7 +151,7 @@
 	},
 	{
 		"key": "dataset-reference-date",
-		"value": "[{\"type\": \"publication\", \"value\": \"2005-07-12\"}]"
+		"value": "[{"type": "publication", "value": "2005-07-12"}]"
 	},
 	{
 		"key": "frequency-of-update",
@@ -159,7 +159,7 @@
 	},
 	{
 		"key": "licence",
-		"value": "[\" \"]"
+		"value": "[" "]"
 	},
 	{
 		"key": "metadata_type",
@@ -167,7 +167,7 @@
 	},
 	{
 		"key": "responsible-party",
-		"value": "[{\"name\": \"California Department of Fish and Wildlife\", \"roles\": [\"pointOfContact\"]}]"
+		"value": "[{"name": "California Department of Fish and Wildlife", "roles": ["pointOfContact"]}]"
 	},
 	{
 		"key": "temporal-extent-end",
@@ -213,7 +213,7 @@
 		"revision_timestamp": "2013-05-31T17:51:13.706377",
 		"is_organization": true,
 		"state": "active",
-		"image_url": "http:\/\/www.ca.gov\/images\/template2012\/header_ca.gov.png",
+		"image_url": "http://www.ca.gov/images/template2012/header_ca.gov.png",
 		"revision_id": "ad94cda4-9394-44d0-9c37-573dc3c47c9a",
 		"type": "organization",
 		"id": "467d900f-8a42-452d-9906-6610dd1a767f",

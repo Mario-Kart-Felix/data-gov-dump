@@ -24,7 +24,7 @@
 		"state": "active",
 		"last_modified": null,
 		"hash": "",
-		"description": "Alternative landing page used to redirect user to a contextual, Agency-hosted \"homepage\" for the Dataset or API when selecting this resource from the Data.gov user interface.",
+		"description": "Alternative landing page used to redirect user to a contextual, Agency-hosted "homepage" for the Dataset or API when selecting this resource from the Data.gov user interface.",
 		"format": "HTML",
 		"tracking_summary": {
 			"total": 2,
@@ -36,7 +36,7 @@
 		"cache_url": null,
 		"name": "Agency Program URL",
 		"created": "2016-04-27T21:27:18.956475",
-		"url": "http:\/\/intranet.epa.gov\/swerrim2\/ppe\/performance\/index.htm",
+		"url": "http://intranet.epa.gov/swerrim2/ppe/performance/index.htm",
 		"webstore_url": null,
 		"resource_locator_function": "browsing",
 		"position": 0,
@@ -56,7 +56,7 @@
 	"name": "olem-performance-assessment-information",
 	"isopen": false,
 	"url": null,
-	"notes": "This asset includes a variety of data sets that measure the performance of Office of Land and Emergency Management (OLEM) programs in support of the Office of the Chief Financial Officer's Annual Commitment System (ACS) and Performance Evaluation Reporting System (PERS). Information is drawn from OLEM's ACRES, RCRAInfo, CERCLIS\/SEMS, ICIS, and LUST4 systems, as well as input manually by authorized individuals in OLEM's program offices. Information is reviewed by OLEM program staff prior to being pushed to ACS and entered into PERS. This data asset also pulls in certain performance information input directly by Regional Office staff into ACS. Information is managed by the Performance Assessment Tool (PAT) and displayed in the PAT Dashboard.\n\nInformation in this asset include:\n--Government Performance and Results Act (GPRA) of 1993: Measures reported for Innovations, Partnerships and Communications Office (IPCO), the Office of Brownfields and Land Revitalization (OBLR), the Office of Emergency Management (OEM), the Office of Resource Conservation and Recovery (ORCR), the Office of Superfund Remediation and Technology Innovation (OSRTI), and the Office of Underground Storage Tanks (OUST).\n-- Performance and Environmental Results System (PERS): Includes OLEM's information on performance results and baselines for the EPA Annual Plan and Budget.\n--Key Performance Indicators: OLEM has identified five KPIs that are tracked annually.\n--Integrated Cleanup Initiative: A pilot performance measure under the Integrated Cleanup Initiative relevant to Brownfields, Superfund remedial and Superfund removal sites.\n-- American Recovery and Reinvestment Act of 2009 (ARRA): Reported from 2009 to 2013 for Superfund, Brownfields and Underground Storage Tanks Programs, which all received funding under ARRA.",
+	"notes": "This asset includes a variety of data sets that measure the performance of Office of Land and Emergency Management (OLEM) programs in support of the Office of the Chief Financial Officer's Annual Commitment System (ACS) and Performance Evaluation Reporting System (PERS). Information is drawn from OLEM's ACRES, RCRAInfo, CERCLIS/SEMS, ICIS, and LUST4 systems, as well as input manually by authorized individuals in OLEM's program offices. Information is reviewed by OLEM program staff prior to being pushed to ACS and entered into PERS. This data asset also pulls in certain performance information input directly by Regional Office staff into ACS. Information is managed by the Performance Assessment Tool (PAT) and displayed in the PAT Dashboard.nnInformation in this asset include:n--Government Performance and Results Act (GPRA) of 1993: Measures reported for Innovations, Partnerships and Communications Office (IPCO), the Office of Brownfields and Land Revitalization (OBLR), the Office of Emergency Management (OEM), the Office of Resource Conservation and Recovery (ORCR), the Office of Superfund Remediation and Technology Innovation (OSRTI), and the Office of Underground Storage Tanks (OUST).n-- Performance and Environmental Results System (PERS): Includes OLEM's information on performance results and baselines for the EPA Annual Plan and Budget.n--Key Performance Indicators: OLEM has identified five KPIs that are tracked annually.n--Integrated Cleanup Initiative: A pilot performance measure under the Integrated Cleanup Initiative relevant to Brownfields, Superfund remedial and Superfund removal sites.n-- American Recovery and Reinvestment Act of 2009 (ARRA): Reported from 2009 to 2013 for Superfund, Brownfields and Underground Storage Tanks Programs, which all received funding under ARRA.",
 	"license_title": null,
 	"extras": [{
 		"key": "bbox-east-long",
@@ -92,7 +92,7 @@
 	},
 	{
 		"key": "spatial",
-		"value": "{\"type\": \"Polygon\", \"coordinates\": [[[-180.0, 18.0], [-66.0, 18.0], [-66.0, 72.0], [-180.0, 72.0], [-180.0, 18.0]]]}"
+		"value": "{"type": "Polygon", "coordinates": [[[-180.0, 18.0], [-66.0, 18.0], [-66.0, 72.0], [-180.0, 72.0], [-180.0, 18.0]]]}"
 	},
 	{
 		"key": "progress",
@@ -100,11 +100,11 @@
 	},
 	{
 		"key": "access_constraints",
-		"value": "[\"https:\/\/edg.epa.gov\/EPA_Data_License.htm\"]"
+		"value": "["https://edg.epa.gov/EPA_Data_License.htm"]"
 	},
 	{
 		"key": "temporal-extent-begin",
-		"value": "\n                                    "
+		"value": "n                                    "
 	},
 	{
 		"key": "contact-email",
@@ -120,7 +120,7 @@
 	},
 	{
 		"key": "dataset-reference-date",
-		"value": "[{\"type\": \"publication\", \"value\": \"2014\"}, {\"type\": \"revision\", \"value\": \"2014-11-30\"}]"
+		"value": "[{"type": "publication", "value": "2014"}, {"type": "revision", "value": "2014-11-30"}]"
 	},
 	{
 		"key": "frequency-of-update",
@@ -136,11 +136,11 @@
 	},
 	{
 		"key": "responsible-party",
-		"value": "[{\"name\": \"U.S. EPA Office of Land and Emergency Management (OLEM) - Office of Program Management (OPM)\", \"roles\": [\"owner\"]}]"
+		"value": "[{"name": "U.S. EPA Office of Land and Emergency Management (OLEM) - Office of Program Management (OPM)", "roles": ["owner"]}]"
 	},
 	{
 		"key": "temporal-extent-end",
-		"value": "\n                                    "
+		"value": "n                                    "
 	},
 	{
 		"key": "spatial-data-service-type",
@@ -182,7 +182,7 @@
 		"revision_timestamp": "2014-01-16T18:58:42.895981",
 		"is_organization": true,
 		"state": "active",
-		"image_url": "http:\/\/edg.epa.gov\/EPALogo.svg",
+		"image_url": "http://edg.epa.gov/EPALogo.svg",
 		"revision_id": "f0e4b475-7424-4ce0-9a22-412e7e595154",
 		"type": "organization",
 		"id": "6d90e48d-3076-4327-b2f4-c33919f374d5",

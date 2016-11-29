@@ -37,7 +37,7 @@
 		"cache_url": null,
 		"name": "Zip File",
 		"created": "2013-03-15T12:33:10.577754",
-		"url": "http:\/\/irmafiles.nps.gov\/Reference\/Holding\/373600\/secn_watersheds_merged.zip",
+		"url": "http://irmafiles.nps.gov/Reference/Holding/373600/secn_watersheds_merged.zip",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 0,
@@ -67,7 +67,7 @@
 		"cache_url": null,
 		"name": "Zip File",
 		"created": "2013-03-15T12:33:10.577777",
-		"url": "http:\/\/nrdata.nps.gov\/networks\/secn\/secn_watersheds_merged.zip",
+		"url": "http://nrdata.nps.gov/networks/secn/secn_watersheds_merged.zip",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 1,
@@ -97,7 +97,7 @@
 		"cache_url": null,
 		"name": "Zip File",
 		"created": "2013-03-15T12:33:10.577785",
-		"url": "http:\/\/irmafiles.nps.gov\/Reference\/Holding\/373600\/secn_watersheds_merged.zip",
+		"url": "http://irmafiles.nps.gov/Reference/Holding/373600/secn_watersheds_merged.zip",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 2,
@@ -127,7 +127,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2013-03-15T12:33:10.577792",
-		"url": "http:\/\/nhd.usgs.gov\/index.html",
+		"url": "http://nhd.usgs.gov/index.html",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 3,
@@ -157,7 +157,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2013-03-15T12:33:10.577799",
-		"url": "http:\/\/www.ncgc.nrcs.usda.gov\/products\/datasets\/watershed\/",
+		"url": "http://www.ncgc.nrcs.usda.gov/products/datasets/watershed/",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 4,
@@ -187,7 +187,7 @@
 		"cache_url": null,
 		"name": "XML File",
 		"created": "2013-03-15T12:33:10.577805",
-		"url": "http:\/\/nrdata.nps.gov\/networks\/secn\/secn_watersheds_merged.shp.xml",
+		"url": "http://nrdata.nps.gov/networks/secn/secn_watersheds_merged.shp.xml",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 5,
@@ -207,11 +207,11 @@
 	"name": "key-watersheds-in-the-southeast-coast-im-network-secn-custom-drainage-basin-boundaries",
 	"isopen": false,
 	"url": null,
-	"notes": "This dataset contains custom drainage basin polygons that are composed of the various watersheds (HUC-10) or subwatersheds (HUC-12) that contain water features that flow or contribute to those that flow directly into SECN parks. The drainage basins have attributes that state the HUC-2\/Region, HUC-4\/Subregion, HUC-6\/Basin, and HUC-8\/Subbasin numbers and names as well as the HUC level that each drainage basin is composed of (Watershed or Subwatershed) for the particular park that they are associated with. The drainage basin polygons are essentially the merged versions of the individual watersheds\/subwatersheds that they contain. If the individual watershed\/subwatershed boundaries within a drainage basin are needed, please refer to the dataset titled 'Key Watersheds in the Southeast Coast I&M Network (SECN) - Individual Watershed\/Subwatershed Boundaries' in order to access the individual units that are found within each drainage basin. Note: for the purposes of this dataset and for the remainder of this metadata file, the term \"watershed\" will refer to individual watershed\/subwatershed units while the term \"drainage basin\" will refer to the collection of individual watershed\/subwatershed units that contribute to the condition of each park.",
+	"notes": "This dataset contains custom drainage basin polygons that are composed of the various watersheds (HUC-10) or subwatersheds (HUC-12) that contain water features that flow or contribute to those that flow directly into SECN parks. The drainage basins have attributes that state the HUC-2/Region, HUC-4/Subregion, HUC-6/Basin, and HUC-8/Subbasin numbers and names as well as the HUC level that each drainage basin is composed of (Watershed or Subwatershed) for the particular park that they are associated with. The drainage basin polygons are essentially the merged versions of the individual watersheds/subwatersheds that they contain. If the individual watershed/subwatershed boundaries within a drainage basin are needed, please refer to the dataset titled 'Key Watersheds in the Southeast Coast I&M Network (SECN) - Individual Watershed/Subwatershed Boundaries' in order to access the individual units that are found within each drainage basin. Note: for the purposes of this dataset and for the remainder of this metadata file, the term "watershed" will refer to individual watershed/subwatershed units while the term "drainage basin" will refer to the collection of individual watershed/subwatershed units that contribute to the condition of each park.",
 	"license_title": null,
 	"extras": [{
 		"key": "responsible-party",
-		"value": "[{\"name\": \"National Park Service, Southeast Coast Network I & M Program\", \"roles\": [\"pointOfContact\"]}]"
+		"value": "[{"name": "National Park Service, Southeast Coast Network I & M Program", "roles": ["pointOfContact"]}]"
 	},
 	{
 		"key": "contact-email",
@@ -231,7 +231,7 @@
 	},
 	{
 		"key": "dataset-reference-date",
-		"value": "[{\"type\": \"publication\", \"value\": \"\"}]"
+		"value": "[{"type": "publication", "value": ""}]"
 	},
 	{
 		"key": "resource-type",
@@ -259,7 +259,7 @@
 	},
 	{
 		"key": "licence",
-		"value": "[\"The National Park Service shall not be held liable for improper or incorrect use of the data described and\/or contained herein. These data and related graphics (i.e. GIF or JPG format files) are not legal documents and are not intended to be used as such. The information contained in these data is dynamic and may change over time. The data are not better than the original sources from which they were derived. It is the responsibility of the data user to use the data appropriately and consistent within the limitations of geospatial data in general and these data in particular. The related graphics are intended to aid the data user in acquiring relevant data; it is not appropriate to use the related graphics as data. The National Park Service gives no warranty, expressed or implied, as to the accuracy, reliability, or completeness of these data. It is strongly recommended that these data are directly acquired from an NPS server and not indirectly through other sources which may have changed the data in some way. Although these data have been processed successfully on computer systems at the National Park Service, no warranty expressed or implied is made regarding the utility of the data on other systems for general or scientific purposes, nor shall the act of distribution constitute any such warranty. This disclaimer applies both to individual use of the data and aggregate use with other data.\"]"
+		"value": "["The National Park Service shall not be held liable for improper or incorrect use of the data described and/or contained herein. These data and related graphics (i.e. GIF or JPG format files) are not legal documents and are not intended to be used as such. The information contained in these data is dynamic and may change over time. The data are not better than the original sources from which they were derived. It is the responsibility of the data user to use the data appropriately and consistent within the limitations of geospatial data in general and these data in particular. The related graphics are intended to aid the data user in acquiring relevant data; it is not appropriate to use the related graphics as data. The National Park Service gives no warranty, expressed or implied, as to the accuracy, reliability, or completeness of these data. It is strongly recommended that these data are directly acquired from an NPS server and not indirectly through other sources which may have changed the data in some way. Although these data have been processed successfully on computer systems at the National Park Service, no warranty expressed or implied is made regarding the utility of the data on other systems for general or scientific purposes, nor shall the act of distribution constitute any such warranty. This disclaimer applies both to individual use of the data and aggregate use with other data."]"
 	},
 	{
 		"key": "metadata_type",
@@ -267,7 +267,7 @@
 	},
 	{
 		"key": "spatial",
-		"value": "{\"type\": \"Polygon\", \"coordinates\": [[[-85.78421, 28.12952], [-85.78421, 36.104927], [-75.389045, 36.104927], [-75.389045, 28.12952], [-85.78421, 28.12952]]]}"
+		"value": "{"type": "Polygon", "coordinates": [[[-85.78421, 28.12952], [-85.78421, 36.104927], [-75.389045, 36.104927], [-75.389045, 28.12952], [-85.78421, 28.12952]]]}"
 	},
 	{
 		"key": "guid",
@@ -279,11 +279,11 @@
 	},
 	{
 		"key": "access_constraints",
-		"value": "[\"Use Constraints: The dataset should not be viewed as a definitive drainage basin delineation due to the fact that it has been created through the use of non-published, in-house methods and procedures. However, the source datasets used in the procedures do come from reliable organizations so the overall basis of the dataset is reasonably sound. Please review the metadata in order to determine if the dataset will be suitable for your purposes.\", \"Access Constraints: None\"]"
+		"value": "["Use Constraints: The dataset should not be viewed as a definitive drainage basin delineation due to the fact that it has been created through the use of non-published, in-house methods and procedures. However, the source datasets used in the procedures do come from reliable organizations so the overall basis of the dataset is reasonably sound. Please review the metadata in order to determine if the dataset will be suitable for your purposes.", "Access Constraints: None"]"
 	},
 	{
 		"key": "graphic-preview-file",
-		"value": "http:\/\/nrdata.nps.gov\/networks\/secn\/secn_watersheds_merged.jpg"
+		"value": "http://nrdata.nps.gov/networks/secn/secn_watersheds_merged.jpg"
 	},
 	{
 		"key": "frequency-of-update",
@@ -321,7 +321,7 @@
 		"revision_timestamp": "2015-03-18T14:25:04.527925",
 		"is_organization": true,
 		"state": "active",
-		"image_url": "https:\/\/raw.githubusercontent.com\/GSA\/logo\/master\/nps.png",
+		"image_url": "https://raw.githubusercontent.com/GSA/logo/master/nps.png",
 		"revision_id": "c01136dc-911c-4651-92b7-36046d755b81",
 		"type": "organization",
 		"id": "ffbc26a5-1ae8-4c8c-ac45-e5b76fc6486a",

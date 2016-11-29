@@ -36,7 +36,7 @@
 		"cache_url": null,
 		"name": "Export",
 		"created": "2014-11-17T16:13:07.078392",
-		"url": "http:\/\/water.usgs.gov\/GIS\/dsdl\/litho_necb.e00.gz",
+		"url": "http://water.usgs.gov/GIS/dsdl/litho_necb.e00.gz",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 0,
@@ -65,7 +65,7 @@
 		"cache_url": null,
 		"name": "Shape",
 		"created": "2014-11-17T16:13:07.078421",
-		"url": "http:\/\/water.usgs.gov\/GIS\/dsdl\/litho_necb_shape.zip",
+		"url": "http://water.usgs.gov/GIS/dsdl/litho_necb_shape.zip",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 1,
@@ -95,7 +95,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2014-11-17T16:13:07.078429",
-		"url": "http:\/\/water.usgs.gov\/lookup\/getspatial?ofr02-007_lithogeo",
+		"url": "http://water.usgs.gov/lookup/getspatial?ofr02-007_lithogeo",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 2,
@@ -125,7 +125,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2014-11-17T16:13:07.078437",
-		"url": "http:\/\/pubs.water.usgs.gov\/OFR02-007",
+		"url": "http://pubs.water.usgs.gov/OFR02-007",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 3,
@@ -155,7 +155,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2014-11-17T16:13:07.078444",
-		"url": "http:\/\/water.usgs.gov\/lookup\/getspatial?ofr02-7_lithogeo",
+		"url": "http://water.usgs.gov/lookup/getspatial?ofr02-7_lithogeo",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 4,
@@ -179,7 +179,7 @@
 	"license_title": null,
 	"extras": [{
 		"key": "responsible-party",
-		"value": "[{\"name\": \"U.S. Geological Survey\", \"roles\": [\"pointOfContact\"]}]"
+		"value": "[{"name": "U.S. Geological Survey", "roles": ["pointOfContact"]}]"
 	},
 	{
 		"key": "contact-email",
@@ -199,7 +199,7 @@
 	},
 	{
 		"key": "dataset-reference-date",
-		"value": "[{\"type\": \"publication\", \"value\": \"2002-02-08\"}]"
+		"value": "[{"type": "publication", "value": "2002-02-08"}]"
 	},
 	{
 		"key": "resource-type",
@@ -227,7 +227,7 @@
 	},
 	{
 		"key": "licence",
-		"value": "[\"Although this data set has been used by the U.S. Geological\\nSurvey, U.S. Department of the Interior, no warranty expressed or\\nimplied is made by the U.S. Geological Survey as to the accuracy\\nof the data and related materials. The act of distribution shall not \\nconstitute any such warranty, and no responsibility is assumed by \\nthe U.S. Geological Survey in the use of this data, software, or \\nrelated materials.\\n\\nAny use of trade, product, or firm names is for descriptive\\npurposes only and does not imply endorsement by the U.S.\\nGovernment.\"]"
+		"value": "["Although this data set has been used by the U.S. Geological\nSurvey, U.S. Department of the Interior, no warranty expressed or\nimplied is made by the U.S. Geological Survey as to the accuracy\nof the data and related materials. The act of distribution shall not \nconstitute any such warranty, and no responsibility is assumed by \nthe U.S. Geological Survey in the use of this data, software, or \nrelated materials.\n\nAny use of trade, product, or firm names is for descriptive\npurposes only and does not imply endorsement by the U.S.\nGovernment."]"
 	},
 	{
 		"key": "metadata_type",
@@ -239,7 +239,7 @@
 	},
 	{
 		"key": "spatial",
-		"value": "{\"type\": \"Polygon\", \"coordinates\": [[[-72.19068043, 41.13443365], [-69.03158607, 41.13443365], [-69.03158607, 45.90221224], [-72.19068043, 45.90221224], [-72.19068043, 41.13443365]]]}"
+		"value": "{"type": "Polygon", "coordinates": [[[-72.19068043, 41.13443365], [-69.03158607, 41.13443365], [-69.03158607, 45.90221224], [-72.19068043, 45.90221224], [-72.19068043, 41.13443365]]]}"
 	},
 	{
 		"key": "guid",
@@ -251,7 +251,7 @@
 	},
 	{
 		"key": "access_constraints",
-		"value": "[\"Use Constraints: The spatial accuracy of the geologic source information varies. The source geologic map scales range from 1:100,000 to 1:500,000. In addition, analysis near State boundaries may be limited by the geologic map interpretation differences across State boundaries. Interpretations combining the NECB NAWQA data set with a similar bordering data set done for the CONN NAWQA (Robinson and others, 1999) are limited by variances related to differences in source materials used and interpretation of geologic information between the CONN and NECB lithochemical mapping. See the Data_Quality_Information section in this metadata file for more information.\", \"Access Constraints: None\"]"
+		"value": "["Use Constraints: The spatial accuracy of the geologic source information varies. The source geologic map scales range from 1:100,000 to 1:500,000. In addition, analysis near State boundaries may be limited by the geologic map interpretation differences across State boundaries. Interpretations combining the NECB NAWQA data set with a similar bordering data set done for the CONN NAWQA (Robinson and others, 1999) are limited by variances related to differences in source materials used and interpretation of geologic information between the CONN and NECB lithochemical mapping. See the Data_Quality_Information section in this metadata file for more information.", "Access Constraints: None"]"
 	},
 	{
 		"key": "spatial_harvester",
@@ -286,14 +286,14 @@
 		"value": "Water NSDI Node Spatial Datasets"
 	}],
 	"organization": {
-		"description": "http:\/\/www.usgs.gov\/\r\nThe USGS is a federal science agency that provides impartial information on the health of our ecosystems and environment, the natural hazards that threaten us, the natural resources we rely on, the impacts of climate and land-use change, and the core science systems that help us provide timely, relevant, and useable information.",
+		"description": "http://www.usgs.gov/rnThe USGS is a federal science agency that provides impartial information on the health of our ecosystems and environment, the natural hazards that threaten us, the natural resources we rely on, the impacts of climate and land-use change, and the core science systems that help us provide timely, relevant, and useable information.",
 		"created": "2013-03-14T03:44:38.263357",
 		"title": "U.S. Geological Survey, Department of the Interior",
 		"name": "usgs-gov",
 		"revision_timestamp": "2014-09-02T13:43:52.167023",
 		"is_organization": true,
 		"state": "active",
-		"image_url": "http:\/\/pubs.usgs.gov\/sir\/2004\/5296\/04-5296_confluence_park\/usgs_logo.gif",
+		"image_url": "http://pubs.usgs.gov/sir/2004/5296/04-5296_confluence_park/usgs_logo.gif",
 		"revision_id": "2858aa99-9501-4f96-82e5-9647b968ed66",
 		"type": "organization",
 		"id": "bd2cdd5a-4d65-46c0-9937-c8381175f104",

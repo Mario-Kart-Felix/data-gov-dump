@@ -37,7 +37,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2015-11-09T22:55:27.063243",
-		"url": "http:\/\/www.soest.hawaii.edu\/pibhmc\/pibhmc_cnmi_sai_bathy.htm",
+		"url": "http://www.soest.hawaii.edu/pibhmc/pibhmc_cnmi_sai_bathy.htm",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 0,
@@ -67,7 +67,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2015-11-09T22:55:27.063272",
-		"url": "http:\/\/www.soest.hawaii.edu\/pibhmc\/pibhmc_cnmi_sai_bathy.htm",
+		"url": "http://www.soest.hawaii.edu/pibhmc/pibhmc_cnmi_sai_bathy.htm",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 1,
@@ -89,7 +89,7 @@
 		"revision_timestamp": "2013-03-25T23:05:12.923863",
 		"is_organization": true,
 		"state": "active",
-		"image_url": "https:\/\/fortress.wa.gov\/dfw\/score\/score\/images\/noaa_logo.png",
+		"image_url": "https://fortress.wa.gov/dfw/score/score/images/noaa_logo.png",
 		"revision_id": "c6d43080-22e1-405e-a83d-f2a512d9e867",
 		"type": "organization",
 		"id": "e811f0b4-451f-4896-9e8f-fc6802837819",
@@ -100,11 +100,11 @@
 	"name": "mosaic-of-gridded-multibeam-bathymetry-lidar-bathymetry-and-bathymetry-derived-from-multispectr",
 	"isopen": false,
 	"url": null,
-	"notes": "Gridded multibeam bathymetry is integrated with gridded LiDAR bathymetry and bathymetry derived from multispectral IKONOS satellite data. Gridded (5 m cell size) multibeam bathymetry collected aboard NOAA Ship Hiialaka'i and R\/V AHI. Lidar bathymetry were collected by the Naval Oceanographic Office. Bathymetry values shallower than 25 m were derived by gauging the reletive attenuation of blue and green spectral radiance as a function of depth. A multiple linear regression analysis of linearized blue and green band spectral values against depth determined the variables of y-intercept, blue slope and green slope values. Variables then used in multivariate slope intercept formula to derive depth. Variables were adjusted to improve the statistical accuracy and spatial coverage of the final derived bathymetry product. Digital image processing to derive depths conducted with the ENVI 4.5 software program while data editing and integration was performed using ArcGIS 9.3. This dataset is for the shelf environment of Saipan Island, Commonwealth of Northern Mariana Islands, USA",
+	"notes": "Gridded multibeam bathymetry is integrated with gridded LiDAR bathymetry and bathymetry derived from multispectral IKONOS satellite data. Gridded (5 m cell size) multibeam bathymetry collected aboard NOAA Ship Hiialaka'i and R/V AHI. Lidar bathymetry were collected by the Naval Oceanographic Office. Bathymetry values shallower than 25 m were derived by gauging the reletive attenuation of blue and green spectral radiance as a function of depth. A multiple linear regression analysis of linearized blue and green band spectral values against depth determined the variables of y-intercept, blue slope and green slope values. Variables then used in multivariate slope intercept formula to derive depth. Variables were adjusted to improve the statistical accuracy and spatial coverage of the final derived bathymetry product. Digital image processing to derive depths conducted with the ENVI 4.5 software program while data editing and integration was performed using ArcGIS 9.3. This dataset is for the shelf environment of Saipan Island, Commonwealth of Northern Mariana Islands, USA",
 	"owner_org": "e811f0b4-451f-4896-9e8f-fc6802837819",
 	"extras": [{
 		"key": "bbox-east-long",
-		"value": "\n          145.853369\n        "
+		"value": "n          145.853369n        "
 	},
 	{
 		"key": "resource-type",
@@ -112,7 +112,7 @@
 	},
 	{
 		"key": "bbox-north-lat",
-		"value": "\n          15.313391\n        "
+		"value": "n          15.313391n        "
 	},
 	{
 		"key": "coupled-resource",
@@ -128,7 +128,7 @@
 	},
 	{
 		"key": "graphic-preview-file",
-		"value": "http:\/\/www.soest.hawaii.edu\/pibhmc\/CNMI_images\/sai_bathymetry_mb&IKONOS_440.jpg"
+		"value": "http://www.soest.hawaii.edu/pibhmc/CNMI_images/sai_bathymetry_mb&IKONOS_440.jpg"
 	},
 	{
 		"key": "metadata-language",
@@ -144,7 +144,7 @@
 	},
 	{
 		"key": "spatial",
-		"value": "{\"type\": \"Polygon\", \"coordinates\": [[[145.548484, 15.065562], [145.853369, 15.065562], [145.853369, 15.313391], [145.548484, 15.313391], [145.548484, 15.065562]]]}"
+		"value": "{"type": "Polygon", "coordinates": [[[145.548484, 15.065562], [145.853369, 15.065562], [145.853369, 15.313391], [145.548484, 15.313391], [145.548484, 15.065562]]]}"
 	},
 	{
 		"key": "progress",
@@ -152,7 +152,7 @@
 	},
 	{
 		"key": "access_constraints",
-		"value": "[\"Use Constraints: These data are not to be used for navigation purposes. Please acknowledge NOAA Pacific Islands Fisheries Science Center (PIFSC) Coral Reef Ecosystem Division (CRED), the Joint Institute for Marine and Atmospheric Research (JIMAR) University of Hawaii, Davey Jones Locker GIS Laboratory Oregon State University, and the Naval Oceanographic Office (NAVO) as the sources of this information.\", \"Access Constraints: None\"]"
+		"value": "["Use Constraints: These data are not to be used for navigation purposes. Please acknowledge NOAA Pacific Islands Fisheries Science Center (PIFSC) Coral Reef Ecosystem Division (CRED), the Joint Institute for Marine and Atmospheric Research (JIMAR) University of Hawaii, Davey Jones Locker GIS Laboratory Oregon State University, and the Naval Oceanographic Office (NAVO) as the sources of this information.", "Access Constraints: None"]"
 	},
 	{
 		"key": "temporal-extent-begin",
@@ -164,7 +164,7 @@
 	},
 	{
 		"key": "bbox-west-long",
-		"value": "\n          145.548484\n        "
+		"value": "n          145.548484n        "
 	},
 	{
 		"key": "metadata-date",
@@ -172,7 +172,7 @@
 	},
 	{
 		"key": "dataset-reference-date",
-		"value": "[{\"type\": \"publication\", \"value\": \"2011-07-29\"}]"
+		"value": "[{"type": "publication", "value": "2011-07-29"}]"
 	},
 	{
 		"key": "graphic-preview-description",
@@ -184,7 +184,7 @@
 	},
 	{
 		"key": "licence",
-		"value": "[\"\\n      These data are not to be used for navigational purposes.\\nNOAA makes no warranty regarding these data, expressed or implied,\\nnor does the fact of distribution constitute such a warranty.\\nNOAA cannot assume liability for any damages caused by any errors\\nor omissions in these data, nor as a result of the failure of\\nthese data to function on a particular system.\\n    \"]"
+		"value": "["\n      These data are not to be used for navigational purposes.\nNOAA makes no warranty regarding these data, expressed or implied,\nnor does the fact of distribution constitute such a warranty.\nNOAA cannot assume liability for any damages caused by any errors\nor omissions in these data, nor as a result of the failure of\nthese data to function on a particular system.\n    "]"
 	},
 	{
 		"key": "metadata_type",
@@ -192,7 +192,7 @@
 	},
 	{
 		"key": "responsible-party",
-		"value": "[{\"name\": \"Pacific Islands Benthic Habitat Mapping Center (PIBHMC), Coral Reef Ecosystem Division (CRED), Pacific Islands Fisheries Science Center (PIFSC), National Marine Fisheries Service (NMFS), National Oceanic and Atmospheric Administration (NOAA)\", \"roles\": [\"pointOfContact\"]}]"
+		"value": "[{"name": "Pacific Islands Benthic Habitat Mapping Center (PIBHMC), Coral Reef Ecosystem Division (CRED), Pacific Islands Fisheries Science Center (PIFSC), National Marine Fisheries Service (NMFS), National Oceanic and Atmospheric Administration (NOAA)", "roles": ["pointOfContact"]}]"
 	},
 	{
 		"key": "temporal-extent-end",
@@ -204,11 +204,11 @@
 	},
 	{
 		"key": "bbox-south-lat",
-		"value": "\n          15.065562\n        "
+		"value": "n          15.065562n        "
 	},
 	{
 		"key": "tags",
-		"value": "slope, commonwealth of northern mariana islands, geographic information, reef monitoring and assessment, biosphere, united states of america, oceans, saipan island, water depth, zoology, ikonos, multibeam sonar, corals, bathymetry, bathymetry\/seafloor topography, satellite (digital scans), remote sensing, earth science",
+		"value": "slope, commonwealth of northern mariana islands, geographic information, reef monitoring and assessment, biosphere, united states of america, oceans, saipan island, water depth, zoology, ikonos, multibeam sonar, corals, bathymetry, bathymetry/seafloor topography, satellite (digital scans), remote sensing, earth science",
 		"__extras": {
 			"revision_id": "80b034e5-ef95-4393-82e8-a9fe82edf5d5",
 			"package_id": "2722fba7-5b5c-4132-a745-5fa0eb5ec2f3"

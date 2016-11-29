@@ -37,7 +37,7 @@
 		"cache_url": null,
 		"name": "Zip File",
 		"created": "2014-06-25T15:44:58.243103",
-		"url": "http:\/\/gstore.unm.edu\/apps\/rgis\/datasets\/43c78bef-cafa-403a-880f-bdefc9893ee9\/oteroco_e911roads_shp.original.zip",
+		"url": "http://gstore.unm.edu/apps/rgis/datasets/43c78bef-cafa-403a-880f-bdefc9893ee9/oteroco_e911roads_shp.original.zip",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 0,
@@ -67,7 +67,7 @@
 		"cache_url": null,
 		"name": "XML File",
 		"created": "2014-06-25T15:44:58.243120",
-		"url": "http:\/\/gstore.unm.edu\/apps\/rgis\/datasets\/43c78bef-cafa-403a-880f-bdefc9893ee9\/metadata\/FGDC-STD-001-1998.xml",
+		"url": "http://gstore.unm.edu/apps/rgis/datasets/43c78bef-cafa-403a-880f-bdefc9893ee9/metadata/FGDC-STD-001-1998.xml",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 1,
@@ -97,7 +97,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2014-06-25T15:44:58.243127",
-		"url": "http:\/\/gstore.unm.edu\/apps\/rgis\/datasets\/43c78bef-cafa-403a-880f-bdefc9893ee9\/metadata\/FGDC-STD-001-1998.html",
+		"url": "http://gstore.unm.edu/apps/rgis/datasets/43c78bef-cafa-403a-880f-bdefc9893ee9/metadata/FGDC-STD-001-1998.html",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 2,
@@ -127,7 +127,7 @@
 		"cache_url": null,
 		"name": "XML File",
 		"created": "2014-06-25T15:44:58.243134",
-		"url": "http:\/\/gstore.unm.edu\/apps\/rgis\/datasets\/43c78bef-cafa-403a-880f-bdefc9893ee9\/metadata\/ISO-19115:2003.xml",
+		"url": "http://gstore.unm.edu/apps/rgis/datasets/43c78bef-cafa-403a-880f-bdefc9893ee9/metadata/ISO-19115:2003.xml",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 3,
@@ -157,7 +157,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2014-06-25T15:44:58.243140",
-		"url": "http:\/\/gstore.unm.edu\/apps\/rgis\/datasets\/43c78bef-cafa-403a-880f-bdefc9893ee9\/metadata\/ISO-19115:2003.html",
+		"url": "http://gstore.unm.edu/apps/rgis/datasets/43c78bef-cafa-403a-880f-bdefc9893ee9/metadata/ISO-19115:2003.html",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 4,
@@ -177,7 +177,7 @@
 	"name": "otero-county-e-911-roads",
 	"isopen": false,
 	"url": null,
-	"notes": " This data represents Otero County roads. The data was collected with the use\n\t\t\t\tof GPS equipment during the time period of 7-01-98 thru 6-20-01. Data was verified\n\t\t\t\tfor acurracy with the use of USGS orthophotography. ",
+	"notes": " This data represents Otero County roads. The data was collected with the usenttttof GPS equipment during the time period of 7-01-98 thru 6-20-01. Data was verifiednttttfor acurracy with the use of USGS orthophotography. ",
 	"license_title": null,
 	"extras": [{
 		"key": "bbox-east-long",
@@ -213,7 +213,7 @@
 	},
 	{
 		"key": "spatial",
-		"value": "{\"type\": \"Polygon\", \"coordinates\": [[[-106.379222, 31.993579], [-104.827061, 31.993579], [-104.827061, 33.390357], [-106.379222, 33.390357], [-106.379222, 31.993579]]]}"
+		"value": "{"type": "Polygon", "coordinates": [[[-106.379222, 31.993579], [-104.827061, 31.993579], [-104.827061, 33.390357], [-106.379222, 33.390357], [-106.379222, 31.993579]]]}"
 	},
 	{
 		"key": "progress",
@@ -221,7 +221,7 @@
 	},
 	{
 		"key": "access_constraints",
-		"value": "[\"Access Constraints: none. Use Constraints:  No warranty is made as to the accuracy, reliability, or completeness of this data\\n\\t\\t\\tfor individual use or aggregate use with other data, or for purposes not intended by\\n\\t\\t\\tOtero County.Spatial information may not meet National Map Standards. This information\\n\\t\\t\\tmay be updated without notification. \"]"
+		"value": "["Access Constraints: none. Use Constraints:  No warranty is made as to the accuracy, reliability, or completeness of this data\n\t\t\tfor individual use or aggregate use with other data, or for purposes not intended by\n\t\t\tOtero County.Spatial information may not meet National Map Standards. This information\n\t\t\tmay be updated without notification. "]"
 	},
 	{
 		"key": "temporal-extent-begin",
@@ -241,7 +241,7 @@
 	},
 	{
 		"key": "dataset-reference-date",
-		"value": "[{\"type\": \"publication\", \"value\": \"2009-07-22T00:00:00\"}]"
+		"value": "[{"type": "publication", "value": "2009-07-22T00:00:00"}]"
 	},
 	{
 		"key": "frequency-of-update",
@@ -257,7 +257,7 @@
 	},
 	{
 		"key": "responsible-party",
-		"value": "[{\"name\": \"Otero County GIS Department\", \"roles\": [\"pointOfContact\"]}]"
+		"value": "[{"name": "Otero County GIS Department", "roles": ["pointOfContact"]}]"
 	},
 	{
 		"key": "temporal-extent-end",
@@ -296,14 +296,14 @@
 		"value": "New Mexico Resource Geographic Information System (NM RGIS)"
 	}],
 	"organization": {
-		"description": "The Earth Data Analysis Center (EDAC) at the University of New Mexico is an Applied Research Center that specializes in geospatial data development, management, analysis and applications. Through partnerships with collaborators in public health, emergency management and planning, resource management, transportation, water resources and many other domains, EDAC enables the integration of geospatial data, knowledge and technologies into solutions across these topic areas. For more information about EDAC please visit our [website](http:\/\/edac.unm.edu \"EDAC web page link\")",
+		"description": "The Earth Data Analysis Center (EDAC) at the University of New Mexico is an Applied Research Center that specializes in geospatial data development, management, analysis and applications. Through partnerships with collaborators in public health, emergency management and planning, resource management, transportation, water resources and many other domains, EDAC enables the integration of geospatial data, knowledge and technologies into solutions across these topic areas. For more information about EDAC please visit our [website](http://edac.unm.edu "EDAC web page link")",
 		"created": "2013-03-14T03:44:43.454581",
 		"title": "Earth Data Analysis Center, University of New Mexico",
 		"name": "edac-unm-edu",
 		"revision_timestamp": "2013-07-16T18:17:15.118126",
 		"is_organization": true,
 		"state": "active",
-		"image_url": "http:\/\/edac.unm.edu\/wordpress\/wp-content\/uploads\/2012\/07\/EDAC-Banner.jpg",
+		"image_url": "http://edac.unm.edu/wordpress/wp-content/uploads/2012/07/EDAC-Banner.jpg",
 		"revision_id": "7a9f30e3-fbc6-4cde-aade-32b84293cc77",
 		"type": "organization",
 		"id": "c64722ff-641a-4ddd-bbb8-4bd9fd2e7963",

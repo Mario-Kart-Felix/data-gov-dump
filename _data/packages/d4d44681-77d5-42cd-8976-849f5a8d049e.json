@@ -37,7 +37,7 @@
 		"cache_url": null,
 		"name": "Zip File",
 		"created": "2016-08-17T06:44:22.601059",
-		"url": "http:\/\/www.boem.gov\/uploadedFiles\/BOEM\/Renewable_Energy_Program\/Mapping_and_Data\/boem_leasing_areas_shapefile.zip",
+		"url": "http://www.boem.gov/uploadedFiles/BOEM/Renewable_Energy_Program/Mapping_and_Data/boem_leasing_areas_shapefile.zip",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 0,
@@ -67,7 +67,7 @@
 		"cache_url": null,
 		"name": "Esri Rest API Endpoint",
 		"created": "2016-08-17T06:44:22.601132",
-		"url": "https:\/\/coast.noaa.gov\/arcgis\/rest\/services\/MarineCadastre\/BOEM_Layers\/MapServer\/0",
+		"url": "https://coast.noaa.gov/arcgis/rest/services/MarineCadastre/BOEM_Layers/MapServer/0",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 1,
@@ -97,7 +97,7 @@
 		"cache_url": null,
 		"name": "Web Mapping Service",
 		"created": "2016-08-17T06:44:22.601150",
-		"url": "https:\/\/coast.noaa.gov\/arcgis\/services\/MarineCadastre\/BOEM_Layers\/MapServer\/WMSServer?request=GetCapabilities&service=WMS",
+		"url": "https://coast.noaa.gov/arcgis/services/MarineCadastre/BOEM_Layers/MapServer/WMSServer?request=GetCapabilities&service=WMS",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 2,
@@ -127,7 +127,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2016-08-17T06:44:22.601159",
-		"url": "http:\/\/www.boem.gov\/Renewable-Energy-GIS-Data\/",
+		"url": "http://www.boem.gov/Renewable-Energy-GIS-Data/",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 3,
@@ -160,11 +160,11 @@
 	"name": "outer-continental-shelf-active-renewable-energy-leases",
 	"isopen": false,
 	"url": null,
-	"notes": "Active renewable energy leasing areas on the Atlantic OCS - currently Cape Wind offshore Cape Cod Massachusetts, Rhode Island \/ Massachusetts (RIMA), Delaware, Maryland, Virginia, New Jersey and IP leases offshore Florida",
+	"notes": "Active renewable energy leasing areas on the Atlantic OCS - currently Cape Wind offshore Cape Cod Massachusetts, Rhode Island / Massachusetts (RIMA), Delaware, Maryland, Virginia, New Jersey and IP leases offshore Florida",
 	"license_title": null,
 	"extras": [{
 		"key": "responsible-party",
-		"value": "[{\"name\": \"Bureau of Ocean Energy Management\", \"roles\": [\"pointOfContact\"]}]"
+		"value": "[{"name": "Bureau of Ocean Energy Management", "roles": ["pointOfContact"]}]"
 	},
 	{
 		"key": "contact-email",
@@ -184,7 +184,7 @@
 	},
 	{
 		"key": "dataset-reference-date",
-		"value": "[{\"type\": \"publication\", \"value\": \"2015-06-02\"}]"
+		"value": "[{"type": "publication", "value": "2015-06-02"}]"
 	},
 	{
 		"key": "resource-type",
@@ -212,7 +212,7 @@
 	},
 	{
 		"key": "licence",
-		"value": "[\"Although these data have been processed successfully on a computer system at the BOEM, no warranty expressed or implied is made regarding the accuracy or utility of the data on any other system or for general or scientific purposes, nor shall the act of distribution constitute any such warranty. It is also strongly recommended that careful attention be paid to the contents of the metadata file associated with these data to evaluate data set limitations, restrictions or intended use. The BOEM shall not be held liable for improper or incorrect use of the data described and\/or contained herein.\"]"
+		"value": "["Although these data have been processed successfully on a computer system at the BOEM, no warranty expressed or implied is made regarding the accuracy or utility of the data on any other system or for general or scientific purposes, nor shall the act of distribution constitute any such warranty. It is also strongly recommended that careful attention be paid to the contents of the metadata file associated with these data to evaluate data set limitations, restrictions or intended use. The BOEM shall not be held liable for improper or incorrect use of the data described and/or contained herein."]"
 	},
 	{
 		"key": "metadata_type",
@@ -224,7 +224,7 @@
 	},
 	{
 		"key": "spatial",
-		"value": "{\"type\": \"Polygon\", \"coordinates\": [[[-79.908466, 26.04522], [-70.221044, 26.04522], [-70.221044, 41.551403], [-79.908466, 41.551403], [-79.908466, 26.04522]]]}"
+		"value": "{"type": "Polygon", "coordinates": [[[-79.908466, 26.04522], [-70.221044, 26.04522], [-70.221044, 41.551403], [-79.908466, 41.551403], [-79.908466, 26.04522]]]}"
 	},
 	{
 		"key": "guid",
@@ -236,7 +236,7 @@
 	},
 	{
 		"key": "access_constraints",
-		"value": "[\"Use Constraints: None. Please check sources, scale, accuracy, currency and other available information. Please confirm that you are using the most recent copy of both data and metadata. Acknowledgement of the BOEM would be appreciated.\", \"Access Constraints: None\"]"
+		"value": "["Use Constraints: None. Please check sources, scale, accuracy, currency and other available information. Please confirm that you are using the most recent copy of both data and metadata. Acknowledgement of the BOEM would be appreciated.", "Access Constraints: None"]"
 	},
 	{
 		"key": "spatial_harvester",
@@ -278,7 +278,7 @@
 		"revision_timestamp": "2013-03-20T22:26:39.819248",
 		"is_organization": true,
 		"state": "active",
-		"image_url": "http:\/\/www.boem.gov\/images\/boem\/layout\/logo.png",
+		"image_url": "http://www.boem.gov/images/boem/layout/logo.png",
 		"revision_id": "6f2fda4e-48e9-42f6-b1dd-da068900ba24",
 		"type": "organization",
 		"id": "54ed71a6-4861-4dc1-aa78-c5661ba9ab04",

@@ -36,7 +36,7 @@
 		"cache_url": null,
 		"name": "AA index",
 		"created": "2015-10-06T17:55:50.322562",
-		"url": "ftp:\/\/ftp.ngdc.noaa.gov\/STP\/GEOMAGNETIC_DATA\/AASTAR\/",
+		"url": "ftp://ftp.ngdc.noaa.gov/STP/GEOMAGNETIC_DATA/AASTAR/",
 		"webstore_url": null,
 		"resource_locator_function": "download",
 		"position": 0,
@@ -66,7 +66,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2015-10-06T17:55:50.322582",
-		"url": "ftp:\/\/ftp.ngdc.noaa.gov\/STP\/GEOMAGNETIC_DATA\/AASTAR\/",
+		"url": "ftp://ftp.ngdc.noaa.gov/STP/GEOMAGNETIC_DATA/AASTAR/",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 1,
@@ -95,7 +95,7 @@
 		"cache_url": null,
 		"name": "Major Magnetic Storms 1868 - 2007 according to the AA* Criteria",
 		"created": "2015-10-06T17:55:50.322591",
-		"url": "ftp:\/\/ftp.ngdc.noaa.gov\/STP\/GEOMAGNETIC_DATA\/AASTAR\/",
+		"url": "ftp://ftp.ngdc.noaa.gov/STP/GEOMAGNETIC_DATA/AASTAR/",
 		"webstore_url": null,
 		"resource_locator_function": "information",
 		"position": 2,
@@ -124,7 +124,7 @@
 		"cache_url": null,
 		"name": "GCMD Feedback Form",
 		"created": "2015-10-06T17:55:50.322598",
-		"url": "http:\/\/gcmd.nasa.gov\/MailComments\/MailComments.jsf?rcpt=gcmduso",
+		"url": "http://gcmd.nasa.gov/MailComments/MailComments.jsf?rcpt=gcmduso",
 		"webstore_url": null,
 		"resource_locator_function": "information",
 		"position": 3,
@@ -153,7 +153,7 @@
 		"cache_url": null,
 		"name": "GCMD Keywords Page",
 		"created": "2015-10-06T17:55:50.322604",
-		"url": "http:\/\/gcmd.nasa.gov\/learn\/keyword_list.html",
+		"url": "http://gcmd.nasa.gov/learn/keyword_list.html",
 		"webstore_url": null,
 		"resource_locator_function": "information",
 		"position": 4,
@@ -175,7 +175,7 @@
 		"revision_timestamp": "2013-03-25T23:05:12.923863",
 		"is_organization": true,
 		"state": "active",
-		"image_url": "https:\/\/fortress.wa.gov\/dfw\/score\/score\/images\/noaa_logo.png",
+		"image_url": "https://fortress.wa.gov/dfw/score/score/images/noaa_logo.png",
 		"revision_id": "c6d43080-22e1-405e-a83d-f2a512d9e867",
 		"type": "organization",
 		"id": "e811f0b4-451f-4896-9e8f-fc6802837819",
@@ -214,7 +214,7 @@
 	},
 	{
 		"key": "graphic-preview-file",
-		"value": "http:\/\/www.ngdc.noaa.gov\/stp\/GEOMAG\/image\/aassn07.jpg"
+		"value": "http://www.ngdc.noaa.gov/stp/GEOMAG/image/aassn07.jpg"
 	},
 	{
 		"key": "bbox-south-lat",
@@ -230,7 +230,7 @@
 	},
 	{
 		"key": "spatial",
-		"value": "{\"type\": \"Polygon\", \"coordinates\": [[[-180.0, -90.0], [180.0, -90.0], [180.0, 90.0], [-180.0, 90.0], [-180.0, -90.0]]]}"
+		"value": "{"type": "Polygon", "coordinates": [[[-180.0, -90.0], [180.0, -90.0], [180.0, 90.0], [-180.0, 90.0], [-180.0, -90.0]]]}"
 	},
 	{
 		"key": "progress",
@@ -238,7 +238,7 @@
 	},
 	{
 		"key": "access_constraints",
-		"value": "[\"Use Constraints: None\", \"Access Constraints: No Constraints\"]"
+		"value": "["Use Constraints: None", "Access Constraints: No Constraints"]"
 	},
 	{
 		"key": "temporal-extent-begin",
@@ -258,7 +258,7 @@
 	},
 	{
 		"key": "dataset-reference-date",
-		"value": "[{\"type\": \"publication\", \"value\": \"1968-01-01\"}]"
+		"value": "[{"type": "publication", "value": "1968-01-01"}]"
 	},
 	{
 		"key": "graphic-preview-description",
@@ -270,7 +270,7 @@
 	},
 	{
 		"key": "licence",
-		"value": "[\"While every effort has been made to ensure that these data are accurate and reliable within the limits of the current state of the art, NOAA cannot assume liability for any damages caused by any errors or omissions in the data, nor as a result of the failure of the data to function on a particular system. NOAA makes no warranty, expressed or implied, nor does the fact of distribution constitute such a warranty.\"]"
+		"value": "["While every effort has been made to ensure that these data are accurate and reliable within the limits of the current state of the art, NOAA cannot assume liability for any damages caused by any errors or omissions in the data, nor as a result of the failure of the data to function on a particular system. NOAA makes no warranty, expressed or implied, nor does the fact of distribution constitute such a warranty."]"
 	},
 	{
 		"key": "metadata_type",
@@ -278,7 +278,7 @@
 	},
 	{
 		"key": "responsible-party",
-		"value": "[{\"name\": \"DOC\/NOAA\/NESDIS\/NCEI > National Centers for Environmental Information, NESDIS, NOAA, U.S. Department of Commerce\", \"roles\": [\"pointOfContact\"]}]"
+		"value": "[{"name": "DOC/NOAA/NESDIS/NCEI > National Centers for Environmental Information, NESDIS, NOAA, U.S. Department of Commerce", "roles": ["pointOfContact"]}]"
 	},
 	{
 		"key": "spatial-data-service-type",
@@ -290,7 +290,7 @@
 	},
 	{
 		"key": "tags",
-		"value": "land, solid earth, national geophysical data center, nesdis, noaa, u.s. department of commerce, doc\/noaa\/nesdis\/ngdc, geomagnetic indices, geomagnetism, global, national centers for environmental information, nesdis, noaa, u.s. department of commerce, doc\/noaa\/nesdis\/ncei, interior & crust, earth science",
+		"value": "land, solid earth, national geophysical data center, nesdis, noaa, u.s. department of commerce, doc/noaa/nesdis/ngdc, geomagnetic indices, geomagnetism, global, national centers for environmental information, nesdis, noaa, u.s. department of commerce, doc/noaa/nesdis/ncei, interior & crust, earth science",
 		"__extras": {
 			"revision_id": "fda8b0de-9b8f-4366-a78e-52c5f1eca46e",
 			"package_id": "e9f58b5f-0479-4a8b-ab99-fec20aec0945"

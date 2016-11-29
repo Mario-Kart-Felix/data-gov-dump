@@ -36,7 +36,7 @@
 		"cache_url": null,
 		"name": "Shapefile",
 		"created": "2014-11-17T16:14:24.068386",
-		"url": "http:\/\/water.usgs.gov\/GIS\/dsdl\/maui_land_use_circa_2010.zip",
+		"url": "http://water.usgs.gov/GIS/dsdl/maui_land_use_circa_2010.zip",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 0,
@@ -66,7 +66,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2014-11-17T16:14:24.068408",
-		"url": "http:\/\/water.usgs.gov\/lookup\/getspatial?maui_land_use_circa_2010",
+		"url": "http://water.usgs.gov/lookup/getspatial?maui_land_use_circa_2010",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 1,
@@ -114,7 +114,7 @@
 	},
 	{
 		"key": "graphic-preview-file",
-		"value": "http:\/\/water.usgs.gov\/GIS\/browse\/maui_land_use_circa_2010.png"
+		"value": "http://water.usgs.gov/GIS/browse/maui_land_use_circa_2010.png"
 	},
 	{
 		"key": "metadata-language",
@@ -130,7 +130,7 @@
 	},
 	{
 		"key": "spatial",
-		"value": "{\"type\": \"Polygon\", \"coordinates\": [[[-156.702822, 20.56747], [-155.970161, 20.56747], [-155.970161, 21.033181], [-156.702822, 21.033181], [-156.702822, 20.56747]]]}"
+		"value": "{"type": "Polygon", "coordinates": [[[-156.702822, 20.56747], [-155.970161, 20.56747], [-155.970161, 21.033181], [-156.702822, 21.033181], [-156.702822, 20.56747]]]}"
 	},
 	{
 		"key": "progress",
@@ -138,7 +138,7 @@
 	},
 	{
 		"key": "access_constraints",
-		"value": "[\"Use Constraints: This digital publication was prepared by an agency of the United States Government. Neither the United States Government nor any agency thereof, nor any of their employees, make any warranty, expressed or implied, or assumes any legal liability or responsibility for the accuracy, completeness, or usefulness of any information, apparatus, product, or process disclosed in this report, or represents that its use would not infringe privately owned rights. Reference therein to any specific commercial product, process, or service by trade name, trademark, manufacturer, or otherwise does not necessarily constitute or imply its endorsement, recommendation, or favoring by the United States Government or any agency thereof. Any views and opinions of authors expressed herein do not necessarily state or reflect those of the United States Government or any agency thereof. Although all data published in this Data Series have been used by the USGS, no warranty, expressed or implied, is made by the U.S. Geological Survey as to the accuracy of the data and related materials and\/or the functioning of the software. The act of distribution shall not constitute any such warranty, and no responsibility is assumed by the USGS in the use of this data, software, or related materials. Graphical map depictions are intended to be used within the map scale limits applicable to the source data. Although software enables the user to view data at various scales, the user is cautioned to refer to the source documentation for the appropriate map scale limitations.\", \"Access Constraints: None\"]"
+		"value": "["Use Constraints: This digital publication was prepared by an agency of the United States Government. Neither the United States Government nor any agency thereof, nor any of their employees, make any warranty, expressed or implied, or assumes any legal liability or responsibility for the accuracy, completeness, or usefulness of any information, apparatus, product, or process disclosed in this report, or represents that its use would not infringe privately owned rights. Reference therein to any specific commercial product, process, or service by trade name, trademark, manufacturer, or otherwise does not necessarily constitute or imply its endorsement, recommendation, or favoring by the United States Government or any agency thereof. Any views and opinions of authors expressed herein do not necessarily state or reflect those of the United States Government or any agency thereof. Although all data published in this Data Series have been used by the USGS, no warranty, expressed or implied, is made by the U.S. Geological Survey as to the accuracy of the data and related materials and/or the functioning of the software. The act of distribution shall not constitute any such warranty, and no responsibility is assumed by the USGS in the use of this data, software, or related materials. Graphical map depictions are intended to be used within the map scale limits applicable to the source data. Although software enables the user to view data at various scales, the user is cautioned to refer to the source documentation for the appropriate map scale limitations.", "Access Constraints: None"]"
 	},
 	{
 		"key": "temporal-extent-begin",
@@ -158,7 +158,7 @@
 	},
 	{
 		"key": "dataset-reference-date",
-		"value": "[{\"type\": \"publication\", \"value\": \"2014-02-01\"}]"
+		"value": "[{"type": "publication", "value": "2014-02-01"}]"
 	},
 	{
 		"key": "graphic-preview-description",
@@ -170,7 +170,7 @@
 	},
 	{
 		"key": "licence",
-		"value": "[\"Although this data set has been used by the U.S. Geological Survey, U.S. Department of the Interior, no warranty expressed or implied is made by the U.S. Geological Survey as to the accuracy of the data and related materials. The act of distribution shall not constitute any such warranty, and no responsibility is assumed by the U.S. Geological Survey in the use of this data, software, or related materials. Any use of trade, product, or firm names is for descriptive purposes only and does not imply endorsement by the U.S. Government.\"]"
+		"value": "["Although this data set has been used by the U.S. Geological Survey, U.S. Department of the Interior, no warranty expressed or implied is made by the U.S. Geological Survey as to the accuracy of the data and related materials. The act of distribution shall not constitute any such warranty, and no responsibility is assumed by the U.S. Geological Survey in the use of this data, software, or related materials. Any use of trade, product, or firm names is for descriptive purposes only and does not imply endorsement by the U.S. Government."]"
 	},
 	{
 		"key": "metadata_type",
@@ -178,7 +178,7 @@
 	},
 	{
 		"key": "responsible-party",
-		"value": "[{\"name\": \"U.S. Geological Survey\", \"roles\": [\"pointOfContact\"]}]"
+		"value": "[{"name": "U.S. Geological Survey", "roles": ["pointOfContact"]}]"
 	},
 	{
 		"key": "temporal-extent-end",
@@ -217,14 +217,14 @@
 		"value": "Water NSDI Node Spatial Datasets"
 	}],
 	"organization": {
-		"description": "http:\/\/www.usgs.gov\/\r\nThe USGS is a federal science agency that provides impartial information on the health of our ecosystems and environment, the natural hazards that threaten us, the natural resources we rely on, the impacts of climate and land-use change, and the core science systems that help us provide timely, relevant, and useable information.",
+		"description": "http://www.usgs.gov/rnThe USGS is a federal science agency that provides impartial information on the health of our ecosystems and environment, the natural hazards that threaten us, the natural resources we rely on, the impacts of climate and land-use change, and the core science systems that help us provide timely, relevant, and useable information.",
 		"created": "2013-03-14T03:44:38.263357",
 		"title": "U.S. Geological Survey, Department of the Interior",
 		"name": "usgs-gov",
 		"revision_timestamp": "2014-09-02T13:43:52.167023",
 		"is_organization": true,
 		"state": "active",
-		"image_url": "http:\/\/pubs.usgs.gov\/sir\/2004\/5296\/04-5296_confluence_park\/usgs_logo.gif",
+		"image_url": "http://pubs.usgs.gov/sir/2004/5296/04-5296_confluence_park/usgs_logo.gif",
 		"revision_id": "2858aa99-9501-4f96-82e5-9647b968ed66",
 		"type": "organization",
 		"id": "bd2cdd5a-4d65-46c0-9937-c8381175f104",

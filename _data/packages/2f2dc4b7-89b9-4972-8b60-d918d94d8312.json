@@ -37,7 +37,7 @@
 		"cache_url": null,
 		"name": "Zip File",
 		"created": "2013-06-12T14:00:42.211507",
-		"url": "ftp:\/\/ftp.lmic.state.mn.us\/pub\/dnr\/data\/peatinv.zip",
+		"url": "ftp://ftp.lmic.state.mn.us/pub/dnr/data/peatinv.zip",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 0,
@@ -74,7 +74,7 @@
 	"license_title": null,
 	"extras": [{
 		"key": "responsible-party",
-		"value": "[{\"name\": \"Minnesota Department of Natural Resources, Division of Lands and Minerals\", \"roles\": [\"pointOfContact\"]}]"
+		"value": "[{"name": "Minnesota Department of Natural Resources, Division of Lands and Minerals", "roles": ["pointOfContact"]}]"
 	},
 	{
 		"key": "graphic-preview-file",
@@ -98,7 +98,7 @@
 	},
 	{
 		"key": "dataset-reference-date",
-		"value": "[{\"type\": \"publication\", \"value\": \"9999-01-01\"}]"
+		"value": "[{"type": "publication", "value": "9999-01-01"}]"
 	},
 	{
 		"key": "resource-type",
@@ -126,7 +126,7 @@
 	},
 	{
 		"key": "licence",
-		"value": "[\"The Minnesota Department of Natural Resources makes no representation or warranties, express or implied, with respect to the reuse of data provided herewith, regardless of its format or the means of its transmission. There is no guarantee or representation to the user as to the accuracy, currency, suitability, or reliability of this data for any purpose. The user accepts the data 'as is', and assumes all risks associated with its use. By accepting this data, the user agrees not to transmit this data or provide access to it or any part of it to another party unless the user shall include with the data a copy of this disclaimer. The Minnesota Department of Natural Resources assumes no responsibility for actual or consequential damage incurred as a result of any user's reliance on this data.\"]"
+		"value": "["The Minnesota Department of Natural Resources makes no representation or warranties, express or implied, with respect to the reuse of data provided herewith, regardless of its format or the means of its transmission. There is no guarantee or representation to the user as to the accuracy, currency, suitability, or reliability of this data for any purpose. The user accepts the data 'as is', and assumes all risks associated with its use. By accepting this data, the user agrees not to transmit this data or provide access to it or any part of it to another party unless the user shall include with the data a copy of this disclaimer. The Minnesota Department of Natural Resources assumes no responsibility for actual or consequential damage incurred as a result of any user's reliance on this data."]"
 	},
 	{
 		"key": "metadata_type",
@@ -134,7 +134,7 @@
 	},
 	{
 		"key": "spatial",
-		"value": "{\"type\": \"Polygon\", \"coordinates\": [[[-97.5, 43.0], [-89.0, 43.0], [-89.0, 49.5], [-97.5, 49.5], [-97.5, 43.0]]]}"
+		"value": "{"type": "Polygon", "coordinates": [[[-97.5, 43.0], [-89.0, 43.0], [-89.0, 49.5], [-97.5, 49.5], [-97.5, 43.0]]]}"
 	},
 	{
 		"key": "guid",
@@ -146,7 +146,7 @@
 	},
 	{
 		"key": "access_constraints",
-		"value": "[\"Use Constraints: Acknowledgement of the Minnesota Department of Natural Resources is appreciated for products derived from these data.\", \"Access Constraints:\"]"
+		"value": "["Use Constraints: Acknowledgement of the Minnesota Department of Natural Resources is appreciated for products derived from these data.", "Access Constraints:"]"
 	},
 	{
 		"key": "spatial_harvester",
@@ -188,7 +188,7 @@
 		"revision_timestamp": "2013-03-27T17:32:06.049250",
 		"is_organization": true,
 		"state": "active",
-		"image_url": "http:\/\/mn.gov\/portal\/images\/mn_header_mn-logo.png",
+		"image_url": "http://mn.gov/portal/images/mn_header_mn-logo.png",
 		"revision_id": "018d8409-7698-467f-8dc2-c58188806480",
 		"type": "organization",
 		"id": "24298fe4-ee0d-43ae-af51-81ae5f5c6165",

@@ -28,7 +28,7 @@
 	"name": "abandoned-uranium-mines-aum-site-screening-map-service-2016-us-epa-region-9",
 	"isopen": false,
 	"url": null,
-	"notes": "As described in detail in the Five-Year Report, US EPA completed on-the-ground screening of 521 abandoned uranium mine areas. US EPA and the Navajo EPA are using the Comprehensive Database and Atlas to determine which mines should be cleaned up first. US EPA continues to research and identify Potentially Responsible Parties (PRPs) under Superfund to contribute to the costs of cleanup efforts. This US EPA Region 9 web service contains the following map layers: Abandoned Uranium Mines, Priority Mines, Tronox Mines, Navajo Environmental Response Trust Mines, Mines with Enforcement Actions, Superfund AUM Regions, Navajo Nation Administrative Boundaries and Chapter Houses. Mine points have a maximum scale of 1:220,000, while Mine polygons have a minimum scale of 1:220,000. Chapter houses and BLM Land Status have minimum scales of 1:144,448. Full FGDC metadata records for each layer can be found by clicking the layer name at the web service endpoint and viewing the layer description. Data used to create this web service are available for download at https:\/\/edg.epa.gov\/metadata\/catalog\/data\/data.page. Security Classification: Public. Access Constraints: None. Use Constraints: None. Please check sources, scale, accuracy, currentness and other available information. Please confirm that you are using the most recent copy of both data and metadata. Acknowledgement of the EPA would be appreciated.",
+	"notes": "As described in detail in the Five-Year Report, US EPA completed on-the-ground screening of 521 abandoned uranium mine areas. US EPA and the Navajo EPA are using the Comprehensive Database and Atlas to determine which mines should be cleaned up first. US EPA continues to research and identify Potentially Responsible Parties (PRPs) under Superfund to contribute to the costs of cleanup efforts. This US EPA Region 9 web service contains the following map layers: Abandoned Uranium Mines, Priority Mines, Tronox Mines, Navajo Environmental Response Trust Mines, Mines with Enforcement Actions, Superfund AUM Regions, Navajo Nation Administrative Boundaries and Chapter Houses. Mine points have a maximum scale of 1:220,000, while Mine polygons have a minimum scale of 1:220,000. Chapter houses and BLM Land Status have minimum scales of 1:144,448. Full FGDC metadata records for each layer can be found by clicking the layer name at the web service endpoint and viewing the layer description. Data used to create this web service are available for download at https://edg.epa.gov/metadata/catalog/data/data.page. Security Classification: Public. Access Constraints: None. Use Constraints: None. Please check sources, scale, accuracy, currentness and other available information. Please confirm that you are using the most recent copy of both data and metadata. Acknowledgement of the EPA would be appreciated.",
 	"license_title": null,
 	"extras": [{
 		"key": "bbox-east-long",
@@ -64,7 +64,7 @@
 	},
 	{
 		"key": "spatial",
-		"value": "{\"type\": \"Polygon\", \"coordinates\": [[[-111.89114, 34.258939], [-106.943359, 34.258939], [-106.943359, 37.461553], [-111.89114, 37.461553], [-111.89114, 34.258939]]]}"
+		"value": "{"type": "Polygon", "coordinates": [[[-111.89114, 34.258939], [-106.943359, 34.258939], [-106.943359, 37.461553], [-111.89114, 37.461553], [-111.89114, 34.258939]]]}"
 	},
 	{
 		"key": "progress",
@@ -72,11 +72,11 @@
 	},
 	{
 		"key": "access_constraints",
-		"value": "[\"Use Constraints: None. Please check sources, scale, accuracy, currency and other available information. Please confirm that you are using the most recent copy of both data and metadata. Acknowledgement of the EPA would be appreciated.\", \"Access Constraints: None\"]"
+		"value": "["Use Constraints: None. Please check sources, scale, accuracy, currency and other available information. Please confirm that you are using the most recent copy of both data and metadata. Acknowledgement of the EPA would be appreciated.", "Access Constraints: None"]"
 	},
 	{
 		"key": "licence_url",
-		"value": "https:\/\/edg.epa.gov\/EPA_Data_License.html"
+		"value": "https://edg.epa.gov/EPA_Data_License.html"
 	},
 	{
 		"key": "contact-email",
@@ -92,7 +92,7 @@
 	},
 	{
 		"key": "dataset-reference-date",
-		"value": "[{\"type\": \"publication\", \"value\": \"2016-06-29\"}]"
+		"value": "[{"type": "publication", "value": "2016-06-29"}]"
 	},
 	{
 		"key": "frequency-of-update",
@@ -100,7 +100,7 @@
 	},
 	{
 		"key": "licence",
-		"value": "[\"https:\/\/edg.epa.gov\/EPA_Data_License.html\"]"
+		"value": "["https://edg.epa.gov/EPA_Data_License.html"]"
 	},
 	{
 		"key": "metadata_type",
@@ -108,7 +108,7 @@
 	},
 	{
 		"key": "responsible-party",
-		"value": "[{\"name\": \"U.S. Environmental Protection Agency, Region 9\", \"roles\": [\"pointOfContact\"]}]"
+		"value": "[{"name": "U.S. Environmental Protection Agency, Region 9", "roles": ["pointOfContact"]}]"
 	},
 	{
 		"key": "spatial-data-service-type",
@@ -150,7 +150,7 @@
 		"revision_timestamp": "2014-01-16T18:58:42.895981",
 		"is_organization": true,
 		"state": "active",
-		"image_url": "http:\/\/edg.epa.gov\/EPALogo.svg",
+		"image_url": "http://edg.epa.gov/EPALogo.svg",
 		"revision_id": "f0e4b475-7424-4ce0-9a22-412e7e595154",
 		"type": "organization",
 		"id": "6d90e48d-3076-4327-b2f4-c33919f374d5",

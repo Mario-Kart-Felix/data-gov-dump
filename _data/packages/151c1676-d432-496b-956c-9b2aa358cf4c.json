@@ -37,7 +37,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2016-03-31T19:58:12.283499",
-		"url": "https:\/\/edg.epa.gov\/data\/Public\/ORD\/EnviroAtlas\/National",
+		"url": "https://edg.epa.gov/data/Public/ORD/EnviroAtlas/National",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 0,
@@ -67,7 +67,7 @@
 		"cache_url": null,
 		"name": "Esri Rest API Endpoint",
 		"created": "2016-03-31T19:58:12.283527",
-		"url": "https:\/\/enviroatlas.epa.gov\/arcgis\/rest\/services\/National",
+		"url": "https://enviroatlas.epa.gov/arcgis/rest/services/National",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 1,
@@ -97,7 +97,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2016-03-31T19:58:12.283537",
-		"url": "https:\/\/www.epa.gov\/enviroatlas\/enviroatlas-data",
+		"url": "https://www.epa.gov/enviroatlas/enviroatlas-data",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 2,
@@ -127,7 +127,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2016-03-31T19:58:12.283545",
-		"url": "https:\/\/www.epa.gov\/enviroatlas",
+		"url": "https://www.epa.gov/enviroatlas",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 3,
@@ -174,7 +174,7 @@
 	"name": "enviroatlas-atmospheric-nitrogen-deposition-by-12-digit-huc-for-the-conterminous-united-s-2002",
 	"isopen": false,
 	"url": null,
-	"notes": "This EnviroAtlas dataset includes annual nitrogen and sulfur deposition within each 12-digit HUC subwatershed for the year 2002. Values are provided for total oxidized nitrogen (HNO3, NO, NO2, N2O5, NH3, HONO, PAN, organic nitrogen, and particulate NO3), oxidized nitrogen wet deposition, oxidized nitrogen dry deposition, total reduced nitrogen (NH3 and particulate NH4), reduced nitrogen dry deposition, reduced nitrogen wet deposition, total dry nitrogen deposition, total wet nitrogen deposition, total nitrogen deposition (wet+dry), total sulfur (SO2 + particulate SO4) dry deposition, total sulfur wet deposition, and total sulfur deposition. The dataset is based on output from the Community Multiscale Air Quality modeling system (CMAQ) v5.0.2 run using the bidirectional flux option for the 12-km grid size for the US, Canada, and Mexico. The CMAQ output has been post-processed to adjust the wet deposition for errors in the location and amount of precipitation and for regional biases in the TNO3 (HNO3 + NO3), NHx (NH4 + NH3), and sulfate wet deposition. Model predicted values of dry deposition were not adjusted. This dataset was produced by the US EPA to support research and online mapping activities related to EnviroAtlas. EnviroAtlas (https:\/\/www.epa.gov\/enviroatlas) allows the user to interact with a web-based, easy-to-use, mapping application to view and analyze multiple ecosystem services for the contiguous United States. The dataset is available as downloadable data (https:\/\/edg.epa.gov\/data\/Public\/ORD\/EnviroAtlas) or as an EnviroAtlas map service. Additional descriptive information about each attribute in this dataset can be found in its associated EnviroAtlas Fact Sheet (https:\/\/www.epa.gov\/enviroatlas\/enviroatlas-fact-sheets).",
+	"notes": "This EnviroAtlas dataset includes annual nitrogen and sulfur deposition within each 12-digit HUC subwatershed for the year 2002. Values are provided for total oxidized nitrogen (HNO3, NO, NO2, N2O5, NH3, HONO, PAN, organic nitrogen, and particulate NO3), oxidized nitrogen wet deposition, oxidized nitrogen dry deposition, total reduced nitrogen (NH3 and particulate NH4), reduced nitrogen dry deposition, reduced nitrogen wet deposition, total dry nitrogen deposition, total wet nitrogen deposition, total nitrogen deposition (wet+dry), total sulfur (SO2 + particulate SO4) dry deposition, total sulfur wet deposition, and total sulfur deposition. The dataset is based on output from the Community Multiscale Air Quality modeling system (CMAQ) v5.0.2 run using the bidirectional flux option for the 12-km grid size for the US, Canada, and Mexico. The CMAQ output has been post-processed to adjust the wet deposition for errors in the location and amount of precipitation and for regional biases in the TNO3 (HNO3 + NO3), NHx (NH4 + NH3), and sulfate wet deposition. Model predicted values of dry deposition were not adjusted. This dataset was produced by the US EPA to support research and online mapping activities related to EnviroAtlas. EnviroAtlas (https://www.epa.gov/enviroatlas) allows the user to interact with a web-based, easy-to-use, mapping application to view and analyze multiple ecosystem services for the contiguous United States. The dataset is available as downloadable data (https://edg.epa.gov/data/Public/ORD/EnviroAtlas) or as an EnviroAtlas map service. Additional descriptive information about each attribute in this dataset can be found in its associated EnviroAtlas Fact Sheet (https://www.epa.gov/enviroatlas/enviroatlas-fact-sheets).",
 	"license_title": null,
 	"extras": [{
 		"key": "bbox-east-long",
@@ -206,7 +206,7 @@
 	},
 	{
 		"key": "__category_tag_aa0c01c9-d292-4dc1-8fec-b10c1bb629a9",
-		"value": "[\"Water\"]"
+		"value": "["Water"]"
 	},
 	{
 		"key": "spatial-reference-system",
@@ -214,7 +214,7 @@
 	},
 	{
 		"key": "spatial",
-		"value": "{\"type\": \"Polygon\", \"coordinates\": [[[-128.02839229, 22.7348894], [-65.20336449, 22.7348894], [-65.20336449, 51.6773602], [-128.02839229, 51.6773602], [-128.02839229, 22.7348894]]]}"
+		"value": "{"type": "Polygon", "coordinates": [[[-128.02839229, 22.7348894], [-65.20336449, 22.7348894], [-65.20336449, 51.6773602], [-128.02839229, 51.6773602], [-128.02839229, 22.7348894]]]}"
 	},
 	{
 		"key": "progress",
@@ -222,7 +222,7 @@
 	},
 	{
 		"key": "access_constraints",
-		"value": "[\"Use Constraints: None. Please check sources, scale, accuracy, currentness and other available information. Please confirm that you are using the most recent copy of both data and metadata. Acknowledgement of the EPA would be appreciated.\", \"Access Constraints: None.\"]"
+		"value": "["Use Constraints: None. Please check sources, scale, accuracy, currentness and other available information. Please confirm that you are using the most recent copy of both data and metadata. Acknowledgement of the EPA would be appreciated.", "Access Constraints: None."]"
 	},
 	{
 		"key": "temporal-extent-begin",
@@ -230,7 +230,7 @@
 	},
 	{
 		"key": "licence_url",
-		"value": "https:\/\/edg.epa.gov\/EPA_Data_License.htm"
+		"value": "https://edg.epa.gov/EPA_Data_License.htm"
 	},
 	{
 		"key": "contact-email",
@@ -246,11 +246,11 @@
 	},
 	{
 		"key": "dataset-reference-date",
-		"value": "[{\"type\": \"publication\", \"value\": \"2013-11-14\"}]"
+		"value": "[{"type": "publication", "value": "2013-11-14"}]"
 	},
 	{
 		"key": "__category_tag_3b2f2e70-3e81-4aa7-8305-a534cd6af6c8",
-		"value": "[\"Atmospheric, Earth and Ocean Sciences\",\"Atmospheric Chemistry\"]"
+		"value": "["Atmospheric, Earth and Ocean Sciences","Atmospheric Chemistry"]"
 	},
 	{
 		"key": "frequency-of-update",
@@ -258,7 +258,7 @@
 	},
 	{
 		"key": "licence",
-		"value": "[\"https:\/\/edg.epa.gov\/EPA_Data_License.htm\"]"
+		"value": "["https://edg.epa.gov/EPA_Data_License.htm"]"
 	},
 	{
 		"key": "metadata_type",
@@ -266,7 +266,7 @@
 	},
 	{
 		"key": "responsible-party",
-		"value": "[{\"name\": \"US Environmental Protection Agency, Research Triangle Park\", \"roles\": [\"pointOfContact\"]}]"
+		"value": "[{"name": "US Environmental Protection Agency, Research Triangle Park", "roles": ["pointOfContact"]}]"
 	},
 	{
 		"key": "temporal-extent-end",
@@ -312,7 +312,7 @@
 		"revision_timestamp": "2014-01-16T18:58:42.895981",
 		"is_organization": true,
 		"state": "active",
-		"image_url": "http:\/\/edg.epa.gov\/EPALogo.svg",
+		"image_url": "http://edg.epa.gov/EPALogo.svg",
 		"revision_id": "f0e4b475-7424-4ce0-9a22-412e7e595154",
 		"type": "organization",
 		"id": "6d90e48d-3076-4327-b2f4-c33919f374d5",

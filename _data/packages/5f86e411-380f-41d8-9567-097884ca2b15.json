@@ -37,7 +37,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2016-05-30T23:02:00.511093",
-		"url": "https:\/\/coast.noaa.gov\/dataviewer\/#\/lidar\/search\/where:ID=4966",
+		"url": "https://coast.noaa.gov/dataviewer/#/lidar/search/where:ID=4966",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 0,
@@ -67,7 +67,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2016-05-30T23:02:00.511120",
-		"url": "https:\/\/coast.noaa.gov\/htdata\/lidar1_z\/geoid12b\/data\/4966",
+		"url": "https://coast.noaa.gov/htdata/lidar1_z/geoid12b/data/4966",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 1,
@@ -97,7 +97,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2016-05-30T23:02:00.511129",
-		"url": "https:\/\/coast.noaa.gov\/dataviewer",
+		"url": "https://coast.noaa.gov/dataviewer",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 2,
@@ -127,7 +127,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2016-05-30T23:02:00.511136",
-		"url": "https:\/\/coast.noaa.gov",
+		"url": "https://coast.noaa.gov",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 3,
@@ -147,7 +147,7 @@
 	"name": "2014-mobile-county-al-lidar",
 	"isopen": false,
 	"url": null,
-	"notes": "Atlantic was contracted to acquire high resolution topographic LiDAR (Light Detection and Ranging) data located in Mobile County, Alabama. The intent was to collect one (1) Area of Interest (AOI) that encompasses Mobile County. The total client defined AOI was 1,402 square miles or 3,361 square kilometers. The data were collected from January 12 - 22, 2014. Classifications of data available from NOAA OCM are: 1 (Unclassified, 2 (Ground), 3 (Low Vegetation), 7 (Low Noise), 8 (Model Key Points), 9 (Water), 10 (Ignored Ground, Breakline Proximity). Low vegetation points were removed as they were incorrect and not required for delivery. Digital Elevation Models (DEMs) created from this las data are available for download. They are available at: ftp:\/\/ftp.coast.noaa.gov\/pub\/DigitalCoast\/lidar1_z\/geoid12b\/data\/4966\/supplemental\/dems Breaklines created from this las data are also available for download. They are available at: ftp:\/\/ftp.coast.noaa.gov\/pub\/DigitalCoast\/lidar1_z\/geoid12b\/data\/4966\/supplemental\/breaklines",
+	"notes": "Atlantic was contracted to acquire high resolution topographic LiDAR (Light Detection and Ranging) data located in Mobile County, Alabama. The intent was to collect one (1) Area of Interest (AOI) that encompasses Mobile County. The total client defined AOI was 1,402 square miles or 3,361 square kilometers. The data were collected from January 12 - 22, 2014. Classifications of data available from NOAA OCM are: 1 (Unclassified, 2 (Ground), 3 (Low Vegetation), 7 (Low Noise), 8 (Model Key Points), 9 (Water), 10 (Ignored Ground, Breakline Proximity). Low vegetation points were removed as they were incorrect and not required for delivery. Digital Elevation Models (DEMs) created from this las data are available for download. They are available at: ftp://ftp.coast.noaa.gov/pub/DigitalCoast/lidar1_z/geoid12b/data/4966/supplemental/dems Breaklines created from this las data are also available for download. They are available at: ftp://ftp.coast.noaa.gov/pub/DigitalCoast/lidar1_z/geoid12b/data/4966/supplemental/breaklines",
 	"license_title": null,
 	"extras": [{
 		"key": "bbox-east-long",
@@ -175,7 +175,7 @@
 	},
 	{
 		"key": "graphic-preview-file",
-		"value": "https:\/\/coast.noaa.gov\/htdata\/lidar1_z\/geoid12b\/data\/4966\/supplemental\/al2014_mobile_county_m4966.kmz"
+		"value": "https://coast.noaa.gov/htdata/lidar1_z/geoid12b/data/4966/supplemental/al2014_mobile_county_m4966.kmz"
 	},
 	{
 		"key": "metadata-language",
@@ -191,7 +191,7 @@
 	},
 	{
 		"key": "spatial",
-		"value": "{\"type\": \"Polygon\", \"coordinates\": [[[-88.441916, 30.194669], [-87.919427, 30.194669], [-87.919427, 31.203599], [-88.441916, 31.203599], [-88.441916, 30.194669]]]}"
+		"value": "{"type": "Polygon", "coordinates": [[[-88.441916, 30.194669], [-87.919427, 30.194669], [-87.919427, 31.203599], [-88.441916, 31.203599], [-88.441916, 30.194669]]]}"
 	},
 	{
 		"key": "progress",
@@ -199,7 +199,7 @@
 	},
 	{
 		"key": "access_constraints",
-		"value": "[\"Use Constraints: Users should be aware that temporal changes may have occurred since this data set was collected and some parts of this data may no longer represent actual surface conditions. Users should not use this data for critical applications without a full awareness of its limitations. These data depict the heights at the time of the survey and are only accurate for that time.\", \"Access Constraints: None\"]"
+		"value": "["Use Constraints: Users should be aware that temporal changes may have occurred since this data set was collected and some parts of this data may no longer represent actual surface conditions. Users should not use this data for critical applications without a full awareness of its limitations. These data depict the heights at the time of the survey and are only accurate for that time.", "Access Constraints: None"]"
 	},
 	{
 		"key": "temporal-extent-begin",
@@ -219,7 +219,7 @@
 	},
 	{
 		"key": "dataset-reference-date",
-		"value": "[{\"type\": \"publication\", \"value\": \"2015-12-09\"}]"
+		"value": "[{"type": "publication", "value": "2015-12-09"}]"
 	},
 	{
 		"key": "graphic-preview-description",
@@ -231,7 +231,7 @@
 	},
 	{
 		"key": "licence",
-		"value": "[\"Any conclusions drawn from the analysis of this information are not the responsibility of Atlantic, City and County of Mobile, NOAA, the Office for Coastal Management or its partners.\"]"
+		"value": "["Any conclusions drawn from the analysis of this information are not the responsibility of Atlantic, City and County of Mobile, NOAA, the Office for Coastal Management or its partners."]"
 	},
 	{
 		"key": "metadata_type",
@@ -239,7 +239,7 @@
 	},
 	{
 		"key": "responsible-party",
-		"value": "[{\"name\": \"City of Mobile\", \"roles\": [\"pointOfContact\"]}]"
+		"value": "[{"name": "City of Mobile", "roles": ["pointOfContact"]}]"
 	},
 	{
 		"key": "temporal-extent-end",
@@ -255,7 +255,7 @@
 	},
 	{
 		"package_id": "5f86e411-380f-41d8-9567-097884ca2b15",
-		"value": "20140122, topography, mobile county, 20140112, lidar, bathymetry\/topography, alabama, las",
+		"value": "20140122, topography, mobile county, 20140112, lidar, bathymetry/topography, alabama, las",
 		"revision_timestamp": "2015-12-20T19:01:28.614590",
 		"state": "active",
 		"key": "tags",
@@ -285,7 +285,7 @@
 		"revision_timestamp": "2013-03-25T23:05:12.923863",
 		"is_organization": true,
 		"state": "active",
-		"image_url": "https:\/\/fortress.wa.gov\/dfw\/score\/score\/images\/noaa_logo.png",
+		"image_url": "https://fortress.wa.gov/dfw/score/score/images/noaa_logo.png",
 		"revision_id": "c6d43080-22e1-405e-a83d-f2a512d9e867",
 		"type": "organization",
 		"id": "e811f0b4-451f-4896-9e8f-fc6802837819",

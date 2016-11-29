@@ -36,7 +36,7 @@
 		"cache_url": null,
 		"name": "NDGIS web site",
 		"created": "2015-01-09T11:58:04.419527",
-		"url": "http:\/\/www.nd.gov\/gis",
+		"url": "http://www.nd.gov/gis",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 0,
@@ -65,7 +65,7 @@
 		"cache_url": null,
 		"name": "Download Human Service Regions",
 		"created": "2015-01-09T11:58:04.419555",
-		"url": "http:\/\/www.nd.gov\/gis\/apps\/DataDownload\/?clipping=Full&coord=ND83-SF&format=SHAPE&layers=NDHUB.HUMANSERVICEREGIONS",
+		"url": "http://www.nd.gov/gis/apps/DataDownload/?clipping=Full&coord=ND83-SF&format=SHAPE&layers=NDHUB.HUMANSERVICEREGIONS",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 1,
@@ -94,7 +94,7 @@
 		"cache_url": null,
 		"name": "Human Service Regions",
 		"created": "2015-01-09T11:58:04.419566",
-		"url": "http:\/\/ndgishub.nd.gov\/arcgis\/services\/All_GovtBoundaries\/MapServer\/WMSServer?",
+		"url": "http://ndgishub.nd.gov/arcgis/services/All_GovtBoundaries/MapServer/WMSServer?",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 2,
@@ -123,7 +123,7 @@
 		"cache_url": null,
 		"name": "Esri REST including WMS",
 		"created": "2015-01-09T11:58:04.419572",
-		"url": "http:\/\/ndgishub.nd.gov\/ArcGIS\/rest\/services\/All_GovtBoundaries\/MapServer",
+		"url": "http://ndgishub.nd.gov/ArcGIS/rest/services/All_GovtBoundaries/MapServer",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 3,
@@ -152,7 +152,7 @@
 		"cache_url": null,
 		"name": "Esri REST including WFS and KML",
 		"created": "2015-01-09T11:58:04.419579",
-		"url": "http:\/\/ndgishub.nd.gov\/ArcGIS\/rest\/services\/Features\/All_GovtBoundaries\/MapServer",
+		"url": "http://ndgishub.nd.gov/ArcGIS/rest/services/Features/All_GovtBoundaries/MapServer",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 4,
@@ -229,7 +229,7 @@
 	},
 	{
 		"key": "spatial",
-		"value": "{\"type\": \"Polygon\", \"coordinates\": [[[-104.5, 45.5], [-96.5, 45.5], [-96.5, 49.5], [-104.5, 49.5], [-104.5, 45.5]]]}"
+		"value": "{"type": "Polygon", "coordinates": [[[-104.5, 45.5], [-96.5, 45.5], [-96.5, 49.5], [-104.5, 49.5], [-104.5, 45.5]]]}"
 	},
 	{
 		"key": "progress",
@@ -237,7 +237,7 @@
 	},
 	{
 		"key": "access_constraints",
-		"value": "[\"The resultant coverage should be much better than a 1:100,000 scale coverage, very close to 1:24000 scale, but may not meet Federal 1:24,000 scale accuracy standards.\", \"The State of North Dakota has compiled this data according to conventional cartographic standards, using what is thought to be the most reliable information available.  This data is intended to make results of research available at the earliest possible date, but is not intended to constitute final or formal publication.  The State of North Dakota makes every effort to provide virus-free files but does not guarantee uncorrupted files.  The State of North Dakota does not guarantee this data to be free from errors, inaccuracies, or viruses, and disclaims any responsibility or liability for interpretations or decisions based on this data.\"]"
+		"value": "["The resultant coverage should be much better than a 1:100,000 scale coverage, very close to 1:24000 scale, but may not meet Federal 1:24,000 scale accuracy standards.", "The State of North Dakota has compiled this data according to conventional cartographic standards, using what is thought to be the most reliable information available.  This data is intended to make results of research available at the earliest possible date, but is not intended to constitute final or formal publication.  The State of North Dakota makes every effort to provide virus-free files but does not guarantee uncorrupted files.  The State of North Dakota does not guarantee this data to be free from errors, inaccuracies, or viruses, and disclaims any responsibility or liability for interpretations or decisions based on this data."]"
 	},
 	{
 		"key": "contact-email",
@@ -253,7 +253,7 @@
 	},
 	{
 		"key": "dataset-reference-date",
-		"value": "[{\"type\": \"publication\", \"value\": \"2014-05-28T03:00:00\"}]"
+		"value": "[{"type": "publication", "value": "2014-05-28T03:00:00"}]"
 	},
 	{
 		"key": "graphic-preview-description",
@@ -273,7 +273,7 @@
 	},
 	{
 		"key": "responsible-party",
-		"value": "[{\"name\": \"ND Department of Health-Division of Water Quality\", \"roles\": [\"originator\"]}]"
+		"value": "[{"name": "ND Department of Health-Division of Water Quality", "roles": ["originator"]}]"
 	},
 	{
 		"key": "spatial-data-service-type",
@@ -308,14 +308,14 @@
 		"value": "North Dakota GIS Hub Data Portal"
 	}],
 	"organization": {
-		"description": "The GIS Hub is the state source for GIS - data, services, and information.  More information can be found at www.nd.gov\/gis.",
+		"description": "The GIS Hub is the state source for GIS - data, services, and information.  More information can be found at www.nd.gov/gis.",
 		"created": "2013-03-14T03:44:44.340717",
 		"title": "State of North Dakota",
 		"name": "nd-gov",
 		"revision_timestamp": "2013-07-15T16:27:30.098476",
 		"is_organization": true,
 		"state": "active",
-		"image_url": "http:\/\/www.nd.gov\/gis\/images\/ndgis-logo.gif",
+		"image_url": "http://www.nd.gov/gis/images/ndgis-logo.gif",
 		"revision_id": "27517bb9-815c-4d4f-b45b-b88b6316697b",
 		"type": "organization",
 		"id": "1c782de6-9f1f-4427-93fd-33732e29970f",

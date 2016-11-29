@@ -37,7 +37,7 @@
 		"cache_url": null,
 		"name": "Zip File",
 		"created": "2016-05-30T21:41:52.138200",
-		"url": "ftp:\/\/ftp.coast.noaa.gov\/pub\/benthic\/Single_Beam_Acoustic_Data\/FL_ApalachicolaBay_rox.zip",
+		"url": "ftp://ftp.coast.noaa.gov/pub/benthic/Single_Beam_Acoustic_Data/FL_ApalachicolaBay_rox.zip",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 0,
@@ -67,7 +67,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2016-05-30T21:41:52.138237",
-		"url": "https:\/\/coast.noaa.gov\/",
+		"url": "https://coast.noaa.gov/",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 1,
@@ -89,7 +89,7 @@
 		"revision_timestamp": "2013-03-25T23:05:12.923863",
 		"is_organization": true,
 		"state": "active",
-		"image_url": "https:\/\/fortress.wa.gov\/dfw\/score\/score\/images\/noaa_logo.png",
+		"image_url": "https://fortress.wa.gov/dfw/score/score/images/noaa_logo.png",
 		"revision_id": "c6d43080-22e1-405e-a83d-f2a512d9e867",
 		"type": "organization",
 		"id": "e811f0b4-451f-4896-9e8f-fc6802837819",
@@ -104,7 +104,7 @@
 	"owner_org": "e811f0b4-451f-4896-9e8f-fc6802837819",
 	"extras": [{
 		"key": "responsible-party",
-		"value": "[{\"name\": \"NOAA Office for Coastal Management\", \"roles\": [\"pointOfContact\"]}]"
+		"value": "[{"name": "NOAA Office for Coastal Management", "roles": ["pointOfContact"]}]"
 	},
 	{
 		"key": "contact-email",
@@ -124,7 +124,7 @@
 	},
 	{
 		"key": "dataset-reference-date",
-		"value": "[{\"type\": \"publication\", \"value\": \"2001-05-09\"}]"
+		"value": "[{"type": "publication", "value": "2001-05-09"}]"
 	},
 	{
 		"key": "resource-type",
@@ -152,7 +152,7 @@
 	},
 	{
 		"key": "licence",
-		"value": "[\"While every effort has been made to ensure that these data are accurate and reliable within limits of the state of the art, NOAA will not assume any liability for damages caused by any inaccuracies in these data, or failure in their use.\"]"
+		"value": "["While every effort has been made to ensure that these data are accurate and reliable within limits of the state of the art, NOAA will not assume any liability for damages caused by any inaccuracies in these data, or failure in their use."]"
 	},
 	{
 		"key": "metadata_type",
@@ -164,7 +164,7 @@
 	},
 	{
 		"key": "spatial",
-		"value": "{\"type\": \"Polygon\", \"coordinates\": [[[-85.221802, 29.597982], [-84.733803, 29.597982], [-84.733803, 29.805416], [-85.221802, 29.805416], [-85.221802, 29.597982]]]}"
+		"value": "{"type": "Polygon", "coordinates": [[[-85.221802, 29.597982], [-84.733803, 29.597982], [-84.733803, 29.805416], [-85.221802, 29.805416], [-85.221802, 29.597982]]]}"
 	},
 	{
 		"key": "guid",
@@ -176,7 +176,7 @@
 	},
 	{
 		"key": "access_constraints",
-		"value": "[\"Use Constraints: It is the responsibility of the user to determine the appropriate use of the data product. The depth data has not been corrected and should not be used for navigation.\", \"Access Constraints: None\"]"
+		"value": "["Use Constraints: It is the responsibility of the user to determine the appropriate use of the data product. The depth data has not been corrected and should not be used for navigation.", "Access Constraints: None"]"
 	},
 	{
 		"key": "spatial_harvester",

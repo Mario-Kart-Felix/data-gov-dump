@@ -37,7 +37,7 @@
 		"cache_url": null,
 		"name": "Zip File",
 		"created": "2016-03-04T15:46:59.805718",
-		"url": "ftp:\/\/ftp.dfg.ca.gov\/BDB\/GIS\/BIOS\/Public_Datasets\/200_299\/ds292.zip",
+		"url": "ftp://ftp.dfg.ca.gov/BDB/GIS/BIOS/Public_Datasets/200_299/ds292.zip",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 0,
@@ -67,7 +67,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2016-03-04T15:46:59.805771",
-		"url": "http:\/\/bios.dfg.ca.gov\/",
+		"url": "http://bios.dfg.ca.gov/",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 1,
@@ -87,11 +87,11 @@
 	"name": "delta-vegetation-and-land-use-ds29205ccd",
 	"isopen": false,
 	"url": null,
-	"notes": "Vegetation and land use are mapped for the approximately 725,000 acres constituting the Legal Delta portion of the Sacramento and San Joaquin River Delta area. Vegetation mapping is to sub-alliance to super-alliance level (based on the National Vegetation Classification Standard, see http:\/\/biology.usgs.gov\/npsveg\/nvcs.html ); land use is mapped to Anderson Level 2 classification ( see http:\/\/landcover.usgs.gov\/pdf\/anderson.pdf ). The map classification is based on a vegetation classification derived from field data collected in summer and fall of 2005 produced by the Vegetation Classification and Mapping Program of the Department of Fish and Game. The 2002 Stockton, Sacramento, and Delta High Resolution (1-foot) Orthoimagery and 2005 NAIP (1-meter) orthoimagery served as the base. Natural vegetation comprises approximately 17% of the Delta study area, 65% is agriculture and pasture, 10% is urban\/other and 8% is open water.",
+	"notes": "Vegetation and land use are mapped for the approximately 725,000 acres constituting the Legal Delta portion of the Sacramento and San Joaquin River Delta area. Vegetation mapping is to sub-alliance to super-alliance level (based on the National Vegetation Classification Standard, see http://biology.usgs.gov/npsveg/nvcs.html ); land use is mapped to Anderson Level 2 classification ( see http://landcover.usgs.gov/pdf/anderson.pdf ). The map classification is based on a vegetation classification derived from field data collected in summer and fall of 2005 produced by the Vegetation Classification and Mapping Program of the Department of Fish and Game. The 2002 Stockton, Sacramento, and Delta High Resolution (1-foot) Orthoimagery and 2005 NAIP (1-meter) orthoimagery served as the base. Natural vegetation comprises approximately 17% of the Delta study area, 65% is agriculture and pasture, 10% is urban/other and 8% is open water.",
 	"license_title": null,
 	"extras": [{
 		"key": "responsible-party",
-		"value": "[{\"name\": \"California Department of Fish and Game\", \"roles\": [\"pointOfContact\"]}]"
+		"value": "[{"name": "California Department of Fish and Game", "roles": ["pointOfContact"]}]"
 	},
 	{
 		"key": "contact-email",
@@ -111,7 +111,7 @@
 	},
 	{
 		"key": "dataset-reference-date",
-		"value": "[{\"type\": \"publication\", \"value\": \"2011-12-05\"}]"
+		"value": "[{"type": "publication", "value": "2011-12-05"}]"
 	},
 	{
 		"key": "resource-type",
@@ -139,7 +139,7 @@
 	},
 	{
 		"key": "licence",
-		"value": "[\"See access and use constraints information.\"]"
+		"value": "["See access and use constraints information."]"
 	},
 	{
 		"key": "metadata_type",
@@ -151,7 +151,7 @@
 	},
 	{
 		"key": "spatial",
-		"value": "{\"type\": \"Polygon\", \"coordinates\": [[[-121.899008, 37.616174], [-121.195494, 37.616174], [-121.195494, 38.596079], [-121.899008, 38.596079], [-121.899008, 37.616174]]]}"
+		"value": "{"type": "Polygon", "coordinates": [[[-121.899008, 37.616174], [-121.195494, 37.616174], [-121.195494, 38.596079], [-121.899008, 38.596079], [-121.899008, 37.616174]]]}"
 	},
 	{
 		"key": "guid",
@@ -163,7 +163,7 @@
 	},
 	{
 		"key": "access_constraints",
-		"value": "[\"Use Constraints: Recognition that this dataset was created by Aerial Information Systems, Inc. for the California Department of Fish and Game. We would also appreciate corrections to the map sent to VegCAMP. Contact Diana Hickson dhickson@dfg.ca.gov\", \"Access Constraints: None\"]"
+		"value": "["Use Constraints: Recognition that this dataset was created by Aerial Information Systems, Inc. for the California Department of Fish and Game. We would also appreciate corrections to the map sent to VegCAMP. Contact Diana Hickson dhickson@dfg.ca.gov", "Access Constraints: None"]"
 	},
 	{
 		"key": "spatial_harvester",
@@ -205,7 +205,7 @@
 		"revision_timestamp": "2013-05-31T17:51:13.706377",
 		"is_organization": true,
 		"state": "active",
-		"image_url": "http:\/\/www.ca.gov\/images\/template2012\/header_ca.gov.png",
+		"image_url": "http://www.ca.gov/images/template2012/header_ca.gov.png",
 		"revision_id": "ad94cda4-9394-44d0-9c37-573dc3c47c9a",
 		"type": "organization",
 		"id": "467d900f-8a42-452d-9906-6610dd1a767f",

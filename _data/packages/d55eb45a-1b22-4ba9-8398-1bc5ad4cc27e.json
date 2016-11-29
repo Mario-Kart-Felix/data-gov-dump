@@ -36,7 +36,7 @@
 		"cache_url": null,
 		"name": "ftp",
 		"created": "2016-04-18T15:53:20.842649",
-		"url": "ftp:\/\/tgftp.nws.noaa.gov\/data\/raw\/ua\/",
+		"url": "ftp://tgftp.nws.noaa.gov/data/raw/ua/",
 		"webstore_url": null,
 		"resource_locator_function": "download",
 		"position": 0,
@@ -65,7 +65,7 @@
 		"cache_url": null,
 		"name": "http",
 		"created": "2016-04-18T15:53:20.842673",
-		"url": "http:\/\/weather.noaa.gov\/pub\/data\/raw\/ua\/",
+		"url": "http://weather.noaa.gov/pub/data/raw/ua/",
 		"webstore_url": null,
 		"resource_locator_function": "download",
 		"position": 1,
@@ -94,7 +94,7 @@
 		"cache_url": null,
 		"name": "AWC",
 		"created": "2016-04-18T15:53:20.842681",
-		"url": "http:\/\/www.aviationweather.gov\/airep",
+		"url": "http://www.aviationweather.gov/airep",
 		"webstore_url": null,
 		"resource_locator_function": "information",
 		"position": 2,
@@ -123,7 +123,7 @@
 		"cache_url": null,
 		"name": "AIREP",
 		"created": "2016-04-18T15:53:20.842689",
-		"url": "http:\/\/www.aviationweather.gov\/airep",
+		"url": "http://www.aviationweather.gov/airep",
 		"webstore_url": null,
 		"resource_locator_function": "download",
 		"position": 3,
@@ -152,7 +152,7 @@
 		"cache_url": null,
 		"name": "WXXM Schema",
 		"created": "2016-04-18T15:53:20.842696",
-		"url": "http:\/\/www.wxxm.aero\/gallery\/content\/public\/WXXM_Documentation\/Documentation\/index.html",
+		"url": "http://www.wxxm.aero/gallery/content/public/WXXM_Documentation/Documentation/index.html",
 		"webstore_url": null,
 		"resource_locator_function": "download",
 		"position": 4,
@@ -181,7 +181,7 @@
 		"cache_url": null,
 		"name": "AIREP",
 		"created": "2016-04-18T15:53:20.842703",
-		"url": "http:\/\/www.aviationweather.gov\/airep",
+		"url": "http://www.aviationweather.gov/airep",
 		"webstore_url": null,
 		"resource_locator_function": "download",
 		"position": 5,
@@ -203,7 +203,7 @@
 		"revision_timestamp": "2013-03-25T23:05:12.923863",
 		"is_organization": true,
 		"state": "active",
-		"image_url": "https:\/\/fortress.wa.gov\/dfw\/score\/score\/images\/noaa_logo.png",
+		"image_url": "https://fortress.wa.gov/dfw/score/score/images/noaa_logo.png",
 		"revision_id": "c6d43080-22e1-405e-a83d-f2a512d9e867",
 		"type": "organization",
 		"id": "e811f0b4-451f-4896-9e8f-fc6802837819",
@@ -254,7 +254,7 @@
 	},
 	{
 		"key": "spatial",
-		"value": "{\"type\": \"Polygon\", \"coordinates\": [[[-180.0, 15.0], [-67.0, 15.0], [-67.0, 75.0], [-180.0, 75.0], [-180.0, 15.0]]]}"
+		"value": "{"type": "Polygon", "coordinates": [[[-180.0, 15.0], [-67.0, 15.0], [-67.0, 75.0], [-180.0, 75.0], [-180.0, 15.0]]]}"
 	},
 	{
 		"key": "progress",
@@ -278,7 +278,7 @@
 	},
 	{
 		"key": "dataset-reference-date",
-		"value": "[{\"type\": \"creation\", \"value\": \"2011-11-11\"}]"
+		"value": "[{"type": "creation", "value": "2011-11-11"}]"
 	},
 	{
 		"key": "frequency-of-update",
@@ -286,7 +286,7 @@
 	},
 	{
 		"key": "licence",
-		"value": "[\"Disclaimer - While every effort has been made to ensure that these data are accurate and reliable within the limits of the current state of the art, NOAA cannot assume liability for any damages caused by any errors or omissions in the data, nor as a result of the failure of the data to function on a particular system. NOAA makes no warranty, expressed or implied, nor does the fact of distribution constitute such a warranty.\"]"
+		"value": "["Disclaimer - While every effort has been made to ensure that these data are accurate and reliable within the limits of the current state of the art, NOAA cannot assume liability for any damages caused by any errors or omissions in the data, nor as a result of the failure of the data to function on a particular system. NOAA makes no warranty, expressed or implied, nor does the fact of distribution constitute such a warranty."]"
 	},
 	{
 		"key": "metadata_type",
@@ -294,7 +294,7 @@
 	},
 	{
 		"key": "responsible-party",
-		"value": "[{\"name\": \"\", \"roles\": [\"pointOfContact\"]}]"
+		"value": "[{"name": "", "roles": ["pointOfContact"]}]"
 	},
 	{
 		"key": "spatial-data-service-type",
@@ -306,7 +306,7 @@
 	},
 	{
 		"key": "tags",
-		"value": "wind_speed, wind_from_direction, none, airep, ua[a-z][a-z][0-9][0-9] [a-z][a-z][a-z][a-z], doc\/noaa\/nws\/toc\/nwstg, flight level, wind speed\/wind direction, cloud fraction, air_temperature, upper level winds, winds, turbulence, upper air temperature, doc\/noaa\/nws\/ncep\/awc",
+		"value": "wind_speed, wind_from_direction, none, airep, ua[a-z][a-z][0-9][0-9] [a-z][a-z][a-z][a-z], doc/noaa/nws/toc/nwstg, flight level, wind speed/wind direction, cloud fraction, air_temperature, upper level winds, winds, turbulence, upper air temperature, doc/noaa/nws/ncep/awc",
 		"__extras": {
 			"revision_id": "70a0fdc6-9f87-48d8-80f2-5d9887d63485",
 			"package_id": "d55eb45a-1b22-4ba9-8398-1bc5ad4cc27e"

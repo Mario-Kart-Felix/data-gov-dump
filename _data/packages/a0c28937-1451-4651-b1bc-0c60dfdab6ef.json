@@ -36,7 +36,7 @@
 		"cache_url": null,
 		"name": "Raster Digital Data Set",
 		"created": "2016-10-05T05:43:56.912230",
-		"url": "http:\/\/www.boem.gov\/Renewable-Energy-GIS-Data\/",
+		"url": "http://www.boem.gov/Renewable-Energy-GIS-Data/",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 0,
@@ -66,7 +66,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2016-10-05T05:43:56.912258",
-		"url": "http:\/\/www.boem.gov\/Renewable-Energy-GIS-Data\/",
+		"url": "http://www.boem.gov/Renewable-Energy-GIS-Data/",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 1,
@@ -96,7 +96,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2016-10-05T05:43:56.912269",
-		"url": "http:\/\/www.boem.gov\/FMP\/",
+		"url": "http://www.boem.gov/FMP/",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 2,
@@ -126,7 +126,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2016-10-05T05:43:56.912279",
-		"url": "http:\/\/www.boem.gov\/Gear\/",
+		"url": "http://www.boem.gov/Gear/",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 3,
@@ -156,7 +156,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2016-10-05T05:43:56.912319",
-		"url": "http:\/\/www.boem.gov\/Port\/",
+		"url": "http://www.boem.gov/Port/",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 4,
@@ -186,7 +186,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2016-10-05T05:43:56.912329",
-		"url": "http:\/\/www.boem.gov\/Species\/",
+		"url": "http://www.boem.gov/Species/",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 5,
@@ -216,7 +216,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2016-10-05T05:43:56.912338",
-		"url": "http:\/\/www.boem.gov\/State\/",
+		"url": "http://www.boem.gov/State/",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 6,
@@ -246,7 +246,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2016-10-05T05:43:56.912347",
-		"url": "http:\/\/www.boem.gov\/Metadata\/",
+		"url": "http://www.boem.gov/Metadata/",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 7,
@@ -276,7 +276,7 @@
 		"cache_url": null,
 		"name": "Esri Rest API Endpoint",
 		"created": "2016-10-05T05:43:56.912355",
-		"url": "https:\/\/coast.noaa.gov\/arcgis\/rest\/services\/MarineCadastre\/BOEM_Layers\/MapServer\/7",
+		"url": "https://coast.noaa.gov/arcgis/rest/services/MarineCadastre/BOEM_Layers/MapServer/7",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 8,
@@ -345,7 +345,7 @@
 	},
 	{
 		"key": "spatial",
-		"value": "{\"type\": \"Polygon\", \"coordinates\": [[[-81.189963545, 29.714579579], [-63.665257444, 29.714579579], [-63.665257444, 47.128285198], [-81.189963545, 47.128285198], [-81.189963545, 29.714579579]]]}"
+		"value": "{"type": "Polygon", "coordinates": [[[-81.189963545, 29.714579579], [-63.665257444, 29.714579579], [-63.665257444, 47.128285198], [-81.189963545, 47.128285198], [-81.189963545, 29.714579579]]]}"
 	},
 	{
 		"key": "progress",
@@ -353,7 +353,7 @@
 	},
 	{
 		"key": "access_constraints",
-		"value": "[\"Use Constraints: None. Users are advised to read the data set's metadata thoroughly to understand appropriate use and data limitations.\", \"Access Constraints: None. Please see 'Distribution Info' for details.\"]"
+		"value": "["Use Constraints: None. Users are advised to read the data set's metadata thoroughly to understand appropriate use and data limitations.", "Access Constraints: None. Please see 'Distribution Info' for details."]"
 	},
 	{
 		"key": "temporal-extent-begin",
@@ -373,7 +373,7 @@
 	},
 	{
 		"key": "dataset-reference-date",
-		"value": "[{\"type\": \"publication\", \"value\": \"2015-09-03\"}]"
+		"value": "[{"type": "publication", "value": "2015-09-03"}]"
 	},
 	{
 		"key": "frequency-of-update",
@@ -381,7 +381,7 @@
 	},
 	{
 		"key": "licence",
-		"value": "[\"Distributor assumes no liability for misuse of data.\"]"
+		"value": "["Distributor assumes no liability for misuse of data."]"
 	},
 	{
 		"key": "metadata_type",
@@ -389,7 +389,7 @@
 	},
 	{
 		"key": "responsible-party",
-		"value": "[{\"name\": \"Bureau of Ocean Energy Management\", \"roles\": [\"pointOfContact\"]}]"
+		"value": "[{"name": "Bureau of Ocean Energy Management", "roles": ["pointOfContact"]}]"
 	},
 	{
 		"key": "temporal-extent-end",
@@ -435,7 +435,7 @@
 		"revision_timestamp": "2013-03-20T22:26:39.819248",
 		"is_organization": true,
 		"state": "active",
-		"image_url": "http:\/\/www.boem.gov\/images\/boem\/layout\/logo.png",
+		"image_url": "http://www.boem.gov/images/boem/layout/logo.png",
 		"revision_id": "6f2fda4e-48e9-42f6-b1dd-da068900ba24",
 		"type": "organization",
 		"id": "54ed71a6-4861-4dc1-aa78-c5661ba9ab04",

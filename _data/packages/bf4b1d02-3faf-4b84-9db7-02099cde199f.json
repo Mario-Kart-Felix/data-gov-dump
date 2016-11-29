@@ -36,7 +36,7 @@
 		"cache_url": null,
 		"name": "GeoTIFF",
 		"created": "2016-07-02T15:13:33.167547",
-		"url": "http:\/\/earthexplorer.usgs.gov",
+		"url": "http://earthexplorer.usgs.gov",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 0,
@@ -66,7 +66,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2016-07-02T15:13:33.167571",
-		"url": "http:\/\/gfl.usgs.gov",
+		"url": "http://gfl.usgs.gov",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 1,
@@ -99,7 +99,7 @@
 	"name": "usgs-global-fiducials-libraryb3bc5",
 	"isopen": false,
 	"url": null,
-	"notes": "A Fiducial site is a geographic location that is used as a benchmark for the long-term monitoring of processes, both natural and anthropogenic, associated with the causes and effects of global environmental change. The word fiducial carries multiple meanings with regard to the GFL. Fiducials are marks or points of reference applied to images to present a fixed standard of reference, so in the GFL they refer to the identification of a place on the Earth. The term fiducial may also be interpreted to refer to a long-term trust, where one may be holding something in trust for another. Both references aptly apply, as the GFL maintains a long-term record of data over specific places on the Earth to be available for scientific investigations. Fiducial sites are associated with Earth processes and environmentally sensitive areas that are being monitored so that scientists can better understand and model the dynamic systems and changes that are occurring. The sites are located around the globe and are distributed among environmental topics and processes within five major disciplines: Ocean Processes; Ice and Snow Dynamics; Atmospheric Processes; Land Use\/Land Cover; and Geologic Processes.",
+	"notes": "A Fiducial site is a geographic location that is used as a benchmark for the long-term monitoring of processes, both natural and anthropogenic, associated with the causes and effects of global environmental change. The word fiducial carries multiple meanings with regard to the GFL. Fiducials are marks or points of reference applied to images to present a fixed standard of reference, so in the GFL they refer to the identification of a place on the Earth. The term fiducial may also be interpreted to refer to a long-term trust, where one may be holding something in trust for another. Both references aptly apply, as the GFL maintains a long-term record of data over specific places on the Earth to be available for scientific investigations. Fiducial sites are associated with Earth processes and environmentally sensitive areas that are being monitored so that scientists can better understand and model the dynamic systems and changes that are occurring. The sites are located around the globe and are distributed among environmental topics and processes within five major disciplines: Ocean Processes; Ice and Snow Dynamics; Atmospheric Processes; Land Use/Land Cover; and Geologic Processes.",
 	"license_title": null,
 	"extras": [{
 		"key": "bbox-east-long",
@@ -131,7 +131,7 @@
 	},
 	{
 		"key": "__category_tag_aa0c01c9-d292-4dc1-8fec-b10c1bb629a9",
-		"value": "[\"Arctic\",\"Arctic Development and Transport\",\"Arctic-Global Teleconnections\"]"
+		"value": "["Arctic","Arctic Development and Transport","Arctic-Global Teleconnections"]"
 	},
 	{
 		"key": "spatial-reference-system",
@@ -139,7 +139,7 @@
 	},
 	{
 		"key": "spatial",
-		"value": "{\"type\": \"Polygon\", \"coordinates\": [[[-170.5, 18.3], [151.4, 18.3], [151.4, 85.2], [-170.5, 85.2], [-170.5, 18.3]]]}"
+		"value": "{"type": "Polygon", "coordinates": [[[-170.5, 18.3], [151.4, 18.3], [151.4, 85.2], [-170.5, 85.2], [-170.5, 18.3]]]}"
 	},
 	{
 		"key": "progress",
@@ -147,7 +147,7 @@
 	},
 	{
 		"key": "access_constraints",
-		"value": "[\"Use Constraints: There is no guarantee of warranty concerning the accuracy of these data. Users should be aware that temporal changes may have occurred since the data was collected and that some parts of these data may no longer represent actual surface conditions. Users should not use these data for critical applications without a full awareness of their limitations. Acknowledgement of the originating agencies would be appreciated in products derived from these data. Any user who modifies the data set is obligated to describe the types of modifications they perform. User specifically agrees not to misrepresent the data set, nor to imply that changes made were approved or endorsed by the U.S. Geological Survey. Please refer to http:\/\/www.usgs.gov\/privacy.html for the USGS disclaimer.\", \"Access Constraints: Any downloading and use of these data signifies a user's agreement to comprehension and compliance of the USGS Standard Disclaimer. Insure all portions of metadata are read and clearly understood before using these data in order to protect both user and USGS interests.\"]"
+		"value": "["Use Constraints: There is no guarantee of warranty concerning the accuracy of these data. Users should be aware that temporal changes may have occurred since the data was collected and that some parts of these data may no longer represent actual surface conditions. Users should not use these data for critical applications without a full awareness of their limitations. Acknowledgement of the originating agencies would be appreciated in products derived from these data. Any user who modifies the data set is obligated to describe the types of modifications they perform. User specifically agrees not to misrepresent the data set, nor to imply that changes made were approved or endorsed by the U.S. Geological Survey. Please refer to http://www.usgs.gov/privacy.html for the USGS disclaimer.", "Access Constraints: Any downloading and use of these data signifies a user's agreement to comprehension and compliance of the USGS Standard Disclaimer. Insure all portions of metadata are read and clearly understood before using these data in order to protect both user and USGS interests."]"
 	},
 	{
 		"key": "contact-email",
@@ -163,7 +163,7 @@
 	},
 	{
 		"key": "dataset-reference-date",
-		"value": "[{\"type\": \"publication\", \"value\": \"2016-07-01\"}]"
+		"value": "[{"type": "publication", "value": "2016-07-01"}]"
 	},
 	{
 		"key": "frequency-of-update",
@@ -171,7 +171,7 @@
 	},
 	{
 		"key": "licence",
-		"value": "[\"Although these data have been processed successfully on a computer system at the U.S. Geological Survey, no warranty, expressed or implied, is made by the USGS regarding the use of the data on any other system, nor does the act of distribution constitute any such warranty.  \"]"
+		"value": "["Although these data have been processed successfully on a computer system at the U.S. Geological Survey, no warranty, expressed or implied, is made by the USGS regarding the use of the data on any other system, nor does the act of distribution constitute any such warranty.  "]"
 	},
 	{
 		"key": "metadata_type",
@@ -179,7 +179,7 @@
 	},
 	{
 		"key": "responsible-party",
-		"value": "[{\"name\": \"U.S. Geological Survey Earth Resources Observation and Science (EROS) Center\", \"roles\": [\"pointOfContact\"]}]"
+		"value": "[{"name": "U.S. Geological Survey Earth Resources Observation and Science (EROS) Center", "roles": ["pointOfContact"]}]"
 	},
 	{
 		"key": "spatial-data-service-type",
@@ -214,14 +214,14 @@
 		"value": "USGS Earth Resources Observation and Science (EROS)"
 	}],
 	"organization": {
-		"description": "http:\/\/www.usgs.gov\/\r\nThe USGS is a federal science agency that provides impartial information on the health of our ecosystems and environment, the natural hazards that threaten us, the natural resources we rely on, the impacts of climate and land-use change, and the core science systems that help us provide timely, relevant, and useable information.",
+		"description": "http://www.usgs.gov/rnThe USGS is a federal science agency that provides impartial information on the health of our ecosystems and environment, the natural hazards that threaten us, the natural resources we rely on, the impacts of climate and land-use change, and the core science systems that help us provide timely, relevant, and useable information.",
 		"created": "2013-03-14T03:44:38.263357",
 		"title": "U.S. Geological Survey, Department of the Interior",
 		"name": "usgs-gov",
 		"revision_timestamp": "2014-09-02T13:43:52.167023",
 		"is_organization": true,
 		"state": "active",
-		"image_url": "http:\/\/pubs.usgs.gov\/sir\/2004\/5296\/04-5296_confluence_park\/usgs_logo.gif",
+		"image_url": "http://pubs.usgs.gov/sir/2004/5296/04-5296_confluence_park/usgs_logo.gif",
 		"revision_id": "2858aa99-9501-4f96-82e5-9647b968ed66",
 		"type": "organization",
 		"id": "bd2cdd5a-4d65-46c0-9937-c8381175f104",

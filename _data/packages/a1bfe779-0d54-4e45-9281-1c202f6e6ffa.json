@@ -36,7 +36,7 @@
 		"cache_url": null,
 		"name": "Web Mapping Application [Restricted Access]",
 		"created": "2016-07-15T21:34:28.914501",
-		"url": "http:\/\/uidaho.maps.arcgis.com\/apps\/Viewer\/index.html?appid=5b3f3e045e034de283207a5c748e73d8",
+		"url": "http://uidaho.maps.arcgis.com/apps/Viewer/index.html?appid=5b3f3e045e034de283207a5c748e73d8",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 0,
@@ -58,7 +58,7 @@
 		"revision_timestamp": "2015-01-16T18:28:14.593903",
 		"is_organization": true,
 		"state": "active",
-		"image_url": "http:\/\/upload.wikimedia.org\/wikipedia\/en\/thumb\/4\/44\/University_of_Idaho_seal.svg\/300px-University_of_Idaho_seal.svg.png",
+		"image_url": "http://upload.wikimedia.org/wikipedia/en/thumb/4/44/University_of_Idaho_seal.svg/300px-University_of_Idaho_seal.svg.png",
 		"revision_id": "761955d7-9530-4622-8609-d0b01c78e177",
 		"type": "organization",
 		"id": "75e22a8a-da5f-46f3-93d8-924063a3703d",
@@ -69,7 +69,7 @@
 	"name": "digital-orthoimagery-series-of-idaho-1998-2001-10-meter-panchromatic",
 	"isopen": false,
 	"url": null,
-	"notes": "This data series contains 137 1998-2001 10-meter pachromatic digital orthoimage tiles. The data cover the State of Idaho. The SPOT USA Select product is a statewide panchromatic tonal balanced, 30-minute x 30-minute SPOTView product designed to be load-n-go into GIS and image processing systems. The source imagery is SPOT PAN 10-meter data. The most current imagery was preferred. Fall\/Winter\/Spring (leaf-off) scenes were preferred, but summer (leaf-on) imagery was used if scene gaps were present. Access is restricted to Idaho State Government; Idaho Regional, County and Local Governments; Idaho K-12 public schools, State Colleges and State Universities. See this <a href=\"http:\/\/cloud.insideidaho.org\/HelpDocs\/spotLicenseAgreement.pdf\" target=\"_blank\">License Agreement<\/a> for more information.",
+	"notes": "This data series contains 137 1998-2001 10-meter pachromatic digital orthoimage tiles. The data cover the State of Idaho. The SPOT USA Select product is a statewide panchromatic tonal balanced, 30-minute x 30-minute SPOTView product designed to be load-n-go into GIS and image processing systems. The source imagery is SPOT PAN 10-meter data. The most current imagery was preferred. Fall/Winter/Spring (leaf-off) scenes were preferred, but summer (leaf-on) imagery was used if scene gaps were present. Access is restricted to Idaho State Government; Idaho Regional, County and Local Governments; Idaho K-12 public schools, State Colleges and State Universities. See this <a href="http://cloud.insideidaho.org/HelpDocs/spotLicenseAgreement.pdf" target="_blank">License Agreement</a> for more information.",
 	"owner_org": "75e22a8a-da5f-46f3-93d8-924063a3703d",
 	"extras": [{
 		"key": "bbox-east-long",
@@ -105,7 +105,7 @@
 	},
 	{
 		"key": "spatial",
-		"value": "{\"type\": \"Polygon\", \"coordinates\": [[[-119.3, 40.6], [-108.9, 40.6], [-108.9, 49.3], [-119.3, 49.3], [-119.3, 40.6]]]}"
+		"value": "{"type": "Polygon", "coordinates": [[[-119.3, 40.6], [-108.9, 40.6], [-108.9, 49.3], [-119.3, 49.3], [-119.3, 40.6]]]}"
 	},
 	{
 		"key": "progress",
@@ -113,7 +113,7 @@
 	},
 	{
 		"key": "access_constraints",
-		"value": "[\"Use Constraints: Data must be used in accordance with the license agreement. See this <a href=\\\"http:\/\/cloud.insideidaho.org\/HelpDocs\/spotLicenseAgreement.pdf\\\" target=\\\"_blank\\\">License Agreement<\/a> for more information.\", \"Access Constraints: Access is restricted to Idaho State Government; Idaho Regional, County and Local Governments; Idaho K-12 public schools, State Colleges and State Universities. See this <a href=\\\"http:\/\/cloud.insideidaho.org\/HelpDocs\/spotLicenseAgreement.pdf\\\" target=\\\"_blank\\\">License Agreement<\/a> for more information.\"]"
+		"value": "["Use Constraints: Data must be used in accordance with the license agreement. See this <a href=\"http://cloud.insideidaho.org/HelpDocs/spotLicenseAgreement.pdf\" target=\"_blank\">License Agreement</a> for more information.", "Access Constraints: Access is restricted to Idaho State Government; Idaho Regional, County and Local Governments; Idaho K-12 public schools, State Colleges and State Universities. See this <a href=\"http://cloud.insideidaho.org/HelpDocs/spotLicenseAgreement.pdf\" target=\"_blank\">License Agreement</a> for more information."]"
 	},
 	{
 		"key": "temporal-extent-begin",
@@ -133,7 +133,7 @@
 	},
 	{
 		"key": "dataset-reference-date",
-		"value": "[{\"type\": \"publication\", \"value\": \"2001-01-01\"}]"
+		"value": "[{"type": "publication", "value": "2001-01-01"}]"
 	},
 	{
 		"key": "frequency-of-update",
@@ -141,7 +141,7 @@
 	},
 	{
 		"key": "licence",
-		"value": "[\"Although these data have been processed successfully on a computer system at the Idaho Geospatial Data Clearinghouse, no warranty, expressed or implied, is made regarding the utility of the data on any other system, nor shall the act of distribution constitute any such warranty.\"]"
+		"value": "["Although these data have been processed successfully on a computer system at the Idaho Geospatial Data Clearinghouse, no warranty, expressed or implied, is made regarding the utility of the data on any other system, nor shall the act of distribution constitute any such warranty."]"
 	},
 	{
 		"key": "metadata_type",
@@ -149,7 +149,7 @@
 	},
 	{
 		"key": "responsible-party",
-		"value": "[{\"name\": \"Idaho Geospatial Data Clearinghouse\", \"roles\": [\"pointOfContact\"]}]"
+		"value": "[{"name": "Idaho Geospatial Data Clearinghouse", "roles": ["pointOfContact"]}]"
 	},
 	{
 		"key": "temporal-extent-end",

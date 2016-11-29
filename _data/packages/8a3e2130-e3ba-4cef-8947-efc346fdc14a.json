@@ -36,7 +36,7 @@
 		"cache_url": null,
 		"name": "Solar - Terrestrial Physics",
 		"created": "2015-10-06T18:35:16.593612",
-		"url": "http:\/\/www.ngdc.noaa.gov\/stp\/stp.html",
+		"url": "http://www.ngdc.noaa.gov/stp/stp.html",
 		"webstore_url": null,
 		"resource_locator_function": "information",
 		"position": 0,
@@ -65,7 +65,7 @@
 		"cache_url": null,
 		"name": "GCMD Feedback Form",
 		"created": "2015-10-06T18:35:16.593648",
-		"url": "http:\/\/gcmd.nasa.gov\/MailComments\/MailComments.jsf?rcpt=gcmduso",
+		"url": "http://gcmd.nasa.gov/MailComments/MailComments.jsf?rcpt=gcmduso",
 		"webstore_url": null,
 		"resource_locator_function": "information",
 		"position": 1,
@@ -94,7 +94,7 @@
 		"cache_url": null,
 		"name": "GCMD Keywords Page",
 		"created": "2015-10-06T18:35:16.593658",
-		"url": "http:\/\/gcmd.nasa.gov\/learn\/keyword_list.html",
+		"url": "http://gcmd.nasa.gov/learn/keyword_list.html",
 		"webstore_url": null,
 		"resource_locator_function": "information",
 		"position": 2,
@@ -123,7 +123,7 @@
 		"cache_url": null,
 		"name": "GCMD Feedback Form",
 		"created": "2015-10-06T18:35:16.593666",
-		"url": "http:\/\/gcmd.nasa.gov\/MailComments\/MailComments.jsf?rcpt=gcmduso",
+		"url": "http://gcmd.nasa.gov/MailComments/MailComments.jsf?rcpt=gcmduso",
 		"webstore_url": null,
 		"resource_locator_function": "information",
 		"position": 3,
@@ -152,7 +152,7 @@
 		"cache_url": null,
 		"name": "GCMD Keywords Page",
 		"created": "2015-10-06T18:35:16.593674",
-		"url": "http:\/\/gcmd.nasa.gov\/learn\/keyword_list.html",
+		"url": "http://gcmd.nasa.gov/learn/keyword_list.html",
 		"webstore_url": null,
 		"resource_locator_function": "information",
 		"position": 4,
@@ -172,7 +172,7 @@
 	"name": "worldwide-magnetograms-with-geomagnetic-components-d-h-z-or-x-y-and-z",
 	"isopen": false,
 	"url": null,
-	"notes": "The NOAA National Centers for Environmental Information (formerly National Geophysical Data Center) receives magnetograms from over 200 geomagnetic observatories. The Center archives data from 1867 to the present, however the primary holdings are from 1957 to the present. The archives contain over 5,000 reels of 35 mm microfilm copies of magnetograms. Magnetograms are records obtained from an instrument known as a magnetometer which is designed to measure small variations in the components of the geomagnetic field. There are two types of magnetometers, the La Cour and the Ruska. The magnetogram consists of one or more (usually 3) variometers, one for each element usually D, H, Z (less common X, Y, Z) and a recorder. The standard magnetogram usually has all three components recorded simultaneously on one sheet of paper. In addition to the 3 traces, reference lines (baselines) are recorded. The baselines are used in absolute calibration of the magnetogram. The normal recording speed is 20 mm\/hour with the drum turning once in 24 hours.",
+	"notes": "The NOAA National Centers for Environmental Information (formerly National Geophysical Data Center) receives magnetograms from over 200 geomagnetic observatories. The Center archives data from 1867 to the present, however the primary holdings are from 1957 to the present. The archives contain over 5,000 reels of 35 mm microfilm copies of magnetograms. Magnetograms are records obtained from an instrument known as a magnetometer which is designed to measure small variations in the components of the geomagnetic field. There are two types of magnetometers, the La Cour and the Ruska. The magnetogram consists of one or more (usually 3) variometers, one for each element usually D, H, Z (less common X, Y, Z) and a recorder. The standard magnetogram usually has all three components recorded simultaneously on one sheet of paper. In addition to the 3 traces, reference lines (baselines) are recorded. The baselines are used in absolute calibration of the magnetogram. The normal recording speed is 20 mm/hour with the drum turning once in 24 hours.",
 	"license_title": null,
 	"extras": [{
 		"key": "bbox-east-long",
@@ -208,7 +208,7 @@
 	},
 	{
 		"key": "spatial",
-		"value": "{\"type\": \"Polygon\", \"coordinates\": [[[-180.0, -90.0], [180.0, -90.0], [180.0, 90.0], [-180.0, 90.0], [-180.0, -90.0]]]}"
+		"value": "{"type": "Polygon", "coordinates": [[[-180.0, -90.0], [180.0, -90.0], [180.0, 90.0], [-180.0, 90.0], [-180.0, -90.0]]]}"
 	},
 	{
 		"key": "progress",
@@ -216,7 +216,7 @@
 	},
 	{
 		"key": "access_constraints",
-		"value": "[\"Use Constraints: None\", \"Access Constraints: No Constraints\"]"
+		"value": "["Use Constraints: None", "Access Constraints: No Constraints"]"
 	},
 	{
 		"key": "temporal-extent-begin",
@@ -236,7 +236,7 @@
 	},
 	{
 		"key": "dataset-reference-date",
-		"value": "[{\"type\": \"publication\", \"value\": \"1957-01-01\"}]"
+		"value": "[{"type": "publication", "value": "1957-01-01"}]"
 	},
 	{
 		"key": "frequency-of-update",
@@ -244,7 +244,7 @@
 	},
 	{
 		"key": "licence",
-		"value": "[\"While every effort has been made to ensure that these data are accurate and reliable within the limits of the current state of the art, NOAA cannot assume liability for any damages caused by any errors or omissions in the data, nor as a result of the failure of the data to function on a particular system. NOAA makes no warranty, expressed or implied, nor does the fact of distribution constitute such a warranty.\"]"
+		"value": "["While every effort has been made to ensure that these data are accurate and reliable within the limits of the current state of the art, NOAA cannot assume liability for any damages caused by any errors or omissions in the data, nor as a result of the failure of the data to function on a particular system. NOAA makes no warranty, expressed or implied, nor does the fact of distribution constitute such a warranty."]"
 	},
 	{
 		"key": "metadata_type",
@@ -252,7 +252,7 @@
 	},
 	{
 		"key": "responsible-party",
-		"value": "[{\"name\": \"DOC\/NOAA\/NESDIS\/NCEI > National Centers for Environmental Information, NESDIS, NOAA, U.S. Department of Commerce\", \"roles\": [\"pointOfContact\"]}]"
+		"value": "[{"name": "DOC/NOAA/NESDIS/NCEI > National Centers for Environmental Information, NESDIS, NOAA, U.S. Department of Commerce", "roles": ["pointOfContact"]}]"
 	},
 	{
 		"key": "spatial-data-service-type",
@@ -264,7 +264,7 @@
 	},
 	{
 		"package_id": "8a3e2130-e3ba-4cef-8947-efc346fdc14a",
-		"value": "earth interior & crust, magnetic intensity, solid earth, doc\/noaa\/nesdis\/ngdc, geomagnetic indices, geomagnetism, d, h, z components, magnetic field, magnetic declination, global, icsu-wds, national centers for environmental information, nesdis, noaa, u.s. department of commerce, doc\/noaa\/nesdis\/ncei, national geophysical data center, nesdis, noaa, u.s. department of commerce, international council for science - world data system, earth science",
+		"value": "earth interior & crust, magnetic intensity, solid earth, doc/noaa/nesdis/ngdc, geomagnetic indices, geomagnetism, d, h, z components, magnetic field, magnetic declination, global, icsu-wds, national centers for environmental information, nesdis, noaa, u.s. department of commerce, doc/noaa/nesdis/ncei, national geophysical data center, nesdis, noaa, u.s. department of commerce, international council for science - world data system, earth science",
 		"revision_timestamp": "2015-10-06T22:35:16.500297",
 		"state": "active",
 		"key": "tags",
@@ -294,7 +294,7 @@
 		"revision_timestamp": "2013-03-25T23:05:12.923863",
 		"is_organization": true,
 		"state": "active",
-		"image_url": "https:\/\/fortress.wa.gov\/dfw\/score\/score\/images\/noaa_logo.png",
+		"image_url": "https://fortress.wa.gov/dfw/score/score/images/noaa_logo.png",
 		"revision_id": "c6d43080-22e1-405e-a83d-f2a512d9e867",
 		"type": "organization",
 		"id": "e811f0b4-451f-4896-9e8f-fc6802837819",

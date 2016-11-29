@@ -36,7 +36,7 @@
 		"cache_url": null,
 		"name": "Full InPort Metadata Record",
 		"created": "2016-05-30T21:06:14.596946",
-		"url": "https:\/\/inport.nmfs.noaa.gov\/inport\/item\/7283",
+		"url": "https://inport.nmfs.noaa.gov/inport/item/7283",
 		"webstore_url": null,
 		"resource_locator_function": "information",
 		"position": 0,
@@ -65,7 +65,7 @@
 		"cache_url": null,
 		"name": "NOAA Data Management Plan (DMP)",
 		"created": "2016-05-30T21:06:14.596972",
-		"url": "https:\/\/inport.nmfs.noaa.gov\/inport\/item\/7283\/dmp",
+		"url": "https://inport.nmfs.noaa.gov/inport/item/7283/dmp",
 		"webstore_url": null,
 		"resource_locator_function": "information",
 		"position": 1,
@@ -82,7 +82,7 @@
 		"state": "active",
 		"last_modified": null,
 		"hash": "",
-		"description": "This page describes the NASA GCMD Keywords, how\n                                                        to reference those keywords and provides download instructions.\n                                                    ",
+		"description": "This page describes the NASA GCMD Keywords, hown                                                        to reference those keywords and provides download instructions.n                                                    ",
 		"format": "HTML",
 		"tracking_summary": {
 			"total": 467,
@@ -94,7 +94,7 @@
 		"cache_url": null,
 		"name": "GCMD Keywords Page",
 		"created": "2016-05-30T21:06:14.596982",
-		"url": "http:\/\/gcmd.nasa.gov\/learn\/keyword_list.html",
+		"url": "http://gcmd.nasa.gov/learn/keyword_list.html",
 		"webstore_url": null,
 		"resource_locator_function": "information",
 		"position": 2,
@@ -116,7 +116,7 @@
 		"revision_timestamp": "2013-03-25T23:05:12.923863",
 		"is_organization": true,
 		"state": "active",
-		"image_url": "https:\/\/fortress.wa.gov\/dfw\/score\/score\/images\/noaa_logo.png",
+		"image_url": "https://fortress.wa.gov/dfw/score/score/images/noaa_logo.png",
 		"revision_id": "c6d43080-22e1-405e-a83d-f2a512d9e867",
 		"type": "organization",
 		"id": "e811f0b4-451f-4896-9e8f-fc6802837819",
@@ -127,7 +127,7 @@
 	"name": "afsc-fma-atlas-remote-client",
 	"isopen": false,
 	"url": null,
-	"notes": "Data is collected by observers on deck sheets and either entered onto local databases and transmitted electronically or  faxed to the AFSC for data entry.\n\nThe FMA database consists of various data collected by fishery biologists while deployed on board commercial fishing vessels or at shoreside processing plants participating in the Bering Sea and Gulf of Alaska groundfish fisheries. Data collection activities began in 1973 and they continue to date. While deployed at their assignments, observers collect data on the catch size, fishing locations, catch composition, length frequencies, age structures, marine mammal interactions, and a variety of research projects. ",
+	"notes": "Data is collected by observers on deck sheets and either entered onto local databases and transmitted electronically or  faxed to the AFSC for data entry.nnThe FMA database consists of various data collected by fishery biologists while deployed on board commercial fishing vessels or at shoreside processing plants participating in the Bering Sea and Gulf of Alaska groundfish fisheries. Data collection activities began in 1973 and they continue to date. While deployed at their assignments, observers collect data on the catch size, fishing locations, catch composition, length frequencies, age structures, marine mammal interactions, and a variety of research projects. ",
 	"owner_org": "e811f0b4-451f-4896-9e8f-fc6802837819",
 	"extras": [{
 		"key": "bbox-east-long",
@@ -163,7 +163,7 @@
 	},
 	{
 		"key": "spatial",
-		"value": "{\"type\": \"Polygon\", \"coordinates\": [[[-180.0, 50.0], [-135.0, 50.0], [-135.0, 65.0], [-180.0, 65.0], [-180.0, 50.0]]]}"
+		"value": "{"type": "Polygon", "coordinates": [[[-180.0, 50.0], [-135.0, 50.0], [-135.0, 65.0], [-180.0, 65.0], [-180.0, 50.0]]]}"
 	},
 	{
 		"key": "progress",
@@ -171,7 +171,7 @@
 	},
 	{
 		"key": "access_constraints",
-		"value": "[\"Access Constraints: N\/A | Use Constraints: N\/A\"]"
+		"value": "["Access Constraints: N/A | Use Constraints: N/A"]"
 	},
 	{
 		"key": "temporal-extent-begin",
@@ -191,7 +191,7 @@
 	},
 	{
 		"key": "dataset-reference-date",
-		"value": "[{\"type\": \"publication\", \"value\": \"\"}]"
+		"value": "[{"type": "publication", "value": ""}]"
 	},
 	{
 		"key": "frequency-of-update",
@@ -207,7 +207,7 @@
 	},
 	{
 		"key": "responsible-party",
-		"value": "[{\"name\": \"Fisheries Monitoring and Analysis\", \"roles\": [\"pointOfContact\"]}]"
+		"value": "[{"name": "Fisheries Monitoring and Analysis", "roles": ["pointOfContact"]}]"
 	},
 	{
 		"key": "spatial-data-service-type",
@@ -219,7 +219,7 @@
 	},
 	{
 		"key": "tags",
-		"value": "observer, atsea, doc\/noaa\/nmfs\/afsc, atlas remote client, alaska fisheries science center, national marine fisheries service, noaa, u.s. department of commerce, atlas",
+		"value": "observer, atsea, doc/noaa/nmfs/afsc, atlas remote client, alaska fisheries science center, national marine fisheries service, noaa, u.s. department of commerce, atlas",
 		"__extras": {
 			"revision_id": "00ca7ea0-bf67-4bb4-b132-1ebecdaf65cb",
 			"package_id": "64317a3b-c2c3-4518-8e49-65d5ab65807c"
@@ -237,6 +237,6 @@
 		"key": "harvest_source_title",
 		"value": "NOAA CSW Harvest Source"
 	}],
-	"title": "AFSC\/FMA\/ATLAS Remote Client",
+	"title": "AFSC/FMA/ATLAS Remote Client",
 	"revision_id": "00ca7ea0-bf67-4bb4-b132-1ebecdaf65cb"
 }

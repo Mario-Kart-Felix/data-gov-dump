@@ -37,7 +37,7 @@
 		"cache_url": null,
 		"name": "Zip File",
 		"created": "2016-01-02T05:58:56.984286",
-		"url": "http:\/\/www.boem.gov\/Fishing-Closures-Map-Package.zip",
+		"url": "http://www.boem.gov/Fishing-Closures-Map-Package.zip",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 0,
@@ -67,7 +67,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2016-01-02T05:58:56.984309",
-		"url": "http:\/\/www.boem.gov\/Fishing-Closures-Map-Package\/",
+		"url": "http://www.boem.gov/Fishing-Closures-Map-Package/",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 1,
@@ -97,7 +97,7 @@
 		"cache_url": null,
 		"name": "Esri Rest API Endpoint",
 		"created": "2016-01-02T05:58:56.984317",
-		"url": "https:\/\/coast.noaa.gov\/arcgis\/rest\/services\/MarineCadastre\/BOEM_Layers\/MapServer\/",
+		"url": "https://coast.noaa.gov/arcgis/rest/services/MarineCadastre/BOEM_Layers/MapServer/",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 2,
@@ -127,7 +127,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2016-01-02T05:58:56.984325",
-		"url": "http:\/\/www.marinecadastre.gov\/data\/",
+		"url": "http://www.marinecadastre.gov/data/",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 3,
@@ -157,7 +157,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2016-01-02T05:58:56.984331",
-		"url": "https:\/\/www.coast.noaa.gov\/",
+		"url": "https://www.coast.noaa.gov/",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 4,
@@ -177,11 +177,11 @@
 	"name": "west-coast-rockfish-conservation-areas-2015",
 	"isopen": false,
 	"url": null,
-	"notes": "These data delineate Rockfish Conservation Areas (RCA) off the West Coast of the United States for 2015. There are three types of areas closures depicted in this layer: Commercial Trawl Non-Groundfish, Commercial Trawl Groundfish, and Commercial Non-Trawl Groundfish. These areas represent closures to commercial fishing for non-groundfish with trawl gear, closed to commercial fishing for groundfish with trawl gear, or areas are closed to commercial fishing for groundfish with non-trawl gear, respectively. Closures may vary seasonally. Boundaries are lines that connect a series of coordinates that approximate particular depth contours. North\/south boundaries are designated by specific lines of latitude. Keep in mind that Rockfish Management Areas are fairly dynamic and may change as often as 5 times per year. See the Source Info link for the latest information.",
+	"notes": "These data delineate Rockfish Conservation Areas (RCA) off the West Coast of the United States for 2015. There are three types of areas closures depicted in this layer: Commercial Trawl Non-Groundfish, Commercial Trawl Groundfish, and Commercial Non-Trawl Groundfish. These areas represent closures to commercial fishing for non-groundfish with trawl gear, closed to commercial fishing for groundfish with trawl gear, or areas are closed to commercial fishing for groundfish with non-trawl gear, respectively. Closures may vary seasonally. Boundaries are lines that connect a series of coordinates that approximate particular depth contours. North/south boundaries are designated by specific lines of latitude. Keep in mind that Rockfish Management Areas are fairly dynamic and may change as often as 5 times per year. See the Source Info link for the latest information.",
 	"license_title": null,
 	"extras": [{
 		"key": "responsible-party",
-		"value": "[{\"name\": \"NOAA Office for Coastal Management\", \"roles\": [\"pointOfContact\"]}]"
+		"value": "[{"name": "NOAA Office for Coastal Management", "roles": ["pointOfContact"]}]"
 	},
 	{
 		"key": "contact-email",
@@ -201,7 +201,7 @@
 	},
 	{
 		"key": "dataset-reference-date",
-		"value": "[{\"type\": \"publication\", \"value\": \"2015-12-09\"}]"
+		"value": "[{"type": "publication", "value": "2015-12-09"}]"
 	},
 	{
 		"key": "resource-type",
@@ -229,7 +229,7 @@
 	},
 	{
 		"key": "licence",
-		"value": "[\"NOAA makes no warranties or representations whatsoever regarding the availability, quality, accuracy, content, completeness or suitability for the user's needs of such information. The services, information, and data made available on the Marine Cadastre web site are provided \\\"as is\\\" without warranties of any kind. These data are intended for coastal and ocean use planning. Not for navigation. http:\/\/www.marinecadastre.gov\/about\/disclaimer.html\"]"
+		"value": "["NOAA makes no warranties or representations whatsoever regarding the availability, quality, accuracy, content, completeness or suitability for the user's needs of such information. The services, information, and data made available on the Marine Cadastre web site are provided \"as is\" without warranties of any kind. These data are intended for coastal and ocean use planning. Not for navigation. http://www.marinecadastre.gov/about/disclaimer.html"]"
 	},
 	{
 		"key": "metadata_type",
@@ -241,7 +241,7 @@
 	},
 	{
 		"key": "spatial",
-		"value": "{\"type\": \"Polygon\", \"coordinates\": [[[-129.162414, 30.891215], [-117.120607, 30.891215], [-117.120607, 48.505903], [-129.162414, 48.505903], [-129.162414, 30.891215]]]}"
+		"value": "{"type": "Polygon", "coordinates": [[[-129.162414, 30.891215], [-117.120607, 30.891215], [-117.120607, 48.505903], [-129.162414, 48.505903], [-129.162414, 30.891215]]]}"
 	},
 	{
 		"key": "guid",
@@ -253,7 +253,7 @@
 	},
 	{
 		"key": "access_constraints",
-		"value": "[\"Use Constraints: The data are not legal boundaries and should not be used to determine if fishing for specific species and\/or with specific gear is allowed at a certain location. These data are intended for coastal and ocean use planning. Not for navigation. http:\/\/www.marinecadastre.gov\/about\/disclaimer.html\", \"Access Constraints: None\"]"
+		"value": "["Use Constraints: The data are not legal boundaries and should not be used to determine if fishing for specific species and/or with specific gear is allowed at a certain location. These data are intended for coastal and ocean use planning. Not for navigation. http://www.marinecadastre.gov/about/disclaimer.html", "Access Constraints: None"]"
 	},
 	{
 		"key": "spatial_harvester",
@@ -295,7 +295,7 @@
 		"revision_timestamp": "2013-03-25T23:05:12.923863",
 		"is_organization": true,
 		"state": "active",
-		"image_url": "https:\/\/fortress.wa.gov\/dfw\/score\/score\/images\/noaa_logo.png",
+		"image_url": "https://fortress.wa.gov/dfw/score/score/images/noaa_logo.png",
 		"revision_id": "c6d43080-22e1-405e-a83d-f2a512d9e867",
 		"type": "organization",
 		"id": "e811f0b4-451f-4896-9e8f-fc6802837819",

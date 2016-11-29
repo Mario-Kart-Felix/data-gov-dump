@@ -30,11 +30,11 @@
 			"recent": 0
 		},
 		"mimetype_inner": null,
-		"mimetype": "image\/png",
+		"mimetype": "image/png",
 		"cache_url": null,
 		"name": "mesh.png",
 		"created": "2016-05-19T20:44:20.900476",
-		"url": "http:\/\/gdr.openei.org\/files\/496\/mesh%20%281%29.png",
+		"url": "http://gdr.openei.org/files/496/mesh%20%281%29.png",
 		"webstore_url": null,
 		"last_modified": null,
 		"position": 0,
@@ -50,18 +50,18 @@
 		"size": null,
 		"state": "active",
 		"hash": "",
-		"description": "Nodal coordinates of the mesh in X\/Y\/Z coordinates (m)",
+		"description": "Nodal coordinates of the mesh in X/Y/Z coordinates (m)",
 		"format": "gz",
 		"tracking_summary": {
 			"total": 0,
 			"recent": 0
 		},
 		"mimetype_inner": null,
-		"mimetype": "application\/gzip",
+		"mimetype": "application/gzip",
 		"cache_url": null,
 		"name": "nodes-rotated.csv.gz",
 		"created": "2016-05-19T20:44:20.900508",
-		"url": "http:\/\/gdr.openei.org\/files\/496\/nodes_rotated.csv%20%281%29.gz",
+		"url": "http://gdr.openei.org/files/496/nodes_rotated.csv%20%281%29.gz",
 		"webstore_url": null,
 		"last_modified": null,
 		"position": 1,
@@ -84,11 +84,11 @@
 			"recent": 0
 		},
 		"mimetype_inner": null,
-		"mimetype": "application\/gzip",
+		"mimetype": "application/gzip",
 		"cache_url": null,
 		"name": "query-points.csv.gz",
 		"created": "2016-05-19T20:44:20.900520",
-		"url": "http:\/\/gdr.openei.org\/files\/496\/query_points.csv%20%281%29.gz",
+		"url": "http://gdr.openei.org/files/496/query_points.csv%20%281%29.gz",
 		"webstore_url": null,
 		"last_modified": null,
 		"position": 2,
@@ -111,11 +111,11 @@
 			"recent": 0
 		},
 		"mimetype_inner": null,
-		"mimetype": "application\/gzip",
+		"mimetype": "application/gzip",
 		"cache_url": null,
 		"name": "nodes.csv.gz",
 		"created": "2016-05-19T20:44:20.900529",
-		"url": "http:\/\/gdr.openei.org\/files\/496\/nodes.csv%20%281%29.gz",
+		"url": "http://gdr.openei.org/files/496/nodes.csv%20%281%29.gz",
 		"webstore_url": null,
 		"last_modified": null,
 		"position": 3,
@@ -138,11 +138,11 @@
 			"recent": 0
 		},
 		"mimetype_inner": null,
-		"mimetype": "application\/gzip",
+		"mimetype": "application/gzip",
 		"cache_url": null,
 		"name": "cells.csv.gz",
 		"created": "2016-05-19T20:44:20.900538",
-		"url": "http:\/\/gdr.openei.org\/files\/496\/cells.csv%20%281%29.gz",
+		"url": "http://gdr.openei.org/files/496/cells.csv%20%281%29.gz",
 		"webstore_url": null,
 		"last_modified": null,
 		"position": 4,
@@ -165,11 +165,11 @@
 			"recent": 1
 		},
 		"mimetype_inner": null,
-		"mimetype": "application\/gzip",
+		"mimetype": "application/gzip",
 		"cache_url": null,
 		"name": "mesh.vtk.gz",
 		"created": "2016-05-19T20:44:20.900546",
-		"url": "http:\/\/gdr.openei.org\/files\/496\/mesh.vtk%20%281%29.gz",
+		"url": "http://gdr.openei.org/files/496/mesh.vtk%20%281%29.gz",
 		"webstore_url": null,
 		"last_modified": null,
 		"position": 5,
@@ -196,7 +196,7 @@
 		"cache_url": null,
 		"name": "readme.txt",
 		"created": "2016-05-19T20:44:20.900554",
-		"url": "http:\/\/gdr.openei.org\/files\/496\/README%20%281%29.TXT",
+		"url": "http://gdr.openei.org/files/496/README%20%281%29.TXT",
 		"webstore_url": null,
 		"last_modified": null,
 		"position": 6,
@@ -255,7 +255,7 @@
 	"name": "porotomo-subtask-3-9-build-fem-configuration-30541",
 	"isopen": true,
 	"url": null,
-	"notes": "mesh.vtk: Self contained VTK file that contains mesh information and can be directly visualized in Paraview\/Visit\nmesh.png: Image of mesh as visualized in Paraview\nnodes.csv: Nodal coordinates of the mesh in UTM coordinates (m).\nnodes_rotated.csv: Nodal coordinates of the mesh in rotated (X\/Y\/Z) coordinates (m).\ncells.csv: Connectivity data\nquery_points.csv: List of points (centroid of cells) that will be used to query the geologic database",
+	"notes": "mesh.vtk: Self contained VTK file that contains mesh information and can be directly visualized in Paraview/Visitnmesh.png: Image of mesh as visualized in Paraviewnnodes.csv: Nodal coordinates of the mesh in UTM coordinates (m).nnodes_rotated.csv: Nodal coordinates of the mesh in rotated (X/Y/Z) coordinates (m).ncells.csv: Connectivity datanquery_points.csv: List of points (centroid of cells) that will be used to query the geologic database",
 	"license_title": "Creative Commons Attribution",
 	"extras": [{
 		"key": "harvest_source_id",
@@ -279,23 +279,23 @@
 	},
 	{
 		"key": "spatial",
-		"value": "{\"type\":\"Polygon\",\"coordinates\":[[[-119.2167,39.5883],[-118.8167,39.5883],[-118.8167,39.9883],[-119.2167,39.9883],[-119.2167,39.5883]]]}"
+		"value": "{"type":"Polygon","coordinates":[[[-119.2167,39.5883],[-118.8167,39.5883],[-118.8167,39.9883],[-119.2167,39.9883],[-119.2167,39.5883]]]}"
 	},
 	{
 		"key": "catalog_conformsTo",
-		"value": "https:\/\/project-open-data.cio.gov\/v1.1\/schema"
+		"value": "https://project-open-data.cio.gov/v1.1/schema"
 	},
 	{
 		"key": "catalog_@context",
-		"value": "https:\/\/project-open-data.cio.gov\/v1.1\/schema\/catalog.jsonld"
+		"value": "https://project-open-data.cio.gov/v1.1/schema/catalog.jsonld"
 	},
 	{
 		"key": "catalog_describedBy",
-		"value": "https:\/\/project-open-data.cio.gov\/v1.1\/schema\/catalog.json"
+		"value": "https://project-open-data.cio.gov/v1.1/schema/catalog.json"
 	},
 	{
 		"key": "format",
-		"value": "application\/unknown"
+		"value": "application/unknown"
 	},
 	{
 		"key": "harvest_source_title",
@@ -315,7 +315,7 @@
 	},
 	{
 		"key": "landingPage",
-		"value": "http:\/\/gdr.openei.org\/submissions\/496"
+		"value": "http://gdr.openei.org/submissions/496"
 	},
 	{
 		"key": "harvest_object_id",
@@ -323,7 +323,7 @@
 	},
 	{
 		"key": "accessURL",
-		"value": "http:\/\/gdr.openei.org\/files\/496\/mesh%20%281%29.png"
+		"value": "http://gdr.openei.org/files/496/mesh%20%281%29.png"
 	},
 	{
 		"key": "publisher",
@@ -331,7 +331,7 @@
 	},
 	{
 		"key": "license",
-		"value": "https:\/\/creativecommons.org\/licenses\/by\/4.0\/"
+		"value": "https://creativecommons.org/licenses/by/4.0/"
 	},
 	{
 		"key": "modified",
@@ -347,7 +347,7 @@
 	},
 	{
 		"key": "identifier",
-		"value": "http:\/\/en.openei.org\/doe-opendata\/dataset\/f0000000-e214-4b72-acd2-000000000496"
+		"value": "http://en.openei.org/doe-opendata/dataset/f0000000-e214-4b72-acd2-000000000496"
 	},
 	{
 		"state": "active",
@@ -364,7 +364,7 @@
 		"key": "harvest_source_title",
 		"value": "Energy JSON"
 	}],
-	"license_url": "http:\/\/www.opendefinition.org\/licenses\/cc-by",
+	"license_url": "http://www.opendefinition.org/licenses/cc-by",
 	"organization": {
 		"description": "",
 		"created": "2013-05-18T11:31:21.471948",
@@ -373,7 +373,7 @@
 		"revision_timestamp": "2013-05-31T20:48:37.771905",
 		"is_organization": true,
 		"state": "active",
-		"image_url": "http:\/\/energy.gov\/sites\/prod\/files\/styles\/imagelink\/public\/DoE-Logo.jpeg",
+		"image_url": "http://energy.gov/sites/prod/files/styles/imagelink/public/DoE-Logo.jpeg",
 		"revision_id": "14e1d3c1-4cc7-460c-bf1c-b10e3429b4b0",
 		"type": "organization",
 		"id": "735d0118-b2a7-4246-a0e3-608b0fa8d1ec",

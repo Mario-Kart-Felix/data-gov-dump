@@ -37,7 +37,7 @@
 		"cache_url": null,
 		"name": "JPEG Image File",
 		"created": "2016-03-28T20:04:28.640424",
-		"url": "ftp:\/\/ftp.soest.hawaii.edu\/pibhmc\/website\/data\/mhi\/optical\/mai\/MAI_PredictedLeptoseris.jpg",
+		"url": "ftp://ftp.soest.hawaii.edu/pibhmc/website/data/mhi/optical/mai/MAI_PredictedLeptoseris.jpg",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 0,
@@ -67,7 +67,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2016-03-28T20:04:28.640460",
-		"url": "http:\/\/www.soest.hawaii.edu\/pibhmc\/pibhmc_mhi_mai_optical.htm",
+		"url": "http://www.soest.hawaii.edu/pibhmc/pibhmc_mhi_mai_optical.htm",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 1,
@@ -89,7 +89,7 @@
 		"revision_timestamp": "2013-03-25T23:05:12.923863",
 		"is_organization": true,
 		"state": "active",
-		"image_url": "https:\/\/fortress.wa.gov\/dfw\/score\/score\/images\/noaa_logo.png",
+		"image_url": "https://fortress.wa.gov/dfw/score/score/images/noaa_logo.png",
 		"revision_id": "c6d43080-22e1-405e-a83d-f2a512d9e867",
 		"type": "organization",
 		"id": "e811f0b4-451f-4896-9e8f-fc6802837819",
@@ -100,11 +100,11 @@
 	"name": "predicted-habitat-suitability-for-leptoseris-in-the-auau-channel-region",
 	"isopen": false,
 	"url": null,
-	"notes": "This raster denotes predicted habitat suitability for Leptoseris in the Au'au Channel region. Maximum Entropy (MaxEnt) modeling software was used to create this ensemble model, which is an average of 10 model replicates. MaxEnt works by analyzing the distribution of environmental variables where species are present, so it can find other areas that meet all of the same environmental constraints. Georeferenced records containing information about mesophotic coral occurrence and environmental predictors describing the seafloors depth, vertical structure, available light, surface temperature, currents and distance from shoreline were used to train MaxEnt. Model performance and accuracy were assessed using Receiver Operating Characteristic (ROC) Area Under the Curve (AUC) and a randomly chosen, spatially independent data subset. The average test AUC for this predictive ensemble model was 0.93, and the producers accuracy of this ensemble predictive model was 78.2% (when the habitat suitability threshold = 0.2). The habitat suitability threshold of 0.2 represents the sum of the maximum ROC sensitivity and specificity values. Extreme care should be taken when selecting a habitat suitability threshold because it affects the probability of correctly identifying the presence and absence of mesophotic corals. For more information describing how this predictive surface was developed and its limitations, please see the following website: https:\/\/coastalscience.noaa.gov\/projects\/detail?key=48 This dataset is located between the islands of Maui, Lanai, Molokai and Kahoolawe, and includes the Au'au Channel as well as parts of the Kealaikahiki, Alalakeiki and Kalohi Channels.",
+	"notes": "This raster denotes predicted habitat suitability for Leptoseris in the Au'au Channel region. Maximum Entropy (MaxEnt) modeling software was used to create this ensemble model, which is an average of 10 model replicates. MaxEnt works by analyzing the distribution of environmental variables where species are present, so it can find other areas that meet all of the same environmental constraints. Georeferenced records containing information about mesophotic coral occurrence and environmental predictors describing the seafloors depth, vertical structure, available light, surface temperature, currents and distance from shoreline were used to train MaxEnt. Model performance and accuracy were assessed using Receiver Operating Characteristic (ROC) Area Under the Curve (AUC) and a randomly chosen, spatially independent data subset. The average test AUC for this predictive ensemble model was 0.93, and the producers accuracy of this ensemble predictive model was 78.2% (when the habitat suitability threshold = 0.2). The habitat suitability threshold of 0.2 represents the sum of the maximum ROC sensitivity and specificity values. Extreme care should be taken when selecting a habitat suitability threshold because it affects the probability of correctly identifying the presence and absence of mesophotic corals. For more information describing how this predictive surface was developed and its limitations, please see the following website: https://coastalscience.noaa.gov/projects/detail?key=48 This dataset is located between the islands of Maui, Lanai, Molokai and Kahoolawe, and includes the Au'au Channel as well as parts of the Kealaikahiki, Alalakeiki and Kalohi Channels.",
 	"owner_org": "e811f0b4-451f-4896-9e8f-fc6802837819",
 	"extras": [{
 		"key": "bbox-east-long",
-		"value": "\n          -156.159430\n        "
+		"value": "n          -156.159430n        "
 	},
 	{
 		"key": "resource-type",
@@ -112,7 +112,7 @@
 	},
 	{
 		"key": "bbox-north-lat",
-		"value": "\n          21.089436\n        "
+		"value": "n          21.089436n        "
 	},
 	{
 		"key": "coupled-resource",
@@ -128,7 +128,7 @@
 	},
 	{
 		"key": "graphic-preview-file",
-		"value": "http:\/\/www.soest.hawaii.edu\/pibhmc\/MHI_images\/MAI_PredictedLeptoseris_445.jpg"
+		"value": "http://www.soest.hawaii.edu/pibhmc/MHI_images/MAI_PredictedLeptoseris_445.jpg"
 	},
 	{
 		"key": "metadata-language",
@@ -144,7 +144,7 @@
 	},
 	{
 		"key": "spatial",
-		"value": "{\"type\": \"Polygon\", \"coordinates\": [[[-157.155969, 20.459897], [-156.15943, 20.459897], [-156.15943, 21.089436], [-157.155969, 21.089436], [-157.155969, 20.459897]]]}"
+		"value": "{"type": "Polygon", "coordinates": [[[-157.155969, 20.459897], [-156.15943, 20.459897], [-156.15943, 21.089436], [-157.155969, 21.089436], [-157.155969, 20.459897]]]}"
 	},
 	{
 		"key": "progress",
@@ -152,7 +152,7 @@
 	},
 	{
 		"key": "access_constraints",
-		"value": "[\"Use Constraints: These data were prepared by an agency of the United States Government. Neither the United States Government nor any agency thereof, nor any of their employees, make any warranty, expressed or implied, or assumes any legal liability or responsibility for the accuracy, completeness, or usefulness of any information, apparatus, product, or process disclosed in this report, or represents that its use would not infringe privately owned rights. Reference therein to any specific commercial product, process, or service by trade name, trademark, manufacturer, or otherwise does not necessarily constitute or imply its endorsement, recommendation, or favoring by the United States Government or any agency thereof. Any views and opinions of authors expressed herein do not necessarily state or reflect those of the United States Government or any agency thereof. No warranty, expressed or implied, is made by the U.S. Government as to the accuracy of the data and\/or related materials. The act of distribution shall not constitute any such warranty, and no responsibility is assumed by the U.S. Government in the use of these data or related materials.\", \"Access Constraints: none\"]"
+		"value": "["Use Constraints: These data were prepared by an agency of the United States Government. Neither the United States Government nor any agency thereof, nor any of their employees, make any warranty, expressed or implied, or assumes any legal liability or responsibility for the accuracy, completeness, or usefulness of any information, apparatus, product, or process disclosed in this report, or represents that its use would not infringe privately owned rights. Reference therein to any specific commercial product, process, or service by trade name, trademark, manufacturer, or otherwise does not necessarily constitute or imply its endorsement, recommendation, or favoring by the United States Government or any agency thereof. Any views and opinions of authors expressed herein do not necessarily state or reflect those of the United States Government or any agency thereof. No warranty, expressed or implied, is made by the U.S. Government as to the accuracy of the data and/or related materials. The act of distribution shall not constitute any such warranty, and no responsibility is assumed by the U.S. Government in the use of these data or related materials.", "Access Constraints: none"]"
 	},
 	{
 		"key": "temporal-extent-begin",
@@ -164,7 +164,7 @@
 	},
 	{
 		"key": "bbox-west-long",
-		"value": "\n          -157.155969\n        "
+		"value": "n          -157.155969n        "
 	},
 	{
 		"key": "metadata-date",
@@ -172,7 +172,7 @@
 	},
 	{
 		"key": "dataset-reference-date",
-		"value": "[{\"type\": \"publication\", \"value\": \"2012-06-01\"}]"
+		"value": "[{"type": "publication", "value": "2012-06-01"}]"
 	},
 	{
 		"key": "graphic-preview-description",
@@ -184,7 +184,7 @@
 	},
 	{
 		"key": "licence",
-		"value": "[\"\\n      These data are not to be used for navigational purposes.\\nNOAA makes no warranty regarding these data, expressed or\\nimplied, nor does the fact of distribution constitute such a\\nwarranty. NOAA cannot assume liability for any damages caused by\\nany errors or omissions in these data, nor as a result of the\\nfailure of these data to function on a particular system.\\n    \"]"
+		"value": "["\n      These data are not to be used for navigational purposes.\nNOAA makes no warranty regarding these data, expressed or\nimplied, nor does the fact of distribution constitute such a\nwarranty. NOAA cannot assume liability for any damages caused by\nany errors or omissions in these data, nor as a result of the\nfailure of these data to function on a particular system.\n    "]"
 	},
 	{
 		"key": "metadata_type",
@@ -192,7 +192,7 @@
 	},
 	{
 		"key": "responsible-party",
-		"value": "[{\"name\": \"Pacific Islands Benthic Habitat Mapping Center (PIBHMC), Coral Reef Ecosystem Division (CRED), Pacific Islands Fisheries Science Center (PIFSC), National Marine Fisheries Service (NMFS), National Oceanic and Atmospheric Administration (NOAA)\", \"roles\": [\"pointOfContact\"]}]"
+		"value": "[{"name": "Pacific Islands Benthic Habitat Mapping Center (PIBHMC), Coral Reef Ecosystem Division (CRED), Pacific Islands Fisheries Science Center (PIFSC), National Marine Fisheries Service (NMFS), National Oceanic and Atmospheric Administration (NOAA)", "roles": ["pointOfContact"]}]"
 	},
 	{
 		"key": "temporal-extent-end",
@@ -204,7 +204,7 @@
 	},
 	{
 		"key": "bbox-south-lat",
-		"value": "\n          20.459897\n        "
+		"value": "n          20.459897n        "
 	},
 	{
 		"key": "tags",

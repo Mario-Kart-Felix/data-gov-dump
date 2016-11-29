@@ -37,7 +37,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2016-10-19T14:13:01.447494",
-		"url": "http:\/\/accession.nodc.noaa.gov\/0107470",
+		"url": "http://accession.nodc.noaa.gov/0107470",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 0,
@@ -67,7 +67,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2016-10-19T14:13:01.447545",
-		"url": "https:\/\/www.pifsc.noaa.gov\/cred\/ocean_and_climate_change.php",
+		"url": "https://www.pifsc.noaa.gov/cred/ocean_and_climate_change.php",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 1,
@@ -89,7 +89,7 @@
 		"revision_timestamp": "2013-03-25T23:05:12.923863",
 		"is_organization": true,
 		"state": "active",
-		"image_url": "https:\/\/fortress.wa.gov\/dfw\/score\/score\/images\/noaa_logo.png",
+		"image_url": "https://fortress.wa.gov/dfw/score/score/images/noaa_logo.png",
 		"revision_id": "c6d43080-22e1-405e-a83d-f2a512d9e867",
 		"type": "organization",
 		"id": "e811f0b4-451f-4896-9e8f-fc6802837819",
@@ -100,11 +100,11 @@
 	"name": "cred-shallow-ctd-profiles-asuncion-island-commonwealth-of-the-northern-mariana-islands-cruise-h",
 	"isopen": false,
 	"url": null,
-	"notes": "CRED shallow Conductivity-Temperature-Depth (CTD) casts are vertical profiles (max 30 meter depth, downcast only) of temperature, conductivity and pressure. Data are collected at select nearshore locations, both around islands or banks and within lagoons. Data processing was performed using Seabird Instrument's SeaSoft SBE Data Processing Software (http:\/\/www.seabird.com\/software\/SBEDataProcforWindows.htm). Data format is discreet, tabular (formatted, space delimited ASCII) files for each profile, with a full header as provided by SeaSoft. Raw file extension is HEX, processed file extension is CNV. The header contains latitude, longitude and other location information, as well as all data processing steps and settings. All dates and times are UTC. All positions are WGS84 decimal degrees. Contact Coral Reef Ecosystem Division (CRED), NOAA Pacific Island Fisheries Science Center for more information. https:\/\/www.pifsc.noaa.gov\/cred\/ocean_and_climate_change.php",
+	"notes": "CRED shallow Conductivity-Temperature-Depth (CTD) casts are vertical profiles (max 30 meter depth, downcast only) of temperature, conductivity and pressure. Data are collected at select nearshore locations, both around islands or banks and within lagoons. Data processing was performed using Seabird Instrument's SeaSoft SBE Data Processing Software (http://www.seabird.com/software/SBEDataProcforWindows.htm). Data format is discreet, tabular (formatted, space delimited ASCII) files for each profile, with a full header as provided by SeaSoft. Raw file extension is HEX, processed file extension is CNV. The header contains latitude, longitude and other location information, as well as all data processing steps and settings. All dates and times are UTC. All positions are WGS84 decimal degrees. Contact Coral Reef Ecosystem Division (CRED), NOAA Pacific Island Fisheries Science Center for more information. https://www.pifsc.noaa.gov/cred/ocean_and_climate_change.php",
 	"owner_org": "e811f0b4-451f-4896-9e8f-fc6802837819",
 	"extras": [{
 		"key": "bbox-east-long",
-		"value": "\n          145.39339\n        "
+		"value": "n          145.39339n        "
 	},
 	{
 		"key": "resource-type",
@@ -112,7 +112,7 @@
 	},
 	{
 		"key": "bbox-north-lat",
-		"value": "\n          19.70203\n        "
+		"value": "n          19.70203n        "
 	},
 	{
 		"key": "coupled-resource",
@@ -128,7 +128,7 @@
 	},
 	{
 		"key": "bbox-south-lat",
-		"value": "\n          19.68035\n        "
+		"value": "n          19.68035n        "
 	},
 	{
 		"key": "spatial-reference-system",
@@ -136,7 +136,7 @@
 	},
 	{
 		"key": "spatial",
-		"value": "{\"type\": \"Polygon\", \"coordinates\": [[[145.38855, 19.68035], [145.39339, 19.68035], [145.39339, 19.70203], [145.38855, 19.70203], [145.38855, 19.68035]]]}"
+		"value": "{"type": "Polygon", "coordinates": [[[145.38855, 19.68035], [145.39339, 19.68035], [145.39339, 19.70203], [145.38855, 19.70203], [145.38855, 19.68035]]]}"
 	},
 	{
 		"key": "progress",
@@ -144,7 +144,7 @@
 	},
 	{
 		"key": "access_constraints",
-		"value": "[\"Use Constraints: These oceanographic data are PRELIMINARY data and have not been screened for accuracy. NOAA can not be held liable for use of these data in a manner other than for perusal of preliminary oceanographic data for scientific research on coral reefs ecosystems.\", \"Access Constraints: None\"]"
+		"value": "["Use Constraints: These oceanographic data are PRELIMINARY data and have not been screened for accuracy. NOAA can not be held liable for use of these data in a manner other than for perusal of preliminary oceanographic data for scientific research on coral reefs ecosystems.", "Access Constraints: None"]"
 	},
 	{
 		"key": "temporal-extent-begin",
@@ -156,7 +156,7 @@
 	},
 	{
 		"key": "bbox-west-long",
-		"value": "\n          145.38855\n        "
+		"value": "n          145.38855n        "
 	},
 	{
 		"key": "metadata-date",
@@ -164,7 +164,7 @@
 	},
 	{
 		"key": "dataset-reference-date",
-		"value": "[{\"type\": \"publication\", \"value\": \"2011-06-01\"}]"
+		"value": "[{"type": "publication", "value": "2011-06-01"}]"
 	},
 	{
 		"key": "frequency-of-update",
@@ -172,7 +172,7 @@
 	},
 	{
 		"key": "licence",
-		"value": "[\"\\n      These oceanographic data are PRELIMINARY data and have not been screened for accuracy. NOAA can not be held liable for use of these data in a manner other than for perusal of preliminary oceanographic data for scientific research on coral reefs ecosystems. Disclaimer - NOAA makes no warranty regarding these data, expressed or implied, nor does the fact of distribution constitute such a warranty. NOAA and NODC cannot assume liability for any damages caused by any errors or omissions in these data, nor as a result of the failure of these data to function on a particular system.\\n    \"]"
+		"value": "["\n      These oceanographic data are PRELIMINARY data and have not been screened for accuracy. NOAA can not be held liable for use of these data in a manner other than for perusal of preliminary oceanographic data for scientific research on coral reefs ecosystems. Disclaimer - NOAA makes no warranty regarding these data, expressed or implied, nor does the fact of distribution constitute such a warranty. NOAA and NODC cannot assume liability for any damages caused by any errors or omissions in these data, nor as a result of the failure of these data to function on a particular system.\n    "]"
 	},
 	{
 		"key": "metadata_type",
@@ -180,7 +180,7 @@
 	},
 	{
 		"key": "responsible-party",
-		"value": "[{\"name\": \"Coral Reef Ecosystem Division (CRED), Pacific Islands Fisheries Science Center (PIFSC), National Marine Fisheries Service (NMFS), National Oceanic and Atmospheric Administration (NOAA)\", \"roles\": [\"pointOfContact\"]}]"
+		"value": "[{"name": "Coral Reef Ecosystem Division (CRED), Pacific Islands Fisheries Science Center (PIFSC), National Marine Fisheries Service (NMFS), National Oceanic and Atmospheric Administration (NOAA)", "roles": ["pointOfContact"]}]"
 	},
 	{
 		"key": "temporal-extent-end",
@@ -196,7 +196,7 @@
 	},
 	{
 		"key": "tags",
-		"value": "ocean temperature, pacific ocean, chlorophyll, asuncion island (19n145e0001), microbiota, upwelling, in situ chemical, coral reefs, ocean optics, conductivity temperature depth (ctd) profile, ocean circulation, numeric data sets, sea level pressure, zoology, bacteria, earth science, pigments, oceanography, in situ physical, density, reef assessment and monitoring program (ramp), coastal processes, country\/territory, ocean mixed layer, salinity\/density, asuncion island, commonwealth of the northern mariana islands, chlorophylls, conductivity, coral diseases, attenuation\/transmission, profile, oceans, oceanographic, zooplankton, phytoplankton, dissolved oxygen sensor, 1219, bleaching, organic matter, ocean basin, ocean pressure, water temperature, plankton, thermocline, asuncion island, transmissometer, northern mariana islands, oxygen, in situ biological, biosphere, particulate matter, c201 coral reef watch - physical and biological monitoring of u.s. pacific islands, dissolved gases, ha1101_legii, salinity, reef monitoring and assessment, western pacific ocean, downwelling, corals, coral reef ecosystem division (cred), noaa pacific islands fisheries science center, turbidity, inorganic matter, ocean chemistry",
+		"value": "ocean temperature, pacific ocean, chlorophyll, asuncion island (19n145e0001), microbiota, upwelling, in situ chemical, coral reefs, ocean optics, conductivity temperature depth (ctd) profile, ocean circulation, numeric data sets, sea level pressure, zoology, bacteria, earth science, pigments, oceanography, in situ physical, density, reef assessment and monitoring program (ramp), coastal processes, country/territory, ocean mixed layer, salinity/density, asuncion island, commonwealth of the northern mariana islands, chlorophylls, conductivity, coral diseases, attenuation/transmission, profile, oceans, oceanographic, zooplankton, phytoplankton, dissolved oxygen sensor, 1219, bleaching, organic matter, ocean basin, ocean pressure, water temperature, plankton, thermocline, asuncion island, transmissometer, northern mariana islands, oxygen, in situ biological, biosphere, particulate matter, c201 coral reef watch - physical and biological monitoring of u.s. pacific islands, dissolved gases, ha1101_legii, salinity, reef monitoring and assessment, western pacific ocean, downwelling, corals, coral reef ecosystem division (cred), noaa pacific islands fisheries science center, turbidity, inorganic matter, ocean chemistry",
 		"__extras": {
 			"revision_id": "3d509eba-81c0-4ea7-903e-e86fe99fe9fe",
 			"package_id": "139cf0c9-7545-4a9d-8bbd-48ddb9d8beaa"

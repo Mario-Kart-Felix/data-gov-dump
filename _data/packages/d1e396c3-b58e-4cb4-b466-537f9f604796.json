@@ -36,7 +36,7 @@
 		"cache_url": null,
 		"name": "NDGIS web site",
 		"created": "2014-04-15T13:01:32.562268",
-		"url": "http:\/\/www.nd.gov\/gis",
+		"url": "http://www.nd.gov/gis",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 0,
@@ -65,7 +65,7 @@
 		"cache_url": null,
 		"name": "Download Solid Waste Facilities - Oil Field Special",
 		"created": "2014-04-15T13:01:32.562288",
-		"url": "http:\/\/www.nd.gov\/gis\/apps\/DataDownload\/?clipping=Full&coord=ND83-SF&format=SHAPE&layers=NDHUB.SOLIDWASTE_OILFIELDSPECIAL",
+		"url": "http://www.nd.gov/gis/apps/DataDownload/?clipping=Full&coord=ND83-SF&format=SHAPE&layers=NDHUB.SOLIDWASTE_OILFIELDSPECIAL",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 1,
@@ -94,7 +94,7 @@
 		"cache_url": null,
 		"name": "Solid Waste Facilities - Oil Field Special",
 		"created": "2014-04-15T13:01:32.562296",
-		"url": "http:\/\/ndgishub.nd.gov\/arcgis\/services\/All_Locations\/MapServer\/WMSServer?",
+		"url": "http://ndgishub.nd.gov/arcgis/services/All_Locations/MapServer/WMSServer?",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 2,
@@ -123,7 +123,7 @@
 		"cache_url": null,
 		"name": "Esri REST including WMS",
 		"created": "2014-04-15T13:01:32.562303",
-		"url": "http:\/\/ndgishub.nd.gov\/ArcGIS\/rest\/services\/All_Locations\/MapServer",
+		"url": "http://ndgishub.nd.gov/ArcGIS/rest/services/All_Locations/MapServer",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 3,
@@ -152,7 +152,7 @@
 		"cache_url": null,
 		"name": "Esri REST including WFS and KML",
 		"created": "2014-04-15T13:01:32.562309",
-		"url": "http:\/\/ndgishub.nd.gov\/ArcGIS\/rest\/services\/Features\/Locations\/MapServer",
+		"url": "http://ndgishub.nd.gov/ArcGIS/rest/services/Features/Locations/MapServer",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 4,
@@ -185,7 +185,7 @@
 	"name": "solid-waste-facilities-oil-field-special",
 	"isopen": false,
 	"url": null,
-	"notes": "This file includes permitted facilities that accept special waste with a focus on special waste generated from oilfield exploration and production. The facilities here are current as of December, 2013. This is not a complete list of special waste landfills. A complete list of special waste landfills can be found at www.ndhealth.gov\/wm\/Publications\/SpecialWasteLandfills.pdf. Information about the facilities in this file include facility name, physical address (if available), location, permitted start date the facility may start accepting waste, general waste source (if available), waste type, permit number under the solid waste program, permitted maximum tons per year of wastes the facility may accept, the permit condition listing the maximum tons per year of wastes the facility may accept. Definitions of waste types and other information can be found at www.legis.nd.gov\/cencode\/t23c29.pdf?20140102130428and www.legis.nd.gov\/information\/acdata\/pdf\/33-20-01.1.pdf?20140102130456.",
+	"notes": "This file includes permitted facilities that accept special waste with a focus on special waste generated from oilfield exploration and production. The facilities here are current as of December, 2013. This is not a complete list of special waste landfills. A complete list of special waste landfills can be found at www.ndhealth.gov/wm/Publications/SpecialWasteLandfills.pdf. Information about the facilities in this file include facility name, physical address (if available), location, permitted start date the facility may start accepting waste, general waste source (if available), waste type, permit number under the solid waste program, permitted maximum tons per year of wastes the facility may accept, the permit condition listing the maximum tons per year of wastes the facility may accept. Definitions of waste types and other information can be found at www.legis.nd.gov/cencode/t23c29.pdf?20140102130428and www.legis.nd.gov/information/acdata/pdf/33-20-01.1.pdf?20140102130456.",
 	"license_title": null,
 	"extras": [{
 		"key": "bbox-east-long",
@@ -229,7 +229,7 @@
 	},
 	{
 		"key": "spatial",
-		"value": "{\"type\": \"Polygon\", \"coordinates\": [[[-104.5, 45.5], [-96.5, 45.5], [-96.5, 49.5], [-104.5, 49.5], [-104.5, 45.5]]]}"
+		"value": "{"type": "Polygon", "coordinates": [[[-104.5, 45.5], [-96.5, 45.5], [-96.5, 49.5], [-104.5, 49.5], [-104.5, 45.5]]]}"
 	},
 	{
 		"key": "progress",
@@ -237,7 +237,7 @@
 	},
 	{
 		"key": "access_constraints",
-		"value": "[\"The data should be used for general location purposes only. Exact locations of legal landfill boundaries and cells should be verified with the appropriate City\/County, and with the North Dakota Department of Health, Division of Waste Management.\", \"The State of North Dakota has compiled this data according to conventional cartographic standards, using what is thought to be the most reliable information available. This data is intended to make results of research available at the earliest possible date, but is not intended to constitute final or formal publication. The State of North Dakota makes every effort to provide virus-free files but does not guarantee uncorrupted files. The State of North Dakota does not guarantee this data to be free from errors, inaccuracies, or viruses, and disclaims any responsibility or liability for interpretations or decisions based on this data.\"]"
+		"value": "["The data should be used for general location purposes only. Exact locations of legal landfill boundaries and cells should be verified with the appropriate City/County, and with the North Dakota Department of Health, Division of Waste Management.", "The State of North Dakota has compiled this data according to conventional cartographic standards, using what is thought to be the most reliable information available. This data is intended to make results of research available at the earliest possible date, but is not intended to constitute final or formal publication. The State of North Dakota makes every effort to provide virus-free files but does not guarantee uncorrupted files. The State of North Dakota does not guarantee this data to be free from errors, inaccuracies, or viruses, and disclaims any responsibility or liability for interpretations or decisions based on this data."]"
 	},
 	{
 		"key": "contact-email",
@@ -253,7 +253,7 @@
 	},
 	{
 		"key": "dataset-reference-date",
-		"value": "[{\"type\": \"publication\", \"value\": \"2013-12-20T00:00:00\"}]"
+		"value": "[{"type": "publication", "value": "2013-12-20T00:00:00"}]"
 	},
 	{
 		"key": "graphic-preview-description",
@@ -273,7 +273,7 @@
 	},
 	{
 		"key": "responsible-party",
-		"value": "[{\"name\": \"ND Department of Health\", \"roles\": [\"publisher\"]}, {\"name\": \"North Dakota Department of Health - Division of Waste Management\", \"roles\": [\"pointOfContact\"]}]"
+		"value": "[{"name": "ND Department of Health", "roles": ["publisher"]}, {"name": "North Dakota Department of Health - Division of Waste Management", "roles": ["pointOfContact"]}]"
 	},
 	{
 		"key": "spatial-data-service-type",
@@ -308,14 +308,14 @@
 		"value": "North Dakota GIS Hub Data Portal"
 	}],
 	"organization": {
-		"description": "The GIS Hub is the state source for GIS - data, services, and information.  More information can be found at www.nd.gov\/gis.",
+		"description": "The GIS Hub is the state source for GIS - data, services, and information.  More information can be found at www.nd.gov/gis.",
 		"created": "2013-03-14T03:44:44.340717",
 		"title": "State of North Dakota",
 		"name": "nd-gov",
 		"revision_timestamp": "2013-07-15T16:27:30.098476",
 		"is_organization": true,
 		"state": "active",
-		"image_url": "http:\/\/www.nd.gov\/gis\/images\/ndgis-logo.gif",
+		"image_url": "http://www.nd.gov/gis/images/ndgis-logo.gif",
 		"revision_id": "27517bb9-815c-4d4f-b45b-b88b6316697b",
 		"type": "organization",
 		"id": "1c782de6-9f1f-4427-93fd-33732e29970f",

@@ -30,7 +30,7 @@
 		"revision_timestamp": "2014-01-16T18:58:42.895981",
 		"is_organization": true,
 		"state": "active",
-		"image_url": "http:\/\/edg.epa.gov\/EPALogo.svg",
+		"image_url": "http://edg.epa.gov/EPALogo.svg",
 		"revision_id": "f0e4b475-7424-4ce0-9a22-412e7e595154",
 		"type": "organization",
 		"id": "6d90e48d-3076-4327-b2f4-c33919f374d5",
@@ -41,7 +41,7 @@
 	"name": "us-epa-brownfields-grants",
 	"isopen": false,
 	"url": null,
-	"notes": "This layer provides point locations for Brownfields Grants as derived from the Cleanups in My Community (CIMC) database. Locations were derived from Cleanups in My Community areas and points.\u00a0 For areas, a centroid was created for each area or place of performance. For grants where there were multiple areas, a centroid was created for each of those areas and then inserted into the layer as separate records, with each record representing a centroid.",
+	"notes": "This layer provides point locations for Brownfields Grants as derived from the Cleanups in My Community (CIMC) database. Locations were derived from Cleanups in My Community areas and points.u00a0 For areas, a centroid was created for each area or place of performance. For grants where there were multiple areas, a centroid was created for each of those areas and then inserted into the layer as separate records, with each record representing a centroid.",
 	"owner_org": "6d90e48d-3076-4327-b2f4-c33919f374d5",
 	"extras": [{
 		"key": "bbox-east-long",
@@ -77,7 +77,7 @@
 	},
 	{
 		"key": "spatial",
-		"value": "{\"type\": \"Polygon\", \"coordinates\": [[[-174.20005, 17.70101], [-64.6851, 17.70101], [-64.6851, 71.29507], [-174.20005, 71.29507], [-174.20005, 17.70101]]]}"
+		"value": "{"type": "Polygon", "coordinates": [[[-174.20005, 17.70101], [-64.6851, 17.70101], [-64.6851, 71.29507], [-174.20005, 71.29507], [-174.20005, 17.70101]]]}"
 	},
 	{
 		"key": "progress",
@@ -85,7 +85,7 @@
 	},
 	{
 		"key": "access_constraints",
-		"value": "[\"Use Constraints: None. Please check sources, scale, accuracy, currentness and other available information. Please confirm that you are using the most recent copy of both data and metadata. Acknowledgement of the EPA would be appreciated.\", \"Access Constraints: None.\"]"
+		"value": "["Use Constraints: None. Please check sources, scale, accuracy, currentness and other available information. Please confirm that you are using the most recent copy of both data and metadata. Acknowledgement of the EPA would be appreciated.", "Access Constraints: None."]"
 	},
 	{
 		"key": "temporal-extent-begin",
@@ -93,7 +93,7 @@
 	},
 	{
 		"key": "licence_url",
-		"value": "https:\/\/edg.epa.gov\/EPA_Data_License.htm"
+		"value": "https://edg.epa.gov/EPA_Data_License.htm"
 	},
 	{
 		"key": "contact-email",
@@ -109,7 +109,7 @@
 	},
 	{
 		"key": "dataset-reference-date",
-		"value": "[{\"type\": \"publication\", \"value\": \"2012-05-07\"}]"
+		"value": "[{"type": "publication", "value": "2012-05-07"}]"
 	},
 	{
 		"key": "frequency-of-update",
@@ -117,7 +117,7 @@
 	},
 	{
 		"key": "licence",
-		"value": "[\"https:\/\/edg.epa.gov\/EPA_Data_License.htm\"]"
+		"value": "["https://edg.epa.gov/EPA_Data_License.htm"]"
 	},
 	{
 		"key": "metadata_type",
@@ -125,7 +125,7 @@
 	},
 	{
 		"key": "responsible-party",
-		"value": "[{\"name\": \"U.S. Environmental Protection Agency, Office of Environmental Information\", \"roles\": [\"pointOfContact\"]}]"
+		"value": "[{"name": "U.S. Environmental Protection Agency, Office of Environmental Information", "roles": ["pointOfContact"]}]"
 	},
 	{
 		"key": "temporal-extent-end",

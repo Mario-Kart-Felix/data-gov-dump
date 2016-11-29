@@ -28,7 +28,7 @@
 	"name": "locations-of-combined-sewer-overflow-outfalls",
 	"isopen": false,
 	"url": null,
-	"notes": "This data layer identifies the locations of Combined sewer overflow outfalls. Combined sewer systems are sewers that are designed to collect rainwater runoff, domestic sewage, and industrial wastewater in the same pipe. Most of the time, combined sewer systems transport all of their wastewater to a sewage treatment plant, where it is treated and then discharged to a water body. During periods of heavy rainfall or snowmelt, however, the wastewater volume in a combined sewer system can exceed the capacity of the sewer system or treatment plant. For this reason, combined sewer systems are designed to overflow occasionally and discharge excess untreated wastewater directly to nearby streams, rivers, or other water bodies. For further information visit: http:\/\/cfpub1.epa.gov\/npdes\/home.cfm?program_id=5",
+	"notes": "This data layer identifies the locations of Combined sewer overflow outfalls. Combined sewer systems are sewers that are designed to collect rainwater runoff, domestic sewage, and industrial wastewater in the same pipe. Most of the time, combined sewer systems transport all of their wastewater to a sewage treatment plant, where it is treated and then discharged to a water body. During periods of heavy rainfall or snowmelt, however, the wastewater volume in a combined sewer system can exceed the capacity of the sewer system or treatment plant. For this reason, combined sewer systems are designed to overflow occasionally and discharge excess untreated wastewater directly to nearby streams, rivers, or other water bodies. For further information visit: http://cfpub1.epa.gov/npdes/home.cfm?program_id=5",
 	"license_title": null,
 	"extras": [{
 		"key": "bbox-east-long",
@@ -64,7 +64,7 @@
 	},
 	{
 		"key": "spatial",
-		"value": "{\"type\": \"Polygon\", \"coordinates\": [[[-82.581299, 37.37793], [-75.020966, 37.37793], [-75.020966, 42.154297], [-82.581299, 42.154297], [-82.581299, 37.37793]]]}"
+		"value": "{"type": "Polygon", "coordinates": [[[-82.581299, 37.37793], [-75.020966, 37.37793], [-75.020966, 42.154297], [-82.581299, 42.154297], [-82.581299, 37.37793]]]}"
 	},
 	{
 		"key": "progress",
@@ -72,11 +72,11 @@
 	},
 	{
 		"key": "access_constraints",
-		"value": "[\"Use Constraints: These data should not be distributed to users unless distribution is explicitly granted. Please check sources, scale, accuracy, currency and other available information. Please confirm that you are using the most recent copy of both data and metadata. Acknowledgement of the EPA would be appreciated.\", \"Access Constraints: None\"]"
+		"value": "["Use Constraints: These data should not be distributed to users unless distribution is explicitly granted. Please check sources, scale, accuracy, currency and other available information. Please confirm that you are using the most recent copy of both data and metadata. Acknowledgement of the EPA would be appreciated.", "Access Constraints: None"]"
 	},
 	{
 		"key": "licence_url",
-		"value": "https:\/\/edg.epa.gov\/EPA_Data_License.html"
+		"value": "https://edg.epa.gov/EPA_Data_License.html"
 	},
 	{
 		"key": "contact-email",
@@ -92,7 +92,7 @@
 	},
 	{
 		"key": "dataset-reference-date",
-		"value": "[{\"type\": \"publication\", \"value\": \"2012-01-01\"}]"
+		"value": "[{"type": "publication", "value": "2012-01-01"}]"
 	},
 	{
 		"key": "frequency-of-update",
@@ -100,7 +100,7 @@
 	},
 	{
 		"key": "licence",
-		"value": "[\"https:\/\/edg.epa.gov\/EPA_Data_License.html\"]"
+		"value": "["https://edg.epa.gov/EPA_Data_License.html"]"
 	},
 	{
 		"key": "metadata_type",
@@ -108,7 +108,7 @@
 	},
 	{
 		"key": "responsible-party",
-		"value": "[{\"name\": \"U.S. Environmental Protection Agency, Region 3\", \"roles\": [\"pointOfContact\"]}]"
+		"value": "[{"name": "U.S. Environmental Protection Agency, Region 3", "roles": ["pointOfContact"]}]"
 	},
 	{
 		"key": "spatial-data-service-type",
@@ -150,7 +150,7 @@
 		"revision_timestamp": "2014-01-16T18:58:42.895981",
 		"is_organization": true,
 		"state": "active",
-		"image_url": "http:\/\/edg.epa.gov\/EPALogo.svg",
+		"image_url": "http://edg.epa.gov/EPALogo.svg",
 		"revision_id": "f0e4b475-7424-4ce0-9a22-412e7e595154",
 		"type": "organization",
 		"id": "6d90e48d-3076-4327-b2f4-c33919f374d5",

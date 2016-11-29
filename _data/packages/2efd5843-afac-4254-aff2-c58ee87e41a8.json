@@ -36,7 +36,7 @@
 		"cache_url": null,
 		"name": "NDGIS web site",
 		"created": "2015-01-09T11:58:50.331486",
-		"url": "http:\/\/www.nd.gov\/gis",
+		"url": "http://www.nd.gov/gis",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 0,
@@ -65,7 +65,7 @@
 		"cache_url": null,
 		"name": "Download Cass County Aerial Photography 2011",
 		"created": "2015-01-09T11:58:50.331556",
-		"url": "http:\/\/gisdata.nd.gov\/Counties\/Cass\/AerialPhotography\/2011\/",
+		"url": "http://gisdata.nd.gov/Counties/Cass/AerialPhotography/2011/",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 1,
@@ -94,7 +94,7 @@
 		"cache_url": null,
 		"name": "Cass_2011",
 		"created": "2015-01-09T11:58:50.331568",
-		"url": "http:\/\/ndgishub.nd.gov\/arcgis\/services\/All_Imagery\/MapServer\/WMSServer?",
+		"url": "http://ndgishub.nd.gov/arcgis/services/All_Imagery/MapServer/WMSServer?",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 2,
@@ -123,7 +123,7 @@
 		"cache_url": null,
 		"name": "Esri REST including WMS and WCS",
 		"created": "2015-01-09T11:58:50.331576",
-		"url": "http:\/\/ndgishub.nd.gov\/ArcGIS\/rest\/services\/All_Imagery\/MapServer",
+		"url": "http://ndgishub.nd.gov/ArcGIS/rest/services/All_Imagery/MapServer",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 3,
@@ -156,7 +156,7 @@
 	"name": "cass-county-aerial-photography-2011",
 	"isopen": false,
 	"url": null,
-	"notes": "The project encompassed an area of approximately 1304 square miles. A Leica ADS40\/SH52 Digital Camera system including an inertial measuring unit (IMU) and a dual frequency airborne GPS receiver was used for the digital image acquisition. Imagery acquisition was performed May 15-17, 2011 at 4800' AMT (above mean terrain), with 30 percent sidelap between the flight lines. Digital orthophotos in TIFF format were produced with a resolution of 0.5 foot utilizing the ADS40\/SH52 imagery and Red River Basin LiDAR Elevation DEM.",
+	"notes": "The project encompassed an area of approximately 1304 square miles. A Leica ADS40/SH52 Digital Camera system including an inertial measuring unit (IMU) and a dual frequency airborne GPS receiver was used for the digital image acquisition. Imagery acquisition was performed May 15-17, 2011 at 4800' AMT (above mean terrain), with 30 percent sidelap between the flight lines. Digital orthophotos in TIFF format were produced with a resolution of 0.5 foot utilizing the ADS40/SH52 imagery and Red River Basin LiDAR Elevation DEM.",
 	"license_title": null,
 	"extras": [{
 		"key": "bbox-east-long",
@@ -200,7 +200,7 @@
 	},
 	{
 		"key": "spatial",
-		"value": "{\"type\": \"Polygon\", \"coordinates\": [[[-97.7684720872, 46.612873], [-96.625077, 46.612873], [-96.625077, 47.2938364531], [-97.7684720872, 47.2938364531], [-97.7684720872, 46.612873]]]}"
+		"value": "{"type": "Polygon", "coordinates": [[[-97.7684720872, 46.612873], [-96.625077, 46.612873], [-96.625077, 47.2938364531], [-97.7684720872, 47.2938364531], [-97.7684720872, 46.612873]]]}"
 	},
 	{
 		"key": "progress",
@@ -208,7 +208,7 @@
 	},
 	{
 		"key": "access_constraints",
-		"value": "[\"Not for navigation, The State of North Dakota has compiled this data according to conventional cartographic standards, using what is thought to be the most reliable information available. This data is intended to make results of research available at the earliest possible date, but is not intended to constitute final or formal publication. The State of North Dakota makes every effort to provide virus-free files but does not guarantee uncorrupted files. The State of North Dakota does not guarantee this data to be free from errors, inaccuracies, or viruses, and disclaims any responsibility or liability for interpretations or decisions based on this data.\"]"
+		"value": "["Not for navigation, The State of North Dakota has compiled this data according to conventional cartographic standards, using what is thought to be the most reliable information available. This data is intended to make results of research available at the earliest possible date, but is not intended to constitute final or formal publication. The State of North Dakota makes every effort to provide virus-free files but does not guarantee uncorrupted files. The State of North Dakota does not guarantee this data to be free from errors, inaccuracies, or viruses, and disclaims any responsibility or liability for interpretations or decisions based on this data."]"
 	},
 	{
 		"key": "contact-email",
@@ -224,7 +224,7 @@
 	},
 	{
 		"key": "dataset-reference-date",
-		"value": "[{\"type\": \"publication\", \"value\": \"2012-04-13\"}]"
+		"value": "[{"type": "publication", "value": "2012-04-13"}]"
 	},
 	{
 		"key": "graphic-preview-description",
@@ -244,7 +244,7 @@
 	},
 	{
 		"key": "responsible-party",
-		"value": "[{\"name\": \"Cass County\", \"roles\": [\"pointOfContact\"]}]"
+		"value": "[{"name": "Cass County", "roles": ["pointOfContact"]}]"
 	},
 	{
 		"key": "spatial-data-service-type",
@@ -279,14 +279,14 @@
 		"value": "North Dakota GIS Hub Data Portal"
 	}],
 	"organization": {
-		"description": "The GIS Hub is the state source for GIS - data, services, and information.  More information can be found at www.nd.gov\/gis.",
+		"description": "The GIS Hub is the state source for GIS - data, services, and information.  More information can be found at www.nd.gov/gis.",
 		"created": "2013-03-14T03:44:44.340717",
 		"title": "State of North Dakota",
 		"name": "nd-gov",
 		"revision_timestamp": "2013-07-15T16:27:30.098476",
 		"is_organization": true,
 		"state": "active",
-		"image_url": "http:\/\/www.nd.gov\/gis\/images\/ndgis-logo.gif",
+		"image_url": "http://www.nd.gov/gis/images/ndgis-logo.gif",
 		"revision_id": "27517bb9-815c-4d4f-b45b-b88b6316697b",
 		"type": "organization",
 		"id": "1c782de6-9f1f-4427-93fd-33732e29970f",

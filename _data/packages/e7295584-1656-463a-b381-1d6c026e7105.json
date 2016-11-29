@@ -37,7 +37,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2013-03-26T00:28:10.791501",
-		"url": "http:\/\/<http:\/\/datagateway.nrcs.usda.gov\/>",
+		"url": "http://<http://datagateway.nrcs.usda.gov/>",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 0,
@@ -67,7 +67,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2013-03-26T00:28:10.791517",
-		"url": "http:\/\/cugir.mannlib.cornell.edu\/bucketinfo.jsp?id=8028",
+		"url": "http://cugir.mannlib.cornell.edu/bucketinfo.jsp?id=8028",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 1,
@@ -97,7 +97,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2013-03-26T00:28:10.791522",
-		"url": "http:\/\/www.nass.usda.gov\/research\/Cropland\/SARS1a.htm",
+		"url": "http://www.nass.usda.gov/research/Cropland/SARS1a.htm",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 2,
@@ -145,7 +145,7 @@
 	},
 	{
 		"key": "dataset-reference-date",
-		"value": "[{\"type\": \"publication\", \"value\": \"2009-07-17\"}]"
+		"value": "[{"type": "publication", "value": "2009-07-17"}]"
 	},
 	{
 		"key": "resource-type",
@@ -173,7 +173,7 @@
 	},
 	{
 		"key": "licence",
-		"value": "[\"Disclaimer: Users of the Cropland Data Layer (CDL) are solely responsible for interpretations made from these products. The CDL is provided 'as is' and the USDA, NASS does not warrant results you may obtain using the Cropland Data Layer. Contact our staff at (HQ_RDD_OD@nass.usda.gov) if technical questions arise in the use of the CDL. NASS does maintain a Frequently Asked Questions (FAQ's) section on the CDL website at <http:\/\/www.nass.usda.gov\/research\/Cropland\/SARS1a.htm>. Cornell University provides these geographic data \\\"as is.\\\"\\n            Cornell University makes no guarantee or warranty concerning the\\n            accuracy of information contained in the geographic data. Cornell\\n            University further makes no warranty either expressed or implied,\\n            regarding the condition of the product or its fitness for any\\n            particular purpose. The burden for determining fitness for use lies\\n            entirely with the user. Although these files have been processed\\n            successfully on computers at Cornell University, no warranty is made\\n            by Cornell University regarding the use of these data on any other\\n            system, nor does the fact of distribution constitute or imply any\\n            such warranty.\"]"
+		"value": "["Disclaimer: Users of the Cropland Data Layer (CDL) are solely responsible for interpretations made from these products. The CDL is provided 'as is' and the USDA, NASS does not warrant results you may obtain using the Cropland Data Layer. Contact our staff at (HQ_RDD_OD@nass.usda.gov) if technical questions arise in the use of the CDL. NASS does maintain a Frequently Asked Questions (FAQ's) section on the CDL website at <http://www.nass.usda.gov/research/Cropland/SARS1a.htm>. Cornell University provides these geographic data \"as is.\"\n            Cornell University makes no guarantee or warranty concerning the\n            accuracy of information contained in the geographic data. Cornell\n            University further makes no warranty either expressed or implied,\n            regarding the condition of the product or its fitness for any\n            particular purpose. The burden for determining fitness for use lies\n            entirely with the user. Although these files have been processed\n            successfully on computers at Cornell University, no warranty is made\n            by Cornell University regarding the use of these data on any other\n            system, nor does the fact of distribution constitute or imply any\n            such warranty."]"
 	},
 	{
 		"key": "metadata_type",
@@ -181,11 +181,11 @@
 	},
 	{
 		"key": "responsible-party",
-		"value": "[{\"name\": \"USDA, NASS, Spatial Analysis Research Section\", \"roles\": [\"pointOfContact\"]}]"
+		"value": "[{"name": "USDA, NASS, Spatial Analysis Research Section", "roles": ["pointOfContact"]}]"
 	},
 	{
 		"key": "spatial",
-		"value": "{\"type\": \"Polygon\", \"coordinates\": [[[-79.9961, 40.4566], [-79.9961, 44.9133], [-71.8856, 44.9133], [-71.8856, 40.4566], [-79.9961, 40.4566]]]}"
+		"value": "{"type": "Polygon", "coordinates": [[[-79.9961, 40.4566], [-79.9961, 44.9133], [-71.8856, 44.9133], [-71.8856, 40.4566], [-79.9961, 40.4566]]]}"
 	},
 	{
 		"key": "guid",
@@ -197,7 +197,7 @@
 	},
 	{
 		"key": "access_constraints",
-		"value": "[\"Use Constraints: The USDA, NASS Cropland Data Layer is provided to the public as is and is considered public domain and free to redistribute. The USDA, NASS does not warrant any conclusions drawn from these data. If the user does not have software capable of viewing GEOTIF (.tif) or ERDAS Imagine (.img) file formats then we suggest using the freeware browser ESRI ArcGIS Explorer <http:\/\/www.esri.com\/software\/arcgis\/explorer\/>.\", \"Access Constraints: None\"]"
+		"value": "["Use Constraints: The USDA, NASS Cropland Data Layer is provided to the public as is and is considered public domain and free to redistribute. The USDA, NASS does not warrant any conclusions drawn from these data. If the user does not have software capable of viewing GEOTIF (.tif) or ERDAS Imagine (.img) file formats then we suggest using the freeware browser ESRI ArcGIS Explorer <http://www.esri.com/software/arcgis/explorer/>.", "Access Constraints: None"]"
 	},
 	{
 		"key": "frequency-of-update",
@@ -205,7 +205,7 @@
 	},
 	{
 		"package_id": "e7295584-1656-463a-b381-1d6c026e7105",
-		"value": "farming, 001, environment, 007, imageryBaseMapsEarthCover, 010, Earth Science > Biosphere > Terrestrial Ecosystems > Agricultural Lands, Earth Science > Land Surface > Land Use\/Land Cover > Land Cover, AWIFS > Advanced Wide Field Sensor, MODIS > Moderate-Resolution Imaging Spectroradiometer, crop cover, cropland, agriculture, land cover, crop estimates, AWiFS, MODIS",
+		"value": "farming, 001, environment, 007, imageryBaseMapsEarthCover, 010, Earth Science > Biosphere > Terrestrial Ecosystems > Agricultural Lands, Earth Science > Land Surface > Land Use/Land Cover > Land Cover, AWIFS > Advanced Wide Field Sensor, MODIS > Moderate-Resolution Imaging Spectroradiometer, crop cover, cropland, agriculture, land cover, crop estimates, AWiFS, MODIS",
 		"revision_timestamp": "2013-05-17T00:00:00",
 		"state": "active",
 		"key": "tags",
@@ -235,7 +235,7 @@
 		"revision_timestamp": "2013-03-25T16:20:43.179153",
 		"is_organization": true,
 		"state": "active",
-		"image_url": "https:\/\/encrypted-tbn0.gstatic.com\/images?q=tbn:ANd9GcSSUlT4KL5Yu0Z4wxvwH6W1RomS6KRl7Cat3zfx4j2MbexEoofWuiXi61-3",
+		"image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSSUlT4KL5Yu0Z4wxvwH6W1RomS6KRl7Cat3zfx4j2MbexEoofWuiXi61-3",
 		"revision_id": "cecc899c-71b7-4197-ab17-e7aa41978b20",
 		"type": "organization",
 		"id": "dd3a2a7c-e157-40d6-af0d-fe0a5a0ed064",

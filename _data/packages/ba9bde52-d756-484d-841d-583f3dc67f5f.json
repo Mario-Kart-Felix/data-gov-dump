@@ -36,7 +36,7 @@
 		"cache_url": null,
 		"name": "Data Subset Form",
 		"created": "2016-10-03T21:13:01.140535",
-		"url": "http:\/\/coastwatch.pfeg.noaa.gov\/erddap\/tabledap\/ndbcSosWaves.html",
+		"url": "http://coastwatch.pfeg.noaa.gov/erddap/tabledap/ndbcSosWaves.html",
 		"webstore_url": null,
 		"resource_locator_function": "download",
 		"position": 0,
@@ -65,7 +65,7 @@
 		"cache_url": null,
 		"name": "Make-A-Graph Form",
 		"created": "2016-10-03T21:13:01.140559",
-		"url": "http:\/\/coastwatch.pfeg.noaa.gov\/erddap\/tabledap\/ndbcSosWaves.graph",
+		"url": "http://coastwatch.pfeg.noaa.gov/erddap/tabledap/ndbcSosWaves.graph",
 		"webstore_url": null,
 		"resource_locator_function": "mapDigital",
 		"position": 1,
@@ -94,7 +94,7 @@
 		"cache_url": null,
 		"name": "Background Information",
 		"created": "2016-10-03T21:13:01.140569",
-		"url": "http:\/\/sdf.ndbc.noaa.gov\/sos\/",
+		"url": "http://sdf.ndbc.noaa.gov/sos/",
 		"webstore_url": null,
 		"resource_locator_function": "information",
 		"position": 2,
@@ -123,7 +123,7 @@
 		"cache_url": null,
 		"name": "Background Information",
 		"created": "2016-10-03T21:13:01.140577",
-		"url": "http:\/\/sdf.ndbc.noaa.gov\/sos\/",
+		"url": "http://sdf.ndbc.noaa.gov/sos/",
 		"webstore_url": null,
 		"resource_locator_function": "information",
 		"position": 3,
@@ -152,7 +152,7 @@
 		"cache_url": null,
 		"name": "Background Information",
 		"created": "2016-10-03T21:13:01.140585",
-		"url": "http:\/\/sdf.ndbc.noaa.gov\/sos\/",
+		"url": "http://sdf.ndbc.noaa.gov/sos/",
 		"webstore_url": null,
 		"resource_locator_function": "information",
 		"position": 4,
@@ -181,7 +181,7 @@
 		"cache_url": null,
 		"name": "ERDDAP-tabledap",
 		"created": "2016-10-03T21:13:01.140593",
-		"url": "http:\/\/coastwatch.pfeg.noaa.gov\/erddap\/tabledap\/ndbcSosWaves",
+		"url": "http://coastwatch.pfeg.noaa.gov/erddap/tabledap/ndbcSosWaves",
 		"webstore_url": null,
 		"resource_locator_function": "download",
 		"position": 5,
@@ -210,7 +210,7 @@
 		"cache_url": null,
 		"name": "Background Information",
 		"created": "2016-10-03T21:13:01.140600",
-		"url": "http:\/\/sdf.ndbc.noaa.gov\/sos\/",
+		"url": "http://sdf.ndbc.noaa.gov/sos/",
 		"webstore_url": null,
 		"resource_locator_function": "information",
 		"position": 6,
@@ -239,7 +239,7 @@
 		"cache_url": null,
 		"name": "OPeNDAP",
 		"created": "2016-10-03T21:13:01.140608",
-		"url": "http:\/\/coastwatch.pfeg.noaa.gov\/erddap\/tabledap\/ndbcSosWaves",
+		"url": "http://coastwatch.pfeg.noaa.gov/erddap/tabledap/ndbcSosWaves",
 		"webstore_url": null,
 		"resource_locator_function": "download",
 		"position": 7,
@@ -268,7 +268,7 @@
 		"cache_url": null,
 		"name": "Background Information",
 		"created": "2016-10-03T21:13:01.140615",
-		"url": "http:\/\/sdf.ndbc.noaa.gov\/sos\/",
+		"url": "http://sdf.ndbc.noaa.gov/sos/",
 		"webstore_url": null,
 		"resource_locator_function": "information",
 		"position": 8,
@@ -297,7 +297,7 @@
 		"cache_url": null,
 		"name": "Subset",
 		"created": "2016-10-03T21:13:01.140623",
-		"url": "http:\/\/coastwatch.pfeg.noaa.gov\/erddap\/tabledap\/ndbcSosWaves.subset",
+		"url": "http://coastwatch.pfeg.noaa.gov/erddap/tabledap/ndbcSosWaves.subset",
 		"webstore_url": null,
 		"resource_locator_function": "download",
 		"position": 9,
@@ -317,7 +317,7 @@
 	"name": "noaa-ndbc-sos-waves",
 	"isopen": false,
 	"url": null,
-	"notes": "The NOAA NDBC SOS server is part of the IOOS DIF SOS Project.  The stations in this dataset have waves data.\n\nBecause of the nature of SOS requests, requests for data MUST include constraints for the longitude, latitude, time, and\/or station_id variables.",
+	"notes": "The NOAA NDBC SOS server is part of the IOOS DIF SOS Project.  The stations in this dataset have waves data.nnBecause of the nature of SOS requests, requests for data MUST include constraints for the longitude, latitude, time, and/or station_id variables.",
 	"license_title": null,
 	"extras": [{
 		"key": "bbox-east-long",
@@ -333,7 +333,7 @@
 	},
 	{
 		"key": "coupled-resource",
-		"value": "[{\"href\": [\"#DataIdentification\"], \"uuid\": [], \"title\": []}, {\"href\": [\"#DataIdentification\"], \"uuid\": [], \"title\": []}, {\"href\": [\"#DataIdentification\"], \"uuid\": [], \"title\": []}]"
+		"value": "[{"href": ["#DataIdentification"], "uuid": [], "title": []}, {"href": ["#DataIdentification"], "uuid": [], "title": []}, {"href": ["#DataIdentification"], "uuid": [], "title": []}]"
 	},
 	{
 		"key": "guid",
@@ -353,7 +353,7 @@
 	},
 	{
 		"key": "spatial",
-		"value": "{\"type\": \"Polygon\", \"coordinates\": [[[-177.75, -19.713], [179.0, -19.713], [179.0, 70.875], [-177.75, 70.875], [-177.75, -19.713]]]}"
+		"value": "{"type": "Polygon", "coordinates": [[[-177.75, -19.713], [179.0, -19.713], [179.0, 70.875], [-177.75, 70.875], [-177.75, -19.713]]]}"
 	},
 	{
 		"key": "progress",
@@ -381,7 +381,7 @@
 	},
 	{
 		"key": "dataset-reference-date",
-		"value": "[{\"type\": \"creation\", \"value\": \"2016-09-27\"}]"
+		"value": "[{"type": "creation", "value": "2016-09-27"}]"
 	},
 	{
 		"key": "frequency-of-update",
@@ -397,7 +397,7 @@
 	},
 	{
 		"key": "responsible-party",
-		"value": "[{\"name\": \"NOAA NDBC\", \"roles\": [\"pointOfContact\"]}]"
+		"value": "[{"name": "NOAA NDBC", "roles": ["pointOfContact"]}]"
 	},
 	{
 		"key": "spatial-data-service-type",
@@ -409,7 +409,7 @@
 	},
 	{
 		"package_id": "ba9bde52-d756-484d-841d-583f3dc67f5f",
-		"value": "wave speed\/direction, ocean temperature, atmosphere, ocean waves, surface waves, calculation, energy, noaa ndbc, number, surface, sampling, sea_surface_wave_significant_height, rate, sea, wave frequency, wave, speed, principal, spectral, significant wave height, station height, temperature, sea_surface_wind_wave_to_direction, altitude, wind waves, station, sea_surface_wind_wave_period, wave period, sea_surface_wave_peak_period, latitude, sea_surface_swell_wave_period, sensor, method, polar, direction, frequencies, swell, oceans, period, water, seawater, sea_surface_wave_mean_period, sea_surface_swell_wave_significant_height, peak, significant, waves, swells, sea_surface_wave_to_direction, noaa, mean_wave_direction, water temperature, ndbc, sea_surface_wind_wave_significant_height, sea_water_temperature, center, bandwidths, sos, longitude, ocean, time, coordinate, sea_surface_swell_wave_to_direction, identifier, wind, mean",
+		"value": "wave speed/direction, ocean temperature, atmosphere, ocean waves, surface waves, calculation, energy, noaa ndbc, number, surface, sampling, sea_surface_wave_significant_height, rate, sea, wave frequency, wave, speed, principal, spectral, significant wave height, station height, temperature, sea_surface_wind_wave_to_direction, altitude, wind waves, station, sea_surface_wind_wave_period, wave period, sea_surface_wave_peak_period, latitude, sea_surface_swell_wave_period, sensor, method, polar, direction, frequencies, swell, oceans, period, water, seawater, sea_surface_wave_mean_period, sea_surface_swell_wave_significant_height, peak, significant, waves, swells, sea_surface_wave_to_direction, noaa, mean_wave_direction, water temperature, ndbc, sea_surface_wind_wave_significant_height, sea_water_temperature, center, bandwidths, sos, longitude, ocean, time, coordinate, sea_surface_swell_wave_to_direction, identifier, wind, mean",
 		"revision_timestamp": "2015-09-26T23:27:42.425594",
 		"state": "active",
 		"key": "tags",
@@ -439,7 +439,7 @@
 		"revision_timestamp": "2013-03-25T23:05:12.923863",
 		"is_organization": true,
 		"state": "active",
-		"image_url": "https:\/\/fortress.wa.gov\/dfw\/score\/score\/images\/noaa_logo.png",
+		"image_url": "https://fortress.wa.gov/dfw/score/score/images/noaa_logo.png",
 		"revision_id": "c6d43080-22e1-405e-a83d-f2a512d9e867",
 		"type": "organization",
 		"id": "e811f0b4-451f-4896-9e8f-fc6802837819",

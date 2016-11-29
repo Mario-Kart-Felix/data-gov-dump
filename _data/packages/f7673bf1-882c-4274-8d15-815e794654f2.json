@@ -37,7 +37,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2015-07-16T17:37:32.194074",
-		"url": "http:\/\/www.bts.gov\/programs\/geographic_information_services\/",
+		"url": "http://www.bts.gov/programs/geographic_information_services/",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 0,
@@ -67,7 +67,7 @@
 		"cache_url": null,
 		"name": "Esri Rest API Endpoint",
 		"created": "2015-07-16T17:37:32.194099",
-		"url": "http:\/\/gis.rita.dot.gov\/ArcGIS\/rest\/services\/NTAD",
+		"url": "http://gis.rita.dot.gov/ArcGIS/rest/services/NTAD",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 1,
@@ -97,7 +97,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2015-07-16T17:37:32.194110",
-		"url": "http:\/\/www.rita.dot.gov\/bts\/sites\/rita.dot.gov.bts\/files\/publications\/national_transportation_atlas_database\/2015\/index.html",
+		"url": "http://www.rita.dot.gov/bts/sites/rita.dot.gov.bts/files/publications/national_transportation_atlas_database/2015/index.html",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 2,
@@ -127,7 +127,7 @@
 		"cache_url": null,
 		"name": "XML File",
 		"created": "2015-07-16T17:37:32.194118",
-		"url": "https:\/\/2bts.rita.dot.gov\/pdc\/index.xml",
+		"url": "https://2bts.rita.dot.gov/pdc/index.xml",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 3,
@@ -147,11 +147,11 @@
 	"name": "state-boundaries-with-shorelines-national",
 	"isopen": false,
 	"url": null,
-	"notes": "State boundaries with shorelines cut in (NTAD 2015). The State Boundary with Detailed Shorelines database was created using TIGER\/LINE 2011 shapefile data gathered from ESRI's Geography Network. The individual county shapefiles were processed into Arc\/Info coverages and then appended together to create complete state coverages. OST-R\/BTS Hydrographic data was integrated to create detailed shorelines. The TIGER\/Line Files are shapefiles and related database files (.dbf) that are an extract of selected geographic and cartographic information from the U.S. Census Bureau's Master Address File \/ Topologically Integrated Geographic Encoding and Referencing (MAF\/TIGER) Database (MTDB). The MTDB represents a seamless national file with no overlaps or gaps between parts, however, each TIGER\/Line File is designed to stand alone as an independent data set, or they can be combined to cover the entire nation. States and equivalent entities are the primary governmental divisions of the United States. In addition to the fifty States, the Census Bureau treats the District of Columbia, Puerto Rico, and each of the Island Areas (American Samoa, the Commonwealth of the Northern Mariana Islands, Guam, and the U.S. Virgin Islands) as the statistical equivalents of States for the purpose of data presentation.",
+	"notes": "State boundaries with shorelines cut in (NTAD 2015). The State Boundary with Detailed Shorelines database was created using TIGER/LINE 2011 shapefile data gathered from ESRI's Geography Network. The individual county shapefiles were processed into Arc/Info coverages and then appended together to create complete state coverages. OST-R/BTS Hydrographic data was integrated to create detailed shorelines. The TIGER/Line Files are shapefiles and related database files (.dbf) that are an extract of selected geographic and cartographic information from the U.S. Census Bureau's Master Address File / Topologically Integrated Geographic Encoding and Referencing (MAF/TIGER) Database (MTDB). The MTDB represents a seamless national file with no overlaps or gaps between parts, however, each TIGER/Line File is designed to stand alone as an independent data set, or they can be combined to cover the entire nation. States and equivalent entities are the primary governmental divisions of the United States. In addition to the fifty States, the Census Bureau treats the District of Columbia, Puerto Rico, and each of the Island Areas (American Samoa, the Commonwealth of the Northern Mariana Islands, Guam, and the U.S. Virgin Islands) as the statistical equivalents of States for the purpose of data presentation.",
 	"license_title": null,
 	"extras": [{
 		"key": "responsible-party",
-		"value": "[{\"name\": \"Office of the Assistant Secretary for Research and Technology\/Bureau of Transportation Statistics\", \"roles\": [\"pointOfContact\"]}, {\"name\": \"U.S. Bureau of the Census (BOC)\", \"roles\": [\"pointOfContact\"]}]"
+		"value": "[{"name": "Office of the Assistant Secretary for Research and Technology/Bureau of Transportation Statistics", "roles": ["pointOfContact"]}, {"name": "U.S. Bureau of the Census (BOC)", "roles": ["pointOfContact"]}]"
 	},
 	{
 		"key": "contact-email",
@@ -171,7 +171,7 @@
 	},
 	{
 		"key": "dataset-reference-date",
-		"value": "[{\"type\": \"publication\", \"value\": \"2015-01-01\"}]"
+		"value": "[{"type": "publication", "value": "2015-01-01"}]"
 	},
 	{
 		"key": "resource-type",
@@ -199,7 +199,7 @@
 	},
 	{
 		"key": "licence",
-		"value": "[\"None\"]"
+		"value": "["None"]"
 	},
 	{
 		"key": "metadata_type",
@@ -211,7 +211,7 @@
 	},
 	{
 		"key": "spatial",
-		"value": "{\"type\": \"Polygon\", \"coordinates\": [[[-179.168582, -14.599751], [179.748694, -14.599751], [179.748694, 71.38961], [-179.168582, 71.38961], [-179.168582, -14.599751]]]}"
+		"value": "{"type": "Polygon", "coordinates": [[[-179.168582, -14.599751], [179.748694, -14.599751], [179.748694, 71.38961], [-179.168582, 71.38961], [-179.168582, -14.599751]]]}"
 	},
 	{
 		"key": "guid",
@@ -223,7 +223,7 @@
 	},
 	{
 		"key": "access_constraints",
-		"value": "[\"Use Constraints: Acknowledgement of the Office of the Assistant Secretary for Research and Technology\/Bureau of Transportation Statistics (BTS) National Transportation Atlas Databases (NTAD) 2015 would be appreciated in products derived from these data. The TIGER\/Line Shapefile products are not copyrighted however TIGER\/Line and Census TIGER are registered trademarks of the U.S. Census Bureau. These products are free to use in a product or publication, however acknowledgement must be given to the U.S. Census Bureau as the source. The boundary information in the TIGER\/Line Shapefiles are for statistical data collection and tabulation purposes only; their depiction and designation for statistical purposes does not constitute a determination of jurisdictional authority or rights of ownership or entitlement and they are not legal land descriptions.Coordinates in the TIGER\/Line shapefiles have six implied decimal places, but the positional accuracy of these coordinates is not as great as the six decimal places suggest.\", \"Access Constraints: None\"]"
+		"value": "["Use Constraints: Acknowledgement of the Office of the Assistant Secretary for Research and Technology/Bureau of Transportation Statistics (BTS) National Transportation Atlas Databases (NTAD) 2015 would be appreciated in products derived from these data. The TIGER/Line Shapefile products are not copyrighted however TIGER/Line and Census TIGER are registered trademarks of the U.S. Census Bureau. These products are free to use in a product or publication, however acknowledgement must be given to the U.S. Census Bureau as the source. The boundary information in the TIGER/Line Shapefiles are for statistical data collection and tabulation purposes only; their depiction and designation for statistical purposes does not constitute a determination of jurisdictional authority or rights of ownership or entitlement and they are not legal land descriptions.Coordinates in the TIGER/Line shapefiles have six implied decimal places, but the positional accuracy of these coordinates is not as great as the six decimal places suggest.", "Access Constraints: None"]"
 	},
 	{
 		"key": "spatial_harvester",
@@ -265,7 +265,7 @@
 		"revision_timestamp": "2013-08-30T13:59:29.523214",
 		"is_organization": true,
 		"state": "active",
-		"image_url": "http:\/\/upload.wikimedia.org\/wikipedia\/commons\/8\/81\/US_DOT_Triskelion.png",
+		"image_url": "http://upload.wikimedia.org/wikipedia/commons/8/81/US_DOT_Triskelion.png",
 		"revision_id": "684c8481-4ae2-46b0-a083-b392eea15130",
 		"type": "organization",
 		"id": "fc5cb2c1-d0b0-482a-8a52-7d42ea186ae1",

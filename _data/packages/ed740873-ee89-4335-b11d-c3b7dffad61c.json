@@ -36,7 +36,7 @@
 		"cache_url": null,
 		"name": "Service Description",
 		"created": "2013-03-16T01:27:11.255072",
-		"url": "http:\/\/geothermal.isgs.illinois.edu\/ArcGIS\/rest\/services\/aasggeothermal\/NYBoreholeTemperatures\/MapServer",
+		"url": "http://geothermal.isgs.illinois.edu/ArcGIS/rest/services/aasggeothermal/NYBoreholeTemperatures/MapServer",
 		"webstore_url": null,
 		"resource_locator_function": "381",
 		"position": 0,
@@ -65,7 +65,7 @@
 		"cache_url": null,
 		"name": "Downloadable File",
 		"created": "2013-03-16T01:27:11.255092",
-		"url": "http:\/\/geothermal.isgs.illinois.edu\/ArcGIS\/services\/aasggeothermal\/NYBoreholeTemperatures\/MapServer\/WMSServer?request=GetCapabilities&service=WMS",
+		"url": "http://geothermal.isgs.illinois.edu/ArcGIS/services/aasggeothermal/NYBoreholeTemperatures/MapServer/WMSServer?request=GetCapabilities&service=WMS",
 		"webstore_url": null,
 		"resource_locator_function": "375",
 		"position": 1,
@@ -94,7 +94,7 @@
 		"cache_url": null,
 		"name": "Service Description",
 		"created": "2013-03-16T01:27:11.255100",
-		"url": "http:\/\/geothermal.isgs.illinois.edu\/ArcGIS\/services\/aasggeothermal\/NYBoreholeTemperatures\/MapServer\/WFSServer?request=GetCapabilities&service=WFS",
+		"url": "http://geothermal.isgs.illinois.edu/ArcGIS/services/aasggeothermal/NYBoreholeTemperatures/MapServer/WFSServer?request=GetCapabilities&service=WFS",
 		"webstore_url": null,
 		"resource_locator_function": "381",
 		"position": 2,
@@ -123,7 +123,7 @@
 		"cache_url": null,
 		"name": "Excel File",
 		"created": "2013-03-16T01:27:11.255106",
-		"url": "http:\/\/repository.stategeothermaldata.org\/metadata\/record\/9e15e1a59b768b330d029e86dc00481f\/file\/nyboreholetemperatures.zip",
+		"url": "http://repository.stategeothermaldata.org/metadata/record/9e15e1a59b768b330d029e86dc00481f/file/nyboreholetemperatures.zip",
 		"webstore_url": null,
 		"resource_locator_function": "375",
 		"position": 3,
@@ -160,7 +160,7 @@
 	"license_title": null,
 	"extras": [{
 		"key": "responsible-party",
-		"value": "[{\"name\": \"AZGS\", \"roles\": [\"pointOfContact\"]}]"
+		"value": "[{"name": "AZGS", "roles": ["pointOfContact"]}]"
 	},
 	{
 		"key": "contact-email",
@@ -180,7 +180,7 @@
 	},
 	{
 		"key": "dataset-reference-date",
-		"value": "[{\"type\": \"publication\", \"value\": \"2012-10-04T00:00:00\"}]"
+		"value": "[{"type": "publication", "value": "2012-10-04T00:00:00"}]"
 	},
 	{
 		"key": "resource-type",
@@ -216,7 +216,7 @@
 	},
 	{
 		"key": "spatial",
-		"value": "{\"type\": \"Polygon\", \"coordinates\": [[[-79.9906396866, 41.0490164053], [-79.9906396866, 45.0295740638], [-72.6957178116, 45.0295740638], [-72.6957178116, 41.0490164053], [-79.9906396866, 41.0490164053]]]}"
+		"value": "{"type": "Polygon", "coordinates": [[[-79.9906396866, 41.0490164053], [-79.9906396866, 45.0295740638], [-72.6957178116, 45.0295740638], [-72.6957178116, 41.0490164053], [-79.9906396866, 41.0490164053]]]}"
 	},
 	{
 		"key": "guid",
@@ -266,7 +266,7 @@
 		"revision_timestamp": "2013-03-20T21:11:17.592932",
 		"is_organization": true,
 		"state": "active",
-		"image_url": "http:\/\/www.50states.com\/flag\/image\/nunst004.gif",
+		"image_url": "http://www.50states.com/flag/image/nunst004.gif",
 		"revision_id": "61be6428-4398-4199-a336-f3cd1e956f9b",
 		"type": "organization",
 		"id": "f3f6e1d4-64fb-4a2f-b32c-9ac0b76fe4de",

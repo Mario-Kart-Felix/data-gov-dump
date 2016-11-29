@@ -37,7 +37,7 @@
 		"cache_url": null,
 		"name": "Zip File",
 		"created": "2016-02-22T13:49:04.479728",
-		"url": "ftp:\/\/ftp.coast.noaa.gov\/pub\/MSP\/WestCoastCanopyFormingKelp.zip",
+		"url": "ftp://ftp.coast.noaa.gov/pub/MSP/WestCoastCanopyFormingKelp.zip",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 0,
@@ -67,7 +67,7 @@
 		"cache_url": null,
 		"name": "Esri Rest API Endpoint",
 		"created": "2016-02-22T13:49:04.479760",
-		"url": "https:\/\/coast.noaa.gov\/arcgis\/rest\/services\/MarineCadastre\/WestCoastKelp\/MapServer\/",
+		"url": "https://coast.noaa.gov/arcgis/rest/services/MarineCadastre/WestCoastKelp/MapServer/",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 1,
@@ -97,7 +97,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2016-02-22T13:49:04.479769",
-		"url": "http:\/\/www.marinecadastre.gov\/data\/",
+		"url": "http://www.marinecadastre.gov/data/",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 2,
@@ -127,7 +127,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2016-02-22T13:49:04.479776",
-		"url": "https:\/\/coast.noaa.gov\/",
+		"url": "https://coast.noaa.gov/",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 3,
@@ -147,7 +147,7 @@
 	"name": "west-coast-canopy-forming-kelp-1989-2014",
 	"isopen": false,
 	"url": null,
-	"notes": "These data include the general extents of canopy-forming kelp surveys from 1989 to 2014 and a compilation of existing data sets delineating canopy-forming kelp beds along the coasts of Washington, Oregon, and California. Canopy-forming kelp includes species of the genera Nereocystis (bull kelp) and Macrocystis (giant kelp). It does not include the understory kelp genera, such as Laminaria or Alaria. The source data were created from remote-sensing surveys (aerial photos and digital imagery) which often used different survey methods from area to area or year to year. The data depict all kelp observations from all surveys, merged into continuous polygons with the internal boundaries removed (dissolved). This depiction is sometimes referred to as the \"maximum extent.\" Different sections of the coast have been surveyed during different time periods. The number of surveys per section of coast ranges from 1 to 25 surveys. The kelp survey extent data depict the general sections of coastline that were surveyed, how many times they were surveyed, the years of the survey, and which source data were included in the final kelp data compilation.",
+	"notes": "These data include the general extents of canopy-forming kelp surveys from 1989 to 2014 and a compilation of existing data sets delineating canopy-forming kelp beds along the coasts of Washington, Oregon, and California. Canopy-forming kelp includes species of the genera Nereocystis (bull kelp) and Macrocystis (giant kelp). It does not include the understory kelp genera, such as Laminaria or Alaria. The source data were created from remote-sensing surveys (aerial photos and digital imagery) which often used different survey methods from area to area or year to year. The data depict all kelp observations from all surveys, merged into continuous polygons with the internal boundaries removed (dissolved). This depiction is sometimes referred to as the "maximum extent." Different sections of the coast have been surveyed during different time periods. The number of surveys per section of coast ranges from 1 to 25 surveys. The kelp survey extent data depict the general sections of coastline that were surveyed, how many times they were surveyed, the years of the survey, and which source data were included in the final kelp data compilation.",
 	"license_title": null,
 	"extras": [{
 		"key": "bbox-east-long",
@@ -183,7 +183,7 @@
 	},
 	{
 		"key": "spatial",
-		"value": "{\"type\": \"Polygon\", \"coordinates\": [[[-124.844003, 32.530783], [-117.12385, 32.530783], [-117.12385, 48.426418], [-124.844003, 48.426418], [-124.844003, 32.530783]]]}"
+		"value": "{"type": "Polygon", "coordinates": [[[-124.844003, 32.530783], [-117.12385, 32.530783], [-117.12385, 48.426418], [-124.844003, 48.426418], [-124.844003, 32.530783]]]}"
 	},
 	{
 		"key": "progress",
@@ -191,7 +191,7 @@
 	},
 	{
 		"key": "access_constraints",
-		"value": "[\"Use Constraints: None. Please check sources, scale, accuracy, currency and other available information. Please confirm that you are using the most recent copy of both data and metadata. Acknowledgement of the West Coast Ocean Data Portal would be appreciated.\", \"Access Constraints: None\"]"
+		"value": "["Use Constraints: None. Please check sources, scale, accuracy, currency and other available information. Please confirm that you are using the most recent copy of both data and metadata. Acknowledgement of the West Coast Ocean Data Portal would be appreciated.", "Access Constraints: None"]"
 	},
 	{
 		"key": "temporal-extent-begin",
@@ -211,7 +211,7 @@
 	},
 	{
 		"key": "dataset-reference-date",
-		"value": "[{\"type\": \"publication\", \"value\": \"2016-02-10\"}]"
+		"value": "[{"type": "publication", "value": "2016-02-10"}]"
 	},
 	{
 		"key": "frequency-of-update",
@@ -219,7 +219,7 @@
 	},
 	{
 		"key": "licence",
-		"value": "[\"No warranty expressed or implied is made regarding the accuracy or utility of the data on any other system or for general or scientific purposes, nor shall the act of distribution constitute any such warranty. It is also strongly recommended that careful attention be paid to the contents of the metadata file associated with these data to evaluate data set limitations, restrictions or intended use. The West Coast Ocean Data Network shall not be held liable for improper or incorrect use of the data described and\/or contained herein.\"]"
+		"value": "["No warranty expressed or implied is made regarding the accuracy or utility of the data on any other system or for general or scientific purposes, nor shall the act of distribution constitute any such warranty. It is also strongly recommended that careful attention be paid to the contents of the metadata file associated with these data to evaluate data set limitations, restrictions or intended use. The West Coast Ocean Data Network shall not be held liable for improper or incorrect use of the data described and/or contained herein."]"
 	},
 	{
 		"key": "metadata_type",
@@ -227,7 +227,7 @@
 	},
 	{
 		"key": "responsible-party",
-		"value": "[{\"name\": \"NOAA Office for Coastal Management\", \"roles\": [\"pointOfContact\"]}]"
+		"value": "[{"name": "NOAA Office for Coastal Management", "roles": ["pointOfContact"]}]"
 	},
 	{
 		"key": "temporal-extent-end",
@@ -273,7 +273,7 @@
 		"revision_timestamp": "2013-03-25T23:05:12.923863",
 		"is_organization": true,
 		"state": "active",
-		"image_url": "https:\/\/fortress.wa.gov\/dfw\/score\/score\/images\/noaa_logo.png",
+		"image_url": "https://fortress.wa.gov/dfw/score/score/images/noaa_logo.png",
 		"revision_id": "c6d43080-22e1-405e-a83d-f2a512d9e867",
 		"type": "organization",
 		"id": "e811f0b4-451f-4896-9e8f-fc6802837819",

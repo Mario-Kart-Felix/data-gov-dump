@@ -36,7 +36,7 @@
 		"cache_url": null,
 		"name": "File Information",
 		"created": "2014-07-15T09:00:39.582331",
-		"url": "http:\/\/cida.usgs.gov\/thredds\/dodsC\/serap\/serap_urb.html",
+		"url": "http://cida.usgs.gov/thredds/dodsC/serap/serap_urb.html",
 		"webstore_url": null,
 		"resource_locator_function": "download",
 		"position": 0,
@@ -65,7 +65,7 @@
 		"cache_url": null,
 		"name": "Viewer Information",
 		"created": "2014-07-15T09:00:39.582385",
-		"url": "http:\/\/www.ncdc.noaa.gov\/oa\/wct\/wct-jnlp-beta.php?singlefile=http:\/\/cida.usgs.gov\/thredds\/dodsC\/serap\/serap_urb",
+		"url": "http://www.ncdc.noaa.gov/oa/wct/wct-jnlp-beta.php?singlefile=http://cida.usgs.gov/thredds/dodsC/serap/serap_urb",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 1,
@@ -95,7 +95,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2014-07-15T09:00:39.582413",
-		"url": "http:\/\/www.basic.ncsu.edu\/",
+		"url": "http://www.basic.ncsu.edu/",
 		"webstore_url": null,
 		"resource_locator_function": "information",
 		"position": 2,
@@ -125,7 +125,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2014-07-15T09:00:39.582497",
-		"url": "http:\/\/www.basic.ncsu.edu\/",
+		"url": "http://www.basic.ncsu.edu/",
 		"webstore_url": null,
 		"resource_locator_function": "information",
 		"position": 3,
@@ -155,7 +155,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2014-07-15T09:00:39.582525",
-		"url": "http:\/\/www.basic.ncsu.edu\/",
+		"url": "http://www.basic.ncsu.edu/",
 		"webstore_url": null,
 		"resource_locator_function": "information",
 		"position": 4,
@@ -184,7 +184,7 @@
 		"cache_url": null,
 		"name": "OPeNDAP",
 		"created": "2014-07-15T09:00:39.582551",
-		"url": "http:\/\/cida.usgs.gov\/thredds\/dodsC\/serap\/serap_urb",
+		"url": "http://cida.usgs.gov/thredds/dodsC/serap/serap_urb",
 		"webstore_url": null,
 		"resource_locator_function": "download",
 		"position": 5,
@@ -214,7 +214,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2014-07-15T09:00:39.582575",
-		"url": "http:\/\/www.basic.ncsu.edu\/",
+		"url": "http://www.basic.ncsu.edu/",
 		"webstore_url": null,
 		"resource_locator_function": "information",
 		"position": 6,
@@ -243,7 +243,7 @@
 		"cache_url": null,
 		"name": "OGC-WCS",
 		"created": "2014-07-15T09:00:39.582597",
-		"url": "http:\/\/cida.usgs.gov\/thredds\/wcs\/serap\/serap_urb?service=WCS&version=1.0.0&request=GetCapabilities",
+		"url": "http://cida.usgs.gov/thredds/wcs/serap/serap_urb?service=WCS&version=1.0.0&request=GetCapabilities",
 		"webstore_url": null,
 		"resource_locator_function": "download",
 		"position": 7,
@@ -273,7 +273,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2014-07-15T09:00:39.582623",
-		"url": "http:\/\/www.basic.ncsu.edu\/",
+		"url": "http://www.basic.ncsu.edu/",
 		"webstore_url": null,
 		"resource_locator_function": "information",
 		"position": 8,
@@ -302,7 +302,7 @@
 		"cache_url": null,
 		"name": "THREDDS_NetCDF_Subset",
 		"created": "2014-07-15T09:00:39.582650",
-		"url": "http:\/\/cida.usgs.gov\/thredds\/ncss\/grid\/serap\/serap_urb\/dataset.html",
+		"url": "http://cida.usgs.gov/thredds/ncss/grid/serap/serap_urb/dataset.html",
 		"webstore_url": null,
 		"resource_locator_function": "download",
 		"position": 9,
@@ -338,7 +338,7 @@
 	},
 	{
 		"key": "coupled-resource",
-		"value": "[{\"href\": [\"#DataIdentification\"], \"uuid\": [], \"title\": []}, {\"href\": [\"#DataIdentification\"], \"uuid\": [], \"title\": []}, {\"href\": [\"#DataIdentification\"], \"uuid\": [], \"title\": []}]"
+		"value": "[{"href": ["#DataIdentification"], "uuid": [], "title": []}, {"href": ["#DataIdentification"], "uuid": [], "title": []}, {"href": ["#DataIdentification"], "uuid": [], "title": []}]"
 	},
 	{
 		"key": "guid",
@@ -358,7 +358,7 @@
 	},
 	{
 		"key": "spatial",
-		"value": "{\"type\": \"Polygon\", \"coordinates\": [[[-85.48252, 28.271632], [-74.980784, 28.271632], [-74.980784, 38.162486], [-85.48252, 38.162486], [-85.48252, 28.271632]]]}"
+		"value": "{"type": "Polygon", "coordinates": [[[-85.48252, 28.271632], [-74.980784, 28.271632], [-74.980784, 38.162486], [-85.48252, 38.162486], [-85.48252, 28.271632]]]}"
 	},
 	{
 		"key": "progress",
@@ -386,7 +386,7 @@
 	},
 	{
 		"key": "dataset-reference-date",
-		"value": "[{\"type\": \"creation\", \"value\": \"2012-03-01\"}, {\"type\": \"\", \"value\": \"2012-03-01\"}]"
+		"value": "[{"type": "creation", "value": "2012-03-01"}, {"type": "", "value": "2012-03-01"}]"
 	},
 	{
 		"key": "frequency-of-update",
@@ -402,7 +402,7 @@
 	},
 	{
 		"key": "responsible-party",
-		"value": "[{\"name\": \"ncsu\", \"roles\": [\"pointOfContact\"]}]"
+		"value": "[{"name": "ncsu", "roles": ["pointOfContact"]}]"
 	},
 	{
 		"key": "temporal-extent-end",
@@ -441,14 +441,14 @@
 		"value": "geo-data-portal"
 	}],
 	"organization": {
-		"description": "http:\/\/www.usgs.gov\/\r\nThe USGS is a federal science agency that provides impartial information on the health of our ecosystems and environment, the natural hazards that threaten us, the natural resources we rely on, the impacts of climate and land-use change, and the core science systems that help us provide timely, relevant, and useable information.",
+		"description": "http://www.usgs.gov/rnThe USGS is a federal science agency that provides impartial information on the health of our ecosystems and environment, the natural hazards that threaten us, the natural resources we rely on, the impacts of climate and land-use change, and the core science systems that help us provide timely, relevant, and useable information.",
 		"created": "2013-03-14T03:44:38.263357",
 		"title": "U.S. Geological Survey, Department of the Interior",
 		"name": "usgs-gov",
 		"revision_timestamp": "2014-09-02T13:43:52.167023",
 		"is_organization": true,
 		"state": "active",
-		"image_url": "http:\/\/pubs.usgs.gov\/sir\/2004\/5296\/04-5296_confluence_park\/usgs_logo.gif",
+		"image_url": "http://pubs.usgs.gov/sir/2004/5296/04-5296_confluence_park/usgs_logo.gif",
 		"revision_id": "2858aa99-9501-4f96-82e5-9647b968ed66",
 		"type": "organization",
 		"id": "bd2cdd5a-4d65-46c0-9937-c8381175f104",

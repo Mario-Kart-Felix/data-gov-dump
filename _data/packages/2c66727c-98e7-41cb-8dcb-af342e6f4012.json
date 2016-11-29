@@ -36,7 +36,7 @@
 		"cache_url": null,
 		"name": "ESRI Service",
 		"created": "2013-03-16T00:13:13.286145",
-		"url": "http:\/\/web2.nbmg.unr.edu\/ArcGIS\/rest\/services\/ID_data\/IDWellLogs\/MapServer",
+		"url": "http://web2.nbmg.unr.edu/ArcGIS/rest/services/ID_data/IDWellLogs/MapServer",
 		"webstore_url": null,
 		"resource_locator_function": "381",
 		"position": 0,
@@ -65,7 +65,7 @@
 		"cache_url": null,
 		"name": "WFS Capabilities",
 		"created": "2013-03-16T00:13:13.286164",
-		"url": "http:\/\/web2.nbmg.unr.edu\/ArcGIS\/services\/ID_data\/IDWellLogs\/MapServer\/WFSServer?request=GetCapabilities&service=WFS",
+		"url": "http://web2.nbmg.unr.edu/ArcGIS/services/ID_data/IDWellLogs/MapServer/WFSServer?request=GetCapabilities&service=WFS",
 		"webstore_url": null,
 		"resource_locator_function": "381",
 		"position": 1,
@@ -94,7 +94,7 @@
 		"cache_url": null,
 		"name": "WMS Capabilities",
 		"created": "2013-03-16T00:13:13.286171",
-		"url": "http:\/\/web2.nbmg.unr.edu\/ArcGIS\/services\/ID_data\/IDWellLogs\/MapServer\/WMSServer?request=GetCapabilities&service=WMS",
+		"url": "http://web2.nbmg.unr.edu/ArcGIS/services/ID_data/IDWellLogs/MapServer/WMSServer?request=GetCapabilities&service=WMS",
 		"webstore_url": null,
 		"resource_locator_function": "381",
 		"position": 2,
@@ -123,7 +123,7 @@
 		"cache_url": null,
 		"name": "Zipped 2007 Excel Spreadsheet containing Idaho Historic Oil and Gas Well Log Data",
 		"created": "2013-03-16T00:13:13.286177",
-		"url": "http:\/\/repository.stategeothermaldata.org\/metadata\/record\/caad517515720208ad5e01bce4027651\/file\/id_oil_gas_welllogobservation0.8.zip",
+		"url": "http://repository.stategeothermaldata.org/metadata/record/caad517515720208ad5e01bce4027651/file/id_oil_gas_welllogobservation0.8.zip",
 		"webstore_url": null,
 		"resource_locator_function": "375",
 		"position": 3,
@@ -152,7 +152,7 @@
 		"cache_url": null,
 		"name": "Zipped 2007 Excel Spreadsheet containing Idaho IDWR Geothermal Well Log Observation",
 		"created": "2013-03-16T00:13:13.286182",
-		"url": "http:\/\/repository.stategeothermaldata.org\/metadata\/record\/caad517515720208ad5e01bce4027651\/file\/idwelllogs.zip",
+		"url": "http://repository.stategeothermaldata.org/metadata/record/caad517515720208ad5e01bce4027651/file/idwelllogs.zip",
 		"webstore_url": null,
 		"resource_locator_function": "375",
 		"position": 4,
@@ -185,11 +185,11 @@
 	"name": "idaho-well-log-observation-data",
 	"isopen": false,
 	"url": null,
-	"notes": "This dataset contains well log observations compiled by the Idaho Geological Survey, and published as a Web feature service for the National Geothermal Data System. Fields in the Well Log Observation Content Model will become XML elements in interchange documents for WMS simple features provided by a node in the USGIN network. Each observation includes a Log URI, API Number, Latitude and Longitude spatially referenced to EPSG: 4326 (for interoperability). The data contained in the submitted datasets  are available as Excel Workbooks, ESRI service, WMS and WFS service. Link to Well Log Observation Content Model: http:\/\/stategeothermaldata.org\/data_delivery\/content_models\/well_log_observation.",
+	"notes": "This dataset contains well log observations compiled by the Idaho Geological Survey, and published as a Web feature service for the National Geothermal Data System. Fields in the Well Log Observation Content Model will become XML elements in interchange documents for WMS simple features provided by a node in the USGIN network. Each observation includes a Log URI, API Number, Latitude and Longitude spatially referenced to EPSG: 4326 (for interoperability). The data contained in the submitted datasets  are available as Excel Workbooks, ESRI service, WMS and WFS service. Link to Well Log Observation Content Model: http://stategeothermaldata.org/data_delivery/content_models/well_log_observation.",
 	"license_title": null,
 	"extras": [{
 		"key": "responsible-party",
-		"value": "[{\"name\": \"No Organization Name Was Given\", \"roles\": [\"pointOfContact\"]}]"
+		"value": "[{"name": "No Organization Name Was Given", "roles": ["pointOfContact"]}]"
 	},
 	{
 		"key": "contact-email",
@@ -209,7 +209,7 @@
 	},
 	{
 		"key": "dataset-reference-date",
-		"value": "[{\"type\": \"publication\", \"value\": \"2012-07-13T12:00:00\"}]"
+		"value": "[{"type": "publication", "value": "2012-07-13T12:00:00"}]"
 	},
 	{
 		"key": "resource-type",
@@ -245,7 +245,7 @@
 	},
 	{
 		"key": "spatial",
-		"value": "{\"type\": \"Polygon\", \"coordinates\": [[[-118.040920019, 41.2170373992], [-118.040920019, 49.3583586293], [-109.867091894, 49.3583586293], [-109.867091894, 41.2170373992], [-118.040920019, 41.2170373992]]]}"
+		"value": "{"type": "Polygon", "coordinates": [[[-118.040920019, 41.2170373992], [-118.040920019, 49.3583586293], [-109.867091894, 49.3583586293], [-109.867091894, 41.2170373992], [-118.040920019, 41.2170373992]]]}"
 	},
 	{
 		"key": "guid",
@@ -295,7 +295,7 @@
 		"revision_timestamp": "2013-03-20T21:11:17.592932",
 		"is_organization": true,
 		"state": "active",
-		"image_url": "http:\/\/www.50states.com\/flag\/image\/nunst004.gif",
+		"image_url": "http://www.50states.com/flag/image/nunst004.gif",
 		"revision_id": "61be6428-4398-4199-a336-f3cd1e956f9b",
 		"type": "organization",
 		"id": "f3f6e1d4-64fb-4a2f-b32c-9ac0b76fe4de",

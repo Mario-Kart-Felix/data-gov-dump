@@ -36,7 +36,7 @@
 		"cache_url": null,
 		"name": "Orthoimagery Map Service (ArcGIS)",
 		"created": "2016-09-27T04:31:05.875883",
-		"url": "http:\/\/raster.nationalmap.gov\/arcgis\/rest\/services\/Orthoimagery\/USGS_EROS_Ortho_SCALE\/ImageServer",
+		"url": "http://raster.nationalmap.gov/arcgis/rest/services/Orthoimagery/USGS_EROS_Ortho_SCALE/ImageServer",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 0,
@@ -65,7 +65,7 @@
 		"cache_url": null,
 		"name": "Orthoimagery Map Service (WMS)",
 		"created": "2016-09-27T04:31:05.875932",
-		"url": "http:\/\/raster.nationalmap.gov\/arcgis\/services\/Orthoimagery\/USGS_EROS_Ortho_SCALE\/ImageServer\/WMSServer?request=GetCapabilities&service=WMS",
+		"url": "http://raster.nationalmap.gov/arcgis/services/Orthoimagery/USGS_EROS_Ortho_SCALE/ImageServer/WMSServer?request=GetCapabilities&service=WMS",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 1,
@@ -94,7 +94,7 @@
 		"cache_url": null,
 		"name": "Orthoimagery Coverage Service (WCS)",
 		"created": "2016-09-27T04:31:05.875942",
-		"url": "http:\/\/raster.nationalmap.gov\/arcgis\/services\/Orthoimagery\/USGS_EROS_Ortho_SCALE\/ImageServer\/WCSServer?request=GetCapabilities&service=WCS",
+		"url": "http://raster.nationalmap.gov/arcgis/services/Orthoimagery/USGS_EROS_Ortho_SCALE/ImageServer/WCSServer?request=GetCapabilities&service=WCS",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 2,
@@ -124,7 +124,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2016-09-27T04:31:05.875950",
-		"url": "http:\/\/viewer.nationalmap.gov",
+		"url": "http://viewer.nationalmap.gov",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 3,
@@ -154,7 +154,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2016-09-27T04:31:05.875957",
-		"url": "http:\/\/www.mrlc.gov\/",
+		"url": "http://www.mrlc.gov/",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 4,
@@ -174,7 +174,7 @@
 	"name": "usgs-imagery-overlay-map-service-from-the-national-map-national-geospatial-data-asset-ngda-hig",
 	"isopen": false,
 	"url": null,
-	"notes": "USGS_EROS_Ortho_SCALE service contains orthorectified digital aerial photographs and satellite imagery that are commonly referred to as orthoimagery. The imagery in this service is derived from high resolution images that combine the visual attributes of an aerial photograph with the spatial accuracy and geometric characteristics of a map. The resolution is primarily 1-meter, and the source imagery is acquired through partnerships with U.S. Department of Agriculture\u00e2\u0080\u0099s Farm Service Agency and other cooperating Federal, State, and local agencies. One meter resolution imagery means that each pixel in the orthoimage covers one meter on the earth\u00e2\u0080\u0099s surface. TNM_Large_Scale_Imagery service data is viewed at scales of 1:144,000 and larger in The National Map Viewer. The National Map also has higher resolution orthoimagery acquired through partnerships with the National Geospatial-Intelligence Agency, and other State and local cooperating agencies. This data may be viewed at scales of 1:13,500 and larger in the National Map Viewer. The resolution of this higher resolution orthoimagery is commonly 1-foot (0.3048-meter), such that each pixel in the orthoimage represents one foot on the earth\u00e2\u0080\u0099s surface. However, this orthoimagery can be an even higher resolution, such as 6-inch (0.1524-meter).",
+	"notes": "USGS_EROS_Ortho_SCALE service contains orthorectified digital aerial photographs and satellite imagery that are commonly referred to as orthoimagery. The imagery in this service is derived from high resolution images that combine the visual attributes of an aerial photograph with the spatial accuracy and geometric characteristics of a map. The resolution is primarily 1-meter, and the source imagery is acquired through partnerships with U.S. Department of Agricultureu00e2u0080u0099s Farm Service Agency and other cooperating Federal, State, and local agencies. One meter resolution imagery means that each pixel in the orthoimage covers one meter on the earthu00e2u0080u0099s surface. TNM_Large_Scale_Imagery service data is viewed at scales of 1:144,000 and larger in The National Map Viewer. The National Map also has higher resolution orthoimagery acquired through partnerships with the National Geospatial-Intelligence Agency, and other State and local cooperating agencies. This data may be viewed at scales of 1:13,500 and larger in the National Map Viewer. The resolution of this higher resolution orthoimagery is commonly 1-foot (0.3048-meter), such that each pixel in the orthoimage represents one foot on the earthu00e2u0080u0099s surface. However, this orthoimagery can be an even higher resolution, such as 6-inch (0.1524-meter).",
 	"license_title": null,
 	"extras": [{
 		"key": "bbox-east-long",
@@ -202,7 +202,7 @@
 	},
 	{
 		"key": "graphic-preview-file",
-		"value": "http:\/\/thor-f5.er.usgs.gov\/ngtoc\/metadata\/waf\/services\/overlays\/browse\/imagery.jpg"
+		"value": "http://thor-f5.er.usgs.gov/ngtoc/metadata/waf/services/overlays/browse/imagery.jpg"
 	},
 	{
 		"key": "bbox-south-lat",
@@ -218,7 +218,7 @@
 	},
 	{
 		"key": "spatial",
-		"value": "{\"type\": \"Polygon\", \"coordinates\": [[[-179.1666667, 17.625], [180.0, 17.625], [180.0, 71.5], [-179.1666667, 71.5], [-179.1666667, 17.625]]]}"
+		"value": "{"type": "Polygon", "coordinates": [[[-179.1666667, 17.625], [180.0, 17.625], [180.0, 71.5], [-179.1666667, 71.5], [-179.1666667, 17.625]]]}"
 	},
 	{
 		"key": "progress",
@@ -226,7 +226,7 @@
 	},
 	{
 		"key": "access_constraints",
-		"value": "[\"Use Constraints: None. Acknowledgement of the originating agencies would be appreciated in products derived from these data.\", \"Access Constraints: None\"]"
+		"value": "["Use Constraints: None. Acknowledgement of the originating agencies would be appreciated in products derived from these data.", "Access Constraints: None"]"
 	},
 	{
 		"key": "contact-email",
@@ -242,7 +242,7 @@
 	},
 	{
 		"key": "dataset-reference-date",
-		"value": "[{\"type\": \"publication\", \"value\": \"2016-01-01\"}]"
+		"value": "[{"type": "publication", "value": "2016-01-01"}]"
 	},
 	{
 		"key": "graphic-preview-description",
@@ -254,7 +254,7 @@
 	},
 	{
 		"key": "licence",
-		"value": "[\"Although these data have been processed successfully on a computer system at the\\n         U.S. Geological Survey, no warranty expressed or implied is made regarding the accuracy or\\n         utility of the data on any other system or for general or scientific purposes, nor shall\\n         the act of distribution constitute any such warranty. This disclaimer applies both to\\n         individual use of the data and aggregate use with other data. It is strongly recommended\\n         that these data are directly acquired from a U.S. Geological Survey server, and not\\n         indirectly through other sources which may have changed the data in some way. It is also\\n         strongly recommended that careful attention be paid to the contents of the metadata file\\n         associated with these data. The U.S. Geological Survey shall not be held liable for\\n         improper or incorrect use of the data described and\/or contained herein.\"]"
+		"value": "["Although these data have been processed successfully on a computer system at the\n         U.S. Geological Survey, no warranty expressed or implied is made regarding the accuracy or\n         utility of the data on any other system or for general or scientific purposes, nor shall\n         the act of distribution constitute any such warranty. This disclaimer applies both to\n         individual use of the data and aggregate use with other data. It is strongly recommended\n         that these data are directly acquired from a U.S. Geological Survey server, and not\n         indirectly through other sources which may have changed the data in some way. It is also\n         strongly recommended that careful attention be paid to the contents of the metadata file\n         associated with these data. The U.S. Geological Survey shall not be held liable for\n         improper or incorrect use of the data described and/or contained herein."]"
 	},
 	{
 		"key": "metadata_type",
@@ -262,7 +262,7 @@
 	},
 	{
 		"key": "responsible-party",
-		"value": "[{\"name\": \"U.S. Geological Survey, National Geospatial Technical Operations Center\", \"roles\": [\"pointOfContact\"]}]"
+		"value": "[{"name": "U.S. Geological Survey, National Geospatial Technical Operations Center", "roles": ["pointOfContact"]}]"
 	},
 	{
 		"key": "spatial-data-service-type",
@@ -297,14 +297,14 @@
 		"value": "Overlay Map Services in The National Map"
 	}],
 	"organization": {
-		"description": "http:\/\/www.usgs.gov\/\r\nThe USGS is a federal science agency that provides impartial information on the health of our ecosystems and environment, the natural hazards that threaten us, the natural resources we rely on, the impacts of climate and land-use change, and the core science systems that help us provide timely, relevant, and useable information.",
+		"description": "http://www.usgs.gov/rnThe USGS is a federal science agency that provides impartial information on the health of our ecosystems and environment, the natural hazards that threaten us, the natural resources we rely on, the impacts of climate and land-use change, and the core science systems that help us provide timely, relevant, and useable information.",
 		"created": "2013-03-14T03:44:38.263357",
 		"title": "U.S. Geological Survey, Department of the Interior",
 		"name": "usgs-gov",
 		"revision_timestamp": "2014-09-02T13:43:52.167023",
 		"is_organization": true,
 		"state": "active",
-		"image_url": "http:\/\/pubs.usgs.gov\/sir\/2004\/5296\/04-5296_confluence_park\/usgs_logo.gif",
+		"image_url": "http://pubs.usgs.gov/sir/2004/5296/04-5296_confluence_park/usgs_logo.gif",
 		"revision_id": "2858aa99-9501-4f96-82e5-9647b968ed66",
 		"type": "organization",
 		"id": "bd2cdd5a-4d65-46c0-9937-c8381175f104",

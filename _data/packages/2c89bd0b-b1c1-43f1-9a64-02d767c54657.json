@@ -37,7 +37,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2015-11-10T02:29:07.984256",
-		"url": "http:\/\/www.soest.hawaii.edu\/pibhmc\/pibhmc_pria_joh_bathy.htm",
+		"url": "http://www.soest.hawaii.edu/pibhmc/pibhmc_pria_joh_bathy.htm",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 0,
@@ -67,7 +67,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2015-11-10T02:29:07.984280",
-		"url": "http:\/\/www.soest.hawaii.edu\/pibhmc\/pibhmc_pria_joh_bathy.htm",
+		"url": "http://www.soest.hawaii.edu/pibhmc/pibhmc_pria_joh_bathy.htm",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 1,
@@ -87,11 +87,11 @@
 	"name": "mosaic-of-gridded-multibeam-bathymetry-and-bathymetry-derived-from-multispectral-ikonos-satelli05279",
 	"isopen": false,
 	"url": null,
-	"notes": "Gridded multibeam bathymetry is integrated with bathymetry derived from multispectral IKONOS satellite data. Gridded (5 m cell size) multibeam bathymetry collected aboard NOAA Ship Hiialaka'i and R\/V AHI. Bathymetry values shallower than 25 m were derived by gauging the relative attenuation of blue and green spectral radiance as a function of depth. A multiple linear regression analysis of linearized blue and green band spectral values against depth determined the variables of y-intercept, blue slope and green slope values. Variables then used in multivariate slope intercept formula to derive depth. Variables were adjusted to improve the statistical accuracy and spatial coverage of the final derived bathymetry product. Digital image processing to derive depths conducted with the ENVI 4.5 software program while data editing and integration was performed using ArcGIS 9.3. This dataset is for the shelf environment of Johnston Atoll, Pacific Remote Island Area, USA",
+	"notes": "Gridded multibeam bathymetry is integrated with bathymetry derived from multispectral IKONOS satellite data. Gridded (5 m cell size) multibeam bathymetry collected aboard NOAA Ship Hiialaka'i and R/V AHI. Bathymetry values shallower than 25 m were derived by gauging the relative attenuation of blue and green spectral radiance as a function of depth. A multiple linear regression analysis of linearized blue and green band spectral values against depth determined the variables of y-intercept, blue slope and green slope values. Variables then used in multivariate slope intercept formula to derive depth. Variables were adjusted to improve the statistical accuracy and spatial coverage of the final derived bathymetry product. Digital image processing to derive depths conducted with the ENVI 4.5 software program while data editing and integration was performed using ArcGIS 9.3. This dataset is for the shelf environment of Johnston Atoll, Pacific Remote Island Area, USA",
 	"license_title": null,
 	"extras": [{
 		"key": "bbox-east-long",
-		"value": "\n          -169.346929\n        "
+		"value": "n          -169.346929n        "
 	},
 	{
 		"key": "resource-type",
@@ -99,7 +99,7 @@
 	},
 	{
 		"key": "bbox-north-lat",
-		"value": "\n          16.792810\n        "
+		"value": "n          16.792810n        "
 	},
 	{
 		"key": "coupled-resource",
@@ -115,7 +115,7 @@
 	},
 	{
 		"key": "graphic-preview-file",
-		"value": "http:\/\/www.soest.hawaii.edu\/pibhmc\/PRIAs_images\/Joh_bathymetry_mb&IKONOS_445.jpg"
+		"value": "http://www.soest.hawaii.edu/pibhmc/PRIAs_images/Joh_bathymetry_mb&IKONOS_445.jpg"
 	},
 	{
 		"key": "metadata-language",
@@ -131,7 +131,7 @@
 	},
 	{
 		"key": "spatial",
-		"value": "{\"type\": \"Polygon\", \"coordinates\": [[[-169.573437, 16.651832], [-169.346929, 16.651832], [-169.346929, 16.79281], [-169.573437, 16.79281], [-169.573437, 16.651832]]]}"
+		"value": "{"type": "Polygon", "coordinates": [[[-169.573437, 16.651832], [-169.346929, 16.651832], [-169.346929, 16.79281], [-169.573437, 16.79281], [-169.573437, 16.651832]]]}"
 	},
 	{
 		"key": "progress",
@@ -139,7 +139,7 @@
 	},
 	{
 		"key": "access_constraints",
-		"value": "[\"Use Constraints: These data are not to be used for navigation purposes. Please acknowledge NOAA Pacific Islands Fisheries Science Center, the Joint Institute for Marine and Atmospheric Research (JIMAR) University of Hawaii and Davey Jones Locker GIS Laboratory Oregon State University as the sources of this information.\", \"Access Constraints: None\"]"
+		"value": "["Use Constraints: These data are not to be used for navigation purposes. Please acknowledge NOAA Pacific Islands Fisheries Science Center, the Joint Institute for Marine and Atmospheric Research (JIMAR) University of Hawaii and Davey Jones Locker GIS Laboratory Oregon State University as the sources of this information.", "Access Constraints: None"]"
 	},
 	{
 		"key": "temporal-extent-begin",
@@ -151,7 +151,7 @@
 	},
 	{
 		"key": "bbox-west-long",
-		"value": "\n          -169.573437\n        "
+		"value": "n          -169.573437n        "
 	},
 	{
 		"key": "metadata-date",
@@ -159,7 +159,7 @@
 	},
 	{
 		"key": "dataset-reference-date",
-		"value": "[{\"type\": \"publication\", \"value\": \"2009-04-07\"}]"
+		"value": "[{"type": "publication", "value": "2009-04-07"}]"
 	},
 	{
 		"key": "graphic-preview-description",
@@ -171,7 +171,7 @@
 	},
 	{
 		"key": "licence",
-		"value": "[\"\\n      These data are not to be used for navigational purposes.\\nNOAA makes no warranty regarding these data, expressed or implied,\\nnor does the fact of distribution constitute such a warranty.\\nNOAA cannot assume liability for any damages caused by any errors\\nor omissions in these data, nor as a result of the failure of\\nthese data to function on a particular system.\\n    \"]"
+		"value": "["\n      These data are not to be used for navigational purposes.\nNOAA makes no warranty regarding these data, expressed or implied,\nnor does the fact of distribution constitute such a warranty.\nNOAA cannot assume liability for any damages caused by any errors\nor omissions in these data, nor as a result of the failure of\nthese data to function on a particular system.\n    "]"
 	},
 	{
 		"key": "metadata_type",
@@ -179,7 +179,7 @@
 	},
 	{
 		"key": "responsible-party",
-		"value": "[{\"name\": \"NOAA PIFSC CRED PIBHMC and DJLab OSU\", \"roles\": [\"pointOfContact\"]}]"
+		"value": "[{"name": "NOAA PIFSC CRED PIBHMC and DJLab OSU", "roles": ["pointOfContact"]}]"
 	},
 	{
 		"key": "temporal-extent-end",
@@ -191,11 +191,11 @@
 	},
 	{
 		"key": "bbox-south-lat",
-		"value": "\n          16.651832\n        "
+		"value": "n          16.651832n        "
 	},
 	{
 		"package_id": "2c89bd0b-b1c1-43f1-9a64-02d767c54657",
-		"value": "slope, geographic information, reef monitoring and assessment, biosphere, oceans, united states of america, water depth, pacific remote island area, zoology, ikonos, johnston atoll, multibeam sonar, corals, bathymetry, bathymetry\/seafloor topography, satellite (digital scans), remote sensing, earth science",
+		"value": "slope, geographic information, reef monitoring and assessment, biosphere, oceans, united states of america, water depth, pacific remote island area, zoology, ikonos, johnston atoll, multibeam sonar, corals, bathymetry, bathymetry/seafloor topography, satellite (digital scans), remote sensing, earth science",
 		"revision_timestamp": "2015-09-27T01:26:34.744406",
 		"state": "active",
 		"key": "tags",
@@ -225,7 +225,7 @@
 		"revision_timestamp": "2013-03-25T23:05:12.923863",
 		"is_organization": true,
 		"state": "active",
-		"image_url": "https:\/\/fortress.wa.gov\/dfw\/score\/score\/images\/noaa_logo.png",
+		"image_url": "https://fortress.wa.gov/dfw/score/score/images/noaa_logo.png",
 		"revision_id": "c6d43080-22e1-405e-a83d-f2a512d9e867",
 		"type": "organization",
 		"id": "e811f0b4-451f-4896-9e8f-fc6802837819",

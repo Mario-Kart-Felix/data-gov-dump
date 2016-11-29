@@ -36,7 +36,7 @@
 		"cache_url": null,
 		"name": "Shapefile",
 		"created": "2016-10-10T16:15:44.730295",
-		"url": "https:\/\/prd-tnm.s3.amazonaws.com\/StagedProducts\/Small-scale\/data\/Boundaries\/indlanp010g.shp_nt00968.tar.gz",
+		"url": "https://prd-tnm.s3.amazonaws.com/StagedProducts/Small-scale/data/Boundaries/indlanp010g.shp_nt00968.tar.gz",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 0,
@@ -65,7 +65,7 @@
 		"cache_url": null,
 		"name": "Web Map Service (WMS)",
 		"created": "2016-10-10T16:15:44.730328",
-		"url": "http:\/\/webservices.nationalatlas.gov\/wms\/boundaries?SERVICE=WMS&REQUEST=GetCapabilities",
+		"url": "http://webservices.nationalatlas.gov/wms/boundaries?SERVICE=WMS&REQUEST=GetCapabilities",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 1,
@@ -94,7 +94,7 @@
 		"cache_url": null,
 		"name": "Web Map Service (WMS)",
 		"created": "2016-10-10T16:15:44.730347",
-		"url": "http:\/\/webservices.nationalatlas.gov\/wms\/1million?SERVICE=WMS&REQUEST=GetCapabilities",
+		"url": "http://webservices.nationalatlas.gov/wms/1million?SERVICE=WMS&REQUEST=GetCapabilities",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 2,
@@ -123,7 +123,7 @@
 		"cache_url": null,
 		"name": "Web Map Service (WMS)",
 		"created": "2016-10-10T16:15:44.730361",
-		"url": "http:\/\/webservices.nationalatlas.gov\/wms?SERVICE=WMS&REQUEST=GetCapabilities",
+		"url": "http://webservices.nationalatlas.gov/wms?SERVICE=WMS&REQUEST=GetCapabilities",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 3,
@@ -153,7 +153,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2016-10-10T16:15:44.730376",
-		"url": "http:\/\/viewer.nationalmap.gov\/",
+		"url": "http://viewer.nationalmap.gov/",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 4,
@@ -183,7 +183,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2016-10-10T16:15:44.730390",
-		"url": "https:\/\/www.sciencebase.gov\/catalog\/item\/532c5b23e4b0cd7393d07783",
+		"url": "https://www.sciencebase.gov/catalog/item/532c5b23e4b0cd7393d07783",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 5,
@@ -231,7 +231,7 @@
 	},
 	{
 		"key": "graphic-preview-file",
-		"value": "http:\/\/prd-tnm.s3.amazonaws.com\/StagedProducts\/Small-scale\/thumbnails\/indlanp010g.png"
+		"value": "http://prd-tnm.s3.amazonaws.com/StagedProducts/Small-scale/thumbnails/indlanp010g.png"
 	},
 	{
 		"key": "bbox-south-lat",
@@ -247,7 +247,7 @@
 	},
 	{
 		"key": "spatial",
-		"value": "{\"type\": \"Polygon\", \"coordinates\": [[[-132.0, 25.0], [-67.0, 25.0], [-67.0, 56.0], [-132.0, 56.0], [-132.0, 25.0]]]}"
+		"value": "{"type": "Polygon", "coordinates": [[[-132.0, 25.0], [-67.0, 25.0], [-67.0, 56.0], [-132.0, 56.0], [-132.0, 25.0]]]}"
 	},
 	{
 		"key": "progress",
@@ -255,7 +255,7 @@
 	},
 	{
 		"key": "access_constraints",
-		"value": "[\"Use Constraints: None. Acknowledgement of The National Atlas of the United States of America would be appreciated in products derived from these data.\", \"Access Constraints: None\"]"
+		"value": "["Use Constraints: None. Acknowledgement of The National Atlas of the United States of America would be appreciated in products derived from these data.", "Access Constraints: None"]"
 	},
 	{
 		"key": "contact-email",
@@ -271,7 +271,7 @@
 	},
 	{
 		"key": "dataset-reference-date",
-		"value": "[{\"type\": \"publication\", \"value\": \"2014-12-01\"}]"
+		"value": "[{"type": "publication", "value": "2014-12-01"}]"
 	},
 	{
 		"key": "graphic-preview-description",
@@ -283,7 +283,7 @@
 	},
 	{
 		"key": "licence",
-		"value": "[\"Although these data have been processed successfully on a computer system at the U.S. Geological Survey, no warranty expressed or implied is made by the U.S. Geological Survey regarding the utility of the data on any other system, nor shall the act of distribution constitute any such warranty. No responsibility is assumed by the U.S. Geological Survey in the use of these data.\"]"
+		"value": "["Although these data have been processed successfully on a computer system at the U.S. Geological Survey, no warranty expressed or implied is made by the U.S. Geological Survey regarding the utility of the data on any other system, nor shall the act of distribution constitute any such warranty. No responsibility is assumed by the U.S. Geological Survey in the use of these data."]"
 	},
 	{
 		"key": "metadata_type",
@@ -291,7 +291,7 @@
 	},
 	{
 		"key": "responsible-party",
-		"value": "[{\"name\": \"National Geospatial Program, The National Map Small Scale\", \"roles\": [\"pointOfContact\"]}]"
+		"value": "[{"name": "National Geospatial Program, The National Map Small Scale", "roles": ["pointOfContact"]}]"
 	},
 	{
 		"key": "spatial-data-service-type",
@@ -326,14 +326,14 @@
 		"value": "The National Map Small-scale Downloadable Data"
 	}],
 	"organization": {
-		"description": "http:\/\/www.usgs.gov\/\r\nThe USGS is a federal science agency that provides impartial information on the health of our ecosystems and environment, the natural hazards that threaten us, the natural resources we rely on, the impacts of climate and land-use change, and the core science systems that help us provide timely, relevant, and useable information.",
+		"description": "http://www.usgs.gov/rnThe USGS is a federal science agency that provides impartial information on the health of our ecosystems and environment, the natural hazards that threaten us, the natural resources we rely on, the impacts of climate and land-use change, and the core science systems that help us provide timely, relevant, and useable information.",
 		"created": "2013-03-14T03:44:38.263357",
 		"title": "U.S. Geological Survey, Department of the Interior",
 		"name": "usgs-gov",
 		"revision_timestamp": "2014-09-02T13:43:52.167023",
 		"is_organization": true,
 		"state": "active",
-		"image_url": "http:\/\/pubs.usgs.gov\/sir\/2004\/5296\/04-5296_confluence_park\/usgs_logo.gif",
+		"image_url": "http://pubs.usgs.gov/sir/2004/5296/04-5296_confluence_park/usgs_logo.gif",
 		"revision_id": "2858aa99-9501-4f96-82e5-9647b968ed66",
 		"type": "organization",
 		"id": "bd2cdd5a-4d65-46c0-9937-c8381175f104",

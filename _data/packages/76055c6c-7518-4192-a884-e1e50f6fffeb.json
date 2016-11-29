@@ -37,7 +37,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2016-05-31T03:36:36.610773",
-		"url": "https:\/\/coast.noaa.gov\/slr",
+		"url": "https://coast.noaa.gov/slr",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 0,
@@ -67,7 +67,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2016-05-31T03:36:36.610801",
-		"url": "https:\/\/coast.noaa.gov\/digitalcoast\/tools\/slr",
+		"url": "https://coast.noaa.gov/digitalcoast/tools/slr",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 1,
@@ -97,7 +97,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2016-05-31T03:36:36.610811",
-		"url": "https:\/\/coast.noaa.gov\/",
+		"url": "https://coast.noaa.gov/",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 2,
@@ -117,7 +117,7 @@
 	"name": "noaa-office-for-coastal-management-coastal-inundation-digital-elevation-model-channel-islands-c",
 	"isopen": false,
 	"url": null,
-	"notes": "These data were created as part of the National Oceanic and Atmospheric Administration Office for Coastal Management's efforts to create an online mapping viewer called the Sea Level Rise and Coastal Flooding Impacts Viewer. It depicts potential sea level rise and its associated impacts on the nation's coastal areas. The purpose of the mapping viewer is to provide coastal managers and scientists with a preliminary look at sea level rise (slr) and coastal flooding impacts. The viewer is a screening-level tool that uses nationally consistent data sets and analyses. Data and maps provided can be used at several scales to help gauge trends and prioritize actions for different scenarios. The Sea Level Rise and Coastal Flooding Impacts Viewer may be accessed at: http:\/\/www.coast.noaa.gov\/slr This metadata record describes the Channel Islands, CA digital elevation model (DEM), which is a part of a series of DEMs produced for the National Oceanic and Atmospheric Administration Office for Coastal Management's Sea Level Rise and Coastal Flooding Impacts Viewer described above. This DEM includes the best available lidar known to exist at the time of DEM creation that met project specifications for the Channel Islands, CA. This includes the islands of Anacapa, Santa Barbara, San Miguel, Santa Rosa, and Santa Cruz. The DEM was produced from LiDAR acquired by the U.S. Geological Survey (USGS) in 2010 for the Channel Islands. See Supplemental Information for additional information about this data set. Hydrographic breaklines were derived from LiDAR intensity imagery using intensity raster stereo models. The final DEM is hydro flattened such that water elevations are less than or equal to -1 meters. The DEM is referenced vertically to the North American Vertical Datum of 1988 (NAVD88) with vertical units of meters and horizontally to the North American Datum of 1983 (NAD83). The resolution of the DEM is approximately 5 meters.",
+	"notes": "These data were created as part of the National Oceanic and Atmospheric Administration Office for Coastal Management's efforts to create an online mapping viewer called the Sea Level Rise and Coastal Flooding Impacts Viewer. It depicts potential sea level rise and its associated impacts on the nation's coastal areas. The purpose of the mapping viewer is to provide coastal managers and scientists with a preliminary look at sea level rise (slr) and coastal flooding impacts. The viewer is a screening-level tool that uses nationally consistent data sets and analyses. Data and maps provided can be used at several scales to help gauge trends and prioritize actions for different scenarios. The Sea Level Rise and Coastal Flooding Impacts Viewer may be accessed at: http://www.coast.noaa.gov/slr This metadata record describes the Channel Islands, CA digital elevation model (DEM), which is a part of a series of DEMs produced for the National Oceanic and Atmospheric Administration Office for Coastal Management's Sea Level Rise and Coastal Flooding Impacts Viewer described above. This DEM includes the best available lidar known to exist at the time of DEM creation that met project specifications for the Channel Islands, CA. This includes the islands of Anacapa, Santa Barbara, San Miguel, Santa Rosa, and Santa Cruz. The DEM was produced from LiDAR acquired by the U.S. Geological Survey (USGS) in 2010 for the Channel Islands. See Supplemental Information for additional information about this data set. Hydrographic breaklines were derived from LiDAR intensity imagery using intensity raster stereo models. The final DEM is hydro flattened such that water elevations are less than or equal to -1 meters. The DEM is referenced vertically to the North American Vertical Datum of 1988 (NAVD88) with vertical units of meters and horizontally to the North American Datum of 1983 (NAD83). The resolution of the DEM is approximately 5 meters.",
 	"license_title": null,
 	"extras": [{
 		"key": "bbox-east-long",
@@ -153,7 +153,7 @@
 	},
 	{
 		"key": "spatial",
-		"value": "{\"type\": \"Polygon\", \"coordinates\": [[[-120.582289, 33.4127402], [-118.967218, 33.4127402], [-118.967218, 34.160591], [-120.582289, 34.160591], [-120.582289, 33.4127402]]]}"
+		"value": "{"type": "Polygon", "coordinates": [[[-120.582289, 33.4127402], [-118.967218, 33.4127402], [-118.967218, 34.160591], [-120.582289, 34.160591], [-120.582289, 33.4127402]]]}"
 	},
 	{
 		"key": "progress",
@@ -161,7 +161,7 @@
 	},
 	{
 		"key": "access_constraints",
-		"value": "[\"Use Constraints: The dataset is provided as is, without warranty to its performance, merchantable state, or fitness for any particular purpose. The entire risk associated with the results and performance of this dataset is assumed by the user. This dataset should be used strictly as a planning reference and not for navigation, permitting, or other legal purposes.\", \"Access Constraints: None\"]"
+		"value": "["Use Constraints: The dataset is provided as is, without warranty to its performance, merchantable state, or fitness for any particular purpose. The entire risk associated with the results and performance of this dataset is assumed by the user. This dataset should be used strictly as a planning reference and not for navigation, permitting, or other legal purposes.", "Access Constraints: None"]"
 	},
 	{
 		"key": "temporal-extent-begin",
@@ -181,7 +181,7 @@
 	},
 	{
 		"key": "dataset-reference-date",
-		"value": "[{\"type\": \"publication\", \"value\": \"2013-09-01\"}]"
+		"value": "[{"type": "publication", "value": "2013-09-01"}]"
 	},
 	{
 		"key": "frequency-of-update",
@@ -189,7 +189,7 @@
 	},
 	{
 		"key": "licence",
-		"value": "[\"Any conclusions drawn from the analysis of this information are not the responsibility of the NOAA Office for Coastal Management or its partners.\"]"
+		"value": "["Any conclusions drawn from the analysis of this information are not the responsibility of the NOAA Office for Coastal Management or its partners."]"
 	},
 	{
 		"key": "metadata_type",
@@ -197,7 +197,7 @@
 	},
 	{
 		"key": "responsible-party",
-		"value": "[{\"name\": \"NOAA Office for Coastal Management\", \"roles\": [\"pointOfContact\"]}]"
+		"value": "[{"name": "NOAA Office for Coastal Management", "roles": ["pointOfContact"]}]"
 	},
 	{
 		"key": "temporal-extent-end",
@@ -213,7 +213,7 @@
 	},
 	{
 		"package_id": "76055c6c-7518-4192-a884-e1e50f6fffeb",
-		"value": "sea level rise, offshore los angeles, california, topography, elevation, inundation, santa barbara island, channel islands, us, lidar, bathymetry\/topography, dem, digital elevation model, anacapa island, california, santa rosa island, santa cruz island, flooding, san miguel island",
+		"value": "sea level rise, offshore los angeles, california, topography, elevation, inundation, santa barbara island, channel islands, us, lidar, bathymetry/topography, dem, digital elevation model, anacapa island, california, santa rosa island, santa cruz island, flooding, san miguel island",
 		"revision_timestamp": "2015-09-27T03:09:29.670008",
 		"state": "active",
 		"key": "tags",
@@ -243,7 +243,7 @@
 		"revision_timestamp": "2013-03-25T23:05:12.923863",
 		"is_organization": true,
 		"state": "active",
-		"image_url": "https:\/\/fortress.wa.gov\/dfw\/score\/score\/images\/noaa_logo.png",
+		"image_url": "https://fortress.wa.gov/dfw/score/score/images/noaa_logo.png",
 		"revision_id": "c6d43080-22e1-405e-a83d-f2a512d9e867",
 		"type": "organization",
 		"id": "e811f0b4-451f-4896-9e8f-fc6802837819",

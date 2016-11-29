@@ -37,7 +37,7 @@
 		"cache_url": null,
 		"name": "TIFF Image File",
 		"created": "2016-03-21T18:05:53.055681",
-		"url": "https:\/\/coastalscience.noaa.gov\/projects\/detail?key=263",
+		"url": "https://coastalscience.noaa.gov/projects/detail?key=263",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 0,
@@ -67,7 +67,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2016-03-21T18:05:53.055711",
-		"url": "https:\/\/coastalscience.noaa.gov\/projects\/detail?key=263",
+		"url": "https://coastalscience.noaa.gov/projects/detail?key=263",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 1,
@@ -97,7 +97,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2016-03-21T18:05:53.055721",
-		"url": "http:\/\/accession.nodc.noaa.gov\/0131857",
+		"url": "http://accession.nodc.noaa.gov/0131857",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 2,
@@ -117,11 +117,11 @@
 	"name": "noaa-tiff-image-1m-multibeam-bathymetry-us-virgin-islands-vieques-island-el-seco-project-nf-",
 	"isopen": false,
 	"url": null,
-	"notes": "This dataset contains a unified ESRI Grid with 1x1 meter cell size representing the bathymetry of El Seco, a selected portion of seafloor east of Vieques Island, derived from data collected in March and April 2009. NOAA's NOS\/NCCOS\/CCMA Biogeography Branch, in collaboration with NOAA vessel Nancy Foster and territory, federal, and private sector partners, acquired multibeam bathymetry data around Vieques Island from 3\/26\/09 to 4\/2\/09. Data was acquired with a hull-mounted Kongsberg Simrad EM 1002 multibeam echosounder (95 kHz) for water depths greater than 75 meters, and with a moon pool flange-mounted Reson 7125 multibeam echosounder (dual frequecy, 200\/400 kHz) for water depths of less than 75 meters. It was processed by a NOAA contractor using CARIS HIPS software. Data has all correctors applied (attitude, sound velocity) and has been reduced to mean lower low water (MLLW) using final approved tides and zoning from NOAA COOPS. Data is in UTM zone 20 north, datum NAD83. The processed CARIS data was used to generate a CARIS BASE surface based on swath angle. An ASCII XYZ file was exported from the BASE surface and opened in ESRI ArcMap 9.x as an XY event. Then the ArcToolbox conversion tool 'Feature to Raster' was used to generate the final ESRI Grid. The project was conducted to meet IHO Order 1 and 2 accuracy standards, dependant on the project area and depth. All users should individually evaluate the suitability of this data according to their own needs and standards.",
+	"notes": "This dataset contains a unified ESRI Grid with 1x1 meter cell size representing the bathymetry of El Seco, a selected portion of seafloor east of Vieques Island, derived from data collected in March and April 2009. NOAA's NOS/NCCOS/CCMA Biogeography Branch, in collaboration with NOAA vessel Nancy Foster and territory, federal, and private sector partners, acquired multibeam bathymetry data around Vieques Island from 3/26/09 to 4/2/09. Data was acquired with a hull-mounted Kongsberg Simrad EM 1002 multibeam echosounder (95 kHz) for water depths greater than 75 meters, and with a moon pool flange-mounted Reson 7125 multibeam echosounder (dual frequecy, 200/400 kHz) for water depths of less than 75 meters. It was processed by a NOAA contractor using CARIS HIPS software. Data has all correctors applied (attitude, sound velocity) and has been reduced to mean lower low water (MLLW) using final approved tides and zoning from NOAA COOPS. Data is in UTM zone 20 north, datum NAD83. The processed CARIS data was used to generate a CARIS BASE surface based on swath angle. An ASCII XYZ file was exported from the BASE surface and opened in ESRI ArcMap 9.x as an XY event. Then the ArcToolbox conversion tool 'Feature to Raster' was used to generate the final ESRI Grid. The project was conducted to meet IHO Order 1 and 2 accuracy standards, dependant on the project area and depth. All users should individually evaluate the suitability of this data according to their own needs and standards.",
 	"license_title": null,
 	"extras": [{
 		"key": "bbox-east-long",
-		"value": "\n          -65.168877\n        "
+		"value": "n          -65.168877n        "
 	},
 	{
 		"key": "resource-type",
@@ -129,7 +129,7 @@
 	},
 	{
 		"key": "bbox-north-lat",
-		"value": "\n          18.159671\n        "
+		"value": "n          18.159671n        "
 	},
 	{
 		"key": "coupled-resource",
@@ -145,7 +145,7 @@
 	},
 	{
 		"key": "bbox-south-lat",
-		"value": "\n          18.099215\n        "
+		"value": "n          18.099215n        "
 	},
 	{
 		"key": "spatial-reference-system",
@@ -153,7 +153,7 @@
 	},
 	{
 		"key": "spatial",
-		"value": "{\"type\": \"Polygon\", \"coordinates\": [[[-65.250143, 18.099215], [-65.168877, 18.099215], [-65.168877, 18.159671], [-65.250143, 18.159671], [-65.250143, 18.099215]]]}"
+		"value": "{"type": "Polygon", "coordinates": [[[-65.250143, 18.099215], [-65.168877, 18.099215], [-65.168877, 18.159671], [-65.250143, 18.159671], [-65.250143, 18.099215]]]}"
 	},
 	{
 		"key": "progress",
@@ -161,7 +161,7 @@
 	},
 	{
 		"key": "access_constraints",
-		"value": "[\"Use Constraints: Note: NOT TO BE USED FOR NAVIGATION. These data were prepared by an agency of the United States Government. Neither the United States Government nor any agency thereof, nor any of their employees, make any warranty, expressed or implied, or assumes any legal liability or responsibility for the accuracy, completeness, or usefulness of any information, apparatus, product, or process disclosed in this report, or represents that its use would not infringe privately owned rights. Reference therein to any specific commercial product, process, or service by trade name, trademark, manufacturer, or otherwise does not necessarily constitute or imply its endorsement, recommendation, or favoring by the United States Government or any agency thereof. Any views and opinions of authors expressed herein do not necessarily state or reflect those of the United States Government or any agency thereof. Although all data have been used by NOAA, no warranty, expressed or implied, is made by NOAA as to the accuracy of the data and\/or related materials. The act of distribution shall not constitute any such warranty, and no responsibility is assumed by NOAA in the use of these data or related materials.\", \"Access Constraints: Please cite any use of this data.\"]"
+		"value": "["Use Constraints: Note: NOT TO BE USED FOR NAVIGATION. These data were prepared by an agency of the United States Government. Neither the United States Government nor any agency thereof, nor any of their employees, make any warranty, expressed or implied, or assumes any legal liability or responsibility for the accuracy, completeness, or usefulness of any information, apparatus, product, or process disclosed in this report, or represents that its use would not infringe privately owned rights. Reference therein to any specific commercial product, process, or service by trade name, trademark, manufacturer, or otherwise does not necessarily constitute or imply its endorsement, recommendation, or favoring by the United States Government or any agency thereof. Any views and opinions of authors expressed herein do not necessarily state or reflect those of the United States Government or any agency thereof. Although all data have been used by NOAA, no warranty, expressed or implied, is made by NOAA as to the accuracy of the data and/or related materials. The act of distribution shall not constitute any such warranty, and no responsibility is assumed by NOAA in the use of these data or related materials.", "Access Constraints: Please cite any use of this data."]"
 	},
 	{
 		"key": "temporal-extent-begin",
@@ -173,7 +173,7 @@
 	},
 	{
 		"key": "bbox-west-long",
-		"value": "\n          -65.250143\n        "
+		"value": "n          -65.250143n        "
 	},
 	{
 		"key": "metadata-date",
@@ -181,7 +181,7 @@
 	},
 	{
 		"key": "dataset-reference-date",
-		"value": "[{\"type\": \"publication\", \"value\": \"2009-12-01\"}]"
+		"value": "[{"type": "publication", "value": "2009-12-01"}]"
 	},
 	{
 		"key": "frequency-of-update",
@@ -189,7 +189,7 @@
 	},
 	{
 		"key": "licence",
-		"value": "[\"\\n      These data were prepared by an agency of the United States Government. Neither the United States Government nor any agency thereof, nor any of their employees, make any warranty, expressed or implied, or assumes any legal liability or responsibility for the accuracy, completeness, or usefulness of any information, apparatus, product, or process disclosed in this report, or represents that its use would not infringe privately owned rights. Reference therein to any specific commercial product, process, or service by trade name, trademark, manufacturer, or otherwise does not necessarily constitute or imply its endorsement, recommendation, or favoring by the United States Government or any agency thereof. Any views and opinions of authors expressed herein do not necessarily state or reflect those of the United States Government or any agency thereof. Although all data have been used by NOAA, no warranty, expressed or implied, is made by NOAA as to the accuracy of the data and\/or related materials. The act of distribution shall not constitute any such warranty, and no responsibility is assumed by NOAA in the use of these data or related materials.\\n    \"]"
+		"value": "["\n      These data were prepared by an agency of the United States Government. Neither the United States Government nor any agency thereof, nor any of their employees, make any warranty, expressed or implied, or assumes any legal liability or responsibility for the accuracy, completeness, or usefulness of any information, apparatus, product, or process disclosed in this report, or represents that its use would not infringe privately owned rights. Reference therein to any specific commercial product, process, or service by trade name, trademark, manufacturer, or otherwise does not necessarily constitute or imply its endorsement, recommendation, or favoring by the United States Government or any agency thereof. Any views and opinions of authors expressed herein do not necessarily state or reflect those of the United States Government or any agency thereof. Although all data have been used by NOAA, no warranty, expressed or implied, is made by NOAA as to the accuracy of the data and/or related materials. The act of distribution shall not constitute any such warranty, and no responsibility is assumed by NOAA in the use of these data or related materials.\n    "]"
 	},
 	{
 		"key": "metadata_type",
@@ -197,7 +197,7 @@
 	},
 	{
 		"key": "responsible-party",
-		"value": "[{\"name\": \"Department of Commerce (DOC), National Oceanic and Atmospheric Administration (NOAA), National Ocean Service (NOS), Center for Coastal Monitoring and Assessment (CCMA), Biogeography Branch\", \"roles\": [\"pointOfContact\"]}]"
+		"value": "[{"name": "Department of Commerce (DOC), National Oceanic and Atmospheric Administration (NOAA), National Ocean Service (NOS), Center for Coastal Monitoring and Assessment (CCMA), Biogeography Branch", "roles": ["pointOfContact"]}]"
 	},
 	{
 		"key": "temporal-extent-end",
@@ -213,7 +213,7 @@
 	},
 	{
 		"package_id": "183dded1-2cb2-4edd-ba02-b9c199923261",
-		"value": "biogeography, habitat, 2005, aquatic habitat, noaa, nancy foster, reef habitat, el seco, benthic, earth science, simrad em 1002, gis, geographic information, 20219, iocm, puerto rico, integrated ocean and coastal mapping, reson 7125, seafloor characterization of puerto rico, description, oceans, sonar, grid, reef, bathymetry, seafloor, 2006, nps, us virgin islands, raster, 2009, multibeam, biosphere, mbes, coral, bathymetry\/topography, 2007, 2004, isla de vieques, bathymetry\/seafloor topography, 2008, usvi",
+		"value": "biogeography, habitat, 2005, aquatic habitat, noaa, nancy foster, reef habitat, el seco, benthic, earth science, simrad em 1002, gis, geographic information, 20219, iocm, puerto rico, integrated ocean and coastal mapping, reson 7125, seafloor characterization of puerto rico, description, oceans, sonar, grid, reef, bathymetry, seafloor, 2006, nps, us virgin islands, raster, 2009, multibeam, biosphere, mbes, coral, bathymetry/topography, 2007, 2004, isla de vieques, bathymetry/seafloor topography, 2008, usvi",
 		"revision_timestamp": "2015-09-26T20:15:15.615673",
 		"state": "active",
 		"key": "tags",
@@ -243,7 +243,7 @@
 		"revision_timestamp": "2013-03-25T23:05:12.923863",
 		"is_organization": true,
 		"state": "active",
-		"image_url": "https:\/\/fortress.wa.gov\/dfw\/score\/score\/images\/noaa_logo.png",
+		"image_url": "https://fortress.wa.gov/dfw/score/score/images/noaa_logo.png",
 		"revision_id": "c6d43080-22e1-405e-a83d-f2a512d9e867",
 		"type": "organization",
 		"id": "e811f0b4-451f-4896-9e8f-fc6802837819",

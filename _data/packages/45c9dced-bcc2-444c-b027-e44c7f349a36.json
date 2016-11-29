@@ -37,7 +37,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2015-11-10T02:58:25.082794",
-		"url": "http:\/\/www.soest.hawaii.edu\/pibhmc\/",
+		"url": "http://www.soest.hawaii.edu/pibhmc/",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 0,
@@ -59,7 +59,7 @@
 		"revision_timestamp": "2013-03-25T23:05:12.923863",
 		"is_organization": true,
 		"state": "active",
-		"image_url": "https:\/\/fortress.wa.gov\/dfw\/score\/score\/images\/noaa_logo.png",
+		"image_url": "https://fortress.wa.gov/dfw/score/score/images/noaa_logo.png",
 		"revision_id": "c6d43080-22e1-405e-a83d-f2a512d9e867",
 		"type": "organization",
 		"id": "e811f0b4-451f-4896-9e8f-fc6802837819",
@@ -70,11 +70,11 @@
 	"name": "2006-em300-and-em3002d-multibeam-sonar-data-from-cruise-hiialakai-hi-06-01-pacific-remote-isla",
 	"isopen": false,
 	"url": null,
-	"notes": "EM300 and EM3002D multibeam Data were collected from 15 Jan - 6 Feb 2006 aboard NOAA Ship Hi'ialakai at Johnston Island, Howland Island, and Baker Island in the Central Pacific during cruise HI-06-01 These multibeam data were collected using SAIC ISS-2000 software in the Generic Sensor Format and processed using SABER editing software. Surface sound velocity values were supplied by a Seabird SBE-45 MicroTSG and a SBE-38 remote temperature probe. Sound velocity corrections from a Seabird 911 CTD sensor and motion corrections from a POS-MV vertical reference were applied to the data in real time. Predicted tides were applied to the data in real time: for Johnston Island predicted tides from the NOS CO-OPS web site were used; for Baker and Howland Islands predicted tides based upon the Honolulu tide station (1612340) with a time corrector of 3 hrs 48 min and a range ratio of 3.91. Horizontal accuracy is 20m (no differential GPS correctors applied), vertical accuracy is depth dependent (~1% of water depth), WGS84 datum. These data are not to be used for navigation. Depths mapped range from ~20 - 4720 m. Concurrent mapping was done by the R\/V AHI in water depths ranging from 3-250 m with the data set being AHI-06-01; metadata for AHI-06-01 are submitted separately.",
+	"notes": "EM300 and EM3002D multibeam Data were collected from 15 Jan - 6 Feb 2006 aboard NOAA Ship Hi'ialakai at Johnston Island, Howland Island, and Baker Island in the Central Pacific during cruise HI-06-01 These multibeam data were collected using SAIC ISS-2000 software in the Generic Sensor Format and processed using SABER editing software. Surface sound velocity values were supplied by a Seabird SBE-45 MicroTSG and a SBE-38 remote temperature probe. Sound velocity corrections from a Seabird 911 CTD sensor and motion corrections from a POS-MV vertical reference were applied to the data in real time. Predicted tides were applied to the data in real time: for Johnston Island predicted tides from the NOS CO-OPS web site were used; for Baker and Howland Islands predicted tides based upon the Honolulu tide station (1612340) with a time corrector of 3 hrs 48 min and a range ratio of 3.91. Horizontal accuracy is 20m (no differential GPS correctors applied), vertical accuracy is depth dependent (~1% of water depth), WGS84 datum. These data are not to be used for navigation. Depths mapped range from ~20 - 4720 m. Concurrent mapping was done by the R/V AHI in water depths ranging from 3-250 m with the data set being AHI-06-01; metadata for AHI-06-01 are submitted separately.",
 	"owner_org": "e811f0b4-451f-4896-9e8f-fc6802837819",
 	"extras": [{
 		"key": "bbox-east-long",
-		"value": "\n          -169.261657\n        "
+		"value": "n          -169.261657n        "
 	},
 	{
 		"key": "resource-type",
@@ -82,7 +82,7 @@
 	},
 	{
 		"key": "bbox-north-lat",
-		"value": "\n          16.889301\n        "
+		"value": "n          16.889301n        "
 	},
 	{
 		"key": "coupled-resource",
@@ -98,7 +98,7 @@
 	},
 	{
 		"key": "bbox-south-lat",
-		"value": "\n          0.068122\n        "
+		"value": "n          0.068122n        "
 	},
 	{
 		"key": "spatial-reference-system",
@@ -106,7 +106,7 @@
 	},
 	{
 		"key": "spatial",
-		"value": "{\"type\": \"Polygon\", \"coordinates\": [[[-176.736757, 0.068122], [-169.261657, 0.068122], [-169.261657, 16.889301], [-176.736757, 16.889301], [-176.736757, 0.068122]]]}"
+		"value": "{"type": "Polygon", "coordinates": [[[-176.736757, 0.068122], [-169.261657, 0.068122], [-169.261657, 16.889301], [-176.736757, 16.889301], [-176.736757, 0.068122]]]}"
 	},
 	{
 		"key": "progress",
@@ -114,7 +114,7 @@
 	},
 	{
 		"key": "access_constraints",
-		"value": "[\"Use Constraints: These data are NOT TO BE USED FOR NAVIGATION\", \"Access Constraints: None.\"]"
+		"value": "["Use Constraints: These data are NOT TO BE USED FOR NAVIGATION", "Access Constraints: None."]"
 	},
 	{
 		"key": "temporal-extent-begin",
@@ -126,7 +126,7 @@
 	},
 	{
 		"key": "bbox-west-long",
-		"value": "\n          -176.736757\n        "
+		"value": "n          -176.736757n        "
 	},
 	{
 		"key": "metadata-date",
@@ -134,7 +134,7 @@
 	},
 	{
 		"key": "dataset-reference-date",
-		"value": "[{\"type\": \"publication\", \"value\": \"2006-09-07\"}]"
+		"value": "[{"type": "publication", "value": "2006-09-07"}]"
 	},
 	{
 		"key": "frequency-of-update",
@@ -142,7 +142,7 @@
 	},
 	{
 		"key": "licence",
-		"value": "[\"\\n      These data are not to be used for\\nnavigational purposes. NOAA makes no warranty regarding these\\ndata, expressed or implied, nor does the fact of distribution\\nconstitute such a warranty. NOAA cannot assume liability for\\nany damages caused by any errors or omissions in these data,\\nnor as a result of the failure of these data to function on a\\nparticular system.\\n    \"]"
+		"value": "["\n      These data are not to be used for\nnavigational purposes. NOAA makes no warranty regarding these\ndata, expressed or implied, nor does the fact of distribution\nconstitute such a warranty. NOAA cannot assume liability for\nany damages caused by any errors or omissions in these data,\nnor as a result of the failure of these data to function on a\nparticular system.\n    "]"
 	},
 	{
 		"key": "metadata_type",
@@ -150,7 +150,7 @@
 	},
 	{
 		"key": "responsible-party",
-		"value": "[{\"name\": \"Pacific Islands Benthic Habitat Mapping Center (PIBHMC), Coral Reef Ecosystem Division (CRED), Pacific Islands Fisheries Science Center (PIFSC), National Marine Fisheries Service (NMFS), National Oceanic and Atmospheric Administration (NOAA)\", \"roles\": [\"pointOfContact\"]}]"
+		"value": "[{"name": "Pacific Islands Benthic Habitat Mapping Center (PIBHMC), Coral Reef Ecosystem Division (CRED), Pacific Islands Fisheries Science Center (PIFSC), National Marine Fisheries Service (NMFS), National Oceanic and Atmospheric Administration (NOAA)", "roles": ["pointOfContact"]}]"
 	},
 	{
 		"key": "temporal-extent-end",
@@ -166,7 +166,7 @@
 	},
 	{
 		"key": "tags",
-		"value": "geographic information, johnston island, oceans, pacific remote island areas, multibeam sonar, bathymetry, bathymetry\/seafloor topography, islands, howland island, baker island, earth science",
+		"value": "geographic information, johnston island, oceans, pacific remote island areas, multibeam sonar, bathymetry, bathymetry/seafloor topography, islands, howland island, baker island, earth science",
 		"__extras": {
 			"package_id": "45c9dced-bcc2-444c-b027-e44c7f349a36",
 			"revision_id": "6cf09965-42df-4c5e-9938-a34789481f16"

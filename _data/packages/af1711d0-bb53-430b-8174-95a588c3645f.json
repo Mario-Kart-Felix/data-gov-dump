@@ -37,7 +37,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2016-05-31T02:57:02.590062",
-		"url": "https:\/\/coast.noaa.gov\/dataviewer\/#\/lidar\/search\/where:ID=66",
+		"url": "https://coast.noaa.gov/dataviewer/#/lidar/search/where:ID=66",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 0,
@@ -67,7 +67,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2016-05-31T02:57:02.590090",
-		"url": "https:\/\/coast.noaa.gov\/htdata\/lidar1_z\/geoid12a\/data\/66",
+		"url": "https://coast.noaa.gov/htdata/lidar1_z/geoid12a/data/66",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 1,
@@ -97,7 +97,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2016-05-31T02:57:02.590100",
-		"url": "https:\/\/coast.noaa.gov\/dataviewer",
+		"url": "https://coast.noaa.gov/dataviewer",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 2,
@@ -127,7 +127,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2016-05-31T02:57:02.590109",
-		"url": "https:\/\/coast.noaa.gov",
+		"url": "https://coast.noaa.gov",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 3,
@@ -147,7 +147,7 @@
 	"name": "2005-southwest-florida-water-management-district-swfwmd-lidar-manatee-district",
 	"isopen": false,
 	"url": null,
-	"notes": "The Light Detection and Ranging (LiDAR) LAS dataset is a survey of select areas within Southwest Florida. These data were produced for the Southwest Florida Water Management District (SWFWMD). The Manatee \/ Little Manatee LiDAR Survey project area consists of approximately 176 square miles. This data set falls in Manatee County. The LiDAR point cloud was flown at a density sufficient to support a maximum final post spacing of 6 feet for unobscured areas. 3001 inc. acquired 445 flightlines between February 11, 2005 and April 14, 2005. The data was divided into 5000' by 5000' foot cells that serve as the tiling scheme. The Manatee \/ Little Manatee LiDAR Survey was collected under the guidance of a Professional Mapper\/Surveyor.",
+	"notes": "The Light Detection and Ranging (LiDAR) LAS dataset is a survey of select areas within Southwest Florida. These data were produced for the Southwest Florida Water Management District (SWFWMD). The Manatee / Little Manatee LiDAR Survey project area consists of approximately 176 square miles. This data set falls in Manatee County. The LiDAR point cloud was flown at a density sufficient to support a maximum final post spacing of 6 feet for unobscured areas. 3001 inc. acquired 445 flightlines between February 11, 2005 and April 14, 2005. The data was divided into 5000' by 5000' foot cells that serve as the tiling scheme. The Manatee / Little Manatee LiDAR Survey was collected under the guidance of a Professional Mapper/Surveyor.",
 	"license_title": null,
 	"extras": [{
 		"key": "bbox-east-long",
@@ -183,7 +183,7 @@
 	},
 	{
 		"key": "spatial",
-		"value": "{\"type\": \"Polygon\", \"coordinates\": [[[-82.574841, 27.510505], [-82.219672, 27.510505], [-82.219672, 27.634545], [-82.574841, 27.634545], [-82.574841, 27.510505]]]}"
+		"value": "{"type": "Polygon", "coordinates": [[[-82.574841, 27.510505], [-82.219672, 27.510505], [-82.219672, 27.634545], [-82.574841, 27.634545], [-82.574841, 27.510505]]]}"
 	},
 	{
 		"key": "progress",
@@ -191,7 +191,7 @@
 	},
 	{
 		"key": "access_constraints",
-		"value": "[\"Use Constraints: Users should be aware that temporal changes may have occurred since this data set was collected and some parts of this data may no longer represent actual surface conditions. Users should not use this data for critical applications without a full awareness of its limitations.\", \"Access Constraints: None\"]"
+		"value": "["Use Constraints: Users should be aware that temporal changes may have occurred since this data set was collected and some parts of this data may no longer represent actual surface conditions. Users should not use this data for critical applications without a full awareness of its limitations.", "Access Constraints: None"]"
 	},
 	{
 		"key": "temporal-extent-begin",
@@ -211,7 +211,7 @@
 	},
 	{
 		"key": "dataset-reference-date",
-		"value": "[{\"type\": \"publication\", \"value\": \"2006-01-01\"}]"
+		"value": "[{"type": "publication", "value": "2006-01-01"}]"
 	},
 	{
 		"key": "frequency-of-update",
@@ -219,7 +219,7 @@
 	},
 	{
 		"key": "licence",
-		"value": "[\"\\nAny conclusions drawn for the analysis of this information are not the responsibility of the Office for Coastal Management or its partners.\\n\"]"
+		"value": "["\nAny conclusions drawn for the analysis of this information are not the responsibility of the Office for Coastal Management or its partners.\n"]"
 	},
 	{
 		"key": "metadata_type",
@@ -227,7 +227,7 @@
 	},
 	{
 		"key": "responsible-party",
-		"value": "[{\"name\": \"Southwest Florida Water Management District (SWFWMD)\", \"roles\": [\"pointOfContact\"]}]"
+		"value": "[{"name": "Southwest Florida Water Management District (SWFWMD)", "roles": ["pointOfContact"]}]"
 	},
 	{
 		"key": "temporal-extent-end",
@@ -243,7 +243,7 @@
 	},
 	{
 		"package_id": "af1711d0-bb53-430b-8174-95a588c3645f",
-		"value": "hydrography, southwest florida, height, photogrammetry, contour, esri, shapefile, tin, dsm, las v.1.0, buffalo canal, elevation, frog & gamble creek, tampa, stereo photogrammetry, planimetric, dtm, florida, us, manatee county, bathymetry\/topography, dem",
+		"value": "hydrography, southwest florida, height, photogrammetry, contour, esri, shapefile, tin, dsm, las v.1.0, buffalo canal, elevation, frog & gamble creek, tampa, stereo photogrammetry, planimetric, dtm, florida, us, manatee county, bathymetry/topography, dem",
 		"revision_timestamp": "2015-09-27T01:14:57.381085",
 		"state": "active",
 		"key": "tags",
@@ -273,7 +273,7 @@
 		"revision_timestamp": "2013-03-25T23:05:12.923863",
 		"is_organization": true,
 		"state": "active",
-		"image_url": "https:\/\/fortress.wa.gov\/dfw\/score\/score\/images\/noaa_logo.png",
+		"image_url": "https://fortress.wa.gov/dfw/score/score/images/noaa_logo.png",
 		"revision_id": "c6d43080-22e1-405e-a83d-f2a512d9e867",
 		"type": "organization",
 		"id": "e811f0b4-451f-4896-9e8f-fc6802837819",

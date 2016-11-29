@@ -37,7 +37,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2015-09-26T17:18:38.799764",
-		"url": "ftp:\/\/sidads.colorado.edu\/pub\/DATASETS\/NOAA\/G00804\/",
+		"url": "ftp://sidads.colorado.edu/pub/DATASETS/NOAA/G00804/",
 		"webstore_url": null,
 		"resource_locator_function": "function",
 		"position": 0,
@@ -67,7 +67,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2015-09-26T17:18:38.799816",
-		"url": "http:\/\/nsidc.org\/data\/docs\/noaa\/g00804_glerl_ice_concentrations\/index.html",
+		"url": "http://nsidc.org/data/docs/noaa/g00804_glerl_ice_concentrations/index.html",
 		"webstore_url": null,
 		"resource_locator_function": "function",
 		"position": 1,
@@ -85,7 +85,7 @@
 		"last_modified": null,
 		"hash": "",
 		"description": "",
-		"format": "application\/vnd.lotus-organizer",
+		"format": "application/vnd.lotus-organizer",
 		"tracking_summary": {
 			"total": 85,
 			"recent": 4
@@ -97,7 +97,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2015-09-26T17:18:38.799832",
-		"url": "http:\/\/nsidc.org",
+		"url": "http://nsidc.org",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 2,
@@ -127,7 +127,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2015-09-26T17:18:38.799841",
-		"url": "http:\/\/nsidc.org\/noaa\/",
+		"url": "http://nsidc.org/noaa/",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 3,
@@ -145,7 +145,7 @@
 		"last_modified": null,
 		"hash": "",
 		"description": "",
-		"format": "application\/vnd.lotus-organizer",
+		"format": "application/vnd.lotus-organizer",
 		"tracking_summary": {
 			"total": 85,
 			"recent": 4
@@ -157,7 +157,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2015-09-26T17:18:38.799848",
-		"url": "http:\/\/nsidc.org",
+		"url": "http://nsidc.org",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 4,
@@ -177,7 +177,7 @@
 	"name": "glerl-great-lakes-ice-concentration-data-base-1960-1979",
 	"isopen": false,
 	"url": null,
-	"notes": "\nIce concentration grids for 1960 to 1979 are archived for half-month periods, generally December through April. Data values are coded to the nearest ten percent for each 5 x 5 km grid square. A file of geographic coordinates of the center of each grid cell is included for each lake. A file of ice climatology data for each lake includes average, median and mode for each grid cell for each half-month period. Over 2800 charts were digitized to produce this data base. Charts were prepared by NOAA\/National Weather Service Forecast Office in Ann Arbor, U.S. Coast Guard Ninth District Ice Navigation Center in Cleveland, and by the Canadian Atmospheric Environment Service. Chart data sources include NOAA satellite, U.S. Coast Guard side-looking airborne radar (SLAR) and aerial visual reconnaissance, Canadian Coast Guard SLAR and aerial visual reconnaissance, and Atmospheric Environment Service analyses. The data were given to NSIDC by the NOAA Great Lakes Environmental Research Laboratory (GLERL), Ann Arbor, MI.\n",
+	"notes": "nIce concentration grids for 1960 to 1979 are archived for half-month periods, generally December through April. Data values are coded to the nearest ten percent for each 5 x 5 km grid square. A file of geographic coordinates of the center of each grid cell is included for each lake. A file of ice climatology data for each lake includes average, median and mode for each grid cell for each half-month period. Over 2800 charts were digitized to produce this data base. Charts were prepared by NOAA/National Weather Service Forecast Office in Ann Arbor, U.S. Coast Guard Ninth District Ice Navigation Center in Cleveland, and by the Canadian Atmospheric Environment Service. Chart data sources include NOAA satellite, U.S. Coast Guard side-looking airborne radar (SLAR) and aerial visual reconnaissance, Canadian Coast Guard SLAR and aerial visual reconnaissance, and Atmospheric Environment Service analyses. The data were given to NSIDC by the NOAA Great Lakes Environmental Research Laboratory (GLERL), Ann Arbor, MI.n",
 	"license_title": null,
 	"extras": [{
 		"key": "bbox-east-long",
@@ -213,7 +213,7 @@
 	},
 	{
 		"key": "spatial",
-		"value": "{\"type\": \"Polygon\", \"coordinates\": [[[-93.0, 41.0], [-76.0, 41.0], [-76.0, 49.0], [-93.0, 49.0], [-93.0, 41.0]]]}"
+		"value": "{"type": "Polygon", "coordinates": [[[-93.0, 41.0], [-76.0, 41.0], [-76.0, 49.0], [-93.0, 49.0], [-93.0, 41.0]]]}"
 	},
 	{
 		"key": "progress",
@@ -221,7 +221,7 @@
 	},
 	{
 		"key": "access_constraints",
-		"value": "[\"Access Constraints : none\", \"Use Constraints : none\"]"
+		"value": "["Access Constraints : none", "Use Constraints : none"]"
 	},
 	{
 		"key": "temporal-extent-begin",
@@ -241,7 +241,7 @@
 	},
 	{
 		"key": "dataset-reference-date",
-		"value": "[{\"type\": \"publication\", \"value\": \"1983-01-01\"}]"
+		"value": "[{"type": "publication", "value": "1983-01-01"}]"
 	},
 	{
 		"key": "frequency-of-update",
@@ -257,7 +257,7 @@
 	},
 	{
 		"key": "responsible-party",
-		"value": "[{\"name\": \"\", \"roles\": [\"principalInvestigator\"]}, {\"name\": \"National Snow and Ice Data Center\", \"roles\": [\"pointOfContact\"]}]"
+		"value": "[{"name": "", "roles": ["principalInvestigator"]}, {"name": "National Snow and Ice Data Center", "roles": ["pointOfContact"]}]"
 	},
 	{
 		"key": "temporal-extent-end",
@@ -273,7 +273,7 @@
 	},
 	{
 		"package_id": "ef67bd91-2fac-4cec-a4aa-85ee70ea80f2",
-		"value": "terrestrial hydrosphere, cryosphere, ice concentration, lake erie, usa, lake ice, mid-latitude, united states of america, north america, freshwater ice, ice extent, snow\/ice, geographic region, climatology, great lakes, continent, earth science",
+		"value": "terrestrial hydrosphere, cryosphere, ice concentration, lake erie, usa, lake ice, mid-latitude, united states of america, north america, freshwater ice, ice extent, snow/ice, geographic region, climatology, great lakes, continent, earth science",
 		"revision_timestamp": "2015-09-26T21:18:38.734480",
 		"state": "active",
 		"key": "tags",
@@ -303,7 +303,7 @@
 		"revision_timestamp": "2013-03-25T23:05:12.923863",
 		"is_organization": true,
 		"state": "active",
-		"image_url": "https:\/\/fortress.wa.gov\/dfw\/score\/score\/images\/noaa_logo.png",
+		"image_url": "https://fortress.wa.gov/dfw/score/score/images/noaa_logo.png",
 		"revision_id": "c6d43080-22e1-405e-a83d-f2a512d9e867",
 		"type": "organization",
 		"id": "e811f0b4-451f-4896-9e8f-fc6802837819",

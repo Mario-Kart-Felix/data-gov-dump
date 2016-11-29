@@ -37,7 +37,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2015-07-16T17:37:40.407081",
-		"url": "http:\/\/www.bts.gov\/programs\/geographic_information_services\/",
+		"url": "http://www.bts.gov/programs/geographic_information_services/",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 0,
@@ -67,7 +67,7 @@
 		"cache_url": null,
 		"name": "Esri Rest API Endpoint",
 		"created": "2015-07-16T17:37:40.407107",
-		"url": "http:\/\/gis.rita.dot.gov\/ArcGIS\/rest\/services\/NTAD",
+		"url": "http://gis.rita.dot.gov/ArcGIS/rest/services/NTAD",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 1,
@@ -97,7 +97,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2015-07-16T17:37:40.407117",
-		"url": "http:\/\/www.rita.dot.gov\/bts\/sites\/rita.dot.gov.bts\/files\/publications\/national_transportation_atlas_database\/2015\/index.html",
+		"url": "http://www.rita.dot.gov/bts/sites/rita.dot.gov.bts/files/publications/national_transportation_atlas_database/2015/index.html",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 2,
@@ -127,7 +127,7 @@
 		"cache_url": null,
 		"name": "XML File",
 		"created": "2015-07-16T17:37:40.407125",
-		"url": "https:\/\/2bts.rita.dot.gov\/pdc\/index.xml",
+		"url": "https://2bts.rita.dot.gov/pdc/index.xml",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 3,
@@ -147,11 +147,11 @@
 	"name": "water-features-national",
 	"isopen": false,
 	"url": null,
-	"notes": "The hydro polygon\/arc coverages (NTAD 2015) were created using TIGER\/LINE 2000 shapefile data gathered from ESRI's Geography Network. The individual county hydrography line shapefiles were processed into Arc\/Info coverages and then appended together to create complete state coverages. They were then edited to remove unwanted features, leaving a state-by-state database of both important and navigable water features. Attributes were added to denote navigable features and names. Also, an attribute was added to the polygons to denote which were water and which were land features. The state databases were then appended together to create a single, nationwide hydrography network containing named arcs and polygons. These features also contain a state FIPS. Because some of the hydro features are represented by lines instead of polygons, the complete hydro dataset consists of 2 shapefiles, one for lines and one for polygons. They must be used together to paint a complete picture.",
+	"notes": "The hydro polygon/arc coverages (NTAD 2015) were created using TIGER/LINE 2000 shapefile data gathered from ESRI's Geography Network. The individual county hydrography line shapefiles were processed into Arc/Info coverages and then appended together to create complete state coverages. They were then edited to remove unwanted features, leaving a state-by-state database of both important and navigable water features. Attributes were added to denote navigable features and names. Also, an attribute was added to the polygons to denote which were water and which were land features. The state databases were then appended together to create a single, nationwide hydrography network containing named arcs and polygons. These features also contain a state FIPS. Because some of the hydro features are represented by lines instead of polygons, the complete hydro dataset consists of 2 shapefiles, one for lines and one for polygons. They must be used together to paint a complete picture.",
 	"license_title": null,
 	"extras": [{
 		"key": "responsible-party",
-		"value": "[{\"name\": \"Office of the Assistant Secretary for Research and Technology\/Bureau of Transportation Statistics\", \"roles\": [\"pointOfContact\"]}]"
+		"value": "[{"name": "Office of the Assistant Secretary for Research and Technology/Bureau of Transportation Statistics", "roles": ["pointOfContact"]}]"
 	},
 	{
 		"key": "contact-email",
@@ -171,7 +171,7 @@
 	},
 	{
 		"key": "dataset-reference-date",
-		"value": "[{\"type\": \"publication\", \"value\": \"2000-01-01\"}]"
+		"value": "[{"type": "publication", "value": "2000-01-01"}]"
 	},
 	{
 		"key": "resource-type",
@@ -199,7 +199,7 @@
 	},
 	{
 		"key": "licence",
-		"value": "[\"None\"]"
+		"value": "["None"]"
 	},
 	{
 		"key": "metadata_type",
@@ -211,7 +211,7 @@
 	},
 	{
 		"key": "spatial",
-		"value": "{\"type\": \"Polygon\", \"coordinates\": [[[-179.252851, 17.831509], [179.830623, 17.831509], [179.830623, 71.441056], [-179.252851, 71.441056], [-179.252851, 17.831509]]]}"
+		"value": "{"type": "Polygon", "coordinates": [[[-179.252851, 17.831509], [179.830623, 17.831509], [179.830623, 71.441056], [-179.252851, 71.441056], [-179.252851, 17.831509]]]}"
 	},
 	{
 		"key": "guid",
@@ -223,7 +223,7 @@
 	},
 	{
 		"key": "access_constraints",
-		"value": "[\"Use Constraints: Acknowledgement of the Office of the Assistant Secretary for Research and Technology Administration's Bureau of Transportation Statistics (BTS) National Transportation Atlas Databases (NTAD) 2015 would be appreciated in products derived from these data.\", \"Access Constraints: None\"]"
+		"value": "["Use Constraints: Acknowledgement of the Office of the Assistant Secretary for Research and Technology Administration's Bureau of Transportation Statistics (BTS) National Transportation Atlas Databases (NTAD) 2015 would be appreciated in products derived from these data.", "Access Constraints: None"]"
 	},
 	{
 		"key": "spatial_harvester",
@@ -265,7 +265,7 @@
 		"revision_timestamp": "2013-08-30T13:59:29.523214",
 		"is_organization": true,
 		"state": "active",
-		"image_url": "http:\/\/upload.wikimedia.org\/wikipedia\/commons\/8\/81\/US_DOT_Triskelion.png",
+		"image_url": "http://upload.wikimedia.org/wikipedia/commons/8/81/US_DOT_Triskelion.png",
 		"revision_id": "684c8481-4ae2-46b0-a083-b392eea15130",
 		"type": "organization",
 		"id": "fc5cb2c1-d0b0-482a-8a52-7d42ea186ae1",

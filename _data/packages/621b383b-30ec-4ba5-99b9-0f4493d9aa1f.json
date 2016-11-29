@@ -30,11 +30,11 @@
 			"recent": 2
 		},
 		"mimetype_inner": null,
-		"mimetype": "text\/csv",
+		"mimetype": "text/csv",
 		"cache_url": null,
 		"name": "Download Data",
 		"created": "2015-02-23T15:19:49.246536",
-		"url": "http:\/\/en.openei.org\/doe-opendata\/dataset\/657d7968-163e-4114-913c-8fb645711b0b\/resource\/e079631d-2303-49e4-8582-76b578cc37d3\/download\/ghana40kmglo.csv",
+		"url": "http://en.openei.org/doe-opendata/dataset/657d7968-163e-4114-913c-8fb645711b0b/resource/e079631d-2303-49e4-8582-76b578cc37d3/download/ghana40kmglo.csv",
 		"webstore_url": null,
 		"last_modified": null,
 		"position": 0,
@@ -57,11 +57,11 @@
 			"recent": 1
 		},
 		"mimetype_inner": null,
-		"mimetype": "application\/zip",
+		"mimetype": "application/zip",
 		"cache_url": null,
 		"name": "Download Shapefile",
 		"created": "2015-02-23T15:19:49.246558",
-		"url": "http:\/\/en.openei.org\/doe-opendata\/dataset\/657d7968-163e-4114-913c-8fb645711b0b\/resource\/d956e26a-810e-4516-92b2-980e4cfd9a69\/download\/ghanaghi40kmnrel132.zip",
+		"url": "http://en.openei.org/doe-opendata/dataset/657d7968-163e-4114-913c-8fb645711b0b/resource/d956e26a-810e-4516-92b2-980e4cfd9a69/download/ghanaghi40kmnrel132.zip",
 		"webstore_url": null,
 		"last_modified": null,
 		"position": 1,
@@ -144,7 +144,7 @@
 	"name": "solar-monthly-and-annual-average-global-horizontal-ghi-gis-data-at-40km-resolution-for-gha-50221",
 	"isopen": true,
 	"url": null,
-	"notes": "_(Abstract):_  Monthly Average Solar Resource for \r\nhorizontal flat-plate collectors for Ghana.\r\n\r\n_(Purpose):_  Provide information on the solar resource \r\npotential for the data domain. The insolation values represent the \r\naverage solar energy available to a flat plate collector, such as a \r\nphotovoltaic panel, oriented horizontally.\r\n\r\n_(Supplemental Information):_   These data provide monthly average and\r\n annual average daily total solar resource averaged over surface cells of\r\n approximately 40 km by 40 km in size.  The solar resource value is \r\nrepresented as watt-hours per square meter per day for each month.  The \r\ndata were developed from [NREL's](http:\/\/en.openei.org\/wiki\/NREL) Climatological Solar Radiation (CSR) \r\nModel.  This model uses information on cloud cover, atmospheric water \r\nvapor and trace gases, and the amount of aerosols in the atmosphere to \r\ncalculate the monthly average daily total insolation (sun and sky) \r\nfalling on a horizontal surface.   Existing ground measurement stations \r\nare used to validate the data where possible.  The modeled values are \r\naccurate to approximately 10% of a true measured value within the grid \r\ncell due to the uncertainties associated with meteorological input to the\r\n model.  The local cloud cover can vary significantly even within a \r\nsingle grid cell as a result of terrain effects and other microclimate \r\ninfluences. Furthermore, the uncertainty of the modeled estimates \r\nincrease with distance from reliable measurement sources and with the \r\ncomplexity of the terrain.",
+	"notes": "_(Abstract):_  Monthly Average Solar Resource for rnhorizontal flat-plate collectors for Ghana.rnrn_(Purpose):_  Provide information on the solar resource rnpotential for the data domain. The insolation values represent the rnaverage solar energy available to a flat plate collector, such as a rnphotovoltaic panel, oriented horizontally.rnrn_(Supplemental Information):_   These data provide monthly average andrn annual average daily total solar resource averaged over surface cells ofrn approximately 40 km by 40 km in size.  The solar resource value is rnrepresented as watt-hours per square meter per day for each month.  The rndata were developed from [NREL's](http://en.openei.org/wiki/NREL) Climatological Solar Radiation (CSR) rnModel.  This model uses information on cloud cover, atmospheric water rnvapor and trace gases, and the amount of aerosols in the atmosphere to rncalculate the monthly average daily total insolation (sun and sky) rnfalling on a horizontal surface.   Existing ground measurement stations rnare used to validate the data where possible.  The modeled values are rnaccurate to approximately 10% of a true measured value within the grid rncell due to the uncertainties associated with meteorological input to thern model.  The local cloud cover can vary significantly even within a rnsingle grid cell as a result of terrain effects and other microclimate rninfluences. Furthermore, the uncertainty of the modeled estimates rnincrease with distance from reliable measurement sources and with the rncomplexity of the terrain.",
 	"license_title": "Other License Specified",
 	"extras": [{
 		"key": "harvest_source_id",
@@ -164,23 +164,23 @@
 	},
 	{
 		"key": "spatial",
-		"value": "{\"type\":\"Polygon\",\"coordinates\":[[[-3.3196289062500455,4.602556719115232],[1.2705249999999069,4.602556719115232],[1.2705249999999069,11.181607503283043],[-3.3196289062500455,11.181607503283043],[-3.3196289062500455,4.602556719115232]]]}"
+		"value": "{"type":"Polygon","coordinates":[[[-3.3196289062500455,4.602556719115232],[1.2705249999999069,4.602556719115232],[1.2705249999999069,11.181607503283043],[-3.3196289062500455,11.181607503283043],[-3.3196289062500455,4.602556719115232]]]}"
 	},
 	{
 		"key": "catalog_conformsTo",
-		"value": "https:\/\/project-open-data.cio.gov\/v1.1\/schema"
+		"value": "https://project-open-data.cio.gov/v1.1/schema"
 	},
 	{
 		"key": "catalog_@context",
-		"value": "https:\/\/project-open-data.cio.gov\/v1.1\/schema\/catalog.jsonld"
+		"value": "https://project-open-data.cio.gov/v1.1/schema/catalog.jsonld"
 	},
 	{
 		"key": "catalog_describedBy",
-		"value": "https:\/\/project-open-data.cio.gov\/v1.1\/schema\/catalog.json"
+		"value": "https://project-open-data.cio.gov/v1.1/schema/catalog.json"
 	},
 	{
 		"key": "format",
-		"value": "text\/csv"
+		"value": "text/csv"
 	},
 	{
 		"key": "harvest_source_title",
@@ -200,7 +200,7 @@
 	},
 	{
 		"key": "landingPage",
-		"value": "http:\/\/www.nrel.gov"
+		"value": "http://www.nrel.gov"
 	},
 	{
 		"key": "harvest_object_id",
@@ -208,7 +208,7 @@
 	},
 	{
 		"key": "accessURL",
-		"value": "http:\/\/en.openei.org\/doe-opendata\/dataset\/657d7968-163e-4114-913c-8fb645711b0b\/resource\/e079631d-2303-49e4-8582-76b578cc37d3\/download\/ghana40kmglo.csv"
+		"value": "http://en.openei.org/doe-opendata/dataset/657d7968-163e-4114-913c-8fb645711b0b/resource/e079631d-2303-49e4-8582-76b578cc37d3/download/ghana40kmglo.csv"
 	},
 	{
 		"key": "publisher",
@@ -216,7 +216,7 @@
 	},
 	{
 		"key": "license",
-		"value": "http:\/\/www.opendefinition.org\/licenses\/odc-pddl"
+		"value": "http://www.opendefinition.org/licenses/odc-pddl"
 	},
 	{
 		"key": "modified",
@@ -232,7 +232,7 @@
 	},
 	{
 		"key": "identifier",
-		"value": "http:\/\/en.openei.org\/doe-opendata\/dataset\/657d7968-163e-4114-913c-8fb645711b0b"
+		"value": "http://en.openei.org/doe-opendata/dataset/657d7968-163e-4114-913c-8fb645711b0b"
 	},
 	{
 		"state": "active",
@@ -257,7 +257,7 @@
 		"revision_timestamp": "2013-05-31T20:48:37.771905",
 		"is_organization": true,
 		"state": "active",
-		"image_url": "http:\/\/energy.gov\/sites\/prod\/files\/styles\/imagelink\/public\/DoE-Logo.jpeg",
+		"image_url": "http://energy.gov/sites/prod/files/styles/imagelink/public/DoE-Logo.jpeg",
 		"revision_id": "14e1d3c1-4cc7-460c-bf1c-b10e3429b4b0",
 		"type": "organization",
 		"id": "735d0118-b2a7-4246-a0e3-608b0fa8d1ec",

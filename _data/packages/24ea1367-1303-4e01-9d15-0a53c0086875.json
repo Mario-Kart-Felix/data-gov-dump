@@ -37,7 +37,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2016-04-18T15:43:49.924447",
-		"url": "ftp:\/\/tgftp.nws.noaa.gov\/data\/raw\/ws\/",
+		"url": "ftp://tgftp.nws.noaa.gov/data/raw/ws/",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 0,
@@ -66,7 +66,7 @@
 		"cache_url": null,
 		"name": "Web Display: SIGMETs",
 		"created": "2016-04-18T15:43:49.924473",
-		"url": "http:\/\/www.aviationweather.gov\/sigmet",
+		"url": "http://www.aviationweather.gov/sigmet",
 		"webstore_url": null,
 		"resource_locator_function": "information",
 		"position": 1,
@@ -110,7 +110,7 @@
 	},
 	{
 		"key": "dataset-reference-date",
-		"value": "[{\"type\": \"creation\", \"value\": \"2010-07-07\"}]"
+		"value": "[{"type": "creation", "value": "2010-07-07"}]"
 	},
 	{
 		"key": "resource-type",
@@ -146,7 +146,7 @@
 	},
 	{
 		"key": "spatial",
-		"value": "{\"type\": \"Polygon\", \"coordinates\": [[[-180.0, -90.0], [180.0, -90.0], [180.0, 90.0], [-180.0, 90.0], [-180.0, -90.0]]]}"
+		"value": "{"type": "Polygon", "coordinates": [[[-180.0, -90.0], [180.0, -90.0], [180.0, 90.0], [-180.0, 90.0], [-180.0, -90.0]]]}"
 	},
 	{
 		"key": "guid",
@@ -170,7 +170,7 @@
 	},
 	{
 		"package_id": "24ea1367-1303-4e01-9d15-0a53c0086875",
-		"value": "sandstorm, none, sigmet, duststorm, tropical cyclone, un\/wmo, thunderstorm, ws[a-z][a-z]3[1-3] [a-z]*{4}, icing, turbulence, international, volcanic ash, aviation, mountain wave",
+		"value": "sandstorm, none, sigmet, duststorm, tropical cyclone, un/wmo, thunderstorm, ws[a-z][a-z]3[1-3] [a-z]*{4}, icing, turbulence, international, volcanic ash, aviation, mountain wave",
 		"revision_timestamp": "2016-04-18T19:43:49.833171",
 		"state": "active",
 		"key": "tags",
@@ -200,7 +200,7 @@
 		"revision_timestamp": "2013-03-25T23:05:12.923863",
 		"is_organization": true,
 		"state": "active",
-		"image_url": "https:\/\/fortress.wa.gov\/dfw\/score\/score\/images\/noaa_logo.png",
+		"image_url": "https://fortress.wa.gov/dfw/score/score/images/noaa_logo.png",
 		"revision_id": "c6d43080-22e1-405e-a83d-f2a512d9e867",
 		"type": "organization",
 		"id": "e811f0b4-451f-4896-9e8f-fc6802837819",

@@ -30,11 +30,11 @@
 			"recent": 0
 		},
 		"mimetype_inner": null,
-		"mimetype": "application\/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+		"mimetype": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
 		"cache_url": null,
 		"name": "porotomo-6-2-rawdata-dtsh.xlsx",
 		"created": "2016-10-19T20:16:25.408496",
-		"url": "http:\/\/gdr.openei.org\/files\/853\/PoroTomo_6_2_Rawdata_DTSH.xlsx",
+		"url": "http://gdr.openei.org/files/853/PoroTomo_6_2_Rawdata_DTSH.xlsx",
 		"webstore_url": null,
 		"last_modified": null,
 		"position": 0,
@@ -57,11 +57,11 @@
 			"recent": 0
 		},
 		"mimetype_inner": null,
-		"mimetype": "application\/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+		"mimetype": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
 		"cache_url": null,
 		"name": "porotomo-6-2-rawdata-dtsv.xlsx",
 		"created": "2016-10-19T20:16:25.408535",
-		"url": "http:\/\/gdr.openei.org\/files\/853\/PoroTomo_6_2_Rawdata_DTSV.xlsx",
+		"url": "http://gdr.openei.org/files/853/PoroTomo_6_2_Rawdata_DTSV.xlsx",
 		"webstore_url": null,
 		"last_modified": null,
 		"position": 1,
@@ -136,7 +136,7 @@
 	"name": "porotomo-subtask-6-2-dts-raw-data",
 	"isopen": true,
 	"url": null,
-	"notes": "The submitted data correspond to the complete raw temperature datasets captured by the DTS horizontal and vertical arrays during the PoroTomo Experiment. \n\nFiles submitted include:\n\n .xml (level 0) data that includes Stokes, Anti-Stokes, and Temperature data\n.csv (level 1) data that includes temperature\nPT100 reference probe data\n\nRaw data files for horizontal DTS array are located:\nftp:\/\/roftp.ssec.wisc.edu\/porotomo\/PoroTomo\/DATA\/DTSH\/\n\nRaw data files for the vertical DTS array are located:\nftp:\/\/roftp.ssec.wisc.edu\/porotomo\/PoroTomo\/DATA\/DTSV\/\n\nTwo .xlsx files listing the complete data file set with links to the individual files are submitted:\nPoroTomo_6_2_Rawdata_DTSH.xlsx\nPoroTomo_6_2_Rawdata_DTSV.xlsx\n",
+	"notes": "The submitted data correspond to the complete raw temperature datasets captured by the DTS horizontal and vertical arrays during the PoroTomo Experiment. nnFiles submitted include:nn .xml (level 0) data that includes Stokes, Anti-Stokes, and Temperature datan.csv (level 1) data that includes temperaturenPT100 reference probe datannRaw data files for horizontal DTS array are located:nftp://roftp.ssec.wisc.edu/porotomo/PoroTomo/DATA/DTSH/nnRaw data files for the vertical DTS array are located:nftp://roftp.ssec.wisc.edu/porotomo/PoroTomo/DATA/DTSV/nnTwo .xlsx files listing the complete data file set with links to the individual files are submitted:nPoroTomo_6_2_Rawdata_DTSH.xlsxnPoroTomo_6_2_Rawdata_DTSV.xlsxn",
 	"license_title": "Creative Commons Attribution",
 	"extras": [{
 		"key": "harvest_source_id",
@@ -160,23 +160,23 @@
 	},
 	{
 		"key": "spatial",
-		"value": "{\"type\":\"Polygon\",\"coordinates\":[[[-119.2167,39.5883],[-118.8167,39.5883],[-118.8167,39.9883],[-119.2167,39.9883],[-119.2167,39.5883]]]}"
+		"value": "{"type":"Polygon","coordinates":[[[-119.2167,39.5883],[-118.8167,39.5883],[-118.8167,39.9883],[-119.2167,39.9883],[-119.2167,39.5883]]]}"
 	},
 	{
 		"key": "catalog_conformsTo",
-		"value": "https:\/\/project-open-data.cio.gov\/v1.1\/schema"
+		"value": "https://project-open-data.cio.gov/v1.1/schema"
 	},
 	{
 		"key": "catalog_@context",
-		"value": "https:\/\/project-open-data.cio.gov\/v1.1\/schema\/catalog.jsonld"
+		"value": "https://project-open-data.cio.gov/v1.1/schema/catalog.jsonld"
 	},
 	{
 		"key": "catalog_describedBy",
-		"value": "https:\/\/project-open-data.cio.gov\/v1.1\/schema\/catalog.json"
+		"value": "https://project-open-data.cio.gov/v1.1/schema/catalog.json"
 	},
 	{
 		"key": "format",
-		"value": "application\/vnd.openxmlformats-officedocument.spreadsheetml.sheet"
+		"value": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet"
 	},
 	{
 		"key": "harvest_source_title",
@@ -196,7 +196,7 @@
 	},
 	{
 		"key": "landingPage",
-		"value": "http:\/\/gdr.openei.org\/submissions\/853"
+		"value": "http://gdr.openei.org/submissions/853"
 	},
 	{
 		"key": "harvest_object_id",
@@ -204,7 +204,7 @@
 	},
 	{
 		"key": "accessURL",
-		"value": "http:\/\/gdr.openei.org\/files\/853\/PoroTomo_6_2_Rawdata_DTSH.xlsx"
+		"value": "http://gdr.openei.org/files/853/PoroTomo_6_2_Rawdata_DTSH.xlsx"
 	},
 	{
 		"key": "publisher",
@@ -212,7 +212,7 @@
 	},
 	{
 		"key": "license",
-		"value": "https:\/\/creativecommons.org\/licenses\/by\/4.0\/"
+		"value": "https://creativecommons.org/licenses/by/4.0/"
 	},
 	{
 		"key": "modified",
@@ -228,7 +228,7 @@
 	},
 	{
 		"key": "identifier",
-		"value": "http:\/\/en.openei.org\/doe-opendata\/dataset\/f0000000-e214-4b72-acd2-000000000853"
+		"value": "http://en.openei.org/doe-opendata/dataset/f0000000-e214-4b72-acd2-000000000853"
 	},
 	{
 		"state": "active",
@@ -245,7 +245,7 @@
 		"key": "harvest_source_title",
 		"value": "Energy JSON"
 	}],
-	"license_url": "http:\/\/www.opendefinition.org\/licenses\/cc-by",
+	"license_url": "http://www.opendefinition.org/licenses/cc-by",
 	"organization": {
 		"description": "",
 		"created": "2013-05-18T11:31:21.471948",
@@ -254,7 +254,7 @@
 		"revision_timestamp": "2013-05-31T20:48:37.771905",
 		"is_organization": true,
 		"state": "active",
-		"image_url": "http:\/\/energy.gov\/sites\/prod\/files\/styles\/imagelink\/public\/DoE-Logo.jpeg",
+		"image_url": "http://energy.gov/sites/prod/files/styles/imagelink/public/DoE-Logo.jpeg",
 		"revision_id": "14e1d3c1-4cc7-460c-bf1c-b10e3429b4b0",
 		"type": "organization",
 		"id": "735d0118-b2a7-4246-a0e3-608b0fa8d1ec",

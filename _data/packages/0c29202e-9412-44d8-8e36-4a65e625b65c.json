@@ -37,7 +37,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2015-09-26T16:39:16.274355",
-		"url": "ftp:\/\/ftp.cpc.ncep.noaa.gov\/wd51yf\/GHCN_CAMS\/",
+		"url": "ftp://ftp.cpc.ncep.noaa.gov/wd51yf/GHCN_CAMS/",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 0,
@@ -67,7 +67,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2015-09-26T16:39:16.274380",
-		"url": "ftp:\/\/ftp.cpc.ncep.noaa.gov\/wd51yf\/GHCN_CAMS\/",
+		"url": "ftp://ftp.cpc.ncep.noaa.gov/wd51yf/GHCN_CAMS/",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 1,
@@ -114,7 +114,7 @@
 	"name": "climate-prediction-center-cpc-global-land-surface-air-temperature-analysis",
 	"isopen": false,
 	"url": null,
-	"notes": "A station observation-based global land monthly mean surface air temperature dataset at 0.5 x 0.5 latitude-longitude resolution for the period from 1948 to the present was developed at the Climate Prediction Center, National Centers for Environmental Prediction. This data set is different from some existing surface air temperature data sets in: (1) using a combination of two large individual data sets of station observations collected from the Global Historical Climatology Network version 2 and the Climate Anomaly Monitoring System (GHCN + CAMS), so it can be regularly updated in near real time with plenty of stations and (2) some unique interpolation methods, such as the anomaly interpolation approach with spatially-temporally varying temperature lapse rates derived from the observation-based Reanalysis for topographic adjustment. When compared with several existing observation-based land surface air temperature data sets, the preliminary results show that the quality of this new GHCN + CAMS land surface air temperature analysis is reasonably good and the new data set can capture most common temporal-spatial features in the observed climatology and anomaly fields over both regional and global domains. The study also reveals that there are clear biases between the observed surface air temperature and the existing Reanalysis data sets, and they vary in space and seasons. Therefore the Reanalysis 2 m temperature data sets may not be suitable for model forcing and validation. The GHCN + CAMS data set will be mainly used as one of land surface meteorological forcing inputs to derive other land surface variables, such as soil moisture, evaporation, surface runoff, snow accumulation and snow melt, etc. As a byproduct, this monthly mean surface air temperature data set can also be applied to monitor surface air temperature variations over global land routinely or to verify the performance of model simulation and prediction. Refer to this paper: Fan, Y. and H. van den Dool, 2008: A global monthly land surface air temperature analysis for 1948-present. J. Geophys. Res., 113, doi: 10.1029\/2007JD008470.",
+	"notes": "A station observation-based global land monthly mean surface air temperature dataset at 0.5 x 0.5 latitude-longitude resolution for the period from 1948 to the present was developed at the Climate Prediction Center, National Centers for Environmental Prediction. This data set is different from some existing surface air temperature data sets in: (1) using a combination of two large individual data sets of station observations collected from the Global Historical Climatology Network version 2 and the Climate Anomaly Monitoring System (GHCN + CAMS), so it can be regularly updated in near real time with plenty of stations and (2) some unique interpolation methods, such as the anomaly interpolation approach with spatially-temporally varying temperature lapse rates derived from the observation-based Reanalysis for topographic adjustment. When compared with several existing observation-based land surface air temperature data sets, the preliminary results show that the quality of this new GHCN + CAMS land surface air temperature analysis is reasonably good and the new data set can capture most common temporal-spatial features in the observed climatology and anomaly fields over both regional and global domains. The study also reveals that there are clear biases between the observed surface air temperature and the existing Reanalysis data sets, and they vary in space and seasons. Therefore the Reanalysis 2 m temperature data sets may not be suitable for model forcing and validation. The GHCN + CAMS data set will be mainly used as one of land surface meteorological forcing inputs to derive other land surface variables, such as soil moisture, evaporation, surface runoff, snow accumulation and snow melt, etc. As a byproduct, this monthly mean surface air temperature data set can also be applied to monitor surface air temperature variations over global land routinely or to verify the performance of model simulation and prediction. Refer to this paper: Fan, Y. and H. van den Dool, 2008: A global monthly land surface air temperature analysis for 1948-present. J. Geophys. Res., 113, doi: 10.1029/2007JD008470.",
 	"license_title": null,
 	"extras": [{
 		"key": "bbox-east-long",
@@ -142,7 +142,7 @@
 	},
 	{
 		"key": "graphic-preview-file",
-		"value": "http:\/\/www.cpc.ncep.noaa.gov\/products\/Soilmst_Monitoring\/Figures\/global\/curr.t.full.gif"
+		"value": "http://www.cpc.ncep.noaa.gov/products/Soilmst_Monitoring/Figures/global/curr.t.full.gif"
 	},
 	{
 		"key": "metadata-language",
@@ -150,7 +150,7 @@
 	},
 	{
 		"key": "__category_tag_aa0c01c9-d292-4dc1-8fec-b10c1bb629a9",
-		"value": "[\"Human Health\",\"Food Security\",\"Food Safety and Nutrition\",\"Food Distribution\",\"Food Production\",\"Food Resilience\"]"
+		"value": "["Human Health","Food Security","Food Safety and Nutrition","Food Distribution","Food Production","Food Resilience"]"
 	},
 	{
 		"key": "spatial-reference-system",
@@ -162,7 +162,7 @@
 	},
 	{
 		"key": "spatial",
-		"value": "{\"type\": \"Polygon\", \"coordinates\": [[[-179.75, -89.75], [179.75, -89.75], [179.75, 89.75], [-179.75, 89.75], [-179.75, -89.75]]]}"
+		"value": "{"type": "Polygon", "coordinates": [[[-179.75, -89.75], [179.75, -89.75], [179.75, 89.75], [-179.75, 89.75], [-179.75, -89.75]]]}"
 	},
 	{
 		"key": "progress",
@@ -170,7 +170,7 @@
 	},
 	{
 		"key": "access_constraints",
-		"value": "[\"Access Constraints: None Use Constraints: Acknowledgment of the Data Originator when using the data item as a source. Distribution Liability: Refer the NOAA National Weather Service disclaimer http:\/\/www.weather.gov\/disclaimer.php\"]"
+		"value": "["Access Constraints: None Use Constraints: Acknowledgment of the Data Originator when using the data item as a source. Distribution Liability: Refer the NOAA National Weather Service disclaimer http://www.weather.gov/disclaimer.php"]"
 	},
 	{
 		"key": "temporal-extent-begin",
@@ -190,7 +190,7 @@
 	},
 	{
 		"key": "dataset-reference-date",
-		"value": "[{\"type\": \"publication\", \"value\": \"2004-01-01\"}]"
+		"value": "[{"type": "publication", "value": "2004-01-01"}]"
 	},
 	{
 		"key": "graphic-preview-description",
@@ -210,7 +210,7 @@
 	},
 	{
 		"key": "responsible-party",
-		"value": "[{\"name\": \"Climate Prediction Center, NOAA\", \"roles\": [\"pointOfContact\"]}]"
+		"value": "[{"name": "Climate Prediction Center, NOAA", "roles": ["pointOfContact"]}]"
 	},
 	{
 		"key": "temporal-extent-end",
@@ -256,7 +256,7 @@
 		"revision_timestamp": "2013-03-25T23:05:12.923863",
 		"is_organization": true,
 		"state": "active",
-		"image_url": "https:\/\/fortress.wa.gov\/dfw\/score\/score\/images\/noaa_logo.png",
+		"image_url": "https://fortress.wa.gov/dfw/score/score/images/noaa_logo.png",
 		"revision_id": "c6d43080-22e1-405e-a83d-f2a512d9e867",
 		"type": "organization",
 		"id": "e811f0b4-451f-4896-9e8f-fc6802837819",

@@ -36,7 +36,7 @@
 		"cache_url": null,
 		"name": "NDGIS web site",
 		"created": "2015-07-09T20:30:05.733365",
-		"url": "http:\/\/www.nd.gov\/gis",
+		"url": "http://www.nd.gov/gis",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 0,
@@ -65,7 +65,7 @@
 		"cache_url": null,
 		"name": "Download Abandoned Mines",
 		"created": "2015-07-09T20:30:05.733395",
-		"url": "http:\/\/www.nd.gov\/gis\/apps\/DataDownload\/?clipping=Full&coord=ND83-SF&format=SHAPE&layers=NDHUB.ABANDONEDMINES",
+		"url": "http://www.nd.gov/gis/apps/DataDownload/?clipping=Full&coord=ND83-SF&format=SHAPE&layers=NDHUB.ABANDONEDMINES",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 1,
@@ -94,7 +94,7 @@
 		"cache_url": null,
 		"name": "Abandoned Mines",
 		"created": "2015-07-09T20:30:05.733406",
-		"url": "http:\/\/ndgishub.nd.gov\/arcgis\/services\/All_Locations\/MapServer\/WMSServer?",
+		"url": "http://ndgishub.nd.gov/arcgis/services/All_Locations/MapServer/WMSServer?",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 2,
@@ -123,7 +123,7 @@
 		"cache_url": null,
 		"name": "Esri REST including WMS",
 		"created": "2015-07-09T20:30:05.733416",
-		"url": "http:\/\/ndgishub.nd.gov\/ArcGIS\/rest\/services\/All_Locations\/MapServer",
+		"url": "http://ndgishub.nd.gov/ArcGIS/rest/services/All_Locations/MapServer",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 3,
@@ -152,7 +152,7 @@
 		"cache_url": null,
 		"name": "Esri REST including WFS and KML",
 		"created": "2015-07-09T20:30:05.733424",
-		"url": "http:\/\/ndgishub.nd.gov\/ArcGIS\/rest\/services\/Features\/Locations\/MapServer",
+		"url": "http://ndgishub.nd.gov/ArcGIS/rest/services/Features/Locations/MapServer",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 4,
@@ -185,7 +185,7 @@
 	"name": "abandoned-mines",
 	"isopen": false,
 	"url": null,
-	"notes": "This feature class was developed from historic mine maps that were scanned and georeferenced. Additional mine locations were derived from NDGS Biennial Reports (1902 & 1912), the USGS GeoCommunicator web site (National Mine Land Inventory layer), and USGS 7.5 Minute Quadrangles. Portions of the mine locations are not verified and portions of the mines may be the same mine but operated under a different name during different time periods. Metadata was not available for the data from the USGS GeoCommunicator web site and mine locations from this USGS data set appear to have significant variability compared to known mine site locations.\nUpdated 3\/11\/15\nMetadata documenting changes are noted in the comments field.",
+	"notes": "This feature class was developed from historic mine maps that were scanned and georeferenced. Additional mine locations were derived from NDGS Biennial Reports (1902 & 1912), the USGS GeoCommunicator web site (National Mine Land Inventory layer), and USGS 7.5 Minute Quadrangles. Portions of the mine locations are not verified and portions of the mines may be the same mine but operated under a different name during different time periods. Metadata was not available for the data from the USGS GeoCommunicator web site and mine locations from this USGS data set appear to have significant variability compared to known mine site locations.nUpdated 3/11/15nMetadata documenting changes are noted in the comments field.",
 	"license_title": null,
 	"extras": [{
 		"key": "bbox-east-long",
@@ -229,7 +229,7 @@
 	},
 	{
 		"key": "spatial",
-		"value": "{\"type\": \"Polygon\", \"coordinates\": [[[-104.124930824, 45.8857499873], [-97.6210245739, 45.8857499873], [-97.6210245739, 49.027839831], [-104.124930824, 49.027839831], [-104.124930824, 45.8857499873]]]}"
+		"value": "{"type": "Polygon", "coordinates": [[[-104.124930824, 45.8857499873], [-97.6210245739, 45.8857499873], [-97.6210245739, 49.027839831], [-104.124930824, 49.027839831], [-104.124930824, 45.8857499873]]]}"
 	},
 	{
 		"key": "progress",
@@ -237,7 +237,7 @@
 	},
 	{
 		"key": "access_constraints",
-		"value": "[\"Disclaimer: This information provided is from a variety of governmental and other credible sources. The accuracy of the information presented is limited to the collective accuracy of the database on the date of the analysis. The information is believed accurate and reasonable efforts have been made to ensure the accuracy of the data. However, the North Dakota Public Service Commission (PSC) expressly disclaims responsibility for damages or liability that may arise from use of this data. This product is the property of the PSC and its use is thereby restricted.\"]"
+		"value": "["Disclaimer: This information provided is from a variety of governmental and other credible sources. The accuracy of the information presented is limited to the collective accuracy of the database on the date of the analysis. The information is believed accurate and reasonable efforts have been made to ensure the accuracy of the data. However, the North Dakota Public Service Commission (PSC) expressly disclaims responsibility for damages or liability that may arise from use of this data. This product is the property of the PSC and its use is thereby restricted."]"
 	},
 	{
 		"key": "contact-email",
@@ -253,7 +253,7 @@
 	},
 	{
 		"key": "dataset-reference-date",
-		"value": "[{\"type\": \"revision\", \"value\": \"2015-03-11T00:00:00\"}]"
+		"value": "[{"type": "revision", "value": "2015-03-11T00:00:00"}]"
 	},
 	{
 		"key": "graphic-preview-description",
@@ -273,7 +273,7 @@
 	},
 	{
 		"key": "responsible-party",
-		"value": "[{\"name\": \"ND Public Service Commission - Abandoned Mine Lands Division\", \"roles\": [\"custodian\"]}, {\"name\": \"North Dakota Public Service Commission\", \"roles\": [\"pointOfContact\"]}]"
+		"value": "[{"name": "ND Public Service Commission - Abandoned Mine Lands Division", "roles": ["custodian"]}, {"name": "North Dakota Public Service Commission", "roles": ["pointOfContact"]}]"
 	},
 	{
 		"key": "spatial-data-service-type",
@@ -308,14 +308,14 @@
 		"value": "North Dakota GIS Hub Data Portal"
 	}],
 	"organization": {
-		"description": "The GIS Hub is the state source for GIS - data, services, and information.  More information can be found at www.nd.gov\/gis.",
+		"description": "The GIS Hub is the state source for GIS - data, services, and information.  More information can be found at www.nd.gov/gis.",
 		"created": "2013-03-14T03:44:44.340717",
 		"title": "State of North Dakota",
 		"name": "nd-gov",
 		"revision_timestamp": "2013-07-15T16:27:30.098476",
 		"is_organization": true,
 		"state": "active",
-		"image_url": "http:\/\/www.nd.gov\/gis\/images\/ndgis-logo.gif",
+		"image_url": "http://www.nd.gov/gis/images/ndgis-logo.gif",
 		"revision_id": "27517bb9-815c-4d4f-b45b-b88b6316697b",
 		"type": "organization",
 		"id": "1c782de6-9f1f-4427-93fd-33732e29970f",

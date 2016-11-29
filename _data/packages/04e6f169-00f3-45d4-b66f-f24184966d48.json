@@ -37,7 +37,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2015-11-09T23:00:32.855341",
-		"url": "http:\/\/coast.noaa.gov\/dataviewer\/index.html?action=advsearch&qType=in&qFld=ID&qVal=3669",
+		"url": "http://coast.noaa.gov/dataviewer/index.html?action=advsearch&qType=in&qFld=ID&qVal=3669",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 0,
@@ -67,7 +67,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2015-11-09T23:00:32.855368",
-		"url": "ftp:\/\/coast.noaa.gov\/pub\/DigitalCoast\/lidar1_z\/geoid12a\/data\/3669\/",
+		"url": "ftp://coast.noaa.gov/pub/DigitalCoast/lidar1_z/geoid12a/data/3669/",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 1,
@@ -97,7 +97,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2015-11-09T23:00:32.855376",
-		"url": "http:\/\/coast.noaa.gov\/dataviewer",
+		"url": "http://coast.noaa.gov/dataviewer",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 2,
@@ -127,7 +127,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2015-11-09T23:00:32.855383",
-		"url": "http:\/\/coast.noaa.gov",
+		"url": "http://coast.noaa.gov",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 3,
@@ -149,7 +149,7 @@
 		"revision_timestamp": "2013-03-25T23:05:12.923863",
 		"is_organization": true,
 		"state": "active",
-		"image_url": "https:\/\/fortress.wa.gov\/dfw\/score\/score\/images\/noaa_logo.png",
+		"image_url": "https://fortress.wa.gov/dfw/score/score/images/noaa_logo.png",
 		"revision_id": "c6d43080-22e1-405e-a83d-f2a512d9e867",
 		"type": "organization",
 		"id": "e811f0b4-451f-4896-9e8f-fc6802837819",
@@ -188,7 +188,7 @@
 	},
 	{
 		"key": "graphic-preview-file",
-		"value": "ftp:\/\/coast.noaa.gov\/pub\/DigitalCoast\/lidar1_z\/geoid12a\/data\/3669\/supplemental\/usvi2013_stc_stj_stt_m3669.kmz"
+		"value": "ftp://coast.noaa.gov/pub/DigitalCoast/lidar1_z/geoid12a/data/3669/supplemental/usvi2013_stc_stj_stt_m3669.kmz"
 	},
 	{
 		"key": "metadata-language",
@@ -204,7 +204,7 @@
 	},
 	{
 		"key": "spatial",
-		"value": "{\"type\": \"Polygon\", \"coordinates\": [[[-65.093469, 17.670388], [-64.561957, 17.670388], [-64.561957, 18.423828], [-65.093469, 18.423828], [-65.093469, 17.670388]]]}"
+		"value": "{"type": "Polygon", "coordinates": [[[-65.093469, 17.670388], [-64.561957, 17.670388], [-64.561957, 18.423828], [-65.093469, 18.423828], [-65.093469, 17.670388]]]}"
 	},
 	{
 		"key": "progress",
@@ -212,7 +212,7 @@
 	},
 	{
 		"key": "access_constraints",
-		"value": "[\"Use Constraints: None, however, users should be aware that temporal changes may have occurred since this data set was collected and that some parts of the data may no longer represent actual surface conditions. Users should not use the data for critical applications without a full awareness of its limitations.\", \"Access Constraints: None\"]"
+		"value": "["Use Constraints: None, however, users should be aware that temporal changes may have occurred since this data set was collected and that some parts of the data may no longer represent actual surface conditions. Users should not use the data for critical applications without a full awareness of its limitations.", "Access Constraints: None"]"
 	},
 	{
 		"key": "temporal-extent-begin",
@@ -232,7 +232,7 @@
 	},
 	{
 		"key": "dataset-reference-date",
-		"value": "[{\"type\": \"publication\", \"value\": \"2014-08-18\"}]"
+		"value": "[{"type": "publication", "value": "2014-08-18"}]"
 	},
 	{
 		"key": "graphic-preview-description",
@@ -244,7 +244,7 @@
 	},
 	{
 		"key": "licence",
-		"value": "[\"Any conclusions drawn from the analysis of this information are not the responsibility of the National Oceanic and Atmospheric Administration (NOAA), the National Ocean Service (NOS), the Office for Coastal Management (OCM) or its partners.\"]"
+		"value": "["Any conclusions drawn from the analysis of this information are not the responsibility of the National Oceanic and Atmospheric Administration (NOAA), the National Ocean Service (NOS), the Office for Coastal Management (OCM) or its partners."]"
 	},
 	{
 		"key": "metadata_type",
@@ -252,7 +252,7 @@
 	},
 	{
 		"key": "responsible-party",
-		"value": "[{\"name\": \"NOAA Office for Coastal Management\", \"roles\": [\"pointOfContact\"]}]"
+		"value": "[{"name": "NOAA Office for Coastal Management", "roles": ["pointOfContact"]}]"
 	},
 	{
 		"key": "temporal-extent-end",
@@ -268,7 +268,7 @@
 	},
 	{
 		"key": "tags",
-		"value": "saint john, raster, united states virgin islands (usvi), topography, breaklines, geographic information, remote sensing, saint thomas, charlotte amalie, terrain elevation, united states, land surface, bathymetry\/topography, dem, point cloud data, elevation, model, lidar, saint croix, earth science",
+		"value": "saint john, raster, united states virgin islands (usvi), topography, breaklines, geographic information, remote sensing, saint thomas, charlotte amalie, terrain elevation, united states, land surface, bathymetry/topography, dem, point cloud data, elevation, model, lidar, saint croix, earth science",
 		"__extras": {
 			"revision_id": "43347290-08ba-4eda-9813-ce6979ee4b65",
 			"package_id": "04e6f169-00f3-45d4-b66f-f24184966d48"

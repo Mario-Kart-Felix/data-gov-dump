@@ -37,7 +37,7 @@
 		"cache_url": null,
 		"name": "Text File",
 		"created": "2015-12-20T13:34:19.109716",
-		"url": "ftp:\/\/ftp.ncdc.noaa.gov\/pub\/data\/paleo\/coral\/east_pacific\/rarotonga_2000b.txt",
+		"url": "ftp://ftp.ncdc.noaa.gov/pub/data/paleo/coral/east_pacific/rarotonga_2000b.txt",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 0,
@@ -46,7 +46,7 @@
 	}],
 	"num_resources": 1,
 	"tags": [],
-	"title": "Rarotonga Sr\/Ca and SST Reconstruction Data for 1726 to 1997",
+	"title": "Rarotonga Sr/Ca and SST Reconstruction Data for 1726 to 1997",
 	"tracking_summary": {
 		"total": 2,
 		"recent": 2
@@ -57,11 +57,11 @@
 	"name": "rarotonga-sr-ca-and-sst-reconstruction-data-for-1726-to-1997",
 	"isopen": false,
 	"url": null,
-	"notes": "A 271 year record of Sr\/Ca variability in a coral from Rarotonga in the South Pacific gyre. Calibration with monthly sea surface temperature (SST) from satellite and ship measurements made in grid measuring 1 deg by 1 deg over the period from 1981 to 1997 indicates that this Sr\/Ca record is an excellent proxy for SST. Comparison with SST from ship measurements made since 1950 in a grid measuring 5 deg by 5 deg also shows that the Sr\/Ca data accurately record decadal changes in SST. The entire Sr\/Ca record back to 1726 shows a distinct pattern of decadal variability with repeated decadal and interdecadal SST regime shifts greater than 0.75 deg C. Comparison with decadal climate variability in the North Pacific as represented by the Pacific Decadal Oscillation index (1900-1997) indicates that several of the largest decadal-scale SST variations at Rarotonga are coherent with SST regime shifts in the North Pacific. This hemispheric symmetry suggests that tropical forcing may be an important factor in at least some of the decadal variability observed in the Pacific Ocean.",
+	"notes": "A 271 year record of Sr/Ca variability in a coral from Rarotonga in the South Pacific gyre. Calibration with monthly sea surface temperature (SST) from satellite and ship measurements made in grid measuring 1 deg by 1 deg over the period from 1981 to 1997 indicates that this Sr/Ca record is an excellent proxy for SST. Comparison with SST from ship measurements made since 1950 in a grid measuring 5 deg by 5 deg also shows that the Sr/Ca data accurately record decadal changes in SST. The entire Sr/Ca record back to 1726 shows a distinct pattern of decadal variability with repeated decadal and interdecadal SST regime shifts greater than 0.75 deg C. Comparison with decadal climate variability in the North Pacific as represented by the Pacific Decadal Oscillation index (1900-1997) indicates that several of the largest decadal-scale SST variations at Rarotonga are coherent with SST regime shifts in the North Pacific. This hemispheric symmetry suggests that tropical forcing may be an important factor in at least some of the decadal variability observed in the Pacific Ocean.",
 	"license_title": null,
 	"extras": [{
 		"key": "bbox-east-long",
-		"value": "\n          -159.82\n        "
+		"value": "n          -159.82n        "
 	},
 	{
 		"key": "resource-type",
@@ -69,7 +69,7 @@
 	},
 	{
 		"key": "bbox-north-lat",
-		"value": "\n          -21.23\n        "
+		"value": "n          -21.23n        "
 	},
 	{
 		"key": "coupled-resource",
@@ -85,7 +85,7 @@
 	},
 	{
 		"key": "bbox-south-lat",
-		"value": "\n          -21.23\n        "
+		"value": "n          -21.23n        "
 	},
 	{
 		"key": "spatial-reference-system",
@@ -93,7 +93,7 @@
 	},
 	{
 		"key": "spatial",
-		"value": "{\"type\": \"Point\", \"coordinates\": [-159.82, -21.23]}"
+		"value": "{"type": "Point", "coordinates": [-159.82, -21.23]}"
 	},
 	{
 		"key": "progress",
@@ -101,7 +101,7 @@
 	},
 	{
 		"key": "access_constraints",
-		"value": "[\"Use Constraints: PLEASE CITE ORIGINAL REFERENCE WHEN USING THIS DATA\", \"Access Constraints: None\"]"
+		"value": "["Use Constraints: PLEASE CITE ORIGINAL REFERENCE WHEN USING THIS DATA", "Access Constraints: None"]"
 	},
 	{
 		"key": "temporal-extent-begin",
@@ -113,7 +113,7 @@
 	},
 	{
 		"key": "bbox-west-long",
-		"value": "\n          -159.82\n        "
+		"value": "n          -159.82n        "
 	},
 	{
 		"key": "metadata-date",
@@ -121,7 +121,7 @@
 	},
 	{
 		"key": "dataset-reference-date",
-		"value": "[{\"type\": \"publication\", \"value\": \"2000-11-01\"}]"
+		"value": "[{"type": "publication", "value": "2000-11-01"}]"
 	},
 	{
 		"key": "frequency-of-update",
@@ -129,7 +129,7 @@
 	},
 	{
 		"key": "licence",
-		"value": "[\"\\n      Disclaimer- While every effort has been made to ensure that these data are accurate and reliable within the limits of the current state of the art, NOAA cannot assume liability for any damages caused by any errors or omissions in the data, nor as a result of the failure of the data to function on a particular system.  NOAA makes no warranty, expressed or implied, nor does the fact of distribution constitute such a warranty.\\n    \"]"
+		"value": "["\n      Disclaimer- While every effort has been made to ensure that these data are accurate and reliable within the limits of the current state of the art, NOAA cannot assume liability for any damages caused by any errors or omissions in the data, nor as a result of the failure of the data to function on a particular system.  NOAA makes no warranty, expressed or implied, nor does the fact of distribution constitute such a warranty.\n    "]"
 	},
 	{
 		"key": "metadata_type",
@@ -137,7 +137,7 @@
 	},
 	{
 		"key": "responsible-party",
-		"value": "[{\"name\": \"NOAA Paleoclimatology Program\", \"roles\": [\"pointOfContact\"]}]"
+		"value": "[{"name": "NOAA Paleoclimatology Program", "roles": ["pointOfContact"]}]"
 	},
 	{
 		"key": "temporal-extent-end",
@@ -153,7 +153,7 @@
 	},
 	{
 		"package_id": "99ee4b14-f734-4acd-a776-672af8772c4d",
-		"value": "rarotonga (21s159w0001), coral records, pacific ocean, numeric data sets, temperature, calibration, holocene, modern, south pacific ocean, country\/territory, paleoclimate, paleoclimatology, southern cook islands, ocean basin, rarotonga, earth science, cook islands, sr\/ca",
+		"value": "rarotonga (21s159w0001), coral records, pacific ocean, numeric data sets, temperature, calibration, holocene, modern, south pacific ocean, country/territory, paleoclimate, paleoclimatology, southern cook islands, ocean basin, rarotonga, earth science, cook islands, sr/ca",
 		"revision_timestamp": "2015-12-20T18:34:18.969759",
 		"state": "active",
 		"key": "tags",
@@ -183,7 +183,7 @@
 		"revision_timestamp": "2013-03-25T23:05:12.923863",
 		"is_organization": true,
 		"state": "active",
-		"image_url": "https:\/\/fortress.wa.gov\/dfw\/score\/score\/images\/noaa_logo.png",
+		"image_url": "https://fortress.wa.gov/dfw/score/score/images/noaa_logo.png",
 		"revision_id": "c6d43080-22e1-405e-a83d-f2a512d9e867",
 		"type": "organization",
 		"id": "e811f0b4-451f-4896-9e8f-fc6802837819",

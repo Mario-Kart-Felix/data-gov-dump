@@ -36,7 +36,7 @@
 		"cache_url": null,
 		"name": "Data Subset Form",
 		"created": "2016-10-19T17:09:41.711648",
-		"url": "http:\/\/oceanview.pfeg.noaa.gov\/erddap\/tabledap\/erdUI606hr.html",
+		"url": "http://oceanview.pfeg.noaa.gov/erddap/tabledap/erdUI606hr.html",
 		"webstore_url": null,
 		"resource_locator_function": "download",
 		"position": 0,
@@ -65,7 +65,7 @@
 		"cache_url": null,
 		"name": "Make-A-Graph Form",
 		"created": "2016-10-19T17:09:41.711676",
-		"url": "http:\/\/oceanview.pfeg.noaa.gov\/erddap\/tabledap\/erdUI606hr.graph",
+		"url": "http://oceanview.pfeg.noaa.gov/erddap/tabledap/erdUI606hr.graph",
 		"webstore_url": null,
 		"resource_locator_function": "mapDigital",
 		"position": 1,
@@ -94,7 +94,7 @@
 		"cache_url": null,
 		"name": "Background Information",
 		"created": "2016-10-19T17:09:41.711691",
-		"url": "http:\/\/oceanview.pfeg.noaa.gov\/LAS\/docs\/wind_from_pressure.nc.html",
+		"url": "http://oceanview.pfeg.noaa.gov/LAS/docs/wind_from_pressure.nc.html",
 		"webstore_url": null,
 		"resource_locator_function": "information",
 		"position": 2,
@@ -123,7 +123,7 @@
 		"cache_url": null,
 		"name": "Background Information",
 		"created": "2016-10-19T17:09:41.711709",
-		"url": "http:\/\/oceanview.pfeg.noaa.gov\/LAS\/docs\/wind_from_pressure.nc.html",
+		"url": "http://oceanview.pfeg.noaa.gov/LAS/docs/wind_from_pressure.nc.html",
 		"webstore_url": null,
 		"resource_locator_function": "information",
 		"position": 3,
@@ -152,7 +152,7 @@
 		"cache_url": null,
 		"name": "Background Information",
 		"created": "2016-10-19T17:09:41.711723",
-		"url": "http:\/\/oceanview.pfeg.noaa.gov\/LAS\/docs\/wind_from_pressure.nc.html",
+		"url": "http://oceanview.pfeg.noaa.gov/LAS/docs/wind_from_pressure.nc.html",
 		"webstore_url": null,
 		"resource_locator_function": "information",
 		"position": 4,
@@ -181,7 +181,7 @@
 		"cache_url": null,
 		"name": "ERDDAP-tabledap",
 		"created": "2016-10-19T17:09:41.711731",
-		"url": "http:\/\/oceanview.pfeg.noaa.gov\/erddap\/tabledap\/erdUI606hr",
+		"url": "http://oceanview.pfeg.noaa.gov/erddap/tabledap/erdUI606hr",
 		"webstore_url": null,
 		"resource_locator_function": "download",
 		"position": 5,
@@ -210,7 +210,7 @@
 		"cache_url": null,
 		"name": "Background Information",
 		"created": "2016-10-19T17:09:41.711737",
-		"url": "http:\/\/oceanview.pfeg.noaa.gov\/LAS\/docs\/wind_from_pressure.nc.html",
+		"url": "http://oceanview.pfeg.noaa.gov/LAS/docs/wind_from_pressure.nc.html",
 		"webstore_url": null,
 		"resource_locator_function": "information",
 		"position": 6,
@@ -239,7 +239,7 @@
 		"cache_url": null,
 		"name": "OPeNDAP",
 		"created": "2016-10-19T17:09:41.711744",
-		"url": "http:\/\/oceanview.pfeg.noaa.gov\/erddap\/tabledap\/erdUI606hr",
+		"url": "http://oceanview.pfeg.noaa.gov/erddap/tabledap/erdUI606hr",
 		"webstore_url": null,
 		"resource_locator_function": "download",
 		"position": 7,
@@ -275,7 +275,7 @@
 	},
 	{
 		"key": "coupled-resource",
-		"value": "[{\"href\": [\"#DataIdentification\"], \"uuid\": [], \"title\": []}, {\"href\": [\"#DataIdentification\"], \"uuid\": [], \"title\": []}]"
+		"value": "[{"href": ["#DataIdentification"], "uuid": [], "title": []}, {"href": ["#DataIdentification"], "uuid": [], "title": []}]"
 	},
 	{
 		"key": "guid",
@@ -295,7 +295,7 @@
 	},
 	{
 		"key": "spatial",
-		"value": "{\"type\": \"Point\", \"coordinates\": [-146.0, 60.0]}"
+		"value": "{"type": "Point", "coordinates": [-146.0, 60.0]}"
 	},
 	{
 		"key": "progress",
@@ -323,7 +323,7 @@
 	},
 	{
 		"key": "dataset-reference-date",
-		"value": "[{\"type\": \"creation\", \"value\": \"2016-10-05\"}]"
+		"value": "[{"type": "creation", "value": "2016-10-05"}]"
 	},
 	{
 		"key": "frequency-of-update",
@@ -339,7 +339,7 @@
 	},
 	{
 		"key": "responsible-party",
-		"value": "[{\"name\": \"NOAA\/SWFSC Environmental Research Division\", \"roles\": [\"pointOfContact\"]}]"
+		"value": "[{"name": "NOAA/SWFSC Environmental Research Division", "roles": ["pointOfContact"]}]"
 	},
 	{
 		"key": "temporal-extent-end",
@@ -355,7 +355,7 @@
 	},
 	{
 		"package_id": "c53ca12b-c15a-4d02-91ae-7f129f997ec3",
-		"value": "atmosphere, biosphere, biology, longitude, ocean, environment, noaa\/swfsc environmental research division, time, latitude, earth science",
+		"value": "atmosphere, biosphere, biology, longitude, ocean, environment, noaa/swfsc environmental research division, time, latitude, earth science",
 		"revision_timestamp": "2016-01-02T06:18:54.160140",
 		"state": "active",
 		"key": "tags",
@@ -385,7 +385,7 @@
 		"revision_timestamp": "2013-03-25T23:05:12.923863",
 		"is_organization": true,
 		"state": "active",
-		"image_url": "https:\/\/fortress.wa.gov\/dfw\/score\/score\/images\/noaa_logo.png",
+		"image_url": "https://fortress.wa.gov/dfw/score/score/images/noaa_logo.png",
 		"revision_id": "c6d43080-22e1-405e-a83d-f2a512d9e867",
 		"type": "organization",
 		"id": "e811f0b4-451f-4896-9e8f-fc6802837819",

@@ -37,7 +37,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2013-03-15T15:35:09.441858",
-		"url": "http:\/\/www.vcgi.org\/dataware\/default.cfm?layer=LandLandcov_LCLU",
+		"url": "http://www.vcgi.org/dataware/default.cfm?layer=LandLandcov_LCLU",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 0,
@@ -67,7 +67,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2013-03-15T15:35:09.441876",
-		"url": "http:\/\/www.mtholyoke.edu\/",
+		"url": "http://www.mtholyoke.edu/",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 1,
@@ -97,7 +97,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2013-03-15T15:35:09.441881",
-		"url": "http:\/\/www.vcgi.org\/dataware\/default.cfm?layer=LandLandcov_LCLU",
+		"url": "http://www.vcgi.org/dataware/default.cfm?layer=LandLandcov_LCLU",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 2,
@@ -127,7 +127,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2013-03-15T15:35:09.441885",
-		"url": "http:\/\/www.vcgi.org\/dataware\/default.cfm?layer=LandLandcov_LCLU&mapit=yes",
+		"url": "http://www.vcgi.org/dataware/default.cfm?layer=LandLandcov_LCLU&mapit=yes",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 3,
@@ -157,7 +157,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2013-03-15T15:35:09.441889",
-		"url": "http:\/\/maps.vcgi.org:8080\/wmsconnector\/com.esri.wms.Esrimap?servicename=DATAWARE_VCGI&VERSION=1.1.1&request=getmap&BBOX=-73.45416,42.72279,-71.46528,45.018356&SRS=EPSG:4326&LAYERS=LANDLANDCOV_LCLU&WIDTH=300&HEIGHT=400&FORMAT=image\/gif",
+		"url": "http://maps.vcgi.org:8080/wmsconnector/com.esri.wms.Esrimap?servicename=DATAWARE_VCGI&VERSION=1.1.1&request=getmap&BBOX=-73.45416,42.72279,-71.46528,45.018356&SRS=EPSG:4326&LAYERS=LANDLANDCOV_LCLU&WIDTH=300&HEIGHT=400&FORMAT=image/gif",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 4,
@@ -190,7 +190,7 @@
 	"name": "landlandcov-lclu",
 	"isopen": false,
 	"url": null,
-	"notes": "Landuse\/Landcover for Vermont and the Lake Champlain Basin derived from Landsat Thematic Mapper Imagery (early 1990s). Note: Minor corrections have been made since original release (1997). Refer to Process_Steps for details.",
+	"notes": "Landuse/Landcover for Vermont and the Lake Champlain Basin derived from Landsat Thematic Mapper Imagery (early 1990s). Note: Minor corrections have been made since original release (1997). Refer to Process_Steps for details.",
 	"license_title": null,
 	"extras": [{
 		"key": "bbox-east-long",
@@ -214,7 +214,7 @@
 	},
 	{
 		"key": "graphic-preview-file",
-		"value": "http:\/\/maps.vcgi.org:8080\/wmsconnector\/com.esri.wms.Esrimap?servicename=DATAWARE_VCGI&VERSION=1.1.1&request=getmap&BBOX=-73.45416,42.72279,-71.46528,45.018356&SRS=EPSG:4326&LAYERS=LANDLANDCOV_LCLU&WIDTH=300&HEIGHT=400&FORMAT=image\/gif"
+		"value": "http://maps.vcgi.org:8080/wmsconnector/com.esri.wms.Esrimap?servicename=DATAWARE_VCGI&VERSION=1.1.1&request=getmap&BBOX=-73.45416,42.72279,-71.46528,45.018356&SRS=EPSG:4326&LAYERS=LANDLANDCOV_LCLU&WIDTH=300&HEIGHT=400&FORMAT=image/gif"
 	},
 	{
 		"key": "bbox-south-lat",
@@ -226,11 +226,11 @@
 	},
 	{
 		"key": "spatial",
-		"value": "{\"type\": \"Polygon\", \"coordinates\": [[[-73.454162, 42.722789], [-73.454162, 45.018361], [-71.465281, 45.018361], [-71.465281, 42.722789], [-73.454162, 42.722789]]]}"
+		"value": "{"type": "Polygon", "coordinates": [[[-73.454162, 42.722789], [-73.454162, 45.018361], [-71.465281, 45.018361], [-71.465281, 42.722789], [-73.454162, 42.722789]]]}"
 	},
 	{
 		"key": "access_constraints",
-		"value": "[\"Use Constraints: The minimum mapping unit for this dataset is 2 acres and a grid cell size of 25 meters. Many areas of the study region were updated with previously developed vector GIS data layers. In some cases, these vector data sets may be older than the the imagery used for the classification.\", \"Access Constraints: None\"]"
+		"value": "["Use Constraints: The minimum mapping unit for this dataset is 2 acres and a grid cell size of 25 meters. Many areas of the study region were updated with previously developed vector GIS data layers. In some cases, these vector data sets may be older than the the imagery used for the classification.", "Access Constraints: None"]"
 	},
 	{
 		"key": "temporal-extent-begin",
@@ -250,7 +250,7 @@
 	},
 	{
 		"key": "dataset-reference-date",
-		"value": "[{\"type\": \"publication\", \"value\": \"2003-09-08T00000000\"}]"
+		"value": "[{"type": "publication", "value": "2003-09-08T00000000"}]"
 	},
 	{
 		"key": "frequency-of-update",
@@ -258,7 +258,7 @@
 	},
 	{
 		"key": "licence",
-		"value": "[\"VCGI and the State of Vermont make no representations of any kind, including but not limited to the warranties of merchantability or fitness for a particular use, nor are any such warranties to be implied with respect to the data.\"]"
+		"value": "["VCGI and the State of Vermont make no representations of any kind, including but not limited to the warranties of merchantability or fitness for a particular use, nor are any such warranties to be implied with respect to the data."]"
 	},
 	{
 		"key": "metadata_type",
@@ -266,7 +266,7 @@
 	},
 	{
 		"key": "responsible-party",
-		"value": "[{\"name\": \"Mount Holyoke College\", \"roles\": [\"pointOfContact\"]}]"
+		"value": "[{"name": "Mount Holyoke College", "roles": ["pointOfContact"]}]"
 	},
 	{
 		"key": "temporal-extent-end",
@@ -312,7 +312,7 @@
 		"revision_timestamp": "2013-03-27T17:47:03.718032",
 		"is_organization": true,
 		"state": "active",
-		"image_url": "http:\/\/vcgi.vermont.gov\/sites\/all\/themes\/vt_template\/logo.png",
+		"image_url": "http://vcgi.vermont.gov/sites/all/themes/vt_template/logo.png",
 		"revision_id": "c5dfbbb0-f1e0-4db6-b566-e932e1520060",
 		"type": "organization",
 		"id": "0c3a4ebc-9929-4f21-bdd0-76a35d52f57d",

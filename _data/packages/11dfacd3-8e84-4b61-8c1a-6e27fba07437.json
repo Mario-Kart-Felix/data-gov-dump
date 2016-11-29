@@ -37,7 +37,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2016-05-31T04:36:26.473289",
-		"url": "https:\/\/coast.noaa.gov\/dataviewer\/#\/lidar\/search\/where:ID=5011",
+		"url": "https://coast.noaa.gov/dataviewer/#/lidar/search/where:ID=5011",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 0,
@@ -67,7 +67,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2016-05-31T04:36:26.473328",
-		"url": "https:\/\/coast.noaa.gov\/htdata\/lidar1_z\/geoid12b\/data\/5011",
+		"url": "https://coast.noaa.gov/htdata/lidar1_z/geoid12b/data/5011",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 1,
@@ -97,7 +97,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2016-05-31T04:36:26.473338",
-		"url": "https:\/\/coast.noaa.gov\/dataviewer",
+		"url": "https://coast.noaa.gov/dataviewer",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 2,
@@ -127,7 +127,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2016-05-31T04:36:26.473346",
-		"url": "https:\/\/coast.noaa.gov",
+		"url": "https://coast.noaa.gov",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 3,
@@ -147,7 +147,7 @@
 	"name": "2005-ncfmp-lidar-nc-statewide-phase-3",
 	"isopen": false,
 	"url": null,
-	"notes": "Airborne LIDAR terrain mapping data acquired March through April 2005. These data sets may represent a single geographic tile of a larger, county\/sub-county data set. As such, the map extent indicated in the Spatial_Domain element is representative of the larger data set and not an individual tile. The data sets are organized in 10,000 ft x 10,000 ft tiles using the NC Bureau of Land Records Management (LRMP) standards. Specific information about individual data tiles is included in the data delivery index. More information about this can be obtained at www.ncfloodmaps.com. The native EBN full return flight lines were converted to LAS format (version 1.1) by the North Carolina Floodplain Mapping Program in May 2009. All other citation information remains unchanged.",
+	"notes": "Airborne LIDAR terrain mapping data acquired March through April 2005. These data sets may represent a single geographic tile of a larger, county/sub-county data set. As such, the map extent indicated in the Spatial_Domain element is representative of the larger data set and not an individual tile. The data sets are organized in 10,000 ft x 10,000 ft tiles using the NC Bureau of Land Records Management (LRMP) standards. Specific information about individual data tiles is included in the data delivery index. More information about this can be obtained at www.ncfloodmaps.com. The native EBN full return flight lines were converted to LAS format (version 1.1) by the North Carolina Floodplain Mapping Program in May 2009. All other citation information remains unchanged.",
 	"license_title": null,
 	"extras": [{
 		"key": "bbox-east-long",
@@ -175,7 +175,7 @@
 	},
 	{
 		"key": "graphic-preview-file",
-		"value": "https:\/\/coast.noaa.gov\/htdata\/lidar1_z\/geoid12b\/data\/5011\/supplemental\/nc2005_ncfmp_phase3_m5011.kmz"
+		"value": "https://coast.noaa.gov/htdata/lidar1_z/geoid12b/data/5011/supplemental/nc2005_ncfmp_phase3_m5011.kmz"
 	},
 	{
 		"key": "metadata-language",
@@ -191,7 +191,7 @@
 	},
 	{
 		"key": "spatial",
-		"value": "{\"type\": \"Polygon\", \"coordinates\": [[[-84.326938, 34.983009], [-81.317547, 34.983009], [-81.317547, 36.163361], [-84.326938, 36.163361], [-84.326938, 34.983009]]]}"
+		"value": "{"type": "Polygon", "coordinates": [[[-84.326938, 34.983009], [-81.317547, 34.983009], [-81.317547, 36.163361], [-84.326938, 36.163361], [-84.326938, 34.983009]]]}"
 	},
 	{
 		"key": "progress",
@@ -199,7 +199,7 @@
 	},
 	{
 		"key": "access_constraints",
-		"value": "[\"Use Constraints: Users should be aware that temporal changes may have occurred since this data set was collected and that some parts of this data may no longer represent actual surface conditions. Users should not use this data for critical applications without a full awareness of its limitations. These data sets were created with the highest consideration of accuracy and data integrity. However, as with all other geospatial data sets, users must take into consideration the consequences of using the data for specific applications, business processes, decisions, and map display. For example, surface conditions may have changed in some areas since the initial data was captured. A full metadata record is provided to help the user understand the date, map scale and accuracy standard applied in the collection and data development process. The data should not be used without full review and comprehension of the metadata. acknowledgement of the North Carolina Floodplain Mapping Program is appreciated when using the data set. Data further derived from this data set should be fully documented using the federal metadata standard and listed via the NC Geospatial Data Clearinghouse.\", \"Access Constraints: None\"]"
+		"value": "["Use Constraints: Users should be aware that temporal changes may have occurred since this data set was collected and that some parts of this data may no longer represent actual surface conditions. Users should not use this data for critical applications without a full awareness of its limitations. These data sets were created with the highest consideration of accuracy and data integrity. However, as with all other geospatial data sets, users must take into consideration the consequences of using the data for specific applications, business processes, decisions, and map display. For example, surface conditions may have changed in some areas since the initial data was captured. A full metadata record is provided to help the user understand the date, map scale and accuracy standard applied in the collection and data development process. The data should not be used without full review and comprehension of the metadata. acknowledgement of the North Carolina Floodplain Mapping Program is appreciated when using the data set. Data further derived from this data set should be fully documented using the federal metadata standard and listed via the NC Geospatial Data Clearinghouse.", "Access Constraints: None"]"
 	},
 	{
 		"key": "temporal-extent-begin",
@@ -219,7 +219,7 @@
 	},
 	{
 		"key": "dataset-reference-date",
-		"value": "[{\"type\": \"publication\", \"value\": \"2016-03-11\"}]"
+		"value": "[{"type": "publication", "value": "2016-03-11"}]"
 	},
 	{
 		"key": "graphic-preview-description",
@@ -231,7 +231,7 @@
 	},
 	{
 		"key": "licence",
-		"value": "[\"Any conclusions drawn from the analysis of this information are not the responsibility of NC Floodplain Mapping Program, EarthData, the NOAA Office for Coastal Management, or its partners.\\n\"]"
+		"value": "["Any conclusions drawn from the analysis of this information are not the responsibility of NC Floodplain Mapping Program, EarthData, the NOAA Office for Coastal Management, or its partners.\n"]"
 	},
 	{
 		"key": "metadata_type",
@@ -239,7 +239,7 @@
 	},
 	{
 		"key": "responsible-party",
-		"value": "[{\"name\": \"NC Floodplain Mapping Program\", \"roles\": [\"pointOfContact\"]}]"
+		"value": "[{"name": "NC Floodplain Mapping Program", "roles": ["pointOfContact"]}]"
 	},
 	{
 		"key": "temporal-extent-end",
@@ -255,7 +255,7 @@
 	},
 	{
 		"package_id": "11dfacd3-8e84-4b61-8c1a-6e27fba07437",
-		"value": "pigeon county, hothouse county, cowee county, swannanoa county, french broad county, rutherfordton county, edneyville county, mills river county, beaverdam county, gloucester county, south marshall county, reems creek county, revere-rice cove county, ellijay county, fork mountain-little rock creek county, green creek county, pensacola county, murphy county, elevation, cartoogechaye county, hydraulic modeling, mountain county, duncans creek county, upper hominy county, red hill county, cashiers county, sandy mush county, price creek county, shooting creek county, blue ridge county, canada county, snow creek county, south toe county, brevard county, hayesville county, east fork county, stecoah county, hamburg county, chimney rock county, fairview county, cataloochee county, grassy creek county, contour, ivy county, catheys creek county, crab creek county, tryon county, brasstown county, hendersonville county, smithbridge county, white oak county, savannah county, laurel county, high shoals county, forneys creek county, cecil county, cullowhee county, dunns rock county, notla county, sugarfork county, cheoah county, lumber river basin, valleytown county, flat creek county, shoal creek county, bathymetry\/topography, river county, north marshall county, logan store county, waynesville county, colfax county, morgan county, green mountain county, egypt county, cane river county, jonathan creek county, boyd county, united states, jacks creek county, harrell county, bradshaw county, esri, union county, beech gleen county, golden valley county, asheville county, hiawassee county, camp creek county, north carolina, lidar, clear creek county, franklin county, avery creek county, yellow creek county, floodplain, black mountain county, iron duff county, charleston county, little river county, fines creek county, grapevine county, hoopers creek county, mars hill county, caney fork county, lower hominy county, eastatoe county, limestone county, qualla county, cleveland county, cool spring county, bakersville county, clyde county, ivy hill county, millshoal county, flats county, barkers creek county, hogback county, greens creek county, columbus county, shapefile, flood, sylva county, dillsboro county, cooper gap county, burningtown county, sweetwater county, walnut county, ebbs chapel county, spring creek county, nantahala county, highlands county, cane creek county, burnsville county, crabtree county, poplar county, gilkey county, tusquittee county, scott creek county, webster county",
+		"value": "pigeon county, hothouse county, cowee county, swannanoa county, french broad county, rutherfordton county, edneyville county, mills river county, beaverdam county, gloucester county, south marshall county, reems creek county, revere-rice cove county, ellijay county, fork mountain-little rock creek county, green creek county, pensacola county, murphy county, elevation, cartoogechaye county, hydraulic modeling, mountain county, duncans creek county, upper hominy county, red hill county, cashiers county, sandy mush county, price creek county, shooting creek county, blue ridge county, canada county, snow creek county, south toe county, brevard county, hayesville county, east fork county, stecoah county, hamburg county, chimney rock county, fairview county, cataloochee county, grassy creek county, contour, ivy county, catheys creek county, crab creek county, tryon county, brasstown county, hendersonville county, smithbridge county, white oak county, savannah county, laurel county, high shoals county, forneys creek county, cecil county, cullowhee county, dunns rock county, notla county, sugarfork county, cheoah county, lumber river basin, valleytown county, flat creek county, shoal creek county, bathymetry/topography, river county, north marshall county, logan store county, waynesville county, colfax county, morgan county, green mountain county, egypt county, cane river county, jonathan creek county, boyd county, united states, jacks creek county, harrell county, bradshaw county, esri, union county, beech gleen county, golden valley county, asheville county, hiawassee county, camp creek county, north carolina, lidar, clear creek county, franklin county, avery creek county, yellow creek county, floodplain, black mountain county, iron duff county, charleston county, little river county, fines creek county, grapevine county, hoopers creek county, mars hill county, caney fork county, lower hominy county, eastatoe county, limestone county, qualla county, cleveland county, cool spring county, bakersville county, clyde county, ivy hill county, millshoal county, flats county, barkers creek county, hogback county, greens creek county, columbus county, shapefile, flood, sylva county, dillsboro county, cooper gap county, burningtown county, sweetwater county, walnut county, ebbs chapel county, spring creek county, nantahala county, highlands county, cane creek county, burnsville county, crabtree county, poplar county, gilkey county, tusquittee county, scott creek county, webster county",
 		"revision_timestamp": "2016-03-07T18:32:37.187415",
 		"state": "active",
 		"key": "tags",
@@ -285,7 +285,7 @@
 		"revision_timestamp": "2013-03-25T23:05:12.923863",
 		"is_organization": true,
 		"state": "active",
-		"image_url": "https:\/\/fortress.wa.gov\/dfw\/score\/score\/images\/noaa_logo.png",
+		"image_url": "https://fortress.wa.gov/dfw/score/score/images/noaa_logo.png",
 		"revision_id": "c6d43080-22e1-405e-a83d-f2a512d9e867",
 		"type": "organization",
 		"id": "e811f0b4-451f-4896-9e8f-fc6802837819",

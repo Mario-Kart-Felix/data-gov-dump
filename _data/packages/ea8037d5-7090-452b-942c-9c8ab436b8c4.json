@@ -37,7 +37,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2016-03-31T19:58:39.009764",
-		"url": "https:\/\/edg.epa.gov\/data\/PUBLIC\/ORD\/ENVIROATLAS\/Communities\/TampaFL",
+		"url": "https://edg.epa.gov/data/PUBLIC/ORD/ENVIROATLAS/Communities/TampaFL",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 0,
@@ -67,7 +67,7 @@
 		"cache_url": null,
 		"name": "Esri Rest API Endpoint",
 		"created": "2016-03-31T19:58:39.009789",
-		"url": "https:\/\/enviroatlas.epa.gov\/arcgis\/rest\/services\/Communities",
+		"url": "https://enviroatlas.epa.gov/arcgis/rest/services/Communities",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 1,
@@ -97,7 +97,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2016-03-31T19:58:39.009799",
-		"url": "https:\/\/www.epa.gov\/enviroatlas\/enviroatlas-data",
+		"url": "https://www.epa.gov/enviroatlas/enviroatlas-data",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 2,
@@ -127,7 +127,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2016-03-31T19:58:39.009808",
-		"url": "https:\/\/www.epa.gov\/enviroatlas",
+		"url": "https://www.epa.gov/enviroatlas",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 3,
@@ -147,7 +147,7 @@
 	"name": "enviroatlas-tampa-fl-domestic-water-use-per-day-by-u-s-census-block-group",
 	"isopen": false,
 	"url": null,
-	"notes": "As included in this EnviroAtlas dataset, the community level domestic water use was calculated using locally available water use data per capita in gallons of water per day (GPD), distributed dasymetrically, and summarized by census block group. Domestic water use, as defined in this case, is intended to represent residential indoor and outdoor water use (e.g., cooking hygiene, landscaping, pools, etc.) for primary residences (i.e., excluding second homes and tourism rentals). For the purposes of this metric, these publicly-supplied estimates are also applied and considered representative of local self-supplied water use. Specific to Florida, oversight of water resources is handled by five water management districts, each comprised of a board of Governor-appointed volunteers. These Districts focus on water supply, flood protection, water quality, and natural system preservation. Tampa is in the Southwest Florida Water Management District (SWFWMD). Within the EnviroAtlas Tampa boundary, there are 67 service providers with 2003-2007 estimates ranging from 59 to 230 GPD. This dataset was produced by the US EPA to support research and online mapping activities related to EnviroAtlas. EnviroAtlas (https:\/\/www.epa.gov\/enviroatlas) allows the user to interact with a web-based, easy-to-use, mapping application to view and analyze multiple ecosystem services for the contiguous United States. The dataset is available as downloadable data (https:\/\/edg.epa.gov\/data\/Public\/ORD\/EnviroAtlas) or as an EnviroAtlas map service. Additional descriptive information about each attribute in this dataset can be found in its associated EnviroAtlas Fact Sheet (https:\/\/www.epa.gov\/enviroatlas\/enviroatlas-fact-sheets).",
+	"notes": "As included in this EnviroAtlas dataset, the community level domestic water use was calculated using locally available water use data per capita in gallons of water per day (GPD), distributed dasymetrically, and summarized by census block group. Domestic water use, as defined in this case, is intended to represent residential indoor and outdoor water use (e.g., cooking hygiene, landscaping, pools, etc.) for primary residences (i.e., excluding second homes and tourism rentals). For the purposes of this metric, these publicly-supplied estimates are also applied and considered representative of local self-supplied water use. Specific to Florida, oversight of water resources is handled by five water management districts, each comprised of a board of Governor-appointed volunteers. These Districts focus on water supply, flood protection, water quality, and natural system preservation. Tampa is in the Southwest Florida Water Management District (SWFWMD). Within the EnviroAtlas Tampa boundary, there are 67 service providers with 2003-2007 estimates ranging from 59 to 230 GPD. This dataset was produced by the US EPA to support research and online mapping activities related to EnviroAtlas. EnviroAtlas (https://www.epa.gov/enviroatlas) allows the user to interact with a web-based, easy-to-use, mapping application to view and analyze multiple ecosystem services for the contiguous United States. The dataset is available as downloadable data (https://edg.epa.gov/data/Public/ORD/EnviroAtlas) or as an EnviroAtlas map service. Additional descriptive information about each attribute in this dataset can be found in its associated EnviroAtlas Fact Sheet (https://www.epa.gov/enviroatlas/enviroatlas-fact-sheets).",
 	"license_title": null,
 	"extras": [{
 		"key": "bbox-east-long",
@@ -183,7 +183,7 @@
 	},
 	{
 		"key": "spatial",
-		"value": "{\"type\": \"Polygon\", \"coordinates\": [[[-82.851123, 27.651249], [-82.056207, 27.651249], [-82.056207, 28.418373], [-82.851123, 28.418373], [-82.851123, 27.651249]]]}"
+		"value": "{"type": "Polygon", "coordinates": [[[-82.851123, 27.651249], [-82.056207, 27.651249], [-82.056207, 28.418373], [-82.851123, 28.418373], [-82.851123, 27.651249]]]}"
 	},
 	{
 		"key": "progress",
@@ -191,11 +191,11 @@
 	},
 	{
 		"key": "access_constraints",
-		"value": "[\"Use Constraints: None. Please check sources, scale, accuracy, currentness and other available information. Please confirm that you are using the most recent copy of both data and metadata. Acknowledgement of the EPA would be appreciated.\", \"Access Constraints: None.\"]"
+		"value": "["Use Constraints: None. Please check sources, scale, accuracy, currentness and other available information. Please confirm that you are using the most recent copy of both data and metadata. Acknowledgement of the EPA would be appreciated.", "Access Constraints: None."]"
 	},
 	{
 		"key": "licence_url",
-		"value": "https:\/\/edg.epa.gov\/EPA_Data_License.htm"
+		"value": "https://edg.epa.gov/EPA_Data_License.htm"
 	},
 	{
 		"key": "contact-email",
@@ -211,7 +211,7 @@
 	},
 	{
 		"key": "dataset-reference-date",
-		"value": "[{\"type\": \"publication\", \"value\": \"2014-10-31\"}]"
+		"value": "[{"type": "publication", "value": "2014-10-31"}]"
 	},
 	{
 		"key": "frequency-of-update",
@@ -219,7 +219,7 @@
 	},
 	{
 		"key": "licence",
-		"value": "[\"https:\/\/edg.epa.gov\/EPA_Data_License.htm\"]"
+		"value": "["https://edg.epa.gov/EPA_Data_License.htm"]"
 	},
 	{
 		"key": "metadata_type",
@@ -227,7 +227,7 @@
 	},
 	{
 		"key": "responsible-party",
-		"value": "[{\"name\": \"US Environmental Protection Agency, Research Triangle Park\", \"roles\": [\"pointOfContact\"]}]"
+		"value": "[{"name": "US Environmental Protection Agency, Research Triangle Park", "roles": ["pointOfContact"]}]"
 	},
 	{
 		"key": "spatial-data-service-type",
@@ -269,7 +269,7 @@
 		"revision_timestamp": "2014-01-16T18:58:42.895981",
 		"is_organization": true,
 		"state": "active",
-		"image_url": "http:\/\/edg.epa.gov\/EPALogo.svg",
+		"image_url": "http://edg.epa.gov/EPALogo.svg",
 		"revision_id": "f0e4b475-7424-4ce0-9a22-412e7e595154",
 		"type": "organization",
 		"id": "6d90e48d-3076-4327-b2f4-c33919f374d5",

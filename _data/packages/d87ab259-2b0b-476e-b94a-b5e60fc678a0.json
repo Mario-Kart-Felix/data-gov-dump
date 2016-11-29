@@ -37,7 +37,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2015-09-26T17:12:44.421209",
-		"url": "ftp:\/\/sidads.colorado.edu\/pub\/DATASETS\/NOAA\/G01360",
+		"url": "ftp://sidads.colorado.edu/pub/DATASETS/NOAA/G01360",
 		"webstore_url": null,
 		"resource_locator_function": "function",
 		"position": 0,
@@ -67,7 +67,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2015-09-26T17:12:44.421234",
-		"url": "http:\/\/nsidc.org\/data\/docs\/noaa\/g01360_upward_looking_sonar\/index.html",
+		"url": "http://nsidc.org/data/docs/noaa/g01360_upward_looking_sonar/index.html",
 		"webstore_url": null,
 		"resource_locator_function": "function",
 		"position": 1,
@@ -85,7 +85,7 @@
 		"last_modified": null,
 		"hash": "",
 		"description": "",
-		"format": "application\/vnd.lotus-organizer",
+		"format": "application/vnd.lotus-organizer",
 		"tracking_summary": {
 			"total": 85,
 			"recent": 4
@@ -97,7 +97,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2015-09-26T17:12:44.421244",
-		"url": "http:\/\/nsidc.org",
+		"url": "http://nsidc.org",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 2,
@@ -127,7 +127,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2015-09-26T17:12:44.421252",
-		"url": "http:\/\/nsidc.org\/noaa\/",
+		"url": "http://nsidc.org/noaa/",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 3,
@@ -145,7 +145,7 @@
 		"last_modified": null,
 		"hash": "",
 		"description": "",
-		"format": "application\/vnd.lotus-organizer",
+		"format": "application/vnd.lotus-organizer",
 		"tracking_summary": {
 			"total": 85,
 			"recent": 4
@@ -157,7 +157,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2015-09-26T17:12:44.421259",
-		"url": "http:\/\/nsidc.org",
+		"url": "http://nsidc.org",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 4,
@@ -190,7 +190,7 @@
 	"name": "submarine-upward-looking-sonar-ice-draft-profile-data-and-statistics",
 	"isopen": false,
 	"url": null,
-	"notes": "\nThis data set consists of upward looking sonar draft data collected by submarines in the Arctic Ocean.  It includes data from both U.S. Navy and Royal Navy submarines. Maps showing submarine tracks are  available.  Data are provided as ice draft profiles and as statistics derived from the profile data. Statistics files include information concerning ice draft characteristics, keels, level ice, leads, un- deformed and deformed ice.  Data from the U.S. Navy's Digital Ice Profiling System (DIPS) have been  interpolated and processed for release as unclassified data at the U.S. Army's Cold Regions Research  and Engineering Laboratory (CRREL) in Hanover, New Hampshire. Data from the analog draft recording  system were digitized and then processed by the Polar Science Center, Applied Physics Laboratory,  University of Washington.   Data from British submarines were provided by the Department of Applied Mathematics and Theoretical Physics, University of Cambridge. All data sources used similar processing methods in order to ensure  a consistent data set.Access to the Submarine Upward Looking Sonar Ice Draft Profile Data and Statistics data set is  unrestricted, but users are encouraged to register for the data. Registered users will receive e-mail notification about any product changes.\n",
+	"notes": "nThis data set consists of upward looking sonar draft data collected by submarines in the Arctic Ocean.  It includes data from both U.S. Navy and Royal Navy submarines. Maps showing submarine tracks are  available.  Data are provided as ice draft profiles and as statistics derived from the profile data. Statistics files include information concerning ice draft characteristics, keels, level ice, leads, un- deformed and deformed ice.  Data from the U.S. Navy's Digital Ice Profiling System (DIPS) have been  interpolated and processed for release as unclassified data at the U.S. Army's Cold Regions Research  and Engineering Laboratory (CRREL) in Hanover, New Hampshire. Data from the analog draft recording  system were digitized and then processed by the Polar Science Center, Applied Physics Laboratory,  University of Washington.   Data from British submarines were provided by the Department of Applied Mathematics and Theoretical Physics, University of Cambridge. All data sources used similar processing methods in order to ensure  a consistent data set.Access to the Submarine Upward Looking Sonar Ice Draft Profile Data and Statistics data set is  unrestricted, but users are encouraged to register for the data. Registered users will receive e-mail notification about any product changes.n",
 	"license_title": null,
 	"extras": [{
 		"key": "bbox-east-long",
@@ -222,7 +222,7 @@
 	},
 	{
 		"key": "__category_tag_aa0c01c9-d292-4dc1-8fec-b10c1bb629a9",
-		"value": "[\"Arctic\",\"Arctic Ocean, Sea Ice and Coasts\"]"
+		"value": "["Arctic","Arctic Ocean, Sea Ice and Coasts"]"
 	},
 	{
 		"key": "spatial-reference-system",
@@ -230,7 +230,7 @@
 	},
 	{
 		"key": "spatial",
-		"value": "{\"type\": \"Polygon\", \"coordinates\": [[[-180.0, 70.0], [180.0, 70.0], [180.0, 90.0], [-180.0, 90.0], [-180.0, 70.0]]]}"
+		"value": "{"type": "Polygon", "coordinates": [[[-180.0, 70.0], [180.0, 70.0], [180.0, 90.0], [-180.0, 90.0], [-180.0, 70.0]]]}"
 	},
 	{
 		"key": "progress",
@@ -238,7 +238,7 @@
 	},
 	{
 		"key": "access_constraints",
-		"value": "[\"Access Constraints : none\", \"Use Constraints : none\"]"
+		"value": "["Access Constraints : none", "Use Constraints : none"]"
 	},
 	{
 		"key": "temporal-extent-begin",
@@ -258,7 +258,7 @@
 	},
 	{
 		"key": "dataset-reference-date",
-		"value": "[{\"type\": \"publication\", \"value\": \"1998-01-01\"}]"
+		"value": "[{"type": "publication", "value": "1998-01-01"}]"
 	},
 	{
 		"key": "frequency-of-update",
@@ -274,7 +274,7 @@
 	},
 	{
 		"key": "responsible-party",
-		"value": "[{\"name\": \"\", \"roles\": [\"principalInvestigator\"]}, {\"name\": \"University of Washington\", \"roles\": [\"principalInvestigator\"]}, {\"name\": \"University of Cambridge\", \"roles\": [\"principalInvestigator\"]}, {\"name\": \"National Snow and Ice Data Center\", \"roles\": [\"pointOfContact\"]}]"
+		"value": "[{"name": "", "roles": ["principalInvestigator"]}, {"name": "University of Washington", "roles": ["principalInvestigator"]}, {"name": "University of Cambridge", "roles": ["principalInvestigator"]}, {"name": "National Snow and Ice Data Center", "roles": ["pointOfContact"]}]"
 	},
 	{
 		"key": "temporal-extent-end",
@@ -290,7 +290,7 @@
 	},
 	{
 		"package_id": "d87ab259-2b0b-476e-b94a-b5e60fc678a0",
-		"value": "moored upward looking sonar-project, cryosphere, upward looking sonar, ice deformation, declassified naval submarine data, oceans, ice depth\/thickness, ocean, leads, arctic ocean, submarine data, ice roughness, sea ice, ice draft, earth science",
+		"value": "moored upward looking sonar-project, cryosphere, upward looking sonar, ice deformation, declassified naval submarine data, oceans, ice depth/thickness, ocean, leads, arctic ocean, submarine data, ice roughness, sea ice, ice draft, earth science",
 		"revision_timestamp": "2015-09-26T21:12:44.361957",
 		"state": "active",
 		"key": "tags",
@@ -320,7 +320,7 @@
 		"revision_timestamp": "2013-03-25T23:05:12.923863",
 		"is_organization": true,
 		"state": "active",
-		"image_url": "https:\/\/fortress.wa.gov\/dfw\/score\/score\/images\/noaa_logo.png",
+		"image_url": "https://fortress.wa.gov/dfw/score/score/images/noaa_logo.png",
 		"revision_id": "c6d43080-22e1-405e-a83d-f2a512d9e867",
 		"type": "organization",
 		"id": "e811f0b4-451f-4896-9e8f-fc6802837819",

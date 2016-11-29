@@ -36,7 +36,7 @@
 		"cache_url": null,
 		"name": "ESRI GRID",
 		"created": "2016-07-15T21:33:58.719326",
-		"url": "http:\/\/cloud.insideidaho.org\/webApps\/util\/zip.ashx?fn=http:\/\/cloud.insideidaho.org\/data\/blm\/fireHazardRisk\/fuelhaz_blm",
+		"url": "http://cloud.insideidaho.org/webApps/util/zip.ashx?fn=http://cloud.insideidaho.org/data/blm/fireHazardRisk/fuelhaz_blm",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 0,
@@ -66,7 +66,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2016-07-15T21:33:58.719348",
-		"url": "http:\/\/cloud.insideidaho.org\/webApps\/util\/zip.ashx?fn=http:\/\/cloud.insideidaho.org\/data\/blm\/fireHazardRisk\/fuelhaz_blm",
+		"url": "http://cloud.insideidaho.org/webApps/util/zip.ashx?fn=http://cloud.insideidaho.org/data/blm/fireHazardRisk/fuelhaz_blm",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 1,
@@ -86,11 +86,11 @@
 	"name": "fire-behavior-fuel-hazard",
 	"isopen": false,
 	"url": null,
-	"notes": "At best, predicting surface and canopy fuel loads from mid-scale data is problematic at best. The structure, composition, and arrangement of fuels are dependent upon the disturbance history of any given stand. Disturbance history includes natural processes (e.g., fire, wind, insects, and pathogens), as well as anthropogenic processes (e.g., silvicultural treatments and grazing practices). The only available proxy to the disturbance history (and consequently fuel loadings) available at a mid-scale level is the current structure and composition of vegetation (e.g., cover type, canopy cover, and size class). Unfortunately, the current structure and composition of vegetation is a very poor predictor of stand history. For example, stands having the same cover type, canopy cover, and size class may have substantially different histories; one could have been logged and the fuels cleaned up, and the other could have been impacted by mountain pine beetles. Since the structure and composition of the current vegetation is a poor predictor of fuel loadings, we had Forest Service and BLM fuels specialist assign a very coarse qualitative ranking of \"fuel hazard\" (e.g., containment problems) to unique combinations of PVT and FBFM. The specific rule sets can be found in Table 24 of the \"Idaho Interagency Assessment or Wildland Fire Risks to Communities: a Description of Methods\". The specialists considered the following fire behavior attributes when making these assignments: ROS, fireline intensity, the potential for active crown fires, and the potential for spotting.",
+	"notes": "At best, predicting surface and canopy fuel loads from mid-scale data is problematic at best. The structure, composition, and arrangement of fuels are dependent upon the disturbance history of any given stand. Disturbance history includes natural processes (e.g., fire, wind, insects, and pathogens), as well as anthropogenic processes (e.g., silvicultural treatments and grazing practices). The only available proxy to the disturbance history (and consequently fuel loadings) available at a mid-scale level is the current structure and composition of vegetation (e.g., cover type, canopy cover, and size class). Unfortunately, the current structure and composition of vegetation is a very poor predictor of stand history. For example, stands having the same cover type, canopy cover, and size class may have substantially different histories; one could have been logged and the fuels cleaned up, and the other could have been impacted by mountain pine beetles. Since the structure and composition of the current vegetation is a poor predictor of fuel loadings, we had Forest Service and BLM fuels specialist assign a very coarse qualitative ranking of "fuel hazard" (e.g., containment problems) to unique combinations of PVT and FBFM. The specific rule sets can be found in Table 24 of the "Idaho Interagency Assessment or Wildland Fire Risks to Communities: a Description of Methods". The specialists considered the following fire behavior attributes when making these assignments: ROS, fireline intensity, the potential for active crown fires, and the potential for spotting.",
 	"license_title": null,
 	"extras": [{
 		"key": "responsible-party",
-		"value": "[{\"name\": \"Bureau of Land Management, Idaho State Office\", \"roles\": [\"pointOfContact\"]}]"
+		"value": "[{"name": "Bureau of Land Management, Idaho State Office", "roles": ["pointOfContact"]}]"
 	},
 	{
 		"key": "contact-email",
@@ -110,7 +110,7 @@
 	},
 	{
 		"key": "dataset-reference-date",
-		"value": "[{\"type\": \"publication\", \"value\": \"2007-01-01\"}]"
+		"value": "[{"type": "publication", "value": "2007-01-01"}]"
 	},
 	{
 		"key": "resource-type",
@@ -138,7 +138,7 @@
 	},
 	{
 		"key": "licence",
-		"value": "[\"Although these data have been processed successfully on a computer system at the Idaho Geospatial Data Clearinghouse, no warranty, expressed or implied, is made regarding the utility of the data on any other system, nor shall the act of distribution constitute any such warranty. \"]"
+		"value": "["Although these data have been processed successfully on a computer system at the Idaho Geospatial Data Clearinghouse, no warranty, expressed or implied, is made regarding the utility of the data on any other system, nor shall the act of distribution constitute any such warranty. "]"
 	},
 	{
 		"key": "metadata_type",
@@ -150,7 +150,7 @@
 	},
 	{
 		"key": "spatial",
-		"value": "{\"type\": \"Polygon\", \"coordinates\": [[[-117.673841, 41.852449], [-110.513622, 41.852449], [-110.513622, 49.12891], [-117.673841, 49.12891], [-117.673841, 41.852449]]]}"
+		"value": "{"type": "Polygon", "coordinates": [[[-117.673841, 41.852449], [-110.513622, 41.852449], [-110.513622, 49.12891], [-117.673841, 49.12891], [-117.673841, 41.852449]]]}"
 	},
 	{
 		"key": "guid",
@@ -162,7 +162,7 @@
 	},
 	{
 		"key": "access_constraints",
-		"value": "[\"Use Constraints: No warranty is made by the Bureau of Land Management as to the accuracy, reliability, or completeness of these data for individual use or aggregate use with other data. These data were designed to characterize mid-scale patterns across the state of Idaho at a scale of approximately 1:100,000. The use of these data at scales less than 1:100,000 is not recommended without field verification. This data set is provided \\\"as-is\\\" without warranty of any kind, including, but not limited to, the implied warranties of merchantability and fitness or a particular purpose. The user assumes all responsibility for the accuracy and suitability of this dataset for a specific application. In no event will the creators or USDA Forest Service be liable for any damages, including lost profits, lost savings, or other incidental or consequential damages arising from the use of or inability to use this data set. Use of these data may require the ability to read ArcInfo Grid datasets. Although the resolution of this theme is a 90-m cell, the expected accuracy does not warrant its use for geographic extents smaller than approximately 10,000 acres. That is, these data were not designed to be used for \\\"project level\\\" assessments that typically require 1:24,000 scale data.\", \"Access Constraints: public\"]"
+		"value": "["Use Constraints: No warranty is made by the Bureau of Land Management as to the accuracy, reliability, or completeness of these data for individual use or aggregate use with other data. These data were designed to characterize mid-scale patterns across the state of Idaho at a scale of approximately 1:100,000. The use of these data at scales less than 1:100,000 is not recommended without field verification. This data set is provided \"as-is\" without warranty of any kind, including, but not limited to, the implied warranties of merchantability and fitness or a particular purpose. The user assumes all responsibility for the accuracy and suitability of this dataset for a specific application. In no event will the creators or USDA Forest Service be liable for any damages, including lost profits, lost savings, or other incidental or consequential damages arising from the use of or inability to use this data set. Use of these data may require the ability to read ArcInfo Grid datasets. Although the resolution of this theme is a 90-m cell, the expected accuracy does not warrant its use for geographic extents smaller than approximately 10,000 acres. That is, these data were not designed to be used for \"project level\" assessments that typically require 1:24,000 scale data.", "Access Constraints: public"]"
 	},
 	{
 		"key": "spatial_harvester",
@@ -204,7 +204,7 @@
 		"revision_timestamp": "2015-01-16T18:28:14.593903",
 		"is_organization": true,
 		"state": "active",
-		"image_url": "http:\/\/upload.wikimedia.org\/wikipedia\/en\/thumb\/4\/44\/University_of_Idaho_seal.svg\/300px-University_of_Idaho_seal.svg.png",
+		"image_url": "http://upload.wikimedia.org/wikipedia/en/thumb/4/44/University_of_Idaho_seal.svg/300px-University_of_Idaho_seal.svg.png",
 		"revision_id": "761955d7-9530-4622-8609-d0b01c78e177",
 		"type": "organization",
 		"id": "75e22a8a-da5f-46f3-93d8-924063a3703d",

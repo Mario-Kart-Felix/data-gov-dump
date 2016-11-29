@@ -37,7 +37,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2016-06-15T03:13:45.689851",
-		"url": "http:\/\/pubs.usgs.gov\/ds\/720\/",
+		"url": "http://pubs.usgs.gov/ds/720/",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 0,
@@ -57,11 +57,11 @@
 	"name": "eaarl-coastal-topography-and-imagery-western-louisiana-post-hurricane-rita-2005-first-surface",
 	"isopen": false,
 	"url": null,
-	"notes": "ASCII xyz and binary point-cloud data, as well as a digital elevation model (DEM) of a portion of the Louisiana coastline, post-Hurricane Rita (September 2005 hurricane), was produced from remotely sensed, geographically referenced elevation measurements cooperatively by the U.S. Geological Survey (USGS) and the National Aeronautics and Space Administration (NASA). Elevation measurements were collected over the area using the Experimental Advanced Airborne Research Lidar (EAARL), a pulsed laser ranging system mounted onboard an aircraft to measure ground elevation, vegetation canopy, and coastal topography. The system uses high-frequency laser beams directed at the Earth's surface through an opening in the bottom of the aircraft's fuselage. The laser system records the time difference between emission of the laser beam and the reception of the reflected laser signal in the aircraft. The plane travels over the target area at approximately 50 meters per second at an elevation of approximately 300 meters, resulting in a laser swath of approximately 240 meters with an average point spacing of 2-3 meters. The EAARL, developed originally by NASA at Wallops Flight Facility in Virginia, measures ground elevation with a vertical resolution of +\/-15 centimeters. A sampling rate of 3 kilohertz or higher results in an extremely dense spatial elevation dataset. Over 100 kilometers of coastline can be surveyed easily within a 3- to 4-hour mission. When resultant elevation maps for an area are analyzed, they provide a useful tool to make management decisions regarding land development.",
+	"notes": "ASCII xyz and binary point-cloud data, as well as a digital elevation model (DEM) of a portion of the Louisiana coastline, post-Hurricane Rita (September 2005 hurricane), was produced from remotely sensed, geographically referenced elevation measurements cooperatively by the U.S. Geological Survey (USGS) and the National Aeronautics and Space Administration (NASA). Elevation measurements were collected over the area using the Experimental Advanced Airborne Research Lidar (EAARL), a pulsed laser ranging system mounted onboard an aircraft to measure ground elevation, vegetation canopy, and coastal topography. The system uses high-frequency laser beams directed at the Earth's surface through an opening in the bottom of the aircraft's fuselage. The laser system records the time difference between emission of the laser beam and the reception of the reflected laser signal in the aircraft. The plane travels over the target area at approximately 50 meters per second at an elevation of approximately 300 meters, resulting in a laser swath of approximately 240 meters with an average point spacing of 2-3 meters. The EAARL, developed originally by NASA at Wallops Flight Facility in Virginia, measures ground elevation with a vertical resolution of +/-15 centimeters. A sampling rate of 3 kilohertz or higher results in an extremely dense spatial elevation dataset. Over 100 kilometers of coastline can be surveyed easily within a 3- to 4-hour mission. When resultant elevation maps for an area are analyzed, they provide a useful tool to make management decisions regarding land development.",
 	"license_title": null,
 	"extras": [{
 		"key": "responsible-party",
-		"value": "[{\"name\": \"Cherokee Nation Technology Solutions, U.S. Geological Survey, St. Petersburg Coastal and Marine Science Center, St. Petersburg, FL\", \"roles\": [\"pointOfContact\"]}]"
+		"value": "[{"name": "Cherokee Nation Technology Solutions, U.S. Geological Survey, St. Petersburg Coastal and Marine Science Center, St. Petersburg, FL", "roles": ["pointOfContact"]}]"
 	},
 	{
 		"key": "contact-email",
@@ -81,7 +81,7 @@
 	},
 	{
 		"key": "dataset-reference-date",
-		"value": "[{\"type\": \"publication\", \"value\": \"2013-01-01\"}]"
+		"value": "[{"type": "publication", "value": "2013-01-01"}]"
 	},
 	{
 		"key": "resource-type",
@@ -109,7 +109,7 @@
 	},
 	{
 		"key": "licence",
-		"value": "[\"Although these data have been processed successfully on a computer system at the U.S. Geological Survey (USGS), no warranty expressed or implied is made regarding the display or utility of the data on any other system, or for general or scientific purposes, nor shall the act of distribution constitute any such warranty. The USGS shall not be held liable for improper or incorrect use of the data describe and\/or contained herein. Any use of trade, firm, or product names is for descriptive purposes only and does not imply endorsement by the U.S. Government.\"]"
+		"value": "["Although these data have been processed successfully on a computer system at the U.S. Geological Survey (USGS), no warranty expressed or implied is made regarding the display or utility of the data on any other system, or for general or scientific purposes, nor shall the act of distribution constitute any such warranty. The USGS shall not be held liable for improper or incorrect use of the data describe and/or contained herein. Any use of trade, firm, or product names is for descriptive purposes only and does not imply endorsement by the U.S. Government."]"
 	},
 	{
 		"key": "metadata_type",
@@ -121,7 +121,7 @@
 	},
 	{
 		"key": "spatial",
-		"value": "{\"type\": \"Polygon\", \"coordinates\": [[[-93.93150463, 29.46545651], [-91.96498093, 29.46545651], [-91.96498093, 29.8304459], [-93.93150463, 29.8304459], [-93.93150463, 29.46545651]]]}"
+		"value": "{"type": "Polygon", "coordinates": [[[-93.93150463, 29.46545651], [-91.96498093, 29.46545651], [-91.96498093, 29.8304459], [-93.93150463, 29.8304459], [-93.93150463, 29.46545651]]]}"
 	},
 	{
 		"key": "guid",
@@ -133,7 +133,7 @@
 	},
 	{
 		"key": "access_constraints",
-		"value": "[\"Use Constraints: The U.S. Geological Survey and National Aeronautics and Space Administration request to be acknowledged as originators of these data in future products or derivative research.\", \"Access Constraints: None\"]"
+		"value": "["Use Constraints: The U.S. Geological Survey and National Aeronautics and Space Administration request to be acknowledged as originators of these data in future products or derivative research.", "Access Constraints: None"]"
 	},
 	{
 		"key": "spatial_harvester",
@@ -145,7 +145,7 @@
 	},
 	{
 		"package_id": "1d154a03-602d-4f17-b587-c8d4e4a2bbde",
-		"value": "topography, shoreline displacement, post-hurricane rita, vermillion, cameron, terrain elevation, coastal processes, laser altimetry, lidar, land surface, barrier islands, gulf of mexico, coastal and marine geology, u.s. geological survey, u.s. department of interior, louisiana, experimental advanced airborne research lidar, light detection and ranging, airborne lidar processing system, digital elevation model, eaarl, doi\/usgs\/cmg, cessna 310, beaches, alps, remote sensing, ocean, dem, 2005, first surface",
+		"value": "topography, shoreline displacement, post-hurricane rita, vermillion, cameron, terrain elevation, coastal processes, laser altimetry, lidar, land surface, barrier islands, gulf of mexico, coastal and marine geology, u.s. geological survey, u.s. department of interior, louisiana, experimental advanced airborne research lidar, light detection and ranging, airborne lidar processing system, digital elevation model, eaarl, doi/usgs/cmg, cessna 310, beaches, alps, remote sensing, ocean, dem, 2005, first surface",
 		"revision_timestamp": "2016-02-10T06:16:09.755247",
 		"state": "active",
 		"key": "tags",
@@ -168,14 +168,14 @@
 		"value": "USGS Coastal and Marine Geoscience Data System"
 	}],
 	"organization": {
-		"description": "http:\/\/www.usgs.gov\/\r\nThe USGS is a federal science agency that provides impartial information on the health of our ecosystems and environment, the natural hazards that threaten us, the natural resources we rely on, the impacts of climate and land-use change, and the core science systems that help us provide timely, relevant, and useable information.",
+		"description": "http://www.usgs.gov/rnThe USGS is a federal science agency that provides impartial information on the health of our ecosystems and environment, the natural hazards that threaten us, the natural resources we rely on, the impacts of climate and land-use change, and the core science systems that help us provide timely, relevant, and useable information.",
 		"created": "2013-03-14T03:44:38.263357",
 		"title": "U.S. Geological Survey, Department of the Interior",
 		"name": "usgs-gov",
 		"revision_timestamp": "2014-09-02T13:43:52.167023",
 		"is_organization": true,
 		"state": "active",
-		"image_url": "http:\/\/pubs.usgs.gov\/sir\/2004\/5296\/04-5296_confluence_park\/usgs_logo.gif",
+		"image_url": "http://pubs.usgs.gov/sir/2004/5296/04-5296_confluence_park/usgs_logo.gif",
 		"revision_id": "2858aa99-9501-4f96-82e5-9647b968ed66",
 		"type": "organization",
 		"id": "bd2cdd5a-4d65-46c0-9937-c8381175f104",

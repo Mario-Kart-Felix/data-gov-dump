@@ -37,7 +37,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2015-09-26T21:46:01.863910",
-		"url": "ftp:\/\/sidads.colorado.edu\/pub\/DATASETS\/NOAA\/G00922\/",
+		"url": "ftp://sidads.colorado.edu/pub/DATASETS/NOAA/G00922/",
 		"webstore_url": null,
 		"resource_locator_function": "function",
 		"position": 0,
@@ -67,7 +67,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2015-09-26T21:46:01.863935",
-		"url": "http:\/\/nsidc.org\/data\/docs\/noaa\/g00922_canada_snowfall_depth\/index.html",
+		"url": "http://nsidc.org/data/docs/noaa/g00922_canada_snowfall_depth/index.html",
 		"webstore_url": null,
 		"resource_locator_function": "function",
 		"position": 1,
@@ -85,7 +85,7 @@
 		"last_modified": null,
 		"hash": "",
 		"description": "",
-		"format": "application\/vnd.lotus-organizer",
+		"format": "application/vnd.lotus-organizer",
 		"tracking_summary": {
 			"total": 85,
 			"recent": 4
@@ -97,7 +97,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2015-09-26T21:46:01.863944",
-		"url": "http:\/\/nsidc.org",
+		"url": "http://nsidc.org",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 2,
@@ -127,7 +127,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2015-09-26T21:46:01.863951",
-		"url": "http:\/\/nsidc.org\/noaa\/",
+		"url": "http://nsidc.org/noaa/",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 3,
@@ -145,7 +145,7 @@
 		"last_modified": null,
 		"hash": "",
 		"description": "",
-		"format": "application\/vnd.lotus-organizer",
+		"format": "application/vnd.lotus-organizer",
 		"tracking_summary": {
 			"total": 85,
 			"recent": 4
@@ -157,7 +157,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2015-09-26T21:46:01.863958",
-		"url": "http:\/\/nsidc.org",
+		"url": "http://nsidc.org",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 4,
@@ -177,7 +177,7 @@
 	"name": "snowfall-and-snow-depth-for-canada-1943-1982",
 	"isopen": false,
 	"url": null,
-	"notes": "\nData include monthly snowfall and end-of-month snow depth for 140 stations across Canada. Stations that maintained at least 20 years of data were chosen. The original data are from Atmospheric Environment Service Canadian Climate Centre and from NOAA's National Climatic Data Center. Data are divided into eight files by region or province: British Columbia (17 stations), Yukon and Northwest Territories (33 stations), Alberta (12 stations), Saskatchewan (115 stations), Manitoba (10 stations), Ontario (19 stations), Quebec (20 stations) and Atlantic Provinces (14 stations). Each data record contains a variable indicator to identify data as snow on the ground on the last day of the month (centimeters) or total snowfall for the month (millimeters). A list of stations, with latitude and longitude to hundredths of a degree, is included in documentation for this data set.\n",
+	"notes": "nData include monthly snowfall and end-of-month snow depth for 140 stations across Canada. Stations that maintained at least 20 years of data were chosen. The original data are from Atmospheric Environment Service Canadian Climate Centre and from NOAA's National Climatic Data Center. Data are divided into eight files by region or province: British Columbia (17 stations), Yukon and Northwest Territories (33 stations), Alberta (12 stations), Saskatchewan (115 stations), Manitoba (10 stations), Ontario (19 stations), Quebec (20 stations) and Atlantic Provinces (14 stations). Each data record contains a variable indicator to identify data as snow on the ground on the last day of the month (centimeters) or total snowfall for the month (millimeters). A list of stations, with latitude and longitude to hundredths of a degree, is included in documentation for this data set.n",
 	"license_title": null,
 	"extras": [{
 		"key": "bbox-east-long",
@@ -213,7 +213,7 @@
 	},
 	{
 		"key": "spatial",
-		"value": "{\"type\": \"Polygon\", \"coordinates\": [[[-142.0, 45.0], [-55.0, 45.0], [-55.0, 75.0], [-142.0, 75.0], [-142.0, 45.0]]]}"
+		"value": "{"type": "Polygon", "coordinates": [[[-142.0, 45.0], [-55.0, 45.0], [-55.0, 75.0], [-142.0, 75.0], [-142.0, 45.0]]]}"
 	},
 	{
 		"key": "progress",
@@ -221,7 +221,7 @@
 	},
 	{
 		"key": "access_constraints",
-		"value": "[\"Access Constraints : none\", \"Use Constraints : none\"]"
+		"value": "["Access Constraints : none", "Use Constraints : none"]"
 	},
 	{
 		"key": "temporal-extent-begin",
@@ -241,7 +241,7 @@
 	},
 	{
 		"key": "dataset-reference-date",
-		"value": "[{\"type\": \"publication\", \"value\": \"1996-01-01\"}]"
+		"value": "[{"type": "publication", "value": "1996-01-01"}]"
 	},
 	{
 		"key": "frequency-of-update",
@@ -257,7 +257,7 @@
 	},
 	{
 		"key": "responsible-party",
-		"value": "[{\"name\": \"University of Illinois at Urbana-Champaign\", \"roles\": [\"principalInvestigator\"]}, {\"name\": \"National Snow and Ice Data Center\", \"roles\": [\"pointOfContact\"]}]"
+		"value": "[{"name": "University of Illinois at Urbana-Champaign", "roles": ["principalInvestigator"]}, {"name": "National Snow and Ice Data Center", "roles": ["pointOfContact"]}]"
 	},
 	{
 		"key": "temporal-extent-end",
@@ -273,7 +273,7 @@
 	},
 	{
 		"package_id": "de4c02d3-77e4-4b89-8d08-b4cc932f6e46",
-		"value": "canada, terrestrial hydrosphere, atmosphere, snow fall, cryosphere, snow depth, snow, snowfall, north america, global change, alberta, snow\/ice, climatology, precipitation, continent, earth science",
+		"value": "canada, terrestrial hydrosphere, atmosphere, snow fall, cryosphere, snow depth, snow, snowfall, north america, global change, alberta, snow/ice, climatology, precipitation, continent, earth science",
 		"revision_timestamp": "2015-09-27T01:46:01.812188",
 		"state": "active",
 		"key": "tags",
@@ -303,7 +303,7 @@
 		"revision_timestamp": "2013-03-25T23:05:12.923863",
 		"is_organization": true,
 		"state": "active",
-		"image_url": "https:\/\/fortress.wa.gov\/dfw\/score\/score\/images\/noaa_logo.png",
+		"image_url": "https://fortress.wa.gov/dfw/score/score/images/noaa_logo.png",
 		"revision_id": "c6d43080-22e1-405e-a83d-f2a512d9e867",
 		"type": "organization",
 		"id": "e811f0b4-451f-4896-9e8f-fc6802837819",

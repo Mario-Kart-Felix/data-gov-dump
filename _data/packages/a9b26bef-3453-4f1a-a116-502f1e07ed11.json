@@ -36,7 +36,7 @@
 		"cache_url": null,
 		"name": "Data Subset Form",
 		"created": "2015-12-20T18:45:44.514860",
-		"url": "http:\/\/oos.soest.hawaii.edu\/erddap\/tabledap\/sg139_1.html",
+		"url": "http://oos.soest.hawaii.edu/erddap/tabledap/sg139_1.html",
 		"webstore_url": null,
 		"resource_locator_function": "download",
 		"position": 0,
@@ -65,7 +65,7 @@
 		"cache_url": null,
 		"name": "Make-A-Graph Form",
 		"created": "2015-12-20T18:45:44.514887",
-		"url": "http:\/\/oos.soest.hawaii.edu\/erddap\/tabledap\/sg139_1.graph",
+		"url": "http://oos.soest.hawaii.edu/erddap/tabledap/sg139_1.graph",
 		"webstore_url": null,
 		"resource_locator_function": "mapDigital",
 		"position": 1,
@@ -83,7 +83,7 @@
 		"last_modified": null,
 		"hash": "",
 		"description": "Background information from the source",
-		"format": "application\/vnd.lotus-organizer",
+		"format": "application/vnd.lotus-organizer",
 		"tracking_summary": {
 			"total": 2,
 			"recent": 2
@@ -94,7 +94,7 @@
 		"cache_url": null,
 		"name": "Background Information",
 		"created": "2015-12-20T18:45:44.514907",
-		"url": "http:\/\/pacioos.org",
+		"url": "http://pacioos.org",
 		"webstore_url": null,
 		"resource_locator_function": "information",
 		"position": 2,
@@ -112,7 +112,7 @@
 		"last_modified": null,
 		"hash": "",
 		"description": "Background information from the source",
-		"format": "application\/vnd.lotus-organizer",
+		"format": "application/vnd.lotus-organizer",
 		"tracking_summary": {
 			"total": 2,
 			"recent": 2
@@ -123,7 +123,7 @@
 		"cache_url": null,
 		"name": "Background Information",
 		"created": "2015-12-20T18:45:44.514925",
-		"url": "http:\/\/pacioos.org",
+		"url": "http://pacioos.org",
 		"webstore_url": null,
 		"resource_locator_function": "information",
 		"position": 3,
@@ -141,7 +141,7 @@
 		"last_modified": null,
 		"hash": "",
 		"description": "Background information from the source",
-		"format": "application\/vnd.lotus-organizer",
+		"format": "application/vnd.lotus-organizer",
 		"tracking_summary": {
 			"total": 2,
 			"recent": 2
@@ -152,7 +152,7 @@
 		"cache_url": null,
 		"name": "Background Information",
 		"created": "2015-12-20T18:45:44.514934",
-		"url": "http:\/\/pacioos.org",
+		"url": "http://pacioos.org",
 		"webstore_url": null,
 		"resource_locator_function": "information",
 		"position": 4,
@@ -181,7 +181,7 @@
 		"cache_url": null,
 		"name": "ERDDAP-tabledap",
 		"created": "2015-12-20T18:45:44.514941",
-		"url": "http:\/\/oos.soest.hawaii.edu\/erddap\/tabledap\/sg139_1",
+		"url": "http://oos.soest.hawaii.edu/erddap/tabledap/sg139_1",
 		"webstore_url": null,
 		"resource_locator_function": "download",
 		"position": 5,
@@ -199,7 +199,7 @@
 		"last_modified": null,
 		"hash": "",
 		"description": "Background information from the source",
-		"format": "application\/vnd.lotus-organizer",
+		"format": "application/vnd.lotus-organizer",
 		"tracking_summary": {
 			"total": 2,
 			"recent": 2
@@ -210,7 +210,7 @@
 		"cache_url": null,
 		"name": "Background Information",
 		"created": "2015-12-20T18:45:44.514948",
-		"url": "http:\/\/pacioos.org",
+		"url": "http://pacioos.org",
 		"webstore_url": null,
 		"resource_locator_function": "information",
 		"position": 6,
@@ -239,7 +239,7 @@
 		"cache_url": null,
 		"name": "OPeNDAP",
 		"created": "2015-12-20T18:45:44.514954",
-		"url": "http:\/\/oos.soest.hawaii.edu\/erddap\/tabledap\/sg139_1",
+		"url": "http://oos.soest.hawaii.edu/erddap/tabledap/sg139_1",
 		"webstore_url": null,
 		"resource_locator_function": "download",
 		"position": 7,
@@ -261,7 +261,7 @@
 		"revision_timestamp": "2013-03-25T23:05:12.923863",
 		"is_organization": true,
 		"state": "active",
-		"image_url": "https:\/\/fortress.wa.gov\/dfw\/score\/score\/images\/noaa_logo.png",
+		"image_url": "https://fortress.wa.gov/dfw/score/score/images/noaa_logo.png",
 		"revision_id": "c6d43080-22e1-405e-a83d-f2a512d9e867",
 		"type": "organization",
 		"id": "e811f0b4-451f-4896-9e8f-fc6802837819",
@@ -288,7 +288,7 @@
 	},
 	{
 		"key": "coupled-resource",
-		"value": "[{\"href\": [\"#DataIdentification\"], \"uuid\": [], \"title\": []}, {\"href\": [\"#DataIdentification\"], \"uuid\": [], \"title\": []}]"
+		"value": "[{"href": ["#DataIdentification"], "uuid": [], "title": []}, {"href": ["#DataIdentification"], "uuid": [], "title": []}]"
 	},
 	{
 		"key": "guid",
@@ -308,7 +308,7 @@
 	},
 	{
 		"key": "spatial",
-		"value": "{\"type\": \"Polygon\", \"coordinates\": [[[-157.9299, 21.0221], [-157.7608, 21.0221], [-157.7608, 21.2972], [-157.9299, 21.2972], [-157.9299, 21.0221]]]}"
+		"value": "{"type": "Polygon", "coordinates": [[[-157.9299, 21.0221], [-157.7608, 21.0221], [-157.7608, 21.2972], [-157.9299, 21.2972], [-157.9299, 21.0221]]]}"
 	},
 	{
 		"key": "progress",
@@ -336,7 +336,7 @@
 	},
 	{
 		"key": "dataset-reference-date",
-		"value": "[{\"type\": \"creation\", \"value\": \"2015-11-10\"}]"
+		"value": "[{"type": "creation", "value": "2015-11-10"}]"
 	},
 	{
 		"key": "frequency-of-update",
@@ -352,7 +352,7 @@
 	},
 	{
 		"key": "responsible-party",
-		"value": "[{\"name\": \"University of Hawaii\", \"roles\": [\"pointOfContact\"]}]"
+		"value": "[{"name": "University of Hawaii", "roles": ["pointOfContact"]}]"
 	},
 	{
 		"key": "temporal-extent-end",
@@ -368,7 +368,7 @@
 	},
 	{
 		"key": "tags",
-		"value": "water pressure, ocean temperature, sea_water_temperature, longitude, density, oceans, sea_water_salinity, pacific islands ocean observing system (pacioos) (http:\/\/pacioos.org), salinity, sea_water_density, depth, sea_water_electrical_conductivity, water temperature, time, latitude, ocean pressure, earth science, sea_water_pressure, salinity\/density, conductivity",
+		"value": "water pressure, ocean temperature, sea_water_temperature, longitude, density, oceans, sea_water_salinity, pacific islands ocean observing system (pacioos) (http://pacioos.org), salinity, sea_water_density, depth, sea_water_electrical_conductivity, water temperature, time, latitude, ocean pressure, earth science, sea_water_pressure, salinity/density, conductivity",
 		"__extras": {
 			"revision_id": "5c4bb3fe-ecf0-4fe0-8370-7fa65d876d56",
 			"package_id": "a9b26bef-3453-4f1a-a116-502f1e07ed11"

@@ -37,7 +37,7 @@
 		"cache_url": null,
 		"name": "TIFF Image File",
 		"created": "2015-09-26T20:07:51.726346",
-		"url": "http:\/\/maps.csc.noaa.gov\/dataviewer",
+		"url": "http://maps.csc.noaa.gov/dataviewer",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 0,
@@ -67,7 +67,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2015-09-26T20:07:51.726369",
-		"url": "http:\/\/maps.csc.noaa.gov\/dataviewer",
+		"url": "http://maps.csc.noaa.gov/dataviewer",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 1,
@@ -87,11 +87,11 @@
 	"name": "coastal-virginia-to-coastal-north-carolina-rgb-aerial-photography-integrated-ocean-and-coastal-",
 	"isopen": false,
 	"url": null,
-	"notes": "Integrated Ocean and Coastal Mapping Product (IOCM). The images were acquired from a nominal altitude of 7,500 feet above ground level (AGL), using an Applanix Digital Sensor System (DSS). Imagery products are true color (RGB) and infrared (IR) images. The IR images were acquired with a 850 nm cut on filter. Images have been orthorectified and mosaiced to produce a seamless data set. For information about combining the IR image and the RGB image into a 4 band NIR image, please download the IOCM Band Stack Guide document at this link: ftp:\/\/www.csc.noaa.gov\/temp\/metadata_supp",
+	"notes": "Integrated Ocean and Coastal Mapping Product (IOCM). The images were acquired from a nominal altitude of 7,500 feet above ground level (AGL), using an Applanix Digital Sensor System (DSS). Imagery products are true color (RGB) and infrared (IR) images. The IR images were acquired with a 850 nm cut on filter. Images have been orthorectified and mosaiced to produce a seamless data set. For information about combining the IR image and the RGB image into a 4 band NIR image, please download the IOCM Band Stack Guide document at this link: ftp://www.csc.noaa.gov/temp/metadata_supp",
 	"license_title": null,
 	"extras": [{
 		"key": "bbox-east-long",
-		"value": "-75.35138\n"
+		"value": "-75.35138n"
 	},
 	{
 		"key": "resource-type",
@@ -99,7 +99,7 @@
 	},
 	{
 		"key": "bbox-north-lat",
-		"value": "37.03027\n"
+		"value": "37.03027n"
 	},
 	{
 		"key": "coupled-resource",
@@ -115,7 +115,7 @@
 	},
 	{
 		"key": "bbox-south-lat",
-		"value": "35.06361\n"
+		"value": "35.06361n"
 	},
 	{
 		"key": "spatial-reference-system",
@@ -123,7 +123,7 @@
 	},
 	{
 		"key": "spatial",
-		"value": "{\"type\": \"Polygon\", \"coordinates\": [[[-76.24472, 35.06361], [-75.35138, 35.06361], [-75.35138, 37.03027], [-76.24472, 37.03027], [-76.24472, 35.06361]]]}"
+		"value": "{"type": "Polygon", "coordinates": [[[-76.24472, 35.06361], [-75.35138, 35.06361], [-75.35138, 37.03027], [-76.24472, 37.03027], [-76.24472, 35.06361]]]}"
 	},
 	{
 		"key": "progress",
@@ -131,7 +131,7 @@
 	},
 	{
 		"key": "access_constraints",
-		"value": "[\"Use Constraints: We request that you credit the National Oceanic and Atmospheric Administration (NOAA) when you use these photos in a report, publication, or presentation.\", \"Access Constraints: None\"]"
+		"value": "["Use Constraints: We request that you credit the National Oceanic and Atmospheric Administration (NOAA) when you use these photos in a report, publication, or presentation.", "Access Constraints: None"]"
 	},
 	{
 		"key": "temporal-extent-begin",
@@ -143,7 +143,7 @@
 	},
 	{
 		"key": "bbox-west-long",
-		"value": "-76.24472\n"
+		"value": "-76.24472n"
 	},
 	{
 		"key": "metadata-date",
@@ -151,7 +151,7 @@
 	},
 	{
 		"key": "dataset-reference-date",
-		"value": "[{\"type\": \"publication\", \"value\": \"2010-03-05\"}]"
+		"value": "[{"type": "publication", "value": "2010-03-05"}]"
 	},
 	{
 		"key": "frequency-of-update",
@@ -159,7 +159,7 @@
 	},
 	{
 		"key": "licence",
-		"value": "[\"These photographs were obtained for use by NGS during the course of its development of potential final products to fulfill its statutory mission. Although NGS is making these photographs available to others who may find the photographs of value, NGS does not warrant, endorse, or recommend the use of these photographs for any given purpose. NGS is providing these photographs \\\"as is,\\\" and NGS disclaims any and all warranties, whether expressed or implied, including (without limitation) any implied warranties of merchantability or fitness for a particular purpose. In no event will NGS be liable to you or any third party for any direct, indirect, incidental, consequential, special, or exemplary damages or lost profits resulting from any use or misuse of these data.\\n\"]"
+		"value": "["These photographs were obtained for use by NGS during the course of its development of potential final products to fulfill its statutory mission. Although NGS is making these photographs available to others who may find the photographs of value, NGS does not warrant, endorse, or recommend the use of these photographs for any given purpose. NGS is providing these photographs \"as is,\" and NGS disclaims any and all warranties, whether expressed or implied, including (without limitation) any implied warranties of merchantability or fitness for a particular purpose. In no event will NGS be liable to you or any third party for any direct, indirect, incidental, consequential, special, or exemplary damages or lost profits resulting from any use or misuse of these data.\n"]"
 	},
 	{
 		"key": "metadata_type",
@@ -167,7 +167,7 @@
 	},
 	{
 		"key": "responsible-party",
-		"value": "[{\"name\": \"National Oceanic and Atmospheric Administration (NOAA), National Ocean Service (NOS), National Geodetic Survey (NGS), Remote Sensing Division\", \"roles\": [\"pointOfContact\"]}]"
+		"value": "[{"name": "National Oceanic and Atmospheric Administration (NOAA), National Ocean Service (NOS), National Geodetic Survey (NGS), Remote Sensing Division", "roles": ["pointOfContact"]}]"
 	},
 	{
 		"key": "temporal-extent-end",
@@ -183,7 +183,7 @@
 	},
 	{
 		"package_id": "87b7c7b9-aeea-41d4-826a-044d1d227b1e",
-		"value": "remotely sensed imagery\/photography, photography, aerial, virginia, north carolina",
+		"value": "remotely sensed imagery/photography, photography, aerial, virginia, north carolina",
 		"revision_timestamp": "2015-09-27T00:07:51.663301",
 		"state": "active",
 		"key": "tags",
@@ -213,7 +213,7 @@
 		"revision_timestamp": "2013-03-25T23:05:12.923863",
 		"is_organization": true,
 		"state": "active",
-		"image_url": "https:\/\/fortress.wa.gov\/dfw\/score\/score\/images\/noaa_logo.png",
+		"image_url": "https://fortress.wa.gov/dfw/score/score/images/noaa_logo.png",
 		"revision_id": "c6d43080-22e1-405e-a83d-f2a512d9e867",
 		"type": "organization",
 		"id": "e811f0b4-451f-4896-9e8f-fc6802837819",

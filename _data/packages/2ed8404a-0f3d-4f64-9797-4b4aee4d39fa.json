@@ -36,7 +36,7 @@
 		"cache_url": null,
 		"name": "GCMD Feedback Form",
 		"created": "2016-08-15T16:26:56.470423",
-		"url": "http:\/\/gcmd.nasa.gov\/MailComments\/MailComments.jsf?rcpt=gcmduso",
+		"url": "http://gcmd.nasa.gov/MailComments/MailComments.jsf?rcpt=gcmduso",
 		"webstore_url": null,
 		"resource_locator_function": "information",
 		"position": 0,
@@ -65,7 +65,7 @@
 		"cache_url": null,
 		"name": "GCMD's Science Keywords and Associated Directory Keywords",
 		"created": "2016-08-15T16:26:56.470452",
-		"url": "http:\/\/gcmd.nasa.gov\/learn\/keyword_list.html",
+		"url": "http://gcmd.nasa.gov/learn/keyword_list.html",
 		"webstore_url": null,
 		"resource_locator_function": "information",
 		"position": 1,
@@ -85,7 +85,7 @@
 	"name": "geomagnetic-observatory-annual-means-data",
 	"isopen": false,
 	"url": null,
-	"notes": "The NOAA National Centers for Environmental Information (formerly National Geophysical Data Center) \/ World Data Center, Boulder maintains an active database of worldwide geomagnetic observatory data. Historically, magnetic observatories were established to monitor the secular change (variation), of the Earth's magnetic field, and this remains one of their most important functions. This generally involves absolute measurements sufficient in number to monitor instrumental drift and to produce annual means. While the current global network of geomagnetic observatories involves over 70 countries operating more than 200 observatories, the historic database includes observations from more than 600 observatories since the early 1800s. The magnetic observatory data are crucial to the studies of secular change, investigations into the Earth's interior, navigation, communication, and to global modeling efforts. The Earth's magnetic field is described by seven parameters. These are declination (D), inclination (I), horizontal intensity (H), vertical intensity (Z), total intensity (F) and the north (X) and east (Y) components of the horizontal intensity. By convention, declination is considered positive when measured east of north, inclination and vertical intensity positive down, X positive north, and Y positive east. The magnetic field observed on Earth is constantly changing.",
+	"notes": "The NOAA National Centers for Environmental Information (formerly National Geophysical Data Center) / World Data Center, Boulder maintains an active database of worldwide geomagnetic observatory data. Historically, magnetic observatories were established to monitor the secular change (variation), of the Earth's magnetic field, and this remains one of their most important functions. This generally involves absolute measurements sufficient in number to monitor instrumental drift and to produce annual means. While the current global network of geomagnetic observatories involves over 70 countries operating more than 200 observatories, the historic database includes observations from more than 600 observatories since the early 1800s. The magnetic observatory data are crucial to the studies of secular change, investigations into the Earth's interior, navigation, communication, and to global modeling efforts. The Earth's magnetic field is described by seven parameters. These are declination (D), inclination (I), horizontal intensity (H), vertical intensity (Z), total intensity (F) and the north (X) and east (Y) components of the horizontal intensity. By convention, declination is considered positive when measured east of north, inclination and vertical intensity positive down, X positive north, and Y positive east. The magnetic field observed on Earth is constantly changing.",
 	"license_title": null,
 	"extras": [{
 		"key": "bbox-east-long",
@@ -121,7 +121,7 @@
 	},
 	{
 		"key": "spatial",
-		"value": "{\"type\": \"Polygon\", \"coordinates\": [[[-180.0, -89.0], [180.0, -89.0], [180.0, 89.0], [-180.0, 89.0], [-180.0, -89.0]]]}"
+		"value": "{"type": "Polygon", "coordinates": [[[-180.0, -89.0], [180.0, -89.0], [180.0, 89.0], [-180.0, 89.0], [-180.0, -89.0]]]}"
 	},
 	{
 		"key": "progress",
@@ -129,7 +129,7 @@
 	},
 	{
 		"key": "access_constraints",
-		"value": "[\"Use Constraints: Please site the providers of the data when using these data.\", \"Access Constraints: This data is in the public domain and freely accessible.\"]"
+		"value": "["Use Constraints: Please site the providers of the data when using these data.", "Access Constraints: This data is in the public domain and freely accessible."]"
 	},
 	{
 		"key": "temporal-extent-begin",
@@ -149,7 +149,7 @@
 	},
 	{
 		"key": "dataset-reference-date",
-		"value": "[{\"type\": \"publication\", \"value\": \"2006-01-01\"}]"
+		"value": "[{"type": "publication", "value": "2006-01-01"}]"
 	},
 	{
 		"key": "frequency-of-update",
@@ -165,7 +165,7 @@
 	},
 	{
 		"key": "responsible-party",
-		"value": "[{\"name\": \"DOC\/NOAA\/NESDIS\/NCEI > National Centers for Environmental Information, NESDIS, NOAA, U.S. Department of Commerce\", \"roles\": [\"pointOfContact\"]}]"
+		"value": "[{"name": "DOC/NOAA/NESDIS/NCEI > National Centers for Environmental Information, NESDIS, NOAA, U.S. Department of Commerce", "roles": ["pointOfContact"]}]"
 	},
 	{
 		"key": "spatial-data-service-type",
@@ -177,7 +177,7 @@
 	},
 	{
 		"package_id": "2ed8404a-0f3d-4f64-9797-4b4aee4d39fa",
-		"value": "sun-earth interactions, magnetic intensity, solid earth, solar activity, geomagnetism, magnetic field, magnetic declination, doc\/noaa\/nesdis\/ngdc, national centers for environmental information, nesdis, noaa, u.s. department of commerce, doc\/noaa\/nesdis\/ncei, magnetic inclination, reference fields, national geophysical data center, nesdis, noaa, u.s. department of commerce, earth science",
+		"value": "sun-earth interactions, magnetic intensity, solid earth, solar activity, geomagnetism, magnetic field, magnetic declination, doc/noaa/nesdis/ngdc, national centers for environmental information, nesdis, noaa, u.s. department of commerce, doc/noaa/nesdis/ncei, magnetic inclination, reference fields, national geophysical data center, nesdis, noaa, u.s. department of commerce, earth science",
 		"revision_timestamp": "2016-08-15T20:26:56.335974",
 		"state": "active",
 		"key": "tags",
@@ -207,7 +207,7 @@
 		"revision_timestamp": "2013-03-25T23:05:12.923863",
 		"is_organization": true,
 		"state": "active",
-		"image_url": "https:\/\/fortress.wa.gov\/dfw\/score\/score\/images\/noaa_logo.png",
+		"image_url": "https://fortress.wa.gov/dfw/score/score/images/noaa_logo.png",
 		"revision_id": "c6d43080-22e1-405e-a83d-f2a512d9e867",
 		"type": "organization",
 		"id": "e811f0b4-451f-4896-9e8f-fc6802837819",

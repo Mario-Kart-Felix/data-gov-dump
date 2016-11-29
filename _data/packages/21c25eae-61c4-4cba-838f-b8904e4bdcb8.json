@@ -36,7 +36,7 @@
 		"cache_url": null,
 		"name": "View Imagery in an Online Web Map",
 		"created": "2016-07-15T21:35:02.241872",
-		"url": "http:\/\/www.arcgis.com\/home\/webmap\/viewer.html?url=http:\/\/cloud.insideidaho.org\/arcgis\/rest\/services\/imageryBaseMapsEarthCover\/1992_1m_idaho\/ImageServer&source=sd",
+		"url": "http://www.arcgis.com/home/webmap/viewer.html?url=http://cloud.insideidaho.org/arcgis/rest/services/imageryBaseMapsEarthCover/1992_1m_idaho/ImageServer&source=sd",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 0,
@@ -65,7 +65,7 @@
 		"cache_url": null,
 		"name": "View Imagery in Google Earth",
 		"created": "2016-07-15T21:35:02.241904",
-		"url": "http:\/\/cloud.insideidaho.org\/arcgis\/rest\/services\/imageryBaseMapsEarthCover\/1992_1m_idaho\/ImageServer\/kml\/mapImage.kmz",
+		"url": "http://cloud.insideidaho.org/arcgis/rest/services/imageryBaseMapsEarthCover/1992_1m_idaho/ImageServer/kml/mapImage.kmz",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 1,
@@ -94,7 +94,7 @@
 		"cache_url": null,
 		"name": "View Imagery in ArcMap",
 		"created": "2016-07-15T21:35:02.241915",
-		"url": "http:\/\/cloud.insideidaho.org\/arcgis\/rest\/services\/imageryBaseMapsEarthCover\/1992_1m_idaho\/ImageServer?f=lyr&v=9.3",
+		"url": "http://cloud.insideidaho.org/arcgis/rest/services/imageryBaseMapsEarthCover/1992_1m_idaho/ImageServer?f=lyr&v=9.3",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 2,
@@ -123,7 +123,7 @@
 		"cache_url": null,
 		"name": "View ArcGIS Server Service Description Information",
 		"created": "2016-07-15T21:35:02.241923",
-		"url": "http:\/\/cloud.insideidaho.org\/ArcGIS\/rest\/services\/imageryBaseMapsEarthCover\/1992_1m_idaho\/ImageServer",
+		"url": "http://cloud.insideidaho.org/ArcGIS/rest/services/imageryBaseMapsEarthCover/1992_1m_idaho/ImageServer",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 3,
@@ -152,7 +152,7 @@
 		"cache_url": null,
 		"name": "Download Individual Image Tiles Using an Online Map",
 		"created": "2016-07-15T21:35:02.241931",
-		"url": "http:\/\/cloud.insideidaho.org\/webMaps\/flash\/tiledownload\/index.html?collection=orthoimagery&layerName=1992-2001_1m_Idaho",
+		"url": "http://cloud.insideidaho.org/webMaps/flash/tiledownload/index.html?collection=orthoimagery&layerName=1992-2001_1m_Idaho",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 4,
@@ -181,7 +181,7 @@
 		"cache_url": null,
 		"name": "View OGC Web Map Service (WMS) Description Information",
 		"created": "2016-07-15T21:35:02.241938",
-		"url": "http:\/\/cloud.insideidaho.org\/ArcGIS\/services\/imageryBaseMapsEarthCover\/1992_1m_idaho\/ImageServer\/WMSServer?request=GetCapabilities&service=WMS",
+		"url": "http://cloud.insideidaho.org/ArcGIS/services/imageryBaseMapsEarthCover/1992_1m_idaho/ImageServer/WMSServer?request=GetCapabilities&service=WMS",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 5,
@@ -210,7 +210,7 @@
 		"cache_url": null,
 		"name": "View OGC Web Coverage Service (WCS) Description Information",
 		"created": "2016-07-15T21:35:02.241945",
-		"url": "http:\/\/cloud.insideidaho.org\/ArcGIS\/services\/imageryBaseMapsEarthCover\/1992_1m_idaho\/ImageServer\/WCSServer?request=GetCapabilities&service=WCS",
+		"url": "http://cloud.insideidaho.org/ArcGIS/services/imageryBaseMapsEarthCover/1992_1m_idaho/ImageServer/WCSServer?request=GetCapabilities&service=WCS",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 6,
@@ -232,7 +232,7 @@
 		"revision_timestamp": "2015-01-16T18:28:14.593903",
 		"is_organization": true,
 		"state": "active",
-		"image_url": "http:\/\/upload.wikimedia.org\/wikipedia\/en\/thumb\/4\/44\/University_of_Idaho_seal.svg\/300px-University_of_Idaho_seal.svg.png",
+		"image_url": "http://upload.wikimedia.org/wikipedia/en/thumb/4/44/University_of_Idaho_seal.svg/300px-University_of_Idaho_seal.svg.png",
 		"revision_id": "761955d7-9530-4622-8609-d0b01c78e177",
 		"type": "organization",
 		"id": "75e22a8a-da5f-46f3-93d8-924063a3703d",
@@ -279,7 +279,7 @@
 	},
 	{
 		"key": "spatial",
-		"value": "{\"type\": \"Polygon\", \"coordinates\": [[[-119.3, 40.6], [-108.9, 40.6], [-108.9, 49.3], [-119.3, 49.3], [-119.3, 40.6]]]}"
+		"value": "{"type": "Polygon", "coordinates": [[[-119.3, 40.6], [-108.9, 40.6], [-108.9, 49.3], [-119.3, 49.3], [-119.3, 40.6]]]}"
 	},
 	{
 		"key": "progress",
@@ -287,7 +287,7 @@
 	},
 	{
 		"key": "access_constraints",
-		"value": "[\"Use Constraints: None\", \"Access Constraints: None\"]"
+		"value": "["Use Constraints: None", "Access Constraints: None"]"
 	},
 	{
 		"key": "temporal-extent-begin",
@@ -307,7 +307,7 @@
 	},
 	{
 		"key": "dataset-reference-date",
-		"value": "[{\"type\": \"publication\", \"value\": \"1998-12-04\"}]"
+		"value": "[{"type": "publication", "value": "1998-12-04"}]"
 	},
 	{
 		"key": "frequency-of-update",
@@ -315,7 +315,7 @@
 	},
 	{
 		"key": "licence",
-		"value": "[\"Although these data have been processed successfully on a computer system at the Idaho Geospatial Data Clearinghouse, no warranty, expressed or implied, is made regarding the utility of the data on any other system, nor shall the act of distribution constitute any such warranty. \"]"
+		"value": "["Although these data have been processed successfully on a computer system at the Idaho Geospatial Data Clearinghouse, no warranty, expressed or implied, is made regarding the utility of the data on any other system, nor shall the act of distribution constitute any such warranty. "]"
 	},
 	{
 		"key": "metadata_type",
@@ -323,7 +323,7 @@
 	},
 	{
 		"key": "responsible-party",
-		"value": "[{\"name\": \"Idaho Geospatial Data Clearinghouse\", \"roles\": [\"pointOfContact\"]}]"
+		"value": "[{"name": "Idaho Geospatial Data Clearinghouse", "roles": ["pointOfContact"]}]"
 	},
 	{
 		"key": "temporal-extent-end",

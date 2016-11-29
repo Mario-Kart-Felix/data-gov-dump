@@ -36,7 +36,7 @@
 		"cache_url": null,
 		"name": "Downloadable File (pdf) Geothermal Gradient Map of Ohio and Contiguous Regions",
 		"created": "2013-03-16T01:41:38.468161",
-		"url": "ftp:\/\/ftp.dnr.state.oh.us\/Geological_Survey\/Geothermal\/Maps\/OHGRAD.pdf",
+		"url": "ftp://ftp.dnr.state.oh.us/Geological_Survey/Geothermal/Maps/OHGRAD.pdf",
 		"webstore_url": null,
 		"resource_locator_function": "375",
 		"position": 0,
@@ -69,11 +69,11 @@
 	"name": "geothermal-gradient-map-of-ohio-and-contiguous-regions",
 	"isopen": false,
 	"url": null,
-	"notes": "Corrected BHT data (Bottom-hole temperature locations and Krieged BHT map for Ohio and contiguous region) were used to estimate geothermal gradients for Ohio and contiguous regions.  Data points are color- and size- coded for geothermal gradient (deg C\/km), which is the change in temperature with depth.  Also given is the color contours from Krieged geothermal gradient values. This resource is available online as a downloadable file. For more information see links provided. ",
+	"notes": "Corrected BHT data (Bottom-hole temperature locations and Krieged BHT map for Ohio and contiguous region) were used to estimate geothermal gradients for Ohio and contiguous regions.  Data points are color- and size- coded for geothermal gradient (deg C/km), which is the change in temperature with depth.  Also given is the color contours from Krieged geothermal gradient values. This resource is available online as a downloadable file. For more information see links provided. ",
 	"license_title": null,
 	"extras": [{
 		"key": "responsible-party",
-		"value": "[{\"name\": \"Arizona Geological Survey\", \"roles\": [\"pointOfContact\"]}]"
+		"value": "[{"name": "Arizona Geological Survey", "roles": ["pointOfContact"]}]"
 	},
 	{
 		"key": "contact-email",
@@ -93,7 +93,7 @@
 	},
 	{
 		"key": "dataset-reference-date",
-		"value": "[{\"type\": \"publication\", \"value\": \"1900-01-01T00:00:00\"}]"
+		"value": "[{"type": "publication", "value": "1900-01-01T00:00:00"}]"
 	},
 	{
 		"key": "resource-type",
@@ -129,7 +129,7 @@
 	},
 	{
 		"key": "spatial",
-		"value": "{\"type\": \"Polygon\", \"coordinates\": [[[-84.918404, 38.380262], [-84.918404, 41.993618], [-80.480189, 41.993618], [-80.480189, 38.380262], [-84.918404, 38.380262]]]}"
+		"value": "{"type": "Polygon", "coordinates": [[[-84.918404, 38.380262], [-84.918404, 41.993618], [-80.480189, 41.993618], [-80.480189, 38.380262], [-84.918404, 38.380262]]]}"
 	},
 	{
 		"key": "guid",
@@ -179,7 +179,7 @@
 		"revision_timestamp": "2013-03-20T21:11:17.592932",
 		"is_organization": true,
 		"state": "active",
-		"image_url": "http:\/\/www.50states.com\/flag\/image\/nunst004.gif",
+		"image_url": "http://www.50states.com/flag/image/nunst004.gif",
 		"revision_id": "61be6428-4398-4199-a336-f3cd1e956f9b",
 		"type": "organization",
 		"id": "f3f6e1d4-64fb-4a2f-b32c-9ac0b76fe4de",

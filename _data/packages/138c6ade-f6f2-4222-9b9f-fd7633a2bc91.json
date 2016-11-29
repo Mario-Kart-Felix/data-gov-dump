@@ -36,7 +36,7 @@
 		"cache_url": null,
 		"name": "Index of Hourly AE Index",
 		"created": "2015-10-06T17:48:40.645545",
-		"url": "ftp:\/\/ftp.ngdc.noaa.gov\/STP\/GEOMAGNETIC_DATA\/INDICES\/AURORAL_ELECTROJET\/HOURLY\/",
+		"url": "ftp://ftp.ngdc.noaa.gov/STP/GEOMAGNETIC_DATA/INDICES/AURORAL_ELECTROJET/HOURLY/",
 		"webstore_url": null,
 		"resource_locator_function": "download",
 		"position": 0,
@@ -66,7 +66,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2015-10-06T17:48:40.645565",
-		"url": "ftp:\/\/ftp.ngdc.noaa.gov\/STP\/GEOMAGNETIC_DATA\/INDICES\/AURORAL_ELECTROJET\/HOURLY\/",
+		"url": "ftp://ftp.ngdc.noaa.gov/STP/GEOMAGNETIC_DATA/INDICES/AURORAL_ELECTROJET/HOURLY/",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 1,
@@ -95,7 +95,7 @@
 		"cache_url": null,
 		"name": "Surface Geomagnetic Data",
 		"created": "2015-10-06T17:48:40.645573",
-		"url": "http:\/\/www.ngdc.noaa.gov\/geomag\/operobs.shtml",
+		"url": "http://www.ngdc.noaa.gov/geomag/operobs.shtml",
 		"webstore_url": null,
 		"resource_locator_function": "information",
 		"position": 2,
@@ -124,7 +124,7 @@
 		"cache_url": null,
 		"name": "GCMD Feedback Form",
 		"created": "2015-10-06T17:48:40.645580",
-		"url": "http:\/\/gcmd.nasa.gov\/MailComments\/MailComments.jsf?rcpt=gcmduso",
+		"url": "http://gcmd.nasa.gov/MailComments/MailComments.jsf?rcpt=gcmduso",
 		"webstore_url": null,
 		"resource_locator_function": "information",
 		"position": 3,
@@ -153,7 +153,7 @@
 		"cache_url": null,
 		"name": "GCMD Keywords Page",
 		"created": "2015-10-06T17:48:40.645587",
-		"url": "http:\/\/gcmd.nasa.gov\/learn\/keyword_list.html",
+		"url": "http://gcmd.nasa.gov/learn/keyword_list.html",
 		"webstore_url": null,
 		"resource_locator_function": "information",
 		"position": 4,
@@ -182,7 +182,7 @@
 		"cache_url": null,
 		"name": "GCMD Feedback Form",
 		"created": "2015-10-06T17:48:40.645594",
-		"url": "http:\/\/gcmd.nasa.gov\/MailComments\/MailComments.jsf?rcpt=gcmduso",
+		"url": "http://gcmd.nasa.gov/MailComments/MailComments.jsf?rcpt=gcmduso",
 		"webstore_url": null,
 		"resource_locator_function": "information",
 		"position": 5,
@@ -211,7 +211,7 @@
 		"cache_url": null,
 		"name": "GCMD Keywords Page",
 		"created": "2015-10-06T17:48:40.645600",
-		"url": "http:\/\/gcmd.nasa.gov\/learn\/keyword_list.html",
+		"url": "http://gcmd.nasa.gov/learn/keyword_list.html",
 		"webstore_url": null,
 		"resource_locator_function": "information",
 		"position": 6,
@@ -231,7 +231,7 @@
 	"name": "auroral-electrojet-index-designed-to-provide-a-global-measure-hourly-intervals-of-auroral-zone-",
 	"isopen": false,
 	"url": null,
-	"notes": "The Auroral Electrojet (AE) index is designed to provide a global quantitative measure of auroral zone magnetic activity produced by enhanced ionospheric currents flowing below and within the auroral oval. Ideally, it is the total range of deviation at an instant of time from quiet day values of the horizontal magnetic field (H) around the auroral oval. The hourly AE, AL, AU, and AO indices were derived from hourly scaled values of magnetic horizontal\n                    intensity or the means of indices measured at finer sample increments (2.5 or 1.0-minute). These indices are derived from a network of geomagnetic observations that encircle the northern auroral oval.",
+	"notes": "The Auroral Electrojet (AE) index is designed to provide a global quantitative measure of auroral zone magnetic activity produced by enhanced ionospheric currents flowing below and within the auroral oval. Ideally, it is the total range of deviation at an instant of time from quiet day values of the horizontal magnetic field (H) around the auroral oval. The hourly AE, AL, AU, and AO indices were derived from hourly scaled values of magnetic horizontaln                    intensity or the means of indices measured at finer sample increments (2.5 or 1.0-minute). These indices are derived from a network of geomagnetic observations that encircle the northern auroral oval.",
 	"license_title": null,
 	"extras": [{
 		"key": "bbox-east-long",
@@ -267,7 +267,7 @@
 	},
 	{
 		"key": "spatial",
-		"value": "{\"type\": \"Polygon\", \"coordinates\": [[[-180.0, -90.0], [180.0, -90.0], [180.0, 90.0], [-180.0, 90.0], [-180.0, -90.0]]]}"
+		"value": "{"type": "Polygon", "coordinates": [[[-180.0, -90.0], [180.0, -90.0], [180.0, 90.0], [-180.0, 90.0], [-180.0, -90.0]]]}"
 	},
 	{
 		"key": "progress",
@@ -275,7 +275,7 @@
 	},
 	{
 		"key": "access_constraints",
-		"value": "[\"Use Constraints: None\", \"Access Constraints: No Constraints\"]"
+		"value": "["Use Constraints: None", "Access Constraints: No Constraints"]"
 	},
 	{
 		"key": "temporal-extent-begin",
@@ -295,7 +295,7 @@
 	},
 	{
 		"key": "dataset-reference-date",
-		"value": "[{\"type\": \"publication\", \"value\": \"1965-01-01\"}]"
+		"value": "[{"type": "publication", "value": "1965-01-01"}]"
 	},
 	{
 		"key": "frequency-of-update",
@@ -303,7 +303,7 @@
 	},
 	{
 		"key": "licence",
-		"value": "[\"While every effort has been made to ensure that these data are accurate and reliable within the limits of the current state of the art, NOAA cannot assume liability for any damages caused by any errors or omissions in the data.\"]"
+		"value": "["While every effort has been made to ensure that these data are accurate and reliable within the limits of the current state of the art, NOAA cannot assume liability for any damages caused by any errors or omissions in the data."]"
 	},
 	{
 		"key": "metadata_type",
@@ -311,7 +311,7 @@
 	},
 	{
 		"key": "responsible-party",
-		"value": "[{\"name\": \"DOC\/NOAA\/NESDIS\/NCEI > National Centers for Environmental Information, NESDIS, NOAA, U.S. Department of Commerce\", \"roles\": [\"pointOfContact\"]}]"
+		"value": "[{"name": "DOC/NOAA/NESDIS/NCEI > National Centers for Environmental Information, NESDIS, NOAA, U.S. Department of Commerce", "roles": ["pointOfContact"]}]"
 	},
 	{
 		"key": "spatial-data-service-type",
@@ -323,7 +323,7 @@
 	},
 	{
 		"package_id": "138c6ade-f6f2-4222-9b9f-fd7633a2bc91",
-		"value": "national centers for environmental information, nesdis, noaa, u.s. department of commerce, indices, ae, solid earth, doc\/noaa\/nesdis\/ngdc, geomagnetic indices, geomagnetism, global, space physics, icsu-wds, doc\/noaa\/nesdis\/ncei, magnetospheric science, national geophysical data center, nesdis, noaa, u.s. department of commerce, international council for science - world data system, earth science",
+		"value": "national centers for environmental information, nesdis, noaa, u.s. department of commerce, indices, ae, solid earth, doc/noaa/nesdis/ngdc, geomagnetic indices, geomagnetism, global, space physics, icsu-wds, doc/noaa/nesdis/ncei, magnetospheric science, national geophysical data center, nesdis, noaa, u.s. department of commerce, international council for science - world data system, earth science",
 		"revision_timestamp": "2015-10-06T21:48:40.563883",
 		"state": "active",
 		"key": "tags",
@@ -353,7 +353,7 @@
 		"revision_timestamp": "2013-03-25T23:05:12.923863",
 		"is_organization": true,
 		"state": "active",
-		"image_url": "https:\/\/fortress.wa.gov\/dfw\/score\/score\/images\/noaa_logo.png",
+		"image_url": "https://fortress.wa.gov/dfw/score/score/images/noaa_logo.png",
 		"revision_id": "c6d43080-22e1-405e-a83d-f2a512d9e867",
 		"type": "organization",
 		"id": "e811f0b4-451f-4896-9e8f-fc6802837819",

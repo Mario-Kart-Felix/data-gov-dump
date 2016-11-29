@@ -37,7 +37,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2016-05-31T04:30:41.158515",
-		"url": "https:\/\/coast.noaa.gov\/dataviewer\/#\/lidar\/search\/where:ID=2523",
+		"url": "https://coast.noaa.gov/dataviewer/#/lidar/search/where:ID=2523",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 0,
@@ -67,7 +67,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2016-05-31T04:30:41.158567",
-		"url": "https:\/\/coast.noaa.gov\/htdata\/lidar1_z\/geoid12a\/data\/2523",
+		"url": "https://coast.noaa.gov/htdata/lidar1_z/geoid12a/data/2523",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 1,
@@ -97,7 +97,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2016-05-31T04:30:41.158590",
-		"url": "https:\/\/coast.noaa.gov\/dataviewer",
+		"url": "https://coast.noaa.gov/dataviewer",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 2,
@@ -127,7 +127,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2016-05-31T04:30:41.158611",
-		"url": "https:\/\/coast.noaa.gov",
+		"url": "https://coast.noaa.gov",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 3,
@@ -147,7 +147,7 @@
 	"name": "2007-california-department-of-water-resources-topographic-lidar-san-joaquin-delta69728",
 	"isopen": false,
 	"url": null,
-	"notes": "These data are from LIDAR flights of the Sacramento-San Joaquin Delta conducted during late January and February of 2007. The work was conducted under contract issued by California Department of Water Resources to URS Corporation. The prime LIDAR creation subcontractor was EarthData International, (later Fugro EarthData), also known as EDI. The principal aerial survey firm under subcontract to EDI was Airborne 1 Corporation. In effect, Airborne 1 performed the aerial survey, and EDI did the processing and deliverables preparation. Also involved in the contract to URS was an independent QA\/QC firm, Spectrum Mapping LLC. The data was delivered to OCM as unclassified, multiple return elevation measurements and intensity in LAS V1.0 format. The NOAA OCM used an unsupervised classification algorithm to classify the data into the following ASPRS classifications: Class 1 (Unclassified), Class 2 (Ground), and Class 7 (Noise) . Class 2 includes bare earth points and water points.",
+	"notes": "These data are from LIDAR flights of the Sacramento-San Joaquin Delta conducted during late January and February of 2007. The work was conducted under contract issued by California Department of Water Resources to URS Corporation. The prime LIDAR creation subcontractor was EarthData International, (later Fugro EarthData), also known as EDI. The principal aerial survey firm under subcontract to EDI was Airborne 1 Corporation. In effect, Airborne 1 performed the aerial survey, and EDI did the processing and deliverables preparation. Also involved in the contract to URS was an independent QA/QC firm, Spectrum Mapping LLC. The data was delivered to OCM as unclassified, multiple return elevation measurements and intensity in LAS V1.0 format. The NOAA OCM used an unsupervised classification algorithm to classify the data into the following ASPRS classifications: Class 1 (Unclassified), Class 2 (Ground), and Class 7 (Noise) . Class 2 includes bare earth points and water points.",
 	"license_title": null,
 	"extras": [{
 		"key": "bbox-east-long",
@@ -175,7 +175,7 @@
 	},
 	{
 		"key": "graphic-preview-file",
-		"value": "https:\/\/coast.noaa.gov\/htdata\/lidar1_z\/geoid12a\/data\/2523\/supplemental\/ca2007_cwdr_sanjoaquindelta_footprint.KMZ"
+		"value": "https://coast.noaa.gov/htdata/lidar1_z/geoid12a/data/2523/supplemental/ca2007_cwdr_sanjoaquindelta_footprint.KMZ"
 	},
 	{
 		"key": "metadata-language",
@@ -191,7 +191,7 @@
 	},
 	{
 		"key": "spatial",
-		"value": "{\"type\": \"Polygon\", \"coordinates\": [[[-122.140593, 37.60116], [-121.182752, 37.60116], [-121.182752, 38.592147], [-122.140593, 38.592147], [-122.140593, 37.60116]]]}"
+		"value": "{"type": "Polygon", "coordinates": [[[-122.140593, 37.60116], [-121.182752, 37.60116], [-121.182752, 38.592147], [-122.140593, 38.592147], [-122.140593, 37.60116]]]}"
 	},
 	{
 		"key": "progress",
@@ -199,7 +199,7 @@
 	},
 	{
 		"key": "access_constraints",
-		"value": "[\"Use Constraints: Users should be aware that temporal changes may have occurred since this data set was collected and some parts of this data may no longer represent actual surface conditions. Users should not use this data for critical applications without a full awareness of its limitations. These data depict the heights at the time of the survey and are only accurate for that time.\", \"Access Constraints: None\"]"
+		"value": "["Use Constraints: Users should be aware that temporal changes may have occurred since this data set was collected and some parts of this data may no longer represent actual surface conditions. Users should not use this data for critical applications without a full awareness of its limitations. These data depict the heights at the time of the survey and are only accurate for that time.", "Access Constraints: None"]"
 	},
 	{
 		"key": "temporal-extent-begin",
@@ -219,7 +219,7 @@
 	},
 	{
 		"key": "dataset-reference-date",
-		"value": "[{\"type\": \"publication\", \"value\": \"2013-08-01\"}]"
+		"value": "[{"type": "publication", "value": "2013-08-01"}]"
 	},
 	{
 		"key": "graphic-preview-description",
@@ -231,7 +231,7 @@
 	},
 	{
 		"key": "licence",
-		"value": "[\"\\nAny conclusions drawn from the analysis of this information are not the responsibility\\nof the California Department of Water Resources, USGS, Fugro EarthData Inc, Airborne 1, Spectrum Mapping Inc, NOAA, the Office for Coastal Management or its partners.\\n\"]"
+		"value": "["\nAny conclusions drawn from the analysis of this information are not the responsibility\nof the California Department of Water Resources, USGS, Fugro EarthData Inc, Airborne 1, Spectrum Mapping Inc, NOAA, the Office for Coastal Management or its partners.\n"]"
 	},
 	{
 		"key": "metadata_type",
@@ -239,7 +239,7 @@
 	},
 	{
 		"key": "responsible-party",
-		"value": "[{\"name\": \"NOAA Office for Coastal Management\", \"roles\": [\"pointOfContact\"]}]"
+		"value": "[{"name": "NOAA Office for Coastal Management", "roles": ["pointOfContact"]}]"
 	},
 	{
 		"key": "temporal-extent-end",
@@ -255,7 +255,7 @@
 	},
 	{
 		"package_id": "e535f7c5-0843-459a-b619-30d02749b197",
-		"value": "san joaquin county, elevation, point cloud, usa, contra costa county, solano county, lidar, san joaquin river delta, sacramento county, california, alameda county, topography\/bathymetry, yolo county, las",
+		"value": "san joaquin county, elevation, point cloud, usa, contra costa county, solano county, lidar, san joaquin river delta, sacramento county, california, alameda county, topography/bathymetry, yolo county, las",
 		"revision_timestamp": "2015-09-27T00:29:29.198357",
 		"state": "active",
 		"key": "tags",
@@ -285,7 +285,7 @@
 		"revision_timestamp": "2013-03-25T23:05:12.923863",
 		"is_organization": true,
 		"state": "active",
-		"image_url": "https:\/\/fortress.wa.gov\/dfw\/score\/score\/images\/noaa_logo.png",
+		"image_url": "https://fortress.wa.gov/dfw/score/score/images/noaa_logo.png",
 		"revision_id": "c6d43080-22e1-405e-a83d-f2a512d9e867",
 		"type": "organization",
 		"id": "e811f0b4-451f-4896-9e8f-fc6802837819",

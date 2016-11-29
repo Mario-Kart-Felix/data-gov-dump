@@ -36,7 +36,7 @@
 		"cache_url": null,
 		"name": "nowCOAST Map Viewer Application",
 		"created": "2016-10-03T17:23:14.480275",
-		"url": "https:\/\/nowcoast.noaa.gov\/",
+		"url": "https://nowcoast.noaa.gov/",
 		"webstore_url": null,
 		"resource_locator_function": "search",
 		"position": 0,
@@ -65,7 +65,7 @@
 		"cache_url": null,
 		"name": "nowCOAST Map Services Information Page",
 		"created": "2016-10-03T17:23:14.480297",
-		"url": "https:\/\/nowcoast.noaa.gov\/help\/#!section=mapservices",
+		"url": "https://nowcoast.noaa.gov/help/#!section=mapservices",
 		"webstore_url": null,
 		"resource_locator_function": "information",
 		"position": 1,
@@ -94,7 +94,7 @@
 		"cache_url": null,
 		"name": "nowCOAST LayerInfo Web Service Information Page",
 		"created": "2016-10-03T17:23:14.480305",
-		"url": "https:\/\/nowcoast.noaa.gov\/help\/#!section=layerinfo",
+		"url": "https://nowcoast.noaa.gov/help/#!section=layerinfo",
 		"webstore_url": null,
 		"resource_locator_function": "information",
 		"position": 2,
@@ -123,7 +123,7 @@
 		"cache_url": null,
 		"name": "nowCOAST 5.0 Transition Guide for ArcGIS Map Services",
 		"created": "2016-10-03T17:23:14.480313",
-		"url": "https:\/\/nowcoast.noaa.gov\/help\/#!section=transitioning",
+		"url": "https://nowcoast.noaa.gov/help/#!section=transitioning",
 		"webstore_url": null,
 		"resource_locator_function": "information",
 		"position": 3,
@@ -152,7 +152,7 @@
 		"cache_url": null,
 		"name": "Map Layer Update Schedule",
 		"created": "2016-10-03T17:23:14.480320",
-		"url": "https:\/\/nowcoast.noaa.gov\/help\/#!section=updateschedule",
+		"url": "https://nowcoast.noaa.gov/help/#!section=updateschedule",
 		"webstore_url": null,
 		"resource_locator_function": "information",
 		"position": 4,
@@ -181,7 +181,7 @@
 		"cache_url": null,
 		"name": "Web Map Service (WMS) GetCapabilities",
 		"created": "2016-10-03T17:23:14.480327",
-		"url": "https:\/\/nowcoast.noaa.gov\/arcgis\/services\/nowcoast\/mapoverlays_political\/MapServer\/WMSServer?request=GetCapabilities%26service=WMS",
+		"url": "https://nowcoast.noaa.gov/arcgis/services/nowcoast/mapoverlays_political/MapServer/WMSServer?request=GetCapabilities%26service=WMS",
 		"webstore_url": null,
 		"resource_locator_function": "download",
 		"position": 5,
@@ -210,7 +210,7 @@
 		"cache_url": null,
 		"name": "nowCOAST mapoverlays_political Map Service",
 		"created": "2016-10-03T17:23:14.480334",
-		"url": "https:\/\/nowcoast.noaa.gov\/arcgis\/rest\/services\/nowcoast\/mapoverlays_political\/MapServer",
+		"url": "https://nowcoast.noaa.gov/arcgis/rest/services/nowcoast/mapoverlays_political/MapServer",
 		"webstore_url": null,
 		"resource_locator_function": "information",
 		"position": 6,
@@ -239,7 +239,7 @@
 		"cache_url": null,
 		"name": "nowCOAST mapoverlays_political Map Service",
 		"created": "2016-10-03T17:23:14.480341",
-		"url": "https:\/\/nowcoast.noaa.gov\/arcgis\/services\/nowcoast\/mapoverlays_political\/MapServer\/WMSServer?request=GetCapabilities%26service=WMS",
+		"url": "https://nowcoast.noaa.gov/arcgis/services/nowcoast/mapoverlays_political/MapServer/WMSServer?request=GetCapabilities%26service=WMS",
 		"webstore_url": null,
 		"resource_locator_function": "download",
 		"position": 7,
@@ -259,7 +259,7 @@
 	"name": "nowcoasts-map-service-for-political-map-overlays",
 	"isopen": false,
 	"url": null,
-	"notes": "Map Information:\n\nThis nowCOAST map service provides map overlays depicting the boundaries of U.S. states, territories, counties and townships\/county subdivisions, Mexican states, Canadian provinces, and U.S. urban areas. It also includes the boundaries of the U.S. National Marine Sanctuaries. This map service is updated when changes are made to the boundaries by the responsible agency.",
+	"notes": "Map Information:nnThis nowCOAST map service provides map overlays depicting the boundaries of U.S. states, territories, counties and townships/county subdivisions, Mexican states, Canadian provinces, and U.S. urban areas. It also includes the boundaries of the U.S. National Marine Sanctuaries. This map service is updated when changes are made to the boundaries by the responsible agency.",
 	"license_title": null,
 	"extras": [{
 		"key": "bbox-east-long",
@@ -287,7 +287,7 @@
 	},
 	{
 		"key": "graphic-preview-file",
-		"value": "https:\/\/nowcoast.noaa.gov\/arcgis\/rest\/services\/nowcoast\/mapoverlays_political\/MapServer\/export?bbox=-1.7240028667140465E7,-465301.5203172704,-4211919.277588348,1.0329720069725916E7&f=image"
+		"value": "https://nowcoast.noaa.gov/arcgis/rest/services/nowcoast/mapoverlays_political/MapServer/export?bbox=-1.7240028667140465E7,-465301.5203172704,-4211919.277588348,1.0329720069725916E7&f=image"
 	},
 	{
 		"key": "bbox-south-lat",
@@ -303,7 +303,7 @@
 	},
 	{
 		"key": "spatial",
-		"value": "{\"type\": \"Polygon\", \"coordinates\": [[[-179.274332424, -15.3861423881], [179.778454744, -15.3861423881], [179.778454744, 83.1106262205], [-179.274332424, 83.1106262205], [-179.274332424, -15.3861423881]]]}"
+		"value": "{"type": "Polygon", "coordinates": [[[-179.274332424, -15.3861423881], [179.778454744, -15.3861423881], [179.778454744, 83.1106262205], [-179.274332424, 83.1106262205], [-179.274332424, -15.3861423881]]]}"
 	},
 	{
 		"key": "progress",
@@ -311,7 +311,7 @@
 	},
 	{
 		"key": "access_constraints",
-		"value": "[\"Distribution Liability: NOAA makes no warranty regarding these data, expressed or implied, nor does the fact of distribution constitute such a warranty.  These data are not to be used for navigation.\"]"
+		"value": "["Distribution Liability: NOAA makes no warranty regarding these data, expressed or implied, nor does the fact of distribution constitute such a warranty.  These data are not to be used for navigation."]"
 	},
 	{
 		"key": "contact-email",
@@ -327,7 +327,7 @@
 	},
 	{
 		"key": "dataset-reference-date",
-		"value": "[{\"type\": \"creation\", \"value\": \"2015-09-21\"}, {\"type\": \"publication\", \"value\": \"2015-09-21\"}, {\"type\": \"revision\", \"value\": \"2016-10-05\"}]"
+		"value": "[{"type": "creation", "value": "2015-09-21"}, {"type": "publication", "value": "2015-09-21"}, {"type": "revision", "value": "2016-10-05"}]"
 	},
 	{
 		"key": "frequency-of-update",
@@ -335,7 +335,7 @@
 	},
 	{
 		"key": "licence",
-		"value": "[\"This operational server maintains a current database of meteorological and hydrological data, historical data, and written information generated by the NWS or received from other official sources. In addition, this server accesses in realtime a selection of current official weather observations, forecasts, and warnings from U.S. government sources for use by the national and international community. In an effort to enhance the science, experimental products may be accessible on this server and care must be taken when using such products as they are intended for research use.  This server is available 24 hours a day, seven days a week . Timely delivery of data and products from this server through the Internet is not guaranteed.\\n\\nUse of NOAA\/NWS Data and Products\\nThe information on National Weather Service (NWS) Web pages are in the public domain, unless specifically noted otherwise, and may be used without charge for any lawful purpose so long as you do not: 1) claim it is your own (e.g., by claiming copyright for NWS information -- see below), 2) use it in a manner that implies an endorsement or affiliation with NOAA\/NWS, or 3) modify its content and then present it as official government material. You also cannot present information of your own in a way that makes it appear to be official government information.  Before using information obtained from any NWS Web page special attention should be given to the date and time of the data and products being displayed. \\n\\nThe user assumes the entire risk related to its use of information on NWS Web pages. NWS is provides such information \\\"as is,\\\" and NWS disclaims any and all warranties, whether express or implied, including (without limitation) any implied warranties of merchantability or fitness for a particular purpose. In no event will NWS be liable to you or to any third party for any direct, indirect, incidental, consequential, special or exemplary damages or lost profit resulting from any use or misuse of this data.\"]"
+		"value": "["This operational server maintains a current database of meteorological and hydrological data, historical data, and written information generated by the NWS or received from other official sources. In addition, this server accesses in realtime a selection of current official weather observations, forecasts, and warnings from U.S. government sources for use by the national and international community. In an effort to enhance the science, experimental products may be accessible on this server and care must be taken when using such products as they are intended for research use.  This server is available 24 hours a day, seven days a week . Timely delivery of data and products from this server through the Internet is not guaranteed.\n\nUse of NOAA/NWS Data and Products\nThe information on National Weather Service (NWS) Web pages are in the public domain, unless specifically noted otherwise, and may be used without charge for any lawful purpose so long as you do not: 1) claim it is your own (e.g., by claiming copyright for NWS information -- see below), 2) use it in a manner that implies an endorsement or affiliation with NOAA/NWS, or 3) modify its content and then present it as official government material. You also cannot present information of your own in a way that makes it appear to be official government information.  Before using information obtained from any NWS Web page special attention should be given to the date and time of the data and products being displayed. \n\nThe user assumes the entire risk related to its use of information on NWS Web pages. NWS is provides such information \"as is,\" and NWS disclaims any and all warranties, whether express or implied, including (without limitation) any implied warranties of merchantability or fitness for a particular purpose. In no event will NWS be liable to you or to any third party for any direct, indirect, incidental, consequential, special or exemplary damages or lost profit resulting from any use or misuse of this data."]"
 	},
 	{
 		"key": "metadata_type",
@@ -351,7 +351,7 @@
 	},
 	{
 		"package_id": "1ac35a92-a784-4bac-8d39-b51e4ca0a3e9",
-		"value": "doc\/noaa\/nws\/ncep, data application services, office of coast survey, national ocean service, noaa, u.s. department of commerce, mexico, united states of america, north america, data analysis and visualization, canada, web map service, u.s. sanctuary boundaries, continent, web services, puerto rico, province borders, state borders, north atlantic ocean, web portal services, national centers for environmental prediction, national weather service, noaa, u.s. department of commerce, web-based geographic information systems, information management services, geographic information systems, atlantic ocean, united states, doc\/noaa\/nos\/ocs, county borders, township borders, ocean, caribbean sea",
+		"value": "doc/noaa/nws/ncep, data application services, office of coast survey, national ocean service, noaa, u.s. department of commerce, mexico, united states of america, north america, data analysis and visualization, canada, web map service, u.s. sanctuary boundaries, continent, web services, puerto rico, province borders, state borders, north atlantic ocean, web portal services, national centers for environmental prediction, national weather service, noaa, u.s. department of commerce, web-based geographic information systems, information management services, geographic information systems, atlantic ocean, united states, doc/noaa/nos/ocs, county borders, township borders, ocean, caribbean sea",
 		"revision_timestamp": "2016-10-03T21:23:14.349668",
 		"state": "active",
 		"key": "tags",
@@ -381,7 +381,7 @@
 		"revision_timestamp": "2013-03-25T23:05:12.923863",
 		"is_organization": true,
 		"state": "active",
-		"image_url": "https:\/\/fortress.wa.gov\/dfw\/score\/score\/images\/noaa_logo.png",
+		"image_url": "https://fortress.wa.gov/dfw/score/score/images/noaa_logo.png",
 		"revision_id": "c6d43080-22e1-405e-a83d-f2a512d9e867",
 		"type": "organization",
 		"id": "e811f0b4-451f-4896-9e8f-fc6802837819",

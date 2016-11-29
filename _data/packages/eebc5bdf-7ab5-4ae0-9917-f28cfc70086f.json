@@ -37,7 +37,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2015-09-26T20:26:51.966162",
-		"url": "http:\/\/coast.noaa.gov",
+		"url": "http://coast.noaa.gov",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 0,
@@ -67,7 +67,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2015-09-26T20:26:51.966213",
-		"url": "http:\/\/coast.noaa.gov",
+		"url": "http://coast.noaa.gov",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 1,
@@ -94,9 +94,9 @@
 		"resource_locator_protocol": "",
 		"mimetype": null,
 		"cache_url": null,
-		"name": "Where they exist, the supplemental information folder will include acquisition and QA\/QC reports, breaklines, a footprint of the spatial extent of the data and other relevant related information",
+		"name": "Where they exist, the supplemental information folder will include acquisition and QA/QC reports, breaklines, a footprint of the spatial extent of the data and other relevant related information",
 		"created": "2015-09-26T20:26:51.966224",
-		"url": "ftp:\/\/csc.noaa.gov\/pub\/DigitalCoast\/lidar1_z\/geoid12a\/data\/2506\/supplemental\/",
+		"url": "ftp://csc.noaa.gov/pub/DigitalCoast/lidar1_z/geoid12a/data/2506/supplemental/",
 		"webstore_url": null,
 		"resource_locator_function": "information",
 		"position": 2,
@@ -116,7 +116,7 @@
 	"name": "2012-puget-sound-lidar-consortium-pslc-topographic-lidar-jefferson-and-clallam-counties-washingc11dc",
 	"isopen": false,
 	"url": null,
-	"notes": "Watershed Sciences, Inc. (WSI) collected Light Detection and Ranging (LiDAR) data for the Jefferson\/Clallam study area on March 23rd-25th, April 13th-15th, and May 7th, 2012 for the Puget Sound LiDAR Consortium in partnership with the Federal Emergency Management Agency (FEMA). The requested area of 32,034 acres for the Jefferson\/ Clallam AOI was expanded to include a 100m buffer to ensure complete coverage and adequate point densities around survey area boundaries. The total acreage of this delivery is 42,038 buffered acres of LiDAR data. The LiDAR survey utilized a Leica ALS50 Phase II in a Cessna Caravan 208B and a Leica ALS60 sensor in a Partenavia. See \"Process Report\" for detailed information about airborne\/ground survey methods. This data set has a point spacing of 11.58 points per square meter.",
+	"notes": "Watershed Sciences, Inc. (WSI) collected Light Detection and Ranging (LiDAR) data for the Jefferson/Clallam study area on March 23rd-25th, April 13th-15th, and May 7th, 2012 for the Puget Sound LiDAR Consortium in partnership with the Federal Emergency Management Agency (FEMA). The requested area of 32,034 acres for the Jefferson/ Clallam AOI was expanded to include a 100m buffer to ensure complete coverage and adequate point densities around survey area boundaries. The total acreage of this delivery is 42,038 buffered acres of LiDAR data. The LiDAR survey utilized a Leica ALS50 Phase II in a Cessna Caravan 208B and a Leica ALS60 sensor in a Partenavia. See "Process Report" for detailed information about airborne/ground survey methods. This data set has a point spacing of 11.58 points per square meter.",
 	"license_title": null,
 	"extras": [{
 		"key": "bbox-east-long",
@@ -144,7 +144,7 @@
 	},
 	{
 		"key": "graphic-preview-file",
-		"value": "ftp:\/\/ftp.csc.noaa.gov\/pub\/crs\/beachmap\/qa_docs\/wa\/pslc2012\/wa2012_pslc_jeffersonclallam_footprint.KMZ"
+		"value": "ftp://ftp.csc.noaa.gov/pub/crs/beachmap/qa_docs/wa/pslc2012/wa2012_pslc_jeffersonclallam_footprint.KMZ"
 	},
 	{
 		"key": "metadata-language",
@@ -160,7 +160,7 @@
 	},
 	{
 		"key": "spatial",
-		"value": "{\"type\": \"Polygon\", \"coordinates\": [[[-123.626848, 47.934501], [-122.747177, 47.934501], [-122.747177, 48.185893], [-123.626848, 48.185893], [-123.626848, 47.934501]]]}"
+		"value": "{"type": "Polygon", "coordinates": [[[-123.626848, 47.934501], [-122.747177, 47.934501], [-122.747177, 48.185893], [-123.626848, 48.185893], [-123.626848, 47.934501]]]}"
 	},
 	{
 		"key": "progress",
@@ -188,7 +188,7 @@
 	},
 	{
 		"key": "dataset-reference-date",
-		"value": "[{\"type\": \"publication\", \"value\": \"2013-06-01\"}]"
+		"value": "[{"type": "publication", "value": "2013-06-01"}]"
 	},
 	{
 		"key": "graphic-preview-description",
@@ -200,7 +200,7 @@
 	},
 	{
 		"key": "licence",
-		"value": "[\"These data depict the elevations at the time of the survey and are only accurate for that time. Users should be aware that\\n            temporal changes may have occurred since this data set was collected and some parts of this data may no longer represent actual surface\\n            conditions. Users should not use this data for critical applications without a full awareness of its limitations. Any conclusions drawn\\n            from analysis of this information are not the responsibility of NOAA or any of its partners. These data are NOT to be used for navigational purposes.\"]"
+		"value": "["These data depict the elevations at the time of the survey and are only accurate for that time. Users should be aware that\n            temporal changes may have occurred since this data set was collected and some parts of this data may no longer represent actual surface\n            conditions. Users should not use this data for critical applications without a full awareness of its limitations. Any conclusions drawn\n            from analysis of this information are not the responsibility of NOAA or any of its partners. These data are NOT to be used for navigational purposes."]"
 	},
 	{
 		"key": "metadata_type",
@@ -208,7 +208,7 @@
 	},
 	{
 		"key": "responsible-party",
-		"value": "[{\"name\": \"Puget Sound Lidar Consortium (PSLC)\", \"roles\": [\"pointOfContact\"]}]"
+		"value": "[{"name": "Puget Sound Lidar Consortium (PSLC)", "roles": ["pointOfContact"]}]"
 	},
 	{
 		"key": "temporal-extent-end",
@@ -224,7 +224,7 @@
 	},
 	{
 		"package_id": "eebc5bdf-7ab5-4ae0-9917-f28cfc70086f",
-		"value": "elevation, remote sensing, jefferson county, washington, us, lidar, clallam county, laz, topography\/bathymetry, model",
+		"value": "elevation, remote sensing, jefferson county, washington, us, lidar, clallam county, laz, topography/bathymetry, model",
 		"revision_timestamp": "2015-09-27T00:26:51.921950",
 		"state": "active",
 		"key": "tags",
@@ -254,7 +254,7 @@
 		"revision_timestamp": "2013-03-25T23:05:12.923863",
 		"is_organization": true,
 		"state": "active",
-		"image_url": "https:\/\/fortress.wa.gov\/dfw\/score\/score\/images\/noaa_logo.png",
+		"image_url": "https://fortress.wa.gov/dfw/score/score/images/noaa_logo.png",
 		"revision_id": "c6d43080-22e1-405e-a83d-f2a512d9e867",
 		"type": "organization",
 		"id": "e811f0b4-451f-4896-9e8f-fc6802837819",

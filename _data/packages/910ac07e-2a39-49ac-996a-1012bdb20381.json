@@ -37,7 +37,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2016-05-31T01:36:27.217234",
-		"url": "https:\/\/coast.noaa.gov\/dataviewer\/#\/lidar\/search\/where:ID=2476",
+		"url": "https://coast.noaa.gov/dataviewer/#/lidar/search/where:ID=2476",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 0,
@@ -67,7 +67,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2016-05-31T01:36:27.217259",
-		"url": "https:\/\/coast.noaa.gov",
+		"url": "https://coast.noaa.gov",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 1,
@@ -97,7 +97,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2016-05-31T01:36:27.217268",
-		"url": "https:\/\/coast.noaa.gov\/htdata\/lidar1_z\/geoid12a\/data\/2476",
+		"url": "https://coast.noaa.gov/htdata/lidar1_z/geoid12a/data/2476",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 2,
@@ -117,7 +117,7 @@
 	"name": "h11618-nos-hydrographic-survey-in-the-vicinity-of-mississippi-sound-mississippi-2007",
 	"isopen": false,
 	"url": null,
-	"notes": "The National Oceanic and Atmospheric Administration (NOAA) has the statutory mandate to collect hydrographic data in support of nautical chart compilation for safe navigation and to provide background data for engineers, scientific, and other commercial and industrial activities. Hydrographic survey data primarily consist of water depths, but may also include features (e.g. rocks, wrecks), navigation aids, shoreline identification, and bottom type information. NOAA is responsible for archiving and distributing the source data as described in this metadata record. This data set is located in the Mississippi Sound, between Long Beach and Biloxi. The date of collection was June 14, 2006 - March 18, 2007. The vessels used to collect this data were the High Roller, Hydro Surveyor, and Inland Surveyor. Soundings were collected by an Odom Hydrotrac Echosounder. The data were originally collected in meters, referenced to MLLW. The data were later converted to feet. The tidal data were processed using the 1983-2001 epoch. The NOAA Office for Coastal Management (OCM) downloaded the depth data for this survey from the NGDC website (http:\/\/www.ngdc.noaa.gov\/mgg\/bathymetry\/hydro.html) as x,y,z points. The points were converted from MLLW depths to NAVD88 depths (using grid LAmobile02_8301;Louisiana\/Mississippi - Eastern Louisiana to Mississippi Sound, Version 02 (1983-2001);0;1983-2001) using NOAA's Vertical Datum Transformation tool, VDatum (http:\/\/vdatum.noaa.gov\/). The NAVD88 depths were then converted to ellipsoid depths (using the Geoid12a model), converted from x,y,z format to las format and classified as 11 (OCM bathymetry). Finally, the las files were zipped to laz format.",
+	"notes": "The National Oceanic and Atmospheric Administration (NOAA) has the statutory mandate to collect hydrographic data in support of nautical chart compilation for safe navigation and to provide background data for engineers, scientific, and other commercial and industrial activities. Hydrographic survey data primarily consist of water depths, but may also include features (e.g. rocks, wrecks), navigation aids, shoreline identification, and bottom type information. NOAA is responsible for archiving and distributing the source data as described in this metadata record. This data set is located in the Mississippi Sound, between Long Beach and Biloxi. The date of collection was June 14, 2006 - March 18, 2007. The vessels used to collect this data were the High Roller, Hydro Surveyor, and Inland Surveyor. Soundings were collected by an Odom Hydrotrac Echosounder. The data were originally collected in meters, referenced to MLLW. The data were later converted to feet. The tidal data were processed using the 1983-2001 epoch. The NOAA Office for Coastal Management (OCM) downloaded the depth data for this survey from the NGDC website (http://www.ngdc.noaa.gov/mgg/bathymetry/hydro.html) as x,y,z points. The points were converted from MLLW depths to NAVD88 depths (using grid LAmobile02_8301;Louisiana/Mississippi - Eastern Louisiana to Mississippi Sound, Version 02 (1983-2001);0;1983-2001) using NOAA's Vertical Datum Transformation tool, VDatum (http://vdatum.noaa.gov/). The NAVD88 depths were then converted to ellipsoid depths (using the Geoid12a model), converted from x,y,z format to las format and classified as 11 (OCM bathymetry). Finally, the las files were zipped to laz format.",
 	"license_title": null,
 	"extras": [{
 		"key": "bbox-east-long",
@@ -145,7 +145,7 @@
 	},
 	{
 		"key": "graphic-preview-file",
-		"value": "https:\/\/coast.noaa.gov\/htdata\/lidar1_z\/geoid12a\/data\/2476\/supplemental\/h11618.kmz"
+		"value": "https://coast.noaa.gov/htdata/lidar1_z/geoid12a/data/2476/supplemental/h11618.kmz"
 	},
 	{
 		"key": "metadata-language",
@@ -161,7 +161,7 @@
 	},
 	{
 		"key": "spatial",
-		"value": "{\"type\": \"Polygon\", \"coordinates\": [[[-89.16515, 30.29624], [-88.91409, 30.29624], [-88.91409, 30.38635], [-89.16515, 30.38635], [-89.16515, 30.29624]]]}"
+		"value": "{"type": "Polygon", "coordinates": [[[-89.16515, 30.29624], [-88.91409, 30.29624], [-88.91409, 30.38635], [-89.16515, 30.38635], [-89.16515, 30.29624]]]}"
 	},
 	{
 		"key": "progress",
@@ -169,7 +169,7 @@
 	},
 	{
 		"key": "access_constraints",
-		"value": "[\"Use Constraints: Users should be aware that temporal changes may have occurred since this data set was collected and some parts of this data may no longer represent actual surface conditions. Users should not use this data for critical applications without a full awareness of its limitations. These data are not intended to be used for navigation. Nautical charts produced and certified by NOAA should be used for navigation purposes.\", \"Access Constraints: None\"]"
+		"value": "["Use Constraints: Users should be aware that temporal changes may have occurred since this data set was collected and some parts of this data may no longer represent actual surface conditions. Users should not use this data for critical applications without a full awareness of its limitations. These data are not intended to be used for navigation. Nautical charts produced and certified by NOAA should be used for navigation purposes.", "Access Constraints: None"]"
 	},
 	{
 		"key": "temporal-extent-begin",
@@ -189,7 +189,7 @@
 	},
 	{
 		"key": "dataset-reference-date",
-		"value": "[{\"type\": \"publication\", \"value\": \"2013-03-01\"}]"
+		"value": "[{"type": "publication", "value": "2013-03-01"}]"
 	},
 	{
 		"key": "graphic-preview-description",
@@ -201,7 +201,7 @@
 	},
 	{
 		"key": "licence",
-		"value": "[\"\\nAny conclusions drawn from the analysis of this information are not the responsibility of NOAA NGDC, the Office for Coastal Management or its partners. These data are not intended to be used for navigation. Nautical charts produced and certified by NOAA should be used for\\nnavigation purposes.\\n\"]"
+		"value": "["\nAny conclusions drawn from the analysis of this information are not the responsibility of NOAA NGDC, the Office for Coastal Management or its partners. These data are not intended to be used for navigation. Nautical charts produced and certified by NOAA should be used for\nnavigation purposes.\n"]"
 	},
 	{
 		"key": "metadata_type",
@@ -209,7 +209,7 @@
 	},
 	{
 		"key": "responsible-party",
-		"value": "[{\"name\": \"United States Department of Commerce (DOC), National Oceanic and Atmospheric Administration (NOAA), National Environmental Satellite, Data, and Information Service (NESDIS), National Geophysical Data Center (NGDC)\", \"roles\": [\"pointOfContact\"]}]"
+		"value": "[{"name": "United States Department of Commerce (DOC), National Oceanic and Atmospheric Administration (NOAA), National Environmental Satellite, Data, and Information Service (NESDIS), National Geophysical Data Center (NGDC)", "roles": ["pointOfContact"]}]"
 	},
 	{
 		"key": "temporal-extent-end",
@@ -225,7 +225,7 @@
 	},
 	{
 		"package_id": "910ac07e-2a39-49ac-996a-1012bdb20381",
-		"value": "mississippi, epoch 1983-2001, between long beach and biloxi, water depth, united states, bathymetry\/topography, bathymetry, mississippi sound, seafloor topography",
+		"value": "mississippi, epoch 1983-2001, between long beach and biloxi, water depth, united states, bathymetry/topography, bathymetry, mississippi sound, seafloor topography",
 		"revision_timestamp": "2015-09-26T19:46:57.828293",
 		"state": "active",
 		"key": "tags",
@@ -255,7 +255,7 @@
 		"revision_timestamp": "2013-03-25T23:05:12.923863",
 		"is_organization": true,
 		"state": "active",
-		"image_url": "https:\/\/fortress.wa.gov\/dfw\/score\/score\/images\/noaa_logo.png",
+		"image_url": "https://fortress.wa.gov/dfw/score/score/images/noaa_logo.png",
 		"revision_id": "c6d43080-22e1-405e-a83d-f2a512d9e867",
 		"type": "organization",
 		"id": "e811f0b4-451f-4896-9e8f-fc6802837819",

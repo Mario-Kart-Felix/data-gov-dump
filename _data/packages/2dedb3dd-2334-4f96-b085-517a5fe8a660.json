@@ -37,7 +37,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2016-05-31T03:51:53.737689",
-		"url": "https:\/\/coast.noaa.gov\/dataviewer\/#\/lidar\/search\/where:ID=1408",
+		"url": "https://coast.noaa.gov/dataviewer/#/lidar/search/where:ID=1408",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 0,
@@ -67,7 +67,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2016-05-31T03:51:53.737730",
-		"url": "https:\/\/coast.noaa.gov\/htdata\/lidar1_z\/geoid12a\/data\/1408",
+		"url": "https://coast.noaa.gov/htdata/lidar1_z/geoid12a/data/1408",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 1,
@@ -97,7 +97,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2016-05-31T03:51:53.737740",
-		"url": "https:\/\/coast.noaa.gov\/dataviewer",
+		"url": "https://coast.noaa.gov/dataviewer",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 2,
@@ -127,7 +127,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2016-05-31T03:51:53.737748",
-		"url": "https:\/\/coast.noaa.gov",
+		"url": "https://coast.noaa.gov",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 3,
@@ -147,7 +147,7 @@
 	"name": "2011-2012-new-york-state-department-of-environmental-conservation-nysdec-lidar-coastal-new-yor03f5f",
 	"isopen": false,
 	"url": null,
-	"notes": "Light Detection and Ranging (LiDAR) data is remotely sensed high-resolution elevation data collected by an airborne collection platform. This LiDAR dataset is a survey of areas of coastal New York, including Long Island, eastern Westchester, and the tidal extents of the Hudson River. The project area consists of approximately 950 square miles. The project design of the LiDAR data acquisition was developed to support a nominal post spacing of 1.0 meter or better (1.0 meter GSD). The LiDAR data vertical accuracy is in compliance with the National Standard for Spatial Data Accuracy (NSSDA) RMSE estimation of elevation data in support of 1 ft. contour mapping products. GMR Aerial Surveys Inc. d\/b\/a Photo Science, Inc. acquired 740 flight lines in 63 lifts between November 2011 and April 2012, while no snow was on the ground, rivers were at or below normal levels, no strong onshore winds, high waves, floods, or other anomalous weather conditions. Specified areas of the project were collected at a tide stage where water levels are at least 1-foot below mean sea level (MSL). This collection was a joint effort by the NOAA Office for Coastal Management (OCM) and the New York State Department of Environmental Conservation. The data collection was performed with three Cessna 206 single engine aircrafts, utilizing Optech Gemini sensors; collecting multiple return x, y, and z as well as intensity data. The data were classified as Unclassified (1), Ground (2), Low Point (Noise) (7), Water (9), Breakline Edge (10), Withheld (11), Tidal Water (14), Overlap Default (17), and Overlap Ground (18), Overlap Water (25), and Overlap Tidal Water (30). Upon receipt, the NOAA Office for Coastal Management (OCM), for data storage and Digital Coast provisioning purposes, converted these classifications to the following: 1 - Unclassified 2 - Ground 7 - Low Point (Noise) 9 - Water NOAA tide gauges were used as the basis for flight planning the tidally coordinated areas. The Stevens Institute NY Harbor Observation and Prediction System (NYHOPS) data were used to confirm accuracy of NOAA predicted tides in Hudson. Some areas were collected using tidal restraints as listed below: Tidal Wetlands and tributary mouths selected for tidal coordination at Mean Sea Level (MSL) minus 1 foot were: Rondout Creek Outlet; Vanderburg Cove, Moodna Creek, Constitution Marsh, Iona Marsh, Annsville Creek, Croton River Outlet, Marlboro Marsh, Manitou Marsh, Fishkill Creek Outlet, and Wappingers Creek Outlet. The Upper Hudson area from North of Goose Island was also collected to the same specification. Tidal Wetlands and tributary mouths selected for tidal coordination at Mean Sea Level (MSL) were Haverstraw at Minisceongo Creek and Piermont Marsh. On Long Island the following areas were collected at MSL: 1) the northern shore of Nassau and Suffolk counties from approximately Glen Cove on the western boundary to Nissequogue on the eastern boundary 2) the Peconic Bay from Riverhead on the western boundary to the east end of Shelter Island and Accabonac Harbor on the eastern boundary 3) western Great South Bay. The remainder of the project area had no tidal restrictions for collection. LAS tiles indicate if they are tidally coordinated or not. If tidal coordination only covers part of the tile the tile will be labeled tidally coordinated (i.e.MSL-1). In order to post process the LiDAR data to meet task order specifications, Photo Science, Inc. established a total of 81 control points that were used to calibrate the LiDAR to known ground locations established throughout the New York project area. Trimble R8-3 GNSS receivers were used to complete the collection. Real Time Kinematic (RTK) survey methodology was typically performed using the New York State Spatial Reference Network (NYSNet), a CORS\/Real Time GPS Network. Additionally, control values from various other projects completed by Photo Science in and around the project area, were used as supplemental control points to assist in the calibration of the LiDAR dataset. The dataset was developed based on a horizontal projection\/datum of UTM NAD83 (NSRS2007), UTM Zone 18, meters and vertical datum of NAVD1988 (GEOID09), meters. Upon receipt, for data storage and Digital Coast provisioning purposes, the NOAA Office for Coastal Management converted the data to GRS80 Ellipsoid (GEOID09) heights, to geographic (NAD83, NSRS2007) coordinates, and from las format to laz format. LiDAR data were collected in RAW flightline swath format, processed to create Classified LAS 1.2 files formatted to 2093 individual 750m x 750m tiles, Hydro Flattening Breaklines in ESRI shapefile format, 1.0 meter gridded Tidal Water ERDAS IMAGINE (.img) files formatted to 670 individual 3000m x 3000m tiles, and 1.0 meter gridded V-Datum ERDAS IMAGINE (.img) files formatted to the same 3000m x3000m tile schema. LiDAR data were originally delivered to NOAA\/Dewberry for quality control validation under Delivery Lots 1 and 2. The lineage (data quality), positional, content (completeness), attribution, logical consistency, and accuracies of all digital elevation data produced conform to the specifications stipulated in NOAA Task Order EA133C11CQ0009 - T011.",
+	"notes": "Light Detection and Ranging (LiDAR) data is remotely sensed high-resolution elevation data collected by an airborne collection platform. This LiDAR dataset is a survey of areas of coastal New York, including Long Island, eastern Westchester, and the tidal extents of the Hudson River. The project area consists of approximately 950 square miles. The project design of the LiDAR data acquisition was developed to support a nominal post spacing of 1.0 meter or better (1.0 meter GSD). The LiDAR data vertical accuracy is in compliance with the National Standard for Spatial Data Accuracy (NSSDA) RMSE estimation of elevation data in support of 1 ft. contour mapping products. GMR Aerial Surveys Inc. d/b/a Photo Science, Inc. acquired 740 flight lines in 63 lifts between November 2011 and April 2012, while no snow was on the ground, rivers were at or below normal levels, no strong onshore winds, high waves, floods, or other anomalous weather conditions. Specified areas of the project were collected at a tide stage where water levels are at least 1-foot below mean sea level (MSL). This collection was a joint effort by the NOAA Office for Coastal Management (OCM) and the New York State Department of Environmental Conservation. The data collection was performed with three Cessna 206 single engine aircrafts, utilizing Optech Gemini sensors; collecting multiple return x, y, and z as well as intensity data. The data were classified as Unclassified (1), Ground (2), Low Point (Noise) (7), Water (9), Breakline Edge (10), Withheld (11), Tidal Water (14), Overlap Default (17), and Overlap Ground (18), Overlap Water (25), and Overlap Tidal Water (30). Upon receipt, the NOAA Office for Coastal Management (OCM), for data storage and Digital Coast provisioning purposes, converted these classifications to the following: 1 - Unclassified 2 - Ground 7 - Low Point (Noise) 9 - Water NOAA tide gauges were used as the basis for flight planning the tidally coordinated areas. The Stevens Institute NY Harbor Observation and Prediction System (NYHOPS) data were used to confirm accuracy of NOAA predicted tides in Hudson. Some areas were collected using tidal restraints as listed below: Tidal Wetlands and tributary mouths selected for tidal coordination at Mean Sea Level (MSL) minus 1 foot were: Rondout Creek Outlet; Vanderburg Cove, Moodna Creek, Constitution Marsh, Iona Marsh, Annsville Creek, Croton River Outlet, Marlboro Marsh, Manitou Marsh, Fishkill Creek Outlet, and Wappingers Creek Outlet. The Upper Hudson area from North of Goose Island was also collected to the same specification. Tidal Wetlands and tributary mouths selected for tidal coordination at Mean Sea Level (MSL) were Haverstraw at Minisceongo Creek and Piermont Marsh. On Long Island the following areas were collected at MSL: 1) the northern shore of Nassau and Suffolk counties from approximately Glen Cove on the western boundary to Nissequogue on the eastern boundary 2) the Peconic Bay from Riverhead on the western boundary to the east end of Shelter Island and Accabonac Harbor on the eastern boundary 3) western Great South Bay. The remainder of the project area had no tidal restrictions for collection. LAS tiles indicate if they are tidally coordinated or not. If tidal coordination only covers part of the tile the tile will be labeled tidally coordinated (i.e.MSL-1). In order to post process the LiDAR data to meet task order specifications, Photo Science, Inc. established a total of 81 control points that were used to calibrate the LiDAR to known ground locations established throughout the New York project area. Trimble R8-3 GNSS receivers were used to complete the collection. Real Time Kinematic (RTK) survey methodology was typically performed using the New York State Spatial Reference Network (NYSNet), a CORS/Real Time GPS Network. Additionally, control values from various other projects completed by Photo Science in and around the project area, were used as supplemental control points to assist in the calibration of the LiDAR dataset. The dataset was developed based on a horizontal projection/datum of UTM NAD83 (NSRS2007), UTM Zone 18, meters and vertical datum of NAVD1988 (GEOID09), meters. Upon receipt, for data storage and Digital Coast provisioning purposes, the NOAA Office for Coastal Management converted the data to GRS80 Ellipsoid (GEOID09) heights, to geographic (NAD83, NSRS2007) coordinates, and from las format to laz format. LiDAR data were collected in RAW flightline swath format, processed to create Classified LAS 1.2 files formatted to 2093 individual 750m x 750m tiles, Hydro Flattening Breaklines in ESRI shapefile format, 1.0 meter gridded Tidal Water ERDAS IMAGINE (.img) files formatted to 670 individual 3000m x 3000m tiles, and 1.0 meter gridded V-Datum ERDAS IMAGINE (.img) files formatted to the same 3000m x3000m tile schema. LiDAR data were originally delivered to NOAA/Dewberry for quality control validation under Delivery Lots 1 and 2. The lineage (data quality), positional, content (completeness), attribution, logical consistency, and accuracies of all digital elevation data produced conform to the specifications stipulated in NOAA Task Order EA133C11CQ0009 - T011.",
 	"license_title": null,
 	"extras": [{
 		"key": "bbox-east-long",
@@ -175,7 +175,7 @@
 	},
 	{
 		"key": "graphic-preview-file",
-		"value": "https:\/\/coast.noaa.gov\/htdata\/lidar1_z\/geoid12a\/data\/1408\/supplemental\/2011_2012_NYSDEC_Lidar_Long_Island_and_Hudson_River.kmz"
+		"value": "https://coast.noaa.gov/htdata/lidar1_z/geoid12a/data/1408/supplemental/2011_2012_NYSDEC_Lidar_Long_Island_and_Hudson_River.kmz"
 	},
 	{
 		"key": "bbox-south-lat",
@@ -191,7 +191,7 @@
 	},
 	{
 		"key": "spatial",
-		"value": "{\"type\": \"Polygon\", \"coordinates\": [[[-74.078028, 40.558624], [-71.828074, 40.558624], [-71.828074, 42.786433], [-74.078028, 42.786433], [-74.078028, 40.558624]]]}"
+		"value": "{"type": "Polygon", "coordinates": [[[-74.078028, 40.558624], [-71.828074, 40.558624], [-71.828074, 42.786433], [-74.078028, 42.786433], [-74.078028, 40.558624]]]}"
 	},
 	{
 		"key": "progress",
@@ -199,7 +199,7 @@
 	},
 	{
 		"key": "access_constraints",
-		"value": "[\"Use Constraints: None 1. The NYS DEC \/ NOAA asks to be credited in derived products. 2. Any documentation provided is an integral part of the data set. Failure to use the documentation in conjunction with the digital data constitutes misuse of the data. 3. Although every effort has been made to ensure the accuracy of information, errors may be reflected in the data supplied. The user must be aware of data conditions and bear responsibility for the appropriate use of the information with respect to possible errors, original map scale, collection methodology, currency of data, and other conditions. 4. Users should be aware that temporal changes may have occurred since this data set was collected and that some parts of this data may no longer represent actual surface conditions. Users should not use this data for critical applications without a full awareness of its limitations.\", \"Access Constraints: None\"]"
+		"value": "["Use Constraints: None 1. The NYS DEC / NOAA asks to be credited in derived products. 2. Any documentation provided is an integral part of the data set. Failure to use the documentation in conjunction with the digital data constitutes misuse of the data. 3. Although every effort has been made to ensure the accuracy of information, errors may be reflected in the data supplied. The user must be aware of data conditions and bear responsibility for the appropriate use of the information with respect to possible errors, original map scale, collection methodology, currency of data, and other conditions. 4. Users should be aware that temporal changes may have occurred since this data set was collected and that some parts of this data may no longer represent actual surface conditions. Users should not use this data for critical applications without a full awareness of its limitations.", "Access Constraints: None"]"
 	},
 	{
 		"key": "contact-email",
@@ -215,7 +215,7 @@
 	},
 	{
 		"key": "dataset-reference-date",
-		"value": "[{\"type\": \"publication\", \"value\": \"2012-11-01\"}]"
+		"value": "[{"type": "publication", "value": "2012-11-01"}]"
 	},
 	{
 		"key": "graphic-preview-description",
@@ -227,7 +227,7 @@
 	},
 	{
 		"key": "licence",
-		"value": "[\"\\nAny conclusions drawn from the analysis of this information are not the responsibility of NYSDEC, the Office for Coastal Management or its partners.\\n\"]"
+		"value": "["\nAny conclusions drawn from the analysis of this information are not the responsibility of NYSDEC, the Office for Coastal Management or its partners.\n"]"
 	},
 	{
 		"key": "metadata_type",
@@ -235,7 +235,7 @@
 	},
 	{
 		"key": "responsible-party",
-		"value": "[{\"name\": \"NOAA Office for Coastal Management\", \"roles\": [\"pointOfContact\"]}]"
+		"value": "[{"name": "NOAA Office for Coastal Management", "roles": ["pointOfContact"]}]"
 	},
 	{
 		"key": "spatial-data-service-type",
@@ -247,7 +247,7 @@
 	},
 	{
 		"package_id": "2dedb3dd-2334-4f96-b085-517a5fe8a660",
-		"value": "albany county, breaklines, nassau county, kingston, great neck, ulster county, united states, putnam county, albany, yonkers, lidar, fire island, new york, point lookout, greene county, dutchess county, elevation, fishers island, poughkeepsie, plum island, hudson river, montauk, shelter island, las, raster, columbia county, remote sensing, gardiners island, long island, suffolk county, larchmont, bathymetry\/topography, dem, model, westchester county",
+		"value": "albany county, breaklines, nassau county, kingston, great neck, ulster county, united states, putnam county, albany, yonkers, lidar, fire island, new york, point lookout, greene county, dutchess county, elevation, fishers island, poughkeepsie, plum island, hudson river, montauk, shelter island, las, raster, columbia county, remote sensing, gardiners island, long island, suffolk county, larchmont, bathymetry/topography, dem, model, westchester county",
 		"revision_timestamp": "2015-09-27T01:53:40.409454",
 		"state": "active",
 		"key": "tags",
@@ -277,7 +277,7 @@
 		"revision_timestamp": "2013-03-25T23:05:12.923863",
 		"is_organization": true,
 		"state": "active",
-		"image_url": "https:\/\/fortress.wa.gov\/dfw\/score\/score\/images\/noaa_logo.png",
+		"image_url": "https://fortress.wa.gov/dfw/score/score/images/noaa_logo.png",
 		"revision_id": "c6d43080-22e1-405e-a83d-f2a512d9e867",
 		"type": "organization",
 		"id": "e811f0b4-451f-4896-9e8f-fc6802837819",

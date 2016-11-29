@@ -36,7 +36,7 @@
 		"cache_url": null,
 		"name": "Service Description",
 		"created": "2013-03-16T01:11:24.032669",
-		"url": "http:\/\/web2.nbmg.unr.edu\/ArcGIS\/rest\/services\/WY_data\/WYWellheaders\/MapServer",
+		"url": "http://web2.nbmg.unr.edu/ArcGIS/rest/services/WY_data/WYWellheaders/MapServer",
 		"webstore_url": null,
 		"resource_locator_function": "381",
 		"position": 0,
@@ -65,7 +65,7 @@
 		"cache_url": null,
 		"name": "Downloadable File",
 		"created": "2013-03-16T01:11:24.032689",
-		"url": "http:\/\/web2.nbmg.unr.edu\/ArcGIS\/services\/WY_data\/WYWellheaders\/MapServer\/WMSServer?request=GetCapabilities&service=WMS",
+		"url": "http://web2.nbmg.unr.edu/ArcGIS/services/WY_data/WYWellheaders/MapServer/WMSServer?request=GetCapabilities&service=WMS",
 		"webstore_url": null,
 		"resource_locator_function": "375",
 		"position": 1,
@@ -94,7 +94,7 @@
 		"cache_url": null,
 		"name": "Service Description",
 		"created": "2013-03-16T01:11:24.032696",
-		"url": "http:\/\/web2.nbmg.unr.edu\/ArcGIS\/services\/WY_data\/WYWellheaders\/MapServer\/WFSServer?request=GetCapabilities&service=WFS",
+		"url": "http://web2.nbmg.unr.edu/ArcGIS/services/WY_data/WYWellheaders/MapServer/WFSServer?request=GetCapabilities&service=WFS",
 		"webstore_url": null,
 		"resource_locator_function": "381",
 		"position": 2,
@@ -127,11 +127,11 @@
 	"name": "wyoming-well-headers",
 	"isopen": false,
 	"url": null,
-	"notes": "This dataset contains wellheader features data compiled by the Wyoming Geological Survey, and published as a Web feature service for the National Geothermal Data System. Fields in the WellHeader Feature Content Model will become XML elements in interchange documents for WMS simple features provided by a node in the USGIN network. Each feature includes a label, drilled depth (if available), location uncertainty and source. The dataset is spatially referenced to EPSG: 4326 (for interoperability). The data contained in the submitted dataset is available as an Excel Spreadsheet, ESRI service, WMS and WFS service. Link to Well header feature Content Model: http:\/\/www.stategeothermaldata.org\/data_delivery\/content_models\/well_header.",
+	"notes": "This dataset contains wellheader features data compiled by the Wyoming Geological Survey, and published as a Web feature service for the National Geothermal Data System. Fields in the WellHeader Feature Content Model will become XML elements in interchange documents for WMS simple features provided by a node in the USGIN network. Each feature includes a label, drilled depth (if available), location uncertainty and source. The dataset is spatially referenced to EPSG: 4326 (for interoperability). The data contained in the submitted dataset is available as an Excel Spreadsheet, ESRI service, WMS and WFS service. Link to Well header feature Content Model: http://www.stategeothermaldata.org/data_delivery/content_models/well_header.",
 	"license_title": null,
 	"extras": [{
 		"key": "responsible-party",
-		"value": "[{\"name\": \"Arizona Geological Survey\", \"roles\": [\"pointOfContact\"]}]"
+		"value": "[{"name": "Arizona Geological Survey", "roles": ["pointOfContact"]}]"
 	},
 	{
 		"key": "contact-email",
@@ -151,7 +151,7 @@
 	},
 	{
 		"key": "dataset-reference-date",
-		"value": "[{\"type\": \"publication\", \"value\": \"2013-02-28T00:00:00\"}]"
+		"value": "[{"type": "publication", "value": "2013-02-28T00:00:00"}]"
 	},
 	{
 		"key": "resource-type",
@@ -187,7 +187,7 @@
 	},
 	{
 		"key": "spatial",
-		"value": "{\"type\": \"Polygon\", \"coordinates\": [[[-111.533203125, 40.9798980696], [-111.533203125, 45.3984499763], [-104.23828125, 45.3984499763], [-104.23828125, 40.9798980696], [-111.533203125, 40.9798980696]]]}"
+		"value": "{"type": "Polygon", "coordinates": [[[-111.533203125, 40.9798980696], [-111.533203125, 45.3984499763], [-104.23828125, 45.3984499763], [-104.23828125, 40.9798980696], [-111.533203125, 40.9798980696]]]}"
 	},
 	{
 		"key": "guid",
@@ -237,7 +237,7 @@
 		"revision_timestamp": "2013-03-20T21:11:17.592932",
 		"is_organization": true,
 		"state": "active",
-		"image_url": "http:\/\/www.50states.com\/flag\/image\/nunst004.gif",
+		"image_url": "http://www.50states.com/flag/image/nunst004.gif",
 		"revision_id": "61be6428-4398-4199-a336-f3cd1e956f9b",
 		"type": "organization",
 		"id": "f3f6e1d4-64fb-4a2f-b32c-9ac0b76fe4de",

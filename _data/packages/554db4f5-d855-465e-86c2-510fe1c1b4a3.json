@@ -37,7 +37,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2015-09-26T22:35:18.172247",
-		"url": "http:\/\/coast.noaa.gov",
+		"url": "http://coast.noaa.gov",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 0,
@@ -67,7 +67,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2015-09-26T22:35:18.172271",
-		"url": "http:\/\/coast.noaa.gov",
+		"url": "http://coast.noaa.gov",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 1,
@@ -97,7 +97,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2015-09-26T22:35:18.172279",
-		"url": "http:\/\/coast.noaa.gov",
+		"url": "http://coast.noaa.gov",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 2,
@@ -119,7 +119,7 @@
 		"revision_timestamp": "2013-03-25T23:05:12.923863",
 		"is_organization": true,
 		"state": "active",
-		"image_url": "https:\/\/fortress.wa.gov\/dfw\/score\/score\/images\/noaa_logo.png",
+		"image_url": "https://fortress.wa.gov/dfw/score/score/images/noaa_logo.png",
 		"revision_id": "c6d43080-22e1-405e-a83d-f2a512d9e867",
 		"type": "organization",
 		"id": "e811f0b4-451f-4896-9e8f-fc6802837819",
@@ -130,7 +130,7 @@
 	"name": "2005-us-army-corps-of-engineers-usace-post-hurricane-katrina-lidar-mississippi-and-western-alabd54b5",
 	"isopen": false,
 	"url": null,
-	"notes": "LiDAR data was acquired for the U.S. Army Corps of Engineers (USACE), Mobile District in September-October 2005 along the coastline of Hancock, Harrison, Jackson counties in Mississippi and Mobile County in Alabama from the land water interface (shoreline) to the north Right of Way of Interstate-10. The LiDAR DEM was delivered as first return, last return, bare earth, and water delivery in LAS format. Contract Number: W91278-04-D-0001\/0003 EN. Project Number: C-05-054. Contractor: R&M Consultants, Inc., Anchorage, AK. Subcontractor: Woolpert, Inc., Dayton, OH.",
+	"notes": "LiDAR data was acquired for the U.S. Army Corps of Engineers (USACE), Mobile District in September-October 2005 along the coastline of Hancock, Harrison, Jackson counties in Mississippi and Mobile County in Alabama from the land water interface (shoreline) to the north Right of Way of Interstate-10. The LiDAR DEM was delivered as first return, last return, bare earth, and water delivery in LAS format. Contract Number: W91278-04-D-0001/0003 EN. Project Number: C-05-054. Contractor: R&M Consultants, Inc., Anchorage, AK. Subcontractor: Woolpert, Inc., Dayton, OH.",
 	"owner_org": "e811f0b4-451f-4896-9e8f-fc6802837819",
 	"extras": [{
 		"key": "bbox-east-long",
@@ -166,7 +166,7 @@
 	},
 	{
 		"key": "spatial",
-		"value": "{\"type\": \"Polygon\", \"coordinates\": [[[-89.688056, 30.14361], [-87.9925, 30.14361], [-87.9925, 30.787778], [-89.688056, 30.787778], [-89.688056, 30.14361]]]}"
+		"value": "{"type": "Polygon", "coordinates": [[[-89.688056, 30.14361], [-87.9925, 30.14361], [-87.9925, 30.787778], [-89.688056, 30.787778], [-89.688056, 30.14361]]]}"
 	},
 	{
 		"key": "progress",
@@ -194,7 +194,7 @@
 	},
 	{
 		"key": "dataset-reference-date",
-		"value": "[{\"type\": \"publication\", \"value\": \"2006-10-16\"}]"
+		"value": "[{"type": "publication", "value": "2006-10-16"}]"
 	},
 	{
 		"key": "frequency-of-update",
@@ -202,7 +202,7 @@
 	},
 	{
 		"key": "licence",
-		"value": "[\"These data depict the elevations at the time of the survey and are only accurate for that time. Users should be aware that\\n            temporal changes may have occurred since this data set was collected and some parts of this data may no longer represent actual surface\\n            conditions. Users should not use this data for critical applications without a full awareness of its limitations. Any conclusions drawn\\n            from analysis of this information are not the responsibility of NOAA or any of its partners. These data are NOT to be used for navigational purposes.\"]"
+		"value": "["These data depict the elevations at the time of the survey and are only accurate for that time. Users should be aware that\n            temporal changes may have occurred since this data set was collected and some parts of this data may no longer represent actual surface\n            conditions. Users should not use this data for critical applications without a full awareness of its limitations. Any conclusions drawn\n            from analysis of this information are not the responsibility of NOAA or any of its partners. These data are NOT to be used for navigational purposes."]"
 	},
 	{
 		"key": "metadata_type",
@@ -210,7 +210,7 @@
 	},
 	{
 		"key": "responsible-party",
-		"value": "[{\"name\": \"DOC\/NOAA\/NOS\/OCM > Office for Coastal Management, National Ocean Service, National Oceanic and Atmospheric Administration, U.S. Department of Commerce\", \"roles\": [\"pointOfContact\"]}]"
+		"value": "[{"name": "DOC/NOAA/NOS/OCM > Office for Coastal Management, National Ocean Service, National Oceanic and Atmospheric Administration, U.S. Department of Commerce", "roles": ["pointOfContact"]}]"
 	},
 	{
 		"key": "temporal-extent-end",
@@ -226,7 +226,7 @@
 	},
 	{
 		"key": "tags",
-		"value": "mississippi, topography, elevation, digital elevation model, jackson county, united states, hancock county, bathymetry\/topography, dem, mobile county, laser, alabama, harrison county, erosion",
+		"value": "mississippi, topography, elevation, digital elevation model, jackson county, united states, hancock county, bathymetry/topography, dem, mobile county, laser, alabama, harrison county, erosion",
 		"__extras": {
 			"revision_id": "40877da9-a8ae-4072-8245-3e8443503dbf",
 			"package_id": "554db4f5-d855-465e-86c2-510fe1c1b4a3"

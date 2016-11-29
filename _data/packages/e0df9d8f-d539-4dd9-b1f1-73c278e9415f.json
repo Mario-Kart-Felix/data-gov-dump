@@ -37,7 +37,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2016-05-30T21:52:37.735323",
-		"url": "https:\/\/coast.noaa.gov\/dataviewer\/#\/lidar\/search\/where:ID=1456",
+		"url": "https://coast.noaa.gov/dataviewer/#/lidar/search/where:ID=1456",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 0,
@@ -67,7 +67,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2016-05-30T21:52:37.735348",
-		"url": "https:\/\/coast.noaa.gov\/htdata\/lidar1_z\/geoid12a\/data\/1456",
+		"url": "https://coast.noaa.gov/htdata/lidar1_z/geoid12a/data/1456",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 1,
@@ -97,7 +97,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2016-05-30T21:52:37.735357",
-		"url": "https:\/\/coast.noaa.gov\/dataviewer",
+		"url": "https://coast.noaa.gov/dataviewer",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 2,
@@ -127,7 +127,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2016-05-30T21:52:37.735366",
-		"url": "https:\/\/coast.noaa.gov",
+		"url": "https://coast.noaa.gov",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 3,
@@ -147,7 +147,7 @@
 	"name": "2009-aero-metric-inc-topographic-lidar-north-slope-coastal-alaska",
 	"isopen": false,
 	"url": null,
-	"notes": "This delivery contains point cloud data in LAS 1.2 format, with Absolute GPS Timestamps. No classification has been completed on these data. The nominal point spacing is 1.2 meters. The following are the collection parameters and equipment used to create this data set: Aircraft: Piper Navajo (N6GR) and Cessna 320 (N3443Q) Lidar System: Optech ALTM Gemini (03SEN145 and 07SEN201) Approximate Collection Altitude (Above Mean Terrain): 1800 meters Ground Speed: 150 kts Pulse Rate Frequency: 70 kHz Mirror Scan Frequency: 32 Hz Scan Angle (+\/-): 20 degrees Beam Divergence: Narrow (0.25 mrad) Accuracy statements are based on areas of moderate terrain, with points temporarily classified as ground. Diminished accuracies are to be expected in areas of extreme terrain and dense vegetation. The accuracy of each point is expected to meet the vertical accuracy standard, derived products may be less accurate in areas of extreme terrain and dense vegetation due to a lesser number of points defining the ground in these areas.",
+	"notes": "This delivery contains point cloud data in LAS 1.2 format, with Absolute GPS Timestamps. No classification has been completed on these data. The nominal point spacing is 1.2 meters. The following are the collection parameters and equipment used to create this data set: Aircraft: Piper Navajo (N6GR) and Cessna 320 (N3443Q) Lidar System: Optech ALTM Gemini (03SEN145 and 07SEN201) Approximate Collection Altitude (Above Mean Terrain): 1800 meters Ground Speed: 150 kts Pulse Rate Frequency: 70 kHz Mirror Scan Frequency: 32 Hz Scan Angle (+/-): 20 degrees Beam Divergence: Narrow (0.25 mrad) Accuracy statements are based on areas of moderate terrain, with points temporarily classified as ground. Diminished accuracies are to be expected in areas of extreme terrain and dense vegetation. The accuracy of each point is expected to meet the vertical accuracy standard, derived products may be less accurate in areas of extreme terrain and dense vegetation due to a lesser number of points defining the ground in these areas.",
 	"license_title": null,
 	"extras": [{
 		"key": "bbox-east-long",
@@ -175,7 +175,7 @@
 	},
 	{
 		"key": "graphic-preview-file",
-		"value": "https:\/\/coast.noaa.gov\/htdata\/lidar1_z\/geoid12a\/data\/1456\/supplemental\/ak2009_aerometric_coastal_m1456.kmz"
+		"value": "https://coast.noaa.gov/htdata/lidar1_z/geoid12a/data/1456/supplemental/ak2009_aerometric_coastal_m1456.kmz"
 	},
 	{
 		"key": "bbox-south-lat",
@@ -191,7 +191,7 @@
 	},
 	{
 		"key": "spatial",
-		"value": "{\"type\": \"Polygon\", \"coordinates\": [[[-141.309673, 69.60422], [-140.962453, 69.60422], [-140.962453, 69.701961], [-141.309673, 69.701961], [-141.309673, 69.60422]]]}"
+		"value": "{"type": "Polygon", "coordinates": [[[-141.309673, 69.60422], [-140.962453, 69.60422], [-140.962453, 69.701961], [-141.309673, 69.701961], [-141.309673, 69.60422]]]}"
 	},
 	{
 		"key": "progress",
@@ -199,7 +199,7 @@
 	},
 	{
 		"key": "access_constraints",
-		"value": "[\"Use Constraints: None\", \"Access Constraints: None\"]"
+		"value": "["Use Constraints: None", "Access Constraints: None"]"
 	},
 	{
 		"key": "contact-email",
@@ -215,7 +215,7 @@
 	},
 	{
 		"key": "dataset-reference-date",
-		"value": "[{\"type\": \"publication\", \"value\": \"2013-02-01\"}]"
+		"value": "[{"type": "publication", "value": "2013-02-01"}]"
 	},
 	{
 		"key": "graphic-preview-description",
@@ -227,7 +227,7 @@
 	},
 	{
 		"key": "licence",
-		"value": "[\"Any conclusions drawn from the analysis of this information are not the responsibility of Aero-Metric Inc, NOAA, the Office for Coastal Management or its partners.\"]"
+		"value": "["Any conclusions drawn from the analysis of this information are not the responsibility of Aero-Metric Inc, NOAA, the Office for Coastal Management or its partners."]"
 	},
 	{
 		"key": "metadata_type",
@@ -235,7 +235,7 @@
 	},
 	{
 		"key": "responsible-party",
-		"value": "[{\"name\": \"NOAA Office for Coastal Management\", \"roles\": [\"pointOfContact\"]}]"
+		"value": "[{"name": "NOAA Office for Coastal Management", "roles": ["pointOfContact"]}]"
 	},
 	{
 		"key": "spatial-data-service-type",
@@ -247,7 +247,7 @@
 	},
 	{
 		"package_id": "e0df9d8f-d539-4dd9-b1f1-73c278e9415f",
-		"value": "topography, laser, usa, remote sensing, topography\/bathymetry, terrain, alaska, lidar, elevation, north slope",
+		"value": "topography, laser, usa, remote sensing, topography/bathymetry, terrain, alaska, lidar, elevation, north slope",
 		"revision_timestamp": "2015-09-26T20:15:05.505278",
 		"state": "active",
 		"key": "tags",
@@ -277,7 +277,7 @@
 		"revision_timestamp": "2013-03-25T23:05:12.923863",
 		"is_organization": true,
 		"state": "active",
-		"image_url": "https:\/\/fortress.wa.gov\/dfw\/score\/score\/images\/noaa_logo.png",
+		"image_url": "https://fortress.wa.gov/dfw/score/score/images/noaa_logo.png",
 		"revision_id": "c6d43080-22e1-405e-a83d-f2a512d9e867",
 		"type": "organization",
 		"id": "e811f0b4-451f-4896-9e8f-fc6802837819",

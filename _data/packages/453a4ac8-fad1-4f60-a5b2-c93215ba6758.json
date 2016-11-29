@@ -37,7 +37,7 @@
 		"cache_url": null,
 		"name": "Zip File",
 		"created": "2016-05-30T23:02:04.255388",
-		"url": "ftp:\/\/ftp.coast.noaa.gov\/pub\/benthic\/Side_Scan_Sonar_Backscatter_Data\/FL_ApalachicolaBay_sss-asv.zip",
+		"url": "ftp://ftp.coast.noaa.gov/pub/benthic/Side_Scan_Sonar_Backscatter_Data/FL_ApalachicolaBay_sss-asv.zip",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 0,
@@ -67,7 +67,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2016-05-30T23:02:04.255413",
-		"url": "https:\/\/coast.noaa.gov\/",
+		"url": "https://coast.noaa.gov/",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 1,
@@ -97,7 +97,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2016-05-30T23:02:04.255422",
-		"url": "http:\/\/pubs.usgs.gov\/of\/2006\/1381\/",
+		"url": "http://pubs.usgs.gov/of/2006/1381/",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 2,
@@ -119,7 +119,7 @@
 		"revision_timestamp": "2013-03-25T23:05:12.923863",
 		"is_organization": true,
 		"state": "active",
-		"image_url": "https:\/\/fortress.wa.gov\/dfw\/score\/score\/images\/noaa_logo.png",
+		"image_url": "https://fortress.wa.gov/dfw/score/score/images/noaa_logo.png",
 		"revision_id": "c6d43080-22e1-405e-a83d-f2a512d9e867",
 		"type": "organization",
 		"id": "e811f0b4-451f-4896-9e8f-fc6802837819",
@@ -130,11 +130,11 @@
 	"name": "autonomous-surface-vehicle-side-scan-sonar-mosaic-of-apalachicola-bay-florida",
 	"isopen": false,
 	"url": null,
-	"notes": "These data were collected under a cooperative mapping program between the U.S. Geological Survey (USGS), the National Oceanic and Atmospheric Administration Office for Coastal Management (NOAA\\OCM), and the Apalachicola National Estuarine Research Reserve (NERR). The primary objectives of this program were to collect marine geophysical data to develop a suite of seafloor maps to better define the extent of oyster habitats, the overall seafloor geology of the bay and provide updated information for management of this resource. In addition to their value for management of the bay's oyster resources, the maps also provide a geologic framework for scientific research and the public. High-resolution bathymetry, backscatter intensity, and seismic profile data were collected over 230 square kilometers of the floor of the bay. The study focused on the Apalachicola Bay and Western St. George Sound portions of the estuary mostly in depths > 2.0 meters.",
+	"notes": "These data were collected under a cooperative mapping program between the U.S. Geological Survey (USGS), the National Oceanic and Atmospheric Administration Office for Coastal Management (NOAA\OCM), and the Apalachicola National Estuarine Research Reserve (NERR). The primary objectives of this program were to collect marine geophysical data to develop a suite of seafloor maps to better define the extent of oyster habitats, the overall seafloor geology of the bay and provide updated information for management of this resource. In addition to their value for management of the bay's oyster resources, the maps also provide a geologic framework for scientific research and the public. High-resolution bathymetry, backscatter intensity, and seismic profile data were collected over 230 square kilometers of the floor of the bay. The study focused on the Apalachicola Bay and Western St. George Sound portions of the estuary mostly in depths > 2.0 meters.",
 	"owner_org": "e811f0b4-451f-4896-9e8f-fc6802837819",
 	"extras": [{
 		"key": "responsible-party",
-		"value": "[{\"name\": \"U.S. Geological Survey\", \"roles\": [\"pointOfContact\"]}]"
+		"value": "[{"name": "U.S. Geological Survey", "roles": ["pointOfContact"]}]"
 	},
 	{
 		"key": "contact-email",
@@ -154,7 +154,7 @@
 	},
 	{
 		"key": "dataset-reference-date",
-		"value": "[{\"type\": \"publication\", \"value\": \"2007-01-01\"}]"
+		"value": "[{"type": "publication", "value": "2007-01-01"}]"
 	},
 	{
 		"key": "resource-type",
@@ -182,7 +182,7 @@
 	},
 	{
 		"key": "licence",
-		"value": "[\"NOAA manages much of the data to users of digital geographic data.NOAA is in no way condoning or endorsing the application of this data for any given purpose.It is the sole responsibility of the user to determine whether or not the data is suitable for the intended purpose.It is also the obligation of the user to apply the data in an appropriate and conscientious manner.NOAA provides no warranty,nor accepts any liability occurring from any incomplete,incorrect, or misleading data, or from any incorrect,incomplete, or misleading use of the data.Much of the data is based on and maintained with ARC\/GIS software developed by the Environmental Systems Research Institute (ESRI).In addition, much of the information presented uses conventions and terms popularized by ARC\/GISand its user community.NOAA in no way represents the interests of ESRI,nor acts as agents for them. The user must have software capable of viewing a GeoTIFF data file.\"]"
+		"value": "["NOAA manages much of the data to users of digital geographic data.NOAA is in no way condoning or endorsing the application of this data for any given purpose.It is the sole responsibility of the user to determine whether or not the data is suitable for the intended purpose.It is also the obligation of the user to apply the data in an appropriate and conscientious manner.NOAA provides no warranty,nor accepts any liability occurring from any incomplete,incorrect, or misleading data, or from any incorrect,incomplete, or misleading use of the data.Much of the data is based on and maintained with ARC/GIS software developed by the Environmental Systems Research Institute (ESRI).In addition, much of the information presented uses conventions and terms popularized by ARC/GISand its user community.NOAA in no way represents the interests of ESRI,nor acts as agents for them. The user must have software capable of viewing a GeoTIFF data file."]"
 	},
 	{
 		"key": "metadata_type",
@@ -194,7 +194,7 @@
 	},
 	{
 		"key": "spatial",
-		"value": "{\"type\": \"Polygon\", \"coordinates\": [[[-85.066448, 29.616901], [-84.804303, 29.616901], [-84.804303, 29.748173], [-85.066448, 29.748173], [-85.066448, 29.616901]]]}"
+		"value": "{"type": "Polygon", "coordinates": [[[-85.066448, 29.616901], [-84.804303, 29.616901], [-84.804303, 29.748173], [-85.066448, 29.748173], [-85.066448, 29.616901]]]}"
 	},
 	{
 		"key": "guid",
@@ -206,7 +206,7 @@
 	},
 	{
 		"key": "access_constraints",
-		"value": "[\"Use Constraints: Data are not intended for navigational use. These data should not be used at resolutions for which it is not intended. Public domain data from the U.S. Government are freely redistributable with proper metadata and source attribution. Please recognize the U.S. Geological Survey (USGS) as the source of this information.\", \"Access Constraints: None\"]"
+		"value": "["Use Constraints: Data are not intended for navigational use. These data should not be used at resolutions for which it is not intended. Public domain data from the U.S. Government are freely redistributable with proper metadata and source attribution. Please recognize the U.S. Geological Survey (USGS) as the source of this information.", "Access Constraints: None"]"
 	},
 	{
 		"key": "spatial_harvester",

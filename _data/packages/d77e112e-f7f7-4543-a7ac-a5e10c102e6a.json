@@ -37,7 +37,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2015-04-25T08:19:23.654936",
-		"url": "http:\/\/bios.dfg.ca.gov",
+		"url": "http://bios.dfg.ca.gov",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 0,
@@ -67,7 +67,7 @@
 		"cache_url": null,
 		"name": "Zip File",
 		"created": "2015-04-25T08:19:23.654957",
-		"url": "ftp:\/\/ftp.dfg.ca.gov\/BDB\/GIS\/BIOS\/Public_Datasets\/600_699\/ds648.zip",
+		"url": "ftp://ftp.dfg.ca.gov/BDB/GIS/BIOS/Public_Datasets/600_699/ds648.zip",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 1,
@@ -89,7 +89,7 @@
 		"revision_timestamp": "2013-05-31T17:51:13.706377",
 		"is_organization": true,
 		"state": "active",
-		"image_url": "http:\/\/www.ca.gov\/images\/template2012\/header_ca.gov.png",
+		"image_url": "http://www.ca.gov/images/template2012/header_ca.gov.png",
 		"revision_id": "ad94cda4-9394-44d0-9c37-573dc3c47c9a",
 		"type": "organization",
 		"id": "467d900f-8a42-452d-9906-6610dd1a767f",
@@ -104,7 +104,7 @@
 	"owner_org": "467d900f-8a42-452d-9906-6610dd1a767f",
 	"extras": [{
 		"key": "responsible-party",
-		"value": "[{\"name\": \"County of San Diego, Department of Planning and Land Use\", \"roles\": [\"pointOfContact\"]}]"
+		"value": "[{"name": "County of San Diego, Department of Planning and Land Use", "roles": ["pointOfContact"]}]"
 	},
 	{
 		"key": "contact-email",
@@ -116,7 +116,7 @@
 	},
 	{
 		"key": "bbox-west-long",
-		"value": "\n-117.095432"
+		"value": "n-117.095432"
 	},
 	{
 		"key": "metadata-date",
@@ -124,7 +124,7 @@
 	},
 	{
 		"key": "dataset-reference-date",
-		"value": "[{\"type\": \"publication\", \"value\": \"2009-01-01\"}]"
+		"value": "[{"type": "publication", "value": "2009-01-01"}]"
 	},
 	{
 		"key": "resource-type",
@@ -132,7 +132,7 @@
 	},
 	{
 		"key": "bbox-east-long",
-		"value": "\n-116.180877"
+		"value": "n-116.180877"
 	},
 	{
 		"key": "spatial-reference-system",
@@ -140,7 +140,7 @@
 	},
 	{
 		"key": "bbox-north-lat",
-		"value": "\n32.949202"
+		"value": "n32.949202"
 	},
 	{
 		"key": "coupled-resource",
@@ -148,11 +148,11 @@
 	},
 	{
 		"key": "bbox-south-lat",
-		"value": "\n32.575348"
+		"value": "n32.575348"
 	},
 	{
 		"key": "licence",
-		"value": "[\" \"]"
+		"value": "[" "]"
 	},
 	{
 		"key": "metadata_type",
@@ -164,7 +164,7 @@
 	},
 	{
 		"key": "spatial",
-		"value": "{\"type\": \"Polygon\", \"coordinates\": [[[-117.095432, 32.575348], [-116.180877, 32.575348], [-116.180877, 32.949202], [-117.095432, 32.949202], [-117.095432, 32.575348]]]}"
+		"value": "{"type": "Polygon", "coordinates": [[[-117.095432, 32.575348], [-116.180877, 32.575348], [-116.180877, 32.949202], [-117.095432, 32.949202], [-117.095432, 32.575348]]]}"
 	},
 	{
 		"key": "guid",
@@ -176,7 +176,7 @@
 	},
 	{
 		"key": "access_constraints",
-		"value": "[\"Use Constraints: Limited to the SanGIS users agreement\", \"Access Constraints: These data are open for public and private consumption.\"]"
+		"value": "["Use Constraints: Limited to the SanGIS users agreement", "Access Constraints: These data are open for public and private consumption."]"
 	},
 	{
 		"key": "spatial_harvester",

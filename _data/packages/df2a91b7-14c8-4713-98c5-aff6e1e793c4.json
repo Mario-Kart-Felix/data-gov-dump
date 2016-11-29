@@ -37,7 +37,7 @@
 		"cache_url": null,
 		"name": "Zip File",
 		"created": "2015-11-09T20:29:42.872225",
-		"url": "ftp:\/\/ftp.soest.hawaii.edu\/pibhmc\/website\/data\/cnmi-guam\/benthichabitatlayers\/guguan_10m_BPIzones.zip",
+		"url": "ftp://ftp.soest.hawaii.edu/pibhmc/website/data/cnmi-guam/benthichabitatlayers/guguan_10m_BPIzones.zip",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 0,
@@ -67,7 +67,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2015-11-09T20:29:42.872261",
-		"url": "http:\/\/www.soest.hawaii.edu\/pibhmc",
+		"url": "http://www.soest.hawaii.edu/pibhmc",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 1,
@@ -87,11 +87,11 @@
 	"name": "bathymetric-position-index-bpi-zones-10-m-grid-derived-from-gridded-bathymetry-of-guguan-island",
 	"isopen": false,
 	"url": null,
-	"notes": "BPI Zones are derived from a focal mean analysis on bathymetry and slope. The grid is based on gridded (10 m cell size) multibeam bathymetry, collected aboard NOAA Ship Hi'ialakai and R\/V AHI, and it was created using the Benthic Terrain Modeler (http:\/\/www.csc.noaa.gov\/products\/btm\/). Cell values represent one of 4 classes (crest, depression, flat, slope) in an index of seafloor terrains. This data set is for the shelf and slope environments of Guguan Island.",
+	"notes": "BPI Zones are derived from a focal mean analysis on bathymetry and slope. The grid is based on gridded (10 m cell size) multibeam bathymetry, collected aboard NOAA Ship Hi'ialakai and R/V AHI, and it was created using the Benthic Terrain Modeler (http://www.csc.noaa.gov/products/btm/). Cell values represent one of 4 classes (crest, depression, flat, slope) in an index of seafloor terrains. This data set is for the shelf and slope environments of Guguan Island.",
 	"license_title": null,
 	"extras": [{
 		"key": "bbox-east-long",
-		"value": "\n          145.874\n        "
+		"value": "n          145.874n        "
 	},
 	{
 		"key": "resource-type",
@@ -99,7 +99,7 @@
 	},
 	{
 		"key": "bbox-north-lat",
-		"value": "\n          17.339\n        "
+		"value": "n          17.339n        "
 	},
 	{
 		"key": "coupled-resource",
@@ -115,7 +115,7 @@
 	},
 	{
 		"key": "graphic-preview-file",
-		"value": "http:\/\/www.soest.hawaii.edu\/pibhmc\/CNMI_images\/guguan_10m_BPIzones_445.jpg"
+		"value": "http://www.soest.hawaii.edu/pibhmc/CNMI_images/guguan_10m_BPIzones_445.jpg"
 	},
 	{
 		"key": "metadata-language",
@@ -131,7 +131,7 @@
 	},
 	{
 		"key": "spatial",
-		"value": "{\"type\": \"Polygon\", \"coordinates\": [[[145.803, 17.269], [145.874, 17.269], [145.874, 17.339], [145.803, 17.339], [145.803, 17.269]]]}"
+		"value": "{"type": "Polygon", "coordinates": [[[145.803, 17.269], [145.874, 17.269], [145.874, 17.339], [145.803, 17.339], [145.803, 17.269]]]}"
 	},
 	{
 		"key": "progress",
@@ -139,7 +139,7 @@
 	},
 	{
 		"key": "access_constraints",
-		"value": "[\"Use Constraints: These data are not to be used for navigation purposes. Please acknowledge the NOAA Pacific Islands Fisheries Science Center (PIFSC) Coral Reef Ecosystem Division (CRED) and the Pacific Islands Benthic Habitat Mapping Center (PIBHMC), and the Joint Institute for Marine and Atmospheric Research (JIMAR) as the sources of this information.\", \"Access Constraints: None\"]"
+		"value": "["Use Constraints: These data are not to be used for navigation purposes. Please acknowledge the NOAA Pacific Islands Fisheries Science Center (PIFSC) Coral Reef Ecosystem Division (CRED) and the Pacific Islands Benthic Habitat Mapping Center (PIBHMC), and the Joint Institute for Marine and Atmospheric Research (JIMAR) as the sources of this information.", "Access Constraints: None"]"
 	},
 	{
 		"key": "temporal-extent-begin",
@@ -151,7 +151,7 @@
 	},
 	{
 		"key": "bbox-west-long",
-		"value": "\n          145.803\n        "
+		"value": "n          145.803n        "
 	},
 	{
 		"key": "metadata-date",
@@ -159,7 +159,7 @@
 	},
 	{
 		"key": "dataset-reference-date",
-		"value": "[{\"type\": \"publication\", \"value\": \"2009-03-25\"}]"
+		"value": "[{"type": "publication", "value": "2009-03-25"}]"
 	},
 	{
 		"key": "graphic-preview-description",
@@ -171,7 +171,7 @@
 	},
 	{
 		"key": "licence",
-		"value": "[\"\\n      These data are not to be used for navigational purposes.\\nNOAA makes no warranty regarding these data, expressed or implied,\\nnor does the fact of distribution constitute such a warranty.\\nNOAA cannot assume liability for any damages caused by any errors\\nor omissions in these data, nor as a result of the failure of\\nthese data to function on a particular system.\\n    \"]"
+		"value": "["\n      These data are not to be used for navigational purposes.\nNOAA makes no warranty regarding these data, expressed or implied,\nnor does the fact of distribution constitute such a warranty.\nNOAA cannot assume liability for any damages caused by any errors\nor omissions in these data, nor as a result of the failure of\nthese data to function on a particular system.\n    "]"
 	},
 	{
 		"key": "metadata_type",
@@ -179,7 +179,7 @@
 	},
 	{
 		"key": "responsible-party",
-		"value": "[{\"name\": \"Pacific Islands Benthic Habitat Mapping Center (PIBHMC), Coral Reef Ecosystem Division (CRED), Pacific Islands Fisheries Science Center (PIFSC), National Marine Fisheries Service (NMFS), National Oceanic and Atmospheric Administration (NOAA)\", \"roles\": [\"pointOfContact\"]}]"
+		"value": "[{"name": "Pacific Islands Benthic Habitat Mapping Center (PIBHMC), Coral Reef Ecosystem Division (CRED), Pacific Islands Fisheries Science Center (PIFSC), National Marine Fisheries Service (NMFS), National Oceanic and Atmospheric Administration (NOAA)", "roles": ["pointOfContact"]}]"
 	},
 	{
 		"key": "temporal-extent-end",
@@ -191,11 +191,11 @@
 	},
 	{
 		"key": "bbox-south-lat",
-		"value": "\n          17.269\n        "
+		"value": "n          17.269n        "
 	},
 	{
 		"package_id": "df2a91b7-14c8-4713-98c5-aff6e1e793c4",
-		"value": "bathymetry, geographic information, guguan island, reef monitoring and assessment, bathymetric position index zones, geomorphology mapping, oceans, biosphere, zoology, mapping, bathymetry\/seafloor topography, united state of america, multibeam sonar, corals, 1398, habitats, benthic habitat mapping and characterization - commonwealth of the northern mariana islands and guam, commonwealth of the northern mariana islands, earth science",
+		"value": "bathymetry, geographic information, guguan island, reef monitoring and assessment, bathymetric position index zones, geomorphology mapping, oceans, biosphere, zoology, mapping, bathymetry/seafloor topography, united state of america, multibeam sonar, corals, 1398, habitats, benthic habitat mapping and characterization - commonwealth of the northern mariana islands and guam, commonwealth of the northern mariana islands, earth science",
 		"revision_timestamp": "2015-11-10T01:29:42.759418",
 		"state": "active",
 		"key": "tags",
@@ -225,7 +225,7 @@
 		"revision_timestamp": "2013-03-25T23:05:12.923863",
 		"is_organization": true,
 		"state": "active",
-		"image_url": "https:\/\/fortress.wa.gov\/dfw\/score\/score\/images\/noaa_logo.png",
+		"image_url": "https://fortress.wa.gov/dfw/score/score/images/noaa_logo.png",
 		"revision_id": "c6d43080-22e1-405e-a83d-f2a512d9e867",
 		"type": "organization",
 		"id": "e811f0b4-451f-4896-9e8f-fc6802837819",

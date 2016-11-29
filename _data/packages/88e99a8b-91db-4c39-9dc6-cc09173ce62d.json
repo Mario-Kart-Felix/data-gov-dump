@@ -36,7 +36,7 @@
 		"cache_url": null,
 		"name": "Zipped Excel file containing Physical Sample data for the State of New Mexico",
 		"created": "2013-03-15T23:37:05.853640",
-		"url": "http:\/\/repository.stategeothermaldata.org\/metadata\/record\/b11baabdb451ae7c5c51c9bce909814b\/file\/nm_yr2_geochron_update_task1245_20130128.zip",
+		"url": "http://repository.stategeothermaldata.org/metadata/record/b11baabdb451ae7c5c51c9bce909814b/file/nm_yr2_geochron_update_task1245_20130128.zip",
 		"webstore_url": null,
 		"resource_locator_function": "375",
 		"position": 0,
@@ -65,7 +65,7 @@
 		"cache_url": null,
 		"name": "Service Description",
 		"created": "2013-03-15T23:37:05.853659",
-		"url": "http:\/\/services.azgs.az.gov\/ArcGIS\/rest\/services\/aasggeothermal\/NMPhysicalSamples\/MapServer",
+		"url": "http://services.azgs.az.gov/ArcGIS/rest/services/aasggeothermal/NMPhysicalSamples/MapServer",
 		"webstore_url": null,
 		"resource_locator_function": "381",
 		"position": 1,
@@ -94,7 +94,7 @@
 		"cache_url": null,
 		"name": "Downloadable File",
 		"created": "2013-03-15T23:37:05.853666",
-		"url": "http:\/\/services.azgs.az.gov\/ArcGIS\/services\/aasggeothermal\/NMPhysicalSamples\/MapServer\/WMSServer?request=GetCapabilities&service=WMS",
+		"url": "http://services.azgs.az.gov/ArcGIS/services/aasggeothermal/NMPhysicalSamples/MapServer/WMSServer?request=GetCapabilities&service=WMS",
 		"webstore_url": null,
 		"resource_locator_function": "375",
 		"position": 2,
@@ -123,7 +123,7 @@
 		"cache_url": null,
 		"name": "Service Description",
 		"created": "2013-03-15T23:37:05.853673",
-		"url": "http:\/\/services.azgs.az.gov\/ArcGIS\/services\/aasggeothermal\/NMPhysicalSamples\/MapServer\/WFSServer?request=GetCapabilities&service=WFS",
+		"url": "http://services.azgs.az.gov/ArcGIS/services/aasggeothermal/NMPhysicalSamples/MapServer/WFSServer?request=GetCapabilities&service=WFS",
 		"webstore_url": null,
 		"resource_locator_function": "381",
 		"position": 3,
@@ -156,11 +156,11 @@
 	"name": "new-mexico-physical-sample",
 	"isopen": false,
 	"url": null,
-	"notes": "This dataset contains physical sample data compiled by the New Mexico Bureau Geology and Mineral Resources, and published as a Web feature service for the National Geothermal Data System. Fields in the Physical Sample Content Model will become XML elements in interchange documents for WMS simple features provided by a node in the USGIN network. Each feature includes a Specimen Label, Geologic unit name, specimen type, date collected and Source. The dataset is spatially referenced to EPSG: 4326 (for interoperability). The data contained in the submitted dataset is available as an Excel Spreadsheet, ESRI service, WMS and WFS service. Link to Physical Sample Content Model: http:\/\/stategeothermaldata.org\/data_delivery\/content_models\/physical_sample.",
+	"notes": "This dataset contains physical sample data compiled by the New Mexico Bureau Geology and Mineral Resources, and published as a Web feature service for the National Geothermal Data System. Fields in the Physical Sample Content Model will become XML elements in interchange documents for WMS simple features provided by a node in the USGIN network. Each feature includes a Specimen Label, Geologic unit name, specimen type, date collected and Source. The dataset is spatially referenced to EPSG: 4326 (for interoperability). The data contained in the submitted dataset is available as an Excel Spreadsheet, ESRI service, WMS and WFS service. Link to Physical Sample Content Model: http://stategeothermaldata.org/data_delivery/content_models/physical_sample.",
 	"license_title": null,
 	"extras": [{
 		"key": "responsible-party",
-		"value": "[{\"name\": \"AZGS\", \"roles\": [\"pointOfContact\"]}]"
+		"value": "[{"name": "AZGS", "roles": ["pointOfContact"]}]"
 	},
 	{
 		"key": "contact-email",
@@ -180,7 +180,7 @@
 	},
 	{
 		"key": "dataset-reference-date",
-		"value": "[{\"type\": \"publication\", \"value\": \"2013-01-28T00:00:00\"}]"
+		"value": "[{"type": "publication", "value": "2013-01-28T00:00:00"}]"
 	},
 	{
 		"key": "resource-type",
@@ -216,7 +216,7 @@
 	},
 	{
 		"key": "spatial",
-		"value": "{\"type\": \"Polygon\", \"coordinates\": [[[-109.650657177, 30.8870707201], [-109.650657177, 37.5654157584], [-102.795188427, 37.5654157584], [-102.795188427, 30.8870707201], [-109.650657177, 30.8870707201]]]}"
+		"value": "{"type": "Polygon", "coordinates": [[[-109.650657177, 30.8870707201], [-109.650657177, 37.5654157584], [-102.795188427, 37.5654157584], [-102.795188427, 30.8870707201], [-109.650657177, 30.8870707201]]]}"
 	},
 	{
 		"key": "guid",
@@ -266,7 +266,7 @@
 		"revision_timestamp": "2013-03-20T21:11:17.592932",
 		"is_organization": true,
 		"state": "active",
-		"image_url": "http:\/\/www.50states.com\/flag\/image\/nunst004.gif",
+		"image_url": "http://www.50states.com/flag/image/nunst004.gif",
 		"revision_id": "61be6428-4398-4199-a336-f3cd1e956f9b",
 		"type": "organization",
 		"id": "f3f6e1d4-64fb-4a2f-b32c-9ac0b76fe4de",

@@ -37,7 +37,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2016-06-09T03:18:49.668322",
-		"url": "http:\/\/msdis-maps.missouri.edu\/",
+		"url": "http://msdis-maps.missouri.edu/",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 0,
@@ -67,7 +67,7 @@
 		"cache_url": null,
 		"name": "XML File",
 		"created": "2016-06-09T03:18:49.668361",
-		"url": "ftp:\/\/msdis.missouri.edu\/pub\/metadata_gos\/MO_2012_East_West_Gateway_Wetlands_shp.xml",
+		"url": "ftp://msdis.missouri.edu/pub/metadata_gos/MO_2012_East_West_Gateway_Wetlands_shp.xml",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 1,
@@ -97,7 +97,7 @@
 		"cache_url": null,
 		"name": "XML File",
 		"created": "2016-06-09T03:18:49.668371",
-		"url": "https:\/\/www.gisinventory.net\/metadata\/gis-inventory-metadata-224-26167.xml",
+		"url": "https://www.gisinventory.net/metadata/gis-inventory-metadata-224-26167.xml",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 2,
@@ -117,11 +117,11 @@
 	"name": "wetlands-deepwater-habitats-mo-2012-east-west-gateway-wetlands-shp",
 	"isopen": false,
 	"url": null,
-	"notes": "Cowardin\u00e2\u0080\u0099s Classification of Wetlands and Deep Water Habitats of the United States (http:\/\/www.npwrc.usgs.gov\/resource\/wetlands\/classwet\/index.htm), together with a water regime modifier applied at the Class level, serves as a standard for regulatory agencies across the country. Important variables captured in this system include the source of water, vegetation class and subclass type (height and life form), and substrate. We used his system to classify extant wetlands for the big river floodplains analyzed. The following general process was used for classification and mapping. 1. Identify wetland system based on source of water. 2. Identify wetland class type based on vegetation height, and subclass based on life form (evergreen versus deciduous). 3. Create an index to water regime (a modifier applied at the class level) based on landform (sinks) and soil drainage class. 4. Execute mapping based on attribution of these variables (system, water regime, vegetation class and subclass) to image objects generated from LiDAR information. Water regime was defined based both on relative elevation, from which sinks were identified, and soil drainage class. Results were designed to provide an index to Cowardin\u00e2\u0080\u0099s water regime definitions. About 28.8% of the big river floodplains within the study area were uplands, and 71.2% was wetland. Seasonally flooded areas accounted for 16.4% of the study area, whereas relatively drier temporarily flooded and saturated areas made up 37.8% of the area. The temporarily flooded and saturated classes were liberally defined in order to circumscribe all areas that may support a water regime where wetlands could form. Thus, we are likely to have over-represented rather than under-represent the extent of wetlands on the big river floodplains.",
+	"notes": "Cowardinu00e2u0080u0099s Classification of Wetlands and Deep Water Habitats of the United States (http://www.npwrc.usgs.gov/resource/wetlands/classwet/index.htm), together with a water regime modifier applied at the Class level, serves as a standard for regulatory agencies across the country. Important variables captured in this system include the source of water, vegetation class and subclass type (height and life form), and substrate. We used his system to classify extant wetlands for the big river floodplains analyzed. The following general process was used for classification and mapping. 1. Identify wetland system based on source of water. 2. Identify wetland class type based on vegetation height, and subclass based on life form (evergreen versus deciduous). 3. Create an index to water regime (a modifier applied at the class level) based on landform (sinks) and soil drainage class. 4. Execute mapping based on attribution of these variables (system, water regime, vegetation class and subclass) to image objects generated from LiDAR information. Water regime was defined based both on relative elevation, from which sinks were identified, and soil drainage class. Results were designed to provide an index to Cowardinu00e2u0080u0099s water regime definitions. About 28.8% of the big river floodplains within the study area were uplands, and 71.2% was wetland. Seasonally flooded areas accounted for 16.4% of the study area, whereas relatively drier temporarily flooded and saturated areas made up 37.8% of the area. The temporarily flooded and saturated classes were liberally defined in order to circumscribe all areas that may support a water regime where wetlands could form. Thus, we are likely to have over-represented rather than under-represent the extent of wetlands on the big river floodplains.",
 	"license_title": null,
 	"extras": [{
 		"key": "responsible-party",
-		"value": "[{\"name\": \"Missouri Spatial Data Information Services (MSDIS)\", \"roles\": [\"pointOfContact\"]}]"
+		"value": "[{"name": "Missouri Spatial Data Information Services (MSDIS)", "roles": ["pointOfContact"]}]"
 	},
 	{
 		"key": "contact-email",
@@ -141,7 +141,7 @@
 	},
 	{
 		"key": "dataset-reference-date",
-		"value": "[{\"type\": \"publication\", \"value\": \"2010-01-01\"}]"
+		"value": "[{"type": "publication", "value": "2010-01-01"}]"
 	},
 	{
 		"key": "resource-type",
@@ -169,7 +169,7 @@
 	},
 	{
 		"key": "licence",
-		"value": "[\"Although these data have been processed successfully on a computer system by the data steward, no warranty either expressed or implied is made regarding the utility of the data on any system, nor shall this notice generated by the Ramona GIS Inventory System or the act of distribution constitute any such warranty. The data steward may have additional liability information associated with delivery or distribution of this product.\"]"
+		"value": "["Although these data have been processed successfully on a computer system by the data steward, no warranty either expressed or implied is made regarding the utility of the data on any system, nor shall this notice generated by the Ramona GIS Inventory System or the act of distribution constitute any such warranty. The data steward may have additional liability information associated with delivery or distribution of this product."]"
 	},
 	{
 		"key": "metadata_type",
@@ -181,7 +181,7 @@
 	},
 	{
 		"key": "spatial",
-		"value": "{\"type\": \"Polygon\", \"coordinates\": [[[-95.77441406, 35.99509048], [-89.10059357, 35.99509048], [-89.10059357, 40.61402893], [-95.77441406, 40.61402893], [-95.77441406, 35.99509048]]]}"
+		"value": "{"type": "Polygon", "coordinates": [[[-95.77441406, 35.99509048], [-89.10059357, 35.99509048], [-89.10059357, 40.61402893], [-95.77441406, 40.61402893], [-95.77441406, 35.99509048]]]}"
 	},
 	{
 		"key": "guid",
@@ -193,7 +193,7 @@
 	},
 	{
 		"key": "access_constraints",
-		"value": "[\"Use Constraints: None\", \"Access Constraints: Restriction Code: other restrictions; Other Constraints: Although these data have been processed successfully on a computer syst\"]"
+		"value": "["Use Constraints: None", "Access Constraints: Restriction Code: other restrictions; Other Constraints: Although these data have been processed successfully on a computer syst"]"
 	},
 	{
 		"key": "spatial_harvester",
@@ -235,7 +235,7 @@
 		"revision_timestamp": "2014-09-11T20:27:16.009304",
 		"is_organization": true,
 		"state": "active",
-		"image_url": "http:\/\/www.nsgic.org\/public_resources\/nsgic-logo-b_1321892056.gif",
+		"image_url": "http://www.nsgic.org/public_resources/nsgic-logo-b_1321892056.gif",
 		"revision_id": "979d3df0-d323-4e1e-ac62-d1623b463626",
 		"type": "organization",
 		"id": "b0b4c45b-a8ca-416b-b463-ee90d0a1a3df",

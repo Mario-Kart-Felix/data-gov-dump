@@ -36,7 +36,7 @@
 		"cache_url": null,
 		"name": "Data Subset Form",
 		"created": "2016-10-19T17:45:37.935786",
-		"url": "http:\/\/coastwatch.pfeg.noaa.gov\/erddap\/tabledap\/erdGlobecMoc1.html",
+		"url": "http://coastwatch.pfeg.noaa.gov/erddap/tabledap/erdGlobecMoc1.html",
 		"webstore_url": null,
 		"resource_locator_function": "download",
 		"position": 0,
@@ -65,7 +65,7 @@
 		"cache_url": null,
 		"name": "Make-A-Graph Form",
 		"created": "2016-10-19T17:45:37.935822",
-		"url": "http:\/\/coastwatch.pfeg.noaa.gov\/erddap\/tabledap\/erdGlobecMoc1.graph",
+		"url": "http://coastwatch.pfeg.noaa.gov/erddap/tabledap/erdGlobecMoc1.graph",
 		"webstore_url": null,
 		"resource_locator_function": "mapDigital",
 		"position": 1,
@@ -94,7 +94,7 @@
 		"cache_url": null,
 		"name": "Background Information",
 		"created": "2016-10-19T17:45:37.935831",
-		"url": "http:\/\/www.globec.org\/",
+		"url": "http://www.globec.org/",
 		"webstore_url": null,
 		"resource_locator_function": "information",
 		"position": 2,
@@ -123,7 +123,7 @@
 		"cache_url": null,
 		"name": "Background Information",
 		"created": "2016-10-19T17:45:37.935838",
-		"url": "http:\/\/www.globec.org\/",
+		"url": "http://www.globec.org/",
 		"webstore_url": null,
 		"resource_locator_function": "information",
 		"position": 3,
@@ -152,7 +152,7 @@
 		"cache_url": null,
 		"name": "Background Information",
 		"created": "2016-10-19T17:45:37.935845",
-		"url": "http:\/\/www.globec.org\/",
+		"url": "http://www.globec.org/",
 		"webstore_url": null,
 		"resource_locator_function": "information",
 		"position": 4,
@@ -181,7 +181,7 @@
 		"cache_url": null,
 		"name": "ERDDAP-tabledap",
 		"created": "2016-10-19T17:45:37.935852",
-		"url": "http:\/\/coastwatch.pfeg.noaa.gov\/erddap\/tabledap\/erdGlobecMoc1",
+		"url": "http://coastwatch.pfeg.noaa.gov/erddap/tabledap/erdGlobecMoc1",
 		"webstore_url": null,
 		"resource_locator_function": "download",
 		"position": 5,
@@ -210,7 +210,7 @@
 		"cache_url": null,
 		"name": "Background Information",
 		"created": "2016-10-19T17:45:37.935859",
-		"url": "http:\/\/www.globec.org\/",
+		"url": "http://www.globec.org/",
 		"webstore_url": null,
 		"resource_locator_function": "information",
 		"position": 6,
@@ -239,7 +239,7 @@
 		"cache_url": null,
 		"name": "OPeNDAP",
 		"created": "2016-10-19T17:45:37.935866",
-		"url": "http:\/\/coastwatch.pfeg.noaa.gov\/erddap\/tabledap\/erdGlobecMoc1",
+		"url": "http://coastwatch.pfeg.noaa.gov/erddap/tabledap/erdGlobecMoc1",
 		"webstore_url": null,
 		"resource_locator_function": "download",
 		"position": 7,
@@ -268,7 +268,7 @@
 		"cache_url": null,
 		"name": "Background Information",
 		"created": "2016-10-19T17:45:37.935873",
-		"url": "http:\/\/www.globec.org\/",
+		"url": "http://www.globec.org/",
 		"webstore_url": null,
 		"resource_locator_function": "information",
 		"position": 8,
@@ -297,7 +297,7 @@
 		"cache_url": null,
 		"name": "Subset",
 		"created": "2016-10-19T17:45:37.935880",
-		"url": "http:\/\/coastwatch.pfeg.noaa.gov\/erddap\/tabledap\/erdGlobecMoc1.subset",
+		"url": "http://coastwatch.pfeg.noaa.gov/erddap/tabledap/erdGlobecMoc1.subset",
 		"webstore_url": null,
 		"resource_locator_function": "download",
 		"position": 9,
@@ -317,7 +317,7 @@
 	"name": "globec-nep-mocness-plankton-moc1-data",
 	"isopen": false,
 	"url": null,
-	"notes": "GLOBEC (GLOBal Ocean ECosystems Dynamics) NEP (Northeast Pacific) California Current Program\nMOCNESS Plankton (MOC1) Data\nThe MOCNESS is based on the Tucker Trawl principle (Tucker, 1951). The MOCNESS-1 has nine rectangular nets (1m x 1.4 m) which are opened and closed sequentially by commands through conducting cable from the surface (Wiebe et al., 1976). In MOCNESS systems, \"the underwater unit sends a data frame, comprised of temperature, depth, conductivity, net-frame angle, flow count, time, number of open net, and net opening\/closing, to the deck unit in a compressed hexadecimal format every 2 seconds and from the deck unit to a microcomputer every 4 seconds... Temperature (to approximately 0.01 deg C) and conductivity are measured with SEABIRD sensors. Normally, a modified T.S.K.-flowmeter is used... Both the temperature and conductivity sensors and the flowmeter are mounted on top of the frame so that they face horizontally when the frame is at a towing angle of 45deg... Calculations of salinity (to approximately 0.01 o\/oo S), potential temperature (theta), potential density (sigma), the oblique and vertical velocities of the net, and the approximate volume filtered by each net are made after each string of data has been received by the computer.\" (Wiebe et al., 1985) In addition, depending on the particular configuration of the MOCNESS-1, data may have been collected from other sensors attached to the frame : (Transmissometer, Fluorometer, Downwelling light sensor, and the Oxygen sensor). A SeaBird underwater pump was also included in the sensor suit e.\nAfter retrieval to deck, the contents of the nets were rinsed into the codends a nd transferred to storage bottles, and fixed and preserved with formalin. In the shore laboratory, the contents of the bottles were subsampled and counts and biomass estimates made for selected taxa (see the Proc_Protocol info below). This data object reports only the count information.\n\nFor more information, see\nhttp:\/\/cis.whoi.edu\/science\/bcodmo\/dataset.cfm?id=10182&flag=view\nor\nhttp:\/\/globec.whoi.edu\/jg\/info\/globec\/nep\/ccs\/MOC1%7Bdir=globec.whoi.edu\/jg\/dir\/globec\/nep\/ccs\/,data=globec.coas.oregonstate.edu\/jg\/serv\/MOC1.html0%7D\n\nAll inquiries about this data should be directed to Dr. William Peterson (bill.peterson@noaa.gov).\nInquiries about how to access this data should be directed to Dr. Hal Batchelder (hbatchelder@coas.oregonstate.edu).",
+	"notes": "GLOBEC (GLOBal Ocean ECosystems Dynamics) NEP (Northeast Pacific) California Current ProgramnMOCNESS Plankton (MOC1) DatanThe MOCNESS is based on the Tucker Trawl principle (Tucker, 1951). The MOCNESS-1 has nine rectangular nets (1m x 1.4 m) which are opened and closed sequentially by commands through conducting cable from the surface (Wiebe et al., 1976). In MOCNESS systems, "the underwater unit sends a data frame, comprised of temperature, depth, conductivity, net-frame angle, flow count, time, number of open net, and net opening/closing, to the deck unit in a compressed hexadecimal format every 2 seconds and from the deck unit to a microcomputer every 4 seconds... Temperature (to approximately 0.01 deg C) and conductivity are measured with SEABIRD sensors. Normally, a modified T.S.K.-flowmeter is used... Both the temperature and conductivity sensors and the flowmeter are mounted on top of the frame so that they face horizontally when the frame is at a towing angle of 45deg... Calculations of salinity (to approximately 0.01 o/oo S), potential temperature (theta), potential density (sigma), the oblique and vertical velocities of the net, and the approximate volume filtered by each net are made after each string of data has been received by the computer." (Wiebe et al., 1985) In addition, depending on the particular configuration of the MOCNESS-1, data may have been collected from other sensors attached to the frame : (Transmissometer, Fluorometer, Downwelling light sensor, and the Oxygen sensor). A SeaBird underwater pump was also included in the sensor suit e.nAfter retrieval to deck, the contents of the nets were rinsed into the codends a nd transferred to storage bottles, and fixed and preserved with formalin. In the shore laboratory, the contents of the bottles were subsampled and counts and biomass estimates made for selected taxa (see the Proc_Protocol info below). This data object reports only the count information.nnFor more information, seenhttp://cis.whoi.edu/science/bcodmo/dataset.cfm?id=10182&flag=viewnornhttp://globec.whoi.edu/jg/info/globec/nep/ccs/MOC1%7Bdir=globec.whoi.edu/jg/dir/globec/nep/ccs/,data=globec.coas.oregonstate.edu/jg/serv/MOC1.html0%7DnnAll inquiries about this data should be directed to Dr. William Peterson (bill.peterson@noaa.gov).nInquiries about how to access this data should be directed to Dr. Hal Batchelder (hbatchelder@coas.oregonstate.edu).",
 	"license_title": null,
 	"extras": [{
 		"key": "bbox-east-long",
@@ -333,7 +333,7 @@
 	},
 	{
 		"key": "coupled-resource",
-		"value": "[{\"href\": [\"#DataIdentification\"], \"uuid\": [], \"title\": []}, {\"href\": [\"#DataIdentification\"], \"uuid\": [], \"title\": []}, {\"href\": [\"#DataIdentification\"], \"uuid\": [], \"title\": []}]"
+		"value": "[{"href": ["#DataIdentification"], "uuid": [], "title": []}, {"href": ["#DataIdentification"], "uuid": [], "title": []}, {"href": ["#DataIdentification"], "uuid": [], "title": []}]"
 	},
 	{
 		"key": "guid",
@@ -353,7 +353,7 @@
 	},
 	{
 		"key": "spatial",
-		"value": "{\"type\": \"Polygon\", \"coordinates\": [[[-125.1167, 42.4733], [-124.175, 42.4733], [-124.175, 44.6517], [-125.1167, 44.6517], [-125.1167, 42.4733]]]}"
+		"value": "{"type": "Polygon", "coordinates": [[[-125.1167, 42.4733], [-124.175, 42.4733], [-124.175, 44.6517], [-125.1167, 44.6517], [-125.1167, 42.4733]]]}"
 	},
 	{
 		"key": "progress",
@@ -381,7 +381,7 @@
 	},
 	{
 		"key": "dataset-reference-date",
-		"value": "[{\"type\": \"creation\", \"value\": \"2016-10-09\"}]"
+		"value": "[{"type": "creation", "value": "2016-10-09"}]"
 	},
 	{
 		"key": "frequency-of-update",
@@ -397,7 +397,7 @@
 	},
 	{
 		"key": "responsible-party",
-		"value": "[{\"name\": \"GLOBEC\", \"roles\": [\"pointOfContact\"]}]"
+		"value": "[{"name": "GLOBEC", "roles": ["pointOfContact"]}]"
 	},
 	{
 		"key": "temporal-extent-end",
@@ -413,7 +413,7 @@
 	},
 	{
 		"package_id": "bc68789f-4ce4-4588-802e-82347f4b5022",
-		"value": "aquatic, mocness, classification, globec, taxonomy, fish, life, biological classification, noaa, sample, code, longitude, coastal, cruise, station, sea_floor_depth_below_sea_level, species, size, habitat, area, marine, aquatic sciences, comments, coastal habitat, sciences, program, marine habitat, latitude, filtered, net, stage, local, vertebrates, nep, biology, gear, nodc, aquatic ecosystems, oceans, animals\/vertebrates, topography, number, volume, fisheries, flag, mesh, mouth, floor, bathymetry, ecosystems, data, day, plankton, abundance, water, identifier, animals, day\/night, level, biosphere, type, counter, maximum, sea, cast, below, minimum, seawater, time, night, bathymetry\/seafloor topography, biological, seafloor, genus, moc1",
+		"value": "aquatic, mocness, classification, globec, taxonomy, fish, life, biological classification, noaa, sample, code, longitude, coastal, cruise, station, sea_floor_depth_below_sea_level, species, size, habitat, area, marine, aquatic sciences, comments, coastal habitat, sciences, program, marine habitat, latitude, filtered, net, stage, local, vertebrates, nep, biology, gear, nodc, aquatic ecosystems, oceans, animals/vertebrates, topography, number, volume, fisheries, flag, mesh, mouth, floor, bathymetry, ecosystems, data, day, plankton, abundance, water, identifier, animals, day/night, level, biosphere, type, counter, maximum, sea, cast, below, minimum, seawater, time, night, bathymetry/seafloor topography, biological, seafloor, genus, moc1",
 		"revision_timestamp": "2015-09-27T00:00:52.352486",
 		"state": "active",
 		"key": "tags",
@@ -443,7 +443,7 @@
 		"revision_timestamp": "2013-03-25T23:05:12.923863",
 		"is_organization": true,
 		"state": "active",
-		"image_url": "https:\/\/fortress.wa.gov\/dfw\/score\/score\/images\/noaa_logo.png",
+		"image_url": "https://fortress.wa.gov/dfw/score/score/images/noaa_logo.png",
 		"revision_id": "c6d43080-22e1-405e-a83d-f2a512d9e867",
 		"type": "organization",
 		"id": "e811f0b4-451f-4896-9e8f-fc6802837819",

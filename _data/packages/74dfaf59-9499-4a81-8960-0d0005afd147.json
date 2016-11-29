@@ -37,7 +37,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2013-03-28T02:13:48.658481",
-		"url": "http:\/\/deli.dnr.state.mn.us",
+		"url": "http://deli.dnr.state.mn.us",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 0,
@@ -70,11 +70,11 @@
 	"name": "dnr-watersheds-dnr-level-02-huc-04",
 	"isopen": false,
 	"url": null,
-	"notes": "These data consists of watershed delineations in one seamless dataset of drainage areas called Minnesota Department of Natural Resources (DNR) Level 02 Watersheds. DNR Level 02 Watersheds are the largest administrative Minnesota watershed unit delineation existing at the 2nd defined level in the Minnesota DNR watershed unit hierarchy. These modern DNR Level 02 Watersheds are derived from the DNR Catchment base-watershed dataset and have been clipped to the Minnesota state boundary. Unlike DNR Levels 01, 04 (Major), and 07 (Minor) Watersheds, DNR Level 02 watersheds have no corresponding legacy dataset. For a more detailed background on this data, follow this link to the paper DNR Watershed Project: History, Methodology, Terminology, Attributes 2009(http:\/\/maps.dnr.state.mn.us:8080\/gis\/ancillary\/DNR_Watershed_Project_History_Methodology_Terminology_Attributes_2009.pdf) document (PDF). This document may take a few moments to load for viewing.",
+	"notes": "These data consists of watershed delineations in one seamless dataset of drainage areas called Minnesota Department of Natural Resources (DNR) Level 02 Watersheds. DNR Level 02 Watersheds are the largest administrative Minnesota watershed unit delineation existing at the 2nd defined level in the Minnesota DNR watershed unit hierarchy. These modern DNR Level 02 Watersheds are derived from the DNR Catchment base-watershed dataset and have been clipped to the Minnesota state boundary. Unlike DNR Levels 01, 04 (Major), and 07 (Minor) Watersheds, DNR Level 02 watersheds have no corresponding legacy dataset. For a more detailed background on this data, follow this link to the paper DNR Watershed Project: History, Methodology, Terminology, Attributes 2009(http://maps.dnr.state.mn.us:8080/gis/ancillary/DNR_Watershed_Project_History_Methodology_Terminology_Attributes_2009.pdf) document (PDF). This document may take a few moments to load for viewing.",
 	"license_title": null,
 	"extras": [{
 		"key": "responsible-party",
-		"value": "[{\"name\": \"Minnesota DNR - Division of Waters\", \"roles\": [\"pointOfContact\"]}]"
+		"value": "[{"name": "Minnesota DNR - Division of Waters", "roles": ["pointOfContact"]}]"
 	},
 	{
 		"key": "contact-email",
@@ -94,7 +94,7 @@
 	},
 	{
 		"key": "dataset-reference-date",
-		"value": "[{\"type\": \"publication\", \"value\": \"9999-01-01\"}]"
+		"value": "[{"type": "publication", "value": "9999-01-01"}]"
 	},
 	{
 		"key": "resource-type",
@@ -122,7 +122,7 @@
 	},
 	{
 		"key": "licence",
-		"value": "[\"By accepting this data, the user agrees not to transmit this data or provide access to it or any part of it to another party unless the user shall include with the data a copy of this disclaimer:<br>\\n- The Minnesota Department of Natural Resources makes no representation or warranties, express or implied, with respect to the reuse of data provided herewith, regardless of its format or the means of its transmission.  There is no guarantee or representation to the user as to the accuracy, currency, suitability, or reliability of this data for any purpose.  The user accepts the data 'as is', and assumes all risks associated with its use.  The Minnesota Department of Natural Resources assumes no responsibility for actual or consequential damage incurred as a result of any user's reliance on this data.\\n\\n\\n<i>Second Party Distribution Metadata<\/i><br>\\n- The user\/distributor shall credit the <i> Originator<\/i>.<br>\\n- The user\/distributor shall include the Minnesota DNR source data <i> Title<\/i> (name). <br>\\n- The user\/distributor shall include the Minnesota DNR source data <i> Publication Date<\/i>.<br>\\n- The user\/distributor shall include the Minnesota DNR source data <i>Cartographic Lineage<\/i>.\\n\\n\"]"
+		"value": "["By accepting this data, the user agrees not to transmit this data or provide access to it or any part of it to another party unless the user shall include with the data a copy of this disclaimer:<br>\n- The Minnesota Department of Natural Resources makes no representation or warranties, express or implied, with respect to the reuse of data provided herewith, regardless of its format or the means of its transmission.  There is no guarantee or representation to the user as to the accuracy, currency, suitability, or reliability of this data for any purpose.  The user accepts the data 'as is', and assumes all risks associated with its use.  The Minnesota Department of Natural Resources assumes no responsibility for actual or consequential damage incurred as a result of any user's reliance on this data.\n\n\n<i>Second Party Distribution Metadata</i><br>\n- The user/distributor shall credit the <i> Originator</i>.<br>\n- The user/distributor shall include the Minnesota DNR source data <i> Title</i> (name). <br>\n- The user/distributor shall include the Minnesota DNR source data <i> Publication Date</i>.<br>\n- The user/distributor shall include the Minnesota DNR source data <i>Cartographic Lineage</i>.\n\n"]"
 	},
 	{
 		"key": "metadata_type",
@@ -130,7 +130,7 @@
 	},
 	{
 		"key": "spatial",
-		"value": "{\"type\": \"Polygon\", \"coordinates\": [[[-97.3, 43.4], [-97.3, 49.4], [-89.4, 49.4], [-89.4, 43.4], [-97.3, 43.4]]]}"
+		"value": "{"type": "Polygon", "coordinates": [[[-97.3, 43.4], [-97.3, 49.4], [-89.4, 49.4], [-89.4, 43.4], [-97.3, 43.4]]]}"
 	},
 	{
 		"key": "guid",
@@ -142,11 +142,11 @@
 	},
 	{
 		"key": "access_constraints",
-		"value": "[\"Use Constraints: <i>USE AGREEMENT:<\/i><br> - Use of the data are constrained by the Minnesota Department of Natural Resources General Geographic Data License Agreement agreed to at the time of data download from the Minnesota DNR Data Deli distribution portal. <i>ACKNOWLEDGMENTS:<\/i><br> - As defined in the DNR License Agreement, users of this data must credit the <i> Originator <\/i> on published maps and analysis.<br> - The user shall include the Minnesota DNR source data <i> Title<\/i> (name). <br> - The user shall include the Minnesota DNR source data <i> Publication Date<\/i>.<br> - For example, <i> Source:<\/i> DNR Watersheds - DNR Level 02 ? HUC04, <i> Originator:<\/i> Minnesota DNR - Division of Waters - Watershed Delineation Project, <i> Publication Date: <\/i> 4\/7\/2009). <i>USE CONSTRAINT COMMENTS:<\/i><br> - See Cartographic Lineage, Logical Consistency, Positional Accuracy, and Currentness Reference for further discussion of data capture. <br> - This data is not the same as any MN DNR legacy dataset. This modern DNR Level 02 dataset was derived directly from the DNR Catchment layer. The user of this data is encouraged to review the metadata entry for the DNR Watersheds Level 08 ? All Catchments dataset for more detailed information. <br> - The DNR Level 02 Watershed dataset is specific to the state of Minnesota and is not part of the NRCS Watershed Boundary Dataset (WBD).\", \"Access Constraints: Data are unrestricted with regards to access.\"]"
+		"value": "["Use Constraints: <i>USE AGREEMENT:</i><br> - Use of the data are constrained by the Minnesota Department of Natural Resources General Geographic Data License Agreement agreed to at the time of data download from the Minnesota DNR Data Deli distribution portal. <i>ACKNOWLEDGMENTS:</i><br> - As defined in the DNR License Agreement, users of this data must credit the <i> Originator </i> on published maps and analysis.<br> - The user shall include the Minnesota DNR source data <i> Title</i> (name). <br> - The user shall include the Minnesota DNR source data <i> Publication Date</i>.<br> - For example, <i> Source:</i> DNR Watersheds - DNR Level 02 ? HUC04, <i> Originator:</i> Minnesota DNR - Division of Waters - Watershed Delineation Project, <i> Publication Date: </i> 4/7/2009). <i>USE CONSTRAINT COMMENTS:</i><br> - See Cartographic Lineage, Logical Consistency, Positional Accuracy, and Currentness Reference for further discussion of data capture. <br> - This data is not the same as any MN DNR legacy dataset. This modern DNR Level 02 dataset was derived directly from the DNR Catchment layer. The user of this data is encouraged to review the metadata entry for the DNR Watersheds Level 08 ? All Catchments dataset for more detailed information. <br> - The DNR Level 02 Watershed dataset is specific to the state of Minnesota and is not part of the NRCS Watershed Boundary Dataset (WBD).", "Access Constraints: Data are unrestricted with regards to access."]"
 	},
 	{
 		"key": "graphic-preview-file",
-		"value": "http:\/\/jmaps.dnr.state.mn.us\/gis\/dp_datasample.jsp?mpid=39000624&ptid=2&fcid=1&lname=DNR Watersheds - DNR Level 02 - HUC 04"
+		"value": "http://jmaps.dnr.state.mn.us/gis/dp_datasample.jsp?mpid=39000624&ptid=2&fcid=1&lname=DNR Watersheds - DNR Level 02 - HUC 04"
 	},
 	{
 		"key": "frequency-of-update",
@@ -184,7 +184,7 @@
 		"revision_timestamp": "2013-03-21T17:53:31.532555",
 		"is_organization": true,
 		"state": "active",
-		"image_url": "http:\/\/www.naturalinnovations.org\/eeresourceguide\/images\/mn_dnr_logo.gif",
+		"image_url": "http://www.naturalinnovations.org/eeresourceguide/images/mn_dnr_logo.gif",
 		"revision_id": "a4813d04-e782-48ad-bd72-dd87a4899e84",
 		"type": "organization",
 		"id": "6bfa9b1b-ca6e-471f-aaef-ca8f2c26769b",

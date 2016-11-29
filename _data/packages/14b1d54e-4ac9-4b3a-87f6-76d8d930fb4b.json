@@ -36,7 +36,7 @@
 		"cache_url": null,
 		"name": "Monthly data",
 		"created": "2016-04-11T15:39:36.652585",
-		"url": "http:\/\/oceanwatch.pifsc.noaa.gov\/thredds\/catalog.html?dataset=mon-qs",
+		"url": "http://oceanwatch.pifsc.noaa.gov/thredds/catalog.html?dataset=mon-qs",
 		"webstore_url": null,
 		"resource_locator_function": "download",
 		"position": 0,
@@ -65,7 +65,7 @@
 		"cache_url": null,
 		"name": "Weekly data",
 		"created": "2016-04-11T15:39:36.652607",
-		"url": "http:\/\/oceanwatch.pifsc.noaa.gov\/thredds\/catalog.html?dataset=8d-qs",
+		"url": "http://oceanwatch.pifsc.noaa.gov/thredds/catalog.html?dataset=8d-qs",
 		"webstore_url": null,
 		"resource_locator_function": "download",
 		"position": 1,
@@ -92,9 +92,9 @@
 		"resource_locator_protocol": "WWW:LINK-1.0-http--link",
 		"mimetype": null,
 		"cache_url": null,
-		"name": "http:\/\/oceanwatch.pifsc.noaa.gov\/",
+		"name": "http://oceanwatch.pifsc.noaa.gov/",
 		"created": "2016-04-11T15:39:36.652616",
-		"url": "http:\/\/oceanwatch.pifsc.noaa.gov\/",
+		"url": "http://oceanwatch.pifsc.noaa.gov/",
 		"webstore_url": null,
 		"resource_locator_function": "download",
 		"position": 2,
@@ -123,7 +123,7 @@
 		"cache_url": null,
 		"name": "Website",
 		"created": "2016-04-11T15:39:36.652624",
-		"url": "http:\/\/www.pifsc.noaa.gov",
+		"url": "http://www.pifsc.noaa.gov",
 		"webstore_url": null,
 		"resource_locator_function": "information",
 		"position": 3,
@@ -152,7 +152,7 @@
 		"cache_url": null,
 		"name": "Website",
 		"created": "2016-04-11T15:39:36.652631",
-		"url": "http:\/\/www.pifsc.noaa.gov",
+		"url": "http://www.pifsc.noaa.gov",
 		"webstore_url": null,
 		"resource_locator_function": "information",
 		"position": 4,
@@ -181,7 +181,7 @@
 		"cache_url": null,
 		"name": "Website",
 		"created": "2016-04-11T15:39:36.652638",
-		"url": "http:\/\/www.pifsc.noaa.gov",
+		"url": "http://www.pifsc.noaa.gov",
 		"webstore_url": null,
 		"resource_locator_function": "information",
 		"position": 5,
@@ -198,7 +198,7 @@
 		"state": "active",
 		"last_modified": null,
 		"hash": "",
-		"description": "This page describes the NASA GCMD Keywords, how\n                                                        to reference those keywords and provides download instructions.\n                                                    ",
+		"description": "This page describes the NASA GCMD Keywords, hown                                                        to reference those keywords and provides download instructions.n                                                    ",
 		"format": "HTML",
 		"tracking_summary": {
 			"total": 467,
@@ -210,7 +210,7 @@
 		"cache_url": null,
 		"name": "GCMD Keywords Page",
 		"created": "2016-04-11T15:39:36.652645",
-		"url": "http:\/\/gcmd.nasa.gov\/learn\/keyword_list.html",
+		"url": "http://gcmd.nasa.gov/learn/keyword_list.html",
 		"webstore_url": null,
 		"resource_locator_function": "information",
 		"position": 6,
@@ -232,7 +232,7 @@
 		"revision_timestamp": "2013-03-25T23:05:12.923863",
 		"is_organization": true,
 		"state": "active",
-		"image_url": "https:\/\/fortress.wa.gov\/dfw\/score\/score\/images\/noaa_logo.png",
+		"image_url": "https://fortress.wa.gov/dfw/score/score/images/noaa_logo.png",
 		"revision_id": "c6d43080-22e1-405e-a83d-f2a512d9e867",
 		"type": "organization",
 		"id": "e811f0b4-451f-4896-9e8f-fc6802837819",
@@ -243,7 +243,7 @@
 	"name": "ow-quikscat-wind-speed-stress-and-stress-curl",
 	"isopen": false,
 	"url": null,
-	"notes": "The dataset contains satellite-derived ocean wind speed, stress and stress curl measurements collected by means of the NASA\/JPL SeaWinds Scatterometer sensor. The data is collected weekly, and is available at weekly and monthly intervals at a spatial resolution of approximately 0.5 degrees. The geographic coverage extends globally, and the temporal coverage ranges from 1999-2009.\n",
+	"notes": "The dataset contains satellite-derived ocean wind speed, stress and stress curl measurements collected by means of the NASA/JPL SeaWinds Scatterometer sensor. The data is collected weekly, and is available at weekly and monthly intervals at a spatial resolution of approximately 0.5 degrees. The geographic coverage extends globally, and the temporal coverage ranges from 1999-2009.n",
 	"owner_org": "e811f0b4-451f-4896-9e8f-fc6802837819",
 	"extras": [{
 		"key": "bbox-east-long",
@@ -279,7 +279,7 @@
 	},
 	{
 		"key": "spatial",
-		"value": "{\"type\": \"Polygon\", \"coordinates\": [[[-180.0, -70.0], [180.0, -70.0], [180.0, 70.0], [-180.0, 70.0], [-180.0, -70.0]]]}"
+		"value": "{"type": "Polygon", "coordinates": [[[-180.0, -70.0], [180.0, -70.0], [180.0, 70.0], [-180.0, 70.0], [-180.0, -70.0]]]}"
 	},
 	{
 		"key": "progress",
@@ -287,7 +287,7 @@
 	},
 	{
 		"key": "access_constraints",
-		"value": "[\"Access Constraints: None | Use Constraints: Disclaimer - While every effort has been made to ensure that these data are accurate and reliable within the limits of the current state of the art, NOAA cannot assume liability for any damages caused by any errors or omissions in the data, nor as a result of the failure of the data to function on a particular system. NOAA makes no warranty, expressed or implied, nor does the fact of distribution constitute such a warranty.\"]"
+		"value": "["Access Constraints: None | Use Constraints: Disclaimer - While every effort has been made to ensure that these data are accurate and reliable within the limits of the current state of the art, NOAA cannot assume liability for any damages caused by any errors or omissions in the data, nor as a result of the failure of the data to function on a particular system. NOAA makes no warranty, expressed or implied, nor does the fact of distribution constitute such a warranty."]"
 	},
 	{
 		"key": "temporal-extent-begin",
@@ -307,7 +307,7 @@
 	},
 	{
 		"key": "dataset-reference-date",
-		"value": "[{\"type\": \"publication\", \"value\": \"\"}]"
+		"value": "[{"type": "publication", "value": ""}]"
 	},
 	{
 		"key": "frequency-of-update",
@@ -323,7 +323,7 @@
 	},
 	{
 		"key": "responsible-party",
-		"value": "[{\"name\": \"Pacific Islands Fisheries Science Center\", \"roles\": [\"pointOfContact\"]}]"
+		"value": "[{"name": "Pacific Islands Fisheries Science Center", "roles": ["pointOfContact"]}]"
 	},
 	{
 		"key": "temporal-extent-end",
@@ -339,7 +339,7 @@
 	},
 	{
 		"key": "tags",
-		"value": "stress, global, pifsc oceanwatch (ow) metadata portfolio, remote sensing, monthly, quikscat, seawinds, satellite, national marine fisheries service, noaa, u.s. department of commerce, ocean wind, doc\/noaa\/nmfs, ow, curl, speed, pifsc, weekly",
+		"value": "stress, global, pifsc oceanwatch (ow) metadata portfolio, remote sensing, monthly, quikscat, seawinds, satellite, national marine fisheries service, noaa, u.s. department of commerce, ocean wind, doc/noaa/nmfs, ow, curl, speed, pifsc, weekly",
 		"__extras": {
 			"revision_id": "4a781dce-a13e-4de6-8bf4-dcb94366442a",
 			"package_id": "14b1d54e-4ac9-4b3a-87f6-76d8d930fb4b"

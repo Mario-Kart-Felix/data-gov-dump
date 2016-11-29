@@ -37,7 +37,7 @@
 		"cache_url": null,
 		"name": "TIFF Image File",
 		"created": "2015-09-26T22:10:55.136351",
-		"url": "http:\/\/nosdataexplorer.noaa.gov\/nosdataexplorer\/",
+		"url": "http://nosdataexplorer.noaa.gov/nosdataexplorer/",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 0,
@@ -67,7 +67,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2015-09-26T22:10:55.136378",
-		"url": "http:\/\/geodesy.noaa.gov",
+		"url": "http://geodesy.noaa.gov",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 1,
@@ -136,7 +136,7 @@
 	},
 	{
 		"key": "spatial",
-		"value": "{\"type\": \"Polygon\", \"coordinates\": [[[-180.0, -15.0], [180.0, -15.0], [180.0, 71.5], [-180.0, 71.5], [-180.0, -15.0]]]}"
+		"value": "{"type": "Polygon", "coordinates": [[[-180.0, -15.0], [180.0, -15.0], [180.0, 71.5], [-180.0, 71.5], [-180.0, -15.0]]]}"
 	},
 	{
 		"key": "progress",
@@ -144,7 +144,7 @@
 	},
 	{
 		"key": "access_constraints",
-		"value": "[\"Use Constraints: These data were generated for use by NGS during the course of its development of potential final products to fulfill its statutory mission. Although NGS is making these data available to others who may find the data of value, NGS does not warrant, endorse or recommend the use of these data for any given purpose. The user assumes the entire risk related to the use of these data. These data are not for navigation purposes. NGS is providing these data \\\"as is,\\\" and NGS disclaims any and all warranties, whether expressed or implied, including (without limitation) any implied warranties of merchantability or fitness for a particular purpose. In no event will NGS be liable to you or to any third party for any direct, indirect, incidental, consequential, special, or exemplary damages or lost profits resulting from any use or misuse of these data.\", \"Access Constraints: None\"]"
+		"value": "["Use Constraints: These data were generated for use by NGS during the course of its development of potential final products to fulfill its statutory mission. Although NGS is making these data available to others who may find the data of value, NGS does not warrant, endorse or recommend the use of these data for any given purpose. The user assumes the entire risk related to the use of these data. These data are not for navigation purposes. NGS is providing these data \"as is,\" and NGS disclaims any and all warranties, whether expressed or implied, including (without limitation) any implied warranties of merchantability or fitness for a particular purpose. In no event will NGS be liable to you or to any third party for any direct, indirect, incidental, consequential, special, or exemplary damages or lost profits resulting from any use or misuse of these data.", "Access Constraints: None"]"
 	},
 	{
 		"key": "temporal-extent-begin",
@@ -164,7 +164,7 @@
 	},
 	{
 		"key": "dataset-reference-date",
-		"value": "[{\"type\": \"publication\", \"value\": \"1989-01-01\"}]"
+		"value": "[{"type": "publication", "value": "1989-01-01"}]"
 	},
 	{
 		"key": "frequency-of-update",
@@ -172,7 +172,7 @@
 	},
 	{
 		"key": "licence",
-		"value": "[\"Not intended for navigational purposes\"]"
+		"value": "["Not intended for navigational purposes"]"
 	},
 	{
 		"key": "metadata_type",
@@ -180,7 +180,7 @@
 	},
 	{
 		"key": "responsible-party",
-		"value": "[{\"name\": \"National Oceanic and Atmospheric Administration (NOAA), National Ocean Service (NOS), National Geodetic Survey (NGS), Information Services Branch\", \"roles\": [\"pointOfContact\"]}]"
+		"value": "[{"name": "National Oceanic and Atmospheric Administration (NOAA), National Ocean Service (NOS), National Geodetic Survey (NGS), Information Services Branch", "roles": ["pointOfContact"]}]"
 	},
 	{
 		"key": "temporal-extent-end",
@@ -226,7 +226,7 @@
 		"revision_timestamp": "2013-03-25T23:05:12.923863",
 		"is_organization": true,
 		"state": "active",
-		"image_url": "https:\/\/fortress.wa.gov\/dfw\/score\/score\/images\/noaa_logo.png",
+		"image_url": "https://fortress.wa.gov/dfw/score/score/images/noaa_logo.png",
 		"revision_id": "c6d43080-22e1-405e-a83d-f2a512d9e867",
 		"type": "organization",
 		"id": "e811f0b4-451f-4896-9e8f-fc6802837819",

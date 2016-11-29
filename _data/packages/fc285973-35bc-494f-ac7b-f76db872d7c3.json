@@ -36,7 +36,7 @@
 		"cache_url": null,
 		"name": "ftp",
 		"created": "2016-04-18T15:37:39.316542",
-		"url": "ftp:\/\/tgftp.nws.noaa.gov\/data\/raw\/wa\/",
+		"url": "ftp://tgftp.nws.noaa.gov/data/raw/wa/",
 		"webstore_url": null,
 		"resource_locator_function": "download",
 		"position": 0,
@@ -65,7 +65,7 @@
 		"cache_url": null,
 		"name": "http",
 		"created": "2016-04-18T15:37:39.316576",
-		"url": "http:\/\/weather.noaa.gov\/pub\/data\/raw\/wa\/",
+		"url": "http://weather.noaa.gov/pub/data/raw/wa/",
 		"webstore_url": null,
 		"resource_locator_function": "download",
 		"position": 1,
@@ -94,7 +94,7 @@
 		"cache_url": null,
 		"name": "AWC",
 		"created": "2016-04-18T15:37:39.316588",
-		"url": "http:\/\/www.aviationweather.gov\/airmet",
+		"url": "http://www.aviationweather.gov/airmet",
 		"webstore_url": null,
 		"resource_locator_function": "information",
 		"position": 2,
@@ -123,7 +123,7 @@
 		"cache_url": null,
 		"name": "AIRMET",
 		"created": "2016-04-18T15:37:39.316595",
-		"url": "http:\/\/www.aviationweather.gov\/airmet",
+		"url": "http://www.aviationweather.gov/airmet",
 		"webstore_url": null,
 		"resource_locator_function": "download",
 		"position": 3,
@@ -152,7 +152,7 @@
 		"cache_url": null,
 		"name": "WXXM Schema",
 		"created": "2016-04-18T15:37:39.316602",
-		"url": "http:\/\/www.wxxm.aero\/gallery\/content\/public\/WXXM_Documentation\/Documentation\/index.html",
+		"url": "http://www.wxxm.aero/gallery/content/public/WXXM_Documentation/Documentation/index.html",
 		"webstore_url": null,
 		"resource_locator_function": "download",
 		"position": 4,
@@ -181,7 +181,7 @@
 		"cache_url": null,
 		"name": "AIRMET",
 		"created": "2016-04-18T15:37:39.316609",
-		"url": "http:\/\/www.aviationweather.gov\/airmet",
+		"url": "http://www.aviationweather.gov/airmet",
 		"webstore_url": null,
 		"resource_locator_function": "download",
 		"position": 5,
@@ -241,7 +241,7 @@
 	},
 	{
 		"key": "spatial",
-		"value": "{\"type\": \"Polygon\", \"coordinates\": [[[-190.0, 15.0], [-67.0, 15.0], [-67.0, 75.0], [-190.0, 75.0], [-190.0, 15.0]]]}"
+		"value": "{"type": "Polygon", "coordinates": [[[-190.0, 15.0], [-67.0, 15.0], [-67.0, 75.0], [-190.0, 75.0], [-190.0, 15.0]]]}"
 	},
 	{
 		"key": "progress",
@@ -265,7 +265,7 @@
 	},
 	{
 		"key": "dataset-reference-date",
-		"value": "[{\"type\": \"creation\", \"value\": \"2011-11-11\"}]"
+		"value": "[{"type": "creation", "value": "2011-11-11"}]"
 	},
 	{
 		"key": "frequency-of-update",
@@ -273,7 +273,7 @@
 	},
 	{
 		"key": "licence",
-		"value": "[\"Disclaimer - While every effort has been made to ensure that these data are accurate and reliable within the limits of the current state of the art, NOAA cannot assume liability for any damages caused by any errors or omissions in the data, nor as a result of the failure of the data to function on a particular system. NOAA makes no warranty, expressed or implied, nor does the fact of distribution constitute such a warranty.\"]"
+		"value": "["Disclaimer - While every effort has been made to ensure that these data are accurate and reliable within the limits of the current state of the art, NOAA cannot assume liability for any damages caused by any errors or omissions in the data, nor as a result of the failure of the data to function on a particular system. NOAA makes no warranty, expressed or implied, nor does the fact of distribution constitute such a warranty."]"
 	},
 	{
 		"key": "metadata_type",
@@ -281,7 +281,7 @@
 	},
 	{
 		"key": "responsible-party",
-		"value": "[{\"name\": \"\", \"roles\": [\"pointOfContact\"]}]"
+		"value": "[{"name": "", "roles": ["pointOfContact"]}]"
 	},
 	{
 		"key": "spatial-data-service-type",
@@ -293,7 +293,7 @@
 	},
 	{
 		"package_id": "fc285973-35bc-494f-ac7b-f76db872d7c3",
-		"value": "doc\/noaa\/nws\/toc\/nwstg, cloud_area_fraction, sleet, g-airmet, winds, cloud ceiling, cloud_base_height, waak4[7-9] pawu, snow, wind speed\/wind direction, cloud fraction, accretion, fog, cloud droplet concentration\/size, doc\/noaa\/nws\/ncep\/awc, waus4[1-6] kkci, visibility_in_air, rain, wahw31 phfo, riming, cloud height, turbulence, wind_speed, none, clouds, airmet, visibility, wind shear, wind_from_direction, wind_shear, surface winds",
+		"value": "doc/noaa/nws/toc/nwstg, cloud_area_fraction, sleet, g-airmet, winds, cloud ceiling, cloud_base_height, waak4[7-9] pawu, snow, wind speed/wind direction, cloud fraction, accretion, fog, cloud droplet concentration/size, doc/noaa/nws/ncep/awc, waus4[1-6] kkci, visibility_in_air, rain, wahw31 phfo, riming, cloud height, turbulence, wind_speed, none, clouds, airmet, visibility, wind shear, wind_from_direction, wind_shear, surface winds",
 		"revision_timestamp": "2016-04-18T19:37:39.209222",
 		"state": "active",
 		"key": "tags",
@@ -323,7 +323,7 @@
 		"revision_timestamp": "2013-03-25T23:05:12.923863",
 		"is_organization": true,
 		"state": "active",
-		"image_url": "https:\/\/fortress.wa.gov\/dfw\/score\/score\/images\/noaa_logo.png",
+		"image_url": "https://fortress.wa.gov/dfw/score/score/images/noaa_logo.png",
 		"revision_id": "c6d43080-22e1-405e-a83d-f2a512d9e867",
 		"type": "organization",
 		"id": "e811f0b4-451f-4896-9e8f-fc6802837819",

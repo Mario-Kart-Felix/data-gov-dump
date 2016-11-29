@@ -37,7 +37,7 @@
 		"cache_url": null,
 		"name": "Zip File",
 		"created": "2014-11-17T16:12:06.307965",
-		"url": "http:\/\/water.usgs.gov\/GIS\/dsdl\/PhosphorusMap.zip",
+		"url": "http://water.usgs.gov/GIS/dsdl/PhosphorusMap.zip",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 0,
@@ -67,7 +67,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2014-11-17T16:12:06.307985",
-		"url": "http:\/\/water.usgs.gov\/lookup\/getspatial?pmapnatl",
+		"url": "http://water.usgs.gov/lookup/getspatial?pmapnatl",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 1,
@@ -87,7 +87,7 @@
 	"name": "watershed-potential-to-contribute-phosphorus-from-geologic-materials-to-receiving-streams-conte",
 	"isopen": false,
 	"url": null,
-	"notes": "This spatial data layer is a cell-based Raster model characterizing the contribution of phosphorus (P) to streams from weathering and erosion of surficial geologic materials for the conterminous United States, and has been created as part of the SPARROW (Spatially Referenced Regressions on Watershed Attributes) water-quality model implementation. SPARROW provides estimates of total nitrogen and phosphorus load in surface waters from point and non-point sources. This data set represents only potential for P contributions, and does not include N. The characterization of contribution of P from geologic materials will help separate the effects of natural or background sources from anthropogenic sources of P, such as from municipal wastewater or agricultural practices. The potential of a watershed to contribute P from naturally occurring geologic materials in the watershed to the adjacent receiving stream is characterized using geochemical data from bed-sediment samples (USGS National Geochemical Survey, National Uranium Resource Evaluation (NURE), Smith 1979) collected from first-order streams in relatively undisturbed watersheds. Bed sediment samples were collected from 1975 through 1980. The bed-sediment phosphorus concentrations (BSPconc) in this data set represent BSPconc in the absence of anthropogenic sources and therefore spatial variation in BSPconc can be used to indicate spatial variation in the potential to contribute naturally occurring P from the geologic materials in the watershed to the stream. A continuous mapped distribution of BSPconc in headwater streams for the conterminous U.S. was prepared by summarizing BSPconc from 50,740 bed-sediment samples by geologic unit using regional-scale geologic map units (GMU's). The GMU's delineate areas with similar lithochemistry based on geologic age as well as ecoregion units. GMU\u00e2\u0080\u0099s were created by combining surficial geology (Hunt, Charles D., 1979) with Level IV Ecoregion units (U.S. Environmental Protection Agency 2011). This data set represents the mean BSPconc value for each GMU. The spatial pattern of BSPconc in headwater streams is offered as a data layer, representing best available information at the regional scale, with the caveat that its performance as a surrogate for contribution of P from watershed geologic materials to in-stream levels of P is weakened by not accounting for variability across headwater streams in the rates of net deposition and processing of P in the streambed.",
+	"notes": "This spatial data layer is a cell-based Raster model characterizing the contribution of phosphorus (P) to streams from weathering and erosion of surficial geologic materials for the conterminous United States, and has been created as part of the SPARROW (Spatially Referenced Regressions on Watershed Attributes) water-quality model implementation. SPARROW provides estimates of total nitrogen and phosphorus load in surface waters from point and non-point sources. This data set represents only potential for P contributions, and does not include N. The characterization of contribution of P from geologic materials will help separate the effects of natural or background sources from anthropogenic sources of P, such as from municipal wastewater or agricultural practices. The potential of a watershed to contribute P from naturally occurring geologic materials in the watershed to the adjacent receiving stream is characterized using geochemical data from bed-sediment samples (USGS National Geochemical Survey, National Uranium Resource Evaluation (NURE), Smith 1979) collected from first-order streams in relatively undisturbed watersheds. Bed sediment samples were collected from 1975 through 1980. The bed-sediment phosphorus concentrations (BSPconc) in this data set represent BSPconc in the absence of anthropogenic sources and therefore spatial variation in BSPconc can be used to indicate spatial variation in the potential to contribute naturally occurring P from the geologic materials in the watershed to the stream. A continuous mapped distribution of BSPconc in headwater streams for the conterminous U.S. was prepared by summarizing BSPconc from 50,740 bed-sediment samples by geologic unit using regional-scale geologic map units (GMU's). The GMU's delineate areas with similar lithochemistry based on geologic age as well as ecoregion units. GMUu00e2u0080u0099s were created by combining surficial geology (Hunt, Charles D., 1979) with Level IV Ecoregion units (U.S. Environmental Protection Agency 2011). This data set represents the mean BSPconc value for each GMU. The spatial pattern of BSPconc in headwater streams is offered as a data layer, representing best available information at the regional scale, with the caveat that its performance as a surrogate for contribution of P from watershed geologic materials to in-stream levels of P is weakened by not accounting for variability across headwater streams in the rates of net deposition and processing of P in the streambed.",
 	"license_title": null,
 	"extras": [{
 		"key": "bbox-east-long",
@@ -115,7 +115,7 @@
 	},
 	{
 		"key": "graphic-preview-file",
-		"value": "http:\/\/water.usgs.gov\/GIS\/browse\/PMapThumb.jpg"
+		"value": "http://water.usgs.gov/GIS/browse/PMapThumb.jpg"
 	},
 	{
 		"key": "bbox-south-lat",
@@ -131,7 +131,7 @@
 	},
 	{
 		"key": "spatial",
-		"value": "{\"type\": \"Polygon\", \"coordinates\": [[[-127.900289121, 22.894343093], [-65.334157352, 22.894343093], [-65.334157352, 50.591453065], [-127.900289121, 50.591453065], [-127.900289121, 22.894343093]]]}"
+		"value": "{"type": "Polygon", "coordinates": [[[-127.900289121, 22.894343093], [-65.334157352, 22.894343093], [-65.334157352, 50.591453065], [-127.900289121, 50.591453065], [-127.900289121, 22.894343093]]]}"
 	},
 	{
 		"key": "progress",
@@ -139,7 +139,7 @@
 	},
 	{
 		"key": "access_constraints",
-		"value": "[\"Use Constraints: None\", \"Access Constraints: None\"]"
+		"value": "["Use Constraints: None", "Access Constraints: None"]"
 	},
 	{
 		"key": "contact-email",
@@ -155,7 +155,7 @@
 	},
 	{
 		"key": "dataset-reference-date",
-		"value": "[{\"type\": \"publication\", \"value\": \"2014-09-30\"}]"
+		"value": "[{"type": "publication", "value": "2014-09-30"}]"
 	},
 	{
 		"key": "graphic-preview-description",
@@ -167,7 +167,7 @@
 	},
 	{
 		"key": "licence",
-		"value": "[\"Although these data have been processed successfully on a computer system at the USGS, no warranty expressed or implied is made by the USGS regarding the use of the data on any other system, nor does the act of distribution constitute any such warranty. Data may have been compiled from various outside sources. Spatial information may not meet National Map Accuracy Standards. This information may be updated without notification. The USGS shall not be liable for any activity involving these data, installation, fitness of the data for a particular purpose, its use, or analyses results. \\nAny use of trade, product, or firm names is for descriptive purposes only and does not imply endorsement by the U.S. Government.\\nAlthough this Federal Geographic Data Committee-compliant metadata file is intended to document the data set in nonproprietary form, as well as in ArcInfo format, this metadata file may include some ArcInfo-specific terminology.\"]"
+		"value": "["Although these data have been processed successfully on a computer system at the USGS, no warranty expressed or implied is made by the USGS regarding the use of the data on any other system, nor does the act of distribution constitute any such warranty. Data may have been compiled from various outside sources. Spatial information may not meet National Map Accuracy Standards. This information may be updated without notification. The USGS shall not be liable for any activity involving these data, installation, fitness of the data for a particular purpose, its use, or analyses results. \nAny use of trade, product, or firm names is for descriptive purposes only and does not imply endorsement by the U.S. Government.\nAlthough this Federal Geographic Data Committee-compliant metadata file is intended to document the data set in nonproprietary form, as well as in ArcInfo format, this metadata file may include some ArcInfo-specific terminology."]"
 	},
 	{
 		"key": "metadata_type",
@@ -175,7 +175,7 @@
 	},
 	{
 		"key": "responsible-party",
-		"value": "[{\"name\": \"U.S. Geological Survey\", \"roles\": [\"pointOfContact\"]}]"
+		"value": "[{"name": "U.S. Geological Survey", "roles": ["pointOfContact"]}]"
 	},
 	{
 		"key": "spatial-data-service-type",
@@ -210,14 +210,14 @@
 		"value": "Water NSDI Node Spatial Datasets"
 	}],
 	"organization": {
-		"description": "http:\/\/www.usgs.gov\/\r\nThe USGS is a federal science agency that provides impartial information on the health of our ecosystems and environment, the natural hazards that threaten us, the natural resources we rely on, the impacts of climate and land-use change, and the core science systems that help us provide timely, relevant, and useable information.",
+		"description": "http://www.usgs.gov/rnThe USGS is a federal science agency that provides impartial information on the health of our ecosystems and environment, the natural hazards that threaten us, the natural resources we rely on, the impacts of climate and land-use change, and the core science systems that help us provide timely, relevant, and useable information.",
 		"created": "2013-03-14T03:44:38.263357",
 		"title": "U.S. Geological Survey, Department of the Interior",
 		"name": "usgs-gov",
 		"revision_timestamp": "2014-09-02T13:43:52.167023",
 		"is_organization": true,
 		"state": "active",
-		"image_url": "http:\/\/pubs.usgs.gov\/sir\/2004\/5296\/04-5296_confluence_park\/usgs_logo.gif",
+		"image_url": "http://pubs.usgs.gov/sir/2004/5296/04-5296_confluence_park/usgs_logo.gif",
 		"revision_id": "2858aa99-9501-4f96-82e5-9647b968ed66",
 		"type": "organization",
 		"id": "bd2cdd5a-4d65-46c0-9937-c8381175f104",

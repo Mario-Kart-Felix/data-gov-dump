@@ -36,7 +36,7 @@
 		"cache_url": null,
 		"name": "National Geomagnetism Program",
 		"created": "2015-12-20T13:33:48.365846",
-		"url": "http:\/\/geomag.usgs.gov",
+		"url": "http://geomag.usgs.gov",
 		"webstore_url": null,
 		"resource_locator_function": "information",
 		"position": 0,
@@ -65,7 +65,7 @@
 		"cache_url": null,
 		"name": "GCMD Feedback Form",
 		"created": "2015-12-20T13:33:48.365873",
-		"url": "http:\/\/gcmd.nasa.gov\/MailComments\/MailComments.jsf?rcpt=gcmduso",
+		"url": "http://gcmd.nasa.gov/MailComments/MailComments.jsf?rcpt=gcmduso",
 		"webstore_url": null,
 		"resource_locator_function": "information",
 		"position": 1,
@@ -94,7 +94,7 @@
 		"cache_url": null,
 		"name": "GCMD Keywords Page",
 		"created": "2015-12-20T13:33:48.365890",
-		"url": "http:\/\/gcmd.nasa.gov\/learn\/keyword_list.html",
+		"url": "http://gcmd.nasa.gov/learn/keyword_list.html",
 		"webstore_url": null,
 		"resource_locator_function": "information",
 		"position": 2,
@@ -114,7 +114,7 @@
 	"name": "boulder-magnetic-observatory",
 	"isopen": false,
 	"url": null,
-	"notes": "These data are vector and scalar component values of the Earth's magnetic field for 2004 recorded at the Boulder Magnetic Observatory in Colorado. Vector values are measured using 3 mutually orthogonal fluxgate magnetometer sensors. The scalar value of the total magnetic field is recorded with a proton precession magnetometer. All values are calibrated with measurements of the absolute value of the geomagnetic field using a DI-Flux magnetometer. The data are\n                    numerically filtered to prevent aliasing, and quality controlled during processing. Longer period values of the field, including hourly, daily, monthly, and annual means are derived from the 1-minute data.",
+	"notes": "These data are vector and scalar component values of the Earth's magnetic field for 2004 recorded at the Boulder Magnetic Observatory in Colorado. Vector values are measured using 3 mutually orthogonal fluxgate magnetometer sensors. The scalar value of the total magnetic field is recorded with a proton precession magnetometer. All values are calibrated with measurements of the absolute value of the geomagnetic field using a DI-Flux magnetometer. The data aren                    numerically filtered to prevent aliasing, and quality controlled during processing. Longer period values of the field, including hourly, daily, monthly, and annual means are derived from the 1-minute data.",
 	"license_title": null,
 	"extras": [{
 		"key": "bbox-east-long",
@@ -158,7 +158,7 @@
 	},
 	{
 		"key": "spatial",
-		"value": "{\"type\": \"Point\", \"coordinates\": [-105.24, 49.86]}"
+		"value": "{"type": "Point", "coordinates": [-105.24, 49.86]}"
 	},
 	{
 		"key": "progress",
@@ -166,7 +166,7 @@
 	},
 	{
 		"key": "access_constraints",
-		"value": "[\"Use Constraints: Contact Institution\", \"Access Constraints: None\"]"
+		"value": "["Use Constraints: Contact Institution", "Access Constraints: None"]"
 	},
 	{
 		"key": "temporal-extent-begin",
@@ -186,7 +186,7 @@
 	},
 	{
 		"key": "dataset-reference-date",
-		"value": "[{\"type\": \"publication\", \"value\": \"2005-01-01\"}]"
+		"value": "[{"type": "publication", "value": "2005-01-01"}]"
 	},
 	{
 		"key": "graphic-preview-description",
@@ -198,7 +198,7 @@
 	},
 	{
 		"key": "licence",
-		"value": "[\"NOAA accepts no responsibility for the accuracy or integrity of any data provided, nor for any consequences for use of the data for any purpose(s).\"]"
+		"value": "["NOAA accepts no responsibility for the accuracy or integrity of any data provided, nor for any consequences for use of the data for any purpose(s)."]"
 	},
 	{
 		"key": "metadata_type",
@@ -206,7 +206,7 @@
 	},
 	{
 		"key": "responsible-party",
-		"value": "[{\"name\": \"DOC\/NOAA\/NESDIS\/NCEI > National Centers for Environmental Information, NESDIS, NOAA, U.S. Department of Commerce\", \"roles\": [\"pointOfContact\"]}]"
+		"value": "[{"name": "DOC/NOAA/NESDIS/NCEI > National Centers for Environmental Information, NESDIS, NOAA, U.S. Department of Commerce", "roles": ["pointOfContact"]}]"
 	},
 	{
 		"key": "temporal-extent-end",
@@ -222,7 +222,7 @@
 	},
 	{
 		"package_id": "8b8020a0-3882-43cc-994a-915cbdda9255",
-		"value": "magnetic intensity, solid earth, doc\/noaa\/nesdis\/ngdc, geomagnetic indices, geomagnetism, magnetic field, magnetic declination, national centers for environmental information, nesdis, noaa, u.s. department of commerce, doc\/noaa\/nesdis\/ncei, magnetic inclination, national geophysical data center, nesdis, noaa, u.s. department of commerce, earth science",
+		"value": "magnetic intensity, solid earth, doc/noaa/nesdis/ngdc, geomagnetic indices, geomagnetism, magnetic field, magnetic declination, national centers for environmental information, nesdis, noaa, u.s. department of commerce, doc/noaa/nesdis/ncei, magnetic inclination, national geophysical data center, nesdis, noaa, u.s. department of commerce, earth science",
 		"revision_timestamp": "2015-12-20T18:33:48.214365",
 		"state": "active",
 		"key": "tags",
@@ -252,7 +252,7 @@
 		"revision_timestamp": "2013-03-25T23:05:12.923863",
 		"is_organization": true,
 		"state": "active",
-		"image_url": "https:\/\/fortress.wa.gov\/dfw\/score\/score\/images\/noaa_logo.png",
+		"image_url": "https://fortress.wa.gov/dfw/score/score/images/noaa_logo.png",
 		"revision_id": "c6d43080-22e1-405e-a83d-f2a512d9e867",
 		"type": "organization",
 		"id": "e811f0b4-451f-4896-9e8f-fc6802837819",

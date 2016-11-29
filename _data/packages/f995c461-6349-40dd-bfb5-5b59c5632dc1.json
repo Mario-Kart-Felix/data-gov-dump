@@ -37,7 +37,7 @@
 		"cache_url": null,
 		"name": "Zip File",
 		"created": "2016-03-21T18:24:17.857272",
-		"url": "ftp:\/\/ftp.coast.noaa.gov\/pub\/MSP\/DangerZonesAndRestrictedAreas.zip",
+		"url": "ftp://ftp.coast.noaa.gov/pub/MSP/DangerZonesAndRestrictedAreas.zip",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 0,
@@ -67,7 +67,7 @@
 		"cache_url": null,
 		"name": "Esri Rest API Endpoint",
 		"created": "2016-03-21T18:24:17.857310",
-		"url": "https:\/\/coast.noaa.gov\/arcgis\/rest\/services\/MarineCadastre\/NavigationAndMarineTransportation\/MapServer\/",
+		"url": "https://coast.noaa.gov/arcgis/rest/services/MarineCadastre/NavigationAndMarineTransportation/MapServer/",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 1,
@@ -97,7 +97,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2016-03-21T18:24:17.857321",
-		"url": "http:\/\/marinecadastre.gov\/data\/",
+		"url": "http://marinecadastre.gov/data/",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 2,
@@ -127,7 +127,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2016-03-21T18:24:17.857329",
-		"url": "https:\/\/www.coast.noaa.gov\/",
+		"url": "https://www.coast.noaa.gov/",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 3,
@@ -147,11 +147,11 @@
 	"name": "danger-zones-and-restricted-areas-in-the-united-states-as-of-july-2012",
 	"isopen": false,
 	"url": null,
-	"notes": "These data represent the location of Danger Zones and Restricted Areas within coastal and marine waters, as outlined by the Code of Federal Regulations (CFR) and the Raster Navigational Charts (RNC). The CFR defines a Danger Zone as, \"A defined water area (or areas) used for target practice, bombing, rocket firing or other especially hazardous operations, normally for the armed forces. The danger zones may be closed to the public on a full-time or intermittent basis, as stated in the regulations.\" The CFR defines a Restricted Area as, \"A defined water area for the purpose of prohibiting or limiting public access to the area. Restricted areas generally provide security for Government property and\/or protection to the public from the risks of damage or injury arising from the Government's use of that area.\" Authoritative information relating to these data may be found in Title 33, Chapter II of the CFR (Part 334).",
+	"notes": "These data represent the location of Danger Zones and Restricted Areas within coastal and marine waters, as outlined by the Code of Federal Regulations (CFR) and the Raster Navigational Charts (RNC). The CFR defines a Danger Zone as, "A defined water area (or areas) used for target practice, bombing, rocket firing or other especially hazardous operations, normally for the armed forces. The danger zones may be closed to the public on a full-time or intermittent basis, as stated in the regulations." The CFR defines a Restricted Area as, "A defined water area for the purpose of prohibiting or limiting public access to the area. Restricted areas generally provide security for Government property and/or protection to the public from the risks of damage or injury arising from the Government's use of that area." Authoritative information relating to these data may be found in Title 33, Chapter II of the CFR (Part 334).",
 	"license_title": null,
 	"extras": [{
 		"key": "responsible-party",
-		"value": "[{\"name\": \"NOAA Office for Coastal Management\", \"roles\": [\"pointOfContact\"]}]"
+		"value": "[{"name": "NOAA Office for Coastal Management", "roles": ["pointOfContact"]}]"
 	},
 	{
 		"key": "contact-email",
@@ -171,7 +171,7 @@
 	},
 	{
 		"key": "dataset-reference-date",
-		"value": "[{\"type\": \"publication\", \"value\": \"2016-03-16\"}]"
+		"value": "[{"type": "publication", "value": "2016-03-16"}]"
 	},
 	{
 		"key": "resource-type",
@@ -199,7 +199,7 @@
 	},
 	{
 		"key": "licence",
-		"value": "[\"\\nNOAA makes no warranties or representations whatsoever regarding the availability, quality, accuracy, content, completeness or suitability for the user's needs of such information. The services, information, and data made available on the Marine Cadastre web site are provided \\\"as is\\\" without warranties of any kind. These data are intended for coastal and ocean use planning. Not for navigation.\\nhttp:\/\/www.marinecadastre.gov\/about\/disclaimer.html\\n\"]"
+		"value": "["\nNOAA makes no warranties or representations whatsoever regarding the availability, quality, accuracy, content, completeness or suitability for the user's needs of such information. The services, information, and data made available on the Marine Cadastre web site are provided \"as is\" without warranties of any kind. These data are intended for coastal and ocean use planning. Not for navigation.\nhttp://www.marinecadastre.gov/about/disclaimer.html\n"]"
 	},
 	{
 		"key": "metadata_type",
@@ -211,7 +211,7 @@
 	},
 	{
 		"key": "spatial",
-		"value": "{\"type\": \"Polygon\", \"coordinates\": [[[-176.629138, 5.365109], [175.254452, 5.365109], [175.254452, 65.625516], [-176.629138, 65.625516], [-176.629138, 5.365109]]]}"
+		"value": "{"type": "Polygon", "coordinates": [[[-176.629138, 5.365109], [175.254452, 5.365109], [175.254452, 65.625516], [-176.629138, 65.625516], [-176.629138, 5.365109]]]}"
 	},
 	{
 		"key": "guid",
@@ -223,7 +223,7 @@
 	},
 	{
 		"key": "access_constraints",
-		"value": "[\"Use Constraints: These data are intended for coastal and ocean use planning. Not for navigation. http:\/\/www.marinecadastre.gov\/about\/disclaimer.html\", \"Access Constraints: None\"]"
+		"value": "["Use Constraints: These data are intended for coastal and ocean use planning. Not for navigation. http://www.marinecadastre.gov/about/disclaimer.html", "Access Constraints: None"]"
 	},
 	{
 		"key": "spatial_harvester",
@@ -265,7 +265,7 @@
 		"revision_timestamp": "2013-03-25T23:05:12.923863",
 		"is_organization": true,
 		"state": "active",
-		"image_url": "https:\/\/fortress.wa.gov\/dfw\/score\/score\/images\/noaa_logo.png",
+		"image_url": "https://fortress.wa.gov/dfw/score/score/images/noaa_logo.png",
 		"revision_id": "c6d43080-22e1-405e-a83d-f2a512d9e867",
 		"type": "organization",
 		"id": "e811f0b4-451f-4896-9e8f-fc6802837819",

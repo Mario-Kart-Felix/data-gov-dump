@@ -37,7 +37,7 @@
 		"cache_url": null,
 		"name": "Zip File",
 		"created": "2016-03-09T01:28:36.591465",
-		"url": "http:\/\/www.boem.gov\/ATL-CSB.zip",
+		"url": "http://www.boem.gov/ATL-CSB.zip",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 0,
@@ -67,7 +67,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2016-03-09T01:28:36.591506",
-		"url": "http:\/\/www.boem.gov\/Oil-and-Gas-Energy-Program\/Mapping-and-Data\/Atlantic.aspx",
+		"url": "http://www.boem.gov/Oil-and-Gas-Energy-Program/Mapping-and-Data/Atlantic.aspx",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 1,
@@ -97,7 +97,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2016-03-09T01:28:36.591519",
-		"url": "http:\/\/www.boem.gov\/Oil-and-Gas-Energy-Program\/Mapping-and-Data\/Atlantic.aspx",
+		"url": "http://www.boem.gov/Oil-and-Gas-Energy-Program/Mapping-and-Data/Atlantic.aspx",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 2,
@@ -130,7 +130,7 @@
 	"name": "atlantic-nad-83-continental-shelf-boundary-csb",
 	"isopen": false,
 	"url": null,
-	"notes": "This data set contains Continental Shelf Boundary (CSB) lines in ESRI shapefile format for the BOEM Atlantic Region. The CSB defines the seaward limit of federally managed OCS lands. This CSB file only includes the lateral boundaries between the United States and Canada, Bahamas or Cuba. That portion of the CSB defined by the 200 nautical mile line is not yet included. The BOEM CSB line is similar to, the Exclusive Economic Zone (EEZ) line published by NOAA, but the CSB may have slight differences. For example the CSB line will include intersection points with the BOEM OCS blocks. Additional details are available from OCS Report MMS 99-0006 - Boundary Development on the Outer Continental Shelf: http:\/\/www.boemre.gov\/itd\/pubs\/1999\/99-0006.pdf Because GIS projection and topology functions can change or generalize coordinates, these GIS files are considered to be approximate and are NOT an OFFICIAL record for the exact baseline coordinates. The Official Protraction Diagrams (OPDs) and Supplemental Official Block Diagrams (SOBDs) serve as the legal definition for BOEM offshore boundary coordinates and area descriptions.",
+	"notes": "This data set contains Continental Shelf Boundary (CSB) lines in ESRI shapefile format for the BOEM Atlantic Region. The CSB defines the seaward limit of federally managed OCS lands. This CSB file only includes the lateral boundaries between the United States and Canada, Bahamas or Cuba. That portion of the CSB defined by the 200 nautical mile line is not yet included. The BOEM CSB line is similar to, the Exclusive Economic Zone (EEZ) line published by NOAA, but the CSB may have slight differences. For example the CSB line will include intersection points with the BOEM OCS blocks. Additional details are available from OCS Report MMS 99-0006 - Boundary Development on the Outer Continental Shelf: http://www.boemre.gov/itd/pubs/1999/99-0006.pdf Because GIS projection and topology functions can change or generalize coordinates, these GIS files are considered to be approximate and are NOT an OFFICIAL record for the exact baseline coordinates. The Official Protraction Diagrams (OPDs) and Supplemental Official Block Diagrams (SOBDs) serve as the legal definition for BOEM offshore boundary coordinates and area descriptions.",
 	"license_title": null,
 	"extras": [{
 		"key": "bbox-east-long",
@@ -158,7 +158,7 @@
 	},
 	{
 		"key": "graphic-preview-file",
-		"value": "http:\/\/www.boem.gov\/assets\/0\/79\/99\/203\/1fcf0785-74a1-4640-b93d-cb6d1b3f8d72.gif"
+		"value": "http://www.boem.gov/assets/0/79/99/203/1fcf0785-74a1-4640-b93d-cb6d1b3f8d72.gif"
 	},
 	{
 		"key": "bbox-south-lat",
@@ -174,7 +174,7 @@
 	},
 	{
 		"key": "spatial",
-		"value": "{\"type\": \"Polygon\", \"coordinates\": [[[-83.026245, 23.817923], [-64.125912, 23.817923], [-64.125912, 44.776565], [-83.026245, 44.776565], [-83.026245, 23.817923]]]}"
+		"value": "{"type": "Polygon", "coordinates": [[[-83.026245, 23.817923], [-64.125912, 23.817923], [-64.125912, 44.776565], [-83.026245, 44.776565], [-83.026245, 23.817923]]]}"
 	},
 	{
 		"key": "progress",
@@ -182,7 +182,7 @@
 	},
 	{
 		"key": "access_constraints",
-		"value": "[\"Use Constraints: The data was developed within the U.S. Government; no proprietary rights may be attached to them nor may they be sold to the U.S. Government as part of any procurement of ADP products or services.\", \"Access Constraints: None. The Block and Boundary data is in the public domain.\"]"
+		"value": "["Use Constraints: The data was developed within the U.S. Government; no proprietary rights may be attached to them nor may they be sold to the U.S. Government as part of any procurement of ADP products or services.", "Access Constraints: None. The Block and Boundary data is in the public domain."]"
 	},
 	{
 		"key": "contact-email",
@@ -198,7 +198,7 @@
 	},
 	{
 		"key": "dataset-reference-date",
-		"value": "[{\"type\": \"publication\", \"value\": \"2005-02-01\"}]"
+		"value": "[{"type": "publication", "value": "2005-02-01"}]"
 	},
 	{
 		"key": "graphic-preview-description",
@@ -210,7 +210,7 @@
 	},
 	{
 		"key": "licence",
-		"value": "[\"\\nAs is.  No responsibility is assumed for the\\ncorrectness of this data.\\n\"]"
+		"value": "["\nAs is.  No responsibility is assumed for the\ncorrectness of this data.\n"]"
 	},
 	{
 		"key": "metadata_type",
@@ -218,7 +218,7 @@
 	},
 	{
 		"key": "responsible-party",
-		"value": "[{\"name\": \"Bureau of Ocean Energy Management, Mapping and Boundary Branch\", \"roles\": [\"pointOfContact\"]}]"
+		"value": "[{"name": "Bureau of Ocean Energy Management, Mapping and Boundary Branch", "roles": ["pointOfContact"]}]"
 	},
 	{
 		"key": "spatial-data-service-type",
@@ -260,7 +260,7 @@
 		"revision_timestamp": "2013-03-20T22:26:39.819248",
 		"is_organization": true,
 		"state": "active",
-		"image_url": "http:\/\/www.boem.gov\/images\/boem\/layout\/logo.png",
+		"image_url": "http://www.boem.gov/images/boem/layout/logo.png",
 		"revision_id": "6f2fda4e-48e9-42f6-b1dd-da068900ba24",
 		"type": "organization",
 		"id": "54ed71a6-4861-4dc1-aa78-c5661ba9ab04",

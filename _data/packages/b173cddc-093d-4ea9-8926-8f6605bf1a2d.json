@@ -36,7 +36,7 @@
 		"cache_url": null,
 		"name": "NOAA National Centers for Environmental Information in Maryland (NCEI-MD)",
 		"created": "2016-11-14T22:55:40.792812",
-		"url": "http:\/\/www.nodc.noaa.gov\/",
+		"url": "http://www.nodc.noaa.gov/",
 		"webstore_url": null,
 		"resource_locator_function": "information",
 		"position": 0,
@@ -66,7 +66,7 @@
 		"cache_url": null,
 		"name": "XML File",
 		"created": "2016-11-14T22:55:40.792842",
-		"url": "http:\/\/www.ncddc.noaa.gov\/oer-waf\/ISO\/Resolved\/2015\/EX1502L3_COLLECTION_RESOLVED.xml",
+		"url": "http://www.ncddc.noaa.gov/oer-waf/ISO/Resolved/2015/EX1502L3_COLLECTION_RESOLVED.xml",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 1,
@@ -122,7 +122,7 @@
 	},
 	{
 		"key": "spatial",
-		"value": "{\"type\": \"Polygon\", \"coordinates\": [[[-67.32, 16.92], [-63.77, 16.92], [-63.77, 21.0], [-67.32, 21.0], [-67.32, 16.92]]]}"
+		"value": "{"type": "Polygon", "coordinates": [[[-67.32, 16.92], [-63.77, 16.92], [-63.77, 21.0], [-67.32, 21.0], [-67.32, 16.92]]]}"
 	},
 	{
 		"key": "progress",
@@ -130,7 +130,7 @@
 	},
 	{
 		"key": "access_constraints",
-		"value": "[\"Access Constraints: None Use Constraints: The user is responsible for the results of any application of this data for other than its intended purpose. Distribution Liability: While NODC makes every effort to ensure that its databases are error-free, errors do occur. We ask that you notify us immediately of any errors that you discover in our data. We will make every effort to correct them. With respect to documents available from this server, neither the United States Government nor any of its employees, makes any warranty, express or implied, including the warranties of merchantability and fitness for a particular purpose; nor assumes any legal liability or responsibility for the accuracy, completeness, or usefulness of any information, apparatus, product, or process disclosed; nor represents that its use would not infringe privately owned rights.\"]"
+		"value": "["Access Constraints: None Use Constraints: The user is responsible for the results of any application of this data for other than its intended purpose. Distribution Liability: While NODC makes every effort to ensure that its databases are error-free, errors do occur. We ask that you notify us immediately of any errors that you discover in our data. We will make every effort to correct them. With respect to documents available from this server, neither the United States Government nor any of its employees, makes any warranty, express or implied, including the warranties of merchantability and fitness for a particular purpose; nor assumes any legal liability or responsibility for the accuracy, completeness, or usefulness of any information, apparatus, product, or process disclosed; nor represents that its use would not infringe privately owned rights."]"
 	},
 	{
 		"key": "temporal-extent-begin",
@@ -150,7 +150,7 @@
 	},
 	{
 		"key": "dataset-reference-date",
-		"value": "[{\"type\": \"publication\", \"value\": \"\"}]"
+		"value": "[{"type": "publication", "value": ""}]"
 	},
 	{
 		"key": "frequency-of-update",
@@ -166,7 +166,7 @@
 	},
 	{
 		"key": "responsible-party",
-		"value": "[{\"name\": \"National Centers for Environmental Information (NCEI)\", \"roles\": [\"pointOfContact\"]}]"
+		"value": "[{"name": "National Centers for Environmental Information (NCEI)", "roles": ["pointOfContact"]}]"
 	},
 	{
 		"key": "temporal-extent-end",
@@ -212,7 +212,7 @@
 		"revision_timestamp": "2013-03-25T23:05:12.923863",
 		"is_organization": true,
 		"state": "active",
-		"image_url": "https:\/\/fortress.wa.gov\/dfw\/score\/score\/images\/noaa_logo.png",
+		"image_url": "https://fortress.wa.gov/dfw/score/score/images/noaa_logo.png",
 		"revision_id": "c6d43080-22e1-405e-a83d-f2a512d9e867",
 		"type": "organization",
 		"id": "e811f0b4-451f-4896-9e8f-fc6802837819",

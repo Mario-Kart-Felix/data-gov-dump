@@ -37,7 +37,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2013-03-14T14:28:23.366081",
-		"url": "URL:http:\/\/www.granit.sr.unh.edu",
+		"url": "URL:http://www.granit.sr.unh.edu",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 0,
@@ -67,7 +67,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2013-03-14T14:28:23.366104",
-		"url": "http:\/\/<URL:http:\/\/www.granit.sr.unh.edu\/cgi-bin\/nhsearch?dset=nhhd\/nhhd01070001>",
+		"url": "http://<URL:http://www.granit.sr.unh.edu/cgi-bin/nhsearch?dset=nhhd/nhhd01070001>",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 1,
@@ -97,7 +97,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2013-03-14T14:28:23.366112",
-		"url": "http:\/\/<URL:http:\/\/www.granit.sr.unh.edu>",
+		"url": "http://<URL:http://www.granit.sr.unh.edu>",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 2,
@@ -127,7 +127,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2013-03-14T14:28:23.366119",
-		"url": "http:\/\/www.des.state.nh.us",
+		"url": "http://www.des.state.nh.us",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 3,
@@ -171,7 +171,7 @@
 	},
 	{
 		"key": "graphic-preview-file",
-		"value": "<URL:http:\/\/www.granit.sr.unh.edu\/cgi-bin\/load_file?PATH=\/data\/database\/d-webdata\/nhhd\/browse.gif>"
+		"value": "<URL:http://www.granit.sr.unh.edu/cgi-bin/load_file?PATH=/data/database/d-webdata/nhhd/browse.gif>"
 	},
 	{
 		"key": "bbox-south-lat",
@@ -183,11 +183,11 @@
 	},
 	{
 		"key": "spatial",
-		"value": "{\"type\": \"Polygon\", \"coordinates\": [[[-72.5, 43.0], [-72.5, 44.199], [-71.401, 44.199], [-71.401, 43.0], [-72.5, 43.0]]]}"
+		"value": "{"type": "Polygon", "coordinates": [[[-72.5, 43.0], [-72.5, 44.199], [-71.401, 44.199], [-71.401, 43.0], [-72.5, 43.0]]]}"
 	},
 	{
 		"key": "access_constraints",
-		"value": "[\"Use Constraints: Stream order as determined by the Strahler method is dependent upon the scale and accuracy of the hydrographic network that is being ordered. The primary data source for assigning stream orders to the 1:24,000-scale vector flowlines was the USGS digital line graphs (DLGs), representing blue line features on the 1:24,000-scale topographic maps. Given the acknowledged inaccuracies in the attribution of intermittent versus perennial hydrographic features as depicted on these maps, all blue line features were included as part of the drainage network and subject to ordering. This approach is consistent with the Strahler method as originally proposed. However, some of these data were subsequently modified in an attempt to account for known differences in drainage density in limited areas of the state where density differences could reasonably be attributed to cartographic representation by the DLGs and not physical differences in geology and\/or hydrology. Specifically, areas where DLGs were digitized from provisional 1:25,000-scale 7.5x15-minute metric source maps exhibited a significantly higher drainage density than contiguous areas. Strahler stream order is very sensitive to drainage density and the overall consistency with which blue line features are defined and mapped. To enforce consistency in drainage density in those areas with provisional map coverage, the drainage network was systematically \\u0093pruned\\u0094 based on an empirical upstream drainage area threshold value that was representative of the initiation points (network starts) of blue line features in neighboring areas. Ordering was performed on the \\u0093pruned\\u0094 network in these areas. The resulting order values represent the best characterization possible given the limitations in the currency, accuracy and resolution of the source data, and serve the expressed goal of providing a meaningful parameter that can support hydrologic assessments of relative stream discharge and classifications of channel geometry. The 1:24,000-scale flowline network has not been subject to rigorous ground-truthing and, therefore, is subject to significant errors of omission, inclusion, and connectivity. Users of these data should be aware that any such error has the potential to significantly affect the stream order of downstream reaches. Furthermore, errors in the network have been discovered since the ordering was completed and additional errors are likely to be identified over time as more and more users with local hydrographic knowledge reference the dataset. The vector flowlines will be revised accordingly, but no plan exists to maintain the associated stream order attributes to be consistent with modified geometry. Significant differences exist between stream orders as assigned in this dataset and those assigned in an earlier version (1995) by the NH Office of State Planning (now the Office of Energy and Planning). Users should carefully consider their objectives when deciding which dataset to reference, given that some limitations apply in both cases. An understanding of the specific data sources and methods, as documented above and in the accompanying metadata records, is critical for appropriate application of the stream order dataset.\", \"Access Constraints: None.\"]"
+		"value": "["Use Constraints: Stream order as determined by the Strahler method is dependent upon the scale and accuracy of the hydrographic network that is being ordered. The primary data source for assigning stream orders to the 1:24,000-scale vector flowlines was the USGS digital line graphs (DLGs), representing blue line features on the 1:24,000-scale topographic maps. Given the acknowledged inaccuracies in the attribution of intermittent versus perennial hydrographic features as depicted on these maps, all blue line features were included as part of the drainage network and subject to ordering. This approach is consistent with the Strahler method as originally proposed. However, some of these data were subsequently modified in an attempt to account for known differences in drainage density in limited areas of the state where density differences could reasonably be attributed to cartographic representation by the DLGs and not physical differences in geology and/or hydrology. Specifically, areas where DLGs were digitized from provisional 1:25,000-scale 7.5x15-minute metric source maps exhibited a significantly higher drainage density than contiguous areas. Strahler stream order is very sensitive to drainage density and the overall consistency with which blue line features are defined and mapped. To enforce consistency in drainage density in those areas with provisional map coverage, the drainage network was systematically \u0093pruned\u0094 based on an empirical upstream drainage area threshold value that was representative of the initiation points (network starts) of blue line features in neighboring areas. Ordering was performed on the \u0093pruned\u0094 network in these areas. The resulting order values represent the best characterization possible given the limitations in the currency, accuracy and resolution of the source data, and serve the expressed goal of providing a meaningful parameter that can support hydrologic assessments of relative stream discharge and classifications of channel geometry. The 1:24,000-scale flowline network has not been subject to rigorous ground-truthing and, therefore, is subject to significant errors of omission, inclusion, and connectivity. Users of these data should be aware that any such error has the potential to significantly affect the stream order of downstream reaches. Furthermore, errors in the network have been discovered since the ordering was completed and additional errors are likely to be identified over time as more and more users with local hydrographic knowledge reference the dataset. The vector flowlines will be revised accordingly, but no plan exists to maintain the associated stream order attributes to be consistent with modified geometry. Significant differences exist between stream orders as assigned in this dataset and those assigned in an earlier version (1995) by the NH Office of State Planning (now the Office of Energy and Planning). Users should carefully consider their objectives when deciding which dataset to reference, given that some limitations apply in both cases. An understanding of the specific data sources and methods, as documented above and in the accompanying metadata records, is critical for appropriate application of the stream order dataset.", "Access Constraints: None."]"
 	},
 	{
 		"key": "temporal-extent-begin",
@@ -207,7 +207,7 @@
 	},
 	{
 		"key": "dataset-reference-date",
-		"value": "[{\"type\": \"publication\", \"value\": \"2006-01-01\"}]"
+		"value": "[{"type": "publication", "value": "2006-01-01"}]"
 	},
 	{
 		"key": "frequency-of-update",
@@ -215,7 +215,7 @@
 	},
 	{
 		"key": "licence",
-		"value": "[\"\\nDigital data in NH GRANIT represent the efforts of the\\ncontributing agencies to record information from the cited\\nsource materials. Complex Systems Research Center, under\\ncontract to the NH Office of Energy and Planning, and in\\nconsultation with cooperating agencies, maintains a\\ncontinuing program to identify and correct errors in these\\ndata. OEP, CSRC, and the cooperating agencies make no claim\\nas to the validity or reliability or to any implied uses of\\nthese data.\\n\"]"
+		"value": "["\nDigital data in NH GRANIT represent the efforts of the\ncontributing agencies to record information from the cited\nsource materials. Complex Systems Research Center, under\ncontract to the NH Office of Energy and Planning, and in\nconsultation with cooperating agencies, maintains a\ncontinuing program to identify and correct errors in these\ndata. OEP, CSRC, and the cooperating agencies make no claim\nas to the validity or reliability or to any implied uses of\nthese data.\n"]"
 	},
 	{
 		"key": "metadata_type",
@@ -223,7 +223,7 @@
 	},
 	{
 		"key": "responsible-party",
-		"value": "[{\"name\": \"Complex Systems Research Center, University of New Hampshire\", \"roles\": [\"pointOfContact\"]}]"
+		"value": "[{"name": "Complex Systems Research Center, University of New Hampshire", "roles": ["pointOfContact"]}]"
 	},
 	{
 		"key": "temporal-extent-end",
@@ -269,7 +269,7 @@
 		"revision_timestamp": "2013-03-26T22:59:50.307125",
 		"is_organization": true,
 		"state": "active",
-		"image_url": "http:\/\/www.unh.edu\/images\/UNHlogo.gif",
+		"image_url": "http://www.unh.edu/images/UNHlogo.gif",
 		"revision_id": "af978fed-b308-4bc6-a1ec-56a4dec12ceb",
 		"type": "organization",
 		"id": "7b93b22e-2449-4bf3-bd47-17c1c9046689",

@@ -36,7 +36,7 @@
 		"cache_url": null,
 		"name": "GeoTIFF",
 		"created": "2016-07-02T15:13:48.311980",
-		"url": "http:\/\/earthexplorer.usgs.gov",
+		"url": "http://earthexplorer.usgs.gov",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 0,
@@ -66,7 +66,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2016-07-02T15:13:48.312027",
-		"url": "https:\/\/lta.cr.usgs.gov\/UCDP",
+		"url": "https://lta.cr.usgs.gov/UCDP",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 1,
@@ -86,11 +86,11 @@
 	"name": "publicly-available-ikonos-2-commercial-imagery08817",
 	"isopen": false,
 	"url": null,
-	"notes": "The USGS Commercial Data Purchases (UCDP) imagery collection is an archive of commercial remote sensing imagery from several different commercial vendors. The UCDP imagery is located at the Earth Resources Observation & Science (EROS) Center. This collection of imagery supports the Commercial Remote Sensing Space Policy (CRSSP). The overall goal of the UCDP imagery collection is to provide data to qualified users, primarily federal agencies at no cost or at a nominal cost. Limitations on which users have access to use\/purchase copies of the imagery are based on vendor licensing for individual images. Users are allowed to search all UCDP imagery in the archive, but are restricted to only ordering properly licensed images. Users have the option to purchase imagery license upgrades for imagery not currently licensed appropriately for their federal agency. The Commercial Remote Sensing Data Contracts (CRSDC), available through the USGS, handles the imagery license upgrades. The imagery license upgrades enable federal users to purchase and use a copy of the imagery at a nominal fee. Copies of the current imagery can be downloaded\/purchased from EarthExplorer. Users can not specify processing parameters for the imagery. (e.g. if an IKONOS image was originally purchased from Space Imaging as a \"Standard Ortho\" product, UTM projection, WGS84 Datum, and GeoTiff format, those are the only parameters available for that image.) Current USGS Commercial Data Purchases (UCDP) imagery includes IKONOS imagery from Space Imaging, QuickBird Imagery from DigitalGlobe and OrbView imagery from ORBIMAGE.",
+	"notes": "The USGS Commercial Data Purchases (UCDP) imagery collection is an archive of commercial remote sensing imagery from several different commercial vendors. The UCDP imagery is located at the Earth Resources Observation & Science (EROS) Center. This collection of imagery supports the Commercial Remote Sensing Space Policy (CRSSP). The overall goal of the UCDP imagery collection is to provide data to qualified users, primarily federal agencies at no cost or at a nominal cost. Limitations on which users have access to use/purchase copies of the imagery are based on vendor licensing for individual images. Users are allowed to search all UCDP imagery in the archive, but are restricted to only ordering properly licensed images. Users have the option to purchase imagery license upgrades for imagery not currently licensed appropriately for their federal agency. The Commercial Remote Sensing Data Contracts (CRSDC), available through the USGS, handles the imagery license upgrades. The imagery license upgrades enable federal users to purchase and use a copy of the imagery at a nominal fee. Copies of the current imagery can be downloaded/purchased from EarthExplorer. Users can not specify processing parameters for the imagery. (e.g. if an IKONOS image was originally purchased from Space Imaging as a "Standard Ortho" product, UTM projection, WGS84 Datum, and GeoTiff format, those are the only parameters available for that image.) Current USGS Commercial Data Purchases (UCDP) imagery includes IKONOS imagery from Space Imaging, QuickBird Imagery from DigitalGlobe and OrbView imagery from ORBIMAGE.",
 	"license_title": null,
 	"extras": [{
 		"key": "responsible-party",
-		"value": "[{\"name\": \"U.S. Geological Survey Earth Resources Observation and Science (EROS) Center\", \"roles\": [\"pointOfContact\"]}]"
+		"value": "[{"name": "U.S. Geological Survey Earth Resources Observation and Science (EROS) Center", "roles": ["pointOfContact"]}]"
 	},
 	{
 		"key": "contact-email",
@@ -110,7 +110,7 @@
 	},
 	{
 		"key": "dataset-reference-date",
-		"value": "[{\"type\": \"publication\", \"value\": \"2016-06-30\"}]"
+		"value": "[{"type": "publication", "value": "2016-06-30"}]"
 	},
 	{
 		"key": "resource-type",
@@ -138,7 +138,7 @@
 	},
 	{
 		"key": "licence",
-		"value": "[\"Although these data have been processed successfully on a computer system at the USGS, no warranty expressed or implied is made by the USGS regarding the use of the data on any other system, nor does the act of distribution constitute any such warranty.  \"]"
+		"value": "["Although these data have been processed successfully on a computer system at the USGS, no warranty expressed or implied is made by the USGS regarding the use of the data on any other system, nor does the act of distribution constitute any such warranty.  "]"
 	},
 	{
 		"key": "metadata_type",
@@ -150,7 +150,7 @@
 	},
 	{
 		"key": "spatial",
-		"value": "{\"type\": \"Polygon\", \"coordinates\": [[[-158.4, -7.5], [98.3, -7.5], [98.3, 63.8], [-158.4, 63.8], [-158.4, -7.5]]]}"
+		"value": "{"type": "Polygon", "coordinates": [[[-158.4, -7.5], [98.3, -7.5], [98.3, 63.8], [-158.4, 63.8], [-158.4, -7.5]]]}"
 	},
 	{
 		"key": "guid",
@@ -162,7 +162,7 @@
 	},
 	{
 		"key": "access_constraints",
-		"value": "[\"Use Constraints: There is no guarantee of warranty concerning the accuracy of these data. Users should be aware that temporal changes may have occurred since the data was collected and that some parts of these data may no longer represent actual surface conditions. Users should not use these data for critical applications without a full awareness of their limitations. Acknowledgement of the originating agencies would be appreciated in products derived from these data. Any user who modifies the data set is obligated to describe the types of modifications they perform. User specifically agrees not to misrepresent the data set, nor to imply that changes made were approved or endorsed by the U.S. Geological Survey. Please refer to http:\/\/www.usgs.gov\/privacy.html for the USGS disclaimer.\", \"Access Constraints: Any downloading and use of these data signifies a user's agreement to comprehension and compliance of the USGS Standard Disclaimer. Insure all portions of metadata are read and clearly understood before using these data in order to protect both user and USGS interests.\"]"
+		"value": "["Use Constraints: There is no guarantee of warranty concerning the accuracy of these data. Users should be aware that temporal changes may have occurred since the data was collected and that some parts of these data may no longer represent actual surface conditions. Users should not use these data for critical applications without a full awareness of their limitations. Acknowledgement of the originating agencies would be appreciated in products derived from these data. Any user who modifies the data set is obligated to describe the types of modifications they perform. User specifically agrees not to misrepresent the data set, nor to imply that changes made were approved or endorsed by the U.S. Geological Survey. Please refer to http://www.usgs.gov/privacy.html for the USGS disclaimer.", "Access Constraints: Any downloading and use of these data signifies a user's agreement to comprehension and compliance of the USGS Standard Disclaimer. Insure all portions of metadata are read and clearly understood before using these data in order to protect both user and USGS interests."]"
 	},
 	{
 		"key": "spatial_harvester",
@@ -197,14 +197,14 @@
 		"value": "USGS Earth Resources Observation and Science (EROS)"
 	}],
 	"organization": {
-		"description": "http:\/\/www.usgs.gov\/\r\nThe USGS is a federal science agency that provides impartial information on the health of our ecosystems and environment, the natural hazards that threaten us, the natural resources we rely on, the impacts of climate and land-use change, and the core science systems that help us provide timely, relevant, and useable information.",
+		"description": "http://www.usgs.gov/rnThe USGS is a federal science agency that provides impartial information on the health of our ecosystems and environment, the natural hazards that threaten us, the natural resources we rely on, the impacts of climate and land-use change, and the core science systems that help us provide timely, relevant, and useable information.",
 		"created": "2013-03-14T03:44:38.263357",
 		"title": "U.S. Geological Survey, Department of the Interior",
 		"name": "usgs-gov",
 		"revision_timestamp": "2014-09-02T13:43:52.167023",
 		"is_organization": true,
 		"state": "active",
-		"image_url": "http:\/\/pubs.usgs.gov\/sir\/2004\/5296\/04-5296_confluence_park\/usgs_logo.gif",
+		"image_url": "http://pubs.usgs.gov/sir/2004/5296/04-5296_confluence_park/usgs_logo.gif",
 		"revision_id": "2858aa99-9501-4f96-82e5-9647b968ed66",
 		"type": "organization",
 		"id": "bd2cdd5a-4d65-46c0-9937-c8381175f104",

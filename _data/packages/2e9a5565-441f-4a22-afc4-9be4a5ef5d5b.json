@@ -37,7 +37,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2015-04-25T08:18:53.259312",
-		"url": "http:\/\/bios.dfg.ca.gov\/",
+		"url": "http://bios.dfg.ca.gov/",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 0,
@@ -67,7 +67,7 @@
 		"cache_url": null,
 		"name": "Zip File",
 		"created": "2015-04-25T08:18:53.259333",
-		"url": "ftp:\/\/ftp.dfg.ca.gov\/BDB\/GIS\/BIOS\/Public_Datasets\/700_799\/ds781.zip",
+		"url": "ftp://ftp.dfg.ca.gov/BDB/GIS/BIOS/Public_Datasets/700_799/ds781.zip",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 1,
@@ -87,11 +87,11 @@
 	"name": "total-annual-deposition-of-reduced-and-oxidized-nitrogen-2002-ds781",
 	"isopen": false,
 	"url": null,
-	"notes": "CMAQ modeled total nitrogen deposition for California during 2002. Data are provided at two resolutions (4 and 36 kilometers) that were produced from different CMAQ model runs. The 4km resolution data extent covers the majority of the state. 36km data are provided only in those areas within California that were outside the 4km modeled extent. Some of the 36km polygons along the contact with the 4km data and the state line are truncated. Deposition values do not always make a smooth transition from 4 to 36km resolution. The deposition value for each cell is recorded as value in units of kilograms of nitrogen per hectare per year. CMAQ modeling supervised by Gail Tonnesen (UCR\/Bourn College Of Engineering\/Center for Environmental Reasearch and Technology). CMAQ modeling was conducted during 2006. Cartography by Robert Johnson (UCR, Center for Conservation Biology) and funded by NSF through the Biocomplexity Project.",
+	"notes": "CMAQ modeled total nitrogen deposition for California during 2002. Data are provided at two resolutions (4 and 36 kilometers) that were produced from different CMAQ model runs. The 4km resolution data extent covers the majority of the state. 36km data are provided only in those areas within California that were outside the 4km modeled extent. Some of the 36km polygons along the contact with the 4km data and the state line are truncated. Deposition values do not always make a smooth transition from 4 to 36km resolution. The deposition value for each cell is recorded as value in units of kilograms of nitrogen per hectare per year. CMAQ modeling supervised by Gail Tonnesen (UCR/Bourn College Of Engineering/Center for Environmental Reasearch and Technology). CMAQ modeling was conducted during 2006. Cartography by Robert Johnson (UCR, Center for Conservation Biology) and funded by NSF through the Biocomplexity Project.",
 	"license_title": null,
 	"extras": [{
 		"key": "responsible-party",
-		"value": "[{\"name\": \"University of California - Riverside, Bourns College of Engineering\", \"roles\": [\"pointOfContact\"]}]"
+		"value": "[{"name": "University of California - Riverside, Bourns College of Engineering", "roles": ["pointOfContact"]}]"
 	},
 	{
 		"key": "contact-email",
@@ -103,7 +103,7 @@
 	},
 	{
 		"key": "bbox-west-long",
-		"value": "\n-124.483791"
+		"value": "n-124.483791"
 	},
 	{
 		"key": "metadata-date",
@@ -111,7 +111,7 @@
 	},
 	{
 		"key": "dataset-reference-date",
-		"value": "[{\"type\": \"publication\", \"value\": \"9999-01-01\"}]"
+		"value": "[{"type": "publication", "value": "9999-01-01"}]"
 	},
 	{
 		"key": "resource-type",
@@ -119,7 +119,7 @@
 	},
 	{
 		"key": "bbox-east-long",
-		"value": "\n-113.503614"
+		"value": "n-113.503614"
 	},
 	{
 		"key": "spatial-reference-system",
@@ -127,7 +127,7 @@
 	},
 	{
 		"key": "bbox-north-lat",
-		"value": "\n42.044816"
+		"value": "n42.044816"
 	},
 	{
 		"key": "coupled-resource",
@@ -135,11 +135,11 @@
 	},
 	{
 		"key": "bbox-south-lat",
-		"value": "\n32.424168"
+		"value": "n32.424168"
 	},
 	{
 		"key": "licence",
-		"value": "[\" \"]"
+		"value": "[" "]"
 	},
 	{
 		"key": "metadata_type",
@@ -151,7 +151,7 @@
 	},
 	{
 		"key": "spatial",
-		"value": "{\"type\": \"Polygon\", \"coordinates\": [[[-124.483791, 32.424168], [-113.503614, 32.424168], [-113.503614, 42.044816], [-124.483791, 42.044816], [-124.483791, 32.424168]]]}"
+		"value": "{"type": "Polygon", "coordinates": [[[-124.483791, 32.424168], [-113.503614, 32.424168], [-113.503614, 42.044816], [-124.483791, 42.044816], [-124.483791, 32.424168]]]}"
 	},
 	{
 		"key": "guid",
@@ -163,7 +163,7 @@
 	},
 	{
 		"key": "access_constraints",
-		"value": "[\"Use Constraints: Individuals and institutions utilizing these data are requested to acknowledge the authors and report (below) in any publication in which these data are mentioned: Tonnesen, G., Z. Wang, M. Omary, and C. J. Chien. 2007. Assessment of Nitrogen Deposition: Modeling and Habitat Assessment. California Energy Commission, PIER Energy-Related Environmental Research. CEC-500-2006-032. http:\/\/www.energy.ca.gov\/publications\/displayOneReport.php?pubNum=CEC-500-2006-032 It is the user's responsibility to understand the specific characteristics and limitations of the dataset. The Center for Environmental Research and Technology and the Center for Conservation Biology expressly disclaim responsibility for damages or liability that may arise from use of this data.\", \"Access Constraints: None. Unrestricted.\"]"
+		"value": "["Use Constraints: Individuals and institutions utilizing these data are requested to acknowledge the authors and report (below) in any publication in which these data are mentioned: Tonnesen, G., Z. Wang, M. Omary, and C. J. Chien. 2007. Assessment of Nitrogen Deposition: Modeling and Habitat Assessment. California Energy Commission, PIER Energy-Related Environmental Research. CEC-500-2006-032. http://www.energy.ca.gov/publications/displayOneReport.php?pubNum=CEC-500-2006-032 It is the user's responsibility to understand the specific characteristics and limitations of the dataset. The Center for Environmental Research and Technology and the Center for Conservation Biology expressly disclaim responsibility for damages or liability that may arise from use of this data.", "Access Constraints: None. Unrestricted."]"
 	},
 	{
 		"key": "spatial_harvester",
@@ -205,7 +205,7 @@
 		"revision_timestamp": "2013-05-31T17:51:13.706377",
 		"is_organization": true,
 		"state": "active",
-		"image_url": "http:\/\/www.ca.gov\/images\/template2012\/header_ca.gov.png",
+		"image_url": "http://www.ca.gov/images/template2012/header_ca.gov.png",
 		"revision_id": "ad94cda4-9394-44d0-9c37-573dc3c47c9a",
 		"type": "organization",
 		"id": "467d900f-8a42-452d-9906-6610dd1a767f",

@@ -36,7 +36,7 @@
 		"cache_url": null,
 		"name": "SHP",
 		"created": "2016-09-02T23:40:51.235697",
-		"url": "http:\/\/maps.vcgi.vermont.gov\/gisdata\/vtrans\/packaged_zips\/TransRoad_LRS2005.zip",
+		"url": "http://maps.vcgi.vermont.gov/gisdata/vtrans/packaged_zips/TransRoad_LRS2005.zip",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 0,
@@ -63,7 +63,7 @@
 		"revision_timestamp": "2013-03-27T17:47:03.718032",
 		"is_organization": true,
 		"state": "active",
-		"image_url": "http:\/\/vcgi.vermont.gov\/sites\/all\/themes\/vt_template\/logo.png",
+		"image_url": "http://vcgi.vermont.gov/sites/all/themes/vt_template/logo.png",
 		"revision_id": "c5dfbbb0-f1e0-4db6-b566-e932e1520060",
 		"type": "organization",
 		"id": "0c3a4ebc-9929-4f21-bdd0-76a35d52f57d",
@@ -74,11 +74,11 @@
 	"name": "transroad-lrs2005",
 	"isopen": false,
 	"url": null,
-	"notes": "LRS2005 is a Linear Referencing System layer that includes interstate, U.S., state (VT), and other transportation routes logged by the Vermont Agency of Transportation. These routes are represented in the ETE and TWN route subclass. ETE stands for End-to-End route system, meaning that routes increment from start to finish without resetting at town boundaries. TWN stands for Town-Based route system, meaning that routes increment from start to finish within each town, resetting at town boundaries. Linework and attributes were extracted from TransRoad_RDS (7\/2005 version of RDSMALL - 2005 HMS update).",
+	"notes": "LRS2005 is a Linear Referencing System layer that includes interstate, U.S., state (VT), and other transportation routes logged by the Vermont Agency of Transportation. These routes are represented in the ETE and TWN route subclass. ETE stands for End-to-End route system, meaning that routes increment from start to finish without resetting at town boundaries. TWN stands for Town-Based route system, meaning that routes increment from start to finish within each town, resetting at town boundaries. Linework and attributes were extracted from TransRoad_RDS (7/2005 version of RDSMALL - 2005 HMS update).",
 	"owner_org": "0c3a4ebc-9929-4f21-bdd0-76a35d52f57d",
 	"extras": [{
 		"key": "responsible-party",
-		"value": "[{\"name\": \"Vermont Agency of Transportation (VTrans) - Mapping & GIS Unit\", \"roles\": [\"pointOfContact\"]}]"
+		"value": "[{"name": "Vermont Agency of Transportation (VTrans) - Mapping & GIS Unit", "roles": ["pointOfContact"]}]"
 	},
 	{
 		"key": "contact-email",
@@ -98,7 +98,7 @@
 	},
 	{
 		"key": "dataset-reference-date",
-		"value": "[{\"type\": \"publication\", \"value\": \"2005-11-03\"}]"
+		"value": "[{"type": "publication", "value": "2005-11-03"}]"
 	},
 	{
 		"key": "resource-type",
@@ -126,7 +126,7 @@
 	},
 	{
 		"key": "licence",
-		"value": "[\"VCGI and the State of Vermont make no representations of any kind, including but not limited to the warranties of merchantability or fitness for a particular use, nor are any such warranties to be implied with respect to the data.\"]"
+		"value": "["VCGI and the State of Vermont make no representations of any kind, including but not limited to the warranties of merchantability or fitness for a particular use, nor are any such warranties to be implied with respect to the data."]"
 	},
 	{
 		"key": "metadata_type",
@@ -138,7 +138,7 @@
 	},
 	{
 		"key": "spatial",
-		"value": "{\"type\": \"Polygon\", \"coordinates\": [[[-73.454162, 42.722789], [-71.465281, 42.722789], [-71.465281, 45.018361], [-73.454162, 45.018361], [-73.454162, 42.722789]]]}"
+		"value": "{"type": "Polygon", "coordinates": [[[-73.454162, 42.722789], [-71.465281, 42.722789], [-71.465281, 45.018361], [-73.454162, 45.018361], [-73.454162, 42.722789]]]}"
 	},
 	{
 		"key": "guid",
@@ -150,7 +150,7 @@
 	},
 	{
 		"key": "access_constraints",
-		"value": "[\"Use Constraints: Every effort has been made to assure that the TransRoad_LRS2005 layer is properly coded and calibrated. However, unidentified errors in coding\/calibration may exist. As a result, any \\\"event\\\" mapping or VTrans data converted by linking to the TransRoad_LRS2005 coverage should be used with care.\", \"Access Constraints: VCGI and the State of VT make no representations of any kind, including but not limited to the warranties of merchantability or fitness for a particular use, nor are any such warranties to be implied with respect to the data.\"]"
+		"value": "["Use Constraints: Every effort has been made to assure that the TransRoad_LRS2005 layer is properly coded and calibrated. However, unidentified errors in coding/calibration may exist. As a result, any \"event\" mapping or VTrans data converted by linking to the TransRoad_LRS2005 coverage should be used with care.", "Access Constraints: VCGI and the State of VT make no representations of any kind, including but not limited to the warranties of merchantability or fitness for a particular use, nor are any such warranties to be implied with respect to the data."]"
 	},
 	{
 		"key": "spatial_harvester",

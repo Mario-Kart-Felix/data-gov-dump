@@ -37,7 +37,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2015-09-26T18:22:56.618325",
-		"url": "http:\/\/coast.noaa.gov",
+		"url": "http://coast.noaa.gov",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 0,
@@ -67,7 +67,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2015-09-26T18:22:56.618348",
-		"url": "http:\/\/coast.noaa.gov",
+		"url": "http://coast.noaa.gov",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 1,
@@ -94,9 +94,9 @@
 		"resource_locator_protocol": "",
 		"mimetype": null,
 		"cache_url": null,
-		"name": "Lidar QA\/QC Report",
+		"name": "Lidar QA/QC Report",
 		"created": "2015-09-26T18:22:56.618358",
-		"url": "ftp:\/\/ftp.csc.noaa.gov\/pub\/crs\/beachmap\/qa_docs\/ms\/pearl_river\/Pearl_River_County_MS_Project%20Report.doc",
+		"url": "ftp://ftp.csc.noaa.gov/pub/crs/beachmap/qa_docs/ms/pearl_river/Pearl_River_County_MS_Project%20Report.doc",
 		"webstore_url": null,
 		"resource_locator_function": "information",
 		"position": 2,
@@ -118,7 +118,7 @@
 		"revision_timestamp": "2013-03-25T23:05:12.923863",
 		"is_organization": true,
 		"state": "active",
-		"image_url": "https:\/\/fortress.wa.gov\/dfw\/score\/score\/images\/noaa_logo.png",
+		"image_url": "https://fortress.wa.gov/dfw/score/score/images/noaa_logo.png",
 		"revision_id": "c6d43080-22e1-405e-a83d-f2a512d9e867",
 		"type": "organization",
 		"id": "e811f0b4-451f-4896-9e8f-fc6802837819",
@@ -165,7 +165,7 @@
 	},
 	{
 		"key": "spatial",
-		"value": "{\"type\": \"Polygon\", \"coordinates\": [[[-89.512658, 30.263267], [-89.201145, 30.263267], [-89.201145, 31.010543], [-89.512658, 31.010543], [-89.512658, 30.263267]]]}"
+		"value": "{"type": "Polygon", "coordinates": [[[-89.512658, 30.263267], [-89.201145, 30.263267], [-89.201145, 31.010543], [-89.512658, 31.010543], [-89.512658, 30.263267]]]}"
 	},
 	{
 		"key": "progress",
@@ -193,7 +193,7 @@
 	},
 	{
 		"key": "dataset-reference-date",
-		"value": "[{\"type\": \"publication\", \"value\": \"\"}]"
+		"value": "[{"type": "publication", "value": ""}]"
 	},
 	{
 		"key": "frequency-of-update",
@@ -201,7 +201,7 @@
 	},
 	{
 		"key": "licence",
-		"value": "[\"These data depict the elevations at the time of the survey and are only accurate for that time. Users should be aware that\\n            temporal changes may have occurred since this data set was collected and some parts of this data may no longer represent actual surface\\n            conditions. Users should not use this data for critical applications without a full awareness of its limitations. Any conclusions drawn\\n            from analysis of this information are not the responsibility of NOAA or any of its partners. These data are NOT to be used for navigational purposes.\"]"
+		"value": "["These data depict the elevations at the time of the survey and are only accurate for that time. Users should be aware that\n            temporal changes may have occurred since this data set was collected and some parts of this data may no longer represent actual surface\n            conditions. Users should not use this data for critical applications without a full awareness of its limitations. Any conclusions drawn\n            from analysis of this information are not the responsibility of NOAA or any of its partners. These data are NOT to be used for navigational purposes."]"
 	},
 	{
 		"key": "metadata_type",
@@ -209,7 +209,7 @@
 	},
 	{
 		"key": "responsible-party",
-		"value": "[{\"name\": \"U.S. Army Corps of Engineers Vicksburg District\", \"roles\": [\"pointOfContact\"]}]"
+		"value": "[{"name": "U.S. Army Corps of Engineers Vicksburg District", "roles": ["pointOfContact"]}]"
 	},
 	{
 		"key": "temporal-extent-end",
@@ -225,7 +225,7 @@
 	},
 	{
 		"key": "tags",
-		"value": "mississippi, elevation, digital elevation model, lidar, united states, pearl river county, bathymetry\/topography, floodplain management",
+		"value": "mississippi, elevation, digital elevation model, lidar, united states, pearl river county, bathymetry/topography, floodplain management",
 		"__extras": {
 			"revision_id": "ee27931e-eaab-4c7b-adc5-fe71177f8e42",
 			"package_id": "03e80ee8-e753-4436-8b0c-6f3013f630aa"

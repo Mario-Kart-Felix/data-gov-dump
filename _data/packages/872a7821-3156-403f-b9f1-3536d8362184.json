@@ -37,7 +37,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2016-10-18T15:10:37.070188",
-		"url": "https:\/\/edg.epa.gov\/data\/PUBLIC\/ORD\/ENVIROATLAS",
+		"url": "https://edg.epa.gov/data/PUBLIC/ORD/ENVIROATLAS",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 0,
@@ -67,7 +67,7 @@
 		"cache_url": null,
 		"name": "Esri Rest API Endpoint",
 		"created": "2016-10-18T15:10:37.070211",
-		"url": "https:\/\/enviroatlas.epa.gov\/arcgis\/rest\/services",
+		"url": "https://enviroatlas.epa.gov/arcgis/rest/services",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 1,
@@ -97,7 +97,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2016-10-18T15:10:37.070220",
-		"url": "https:\/\/www.epa.gov\/enviroatlas\/enviroatlas-data",
+		"url": "https://www.epa.gov/enviroatlas/enviroatlas-data",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 2,
@@ -127,7 +127,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2016-10-18T15:10:37.070228",
-		"url": "https:\/\/www.epa.gov\/enviroatlas",
+		"url": "https://www.epa.gov/enviroatlas",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 3,
@@ -136,7 +136,7 @@
 	}],
 	"num_resources": 4,
 	"tags": [],
-	"title": "EnviroAtlas - Minneapolis\/St Paul, MN - Domestic Water Use per Day by U.S. Census Block Group",
+	"title": "EnviroAtlas - Minneapolis/St Paul, MN - Domestic Water Use per Day by U.S. Census Block Group",
 	"tracking_summary": {
 		"total": 0,
 		"recent": 0
@@ -147,7 +147,7 @@
 	"name": "enviroatlas-minneapolis-st-paul-mn-domestic-water-use-per-day-by-u-s-census-block-group",
 	"isopen": false,
 	"url": null,
-	"notes": "As included in this EnviroAtlas dataset, the community level domestic water use is calculated using locally available water use data per capita in gallons of water per day (GPD or GPCD), distributed dasymetrically, and summarized by census block group. Domestic water use, as defined in this case, is intended to represent residential indoor and outdoor water use (e.g., cooking, hygiene, landscaping, pools, etc.) for primary residences (i.e., excluding second homes and tourism rentals). For the purposes of this metric, these publicly-supplied estimates are also applied and considered representative of local self-supplied water use. Residential water use reporting in the EnviroAtlas-defined study area is available through the Minnesota Geospatial Commons website. Within the Minneapolis\/St Paul study area, there are 45 estimates from 2005 ranging from 42 to 167 GPD. This dataset was produced by the US EPA to support research and online mapping activities related to EnviroAtlas. EnviroAtlas (https:\/\/www.epa.gov\/enviroatlas) allows the user to interact with a web-based, easy-to-use, mapping application to view and analyze multiple ecosystem services for the contiguous United States. The dataset is available as downloadable data (https:\/\/edg.epa.gov\/data\/Public\/ORD\/EnviroAtlas) or as an EnviroAtlas map service. Additional descriptive information about each attribute in this dataset can be found in its associated EnviroAtlas Fact Sheet (https:\/\/www.epa.gov\/enviroatlas\/enviroatlas-fact-sheets).",
+	"notes": "As included in this EnviroAtlas dataset, the community level domestic water use is calculated using locally available water use data per capita in gallons of water per day (GPD or GPCD), distributed dasymetrically, and summarized by census block group. Domestic water use, as defined in this case, is intended to represent residential indoor and outdoor water use (e.g., cooking, hygiene, landscaping, pools, etc.) for primary residences (i.e., excluding second homes and tourism rentals). For the purposes of this metric, these publicly-supplied estimates are also applied and considered representative of local self-supplied water use. Residential water use reporting in the EnviroAtlas-defined study area is available through the Minnesota Geospatial Commons website. Within the Minneapolis/St Paul study area, there are 45 estimates from 2005 ranging from 42 to 167 GPD. This dataset was produced by the US EPA to support research and online mapping activities related to EnviroAtlas. EnviroAtlas (https://www.epa.gov/enviroatlas) allows the user to interact with a web-based, easy-to-use, mapping application to view and analyze multiple ecosystem services for the contiguous United States. The dataset is available as downloadable data (https://edg.epa.gov/data/Public/ORD/EnviroAtlas) or as an EnviroAtlas map service. Additional descriptive information about each attribute in this dataset can be found in its associated EnviroAtlas Fact Sheet (https://www.epa.gov/enviroatlas/enviroatlas-fact-sheets).",
 	"license_title": null,
 	"extras": [{
 		"key": "bbox-east-long",
@@ -183,7 +183,7 @@
 	},
 	{
 		"key": "spatial",
-		"value": "{\"type\": \"Polygon\", \"coordinates\": [[[-93.772509, 44.601617], [-92.974149, 44.601617], [-92.974149, 45.297876], [-93.772509, 45.297876], [-93.772509, 44.601617]]]}"
+		"value": "{"type": "Polygon", "coordinates": [[[-93.772509, 44.601617], [-92.974149, 44.601617], [-92.974149, 45.297876], [-93.772509, 45.297876], [-93.772509, 44.601617]]]}"
 	},
 	{
 		"key": "progress",
@@ -191,11 +191,11 @@
 	},
 	{
 		"key": "access_constraints",
-		"value": "[\"Use Constraints: None. Please check sources, scale, accuracy, currency and other available information. Please confirm that you are using the most recent copy of both data and metadata. Acknowledgement of the EPA would be appreciated.\", \"Access Constraints: None\"]"
+		"value": "["Use Constraints: None. Please check sources, scale, accuracy, currency and other available information. Please confirm that you are using the most recent copy of both data and metadata. Acknowledgement of the EPA would be appreciated.", "Access Constraints: None"]"
 	},
 	{
 		"key": "licence_url",
-		"value": "https:\/\/edg.epa.gov\/EPA_Data_License.html"
+		"value": "https://edg.epa.gov/EPA_Data_License.html"
 	},
 	{
 		"key": "contact-email",
@@ -211,7 +211,7 @@
 	},
 	{
 		"key": "dataset-reference-date",
-		"value": "[{\"type\": \"publication\", \"value\": \"2016-09-09\"}]"
+		"value": "[{"type": "publication", "value": "2016-09-09"}]"
 	},
 	{
 		"key": "frequency-of-update",
@@ -219,7 +219,7 @@
 	},
 	{
 		"key": "licence",
-		"value": "[\"https:\/\/edg.epa.gov\/EPA_Data_License.html\"]"
+		"value": "["https://edg.epa.gov/EPA_Data_License.html"]"
 	},
 	{
 		"key": "metadata_type",
@@ -227,7 +227,7 @@
 	},
 	{
 		"key": "responsible-party",
-		"value": "[{\"name\": \"U.S. Environmental Protection Agency, Office of Research and Development-Sustainable and Healthy Communities Research Program, EnviroAtlas\", \"roles\": [\"pointOfContact\"]}]"
+		"value": "[{"name": "U.S. Environmental Protection Agency, Office of Research and Development-Sustainable and Healthy Communities Research Program, EnviroAtlas", "roles": ["pointOfContact"]}]"
 	},
 	{
 		"key": "spatial-data-service-type",
@@ -239,7 +239,7 @@
 	},
 	{
 		"package_id": "872a7821-3156-403f-b9f1-3536d8362184",
-		"value": "demand for ecosystem services, ecosystem services, ecology, minneapolis\/st. paul, mn, census block groups, ground water, ecosystem, environmental atlas, water, utilities, minnesota, environment, drinking water, enviroatlas, communities, surface water",
+		"value": "demand for ecosystem services, ecosystem services, ecology, minneapolis/st. paul, mn, census block groups, ground water, ecosystem, environmental atlas, water, utilities, minnesota, environment, drinking water, enviroatlas, communities, surface water",
 		"revision_timestamp": "2016-10-18T19:10:36.862727",
 		"state": "active",
 		"key": "tags",
@@ -269,7 +269,7 @@
 		"revision_timestamp": "2014-01-16T18:58:42.895981",
 		"is_organization": true,
 		"state": "active",
-		"image_url": "http:\/\/edg.epa.gov\/EPALogo.svg",
+		"image_url": "http://edg.epa.gov/EPALogo.svg",
 		"revision_id": "f0e4b475-7424-4ce0-9a22-412e7e595154",
 		"type": "organization",
 		"id": "6d90e48d-3076-4327-b2f4-c33919f374d5",

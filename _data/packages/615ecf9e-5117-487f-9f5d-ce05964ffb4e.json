@@ -37,7 +37,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2015-11-09T20:31:12.723943",
-		"url": "ftp:\/\/ftp.soest.hawaii.edu\/pibhmc\/website\/data\/pria\/benthichabitatlayers\/Howland_40m_slope.rar",
+		"url": "ftp://ftp.soest.hawaii.edu/pibhmc/website/data/pria/benthichabitatlayers/Howland_40m_slope.rar",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 0,
@@ -67,7 +67,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2015-11-09T20:31:12.723967",
-		"url": "http:\/\/www.soest.hawaii.edu\/pibhmc",
+		"url": "http://www.soest.hawaii.edu/pibhmc",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 1,
@@ -97,7 +97,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2015-11-09T20:31:12.723975",
-		"url": "http:\/\/www.soest.hawaii.edu\/pibhmc\/pibhmc_pria_how_geomorph.htm",
+		"url": "http://www.soest.hawaii.edu/pibhmc/pibhmc_pria_how_geomorph.htm",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 2,
@@ -117,11 +117,11 @@
 	"name": "slope-grid-derived-from-gridded-bathymetry-of-howland-island-pacific-remote-island-areas-centra",
 	"isopen": false,
 	"url": null,
-	"notes": "Slope is derived from gridded (40 m cell size) multibeam bathymetry, collected aboard R\/V AHI, and NOAA ship Hi'ialakai. Cell values reflect the maximum rate of change (in degrees) in elevation between neighboring cells derived with the ArcGIS Spatial Analyst extension. This data set is for Howland Island, Pacific Remote Island Areas, Central Pacific.",
+	"notes": "Slope is derived from gridded (40 m cell size) multibeam bathymetry, collected aboard R/V AHI, and NOAA ship Hi'ialakai. Cell values reflect the maximum rate of change (in degrees) in elevation between neighboring cells derived with the ArcGIS Spatial Analyst extension. This data set is for Howland Island, Pacific Remote Island Areas, Central Pacific.",
 	"license_title": null,
 	"extras": [{
 		"key": "bbox-east-long",
-		"value": "\n          -176.605533\n        "
+		"value": "n          -176.605533n        "
 	},
 	{
 		"key": "resource-type",
@@ -129,7 +129,7 @@
 	},
 	{
 		"key": "bbox-north-lat",
-		"value": "\n          00.833556\n        "
+		"value": "n          00.833556n        "
 	},
 	{
 		"key": "coupled-resource",
@@ -145,7 +145,7 @@
 	},
 	{
 		"key": "graphic-preview-file",
-		"value": "http:\/\/www.soest.hawaii.edu\/pibhmc\/PRIAs_images\/Howland_40m_slope_445.jpg"
+		"value": "http://www.soest.hawaii.edu/pibhmc/PRIAs_images/Howland_40m_slope_445.jpg"
 	},
 	{
 		"key": "metadata-language",
@@ -161,7 +161,7 @@
 	},
 	{
 		"key": "spatial",
-		"value": "{\"type\": \"Polygon\", \"coordinates\": [[[-176.632545, 0.782664], [-176.605533, 0.782664], [-176.605533, 0.833556], [-176.632545, 0.833556], [-176.632545, 0.782664]]]}"
+		"value": "{"type": "Polygon", "coordinates": [[[-176.632545, 0.782664], [-176.605533, 0.782664], [-176.605533, 0.833556], [-176.632545, 0.833556], [-176.632545, 0.782664]]]}"
 	},
 	{
 		"key": "progress",
@@ -169,7 +169,7 @@
 	},
 	{
 		"key": "access_constraints",
-		"value": "[\"Use Constraints: These data are not to be used for navigation purposes. Please acknowledge the NOAA Pacific Islands Fisheries Science Center (PIFSC) Coral Reef Ecosystem Division (CRED) and the Pacific Islands Benthic Habitat Mapping Center, and the Joint Institute for Marine and Atmospheric Research (JIMAR) and School of Ocean and Earth Science and Technology (SOEST), University of Hawaii as the sources of this information.\", \"Access Constraints: None\"]"
+		"value": "["Use Constraints: These data are not to be used for navigation purposes. Please acknowledge the NOAA Pacific Islands Fisheries Science Center (PIFSC) Coral Reef Ecosystem Division (CRED) and the Pacific Islands Benthic Habitat Mapping Center, and the Joint Institute for Marine and Atmospheric Research (JIMAR) and School of Ocean and Earth Science and Technology (SOEST), University of Hawaii as the sources of this information.", "Access Constraints: None"]"
 	},
 	{
 		"key": "temporal-extent-begin",
@@ -181,7 +181,7 @@
 	},
 	{
 		"key": "bbox-west-long",
-		"value": "\n          -176.632545\n        "
+		"value": "n          -176.632545n        "
 	},
 	{
 		"key": "metadata-date",
@@ -189,7 +189,7 @@
 	},
 	{
 		"key": "dataset-reference-date",
-		"value": "[{\"type\": \"publication\", \"value\": \"2010-08-01\"}]"
+		"value": "[{"type": "publication", "value": "2010-08-01"}]"
 	},
 	{
 		"key": "graphic-preview-description",
@@ -201,7 +201,7 @@
 	},
 	{
 		"key": "licence",
-		"value": "[\"\\n      These data are not to be used for navigational purposes.\\nNOAA makes no warranty regarding these data, expressed or implied,\\nnor does the fact of distribution constitute such a warranty.\\nNOAA cannot assume liability for any damages caused by any errors\\nor omissions in these data, nor as a result of the failure of\\nthese data to function on a particular system.\\n    \"]"
+		"value": "["\n      These data are not to be used for navigational purposes.\nNOAA makes no warranty regarding these data, expressed or implied,\nnor does the fact of distribution constitute such a warranty.\nNOAA cannot assume liability for any damages caused by any errors\nor omissions in these data, nor as a result of the failure of\nthese data to function on a particular system.\n    "]"
 	},
 	{
 		"key": "metadata_type",
@@ -209,7 +209,7 @@
 	},
 	{
 		"key": "responsible-party",
-		"value": "[{\"name\": \"Pacific Islands Benthic Habitat Mapping Center (PIBHMC), Coral Reef Ecosystem Division (CRED), Pacific Islands Fisheries Science Center (PIFSC), National Marine Fisheries Service (NMFS), National Oceanic and Atmospheric Administration (NOAA)\", \"roles\": [\"pointOfContact\"]}]"
+		"value": "[{"name": "Pacific Islands Benthic Habitat Mapping Center (PIBHMC), Coral Reef Ecosystem Division (CRED), Pacific Islands Fisheries Science Center (PIFSC), National Marine Fisheries Service (NMFS), National Oceanic and Atmospheric Administration (NOAA)", "roles": ["pointOfContact"]}]"
 	},
 	{
 		"key": "temporal-extent-end",
@@ -221,11 +221,11 @@
 	},
 	{
 		"key": "bbox-south-lat",
-		"value": "\n          00.782664\n        "
+		"value": "n          00.782664n        "
 	},
 	{
 		"package_id": "615ecf9e-5117-487f-9f5d-ce05964ffb4e",
-		"value": "slope, usa minor outlying islands, pacific ocean, 1084, description, howland island (00s176w0001), biosphere, united states of america, aquatic habitat, oceans, country\/territory, habitats, reef habitat, central pacific ocean, ocean basin, bathymetry, bathymetry\/seafloor topography, geographic information, howland island, benthic habitat mapping and characterization - american samoa and the u.s. pacific remote island area, earth science",
+		"value": "slope, usa minor outlying islands, pacific ocean, 1084, description, howland island (00s176w0001), biosphere, united states of america, aquatic habitat, oceans, country/territory, habitats, reef habitat, central pacific ocean, ocean basin, bathymetry, bathymetry/seafloor topography, geographic information, howland island, benthic habitat mapping and characterization - american samoa and the u.s. pacific remote island area, earth science",
 		"revision_timestamp": "2015-11-10T01:31:12.597654",
 		"state": "active",
 		"key": "tags",
@@ -255,7 +255,7 @@
 		"revision_timestamp": "2013-03-25T23:05:12.923863",
 		"is_organization": true,
 		"state": "active",
-		"image_url": "https:\/\/fortress.wa.gov\/dfw\/score\/score\/images\/noaa_logo.png",
+		"image_url": "https://fortress.wa.gov/dfw/score/score/images/noaa_logo.png",
 		"revision_id": "c6d43080-22e1-405e-a83d-f2a512d9e867",
 		"type": "organization",
 		"id": "e811f0b4-451f-4896-9e8f-fc6802837819",

@@ -37,7 +37,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2015-09-26T15:35:08.590040",
-		"url": "ftp:\/\/sidads.colorado.edu\/pub\/DATASETS\/NOAA\/G00945\/",
+		"url": "ftp://sidads.colorado.edu/pub/DATASETS/NOAA/G00945/",
 		"webstore_url": null,
 		"resource_locator_function": "function",
 		"position": 0,
@@ -67,7 +67,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2015-09-26T15:35:08.590062",
-		"url": "http:\/\/nsidc.org\/data\/docs\/noaa\/g00945_great_lake_ice_gauge\/index.html",
+		"url": "http://nsidc.org/data/docs/noaa/g00945_great_lake_ice_gauge/index.html",
 		"webstore_url": null,
 		"resource_locator_function": "function",
 		"position": 1,
@@ -85,7 +85,7 @@
 		"last_modified": null,
 		"hash": "",
 		"description": "",
-		"format": "application\/vnd.lotus-organizer",
+		"format": "application/vnd.lotus-organizer",
 		"tracking_summary": {
 			"total": 81,
 			"recent": 2
@@ -97,7 +97,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2015-09-26T15:35:08.590072",
-		"url": "http:\/\/nsidc.org",
+		"url": "http://nsidc.org",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 2,
@@ -127,7 +127,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2015-09-26T15:35:08.590080",
-		"url": "http:\/\/nsidc.org\/noaa\/",
+		"url": "http://nsidc.org/noaa/",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 3,
@@ -145,7 +145,7 @@
 		"last_modified": null,
 		"hash": "",
 		"description": "",
-		"format": "application\/vnd.lotus-organizer",
+		"format": "application/vnd.lotus-organizer",
 		"tracking_summary": {
 			"total": 81,
 			"recent": 2
@@ -157,7 +157,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2015-09-26T15:35:08.590088",
-		"url": "http:\/\/nsidc.org",
+		"url": "http://nsidc.org",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 4,
@@ -179,7 +179,7 @@
 		"revision_timestamp": "2013-03-25T23:05:12.923863",
 		"is_organization": true,
 		"state": "active",
-		"image_url": "https:\/\/fortress.wa.gov\/dfw\/score\/score\/images\/noaa_logo.png",
+		"image_url": "https://fortress.wa.gov/dfw/score/score/images/noaa_logo.png",
 		"revision_id": "c6d43080-22e1-405e-a83d-f2a512d9e867",
 		"type": "organization",
 		"id": "e811f0b4-451f-4896-9e8f-fc6802837819",
@@ -190,7 +190,7 @@
 	"name": "great-lakes-daily-ice-observations-at-noaa-water-level-gauge-sites",
 	"isopen": false,
 	"url": null,
-	"notes": "\nThis data set contains daily visual ice observations taken yearly from 1 November to 30 April at NOAA\/National Ocean Service water level gauge sites in the Great Lakes Basin from 1956 to the 1997. Not all gauge sites have reported each season; a list of sites with coordinates and reporting years is included with the data set. The longest records tend to be at river stations such as St. Clair, St. Marys, Detroit, and St. Lawrence. Daily observations are coded (open water, solid ice, honeycombed ice, slush ice, windrowed ice, drifting ice, ice gorge), as well as first and last reported ice for eachseason. This time series is a unique data set.\n",
+	"notes": "nThis data set contains daily visual ice observations taken yearly from 1 November to 30 April at NOAA/National Ocean Service water level gauge sites in the Great Lakes Basin from 1956 to the 1997. Not all gauge sites have reported each season; a list of sites with coordinates and reporting years is included with the data set. The longest records tend to be at river stations such as St. Clair, St. Marys, Detroit, and St. Lawrence. Daily observations are coded (open water, solid ice, honeycombed ice, slush ice, windrowed ice, drifting ice, ice gorge), as well as first and last reported ice for eachseason. This time series is a unique data set.n",
 	"owner_org": "e811f0b4-451f-4896-9e8f-fc6802837819",
 	"extras": [{
 		"key": "bbox-east-long",
@@ -226,7 +226,7 @@
 	},
 	{
 		"key": "spatial",
-		"value": "{\"type\": \"Polygon\", \"coordinates\": [[[-93.0, 41.0], [-75.0, 41.0], [-75.0, 49.0], [-93.0, 49.0], [-93.0, 41.0]]]}"
+		"value": "{"type": "Polygon", "coordinates": [[[-93.0, 41.0], [-75.0, 41.0], [-75.0, 49.0], [-93.0, 49.0], [-93.0, 41.0]]]}"
 	},
 	{
 		"key": "progress",
@@ -234,7 +234,7 @@
 	},
 	{
 		"key": "access_constraints",
-		"value": "[\"Access Constraints : none\", \"Use Constraints : none\"]"
+		"value": "["Access Constraints : none", "Use Constraints : none"]"
 	},
 	{
 		"key": "temporal-extent-begin",
@@ -254,7 +254,7 @@
 	},
 	{
 		"key": "dataset-reference-date",
-		"value": "[{\"type\": \"publication\", \"value\": \"1995-01-01\"}]"
+		"value": "[{"type": "publication", "value": "1995-01-01"}]"
 	},
 	{
 		"key": "frequency-of-update",
@@ -270,7 +270,7 @@
 	},
 	{
 		"key": "responsible-party",
-		"value": "[{\"name\": \"National Snow and Ice Data Center\", \"roles\": [\"pointOfContact\"]}]"
+		"value": "[{"name": "National Snow and Ice Data Center", "roles": ["pointOfContact"]}]"
 	},
 	{
 		"key": "temporal-extent-end",
@@ -286,7 +286,7 @@
 	},
 	{
 		"key": "tags",
-		"value": "terrestrial hydrosphere, cryosphere, ice breakup, usa, ice types, lake ice, detroit river, mid-latitude, united states of america, north america, freshwater ice, seasonal ice, freeze-up, snow\/ice, geographic region, climatology, great lakes, continent, earth science",
+		"value": "terrestrial hydrosphere, cryosphere, ice breakup, usa, ice types, lake ice, detroit river, mid-latitude, united states of america, north america, freshwater ice, seasonal ice, freeze-up, snow/ice, geographic region, climatology, great lakes, continent, earth science",
 		"__extras": {
 			"revision_id": "c2b8088d-afcc-4826-b08f-a81a595b1afd",
 			"package_id": "1b2163a6-f44c-4399-8270-9007766f2f8b"

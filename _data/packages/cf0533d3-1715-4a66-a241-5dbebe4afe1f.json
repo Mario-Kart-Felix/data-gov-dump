@@ -36,7 +36,7 @@
 		"cache_url": null,
 		"name": "NOAA National Hurricane Center Home Page",
 		"created": "2016-05-30T21:06:10.757352",
-		"url": "http:\/\/www.nhc.noaa.gov\/",
+		"url": "http://www.nhc.noaa.gov/",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 0,
@@ -65,7 +65,7 @@
 		"cache_url": null,
 		"name": "Global WMS service endpoint for the Prototype NOAA OGC Shared Hosting System",
 		"created": "2016-05-30T21:06:10.757376",
-		"url": "http:\/\/services.ogc.noaa.gov\/geoserver\/wms?request=getcapabilities",
+		"url": "http://services.ogc.noaa.gov/geoserver/wms?request=getcapabilities",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 1,
@@ -74,7 +74,7 @@
 	}],
 	"num_resources": 2,
 	"tags": [],
-	"title": "NOAA\/National Hurricane Center Preliminary Best Track Tropical Cyclone Tracks WMS\/WFS (Dynamic Filtering)",
+	"title": "NOAA/National Hurricane Center Preliminary Best Track Tropical Cyclone Tracks WMS/WFS (Dynamic Filtering)",
 	"tracking_summary": {
 		"total": 59,
 		"recent": 4
@@ -85,7 +85,7 @@
 	"name": "noaa-national-hurricane-center-preliminary-best-track-tropical-cyclone-tracks-wms-wfs-dynamic-f",
 	"isopen": false,
 	"url": null,
-	"notes": " Prototype Web Map Service and Web Feature Service containing NOAA National Hurricane Center preliminary 'best track' information for past storms for the Atlantic and Pacific basins. The data layers include tropical cyclone tracks, intensities at point locations, swath areas and radii for tropical storm (34 knot), 50 knot, and hurricane force (64 knot) wind intensities. This service uses GeoServer's custom layer parameter capability to dynamically filter features returned from the four layers within the service. The four layers are one per each data type (best track points, tracks, radii, and windswaths). Note: the radii layers support the WMS 1.3.0 time dimension for animation.\n\nBy default, the layers display data for all storms in the database, unless filtered by the following procedure:\n\nThe service allows you to pass parameters to filter by: year, basin, and storm number. This is done by passing values to GetMap and GetFeature requests with the HTTP parameter name 'viewparams'. The accepted filtering parameters (all submitted together in the 'viewparams' HTTP parameter) are as follows:\n\nyear: (either single year eg '2012' or a list of years with the following syntax: '(2011|2012|2013)' )\nstormnum: (same as above either single '1' or multiple '(1|2|3|18) )\nbasin: ('al' or 'ep').\n\nCombined, a 'viewparams' paremeter string looks like these examples: \n&viewparams=year:2012;stormnum:18;basin=al (Hurricane Sandy, 2012), or \n&viewparams=year:(2012|2013);stormnum:(1|2|3|4|5|6|7|8); (first eight storms for each basin from 2012 and 2013).\n\nDetailed descriptions for the data layers follow.\n\nBest Track: The best track is a subjectively-smoothed representation of the tropical cyclone's location and intensity at 6-h interval over its lifetime.  These best track positions and intensity (maximum 1-minute sustained surface wind speed and minimum sea-level pressure) are based on a post-storm assessment of all available data and may differ from values contained in real-time storm advisories.  In general, they will not reflect the erratic motion implied by connecting the individual center fix positions.  The best track is a living database which serves as the official U.S. National Weather Service historical record of the tropical cyclone.\n\nPast Points: The working best track is a subjectively-smoothed representation of the tropical cyclone's location and intensity (maximum 1-minute sustained surface wind speed and minimum sea-level pressure) at 6 hour intervals over its lifetime. The working best track may not exactly match the information contained in the real-time storm advisories because the data in a working best track are subject to modification during the life cycle of the cyclone.\n\nSwaths: The working best track wind swath is created by accumulating the best track wind radii over the course of an ongoing tropical cyclone.  The working best track wind swath will generally not exactly match the radii contained in the tropical cyclone advisories.  This is because all of the data in a working best track are subject to modification during the life cycle of the the cyclone.  The working best track wind swath shows how the size of the storm has changed and the areas potentially affected so far by sustained winds of tropical storm force(34 Knot), 50 knot and hurricane force (64 knot) from a tropical cyclone.  These data are based on the wind radii contained in the Automated Tropical Cyclone Forecasting (ATCF) system's working best track.\n\nRadii: The working best track wind radii shows how the size of the storm has changed and the areas potentially affected so far by sustained winds of tropical storm force (34 Knot), 50 knot and hurricane force (64 knot) from a tropical cyclone. These data are based on the wind radii contained in the Automated Tropical Cyclone Forecasting (ATCF) system's best track. Users are reminded that the best track wind radii represent the maximum possible extent of a given wind speed within particular quadrants around the tropical cyclone. As a result, not all locations falling within the radii will have experienced the indicated sustained wind.\n\nNote:  The \"working best track\" represents the forecasters' best estimates of the location, intensity, and size of a tropical cyclone while the cyclone is ongoing.  After the life cycle is complete, forecasters prepare a \"final best track\", using data that might not have been available operationally, and it is the final best track that represents NHC's official historical record for the cyclone.)\n\nSource data can be downloaded from the National Hurricane Center here: http:\/\/www.nhc.noaa.gov\/gis\/.\n\t\t\t\t",
+	"notes": " Prototype Web Map Service and Web Feature Service containing NOAA National Hurricane Center preliminary 'best track' information for past storms for the Atlantic and Pacific basins. The data layers include tropical cyclone tracks, intensities at point locations, swath areas and radii for tropical storm (34 knot), 50 knot, and hurricane force (64 knot) wind intensities. This service uses GeoServer's custom layer parameter capability to dynamically filter features returned from the four layers within the service. The four layers are one per each data type (best track points, tracks, radii, and windswaths). Note: the radii layers support the WMS 1.3.0 time dimension for animation.nnBy default, the layers display data for all storms in the database, unless filtered by the following procedure:nnThe service allows you to pass parameters to filter by: year, basin, and storm number. This is done by passing values to GetMap and GetFeature requests with the HTTP parameter name 'viewparams'. The accepted filtering parameters (all submitted together in the 'viewparams' HTTP parameter) are as follows:nnyear: (either single year eg '2012' or a list of years with the following syntax: '(2011|2012|2013)' )nstormnum: (same as above either single '1' or multiple '(1|2|3|18) )nbasin: ('al' or 'ep').nnCombined, a 'viewparams' paremeter string looks like these examples: n&viewparams=year:2012;stormnum:18;basin=al (Hurricane Sandy, 2012), or n&viewparams=year:(2012|2013);stormnum:(1|2|3|4|5|6|7|8); (first eight storms for each basin from 2012 and 2013).nnDetailed descriptions for the data layers follow.nnBest Track: The best track is a subjectively-smoothed representation of the tropical cyclone's location and intensity at 6-h interval over its lifetime.  These best track positions and intensity (maximum 1-minute sustained surface wind speed and minimum sea-level pressure) are based on a post-storm assessment of all available data and may differ from values contained in real-time storm advisories.  In general, they will not reflect the erratic motion implied by connecting the individual center fix positions.  The best track is a living database which serves as the official U.S. National Weather Service historical record of the tropical cyclone.nnPast Points: The working best track is a subjectively-smoothed representation of the tropical cyclone's location and intensity (maximum 1-minute sustained surface wind speed and minimum sea-level pressure) at 6 hour intervals over its lifetime. The working best track may not exactly match the information contained in the real-time storm advisories because the data in a working best track are subject to modification during the life cycle of the cyclone.nnSwaths: The working best track wind swath is created by accumulating the best track wind radii over the course of an ongoing tropical cyclone.  The working best track wind swath will generally not exactly match the radii contained in the tropical cyclone advisories.  This is because all of the data in a working best track are subject to modification during the life cycle of the the cyclone.  The working best track wind swath shows how the size of the storm has changed and the areas potentially affected so far by sustained winds of tropical storm force(34 Knot), 50 knot and hurricane force (64 knot) from a tropical cyclone.  These data are based on the wind radii contained in the Automated Tropical Cyclone Forecasting (ATCF) system's working best track.nnRadii: The working best track wind radii shows how the size of the storm has changed and the areas potentially affected so far by sustained winds of tropical storm force (34 Knot), 50 knot and hurricane force (64 knot) from a tropical cyclone. These data are based on the wind radii contained in the Automated Tropical Cyclone Forecasting (ATCF) system's best track. Users are reminded that the best track wind radii represent the maximum possible extent of a given wind speed within particular quadrants around the tropical cyclone. As a result, not all locations falling within the radii will have experienced the indicated sustained wind.nnNote:  The "working best track" represents the forecasters' best estimates of the location, intensity, and size of a tropical cyclone while the cyclone is ongoing.  After the life cycle is complete, forecasters prepare a "final best track", using data that might not have been available operationally, and it is the final best track that represents NHC's official historical record for the cyclone.)nnSource data can be downloaded from the National Hurricane Center here: http://www.nhc.noaa.gov/gis/.ntttt",
 	"license_title": null,
 	"extras": [{
 		"key": "bbox-east-long",
@@ -109,7 +109,7 @@
 	},
 	{
 		"key": "graphic-preview-file",
-		"value": "http:\/\/services.ogc.noaa.gov\/geoserver\/nhc_best_track_dynamic\/wms?viewparams=year:2012;stormnum:%2818%29;basin:al&service=WMS&version=1.1.0&request=GetMap&layers=nhc_best_track_dynamic:nhc_besttrack_windswath,nhc_best_track_dynamic:nhc_besttrack_track,nhc_best_track_dynamic:nhc_besttrack_points&styles=&bbox=-90,8.36,-55,48.9&width=339&height=400&srs=EPSG:4326&format=image\/png"
+		"value": "http://services.ogc.noaa.gov/geoserver/nhc_best_track_dynamic/wms?viewparams=year:2012;stormnum:%2818%29;basin:al&service=WMS&version=1.1.0&request=GetMap&layers=nhc_best_track_dynamic:nhc_besttrack_windswath,nhc_best_track_dynamic:nhc_besttrack_track,nhc_best_track_dynamic:nhc_besttrack_points&styles=&bbox=-90,8.36,-55,48.9&width=339&height=400&srs=EPSG:4326&format=image/png"
 	},
 	{
 		"key": "bbox-south-lat",
@@ -125,7 +125,7 @@
 	},
 	{
 		"key": "spatial",
-		"value": "{\"type\": \"Polygon\", \"coordinates\": [[[-164.0, 8.0], [-1.0, 8.0], [-1.0, 64.0], [-164.0, 64.0], [-164.0, 8.0]]]}"
+		"value": "{"type": "Polygon", "coordinates": [[[-164.0, 8.0], [-1.0, 8.0], [-1.0, 64.0], [-164.0, 64.0], [-164.0, 8.0]]]}"
 	},
 	{
 		"key": "progress",
@@ -133,7 +133,7 @@
 	},
 	{
 		"key": "access_constraints",
-		"value": "[\"No responsibility is assumed by the National Oceanic and Atmospheric Administration in the use of these data.  Acknowledgement of the National Oceanic and Atmospheric Administration, National Weather Service, National Environmental Prediction Center or the National Hurricane Center would be appreciated.\"]"
+		"value": "["No responsibility is assumed by the National Oceanic and Atmospheric Administration in the use of these data.  Acknowledgement of the National Oceanic and Atmospheric Administration, National Weather Service, National Environmental Prediction Center or the National Hurricane Center would be appreciated."]"
 	},
 	{
 		"key": "temporal-extent-begin",
@@ -153,7 +153,7 @@
 	},
 	{
 		"key": "dataset-reference-date",
-		"value": "[{\"type\": \"creation\", \"value\": \"2014-06-01\"}]"
+		"value": "[{"type": "creation", "value": "2014-06-01"}]"
 	},
 	{
 		"key": "graphic-preview-description",
@@ -173,7 +173,7 @@
 	},
 	{
 		"key": "responsible-party",
-		"value": "[{\"name\": \"NOAA OGC Web Service Hosting Environment\", \"roles\": [\"pointOfContact\"]}]"
+		"value": "[{"name": "NOAA OGC Web Service Hosting Environment", "roles": ["pointOfContact"]}]"
 	},
 	{
 		"key": "spatial-data-service-type",
@@ -215,7 +215,7 @@
 		"revision_timestamp": "2013-03-25T23:05:12.923863",
 		"is_organization": true,
 		"state": "active",
-		"image_url": "https:\/\/fortress.wa.gov\/dfw\/score\/score\/images\/noaa_logo.png",
+		"image_url": "https://fortress.wa.gov/dfw/score/score/images/noaa_logo.png",
 		"revision_id": "c6d43080-22e1-405e-a83d-f2a512d9e867",
 		"type": "organization",
 		"id": "e811f0b4-451f-4896-9e8f-fc6802837819",

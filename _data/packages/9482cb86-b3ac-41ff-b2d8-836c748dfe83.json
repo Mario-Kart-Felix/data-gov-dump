@@ -36,7 +36,7 @@
 		"cache_url": null,
 		"name": "SHP",
 		"created": "2016-04-22T22:38:14.780567",
-		"url": "http:\/\/maps.vcgi.org\/gisdata\/vcgi\/packaged_zips\/GeologicSoils_ONSITE\/_ALL_ZIP_GeologicSoils_ONSITE.zip",
+		"url": "http://maps.vcgi.org/gisdata/vcgi/packaged_zips/GeologicSoils_ONSITE/_ALL_ZIP_GeologicSoils_ONSITE.zip",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 0,
@@ -66,7 +66,7 @@
 		"cache_url": null,
 		"name": "Zip File",
 		"created": "2016-04-22T22:38:14.780600",
-		"url": "http:\/\/maps.vcgi.org\/gisdata\/vcgi\/products\/products_vcgi\/soilattr.zip",
+		"url": "http://maps.vcgi.org/gisdata/vcgi/products/products_vcgi/soilattr.zip",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 1,
@@ -96,7 +96,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2016-04-22T22:38:14.780609",
-		"url": "http:\/\/www.vt.nrcs.usda.gov\/SWAPA\/soils.html",
+		"url": "http://www.vt.nrcs.usda.gov/SWAPA/soils.html",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 2,
@@ -126,7 +126,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2016-04-22T22:38:14.780617",
-		"url": "http:\/\/websoilsurvey.nrcs.usda.gov",
+		"url": "http://websoilsurvey.nrcs.usda.gov",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 3,
@@ -159,11 +159,11 @@
 	"name": "geologicsoils-onsite",
 	"isopen": false,
 	"url": null,
-	"notes": "ONSITE is a pre-selected subset of SSURGO certified soil data depicting onsite sewage disposal ratings of Vermont soils. The SSURGO county coverages were joined to the VT NRCS TOP20 attribute table. The joined data set was then DISSOLVED on the ONSITE attribute in order to merge polygons with the same ONSITE classification code. VCGI HAS NOT QAQC THE RESULTS. AS A RESULT, THIS DATASET SHOULD BE USED WITH CAUTION. NOTICE: This information identifies the new onsite sewage disposal class. This new system replaces the old classification system. Ratings are based on Vermont Environmental Protection Rules, August 16, 2002, based on 20% maximum slope - for lots created on or after June 14, 2002. It doesn't replace onsite investigation. These are the five major classes. Class I - WELL SUITED Class II - MODERATELY SUITED Class III - MARGINALLY SUITED Class IV - NOT SUITED Class V - NOT RATED Refer to the SOILATTR TOP20_VT.DBF documentation (top20*.doc) for additional details (specifically Appendix A). Here is a link to the SOILATTR data product http:\/\/vcgi.vermont.gov\/pub\/dataware\/products\/products_vcgi\/soilattr.zip",
+	"notes": "ONSITE is a pre-selected subset of SSURGO certified soil data depicting onsite sewage disposal ratings of Vermont soils. The SSURGO county coverages were joined to the VT NRCS TOP20 attribute table. The joined data set was then DISSOLVED on the ONSITE attribute in order to merge polygons with the same ONSITE classification code. VCGI HAS NOT QAQC THE RESULTS. AS A RESULT, THIS DATASET SHOULD BE USED WITH CAUTION. NOTICE: This information identifies the new onsite sewage disposal class. This new system replaces the old classification system. Ratings are based on Vermont Environmental Protection Rules, August 16, 2002, based on 20% maximum slope - for lots created on or after June 14, 2002. It doesn't replace onsite investigation. These are the five major classes. Class I - WELL SUITED Class II - MODERATELY SUITED Class III - MARGINALLY SUITED Class IV - NOT SUITED Class V - NOT RATED Refer to the SOILATTR TOP20_VT.DBF documentation (top20*.doc) for additional details (specifically Appendix A). Here is a link to the SOILATTR data product http://vcgi.vermont.gov/pub/dataware/products/products_vcgi/soilattr.zip",
 	"license_title": null,
 	"extras": [{
 		"key": "responsible-party",
-		"value": "[{\"name\": \"VT Center for Geographic Information\", \"roles\": [\"pointOfContact\"]}]"
+		"value": "[{"name": "VT Center for Geographic Information", "roles": ["pointOfContact"]}]"
 	},
 	{
 		"key": "contact-email",
@@ -183,7 +183,7 @@
 	},
 	{
 		"key": "dataset-reference-date",
-		"value": "[{\"type\": \"publication\", \"value\": \"9999-01-01\"}]"
+		"value": "[{"type": "publication", "value": "9999-01-01"}]"
 	},
 	{
 		"key": "resource-type",
@@ -211,7 +211,7 @@
 	},
 	{
 		"key": "licence",
-		"value": "[\"VCGI and the State of Vermont make no representations of any kind, including but not limited to the warranties of merchantability or fitness for a particular use, nor are any such warranties to be implied with respect to the data.\"]"
+		"value": "["VCGI and the State of Vermont make no representations of any kind, including but not limited to the warranties of merchantability or fitness for a particular use, nor are any such warranties to be implied with respect to the data."]"
 	},
 	{
 		"key": "metadata_type",
@@ -223,7 +223,7 @@
 	},
 	{
 		"key": "spatial",
-		"value": "{\"type\": \"Polygon\", \"coordinates\": [[[-73.454162, 42.722789], [-71.465281, 42.722789], [-71.465281, 45.018361], [-73.454162, 45.018361], [-73.454162, 42.722789]]]}"
+		"value": "{"type": "Polygon", "coordinates": [[[-73.454162, 42.722789], [-71.465281, 42.722789], [-71.465281, 45.018361], [-73.454162, 45.018361], [-73.454162, 42.722789]]]}"
 	},
 	{
 		"key": "guid",
@@ -235,7 +235,7 @@
 	},
 	{
 		"key": "access_constraints",
-		"value": "[\"Use Constraints: The U.S. Department of Agriculture, Natural Resource Conservation Service, should be acknowledged as the data source in products derived from these data. This data set is not designed for use as a primary regulatory tool in permitting or citing decisions, but may be used as a reference source. This is public information and may be interpreted by organizations, agencies, units of government, or others based on needs; however, they are responsible for the appropriate application. Federal, State, or local regulatory bodies are not to reassign to the Natural Resource Conservation Service any authority for the decisions that they make. The Natural Resource Conservation Service will not perform any evaluations of these maps for purposes related solely to State or local regulatory programs. Photographic or digital enlargement of these maps to scales greater than at which they were originally mapped can cause misinterpretation of the data. If enlarged, maps do not show the small areas of contrasting soils that could have been shown at a larger scale. The depicted soil boundaries, interpretations, and analysis derived from them do not eliminate the need for onsite sampling, testing, and detailed study of specific sites for intensive uses. Thus, these data and their interpretations are intended for planning purposes only. Digital data files are periodically updated. Files are dated, and users are responsible for obtaining the latest version of the data.\", \"Access Constraints: VCGI, NRCS, and the State of VT make no representations of any kind, including but not limited to the warranties of merchantability or fitness for a particular use, nor are any such warranties to be implied with respect to the data.\"]"
+		"value": "["Use Constraints: The U.S. Department of Agriculture, Natural Resource Conservation Service, should be acknowledged as the data source in products derived from these data. This data set is not designed for use as a primary regulatory tool in permitting or citing decisions, but may be used as a reference source. This is public information and may be interpreted by organizations, agencies, units of government, or others based on needs; however, they are responsible for the appropriate application. Federal, State, or local regulatory bodies are not to reassign to the Natural Resource Conservation Service any authority for the decisions that they make. The Natural Resource Conservation Service will not perform any evaluations of these maps for purposes related solely to State or local regulatory programs. Photographic or digital enlargement of these maps to scales greater than at which they were originally mapped can cause misinterpretation of the data. If enlarged, maps do not show the small areas of contrasting soils that could have been shown at a larger scale. The depicted soil boundaries, interpretations, and analysis derived from them do not eliminate the need for onsite sampling, testing, and detailed study of specific sites for intensive uses. Thus, these data and their interpretations are intended for planning purposes only. Digital data files are periodically updated. Files are dated, and users are responsible for obtaining the latest version of the data.", "Access Constraints: VCGI, NRCS, and the State of VT make no representations of any kind, including but not limited to the warranties of merchantability or fitness for a particular use, nor are any such warranties to be implied with respect to the data."]"
 	},
 	{
 		"key": "spatial_harvester",
@@ -277,7 +277,7 @@
 		"revision_timestamp": "2013-03-27T17:47:03.718032",
 		"is_organization": true,
 		"state": "active",
-		"image_url": "http:\/\/vcgi.vermont.gov\/sites\/all\/themes\/vt_template\/logo.png",
+		"image_url": "http://vcgi.vermont.gov/sites/all/themes/vt_template/logo.png",
 		"revision_id": "c5dfbbb0-f1e0-4db6-b566-e932e1520060",
 		"type": "organization",
 		"id": "0c3a4ebc-9929-4f21-bdd0-76a35d52f57d",

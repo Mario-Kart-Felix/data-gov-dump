@@ -36,7 +36,7 @@
 		"cache_url": null,
 		"name": "Zipped 2007 Excel spreadsheet containing Alabama Borehole Lithology Interval data ",
 		"created": "2013-03-16T02:10:39.040533",
-		"url": "http:\/\/repository.stategeothermaldata.org\/metadata\/record\/98ddf901b9782a25982e01af3b1021cd\/file\/al_boreholelithintervals.zip",
+		"url": "http://repository.stategeothermaldata.org/metadata/record/98ddf901b9782a25982e01af3b1021cd/file/al_boreholelithintervals.zip",
 		"webstore_url": null,
 		"resource_locator_function": "375",
 		"position": 0,
@@ -65,7 +65,7 @@
 		"cache_url": null,
 		"name": "Downloadable File",
 		"created": "2013-03-16T02:10:39.040552",
-		"url": "http:\/\/kgs.uky.edu\/arcgis\/services\/aasggeothermal\/ALBoreholeLithIntervals\/MapServer\/WMSServer?request=GetCapabilities&service=WMS",
+		"url": "http://kgs.uky.edu/arcgis/services/aasggeothermal/ALBoreholeLithIntervals/MapServer/WMSServer?request=GetCapabilities&service=WMS",
 		"webstore_url": null,
 		"resource_locator_function": "375",
 		"position": 1,
@@ -94,7 +94,7 @@
 		"cache_url": null,
 		"name": "Service Description",
 		"created": "2013-03-16T02:10:39.040558",
-		"url": "http:\/\/kgs.uky.edu\/arcgis\/rest\/services\/aasggeothermal\/ALBoreholeLithIntervals\/MapServer",
+		"url": "http://kgs.uky.edu/arcgis/rest/services/aasggeothermal/ALBoreholeLithIntervals/MapServer",
 		"webstore_url": null,
 		"resource_locator_function": "381",
 		"position": 2,
@@ -123,7 +123,7 @@
 		"cache_url": null,
 		"name": "Service Description",
 		"created": "2013-03-16T02:10:39.040563",
-		"url": "http:\/\/kgs.uky.edu\/arcgis\/services\/aasggeothermal\/ALBoreholeLithIntervals\/MapServer\/WFSServer?request=GetCapabilities&service=WFS",
+		"url": "http://kgs.uky.edu/arcgis/services/aasggeothermal/ALBoreholeLithIntervals/MapServer/WFSServer?request=GetCapabilities&service=WFS",
 		"webstore_url": null,
 		"resource_locator_function": "381",
 		"position": 3,
@@ -156,11 +156,11 @@
 	"name": "alabama-borehole-lithology-intervals",
 	"isopen": false,
 	"url": null,
-	"notes": "This dataset contains lithology log interval observations associated with a borehole. Fields in the BoreholeLithIntervalTemplate will become XML elements in interchange documents for WFS simple features served by AASG geothermal data web services.  Each interval feature has a top and a bottom, measured from the ground surface (convention for interoperability) and a geologic unit description that will be identical with the content associated with polygons on a geologic map.  Other sheets in the workbook provide additional explanatory material and provide information on the origin of the dataset, its review and lineage.  There are 238 borehole  lithology logs in this data set.  Fields include Interval Type and Lithology, and Top and Bottom Driller Depths.Link to Borehole Lithology Content Model v0.9: http:\/\/repository.usgin.org\/sites\/default\/files\/dlio\/files\/2012\/u83\/boreholelithintervaltemplate0.9schema_match_0.zip",
+	"notes": "This dataset contains lithology log interval observations associated with a borehole. Fields in the BoreholeLithIntervalTemplate will become XML elements in interchange documents for WFS simple features served by AASG geothermal data web services.  Each interval feature has a top and a bottom, measured from the ground surface (convention for interoperability) and a geologic unit description that will be identical with the content associated with polygons on a geologic map.  Other sheets in the workbook provide additional explanatory material and provide information on the origin of the dataset, its review and lineage.  There are 238 borehole  lithology logs in this data set.  Fields include Interval Type and Lithology, and Top and Bottom Driller Depths.Link to Borehole Lithology Content Model v0.9: http://repository.usgin.org/sites/default/files/dlio/files/2012/u83/boreholelithintervaltemplate0.9schema_match_0.zip",
 	"license_title": null,
 	"extras": [{
 		"key": "responsible-party",
-		"value": "[{\"name\": \"No Organization Name Was Given\", \"roles\": [\"pointOfContact\"]}]"
+		"value": "[{"name": "No Organization Name Was Given", "roles": ["pointOfContact"]}]"
 	},
 	{
 		"key": "contact-email",
@@ -180,7 +180,7 @@
 	},
 	{
 		"key": "dataset-reference-date",
-		"value": "[{\"type\": \"publication\", \"value\": \"2012-05-02T12:00:00\"}]"
+		"value": "[{"type": "publication", "value": "2012-05-02T12:00:00"}]"
 	},
 	{
 		"key": "resource-type",
@@ -216,7 +216,7 @@
 	},
 	{
 		"key": "spatial",
-		"value": "{\"type\": \"Polygon\", \"coordinates\": [[[-88.7036, 30.0858], [-88.7036, 35.0458], [-84.6606, 35.0458], [-84.6606, 30.0858], [-88.7036, 30.0858]]]}"
+		"value": "{"type": "Polygon", "coordinates": [[[-88.7036, 30.0858], [-88.7036, 35.0458], [-84.6606, 35.0458], [-84.6606, 30.0858], [-88.7036, 30.0858]]]}"
 	},
 	{
 		"key": "guid",
@@ -266,7 +266,7 @@
 		"revision_timestamp": "2013-03-20T21:11:17.592932",
 		"is_organization": true,
 		"state": "active",
-		"image_url": "http:\/\/www.50states.com\/flag\/image\/nunst004.gif",
+		"image_url": "http://www.50states.com/flag/image/nunst004.gif",
 		"revision_id": "61be6428-4398-4199-a336-f3cd1e956f9b",
 		"type": "organization",
 		"id": "f3f6e1d4-64fb-4a2f-b32c-9ac0b76fe4de",

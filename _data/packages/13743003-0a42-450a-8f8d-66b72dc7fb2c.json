@@ -37,7 +37,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2016-06-22T04:30:22.123553",
-		"url": "http:\/\/pubs.usgs.gov\/of\/2006\/1135\/",
+		"url": "http://pubs.usgs.gov/of/2006/1135/",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 0,
@@ -66,7 +66,7 @@
 		"cache_url": null,
 		"name": "Shapefile",
 		"created": "2016-06-22T04:30:22.123599",
-		"url": "http:\/\/mrdata.usgs.gov\/mineral-operations\/minfac.zip",
+		"url": "http://mrdata.usgs.gov/mineral-operations/minfac.zip",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 1,
@@ -95,7 +95,7 @@
 		"cache_url": null,
 		"name": "CSV",
 		"created": "2016-06-22T04:30:22.123609",
-		"url": "http:\/\/mrdata.usgs.gov\/mineral-operations\/minfac-csv.zip",
+		"url": "http://mrdata.usgs.gov/mineral-operations/minfac-csv.zip",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 2,
@@ -125,7 +125,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2016-06-22T04:30:22.123617",
-		"url": "http:\/\/mrdata.usgs.gov\/mineral-operations\/",
+		"url": "http://mrdata.usgs.gov/mineral-operations/",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 3,
@@ -155,7 +155,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2016-06-22T04:30:22.123624",
-		"url": "http:\/\/pubs.usgs.gov\/of\/2006\/1135\/",
+		"url": "http://pubs.usgs.gov/of/2006/1135/",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 4,
@@ -175,11 +175,11 @@
 	"name": "mineral-operations-of-africa-and-the-middle-east475b2",
 	"isopen": false,
 	"url": null,
-	"notes": "This data set consists of records for over 1,500 mineral facilities in Africa and the Middle East. The mineral facilities include mines, plants, mills , or refineries of aluminum, cement, coal, copper, diamond, gold, iron and steel, nickel, platinum-group metals, salt, and silver, among others. Records include attributes such as commodity, country, site, company name, plant capacity if applicable, and generalized coordinates. The data were compiled from multiple sources, including the 2004 USGS Minerals Yearbook (Africa and Middle East volume), minerals statistics and information from the USGS minerals information Web site http:\/\/minerals.usgs.gov\/minerals\/ , and data collected by USGS minerals information country specialists. Data reflect the most recent published table of industry structure for each country. Other sources include statistical publications of individual countries, annual reports and press releases of operating companies, and trade journals. Due to the sensitivity of some energy commodity data, the quality of these data should be evaluated on a country-by-country basis. Additional information and explanation is available from the country specialists.",
+	"notes": "This data set consists of records for over 1,500 mineral facilities in Africa and the Middle East. The mineral facilities include mines, plants, mills , or refineries of aluminum, cement, coal, copper, diamond, gold, iron and steel, nickel, platinum-group metals, salt, and silver, among others. Records include attributes such as commodity, country, site, company name, plant capacity if applicable, and generalized coordinates. The data were compiled from multiple sources, including the 2004 USGS Minerals Yearbook (Africa and Middle East volume), minerals statistics and information from the USGS minerals information Web site http://minerals.usgs.gov/minerals/ , and data collected by USGS minerals information country specialists. Data reflect the most recent published table of industry structure for each country. Other sources include statistical publications of individual countries, annual reports and press releases of operating companies, and trade journals. Due to the sensitivity of some energy commodity data, the quality of these data should be evaluated on a country-by-country basis. Additional information and explanation is available from the country specialists.",
 	"license_title": null,
 	"extras": [{
 		"key": "responsible-party",
-		"value": "[{\"name\": \"U. S. Geological Survey\", \"roles\": [\"pointOfContact\"]}]"
+		"value": "[{"name": "U. S. Geological Survey", "roles": ["pointOfContact"]}]"
 	},
 	{
 		"key": "contact-email",
@@ -199,7 +199,7 @@
 	},
 	{
 		"key": "dataset-reference-date",
-		"value": "[{\"type\": \"publication\", \"value\": \"2006-01-01\"}]"
+		"value": "[{"type": "publication", "value": "2006-01-01"}]"
 	},
 	{
 		"key": "resource-type",
@@ -227,7 +227,7 @@
 	},
 	{
 		"key": "licence",
-		"value": "[\"Although these data have been used by the U.S. Geological Survey, U.S. Department of the Interior, no warranty expressed or implied is made by the U.S. Geological Survey as to the accuracy of the data.  The act of distribution shall not constitute any such warranty, and no responsibility is assumed by the U.S. Geological Survey in the use of these data, software, or related materials. The use of firm, trade, or brand names in this report is for identification purposes only and does not constitute endorsement by the U.S. Geological Survey.  The names mentioned in this document may be trademarks or registered trademarks of their respective trademark owners.\"]"
+		"value": "["Although these data have been used by the U.S. Geological Survey, U.S. Department of the Interior, no warranty expressed or implied is made by the U.S. Geological Survey as to the accuracy of the data.  The act of distribution shall not constitute any such warranty, and no responsibility is assumed by the U.S. Geological Survey in the use of these data, software, or related materials. The use of firm, trade, or brand names in this report is for identification purposes only and does not constitute endorsement by the U.S. Geological Survey.  The names mentioned in this document may be trademarks or registered trademarks of their respective trademark owners."]"
 	},
 	{
 		"key": "metadata_type",
@@ -239,7 +239,7 @@
 	},
 	{
 		"key": "spatial",
-		"value": "{\"type\": \"Polygon\", \"coordinates\": [[[-34.183, -25.0], [48.7, -25.0], [48.7, 61.243], [-34.183, 61.243], [-34.183, -25.0]]]}"
+		"value": "{"type": "Polygon", "coordinates": [[[-34.183, -25.0], [48.7, -25.0], [48.7, 61.243], [-34.183, 61.243], [-34.183, -25.0]]]}"
 	},
 	{
 		"key": "guid",
@@ -251,7 +251,7 @@
 	},
 	{
 		"key": "access_constraints",
-		"value": "[\"Use Constraints: None, however the responsibility of determining fitness for any particular use is that of the user of these data.\", \"Access Constraints: None\"]"
+		"value": "["Use Constraints: None, however the responsibility of determining fitness for any particular use is that of the user of these data.", "Access Constraints: None"]"
 	},
 	{
 		"key": "spatial_harvester",
@@ -286,14 +286,14 @@
 		"value": "Mineral Resources Online Spatial Data"
 	}],
 	"organization": {
-		"description": "http:\/\/www.usgs.gov\/\r\nThe USGS is a federal science agency that provides impartial information on the health of our ecosystems and environment, the natural hazards that threaten us, the natural resources we rely on, the impacts of climate and land-use change, and the core science systems that help us provide timely, relevant, and useable information.",
+		"description": "http://www.usgs.gov/rnThe USGS is a federal science agency that provides impartial information on the health of our ecosystems and environment, the natural hazards that threaten us, the natural resources we rely on, the impacts of climate and land-use change, and the core science systems that help us provide timely, relevant, and useable information.",
 		"created": "2013-03-14T03:44:38.263357",
 		"title": "U.S. Geological Survey, Department of the Interior",
 		"name": "usgs-gov",
 		"revision_timestamp": "2014-09-02T13:43:52.167023",
 		"is_organization": true,
 		"state": "active",
-		"image_url": "http:\/\/pubs.usgs.gov\/sir\/2004\/5296\/04-5296_confluence_park\/usgs_logo.gif",
+		"image_url": "http://pubs.usgs.gov/sir/2004/5296/04-5296_confluence_park/usgs_logo.gif",
 		"revision_id": "2858aa99-9501-4f96-82e5-9647b968ed66",
 		"type": "organization",
 		"id": "bd2cdd5a-4d65-46c0-9937-c8381175f104",

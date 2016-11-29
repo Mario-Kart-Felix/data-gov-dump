@@ -34,9 +34,9 @@
 		"resource_locator_protocol": "WWW:LINK-1.0-http--link",
 		"mimetype": null,
 		"cache_url": null,
-		"name": "ftp:\/\/ftp.nefsc.noaa.gov\/",
+		"name": "ftp://ftp.nefsc.noaa.gov/",
 		"created": "2016-08-08T22:45:35.519920",
-		"url": "ftp:\/\/ftp.nefsc.noaa.gov\/",
+		"url": "ftp://ftp.nefsc.noaa.gov/",
 		"webstore_url": null,
 		"resource_locator_function": "download",
 		"position": 0,
@@ -65,7 +65,7 @@
 		"cache_url": null,
 		"name": "Website",
 		"created": "2016-08-08T22:45:35.519950",
-		"url": "http:\/\/www.nefsc.noaa.gov",
+		"url": "http://www.nefsc.noaa.gov",
 		"webstore_url": null,
 		"resource_locator_function": "information",
 		"position": 1,
@@ -94,7 +94,7 @@
 		"cache_url": null,
 		"name": "Website",
 		"created": "2016-08-08T22:45:35.519959",
-		"url": "http:\/\/www.nefsc.noaa.gov\/nefsc\/woodshole\/",
+		"url": "http://www.nefsc.noaa.gov/nefsc/woodshole/",
 		"webstore_url": null,
 		"resource_locator_function": "information",
 		"position": 2,
@@ -111,7 +111,7 @@
 		"state": "active",
 		"last_modified": null,
 		"hash": "",
-		"description": "PDF of journal article:\nEffects of a codend mesh size increase on size selectivity and catch rates in a small-mesh bottom trawl fishery for longfin inshore squid, Loligo pealeii",
+		"description": "PDF of journal article:nEffects of a codend mesh size increase on size selectivity and catch rates in a small-mesh bottom trawl fishery for longfin inshore squid, Loligo pealeii",
 		"format": "",
 		"tracking_summary": {
 			"total": 0,
@@ -123,7 +123,7 @@
 		"cache_url": null,
 		"name": "Citation URL",
 		"created": "2016-08-08T22:45:35.519966",
-		"url": "http:\/\/ac.els-cdn.com\/S0165783610003048\/1-s2.0-S0165783610003048-main.pdf?_tid=71901b8a-0aed-11e6-a5db-00000aacb35e&acdnat=1461592741_24285a8c6589734d3a8007e098abfe6c",
+		"url": "http://ac.els-cdn.com/S0165783610003048/1-s2.0-S0165783610003048-main.pdf?_tid=71901b8a-0aed-11e6-a5db-00000aacb35e&acdnat=1461592741_24285a8c6589734d3a8007e098abfe6c",
 		"webstore_url": null,
 		"resource_locator_function": "download",
 		"position": 3,
@@ -152,7 +152,7 @@
 		"cache_url": null,
 		"name": "Website",
 		"created": "2016-08-08T22:45:35.519973",
-		"url": "http:\/\/www.nefsc.noaa.gov",
+		"url": "http://www.nefsc.noaa.gov",
 		"webstore_url": null,
 		"resource_locator_function": "information",
 		"position": 4,
@@ -181,7 +181,7 @@
 		"cache_url": null,
 		"name": "Website",
 		"created": "2016-08-08T22:45:35.519981",
-		"url": "http:\/\/www.nefsc.noaa.gov",
+		"url": "http://www.nefsc.noaa.gov",
 		"webstore_url": null,
 		"resource_locator_function": "information",
 		"position": 5,
@@ -210,7 +210,7 @@
 		"cache_url": null,
 		"name": "NOAA Data Management Plan (DMP)",
 		"created": "2016-08-08T22:45:35.519987",
-		"url": "https:\/\/inport.nmfs.noaa.gov\/inport\/item\/27378\/dmp",
+		"url": "https://inport.nmfs.noaa.gov/inport/item/27378/dmp",
 		"webstore_url": null,
 		"resource_locator_function": "information",
 		"position": 6,
@@ -227,7 +227,7 @@
 		"state": "active",
 		"last_modified": null,
 		"hash": "",
-		"description": "This page describes the NASA GCMD Keywords, how\n                                                        to reference those keywords and provides download instructions.\n                                                    ",
+		"description": "This page describes the NASA GCMD Keywords, hown                                                        to reference those keywords and provides download instructions.n                                                    ",
 		"format": "HTML",
 		"tracking_summary": {
 			"total": 475,
@@ -239,7 +239,7 @@
 		"cache_url": null,
 		"name": "GCMD Keywords Page",
 		"created": "2016-08-08T22:45:35.519994",
-		"url": "http:\/\/gcmd.nasa.gov\/learn\/keyword_list.html",
+		"url": "http://gcmd.nasa.gov/learn/keyword_list.html",
 		"webstore_url": null,
 		"resource_locator_function": "information",
 		"position": 7,
@@ -263,7 +263,7 @@
 	"license_title": null,
 	"extras": [{
 		"key": "responsible-party",
-		"value": "[{\"name\": \"\", \"roles\": [\"\"]}, {\"name\": \"Northeast Fisheries Science Center\", \"roles\": [\"pointOfContact\", \"custodian\"]}]"
+		"value": "[{"name": "", "roles": [""]}, {"name": "Northeast Fisheries Science Center", "roles": ["pointOfContact", "custodian"]}]"
 	},
 	{
 		"key": "contact-email",
@@ -283,7 +283,7 @@
 	},
 	{
 		"key": "dataset-reference-date",
-		"value": "[{\"type\": \"publication\", \"value\": \"\"}]"
+		"value": "[{"type": "publication", "value": ""}]"
 	},
 	{
 		"key": "resource-type",
@@ -323,7 +323,7 @@
 	},
 	{
 		"key": "spatial",
-		"value": "{\"type\": \"Polygon\", \"coordinates\": [[[-73.82214, 38.311567], [-71.253833, 38.311567], [-71.253833, 40.746565], [-73.82214, 40.746565], [-73.82214, 38.311567]]]}"
+		"value": "{"type": "Polygon", "coordinates": [[[-73.82214, 38.311567], [-71.253833, 38.311567], [-71.253833, 40.746565], [-73.82214, 40.746565], [-73.82214, 38.311567]]]}"
 	},
 	{
 		"key": "guid",
@@ -335,7 +335,7 @@
 	},
 	{
 		"key": "access_constraints",
-		"value": "[\"Access Constraints: User must read and fully comprehend the metadata prior to use. Applications or inferences derived from the data should be carefully considered for accuracy. \\n\\nNEFSC Data Access Constraint:\\nIf data is stored on an internal NEFSC network, the requester may not have direct access to query the data unless they are also authorized for network access.\\n\\n | Use Constraints: Acknowledgement of NOAA\/NMFS\/NEFSC, as the source from which these data were obtained in any publications and\/or other representations of these, data is suggested.\"]"
+		"value": "["Access Constraints: User must read and fully comprehend the metadata prior to use. Applications or inferences derived from the data should be carefully considered for accuracy. \n\nNEFSC Data Access Constraint:\nIf data is stored on an internal NEFSC network, the requester may not have direct access to query the data unless they are also authorized for network access.\n\n | Use Constraints: Acknowledgement of NOAA/NMFS/NEFSC, as the source from which these data were obtained in any publications and/or other representations of these, data is suggested."]"
 	},
 	{
 		"key": "spatial_harvester",
@@ -347,7 +347,7 @@
 	},
 	{
 		"package_id": "3fe98b1a-a4f8-460d-9dbf-3dc3f48a7934",
-		"value": "codend mesh selectivity, atlantic butterfish, merluccius bilinearis, northern shortfin squid, illex illecebrosus, 2008, doc\/noaa\/nmfs\/nefsc, longfin squid fishery, northeast cooperative research program (ncrp), cooperative research, pelagic, northwest atlantic, mid-atlantic bight, northeast fisheries science center, national marine fisheries service, noaa, u.s. department of commerce, bottom trawl, peprilus triancanthus, longfin inshore squid, loligo pealeii, demersal, bycatch reduction, silver hake",
+		"value": "codend mesh selectivity, atlantic butterfish, merluccius bilinearis, northern shortfin squid, illex illecebrosus, 2008, doc/noaa/nmfs/nefsc, longfin squid fishery, northeast cooperative research program (ncrp), cooperative research, pelagic, northwest atlantic, mid-atlantic bight, northeast fisheries science center, national marine fisheries service, noaa, u.s. department of commerce, bottom trawl, peprilus triancanthus, longfin inshore squid, loligo pealeii, demersal, bycatch reduction, silver hake",
 		"revision_timestamp": "2016-07-19T03:54:15.693804",
 		"state": "active",
 		"key": "tags",
@@ -377,7 +377,7 @@
 		"revision_timestamp": "2013-03-25T23:05:12.923863",
 		"is_organization": true,
 		"state": "active",
-		"image_url": "https:\/\/fortress.wa.gov\/dfw\/score\/score\/images\/noaa_logo.png",
+		"image_url": "https://fortress.wa.gov/dfw/score/score/images/noaa_logo.png",
 		"revision_id": "c6d43080-22e1-405e-a83d-f2a512d9e867",
 		"type": "organization",
 		"id": "e811f0b4-451f-4896-9e8f-fc6802837819",

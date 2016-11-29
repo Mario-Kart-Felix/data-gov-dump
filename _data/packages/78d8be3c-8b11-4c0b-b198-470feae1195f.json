@@ -36,7 +36,7 @@
 		"cache_url": null,
 		"name": "ArcInfo Workstation GRID",
 		"created": "2014-11-17T16:11:23.460647",
-		"url": "http:\/\/water.usgs.gov\/GIS\/dsdl\/hp_sp_yield.zip",
+		"url": "http://water.usgs.gov/GIS/dsdl/hp_sp_yield.zip",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 0,
@@ -65,7 +65,7 @@
 		"cache_url": null,
 		"name": "ASCII",
 		"created": "2014-11-17T16:11:23.460674",
-		"url": "http:\/\/water.usgs.gov\/GIS\/dsdl\/hp_sp_yielda.zip",
+		"url": "http://water.usgs.gov/GIS/dsdl/hp_sp_yielda.zip",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 1,
@@ -95,7 +95,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2014-11-17T16:11:23.460688",
-		"url": "http:\/\/water.usgs.gov\/lookup\/getspatial?sir12-5177_hp_sp_yield",
+		"url": "http://water.usgs.gov/lookup/getspatial?sir12-5177_hp_sp_yield",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 2,
@@ -125,7 +125,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2014-11-17T16:11:23.460699",
-		"url": "http:\/\/pubs.er.usgs.gov\/publication\/sir20125177",
+		"url": "http://pubs.er.usgs.gov/publication/sir20125177",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 3,
@@ -149,7 +149,7 @@
 	"license_title": null,
 	"extras": [{
 		"key": "bbox-east-long",
-		"value": "\n-96.225303"
+		"value": "n-96.225303"
 	},
 	{
 		"key": "resource-type",
@@ -157,7 +157,7 @@
 	},
 	{
 		"key": "bbox-north-lat",
-		"value": "\n43.806420"
+		"value": "n43.806420"
 	},
 	{
 		"key": "coupled-resource",
@@ -173,11 +173,11 @@
 	},
 	{
 		"key": "graphic-preview-file",
-		"value": "http:\/\/water.usgs.gov\/GIS\/browse\/hp_sp_yield.jpg"
+		"value": "http://water.usgs.gov/GIS/browse/hp_sp_yield.jpg"
 	},
 	{
 		"key": "bbox-south-lat",
-		"value": "\n31.598356"
+		"value": "n31.598356"
 	},
 	{
 		"key": "spatial-reference-system",
@@ -189,7 +189,7 @@
 	},
 	{
 		"key": "spatial",
-		"value": "{\"type\": \"Polygon\", \"coordinates\": [[[-106.016217, 31.598356], [-96.225303, 31.598356], [-96.225303, 43.80642], [-106.016217, 43.80642], [-106.016217, 31.598356]]]}"
+		"value": "{"type": "Polygon", "coordinates": [[[-106.016217, 31.598356], [-96.225303, 31.598356], [-96.225303, 43.80642], [-106.016217, 43.80642], [-106.016217, 31.598356]]]}"
 	},
 	{
 		"key": "progress",
@@ -197,7 +197,7 @@
 	},
 	{
 		"key": "access_constraints",
-		"value": "[\"Use Constraints: This data has a resolution of 500 meters and should not be used for more detailed analysis.\", \"Access Constraints: None\"]"
+		"value": "["Use Constraints: This data has a resolution of 500 meters and should not be used for more detailed analysis.", "Access Constraints: None"]"
 	},
 	{
 		"key": "contact-email",
@@ -205,7 +205,7 @@
 	},
 	{
 		"key": "bbox-west-long",
-		"value": "\n-106.016217"
+		"value": "n-106.016217"
 	},
 	{
 		"key": "metadata-date",
@@ -213,7 +213,7 @@
 	},
 	{
 		"key": "dataset-reference-date",
-		"value": "[{\"type\": \"publication\", \"value\": \"2012-01-01\"}]"
+		"value": "[{"type": "publication", "value": "2012-01-01"}]"
 	},
 	{
 		"key": "graphic-preview-description",
@@ -225,7 +225,7 @@
 	},
 	{
 		"key": "licence",
-		"value": "[\"Although these data have been used by the U.S. Geological Survey, U.S. Department of the Interior, no warranty expressed or implied is made by the U.S. Geological Survey as to the accuracy of the data.  The act of distribution shall not constitute any such warranty, and no responsibility is assumed by the U.S. Geological Survey in the use of these data, software, or related materials. The use of firm, trade, or brand names in this report is for identification purposes only and does not constitute endorsement by the U.S. Geological Survey.  The names mentioned in this document may be trademarks or registered trademarks of their respective trademark owners.\"]"
+		"value": "["Although these data have been used by the U.S. Geological Survey, U.S. Department of the Interior, no warranty expressed or implied is made by the U.S. Geological Survey as to the accuracy of the data.  The act of distribution shall not constitute any such warranty, and no responsibility is assumed by the U.S. Geological Survey in the use of these data, software, or related materials. The use of firm, trade, or brand names in this report is for identification purposes only and does not constitute endorsement by the U.S. Geological Survey.  The names mentioned in this document may be trademarks or registered trademarks of their respective trademark owners."]"
 	},
 	{
 		"key": "metadata_type",
@@ -233,7 +233,7 @@
 	},
 	{
 		"key": "responsible-party",
-		"value": "[{\"name\": \"U.S. Gelogical Survey\", \"roles\": [\"pointOfContact\"]}]"
+		"value": "[{"name": "U.S. Gelogical Survey", "roles": ["pointOfContact"]}]"
 	},
 	{
 		"key": "spatial-data-service-type",
@@ -268,14 +268,14 @@
 		"value": "Water NSDI Node Spatial Datasets"
 	}],
 	"organization": {
-		"description": "http:\/\/www.usgs.gov\/\r\nThe USGS is a federal science agency that provides impartial information on the health of our ecosystems and environment, the natural hazards that threaten us, the natural resources we rely on, the impacts of climate and land-use change, and the core science systems that help us provide timely, relevant, and useable information.",
+		"description": "http://www.usgs.gov/rnThe USGS is a federal science agency that provides impartial information on the health of our ecosystems and environment, the natural hazards that threaten us, the natural resources we rely on, the impacts of climate and land-use change, and the core science systems that help us provide timely, relevant, and useable information.",
 		"created": "2013-03-14T03:44:38.263357",
 		"title": "U.S. Geological Survey, Department of the Interior",
 		"name": "usgs-gov",
 		"revision_timestamp": "2014-09-02T13:43:52.167023",
 		"is_organization": true,
 		"state": "active",
-		"image_url": "http:\/\/pubs.usgs.gov\/sir\/2004\/5296\/04-5296_confluence_park\/usgs_logo.gif",
+		"image_url": "http://pubs.usgs.gov/sir/2004/5296/04-5296_confluence_park/usgs_logo.gif",
 		"revision_id": "2858aa99-9501-4f96-82e5-9647b968ed66",
 		"type": "organization",
 		"id": "bd2cdd5a-4d65-46c0-9937-c8381175f104",

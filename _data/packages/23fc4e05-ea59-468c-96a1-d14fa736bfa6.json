@@ -37,7 +37,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2015-11-09T23:08:39.550951",
-		"url": "http:\/\/www.soest.hawaii.edu\/pibhmc\/pibhmc_cnmi_asu_bathy.htm",
+		"url": "http://www.soest.hawaii.edu/pibhmc/pibhmc_cnmi_asu_bathy.htm",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 0,
@@ -67,7 +67,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2015-11-09T23:08:39.551030",
-		"url": "http:\/\/www.soest.hawaii.edu\/pibhmc\/pibhmc_cnmi_asu_bathy.htm",
+		"url": "http://www.soest.hawaii.edu/pibhmc/pibhmc_cnmi_asu_bathy.htm",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 1,
@@ -89,7 +89,7 @@
 		"revision_timestamp": "2013-03-25T23:05:12.923863",
 		"is_organization": true,
 		"state": "active",
-		"image_url": "https:\/\/fortress.wa.gov\/dfw\/score\/score\/images\/noaa_logo.png",
+		"image_url": "https://fortress.wa.gov/dfw/score/score/images/noaa_logo.png",
 		"revision_id": "c6d43080-22e1-405e-a83d-f2a512d9e867",
 		"type": "organization",
 		"id": "e811f0b4-451f-4896-9e8f-fc6802837819",
@@ -100,11 +100,11 @@
 	"name": "mosaic-of-10-m-gridded-multibeam-bathymetry-and-bathymetry-derived-from-multispectral-ikonos-saf3536",
 	"isopen": false,
 	"url": null,
-	"notes": "Gridded multibeam bathymetry is integrated with bathymetry derived from multpectral IKONOS satellite data. Gridded (10 m cell size) multibeam bathymetry collected aboard NOAA Ship Hiialaka'i and R\/V AHI. Bathymetry values shallower than 15 m were derived by gauging the relative attenuation of blue and green spectral radiance as a function of depth. A multiple linear regression analysis of linearized blue and green band spectral values against depth determined the variables of y-intercept, blue slope and green slope values. Variables then used in multivariate slope intercept formula to derive depth. Variables were adjusted to improve the statistical accuracy and spatial coverage of the final derived bathymetry product. Digital image processing to derive depths conducted with the ENVI 4.5 software program while data editing and integration was performed using ArcGIS 9.3. This dataset is for the shelf environment of Asuncion Island, Commonwealth of the Northern Marianas Islands, USA",
+	"notes": "Gridded multibeam bathymetry is integrated with bathymetry derived from multpectral IKONOS satellite data. Gridded (10 m cell size) multibeam bathymetry collected aboard NOAA Ship Hiialaka'i and R/V AHI. Bathymetry values shallower than 15 m were derived by gauging the relative attenuation of blue and green spectral radiance as a function of depth. A multiple linear regression analysis of linearized blue and green band spectral values against depth determined the variables of y-intercept, blue slope and green slope values. Variables then used in multivariate slope intercept formula to derive depth. Variables were adjusted to improve the statistical accuracy and spatial coverage of the final derived bathymetry product. Digital image processing to derive depths conducted with the ENVI 4.5 software program while data editing and integration was performed using ArcGIS 9.3. This dataset is for the shelf environment of Asuncion Island, Commonwealth of the Northern Marianas Islands, USA",
 	"owner_org": "e811f0b4-451f-4896-9e8f-fc6802837819",
 	"extras": [{
 		"key": "bbox-east-long",
-		"value": "\n          145.437089\n        "
+		"value": "n          145.437089n        "
 	},
 	{
 		"key": "resource-type",
@@ -112,7 +112,7 @@
 	},
 	{
 		"key": "bbox-north-lat",
-		"value": "\n          19.727122\n        "
+		"value": "n          19.727122n        "
 	},
 	{
 		"key": "coupled-resource",
@@ -128,7 +128,7 @@
 	},
 	{
 		"key": "graphic-preview-file",
-		"value": "http:\/\/www.soest.hawaii.edu\/pibhmc\/CNMI_images\/asu_bathymetry_mb&IKONOS_10m_445.jpg"
+		"value": "http://www.soest.hawaii.edu/pibhmc/CNMI_images/asu_bathymetry_mb&IKONOS_10m_445.jpg"
 	},
 	{
 		"key": "metadata-language",
@@ -144,7 +144,7 @@
 	},
 	{
 		"key": "spatial",
-		"value": "{\"type\": \"Polygon\", \"coordinates\": [[[145.361576, 19.646644], [145.437089, 19.646644], [145.437089, 19.727122], [145.361576, 19.727122], [145.361576, 19.646644]]]}"
+		"value": "{"type": "Polygon", "coordinates": [[[145.361576, 19.646644], [145.437089, 19.646644], [145.437089, 19.727122], [145.361576, 19.727122], [145.361576, 19.646644]]]}"
 	},
 	{
 		"key": "progress",
@@ -152,7 +152,7 @@
 	},
 	{
 		"key": "access_constraints",
-		"value": "[\"Use Constraints: These data are not to be used for navigation purposes. Please acknowledge NOAA Pacific Islands Fisheries Science Center, the Joint Institute for Marine and Atmospheric Research (JIMAR) University of Hawaii and Davey Jones Locker GIS Laboratory Oregon State University as the sources of this information.\", \"Access Constraints: None\"]"
+		"value": "["Use Constraints: These data are not to be used for navigation purposes. Please acknowledge NOAA Pacific Islands Fisheries Science Center, the Joint Institute for Marine and Atmospheric Research (JIMAR) University of Hawaii and Davey Jones Locker GIS Laboratory Oregon State University as the sources of this information.", "Access Constraints: None"]"
 	},
 	{
 		"key": "temporal-extent-begin",
@@ -164,7 +164,7 @@
 	},
 	{
 		"key": "bbox-west-long",
-		"value": "\n          145.361576\n        "
+		"value": "n          145.361576n        "
 	},
 	{
 		"key": "metadata-date",
@@ -172,7 +172,7 @@
 	},
 	{
 		"key": "dataset-reference-date",
-		"value": "[{\"type\": \"publication\", \"value\": \"2009-01-23\"}]"
+		"value": "[{"type": "publication", "value": "2009-01-23"}]"
 	},
 	{
 		"key": "graphic-preview-description",
@@ -184,7 +184,7 @@
 	},
 	{
 		"key": "licence",
-		"value": "[\"\\n      These data are not to be used for navigational purposes.\\nNOAA makes no warranty regarding these data, expressed or implied,\\nnor does the fact of distribution constitute such a warranty.\\nNOAA cannot assume liability for any damages caused by any errors\\nor omissions in these data, nor as a result of the failure of\\nthese data to function on a particular system.\\n    \"]"
+		"value": "["\n      These data are not to be used for navigational purposes.\nNOAA makes no warranty regarding these data, expressed or implied,\nnor does the fact of distribution constitute such a warranty.\nNOAA cannot assume liability for any damages caused by any errors\nor omissions in these data, nor as a result of the failure of\nthese data to function on a particular system.\n    "]"
 	},
 	{
 		"key": "metadata_type",
@@ -192,7 +192,7 @@
 	},
 	{
 		"key": "responsible-party",
-		"value": "[{\"name\": \"NOAA PIFSC CRED PIBHMC and DJLab OSU\", \"roles\": [\"pointOfContact\"]}]"
+		"value": "[{"name": "NOAA PIFSC CRED PIBHMC and DJLab OSU", "roles": ["pointOfContact"]}]"
 	},
 	{
 		"key": "temporal-extent-end",
@@ -204,11 +204,11 @@
 	},
 	{
 		"key": "bbox-south-lat",
-		"value": "\n          19.646644\n        "
+		"value": "n          19.646644n        "
 	},
 	{
 		"key": "tags",
-		"value": "slope, asuncion island, geographic information, reef monitoring and assessment, biosphere, oceans, united states of america, water depth, zoology, ikonos, multibeam sonar, corals, bathymetry, bathymetry\/seafloor topography, satellite (digital scans), remote sensing, commonwealth of the northern marianas islands, earth science",
+		"value": "slope, asuncion island, geographic information, reef monitoring and assessment, biosphere, oceans, united states of america, water depth, zoology, ikonos, multibeam sonar, corals, bathymetry, bathymetry/seafloor topography, satellite (digital scans), remote sensing, commonwealth of the northern marianas islands, earth science",
 		"__extras": {
 			"revision_id": "541a9df3-d97d-4d8c-8425-9b3baa64c947",
 			"package_id": "23fc4e05-ea59-468c-96a1-d14fa736bfa6"

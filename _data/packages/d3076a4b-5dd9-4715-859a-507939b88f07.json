@@ -25,7 +25,7 @@
 		"last_modified": null,
 		"hash": "",
 		"description": "",
-		"format": "application\/octet-stream",
+		"format": "application/octet-stream",
 		"tracking_summary": {
 			"total": 1,
 			"recent": 1
@@ -36,7 +36,7 @@
 		"cache_url": null,
 		"name": "ERDAS Imagine (.img)",
 		"created": "2016-07-15T21:34:29.480325",
-		"url": "http:\/\/cloud.insideidaho.org\/webApps\/util\/zip.ashx?fn=http:\/\/cloud.insideidaho.org\/data\/blm\/infrastructureDevelopmentConflict_id_blm.img",
+		"url": "http://cloud.insideidaho.org/webApps/util/zip.ashx?fn=http://cloud.insideidaho.org/data/blm/infrastructureDevelopmentConflict_id_blm.img",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 0,
@@ -54,7 +54,7 @@
 		"last_modified": null,
 		"hash": "",
 		"description": "",
-		"format": "application\/octet-stream",
+		"format": "application/octet-stream",
 		"tracking_summary": {
 			"total": 1,
 			"recent": 1
@@ -66,7 +66,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2016-07-15T21:34:29.480348",
-		"url": "http:\/\/cloud.insideidaho.org\/webApps\/util\/zip.ashx?fn=http:\/\/cloud.insideidaho.org\/data\/blm\/infrastructureDevelopmentConflict_id_blm.img",
+		"url": "http://cloud.insideidaho.org/webApps/util/zip.ashx?fn=http://cloud.insideidaho.org/data/blm/infrastructureDevelopmentConflict_id_blm.img",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 1,
@@ -86,11 +86,11 @@
 	"name": "infrastructure-development-conflict-raster-october-2009-version",
 	"isopen": false,
 	"url": null,
-	"notes": "The purpose of this grid dataset is to provide a broad-scale view of relative zones of likely conflict for infrastructure development projects in southern Idaho, based on selected resource data themes of interest. These are the criteria used for ranking the input datasets: Low Conflict: Areas where adverse impacts from infrastructure development are expected to be minimal or can be reduced through minor siting adjustments and\/or implementation of appropriate conservation or avoidance measures. In general, there are multiple options or wide latitude for reducing or minimizing conflict with the resource. In the Conflict Map model, resources of Low Conflict are assigned a conflict category value of 1.0. Moderate Conflict: Areas where adverse impacts from infrastructure development are likely but there are options for avoidance or reduction of impacts, including, in some cases, the use of timing or seasonal constraints. In the Conflict Map model, resources of Moderate Conflict are assigned a conflict category value of 2.0. High Conflict: Areas where adverse impacts from infrastructure development are likely and options for reducing or minimizing impacts are limited or non-existent. In the Conflict Map model, resources of High Conflict are assigned a conflict category value of 3.0. Development Precluded: Areas where infrastructure development is precluded by law, regulation or policy. In the Conflict Map model, areas where development is precluded are assigned a conflict category value of 100.0. Description of final conflict raster: Conflict category scores were summed across the various resource themes (input datasets) overlying specific areas. Areas with composite conflict category scores were mapped as: Low: Conflict Category Value total = 1.0-1.9 Moderate: Conflict Category Value total = 2.0-2.9 High: Conflict Category Value total = 3.0- 99.9. This represents multiple high conflict datasets or combinations of resource issues. Development Precluded: Conflict Category Value total = 100-408. Colors grade from light gray (single area of Development Precluded, e.g. wilderness) to darker grays (overlapping Development Precluded areas, e.g. wilderness AND Visual Resource Management Class 1), and\/or Development Precluded with other resource issues present (e.g. wilderness AND sage-grouse).",
+	"notes": "The purpose of this grid dataset is to provide a broad-scale view of relative zones of likely conflict for infrastructure development projects in southern Idaho, based on selected resource data themes of interest. These are the criteria used for ranking the input datasets: Low Conflict: Areas where adverse impacts from infrastructure development are expected to be minimal or can be reduced through minor siting adjustments and/or implementation of appropriate conservation or avoidance measures. In general, there are multiple options or wide latitude for reducing or minimizing conflict with the resource. In the Conflict Map model, resources of Low Conflict are assigned a conflict category value of 1.0. Moderate Conflict: Areas where adverse impacts from infrastructure development are likely but there are options for avoidance or reduction of impacts, including, in some cases, the use of timing or seasonal constraints. In the Conflict Map model, resources of Moderate Conflict are assigned a conflict category value of 2.0. High Conflict: Areas where adverse impacts from infrastructure development are likely and options for reducing or minimizing impacts are limited or non-existent. In the Conflict Map model, resources of High Conflict are assigned a conflict category value of 3.0. Development Precluded: Areas where infrastructure development is precluded by law, regulation or policy. In the Conflict Map model, areas where development is precluded are assigned a conflict category value of 100.0. Description of final conflict raster: Conflict category scores were summed across the various resource themes (input datasets) overlying specific areas. Areas with composite conflict category scores were mapped as: Low: Conflict Category Value total = 1.0-1.9 Moderate: Conflict Category Value total = 2.0-2.9 High: Conflict Category Value total = 3.0- 99.9. This represents multiple high conflict datasets or combinations of resource issues. Development Precluded: Conflict Category Value total = 100-408. Colors grade from light gray (single area of Development Precluded, e.g. wilderness) to darker grays (overlapping Development Precluded areas, e.g. wilderness AND Visual Resource Management Class 1), and/or Development Precluded with other resource issues present (e.g. wilderness AND sage-grouse).",
 	"license_title": null,
 	"extras": [{
 		"key": "responsible-party",
-		"value": "[{\"name\": \"U.S. Bureau of Land Management, Idaho State Offices, Resources & Sciences Division\", \"roles\": [\"pointOfContact\"]}]"
+		"value": "[{"name": "U.S. Bureau of Land Management, Idaho State Offices, Resources & Sciences Division", "roles": ["pointOfContact"]}]"
 	},
 	{
 		"key": "contact-email",
@@ -110,7 +110,7 @@
 	},
 	{
 		"key": "dataset-reference-date",
-		"value": "[{\"type\": \"publication\", \"value\": \"9999-01-01\"}]"
+		"value": "[{"type": "publication", "value": "9999-01-01"}]"
 	},
 	{
 		"key": "resource-type",
@@ -138,7 +138,7 @@
 	},
 	{
 		"key": "licence",
-		"value": "[\".\"]"
+		"value": "["."]"
 	},
 	{
 		"key": "metadata_type",
@@ -150,7 +150,7 @@
 	},
 	{
 		"key": "spatial",
-		"value": "{\"type\": \"Polygon\", \"coordinates\": [[[-117.402159, 41.672019], [-110.133682, 41.672019], [-110.133682, 49.093861], [-117.402159, 49.093861], [-117.402159, 41.672019]]]}"
+		"value": "{"type": "Polygon", "coordinates": [[[-117.402159, 41.672019], [-110.133682, 41.672019], [-110.133682, 49.093861], [-117.402159, 49.093861], [-117.402159, 41.672019]]]}"
 	},
 	{
 		"key": "guid",
@@ -162,7 +162,7 @@
 	},
 	{
 		"key": "access_constraints",
-		"value": "[\"Use Constraints: Recommended scale for use of this raster is at a course landscape scale. Raster was created at the 90 meter cell size and input datasets are general statewide datasets (e.g. Idaho Sage-grouse Habitat which is approximately 100,000 scale data.)\", \"Access Constraints: No warranty is made by the Bureau of Land Management. The accuracy, reliability, or completeness of these data for individual use or aggregate use with other data is not guaranteed.\"]"
+		"value": "["Use Constraints: Recommended scale for use of this raster is at a course landscape scale. Raster was created at the 90 meter cell size and input datasets are general statewide datasets (e.g. Idaho Sage-grouse Habitat which is approximately 100,000 scale data.)", "Access Constraints: No warranty is made by the Bureau of Land Management. The accuracy, reliability, or completeness of these data for individual use or aggregate use with other data is not guaranteed."]"
 	},
 	{
 		"key": "spatial_harvester",
@@ -204,7 +204,7 @@
 		"revision_timestamp": "2015-01-16T18:28:14.593903",
 		"is_organization": true,
 		"state": "active",
-		"image_url": "http:\/\/upload.wikimedia.org\/wikipedia\/en\/thumb\/4\/44\/University_of_Idaho_seal.svg\/300px-University_of_Idaho_seal.svg.png",
+		"image_url": "http://upload.wikimedia.org/wikipedia/en/thumb/4/44/University_of_Idaho_seal.svg/300px-University_of_Idaho_seal.svg.png",
 		"revision_id": "761955d7-9530-4622-8609-d0b01c78e177",
 		"type": "organization",
 		"id": "75e22a8a-da5f-46f3-93d8-924063a3703d",

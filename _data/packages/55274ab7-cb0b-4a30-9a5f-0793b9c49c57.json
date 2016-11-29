@@ -37,7 +37,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2016-07-18T18:12:36.750129",
-		"url": "https:\/\/coast.noaa.gov\/dataviewer\/#\/lidar\/search\/where:ID=5042",
+		"url": "https://coast.noaa.gov/dataviewer/#/lidar/search/where:ID=5042",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 0,
@@ -67,7 +67,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2016-07-18T18:12:36.750152",
-		"url": "https:\/\/coast.noaa.gov\/htdata\/lidar1_z\/geoid12b\/data\/5042",
+		"url": "https://coast.noaa.gov/htdata/lidar1_z/geoid12b/data/5042",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 1,
@@ -97,7 +97,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2016-07-18T18:12:36.750161",
-		"url": "https:\/\/coast.noaa.gov\/dataviewer",
+		"url": "https://coast.noaa.gov/dataviewer",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 2,
@@ -127,7 +127,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2016-07-18T18:12:36.750168",
-		"url": "https:\/\/coast.noaa.gov",
+		"url": "https://coast.noaa.gov",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 3,
@@ -149,7 +149,7 @@
 		"revision_timestamp": "2013-03-25T23:05:12.923863",
 		"is_organization": true,
 		"state": "active",
-		"image_url": "https:\/\/fortress.wa.gov\/dfw\/score\/score\/images\/noaa_logo.png",
+		"image_url": "https://fortress.wa.gov/dfw/score/score/images/noaa_logo.png",
 		"revision_id": "c6d43080-22e1-405e-a83d-f2a512d9e867",
 		"type": "organization",
 		"id": "e811f0b4-451f-4896-9e8f-fc6802837819",
@@ -160,7 +160,7 @@
 	"name": "2010-fema-lidar-ozaukee-county-wi",
 	"isopen": false,
 	"url": null,
-	"notes": "The Ozaukee AOI consists of one area encompassing the entire county. Ground Control is collected throughout the AOI for use in the processing of LiDAR data to ensure data accurately represents the ground surface. QA\/QC checkpoints, (FVA and CVA - see Ground Control process step for further information) also collected throughout the AOI, are used for independent quality checks of the processed LiDAR data. LiDAR acquisition products include Pre- and Post- flight reports which contain information on the flightlines, equipment parameters, and other pertinent acquisition details. The LiDAR Point Cloud product consists of tiles of LAS points which are partially classified such that the bare earth points can be calibrated to the ground surface and tested via the independent QC to ensure the ground surface is accurately represented. The LiDAR processing product consists of LAS points which are fully classified with the bare earth points tested via the independent QC to ensure the ground surface is accurately represented.",
+	"notes": "The Ozaukee AOI consists of one area encompassing the entire county. Ground Control is collected throughout the AOI for use in the processing of LiDAR data to ensure data accurately represents the ground surface. QA/QC checkpoints, (FVA and CVA - see Ground Control process step for further information) also collected throughout the AOI, are used for independent quality checks of the processed LiDAR data. LiDAR acquisition products include Pre- and Post- flight reports which contain information on the flightlines, equipment parameters, and other pertinent acquisition details. The LiDAR Point Cloud product consists of tiles of LAS points which are partially classified such that the bare earth points can be calibrated to the ground surface and tested via the independent QC to ensure the ground surface is accurately represented. The LiDAR processing product consists of LAS points which are fully classified with the bare earth points tested via the independent QC to ensure the ground surface is accurately represented.",
 	"owner_org": "e811f0b4-451f-4896-9e8f-fc6802837819",
 	"extras": [{
 		"key": "bbox-east-long",
@@ -188,7 +188,7 @@
 	},
 	{
 		"key": "graphic-preview-file",
-		"value": "https:\/\/coast.noaa.gov\/htdata\/lidar1_z\/geoid12b\/data\/5042\/supplemental\/wi2010_fema_ozaukee_m5042.kmz"
+		"value": "https://coast.noaa.gov/htdata/lidar1_z/geoid12b/data/5042/supplemental/wi2010_fema_ozaukee_m5042.kmz"
 	},
 	{
 		"key": "metadata-language",
@@ -204,7 +204,7 @@
 	},
 	{
 		"key": "spatial",
-		"value": "{\"type\": \"Polygon\", \"coordinates\": [[[-88.060711, 43.190498], [-87.787129, 43.190498], [-87.787129, 43.547961], [-88.060711, 43.547961], [-88.060711, 43.190498]]]}"
+		"value": "{"type": "Polygon", "coordinates": [[[-88.060711, 43.190498], [-87.787129, 43.190498], [-87.787129, 43.547961], [-88.060711, 43.547961], [-88.060711, 43.190498]]]}"
 	},
 	{
 		"key": "progress",
@@ -212,7 +212,7 @@
 	},
 	{
 		"key": "access_constraints",
-		"value": "[\"Use Constraints: Users should be aware that temporal changes may have occurred since this data set was collected and some parts of this data may no longer represent actual surface conditions. Users should not use this data for critical applications without a full awareness of its limitations. These data depict the heights at the time of the survey and are only accurate for that time. Acknowledgement of FEMA would be appreciated in products derived from these data. This digital data is produced for the purposes of updating\/creating a DFIRM database.\", \"Access Constraints: None\"]"
+		"value": "["Use Constraints: Users should be aware that temporal changes may have occurred since this data set was collected and some parts of this data may no longer represent actual surface conditions. Users should not use this data for critical applications without a full awareness of its limitations. These data depict the heights at the time of the survey and are only accurate for that time. Acknowledgement of FEMA would be appreciated in products derived from these data. This digital data is produced for the purposes of updating/creating a DFIRM database.", "Access Constraints: None"]"
 	},
 	{
 		"key": "temporal-extent-begin",
@@ -232,7 +232,7 @@
 	},
 	{
 		"key": "dataset-reference-date",
-		"value": "[{\"type\": \"publication\", \"value\": \"2011-01-31\"}]"
+		"value": "[{"type": "publication", "value": "2011-01-31"}]"
 	},
 	{
 		"key": "graphic-preview-description",
@@ -244,7 +244,7 @@
 	},
 	{
 		"key": "licence",
-		"value": "[\"Any conclusions drawn from the analysis of this information are not the responsibility of TerraPoint, RIGID, NOAA, the Office for Coastal Management or its partners.\"]"
+		"value": "["Any conclusions drawn from the analysis of this information are not the responsibility of TerraPoint, RIGID, NOAA, the Office for Coastal Management or its partners."]"
 	},
 	{
 		"key": "metadata_type",
@@ -252,7 +252,7 @@
 	},
 	{
 		"key": "responsible-party",
-		"value": "[{\"name\": \"NOAA Office for Coastal Management\", \"roles\": [\"pointOfContact\"]}]"
+		"value": "[{"name": "NOAA Office for Coastal Management", "roles": ["pointOfContact"]}]"
 	},
 	{
 		"key": "temporal-extent-end",
@@ -268,7 +268,7 @@
 	},
 	{
 		"key": "tags",
-		"value": "topography\/bathymetry, ozaukee county, elevation data, lidar, united states, land surface, wisconsin, las",
+		"value": "topography/bathymetry, ozaukee county, elevation data, lidar, united states, land surface, wisconsin, las",
 		"__extras": {
 			"revision_id": "a6f4e63a-f08a-43f9-b588-faa5e7a61a16",
 			"package_id": "55274ab7-cb0b-4a30-9a5f-0793b9c49c57"

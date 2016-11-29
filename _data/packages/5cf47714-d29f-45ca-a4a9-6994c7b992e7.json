@@ -37,7 +37,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2015-09-26T22:08:24.994970",
-		"url": "ftp:\/\/sidads.colorado.edu\/pub\/DATASETS\/NOAA\/G02188",
+		"url": "ftp://sidads.colorado.edu/pub/DATASETS/NOAA/G02188",
 		"webstore_url": null,
 		"resource_locator_function": "function",
 		"position": 0,
@@ -67,7 +67,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2015-09-26T22:08:24.995004",
-		"url": "http:\/\/nsidc.org\/data\/docs\/noaa\/g02188-birdseye\/",
+		"url": "http://nsidc.org/data/docs/noaa/g02188-birdseye/",
 		"webstore_url": null,
 		"resource_locator_function": "function",
 		"position": 1,
@@ -85,7 +85,7 @@
 		"last_modified": null,
 		"hash": "",
 		"description": "",
-		"format": "application\/vnd.lotus-organizer",
+		"format": "application/vnd.lotus-organizer",
 		"tracking_summary": {
 			"total": 85,
 			"recent": 4
@@ -97,7 +97,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2015-09-26T22:08:24.995016",
-		"url": "http:\/\/nsidc.org",
+		"url": "http://nsidc.org",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 2,
@@ -127,7 +127,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2015-09-26T22:08:24.995025",
-		"url": "http:\/\/nsidc.org\/noaa\/",
+		"url": "http://nsidc.org/noaa/",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 3,
@@ -145,7 +145,7 @@
 		"last_modified": null,
 		"hash": "",
 		"description": "",
-		"format": "application\/vnd.lotus-organizer",
+		"format": "application/vnd.lotus-organizer",
 		"tracking_summary": {
 			"total": 85,
 			"recent": 4
@@ -157,7 +157,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2015-09-26T22:08:24.995033",
-		"url": "http:\/\/nsidc.org",
+		"url": "http://nsidc.org",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 4,
@@ -177,7 +177,7 @@
 	"name": "project-birdseye-aerial-photograph-collection-digital-and-analog-materials",
 	"isopen": false,
 	"url": null,
-	"notes": "\nThis collection consists of both analog and digital aerial photographs from Arctic areas in and around Baffin Bay, the Labrador Sea, the Arctic Ocean, the Beaufort and Chukchi Seas, and the Bering Sea and Strait from 1962 to 1984 as well as data reports from 1962 through 1971.The US Navy\u00e2\u0080\u0099s Project Birdseye spanned approximately 1962 to the mid-1980s. Over more than 20 years, the project generated numerous reports as well as visible band photographs and other data. The aerial photographs reside in 99 film canisters, each approximately a foot tall and six inches in diameter containing roughly 400 photographic negatives in a long film roll. Photographs from seven of the canisters have been digitized, resulting in 1752 image files. These are available via FTP along with project reports and documents on the history of Project Birdseye. In addition to the film canisters, two boxes of flight data logs and maps are currently held by NSIDC.\n",
+	"notes": "nThis collection consists of both analog and digital aerial photographs from Arctic areas in and around Baffin Bay, the Labrador Sea, the Arctic Ocean, the Beaufort and Chukchi Seas, and the Bering Sea and Strait from 1962 to 1984 as well as data reports from 1962 through 1971.The US Navyu00e2u0080u0099s Project Birdseye spanned approximately 1962 to the mid-1980s. Over more than 20 years, the project generated numerous reports as well as visible band photographs and other data. The aerial photographs reside in 99 film canisters, each approximately a foot tall and six inches in diameter containing roughly 400 photographic negatives in a long film roll. Photographs from seven of the canisters have been digitized, resulting in 1752 image files. These are available via FTP along with project reports and documents on the history of Project Birdseye. In addition to the film canisters, two boxes of flight data logs and maps are currently held by NSIDC.n",
 	"license_title": null,
 	"extras": [{
 		"key": "bbox-east-long",
@@ -213,7 +213,7 @@
 	},
 	{
 		"key": "spatial",
-		"value": "{\"type\": \"Polygon\", \"coordinates\": [[[-180.0, 60.0], [30.0, 60.0], [30.0, 90.0], [-180.0, 90.0], [-180.0, 60.0]]]}"
+		"value": "{"type": "Polygon", "coordinates": [[[-180.0, 60.0], [30.0, 60.0], [30.0, 90.0], [-180.0, 90.0], [-180.0, 60.0]]]}"
 	},
 	{
 		"key": "progress",
@@ -221,7 +221,7 @@
 	},
 	{
 		"key": "access_constraints",
-		"value": "[\"Access Constraints : none\", \"Use Constraints : none\"]"
+		"value": "["Access Constraints : none", "Use Constraints : none"]"
 	},
 	{
 		"key": "temporal-extent-begin",
@@ -241,7 +241,7 @@
 	},
 	{
 		"key": "dataset-reference-date",
-		"value": "[{\"type\": \"publication\", \"value\": \"2014-03-01\"}]"
+		"value": "[{"type": "publication", "value": "2014-03-01"}]"
 	},
 	{
 		"key": "frequency-of-update",
@@ -257,7 +257,7 @@
 	},
 	{
 		"key": "responsible-party",
-		"value": "[{\"name\": \"University of Illinois at Urbana-Champaign\", \"roles\": [\"principalInvestigator\"]}, {\"name\": \"Denver Botanic Gardens\", \"roles\": [\"principalInvestigator\"]}, {\"name\": \"National Snow and Ice Data Center\", \"roles\": [\"pointOfContact\", \"principalInvestigator\"]}]"
+		"value": "[{"name": "University of Illinois at Urbana-Champaign", "roles": ["principalInvestigator"]}, {"name": "Denver Botanic Gardens", "roles": ["principalInvestigator"]}, {"name": "National Snow and Ice Data Center", "roles": ["pointOfContact", "principalInvestigator"]}]"
 	},
 	{
 		"key": "temporal-extent-end",
@@ -273,7 +273,7 @@
 	},
 	{
 		"package_id": "5cf47714-d29f-45ca-a4a9-6994c7b992e7",
-		"value": "pacific ocean, greenland, arctic canada, cryosphere, floating ice, ice growth\/melt, icebergs, greenland sea, aerial photography, continent, earth science, beaufort sea, fram strait, ice edges, labrador sea, baffin bay, glaciers, ice roughness, u.s. navy, europe, denmark strait, ice types, iceland, arctic, oceans, arctic ocean, chukchi sea, geographic region, sea ice, bering sea, northern europe, remote sensing, alaska, ocean, maps\/charts, north pacific ocean, bering strait",
+		"value": "pacific ocean, greenland, arctic canada, cryosphere, floating ice, ice growth/melt, icebergs, greenland sea, aerial photography, continent, earth science, beaufort sea, fram strait, ice edges, labrador sea, baffin bay, glaciers, ice roughness, u.s. navy, europe, denmark strait, ice types, iceland, arctic, oceans, arctic ocean, chukchi sea, geographic region, sea ice, bering sea, northern europe, remote sensing, alaska, ocean, maps/charts, north pacific ocean, bering strait",
 		"revision_timestamp": "2015-09-27T02:08:24.904458",
 		"state": "active",
 		"key": "tags",
@@ -303,7 +303,7 @@
 		"revision_timestamp": "2013-03-25T23:05:12.923863",
 		"is_organization": true,
 		"state": "active",
-		"image_url": "https:\/\/fortress.wa.gov\/dfw\/score\/score\/images\/noaa_logo.png",
+		"image_url": "https://fortress.wa.gov/dfw/score/score/images/noaa_logo.png",
 		"revision_id": "c6d43080-22e1-405e-a83d-f2a512d9e867",
 		"type": "organization",
 		"id": "e811f0b4-451f-4896-9e8f-fc6802837819",

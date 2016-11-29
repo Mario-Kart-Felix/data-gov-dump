@@ -36,7 +36,7 @@
 		"cache_url": null,
 		"name": "Monthly data",
 		"created": "2016-04-11T15:39:37.009846",
-		"url": "http:\/\/oceanwatch.pifsc.noaa.gov\/thredds\/catalog.html?dataset=mon-pf",
+		"url": "http://oceanwatch.pifsc.noaa.gov/thredds/catalog.html?dataset=mon-pf",
 		"webstore_url": null,
 		"resource_locator_function": "download",
 		"position": 0,
@@ -65,7 +65,7 @@
 		"cache_url": null,
 		"name": "Weekly data",
 		"created": "2016-04-11T15:39:37.009883",
-		"url": "http:\/\/oceanwatch.pifsc.noaa.gov\/thredds\/catalog.html?dataset=8d-pf",
+		"url": "http://oceanwatch.pifsc.noaa.gov/thredds/catalog.html?dataset=8d-pf",
 		"webstore_url": null,
 		"resource_locator_function": "download",
 		"position": 1,
@@ -92,9 +92,9 @@
 		"resource_locator_protocol": "WWW:LINK-1.0-http--link",
 		"mimetype": null,
 		"cache_url": null,
-		"name": "http:\/\/oceanwatch.pifsc.noaa.gov\/",
+		"name": "http://oceanwatch.pifsc.noaa.gov/",
 		"created": "2016-04-11T15:39:37.009892",
-		"url": "http:\/\/oceanwatch.pifsc.noaa.gov\/",
+		"url": "http://oceanwatch.pifsc.noaa.gov/",
 		"webstore_url": null,
 		"resource_locator_function": "download",
 		"position": 2,
@@ -123,7 +123,7 @@
 		"cache_url": null,
 		"name": "Website",
 		"created": "2016-04-11T15:39:37.009900",
-		"url": "http:\/\/www.pifsc.noaa.gov",
+		"url": "http://www.pifsc.noaa.gov",
 		"webstore_url": null,
 		"resource_locator_function": "information",
 		"position": 3,
@@ -152,7 +152,7 @@
 		"cache_url": null,
 		"name": "Website",
 		"created": "2016-04-11T15:39:37.009906",
-		"url": "http:\/\/www.pifsc.noaa.gov",
+		"url": "http://www.pifsc.noaa.gov",
 		"webstore_url": null,
 		"resource_locator_function": "information",
 		"position": 4,
@@ -181,7 +181,7 @@
 		"cache_url": null,
 		"name": "Website",
 		"created": "2016-04-11T15:39:37.009913",
-		"url": "http:\/\/www.pifsc.noaa.gov",
+		"url": "http://www.pifsc.noaa.gov",
 		"webstore_url": null,
 		"resource_locator_function": "information",
 		"position": 5,
@@ -198,7 +198,7 @@
 		"state": "active",
 		"last_modified": null,
 		"hash": "",
-		"description": "This page describes the NASA GCMD Keywords, how\n                                                        to reference those keywords and provides download instructions.\n                                                    ",
+		"description": "This page describes the NASA GCMD Keywords, hown                                                        to reference those keywords and provides download instructions.n                                                    ",
 		"format": "HTML",
 		"tracking_summary": {
 			"total": 475,
@@ -210,7 +210,7 @@
 		"cache_url": null,
 		"name": "GCMD Keywords Page",
 		"created": "2016-04-11T15:39:37.009920",
-		"url": "http:\/\/gcmd.nasa.gov\/learn\/keyword_list.html",
+		"url": "http://gcmd.nasa.gov/learn/keyword_list.html",
 		"webstore_url": null,
 		"resource_locator_function": "information",
 		"position": 6,
@@ -219,7 +219,7 @@
 	}],
 	"num_resources": 7,
 	"tags": [],
-	"title": "OW NOAA Pathfinder\/GAC Sea-Surface Temperature",
+	"title": "OW NOAA Pathfinder/GAC Sea-Surface Temperature",
 	"tracking_summary": {
 		"total": 7,
 		"recent": 0
@@ -266,7 +266,7 @@
 	},
 	{
 		"key": "spatial",
-		"value": "{\"type\": \"Polygon\", \"coordinates\": [[[-180.0, -75.0], [180.0, -75.0], [180.0, 75.0], [-180.0, 75.0], [-180.0, -75.0]]]}"
+		"value": "{"type": "Polygon", "coordinates": [[[-180.0, -75.0], [180.0, -75.0], [180.0, 75.0], [-180.0, 75.0], [-180.0, -75.0]]]}"
 	},
 	{
 		"key": "progress",
@@ -274,7 +274,7 @@
 	},
 	{
 		"key": "access_constraints",
-		"value": "[\"Access Constraints: None | Use Constraints: Disclaimer - While every effort has been made to ensure that these data are accurate and reliable within the limits of the current state of the art, NOAA cannot assume liability for any damages caused by any errors or omissions in the data, nor as a result of the failure of the data to function on a particular system. NOAA makes no warranty, expressed or implied, nor does the fact of distribution constitute such a warranty.\"]"
+		"value": "["Access Constraints: None | Use Constraints: Disclaimer - While every effort has been made to ensure that these data are accurate and reliable within the limits of the current state of the art, NOAA cannot assume liability for any damages caused by any errors or omissions in the data, nor as a result of the failure of the data to function on a particular system. NOAA makes no warranty, expressed or implied, nor does the fact of distribution constitute such a warranty."]"
 	},
 	{
 		"key": "temporal-extent-begin",
@@ -294,7 +294,7 @@
 	},
 	{
 		"key": "dataset-reference-date",
-		"value": "[{\"type\": \"publication\", \"value\": \"\"}]"
+		"value": "[{"type": "publication", "value": ""}]"
 	},
 	{
 		"key": "frequency-of-update",
@@ -310,7 +310,7 @@
 	},
 	{
 		"key": "responsible-party",
-		"value": "[{\"name\": \"Pacific Islands Fisheries Science Center\", \"roles\": [\"pointOfContact\"]}]"
+		"value": "[{"name": "Pacific Islands Fisheries Science Center", "roles": ["pointOfContact"]}]"
 	},
 	{
 		"key": "spatial-data-service-type",
@@ -322,7 +322,7 @@
 	},
 	{
 		"package_id": "a86fd857-73f3-4c51-a039-b9bf295a15e9",
-		"value": "satellite, pathfinder, pifsc oceanwatch (ow) metadata portfolio, remote sensing, monthly, sst, global, national marine fisheries service, noaa, u.s. department of commerce, avhrr, sea surface temperature, doc\/noaa\/nmfs, ow, pifsc, gac, weekly",
+		"value": "satellite, pathfinder, pifsc oceanwatch (ow) metadata portfolio, remote sensing, monthly, sst, global, national marine fisheries service, noaa, u.s. department of commerce, avhrr, sea surface temperature, doc/noaa/nmfs, ow, pifsc, gac, weekly",
 		"revision_timestamp": "2015-09-26T19:56:08.189956",
 		"state": "active",
 		"key": "tags",
@@ -352,7 +352,7 @@
 		"revision_timestamp": "2013-03-25T23:05:12.923863",
 		"is_organization": true,
 		"state": "active",
-		"image_url": "https:\/\/fortress.wa.gov\/dfw\/score\/score\/images\/noaa_logo.png",
+		"image_url": "https://fortress.wa.gov/dfw/score/score/images/noaa_logo.png",
 		"revision_id": "c6d43080-22e1-405e-a83d-f2a512d9e867",
 		"type": "organization",
 		"id": "e811f0b4-451f-4896-9e8f-fc6802837819",

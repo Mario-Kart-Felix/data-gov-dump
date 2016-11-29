@@ -36,7 +36,7 @@
 		"cache_url": null,
 		"name": "File Information",
 		"created": "2014-10-06T10:24:37.659463",
-		"url": "http:\/\/cida.usgs.gov\/thredds\/dodsC\/new_gmo.html",
+		"url": "http://cida.usgs.gov/thredds/dodsC/new_gmo.html",
 		"webstore_url": null,
 		"resource_locator_function": "download",
 		"position": 0,
@@ -65,7 +65,7 @@
 		"cache_url": null,
 		"name": "NetCDF Subset",
 		"created": "2014-10-06T10:24:37.659493",
-		"url": "http:\/\/cida.usgs.gov\/thredds\/ncss\/grid\/new_gmo\/dataset.html",
+		"url": "http://cida.usgs.gov/thredds/ncss/grid/new_gmo/dataset.html",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 1,
@@ -95,7 +95,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2014-10-06T10:24:37.659502",
-		"url": "http:\/\/www.engr.scu.edu\/~emaurer\/gridded_obs\/index_gridded_obs.html",
+		"url": "http://www.engr.scu.edu/~emaurer/gridded_obs/index_gridded_obs.html",
 		"webstore_url": null,
 		"resource_locator_function": "information",
 		"position": 2,
@@ -125,7 +125,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2014-10-06T10:24:37.659510",
-		"url": "http:\/\/www.engr.scu.edu\/~emaurer\/gridded_obs\/index_gridded_obs.html",
+		"url": "http://www.engr.scu.edu/~emaurer/gridded_obs/index_gridded_obs.html",
 		"webstore_url": null,
 		"resource_locator_function": "information",
 		"position": 3,
@@ -155,7 +155,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2014-10-06T10:24:37.659518",
-		"url": "http:\/\/www.engr.scu.edu\/~emaurer\/gridded_obs\/index_gridded_obs.html",
+		"url": "http://www.engr.scu.edu/~emaurer/gridded_obs/index_gridded_obs.html",
 		"webstore_url": null,
 		"resource_locator_function": "information",
 		"position": 4,
@@ -184,7 +184,7 @@
 		"cache_url": null,
 		"name": "OPeNDAP",
 		"created": "2014-10-06T10:24:37.659526",
-		"url": "http:\/\/cida.usgs.gov\/thredds\/dodsC\/new_gmo",
+		"url": "http://cida.usgs.gov/thredds/dodsC/new_gmo",
 		"webstore_url": null,
 		"resource_locator_function": "download",
 		"position": 5,
@@ -217,7 +217,7 @@
 	"name": "gridded-observed-meteorological-data-1949-2010",
 	"isopen": false,
 	"url": null,
-	"notes": "These daily gridded observations at 1\/8 degree spatial resolution (about 12 km) are a baseline dataset to be compered to downscaled climate predictions. The grid used is the same as has been used by other 1\/8th degree spatial resolution downscaling projects. The updated data were processed exactly as in the reference above with the single exception of the precipitation time-of-observation adjustment. For this updated dataset, if a meteorological station has a time of observation before noon, the precipitation is assigned to the prior day, otherwise no adjustment is made. Before using this dataset, please review the materials here: https:\/\/my.usgs.gov\/confluence\/display\/GeoDataPortal\/2014\/04\/16\/Notice%3A+Evaluation+of+Maurer+gridded+observational+datasets+and+their+impacts+on+downscaled+products",
+	"notes": "These daily gridded observations at 1/8 degree spatial resolution (about 12 km) are a baseline dataset to be compered to downscaled climate predictions. The grid used is the same as has been used by other 1/8th degree spatial resolution downscaling projects. The updated data were processed exactly as in the reference above with the single exception of the precipitation time-of-observation adjustment. For this updated dataset, if a meteorological station has a time of observation before noon, the precipitation is assigned to the prior day, otherwise no adjustment is made. Before using this dataset, please review the materials here: https://my.usgs.gov/confluence/display/GeoDataPortal/2014/04/16/Notice%3A+Evaluation+of+Maurer+gridded+observational+datasets+and+their+impacts+on+downscaled+products",
 	"license_title": null,
 	"extras": [{
 		"key": "bbox-east-long",
@@ -233,7 +233,7 @@
 	},
 	{
 		"key": "coupled-resource",
-		"value": "[{\"href\": [\"#DataIdentification\"], \"uuid\": [], \"title\": []}]"
+		"value": "[{"href": ["#DataIdentification"], "uuid": [], "title": []}]"
 	},
 	{
 		"key": "guid",
@@ -249,7 +249,7 @@
 	},
 	{
 		"key": "__category_tag_aa0c01c9-d292-4dc1-8fec-b10c1bb629a9",
-		"value": "[\"Water\"]"
+		"value": "["Water"]"
 	},
 	{
 		"key": "spatial-reference-system",
@@ -257,7 +257,7 @@
 	},
 	{
 		"key": "spatial",
-		"value": "{\"type\": \"Polygon\", \"coordinates\": [[[-124.6875, 25.1875], [-67.0625, 25.1875], [-67.0625, 52.8125], [-124.6875, 52.8125], [-124.6875, 25.1875]]]}"
+		"value": "{"type": "Polygon", "coordinates": [[[-124.6875, 25.1875], [-67.0625, 25.1875], [-67.0625, 52.8125], [-124.6875, 52.8125], [-124.6875, 25.1875]]]}"
 	},
 	{
 		"key": "progress",
@@ -285,7 +285,7 @@
 	},
 	{
 		"key": "dataset-reference-date",
-		"value": "[{\"type\": \"creation\", \"value\": \"2005-09-22T00:00:00\"}]"
+		"value": "[{"type": "creation", "value": "2005-09-22T00:00:00"}]"
 	},
 	{
 		"key": "frequency-of-update",
@@ -301,7 +301,7 @@
 	},
 	{
 		"key": "responsible-party",
-		"value": "[{\"name\": \"Civil Engineering Department - Santa Clara University\", \"roles\": [\"pointOfContact\"]}]"
+		"value": "[{"name": "Civil Engineering Department - Santa Clara University", "roles": ["pointOfContact"]}]"
 	},
 	{
 		"key": "temporal-extent-end",
@@ -340,14 +340,14 @@
 		"value": "geo-data-portal"
 	}],
 	"organization": {
-		"description": "http:\/\/www.usgs.gov\/\r\nThe USGS is a federal science agency that provides impartial information on the health of our ecosystems and environment, the natural hazards that threaten us, the natural resources we rely on, the impacts of climate and land-use change, and the core science systems that help us provide timely, relevant, and useable information.",
+		"description": "http://www.usgs.gov/rnThe USGS is a federal science agency that provides impartial information on the health of our ecosystems and environment, the natural hazards that threaten us, the natural resources we rely on, the impacts of climate and land-use change, and the core science systems that help us provide timely, relevant, and useable information.",
 		"created": "2013-03-14T03:44:38.263357",
 		"title": "U.S. Geological Survey, Department of the Interior",
 		"name": "usgs-gov",
 		"revision_timestamp": "2014-09-02T13:43:52.167023",
 		"is_organization": true,
 		"state": "active",
-		"image_url": "http:\/\/pubs.usgs.gov\/sir\/2004\/5296\/04-5296_confluence_park\/usgs_logo.gif",
+		"image_url": "http://pubs.usgs.gov/sir/2004/5296/04-5296_confluence_park/usgs_logo.gif",
 		"revision_id": "2858aa99-9501-4f96-82e5-9647b968ed66",
 		"type": "organization",
 		"id": "bd2cdd5a-4d65-46c0-9937-c8381175f104",

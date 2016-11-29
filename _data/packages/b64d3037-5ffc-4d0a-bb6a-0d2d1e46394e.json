@@ -36,7 +36,7 @@
 		"cache_url": null,
 		"name": "SHP",
 		"created": "2016-04-22T22:37:05.207770",
-		"url": "http:\/\/vcgi.vermont.gov\/warehouse\/?layer=TransStats_AADT2012",
+		"url": "http://vcgi.vermont.gov/warehouse/?layer=TransStats_AADT2012",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 0,
@@ -69,11 +69,11 @@
 	"name": "transtats-aadt2012",
 	"isopen": false,
 	"url": null,
-	"notes": "This data layer includes Average Annual Daily Traffic (AADT) data collected by the Vermont Agency of Transporation for 2012. The dataset includes AADT data for Interstate, US, VT highways. It also includes Federal Urban Area (FUA) routes and Major Collectors (MC). The data was \"ported\" to GIS format via a GIS Linear Reference data layer called TransRoad_LRS2011 (refer to metadata).",
+	"notes": "This data layer includes Average Annual Daily Traffic (AADT) data collected by the Vermont Agency of Transporation for 2012. The dataset includes AADT data for Interstate, US, VT highways. It also includes Federal Urban Area (FUA) routes and Major Collectors (MC). The data was "ported" to GIS format via a GIS Linear Reference data layer called TransRoad_LRS2011 (refer to metadata).",
 	"license_title": null,
 	"extras": [{
 		"key": "responsible-party",
-		"value": "[{\"name\": \"Vermont Agency of Transportation\", \"roles\": [\"pointOfContact\"]}]"
+		"value": "[{"name": "Vermont Agency of Transportation", "roles": ["pointOfContact"]}]"
 	},
 	{
 		"key": "contact-email",
@@ -93,7 +93,7 @@
 	},
 	{
 		"key": "dataset-reference-date",
-		"value": "[{\"type\": \"publication\", \"value\": \"2013-11-21\"}]"
+		"value": "[{"type": "publication", "value": "2013-11-21"}]"
 	},
 	{
 		"key": "resource-type",
@@ -121,7 +121,7 @@
 	},
 	{
 		"key": "licence",
-		"value": "[\"VCGI and the State of Vermont make no representations of any kind, including but not limited to the warranties of merchantability or fitness for a particular use, nor are any such warranties to be implied with respect to the data.\"]"
+		"value": "["VCGI and the State of Vermont make no representations of any kind, including but not limited to the warranties of merchantability or fitness for a particular use, nor are any such warranties to be implied with respect to the data."]"
 	},
 	{
 		"key": "metadata_type",
@@ -133,7 +133,7 @@
 	},
 	{
 		"key": "spatial",
-		"value": "{\"type\": \"Polygon\", \"coordinates\": [[[-73.438808, 42.723092], [-71.49978, 42.723092], [-71.49978, 45.017699], [-73.438808, 45.017699], [-73.438808, 42.723092]]]}"
+		"value": "{"type": "Polygon", "coordinates": [[[-73.438808, 42.723092], [-71.49978, 42.723092], [-71.49978, 45.017699], [-73.438808, 45.017699], [-73.438808, 42.723092]]]}"
 	},
 	{
 		"key": "guid",
@@ -145,7 +145,7 @@
 	},
 	{
 		"key": "access_constraints",
-		"value": "[\"Use Constraints: None\", \"Access Constraints: VCGI and the State of VT make no representations of any kind, including but not limited to the warranties of merchantability or fitness for a particular use, nor are any such warranties to be implied with respect to the data.\"]"
+		"value": "["Use Constraints: None", "Access Constraints: VCGI and the State of VT make no representations of any kind, including but not limited to the warranties of merchantability or fitness for a particular use, nor are any such warranties to be implied with respect to the data."]"
 	},
 	{
 		"key": "spatial_harvester",
@@ -187,7 +187,7 @@
 		"revision_timestamp": "2013-03-27T17:47:03.718032",
 		"is_organization": true,
 		"state": "active",
-		"image_url": "http:\/\/vcgi.vermont.gov\/sites\/all\/themes\/vt_template\/logo.png",
+		"image_url": "http://vcgi.vermont.gov/sites/all/themes/vt_template/logo.png",
 		"revision_id": "c5dfbbb0-f1e0-4db6-b566-e932e1520060",
 		"type": "organization",
 		"id": "0c3a4ebc-9929-4f21-bdd0-76a35d52f57d",

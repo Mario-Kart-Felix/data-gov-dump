@@ -34,9 +34,9 @@
 		"resource_locator_protocol": "WWW:LINK-1.0-http--link",
 		"mimetype": null,
 		"cache_url": null,
-		"name": "ftp:\/\/ftp.nefsc.noaa.gov\/",
+		"name": "ftp://ftp.nefsc.noaa.gov/",
 		"created": "2016-07-18T21:50:04.887989",
-		"url": "ftp:\/\/ftp.nefsc.noaa.gov\/",
+		"url": "ftp://ftp.nefsc.noaa.gov/",
 		"webstore_url": null,
 		"resource_locator_function": "download",
 		"position": 0,
@@ -65,7 +65,7 @@
 		"cache_url": null,
 		"name": "Website",
 		"created": "2016-07-18T21:50:04.888031",
-		"url": "http:\/\/www.nefsc.noaa.gov",
+		"url": "http://www.nefsc.noaa.gov",
 		"webstore_url": null,
 		"resource_locator_function": "information",
 		"position": 1,
@@ -94,7 +94,7 @@
 		"cache_url": null,
 		"name": "Website",
 		"created": "2016-07-18T21:50:04.888040",
-		"url": "http:\/\/www.nefsc.noaa.gov",
+		"url": "http://www.nefsc.noaa.gov",
 		"webstore_url": null,
 		"resource_locator_function": "information",
 		"position": 2,
@@ -123,7 +123,7 @@
 		"cache_url": null,
 		"name": "Website",
 		"created": "2016-07-18T21:50:04.888048",
-		"url": "http:\/\/www.nefsc.noaa.gov",
+		"url": "http://www.nefsc.noaa.gov",
 		"webstore_url": null,
 		"resource_locator_function": "information",
 		"position": 3,
@@ -152,7 +152,7 @@
 		"cache_url": null,
 		"name": "Citation URL",
 		"created": "2016-07-18T21:50:04.888055",
-		"url": "http:\/\/www.nefsc.noaa.gov\/nefsc\/Milford\/facilities.html",
+		"url": "http://www.nefsc.noaa.gov/nefsc/Milford/facilities.html",
 		"webstore_url": null,
 		"resource_locator_function": "download",
 		"position": 4,
@@ -181,7 +181,7 @@
 		"cache_url": null,
 		"name": "Citation URL",
 		"created": "2016-07-18T21:50:04.888062",
-		"url": "http:\/\/www.nefsc.noaa.gov\/nefsc\/Milford\/aquaculture.html",
+		"url": "http://www.nefsc.noaa.gov/nefsc/Milford/aquaculture.html",
 		"webstore_url": null,
 		"resource_locator_function": "download",
 		"position": 5,
@@ -210,7 +210,7 @@
 		"cache_url": null,
 		"name": "NOAA Data Management Plan (DMP)",
 		"created": "2016-07-18T21:50:04.888069",
-		"url": "https:\/\/inport.nmfs.noaa.gov\/inport\/item\/26592\/dmp",
+		"url": "https://inport.nmfs.noaa.gov/inport/item/26592/dmp",
 		"webstore_url": null,
 		"resource_locator_function": "information",
 		"position": 6,
@@ -239,7 +239,7 @@
 		"cache_url": null,
 		"name": "Website",
 		"created": "2016-07-18T21:50:04.888077",
-		"url": "http:\/\/www.nefsc.noaa.gov",
+		"url": "http://www.nefsc.noaa.gov",
 		"webstore_url": null,
 		"resource_locator_function": "information",
 		"position": 7,
@@ -256,7 +256,7 @@
 		"state": "active",
 		"last_modified": null,
 		"hash": "",
-		"description": "This page describes the NASA GCMD Keywords, how\n                                                        to reference those keywords and provides download instructions.\n                                                    ",
+		"description": "This page describes the NASA GCMD Keywords, hown                                                        to reference those keywords and provides download instructions.n                                                    ",
 		"format": "HTML",
 		"tracking_summary": {
 			"total": 476,
@@ -268,7 +268,7 @@
 		"cache_url": null,
 		"name": "GCMD Keywords Page",
 		"created": "2016-07-18T21:50:04.888084",
-		"url": "http:\/\/gcmd.nasa.gov\/learn\/keyword_list.html",
+		"url": "http://gcmd.nasa.gov/learn/keyword_list.html",
 		"webstore_url": null,
 		"resource_locator_function": "information",
 		"position": 8,
@@ -324,7 +324,7 @@
 	},
 	{
 		"key": "spatial",
-		"value": "{\"type\": \"Polygon\", \"coordinates\": [[[-73.064036, 41.230698], [-73.054036, 41.230698], [-73.054036, 41.240698], [-73.064036, 41.240698], [-73.064036, 41.230698]]]}"
+		"value": "{"type": "Polygon", "coordinates": [[[-73.064036, 41.230698], [-73.054036, 41.230698], [-73.054036, 41.240698], [-73.064036, 41.240698], [-73.064036, 41.230698]]]}"
 	},
 	{
 		"key": "progress",
@@ -332,7 +332,7 @@
 	},
 	{
 		"key": "access_constraints",
-		"value": "[\"Access Constraints: NEFSC Data Access Constraint:\\nIf data is stored on an internal NEFSC network, the requester may not have direct access to query the data unless they are also authorized for network access. | Use Constraints: Disclaimer - While every effort has been made to ensure that these data are accurate and reliable within the limits of the current state of the art, NOAA cannot assume liability for any damages caused by any errors or omissions in the data, nor as a result of the failure of the data to function on a particular system. NOAA makes no warranty, expressed or implied, nor does the fact of distribution constitute such a warranty.\"]"
+		"value": "["Access Constraints: NEFSC Data Access Constraint:\nIf data is stored on an internal NEFSC network, the requester may not have direct access to query the data unless they are also authorized for network access. | Use Constraints: Disclaimer - While every effort has been made to ensure that these data are accurate and reliable within the limits of the current state of the art, NOAA cannot assume liability for any damages caused by any errors or omissions in the data, nor as a result of the failure of the data to function on a particular system. NOAA makes no warranty, expressed or implied, nor does the fact of distribution constitute such a warranty."]"
 	},
 	{
 		"key": "temporal-extent-begin",
@@ -352,7 +352,7 @@
 	},
 	{
 		"key": "dataset-reference-date",
-		"value": "[{\"type\": \"publication\", \"value\": \"\"}]"
+		"value": "[{"type": "publication", "value": ""}]"
 	},
 	{
 		"key": "frequency-of-update",
@@ -368,7 +368,7 @@
 	},
 	{
 		"key": "responsible-party",
-		"value": "[{\"name\": \"Northeast Fisheries Science Center\", \"roles\": [\"pointOfContact\"]}]"
+		"value": "[{"name": "Northeast Fisheries Science Center", "roles": ["pointOfContact"]}]"
 	},
 	{
 		"key": "spatial-data-service-type",
@@ -380,7 +380,7 @@
 	},
 	{
 		"package_id": "0bd2133c-47f0-405c-b973-ce1d065586f6",
-		"value": "growth rates, stock enhancement, bay scallop, shellfish, larval survival, shellfish feed nutrition, mussels, continuous, doc\/noaa\/nmfs\/nefsc, static shellfish culture, tank culture, restoration, development, aquaculture, larval growth, northeast fisheries science center, national marine fisheries service, noaa, u.s. department of commerce, surf clam, aquaculture systems & ecology branch (aseb), oysters, milford laboratory, shellfish larvae",
+		"value": "growth rates, stock enhancement, bay scallop, shellfish, larval survival, shellfish feed nutrition, mussels, continuous, doc/noaa/nmfs/nefsc, static shellfish culture, tank culture, restoration, development, aquaculture, larval growth, northeast fisheries science center, national marine fisheries service, noaa, u.s. department of commerce, surf clam, aquaculture systems & ecology branch (aseb), oysters, milford laboratory, shellfish larvae",
 		"revision_timestamp": "2016-07-19T01:50:04.705094",
 		"state": "active",
 		"key": "tags",
@@ -410,7 +410,7 @@
 		"revision_timestamp": "2013-03-25T23:05:12.923863",
 		"is_organization": true,
 		"state": "active",
-		"image_url": "https:\/\/fortress.wa.gov\/dfw\/score\/score\/images\/noaa_logo.png",
+		"image_url": "https://fortress.wa.gov/dfw/score/score/images/noaa_logo.png",
 		"revision_id": "c6d43080-22e1-405e-a83d-f2a512d9e867",
 		"type": "organization",
 		"id": "e811f0b4-451f-4896-9e8f-fc6802837819",

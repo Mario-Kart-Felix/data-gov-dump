@@ -36,7 +36,7 @@
 		"cache_url": null,
 		"name": "tl_2014_us_tbg.zip",
 		"created": "2015-10-15T09:07:23.462579",
-		"url": "ftp:\/\/ftp2.census.gov\/geo\/tiger\/TIGER2014\/TBG\/tl_2014_us_tbg.zip",
+		"url": "ftp://ftp2.census.gov/geo/tiger/TIGER2014/TBG/tl_2014_us_tbg.zip",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 0,
@@ -63,9 +63,9 @@
 		"resource_locator_protocol": "",
 		"mimetype": null,
 		"cache_url": null,
-		"name": "TIGER\/Line\u00ae Shapefiles",
+		"name": "TIGER/Lineu00ae Shapefiles",
 		"created": "2015-10-15T09:07:23.462622",
-		"url": "http:\/\/www.census.gov\/geo\/maps-data\/data\/tiger-line.html",
+		"url": "http://www.census.gov/geo/maps-data/data/tiger-line.html",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 1,
@@ -92,9 +92,9 @@
 		"resource_locator_protocol": "",
 		"mimetype": null,
 		"cache_url": null,
-		"name": "TIGER\/Line\u00ae Shapefiles 2014 Technical Documentation Shapefiles",
+		"name": "TIGER/Lineu00ae Shapefiles 2014 Technical Documentation Shapefiles",
 		"created": "2015-10-15T09:07:23.462634",
-		"url": "http:\/\/www2.census.gov\/geo\/pdfs\/maps-data\/data\/tiger\/tgrshp2014\/TGRSHP2014_TechDoc.pdf",
+		"url": "http://www2.census.gov/geo/pdfs/maps-data/data/tiger/tgrshp2014/TGRSHP2014_TechDoc.pdf",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 2,
@@ -123,7 +123,7 @@
 		"cache_url": null,
 		"name": "Feature Catalog for the 2014 Current Tribal Block Group National Shapefile",
 		"created": "2015-10-15T09:07:23.462646",
-		"url": "http:\/\/meta.geo.census.gov\/data\/existing\/decennial\/GEO\/GPMB\/TIGERline\/TIGER2014\/tbg\/tl_2014_tbg.shp.ea.iso.xml",
+		"url": "http://meta.geo.census.gov/data/existing/decennial/GEO/GPMB/TIGERline/TIGER2014/tbg/tl_2014_tbg.shp.ea.iso.xml",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 3,
@@ -132,7 +132,7 @@
 	}],
 	"num_resources": 4,
 	"tags": [],
-	"title": "TIGER\/Line Shapefile, 2014, Series Information File for the Current Tribal Block Group National Shapefile ",
+	"title": "TIGER/Line Shapefile, 2014, Series Information File for the Current Tribal Block Group National Shapefile ",
 	"tracking_summary": {
 		"total": 7,
 		"recent": 0
@@ -143,7 +143,7 @@
 	"name": "tiger-line-shapefile-2014-series-information-file-for-the-current-tribal-block-group-national-s",
 	"isopen": false,
 	"url": null,
-	"notes": " A tribal block group is a cluster of census tabulation blocks within a single tribal census\n               tract delineated by American Indian tribal participants or the Census Bureau for the purpose of presenting demographic\n               data on their reservation and\/or off-reservation trust land. The tribal block groups are defined independently of the\n               standard county-based block group delineation. For federally recognized American Indian Tribes with reservations and\/or\n               off-reservation trust lands with a population less than 1,200, a single tribal block group is defined. Qualifying\n               reservations and\/or off-reservation trust lands with a population greater than 1,200 could define additional tribal block\n               groups within their area without regard to the standard block group configuration. Tribal block groups do not necessarily\n               contain tabulation blocks always beginning with the same number and could contain seemingly duplicate block numbers.\n               Tabulation block numbers are still assigned by using standard block groups, not the tribal block groups. To better identify\n               tribal block groups, the letter code range A through K (except I, which could be confused with a number 1) is used uniquely\n               within each tribal census tract. The boundaries of tribal block groups and tribal census tracts are those delineated through\n               the Tribal Statistical Areas Program (TSAP) for the 2010 Census. ",
+	"notes": " A tribal block group is a cluster of census tabulation blocks within a single tribal censusn               tract delineated by American Indian tribal participants or the Census Bureau for the purpose of presenting demographicn               data on their reservation and/or off-reservation trust land. The tribal block groups are defined independently of then               standard county-based block group delineation. For federally recognized American Indian Tribes with reservations and/orn               off-reservation trust lands with a population less than 1,200, a single tribal block group is defined. Qualifyingn               reservations and/or off-reservation trust lands with a population greater than 1,200 could define additional tribal blockn               groups within their area without regard to the standard block group configuration. Tribal block groups do not necessarilyn               contain tabulation blocks always beginning with the same number and could contain seemingly duplicate block numbers.n               Tabulation block numbers are still assigned by using standard block groups, not the tribal block groups. To better identifyn               tribal block groups, the letter code range A through K (except I, which could be confused with a number 1) is used uniquelyn               within each tribal census tract. The boundaries of tribal block groups and tribal census tracts are those delineated throughn               the Tribal Statistical Areas Program (TSAP) for the 2010 Census. ",
 	"license_title": null,
 	"extras": [{
 		"key": "bbox-east-long",
@@ -183,7 +183,7 @@
 	},
 	{
 		"key": "spatial",
-		"value": "{\"type\": \"Polygon\", \"coordinates\": [[[-179.231086, -14.601813], [179.859681, -14.601813], [179.859681, 71.441059], [-179.231086, 71.441059], [-179.231086, -14.601813]]]}"
+		"value": "{"type": "Polygon", "coordinates": [[[-179.231086, -14.601813], [179.859681, -14.601813], [179.859681, 71.441059], [-179.231086, 71.441059], [-179.231086, -14.601813]]]}"
 	},
 	{
 		"key": "progress",
@@ -191,7 +191,7 @@
 	},
 	{
 		"key": "access_constraints",
-		"value": "[\"Access Constraints: None\", \"Use Constraints: The TIGER\/Line Shapefile products are not copyrighted however TIGER\/Line and\\n                     Census TIGER are registered trademarks of the U.S. Census Bureau. These products are free to use in a product or\\n                     publication, however acknowledgment must be given to the U.S. Census Bureau as the source. The boundary information\\n                     in the TIGER\/Line Shapefiles are for statistical data collection and tabulation purposes only; their depiction and\\n                     designation for statistical purposes does not constitute a determination of jurisdictional authority or rights of\\n                     ownership or entitlement and they are not legal land descriptions. Coordinates in the TIGER\/Line shapefiles have\\n                     six implied decimal places, but the positional accuracy of these coordinates is not as great as the six decimal\\n                     places suggest.\", \"Distribution Liability: No warranty, expressed or implied is made with regard to the\\n                     accuracy of these data, and no liability is assumed by the U.S. Government in general or the U.S. Census Bureau\\n                     in specific as to the spatial or attribute accuracy of the data. The act of distribution shall not constitute any\\n                     such warranty and no responsibility is assumed by the U.S. government in the use of these files. The boundary\\n                     information in the TIGER\/Line Shapefiles is for statistical data collection and tabulation purposes only; their\\n                     depiction and designation for statistical purposes do not constitute a determination of jurisdictional authority\\n                     or rights of ownership or entitlement and they are not legal land descriptions.\"]"
+		"value": "["Access Constraints: None", "Use Constraints: The TIGER/Line Shapefile products are not copyrighted however TIGER/Line and\n                     Census TIGER are registered trademarks of the U.S. Census Bureau. These products are free to use in a product or\n                     publication, however acknowledgment must be given to the U.S. Census Bureau as the source. The boundary information\n                     in the TIGER/Line Shapefiles are for statistical data collection and tabulation purposes only; their depiction and\n                     designation for statistical purposes does not constitute a determination of jurisdictional authority or rights of\n                     ownership or entitlement and they are not legal land descriptions. Coordinates in the TIGER/Line shapefiles have\n                     six implied decimal places, but the positional accuracy of these coordinates is not as great as the six decimal\n                     places suggest.", "Distribution Liability: No warranty, expressed or implied is made with regard to the\n                     accuracy of these data, and no liability is assumed by the U.S. Government in general or the U.S. Census Bureau\n                     in specific as to the spatial or attribute accuracy of the data. The act of distribution shall not constitute any\n                     such warranty and no responsibility is assumed by the U.S. government in the use of these files. The boundary\n                     information in the TIGER/Line Shapefiles is for statistical data collection and tabulation purposes only; their\n                     depiction and designation for statistical purposes do not constitute a determination of jurisdictional authority\n                     or rights of ownership or entitlement and they are not legal land descriptions."]"
 	},
 	{
 		"key": "temporal-extent-begin",
@@ -211,7 +211,7 @@
 	},
 	{
 		"key": "dataset-reference-date",
-		"value": "[{\"type\": \"publication\", \"value\": \"2014\"}]"
+		"value": "[{"type": "publication", "value": "2014"}]"
 	},
 	{
 		"key": "frequency-of-update",
@@ -269,7 +269,7 @@
 		"revision_timestamp": "2013-08-29T13:37:04.171127",
 		"is_organization": true,
 		"state": "active",
-		"image_url": "http:\/\/www.census.gov\/main\/img\/home\/CensusLogo-white.png",
+		"image_url": "http://www.census.gov/main/img/home/CensusLogo-white.png",
 		"revision_id": "0995f525-d563-4254-a535-af5b926fe663",
 		"type": "organization",
 		"id": "31c49abe-512a-412a-9cc7-5b2601325d6b",

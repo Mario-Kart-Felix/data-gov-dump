@@ -37,7 +37,7 @@
 		"cache_url": null,
 		"name": "Web Feature Service",
 		"created": "2013-03-14T21:27:01.447154",
-		"url": "http:\/\/gis.glin.net\/geoserver\/wfs?request=getfeature&service=wfs&version=1.0.0&typename=glin:lm_aoc_epa&outputformat=shape-zip",
+		"url": "http://gis.glin.net/geoserver/wfs?request=getfeature&service=wfs&version=1.0.0&typename=glin:lm_aoc_epa&outputformat=shape-zip",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 0,
@@ -67,7 +67,7 @@
 		"cache_url": null,
 		"name": "Web Feature Service",
 		"created": "2013-03-14T21:27:01.447175",
-		"url": "http:\/\/gis.glin.net\/geoserver\/wfs?request=getfeature&service=wfs&version=1.0.0&typename=glin:lm_aoc_epa&outputformat=GML2-GZIP",
+		"url": "http://gis.glin.net/geoserver/wfs?request=getfeature&service=wfs&version=1.0.0&typename=glin:lm_aoc_epa&outputformat=GML2-GZIP",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 1,
@@ -97,7 +97,7 @@
 		"cache_url": null,
 		"name": "Web Mapping Service",
 		"created": "2013-03-14T21:27:01.447183",
-		"url": "http:\/\/gis.glin.net\/geoserver\/wms?bbox=-88.003097,41.611475,-86.198605,45.970138&request=GetMap&layers=glin:lm_aoc_epa&width=600&height=400&srs=EPSG:4326&styles=point_red&format=image\/svg",
+		"url": "http://gis.glin.net/geoserver/wms?bbox=-88.003097,41.611475,-86.198605,45.970138&request=GetMap&layers=glin:lm_aoc_epa&width=600&height=400&srs=EPSG:4326&styles=point_red&format=image/svg",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 2,
@@ -127,7 +127,7 @@
 		"cache_url": null,
 		"name": "Web Mapping Service",
 		"created": "2013-03-14T21:27:01.447190",
-		"url": "http:\/\/gis.glin.net\/geoserver\/wms?bbox=-88.003097,41.611475,-86.198605,45.970138&request=GetMap&layers=glin:lm_aoc_epa&width=600&height=400&srs=EPSG:4326&styles=point_red&format=application\/pdf",
+		"url": "http://gis.glin.net/geoserver/wms?bbox=-88.003097,41.611475,-86.198605,45.970138&request=GetMap&layers=glin:lm_aoc_epa&width=600&height=400&srs=EPSG:4326&styles=point_red&format=application/pdf",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 3,
@@ -157,7 +157,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2013-03-14T21:27:01.447197",
-		"url": "http:\/\/gis.glin.net\/ogc\/services.php#lm_aoc_epa",
+		"url": "http://gis.glin.net/ogc/services.php#lm_aoc_epa",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 4,
@@ -177,11 +177,11 @@
 	"name": "lake-michigan-aoc-epa",
 	"isopen": false,
 	"url": null,
-	"notes": "Point coverage of Great Lakes Areas of Concern. AOCs are areas where serious impairment of beneficial uses of water or biota (swimming, fishing, drinking, navigation, etc.) is known to exist, or where environmental quality criteria are exceeded to the point that such impairment is likely. Coverage includes 26 USA plus 5 Binational AOCs. Much information about these is at http:\/\/www.epa.gov\/glnpo\/aoc\/, including URLs for each Remedial Action Plan (RAP). There are also 12 Canadian AOCs, point coverage of which is not included here. For these, much information is at http:\/\/www.on.ec.gc.ca\/water\/greatlakes\/raps\/, including URLs for each RAP. Metadata is more complete at http:\/\/www.epa.gov\/nsdi\/projects\/r5_aochuc.html#section6. Perhaps a more complete attribute table is out there.",
+	"notes": "Point coverage of Great Lakes Areas of Concern. AOCs are areas where serious impairment of beneficial uses of water or biota (swimming, fishing, drinking, navigation, etc.) is known to exist, or where environmental quality criteria are exceeded to the point that such impairment is likely. Coverage includes 26 USA plus 5 Binational AOCs. Much information about these is at http://www.epa.gov/glnpo/aoc/, including URLs for each Remedial Action Plan (RAP). There are also 12 Canadian AOCs, point coverage of which is not included here. For these, much information is at http://www.on.ec.gc.ca/water/greatlakes/raps/, including URLs for each RAP. Metadata is more complete at http://www.epa.gov/nsdi/projects/r5_aochuc.html#section6. Perhaps a more complete attribute table is out there.",
 	"license_title": null,
 	"extras": [{
 		"key": "responsible-party",
-		"value": "[{\"name\": \"University of Michigan\", \"roles\": [\"pointOfContact\"]}]"
+		"value": "[{"name": "University of Michigan", "roles": ["pointOfContact"]}]"
 	},
 	{
 		"key": "contact-email",
@@ -201,7 +201,7 @@
 	},
 	{
 		"key": "dataset-reference-date",
-		"value": "[{\"type\": \"publication\", \"value\": \"2007-08-07\"}]"
+		"value": "[{"type": "publication", "value": "2007-08-07"}]"
 	},
 	{
 		"key": "resource-type",
@@ -229,7 +229,7 @@
 	},
 	{
 		"key": "licence",
-		"value": "[\"Disclaimer. The Great Lakes Commission (GLC) and the Great Lakes Information Network (GLIN) cannot assume liability for any damages caused by any errors or omissions in the data, nor as a result of the failure of the data to function on a particular system. The Great Lakes Commission (GLC) and the Great Lakes Information Network (GLIN) make no warranty, expressed or implied, nor does the fact of distribution constitute such a warranty.\"]"
+		"value": "["Disclaimer. The Great Lakes Commission (GLC) and the Great Lakes Information Network (GLIN) cannot assume liability for any damages caused by any errors or omissions in the data, nor as a result of the failure of the data to function on a particular system. The Great Lakes Commission (GLC) and the Great Lakes Information Network (GLIN) make no warranty, expressed or implied, nor does the fact of distribution constitute such a warranty."]"
 	},
 	{
 		"key": "metadata_type",
@@ -237,7 +237,7 @@
 	},
 	{
 		"key": "spatial",
-		"value": "{\"type\": \"Polygon\", \"coordinates\": [[[-88.003097, 41.611475], [-88.003097, 45.970138], [-86.198605, 45.970138], [-86.198605, 41.611475], [-88.003097, 41.611475]]]}"
+		"value": "{"type": "Polygon", "coordinates": [[[-88.003097, 41.611475], [-88.003097, 45.970138], [-86.198605, 45.970138], [-86.198605, 41.611475], [-88.003097, 41.611475]]]}"
 	},
 	{
 		"key": "guid",
@@ -249,11 +249,11 @@
 	},
 	{
 		"key": "access_constraints",
-		"value": "[\"Use Constraints: None given\", \"Access Constraints: None\"]"
+		"value": "["Use Constraints: None given", "Access Constraints: None"]"
 	},
 	{
 		"key": "graphic-preview-file",
-		"value": "http:\/\/gis.glin.net\/geoserver\/wms?bbox=-88.003097,41.611475,-86.198605,45.970138&request=GetMap&layers=glin:lm_aoc_epa&width=600&height=400&srs=EPSG:4326&styles=point_red&format=image\/png"
+		"value": "http://gis.glin.net/geoserver/wms?bbox=-88.003097,41.611475,-86.198605,45.970138&request=GetMap&layers=glin:lm_aoc_epa&width=600&height=400&srs=EPSG:4326&styles=point_red&format=image/png"
 	},
 	{
 		"key": "frequency-of-update",
@@ -291,7 +291,7 @@
 		"revision_timestamp": "2015-01-16T18:08:30.443285",
 		"is_organization": true,
 		"state": "active",
-		"image_url": "http:\/\/indianarealpropertylaw.com\/wp-content\/uploads\/2013\/07\/Great-Lakes-Commission.jpg",
+		"image_url": "http://indianarealpropertylaw.com/wp-content/uploads/2013/07/Great-Lakes-Commission.jpg",
 		"revision_id": "b1642f30-a698-46dd-ad02-061968095af6",
 		"type": "organization",
 		"id": "6f701557-5979-4d24-9171-73111c57faec",

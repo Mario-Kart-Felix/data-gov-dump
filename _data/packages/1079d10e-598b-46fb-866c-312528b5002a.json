@@ -37,7 +37,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2014-10-09T15:36:41.985130",
-		"url": "http:\/\/www2.census.gov\/geo\/tiger\/TIGER2014\/ADDR",
+		"url": "http://www2.census.gov/geo/tiger/TIGER2014/ADDR",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 0,
@@ -46,7 +46,7 @@
 	}],
 	"num_resources": 1,
 	"tags": [],
-	"title": "TIGER\/Line Shapefile, 2014, Series Information File for the Address Ranges \n                     County-based Relationship Files",
+	"title": "TIGER/Line Shapefile, 2014, Series Information File for the Address Ranges n                     County-based Relationship Files",
 	"tracking_summary": {
 		"total": 72,
 		"recent": 3
@@ -57,7 +57,7 @@
 	"name": "tiger-line-shapefile-2014-series-information-file-for-the-address-ranges-county-based",
 	"isopen": false,
 	"url": null,
-	"notes": "The Address\n               Ranges Relationship File (ADDR.dbf) contains the attributes of each address range.\n               Each address range applies to a single edge and has a unique address range identifier\n               (ARID) value. The edge to which an address range applies can be determined by linking\n               the address range to the All Lines Shapefile (EDGES.shp) using the permanent\n               topological edge identifier (TLID) attribute. Multiple address ranges can apply to\n               the same edge since an edge can have multiple address ranges. Note that the most\n               inclusive address range associated with each side of a street edge already appears in\n               the All Lines Shapefile (EDGES.shp). The TIGER\/Line Files contain potential address\n               ranges, not individual addresses. The term \"address range\" refers to the collection\n               of all possible structure numbers from the first structure number to the last\n               structure number and all numbers of a specified parity in between along an edge side\n               relative to the direction in which the edge is coded. The address ranges in the\n               TIGER\/Line Files are potential ranges that include the full range of possible\n               structure numbers even though the actual structures may not exist.\n            ",
+	"notes": "The Addressn               Ranges Relationship File (ADDR.dbf) contains the attributes of each address range.n               Each address range applies to a single edge and has a unique address range identifiern               (ARID) value. The edge to which an address range applies can be determined by linkingn               the address range to the All Lines Shapefile (EDGES.shp) using the permanentn               topological edge identifier (TLID) attribute. Multiple address ranges can apply ton               the same edge since an edge can have multiple address ranges. Note that the mostn               inclusive address range associated with each side of a street edge already appears inn               the All Lines Shapefile (EDGES.shp). The TIGER/Line Files contain potential addressn               ranges, not individual addresses. The term "address range" refers to the collectionn               of all possible structure numbers from the first structure number to the lastn               structure number and all numbers of a specified parity in between along an edge siden               relative to the direction in which the edge is coded. The address ranges in then               TIGER/Line Files are potential ranges that include the full range of possiblen               structure numbers even though the actual structures may not exist.n            ",
 	"license_title": null,
 	"extras": [{
 		"key": "bbox-east-long",
@@ -97,7 +97,7 @@
 	},
 	{
 		"key": "spatial",
-		"value": "{\"type\": \"Polygon\", \"coordinates\": [[[-179.231086, -14.601813], [179.859681, -14.601813], [179.859681, 71.441059], [-179.231086, 71.441059], [-179.231086, -14.601813]]]}"
+		"value": "{"type": "Polygon", "coordinates": [[[-179.231086, -14.601813], [179.859681, -14.601813], [179.859681, 71.441059], [-179.231086, 71.441059], [-179.231086, -14.601813]]]}"
 	},
 	{
 		"key": "progress",
@@ -105,7 +105,7 @@
 	},
 	{
 		"key": "access_constraints",
-		"value": "[\"Access Constraints: None\", \"Use Constraints:\\n                     The TIGER\/Line Shapefile products are not copyrighted however TIGER\/Line and\\n                     Census TIGER are registered trademarks of the U.S. Census Bureau. These\\n                     products are free to use in a product or publication, however acknowledgment\\n                     must be given to the U.S. Census Bureau as the source.\", \"Distribution\\n                     Liability: No warranty, expressed or implied is made with regard to the\\n                     accuracy of these data, and no liability is assumed by the U.S. Government in\\n                     general or the U.S. Census Bureau in specific as to the spatial or attribute\\n                     accuracy of the data. The act of distribution shall not constitute any such\\n                     warranty and no responsibility is assumed by the U.S. government in the use of\\n                     these files. The boundary information in the TIGER\/Line Shapefiles is for\\n                     statistical data collection and tabulation purposes only; their depiction and\\n                     designation for statistical purposes do not constitute a determination of\\n                     jurisdictional authority or rights of ownership or entitlement and they are not\\n                     legal land descriptions.\"]"
+		"value": "["Access Constraints: None", "Use Constraints:\n                     The TIGER/Line Shapefile products are not copyrighted however TIGER/Line and\n                     Census TIGER are registered trademarks of the U.S. Census Bureau. These\n                     products are free to use in a product or publication, however acknowledgment\n                     must be given to the U.S. Census Bureau as the source.", "Distribution\n                     Liability: No warranty, expressed or implied is made with regard to the\n                     accuracy of these data, and no liability is assumed by the U.S. Government in\n                     general or the U.S. Census Bureau in specific as to the spatial or attribute\n                     accuracy of the data. The act of distribution shall not constitute any such\n                     warranty and no responsibility is assumed by the U.S. government in the use of\n                     these files. The boundary information in the TIGER/Line Shapefiles is for\n                     statistical data collection and tabulation purposes only; their depiction and\n                     designation for statistical purposes do not constitute a determination of\n                     jurisdictional authority or rights of ownership or entitlement and they are not\n                     legal land descriptions."]"
 	},
 	{
 		"key": "temporal-extent-begin",
@@ -125,7 +125,7 @@
 	},
 	{
 		"key": "dataset-reference-date",
-		"value": "[{\"type\": \"publication\", \"value\": \"2014\"}]"
+		"value": "[{"type": "publication", "value": "2014"}]"
 	},
 	{
 		"key": "frequency-of-update",
@@ -183,7 +183,7 @@
 		"revision_timestamp": "2013-08-29T13:37:04.171127",
 		"is_organization": true,
 		"state": "active",
-		"image_url": "http:\/\/www.census.gov\/main\/img\/home\/CensusLogo-white.png",
+		"image_url": "http://www.census.gov/main/img/home/CensusLogo-white.png",
 		"revision_id": "0995f525-d563-4254-a535-af5b926fe663",
 		"type": "organization",
 		"id": "31c49abe-512a-412a-9cc7-5b2601325d6b",

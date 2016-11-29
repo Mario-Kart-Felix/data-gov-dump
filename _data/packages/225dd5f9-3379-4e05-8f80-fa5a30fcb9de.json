@@ -37,7 +37,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2016-09-19T19:14:22.423975",
-		"url": "https:\/\/www.pifsc.noaa.gov\/cred\/ocean_and_climate_change.php",
+		"url": "https://www.pifsc.noaa.gov/cred/ocean_and_climate_change.php",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 0,
@@ -57,11 +57,11 @@
 	"name": "cred-ocean-data-platform-odp-temperature-and-conductivity-recorder-sbe37-nwhi-nec-long-164-712df18d",
 	"isopen": false,
 	"url": null,
-	"notes": "The Ocean Data Platform (ODP) is placed on the sea floor to measure water current profiles, waves, temperature and conductivity. The ODP consists of an upward looking acoustic doppler current profiler (ADP) (SonTek\/YSI ADP, www.ysi.com) and a temperature\/conductivity recorder (Model SBE37-SM, Sea-Bird Electronics, Inc., www.seabird.com). This metadata record refers to the SBE37-SM dataset. When an ODP is recovered, another one is typically deployed in the same place. Time series data combining multiple deployments from a given site may also be available. Please contact CRED with any questions. For program information see the web site https:\/\/www.pifsc.noaa.gov\/cred\/ocean_and_climate_change.php",
+	"notes": "The Ocean Data Platform (ODP) is placed on the sea floor to measure water current profiles, waves, temperature and conductivity. The ODP consists of an upward looking acoustic doppler current profiler (ADP) (SonTek/YSI ADP, www.ysi.com) and a temperature/conductivity recorder (Model SBE37-SM, Sea-Bird Electronics, Inc., www.seabird.com). This metadata record refers to the SBE37-SM dataset. When an ODP is recovered, another one is typically deployed in the same place. Time series data combining multiple deployments from a given site may also be available. Please contact CRED with any questions. For program information see the web site https://www.pifsc.noaa.gov/cred/ocean_and_climate_change.php",
 	"license_title": null,
 	"extras": [{
 		"key": "bbox-east-long",
-		"value": "\n          -164.71230\n        "
+		"value": "n          -164.71230n        "
 	},
 	{
 		"key": "resource-type",
@@ -69,7 +69,7 @@
 	},
 	{
 		"key": "bbox-north-lat",
-		"value": "\n          23.56800\n        "
+		"value": "n          23.56800n        "
 	},
 	{
 		"key": "coupled-resource",
@@ -85,7 +85,7 @@
 	},
 	{
 		"key": "bbox-south-lat",
-		"value": "\n          23.56800\n        "
+		"value": "n          23.56800n        "
 	},
 	{
 		"key": "spatial-reference-system",
@@ -93,7 +93,7 @@
 	},
 	{
 		"key": "spatial",
-		"value": "{\"type\": \"Point\", \"coordinates\": [-164.7123, 23.568]}"
+		"value": "{"type": "Point", "coordinates": [-164.7123, 23.568]}"
 	},
 	{
 		"key": "progress",
@@ -101,7 +101,7 @@
 	},
 	{
 		"key": "access_constraints",
-		"value": "[\"Use Constraints: These oceanographic data are PRELIMINARY data and have not been screened for accuracy. NOAA can not be held liable for use of these data in a manner other than for perusal of preliminary oceanographic data for scientific research on coral reefs ecosystems.\", \"Access Constraints: None\"]"
+		"value": "["Use Constraints: These oceanographic data are PRELIMINARY data and have not been screened for accuracy. NOAA can not be held liable for use of these data in a manner other than for perusal of preliminary oceanographic data for scientific research on coral reefs ecosystems.", "Access Constraints: None"]"
 	},
 	{
 		"key": "temporal-extent-begin",
@@ -113,7 +113,7 @@
 	},
 	{
 		"key": "bbox-west-long",
-		"value": "\n          -164.71230\n        "
+		"value": "n          -164.71230n        "
 	},
 	{
 		"key": "metadata-date",
@@ -121,7 +121,7 @@
 	},
 	{
 		"key": "dataset-reference-date",
-		"value": "[{\"type\": \"publication\", \"value\": \"2009-09-02\"}]"
+		"value": "[{"type": "publication", "value": "2009-09-02"}]"
 	},
 	{
 		"key": "frequency-of-update",
@@ -129,7 +129,7 @@
 	},
 	{
 		"key": "licence",
-		"value": "[\"\\n      These oceanographic data are PRELIMINARY data and have not been screened for accuracy. NOAA can not be held liable for use of these data in a manner other than for perusal of preliminary oceanographic data for scientific research on coral reefs ecosystems. Disclaimer - NOAA makes no warranty regarding these data, expressed or implied, nor does the fact of distribution constitute such a warranty. NOAA and NODC cannot assume liability for any damages caused by any errors or omissions in these data, nor as a result of the failure of these data to function on a particular system.\\n    \"]"
+		"value": "["\n      These oceanographic data are PRELIMINARY data and have not been screened for accuracy. NOAA can not be held liable for use of these data in a manner other than for perusal of preliminary oceanographic data for scientific research on coral reefs ecosystems. Disclaimer - NOAA makes no warranty regarding these data, expressed or implied, nor does the fact of distribution constitute such a warranty. NOAA and NODC cannot assume liability for any damages caused by any errors or omissions in these data, nor as a result of the failure of these data to function on a particular system.\n    "]"
 	},
 	{
 		"key": "metadata_type",
@@ -137,7 +137,7 @@
 	},
 	{
 		"key": "responsible-party",
-		"value": "[{\"name\": \"Coral Reef Ecosystem Division (CRED), Pacific Islands Fisheries Science Center (PIFSC), National Marine Fisheries Service (NMFS), National Oceanic and Atmospheric Administration (NOAA)\", \"roles\": [\"pointOfContact\"]}]"
+		"value": "[{"name": "Coral Reef Ecosystem Division (CRED), Pacific Islands Fisheries Science Center (PIFSC), National Marine Fisheries Service (NMFS), National Oceanic and Atmospheric Administration (NOAA)", "roles": ["pointOfContact"]}]"
 	},
 	{
 		"key": "temporal-extent-end",
@@ -153,7 +153,7 @@
 	},
 	{
 		"package_id": "225dd5f9-3379-4e05-8f80-fa5a30fcb9de",
-		"value": "ocean temperature, pacific ocean, necker island (23n164w0001), honolulu, upwelling, hawaii, nec_ocean_001, ocean circulation, zoology, salinity, earth science, oceanography, in situ physical, bottom, reef assessment and monitoring program (ramp), coastal processes, country\/territory, salinity\/density, conductivity, coral diseases, northwestern hawaiian islands, numeric data sets, oceanographic, united states of america, oceans, bleaching, central pacific ocean, ocean basin, necker island, northwestern hawaiian islands (papahanaumokuakea marine national monument), water temperature, temperature, biosphere, density, coral reefs, sea-bird sbe37-sm microcat c-t recorder, reef monitoring and assessment, ocean data platform (odp), mooring, corals, coral reef ecosystem division (cred), noaa pacific islands fisheries science center",
+		"value": "ocean temperature, pacific ocean, necker island (23n164w0001), honolulu, upwelling, hawaii, nec_ocean_001, ocean circulation, zoology, salinity, earth science, oceanography, in situ physical, bottom, reef assessment and monitoring program (ramp), coastal processes, country/territory, salinity/density, conductivity, coral diseases, northwestern hawaiian islands, numeric data sets, oceanographic, united states of america, oceans, bleaching, central pacific ocean, ocean basin, necker island, northwestern hawaiian islands (papahanaumokuakea marine national monument), water temperature, temperature, biosphere, density, coral reefs, sea-bird sbe37-sm microcat c-t recorder, reef monitoring and assessment, ocean data platform (odp), mooring, corals, coral reef ecosystem division (cred), noaa pacific islands fisheries science center",
 		"revision_timestamp": "2015-12-20T18:55:25.358099",
 		"state": "active",
 		"key": "tags",
@@ -183,7 +183,7 @@
 		"revision_timestamp": "2013-03-25T23:05:12.923863",
 		"is_organization": true,
 		"state": "active",
-		"image_url": "https:\/\/fortress.wa.gov\/dfw\/score\/score\/images\/noaa_logo.png",
+		"image_url": "https://fortress.wa.gov/dfw/score/score/images/noaa_logo.png",
 		"revision_id": "c6d43080-22e1-405e-a83d-f2a512d9e867",
 		"type": "organization",
 		"id": "e811f0b4-451f-4896-9e8f-fc6802837819",

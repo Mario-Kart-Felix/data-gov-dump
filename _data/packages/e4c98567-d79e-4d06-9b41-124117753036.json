@@ -37,7 +37,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2015-09-26T20:02:20.963990",
-		"url": "http:\/\/estuarinebathymetry.noaa.gov\/finddata.html",
+		"url": "http://estuarinebathymetry.noaa.gov/finddata.html",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 0,
@@ -67,7 +67,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2015-09-26T20:02:20.964013",
-		"url": "http:\/\/estuarinebathymetry.noaa.gov",
+		"url": "http://estuarinebathymetry.noaa.gov",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 1,
@@ -89,7 +89,7 @@
 		"revision_timestamp": "2013-03-25T23:05:12.923863",
 		"is_organization": true,
 		"state": "active",
-		"image_url": "https:\/\/fortress.wa.gov\/dfw\/score\/score\/images\/noaa_logo.png",
+		"image_url": "https://fortress.wa.gov/dfw/score/score/images/noaa_logo.png",
 		"revision_id": "c6d43080-22e1-405e-a83d-f2a512d9e867",
 		"type": "organization",
 		"id": "e811f0b4-451f-4896-9e8f-fc6802837819",
@@ -104,7 +104,7 @@
 	"owner_org": "e811f0b4-451f-4896-9e8f-fc6802837819",
 	"extras": [{
 		"key": "bbox-east-long",
-		"value": "-90.881945\n"
+		"value": "-90.881945n"
 	},
 	{
 		"key": "resource-type",
@@ -112,7 +112,7 @@
 	},
 	{
 		"key": "bbox-north-lat",
-		"value": "30.134050\n"
+		"value": "30.134050n"
 	},
 	{
 		"key": "coupled-resource",
@@ -128,7 +128,7 @@
 	},
 	{
 		"key": "bbox-south-lat",
-		"value": "29.179320\n"
+		"value": "29.179320n"
 	},
 	{
 		"key": "spatial-reference-system",
@@ -136,7 +136,7 @@
 	},
 	{
 		"key": "spatial",
-		"value": "{\"type\": \"Polygon\", \"coordinates\": [[[-92.218647, 29.17932], [-90.881945, 29.17932], [-90.881945, 30.13405], [-92.218647, 30.13405], [-92.218647, 29.17932]]]}"
+		"value": "{"type": "Polygon", "coordinates": [[[-92.218647, 29.17932], [-90.881945, 29.17932], [-90.881945, 30.13405], [-92.218647, 30.13405], [-92.218647, 29.17932]]]}"
 	},
 	{
 		"key": "progress",
@@ -144,7 +144,7 @@
 	},
 	{
 		"key": "access_constraints",
-		"value": "[\"Use Constraints: Not to be used for Navigation.Acknowledgment of the National Oceanic and AtmosphericAdministration- Nation Ocean Service would be appreciated in productsderived from these data.The datum for these bathymetric DEMs is not the same as that used bythe US Geological survey (USGS) for land based DEMs which results ina discontinuity if the two datasets are merged together. Moreover,the shoreline for the USGS DEMs is indeterminate and not the same asthat used for the Bathymetric DEMs. The data within the bathymetry file is floating point. When using the data within a GIS care must be taken to ensure that the data are being read as floating point and not integer data.\", \"Access Constraints: none\"]"
+		"value": "["Use Constraints: Not to be used for Navigation.Acknowledgment of the National Oceanic and AtmosphericAdministration- Nation Ocean Service would be appreciated in productsderived from these data.The datum for these bathymetric DEMs is not the same as that used bythe US Geological survey (USGS) for land based DEMs which results ina discontinuity if the two datasets are merged together. Moreover,the shoreline for the USGS DEMs is indeterminate and not the same asthat used for the Bathymetric DEMs. The data within the bathymetry file is floating point. When using the data within a GIS care must be taken to ensure that the data are being read as floating point and not integer data.", "Access Constraints: none"]"
 	},
 	{
 		"key": "temporal-extent-begin",
@@ -156,7 +156,7 @@
 	},
 	{
 		"key": "bbox-west-long",
-		"value": "-92.218647\n"
+		"value": "-92.218647n"
 	},
 	{
 		"key": "metadata-date",
@@ -164,7 +164,7 @@
 	},
 	{
 		"key": "dataset-reference-date",
-		"value": "[{\"type\": \"publication\", \"value\": \"1998-06-06\"}]"
+		"value": "[{"type": "publication", "value": "1998-06-06"}]"
 	},
 	{
 		"key": "frequency-of-update",
@@ -172,7 +172,7 @@
 	},
 	{
 		"key": "licence",
-		"value": "[\"These data were prepared by an agency of theUnited States Government. Neither the United States Government norany agency thereof, nor any of their employees, make any warranty,expressed or implied, or assumes any legal liability orresponsibility for the accuracy, completeness, or usefulness of anyinformation, apparatus, product, or process disclosed in this report,or represents that its use would not infringe privately owned rights.Reference therein to any specific commercial product, process, orservice by trade name, trademark, manufacturer, or otherwise does notnecessarily constitute or imply its endorsement, recommendation, orfavoring by the United States Government or any agency thereof. Anyviews and opinions of authors expressed herein do not necessarilystate or reflect those of the United States Government or any agencythereof. Although all data have been used by NOAA, no warranty,expressed or implied, is made by NOAA as to the accuracy of the dataand\/or related materials. The act of distribution shall notconstitute any such warranty, and no responsibility is assumed byNOAA in the use of these data or related materials.\\n\"]"
+		"value": "["These data were prepared by an agency of theUnited States Government. Neither the United States Government norany agency thereof, nor any of their employees, make any warranty,expressed or implied, or assumes any legal liability orresponsibility for the accuracy, completeness, or usefulness of anyinformation, apparatus, product, or process disclosed in this report,or represents that its use would not infringe privately owned rights.Reference therein to any specific commercial product, process, orservice by trade name, trademark, manufacturer, or otherwise does notnecessarily constitute or imply its endorsement, recommendation, orfavoring by the United States Government or any agency thereof. Anyviews and opinions of authors expressed herein do not necessarilystate or reflect those of the United States Government or any agencythereof. Although all data have been used by NOAA, no warranty,expressed or implied, is made by NOAA as to the accuracy of the dataand/or related materials. The act of distribution shall notconstitute any such warranty, and no responsibility is assumed byNOAA in the use of these data or related materials.\n"]"
 	},
 	{
 		"key": "metadata_type",
@@ -180,7 +180,7 @@
 	},
 	{
 		"key": "responsible-party",
-		"value": "[{\"name\": \"National Oceanic and Atmospheric Administration(NOAA), National Ocean Service (NOS), Special Projects (SP)\", \"roles\": [\"pointOfContact\"]}]"
+		"value": "[{"name": "National Oceanic and Atmospheric Administration(NOAA), National Ocean Service (NOS), Special Projects (SP)", "roles": ["pointOfContact"]}]"
 	},
 	{
 		"key": "temporal-extent-end",

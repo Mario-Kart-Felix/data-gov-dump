@@ -34,9 +34,9 @@
 		"resource_locator_protocol": "WWW:LINK-1.0-http--link",
 		"mimetype": null,
 		"cache_url": null,
-		"name": "ftp:\/\/ftp.nefsc.noaa.gov\/",
+		"name": "ftp://ftp.nefsc.noaa.gov/",
 		"created": "2016-08-08T19:38:10.457785",
-		"url": "ftp:\/\/ftp.nefsc.noaa.gov\/",
+		"url": "ftp://ftp.nefsc.noaa.gov/",
 		"webstore_url": null,
 		"resource_locator_function": "download",
 		"position": 0,
@@ -65,7 +65,7 @@
 		"cache_url": null,
 		"name": "Website",
 		"created": "2016-08-08T19:38:10.457808",
-		"url": "http:\/\/www.nefsc.noaa.gov",
+		"url": "http://www.nefsc.noaa.gov",
 		"webstore_url": null,
 		"resource_locator_function": "information",
 		"position": 1,
@@ -94,7 +94,7 @@
 		"cache_url": null,
 		"name": "Website",
 		"created": "2016-08-08T19:38:10.457817",
-		"url": "http:\/\/www.nefsc.noaa.gov",
+		"url": "http://www.nefsc.noaa.gov",
 		"webstore_url": null,
 		"resource_locator_function": "information",
 		"position": 2,
@@ -123,7 +123,7 @@
 		"cache_url": null,
 		"name": "NOAA Data Management Plan (DMP)",
 		"created": "2016-08-08T19:38:10.457824",
-		"url": "https:\/\/inport.nmfs.noaa.gov\/inport\/item\/28032\/dmp",
+		"url": "https://inport.nmfs.noaa.gov/inport/item/28032/dmp",
 		"webstore_url": null,
 		"resource_locator_function": "information",
 		"position": 3,
@@ -140,7 +140,7 @@
 		"state": "active",
 		"last_modified": null,
 		"hash": "",
-		"description": "This page describes the NASA GCMD Keywords, how\n                                                        to reference those keywords and provides download instructions.\n                                                    ",
+		"description": "This page describes the NASA GCMD Keywords, hown                                                        to reference those keywords and provides download instructions.n                                                    ",
 		"format": "HTML",
 		"tracking_summary": {
 			"total": 467,
@@ -152,7 +152,7 @@
 		"cache_url": null,
 		"name": "GCMD Keywords Page",
 		"created": "2016-08-08T19:38:10.457831",
-		"url": "http:\/\/gcmd.nasa.gov\/learn\/keyword_list.html",
+		"url": "http://gcmd.nasa.gov/learn/keyword_list.html",
 		"webstore_url": null,
 		"resource_locator_function": "information",
 		"position": 4,
@@ -174,7 +174,7 @@
 		"revision_timestamp": "2013-03-25T23:05:12.923863",
 		"is_organization": true,
 		"state": "active",
-		"image_url": "https:\/\/fortress.wa.gov\/dfw\/score\/score\/images\/noaa_logo.png",
+		"image_url": "https://fortress.wa.gov/dfw/score/score/images/noaa_logo.png",
 		"revision_id": "c6d43080-22e1-405e-a83d-f2a512d9e867",
 		"type": "organization",
 		"id": "e811f0b4-451f-4896-9e8f-fc6802837819",
@@ -185,11 +185,11 @@
 	"name": "gear-selectivity-survey-haddock",
 	"isopen": false,
 	"url": null,
-	"notes": "Cooperative Haddock\/Atlantic Cod Separator Trawl Experiment (URI Sea Grant\/Fishing Industry)\n\nHaddock and cod associate in space and time in the waters of the northeast U.S. shelf. While haddock populations are healthy, Atlantic cod populations are severely depleted. Therefore, the challenge for fisherman is to harvest haddock while avoiding Atlantic cod. Haddock and Atlantic cod are known to behave differently to the approach of trawl gear, with haddock rising and cod diving. \n\nThis study was intended to evaluate the reduction of Atlantic cod bycatch while fishing for haddock with a modified trawl. This trawl was equipped with large mesh panels in the lower bellies. Two vessels were each equipped with both the experimental trawl and a control trawl. Side by side comparative tows were made, with each vessel switching between the two nets throughout each sampling day. Atlantic cod catch reductions were evaluated.  \n",
+	"notes": "Cooperative Haddock/Atlantic Cod Separator Trawl Experiment (URI Sea Grant/Fishing Industry)nnHaddock and cod associate in space and time in the waters of the northeast U.S. shelf. While haddock populations are healthy, Atlantic cod populations are severely depleted. Therefore, the challenge for fisherman is to harvest haddock while avoiding Atlantic cod. Haddock and Atlantic cod are known to behave differently to the approach of trawl gear, with haddock rising and cod diving. nnThis study was intended to evaluate the reduction of Atlantic cod bycatch while fishing for haddock with a modified trawl. This trawl was equipped with large mesh panels in the lower bellies. Two vessels were each equipped with both the experimental trawl and a control trawl. Side by side comparative tows were made, with each vessel switching between the two nets throughout each sampling day. Atlantic cod catch reductions were evaluated.  n",
 	"owner_org": "e811f0b4-451f-4896-9e8f-fc6802837819",
 	"extras": [{
 		"key": "responsible-party",
-		"value": "[{\"name\": \"\", \"roles\": [\"\"]}, {\"name\": \"Northeast Fisheries Science Center\", \"roles\": [\"pointOfContact\", \"custodian\"]}]"
+		"value": "[{"name": "", "roles": [""]}, {"name": "Northeast Fisheries Science Center", "roles": ["pointOfContact", "custodian"]}]"
 	},
 	{
 		"key": "contact-email",
@@ -209,7 +209,7 @@
 	},
 	{
 		"key": "dataset-reference-date",
-		"value": "[{\"type\": \"publication\", \"value\": \"\"}]"
+		"value": "[{"type": "publication", "value": ""}]"
 	},
 	{
 		"key": "resource-type",
@@ -249,7 +249,7 @@
 	},
 	{
 		"key": "spatial",
-		"value": "{\"type\": \"Polygon\", \"coordinates\": [[[-69.877133, 40.657622], [-67.365783, 40.657622], [-67.365783, 42.034], [-69.877133, 42.034], [-69.877133, 40.657622]]]}"
+		"value": "{"type": "Polygon", "coordinates": [[[-69.877133, 40.657622], [-67.365783, 40.657622], [-67.365783, 42.034], [-69.877133, 42.034], [-69.877133, 40.657622]]]}"
 	},
 	{
 		"key": "guid",
@@ -261,7 +261,7 @@
 	},
 	{
 		"key": "access_constraints",
-		"value": "[\"Access Constraints: User must read and fully comprehend the metadata prior to use. Applications or inferences derived from the data should be carefully considered for accuracy. \\n\\nNEFSC Data Access Constraint:\\nIf data is stored on an internal NEFSC network, the requester may not have direct access to query the data unless they are also authorized for network access. | Use Constraints: Acknowledgement of NOAA\/NMFS\/NEFSC, as the source from which these data were obtained in any publications and\/or other representations of these, data is suggested.\"]"
+		"value": "["Access Constraints: User must read and fully comprehend the metadata prior to use. Applications or inferences derived from the data should be carefully considered for accuracy. \n\nNEFSC Data Access Constraint:\nIf data is stored on an internal NEFSC network, the requester may not have direct access to query the data unless they are also authorized for network access. | Use Constraints: Acknowledgement of NOAA/NMFS/NEFSC, as the source from which these data were obtained in any publications and/or other representations of these, data is suggested."]"
 	},
 	{
 		"key": "spatial_harvester",
@@ -273,7 +273,7 @@
 	},
 	{
 		"key": "tags",
-		"value": "gear, 2006, pelagic, southern new england shelf, doc\/noaa\/nmfs\/nefsc, northeast cooperative research program (ncrp), cooperative research, haddock, northwest atlantic, gulf of maine, 2005, survey, benthic, demersal, northeast fisheries science center, national marine fisheries service, noaa, u.s. department of commerce",
+		"value": "gear, 2006, pelagic, southern new england shelf, doc/noaa/nmfs/nefsc, northeast cooperative research program (ncrp), cooperative research, haddock, northwest atlantic, gulf of maine, 2005, survey, benthic, demersal, northeast fisheries science center, national marine fisheries service, noaa, u.s. department of commerce",
 		"__extras": {
 			"revision_id": "b417d13d-9123-4688-be85-c1a57f0ae745",
 			"package_id": "3486bd15-f3b3-4742-9ab0-e3312596e41c"

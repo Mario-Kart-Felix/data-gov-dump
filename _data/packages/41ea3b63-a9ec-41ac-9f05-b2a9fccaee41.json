@@ -37,7 +37,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2014-10-02T16:27:23.768495",
-		"url": "http:\/\/www.itis.gov\/web_service.html#",
+		"url": "http://www.itis.gov/web_service.html#",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 0,
@@ -67,7 +67,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2014-10-02T16:27:23.768535",
-		"url": "http:\/\/www.itis.gov",
+		"url": "http://www.itis.gov",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 1,
@@ -114,7 +114,7 @@
 	"name": "integrated-taxonomic-information-system-itis1abf7",
 	"isopen": false,
 	"url": null,
-	"notes": "ITIS is an easily accessible database with reliable information on species names and their hierarchical classification that is publicly accessible with unlimited free use. The database is reviewed periodically to ensure high quality with valid classifications, revisions, and additions of newly described species. The ITIS includes documented taxonomic information of flora and fauna from both aquatic and terrestrial habitats. For each scientific name, ITIS includes the authority, taxonomic rank, a unique taxonomic serial number, data source information, data quality indicators, and associated synonyms and vernacular names where available. Geographic coverage is worldwide, with an emphasis on North American taxa. The ITIS Web Services provide the ability to search and retrieve data from ITIS by providing access to the data behind the ITIS web site (http:\/\/www.itis.gov\/web_service.html#). There is also web interface for viewing reports, and several options for text downloads. Each part of the basic WSDL web services is provided by a web service API, which defines the name, input to, and output from the service for a particular data request. For more information visit http:\/\/www.itis.gov\/ws_description.html . To develop a web service client visit http:\/\/www.itis.gov\/ws_develop.html .",
+	"notes": "ITIS is an easily accessible database with reliable information on species names and their hierarchical classification that is publicly accessible with unlimited free use. The database is reviewed periodically to ensure high quality with valid classifications, revisions, and additions of newly described species. The ITIS includes documented taxonomic information of flora and fauna from both aquatic and terrestrial habitats. For each scientific name, ITIS includes the authority, taxonomic rank, a unique taxonomic serial number, data source information, data quality indicators, and associated synonyms and vernacular names where available. Geographic coverage is worldwide, with an emphasis on North American taxa. The ITIS Web Services provide the ability to search and retrieve data from ITIS by providing access to the data behind the ITIS web site (http://www.itis.gov/web_service.html#). There is also web interface for viewing reports, and several options for text downloads. Each part of the basic WSDL web services is provided by a web service API, which defines the name, input to, and output from the service for a particular data request. For more information visit http://www.itis.gov/ws_description.html . To develop a web service client visit http://www.itis.gov/ws_develop.html .",
 	"license_title": null,
 	"extras": [{
 		"key": "bbox-east-long",
@@ -142,7 +142,7 @@
 	},
 	{
 		"key": "graphic-preview-file",
-		"value": "http:\/\/www.usgs.gov\/core_science_systems\/csas\/images\/ITIS.jpg"
+		"value": "http://www.usgs.gov/core_science_systems/csas/images/ITIS.jpg"
 	},
 	{
 		"key": "bbox-south-lat",
@@ -150,7 +150,7 @@
 	},
 	{
 		"key": "__category_tag_aa0c01c9-d292-4dc1-8fec-b10c1bb629a9",
-		"value": "[\"Biodiversity\",\"Ecosystem Vulnerability\"]"
+		"value": "["Biodiversity","Ecosystem Vulnerability"]"
 	},
 	{
 		"key": "spatial-reference-system",
@@ -162,7 +162,7 @@
 	},
 	{
 		"key": "spatial",
-		"value": "{\"type\": \"Polygon\", \"coordinates\": [[[-180.0, -90.0], [180.0, -90.0], [180.0, 90.0], [-180.0, 90.0], [-180.0, -90.0]]]}"
+		"value": "{"type": "Polygon", "coordinates": [[[-180.0, -90.0], [180.0, -90.0], [180.0, 90.0], [-180.0, 90.0], [-180.0, -90.0]]]}"
 	},
 	{
 		"key": "progress",
@@ -170,7 +170,7 @@
 	},
 	{
 		"key": "access_constraints",
-		"value": "[\"Use Constraints: No restrictions or constraints, but note this disclaimer: ITIS taxonomy is based on the latest scientific consensus available, and is provided as a general reference source for interested parties. However, it is not a legal authority for statutory or regulatory purposes. While every effort has been made to provide the most reliable and up-to-date information available, ultimate legal requirements with respect to species are contained in provisions of treaties to which the United States is a party, wildlife statutes, regulations, and any applicable notices that have been published in the Federal Register. For further information on U.S. legal requirements with respect to protected taxa, please contact the U.S. Fish and Wildlife Service. The recommended citiation guidelines for ITIS are found here http:\/\/www.itis.gov\/citation.html\", \"Access Constraints: Data can be obtained via the web (www.itis.gov), via download (http:\/\/www.itis.gov\/ftp_download.html), webservices, (http:\/\/www.itis.gov\/web_service.html). For all data access options see http:\/\/www.itis.gov\/access.html\"]"
+		"value": "["Use Constraints: No restrictions or constraints, but note this disclaimer: ITIS taxonomy is based on the latest scientific consensus available, and is provided as a general reference source for interested parties. However, it is not a legal authority for statutory or regulatory purposes. While every effort has been made to provide the most reliable and up-to-date information available, ultimate legal requirements with respect to species are contained in provisions of treaties to which the United States is a party, wildlife statutes, regulations, and any applicable notices that have been published in the Federal Register. For further information on U.S. legal requirements with respect to protected taxa, please contact the U.S. Fish and Wildlife Service. The recommended citiation guidelines for ITIS are found here http://www.itis.gov/citation.html", "Access Constraints: Data can be obtained via the web (www.itis.gov), via download (http://www.itis.gov/ftp_download.html), webservices, (http://www.itis.gov/web_service.html). For all data access options see http://www.itis.gov/access.html"]"
 	},
 	{
 		"key": "temporal-extent-begin",
@@ -190,15 +190,15 @@
 	},
 	{
 		"key": "dataset-reference-date",
-		"value": "[{\"type\": \"publication\", \"value\": \"2013-01-01\"}]"
+		"value": "[{"type": "publication", "value": "2013-01-01"}]"
 	},
 	{
 		"key": "__category_tag_3b2f2e70-3e81-4aa7-8305-a534cd6af6c8",
-		"value": "[\"Biodiversity\",\"Species\"]"
+		"value": "["Biodiversity","Species"]"
 	},
 	{
 		"key": "graphic-preview-description",
-		"value": "Thumbnail of ITIS graphic. (92px x 112px). Source from Core Science Analytics Synthesis and Libraries (CSAS&L) page. URL http:\/\/www.usgs.gov\/core_science_systems\/csas\/activities.html. High resolution ITIS graphics found html http:\/\/www.atomicweb.com\/itis\/"
+		"value": "Thumbnail of ITIS graphic. (92px x 112px). Source from Core Science Analytics Synthesis and Libraries (CSAS&L) page. URL http://www.usgs.gov/core_science_systems/csas/activities.html. High resolution ITIS graphics found html http://www.atomicweb.com/itis/"
 	},
 	{
 		"key": "frequency-of-update",
@@ -206,7 +206,7 @@
 	},
 	{
 		"key": "licence",
-		"value": "[\"ITIS taxonomy is based on the latest scientific consensus available, and is provided as a general reference source for interested parties. However, it is not a legal authority for statutory or regulatory purposes. While every effort has been made to provide the most reliable and up-to-date information available, ultimate legal requirements with respect to species are contained in provisions of treaties to which the United States is a party, wildlife statutes, regulations, and any applicable notices that have been published in the Federal Register. For further information on U.S. legal requirements with respect to protected taxa, please contact the U.S. Fish and Wildlife Service.\"]"
+		"value": "["ITIS taxonomy is based on the latest scientific consensus available, and is provided as a general reference source for interested parties. However, it is not a legal authority for statutory or regulatory purposes. While every effort has been made to provide the most reliable and up-to-date information available, ultimate legal requirements with respect to species are contained in provisions of treaties to which the United States is a party, wildlife statutes, regulations, and any applicable notices that have been published in the Federal Register. For further information on U.S. legal requirements with respect to protected taxa, please contact the U.S. Fish and Wildlife Service."]"
 	},
 	{
 		"key": "metadata_type",
@@ -214,7 +214,7 @@
 	},
 	{
 		"key": "responsible-party",
-		"value": "[{\"name\": \"United States Geological Survey\", \"roles\": [\"pointOfContact\"]}]"
+		"value": "[{"name": "United States Geological Survey", "roles": ["pointOfContact"]}]"
 	},
 	{
 		"key": "spatial-data-service-type",
@@ -226,7 +226,7 @@
 	},
 	{
 		"package_id": "41ea3b63-a9ec-41ac-9f05-b2a9fccaee41",
-		"value": "methods development, monitoring, standards and protocols, invasive species, wildlife, information transfer, game, waterfowl, inventory, aquatics, informatics, status and trends, taxonomy\/systematics, population",
+		"value": "methods development, monitoring, standards and protocols, invasive species, wildlife, information transfer, game, waterfowl, inventory, aquatics, informatics, status and trends, taxonomy/systematics, population",
 		"revision_timestamp": "2014-10-02T20:27:23.552911",
 		"state": "active",
 		"key": "tags",
@@ -249,14 +249,14 @@
 		"value": "USGS Core Science Analytics and Synthesis"
 	}],
 	"organization": {
-		"description": "http:\/\/www.usgs.gov\/\r\nThe USGS is a federal science agency that provides impartial information on the health of our ecosystems and environment, the natural hazards that threaten us, the natural resources we rely on, the impacts of climate and land-use change, and the core science systems that help us provide timely, relevant, and useable information.",
+		"description": "http://www.usgs.gov/rnThe USGS is a federal science agency that provides impartial information on the health of our ecosystems and environment, the natural hazards that threaten us, the natural resources we rely on, the impacts of climate and land-use change, and the core science systems that help us provide timely, relevant, and useable information.",
 		"created": "2013-03-14T03:44:38.263357",
 		"title": "U.S. Geological Survey, Department of the Interior",
 		"name": "usgs-gov",
 		"revision_timestamp": "2014-09-02T13:43:52.167023",
 		"is_organization": true,
 		"state": "active",
-		"image_url": "http:\/\/pubs.usgs.gov\/sir\/2004\/5296\/04-5296_confluence_park\/usgs_logo.gif",
+		"image_url": "http://pubs.usgs.gov/sir/2004/5296/04-5296_confluence_park/usgs_logo.gif",
 		"revision_id": "2858aa99-9501-4f96-82e5-9647b968ed66",
 		"type": "organization",
 		"id": "bd2cdd5a-4d65-46c0-9937-c8381175f104",

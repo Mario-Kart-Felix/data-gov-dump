@@ -23,7 +23,7 @@
 		"size": null,
 		"state": "active",
 		"hash": "",
-		"description": "This file contains a 'lightly processed' version of the raw data in hdf5 format. This file can be read directly by the DOLfYN library's 'load' function, or using other hdf5 I\/O tools such as HDFView.",
+		"description": "This file contains a 'lightly processed' version of the raw data in hdf5 format. This file can be read directly by the DOLfYN library's 'load' function, or using other hdf5 I/O tools such as HDFView.",
 		"format": "h5",
 		"tracking_summary": {
 			"total": 0,
@@ -34,7 +34,7 @@
 		"cache_url": null,
 		"name": "admiraltyinlet-june2012-mc.h5",
 		"created": "2016-02-11T09:52:07.378653",
-		"url": "http:\/\/mhkdr.openei.org\/files\/49\/AdmiraltyInlet_June2012_mc.h5",
+		"url": "http://mhkdr.openei.org/files/49/AdmiraltyInlet_June2012_mc.h5",
 		"webstore_url": null,
 		"last_modified": null,
 		"position": 0,
@@ -61,7 +61,7 @@
 		"cache_url": null,
 		"name": "admiraltyinlet-june2012-mc.mat",
 		"created": "2016-02-11T09:52:07.378660",
-		"url": "http:\/\/mhkdr.openei.org\/files\/49\/AdmiraltyInlet_June2012_mc.mat",
+		"url": "http://mhkdr.openei.org/files/49/AdmiraltyInlet_June2012_mc.mat",
 		"webstore_url": null,
 		"last_modified": null,
 		"position": 1,
@@ -77,7 +77,7 @@
 		"size": null,
 		"state": "active",
 		"hash": "",
-		"description": "This is the full binary Nortek-format data file. Nortek provides tools for reading this file and converting it to other formats, or the DOLfYN library has tools for reading it. For information on\nthis data format see Nortek's 'System Integration Manual' available at: http:\/\/www.nortek-as.com\/en\/support\/application-development",
+		"description": "This is the full binary Nortek-format data file. Nortek provides tools for reading this file and converting it to other formats, or the DOLfYN library has tools for reading it. For information onnthis data format see Nortek's 'System Integration Manual' available at: http://www.nortek-as.com/en/support/application-development",
 		"format": "vec",
 		"tracking_summary": {
 			"total": 0,
@@ -88,7 +88,7 @@
 		"cache_url": null,
 		"name": "admiraltyinlet-june2012.vec",
 		"created": "2016-02-11T09:52:07.378668",
-		"url": "http:\/\/mhkdr.openei.org\/files\/49\/AdmiraltyInlet_June2012.vec",
+		"url": "http://mhkdr.openei.org/files/49/AdmiraltyInlet_June2012.vec",
 		"webstore_url": null,
 		"last_modified": null,
 		"position": 2,
@@ -111,11 +111,11 @@
 			"recent": 0
 		},
 		"mimetype_inner": null,
-		"mimetype": "application\/pdf",
+		"mimetype": "application/pdf",
 		"cache_url": null,
 		"name": "marine energy technology symposium paper",
 		"created": "2016-04-27T21:27:04.254813",
-		"url": "http:\/\/faculty.washington.edu\/jmt3rd\/Publications\/Thomson_etal_GMREC-METS_2013_turbulencemooring.pdf",
+		"url": "http://faculty.washington.edu/jmt3rd/Publications/Thomson_etal_GMREC-METS_2013_turbulencemooring.pdf",
 		"webstore_url": null,
 		"last_modified": null,
 		"position": 3,
@@ -206,7 +206,7 @@
 	"name": "admiralty-inlet-hub-height-turbulence-measurements-june-2012",
 	"isopen": true,
 	"url": null,
-	"notes": "This data is from measurements at Admiralty Head, in admiralty inlet. The measurements were made using an IMU equipped ADV mounted on a mooring, the 'Tidal Turbulence Mooring' or 'TTM'. The inertial measurements from the IMU allows for removal of mooring motion in post processing. The mooring motion has been removed from the stream-wise and vertical velocity signals (u, w). The lateral (v) velocity may have some 'persistent motion contamination' due to mooring sway. The ADV was positioned 11m above the seafloor in 58m of water at 48.1515N, 122.6858W.\n\nUnits\n-----\n- Velocity data (_u, urot, uacc) is in m\/s.\n- Acceleration (Accel) data is in m\/s^2.\n- Angular rate (AngRt) data is in rad\/s.\n- The components of all vectors are in 'ENU' orientation. That is, the first index is True East, the second is True North, and the third is Up (vertical).\n- All other quantities are in the units defined in the Nortek Manual.\n\nMotion correction and rotation into the ENU earth reference frame was performed using the Python-based open source DOLfYN library (http:\/\/lkilcher.github.io\/dolfyn\/). Details on motion correction can be found there.\n\nFor additional details on this dataset see the included Marine Energy Technology Symposium paper.\n",
+	"notes": "This data is from measurements at Admiralty Head, in admiralty inlet. The measurements were made using an IMU equipped ADV mounted on a mooring, the 'Tidal Turbulence Mooring' or 'TTM'. The inertial measurements from the IMU allows for removal of mooring motion in post processing. The mooring motion has been removed from the stream-wise and vertical velocity signals (u, w). The lateral (v) velocity may have some 'persistent motion contamination' due to mooring sway. The ADV was positioned 11m above the seafloor in 58m of water at 48.1515N, 122.6858W.nnUnitsn-----n- Velocity data (_u, urot, uacc) is in m/s.n- Acceleration (Accel) data is in m/s^2.n- Angular rate (AngRt) data is in rad/s.n- The components of all vectors are in 'ENU' orientation. That is, the first index is True East, the second is True North, and the third is Up (vertical).n- All other quantities are in the units defined in the Nortek Manual.nnMotion correction and rotation into the ENU earth reference frame was performed using the Python-based open source DOLfYN library (http://lkilcher.github.io/dolfyn/). Details on motion correction can be found there.nnFor additional details on this dataset see the included Marine Energy Technology Symposium paper.n",
 	"license_title": "Creative Commons Attribution",
 	"extras": [{
 		"key": "harvest_source_id",
@@ -230,23 +230,23 @@
 	},
 	{
 		"key": "spatial",
-		"value": "{\"type\":\"Polygon\",\"coordinates\":[[[-122.6958,48.1415],[-122.6758,48.1415],[-122.6758,48.1615],[-122.6958,48.1615],[-122.6958,48.1415]]]}"
+		"value": "{"type":"Polygon","coordinates":[[[-122.6958,48.1415],[-122.6758,48.1415],[-122.6758,48.1615],[-122.6958,48.1615],[-122.6958,48.1415]]]}"
 	},
 	{
 		"key": "catalog_conformsTo",
-		"value": "https:\/\/project-open-data.cio.gov\/v1.1\/schema"
+		"value": "https://project-open-data.cio.gov/v1.1/schema"
 	},
 	{
 		"key": "catalog_@context",
-		"value": "https:\/\/project-open-data.cio.gov\/v1.1\/schema\/catalog.jsonld"
+		"value": "https://project-open-data.cio.gov/v1.1/schema/catalog.jsonld"
 	},
 	{
 		"key": "catalog_describedBy",
-		"value": "https:\/\/project-open-data.cio.gov\/v1.1\/schema\/catalog.json"
+		"value": "https://project-open-data.cio.gov/v1.1/schema/catalog.json"
 	},
 	{
 		"key": "format",
-		"value": "application\/unknown"
+		"value": "application/unknown"
 	},
 	{
 		"key": "harvest_source_title",
@@ -266,7 +266,7 @@
 	},
 	{
 		"key": "landingPage",
-		"value": "http:\/\/mhkdr.openei.org\/submissions\/49"
+		"value": "http://mhkdr.openei.org/submissions/49"
 	},
 	{
 		"key": "harvest_object_id",
@@ -274,7 +274,7 @@
 	},
 	{
 		"key": "accessURL",
-		"value": "http:\/\/mhkdr.openei.org\/files\/49\/AdmiraltyInlet_June2012_mc.h5"
+		"value": "http://mhkdr.openei.org/files/49/AdmiraltyInlet_June2012_mc.h5"
 	},
 	{
 		"key": "publisher",
@@ -282,7 +282,7 @@
 	},
 	{
 		"key": "license",
-		"value": "https:\/\/creativecommons.org\/licenses\/by\/4.0\/"
+		"value": "https://creativecommons.org/licenses/by/4.0/"
 	},
 	{
 		"key": "modified",
@@ -298,7 +298,7 @@
 	},
 	{
 		"key": "identifier",
-		"value": "http:\/\/en.openei.org\/doe-opendata\/dataset\/f0000000-e214-4b72-acd2-000000000049"
+		"value": "http://en.openei.org/doe-opendata/dataset/f0000000-e214-4b72-acd2-000000000049"
 	},
 	{
 		"state": "active",
@@ -315,7 +315,7 @@
 		"key": "harvest_source_title",
 		"value": "Energy JSON"
 	}],
-	"license_url": "http:\/\/www.opendefinition.org\/licenses\/cc-by",
+	"license_url": "http://www.opendefinition.org/licenses/cc-by",
 	"organization": {
 		"description": "",
 		"created": "2013-05-18T11:31:21.471948",
@@ -324,7 +324,7 @@
 		"revision_timestamp": "2013-05-31T20:48:37.771905",
 		"is_organization": true,
 		"state": "active",
-		"image_url": "http:\/\/energy.gov\/sites\/prod\/files\/styles\/imagelink\/public\/DoE-Logo.jpeg",
+		"image_url": "http://energy.gov/sites/prod/files/styles/imagelink/public/DoE-Logo.jpeg",
 		"revision_id": "14e1d3c1-4cc7-460c-bf1c-b10e3429b4b0",
 		"type": "organization",
 		"id": "735d0118-b2a7-4246-a0e3-608b0fa8d1ec",

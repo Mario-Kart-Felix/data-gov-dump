@@ -37,7 +37,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2015-04-25T08:21:13.380984",
-		"url": "http:\/\/bios.dfg.ca.gov",
+		"url": "http://bios.dfg.ca.gov",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 0,
@@ -67,7 +67,7 @@
 		"cache_url": null,
 		"name": "Zip File",
 		"created": "2015-04-25T08:21:13.381007",
-		"url": "ftp:\/\/ftp.dfg.ca.gov\/BDB\/GIS\/BIOS\/Public_Datasets\/001_099\/ds063.zip",
+		"url": "ftp://ftp.dfg.ca.gov/BDB/GIS/BIOS/Public_Datasets/001_099/ds063.zip",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 1,
@@ -97,7 +97,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2015-04-25T08:21:13.381015",
-		"url": "http:\/\/TBA",
+		"url": "http://TBA",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 2,
@@ -117,11 +117,11 @@
 	"name": "stream-habitat-reach-summary-north-coast-ds633a99f",
 	"isopen": false,
 	"url": null,
-	"notes": "The shapefile is based on habitat unit level data summarized at the stream reach level. The database represents salmonid stream habitat surveys from 645 streams of the California North Coast Hydrologic Region (Calwater 2.2.1) from 1989 to 2003 with most effort in 1995 and 1996. Approximately 1,622 miles of streams were surveyed. The data were collected by Department of Fish and Game and contractors according to the version of the \"California Stream Habitat Restoration Manual\" that was current in the year of survey (see References). The methods used in the 1991 edition were used until the 1994 edition was released. Two important differences are that the 1994 version incorporated a revised stream channel classification system, affecting the way stream reaches are described and a protocol for large woody debris was added. The third edition (Flosi et al. 1998) is available on-line. Habitat typing follows a modified version of the system described in Bisson et al, 1982. Stream channel typing follows Rosgen 1994, beginning with the 1995 field season. The database helps identify and describe in-stream habitat available to anadromous salmonids within watersheds surveyed. WHAT EACH RECORD REPRESENTS Each record represents in-stream habitat unit attributes summarized at the stream reach level. A habitat unit is the base level for the stream habitat surveys and is generally determined by the occurrence of riffle, run and pool sections along the stream. Stream reaches are determined by changes in stream channel type as described by Rosgen (1994)",
+	"notes": "The shapefile is based on habitat unit level data summarized at the stream reach level. The database represents salmonid stream habitat surveys from 645 streams of the California North Coast Hydrologic Region (Calwater 2.2.1) from 1989 to 2003 with most effort in 1995 and 1996. Approximately 1,622 miles of streams were surveyed. The data were collected by Department of Fish and Game and contractors according to the version of the "California Stream Habitat Restoration Manual" that was current in the year of survey (see References). The methods used in the 1991 edition were used until the 1994 edition was released. Two important differences are that the 1994 version incorporated a revised stream channel classification system, affecting the way stream reaches are described and a protocol for large woody debris was added. The third edition (Flosi et al. 1998) is available on-line. Habitat typing follows a modified version of the system described in Bisson et al, 1982. Stream channel typing follows Rosgen 1994, beginning with the 1995 field season. The database helps identify and describe in-stream habitat available to anadromous salmonids within watersheds surveyed. WHAT EACH RECORD REPRESENTS Each record represents in-stream habitat unit attributes summarized at the stream reach level. A habitat unit is the base level for the stream habitat surveys and is generally determined by the occurrence of riffle, run and pool sections along the stream. Stream reaches are determined by changes in stream channel type as described by Rosgen (1994)",
 	"license_title": null,
 	"extras": [{
 		"key": "bbox-east-long",
-		"value": "\n-122.564872"
+		"value": "n-122.564872"
 	},
 	{
 		"key": "resource-type",
@@ -129,7 +129,7 @@
 	},
 	{
 		"key": "bbox-north-lat",
-		"value": "\n41.772468"
+		"value": "n41.772468"
 	},
 	{
 		"key": "coupled-resource",
@@ -161,7 +161,7 @@
 	},
 	{
 		"key": "spatial",
-		"value": "{\"type\": \"Polygon\", \"coordinates\": [[[-124.483447, 38.348108], [-122.564872, 38.348108], [-122.564872, 41.772468], [-124.483447, 41.772468], [-124.483447, 38.348108]]]}"
+		"value": "{"type": "Polygon", "coordinates": [[[-124.483447, 38.348108], [-122.564872, 38.348108], [-122.564872, 41.772468], [-124.483447, 41.772468], [-124.483447, 38.348108]]]}"
 	},
 	{
 		"key": "progress",
@@ -169,7 +169,7 @@
 	},
 	{
 		"key": "access_constraints",
-		"value": "[\"Use Constraints: In accordance with the California Salmonid Stream Habitat Restoration Manual,\", \"Access Constraints: None\"]"
+		"value": "["Use Constraints: In accordance with the California Salmonid Stream Habitat Restoration Manual,", "Access Constraints: None"]"
 	},
 	{
 		"key": "temporal-extent-begin",
@@ -181,7 +181,7 @@
 	},
 	{
 		"key": "bbox-west-long",
-		"value": "\n-124.483447"
+		"value": "n-124.483447"
 	},
 	{
 		"key": "metadata-date",
@@ -189,7 +189,7 @@
 	},
 	{
 		"key": "dataset-reference-date",
-		"value": "[{\"type\": \"publication\", \"value\": \"2005-05-24\"}]"
+		"value": "[{"type": "publication", "value": "2005-05-24"}]"
 	},
 	{
 		"key": "graphic-preview-description",
@@ -201,7 +201,7 @@
 	},
 	{
 		"key": "licence",
-		"value": "[\"Data limited to data on screen.\\n\\nLocation data are accurate to the extent that they were correctly interpreted during the editing and processing for the GIS environment.  Some errors will remain while editing procedures are being developed.\"]"
+		"value": "["Data limited to data on screen.\n\nLocation data are accurate to the extent that they were correctly interpreted during the editing and processing for the GIS environment.  Some errors will remain while editing procedures are being developed."]"
 	},
 	{
 		"key": "metadata_type",
@@ -209,7 +209,7 @@
 	},
 	{
 		"key": "responsible-party",
-		"value": "[{\"name\": \"California Department of Fish and Game, BDB\", \"roles\": [\"pointOfContact\"]}]"
+		"value": "[{"name": "California Department of Fish and Game, BDB", "roles": ["pointOfContact"]}]"
 	},
 	{
 		"key": "temporal-extent-end",
@@ -221,7 +221,7 @@
 	},
 	{
 		"key": "bbox-south-lat",
-		"value": "\n38.348108"
+		"value": "n38.348108"
 	},
 	{
 		"package_id": "48cd7cee-b098-4ef0-bac2-5ea2b8341cc6",
@@ -255,7 +255,7 @@
 		"revision_timestamp": "2013-05-31T17:51:13.706377",
 		"is_organization": true,
 		"state": "active",
-		"image_url": "http:\/\/www.ca.gov\/images\/template2012\/header_ca.gov.png",
+		"image_url": "http://www.ca.gov/images/template2012/header_ca.gov.png",
 		"revision_id": "ad94cda4-9394-44d0-9c37-573dc3c47c9a",
 		"type": "organization",
 		"id": "467d900f-8a42-452d-9906-6610dd1a767f",

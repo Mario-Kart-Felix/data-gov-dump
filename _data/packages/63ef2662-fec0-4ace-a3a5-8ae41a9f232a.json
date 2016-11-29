@@ -36,7 +36,7 @@
 		"cache_url": null,
 		"name": "Cartographic Boundary Shapefiles - Public Use Microdata Areas (PUMAs)",
 		"created": "2015-06-19T12:51:57.803463",
-		"url": "http:\/\/www.census.gov\/geo\/maps-data\/data\/cbf\/cbf_puma.html",
+		"url": "http://www.census.gov/geo/maps-data/data/cbf/cbf_puma.html",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 0,
@@ -56,7 +56,7 @@
 	"name": "series-information-file-for-the-2014-cartographic-boundary-file-state-puma-1-500000",
 	"isopen": false,
 	"url": null,
-	"notes": "The 2014 cartographic boundary shapefiles are simplified representations of selected geographic areas from the U.S. Census Bureau's Master Address File \/ Topologically Integrated Geographic Encoding and Referencing (MAF\/TIGER) Database (MTDB). These boundary files are specifically designed for small-scale thematic mapping. When possible, generalization is performed with the intent to maintain the hierarchical relationships among geographies and to maintain the alignment of geographies within a file set for a given year. Geographic areas may not align with the same areas from another year. Some geographies are available as nation-based files while others are available only as state-based files.\n\nAfter each decennial census, the Census Bureau delineates Public Use Microdata Areas (PUMAs) for the tabulation and dissemination of decennial census Public Use Microdata Sample (PUMS) data, American Community Survey (ACS) PUMS data, and ACS period estimates. Nesting within states, or equivalent entities, PUMAs cover the entirety of the United States, Puerto Rico, Guam, and the U.S. Virgin Islands. PUMA delineations are subject to population, building block geography, geographic nesting, and contiguity criteria. Each PUMA is identified by a 5-character numeric census code that may contain leading zeros and a descriptive name.",
+	"notes": "The 2014 cartographic boundary shapefiles are simplified representations of selected geographic areas from the U.S. Census Bureau's Master Address File / Topologically Integrated Geographic Encoding and Referencing (MAF/TIGER) Database (MTDB). These boundary files are specifically designed for small-scale thematic mapping. When possible, generalization is performed with the intent to maintain the hierarchical relationships among geographies and to maintain the alignment of geographies within a file set for a given year. Geographic areas may not align with the same areas from another year. Some geographies are available as nation-based files while others are available only as state-based files.nnAfter each decennial census, the Census Bureau delineates Public Use Microdata Areas (PUMAs) for the tabulation and dissemination of decennial census Public Use Microdata Sample (PUMS) data, American Community Survey (ACS) PUMS data, and ACS period estimates. Nesting within states, or equivalent entities, PUMAs cover the entirety of the United States, Puerto Rico, Guam, and the U.S. Virgin Islands. PUMA delineations are subject to population, building block geography, geographic nesting, and contiguity criteria. Each PUMA is identified by a 5-character numeric census code that may contain leading zeros and a descriptive name.",
 	"license_title": null,
 	"extras": [{
 		"key": "bbox-east-long",
@@ -80,7 +80,7 @@
 	},
 	{
 		"key": "dataset-reference-date",
-		"value": "[{\"type\": \"publication\", \"value\": \"201505\"}]"
+		"value": "[{"type": "publication", "value": "201505"}]"
 	},
 	{
 		"key": "resource-type",
@@ -120,7 +120,7 @@
 	},
 	{
 		"key": "spatial",
-		"value": "{\"type\": \"Polygon\", \"coordinates\": [[[-179.231086, -14.601813], [179.859681, -14.601813], [179.859681, 71.441059], [-179.231086, 71.441059], [-179.231086, -14.601813]]]}"
+		"value": "{"type": "Polygon", "coordinates": [[[-179.231086, -14.601813], [179.859681, -14.601813], [179.859681, 71.441059], [-179.231086, 71.441059], [-179.231086, -14.601813]]]}"
 	},
 	{
 		"key": "guid",
@@ -132,7 +132,7 @@
 	},
 	{
 		"key": "access_constraints",
-		"value": "[\" Access Constraints: None\", \" Use Constraints:The intended display scale for this file is 1:500,000.  This file should not be displayed at scales larger than 1:500,000.\\n\\nThese products are free to use in a product or publication, however acknowledgement must be given to the U.S. Census Bureau as the source.  The boundary information is for visual display at appropriate small scales only.  Cartographic boundary files should not be used for geographic analysis including area or perimeter calculation.  Files should not be used for geocoding addresses.  Files should not be used for determining precise geographic area relationships.\\n\"]"
+		"value": "[" Access Constraints: None", " Use Constraints:The intended display scale for this file is 1:500,000.  This file should not be displayed at scales larger than 1:500,000.\n\nThese products are free to use in a product or publication, however acknowledgement must be given to the U.S. Census Bureau as the source.  The boundary information is for visual display at appropriate small scales only.  Cartographic boundary files should not be used for geographic analysis including area or perimeter calculation.  Files should not be used for geocoding addresses.  Files should not be used for determining precise geographic area relationships.\n"]"
 	},
 	{
 		"key": "spatial_harvester",
@@ -174,7 +174,7 @@
 		"revision_timestamp": "2013-08-29T13:37:04.171127",
 		"is_organization": true,
 		"state": "active",
-		"image_url": "http:\/\/www.census.gov\/main\/img\/home\/CensusLogo-white.png",
+		"image_url": "http://www.census.gov/main/img/home/CensusLogo-white.png",
 		"revision_id": "0995f525-d563-4254-a535-af5b926fe663",
 		"type": "organization",
 		"id": "31c49abe-512a-412a-9cc7-5b2601325d6b",

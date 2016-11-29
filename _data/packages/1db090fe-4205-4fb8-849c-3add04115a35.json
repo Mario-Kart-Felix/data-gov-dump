@@ -36,7 +36,7 @@
 		"cache_url": null,
 		"name": "Other",
 		"created": "2014-11-17T16:13:44.664341",
-		"url": "http:\/\/water.usgs.gov\/GIS\/dsdl\/OK\/skewgrid.gz",
+		"url": "http://water.usgs.gov/GIS/dsdl/OK/skewgrid.gz",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 0,
@@ -65,7 +65,7 @@
 		"cache_url": null,
 		"name": "Other",
 		"created": "2014-11-17T16:13:44.664366",
-		"url": "http:\/\/water.usgs.gov\/GIS\/dsdl\/OK\/skewgrid.prj",
+		"url": "http://water.usgs.gov/GIS/dsdl/OK/skewgrid.prj",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 1,
@@ -95,7 +95,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2014-11-17T16:13:44.664374",
-		"url": "http:\/\/water.usgs.gov\/lookup\/getspatial?ofr97-574_ok_skew",
+		"url": "http://water.usgs.gov/lookup/getspatial?ofr97-574_ok_skew",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 2,
@@ -115,11 +115,11 @@
 	"name": "generalized-peak-skew-coefficients-for-oklahoma-1961-1990-base-period",
 	"isopen": false,
 	"url": null,
-	"notes": "This digital-map data set consists of a grid of generalized skew coefficients of logarithms of annual maximum streamflow for Oklahoma streams less than or equal to 2,510 square miles in drainage area. This grid of skew coefficients is taken from figure 11 of the Tortorelli and Bergman, 1985 report, \"Techniques for estimating flood peak discharges for unregulated streams and streams regulated by small floodwater retarding structures in Oklahoma,\" U.S. Geological Survey Water-Resources Investigations Report 84-4358. The skew coefficients were used to develop peak-flow regression equations in the Tortorelli, 1997 report, \"Techniques for estimating peak-streamflow frequency for unregulated streams and streams regulated by small floodwater retarding structures in Oklahoma,\" U.S. Geological Survey Water-Resources Investigations Report 97-4202. Only skew coefficient values within Oklahoma are intended for use with the regression equations. To save disk space, the skew coefficient values have been multiplied by 100 and rounded to integers with two significant digits.",
+	"notes": "This digital-map data set consists of a grid of generalized skew coefficients of logarithms of annual maximum streamflow for Oklahoma streams less than or equal to 2,510 square miles in drainage area. This grid of skew coefficients is taken from figure 11 of the Tortorelli and Bergman, 1985 report, "Techniques for estimating flood peak discharges for unregulated streams and streams regulated by small floodwater retarding structures in Oklahoma," U.S. Geological Survey Water-Resources Investigations Report 84-4358. The skew coefficients were used to develop peak-flow regression equations in the Tortorelli, 1997 report, "Techniques for estimating peak-streamflow frequency for unregulated streams and streams regulated by small floodwater retarding structures in Oklahoma," U.S. Geological Survey Water-Resources Investigations Report 97-4202. Only skew coefficient values within Oklahoma are intended for use with the regression equations. To save disk space, the skew coefficient values have been multiplied by 100 and rounded to integers with two significant digits.",
 	"license_title": null,
 	"extras": [{
 		"key": "responsible-party",
-		"value": "[{\"name\": \"U.S. Geological Survey\", \"roles\": [\"pointOfContact\"]}]"
+		"value": "[{"name": "U.S. Geological Survey", "roles": ["pointOfContact"]}]"
 	},
 	{
 		"key": "contact-email",
@@ -139,7 +139,7 @@
 	},
 	{
 		"key": "dataset-reference-date",
-		"value": "[{\"type\": \"publication\", \"value\": \"1997-01-01\"}]"
+		"value": "[{"type": "publication", "value": "1997-01-01"}]"
 	},
 	{
 		"key": "resource-type",
@@ -167,7 +167,7 @@
 	},
 	{
 		"key": "licence",
-		"value": "[\"Although this data set has been used by the U.S. Geological\\nSurvey, U.S. Department of the Interior, no warranty expressed or\\nimplied is made by the U.S. Geological Survey as to the accuracy\\nof the data and related materials. The act of distribution shall not \\nconstitute any such warranty, and no responsibility is assumed by \\nthe U.S. Geological Survey in the use of this data, software, or \\nrelated materials.\\n\\nAny use of trade, product, or firm names is for descriptive\\npurposes only and does not imply endorsement by the U.S.\\nGovernment.\"]"
+		"value": "["Although this data set has been used by the U.S. Geological\nSurvey, U.S. Department of the Interior, no warranty expressed or\nimplied is made by the U.S. Geological Survey as to the accuracy\nof the data and related materials. The act of distribution shall not \nconstitute any such warranty, and no responsibility is assumed by \nthe U.S. Geological Survey in the use of this data, software, or \nrelated materials.\n\nAny use of trade, product, or firm names is for descriptive\npurposes only and does not imply endorsement by the U.S.\nGovernment."]"
 	},
 	{
 		"key": "metadata_type",
@@ -179,7 +179,7 @@
 	},
 	{
 		"key": "spatial",
-		"value": "{\"type\": \"Polygon\", \"coordinates\": [[[-102.9933, 33.477], [-93.7089, 33.477], [-93.7089, 38.0334], [-102.9933, 38.0334], [-102.9933, 33.477]]]}"
+		"value": "{"type": "Polygon", "coordinates": [[[-102.9933, 33.477], [-93.7089, 33.477], [-93.7089, 38.0334], [-102.9933, 38.0334], [-102.9933, 33.477]]]}"
 	},
 	{
 		"key": "guid",
@@ -191,7 +191,7 @@
 	},
 	{
 		"key": "access_constraints",
-		"value": "[\"Use Constraints: This data set was digitized from a 1:500,000-scale mylar draft map, which was photo-reduced and published by Tortorelli and Bergman (1985) at a scale of 1:2,500,000. The skew coefficients are generalized, and, therefore, may not be representative of individual station skew coefficients. Although skew coefficients from some stations outside Oklahoma were used to develop the generalized skew map by Tortorelli and Bergman (1985), the skew values are intended for use to develop peak-streamflow frequency curves for gaged sites only within Oklahoma.\", \"Access Constraints: None\"]"
+		"value": "["Use Constraints: This data set was digitized from a 1:500,000-scale mylar draft map, which was photo-reduced and published by Tortorelli and Bergman (1985) at a scale of 1:2,500,000. The skew coefficients are generalized, and, therefore, may not be representative of individual station skew coefficients. Although skew coefficients from some stations outside Oklahoma were used to develop the generalized skew map by Tortorelli and Bergman (1985), the skew values are intended for use to develop peak-streamflow frequency curves for gaged sites only within Oklahoma.", "Access Constraints: None"]"
 	},
 	{
 		"key": "spatial_harvester",
@@ -226,14 +226,14 @@
 		"value": "Water NSDI Node Spatial Datasets"
 	}],
 	"organization": {
-		"description": "http:\/\/www.usgs.gov\/\r\nThe USGS is a federal science agency that provides impartial information on the health of our ecosystems and environment, the natural hazards that threaten us, the natural resources we rely on, the impacts of climate and land-use change, and the core science systems that help us provide timely, relevant, and useable information.",
+		"description": "http://www.usgs.gov/rnThe USGS is a federal science agency that provides impartial information on the health of our ecosystems and environment, the natural hazards that threaten us, the natural resources we rely on, the impacts of climate and land-use change, and the core science systems that help us provide timely, relevant, and useable information.",
 		"created": "2013-03-14T03:44:38.263357",
 		"title": "U.S. Geological Survey, Department of the Interior",
 		"name": "usgs-gov",
 		"revision_timestamp": "2014-09-02T13:43:52.167023",
 		"is_organization": true,
 		"state": "active",
-		"image_url": "http:\/\/pubs.usgs.gov\/sir\/2004\/5296\/04-5296_confluence_park\/usgs_logo.gif",
+		"image_url": "http://pubs.usgs.gov/sir/2004/5296/04-5296_confluence_park/usgs_logo.gif",
 		"revision_id": "2858aa99-9501-4f96-82e5-9647b968ed66",
 		"type": "organization",
 		"id": "bd2cdd5a-4d65-46c0-9937-c8381175f104",

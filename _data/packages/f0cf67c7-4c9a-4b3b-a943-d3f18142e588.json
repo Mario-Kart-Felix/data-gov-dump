@@ -37,7 +37,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2016-03-04T15:47:55.793410",
-		"url": "http:\/\/bios.dfg.ca.gov",
+		"url": "http://bios.dfg.ca.gov",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 0,
@@ -67,7 +67,7 @@
 		"cache_url": null,
 		"name": "Zip File",
 		"created": "2016-03-04T15:47:55.793438",
-		"url": "ftp:\/\/ftp.dfg.ca.gov\/BDB\/GIS\/BIOS\/Public_Datasets\/300_399\/ds358.zip",
+		"url": "ftp://ftp.dfg.ca.gov/BDB/GIS/BIOS/Public_Datasets/300_399/ds358.zip",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 1,
@@ -89,7 +89,7 @@
 		"revision_timestamp": "2013-05-31T17:51:13.706377",
 		"is_organization": true,
 		"state": "active",
-		"image_url": "http:\/\/www.ca.gov\/images\/template2012\/header_ca.gov.png",
+		"image_url": "http://www.ca.gov/images/template2012/header_ca.gov.png",
 		"revision_id": "ad94cda4-9394-44d0-9c37-573dc3c47c9a",
 		"type": "organization",
 		"id": "467d900f-8a42-452d-9906-6610dd1a767f",
@@ -100,11 +100,11 @@
 	"name": "sensitive-sites-ospr-ds358a2417",
 	"isopen": false,
 	"url": null,
-	"notes": "The data was created by reviewing the information contained in the Site Summaries. If the Site Summary contained a latitude\/longitude of the location, the ArcView Geotools extension was used to create the point shp file. If the coordinate was not know, the tool was used to identify the coordinate by selecting the location from a georeferenced USGS quad map. The extents were identified from the Site Summary and each extents was copied from the 24K Coast shp file or from the Delta Shp file. The Xtools extension was used to cut and copy each segment to the extents shp file.",
+	"notes": "The data was created by reviewing the information contained in the Site Summaries. If the Site Summary contained a latitude/longitude of the location, the ArcView Geotools extension was used to create the point shp file. If the coordinate was not know, the tool was used to identify the coordinate by selecting the location from a georeferenced USGS quad map. The extents were identified from the Site Summary and each extents was copied from the 24K Coast shp file or from the Delta Shp file. The Xtools extension was used to cut and copy each segment to the extents shp file.",
 	"owner_org": "467d900f-8a42-452d-9906-6610dd1a767f",
 	"extras": [{
 		"key": "responsible-party",
-		"value": "[{\"name\": \"California Department of Fish and Wildlife, Office of Spill Prevention and Response, GIS Unit\", \"roles\": [\"pointOfContact\"]}]"
+		"value": "[{"name": "California Department of Fish and Wildlife, Office of Spill Prevention and Response, GIS Unit", "roles": ["pointOfContact"]}]"
 	},
 	{
 		"key": "contact-email",
@@ -124,7 +124,7 @@
 	},
 	{
 		"key": "dataset-reference-date",
-		"value": "[{\"type\": \"publication\", \"value\": \"\"}]"
+		"value": "[{"type": "publication", "value": ""}]"
 	},
 	{
 		"key": "resource-type",
@@ -152,7 +152,7 @@
 	},
 	{
 		"key": "licence",
-		"value": "[\" \"]"
+		"value": "[" "]"
 	},
 	{
 		"key": "metadata_type",
@@ -164,7 +164,7 @@
 	},
 	{
 		"key": "spatial",
-		"value": "{\"type\": \"Polygon\", \"coordinates\": [[[-124.503762, 32.522844], [-116.718332, 32.522844], [-116.718332, 42.036813], [-124.503762, 42.036813], [-124.503762, 32.522844]]]}"
+		"value": "{"type": "Polygon", "coordinates": [[[-124.503762, 32.522844], [-116.718332, 32.522844], [-116.718332, 42.036813], [-124.503762, 42.036813], [-124.503762, 32.522844]]]}"
 	},
 	{
 		"key": "guid",
@@ -176,7 +176,7 @@
 	},
 	{
 		"key": "access_constraints",
-		"value": "[\"Use Constraints: None\", \"Access Constraints: None\"]"
+		"value": "["Use Constraints: None", "Access Constraints: None"]"
 	},
 	{
 		"key": "spatial_harvester",

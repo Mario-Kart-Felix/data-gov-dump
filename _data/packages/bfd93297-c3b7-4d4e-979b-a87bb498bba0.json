@@ -36,7 +36,7 @@
 		"cache_url": null,
 		"name": "Image Service REST Endpoint",
 		"created": "2016-07-15T21:34:07.330004",
-		"url": "https:\/\/gis.northwestknowledge.net\/arcgis\/rest\/services\/aerial-imagery\/ortho_2015_idaho\/ImageServer",
+		"url": "https://gis.northwestknowledge.net/arcgis/rest/services/aerial-imagery/ortho_2015_idaho/ImageServer",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 0,
@@ -65,7 +65,7 @@
 		"cache_url": null,
 		"name": "View Online Map and Download Tiles",
 		"created": "2016-07-15T21:34:07.330026",
-		"url": "http:\/\/cloud.insideidaho.org\/webMaps\/flash\/tiledownload\/index.html?collection=orthoimagery&layerName=2015_1m_Idaho",
+		"url": "http://cloud.insideidaho.org/webMaps/flash/tiledownload/index.html?collection=orthoimagery&layerName=2015_1m_Idaho",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 1,
@@ -121,7 +121,7 @@
 	},
 	{
 		"key": "spatial",
-		"value": "{\"type\": \"Polygon\", \"coordinates\": [[[-119.3, 40.6], [-108.9, 40.6], [-108.9, 49.3], [-119.3, 49.3], [-119.3, 40.6]]]}"
+		"value": "{"type": "Polygon", "coordinates": [[[-119.3, 40.6], [-108.9, 40.6], [-108.9, 49.3], [-119.3, 49.3], [-119.3, 40.6]]]}"
 	},
 	{
 		"key": "progress",
@@ -129,7 +129,7 @@
 	},
 	{
 		"key": "access_constraints",
-		"value": "[\"Use Constraints: None, The Aerial Photography Field Office asks to be credited in derived products.\", \"Access Constraints: There are no limitations for access.\"]"
+		"value": "["Use Constraints: None, The Aerial Photography Field Office asks to be credited in derived products.", "Access Constraints: There are no limitations for access."]"
 	},
 	{
 		"key": "temporal-extent-begin",
@@ -149,7 +149,7 @@
 	},
 	{
 		"key": "dataset-reference-date",
-		"value": "[{\"type\": \"publication\", \"value\": \"2016-01-01\"}]"
+		"value": "[{"type": "publication", "value": "2016-01-01"}]"
 	},
 	{
 		"key": "frequency-of-update",
@@ -157,7 +157,7 @@
 	},
 	{
 		"key": "licence",
-		"value": "[\"Although these data have been processed successfully on a computer system at the Idaho Geospatial Data Clearinghouse, no warranty, expressed or implied, is made regarding the utility of the data on any other system, nor shall the act of distribution constitute any such warranty. \"]"
+		"value": "["Although these data have been processed successfully on a computer system at the Idaho Geospatial Data Clearinghouse, no warranty, expressed or implied, is made regarding the utility of the data on any other system, nor shall the act of distribution constitute any such warranty. "]"
 	},
 	{
 		"key": "metadata_type",
@@ -165,7 +165,7 @@
 	},
 	{
 		"key": "responsible-party",
-		"value": "[{\"name\": \"Aerial Photography Field Office (APFO)\", \"roles\": [\"pointOfContact\"]}]"
+		"value": "[{"name": "Aerial Photography Field Office (APFO)", "roles": ["pointOfContact"]}]"
 	},
 	{
 		"key": "temporal-extent-end",
@@ -211,7 +211,7 @@
 		"revision_timestamp": "2015-01-16T18:28:14.593903",
 		"is_organization": true,
 		"state": "active",
-		"image_url": "http:\/\/upload.wikimedia.org\/wikipedia\/en\/thumb\/4\/44\/University_of_Idaho_seal.svg\/300px-University_of_Idaho_seal.svg.png",
+		"image_url": "http://upload.wikimedia.org/wikipedia/en/thumb/4/44/University_of_Idaho_seal.svg/300px-University_of_Idaho_seal.svg.png",
 		"revision_id": "761955d7-9530-4622-8609-d0b01c78e177",
 		"type": "organization",
 		"id": "75e22a8a-da5f-46f3-93d8-924063a3703d",

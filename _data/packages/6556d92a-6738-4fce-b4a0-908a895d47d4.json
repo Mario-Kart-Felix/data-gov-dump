@@ -36,7 +36,7 @@
 		"cache_url": null,
 		"name": "Service Description",
 		"created": "2013-03-16T02:19:20.062597",
-		"url": "http:\/\/kgs.uky.edu\/arcgis\/services\/aasggeothermal\/VABoreholeTemperatures\/MapServer\/WMSServer?request=GetCapabilities&service=WMS",
+		"url": "http://kgs.uky.edu/arcgis/services/aasggeothermal/VABoreholeTemperatures/MapServer/WMSServer?request=GetCapabilities&service=WMS",
 		"webstore_url": null,
 		"resource_locator_function": "381",
 		"position": 0,
@@ -65,7 +65,7 @@
 		"cache_url": null,
 		"name": "Service Description",
 		"created": "2013-03-16T02:19:20.062617",
-		"url": "http:\/\/kgs.uky.edu\/arcgis\/services\/aasggeothermal\/VABoreholeTemperatures\/MapServer\/WFSServer?request=GetCapabilities&service=WFS",
+		"url": "http://kgs.uky.edu/arcgis/services/aasggeothermal/VABoreholeTemperatures/MapServer/WFSServer?request=GetCapabilities&service=WFS",
 		"webstore_url": null,
 		"resource_locator_function": "381",
 		"position": 1,
@@ -94,7 +94,7 @@
 		"cache_url": null,
 		"name": "Service Description",
 		"created": "2013-03-16T02:19:20.062626",
-		"url": "http:\/\/kgs.uky.edu\/arcgis\/rest\/services\/aasggeothermal\/VABoreholeTemperatures\/MapServer",
+		"url": "http://kgs.uky.edu/arcgis/rest/services/aasggeothermal/VABoreholeTemperatures/MapServer",
 		"webstore_url": null,
 		"resource_locator_function": "381",
 		"position": 2,
@@ -123,7 +123,7 @@
 		"cache_url": null,
 		"name": "Downloadable File",
 		"created": "2013-03-16T02:19:20.062633",
-		"url": "http:\/\/repository.stategeothermaldata.org\/metadata\/record\/b99f8f8e3a7d798d77d4c343bd16b987\/file\/revised_copy_of_va_boreholetemperatureobservation_version_1.5_11102011.zip",
+		"url": "http://repository.stategeothermaldata.org/metadata/record/b99f8f8e3a7d798d77d4c343bd16b987/file/revised_copy_of_va_boreholetemperatureobservation_version_1.5_11102011.zip",
 		"webstore_url": null,
 		"resource_locator_function": "375",
 		"position": 3,
@@ -156,11 +156,11 @@
 	"name": "virginia-borehole-temperature-observations",
 	"isopen": false,
 	"url": null,
-	"notes": "This dataset is a compilation of borehole temperature observations compiled by the Virginia Department of Mines, Minerals and Energy, Division of Geology and Mineral Resources, published as a web feature service, a web map service, an ESRI service and as an Excel spreadsheet for the National Geothermal Data System.\nThe document contains 7 worksheets, including information about the template, notes related to revisions of the template, Resource provider information, the data, a field list (data mapping view) and a worksheet with vocabularies for use in populating the spreadsheet (data valid terms). Data from 221 wells are included. Fields in the data table include ObservationURI, WellName, APINo, HeaderURI, OtherID, OtherName, BoreholeName, Operator, LeaseOwner, LeaseNo, SpudDate, EndedDrillingDate, WellType, Status, CommodityOfInterest, StatusDate, Function, Production, Field, County, State, PLSS_Meridians, TWP, RGE, Section, SectionPart, Parcel, UTM_E, UTM_N, UTMDatumZone, LatDegree, LongDegree, SRS, LocationUncertaintyStatement, DrillerTotalDepth, DepthReferencePoint, Shape, TrueVerticalDepth, LengthUnits, ElevationKB, ElevationDF, ElevationGL, BitDiameterCollar, BitDiameterTD, etc.",
+	"notes": "This dataset is a compilation of borehole temperature observations compiled by the Virginia Department of Mines, Minerals and Energy, Division of Geology and Mineral Resources, published as a web feature service, a web map service, an ESRI service and as an Excel spreadsheet for the National Geothermal Data System.nThe document contains 7 worksheets, including information about the template, notes related to revisions of the template, Resource provider information, the data, a field list (data mapping view) and a worksheet with vocabularies for use in populating the spreadsheet (data valid terms). Data from 221 wells are included. Fields in the data table include ObservationURI, WellName, APINo, HeaderURI, OtherID, OtherName, BoreholeName, Operator, LeaseOwner, LeaseNo, SpudDate, EndedDrillingDate, WellType, Status, CommodityOfInterest, StatusDate, Function, Production, Field, County, State, PLSS_Meridians, TWP, RGE, Section, SectionPart, Parcel, UTM_E, UTM_N, UTMDatumZone, LatDegree, LongDegree, SRS, LocationUncertaintyStatement, DrillerTotalDepth, DepthReferencePoint, Shape, TrueVerticalDepth, LengthUnits, ElevationKB, ElevationDF, ElevationGL, BitDiameterCollar, BitDiameterTD, etc.",
 	"license_title": null,
 	"extras": [{
 		"key": "responsible-party",
-		"value": "[{\"name\": \"Arizona Geological Survey\", \"roles\": [\"pointOfContact\"]}]"
+		"value": "[{"name": "Arizona Geological Survey", "roles": ["pointOfContact"]}]"
 	},
 	{
 		"key": "contact-email",
@@ -180,7 +180,7 @@
 	},
 	{
 		"key": "dataset-reference-date",
-		"value": "[{\"type\": \"publication\", \"value\": \"2011-12-28T12:00:00\"}]"
+		"value": "[{"type": "publication", "value": "2011-12-28T12:00:00"}]"
 	},
 	{
 		"key": "resource-type",
@@ -216,7 +216,7 @@
 	},
 	{
 		"key": "spatial",
-		"value": "{\"type\": \"Polygon\", \"coordinates\": [[[-84.3113, 36.3059], [-84.3113, 40.002], [-74.3357, 40.002], [-74.3357, 36.3059], [-84.3113, 36.3059]]]}"
+		"value": "{"type": "Polygon", "coordinates": [[[-84.3113, 36.3059], [-84.3113, 40.002], [-74.3357, 40.002], [-74.3357, 36.3059], [-84.3113, 36.3059]]]}"
 	},
 	{
 		"key": "guid",
@@ -266,7 +266,7 @@
 		"revision_timestamp": "2013-03-20T21:11:17.592932",
 		"is_organization": true,
 		"state": "active",
-		"image_url": "http:\/\/www.50states.com\/flag\/image\/nunst004.gif",
+		"image_url": "http://www.50states.com/flag/image/nunst004.gif",
 		"revision_id": "61be6428-4398-4199-a336-f3cd1e956f9b",
 		"type": "organization",
 		"id": "f3f6e1d4-64fb-4a2f-b32c-9ac0b76fe4de",

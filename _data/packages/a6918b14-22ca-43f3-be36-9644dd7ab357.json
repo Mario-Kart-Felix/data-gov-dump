@@ -37,7 +37,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2013-03-15T15:33:43.812573",
-		"url": "http:\/\/www.vcgi.org\/dataware\/default.cfm?datasetname=MISC_0_3M_CLR_2008",
+		"url": "http://www.vcgi.org/dataware/default.cfm?datasetname=MISC_0_3M_CLR_2008",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 0,
@@ -67,7 +67,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2013-03-15T15:33:43.812588",
-		"url": "http:\/\/www.vcgi.org\/dataware\/default.cfm?datasetname=MISC_0_3M_CLR_2008",
+		"url": "http://www.vcgi.org/dataware/default.cfm?datasetname=MISC_0_3M_CLR_2008",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 1,
@@ -100,11 +100,11 @@
 	"name": "misc-0-3m-clr-2008",
 	"isopen": false,
 	"url": null,
-	"notes": "This dataset (MISC_0_3M_CLR_2008) includes truecolor ortho imagery covering an area north and south of the VT\/Canadian border. VCGI extracted the imagery from a larger dataset developed by 3001 Inc for the Federal government. The MISC_0_3M_CLR_2008 extract is limited to all collected imagery north and south of the VT\/Canadian border. The imagery has been kept in its native coordinate system (UTM zone 18 and 19). For this dataset, the natural color orthoimages were produced at 0.3-meter pixel resolution (approximately 1-foot). The design accuracy is estimated not to exceed 6 meter horizontal RMSE for locations within the United States. Each orthoimage provides imagery for a 1500-meter by 1500-meter block on the ground. The projected coordinate system is UTM with a NAD83 datum, spheroid GRS80. There is no image overlap between adjacent files. The naming convention is based on the U.S. National Grid (USNG), taking the coordinates of the SW corner of the orthoimage.",
+	"notes": "This dataset (MISC_0_3M_CLR_2008) includes truecolor ortho imagery covering an area north and south of the VT/Canadian border. VCGI extracted the imagery from a larger dataset developed by 3001 Inc for the Federal government. The MISC_0_3M_CLR_2008 extract is limited to all collected imagery north and south of the VT/Canadian border. The imagery has been kept in its native coordinate system (UTM zone 18 and 19). For this dataset, the natural color orthoimages were produced at 0.3-meter pixel resolution (approximately 1-foot). The design accuracy is estimated not to exceed 6 meter horizontal RMSE for locations within the United States. Each orthoimage provides imagery for a 1500-meter by 1500-meter block on the ground. The projected coordinate system is UTM with a NAD83 datum, spheroid GRS80. There is no image overlap between adjacent files. The naming convention is based on the U.S. National Grid (USNG), taking the coordinates of the SW corner of the orthoimage.",
 	"license_title": null,
 	"extras": [{
 		"key": "responsible-party",
-		"value": "[{\"name\": \"VT Center for Geographic Information\", \"roles\": [\"pointOfContact\"]}]"
+		"value": "[{"name": "VT Center for Geographic Information", "roles": ["pointOfContact"]}]"
 	},
 	{
 		"key": "contact-email",
@@ -124,7 +124,7 @@
 	},
 	{
 		"key": "dataset-reference-date",
-		"value": "[{\"type\": \"publication\", \"value\": \"2009-01-01\"}]"
+		"value": "[{"type": "publication", "value": "2009-01-01"}]"
 	},
 	{
 		"key": "resource-type",
@@ -152,7 +152,7 @@
 	},
 	{
 		"key": "licence",
-		"value": "[\"VCGI and the State of Vermont make no representations of any kind, including but not limited to the warranties of merchantability or fitness for a particular use, nor are any such warranties to be implied with respect to the data.\"]"
+		"value": "["VCGI and the State of Vermont make no representations of any kind, including but not limited to the warranties of merchantability or fitness for a particular use, nor are any such warranties to be implied with respect to the data."]"
 	},
 	{
 		"key": "metadata_type",
@@ -160,7 +160,7 @@
 	},
 	{
 		"key": "spatial",
-		"value": "{\"type\": \"Polygon\", \"coordinates\": [[[-73.43831111, 44.57090278], [-73.43831111, 44.58466111], [-73.41906111, 44.58466111], [-73.41906111, 44.57090278], [-73.43831111, 44.57090278]]]}"
+		"value": "{"type": "Polygon", "coordinates": [[[-73.43831111, 44.57090278], [-73.43831111, 44.58466111], [-73.41906111, 44.58466111], [-73.41906111, 44.57090278], [-73.43831111, 44.57090278]]]}"
 	},
 	{
 		"key": "guid",
@@ -172,7 +172,7 @@
 	},
 	{
 		"key": "access_constraints",
-		"value": "[\"Use Constraints: None. There is no guarantee of warranty concerning the accuracy of the data. Users should be aware that temporal changes may have occurred since this data set was collected and that some parts of this data may no longer represent actual surface conditions. Users should not use this data for critical applications without a full awareness of its limitations. Acknowledgement of the originating agencies would be appreciated in products derived from these data. Any user who modifies the data is obligated to describe the types of modifications they perform. User specifically agrees not to misrepresent the data, nor to imply that changes made were approved or endorsed by the U.S. Government. For all products, services, Internet Website, and data, excepting digital or hardcopy orthophotography collected through the VT Tax Department\\u0092s Mapping Program, the direct, non-value added, reproduction of State of Vermont or VCGI\\u0092s products, services, Website, or data with intent to sell is prohibited without the written consent of VCGI. For all digital or hardcopy orthophotography collected through the VT Tax Department\\u0092s Mapping Program, copying, reprinting, duplicating, selling or attempting to sell is prohibited. Vermont Statute 32 V.S.A. \\u00a7 3409 permits a fine, not to exceed $1,000.00, for any person violating this prohibition.\", \"Access Constraints: Any downloading and use of these data signifies a users agreement to comprehension and compliance of the U.S. Government Standard Disclaimer. Insure all portions of metadata are read and clearly understood before using these data in order to protect both user and U.S. Government interests. VCGI and the State of VT make no representations of any kind, including but not limited to the warranties of merchantability or fitness for a particular use, nor are any such warranties to be implied with respect to the data.\"]"
+		"value": "["Use Constraints: None. There is no guarantee of warranty concerning the accuracy of the data. Users should be aware that temporal changes may have occurred since this data set was collected and that some parts of this data may no longer represent actual surface conditions. Users should not use this data for critical applications without a full awareness of its limitations. Acknowledgement of the originating agencies would be appreciated in products derived from these data. Any user who modifies the data is obligated to describe the types of modifications they perform. User specifically agrees not to misrepresent the data, nor to imply that changes made were approved or endorsed by the U.S. Government. For all products, services, Internet Website, and data, excepting digital or hardcopy orthophotography collected through the VT Tax Department\u0092s Mapping Program, the direct, non-value added, reproduction of State of Vermont or VCGI\u0092s products, services, Website, or data with intent to sell is prohibited without the written consent of VCGI. For all digital or hardcopy orthophotography collected through the VT Tax Department\u0092s Mapping Program, copying, reprinting, duplicating, selling or attempting to sell is prohibited. Vermont Statute 32 V.S.A. \u00a7 3409 permits a fine, not to exceed $1,000.00, for any person violating this prohibition.", "Access Constraints: Any downloading and use of these data signifies a users agreement to comprehension and compliance of the U.S. Government Standard Disclaimer. Insure all portions of metadata are read and clearly understood before using these data in order to protect both user and U.S. Government interests. VCGI and the State of VT make no representations of any kind, including but not limited to the warranties of merchantability or fitness for a particular use, nor are any such warranties to be implied with respect to the data."]"
 	},
 	{
 		"key": "frequency-of-update",
@@ -210,7 +210,7 @@
 		"revision_timestamp": "2013-03-27T17:47:03.718032",
 		"is_organization": true,
 		"state": "active",
-		"image_url": "http:\/\/vcgi.vermont.gov\/sites\/all\/themes\/vt_template\/logo.png",
+		"image_url": "http://vcgi.vermont.gov/sites/all/themes/vt_template/logo.png",
 		"revision_id": "c5dfbbb0-f1e0-4db6-b566-e932e1520060",
 		"type": "organization",
 		"id": "0c3a4ebc-9929-4f21-bdd0-76a35d52f57d",

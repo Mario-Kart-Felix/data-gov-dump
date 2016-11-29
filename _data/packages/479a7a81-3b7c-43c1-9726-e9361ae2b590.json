@@ -36,7 +36,7 @@
 		"cache_url": null,
 		"name": "Export",
 		"created": "2014-11-17T16:09:18.087561",
-		"url": "http:\/\/water.usgs.gov\/GIS\/dsdl\/PP1680_phys.e00.zip",
+		"url": "http://water.usgs.gov/GIS/dsdl/PP1680_phys.e00.zip",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 0,
@@ -66,7 +66,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2014-11-17T16:09:18.087583",
-		"url": "http:\/\/water.usgs.gov\/lookup\/getspatial?pp1680_phys",
+		"url": "http://water.usgs.gov/lookup/getspatial?pp1680_phys",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 1,
@@ -96,7 +96,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2014-11-17T16:09:18.087591",
-		"url": "http:\/\/water.usgs.gov\/lookup\/getspatial?pp1680_srfgl",
+		"url": "http://water.usgs.gov/lookup/getspatial?pp1680_srfgl",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 2,
@@ -126,7 +126,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2014-11-17T16:09:18.087598",
-		"url": "http:\/\/water.usgs.gov\/lookup\/getspatial?pp1680_sbcrps",
+		"url": "http://water.usgs.gov/lookup/getspatial?pp1680_sbcrps",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 3,
@@ -156,7 +156,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2014-11-17T16:09:18.087604",
-		"url": "http:\/\/water.usgs.gov\/lookup\/getspatial?pp1680_frmwrk",
+		"url": "http://water.usgs.gov/lookup/getspatial?pp1680_frmwrk",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 4,
@@ -204,7 +204,7 @@
 	},
 	{
 		"key": "graphic-preview-file",
-		"value": "http:\/\/water.usgs.gov\/GIS\/browse\/PP1680_phys.jpg"
+		"value": "http://water.usgs.gov/GIS/browse/PP1680_phys.jpg"
 	},
 	{
 		"key": "bbox-south-lat",
@@ -220,7 +220,7 @@
 	},
 	{
 		"key": "spatial",
-		"value": "{\"type\": \"Polygon\", \"coordinates\": [[[-80.36581681, 33.4172255], [-73.88230441, 33.4172255], [-73.88230441, 41.21986057], [-80.36581681, 41.21986057], [-80.36581681, 33.4172255]]]}"
+		"value": "{"type": "Polygon", "coordinates": [[[-80.36581681, 33.4172255], [-73.88230441, 33.4172255], [-73.88230441, 41.21986057], [-80.36581681, 41.21986057], [-80.36581681, 33.4172255]]]}"
 	},
 	{
 		"key": "progress",
@@ -228,7 +228,7 @@
 	},
 	{
 		"key": "access_constraints",
-		"value": "[\"Use Constraints: Not intended for use at scales greater than 1:1,000,000.\", \"Access Constraints: none\"]"
+		"value": "["Use Constraints: Not intended for use at scales greater than 1:1,000,000.", "Access Constraints: none"]"
 	},
 	{
 		"key": "contact-email",
@@ -244,7 +244,7 @@
 	},
 	{
 		"key": "dataset-reference-date",
-		"value": "[{\"type\": \"publication\", \"value\": \"2005-01-01\"}]"
+		"value": "[{"type": "publication", "value": "2005-01-01"}]"
 	},
 	{
 		"key": "graphic-preview-description",
@@ -256,7 +256,7 @@
 	},
 	{
 		"key": "licence",
-		"value": "[\"Although this data set has been used by the U.S. Geological \\nSurvey, U.S. Department of the Interior, no warranty expressed or \\nimplied is made by the U.S. Geological Survey as to the accuracy \\nof the data and related materials. The act of distribution shall not \\nconstitute any such warranty, and no responsibility is assumed by \\nthe U.S. Geological Survey in the use of this data, software, or \\nrelated materials. \\nAny use of trade, product, or firm names is for descriptive \\npurposes only and does not imply endorsement by the U.S. \\nGovernment. \"]"
+		"value": "["Although this data set has been used by the U.S. Geological \nSurvey, U.S. Department of the Interior, no warranty expressed or \nimplied is made by the U.S. Geological Survey as to the accuracy \nof the data and related materials. The act of distribution shall not \nconstitute any such warranty, and no responsibility is assumed by \nthe U.S. Geological Survey in the use of this data, software, or \nrelated materials. \nAny use of trade, product, or firm names is for descriptive \npurposes only and does not imply endorsement by the U.S. \nGovernment. "]"
 	},
 	{
 		"key": "metadata_type",
@@ -264,7 +264,7 @@
 	},
 	{
 		"key": "responsible-party",
-		"value": "[{\"name\": \"U.S. Geological Survey\", \"roles\": [\"pointOfContact\"]}]"
+		"value": "[{"name": "U.S. Geological Survey", "roles": ["pointOfContact"]}]"
 	},
 	{
 		"key": "spatial-data-service-type",
@@ -299,14 +299,14 @@
 		"value": "Water NSDI Node Spatial Datasets"
 	}],
 	"organization": {
-		"description": "http:\/\/www.usgs.gov\/\r\nThe USGS is a federal science agency that provides impartial information on the health of our ecosystems and environment, the natural hazards that threaten us, the natural resources we rely on, the impacts of climate and land-use change, and the core science systems that help us provide timely, relevant, and useable information.",
+		"description": "http://www.usgs.gov/rnThe USGS is a federal science agency that provides impartial information on the health of our ecosystems and environment, the natural hazards that threaten us, the natural resources we rely on, the impacts of climate and land-use change, and the core science systems that help us provide timely, relevant, and useable information.",
 		"created": "2013-03-14T03:44:38.263357",
 		"title": "U.S. Geological Survey, Department of the Interior",
 		"name": "usgs-gov",
 		"revision_timestamp": "2014-09-02T13:43:52.167023",
 		"is_organization": true,
 		"state": "active",
-		"image_url": "http:\/\/pubs.usgs.gov\/sir\/2004\/5296\/04-5296_confluence_park\/usgs_logo.gif",
+		"image_url": "http://pubs.usgs.gov/sir/2004/5296/04-5296_confluence_park/usgs_logo.gif",
 		"revision_id": "2858aa99-9501-4f96-82e5-9647b968ed66",
 		"type": "organization",
 		"id": "bd2cdd5a-4d65-46c0-9937-c8381175f104",

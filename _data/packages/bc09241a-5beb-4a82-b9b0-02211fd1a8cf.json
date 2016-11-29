@@ -34,9 +34,9 @@
 		"resource_locator_protocol": "WWW:LINK-1.0-http--link",
 		"mimetype": null,
 		"cache_url": null,
-		"name": "ftp:\/\/ftp.nefsc.noaa.gov\/",
+		"name": "ftp://ftp.nefsc.noaa.gov/",
 		"created": "2016-07-25T22:20:17.186375",
-		"url": "ftp:\/\/ftp.nefsc.noaa.gov\/",
+		"url": "ftp://ftp.nefsc.noaa.gov/",
 		"webstore_url": null,
 		"resource_locator_function": "download",
 		"position": 0,
@@ -65,7 +65,7 @@
 		"cache_url": null,
 		"name": "Website",
 		"created": "2016-07-25T22:20:17.186403",
-		"url": "http:\/\/www.nefsc.noaa.gov",
+		"url": "http://www.nefsc.noaa.gov",
 		"webstore_url": null,
 		"resource_locator_function": "information",
 		"position": 1,
@@ -94,7 +94,7 @@
 		"cache_url": null,
 		"name": "Website",
 		"created": "2016-07-25T22:20:17.186412",
-		"url": "http:\/\/www.nefsc.noaa.gov",
+		"url": "http://www.nefsc.noaa.gov",
 		"webstore_url": null,
 		"resource_locator_function": "information",
 		"position": 2,
@@ -123,7 +123,7 @@
 		"cache_url": null,
 		"name": "Citation URL",
 		"created": "2016-07-25T22:20:17.186420",
-		"url": "http:\/\/dx.doi.org\/10.1016\/j.marpolbul.2013.04.008",
+		"url": "http://dx.doi.org/10.1016/j.marpolbul.2013.04.008",
 		"webstore_url": null,
 		"resource_locator_function": "download",
 		"position": 3,
@@ -152,7 +152,7 @@
 		"cache_url": null,
 		"name": "NOAA Data Management Plan (DMP)",
 		"created": "2016-07-25T22:20:17.186427",
-		"url": "https:\/\/inport.nmfs.noaa.gov\/inport\/item\/27480\/dmp",
+		"url": "https://inport.nmfs.noaa.gov/inport/item/27480/dmp",
 		"webstore_url": null,
 		"resource_locator_function": "information",
 		"position": 4,
@@ -181,7 +181,7 @@
 		"cache_url": null,
 		"name": "Website",
 		"created": "2016-07-25T22:20:17.186434",
-		"url": "http:\/\/www.nefsc.noaa.gov",
+		"url": "http://www.nefsc.noaa.gov",
 		"webstore_url": null,
 		"resource_locator_function": "information",
 		"position": 5,
@@ -198,7 +198,7 @@
 		"state": "active",
 		"last_modified": null,
 		"hash": "",
-		"description": "This page describes the NASA GCMD Keywords, how\n                                                        to reference those keywords and provides download instructions.\n                                                    ",
+		"description": "This page describes the NASA GCMD Keywords, hown                                                        to reference those keywords and provides download instructions.n                                                    ",
 		"format": "HTML",
 		"tracking_summary": {
 			"total": 467,
@@ -210,7 +210,7 @@
 		"cache_url": null,
 		"name": "GCMD Keywords Page",
 		"created": "2016-07-25T22:20:17.186441",
-		"url": "http:\/\/gcmd.nasa.gov\/learn\/keyword_list.html",
+		"url": "http://gcmd.nasa.gov/learn/keyword_list.html",
 		"webstore_url": null,
 		"resource_locator_function": "information",
 		"position": 6,
@@ -232,7 +232,7 @@
 		"revision_timestamp": "2013-03-25T23:05:12.923863",
 		"is_organization": true,
 		"state": "active",
-		"image_url": "https:\/\/fortress.wa.gov\/dfw\/score\/score\/images\/noaa_logo.png",
+		"image_url": "https://fortress.wa.gov/dfw/score/score/images/noaa_logo.png",
 		"revision_id": "c6d43080-22e1-405e-a83d-f2a512d9e867",
 		"type": "organization",
 		"id": "e811f0b4-451f-4896-9e8f-fc6802837819",
@@ -243,7 +243,7 @@
 	"name": "spatial-gradients-of-polychlorinated-biphenyls-pcbs-and-organochlorine-pesticides",
 	"isopen": false,
 	"url": null,
-	"notes": "Spatial gradients of polychlorinated biphenyls (PCBs) and organochlorine pesticides were examined in the young-of-the-year (YOY) blue\u591ash collected in the vicinity of a PCB Superfund Site in New Bedford Harbor, Massachusetts, and in the adjacent waters.",
+	"notes": "Spatial gradients of polychlorinated biphenyls (PCBs) and organochlorine pesticides were examined in the young-of-the-year (YOY) blueu591ash collected in the vicinity of a PCB Superfund Site in New Bedford Harbor, Massachusetts, and in the adjacent waters.",
 	"owner_org": "e811f0b4-451f-4896-9e8f-fc6802837819",
 	"extras": [{
 		"key": "temporal-extent-begin",
@@ -267,7 +267,7 @@
 	},
 	{
 		"key": "dataset-reference-date",
-		"value": "[{\"type\": \"publication\", \"value\": \"\"}]"
+		"value": "[{"type": "publication", "value": ""}]"
 	},
 	{
 		"key": "resource-type",
@@ -275,7 +275,7 @@
 	},
 	{
 		"key": "responsible-party",
-		"value": "[{\"name\": \"Northeast Fisheries Science Center\", \"roles\": [\"pointOfContact\"]}]"
+		"value": "[{"name": "Northeast Fisheries Science Center", "roles": ["pointOfContact"]}]"
 	},
 	{
 		"key": "spatial-reference-system",
@@ -311,7 +311,7 @@
 	},
 	{
 		"key": "access_constraints",
-		"value": "[\"Access Constraints: NEFSC Data Access Constraint:\\nIf data is stored on an internal NEFSC network, the requester may not have direct access to query the data unless they are also authorized for network access. | Use Constraints: none\"]"
+		"value": "["Access Constraints: NEFSC Data Access Constraint:\nIf data is stored on an internal NEFSC network, the requester may not have direct access to query the data unless they are also authorized for network access. | Use Constraints: none"]"
 	},
 	{
 		"key": "spatial_harvester",
@@ -319,7 +319,7 @@
 	},
 	{
 		"key": "tags",
-		"value": "pcbs, organochlorine pesticides, doc\/noaa\/nmfs\/nefsc, fisheries ecology branch (feb), superfund site, new bedford harbor, yoy bluefish, northeast fisheries science center, national marine fisheries service, noaa, u.s. department of commerce",
+		"value": "pcbs, organochlorine pesticides, doc/noaa/nmfs/nefsc, fisheries ecology branch (feb), superfund site, new bedford harbor, yoy bluefish, northeast fisheries science center, national marine fisheries service, noaa, u.s. department of commerce",
 		"__extras": {
 			"revision_id": "09971b62-c892-4022-96b2-ca12aa5f3431",
 			"package_id": "bc09241a-5beb-4a82-b9b0-02211fd1a8cf"

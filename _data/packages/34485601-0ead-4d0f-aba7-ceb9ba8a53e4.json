@@ -37,7 +37,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2015-09-26T20:47:59.511956",
-		"url": "ftp:\/\/sidads.colorado.edu\/DATASETS\/NOAA\/G02159\/",
+		"url": "ftp://sidads.colorado.edu/DATASETS/NOAA/G02159/",
 		"webstore_url": null,
 		"resource_locator_function": "function",
 		"position": 0,
@@ -67,7 +67,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2015-09-26T20:47:59.511980",
-		"url": "http:\/\/nsidc.org\/data\/docs\/noaa\/g02159_ponds\/index.html",
+		"url": "http://nsidc.org/data/docs/noaa/g02159_ponds/index.html",
 		"webstore_url": null,
 		"resource_locator_function": "function",
 		"position": 1,
@@ -85,7 +85,7 @@
 		"last_modified": null,
 		"hash": "",
 		"description": "",
-		"format": "application\/vnd.lotus-organizer",
+		"format": "application/vnd.lotus-organizer",
 		"tracking_summary": {
 			"total": 85,
 			"recent": 4
@@ -97,7 +97,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2015-09-26T20:47:59.511990",
-		"url": "http:\/\/nsidc.org",
+		"url": "http://nsidc.org",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 2,
@@ -127,7 +127,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2015-09-26T20:47:59.511998",
-		"url": "http:\/\/nsidc.org\/noaa\/",
+		"url": "http://nsidc.org/noaa/",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 3,
@@ -145,7 +145,7 @@
 		"last_modified": null,
 		"hash": "",
 		"description": "",
-		"format": "application\/vnd.lotus-organizer",
+		"format": "application/vnd.lotus-organizer",
 		"tracking_summary": {
 			"total": 85,
 			"recent": 4
@@ -157,7 +157,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2015-09-26T20:47:59.512006",
-		"url": "http:\/\/nsidc.org",
+		"url": "http://nsidc.org",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 4,
@@ -177,7 +177,7 @@
 	"name": "arctic-sea-ice-melt-pond-statistics-and-maps-1999-2001",
 	"isopen": false,
 	"url": null,
-	"notes": "\nVisible band imagery from high-resolution satellites were acquired over four Arctic Ocean sites (three in 1999) during the summers of 1999, 2000, and 2001. The sites were within the median extent of the perennial ice pack. Imagery was analyzed using supervised maximum likelihood classification to derive either two (water and ice) or three (pond, open water, and ice) surface classes. Clouds were masked by hand. The data set consists of tables of pond coverage and size statistics for 500 m square cells within 10 km square images (image resolution is 1 meter), along with the surface type maps called Image Derived Products (IDPs) from which the pond statistics were derived. A total of 101 images over the three summers and four sites were used for pond statistics, out of a total of 1056 images acquired. The images are irregularly spaced in time.Data are stored in Microsoft Excel format and ASCII text, image files are stored as GeoTIFF binary images, browse images in PNG, and JPG image files, and are available from August 1999 and generally for May into September for 2000 and 2001 via FTP.\n",
+	"notes": "nVisible band imagery from high-resolution satellites were acquired over four Arctic Ocean sites (three in 1999) during the summers of 1999, 2000, and 2001. The sites were within the median extent of the perennial ice pack. Imagery was analyzed using supervised maximum likelihood classification to derive either two (water and ice) or three (pond, open water, and ice) surface classes. Clouds were masked by hand. The data set consists of tables of pond coverage and size statistics for 500 m square cells within 10 km square images (image resolution is 1 meter), along with the surface type maps called Image Derived Products (IDPs) from which the pond statistics were derived. A total of 101 images over the three summers and four sites were used for pond statistics, out of a total of 1056 images acquired. The images are irregularly spaced in time.Data are stored in Microsoft Excel format and ASCII text, image files are stored as GeoTIFF binary images, browse images in PNG, and JPG image files, and are available from August 1999 and generally for May into September for 2000 and 2001 via FTP.n",
 	"license_title": null,
 	"extras": [{
 		"key": "bbox-east-long",
@@ -213,7 +213,7 @@
 	},
 	{
 		"key": "spatial",
-		"value": "{\"type\": \"Polygon\", \"coordinates\": [[[-180.0, 73.0], [180.0, 73.0], [180.0, 90.0], [-180.0, 90.0], [-180.0, 73.0]]]}"
+		"value": "{"type": "Polygon", "coordinates": [[[-180.0, 73.0], [180.0, 73.0], [180.0, 90.0], [-180.0, 90.0], [-180.0, 73.0]]]}"
 	},
 	{
 		"key": "progress",
@@ -221,7 +221,7 @@
 	},
 	{
 		"key": "access_constraints",
-		"value": "[\"Access Constraints : none\", \"Use Constraints : none\"]"
+		"value": "["Access Constraints : none", "Use Constraints : none"]"
 	},
 	{
 		"key": "temporal-extent-begin",
@@ -241,7 +241,7 @@
 	},
 	{
 		"key": "dataset-reference-date",
-		"value": "[{\"type\": \"publication\", \"value\": \"2008-08-18\"}]"
+		"value": "[{"type": "publication", "value": "2008-08-18"}]"
 	},
 	{
 		"key": "frequency-of-update",
@@ -257,7 +257,7 @@
 	},
 	{
 		"key": "responsible-party",
-		"value": "[{\"name\": \"Denver Federal Center\", \"roles\": [\"principalInvestigator\"]}, {\"name\": \"National Snow and Ice Data Center\", \"roles\": [\"principalInvestigator\", \"pointOfContact\"]}]"
+		"value": "[{"name": "Denver Federal Center", "roles": ["principalInvestigator"]}, {"name": "National Snow and Ice Data Center", "roles": ["principalInvestigator", "pointOfContact"]}]"
 	},
 	{
 		"key": "temporal-extent-end",
@@ -273,7 +273,7 @@
 	},
 	{
 		"package_id": "34485601-0ead-4d0f-aba7-ceb9ba8a53e4",
-		"value": "terrestrial hydrosphere, cryosphere, beaufort sea, spectral\/engineering, ice floes, sea ice prediction network-project, albedo, melt pond area, melt pond size statistics, oceans, visible wavelengths, heat flux, ocean, ice growth\/melt, visible imagery, arctic ocean, snow\/ice, ice roughness, sea ice, sea ice concentration, earth science",
+		"value": "terrestrial hydrosphere, cryosphere, beaufort sea, spectral/engineering, ice floes, sea ice prediction network-project, albedo, melt pond area, melt pond size statistics, oceans, visible wavelengths, heat flux, ocean, ice growth/melt, visible imagery, arctic ocean, snow/ice, ice roughness, sea ice, sea ice concentration, earth science",
 		"revision_timestamp": "2015-09-27T00:47:59.454788",
 		"state": "active",
 		"key": "tags",
@@ -303,7 +303,7 @@
 		"revision_timestamp": "2013-03-25T23:05:12.923863",
 		"is_organization": true,
 		"state": "active",
-		"image_url": "https:\/\/fortress.wa.gov\/dfw\/score\/score\/images\/noaa_logo.png",
+		"image_url": "https://fortress.wa.gov/dfw/score/score/images/noaa_logo.png",
 		"revision_id": "c6d43080-22e1-405e-a83d-f2a512d9e867",
 		"type": "organization",
 		"id": "e811f0b4-451f-4896-9e8f-fc6802837819",

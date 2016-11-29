@@ -37,7 +37,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2016-03-31T19:58:27.788630",
-		"url": "http:\/\/Server=r2orasrv2.r02.epa.gov; Service=5252; Database=r2gis101; User=spatialuser; Version=SDE.DEFAULT",
+		"url": "http://Server=r2orasrv2.r02.epa.gov; Service=5252; Database=r2gis101; User=spatialuser; Version=SDE.DEFAULT",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 0,
@@ -67,7 +67,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2016-03-31T19:58:27.788654",
-		"url": "https:\/\/edg.epa.gov",
+		"url": "https://edg.epa.gov",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 1,
@@ -87,7 +87,7 @@
 	"name": "epa-region-2-draft-npl-site-contamination-area-boundaries-as-of-february-2007-gis-layer-epa-r2-",
 	"isopen": false,
 	"url": null,
-	"notes": "This layer represents the contamination boundaries of all NPL sites located in EPA Region Region 2 (New York, New Jersey, Puerto Rico and the U.S. Virgin Islands). Attribute information includes site ID, name, locational information, RPM name, type (complete\/non-complete), congretional district(s), area of contamination and population within 1 mile of the contamination border. Additional descriptive fields from CERCLIS have been included.",
+	"notes": "This layer represents the contamination boundaries of all NPL sites located in EPA Region Region 2 (New York, New Jersey, Puerto Rico and the U.S. Virgin Islands). Attribute information includes site ID, name, locational information, RPM name, type (complete/non-complete), congretional district(s), area of contamination and population within 1 mile of the contamination border. Additional descriptive fields from CERCLIS have been included.",
 	"license_title": null,
 	"extras": [{
 		"key": "bbox-east-long",
@@ -123,7 +123,7 @@
 	},
 	{
 		"key": "spatial",
-		"value": "{\"type\": \"Polygon\", \"coordinates\": [[[-79.320299, 17.707157], [-62.458783, 17.707157], [-62.458783, 45.012635], [-79.320299, 45.012635], [-79.320299, 17.707157]]]}"
+		"value": "{"type": "Polygon", "coordinates": [[[-79.320299, 17.707157], [-62.458783, 17.707157], [-62.458783, 45.012635], [-79.320299, 45.012635], [-79.320299, 17.707157]]]}"
 	},
 	{
 		"key": "progress",
@@ -131,11 +131,11 @@
 	},
 	{
 		"key": "access_constraints",
-		"value": "[\"Use Constraints: Data are considered current to the date of the original source material. Please check sources, scale, accuracy, currentness and other available information. Please confirm that you are using the most recent copy of both data and metadata. These data should be used with the knowledge that the site boundaries and contamination plumes were digitized on-screen using digital orthophotos as a backdrop for reference. Often the extent of contamination was approximated based on hard copy site maps of contaminant plumes and monitoring locations and the RPM's knowledge of the site.\", \"Access Constraints: None\"]"
+		"value": "["Use Constraints: Data are considered current to the date of the original source material. Please check sources, scale, accuracy, currentness and other available information. Please confirm that you are using the most recent copy of both data and metadata. These data should be used with the knowledge that the site boundaries and contamination plumes were digitized on-screen using digital orthophotos as a backdrop for reference. Often the extent of contamination was approximated based on hard copy site maps of contaminant plumes and monitoring locations and the RPM's knowledge of the site.", "Access Constraints: None"]"
 	},
 	{
 		"key": "licence_url",
-		"value": "https:\/\/edg.epa.gov\/EPA_Data_License.html\n"
+		"value": "https://edg.epa.gov/EPA_Data_License.htmln"
 	},
 	{
 		"key": "contact-email",
@@ -151,7 +151,7 @@
 	},
 	{
 		"key": "dataset-reference-date",
-		"value": "[{\"type\": \"publication\", \"value\": \"2007-02-01\"}]"
+		"value": "[{"type": "publication", "value": "2007-02-01"}]"
 	},
 	{
 		"key": "frequency-of-update",
@@ -159,7 +159,7 @@
 	},
 	{
 		"key": "licence",
-		"value": "[\"https:\/\/edg.epa.gov\/EPA_Data_License.html\\n\"]"
+		"value": "["https://edg.epa.gov/EPA_Data_License.html\n"]"
 	},
 	{
 		"key": "metadata_type",
@@ -167,7 +167,7 @@
 	},
 	{
 		"key": "responsible-party",
-		"value": "[{\"name\": \"EPA\/R2\/GIS Team\", \"roles\": [\"pointOfContact\"]}]"
+		"value": "[{"name": "EPA/R2/GIS Team", "roles": ["pointOfContact"]}]"
 	},
 	{
 		"key": "spatial-data-service-type",
@@ -209,7 +209,7 @@
 		"revision_timestamp": "2014-01-16T18:58:42.895981",
 		"is_organization": true,
 		"state": "active",
-		"image_url": "http:\/\/edg.epa.gov\/EPALogo.svg",
+		"image_url": "http://edg.epa.gov/EPALogo.svg",
 		"revision_id": "f0e4b475-7424-4ce0-9a22-412e7e595154",
 		"type": "organization",
 		"id": "6d90e48d-3076-4327-b2f4-c33919f374d5",

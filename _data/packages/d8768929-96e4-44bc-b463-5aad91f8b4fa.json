@@ -37,7 +37,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2015-09-26T22:09:10.032734",
-		"url": "ftp:\/\/sidads.colorado.edu\/pub\/DATASETS\/NOAA\/G01377\/",
+		"url": "ftp://sidads.colorado.edu/pub/DATASETS/NOAA/G01377/",
 		"webstore_url": null,
 		"resource_locator_function": "function",
 		"position": 0,
@@ -67,7 +67,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2015-09-26T22:09:10.032760",
-		"url": "http:\/\/nsidc.org\/data\/docs\/noaa\/g01377_lake_river_ice\/index.html",
+		"url": "http://nsidc.org/data/docs/noaa/g01377_lake_river_ice/index.html",
 		"webstore_url": null,
 		"resource_locator_function": "function",
 		"position": 1,
@@ -85,7 +85,7 @@
 		"last_modified": null,
 		"hash": "",
 		"description": "",
-		"format": "application\/vnd.lotus-organizer",
+		"format": "application/vnd.lotus-organizer",
 		"tracking_summary": {
 			"total": 85,
 			"recent": 4
@@ -97,7 +97,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2015-09-26T22:09:10.032768",
-		"url": "http:\/\/nsidc.org",
+		"url": "http://nsidc.org",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 2,
@@ -127,7 +127,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2015-09-26T22:09:10.032776",
-		"url": "http:\/\/nsidc.org\/noaa\/",
+		"url": "http://nsidc.org/noaa/",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 3,
@@ -145,7 +145,7 @@
 		"last_modified": null,
 		"hash": "",
 		"description": "",
-		"format": "application\/vnd.lotus-organizer",
+		"format": "application/vnd.lotus-organizer",
 		"tracking_summary": {
 			"total": 85,
 			"recent": 4
@@ -157,7 +157,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2015-09-26T22:09:10.032784",
-		"url": "http:\/\/nsidc.org",
+		"url": "http://nsidc.org",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 4,
@@ -177,7 +177,7 @@
 	"name": "global-lake-and-river-ice-phenology-database",
 	"isopen": false,
 	"url": null,
-	"notes": "\nThe Global Lake and River Ice Phenology Database contains freeze and thaw\/breakup dates as well as other descriptive ice cover data for 865 lakes and rivers in the Northern Hemisphere. Of the 542 water bodies that have records longer than 19 years, 370 of them are in North America and 172 are in Eurasia. 249 lakes and rivers have records longer than 50 years, and 66 have records longer than 100 years. A few water bodies have data available prior to 1845. This database, with water bodies distributed around the Northern Hemisphere, allows for the analysis of broad spatial patterns as well as long-term temporal patterns.This data set was prepared by the North Temperate Lakes Long-Term Ecological Research (NTL-LTER) program at the Center for Limnology (CFL) at the University of Wisconsin-Madison (UW) from data submitted by participants in the Lake Ice Analysis Group (LIAG). LIAG is an international ad hoc group of scientists who participated in a 1996 workshop sponsored by CFL and the National Science Foundation (NSF) Division of Environmental Biology (DEB) Long-Term Ecological Research (LTER) program as well as other data contributors. The group is especially interested in continuous data extending for 30 years or more. If you wish to contribute data for inclusion in the database, please contact Corinna Gries (cgries@wisc.edu) at CFL.The data are stored in a standard format in a database. NSIDC has developed a Web-based user interface to the database that allows users to search the database and retrieve data by the available parameters. The interface also includes a link to more general information about the lakes and rivers in the database, including, for example, latitude and longitude. The output can be directed to a Web browser, a gzipped file, or a tab-separated ASCII text file.<strong>Note<\/strong>: The term phenology in the data set title refers to the seasonal phenomenon of the freezing and thawing of lake and river ice.Access to the Global Lake and River Ice Phenology Database data set is unrestricted, but users are encouraged to register for the data. Registered users will automatically receive e-mail notification about any product changes.\n",
+	"notes": "nThe Global Lake and River Ice Phenology Database contains freeze and thaw/breakup dates as well as other descriptive ice cover data for 865 lakes and rivers in the Northern Hemisphere. Of the 542 water bodies that have records longer than 19 years, 370 of them are in North America and 172 are in Eurasia. 249 lakes and rivers have records longer than 50 years, and 66 have records longer than 100 years. A few water bodies have data available prior to 1845. This database, with water bodies distributed around the Northern Hemisphere, allows for the analysis of broad spatial patterns as well as long-term temporal patterns.This data set was prepared by the North Temperate Lakes Long-Term Ecological Research (NTL-LTER) program at the Center for Limnology (CFL) at the University of Wisconsin-Madison (UW) from data submitted by participants in the Lake Ice Analysis Group (LIAG). LIAG is an international ad hoc group of scientists who participated in a 1996 workshop sponsored by CFL and the National Science Foundation (NSF) Division of Environmental Biology (DEB) Long-Term Ecological Research (LTER) program as well as other data contributors. The group is especially interested in continuous data extending for 30 years or more. If you wish to contribute data for inclusion in the database, please contact Corinna Gries (cgries@wisc.edu) at CFL.The data are stored in a standard format in a database. NSIDC has developed a Web-based user interface to the database that allows users to search the database and retrieve data by the available parameters. The interface also includes a link to more general information about the lakes and rivers in the database, including, for example, latitude and longitude. The output can be directed to a Web browser, a gzipped file, or a tab-separated ASCII text file.<strong>Note</strong>: The term phenology in the data set title refers to the seasonal phenomenon of the freezing and thawing of lake and river ice.Access to the Global Lake and River Ice Phenology Database data set is unrestricted, but users are encouraged to register for the data. Registered users will automatically receive e-mail notification about any product changes.n",
 	"license_title": null,
 	"extras": [{
 		"key": "bbox-east-long",
@@ -213,7 +213,7 @@
 	},
 	{
 		"key": "spatial",
-		"value": "{\"type\": \"Polygon\", \"coordinates\": [[[-140.4, 36.5], [149.3, 36.5], [149.3, 82.5], [-140.4, 82.5], [-140.4, 36.5]]]}"
+		"value": "{"type": "Polygon", "coordinates": [[[-140.4, 36.5], [149.3, 36.5], [149.3, 82.5], [-140.4, 82.5], [-140.4, 36.5]]]}"
 	},
 	{
 		"key": "progress",
@@ -221,7 +221,7 @@
 	},
 	{
 		"key": "access_constraints",
-		"value": "[\"Access Constraints : none\", \"Use Constraints : none\"]"
+		"value": "["Access Constraints : none", "Use Constraints : none"]"
 	},
 	{
 		"key": "temporal-extent-begin",
@@ -241,7 +241,7 @@
 	},
 	{
 		"key": "dataset-reference-date",
-		"value": "[{\"type\": \"publication\", \"value\": \"2000-12-01\"}]"
+		"value": "[{"type": "publication", "value": "2000-12-01"}]"
 	},
 	{
 		"key": "frequency-of-update",
@@ -257,7 +257,7 @@
 	},
 	{
 		"key": "responsible-party",
-		"value": "[{\"name\": \"\", \"roles\": [\"principalInvestigator\"]}, {\"name\": \"National Snow and Ice Data Center\", \"roles\": [\"pointOfContact\"]}, {\"name\": \"University of Wisconsin-Madison\", \"roles\": [\"principalInvestigator\"]}]"
+		"value": "[{"name": "", "roles": ["principalInvestigator"]}, {"name": "National Snow and Ice Data Center", "roles": ["pointOfContact"]}, {"name": "University of Wisconsin-Madison", "roles": ["principalInvestigator"]}]"
 	},
 	{
 		"key": "temporal-extent-end",
@@ -273,7 +273,7 @@
 	},
 	{
 		"package_id": "d8768929-96e4-44bc-b463-5aad91f8b4fa",
-		"value": "cryosphere, long-term temporal patterns, lake ice, freeze date, breakup date, ice duration, long-term trends, liag, ice on date, northern hemisphere, earth science, lake ice analysis group, broad spatial patterns, breakup, river ice, freeze up, nsidc, freeze\/thaw, geographic region, noaa, terrestrial hydrosphere, climate, ice off date, snow\/ice",
+		"value": "cryosphere, long-term temporal patterns, lake ice, freeze date, breakup date, ice duration, long-term trends, liag, ice on date, northern hemisphere, earth science, lake ice analysis group, broad spatial patterns, breakup, river ice, freeze up, nsidc, freeze/thaw, geographic region, noaa, terrestrial hydrosphere, climate, ice off date, snow/ice",
 		"revision_timestamp": "2015-09-27T02:09:09.957313",
 		"state": "active",
 		"key": "tags",
@@ -303,7 +303,7 @@
 		"revision_timestamp": "2013-03-25T23:05:12.923863",
 		"is_organization": true,
 		"state": "active",
-		"image_url": "https:\/\/fortress.wa.gov\/dfw\/score\/score\/images\/noaa_logo.png",
+		"image_url": "https://fortress.wa.gov/dfw/score/score/images/noaa_logo.png",
 		"revision_id": "c6d43080-22e1-405e-a83d-f2a512d9e867",
 		"type": "organization",
 		"id": "e811f0b4-451f-4896-9e8f-fc6802837819",

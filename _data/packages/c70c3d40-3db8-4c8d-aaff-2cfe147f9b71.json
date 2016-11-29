@@ -37,7 +37,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2013-03-19T01:34:15.242036",
-		"url": "http:\/\/www.dggs.dnr.state.ak.us\/pubs\/pubs?reqtype=citation&ID=16301",
+		"url": "http://www.dggs.dnr.state.ak.us/pubs/pubs?reqtype=citation&ID=16301",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 0,
@@ -67,7 +67,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2013-03-19T01:34:15.242057",
-		"url": "http:\/\/www.dggs.dnr.state.ak.us\/pubs\/pubs?reqtype=citation&ID=16301",
+		"url": "http://www.dggs.dnr.state.ak.us/pubs/pubs?reqtype=citation&ID=16301",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 1,
@@ -100,7 +100,7 @@
 	"name": "preliminary-bathymetric-map-of-mother-goose-lake-alaska-peninsula",
 	"isopen": false,
 	"url": null,
-	"notes": "In preparation for bottom sediment coring at Mother Goose Lake, bathymetric data was collected using a Lowrance Sonar \"fishfinder\" (model LcX-17M) in August 2006 and August 2007. A 5-meter bathymetric contour map of the lake bottom was constructed using the GPS-sonar data in conjunction with field observations. The contour data and GPS location and depth data are provided in ESRI shapefile format for use in Geographic Information System (GIS) software.",
+	"notes": "In preparation for bottom sediment coring at Mother Goose Lake, bathymetric data was collected using a Lowrance Sonar "fishfinder" (model LcX-17M) in August 2006 and August 2007. A 5-meter bathymetric contour map of the lake bottom was constructed using the GPS-sonar data in conjunction with field observations. The contour data and GPS location and depth data are provided in ESRI shapefile format for use in Geographic Information System (GIS) software.",
 	"license_title": null,
 	"extras": [{
 		"key": "bbox-east-long",
@@ -136,11 +136,11 @@
 	},
 	{
 		"key": "spatial",
-		"value": "{\"type\": \"Polygon\", \"coordinates\": [[[-157.403722, 57.178854], [-157.403722, 57.231361], [-157.233482, 57.231361], [-157.233482, 57.178854], [-157.403722, 57.178854]]]}"
+		"value": "{"type": "Polygon", "coordinates": [[[-157.403722, 57.178854], [-157.403722, 57.231361], [-157.233482, 57.231361], [-157.233482, 57.178854], [-157.403722, 57.178854]]]}"
 	},
 	{
 		"key": "access_constraints",
-		"value": "[\"Use Constraints: Any hard copies or published datasets utilizing these datasets shall clearly indicate their source. If the user has modified the data in any way, the user is obligated to describe the types of modifications the user has made. User specifically agrees not to misrepresent these datasets, nor to imply that changes made by the user were approved by the State of Alaska, Department of Natural Resources, Division of Geological & Geophysical Surveys.\", \"Access Constraints: This report, map, and\/or dataset are available directly from the State of Alaska, Department of Natural Resources, Division of Geological & Geophysical Surveys (see contact information below).\"]"
+		"value": "["Use Constraints: Any hard copies or published datasets utilizing these datasets shall clearly indicate their source. If the user has modified the data in any way, the user is obligated to describe the types of modifications the user has made. User specifically agrees not to misrepresent these datasets, nor to imply that changes made by the user were approved by the State of Alaska, Department of Natural Resources, Division of Geological & Geophysical Surveys.", "Access Constraints: This report, map, and/or dataset are available directly from the State of Alaska, Department of Natural Resources, Division of Geological & Geophysical Surveys (see contact information below)."]"
 	},
 	{
 		"key": "temporal-extent-begin",
@@ -160,7 +160,7 @@
 	},
 	{
 		"key": "dataset-reference-date",
-		"value": "[{\"type\": \"publication\", \"value\": \"2008-01-01\"}]"
+		"value": "[{"type": "publication", "value": "2008-01-01"}]"
 	},
 	{
 		"key": "frequency-of-update",
@@ -168,7 +168,7 @@
 	},
 	{
 		"key": "licence",
-		"value": "[\"The State of Alaska makes no express or implied warranties (including warranties of merchantability and fitness) with respect to the character, function, or capabilities of the electronic services or products or their appropriateness for any user's purposes. In no event will the State of Alaska be liable for any incidental, indirect, special, consequential, or other damages suffered by the user or any other person or entity whether from the use of the electronic services or products, any failure thereof, or otherwise, and in no event will the State of Alaska's liability to the requester or anyone else exceed the fee paid for the electronic service or product.\"]"
+		"value": "["The State of Alaska makes no express or implied warranties (including warranties of merchantability and fitness) with respect to the character, function, or capabilities of the electronic services or products or their appropriateness for any user's purposes. In no event will the State of Alaska be liable for any incidental, indirect, special, consequential, or other damages suffered by the user or any other person or entity whether from the use of the electronic services or products, any failure thereof, or otherwise, and in no event will the State of Alaska's liability to the requester or anyone else exceed the fee paid for the electronic service or product."]"
 	},
 	{
 		"key": "metadata_type",
@@ -176,7 +176,7 @@
 	},
 	{
 		"key": "responsible-party",
-		"value": "[{\"name\": \"State of Alaska, Department of Natural Resources, Division of Geological & Geophysical Surveys\", \"roles\": [\"pointOfContact\"]}]"
+		"value": "[{"name": "State of Alaska, Department of Natural Resources, Division of Geological & Geophysical Surveys", "roles": ["pointOfContact"]}]"
 	},
 	{
 		"key": "temporal-extent-end",

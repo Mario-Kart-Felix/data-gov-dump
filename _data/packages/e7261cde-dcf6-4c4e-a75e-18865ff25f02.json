@@ -36,7 +36,7 @@
 		"cache_url": null,
 		"name": "shapefile",
 		"created": "2016-02-17T01:24:52.539264",
-		"url": "http:\/\/mrdata.usgs.gov\/ussoils\/ussoils.zip",
+		"url": "http://mrdata.usgs.gov/ussoils/ussoils.zip",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 0,
@@ -66,7 +66,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2016-02-17T01:24:52.539305",
-		"url": "http:\/\/mrdata.usgs.gov\/ussoils\/",
+		"url": "http://mrdata.usgs.gov/ussoils/",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 1,
@@ -86,7 +86,7 @@
 	"name": "chemical-analyses-of-soils-and-other-surficial-materials-of-the-conterminous-united-states78535",
 	"isopen": false,
 	"url": null,
-	"notes": "This data set contains geochemical data from soils and other regoliths collected and analyzed by Hans Shacklette and colleagues beginning in 1958 and continuing until about 1976. Geochemical point-symbol maps were plotted from these data and published as U.S.G.S. Professional Paper 1270 entitled \"Element Concentrations in Soils and Other Surficial Materials of the Conterminous United States\". The samples were collected at a depth of about 20 cm from sites that, insofar as possible, had surficial materials that were very little altered from their natural condition and that supported native plants. The sample material at most sites could be termed \"soil\" because it was a mixture of disintegrated rock and organic matter. Some of the sampled deposits, however, were not soils as defined above, but were other regolith types. These included desert sands, sand dunes, some loess deposits, and beach and alluvial deposits that contained little or no visible organic material. The samples were chemically analyzed by a variety of techniques in the U.S. Geological Survey laboratories in Denver, CO.",
+	"notes": "This data set contains geochemical data from soils and other regoliths collected and analyzed by Hans Shacklette and colleagues beginning in 1958 and continuing until about 1976. Geochemical point-symbol maps were plotted from these data and published as U.S.G.S. Professional Paper 1270 entitled "Element Concentrations in Soils and Other Surficial Materials of the Conterminous United States". The samples were collected at a depth of about 20 cm from sites that, insofar as possible, had surficial materials that were very little altered from their natural condition and that supported native plants. The sample material at most sites could be termed "soil" because it was a mixture of disintegrated rock and organic matter. Some of the sampled deposits, however, were not soils as defined above, but were other regolith types. These included desert sands, sand dunes, some loess deposits, and beach and alluvial deposits that contained little or no visible organic material. The samples were chemically analyzed by a variety of techniques in the U.S. Geological Survey laboratories in Denver, CO.",
 	"license_title": null,
 	"extras": [{
 		"key": "bbox-east-long",
@@ -122,7 +122,7 @@
 	},
 	{
 		"key": "spatial",
-		"value": "{\"type\": \"Polygon\", \"coordinates\": [[[-125.0, 25.0], [-67.0, 25.0], [-67.0, 49.0], [-125.0, 49.0], [-125.0, 25.0]]]}"
+		"value": "{"type": "Polygon", "coordinates": [[[-125.0, 25.0], [-67.0, 25.0], [-67.0, 49.0], [-125.0, 49.0], [-125.0, 25.0]]]}"
 	},
 	{
 		"key": "progress",
@@ -130,7 +130,7 @@
 	},
 	{
 		"key": "access_constraints",
-		"value": "[\"Use Constraints: None\", \"Access Constraints: None\"]"
+		"value": "["Use Constraints: None", "Access Constraints: None"]"
 	},
 	{
 		"key": "temporal-extent-begin",
@@ -150,7 +150,7 @@
 	},
 	{
 		"key": "dataset-reference-date",
-		"value": "[{\"type\": \"publication\", \"value\": \"1981-01-01\"}]"
+		"value": "[{"type": "publication", "value": "1981-01-01"}]"
 	},
 	{
 		"key": "frequency-of-update",
@@ -158,7 +158,7 @@
 	},
 	{
 		"key": "licence",
-		"value": "[\"The U.S. Geological Survey (USGS) provides these data \\\"as is\\\".  The\\nUSGS makes no guarantee or warranty concerning the accuracy of\\ninformation contained in the geographic data.  The USGS further\\nmakes no warranties, either expressed or implied as to any other\\nmatter, whatsoever, including, without limitation, the condition of\\nthe product, or its fitness for any particular purpose.  The burden\\nfor determining fitness for use lies entirely with the user.\"]"
+		"value": "["The U.S. Geological Survey (USGS) provides these data \"as is\".  The\nUSGS makes no guarantee or warranty concerning the accuracy of\ninformation contained in the geographic data.  The USGS further\nmakes no warranties, either expressed or implied as to any other\nmatter, whatsoever, including, without limitation, the condition of\nthe product, or its fitness for any particular purpose.  The burden\nfor determining fitness for use lies entirely with the user."]"
 	},
 	{
 		"key": "metadata_type",
@@ -166,7 +166,7 @@
 	},
 	{
 		"key": "responsible-party",
-		"value": "[{\"name\": \"U.S. Geological Survey\", \"roles\": [\"pointOfContact\"]}]"
+		"value": "[{"name": "U.S. Geological Survey", "roles": ["pointOfContact"]}]"
 	},
 	{
 		"key": "temporal-extent-end",
@@ -205,14 +205,14 @@
 		"value": "Mineral Resources Online Spatial Data"
 	}],
 	"organization": {
-		"description": "http:\/\/www.usgs.gov\/\r\nThe USGS is a federal science agency that provides impartial information on the health of our ecosystems and environment, the natural hazards that threaten us, the natural resources we rely on, the impacts of climate and land-use change, and the core science systems that help us provide timely, relevant, and useable information.",
+		"description": "http://www.usgs.gov/rnThe USGS is a federal science agency that provides impartial information on the health of our ecosystems and environment, the natural hazards that threaten us, the natural resources we rely on, the impacts of climate and land-use change, and the core science systems that help us provide timely, relevant, and useable information.",
 		"created": "2013-03-14T03:44:38.263357",
 		"title": "U.S. Geological Survey, Department of the Interior",
 		"name": "usgs-gov",
 		"revision_timestamp": "2014-09-02T13:43:52.167023",
 		"is_organization": true,
 		"state": "active",
-		"image_url": "http:\/\/pubs.usgs.gov\/sir\/2004\/5296\/04-5296_confluence_park\/usgs_logo.gif",
+		"image_url": "http://pubs.usgs.gov/sir/2004/5296/04-5296_confluence_park/usgs_logo.gif",
 		"revision_id": "2858aa99-9501-4f96-82e5-9647b968ed66",
 		"type": "organization",
 		"id": "bd2cdd5a-4d65-46c0-9937-c8381175f104",

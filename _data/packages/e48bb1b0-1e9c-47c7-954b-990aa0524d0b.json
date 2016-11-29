@@ -24,7 +24,7 @@
 		"state": "active",
 		"last_modified": null,
 		"hash": "",
-		"description": "The cartographic boundary files contain geographic data only and do not include display mapping software or statistical\n                                             data.  For information on how to use cartographic boundary file data with specific software package users shall contact the\n                                             company that produced the software.\n                        ",
+		"description": "The cartographic boundary files contain geographic data only and do not include display mapping software or statisticaln                                             data.  For information on how to use cartographic boundary file data with specific software package users shall contact then                                             company that produced the software.n                        ",
 		"format": "ZIP",
 		"tracking_summary": {
 			"total": 0,
@@ -36,7 +36,7 @@
 		"cache_url": null,
 		"name": "Keyhole Markup Language (KML)",
 		"created": "2016-08-04T08:57:50.039981",
-		"url": "http:\/\/www2.census.gov\/geo\/tiger\/GENZ2015\/kml\/cb_2015_us_csa_500k.zip",
+		"url": "http://www2.census.gov/geo/tiger/GENZ2015/kml/cb_2015_us_csa_500k.zip",
 		"webstore_url": null,
 		"resource_locator_function": "download",
 		"position": 0,
@@ -53,7 +53,7 @@
 		"state": "active",
 		"last_modified": null,
 		"hash": "",
-		"description": "Simplified representations of selected geographic areas from the Census Bureau's MAF\/TIGER geographic database",
+		"description": "Simplified representations of selected geographic areas from the Census Bureau's MAF/TIGER geographic database",
 		"format": "HTML",
 		"tracking_summary": {
 			"total": 167,
@@ -65,7 +65,7 @@
 		"cache_url": null,
 		"name": "Cartographic Boundary Shapefiles",
 		"created": "2016-08-04T08:57:50.040018",
-		"url": "http:\/\/www.census.gov\/geo\/maps-data\/data\/tiger-cart-boundary.html",
+		"url": "http://www.census.gov/geo/maps-data/data/tiger-cart-boundary.html",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 1,
@@ -94,7 +94,7 @@
 		"cache_url": null,
 		"name": "Feature Catalog for the 2015 Combined Statistical Area 1:500,000 KML File",
 		"created": "2016-08-04T08:57:50.040028",
-		"url": "http:\/\/meta.geo.census.gov\/data\/existing\/decennial\/GEO\/CPMB\/boundary\/2016gz\/kml_csa_500\/cb_2015_us_csa_500k.kml.ea.iso.xml",
+		"url": "http://meta.geo.census.gov/data/existing/decennial/GEO/CPMB/boundary/2016gz/kml_csa_500/cb_2015_us_csa_500k.kml.ea.iso.xml",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 2,
@@ -114,7 +114,7 @@
 	"name": "2015-cartographic-boundary-file-combined-statistical-area-for-united-states-1-500000b2692",
 	"isopen": false,
 	"url": null,
-	"notes": "The 2015 cartographic boundary KMLs are simplified representations of selected geographic areas from the U.S. Census Bureau's Master\n                                 Address File \/ Topologically Integrated Geographic Encoding and Referencing (MAF\/TIGER) Database (MTDB). These boundary files are\n                                 specifically designed for small-scale thematic mapping. When possible, generalization is performed with the intent to maintain the\n                                 hierarchical relationships among geographies and to maintain the alignment of geographies within a file set for a given year.\n                                 Geographic areas may not align with the same areas from another year. Some geographies are available as nation-based files while others\n                                 are available only as state-based files.\n\n                                 Combined Statistical Areas (CSAs) are defined by the Office of Management and Budget (OMB) and consist of two or more adjacent Core\n                                 Based Statistical Areas (CBSAs) that have significant employment interchanges.  The CBSAs that combine to create a CSA retain separate\n                                 identities within the larger CSA.  Because CSAs represent groupings of CBSAs, they should not be ranked or compared with individual\n                                 CBSAs.\n            ",
+	"notes": "The 2015 cartographic boundary KMLs are simplified representations of selected geographic areas from the U.S. Census Bureau's Mastern                                 Address File / Topologically Integrated Geographic Encoding and Referencing (MAF/TIGER) Database (MTDB). These boundary files aren                                 specifically designed for small-scale thematic mapping. When possible, generalization is performed with the intent to maintain then                                 hierarchical relationships among geographies and to maintain the alignment of geographies within a file set for a given year.n                                 Geographic areas may not align with the same areas from another year. Some geographies are available as nation-based files while othersn                                 are available only as state-based files.nn                                 Combined Statistical Areas (CSAs) are defined by the Office of Management and Budget (OMB) and consist of two or more adjacent Coren                                 Based Statistical Areas (CBSAs) that have significant employment interchanges.  The CBSAs that combine to create a CSA retain separaten                                 identities within the larger CSA.  Because CSAs represent groupings of CBSAs, they should not be ranked or compared with individualn                                 CBSAs.n            ",
 	"license_title": null,
 	"extras": [{
 		"key": "bbox-east-long",
@@ -150,7 +150,7 @@
 	},
 	{
 		"key": "spatial",
-		"value": "{\"type\": \"Polygon\", \"coordinates\": [[[-179.148909, -14.548699], [179.77847, -14.548699], [179.77847, 71.365162], [-179.148909, 71.365162], [-179.148909, -14.548699]]]}"
+		"value": "{"type": "Polygon", "coordinates": [[[-179.148909, -14.548699], [179.77847, -14.548699], [179.77847, 71.365162], [-179.148909, 71.365162], [-179.148909, -14.548699]]]}"
 	},
 	{
 		"key": "progress",
@@ -158,7 +158,7 @@
 	},
 	{
 		"key": "access_constraints",
-		"value": "[\" Access Constraints: None\", \" Use Constraints:The intended display scale for this file is 1:500,000.  This file should not be displayed at scales larger than\\n                                        1:500,000.\\n\\n                                        These products are free to use in a product or publication, however acknowledgement must be given to the U.S. Census Bureau as\\n                                        the source.  The boundary information is for visual display at appropriate small scales only.  Cartographic boundary files\\n                                        should not be used for geographic analysis including area or perimeter calculation.  Files should not be used for geocoding\\n                                        addresses.  Files should not be used for determining precise geographic area relationships.\\n                  \"]"
+		"value": "[" Access Constraints: None", " Use Constraints:The intended display scale for this file is 1:500,000.  This file should not be displayed at scales larger than\n                                        1:500,000.\n\n                                        These products are free to use in a product or publication, however acknowledgement must be given to the U.S. Census Bureau as\n                                        the source.  The boundary information is for visual display at appropriate small scales only.  Cartographic boundary files\n                                        should not be used for geographic analysis including area or perimeter calculation.  Files should not be used for geocoding\n                                        addresses.  Files should not be used for determining precise geographic area relationships.\n                  "]"
 	},
 	{
 		"key": "temporal-extent-begin",
@@ -178,7 +178,7 @@
 	},
 	{
 		"key": "dataset-reference-date",
-		"value": "[{\"type\": \"publication\", \"value\": \"201603\"}]"
+		"value": "[{"type": "publication", "value": "201603"}]"
 	},
 	{
 		"key": "frequency-of-update",
@@ -236,7 +236,7 @@
 		"revision_timestamp": "2013-08-29T13:37:04.171127",
 		"is_organization": true,
 		"state": "active",
-		"image_url": "http:\/\/www.census.gov\/main\/img\/home\/CensusLogo-white.png",
+		"image_url": "http://www.census.gov/main/img/home/CensusLogo-white.png",
 		"revision_id": "0995f525-d563-4254-a535-af5b926fe663",
 		"type": "organization",
 		"id": "31c49abe-512a-412a-9cc7-5b2601325d6b",

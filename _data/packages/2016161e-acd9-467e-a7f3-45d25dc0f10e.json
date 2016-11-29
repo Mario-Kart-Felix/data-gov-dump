@@ -37,7 +37,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2015-09-26T20:31:38.863835",
-		"url": "http:\/\/coastalscience.noaa.gov\/projects\/detail?key=33",
+		"url": "http://coastalscience.noaa.gov/projects/detail?key=33",
 		"webstore_url": null,
 		"resource_locator_function": "information",
 		"position": 0,
@@ -67,7 +67,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2015-09-26T20:31:38.863858",
-		"url": "http:\/\/www.coris.noaa.gov\/metadata\/records\/ISO\/html\/orthomosaic_fishbay_p3m_iso.html",
+		"url": "http://www.coris.noaa.gov/metadata/records/ISO/html/orthomosaic_fishbay_p3m_iso.html",
 		"webstore_url": null,
 		"resource_locator_function": "information",
 		"position": 1,
@@ -97,7 +97,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2015-09-26T20:31:38.863867",
-		"url": "http:\/\/coastalscience.noaa.gov\/projects\/detail?key=33",
+		"url": "http://coastalscience.noaa.gov/projects/detail?key=33",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 2,
@@ -119,7 +119,7 @@
 		"revision_timestamp": "2013-03-25T23:05:12.923863",
 		"is_organization": true,
 		"state": "active",
-		"image_url": "https:\/\/fortress.wa.gov\/dfw\/score\/score\/images\/noaa_logo.png",
+		"image_url": "https://fortress.wa.gov/dfw/score/score/images/noaa_logo.png",
 		"revision_id": "c6d43080-22e1-405e-a83d-f2a512d9e867",
 		"type": "organization",
 		"id": "e811f0b4-451f-4896-9e8f-fc6802837819",
@@ -130,7 +130,7 @@
 	"name": "orthophoto-mosaic-2012-for-fish-bay-st-john",
 	"isopen": false,
 	"url": null,
-	"notes": "This 0.3x0.3 meter imagery mosaic of Fish Bay, St. John in the U.S. Virgin Islands was created by the National Oceanic and Atmospheric Administration (NOAA) using a collection of orthophotos collected by the U.S. Army Corps of Engineers in 2012. This collection of orthophotos included: o134-004_NAD83.tif and o238-007_NAD83.tif. Sun glint was removed from each scene using the process described in: Hedley, J.D., A.R. Harborne and P.J. Mumby. 2005. Simple and robust removal of sun glint for mapping shallow-water benthos. International Journal of Remote Sensing 26(10): 2107 - 2112. The mosaic was created in ENVI 5.0.An orthophoto is remotely sensed image data in which displacement of features in the image caused by terrain relief and sensor orientation have been mathematically removed. Orthophotography combines the image characteristics of a photograph with the geometric qualities of a map. Each orthophoto provides imagery for a standard USGS 1\/16th quadrangle map. The imagery was captured at 12-bit radiometric resolution and converted to 8-bit radiometric resolution during post processing. The imagery was captured with 60% forward overlap between adjacent scenes and 30% sidelap between all adjacent flight lines. The imagery was obtained and processed by all digital means beginning with data acquisition using a Z\/I Imaging DMC-II 230 digital sensor. The orthophotos are available in GeoTIFF form. The projected coordinate system is State Plane Puerto Rico \/ US Virgin Islands (Zone 5200), NAD 83, GRS 80, Units Meters.",
+	"notes": "This 0.3x0.3 meter imagery mosaic of Fish Bay, St. John in the U.S. Virgin Islands was created by the National Oceanic and Atmospheric Administration (NOAA) using a collection of orthophotos collected by the U.S. Army Corps of Engineers in 2012. This collection of orthophotos included: o134-004_NAD83.tif and o238-007_NAD83.tif. Sun glint was removed from each scene using the process described in: Hedley, J.D., A.R. Harborne and P.J. Mumby. 2005. Simple and robust removal of sun glint for mapping shallow-water benthos. International Journal of Remote Sensing 26(10): 2107 - 2112. The mosaic was created in ENVI 5.0.An orthophoto is remotely sensed image data in which displacement of features in the image caused by terrain relief and sensor orientation have been mathematically removed. Orthophotography combines the image characteristics of a photograph with the geometric qualities of a map. Each orthophoto provides imagery for a standard USGS 1/16th quadrangle map. The imagery was captured at 12-bit radiometric resolution and converted to 8-bit radiometric resolution during post processing. The imagery was captured with 60% forward overlap between adjacent scenes and 30% sidelap between all adjacent flight lines. The imagery was obtained and processed by all digital means beginning with data acquisition using a Z/I Imaging DMC-II 230 digital sensor. The orthophotos are available in GeoTIFF form. The projected coordinate system is State Plane Puerto Rico / US Virgin Islands (Zone 5200), NAD 83, GRS 80, Units Meters.",
 	"owner_org": "e811f0b4-451f-4896-9e8f-fc6802837819",
 	"extras": [{
 		"key": "bbox-east-long",
@@ -166,7 +166,7 @@
 	},
 	{
 		"key": "spatial",
-		"value": "{\"type\": \"Polygon\", \"coordinates\": [[[-64.738675, 18.297689], [-64.646208, 18.297689], [-64.646208, 18.380585], [-64.738675, 18.380585], [-64.738675, 18.297689]]]}"
+		"value": "{"type": "Polygon", "coordinates": [[[-64.738675, 18.297689], [-64.646208, 18.297689], [-64.646208, 18.380585], [-64.738675, 18.380585], [-64.738675, 18.297689]]]}"
 	},
 	{
 		"key": "progress",
@@ -194,7 +194,7 @@
 	},
 	{
 		"key": "dataset-reference-date",
-		"value": "[{\"type\": \"publication\", \"value\": \"2013-11-30\"}]"
+		"value": "[{"type": "publication", "value": "2013-11-30"}]"
 	},
 	{
 		"key": "frequency-of-update",
@@ -202,7 +202,7 @@
 	},
 	{
 		"key": "licence",
-		"value": "[\"NOT TO BE USED FOR NAVIGATION. Acknowledgment of the United States Army Corps of Engineers would be appreciated for products derived from these data.\"]"
+		"value": "["NOT TO BE USED FOR NAVIGATION. Acknowledgment of the United States Army Corps of Engineers would be appreciated for products derived from these data."]"
 	},
 	{
 		"key": "metadata_type",
@@ -210,7 +210,7 @@
 	},
 	{
 		"key": "responsible-party",
-		"value": "[{\"name\": \"U.S. Army Corps of Engineers, Jacksonville District, Geomatics Section\", \"roles\": [\"originator\"]}]"
+		"value": "[{"name": "U.S. Army Corps of Engineers, Jacksonville District, Geomatics Section", "roles": ["originator"]}]"
 	},
 	{
 		"key": "temporal-extent-end",
@@ -226,7 +226,7 @@
 	},
 	{
 		"key": "tags",
-		"value": "atlantic ocean, airborne digital remote sensing, virgin islands, reef monitoring and assessment, biosphere, country\/territory, aerial photographs, remote sensing, united states of america, january 2012 - march 2012, st. john, corals, aircraft, st. john (18n064w0011), ocean basin, caribbean sea, zoology, u. s. virgin islands, downloadable data, map images, earth science",
+		"value": "atlantic ocean, airborne digital remote sensing, virgin islands, reef monitoring and assessment, biosphere, country/territory, aerial photographs, remote sensing, united states of america, january 2012 - march 2012, st. john, corals, aircraft, st. john (18n064w0011), ocean basin, caribbean sea, zoology, u. s. virgin islands, downloadable data, map images, earth science",
 		"__extras": {
 			"revision_id": "90f3f733-2983-4090-bc7b-10caff76d4e6",
 			"package_id": "2016161e-acd9-467e-a7f3-45d25dc0f10e"

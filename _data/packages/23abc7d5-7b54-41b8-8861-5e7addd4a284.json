@@ -37,7 +37,7 @@
 		"cache_url": null,
 		"name": "Text File",
 		"created": "2015-12-20T13:33:54.745428",
-		"url": "ftp:\/\/ftp.ncdc.noaa.gov\/pub\/data\/paleo\/coral\/west_pacific\/nauru_1999b.txt",
+		"url": "ftp://ftp.ncdc.noaa.gov/pub/data/paleo/coral/west_pacific/nauru_1999b.txt",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 0,
@@ -59,7 +59,7 @@
 		"revision_timestamp": "2013-03-25T23:05:12.923863",
 		"is_organization": true,
 		"state": "active",
-		"image_url": "https:\/\/fortress.wa.gov\/dfw\/score\/score\/images\/noaa_logo.png",
+		"image_url": "https://fortress.wa.gov/dfw/score/score/images/noaa_logo.png",
 		"revision_id": "c6d43080-22e1-405e-a83d-f2a512d9e867",
 		"type": "organization",
 		"id": "e811f0b4-451f-4896-9e8f-fc6802837819",
@@ -70,11 +70,11 @@
 	"name": "nauru-island-isotope-delta-18o-delta-13c-data-for-1891-to-1995",
 	"isopen": false,
 	"url": null,
-	"notes": "Nauru coral stable isotope timeseries. (166E, 0.5S, 14m bottom depth). Coral stable isotope analyses on untreated, low-speed drilled samples. Precision is +\/- 0.05 per mil as documented by an in-house homogenized coral standard, and presented relative to V-PDB (NBS-19 normalized). Oxygen isotope data has NOT been corrected for the acid fractionation difference (\"acid-alpha\") between standards (calcite) and coral samples (aragonite). Cores were taken from two ~2meter Porites corals on the north side of Nauru Island (166E 0.5S), 14m bottom depth, in July of 1995 by D. Schrag M. Moore. Nauru-1 has been identified as Porites australiensis, Nauru-2 is Porites spp. Cores were split and cleaned with distilled water. Samples were drilled using a low-speed drill along the major vertical growth axis. Nauru-1 (1.85 meters) was sampled sequentially at 1 mm increments for the upper 750 mm, and 5mm continous samples for the remainder. Nauru-2 (1.61 meters) was sampled continously at 2 mm increments. Data is presented to time. The long Nauru-1 record (Nauru WDCA pt_3) is presented as a quarterly interpolated record, the least common sampling resolution of the whole sequence.",
+	"notes": "Nauru coral stable isotope timeseries. (166E, 0.5S, 14m bottom depth). Coral stable isotope analyses on untreated, low-speed drilled samples. Precision is +/- 0.05 per mil as documented by an in-house homogenized coral standard, and presented relative to V-PDB (NBS-19 normalized). Oxygen isotope data has NOT been corrected for the acid fractionation difference ("acid-alpha") between standards (calcite) and coral samples (aragonite). Cores were taken from two ~2meter Porites corals on the north side of Nauru Island (166E 0.5S), 14m bottom depth, in July of 1995 by D. Schrag M. Moore. Nauru-1 has been identified as Porites australiensis, Nauru-2 is Porites spp. Cores were split and cleaned with distilled water. Samples were drilled using a low-speed drill along the major vertical growth axis. Nauru-1 (1.85 meters) was sampled sequentially at 1 mm increments for the upper 750 mm, and 5mm continous samples for the remainder. Nauru-2 (1.61 meters) was sampled continously at 2 mm increments. Data is presented to time. The long Nauru-1 record (Nauru WDCA pt_3) is presented as a quarterly interpolated record, the least common sampling resolution of the whole sequence.",
 	"owner_org": "e811f0b4-451f-4896-9e8f-fc6802837819",
 	"extras": [{
 		"key": "bbox-east-long",
-		"value": "\n          166\n        "
+		"value": "n          166n        "
 	},
 	{
 		"key": "resource-type",
@@ -82,7 +82,7 @@
 	},
 	{
 		"key": "bbox-north-lat",
-		"value": "\n          -.05\n        "
+		"value": "n          -.05n        "
 	},
 	{
 		"key": "coupled-resource",
@@ -98,7 +98,7 @@
 	},
 	{
 		"key": "bbox-south-lat",
-		"value": "\n          -.05\n        "
+		"value": "n          -.05n        "
 	},
 	{
 		"key": "spatial-reference-system",
@@ -106,7 +106,7 @@
 	},
 	{
 		"key": "spatial",
-		"value": "{\"type\": \"Point\", \"coordinates\": [166.0, -0.05]}"
+		"value": "{"type": "Point", "coordinates": [166.0, -0.05]}"
 	},
 	{
 		"key": "progress",
@@ -114,7 +114,7 @@
 	},
 	{
 		"key": "access_constraints",
-		"value": "[\"Use Constraints: Please cite original reference when using this data\", \"Access Constraints: None\"]"
+		"value": "["Use Constraints: Please cite original reference when using this data", "Access Constraints: None"]"
 	},
 	{
 		"key": "temporal-extent-begin",
@@ -126,7 +126,7 @@
 	},
 	{
 		"key": "bbox-west-long",
-		"value": "\n          166\n        "
+		"value": "n          166n        "
 	},
 	{
 		"key": "metadata-date",
@@ -134,7 +134,7 @@
 	},
 	{
 		"key": "dataset-reference-date",
-		"value": "[{\"type\": \"publication\", \"value\": \"1999-08-01\"}]"
+		"value": "[{"type": "publication", "value": "1999-08-01"}]"
 	},
 	{
 		"key": "frequency-of-update",
@@ -142,7 +142,7 @@
 	},
 	{
 		"key": "licence",
-		"value": "[\"\\n      Disclaimer- While every effort has been made to ensure that these data are accurate and reliable within the limits of the current state of the art, NOAA cannot assume liability for any damages caused by any erro\\n    \"]"
+		"value": "["\n      Disclaimer- While every effort has been made to ensure that these data are accurate and reliable within the limits of the current state of the art, NOAA cannot assume liability for any damages caused by any erro\n    "]"
 	},
 	{
 		"key": "metadata_type",
@@ -150,7 +150,7 @@
 	},
 	{
 		"key": "responsible-party",
-		"value": "[{\"name\": \"NOAA Paleoclimatology Program\", \"roles\": [\"pointOfContact\"]}]"
+		"value": "[{"name": "NOAA Paleoclimatology Program", "roles": ["pointOfContact"]}]"
 	},
 	{
 		"key": "temporal-extent-end",
@@ -166,7 +166,7 @@
 	},
 	{
 		"key": "tags",
-		"value": "coral records, pacific ocean, numeric data sets, delta 18o, nauru (00s166e0000), holocene, modern, country\/territory, paleoclimate, paleoclimatology, delta 13c, central pacific ocean, ocean basin, nauru, earth science",
+		"value": "coral records, pacific ocean, numeric data sets, delta 18o, nauru (00s166e0000), holocene, modern, country/territory, paleoclimate, paleoclimatology, delta 13c, central pacific ocean, ocean basin, nauru, earth science",
 		"__extras": {
 			"package_id": "23abc7d5-7b54-41b8-8861-5e7addd4a284",
 			"revision_id": "b0ab62b8-62a3-4f4f-9b15-caa63563c0b9"

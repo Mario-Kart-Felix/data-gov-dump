@@ -37,7 +37,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2013-03-15T15:32:18.732702",
-		"url": "http:\/\/www.vcgi.org\/dataware\/default.cfm?layer=LandLanduse_BUILTUP",
+		"url": "http://www.vcgi.org/dataware/default.cfm?layer=LandLanduse_BUILTUP",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 0,
@@ -67,7 +67,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2013-03-15T15:32:18.732725",
-		"url": "http:\/\/www.vcgi.org\/dataware\/default.cfm?layer=Land_BUILTUP_poly&mapit=yes",
+		"url": "http://www.vcgi.org/dataware/default.cfm?layer=Land_BUILTUP_poly&mapit=yes",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 1,
@@ -97,7 +97,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2013-03-15T15:32:18.732733",
-		"url": "http:\/\/www.vt.nrcs.usda.gov\/technical\/NRI\/NRI_Index.html",
+		"url": "http://www.vt.nrcs.usda.gov/technical/NRI/NRI_Index.html",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 2,
@@ -124,7 +124,7 @@
 		"revision_timestamp": "2013-03-27T17:47:03.718032",
 		"is_organization": true,
 		"state": "active",
-		"image_url": "http:\/\/vcgi.vermont.gov\/sites\/all\/themes\/vt_template\/logo.png",
+		"image_url": "http://vcgi.vermont.gov/sites/all/themes/vt_template/logo.png",
 		"revision_id": "c5dfbbb0-f1e0-4db6-b566-e932e1520060",
 		"type": "organization",
 		"id": "0c3a4ebc-9929-4f21-bdd0-76a35d52f57d",
@@ -135,7 +135,7 @@
 	"name": "landlanduse-builtup",
 	"isopen": false,
 	"url": null,
-	"notes": "NRCS mapped historical and current-day built-up lands for Grand Isle County, VT using several vintages of aerial photography: 1941, 1962, 1974, 1977, 1980, 1986, 1995, and 2003. The mapping was done using definitions and protocols established by NRCS in its conduct of the National Resources Inventory (NRI), a statistically based survey, designed and implemented to assess the conditions and trends of soil, water, and related resources on non-federal lands. Two land cover\/use categories from the NRI (\"urban and small built-up\" and \"farmsteads\") were combined and mapped as 'Built-up'. NRI minimum built-up densities were not adhered to. In addition, total 'developed' lands for 2003 were mapped by integrating the mapped built-up data with roads, both public and private. An approximate 15-page report on definitions, mapping tools and ancillary materials, mapping methodology, and results is included with the data distributed by VCGI. Prepared results include tabular information on built-up change for the County and each of its five towns, 2003 road data, and a graphic depicting built-up acreage changes from 1941-2003. See Builtup_Documentation.doc & Builtup_Prepared_Results.xls included with the data zip file. VCGI converted the orginial NRCS shapefiles to Arc\/Info coverage region subclasses. The region naming convention for built-up data is: region.b<yearname>, for the developed 2003 data the naming convention is: region.dev2003. This \"feature dataset\" approach allows multiple data sources to be treated as one data set.",
+	"notes": "NRCS mapped historical and current-day built-up lands for Grand Isle County, VT using several vintages of aerial photography: 1941, 1962, 1974, 1977, 1980, 1986, 1995, and 2003. The mapping was done using definitions and protocols established by NRCS in its conduct of the National Resources Inventory (NRI), a statistically based survey, designed and implemented to assess the conditions and trends of soil, water, and related resources on non-federal lands. Two land cover/use categories from the NRI ("urban and small built-up" and "farmsteads") were combined and mapped as 'Built-up'. NRI minimum built-up densities were not adhered to. In addition, total 'developed' lands for 2003 were mapped by integrating the mapped built-up data with roads, both public and private. An approximate 15-page report on definitions, mapping tools and ancillary materials, mapping methodology, and results is included with the data distributed by VCGI. Prepared results include tabular information on built-up change for the County and each of its five towns, 2003 road data, and a graphic depicting built-up acreage changes from 1941-2003. See Builtup_Documentation.doc & Builtup_Prepared_Results.xls included with the data zip file. VCGI converted the orginial NRCS shapefiles to Arc/Info coverage region subclasses. The region naming convention for built-up data is: region.b<yearname>, for the developed 2003 data the naming convention is: region.dev2003. This "feature dataset" approach allows multiple data sources to be treated as one data set.",
 	"owner_org": "0c3a4ebc-9929-4f21-bdd0-76a35d52f57d",
 	"extras": [{
 		"key": "bbox-east-long",
@@ -159,7 +159,7 @@
 	},
 	{
 		"key": "graphic-preview-file",
-		"value": "http:\/\/maps.vcgi.org:8080\/wmsconnector"
+		"value": "http://maps.vcgi.org:8080/wmsconnector"
 	},
 	{
 		"key": "bbox-south-lat",
@@ -171,11 +171,11 @@
 	},
 	{
 		"key": "spatial",
-		"value": "{\"type\": \"Polygon\", \"coordinates\": [[[-73.454162, 42.722789], [-73.454162, 45.018361], [-71.465281, 45.018361], [-71.465281, 42.722789], [-73.454162, 42.722789]]]}"
+		"value": "{"type": "Polygon", "coordinates": [[[-73.454162, 42.722789], [-73.454162, 45.018361], [-71.465281, 45.018361], [-71.465281, 42.722789], [-73.454162, 42.722789]]]}"
 	},
 	{
 		"key": "access_constraints",
-		"value": "[\"Use Constraints: None.\", \"Access Constraints: VCGI and the State of VT make no representations of any kind, including but not limited to the warranties of merchantability or fitness for a particular use, nor are any such warranties to be implied with respect to the data.\"]"
+		"value": "["Use Constraints: None.", "Access Constraints: VCGI and the State of VT make no representations of any kind, including but not limited to the warranties of merchantability or fitness for a particular use, nor are any such warranties to be implied with respect to the data."]"
 	},
 	{
 		"key": "temporal-extent-begin",
@@ -195,7 +195,7 @@
 	},
 	{
 		"key": "dataset-reference-date",
-		"value": "[{\"type\": \"publication\", \"value\": \"2005-05-01T\"}]"
+		"value": "[{"type": "publication", "value": "2005-05-01T"}]"
 	},
 	{
 		"key": "frequency-of-update",
@@ -203,7 +203,7 @@
 	},
 	{
 		"key": "licence",
-		"value": "[\"\\nVCGI and the State of Vermont make no representations of any kind,\\nincluding but not limited to the warranties of merchantability or\\nfitness for a particular use, nor are any such warranties to be\\nimplied with respect to the data.  User assumes responsibility\\non the appropriate use of built-up data. The built-up boundaries\\ndo not have legal standing and are based on aerial photo-intrepretation\\nof land cover\/uses, using definitions and protocols established by NRCS\\nin its conduct of the National Resources Inventory. Relationships\\nof built-up boundaries to boundaries of ownership, tax parcel,\\nland use\/zoning, adjacent land cover\/uses, and the like were not\\nconsidered nor are they implied.\\n\"]"
+		"value": "["\nVCGI and the State of Vermont make no representations of any kind,\nincluding but not limited to the warranties of merchantability or\nfitness for a particular use, nor are any such warranties to be\nimplied with respect to the data.  User assumes responsibility\non the appropriate use of built-up data. The built-up boundaries\ndo not have legal standing and are based on aerial photo-intrepretation\nof land cover/uses, using definitions and protocols established by NRCS\nin its conduct of the National Resources Inventory. Relationships\nof built-up boundaries to boundaries of ownership, tax parcel,\nland use/zoning, adjacent land cover/uses, and the like were not\nconsidered nor are they implied.\n"]"
 	},
 	{
 		"key": "metadata_type",
@@ -211,7 +211,7 @@
 	},
 	{
 		"key": "responsible-party",
-		"value": "[{\"name\": \"USDA-Natural Resources Conservation Service (NRCS)\", \"roles\": [\"pointOfContact\"]}]"
+		"value": "[{"name": "USDA-Natural Resources Conservation Service (NRCS)", "roles": ["pointOfContact"]}]"
 	},
 	{
 		"key": "temporal-extent-end",

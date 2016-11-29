@@ -37,7 +37,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2016-10-03T19:16:33.995818",
-		"url": "https:\/\/coast.noaa.gov\/slr",
+		"url": "https://coast.noaa.gov/slr",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 0,
@@ -67,7 +67,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2016-10-03T19:16:33.995850",
-		"url": "https:\/\/coast.noaa.gov\/digitalcoast\/tools\/slr",
+		"url": "https://coast.noaa.gov/digitalcoast/tools/slr",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 1,
@@ -97,7 +97,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2016-10-03T19:16:33.995859",
-		"url": "https:\/\/coast.noaa.gov\/slrdata",
+		"url": "https://coast.noaa.gov/slrdata",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 2,
@@ -127,7 +127,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2016-10-03T19:16:33.995867",
-		"url": "https:\/\/coast.noaa.gov",
+		"url": "https://coast.noaa.gov",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 3,
@@ -147,7 +147,7 @@
 	"name": "noaa-office-for-coastal-management-coastal-inundation-digital-elevation-model-philadelphia-penn",
 	"isopen": false,
 	"url": null,
-	"notes": "These data were created as part of the National Oceanic and Atmospheric Administration Coastal Services Center's efforts to create an online mapping viewer called the Sea Level Rise and Coastal Flooding Impacts Viewer. It depicts potential sea level rise and its associated impacts on the nation's coastal areas. The purpose of the mapping viewer is to provide coastal managers and scientists with a preliminary look at sea level rise (slr) and coastal flooding impacts. The viewer is a screening-level tool that uses nationally consistent data sets and analyses. Data and maps provided can be used at several scales to help gauge trends and prioritize actions for different scenarios. The Sea Level Rise and Coastal Flooding Impacts Viewer may be accessed at: https:\/\/coast.noaa.gov\/slr This digital elevation model (DEM) is a part of a series of DEMs produced for the National Oceanic and Atmospheric Administration Coastal Services Center's Sea Level Rise and Coastal Flooding Impacts Viewer described above. The DEM created for this project was developed using the NOAA National Weather Service's Weather Forecast Office (WFO) boundaries. This DEM includes the best available lidar data known to exist at the time of DEM creation that met project specifications, for the eastern shore of Maryland. This DEM falls in a portion of the Philadelphia, Pennsylvania (PHI) WFO and also in a portion of the Wakefield, Virginia (AKQ) WFO. The DEM covers the following Maryland counties: Cecil (portion) and Kent. This DEM is derived from multiple lidar datasets furnished by NOAA, the United States Army Corps of Engineers (USACE), and the United States Geological Survey (USGS). A list of lidar data sources can be found in the Process Lineage. Hydrographic breaklines were delineated using lidar intensity imagery generated from the lidar. The DEM is hydro flattened such that water elevations are less than or equal to 0 meters. The DEM is referenced vertically to the North American Vertical Datum of 1988 (NAVD88) with vertical units of meters and horizontally to the North American Datum of 1983 (NAD83). The resolution of the DEM is approximately 10 meters.",
+	"notes": "These data were created as part of the National Oceanic and Atmospheric Administration Coastal Services Center's efforts to create an online mapping viewer called the Sea Level Rise and Coastal Flooding Impacts Viewer. It depicts potential sea level rise and its associated impacts on the nation's coastal areas. The purpose of the mapping viewer is to provide coastal managers and scientists with a preliminary look at sea level rise (slr) and coastal flooding impacts. The viewer is a screening-level tool that uses nationally consistent data sets and analyses. Data and maps provided can be used at several scales to help gauge trends and prioritize actions for different scenarios. The Sea Level Rise and Coastal Flooding Impacts Viewer may be accessed at: https://coast.noaa.gov/slr This digital elevation model (DEM) is a part of a series of DEMs produced for the National Oceanic and Atmospheric Administration Coastal Services Center's Sea Level Rise and Coastal Flooding Impacts Viewer described above. The DEM created for this project was developed using the NOAA National Weather Service's Weather Forecast Office (WFO) boundaries. This DEM includes the best available lidar data known to exist at the time of DEM creation that met project specifications, for the eastern shore of Maryland. This DEM falls in a portion of the Philadelphia, Pennsylvania (PHI) WFO and also in a portion of the Wakefield, Virginia (AKQ) WFO. The DEM covers the following Maryland counties: Cecil (portion) and Kent. This DEM is derived from multiple lidar datasets furnished by NOAA, the United States Army Corps of Engineers (USACE), and the United States Geological Survey (USGS). A list of lidar data sources can be found in the Process Lineage. Hydrographic breaklines were delineated using lidar intensity imagery generated from the lidar. The DEM is hydro flattened such that water elevations are less than or equal to 0 meters. The DEM is referenced vertically to the North American Vertical Datum of 1988 (NAVD88) with vertical units of meters and horizontally to the North American Datum of 1983 (NAD83). The resolution of the DEM is approximately 10 meters.",
 	"license_title": null,
 	"extras": [{
 		"key": "bbox-east-long",
@@ -183,7 +183,7 @@
 	},
 	{
 		"key": "spatial",
-		"value": "{\"type\": \"Polygon\", \"coordinates\": [[[-76.3560076954, 38.9915765864], [-75.7547652757, 38.9915765864], [-75.7547652757, 39.7229848907], [-76.3560076954, 39.7229848907], [-76.3560076954, 38.9915765864]]]}"
+		"value": "{"type": "Polygon", "coordinates": [[[-76.3560076954, 38.9915765864], [-75.7547652757, 38.9915765864], [-75.7547652757, 39.7229848907], [-76.3560076954, 39.7229848907], [-76.3560076954, 38.9915765864]]]}"
 	},
 	{
 		"key": "progress",
@@ -191,7 +191,7 @@
 	},
 	{
 		"key": "access_constraints",
-		"value": "[\"Use Constraints: The dataset is provided as is, without warranty to its performance, merchantable state, or fitness for any particular purpose. The entire risk associated with the results and performance of this dataset is assumed by the user. This dataset should be used strictly as a planning reference and not for navigation, permitting, or other legal purposes.\", \"Access Constraints: None\"]"
+		"value": "["Use Constraints: The dataset is provided as is, without warranty to its performance, merchantable state, or fitness for any particular purpose. The entire risk associated with the results and performance of this dataset is assumed by the user. This dataset should be used strictly as a planning reference and not for navigation, permitting, or other legal purposes.", "Access Constraints: None"]"
 	},
 	{
 		"key": "temporal-extent-begin",
@@ -211,7 +211,7 @@
 	},
 	{
 		"key": "dataset-reference-date",
-		"value": "[{\"type\": \"publication\", \"value\": \"2013-01-01\"}]"
+		"value": "[{"type": "publication", "value": "2013-01-01"}]"
 	},
 	{
 		"key": "frequency-of-update",
@@ -219,7 +219,7 @@
 	},
 	{
 		"key": "licence",
-		"value": "[\"\\nAny conclusions drawn from the analysis of this information are not the responsibility of the NOAA Coastal Services Center\\nor its partners.\\n\"]"
+		"value": "["\nAny conclusions drawn from the analysis of this information are not the responsibility of the NOAA Coastal Services Center\nor its partners.\n"]"
 	},
 	{
 		"key": "metadata_type",
@@ -227,7 +227,7 @@
 	},
 	{
 		"key": "responsible-party",
-		"value": "[{\"name\": \"NOAA Coastal Services Center\", \"roles\": [\"pointOfContact\"]}]"
+		"value": "[{"name": "NOAA Coastal Services Center", "roles": ["pointOfContact"]}]"
 	},
 	{
 		"key": "temporal-extent-end",
@@ -243,7 +243,7 @@
 	},
 	{
 		"package_id": "eeecba19-19e0-43af-a244-155c7740125a",
-		"value": "sea level rise, cecil county, topography, elevation, inundation, us, lidar, bathymetry\/topography, dem, digital elevation model, maryland, kent county, flooding",
+		"value": "sea level rise, cecil county, topography, elevation, inundation, us, lidar, bathymetry/topography, dem, digital elevation model, maryland, kent county, flooding",
 		"revision_timestamp": "2016-10-03T23:16:33.580893",
 		"state": "active",
 		"key": "tags",
@@ -273,7 +273,7 @@
 		"revision_timestamp": "2013-03-25T23:05:12.923863",
 		"is_organization": true,
 		"state": "active",
-		"image_url": "https:\/\/fortress.wa.gov\/dfw\/score\/score\/images\/noaa_logo.png",
+		"image_url": "https://fortress.wa.gov/dfw/score/score/images/noaa_logo.png",
 		"revision_id": "c6d43080-22e1-405e-a83d-f2a512d9e867",
 		"type": "organization",
 		"id": "e811f0b4-451f-4896-9e8f-fc6802837819",

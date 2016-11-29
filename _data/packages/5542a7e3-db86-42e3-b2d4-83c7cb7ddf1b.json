@@ -37,7 +37,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2016-05-31T01:12:18.162781",
-		"url": "https:\/\/coast.noaa.gov\/dataviewer\/#\/imagery\/search\/where:ID=147",
+		"url": "https://coast.noaa.gov/dataviewer/#/imagery/search/where:ID=147",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 0,
@@ -67,7 +67,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2016-05-31T01:12:18.162821",
-		"url": "https:\/\/coast.noaa.gov\/htdata\/raster1\/imagery\/PortsmouthNH_MLLW_RGB_2008_147",
+		"url": "https://coast.noaa.gov/htdata/raster1/imagery/PortsmouthNH_MLLW_RGB_2008_147",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 1,
@@ -97,7 +97,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2016-05-31T01:12:18.162830",
-		"url": "https:\/\/coast.noaa.gov\/dataviewer",
+		"url": "https://coast.noaa.gov/dataviewer",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 2,
@@ -119,7 +119,7 @@
 		"revision_timestamp": "2013-03-25T23:05:12.923863",
 		"is_organization": true,
 		"state": "active",
-		"image_url": "https:\/\/fortress.wa.gov\/dfw\/score\/score\/images\/noaa_logo.png",
+		"image_url": "https://fortress.wa.gov/dfw/score/score/images/noaa_logo.png",
 		"revision_id": "c6d43080-22e1-405e-a83d-f2a512d9e867",
 		"type": "organization",
 		"id": "e811f0b4-451f-4896-9e8f-fc6802837819",
@@ -130,7 +130,7 @@
 	"name": "iocm-aerial-photography-new-hampshire-mllw-natural-color-integrated-ocean-and-coastal-mapping-p",
 	"isopen": false,
 	"url": null,
-	"notes": "Integrated Ocean and Coastal Mapping Product (IOCM). The images were acquired from a nominal altitude of 7,500 feet above ground level (AGL), using an Applanix Digital Sensor System (DSS). Imagery products are true color (RGB) and infrared (IR) images. Images have been orthorectified and mosaiced to produce a seamless data set. For information about combining the IR image and the RGB image into a 4 band NIR image, please download the IOCM Band Stack Guide document at this link: ftp:\/\/coast.noaa.gov\/temp\/metadata_supp",
+	"notes": "Integrated Ocean and Coastal Mapping Product (IOCM). The images were acquired from a nominal altitude of 7,500 feet above ground level (AGL), using an Applanix Digital Sensor System (DSS). Imagery products are true color (RGB) and infrared (IR) images. Images have been orthorectified and mosaiced to produce a seamless data set. For information about combining the IR image and the RGB image into a 4 band NIR image, please download the IOCM Band Stack Guide document at this link: ftp://coast.noaa.gov/temp/metadata_supp",
 	"owner_org": "e811f0b4-451f-4896-9e8f-fc6802837819",
 	"extras": [{
 		"key": "bbox-east-long",
@@ -166,7 +166,7 @@
 	},
 	{
 		"key": "spatial",
-		"value": "{\"type\": \"Polygon\", \"coordinates\": [[[-70.87508, 43.00226], [-70.62744, 43.00226], [-70.62744, 43.13489], [-70.87508, 43.13489], [-70.87508, 43.00226]]]}"
+		"value": "{"type": "Polygon", "coordinates": [[[-70.87508, 43.00226], [-70.62744, 43.00226], [-70.62744, 43.13489], [-70.87508, 43.13489], [-70.87508, 43.00226]]]}"
 	},
 	{
 		"key": "progress",
@@ -174,7 +174,7 @@
 	},
 	{
 		"key": "access_constraints",
-		"value": "[\"Use Constraints: We request that you credit the National Oceanic and Atmospheric Administration (NOAA) when you use these photos in a report, publication, or presentation.\", \"Access Constraints: None\"]"
+		"value": "["Use Constraints: We request that you credit the National Oceanic and Atmospheric Administration (NOAA) when you use these photos in a report, publication, or presentation.", "Access Constraints: None"]"
 	},
 	{
 		"key": "temporal-extent-begin",
@@ -194,7 +194,7 @@
 	},
 	{
 		"key": "dataset-reference-date",
-		"value": "[{\"type\": \"publication\", \"value\": \"2008-07-07\"}]"
+		"value": "[{"type": "publication", "value": "2008-07-07"}]"
 	},
 	{
 		"key": "frequency-of-update",
@@ -202,7 +202,7 @@
 	},
 	{
 		"key": "licence",
-		"value": "[\"Users must assume responsibility to determine the usability of these data.\"]"
+		"value": "["Users must assume responsibility to determine the usability of these data."]"
 	},
 	{
 		"key": "metadata_type",
@@ -210,7 +210,7 @@
 	},
 	{
 		"key": "responsible-party",
-		"value": "[{\"name\": \"National Oceanic and Atmospheric Administration (NOAA), National Ocean Service (NOS), National Geodetic Survey (NGS), Remote Sensing Division\", \"roles\": [\"pointOfContact\"]}]"
+		"value": "[{"name": "National Oceanic and Atmospheric Administration (NOAA), National Ocean Service (NOS), National Geodetic Survey (NGS), Remote Sensing Division", "roles": ["pointOfContact"]}]"
 	},
 	{
 		"key": "temporal-extent-end",
@@ -226,7 +226,7 @@
 	},
 	{
 		"key": "tags",
-		"value": "remotely sensed imagery\/photography, new hampshire, photography, aerial",
+		"value": "remotely sensed imagery/photography, new hampshire, photography, aerial",
 		"__extras": {
 			"revision_id": "11c6d42d-d29e-43a6-8b54-8e0452072fce",
 			"package_id": "5542a7e3-db86-42e3-b2d4-83c7cb7ddf1b"

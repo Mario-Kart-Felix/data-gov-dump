@@ -37,7 +37,7 @@
 		"cache_url": null,
 		"name": "Zip File",
 		"created": "2016-03-09T01:28:26.364995",
-		"url": "http:\/\/www.boem.gov\/ATL-PLAN.zip",
+		"url": "http://www.boem.gov/ATL-PLAN.zip",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 0,
@@ -67,7 +67,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2016-03-09T01:28:26.365029",
-		"url": "http:\/\/www.boem.gov\/Oil-and-Gas-Energy-Program\/Mapping-and-Data\/Atlantic.aspx",
+		"url": "http://www.boem.gov/Oil-and-Gas-Energy-Program/Mapping-and-Data/Atlantic.aspx",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 1,
@@ -97,7 +97,7 @@
 		"cache_url": null,
 		"name": "Esri Rest API Endpoint",
 		"created": "2016-03-09T01:28:26.365041",
-		"url": "http:\/\/gis.boemre.gov\/arcgis\/rest\/services\/BOEM_BSEE\/MMC_Layers\/MapServer\/20",
+		"url": "http://gis.boemre.gov/arcgis/rest/services/BOEM_BSEE/MMC_Layers/MapServer/20",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 2,
@@ -127,7 +127,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2016-03-09T01:28:26.365064",
-		"url": "http:\/\/www.boem.gov\/Oil-and-Gas-Energy-Program\/Mapping-and-Data\/Atlantic.aspx",
+		"url": "http://www.boem.gov/Oil-and-Gas-Energy-Program/Mapping-and-Data/Atlantic.aspx",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 3,
@@ -160,7 +160,7 @@
 	"name": "atlantic-nad-83-ocs-planning-areas",
 	"isopen": false,
 	"url": null,
-	"notes": "This data set contains BOEM Planning Area outlines in ESRI shapefile format for the BOEM Atlantic Region. The old Atlantic Planning Area outlines were changed as of the 2007-2012 Five Year Plan. The divisions between these new Planning Areas for the North, Mid, and South Atlantic are based on the OCS Administrative Boundaries. These Planning Area boundaries follow the block grid, depending on whether the block is mostly on one side of the Administrative Boundary, or the other. The Straits of Florida Planning Area is essentially unchanged. The Submerged Lands Act (Fed\/State) boundary, along with the Continental Shelf Boundary (CSB), the Limit of Protraction, and the boundary between the Gulf and Atlantic Regions were used to complete the polygons for the Planning Areas. Because GIS projection and topology functions can change or generalize coordinates, and because shapefiles can not represent true arcs, these GIS files are considered to be approximate and are NOT an OFFICIAL record for the exact block coordinates or areas. The Official Protraction Diagrams (OPDs) and Supplemental Official Block Diagrams (SOBDs) serve as the legal definition for BOEM offshore boundary coordinates and area descriptions. If any discrepancies are found between these shapefiles and the OPDs and SOBDs, it is the OPD and SOBD diagrams which take precidence. Also note that the BOEM cadastre is developed on a UTM projection, and most Planning Areas span multiple UTM ZONES. This means that area values computed from these shapefiles will not match the official BOEM areas. See the AT_SUBBLK.SHP file which includes in it's attribute table, the TIMS computed areas for each block or sub block.",
+	"notes": "This data set contains BOEM Planning Area outlines in ESRI shapefile format for the BOEM Atlantic Region. The old Atlantic Planning Area outlines were changed as of the 2007-2012 Five Year Plan. The divisions between these new Planning Areas for the North, Mid, and South Atlantic are based on the OCS Administrative Boundaries. These Planning Area boundaries follow the block grid, depending on whether the block is mostly on one side of the Administrative Boundary, or the other. The Straits of Florida Planning Area is essentially unchanged. The Submerged Lands Act (Fed/State) boundary, along with the Continental Shelf Boundary (CSB), the Limit of Protraction, and the boundary between the Gulf and Atlantic Regions were used to complete the polygons for the Planning Areas. Because GIS projection and topology functions can change or generalize coordinates, and because shapefiles can not represent true arcs, these GIS files are considered to be approximate and are NOT an OFFICIAL record for the exact block coordinates or areas. The Official Protraction Diagrams (OPDs) and Supplemental Official Block Diagrams (SOBDs) serve as the legal definition for BOEM offshore boundary coordinates and area descriptions. If any discrepancies are found between these shapefiles and the OPDs and SOBDs, it is the OPD and SOBD diagrams which take precidence. Also note that the BOEM cadastre is developed on a UTM projection, and most Planning Areas span multiple UTM ZONES. This means that area values computed from these shapefiles will not match the official BOEM areas. See the AT_SUBBLK.SHP file which includes in it's attribute table, the TIMS computed areas for each block or sub block.",
 	"license_title": null,
 	"extras": [{
 		"key": "bbox-east-long",
@@ -188,7 +188,7 @@
 	},
 	{
 		"key": "graphic-preview-file",
-		"value": "http:\/\/www.boem.gov\/assets\/0\/79\/99\/203\/0df0e741-bb67-4155-8d23-290facc8ae88.gif"
+		"value": "http://www.boem.gov/assets/0/79/99/203/0df0e741-bb67-4155-8d23-290facc8ae88.gif"
 	},
 	{
 		"key": "bbox-south-lat",
@@ -204,7 +204,7 @@
 	},
 	{
 		"key": "spatial",
-		"value": "{\"type\": \"Polygon\", \"coordinates\": [[[-82.999844, 23.817923], [-64.108329, 23.817923], [-64.108329, 44.769023], [-82.999844, 44.769023], [-82.999844, 23.817923]]]}"
+		"value": "{"type": "Polygon", "coordinates": [[[-82.999844, 23.817923], [-64.108329, 23.817923], [-64.108329, 44.769023], [-82.999844, 44.769023], [-82.999844, 23.817923]]]}"
 	},
 	{
 		"key": "progress",
@@ -212,7 +212,7 @@
 	},
 	{
 		"key": "access_constraints",
-		"value": "[\"Use Constraints: The data was developed within the U.S. Government; no proprietary rights may be attached to them nor may they be sold to the U.S. Government as part of any procurement of ADP products or services.\", \"Access Constraints: None. The Block and Boundary data is in the public domain.\"]"
+		"value": "["Use Constraints: The data was developed within the U.S. Government; no proprietary rights may be attached to them nor may they be sold to the U.S. Government as part of any procurement of ADP products or services.", "Access Constraints: None. The Block and Boundary data is in the public domain."]"
 	},
 	{
 		"key": "contact-email",
@@ -228,7 +228,7 @@
 	},
 	{
 		"key": "dataset-reference-date",
-		"value": "[{\"type\": \"publication\", \"value\": \"2010-10-05\"}]"
+		"value": "[{"type": "publication", "value": "2010-10-05"}]"
 	},
 	{
 		"key": "graphic-preview-description",
@@ -240,7 +240,7 @@
 	},
 	{
 		"key": "licence",
-		"value": "[\"\\nAs is.  No responsibility is assumed for the\\ncorrectness of this data.\\n\"]"
+		"value": "["\nAs is.  No responsibility is assumed for the\ncorrectness of this data.\n"]"
 	},
 	{
 		"key": "metadata_type",
@@ -248,7 +248,7 @@
 	},
 	{
 		"key": "responsible-party",
-		"value": "[{\"name\": \"Bureau of Ocean Energy Management, Mapping and Boundary Branch\", \"roles\": [\"pointOfContact\"]}]"
+		"value": "[{"name": "Bureau of Ocean Energy Management, Mapping and Boundary Branch", "roles": ["pointOfContact"]}]"
 	},
 	{
 		"key": "spatial-data-service-type",
@@ -290,7 +290,7 @@
 		"revision_timestamp": "2013-03-20T22:26:39.819248",
 		"is_organization": true,
 		"state": "active",
-		"image_url": "http:\/\/www.boem.gov\/images\/boem\/layout\/logo.png",
+		"image_url": "http://www.boem.gov/images/boem/layout/logo.png",
 		"revision_id": "6f2fda4e-48e9-42f6-b1dd-da068900ba24",
 		"type": "organization",
 		"id": "54ed71a6-4861-4dc1-aa78-c5661ba9ab04",

@@ -36,7 +36,7 @@
 		"cache_url": null,
 		"name": "Data Subset Form",
 		"created": "2016-10-19T15:49:16.562098",
-		"url": "http:\/\/coastwatch.pfeg.noaa.gov\/erddap\/tabledap\/erdGtsppBest.html",
+		"url": "http://coastwatch.pfeg.noaa.gov/erddap/tabledap/erdGtsppBest.html",
 		"webstore_url": null,
 		"resource_locator_function": "download",
 		"position": 0,
@@ -65,7 +65,7 @@
 		"cache_url": null,
 		"name": "Make-A-Graph Form",
 		"created": "2016-10-19T15:49:16.562125",
-		"url": "http:\/\/coastwatch.pfeg.noaa.gov\/erddap\/tabledap\/erdGtsppBest.graph",
+		"url": "http://coastwatch.pfeg.noaa.gov/erddap/tabledap/erdGtsppBest.graph",
 		"webstore_url": null,
 		"resource_locator_function": "mapDigital",
 		"position": 1,
@@ -94,7 +94,7 @@
 		"cache_url": null,
 		"name": "Background Information",
 		"created": "2016-10-19T15:49:16.562134",
-		"url": "http:\/\/www.nodc.noaa.gov\/GTSPP\/",
+		"url": "http://www.nodc.noaa.gov/GTSPP/",
 		"webstore_url": null,
 		"resource_locator_function": "information",
 		"position": 2,
@@ -123,7 +123,7 @@
 		"cache_url": null,
 		"name": "Background Information",
 		"created": "2016-10-19T15:49:16.562141",
-		"url": "http:\/\/www.nodc.noaa.gov\/GTSPP\/",
+		"url": "http://www.nodc.noaa.gov/GTSPP/",
 		"webstore_url": null,
 		"resource_locator_function": "information",
 		"position": 3,
@@ -152,7 +152,7 @@
 		"cache_url": null,
 		"name": "Background Information",
 		"created": "2016-10-19T15:49:16.562148",
-		"url": "http:\/\/www.nodc.noaa.gov\/GTSPP\/",
+		"url": "http://www.nodc.noaa.gov/GTSPP/",
 		"webstore_url": null,
 		"resource_locator_function": "information",
 		"position": 4,
@@ -181,7 +181,7 @@
 		"cache_url": null,
 		"name": "ERDDAP-tabledap",
 		"created": "2016-10-19T15:49:16.562155",
-		"url": "http:\/\/coastwatch.pfeg.noaa.gov\/erddap\/tabledap\/erdGtsppBest",
+		"url": "http://coastwatch.pfeg.noaa.gov/erddap/tabledap/erdGtsppBest",
 		"webstore_url": null,
 		"resource_locator_function": "download",
 		"position": 5,
@@ -210,7 +210,7 @@
 		"cache_url": null,
 		"name": "Background Information",
 		"created": "2016-10-19T15:49:16.562162",
-		"url": "http:\/\/www.nodc.noaa.gov\/GTSPP\/",
+		"url": "http://www.nodc.noaa.gov/GTSPP/",
 		"webstore_url": null,
 		"resource_locator_function": "information",
 		"position": 6,
@@ -239,7 +239,7 @@
 		"cache_url": null,
 		"name": "OPeNDAP",
 		"created": "2016-10-19T15:49:16.562169",
-		"url": "http:\/\/coastwatch.pfeg.noaa.gov\/erddap\/tabledap\/erdGtsppBest",
+		"url": "http://coastwatch.pfeg.noaa.gov/erddap/tabledap/erdGtsppBest",
 		"webstore_url": null,
 		"resource_locator_function": "download",
 		"position": 7,
@@ -268,7 +268,7 @@
 		"cache_url": null,
 		"name": "Background Information",
 		"created": "2016-10-19T15:49:16.562176",
-		"url": "http:\/\/www.nodc.noaa.gov\/GTSPP\/",
+		"url": "http://www.nodc.noaa.gov/GTSPP/",
 		"webstore_url": null,
 		"resource_locator_function": "information",
 		"position": 8,
@@ -297,7 +297,7 @@
 		"cache_url": null,
 		"name": "Subset",
 		"created": "2016-10-19T15:49:16.562183",
-		"url": "http:\/\/coastwatch.pfeg.noaa.gov\/erddap\/tabledap\/erdGtsppBest.subset",
+		"url": "http://coastwatch.pfeg.noaa.gov/erddap/tabledap/erdGtsppBest.subset",
 		"webstore_url": null,
 		"resource_locator_function": "download",
 		"position": 9,
@@ -317,7 +317,7 @@
 	"name": "global-temperature-and-salinity-profile-programme-gtspp-data",
 	"isopen": false,
 	"url": null,
-	"notes": "The Global Temperature-Salinity Profile Programme (GTSPP) develops and maintains a global ocean temperature and salinity resource with data that are both up-to-date and of the highest quality. It is a joint World Meteorological Organization (WMO) and Intergovernmental Oceanographic Commission (IOC) program.  It includes data from XBTs, CTDs, moored and drifting buoys, and PALACE floats. For information about organizations contributing data to GTSPP, see http:\/\/gosic.org\/goos\/GTSPP-data-flow.htm .  The U.S. National Oceanographic Data Center (NODC) maintains the GTSPP Continuously Managed Data Base and releases new 'best-copy' data once per month.\n\nWARNING: This dataset has a *lot* of data.  If you request too much data, your request will fail.\n* If you don't specify a longitude and latitude bounding box, don't request more than a month's data at a time.\n* If you do specify a longitude and latitude bounding box, you can request data for a proportionally longer time period.\nRequesting data for a specific station_id may be slow, but it works.\n\n*** This ERDDAP dataset has data for the entire world for all available times (currently, up to and including the September 2016 data) but is a subset of the original NODC 'best-copy' data.  It only includes data where the quality flags indicate the data is 1=CORRECT, 2=PROBABLY GOOD, or 5=MODIFIED. It does not include some of the metadata, any of the history data, or any of the quality flag data of the original dataset. You can always get the complete, up-to-date dataset (and additional, near-real-time data) from the source: http:\/\/www.nodc.noaa.gov\/GTSPP\/ .  Specific differences are:\n* Profiles with a position_quality_flag or a time_quality_flag other than 1|2|5 were removed.\n* Rows with a depth (z) value less than -0.4 or greater than 10000 or a z_variable_quality_flag other than 1|2|5 were removed.\n* Temperature values less than -4 or greater than 40 or with a temperature_quality_flag other than 1|2|5 were set to NaN.\n* Salinity values less than 0 or greater than 41 or with a salinity_quality_flag other than 1|2|5 were set to NaN.\n* Time values were converted from \"days since 1900-01-01 00:00:00\" to \"seconds since 1970-01-01T00:00:00\".\n\nSee the Quality Flag definitions on page 5 and \"Table 2.1: Global Impossible Parameter Values\" on page 61 of\nhttp:\/\/www.nodc.noaa.gov\/GTSPP\/document\/qcmans\/GTSPP_RT_QC_Manual_20090916.pdf .\nThe Quality Flag definitions are also at\nhttp:\/\/www.nodc.noaa.gov\/GTSPP\/document\/qcmans\/qcflags.htm .",
+	"notes": "The Global Temperature-Salinity Profile Programme (GTSPP) develops and maintains a global ocean temperature and salinity resource with data that are both up-to-date and of the highest quality. It is a joint World Meteorological Organization (WMO) and Intergovernmental Oceanographic Commission (IOC) program.  It includes data from XBTs, CTDs, moored and drifting buoys, and PALACE floats. For information about organizations contributing data to GTSPP, see http://gosic.org/goos/GTSPP-data-flow.htm .  The U.S. National Oceanographic Data Center (NODC) maintains the GTSPP Continuously Managed Data Base and releases new 'best-copy' data once per month.nnWARNING: This dataset has a *lot* of data.  If you request too much data, your request will fail.n* If you don't specify a longitude and latitude bounding box, don't request more than a month's data at a time.n* If you do specify a longitude and latitude bounding box, you can request data for a proportionally longer time period.nRequesting data for a specific station_id may be slow, but it works.nn*** This ERDDAP dataset has data for the entire world for all available times (currently, up to and including the September 2016 data) but is a subset of the original NODC 'best-copy' data.  It only includes data where the quality flags indicate the data is 1=CORRECT, 2=PROBABLY GOOD, or 5=MODIFIED. It does not include some of the metadata, any of the history data, or any of the quality flag data of the original dataset. You can always get the complete, up-to-date dataset (and additional, near-real-time data) from the source: http://www.nodc.noaa.gov/GTSPP/ .  Specific differences are:n* Profiles with a position_quality_flag or a time_quality_flag other than 1|2|5 were removed.n* Rows with a depth (z) value less than -0.4 or greater than 10000 or a z_variable_quality_flag other than 1|2|5 were removed.n* Temperature values less than -4 or greater than 40 or with a temperature_quality_flag other than 1|2|5 were set to NaN.n* Salinity values less than 0 or greater than 41 or with a salinity_quality_flag other than 1|2|5 were set to NaN.n* Time values were converted from "days since 1900-01-01 00:00:00" to "seconds since 1970-01-01T00:00:00".nnSee the Quality Flag definitions on page 5 and "Table 2.1: Global Impossible Parameter Values" on page 61 ofnhttp://www.nodc.noaa.gov/GTSPP/document/qcmans/GTSPP_RT_QC_Manual_20090916.pdf .nThe Quality Flag definitions are also atnhttp://www.nodc.noaa.gov/GTSPP/document/qcmans/qcflags.htm .",
 	"license_title": null,
 	"extras": [{
 		"key": "bbox-east-long",
@@ -333,7 +333,7 @@
 	},
 	{
 		"key": "coupled-resource",
-		"value": "[{\"href\": [\"#DataIdentification\"], \"uuid\": [], \"title\": []}, {\"href\": [\"#DataIdentification\"], \"uuid\": [], \"title\": []}, {\"href\": [\"#DataIdentification\"], \"uuid\": [], \"title\": []}]"
+		"value": "[{"href": ["#DataIdentification"], "uuid": [], "title": []}, {"href": ["#DataIdentification"], "uuid": [], "title": []}, {"href": ["#DataIdentification"], "uuid": [], "title": []}]"
 	},
 	{
 		"key": "guid",
@@ -353,7 +353,7 @@
 	},
 	{
 		"key": "spatial",
-		"value": "{\"type\": \"Polygon\", \"coordinates\": [[[-180.0, -78.579], [179.999, -78.579], [179.999, 90.0], [-180.0, 90.0], [-180.0, -78.579]]]}"
+		"value": "{"type": "Polygon", "coordinates": [[[-180.0, -78.579], [179.999, -78.579], [179.999, 90.0], [-180.0, 90.0], [-180.0, -78.579]]]}"
 	},
 	{
 		"key": "progress",
@@ -381,7 +381,7 @@
 	},
 	{
 		"key": "dataset-reference-date",
-		"value": "[{\"type\": \"creation\", \"value\": \"2016-10-11\"}]"
+		"value": "[{"type": "creation", "value": "2016-10-11"}]"
 	},
 	{
 		"key": "frequency-of-update",
@@ -397,7 +397,7 @@
 	},
 	{
 		"key": "responsible-party",
-		"value": "[{\"name\": \"NOAA NODC\", \"roles\": [\"pointOfContact\"]}]"
+		"value": "[{"name": "NOAA NODC", "roles": ["pointOfContact"]}]"
 	},
 	{
 		"key": "temporal-extent-end",
@@ -413,7 +413,7 @@
 	},
 	{
 		"package_id": "24c9f426-b90c-4af8-b120-1add021432df",
-		"value": "program, ocean temperature, global, noaa, temperature-salinity, sea, cruise, joint iode\/jcomm global temperature-salinity profile programme, ocean, temperature, density, station, water temperature, latitude, type, profile, nodc, oceans, sea_water_practical_salinity, water, seawater, gtspp, data, salinity\/density, sea_water_temperature, observation, longitude, salinity, depth, time, organization, identifier",
+		"value": "program, ocean temperature, global, noaa, temperature-salinity, sea, cruise, joint iode/jcomm global temperature-salinity profile programme, ocean, temperature, density, station, water temperature, latitude, type, profile, nodc, oceans, sea_water_practical_salinity, water, seawater, gtspp, data, salinity/density, sea_water_temperature, observation, longitude, salinity, depth, time, organization, identifier",
 		"revision_timestamp": "2015-09-27T00:49:19.166706",
 		"state": "active",
 		"key": "tags",
@@ -443,7 +443,7 @@
 		"revision_timestamp": "2013-03-25T23:05:12.923863",
 		"is_organization": true,
 		"state": "active",
-		"image_url": "https:\/\/fortress.wa.gov\/dfw\/score\/score\/images\/noaa_logo.png",
+		"image_url": "https://fortress.wa.gov/dfw/score/score/images/noaa_logo.png",
 		"revision_id": "c6d43080-22e1-405e-a83d-f2a512d9e867",
 		"type": "organization",
 		"id": "e811f0b4-451f-4896-9e8f-fc6802837819",

@@ -36,7 +36,7 @@
 		"cache_url": null,
 		"name": "Shapefile Zip File",
 		"created": "2016-05-17T08:57:28.055506",
-		"url": "http:\/\/www2.census.gov\/geo\/tiger\/GENZ2015\/shp\/cb_2015_us_county_500k.zip",
+		"url": "http://www2.census.gov/geo/tiger/GENZ2015/shp/cb_2015_us_county_500k.zip",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 0,
@@ -53,7 +53,7 @@
 		"state": "active",
 		"last_modified": null,
 		"hash": "",
-		"description": "Simplified representations of selected geographic areas from the Census Bureau's MAF\/TIGER geographic database",
+		"description": "Simplified representations of selected geographic areas from the Census Bureau's MAF/TIGER geographic database",
 		"format": "HTML",
 		"tracking_summary": {
 			"total": 219,
@@ -65,7 +65,7 @@
 		"cache_url": null,
 		"name": "Cartographic Boundary Shapefiles",
 		"created": "2016-05-17T08:57:28.055558",
-		"url": "http:\/\/www.census.gov\/geo\/maps-data\/data\/tiger-cart-boundary.html",
+		"url": "http://www.census.gov/geo/maps-data/data/tiger-cart-boundary.html",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 1,
@@ -94,7 +94,7 @@
 		"cache_url": null,
 		"name": "Feature Catalog for the 2015 State-County  1:500,000",
 		"created": "2016-05-17T08:57:28.055572",
-		"url": "http:\/\/meta.geo.census.gov\/data\/existing\/decennial\/GEO\/CPMB\/boundary\/2016gz\/county_500\/cb_2015_us_county_500k.shp.ea.iso.xml",
+		"url": "http://meta.geo.census.gov/data/existing/decennial/GEO/CPMB/boundary/2016gz/county_500/cb_2015_us_county_500k.shp.ea.iso.xml",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 2,
@@ -114,7 +114,7 @@
 	"name": "2015-cartographic-boundary-file-state-county-for-united-states-1-500000",
 	"isopen": false,
 	"url": null,
-	"notes": "The 2015 cartographic boundary shapefiles are simplified representations of selected geographic areas from the U.S. Census Bureau's Master Address File \/ Topologically Integrated Geographic Encoding and Referencing (MAF\/TIGER) Database (MTDB). These boundary files are specifically designed for small-scale thematic mapping. When possible, generalization is performed with the intent to maintain the hierarchical relationships among geographies and to maintain the alignment of geographies within a file set for a given year. Geographic areas may not align with the same areas from another year. Some geographies are available as nation-based files while others are available only as state-based files.\n\nThe primary legal divisions of most states are termed counties.  In Louisiana, these divisions are known as parishes.  In Alaska, which has no counties, the equivalent entities are the organized boroughs, city and boroughs, municipalities, and for the unorganized area, census areas.  The latter are delineated cooperatively for statistical purposes by the State of Alaska and the Census Bureau.  In four states (Maryland, Missouri, Nevada, and Virginia), there are one or more incorporated places that are independent of any county organization and thus constitute primary divisions of their states.  These incorporated places are known as independent cities and are treated as equivalent entities for purposes of data presentation.  The District of Columbia and Guam have no primary divisions, and each area is considered an equivalent entity for purposes of data presentation.  The Census Bureau treats the following entities as equivalents of counties for purposes of data presentation: Municipios in Puerto Rico, Districts and Islands in American Samoa, Municipalities in the Commonwealth of the Northern Mariana Islands, and Islands in the U.S. Virgin Islands.  The entire area of the United States, Puerto Rico, and the Island Areas is covered by counties or equivalent entities.",
+	"notes": "The 2015 cartographic boundary shapefiles are simplified representations of selected geographic areas from the U.S. Census Bureau's Master Address File / Topologically Integrated Geographic Encoding and Referencing (MAF/TIGER) Database (MTDB). These boundary files are specifically designed for small-scale thematic mapping. When possible, generalization is performed with the intent to maintain the hierarchical relationships among geographies and to maintain the alignment of geographies within a file set for a given year. Geographic areas may not align with the same areas from another year. Some geographies are available as nation-based files while others are available only as state-based files.nnThe primary legal divisions of most states are termed counties.  In Louisiana, these divisions are known as parishes.  In Alaska, which has no counties, the equivalent entities are the organized boroughs, city and boroughs, municipalities, and for the unorganized area, census areas.  The latter are delineated cooperatively for statistical purposes by the State of Alaska and the Census Bureau.  In four states (Maryland, Missouri, Nevada, and Virginia), there are one or more incorporated places that are independent of any county organization and thus constitute primary divisions of their states.  These incorporated places are known as independent cities and are treated as equivalent entities for purposes of data presentation.  The District of Columbia and Guam have no primary divisions, and each area is considered an equivalent entity for purposes of data presentation.  The Census Bureau treats the following entities as equivalents of counties for purposes of data presentation: Municipios in Puerto Rico, Districts and Islands in American Samoa, Municipalities in the Commonwealth of the Northern Mariana Islands, and Islands in the U.S. Virgin Islands.  The entire area of the United States, Puerto Rico, and the Island Areas is covered by counties or equivalent entities.",
 	"license_title": null,
 	"extras": [{
 		"key": "bbox-east-long",
@@ -150,7 +150,7 @@
 	},
 	{
 		"key": "spatial",
-		"value": "{\"type\": \"Polygon\", \"coordinates\": [[[-179.148909, -14.548699], [179.77847, -14.548699], [179.77847, 71.365162], [-179.148909, 71.365162], [-179.148909, -14.548699]]]}"
+		"value": "{"type": "Polygon", "coordinates": [[[-179.148909, -14.548699], [179.77847, -14.548699], [179.77847, 71.365162], [-179.148909, 71.365162], [-179.148909, -14.548699]]]}"
 	},
 	{
 		"key": "progress",
@@ -158,7 +158,7 @@
 	},
 	{
 		"key": "access_constraints",
-		"value": "[\" Access Constraints: None\", \" Use Constraints:The intended display scale for this file is 1:500,000.  This file should not be displayed at scales larger than 1:500,000.\\n\\nThese products are free to use in a product or publication, however acknowledgement must be given to the U.S. Census Bureau as the source.  The boundary information is for visual display at appropriate small scales only.  Cartographic boundary files should not be used for geographic analysis including area or perimeter calculation.  Files should not be used for geocoding addresses.  Files should not be used for determining precise geographic area relationships.\\n\"]"
+		"value": "[" Access Constraints: None", " Use Constraints:The intended display scale for this file is 1:500,000.  This file should not be displayed at scales larger than 1:500,000.\n\nThese products are free to use in a product or publication, however acknowledgement must be given to the U.S. Census Bureau as the source.  The boundary information is for visual display at appropriate small scales only.  Cartographic boundary files should not be used for geographic analysis including area or perimeter calculation.  Files should not be used for geocoding addresses.  Files should not be used for determining precise geographic area relationships.\n"]"
 	},
 	{
 		"key": "temporal-extent-begin",
@@ -178,7 +178,7 @@
 	},
 	{
 		"key": "dataset-reference-date",
-		"value": "[{\"type\": \"publication\", \"value\": \"201603\"}]"
+		"value": "[{"type": "publication", "value": "201603"}]"
 	},
 	{
 		"key": "frequency-of-update",
@@ -236,7 +236,7 @@
 		"revision_timestamp": "2013-08-29T13:37:04.171127",
 		"is_organization": true,
 		"state": "active",
-		"image_url": "http:\/\/www.census.gov\/main\/img\/home\/CensusLogo-white.png",
+		"image_url": "http://www.census.gov/main/img/home/CensusLogo-white.png",
 		"revision_id": "0995f525-d563-4254-a535-af5b926fe663",
 		"type": "organization",
 		"id": "31c49abe-512a-412a-9cc7-5b2601325d6b",

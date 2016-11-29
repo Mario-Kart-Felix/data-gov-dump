@@ -37,7 +37,7 @@
 		"cache_url": null,
 		"name": "Zip File",
 		"created": "2015-11-09T20:33:51.713106",
-		"url": "ftp:\/\/ftp.soest.hawaii.edu\/pibhmc\/website\/data\/pria\/benthichabitatlayers\/Wake_10m_Slope.zip",
+		"url": "ftp://ftp.soest.hawaii.edu/pibhmc/website/data/pria/benthichabitatlayers/Wake_10m_Slope.zip",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 0,
@@ -67,7 +67,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2015-11-09T20:33:51.713127",
-		"url": "http:\/\/www.soest.hawaii.edu\/pibhmc",
+		"url": "http://www.soest.hawaii.edu/pibhmc",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 1,
@@ -97,7 +97,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2015-11-09T20:33:51.713135",
-		"url": "http:\/\/www.soest.hawaii.edu\/pibhmc\/pibhmc_pria_wak_geomorph.htm",
+		"url": "http://www.soest.hawaii.edu/pibhmc/pibhmc_pria_wak_geomorph.htm",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 2,
@@ -117,11 +117,11 @@
 	"name": "10-m-slope-grid-derived-from-gridded-bathymetry-of-wake-island-west-central-pacific",
 	"isopen": false,
 	"url": null,
-	"notes": "Slope is derived from gridded (10 m cell size) multibeam bathymetry, collected aboard NOAA ship Hi'ialakai and R\/V AHI. Cell values reflect the maximum rate of change (in degrees) in elevation between neighboring cells derived with the ArcGIS Spatial Analyst extension. This data set is for Wake Island, West Central Pacific.",
+	"notes": "Slope is derived from gridded (10 m cell size) multibeam bathymetry, collected aboard NOAA ship Hi'ialakai and R/V AHI. Cell values reflect the maximum rate of change (in degrees) in elevation between neighboring cells derived with the ArcGIS Spatial Analyst extension. This data set is for Wake Island, West Central Pacific.",
 	"license_title": null,
 	"extras": [{
 		"key": "bbox-east-long",
-		"value": "\n          166.667\n        "
+		"value": "n          166.667n        "
 	},
 	{
 		"key": "resource-type",
@@ -129,7 +129,7 @@
 	},
 	{
 		"key": "bbox-north-lat",
-		"value": "\n          19.337\n        "
+		"value": "n          19.337n        "
 	},
 	{
 		"key": "coupled-resource",
@@ -145,7 +145,7 @@
 	},
 	{
 		"key": "graphic-preview-file",
-		"value": "http:\/\/www.soest.hawaii.edu\/pibhmc\/PRIAs_images\/Wake_10m_Slope_440.jpg"
+		"value": "http://www.soest.hawaii.edu/pibhmc/PRIAs_images/Wake_10m_Slope_440.jpg"
 	},
 	{
 		"key": "metadata-language",
@@ -161,7 +161,7 @@
 	},
 	{
 		"key": "spatial",
-		"value": "{\"type\": \"Polygon\", \"coordinates\": [[[166.582, 19.24], [166.667, 19.24], [166.667, 19.337], [166.582, 19.337], [166.582, 19.24]]]}"
+		"value": "{"type": "Polygon", "coordinates": [[[166.582, 19.24], [166.667, 19.24], [166.667, 19.337], [166.582, 19.337], [166.582, 19.24]]]}"
 	},
 	{
 		"key": "progress",
@@ -169,7 +169,7 @@
 	},
 	{
 		"key": "access_constraints",
-		"value": "[\"Use Constraints: These data are not to be used for navigation purposes. Please acknowledge the NOAA Pacific Islands Fisheries Science Center (PIFSC) Coral Reef Ecosystem Division (CRED) and the Pacific Islands Benthic Habitat Mapping Center, and the Joint Institute for Marine and Atmospheric Research (JIMAR) and School of Ocean and Earth Science and Technology (SOEST), University of Hawaii as the sources of this information.\", \"Access Constraints: None\"]"
+		"value": "["Use Constraints: These data are not to be used for navigation purposes. Please acknowledge the NOAA Pacific Islands Fisheries Science Center (PIFSC) Coral Reef Ecosystem Division (CRED) and the Pacific Islands Benthic Habitat Mapping Center, and the Joint Institute for Marine and Atmospheric Research (JIMAR) and School of Ocean and Earth Science and Technology (SOEST), University of Hawaii as the sources of this information.", "Access Constraints: None"]"
 	},
 	{
 		"key": "temporal-extent-begin",
@@ -181,7 +181,7 @@
 	},
 	{
 		"key": "bbox-west-long",
-		"value": "\n          166.582\n        "
+		"value": "n          166.582n        "
 	},
 	{
 		"key": "metadata-date",
@@ -189,7 +189,7 @@
 	},
 	{
 		"key": "dataset-reference-date",
-		"value": "[{\"type\": \"publication\", \"value\": \"2011-04-29\"}]"
+		"value": "[{"type": "publication", "value": "2011-04-29"}]"
 	},
 	{
 		"key": "graphic-preview-description",
@@ -201,7 +201,7 @@
 	},
 	{
 		"key": "licence",
-		"value": "[\"\\n      These data are not to be used for navigational purposes.\\nNOAA makes no warranty regarding these data, expressed or implied,\\nnor does the fact of distribution constitute such a warranty.\\nNOAA cannot assume liability for any damages caused by any errors\\nor omissions in these data, nor as a result of the failure of\\nthese data to function on a particular system.\\n    \"]"
+		"value": "["\n      These data are not to be used for navigational purposes.\nNOAA makes no warranty regarding these data, expressed or implied,\nnor does the fact of distribution constitute such a warranty.\nNOAA cannot assume liability for any damages caused by any errors\nor omissions in these data, nor as a result of the failure of\nthese data to function on a particular system.\n    "]"
 	},
 	{
 		"key": "metadata_type",
@@ -209,7 +209,7 @@
 	},
 	{
 		"key": "responsible-party",
-		"value": "[{\"name\": \"Pacific Islands Benthic Habitat Mapping Center (PIBHMC), Coral Reef Ecosystem Division (CRED), Pacific Islands Fisheries Science Center (PIFSC), National Marine Fisheries Service (NMFS), National Oceanic and Atmospheric Administration (NOAA)\", \"roles\": [\"pointOfContact\"]}]"
+		"value": "[{"name": "Pacific Islands Benthic Habitat Mapping Center (PIBHMC), Coral Reef Ecosystem Division (CRED), Pacific Islands Fisheries Science Center (PIFSC), National Marine Fisheries Service (NMFS), National Oceanic and Atmospheric Administration (NOAA)", "roles": ["pointOfContact"]}]"
 	},
 	{
 		"key": "temporal-extent-end",
@@ -221,11 +221,11 @@
 	},
 	{
 		"key": "bbox-south-lat",
-		"value": "\n          19.240\n        "
+		"value": "n          19.240n        "
 	},
 	{
 		"package_id": "ea04abfd-e5fd-4da0-9618-c06f8056730e",
-		"value": "slope, pacific ocean, 1084, geomorphology mapping, united states of america, wake atoll (19n167e0001), zoology, earth science, wake atoll, geographic information, country\/territory, habitats, usa minor outlying islands, oceans, mapping, corals, central pacific ocean, ocean basin, benthic habitat mapping and characterization - american samoa and the u.s. pacific remote island area, biosphere, reef monitoring and assessment, bathymetry\/seafloor topography",
+		"value": "slope, pacific ocean, 1084, geomorphology mapping, united states of america, wake atoll (19n167e0001), zoology, earth science, wake atoll, geographic information, country/territory, habitats, usa minor outlying islands, oceans, mapping, corals, central pacific ocean, ocean basin, benthic habitat mapping and characterization - american samoa and the u.s. pacific remote island area, biosphere, reef monitoring and assessment, bathymetry/seafloor topography",
 		"revision_timestamp": "2015-11-10T01:33:51.585594",
 		"state": "active",
 		"key": "tags",
@@ -255,7 +255,7 @@
 		"revision_timestamp": "2013-03-25T23:05:12.923863",
 		"is_organization": true,
 		"state": "active",
-		"image_url": "https:\/\/fortress.wa.gov\/dfw\/score\/score\/images\/noaa_logo.png",
+		"image_url": "https://fortress.wa.gov/dfw/score/score/images/noaa_logo.png",
 		"revision_id": "c6d43080-22e1-405e-a83d-f2a512d9e867",
 		"type": "organization",
 		"id": "e811f0b4-451f-4896-9e8f-fc6802837819",

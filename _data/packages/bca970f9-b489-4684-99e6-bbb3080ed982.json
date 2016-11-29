@@ -37,7 +37,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2015-09-26T18:24:11.198755",
-		"url": "http:\/\/nowcoast.noaa.gov\/viewer.htm",
+		"url": "http://nowcoast.noaa.gov/viewer.htm",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 0,
@@ -67,7 +67,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2015-09-26T18:24:11.198779",
-		"url": "http:\/\/nowcoast.noaa.gov\/",
+		"url": "http://nowcoast.noaa.gov/",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 1,
@@ -206,7 +206,7 @@
 	},
 	{
 		"key": "__category_tag_008741df-42eb-48ba-9e87-f69eb6e7d321",
-		"value": "[\"Natural Resources and Environment\"]"
+		"value": "["Natural Resources and Environment"]"
 	},
 	{
 		"key": "resource-type",
@@ -222,7 +222,7 @@
 	},
 	{
 		"key": "__category_tag_9a350fa9-bc49-43d4-8e77-270b9714976d",
-		"value": "[\"Pacific Islands\",\"Environment\",\"Oceans\",\"Hawaii\",\"Climate\"]"
+		"value": "["Pacific Islands","Environment","Oceans","Hawaii","Climate"]"
 	},
 	{
 		"key": "guid",
@@ -238,11 +238,11 @@
 	},
 	{
 		"key": "__category_tag_72886f47-5994-4ca9-82ba-4a75987250a9",
-		"value": "[\"Hurricane\"]"
+		"value": "["Hurricane"]"
 	},
 	{
 		"key": "__category_tag_aa0c01c9-d292-4dc1-8fec-b10c1bb629a9",
-		"value": "[\"Human Health\",\"Coastal Flooding\"]"
+		"value": "["Human Health","Coastal Flooding"]"
 	},
 	{
 		"key": "spatial-reference-system",
@@ -250,11 +250,11 @@
 	},
 	{
 		"key": "spatial",
-		"value": "{\"type\": \"Polygon\", \"coordinates\": [[[-180.0, 0.0], [-65.0, 0.0], [-65.0, 80.0], [-180.0, 80.0], [-180.0, 0.0]]]}"
+		"value": "{"type": "Polygon", "coordinates": [[[-180.0, 0.0], [-65.0, 0.0], [-65.0, 80.0], [-180.0, 80.0], [-180.0, 0.0]]]}"
 	},
 	{
 		"key": "__category_tag_872991f6-ef6d-40e1-8bdc-fbbcede1463d",
-		"value": "[\"Natural Hazards\"]"
+		"value": "["Natural Hazards"]"
 	},
 	{
 		"key": "progress",
@@ -262,7 +262,7 @@
 	},
 	{
 		"key": "access_constraints",
-		"value": "[\"Use Constraints: NOS Coast Survey Development Laboratory is not an operational 24 x 7 facility or data archive center. No warranties are expressed or implied regarding the accuracy, completeness, or reliability of the information provided or linked to in the nowCOAST web portal. Users are cautioned to consider the provisional nature of the observations, imagery, model guidance, forecasts, and warnings before using it for decision making. The user assumes the entire risk related to use of the data or any information. NOS disclaim liability of any kind whatsoever, including, without limitation, liability for quality, performance, merchantability and fitness for a particular purpose. In no event will NOS be liable to you or to any third party for any direct, indirect, incidental, consequential, special exemplary damages or lost profit resulting from any use or misuse of the data or any information presented or linked to in the web portal. NOS reserves the right to suspend or discontinue this web portal, or portions thereof, at any time.\", \"Access Constraints: None\"]"
+		"value": "["Use Constraints: NOS Coast Survey Development Laboratory is not an operational 24 x 7 facility or data archive center. No warranties are expressed or implied regarding the accuracy, completeness, or reliability of the information provided or linked to in the nowCOAST web portal. Users are cautioned to consider the provisional nature of the observations, imagery, model guidance, forecasts, and warnings before using it for decision making. The user assumes the entire risk related to use of the data or any information. NOS disclaim liability of any kind whatsoever, including, without limitation, liability for quality, performance, merchantability and fitness for a particular purpose. In no event will NOS be liable to you or to any third party for any direct, indirect, incidental, consequential, special exemplary damages or lost profit resulting from any use or misuse of the data or any information presented or linked to in the web portal. NOS reserves the right to suspend or discontinue this web portal, or portions thereof, at any time.", "Access Constraints: None"]"
 	},
 	{
 		"key": "temporal-extent-begin",
@@ -282,7 +282,7 @@
 	},
 	{
 		"key": "dataset-reference-date",
-		"value": "[{\"type\": \"publication\", \"value\": \"2002-05-10\"}]"
+		"value": "[{"type": "publication", "value": "2002-05-10"}]"
 	},
 	{
 		"key": "frequency-of-update",
@@ -290,7 +290,7 @@
 	},
 	{
 		"key": "licence",
-		"value": "[\"Overall NOS Coast Survey Development Laboratory is not an operational data facility. No warranties are expressed or implied regarding the accuracy, completeness, or reliability of the information provided or linked to in the nowCOAST web portal. Users are cautioned to consider the provisional nature of the observations before using it for decision making. The user assumes the entire risk related to use of the data or any information. NOS disclaim liability of any kind whatsoever, including, without limitation, liability for quality, performance, merchantability and fitness for a particular purpose. In no event will NOS be liable to you or to any third party for any direct, indirect, incidental, consequential, special exemplary damages or lost profit resulting from any use or misuse of the data or any information presented or linked to in the web portal. NOS reserves the right to suspend or discontinue this web portal, or portions thereof, at any time.\"]"
+		"value": "["Overall NOS Coast Survey Development Laboratory is not an operational data facility. No warranties are expressed or implied regarding the accuracy, completeness, or reliability of the information provided or linked to in the nowCOAST web portal. Users are cautioned to consider the provisional nature of the observations before using it for decision making. The user assumes the entire risk related to use of the data or any information. NOS disclaim liability of any kind whatsoever, including, without limitation, liability for quality, performance, merchantability and fitness for a particular purpose. In no event will NOS be liable to you or to any third party for any direct, indirect, incidental, consequential, special exemplary damages or lost profit resulting from any use or misuse of the data or any information presented or linked to in the web portal. NOS reserves the right to suspend or discontinue this web portal, or portions thereof, at any time."]"
 	},
 	{
 		"key": "metadata_type",
@@ -298,15 +298,15 @@
 	},
 	{
 		"key": "__category_tag_f700e408-3bf4-4e8f-9499-b0ab0e2fec3c",
-		"value": "[\"Biology and Habitats\"]"
+		"value": "["Biology and Habitats"]"
 	},
 	{
 		"key": "__category_tag_b6db7c5a-d306-4da5-a0cd-b4128e1322ce",
-		"value": "[\"Hydropower\"]"
+		"value": "["Hydropower"]"
 	},
 	{
 		"key": "responsible-party",
-		"value": "[{\"name\": \"Department of Commerce (DOC), National Oceanic and Atmospheric Administration (NOAA), National Ocean Service (NOS), Office of Coast Survey (OCS), Coast Survey Development Laboratory (CSDL)\", \"roles\": [\"pointOfContact\"]}]"
+		"value": "[{"name": "Department of Commerce (DOC), National Oceanic and Atmospheric Administration (NOAA), National Ocean Service (NOS), Office of Coast Survey (OCS), Coast Survey Development Laboratory (CSDL)", "roles": ["pointOfContact"]}]"
 	},
 	{
 		"key": "spatial-data-service-type",
@@ -318,11 +318,11 @@
 	},
 	{
 		"key": "__category_tag_78473e2f-b6ba-4e28-b0c1-d53c35a7e010",
-		"value": "[\"Tides and Currents\",\"Water Levels\",\"Environment\",\"Meteorological\"]"
+		"value": "["Tides and Currents","Water Levels","Environment","Meteorological"]"
 	},
 	{
 		"package_id": "bca970f9-b489-4684-99e6-bbb3080ed982",
-		"value": "atmospheric profile data, tides and currents, estuarine information, weather radar data, coastal united states, great lakes, hydrologic information, real-time data, observations, forecasts, weather warnings, meteorologic information, weather stations, remotely sensed imagery\/photos, internet web portal, oceanic information, coast, environmental monitoring, hurricanes, real-time, u.s. exclusive economic zone, analyses, model forecast guidance, nowcasts, geographic information systems, streamflow, url, water quality information, air quality information",
+		"value": "atmospheric profile data, tides and currents, estuarine information, weather radar data, coastal united states, great lakes, hydrologic information, real-time data, observations, forecasts, weather warnings, meteorologic information, weather stations, remotely sensed imagery/photos, internet web portal, oceanic information, coast, environmental monitoring, hurricanes, real-time, u.s. exclusive economic zone, analyses, model forecast guidance, nowcasts, geographic information systems, streamflow, url, water quality information, air quality information",
 		"revision_timestamp": "2015-09-26T22:24:11.136520",
 		"state": "active",
 		"key": "tags",
@@ -352,7 +352,7 @@
 		"revision_timestamp": "2013-03-25T23:05:12.923863",
 		"is_organization": true,
 		"state": "active",
-		"image_url": "https:\/\/fortress.wa.gov\/dfw\/score\/score\/images\/noaa_logo.png",
+		"image_url": "https://fortress.wa.gov/dfw/score/score/images/noaa_logo.png",
 		"revision_id": "c6d43080-22e1-405e-a83d-f2a512d9e867",
 		"type": "organization",
 		"id": "e811f0b4-451f-4896-9e8f-fc6802837819",

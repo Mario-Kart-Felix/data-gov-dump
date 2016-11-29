@@ -36,7 +36,7 @@
 		"cache_url": null,
 		"name": "Service Description",
 		"created": "2013-03-16T01:45:39.507862",
-		"url": "http:\/\/kgs.uky.edu\/arcgis\/services\/aasggeothermal\/ALFaults\/MapServer\/WFSServer?request=GetCapabilities&service=WFS",
+		"url": "http://kgs.uky.edu/arcgis/services/aasggeothermal/ALFaults/MapServer/WFSServer?request=GetCapabilities&service=WFS",
 		"webstore_url": null,
 		"resource_locator_function": "381",
 		"position": 0,
@@ -65,7 +65,7 @@
 		"cache_url": null,
 		"name": "Downloadable File",
 		"created": "2013-03-16T01:45:39.507883",
-		"url": "http:\/\/kgs.uky.edu\/arcgis\/services\/aasggeothermal\/ALFaults\/MapServer\/WMSServer?request=GetCapabilities&service=WMS",
+		"url": "http://kgs.uky.edu/arcgis/services/aasggeothermal/ALFaults/MapServer/WMSServer?request=GetCapabilities&service=WMS",
 		"webstore_url": null,
 		"resource_locator_function": "375",
 		"position": 1,
@@ -94,7 +94,7 @@
 		"cache_url": null,
 		"name": "Service Description",
 		"created": "2013-03-16T01:45:39.507890",
-		"url": "http:\/\/kgs.uky.edu\/arcgis\/rest\/services\/aasggeothermal\/ALFaults\/MapServer",
+		"url": "http://kgs.uky.edu/arcgis/rest/services/aasggeothermal/ALFaults/MapServer",
 		"webstore_url": null,
 		"resource_locator_function": "381",
 		"position": 2,
@@ -123,7 +123,7 @@
 		"cache_url": null,
 		"name": "Zipped Access Database (.mdb) containing Alabama Fault Feature data1.1",
 		"created": "2013-03-16T01:45:39.507896",
-		"url": "http:\/\/repository.stategeothermaldata.org\/metadata\/record\/98ddf901b9782a25982e01af3b0c9abd\/file\/al_faultcontentelements1_5final.zip",
+		"url": "http://repository.stategeothermaldata.org/metadata/record/98ddf901b9782a25982e01af3b0c9abd/file/al_faultcontentelements1_5final.zip",
 		"webstore_url": null,
 		"resource_locator_function": "375",
 		"position": 3,
@@ -152,7 +152,7 @@
 		"cache_url": null,
 		"name": "Zipped 2007 Excel spreadsheet containing Alabama Fault Feature data1.1",
 		"created": "2013-03-16T01:45:39.507902",
-		"url": "http:\/\/repository.stategeothermaldata.org\/metadata\/record\/98ddf901b9782a25982e01af3b0c9abd\/file\/alfaultfeaturetemplate1.2.zip",
+		"url": "http://repository.stategeothermaldata.org/metadata/record/98ddf901b9782a25982e01af3b0c9abd/file/alfaultfeaturetemplate1.2.zip",
 		"webstore_url": null,
 		"resource_locator_function": "375",
 		"position": 4,
@@ -185,11 +185,11 @@
 	"name": "alabama-fault-features",
 	"isopen": false,
 	"url": null,
-	"notes": "This dataset contains fault features compiled by the Geological Survey of Alabama, and published as a Web feature service for the National Geothermal Data System. Fields in the Fault Feature Content Model will become XML elements in interchange documents for WMS simple features provided by a node in the USGIN network.  Each observation includes a Fault Name, Symbol, and location spatially referenced to EPSG: 4326 (for interoperability).  The data contained in the submitted dataset is available as an Access Database (.mdb), Excel Spreadsheet, ESRI service, WMS and WFS service.Link to Fault Feature Content Model:  http:\/\/stategeothermaldata.org\/data_delivery\/content_models\/fault_feature.",
+	"notes": "This dataset contains fault features compiled by the Geological Survey of Alabama, and published as a Web feature service for the National Geothermal Data System. Fields in the Fault Feature Content Model will become XML elements in interchange documents for WMS simple features provided by a node in the USGIN network.  Each observation includes a Fault Name, Symbol, and location spatially referenced to EPSG: 4326 (for interoperability).  The data contained in the submitted dataset is available as an Access Database (.mdb), Excel Spreadsheet, ESRI service, WMS and WFS service.Link to Fault Feature Content Model:  http://stategeothermaldata.org/data_delivery/content_models/fault_feature.",
 	"license_title": null,
 	"extras": [{
 		"key": "responsible-party",
-		"value": "[{\"name\": \"No Organization Name Was Given\", \"roles\": [\"pointOfContact\"]}]"
+		"value": "[{"name": "No Organization Name Was Given", "roles": ["pointOfContact"]}]"
 	},
 	{
 		"key": "contact-email",
@@ -209,7 +209,7 @@
 	},
 	{
 		"key": "dataset-reference-date",
-		"value": "[{\"type\": \"publication\", \"value\": \"2011-10-03T12:00:00\"}]"
+		"value": "[{"type": "publication", "value": "2011-10-03T12:00:00"}]"
 	},
 	{
 		"key": "resource-type",
@@ -245,7 +245,7 @@
 	},
 	{
 		"key": "spatial",
-		"value": "{\"type\": \"Polygon\", \"coordinates\": [[[-88.5278, 30.783], [-88.5278, 35.1142], [-84.9243, 35.1142], [-84.9243, 30.783], [-88.5278, 30.783]]]}"
+		"value": "{"type": "Polygon", "coordinates": [[[-88.5278, 30.783], [-88.5278, 35.1142], [-84.9243, 35.1142], [-84.9243, 30.783], [-88.5278, 30.783]]]}"
 	},
 	{
 		"key": "guid",
@@ -295,7 +295,7 @@
 		"revision_timestamp": "2013-03-20T21:11:17.592932",
 		"is_organization": true,
 		"state": "active",
-		"image_url": "http:\/\/www.50states.com\/flag\/image\/nunst004.gif",
+		"image_url": "http://www.50states.com/flag/image/nunst004.gif",
 		"revision_id": "61be6428-4398-4199-a336-f3cd1e956f9b",
 		"type": "organization",
 		"id": "f3f6e1d4-64fb-4a2f-b32c-9ac0b76fe4de",

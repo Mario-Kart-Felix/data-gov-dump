@@ -36,7 +36,7 @@
 		"cache_url": null,
 		"name": "Shapefile Zip File",
 		"created": "2016-10-05T09:56:29.258375",
-		"url": "http:\/\/www2.census.gov\/geo\/tiger\/TIGER2016\/FEATNAMES\/",
+		"url": "http://www2.census.gov/geo/tiger/TIGER2016/FEATNAMES/",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 0,
@@ -53,7 +53,7 @@
 		"state": "active",
 		"last_modified": null,
 		"hash": "",
-		"description": "Should be used for most mapping projects--this is our most comprehensive dataset. Designed for use with GIS (geographic\n                                             information systems).",
+		"description": "Should be used for most mapping projects--this is our most comprehensive dataset. Designed for use with GIS (geographicn                                             information systems).",
 		"format": "HTML",
 		"tracking_summary": {
 			"total": 0,
@@ -63,9 +63,9 @@
 		"resource_locator_protocol": "",
 		"mimetype": null,
 		"cache_url": null,
-		"name": "TIGER\/Line\u00ae Shapefiles",
+		"name": "TIGER/Lineu00ae Shapefiles",
 		"created": "2016-10-05T09:56:29.258425",
-		"url": "http:\/\/www.census.gov\/geo\/maps-data\/data\/tiger-line.html",
+		"url": "http://www.census.gov/geo/maps-data/data/tiger-line.html",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 1,
@@ -94,7 +94,7 @@
 		"cache_url": null,
 		"name": "Entity and Attribute File for the 2016 Feature Names County-based Relationship File",
 		"created": "2016-10-05T09:56:29.258435",
-		"url": "http:\/\/meta.geo.census.gov\/data\/existing\/decennial\/GEO\/GPMB\/TIGERline\/TIGER2016\/featnames\/tl_2016_featnames.dbf.ea.iso.xml",
+		"url": "http://meta.geo.census.gov/data/existing/decennial/GEO/GPMB/TIGERline/TIGER2016/featnames/tl_2016_featnames.dbf.ea.iso.xml",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 2,
@@ -103,7 +103,7 @@
 	}],
 	"num_resources": 3,
 	"tags": [],
-	"title": "TIGER\/Line Shapefile,  2016, Series Information for the Feature Names County-based Relationship File",
+	"title": "TIGER/Line Shapefile,  2016, Series Information for the Feature Names County-based Relationship File",
 	"tracking_summary": {
 		"total": 5,
 		"recent": 0
@@ -114,7 +114,7 @@
 	"name": "tiger-line-shapefile-2016-series-information-for-the-feature-names-county-based-relationship-fi",
 	"isopen": false,
 	"url": null,
-	"notes": "The TIGER\/Line shapefiles and related database files (.dbf) are an extract of selected geographic and cartographic information from the\n                                 U.S. Census Bureau's Master Address File \/ Topologically Integrated Geographic Encoding and Referencing (MAF\/TIGER) Database (MTDB).\n                                 The MTDB represents a seamless national file with no overlaps or gaps between parts, however, each TIGER\/Line shapefile is designed to\n                                 stand alone as an independent data set, or they can be combined to cover the entire nation.\n\n                                 The MTDB represents a seamless national file with no overlaps or gaps between parts, however, each TIGER\/Line File is designed to stand\n                                 alone as an independent data set, or they can be combined to cover the entire nation.  The Feature Names Relationship File\n                                 (FEATNAMES.dbf) contains a record for each feature name and any attributes associated with it.  Each feature name can be linked to the\n                                 corresponding edges that make up that feature in the All Lines Shapefile (EDGES.shp), where applicable to the corresponding address\n                                 range or ranges in the Address Ranges Relationship File (ADDR.dbf), or to both files.  Although this file includes feature names for\n                                 all linear features, not just road features, the primary purpose of this relationship file is to identify all street names associated\n                                 with each address range.  An edge can have several feature names; an address range located on an edge can be associated with one or any\n                                 combination of the available feature names (an address range can be linked to multiple feature names).  The address range is identified\n                                 by the address range identifier (ARID) attribute, which can be used to link to the Address Ranges Relationship File (ADDR.dbf).  The\n                                 linear feature is identified by the linear feature identifier (LINEARID) attribute,  which can be used to relate the address range back\n                                 to the name attributes of the feature in the Feature Names Relationship File or to the feature record in the Primary Roads, Primary and\n                                 Secondary Roads, or All Roads Shapefiles. The edge to which a feature name applies can be determined by linking the feature name record\n                                 to the All Lines Shapefile (EDGES.shp) using the permanent edge identifier (TLID) attribute.  The address range identifier(s) (ARID)\n                                 for a specific linear feature can be found by using the linear feature identifier (LINEARID) from the Feature Names Relationship File\n                                 (FEATNAMES.dbf) through the Address Range \/ Feature Name Relationship File (ADDRFN.dbf).  \n            ",
+	"notes": "The TIGER/Line shapefiles and related database files (.dbf) are an extract of selected geographic and cartographic information from then                                 U.S. Census Bureau's Master Address File / Topologically Integrated Geographic Encoding and Referencing (MAF/TIGER) Database (MTDB).n                                 The MTDB represents a seamless national file with no overlaps or gaps between parts, however, each TIGER/Line shapefile is designed ton                                 stand alone as an independent data set, or they can be combined to cover the entire nation.nn                                 The MTDB represents a seamless national file with no overlaps or gaps between parts, however, each TIGER/Line File is designed to standn                                 alone as an independent data set, or they can be combined to cover the entire nation.  The Feature Names Relationship Filen                                 (FEATNAMES.dbf) contains a record for each feature name and any attributes associated with it.  Each feature name can be linked to then                                 corresponding edges that make up that feature in the All Lines Shapefile (EDGES.shp), where applicable to the corresponding addressn                                 range or ranges in the Address Ranges Relationship File (ADDR.dbf), or to both files.  Although this file includes feature names forn                                 all linear features, not just road features, the primary purpose of this relationship file is to identify all street names associatedn                                 with each address range.  An edge can have several feature names; an address range located on an edge can be associated with one or anyn                                 combination of the available feature names (an address range can be linked to multiple feature names).  The address range is identifiedn                                 by the address range identifier (ARID) attribute, which can be used to link to the Address Ranges Relationship File (ADDR.dbf).  Then                                 linear feature is identified by the linear feature identifier (LINEARID) attribute,  which can be used to relate the address range backn                                 to the name attributes of the feature in the Feature Names Relationship File or to the feature record in the Primary Roads, Primary andn                                 Secondary Roads, or All Roads Shapefiles. The edge to which a feature name applies can be determined by linking the feature name recordn                                 to the All Lines Shapefile (EDGES.shp) using the permanent edge identifier (TLID) attribute.  The address range identifier(s) (ARID)n                                 for a specific linear feature can be found by using the linear feature identifier (LINEARID) from the Feature Names Relationship Filen                                 (FEATNAMES.dbf) through the Address Range / Feature Name Relationship File (ADDRFN.dbf).  n            ",
 	"license_title": null,
 	"extras": [{
 		"key": "bbox-east-long",
@@ -138,7 +138,7 @@
 	},
 	{
 		"key": "dataset-reference-date",
-		"value": "[{\"type\": \"publication\", \"value\": \"2016\"}]"
+		"value": "[{"type": "publication", "value": "2016"}]"
 	},
 	{
 		"key": "resource-type",
@@ -178,7 +178,7 @@
 	},
 	{
 		"key": "spatial",
-		"value": "{\"type\": \"Polygon\", \"coordinates\": [[[-179.231086, -14.601813], [179.859681, -14.601813], [179.859681, 71.441059], [-179.231086, 71.441059], [-179.231086, -14.601813]]]}"
+		"value": "{"type": "Polygon", "coordinates": [[[-179.231086, -14.601813], [179.859681, -14.601813], [179.859681, 71.441059], [-179.231086, 71.441059], [-179.231086, -14.601813]]]}"
 	},
 	{
 		"key": "guid",
@@ -190,7 +190,7 @@
 	},
 	{
 		"key": "access_constraints",
-		"value": "[\" Access Constraints: None\", \" Use Constraints:The TIGER\/Line Shapefile products are not copyrighted however TIGER\/Line and Census TIGER are registered\\n                                        trademarks of the U.S. Census Bureau.  These products are free to use in a product or publication, however acknowledgement must\\n                                        be given to the U.S. Census Bureau as the source.\\n                  \"]"
+		"value": "[" Access Constraints: None", " Use Constraints:The TIGER/Line Shapefile products are not copyrighted however TIGER/Line and Census TIGER are registered\n                                        trademarks of the U.S. Census Bureau.  These products are free to use in a product or publication, however acknowledgement must\n                                        be given to the U.S. Census Bureau as the source.\n                  "]"
 	},
 	{
 		"key": "spatial_harvester",
@@ -232,7 +232,7 @@
 		"revision_timestamp": "2013-08-29T13:37:04.171127",
 		"is_organization": true,
 		"state": "active",
-		"image_url": "http:\/\/www.census.gov\/main\/img\/home\/CensusLogo-white.png",
+		"image_url": "http://www.census.gov/main/img/home/CensusLogo-white.png",
 		"revision_id": "0995f525-d563-4254-a535-af5b926fe663",
 		"type": "organization",
 		"id": "31c49abe-512a-412a-9cc7-5b2601325d6b",

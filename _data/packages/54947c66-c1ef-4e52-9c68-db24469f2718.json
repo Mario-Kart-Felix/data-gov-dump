@@ -37,7 +37,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2016-04-29T16:59:23.249932",
-		"url": "http:\/\/bios.dfg.ca.gov\/",
+		"url": "http://bios.dfg.ca.gov/",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 0,
@@ -67,7 +67,7 @@
 		"cache_url": null,
 		"name": "Zip File",
 		"created": "2016-04-29T16:59:23.250005",
-		"url": "ftp:\/\/ftp.dfg.ca.gov\/BDB\/GIS\/BIOS\/Public_Datasets\/900_999\/ds985.zip",
+		"url": "ftp://ftp.dfg.ca.gov/BDB/GIS/BIOS/Public_Datasets/900_999/ds985.zip",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 1,
@@ -87,7 +87,7 @@
 	"name": "vegetation-fish-slough-ds985",
 	"isopen": false,
 	"url": null,
-	"notes": "A fine-scale vegetation classification and map of a portion of the Fish Slough Area of Critical Environmental Concern (ACEC) (including the California Department of Fish and Wildlife (CDFW) Fish Slough Ecological Reserve) in Inyo and Mono Counties, California, was created by the CDFW Vegetation Classification and Mapping Program (VegCAMP). The vegetation classification is derived from floristic field survey data collected during September 2011, November 2012 and June 2013 and is based on previously described Alliances and Associations, with a few new provisional types included. The map was produced using heads-up digitizing using true-color 2012 1-meter National Agricultural Imagery Program (NAIP) imagery as the base. Supplemental imagery included 2012 1-meter NAIP Color Infrared and imagery available through Bing Maps and Google Earth. The minimum mapping unit (MMU) is 1 acre for upland habitats and \u00bc-acre for wetland habitats. Field reconnaissance and field verification enhanced map quality. The final map includes a total of 365 polygons representing 40 vegetation map classes.",
+	"notes": "A fine-scale vegetation classification and map of a portion of the Fish Slough Area of Critical Environmental Concern (ACEC) (including the California Department of Fish and Wildlife (CDFW) Fish Slough Ecological Reserve) in Inyo and Mono Counties, California, was created by the CDFW Vegetation Classification and Mapping Program (VegCAMP). The vegetation classification is derived from floristic field survey data collected during September 2011, November 2012 and June 2013 and is based on previously described Alliances and Associations, with a few new provisional types included. The map was produced using heads-up digitizing using true-color 2012 1-meter National Agricultural Imagery Program (NAIP) imagery as the base. Supplemental imagery included 2012 1-meter NAIP Color Infrared and imagery available through Bing Maps and Google Earth. The minimum mapping unit (MMU) is 1 acre for upland habitats and u00bc-acre for wetland habitats. Field reconnaissance and field verification enhanced map quality. The final map includes a total of 365 polygons representing 40 vegetation map classes.",
 	"license_title": null,
 	"extras": [{
 		"key": "bbox-east-long",
@@ -123,7 +123,7 @@
 	},
 	{
 		"key": "spatial",
-		"value": "{\"type\": \"Polygon\", \"coordinates\": [[[-118.424239, 37.433307], [-118.383373, 37.433307], [-118.383373, 37.550457], [-118.424239, 37.550457], [-118.424239, 37.433307]]]}"
+		"value": "{"type": "Polygon", "coordinates": [[[-118.424239, 37.433307], [-118.383373, 37.433307], [-118.383373, 37.550457], [-118.424239, 37.550457], [-118.424239, 37.433307]]]}"
 	},
 	{
 		"key": "progress",
@@ -131,7 +131,7 @@
 	},
 	{
 		"key": "access_constraints",
-		"value": "[\"Use Constraints: CDFW appreciates learning how our datasets are being used so that we can leverage support for classifying and mapping new areas and let users know of any updates. Please contact Diana Hickson by email or by phone at (916) 327-5956.\", \"Access Constraints: None\"]"
+		"value": "["Use Constraints: CDFW appreciates learning how our datasets are being used so that we can leverage support for classifying and mapping new areas and let users know of any updates. Please contact Diana Hickson by email or by phone at (916) 327-5956.", "Access Constraints: None"]"
 	},
 	{
 		"key": "temporal-extent-begin",
@@ -151,7 +151,7 @@
 	},
 	{
 		"key": "dataset-reference-date",
-		"value": "[{\"type\": \"publication\", \"value\": \"2014-02-10\"}]"
+		"value": "[{"type": "publication", "value": "2014-02-10"}]"
 	},
 	{
 		"key": "frequency-of-update",
@@ -159,7 +159,7 @@
 	},
 	{
 		"key": "licence",
-		"value": "[\" \"]"
+		"value": "[" "]"
 	},
 	{
 		"key": "metadata_type",
@@ -167,7 +167,7 @@
 	},
 	{
 		"key": "responsible-party",
-		"value": "[{\"name\": \"California Department of Fish and Wildlife\", \"roles\": [\"pointOfContact\"]}]"
+		"value": "[{"name": "California Department of Fish and Wildlife", "roles": ["pointOfContact"]}]"
 	},
 	{
 		"key": "temporal-extent-end",
@@ -213,7 +213,7 @@
 		"revision_timestamp": "2013-05-31T17:51:13.706377",
 		"is_organization": true,
 		"state": "active",
-		"image_url": "http:\/\/www.ca.gov\/images\/template2012\/header_ca.gov.png",
+		"image_url": "http://www.ca.gov/images/template2012/header_ca.gov.png",
 		"revision_id": "ad94cda4-9394-44d0-9c37-573dc3c47c9a",
 		"type": "organization",
 		"id": "467d900f-8a42-452d-9906-6610dd1a767f",

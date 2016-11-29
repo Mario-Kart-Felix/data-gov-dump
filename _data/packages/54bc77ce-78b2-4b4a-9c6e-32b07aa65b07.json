@@ -37,7 +37,7 @@
 		"cache_url": null,
 		"name": "NetCDF File",
 		"created": "2015-09-26T22:53:30.802693",
-		"url": "ftp:\/\/sidads.colorado.edu\/pub\/DATASETS\/NOAA\/G02202_v2",
+		"url": "ftp://sidads.colorado.edu/pub/DATASETS/NOAA/G02202_v2",
 		"webstore_url": null,
 		"resource_locator_function": "function",
 		"position": 0,
@@ -67,7 +67,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2015-09-26T22:53:30.802757",
-		"url": "http:\/\/nsidc.org\/data\/docs\/noaa\/g02202_ice_conc_cdr\/index.html",
+		"url": "http://nsidc.org/data/docs/noaa/g02202_ice_conc_cdr/index.html",
 		"webstore_url": null,
 		"resource_locator_function": "function",
 		"position": 1,
@@ -85,7 +85,7 @@
 		"last_modified": null,
 		"hash": "",
 		"description": "",
-		"format": "application\/vnd.lotus-organizer",
+		"format": "application/vnd.lotus-organizer",
 		"tracking_summary": {
 			"total": 85,
 			"recent": 4
@@ -97,7 +97,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2015-09-26T22:53:30.802777",
-		"url": "http:\/\/nsidc.org",
+		"url": "http://nsidc.org",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 2,
@@ -127,7 +127,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2015-09-26T22:53:30.802786",
-		"url": "http:\/\/nsidc.org\/noaa\/",
+		"url": "http://nsidc.org/noaa/",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 3,
@@ -145,7 +145,7 @@
 		"last_modified": null,
 		"hash": "",
 		"description": "",
-		"format": "application\/vnd.lotus-organizer",
+		"format": "application/vnd.lotus-organizer",
 		"tracking_summary": {
 			"total": 85,
 			"recent": 4
@@ -157,7 +157,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2015-09-26T22:53:30.802794",
-		"url": "http:\/\/nsidc.org",
+		"url": "http://nsidc.org",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 4,
@@ -166,7 +166,7 @@
 	}],
 	"num_resources": 5,
 	"tags": [],
-	"title": "NOAA\/NSIDC Climate Data Record of Passive Microwave Sea Ice Concentration",
+	"title": "NOAA/NSIDC Climate Data Record of Passive Microwave Sea Ice Concentration",
 	"tracking_summary": {
 		"total": 12,
 		"recent": 2
@@ -177,7 +177,7 @@
 	"name": "noaa-nsidc-climate-data-record-of-passive-microwave-sea-ice-concentration",
 	"isopen": false,
 	"url": null,
-	"notes": "\nThis data set provides a Climate Data Record (CDR) of sea ice concentration from passive microwave data. It provides a consistent, daily and monthly time series of sea ice concentrations from 09 July 1987 through through most recent processing for both the north and south polar regions on a 25 km x 25 km grid.The NOAA\/NSIDC CDR is based on the recommendations from the National Research Council (NRC) (2004). It is produced from gridded brightness temperatures from the Defense Meteorological Satellite Program (DMSP) F8, F11, and F13 Special Sensor Microwave Imager (SSM\/I) passive microwave radiometers and the DMSP F17 Special Sensor Microwave Imager\/Sounder (SSMIS) passive microwave radiometer.The NOAA\/NSIDC CDR sea ice concentrations are an estimate of the fraction of ocean area covered by sea ice that is produced by combining concentration estimates created using two algorithms developed at the NASA Goddard Space Flight Center (GSFC): the NASA Team algorithm (Cavalieri et al., 1984) and the Bootstrap algorithm (Comiso, 1986). NSIDC applies the individual algorithms to brightness temperature data from Remote Sensing Systems, Inc. (RSS).The data are gridded on the NSIDC polar stereographic grid with 25 x 25 km grid cells and are available in netCDF file format. Each file includes four different sea ice concentration variables: a variable with the primary CDR sea ice concentrations created by NSIDC and three variables with sea ice concentrations created by Goddard.The three Goddard-produced sea ice concentrations are the Goddard NASA Team algorithm sea ice concentrations, the Goddard Bootstrap sea ice concentrations, and a merged version of the two sea ice concentrations. These Goddard-produced sea ice concentrations are included in the data files for a number of reasons. First, the merged Goddard NASA Team\/Bootstrap sea ice concentrations are an ancillary data set that is analogous to the NOAA\/NSIDC CDR data but that adds late 1978 through mid 1987 data to the record. A different instrument, the Scanning Multichannel Microwave Radiometer (SMMR), was the source for the brightness temperatures from this period. Sea ice concentrations from the extended period are not part of the primary NSIDC-produced CDR record because complete documentation of the SMMR brightness temperature processing method is not available. Second, the separate Goddard NASA Team and Bootstrap sea ice concentrations are provided for reference.Variables containing standard deviation, quality flags, and projection information are also included in the netCDF files.\n",
+	"notes": "nThis data set provides a Climate Data Record (CDR) of sea ice concentration from passive microwave data. It provides a consistent, daily and monthly time series of sea ice concentrations from 09 July 1987 through through most recent processing for both the north and south polar regions on a 25 km x 25 km grid.The NOAA/NSIDC CDR is based on the recommendations from the National Research Council (NRC) (2004). It is produced from gridded brightness temperatures from the Defense Meteorological Satellite Program (DMSP) F8, F11, and F13 Special Sensor Microwave Imager (SSM/I) passive microwave radiometers and the DMSP F17 Special Sensor Microwave Imager/Sounder (SSMIS) passive microwave radiometer.The NOAA/NSIDC CDR sea ice concentrations are an estimate of the fraction of ocean area covered by sea ice that is produced by combining concentration estimates created using two algorithms developed at the NASA Goddard Space Flight Center (GSFC): the NASA Team algorithm (Cavalieri et al., 1984) and the Bootstrap algorithm (Comiso, 1986). NSIDC applies the individual algorithms to brightness temperature data from Remote Sensing Systems, Inc. (RSS).The data are gridded on the NSIDC polar stereographic grid with 25 x 25 km grid cells and are available in netCDF file format. Each file includes four different sea ice concentration variables: a variable with the primary CDR sea ice concentrations created by NSIDC and three variables with sea ice concentrations created by Goddard.The three Goddard-produced sea ice concentrations are the Goddard NASA Team algorithm sea ice concentrations, the Goddard Bootstrap sea ice concentrations, and a merged version of the two sea ice concentrations. These Goddard-produced sea ice concentrations are included in the data files for a number of reasons. First, the merged Goddard NASA Team/Bootstrap sea ice concentrations are an ancillary data set that is analogous to the NOAA/NSIDC CDR data but that adds late 1978 through mid 1987 data to the record. A different instrument, the Scanning Multichannel Microwave Radiometer (SMMR), was the source for the brightness temperatures from this period. Sea ice concentrations from the extended period are not part of the primary NSIDC-produced CDR record because complete documentation of the SMMR brightness temperature processing method is not available. Second, the separate Goddard NASA Team and Bootstrap sea ice concentrations are provided for reference.Variables containing standard deviation, quality flags, and projection information are also included in the netCDF files.n",
 	"license_title": null,
 	"extras": [{
 		"key": "bbox-east-long",
@@ -213,7 +213,7 @@
 	},
 	{
 		"key": "spatial",
-		"value": "{\"type\": \"Polygon\", \"coordinates\": [[[-180.0, -89.84], [180.0, -89.84], [180.0, 89.84], [-180.0, 89.84], [-180.0, -89.84]]]}"
+		"value": "{"type": "Polygon", "coordinates": [[[-180.0, -89.84], [180.0, -89.84], [180.0, 89.84], [-180.0, 89.84], [-180.0, -89.84]]]}"
 	},
 	{
 		"key": "progress",
@@ -221,7 +221,7 @@
 	},
 	{
 		"key": "access_constraints",
-		"value": "[\"Access Constraints : none\", \"Use Constraints : none\"]"
+		"value": "["Access Constraints : none", "Use Constraints : none"]"
 	},
 	{
 		"key": "temporal-extent-begin",
@@ -241,7 +241,7 @@
 	},
 	{
 		"key": "dataset-reference-date",
-		"value": "[{\"type\": \"publication\", \"value\": \"2013-06-20\"}]"
+		"value": "[{"type": "publication", "value": "2013-06-20"}]"
 	},
 	{
 		"key": "frequency-of-update",
@@ -257,7 +257,7 @@
 	},
 	{
 		"key": "responsible-party",
-		"value": "[{\"name\": \"Cooperative Institute for Research in Environmental Sciences, CU Boulder\", \"roles\": [\"principalInvestigator\"]}, {\"name\": \"National Snow and Ice Data Center\", \"roles\": [\"principalInvestigator\", \"pointOfContact\"]}, {\"name\": \"NASA Goddard Space Flight Center\", \"roles\": [\"principalInvestigator\"]}, {\"name\": \"CIRES\", \"roles\": [\"principalInvestigator\"]}]"
+		"value": "[{"name": "Cooperative Institute for Research in Environmental Sciences, CU Boulder", "roles": ["principalInvestigator"]}, {"name": "National Snow and Ice Data Center", "roles": ["principalInvestigator", "pointOfContact"]}, {"name": "NASA Goddard Space Flight Center", "roles": ["principalInvestigator"]}, {"name": "CIRES", "roles": ["principalInvestigator"]}]"
 	},
 	{
 		"key": "temporal-extent-end",
@@ -303,7 +303,7 @@
 		"revision_timestamp": "2013-03-25T23:05:12.923863",
 		"is_organization": true,
 		"state": "active",
-		"image_url": "https:\/\/fortress.wa.gov\/dfw\/score\/score\/images\/noaa_logo.png",
+		"image_url": "https://fortress.wa.gov/dfw/score/score/images/noaa_logo.png",
 		"revision_id": "c6d43080-22e1-405e-a83d-f2a512d9e867",
 		"type": "organization",
 		"id": "e811f0b4-451f-4896-9e8f-fc6802837819",

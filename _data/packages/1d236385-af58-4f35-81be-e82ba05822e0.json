@@ -36,7 +36,7 @@
 		"cache_url": null,
 		"name": "ASCII",
 		"created": "2014-11-17T16:13:30.863361",
-		"url": "http:\/\/water.usgs.gov\/GIS\/dsdl\/ds192_hp_npctprob.asc.zip",
+		"url": "http://water.usgs.gov/GIS/dsdl/ds192_hp_npctprob.asc.zip",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 0,
@@ -65,7 +65,7 @@
 		"cache_url": null,
 		"name": "ARCE",
 		"created": "2014-11-17T16:13:30.863433",
-		"url": "http:\/\/water.usgs.gov\/GIS\/dsdl\/ds192_hp_npctprob.e00.zip",
+		"url": "http://water.usgs.gov/GIS/dsdl/ds192_hp_npctprob.e00.zip",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 1,
@@ -95,7 +95,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2014-11-17T16:13:30.863443",
-		"url": "http:\/\/water.usgs.gov\/lookup\/getspatial?ds192_hp_npctprob",
+		"url": "http://water.usgs.gov/lookup/getspatial?ds192_hp_npctprob",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 2,
@@ -115,11 +115,11 @@
 	"name": "percentage-of-probability-of-nonpoint-source-nitrate-contamination-of-recently-recharged-ground",
 	"isopen": false,
 	"url": null,
-	"notes": "This raster data set represents the percentage of probability of nonpoint-source nitrate contamination (greater than the proposed background concentration of 4 milligrams per liter (mg\/L) as N) of recently (defined as less than 50 years) recharged ground water in the High Plains aquifer of the United States. The High Plains aquifer covers approximately 175,000 square miles in eight States; Colorado, Kansas, Nebraska, New Mexico, Oklahoma, South Dakota, Texas, and Wyoming. Elevated nitrate concentrations above the background concentration have been detected in recently recharged (less than 50 years) ground water in the High Plains aquifer. This data set is derived from empirical models developed using multivariate logistic regression to evaluate the vulnerability of the High Plains aquifer to nitrate contamination from nonpoint sources. This data set was generated in a geographic information system from these models and represents the spatial extent of vulnerability of nitrate contamination greater than 4 mg\/L across the aquifer.",
+	"notes": "This raster data set represents the percentage of probability of nonpoint-source nitrate contamination (greater than the proposed background concentration of 4 milligrams per liter (mg/L) as N) of recently (defined as less than 50 years) recharged ground water in the High Plains aquifer of the United States. The High Plains aquifer covers approximately 175,000 square miles in eight States; Colorado, Kansas, Nebraska, New Mexico, Oklahoma, South Dakota, Texas, and Wyoming. Elevated nitrate concentrations above the background concentration have been detected in recently recharged (less than 50 years) ground water in the High Plains aquifer. This data set is derived from empirical models developed using multivariate logistic regression to evaluate the vulnerability of the High Plains aquifer to nitrate contamination from nonpoint sources. This data set was generated in a geographic information system from these models and represents the spatial extent of vulnerability of nitrate contamination greater than 4 mg/L across the aquifer.",
 	"license_title": null,
 	"extras": [{
 		"key": "responsible-party",
-		"value": "[{\"name\": \"U.S. Geological Survey\", \"roles\": [\"pointOfContact\"]}]"
+		"value": "[{"name": "U.S. Geological Survey", "roles": ["pointOfContact"]}]"
 	},
 	{
 		"key": "contact-email",
@@ -131,7 +131,7 @@
 	},
 	{
 		"key": "bbox-west-long",
-		"value": "\n-106.016458"
+		"value": "n-106.016458"
 	},
 	{
 		"key": "metadata-date",
@@ -139,7 +139,7 @@
 	},
 	{
 		"key": "dataset-reference-date",
-		"value": "[{\"type\": \"publication\", \"value\": \"2006-01-01\"}]"
+		"value": "[{"type": "publication", "value": "2006-01-01"}]"
 	},
 	{
 		"key": "resource-type",
@@ -147,7 +147,7 @@
 	},
 	{
 		"key": "bbox-east-long",
-		"value": "\n-96.257462"
+		"value": "n-96.257462"
 	},
 	{
 		"key": "spatial-reference-system",
@@ -155,7 +155,7 @@
 	},
 	{
 		"key": "bbox-north-lat",
-		"value": "\n43.807085"
+		"value": "n43.807085"
 	},
 	{
 		"key": "coupled-resource",
@@ -163,11 +163,11 @@
 	},
 	{
 		"key": "bbox-south-lat",
-		"value": "\n31.652762"
+		"value": "n31.652762"
 	},
 	{
 		"key": "licence",
-		"value": "[\"Although these data have been used by the U.S. Geological Survey, U.S. Department of the Interior, no warranty expressed or implied is made by the U.S. Geological Survey as to the accuracy of the data.  The act of distribution shall not constitute any such warranty, and no responsibility is assumed by the U.S. Geological Survey in the use of these data, software, or related materials.\\n\\nThe use of firm, trade, or brand names in this report is for identification purposes only and does not constitute endorsement by the U.S. Geological Survey.  The names mentioned in this document may be trademarks or registered trademarks of their respective trademark owners.\"]"
+		"value": "["Although these data have been used by the U.S. Geological Survey, U.S. Department of the Interior, no warranty expressed or implied is made by the U.S. Geological Survey as to the accuracy of the data.  The act of distribution shall not constitute any such warranty, and no responsibility is assumed by the U.S. Geological Survey in the use of these data, software, or related materials.\n\nThe use of firm, trade, or brand names in this report is for identification purposes only and does not constitute endorsement by the U.S. Geological Survey.  The names mentioned in this document may be trademarks or registered trademarks of their respective trademark owners."]"
 	},
 	{
 		"key": "metadata_type",
@@ -179,7 +179,7 @@
 	},
 	{
 		"key": "spatial",
-		"value": "{\"type\": \"Polygon\", \"coordinates\": [[[-106.016458, 31.652762], [-96.257462, 31.652762], [-96.257462, 43.807085], [-106.016458, 43.807085], [-106.016458, 31.652762]]]}"
+		"value": "{"type": "Polygon", "coordinates": [[[-106.016458, 31.652762], [-96.257462, 31.652762], [-96.257462, 43.807085], [-106.016458, 43.807085], [-106.016458, 31.652762]]]}"
 	},
 	{
 		"key": "guid",
@@ -191,7 +191,7 @@
 	},
 	{
 		"key": "access_constraints",
-		"value": "[\"Use Constraints: This map does not show actual contamination of recently recharged ground water; rather, the map depicts areas of the aquifer that have the predicted likelihood of recently recharged ground water with nitrate concentrations that exceed the proposed background concentrations of 4 mg\/L as N. Although the probability maps show predictions of nitrate detection as a percent probability, there is inherent uncertainty within these predictions that is not shown in the probability map. This data set should not be used for interpretation at less than 500-meter resolution.\", \"Access Constraints: None\"]"
+		"value": "["Use Constraints: This map does not show actual contamination of recently recharged ground water; rather, the map depicts areas of the aquifer that have the predicted likelihood of recently recharged ground water with nitrate concentrations that exceed the proposed background concentrations of 4 mg/L as N. Although the probability maps show predictions of nitrate detection as a percent probability, there is inherent uncertainty within these predictions that is not shown in the probability map. This data set should not be used for interpretation at less than 500-meter resolution.", "Access Constraints: None"]"
 	},
 	{
 		"key": "spatial_harvester",
@@ -226,14 +226,14 @@
 		"value": "Water NSDI Node Spatial Datasets"
 	}],
 	"organization": {
-		"description": "http:\/\/www.usgs.gov\/\r\nThe USGS is a federal science agency that provides impartial information on the health of our ecosystems and environment, the natural hazards that threaten us, the natural resources we rely on, the impacts of climate and land-use change, and the core science systems that help us provide timely, relevant, and useable information.",
+		"description": "http://www.usgs.gov/rnThe USGS is a federal science agency that provides impartial information on the health of our ecosystems and environment, the natural hazards that threaten us, the natural resources we rely on, the impacts of climate and land-use change, and the core science systems that help us provide timely, relevant, and useable information.",
 		"created": "2013-03-14T03:44:38.263357",
 		"title": "U.S. Geological Survey, Department of the Interior",
 		"name": "usgs-gov",
 		"revision_timestamp": "2014-09-02T13:43:52.167023",
 		"is_organization": true,
 		"state": "active",
-		"image_url": "http:\/\/pubs.usgs.gov\/sir\/2004\/5296\/04-5296_confluence_park\/usgs_logo.gif",
+		"image_url": "http://pubs.usgs.gov/sir/2004/5296/04-5296_confluence_park/usgs_logo.gif",
 		"revision_id": "2858aa99-9501-4f96-82e5-9647b968ed66",
 		"type": "organization",
 		"id": "bd2cdd5a-4d65-46c0-9937-c8381175f104",

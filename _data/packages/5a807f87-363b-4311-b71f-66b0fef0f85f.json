@@ -36,7 +36,7 @@
 		"cache_url": null,
 		"name": "Export",
 		"created": "2014-11-17T16:13:09.718499",
-		"url": "http:\/\/water.usgs.gov\/GIS\/dsdl\/ofr96-449_wlelev.e00.gz",
+		"url": "http://water.usgs.gov/GIS/dsdl/ofr96-449_wlelev.e00.gz",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 0,
@@ -65,7 +65,7 @@
 		"cache_url": null,
 		"name": "Other",
 		"created": "2014-11-17T16:13:09.718521",
-		"url": "http:\/\/water.usgs.gov\/GIS\/dsdl\/ofr96-449_wlelev.dlg.gz",
+		"url": "http://water.usgs.gov/GIS/dsdl/ofr96-449_wlelev.dlg.gz",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 1,
@@ -95,7 +95,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2014-11-17T16:13:09.718529",
-		"url": "http:\/\/water.usgs.gov\/lookup\/getspatial?ofr96-449_wlelev",
+		"url": "http://water.usgs.gov/lookup/getspatial?ofr96-449_wlelev",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 2,
@@ -143,7 +143,7 @@
 	},
 	{
 		"key": "graphic-preview-file",
-		"value": "http:\/\/water.usgs.gov\/lookup\/get?OFR96-449\/browse.gif"
+		"value": "http://water.usgs.gov/lookup/get?OFR96-449/browse.gif"
 	},
 	{
 		"key": "bbox-south-lat",
@@ -159,7 +159,7 @@
 	},
 	{
 		"key": "spatial",
-		"value": "{\"type\": \"Polygon\", \"coordinates\": [[[-99.6808, 35.2285], [-99.0912, 35.2285], [-99.0912, 35.5289], [-99.6808, 35.5289], [-99.6808, 35.2285]]]}"
+		"value": "{"type": "Polygon", "coordinates": [[[-99.6808, 35.2285], [-99.0912, 35.2285], [-99.0912, 35.5289], [-99.6808, 35.5289], [-99.6808, 35.2285]]]}"
 	},
 	{
 		"key": "progress",
@@ -167,7 +167,7 @@
 	},
 	{
 		"key": "access_constraints",
-		"value": "[\"Use Constraints: This data set was digitized from a photocopy of a map published at a scale of 1:63,360. The map represents the elevation of the water levels in the aquifer in July 1973 (Lyons, 1981). Water-level elevation contours represented at this scale are indicative of broad, regional trends and should not be interpreted as site specific. The water-level elevation contours were digitized from a plate size (29 inches by 39 inches) paper map with a maximum root-mean-square-error (RMSE) of 0.015 map inches (0.038 map centimeters) and 249 feet (76 meters) ground distance.\", \"Access Constraints: None.\"]"
+		"value": "["Use Constraints: This data set was digitized from a photocopy of a map published at a scale of 1:63,360. The map represents the elevation of the water levels in the aquifer in July 1973 (Lyons, 1981). Water-level elevation contours represented at this scale are indicative of broad, regional trends and should not be interpreted as site specific. The water-level elevation contours were digitized from a plate size (29 inches by 39 inches) paper map with a maximum root-mean-square-error (RMSE) of 0.015 map inches (0.038 map centimeters) and 249 feet (76 meters) ground distance.", "Access Constraints: None."]"
 	},
 	{
 		"key": "contact-email",
@@ -183,7 +183,7 @@
 	},
 	{
 		"key": "dataset-reference-date",
-		"value": "[{\"type\": \"publication\", \"value\": \"1997-01-01\"}]"
+		"value": "[{"type": "publication", "value": "1997-01-01"}]"
 	},
 	{
 		"key": "graphic-preview-description",
@@ -195,7 +195,7 @@
 	},
 	{
 		"key": "licence",
-		"value": "[\"Although this data set has been used by the U.S. Geological\\nSurvey, U.S. Department of the Interior, no warranty expressed or\\nimplied is made by the U.S. Geological Survey as to the accuracy\\nof the data and related materials. The act of distribution shall not \\nconstitute any such warranty, and no responsibility is assumed by \\nthe U.S. Geological Survey in the use of this data, software, or \\nrelated materials.\\n\\nAny use of trade, product, or firm names is for descriptive\\npurposes only and does not imply endorsement by the U.S.\\nGovernment.\"]"
+		"value": "["Although this data set has been used by the U.S. Geological\nSurvey, U.S. Department of the Interior, no warranty expressed or\nimplied is made by the U.S. Geological Survey as to the accuracy\nof the data and related materials. The act of distribution shall not \nconstitute any such warranty, and no responsibility is assumed by \nthe U.S. Geological Survey in the use of this data, software, or \nrelated materials.\n\nAny use of trade, product, or firm names is for descriptive\npurposes only and does not imply endorsement by the U.S.\nGovernment."]"
 	},
 	{
 		"key": "metadata_type",
@@ -203,7 +203,7 @@
 	},
 	{
 		"key": "responsible-party",
-		"value": "[{\"name\": \"U.S. Geological Survey\", \"roles\": [\"pointOfContact\"]}]"
+		"value": "[{"name": "U.S. Geological Survey", "roles": ["pointOfContact"]}]"
 	},
 	{
 		"key": "spatial-data-service-type",
@@ -238,14 +238,14 @@
 		"value": "Water NSDI Node Spatial Datasets"
 	}],
 	"organization": {
-		"description": "http:\/\/www.usgs.gov\/\r\nThe USGS is a federal science agency that provides impartial information on the health of our ecosystems and environment, the natural hazards that threaten us, the natural resources we rely on, the impacts of climate and land-use change, and the core science systems that help us provide timely, relevant, and useable information.",
+		"description": "http://www.usgs.gov/rnThe USGS is a federal science agency that provides impartial information on the health of our ecosystems and environment, the natural hazards that threaten us, the natural resources we rely on, the impacts of climate and land-use change, and the core science systems that help us provide timely, relevant, and useable information.",
 		"created": "2013-03-14T03:44:38.263357",
 		"title": "U.S. Geological Survey, Department of the Interior",
 		"name": "usgs-gov",
 		"revision_timestamp": "2014-09-02T13:43:52.167023",
 		"is_organization": true,
 		"state": "active",
-		"image_url": "http:\/\/pubs.usgs.gov\/sir\/2004\/5296\/04-5296_confluence_park\/usgs_logo.gif",
+		"image_url": "http://pubs.usgs.gov/sir/2004/5296/04-5296_confluence_park/usgs_logo.gif",
 		"revision_id": "2858aa99-9501-4f96-82e5-9647b968ed66",
 		"type": "organization",
 		"id": "bd2cdd5a-4d65-46c0-9937-c8381175f104",

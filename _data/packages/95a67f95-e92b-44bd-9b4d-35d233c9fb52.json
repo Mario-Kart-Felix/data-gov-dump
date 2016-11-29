@@ -37,7 +37,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2016-05-31T02:37:16.686178",
-		"url": "https:\/\/coast.noaa.gov\/slr",
+		"url": "https://coast.noaa.gov/slr",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 0,
@@ -67,7 +67,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2016-05-31T02:37:16.686233",
-		"url": "https:\/\/coast.noaa.gov\/digitalcoast\/tools\/slr",
+		"url": "https://coast.noaa.gov/digitalcoast/tools/slr",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 1,
@@ -97,7 +97,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2016-05-31T02:37:16.686245",
-		"url": "https:\/\/coast.noaa.gov\/",
+		"url": "https://coast.noaa.gov/",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 2,
@@ -106,7 +106,7 @@
 	}],
 	"num_resources": 3,
 	"tags": [],
-	"title": "NOAA Office for Coastal Management Coastal Inundation Digital Elevation Model: Los Angeles\/Oxnard (CA) WFO - Santa Barbara and San Luis Obispo Counties",
+	"title": "NOAA Office for Coastal Management Coastal Inundation Digital Elevation Model: Los Angeles/Oxnard (CA) WFO - Santa Barbara and San Luis Obispo Counties",
 	"tracking_summary": {
 		"total": 2,
 		"recent": 1
@@ -117,7 +117,7 @@
 	"name": "noaa-office-for-coastal-management-coastal-inundation-digital-elevation-model-los-angeles-oxnar7e06f",
 	"isopen": false,
 	"url": null,
-	"notes": "This digital elevation model (DEM) is a part of a series of DEMs produced for the National Oceanic and Atmospheric Administration Office for Coastal Management's Sea Level Rise and Coastal Flooding Impacts Viewer. The DEMs created for this project were developed using the NOAA National Weather Service's Weather Forecast Office (WFO) boundaries. Because the WFO boundaries can cover large areas, the WFO DEM was divided into smaller DEMs to ensure more manageable file sizes. The Los Angeles\/Oxnard (CA) WFO DEM was split into two smaller DEMs. They are divided along county lines and are: 1. Los Angeles\/Oxnard (CA) WFO - Los Angeles and Ventura Counties 2. Los Angeles\/Oxnard (CA) WFO - Santa Barbara and San Luis Obispo Counties This metadata record describes the DEM for Los Angeles\/Oxnard (CA) WFO - Santa Barbara and San Luis Obispo Counties. The DEM includes the best available lidar data known to exist at the time of DEM creation for the coastal areas of Santa Barbara and San Luis Obispo counties, that met project specifications. The DEM is derived from LiDAR data collected for the California Coastal Conservancy between 2009 and 2011. Hydrographic breaklines used in the creation of the DEM were obtained from the California Coastal Conservancy. The DEMs are hydro flattened such that water elevations are less than or equal to 0 meters. The DEM is referenced vertically to the North American Vertical Datum of 1988 (NAVD88) with vertical units of meters and horizontally to the North American Datum of 1983 (NAD83). The resolution of the DEM is approximately 5 meters.",
+	"notes": "This digital elevation model (DEM) is a part of a series of DEMs produced for the National Oceanic and Atmospheric Administration Office for Coastal Management's Sea Level Rise and Coastal Flooding Impacts Viewer. The DEMs created for this project were developed using the NOAA National Weather Service's Weather Forecast Office (WFO) boundaries. Because the WFO boundaries can cover large areas, the WFO DEM was divided into smaller DEMs to ensure more manageable file sizes. The Los Angeles/Oxnard (CA) WFO DEM was split into two smaller DEMs. They are divided along county lines and are: 1. Los Angeles/Oxnard (CA) WFO - Los Angeles and Ventura Counties 2. Los Angeles/Oxnard (CA) WFO - Santa Barbara and San Luis Obispo Counties This metadata record describes the DEM for Los Angeles/Oxnard (CA) WFO - Santa Barbara and San Luis Obispo Counties. The DEM includes the best available lidar data known to exist at the time of DEM creation for the coastal areas of Santa Barbara and San Luis Obispo counties, that met project specifications. The DEM is derived from LiDAR data collected for the California Coastal Conservancy between 2009 and 2011. Hydrographic breaklines used in the creation of the DEM were obtained from the California Coastal Conservancy. The DEMs are hydro flattened such that water elevations are less than or equal to 0 meters. The DEM is referenced vertically to the North American Vertical Datum of 1988 (NAVD88) with vertical units of meters and horizontally to the North American Datum of 1983 (NAD83). The resolution of the DEM is approximately 5 meters.",
 	"license_title": null,
 	"extras": [{
 		"key": "bbox-east-long",
@@ -153,7 +153,7 @@
 	},
 	{
 		"key": "spatial",
-		"value": "{\"type\": \"Polygon\", \"coordinates\": [[[-121.439307316, 34.3259873677], [-119.439192316, 34.3259873677], [-119.439192316, 35.7975773677], [-121.439307316, 35.7975773677], [-121.439307316, 34.3259873677]]]}"
+		"value": "{"type": "Polygon", "coordinates": [[[-121.439307316, 34.3259873677], [-119.439192316, 34.3259873677], [-119.439192316, 35.7975773677], [-121.439307316, 35.7975773677], [-121.439307316, 34.3259873677]]]}"
 	},
 	{
 		"key": "progress",
@@ -161,7 +161,7 @@
 	},
 	{
 		"key": "access_constraints",
-		"value": "[\"Use Constraints: The dataset is provided \\\"as is,\\\" without warranty to its performance, merchantable state, or fitness for any particular purpose. The entire risk associated with the results and performance of this dataset is assumed by the user. This dataset should be used strictly as a planning reference and not for navigation, permitting, or other legal purposes.\", \"Access Constraints: None\"]"
+		"value": "["Use Constraints: The dataset is provided \"as is,\" without warranty to its performance, merchantable state, or fitness for any particular purpose. The entire risk associated with the results and performance of this dataset is assumed by the user. This dataset should be used strictly as a planning reference and not for navigation, permitting, or other legal purposes.", "Access Constraints: None"]"
 	},
 	{
 		"key": "temporal-extent-begin",
@@ -181,7 +181,7 @@
 	},
 	{
 		"key": "dataset-reference-date",
-		"value": "[{\"type\": \"publication\", \"value\": \"2012-01-01\"}]"
+		"value": "[{"type": "publication", "value": "2012-01-01"}]"
 	},
 	{
 		"key": "frequency-of-update",
@@ -189,7 +189,7 @@
 	},
 	{
 		"key": "licence",
-		"value": "[\"Any conclusions drawn from the analysis of this information are not the responsibility of the the Office for Coastal Management or its partners.\"]"
+		"value": "["Any conclusions drawn from the analysis of this information are not the responsibility of the the Office for Coastal Management or its partners."]"
 	},
 	{
 		"key": "metadata_type",
@@ -197,7 +197,7 @@
 	},
 	{
 		"key": "responsible-party",
-		"value": "[{\"name\": \"NOAA Office for Coastal Management\", \"roles\": [\"pointOfContact\"]}]"
+		"value": "[{"name": "NOAA Office for Coastal Management", "roles": ["pointOfContact"]}]"
 	},
 	{
 		"key": "temporal-extent-end",
@@ -213,7 +213,7 @@
 	},
 	{
 		"package_id": "95a67f95-e92b-44bd-9b4d-35d233c9fb52",
-		"value": "sea level rise, topography, elevation, inundation, san luis obispo county, us, lidar, santa barbara county, bathymetry\/topography, dem, digital elevation model, california, flooding",
+		"value": "sea level rise, topography, elevation, inundation, san luis obispo county, us, lidar, santa barbara county, bathymetry/topography, dem, digital elevation model, california, flooding",
 		"revision_timestamp": "2015-09-27T00:45:28.428680",
 		"state": "active",
 		"key": "tags",
@@ -243,7 +243,7 @@
 		"revision_timestamp": "2013-03-25T23:05:12.923863",
 		"is_organization": true,
 		"state": "active",
-		"image_url": "https:\/\/fortress.wa.gov\/dfw\/score\/score\/images\/noaa_logo.png",
+		"image_url": "https://fortress.wa.gov/dfw/score/score/images/noaa_logo.png",
 		"revision_id": "c6d43080-22e1-405e-a83d-f2a512d9e867",
 		"type": "organization",
 		"id": "e811f0b4-451f-4896-9e8f-fc6802837819",

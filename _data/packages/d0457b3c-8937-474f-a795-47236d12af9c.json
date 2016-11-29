@@ -36,7 +36,7 @@
 		"cache_url": null,
 		"name": "NDGIS web site",
 		"created": "2015-07-09T20:30:00.211613",
-		"url": "http:\/\/www.nd.gov\/gis",
+		"url": "http://www.nd.gov/gis",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 0,
@@ -65,7 +65,7 @@
 		"cache_url": null,
 		"name": "Download Fire Districts",
 		"created": "2015-07-09T20:30:00.211639",
-		"url": "http:\/\/www.nd.gov\/gis\/apps\/DataDownload\/?clipping=Full&coord=ND83-SF&format=SHAPE&layers=NDHUB.FIREDISTRICTS",
+		"url": "http://www.nd.gov/gis/apps/DataDownload/?clipping=Full&coord=ND83-SF&format=SHAPE&layers=NDHUB.FIREDISTRICTS",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 1,
@@ -94,7 +94,7 @@
 		"cache_url": null,
 		"name": "Fire Districts",
 		"created": "2015-07-09T20:30:00.211650",
-		"url": "http:\/\/ndgishub.nd.gov\/arcgis\/services\/All_EmergencyServices\/MapServer\/WMSServer?",
+		"url": "http://ndgishub.nd.gov/arcgis/services/All_EmergencyServices/MapServer/WMSServer?",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 2,
@@ -123,7 +123,7 @@
 		"cache_url": null,
 		"name": "Esri REST including WMS",
 		"created": "2015-07-09T20:30:00.211658",
-		"url": "http:\/\/ndgishub.nd.gov\/ArcGIS\/rest\/services\/All_EmergencyServices\/MapServer",
+		"url": "http://ndgishub.nd.gov/ArcGIS/rest/services/All_EmergencyServices/MapServer",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 3,
@@ -152,7 +152,7 @@
 		"cache_url": null,
 		"name": "Esri REST including WFS and KML",
 		"created": "2015-07-09T20:30:00.211667",
-		"url": "http:\/\/ndgishub.nd.gov\/ArcGIS\/rest\/services\/Features\/EmergencyServices\/MapServer",
+		"url": "http://ndgishub.nd.gov/ArcGIS/rest/services/Features/EmergencyServices/MapServer",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 4,
@@ -185,7 +185,7 @@
 	"name": "fire-districts",
 	"isopen": false,
 	"url": null,
-	"notes": "1\/16\/15 - Flaxton Fire Protection District was dissolved and incorporated into the Lignite Fire Protection district and the Bowbells Fire Protection District. Oakes Fire Protection District was updated to match the map sent in by their district.\n\n1\/28\/13 - The following Fire Districts were changed during the 2012 calendar year: Jamestown Fire Protection District, Pingree Fire Protection District, Kenmare Rural Fire Department, Tolley Fire Department, Wales Fire Department, Langdon Fire Protection District, Hampden Fire Protection District Munich Fire Protection District and Nekoma Fire Protection District.\n\n1\/23\/09 Counties: Towner, Benson,Ramsey - Leeds Fire District Counties: Grand Forks - Addition of the Grand Forks Fire District. Possible omission during digital conversion??? Counties: Kidder,Dickey - Dissolved the Merricourt Fire District Counties: Pembina - Matched the map received from Pembina County. 2\/25\/08 Based data is being maintained in UTM Zone 14N. The data was unprojected via ArcMap for use on the Hub. The information came from Ken Rood and the Insurance Commission. For years the NDDOT would use ChartPak tape and tape the boundaries on our 11 X 17 County Base Maps. Deciding the need for a digital layer, the mapping section started to create the layer during the winter of 2006\/2007. The section line layer was used to snap the Fire District Boundaries to. The layer was created in ArcMap and the names and fire district codes were given to us by the Insurance Commission. A geodatabase was created for the layer and topology rules were created to eliminate overlaps and slivers. The link to the maps on the Insurance Commissions site is http:\/\/www.nd.gov\/ndins\/company\/details.asp?ID=321",
+	"notes": "1/16/15 - Flaxton Fire Protection District was dissolved and incorporated into the Lignite Fire Protection district and the Bowbells Fire Protection District. Oakes Fire Protection District was updated to match the map sent in by their district.nn1/28/13 - The following Fire Districts were changed during the 2012 calendar year: Jamestown Fire Protection District, Pingree Fire Protection District, Kenmare Rural Fire Department, Tolley Fire Department, Wales Fire Department, Langdon Fire Protection District, Hampden Fire Protection District Munich Fire Protection District and Nekoma Fire Protection District.nn1/23/09 Counties: Towner, Benson,Ramsey - Leeds Fire District Counties: Grand Forks - Addition of the Grand Forks Fire District. Possible omission during digital conversion??? Counties: Kidder,Dickey - Dissolved the Merricourt Fire District Counties: Pembina - Matched the map received from Pembina County. 2/25/08 Based data is being maintained in UTM Zone 14N. The data was unprojected via ArcMap for use on the Hub. The information came from Ken Rood and the Insurance Commission. For years the NDDOT would use ChartPak tape and tape the boundaries on our 11 X 17 County Base Maps. Deciding the need for a digital layer, the mapping section started to create the layer during the winter of 2006/2007. The section line layer was used to snap the Fire District Boundaries to. The layer was created in ArcMap and the names and fire district codes were given to us by the Insurance Commission. A geodatabase was created for the layer and topology rules were created to eliminate overlaps and slivers. The link to the maps on the Insurance Commissions site is http://www.nd.gov/ndins/company/details.asp?ID=321",
 	"license_title": null,
 	"extras": [{
 		"key": "bbox-east-long",
@@ -229,7 +229,7 @@
 	},
 	{
 		"key": "spatial",
-		"value": "{\"type\": \"Polygon\", \"coordinates\": [[[-104.048726, 45.93506], [-96.554181, 45.93506], [-96.554181, 49.000575], [-104.048726, 49.000575], [-104.048726, 45.93506]]]}"
+		"value": "{"type": "Polygon", "coordinates": [[[-104.048726, 45.93506], [-96.554181, 45.93506], [-96.554181, 49.000575], [-104.048726, 49.000575], [-104.048726, 45.93506]]]}"
 	},
 	{
 		"key": "progress",
@@ -237,7 +237,7 @@
 	},
 	{
 		"key": "access_constraints",
-		"value": "[\"The State of North Dakota has compiled this data according to conventional cartographic standards, using what is thought to be the most reliable information available. This data is intended to make results of research available at the earliest possible date, but is not intended to constitute final or formal publication. The State of North Dakota makes every effort to provide virus-free files but does not guarantee uncorrupted files. The State of North Dakota does not guarantee this data to be free from errors, inaccuracies, or viruses, and disclaims any responsibility or liability for interpretations or decisions based on this data.\"]"
+		"value": "["The State of North Dakota has compiled this data according to conventional cartographic standards, using what is thought to be the most reliable information available. This data is intended to make results of research available at the earliest possible date, but is not intended to constitute final or formal publication. The State of North Dakota makes every effort to provide virus-free files but does not guarantee uncorrupted files. The State of North Dakota does not guarantee this data to be free from errors, inaccuracies, or viruses, and disclaims any responsibility or liability for interpretations or decisions based on this data."]"
 	},
 	{
 		"key": "contact-email",
@@ -253,7 +253,7 @@
 	},
 	{
 		"key": "dataset-reference-date",
-		"value": "[{\"type\": \"publication\", \"value\": \"2015-01-16\"}]"
+		"value": "[{"type": "publication", "value": "2015-01-16"}]"
 	},
 	{
 		"key": "graphic-preview-description",
@@ -273,7 +273,7 @@
 	},
 	{
 		"key": "responsible-party",
-		"value": "[{\"name\": \"ND Department of Transportation\", \"roles\": [\"pointOfContact\"]}]"
+		"value": "[{"name": "ND Department of Transportation", "roles": ["pointOfContact"]}]"
 	},
 	{
 		"key": "spatial-data-service-type",
@@ -308,14 +308,14 @@
 		"value": "North Dakota GIS Hub Data Portal"
 	}],
 	"organization": {
-		"description": "The GIS Hub is the state source for GIS - data, services, and information.  More information can be found at www.nd.gov\/gis.",
+		"description": "The GIS Hub is the state source for GIS - data, services, and information.  More information can be found at www.nd.gov/gis.",
 		"created": "2013-03-14T03:44:44.340717",
 		"title": "State of North Dakota",
 		"name": "nd-gov",
 		"revision_timestamp": "2013-07-15T16:27:30.098476",
 		"is_organization": true,
 		"state": "active",
-		"image_url": "http:\/\/www.nd.gov\/gis\/images\/ndgis-logo.gif",
+		"image_url": "http://www.nd.gov/gis/images/ndgis-logo.gif",
 		"revision_id": "27517bb9-815c-4d4f-b45b-b88b6316697b",
 		"type": "organization",
 		"id": "1c782de6-9f1f-4427-93fd-33732e29970f",

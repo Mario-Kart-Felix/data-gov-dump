@@ -36,7 +36,7 @@
 		"cache_url": null,
 		"name": "Downloadable File",
 		"created": "2013-03-16T00:16:44.604145",
-		"url": "http:\/\/services.azgs.az.gov\/ArcGIS\/rest\/services\/aasggeothermal\/SDWellheaders\/MapServer",
+		"url": "http://services.azgs.az.gov/ArcGIS/rest/services/aasggeothermal/SDWellheaders/MapServer",
 		"webstore_url": null,
 		"resource_locator_function": "375",
 		"position": 0,
@@ -65,7 +65,7 @@
 		"cache_url": null,
 		"name": "Downloadable File",
 		"created": "2013-03-16T00:16:44.604165",
-		"url": "http:\/\/services.azgs.az.gov\/ArcGIS\/services\/aasggeothermal\/SDWellheaders\/MapServer\/WMSServer?request=GetCapabilities&service=WMS",
+		"url": "http://services.azgs.az.gov/ArcGIS/services/aasggeothermal/SDWellheaders/MapServer/WMSServer?request=GetCapabilities&service=WMS",
 		"webstore_url": null,
 		"resource_locator_function": "375",
 		"position": 1,
@@ -94,7 +94,7 @@
 		"cache_url": null,
 		"name": "Service Description",
 		"created": "2013-03-16T00:16:44.604172",
-		"url": "http:\/\/services.azgs.az.gov\/ArcGIS\/services\/aasggeothermal\/SDWellheaders\/MapServer\/WFSServer?request=GetCapabilities&service=WFS",
+		"url": "http://services.azgs.az.gov/ArcGIS/services/aasggeothermal/SDWellheaders/MapServer/WFSServer?request=GetCapabilities&service=WFS",
 		"webstore_url": null,
 		"resource_locator_function": "381",
 		"position": 2,
@@ -123,7 +123,7 @@
 		"cache_url": null,
 		"name": "excel-file.zip",
 		"created": "2013-03-16T00:16:44.604177",
-		"url": "http:\/\/repository.stategeothermaldata.org\/metadata\/record\/98ddf901b9782a25982e01af3b14491d\/file\/excel-file.zip",
+		"url": "http://repository.stategeothermaldata.org/metadata/record/98ddf901b9782a25982e01af3b14491d/file/excel-file.zip",
 		"webstore_url": null,
 		"resource_locator_function": "375",
 		"position": 3,
@@ -156,11 +156,11 @@
 	"name": "south-dakota-well-headers",
 	"isopen": false,
 	"url": null,
-	"notes": "This dataset contains wellheader features compiled by the South Dakota Geological Survey, and published as a Web feature service for the National Geothermal Data System. Fields in the Wellheader Content Model will become XML elements in interchange documents for WMS simple features provided by a node in the USGIN network. Each feature includes a well name, well depth as well as Latitude and Longitude spatially referenced to EPSG: 4326 (for interoperability). The data contained in the submitted dataset is available as an Excel Spreadsheet, ESRI service, WMS and WFS service. Link to Borehole Temperature Observation Content Model: http:\/\/stategeothermaldata.org\/data_delivery\/content_models\/well_header. ",
+	"notes": "This dataset contains wellheader features compiled by the South Dakota Geological Survey, and published as a Web feature service for the National Geothermal Data System. Fields in the Wellheader Content Model will become XML elements in interchange documents for WMS simple features provided by a node in the USGIN network. Each feature includes a well name, well depth as well as Latitude and Longitude spatially referenced to EPSG: 4326 (for interoperability). The data contained in the submitted dataset is available as an Excel Spreadsheet, ESRI service, WMS and WFS service. Link to Borehole Temperature Observation Content Model: http://stategeothermaldata.org/data_delivery/content_models/well_header. ",
 	"license_title": null,
 	"extras": [{
 		"key": "responsible-party",
-		"value": "[{\"name\": \"AZGS\", \"roles\": [\"pointOfContact\"]}]"
+		"value": "[{"name": "AZGS", "roles": ["pointOfContact"]}]"
 	},
 	{
 		"key": "contact-email",
@@ -180,7 +180,7 @@
 	},
 	{
 		"key": "dataset-reference-date",
-		"value": "[{\"type\": \"publication\", \"value\": \"2012-10-03T00:00:00\"}]"
+		"value": "[{"type": "publication", "value": "2012-10-03T00:00:00"}]"
 	},
 	{
 		"key": "resource-type",
@@ -216,7 +216,7 @@
 	},
 	{
 		"key": "spatial",
-		"value": "{\"type\": \"Polygon\", \"coordinates\": [[[-104.798583984, 42.6752578063], [-104.798583984, 46.4311282309], [-96.3610839844, 46.4311282309], [-96.3610839844, 42.6752578063], [-104.798583984, 42.6752578063]]]}"
+		"value": "{"type": "Polygon", "coordinates": [[[-104.798583984, 42.6752578063], [-104.798583984, 46.4311282309], [-96.3610839844, 46.4311282309], [-96.3610839844, 42.6752578063], [-104.798583984, 42.6752578063]]]}"
 	},
 	{
 		"key": "guid",
@@ -266,7 +266,7 @@
 		"revision_timestamp": "2013-03-20T21:11:17.592932",
 		"is_organization": true,
 		"state": "active",
-		"image_url": "http:\/\/www.50states.com\/flag\/image\/nunst004.gif",
+		"image_url": "http://www.50states.com/flag/image/nunst004.gif",
 		"revision_id": "61be6428-4398-4199-a336-f3cd1e956f9b",
 		"type": "organization",
 		"id": "f3f6e1d4-64fb-4a2f-b32c-9ac0b76fe4de",

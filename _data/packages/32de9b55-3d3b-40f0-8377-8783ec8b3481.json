@@ -36,7 +36,7 @@
 		"cache_url": null,
 		"name": "tl_2014_us_coastline.zip",
 		"created": "2015-06-02T12:16:06.362656",
-		"url": "ftp:\/\/ftp2.census.gov\/geo\/tiger\/TIGER2014\/COAST\/tl_2014_us_coastline.zip",
+		"url": "ftp://ftp2.census.gov/geo/tiger/TIGER2014/COAST/tl_2014_us_coastline.zip",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 0,
@@ -45,7 +45,7 @@
 	}],
 	"num_resources": 1,
 	"tags": [],
-	"title": "TIGER\/Line Shapefile, 2014, Series Information File for the Coastline National Shapefile",
+	"title": "TIGER/Line Shapefile, 2014, Series Information File for the Coastline National Shapefile",
 	"tracking_summary": {
 		"total": 75,
 		"recent": 0
@@ -56,7 +56,7 @@
 	"name": "tiger-line-shapefile-2014-series-information-file-for-the-coastline-national-shapefil",
 	"isopen": false,
 	"url": null,
-	"notes": " The Coastline Shapefile includes all features within the MTDB Class \"Coastline\"\n               distinguished where the MAF\/TIGER Feature Classification Code (MTFCC) for the feature\n               in MTDB is L4150. The coastline included in this shapefile was delineated by the\n               Census Bureau in the MAF\/TIGER database based on water measurement class for display\n               of statistical information only; its depiction and designation for statistical\n               purposes does not constitute a determination of jurisdictional authority or rights of\n               ownership or entitlement and it is not a legal land description. This shapefile\n               should be used for data presentation purposes only. It is not the official source for\n               the coastline feature. The name assigned to each Coastline feature is a short form of\n               the name of the large body of water bordered by this Coastline feature.\n            ",
+	"notes": " The Coastline Shapefile includes all features within the MTDB Class "Coastline"n               distinguished where the MAF/TIGER Feature Classification Code (MTFCC) for the featuren               in MTDB is L4150. The coastline included in this shapefile was delineated by then               Census Bureau in the MAF/TIGER database based on water measurement class for displayn               of statistical information only; its depiction and designation for statisticaln               purposes does not constitute a determination of jurisdictional authority or rights ofn               ownership or entitlement and it is not a legal land description. This shapefilen               should be used for data presentation purposes only. It is not the official source forn               the coastline feature. The name assigned to each Coastline feature is a short form ofn               the name of the large body of water bordered by this Coastline feature.n            ",
 	"license_title": null,
 	"extras": [{
 		"key": "bbox-east-long",
@@ -96,7 +96,7 @@
 	},
 	{
 		"key": "spatial",
-		"value": "{\"type\": \"Polygon\", \"coordinates\": [[[-179.231086, -14.601813], [179.859681, -14.601813], [179.859681, 71.441059], [-179.231086, 71.441059], [-179.231086, -14.601813]]]}"
+		"value": "{"type": "Polygon", "coordinates": [[[-179.231086, -14.601813], [179.859681, -14.601813], [179.859681, 71.441059], [-179.231086, 71.441059], [-179.231086, -14.601813]]]}"
 	},
 	{
 		"key": "progress",
@@ -104,7 +104,7 @@
 	},
 	{
 		"key": "access_constraints",
-		"value": "[\"Access Constraints: None\", \"Use Constraints:\\n                     The TIGER\/Line Shapefile products are not copyrighted however TIGER\/Line and\\n                     Census TIGER are registered trademarks of the U.S. Census Bureau. These\\n                     products are free to use in a product or publication, however acknowledgment\\n                     must be given to the U.S. Census Bureau as the source. The horizontal spatial\\n                     accuracy information present in these files is provided for the purposes of\\n                     statistical analysis and census operations only. No warranty, expressed or\\n                     implied is made with regard to the accuracy of the spatial accuracy, and no\\n                     liability is assumed by the U.S. Government in general or the U.S. Census\\n                     Bureau, specifically as to the spatial or attribute accuracy of the data. The\\n                     TIGER\/Line Shapefiles may not be suitable for high-precision measurement\\n                     applications such as engineering problems, property transfers, or other uses\\n                     that might require highly accurate measurements of the earth's\\n                     surface. Coordinates in the TIGER\/Line shapefiles have six implied decimal\\n                     places, but the positional accuracy of these coordinates is not as great as the\\n                     six decimal places suggest.\", \"Distribution\\n                     Liability: No warranty, expressed or implied is made with regard to the\\n                     accuracy of these data, and no liability is assumed by the U.S. Government in\\n                     general or the U.S. Census Bureau in specific as to the spatial or attribute\\n                     accuracy of the data. The act of distribution shall not constitute any such\\n                     warranty and no responsibility is assumed by the U.S. government in the use of\\n                     these files. The boundary information in the TIGER\/Line Shapefiles is for\\n                     statistical data collection and tabulation purposes only; their depiction and\\n                     designation for statistical purposes do not constitute a determination of\\n                     jurisdictional authority or rights of ownership or entitlement and they are not\\n                     legal land descriptions.\"]"
+		"value": "["Access Constraints: None", "Use Constraints:\n                     The TIGER/Line Shapefile products are not copyrighted however TIGER/Line and\n                     Census TIGER are registered trademarks of the U.S. Census Bureau. These\n                     products are free to use in a product or publication, however acknowledgment\n                     must be given to the U.S. Census Bureau as the source. The horizontal spatial\n                     accuracy information present in these files is provided for the purposes of\n                     statistical analysis and census operations only. No warranty, expressed or\n                     implied is made with regard to the accuracy of the spatial accuracy, and no\n                     liability is assumed by the U.S. Government in general or the U.S. Census\n                     Bureau, specifically as to the spatial or attribute accuracy of the data. The\n                     TIGER/Line Shapefiles may not be suitable for high-precision measurement\n                     applications such as engineering problems, property transfers, or other uses\n                     that might require highly accurate measurements of the earth's\n                     surface. Coordinates in the TIGER/Line shapefiles have six implied decimal\n                     places, but the positional accuracy of these coordinates is not as great as the\n                     six decimal places suggest.", "Distribution\n                     Liability: No warranty, expressed or implied is made with regard to the\n                     accuracy of these data, and no liability is assumed by the U.S. Government in\n                     general or the U.S. Census Bureau in specific as to the spatial or attribute\n                     accuracy of the data. The act of distribution shall not constitute any such\n                     warranty and no responsibility is assumed by the U.S. government in the use of\n                     these files. The boundary information in the TIGER/Line Shapefiles is for\n                     statistical data collection and tabulation purposes only; their depiction and\n                     designation for statistical purposes do not constitute a determination of\n                     jurisdictional authority or rights of ownership or entitlement and they are not\n                     legal land descriptions."]"
 	},
 	{
 		"key": "temporal-extent-begin",
@@ -124,7 +124,7 @@
 	},
 	{
 		"key": "dataset-reference-date",
-		"value": "[{\"type\": \"publication\", \"value\": \"2014\"}]"
+		"value": "[{"type": "publication", "value": "2014"}]"
 	},
 	{
 		"key": "frequency-of-update",
@@ -182,7 +182,7 @@
 		"revision_timestamp": "2013-08-29T13:37:04.171127",
 		"is_organization": true,
 		"state": "active",
-		"image_url": "http:\/\/www.census.gov\/main\/img\/home\/CensusLogo-white.png",
+		"image_url": "http://www.census.gov/main/img/home/CensusLogo-white.png",
 		"revision_id": "0995f525-d563-4254-a535-af5b926fe663",
 		"type": "organization",
 		"id": "31c49abe-512a-412a-9cc7-5b2601325d6b",

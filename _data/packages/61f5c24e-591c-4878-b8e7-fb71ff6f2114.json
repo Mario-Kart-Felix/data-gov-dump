@@ -23,18 +23,18 @@
 		"size": null,
 		"state": "active",
 		"hash": "",
-		"description": "These files are ambient noise correlation (ANC) functions calculated for 11 days of continuous seismic data recorded by the Lawrence Berkeley network in the Brady geothermal field.\n\nThe stations included are:\n\n\tBPB04 BPB05 BPB07 BPB08 BPRT1 BPRT2 BPRT3 BPRT5 BRB10 BRP01 BRP02 BRP03 BRP04 BPR06 BRP09\n\nThe original data were cut into hour long traces and processed using the following formulation:\n\n\tdifferentiate \n        remove mean\n\tremove trend\n        apply 1% taper\n        whiten\n\tremove mean\n\tremove trend\n\tconvert to single bit traces\n\nThe data were then correlated with those from other stations and stacked. \n\nThe resulting files were then named according to the convention:\n\n\tSTA1.STA2.CHAN1_CHAN2.NHOURS.stacked.sac\n \nThe days included are from records during 2013 (julian days, 200,220-229).\n\nThe ANC correlations were calculated on the raw data traces (without instrument corrections applied) to assess the quality of the signal as a function of frequency throughout the network. The data were recorded at 500 Hz. We observe high quality signals 30 Hz on all traces, and measureable signal up to 80 Hz on a subset of the traces.\n",
+		"description": "These files are ambient noise correlation (ANC) functions calculated for 11 days of continuous seismic data recorded by the Lawrence Berkeley network in the Brady geothermal field.nnThe stations included are:nntBPB04 BPB05 BPB07 BPB08 BPRT1 BPRT2 BPRT3 BPRT5 BRB10 BRP01 BRP02 BRP03 BRP04 BPR06 BRP09nnThe original data were cut into hour long traces and processed using the following formulation:nntdifferentiate n        remove meanntremove trendn        apply 1% tapern        whitenntremove meanntremove trendntconvert to single bit tracesnnThe data were then correlated with those from other stations and stacked. nnThe resulting files were then named according to the convention:nntSTA1.STA2.CHAN1_CHAN2.NHOURS.stacked.sacn nThe days included are from records during 2013 (julian days, 200,220-229).nnThe ANC correlations were calculated on the raw data traces (without instrument corrections applied) to assess the quality of the signal as a function of frequency throughout the network. The data were recorded at 500 Hz. We observe high quality signals 30 Hz on all traces, and measureable signal up to 80 Hz on a subset of the traces.n",
 		"format": "ZIP",
 		"tracking_summary": {
 			"total": 2,
 			"recent": 1
 		},
 		"mimetype_inner": null,
-		"mimetype": "application\/zip",
+		"mimetype": "application/zip",
 		"cache_url": null,
 		"name": "porotomo.subtask3.1.ant.correlation-waveforms.zip",
 		"created": "2016-05-19T20:44:21.050340",
-		"url": "http:\/\/gdr.openei.org\/files\/494\/PoroTomo.Subtask3.1.ANT.Correlation_waveforms.zip",
+		"url": "http://gdr.openei.org/files/494/PoroTomo.Subtask3.1.ANT.Correlation_waveforms.zip",
 		"webstore_url": null,
 		"last_modified": null,
 		"position": 0,
@@ -95,7 +95,7 @@
 		"revision_timestamp": "2013-05-31T20:48:37.771905",
 		"is_organization": true,
 		"state": "active",
-		"image_url": "http:\/\/energy.gov\/sites\/prod\/files\/styles\/imagelink\/public\/DoE-Logo.jpeg",
+		"image_url": "http://energy.gov/sites/prod/files/styles/imagelink/public/DoE-Logo.jpeg",
 		"revision_id": "14e1d3c1-4cc7-460c-bf1c-b10e3429b4b0",
 		"type": "organization",
 		"id": "735d0118-b2a7-4246-a0e3-608b0fa8d1ec",
@@ -106,7 +106,7 @@
 	"name": "porotomo-subtask-3-1-ant-initial-waveforms-14aa8",
 	"isopen": true,
 	"url": null,
-	"notes": "These files are ambient noise correlation (ANC) functions calculated for 11 days of continuous seismic data recorded by the Lawrence Berkeley network in the Brady geothermal field. \nThese are SAC formatted seismic waveforms.",
+	"notes": "These files are ambient noise correlation (ANC) functions calculated for 11 days of continuous seismic data recorded by the Lawrence Berkeley network in the Brady geothermal field. nThese are SAC formatted seismic waveforms.",
 	"owner_org": "735d0118-b2a7-4246-a0e3-608b0fa8d1ec",
 	"extras": [{
 		"key": "harvest_source_id",
@@ -130,23 +130,23 @@
 	},
 	{
 		"key": "spatial",
-		"value": "{\"type\":\"Polygon\",\"coordinates\":[[[-119.2167,39.5883],[-118.8167,39.5883],[-118.8167,39.9883],[-119.2167,39.9883],[-119.2167,39.5883]]]}"
+		"value": "{"type":"Polygon","coordinates":[[[-119.2167,39.5883],[-118.8167,39.5883],[-118.8167,39.9883],[-119.2167,39.9883],[-119.2167,39.5883]]]}"
 	},
 	{
 		"key": "catalog_conformsTo",
-		"value": "https:\/\/project-open-data.cio.gov\/v1.1\/schema"
+		"value": "https://project-open-data.cio.gov/v1.1/schema"
 	},
 	{
 		"key": "catalog_@context",
-		"value": "https:\/\/project-open-data.cio.gov\/v1.1\/schema\/catalog.jsonld"
+		"value": "https://project-open-data.cio.gov/v1.1/schema/catalog.jsonld"
 	},
 	{
 		"key": "catalog_describedBy",
-		"value": "https:\/\/project-open-data.cio.gov\/v1.1\/schema\/catalog.json"
+		"value": "https://project-open-data.cio.gov/v1.1/schema/catalog.json"
 	},
 	{
 		"key": "format",
-		"value": "application\/unknown"
+		"value": "application/unknown"
 	},
 	{
 		"key": "harvest_source_title",
@@ -166,7 +166,7 @@
 	},
 	{
 		"key": "landingPage",
-		"value": "http:\/\/gdr.openei.org\/submissions\/494"
+		"value": "http://gdr.openei.org/submissions/494"
 	},
 	{
 		"key": "harvest_object_id",
@@ -174,7 +174,7 @@
 	},
 	{
 		"key": "accessURL",
-		"value": "http:\/\/gdr.openei.org\/files\/494\/PoroTomo.Subtask3.1.ANT.Correlation_waveforms.zip"
+		"value": "http://gdr.openei.org/files/494/PoroTomo.Subtask3.1.ANT.Correlation_waveforms.zip"
 	},
 	{
 		"key": "publisher",
@@ -182,7 +182,7 @@
 	},
 	{
 		"key": "license",
-		"value": "https:\/\/creativecommons.org\/licenses\/by\/4.0\/"
+		"value": "https://creativecommons.org/licenses/by/4.0/"
 	},
 	{
 		"key": "modified",
@@ -198,9 +198,9 @@
 	},
 	{
 		"key": "identifier",
-		"value": "http:\/\/en.openei.org\/doe-opendata\/dataset\/f0000000-e214-4b72-acd2-000000000494"
+		"value": "http://en.openei.org/doe-opendata/dataset/f0000000-e214-4b72-acd2-000000000494"
 	}],
-	"license_url": "http:\/\/www.opendefinition.org\/licenses\/cc-by",
+	"license_url": "http://www.opendefinition.org/licenses/cc-by",
 	"title": "PoroTomo_Subtask_3.1:ANT_(initial_waveforms)",
 	"revision_id": "a47af8da-137b-4ee4-b5bb-d2b3adce0a7b"
 }

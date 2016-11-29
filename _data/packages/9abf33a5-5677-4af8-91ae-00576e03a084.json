@@ -37,7 +37,7 @@
 		"cache_url": null,
 		"name": "Zip File",
 		"created": "2016-05-31T00:53:54.462521",
-		"url": "ftp:\/\/ftp.coast.noaa.gov\/pub\/benthic\/Grab_Sample_Data\/DE_DelawareBay_benthos.zip",
+		"url": "ftp://ftp.coast.noaa.gov/pub/benthic/Grab_Sample_Data/DE_DelawareBay_benthos.zip",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 0,
@@ -67,7 +67,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2016-05-31T00:53:54.462548",
-		"url": "https:\/\/coast.noaa.gov\/",
+		"url": "https://coast.noaa.gov/",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 1,
@@ -89,7 +89,7 @@
 		"revision_timestamp": "2013-03-25T23:05:12.923863",
 		"is_organization": true,
 		"state": "active",
-		"image_url": "https:\/\/fortress.wa.gov\/dfw\/score\/score\/images\/noaa_logo.png",
+		"image_url": "https://fortress.wa.gov/dfw/score/score/images/noaa_logo.png",
 		"revision_id": "c6d43080-22e1-405e-a83d-f2a512d9e867",
 		"type": "organization",
 		"id": "e811f0b4-451f-4896-9e8f-fc6802837819",
@@ -136,7 +136,7 @@
 	},
 	{
 		"key": "spatial",
-		"value": "{\"type\": \"Polygon\", \"coordinates\": [[[-75.4567, 38.890727], [-75.247593, 38.890727], [-75.247593, 39.351757], [-75.4567, 39.351757], [-75.4567, 38.890727]]]}"
+		"value": "{"type": "Polygon", "coordinates": [[[-75.4567, 38.890727], [-75.247593, 38.890727], [-75.247593, 39.351757], [-75.4567, 39.351757], [-75.4567, 38.890727]]]}"
 	},
 	{
 		"key": "progress",
@@ -144,7 +144,7 @@
 	},
 	{
 		"key": "access_constraints",
-		"value": "[\"Use Constraints: Public Information. This data should be used for resource mapping and comparison purposes only. While every effort has been made to ensure that these data are accurate and reliable within limits of the state of the art, the State of Delaware and the Delaware Coastal program will not assume any liability for damages caused by any inaccuracies in these data, or failure in their use.\", \"Access Constraints: None\"]"
+		"value": "["Use Constraints: Public Information. This data should be used for resource mapping and comparison purposes only. While every effort has been made to ensure that these data are accurate and reliable within limits of the state of the art, the State of Delaware and the Delaware Coastal program will not assume any liability for damages caused by any inaccuracies in these data, or failure in their use.", "Access Constraints: None"]"
 	},
 	{
 		"key": "temporal-extent-begin",
@@ -164,7 +164,7 @@
 	},
 	{
 		"key": "dataset-reference-date",
-		"value": "[{\"type\": \"publication\", \"value\": \"2012-01-01\"}]"
+		"value": "[{"type": "publication", "value": "2012-01-01"}]"
 	},
 	{
 		"key": "frequency-of-update",
@@ -172,7 +172,7 @@
 	},
 	{
 		"key": "licence",
-		"value": "[\"NOAA manages much of the data to users of digital geographic data.NOAA is in no way condoning or endorsing the application of this data for any given purpose.It is the sole responsibility of the user to determine whether or not the data is suitable for the intended purpose.It is also the obligation of the user to apply the data in an appropriate and conscientious manner.NOAA provides no warranty,nor accepts any liability occurring from any incomplete,incorrect, or misleading data, or from any incorrect,incomplete, or misleading use of the data.Much of the data is based on and maintained with ARC\/GIS software developed by the Environmental Systems Research Institute (ESRI).In addition, much of the information presented uses conventions and terms popularized by ARC\/GISand its user community.NOAA in no way represents the interests of ESRI,nor acts as agents for them.\"]"
+		"value": "["NOAA manages much of the data to users of digital geographic data.NOAA is in no way condoning or endorsing the application of this data for any given purpose.It is the sole responsibility of the user to determine whether or not the data is suitable for the intended purpose.It is also the obligation of the user to apply the data in an appropriate and conscientious manner.NOAA provides no warranty,nor accepts any liability occurring from any incomplete,incorrect, or misleading data, or from any incorrect,incomplete, or misleading use of the data.Much of the data is based on and maintained with ARC/GIS software developed by the Environmental Systems Research Institute (ESRI).In addition, much of the information presented uses conventions and terms popularized by ARC/GISand its user community.NOAA in no way represents the interests of ESRI,nor acts as agents for them."]"
 	},
 	{
 		"key": "metadata_type",
@@ -180,7 +180,7 @@
 	},
 	{
 		"key": "responsible-party",
-		"value": "[{\"name\": \"DNREC Delaware Coastal Programs\", \"roles\": [\"pointOfContact\"]}]"
+		"value": "[{"name": "DNREC Delaware Coastal Programs", "roles": ["pointOfContact"]}]"
 	},
 	{
 		"key": "temporal-extent-end",

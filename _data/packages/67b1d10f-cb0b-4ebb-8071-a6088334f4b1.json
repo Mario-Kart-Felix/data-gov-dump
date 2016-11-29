@@ -36,7 +36,7 @@
 		"cache_url": null,
 		"name": "File Information",
 		"created": "2014-07-15T09:00:42.753010",
-		"url": "http:\/\/cida.usgs.gov\/thredds\/",
+		"url": "http://cida.usgs.gov/thredds/",
 		"webstore_url": null,
 		"resource_locator_function": "download",
 		"position": 0,
@@ -66,7 +66,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2014-07-15T09:00:42.753046",
-		"url": "http:\/\/eros.usgs.gov\/",
+		"url": "http://eros.usgs.gov/",
 		"webstore_url": null,
 		"resource_locator_function": "information",
 		"position": 1,
@@ -96,7 +96,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2014-07-15T09:00:42.753058",
-		"url": "http:\/\/eros.usgs.gov\/",
+		"url": "http://eros.usgs.gov/",
 		"webstore_url": null,
 		"resource_locator_function": "information",
 		"position": 2,
@@ -126,7 +126,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2014-07-15T09:00:42.753069",
-		"url": "http:\/\/eros.usgs.gov\/",
+		"url": "http://eros.usgs.gov/",
 		"webstore_url": null,
 		"resource_locator_function": "information",
 		"position": 3,
@@ -155,7 +155,7 @@
 		"cache_url": null,
 		"name": "OPeNDAP",
 		"created": "2014-07-15T09:00:42.753080",
-		"url": "http:\/\/cida.usgs.gov\/thredds\/dodsC\/ssebopeta\/monthly",
+		"url": "http://cida.usgs.gov/thredds/dodsC/ssebopeta/monthly",
 		"webstore_url": null,
 		"resource_locator_function": "download",
 		"position": 4,
@@ -185,7 +185,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2014-07-15T09:00:42.753091",
-		"url": "http:\/\/eros.usgs.gov\/",
+		"url": "http://eros.usgs.gov/",
 		"webstore_url": null,
 		"resource_locator_function": "information",
 		"position": 5,
@@ -214,7 +214,7 @@
 		"cache_url": null,
 		"name": "OPeNDAP",
 		"created": "2014-07-15T09:00:42.753102",
-		"url": "http:\/\/cida.usgs.gov\/thredds\/dodsC\/ssebopeta\/yearly",
+		"url": "http://cida.usgs.gov/thredds/dodsC/ssebopeta/yearly",
 		"webstore_url": null,
 		"resource_locator_function": "download",
 		"position": 6,
@@ -247,7 +247,7 @@
 	"name": "conterminous-u-s-actual-evapotranspiration-data",
 	"isopen": false,
 	"url": null,
-	"notes": "Actual ET (ETa) is produced using the operational Simplified Surface Energy Balance (SSEBop) model (Senay and others, 2013) for the period 2000 to present. The SSEBop setup is based on the Simplified Surface Energy Balance (SSEB) approach (Senay and others, 2007, 2011) with unique parameterization for operational applications. It combines ET fractions generated from remotely sensed MODIS thermal imagery, acquired every 8 days, with reference ET using a thermal index approach. The unique feature of the SSEBop parameterization is that it uses pre-defined, seasonally dynamic, boundary conditions that are unique to each pixel for the hot\/dry and cold\/wet reference points. Reference: Senay, G. B., Bohms, S., Singh, R. K., Gowda, P. H., Velpuri, N. M., Alemu, H., et al. (2013). Operational evapotranspirationmapping using remote sensing andweather datasets: A new parameterization for the SSEB approach. Journal of the American Water Resources Association, 1\u201315, http:\/\/dx.doi.org\/10.1111\/jawr.12057. Reference: Velpuri, N. M., Senay, G. B., Singh, R. K., Bohms, S., and Verdin, J. P.: A comprehensive evaluation of two MODIS evapotranspiration products over the conterminous United States: Using point and gridded FLUXNET and water balance ET, Remote Sensing of Environment, 139, 35-49, http:\/\/dx.doi.org\/10.1016\/j.rse.2013.07.013, 2013.",
+	"notes": "Actual ET (ETa) is produced using the operational Simplified Surface Energy Balance (SSEBop) model (Senay and others, 2013) for the period 2000 to present. The SSEBop setup is based on the Simplified Surface Energy Balance (SSEB) approach (Senay and others, 2007, 2011) with unique parameterization for operational applications. It combines ET fractions generated from remotely sensed MODIS thermal imagery, acquired every 8 days, with reference ET using a thermal index approach. The unique feature of the SSEBop parameterization is that it uses pre-defined, seasonally dynamic, boundary conditions that are unique to each pixel for the hot/dry and cold/wet reference points. Reference: Senay, G. B., Bohms, S., Singh, R. K., Gowda, P. H., Velpuri, N. M., Alemu, H., et al. (2013). Operational evapotranspirationmapping using remote sensing andweather datasets: A new parameterization for the SSEB approach. Journal of the American Water Resources Association, 1u201315, http://dx.doi.org/10.1111/jawr.12057. Reference: Velpuri, N. M., Senay, G. B., Singh, R. K., Bohms, S., and Verdin, J. P.: A comprehensive evaluation of two MODIS evapotranspiration products over the conterminous United States: Using point and gridded FLUXNET and water balance ET, Remote Sensing of Environment, 139, 35-49, http://dx.doi.org/10.1016/j.rse.2013.07.013, 2013.",
 	"license_title": null,
 	"extras": [{
 		"key": "bbox-east-long",
@@ -263,7 +263,7 @@
 	},
 	{
 		"key": "coupled-resource",
-		"value": "[{\"href\": [\"#DataIdentification\"], \"uuid\": [], \"title\": []}, {\"href\": [\"#DataIdentification\"], \"uuid\": [], \"title\": []}]"
+		"value": "[{"href": ["#DataIdentification"], "uuid": [], "title": []}, {"href": ["#DataIdentification"], "uuid": [], "title": []}]"
 	},
 	{
 		"key": "guid",
@@ -279,7 +279,7 @@
 	},
 	{
 		"key": "__category_tag_aa0c01c9-d292-4dc1-8fec-b10c1bb629a9",
-		"value": "[\"Water\"]"
+		"value": "["Water"]"
 	},
 	{
 		"key": "spatial-reference-system",
@@ -287,7 +287,7 @@
 	},
 	{
 		"key": "spatial",
-		"value": "{\"type\": \"Polygon\", \"coordinates\": [[[-125.9955, 23.9985], [-66.4965, 23.9985], [-66.4965, 49.5045], [-125.9955, 49.5045], [-125.9955, 23.9985]]]}"
+		"value": "{"type": "Polygon", "coordinates": [[[-125.9955, 23.9985], [-66.4965, 23.9985], [-66.4965, 49.5045], [-125.9955, 49.5045], [-125.9955, 23.9985]]]}"
 	},
 	{
 		"key": "progress",
@@ -315,7 +315,7 @@
 	},
 	{
 		"key": "dataset-reference-date",
-		"value": "[{\"type\": \"creation\", \"value\": \"2013-02-01T00:00:00\"}, {\"type\": \"\", \"value\": \"2013-02-01T00:00:00\"}, {\"type\": \"revision\", \"value\": \"2013-02-01T00:00:00\"}]"
+		"value": "[{"type": "creation", "value": "2013-02-01T00:00:00"}, {"type": "", "value": "2013-02-01T00:00:00"}, {"type": "revision", "value": "2013-02-01T00:00:00"}]"
 	},
 	{
 		"key": "frequency-of-update",
@@ -331,7 +331,7 @@
 	},
 	{
 		"key": "responsible-party",
-		"value": "[{\"name\": \"U.S. Geological Survey\", \"roles\": [\"pointOfContact\"]}]"
+		"value": "[{"name": "U.S. Geological Survey", "roles": ["pointOfContact"]}]"
 	},
 	{
 		"key": "temporal-extent-end",
@@ -370,14 +370,14 @@
 		"value": "geo-data-portal"
 	}],
 	"organization": {
-		"description": "http:\/\/www.usgs.gov\/\r\nThe USGS is a federal science agency that provides impartial information on the health of our ecosystems and environment, the natural hazards that threaten us, the natural resources we rely on, the impacts of climate and land-use change, and the core science systems that help us provide timely, relevant, and useable information.",
+		"description": "http://www.usgs.gov/rnThe USGS is a federal science agency that provides impartial information on the health of our ecosystems and environment, the natural hazards that threaten us, the natural resources we rely on, the impacts of climate and land-use change, and the core science systems that help us provide timely, relevant, and useable information.",
 		"created": "2013-03-14T03:44:38.263357",
 		"title": "U.S. Geological Survey, Department of the Interior",
 		"name": "usgs-gov",
 		"revision_timestamp": "2014-09-02T13:43:52.167023",
 		"is_organization": true,
 		"state": "active",
-		"image_url": "http:\/\/pubs.usgs.gov\/sir\/2004\/5296\/04-5296_confluence_park\/usgs_logo.gif",
+		"image_url": "http://pubs.usgs.gov/sir/2004/5296/04-5296_confluence_park/usgs_logo.gif",
 		"revision_id": "2858aa99-9501-4f96-82e5-9647b968ed66",
 		"type": "organization",
 		"id": "bd2cdd5a-4d65-46c0-9937-c8381175f104",

@@ -36,7 +36,7 @@
 		"cache_url": null,
 		"name": "Data Subset Form",
 		"created": "2016-10-19T16:01:15.902119",
-		"url": "http:\/\/oos.soest.hawaii.edu\/erddap\/tabledap\/aco_adcp_temp.html",
+		"url": "http://oos.soest.hawaii.edu/erddap/tabledap/aco_adcp_temp.html",
 		"webstore_url": null,
 		"resource_locator_function": "download",
 		"position": 0,
@@ -65,7 +65,7 @@
 		"cache_url": null,
 		"name": "Make-A-Graph Form",
 		"created": "2016-10-19T16:01:15.902156",
-		"url": "http:\/\/oos.soest.hawaii.edu\/erddap\/tabledap\/aco_adcp_temp.graph",
+		"url": "http://oos.soest.hawaii.edu/erddap/tabledap/aco_adcp_temp.graph",
 		"webstore_url": null,
 		"resource_locator_function": "mapDigital",
 		"position": 1,
@@ -94,7 +94,7 @@
 		"cache_url": null,
 		"name": "Background Information",
 		"created": "2016-10-19T16:01:15.902164",
-		"url": "http:\/\/aco-ssds.soest.hawaii.edu",
+		"url": "http://aco-ssds.soest.hawaii.edu",
 		"webstore_url": null,
 		"resource_locator_function": "information",
 		"position": 2,
@@ -123,7 +123,7 @@
 		"cache_url": null,
 		"name": "Background Information",
 		"created": "2016-10-19T16:01:15.902172",
-		"url": "http:\/\/aco-ssds.soest.hawaii.edu",
+		"url": "http://aco-ssds.soest.hawaii.edu",
 		"webstore_url": null,
 		"resource_locator_function": "information",
 		"position": 3,
@@ -152,7 +152,7 @@
 		"cache_url": null,
 		"name": "Background Information",
 		"created": "2016-10-19T16:01:15.902179",
-		"url": "http:\/\/aco-ssds.soest.hawaii.edu",
+		"url": "http://aco-ssds.soest.hawaii.edu",
 		"webstore_url": null,
 		"resource_locator_function": "information",
 		"position": 4,
@@ -181,7 +181,7 @@
 		"cache_url": null,
 		"name": "ERDDAP-tabledap",
 		"created": "2016-10-19T16:01:15.902186",
-		"url": "http:\/\/oos.soest.hawaii.edu\/erddap\/tabledap\/aco_adcp_temp",
+		"url": "http://oos.soest.hawaii.edu/erddap/tabledap/aco_adcp_temp",
 		"webstore_url": null,
 		"resource_locator_function": "download",
 		"position": 5,
@@ -210,7 +210,7 @@
 		"cache_url": null,
 		"name": "Background Information",
 		"created": "2016-10-19T16:01:15.902193",
-		"url": "http:\/\/aco-ssds.soest.hawaii.edu",
+		"url": "http://aco-ssds.soest.hawaii.edu",
 		"webstore_url": null,
 		"resource_locator_function": "information",
 		"position": 6,
@@ -239,7 +239,7 @@
 		"cache_url": null,
 		"name": "OPeNDAP",
 		"created": "2016-10-19T16:01:15.902200",
-		"url": "http:\/\/oos.soest.hawaii.edu\/erddap\/tabledap\/aco_adcp_temp",
+		"url": "http://oos.soest.hawaii.edu/erddap/tabledap/aco_adcp_temp",
 		"webstore_url": null,
 		"resource_locator_function": "download",
 		"position": 7,
@@ -261,7 +261,7 @@
 		"revision_timestamp": "2013-03-25T23:05:12.923863",
 		"is_organization": true,
 		"state": "active",
-		"image_url": "https:\/\/fortress.wa.gov\/dfw\/score\/score\/images\/noaa_logo.png",
+		"image_url": "https://fortress.wa.gov/dfw/score/score/images/noaa_logo.png",
 		"revision_id": "c6d43080-22e1-405e-a83d-f2a512d9e867",
 		"type": "organization",
 		"id": "e811f0b4-451f-4896-9e8f-fc6802837819",
@@ -272,7 +272,7 @@
 	"name": "aloha-cabled-observatory-aco-acoustic-doppler-current-profiler-adcp-temperature",
 	"isopen": false,
 	"url": null,
-	"notes": "The University of Hawaii's ALOHA (\"A Long-term Oligotrophic Habitat Assessment\") Cabled Observatory (ACO) is located 100 km north of the island of Oahu, Hawaii (22 45'N, 158W) in the North Pacific Ocean. It provides real-time oceanographic observations from a depth of about 4,800 m via a submarine fiber optic cable that comes ashore at Makaha on Oahu. This data set provides measurements of sea water temperature at the ACO at 1.83 m above the ocean bottom.",
+	"notes": "The University of Hawaii's ALOHA ("A Long-term Oligotrophic Habitat Assessment") Cabled Observatory (ACO) is located 100 km north of the island of Oahu, Hawaii (22 45'N, 158W) in the North Pacific Ocean. It provides real-time oceanographic observations from a depth of about 4,800 m via a submarine fiber optic cable that comes ashore at Makaha on Oahu. This data set provides measurements of sea water temperature at the ACO at 1.83 m above the ocean bottom.",
 	"owner_org": "e811f0b4-451f-4896-9e8f-fc6802837819",
 	"extras": [{
 		"key": "bbox-east-long",
@@ -288,7 +288,7 @@
 	},
 	{
 		"key": "coupled-resource",
-		"value": "[{\"href\": [\"#DataIdentification\"], \"uuid\": [], \"title\": []}, {\"href\": [\"#DataIdentification\"], \"uuid\": [], \"title\": []}]"
+		"value": "[{"href": ["#DataIdentification"], "uuid": [], "title": []}, {"href": ["#DataIdentification"], "uuid": [], "title": []}]"
 	},
 	{
 		"key": "guid",
@@ -308,7 +308,7 @@
 	},
 	{
 		"key": "spatial",
-		"value": "{\"type\": \"Point\", \"coordinates\": [-158.0062, 22.7387]}"
+		"value": "{"type": "Point", "coordinates": [-158.0062, 22.7387]}"
 	},
 	{
 		"key": "progress",
@@ -336,7 +336,7 @@
 	},
 	{
 		"key": "dataset-reference-date",
-		"value": "[{\"type\": \"creation\", \"value\": \"2016-10-13\"}]"
+		"value": "[{"type": "creation", "value": "2016-10-13"}]"
 	},
 	{
 		"key": "frequency-of-update",
@@ -352,7 +352,7 @@
 	},
 	{
 		"key": "responsible-party",
-		"value": "[{\"name\": \"University of Hawaii\", \"roles\": [\"pointOfContact\"]}]"
+		"value": "[{"name": "University of Hawaii", "roles": ["pointOfContact"]}]"
 	},
 	{
 		"key": "temporal-extent-end",

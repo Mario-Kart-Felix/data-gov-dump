@@ -37,7 +37,7 @@
 		"cache_url": null,
 		"name": "TAR Compressed File",
 		"created": "2014-10-03T13:25:18.616788",
-		"url": "http:\/\/dds.cr.usgs.gov\/pub\/data\/nationalatlas\/landcvi020l_nt00016.tar.gz",
+		"url": "http://dds.cr.usgs.gov/pub/data/nationalatlas/landcvi020l_nt00016.tar.gz",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 0,
@@ -67,7 +67,7 @@
 		"cache_url": null,
 		"name": "TAR Compressed File",
 		"created": "2014-10-03T13:25:18.616808",
-		"url": "http:\/\/dds.cr.usgs.gov\/pub\/data\/nationalatlas\/landcvi020l_nt00016.tar.gz",
+		"url": "http://dds.cr.usgs.gov/pub/data/nationalatlas/landcvi020l_nt00016.tar.gz",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 1,
@@ -97,7 +97,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2014-10-03T13:25:18.616817",
-		"url": "http:\/\/nationalatlas.gov\/atlasftp.html?openChapters=chpbio#chpbio",
+		"url": "http://nationalatlas.gov/atlasftp.html?openChapters=chpbio#chpbio",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 2,
@@ -117,7 +117,7 @@
 	"name": "north-american-land-cover-characteristics-1-kilometer-resolution-direct-download",
 	"isopen": false,
 	"url": null,
-	"notes": "This map layer is an Arc\/INFO grid map of land cover characteristics for North America, excluding Hawaii, and including the Caribbean and most of Mexico. The nominal spatial resolution is 1 km and the map layer is based on 1-km AVHRR data. The data were compiled by staff at the National Center for Earth Resources Observation and Science as part of the Global Land Cover Characterization Project. The land cover classes were produced using 1-km AVHRR data from April 1992 to March 1993. Documentation and the original data are available at <http:\/\/edcsns17.cr.usgs.gov\/glcc\/>. The data available through the National Atlas of the United States are in GeoTIFF format. This is a revised version of the May 2002 map layer, with a corrected shoreline for Greenland.",
+	"notes": "This map layer is an Arc/INFO grid map of land cover characteristics for North America, excluding Hawaii, and including the Caribbean and most of Mexico. The nominal spatial resolution is 1 km and the map layer is based on 1-km AVHRR data. The data were compiled by staff at the National Center for Earth Resources Observation and Science as part of the Global Land Cover Characterization Project. The land cover classes were produced using 1-km AVHRR data from April 1992 to March 1993. Documentation and the original data are available at <http://edcsns17.cr.usgs.gov/glcc/>. The data available through the National Atlas of the United States are in GeoTIFF format. This is a revised version of the May 2002 map layer, with a corrected shoreline for Greenland.",
 	"license_title": null,
 	"extras": [{
 		"key": "bbox-east-long",
@@ -153,7 +153,7 @@
 	},
 	{
 		"key": "spatial",
-		"value": "{\"type\": \"Polygon\", \"coordinates\": [[[172.0, 18.0], [-66.0, 18.0], [-66.0, 72.0], [172.0, 72.0], [172.0, 18.0]]]}"
+		"value": "{"type": "Polygon", "coordinates": [[[172.0, 18.0], [-66.0, 18.0], [-66.0, 72.0], [172.0, 72.0], [172.0, 18.0]]]}"
 	},
 	{
 		"key": "progress",
@@ -161,7 +161,7 @@
 	},
 	{
 		"key": "access_constraints",
-		"value": "[\"Use Constraints: None. Acknowledgment of the National Atlas of the United States of America would be appreciated in products derived from these data.\", \"Access Constraints: None\"]"
+		"value": "["Use Constraints: None. Acknowledgment of the National Atlas of the United States of America would be appreciated in products derived from these data.", "Access Constraints: None"]"
 	},
 	{
 		"key": "temporal-extent-begin",
@@ -181,7 +181,7 @@
 	},
 	{
 		"key": "dataset-reference-date",
-		"value": "[{\"type\": \"publication\", \"value\": \"2002-12-01\"}]"
+		"value": "[{"type": "publication", "value": "2002-12-01"}]"
 	},
 	{
 		"key": "frequency-of-update",
@@ -189,7 +189,7 @@
 	},
 	{
 		"key": "licence",
-		"value": "[\"Although these data have been processed successfully on a computer system at the U.S. Geological Survey, no warranty expressed or implied is made by the U.S. Geological Survey regarding the utility of the data on any other system, nor shall the act of distribution constitute any such warranty. No responsibility is assumed by the U.S. Geological Survey in the use of these data.\"]"
+		"value": "["Although these data have been processed successfully on a computer system at the U.S. Geological Survey, no warranty expressed or implied is made by the U.S. Geological Survey regarding the utility of the data on any other system, nor shall the act of distribution constitute any such warranty. No responsibility is assumed by the U.S. Geological Survey in the use of these data."]"
 	},
 	{
 		"key": "metadata_type",
@@ -197,7 +197,7 @@
 	},
 	{
 		"key": "responsible-party",
-		"value": "[{\"name\": \"U.S. Geological Survey\", \"roles\": [\"pointOfContact\"]}]"
+		"value": "[{"name": "U.S. Geological Survey", "roles": ["pointOfContact"]}]"
 	},
 	{
 		"key": "temporal-extent-end",
@@ -236,14 +236,14 @@
 		"value": "1997-2014 Edition of The National Atlas of the United States"
 	}],
 	"organization": {
-		"description": "http:\/\/www.usgs.gov\/\r\nThe USGS is a federal science agency that provides impartial information on the health of our ecosystems and environment, the natural hazards that threaten us, the natural resources we rely on, the impacts of climate and land-use change, and the core science systems that help us provide timely, relevant, and useable information.",
+		"description": "http://www.usgs.gov/rnThe USGS is a federal science agency that provides impartial information on the health of our ecosystems and environment, the natural hazards that threaten us, the natural resources we rely on, the impacts of climate and land-use change, and the core science systems that help us provide timely, relevant, and useable information.",
 		"created": "2013-03-14T03:44:38.263357",
 		"title": "U.S. Geological Survey, Department of the Interior",
 		"name": "usgs-gov",
 		"revision_timestamp": "2014-09-02T13:43:52.167023",
 		"is_organization": true,
 		"state": "active",
-		"image_url": "http:\/\/pubs.usgs.gov\/sir\/2004\/5296\/04-5296_confluence_park\/usgs_logo.gif",
+		"image_url": "http://pubs.usgs.gov/sir/2004/5296/04-5296_confluence_park/usgs_logo.gif",
 		"revision_id": "2858aa99-9501-4f96-82e5-9647b968ed66",
 		"type": "organization",
 		"id": "bd2cdd5a-4d65-46c0-9937-c8381175f104",

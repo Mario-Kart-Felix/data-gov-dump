@@ -37,7 +37,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2015-09-26T22:45:29.526666",
-		"url": "http:\/\/coast.noaa.gov",
+		"url": "http://coast.noaa.gov",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 0,
@@ -67,7 +67,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2015-09-26T22:45:29.526688",
-		"url": "http:\/\/coast.noaa.gov",
+		"url": "http://coast.noaa.gov",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 1,
@@ -96,7 +96,7 @@
 		"cache_url": null,
 		"name": "Lidar Final Report",
 		"created": "2015-09-26T22:45:29.526698",
-		"url": "ftp:\/\/ftp.csc.noaa.gov\/pub\/crs\/beachmap\/qa_docs\/wa\/pslc2005\/wa2005_pslc_lowercolariver_projectreport.pdf",
+		"url": "ftp://ftp.csc.noaa.gov/pub/crs/beachmap/qa_docs/wa/pslc2005/wa2005_pslc_lowercolariver_projectreport.pdf",
 		"webstore_url": null,
 		"resource_locator_function": "information",
 		"position": 2,
@@ -116,7 +116,7 @@
 	"name": "2005-puget-sound-lidar-consortium-pslc-topographic-lidar-lower-columbia-riverf0054",
 	"isopen": false,
 	"url": null,
-	"notes": "Terrapoint, on behalf of multiple agencies, collected topographic lidar of the Lower Columbia River area. Field data collection took place between the dates of January 10th and February 20th, 2005. The control network and checkpoint surveys were performed from January 4th to February 12th, 2005. The project area covers approximately 890 square miles along the Columbia River, from the Bonneville Dam to the Pacific Ocean. A total of 431 flightlines were required to cover the project area flightlines. Terrapoint used a 40 kHz Airborne Laser Terrain Mapping System ALTMS sensor attached to a Navajo Twin-engin aircraft (C-FVZM). The mission was flown at 3500 feet above ground level at an average speed of 140 knots. The system consists of a 36 degree full scan angle laser, a Trimble 4700 GPS receiver and a Honeywell H764 IMU unit. The nominal flightline spacing was 1070 feet with 30 to 50% sidelap. The surveyed and processed data was received divided by funding agency. The agency responsible for funding each tile is represented as a number (0:COE, 1:DNR, 2:DOGAMI, 3:DOI) in the \"User Data\" field of each LAS file.",
+	"notes": "Terrapoint, on behalf of multiple agencies, collected topographic lidar of the Lower Columbia River area. Field data collection took place between the dates of January 10th and February 20th, 2005. The control network and checkpoint surveys were performed from January 4th to February 12th, 2005. The project area covers approximately 890 square miles along the Columbia River, from the Bonneville Dam to the Pacific Ocean. A total of 431 flightlines were required to cover the project area flightlines. Terrapoint used a 40 kHz Airborne Laser Terrain Mapping System ALTMS sensor attached to a Navajo Twin-engin aircraft (C-FVZM). The mission was flown at 3500 feet above ground level at an average speed of 140 knots. The system consists of a 36 degree full scan angle laser, a Trimble 4700 GPS receiver and a Honeywell H764 IMU unit. The nominal flightline spacing was 1070 feet with 30 to 50% sidelap. The surveyed and processed data was received divided by funding agency. The agency responsible for funding each tile is represented as a number (0:COE, 1:DNR, 2:DOGAMI, 3:DOI) in the "User Data" field of each LAS file.",
 	"license_title": null,
 	"extras": [{
 		"key": "bbox-east-long",
@@ -144,7 +144,7 @@
 	},
 	{
 		"key": "graphic-preview-file",
-		"value": "ftp:\/\/ftp.csc.noaa.gov\/pub\/crs\/beachmap\/qa_docs\/wa\/pslc2005\/wa2005_pslc_lowercolariver_geo_footprint.kmz"
+		"value": "ftp://ftp.csc.noaa.gov/pub/crs/beachmap/qa_docs/wa/pslc2005/wa2005_pslc_lowercolariver_geo_footprint.kmz"
 	},
 	{
 		"key": "metadata-language",
@@ -160,7 +160,7 @@
 	},
 	{
 		"key": "spatial",
-		"value": "{\"type\": \"Polygon\", \"coordinates\": [[[-124.094973, 45.401999], [-121.92062, 45.401999], [-121.92062, 46.474753], [-124.094973, 46.474753], [-124.094973, 45.401999]]]}"
+		"value": "{"type": "Polygon", "coordinates": [[[-124.094973, 45.401999], [-121.92062, 45.401999], [-121.92062, 46.474753], [-124.094973, 46.474753], [-124.094973, 45.401999]]]}"
 	},
 	{
 		"key": "progress",
@@ -188,11 +188,11 @@
 	},
 	{
 		"key": "dataset-reference-date",
-		"value": "[{\"type\": \"publication\", \"value\": \"2013-08-01\"}]"
+		"value": "[{"type": "publication", "value": "2013-08-01"}]"
 	},
 	{
 		"key": "graphic-preview-description",
-		"value": "This kmz file shows the extent of coverage for the 2005 PSLC Lower Columbia River, WA\/OR (Bonneville Dam to the Pacific Ocean) lidar data set."
+		"value": "This kmz file shows the extent of coverage for the 2005 PSLC Lower Columbia River, WA/OR (Bonneville Dam to the Pacific Ocean) lidar data set."
 	},
 	{
 		"key": "frequency-of-update",
@@ -200,7 +200,7 @@
 	},
 	{
 		"key": "licence",
-		"value": "[\"These data depict the elevations at the time of the survey and are only accurate for that time. Users should be aware that\\n            temporal changes may have occurred since this data set was collected and some parts of this data may no longer represent actual surface\\n            conditions. Users should not use this data for critical applications without a full awareness of its limitations. Any conclusions drawn\\n            from analysis of this information are not the responsibility of NOAA or any of its partners. These data are NOT to be used for navigational purposes.\"]"
+		"value": "["These data depict the elevations at the time of the survey and are only accurate for that time. Users should be aware that\n            temporal changes may have occurred since this data set was collected and some parts of this data may no longer represent actual surface\n            conditions. Users should not use this data for critical applications without a full awareness of its limitations. Any conclusions drawn\n            from analysis of this information are not the responsibility of NOAA or any of its partners. These data are NOT to be used for navigational purposes."]"
 	},
 	{
 		"key": "metadata_type",
@@ -208,7 +208,7 @@
 	},
 	{
 		"key": "responsible-party",
-		"value": "[{\"name\": \"Puget Sound Lidar Consortium (PSLC)\", \"roles\": [\"pointOfContact\"]}]"
+		"value": "[{"name": "Puget Sound Lidar Consortium (PSLC)", "roles": ["pointOfContact"]}]"
 	},
 	{
 		"key": "temporal-extent-end",
@@ -224,7 +224,7 @@
 	},
 	{
 		"package_id": "374234d0-b121-4def-8790-71e777a3cf90",
-		"value": "clatsop county, elevation, columbia county, remote sensing, wahkiakum county, washington, us, lidar, clark county, cowlitz county, oregon, columbia river, topography\/bathymetry, model, multnomah county, skamania county, pacific county, las",
+		"value": "clatsop county, elevation, columbia county, remote sensing, wahkiakum county, washington, us, lidar, clark county, cowlitz county, oregon, columbia river, topography/bathymetry, model, multnomah county, skamania county, pacific county, las",
 		"revision_timestamp": "2015-09-27T02:45:29.457008",
 		"state": "active",
 		"key": "tags",
@@ -254,7 +254,7 @@
 		"revision_timestamp": "2013-03-25T23:05:12.923863",
 		"is_organization": true,
 		"state": "active",
-		"image_url": "https:\/\/fortress.wa.gov\/dfw\/score\/score\/images\/noaa_logo.png",
+		"image_url": "https://fortress.wa.gov/dfw/score/score/images/noaa_logo.png",
 		"revision_id": "c6d43080-22e1-405e-a83d-f2a512d9e867",
 		"type": "organization",
 		"id": "e811f0b4-451f-4896-9e8f-fc6802837819",

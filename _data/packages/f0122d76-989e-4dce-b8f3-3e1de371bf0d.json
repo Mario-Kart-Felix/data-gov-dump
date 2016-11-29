@@ -37,7 +37,7 @@
 		"cache_url": null,
 		"name": "Web Feature Service",
 		"created": "2013-03-14T21:26:32.103183",
-		"url": "http:\/\/gis.glin.net\/geoserver\/wfs?request=getfeature&service=wfs&version=1.0.0&typename=glin:lm_goodyear_spawning_atlas&outputformat=shape-zip",
+		"url": "http://gis.glin.net/geoserver/wfs?request=getfeature&service=wfs&version=1.0.0&typename=glin:lm_goodyear_spawning_atlas&outputformat=shape-zip",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 0,
@@ -67,7 +67,7 @@
 		"cache_url": null,
 		"name": "Web Feature Service",
 		"created": "2013-03-14T21:26:32.103205",
-		"url": "http:\/\/gis.glin.net\/geoserver\/wfs?request=getfeature&service=wfs&version=1.0.0&typename=glin:lm_goodyear_spawning_atlas&outputformat=GML2-GZIP",
+		"url": "http://gis.glin.net/geoserver/wfs?request=getfeature&service=wfs&version=1.0.0&typename=glin:lm_goodyear_spawning_atlas&outputformat=GML2-GZIP",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 1,
@@ -97,7 +97,7 @@
 		"cache_url": null,
 		"name": "Web Mapping Service",
 		"created": "2013-03-14T21:26:32.103213",
-		"url": "http:\/\/gis.glin.net\/geoserver\/wms?bbox=-88.066667,41.620000,-84.733333,46.100000&request=GetMap&layers=glin:lm_goodyear_spawning_atlas&width=600&height=400&srs=EPSG:4326&styles=point_black&format=image\/svg",
+		"url": "http://gis.glin.net/geoserver/wms?bbox=-88.066667,41.620000,-84.733333,46.100000&request=GetMap&layers=glin:lm_goodyear_spawning_atlas&width=600&height=400&srs=EPSG:4326&styles=point_black&format=image/svg",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 2,
@@ -127,7 +127,7 @@
 		"cache_url": null,
 		"name": "Web Mapping Service",
 		"created": "2013-03-14T21:26:32.103220",
-		"url": "http:\/\/gis.glin.net\/geoserver\/wms?bbox=-88.066667,41.620000,-84.733333,46.100000&request=GetMap&layers=glin:lm_goodyear_spawning_atlas&width=600&height=400&srs=EPSG:4326&styles=point_black&format=application\/pdf",
+		"url": "http://gis.glin.net/geoserver/wms?bbox=-88.066667,41.620000,-84.733333,46.100000&request=GetMap&layers=glin:lm_goodyear_spawning_atlas&width=600&height=400&srs=EPSG:4326&styles=point_black&format=application/pdf",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 3,
@@ -157,7 +157,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2013-03-14T21:26:32.103227",
-		"url": "http:\/\/gis.glin.net\/ogc\/services.php#lm_goodyear_spawning_atlas",
+		"url": "http://gis.glin.net/ogc/services.php#lm_goodyear_spawning_atlas",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 4,
@@ -177,11 +177,11 @@
 	"name": "lake-michigan-goodyear-spawning-atlas",
 	"isopen": false,
 	"url": null,
-	"notes": "Species occurrence data were obtained from the Atlas of Spawning and Nursery Areas of Great Lakes Fishes (Goodyear et al. 1982). The atlas contains information on all of the commercially and recreationally important species that use the tributaries, littoral and open-water areas of the Great Lakes as spawning and nursery habitats. Close to 9500 geo-referenced data records (occurrences of fish species) were imported into ArcView GIS. The 139 fish taxa reported in the Atlas had to be grouped into fewer broad categories to produce meaningful distribution maps. We chose three functional classification schemes. Jude and Pappas (1992) used Correspondence Analysis to partition fish species associated with the open water of each of the five Great Lakes and nine coastal wetlands. Three species complexes were suggested: a Great Lakes taxocene; a transitional taxocene, which utilized open water, near-shore, and wetlands; and a wetland taxocene. We chose this as one of the classification schemes because we are particularly interested in identifying the distribution pattern of fish with coastal wetlands; for clarity sake, we have renamed these taxocenes coastal, intermediate and open-water, respectively. For comparison, we also used Coker et al.\u00e2\u0080\u0099s (2001) classification based on temperature preferenda (5 classes) and Balon\u00e2\u0080\u0099s (1975) reproductive guild classification (32 guilds).",
+	"notes": "Species occurrence data were obtained from the Atlas of Spawning and Nursery Areas of Great Lakes Fishes (Goodyear et al. 1982). The atlas contains information on all of the commercially and recreationally important species that use the tributaries, littoral and open-water areas of the Great Lakes as spawning and nursery habitats. Close to 9500 geo-referenced data records (occurrences of fish species) were imported into ArcView GIS. The 139 fish taxa reported in the Atlas had to be grouped into fewer broad categories to produce meaningful distribution maps. We chose three functional classification schemes. Jude and Pappas (1992) used Correspondence Analysis to partition fish species associated with the open water of each of the five Great Lakes and nine coastal wetlands. Three species complexes were suggested: a Great Lakes taxocene; a transitional taxocene, which utilized open water, near-shore, and wetlands; and a wetland taxocene. We chose this as one of the classification schemes because we are particularly interested in identifying the distribution pattern of fish with coastal wetlands; for clarity sake, we have renamed these taxocenes coastal, intermediate and open-water, respectively. For comparison, we also used Coker et al.u00e2u0080u0099s (2001) classification based on temperature preferenda (5 classes) and Balonu00e2u0080u0099s (1975) reproductive guild classification (32 guilds).",
 	"license_title": null,
 	"extras": [{
 		"key": "responsible-party",
-		"value": "[{\"name\": \"University of Michigan\", \"roles\": [\"pointOfContact\"]}]"
+		"value": "[{"name": "University of Michigan", "roles": ["pointOfContact"]}]"
 	},
 	{
 		"key": "contact-email",
@@ -201,7 +201,7 @@
 	},
 	{
 		"key": "dataset-reference-date",
-		"value": "[{\"type\": \"publication\", \"value\": \"9999-01-01\"}]"
+		"value": "[{"type": "publication", "value": "9999-01-01"}]"
 	},
 	{
 		"key": "resource-type",
@@ -229,7 +229,7 @@
 	},
 	{
 		"key": "licence",
-		"value": "[\"Disclaimer. The Great Lakes Commission (GLC) and the Great Lakes Information Network (GLIN) cannot assume liability for any damages caused by any errors or omissions in the data, nor as a result of the failure of the data to function on a particular system. The Great Lakes Commission (GLC) and the Great Lakes Information Network (GLIN) make no warranty, expressed or implied, nor does the fact of distribution constitute such a warranty.\"]"
+		"value": "["Disclaimer. The Great Lakes Commission (GLC) and the Great Lakes Information Network (GLIN) cannot assume liability for any damages caused by any errors or omissions in the data, nor as a result of the failure of the data to function on a particular system. The Great Lakes Commission (GLC) and the Great Lakes Information Network (GLIN) make no warranty, expressed or implied, nor does the fact of distribution constitute such a warranty."]"
 	},
 	{
 		"key": "metadata_type",
@@ -237,7 +237,7 @@
 	},
 	{
 		"key": "spatial",
-		"value": "{\"type\": \"Polygon\", \"coordinates\": [[[-88.066667, 41.62], [-88.066667, 46.1], [-84.733333, 46.1], [-84.733333, 41.62], [-88.066667, 41.62]]]}"
+		"value": "{"type": "Polygon", "coordinates": [[[-88.066667, 41.62], [-88.066667, 46.1], [-84.733333, 46.1], [-84.733333, 41.62], [-88.066667, 41.62]]]}"
 	},
 	{
 		"key": "guid",
@@ -249,11 +249,11 @@
 	},
 	{
 		"key": "access_constraints",
-		"value": "[\"Use Constraints: None\", \"Access Constraints: None\"]"
+		"value": "["Use Constraints: None", "Access Constraints: None"]"
 	},
 	{
 		"key": "graphic-preview-file",
-		"value": "http:\/\/gis.glin.net\/geoserver\/wms?bbox=-88.066667,41.620000,-84.733333,46.100000&request=GetMap&layers=glin:lm_goodyear_spawning_atlas&width=600&height=400&srs=EPSG:4326&styles=point_black&format=image\/png"
+		"value": "http://gis.glin.net/geoserver/wms?bbox=-88.066667,41.620000,-84.733333,46.100000&request=GetMap&layers=glin:lm_goodyear_spawning_atlas&width=600&height=400&srs=EPSG:4326&styles=point_black&format=image/png"
 	},
 	{
 		"key": "frequency-of-update",
@@ -291,7 +291,7 @@
 		"revision_timestamp": "2015-01-16T18:08:30.443285",
 		"is_organization": true,
 		"state": "active",
-		"image_url": "http:\/\/indianarealpropertylaw.com\/wp-content\/uploads\/2013\/07\/Great-Lakes-Commission.jpg",
+		"image_url": "http://indianarealpropertylaw.com/wp-content/uploads/2013/07/Great-Lakes-Commission.jpg",
 		"revision_id": "b1642f30-a698-46dd-ad02-061968095af6",
 		"type": "organization",
 		"id": "6f701557-5979-4d24-9171-73111c57faec",

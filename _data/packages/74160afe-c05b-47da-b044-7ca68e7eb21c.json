@@ -37,7 +37,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2016-05-30T22:23:47.830381",
-		"url": "https:\/\/coast.noaa.gov\/dataviewer\/#\/lidar\/search\/where:ID=4711",
+		"url": "https://coast.noaa.gov/dataviewer/#/lidar/search/where:ID=4711",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 0,
@@ -67,7 +67,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2016-05-30T22:23:47.830412",
-		"url": "https:\/\/coast.noaa.gov\/htdata\/lidar1_z\/geoid12a\/data\/4711",
+		"url": "https://coast.noaa.gov/htdata/lidar1_z/geoid12a/data/4711",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 1,
@@ -97,7 +97,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2016-05-30T22:23:47.830426",
-		"url": "https:\/\/coast.noaa.gov\/dataviewer",
+		"url": "https://coast.noaa.gov/dataviewer",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 2,
@@ -127,7 +127,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2016-05-30T22:23:47.830439",
-		"url": "https:\/\/coast.noaa.gov",
+		"url": "https://coast.noaa.gov",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 3,
@@ -149,7 +149,7 @@
 		"revision_timestamp": "2013-03-25T23:05:12.923863",
 		"is_organization": true,
 		"state": "active",
-		"image_url": "https:\/\/fortress.wa.gov\/dfw\/score\/score\/images\/noaa_logo.png",
+		"image_url": "https://fortress.wa.gov/dfw/score/score/images/noaa_logo.png",
 		"revision_id": "c6d43080-22e1-405e-a83d-f2a512d9e867",
 		"type": "organization",
 		"id": "e811f0b4-451f-4896-9e8f-fc6802837819",
@@ -160,7 +160,7 @@
 	"name": "2013-usace-topographic-lidar-rio-puerto-nuevo-pr",
 	"isopen": false,
 	"url": null,
-	"notes": "This data set is an LAZ (compressed LAS) format file containing LIDAR point cloud data. The NAD83\/2011 geodetic products were delivered as individual LAS files representing the geographic extent of each uniquely identified and acquired flight line or lift. USACE regularly uses digital topographic information to support regulatory, land management and acquisition, planning, engineering and habitat restoration projects. The data were classified into 4 classifications; (1) unclassified, (2) ground, (9) water,and (12) overlap points. The full study area of approximately 404 square km was processed. The tiles are 1,000 x 1,000m in size and Final deliverables were provided as geographic coordinates referenced to the North American Datum of 1983\/2011 Realization (NAD83\/2011) and as projected coordinates referenced to the State Plane Coordinate System, Puerto Rico Virgin Islands FIPS Zone 5200, NAD83\/2011, vertical PRVD02 orthometric height. Upon arrival to NOAA's Office for Coastal Management the data were converted from State Plane to geographic and from NAVD88 (orthometric) heights in feet to GRS80 (ellipsoid) heights in meters using Geoid 12a. Original project title was \"2013 Greater San Juan, Puerto Nuevo, Rio de la Plata\".",
+	"notes": "This data set is an LAZ (compressed LAS) format file containing LIDAR point cloud data. The NAD83/2011 geodetic products were delivered as individual LAS files representing the geographic extent of each uniquely identified and acquired flight line or lift. USACE regularly uses digital topographic information to support regulatory, land management and acquisition, planning, engineering and habitat restoration projects. The data were classified into 4 classifications; (1) unclassified, (2) ground, (9) water,and (12) overlap points. The full study area of approximately 404 square km was processed. The tiles are 1,000 x 1,000m in size and Final deliverables were provided as geographic coordinates referenced to the North American Datum of 1983/2011 Realization (NAD83/2011) and as projected coordinates referenced to the State Plane Coordinate System, Puerto Rico Virgin Islands FIPS Zone 5200, NAD83/2011, vertical PRVD02 orthometric height. Upon arrival to NOAA's Office for Coastal Management the data were converted from State Plane to geographic and from NAVD88 (orthometric) heights in feet to GRS80 (ellipsoid) heights in meters using Geoid 12a. Original project title was "2013 Greater San Juan, Puerto Nuevo, Rio de la Plata".",
 	"owner_org": "e811f0b4-451f-4896-9e8f-fc6802837819",
 	"extras": [{
 		"key": "bbox-east-long",
@@ -188,7 +188,7 @@
 	},
 	{
 		"key": "graphic-preview-file",
-		"value": "https:\/\/coast.noaa.gov\/htdata\/lidar1_z\/geoid12a\/data\/4711\/supplemental\/pr2013_usace_gsj_pn_rdlp_m4711.kmz"
+		"value": "https://coast.noaa.gov/htdata/lidar1_z/geoid12a/data/4711/supplemental/pr2013_usace_gsj_pn_rdlp_m4711.kmz"
 	},
 	{
 		"key": "metadata-language",
@@ -204,7 +204,7 @@
 	},
 	{
 		"key": "spatial",
-		"value": "{\"type\": \"Polygon\", \"coordinates\": [[[-66.159, 18.348], [-66.026, 18.348], [-66.026, 18.484], [-66.159, 18.484], [-66.159, 18.348]]]}"
+		"value": "{"type": "Polygon", "coordinates": [[[-66.159, 18.348], [-66.026, 18.348], [-66.026, 18.484], [-66.159, 18.484], [-66.159, 18.348]]]}"
 	},
 	{
 		"key": "progress",
@@ -212,7 +212,7 @@
 	},
 	{
 		"key": "access_constraints",
-		"value": "[\"Use Constraints: Users should be aware that temporal changes may have occurred since this data set was collected and some parts of this data may no longer represent actual surface conditions. Users should not use this data for critical applications without a full awareness of its limitations. These data depict the heights at the time of the survey and are only accurate for that time.\", \"Access Constraints: None\"]"
+		"value": "["Use Constraints: Users should be aware that temporal changes may have occurred since this data set was collected and some parts of this data may no longer represent actual surface conditions. Users should not use this data for critical applications without a full awareness of its limitations. These data depict the heights at the time of the survey and are only accurate for that time.", "Access Constraints: None"]"
 	},
 	{
 		"key": "temporal-extent-begin",
@@ -232,7 +232,7 @@
 	},
 	{
 		"key": "dataset-reference-date",
-		"value": "[{\"type\": \"publication\", \"value\": \"2014-12-22\"}]"
+		"value": "[{"type": "publication", "value": "2014-12-22"}]"
 	},
 	{
 		"key": "graphic-preview-description",
@@ -244,7 +244,7 @@
 	},
 	{
 		"key": "licence",
-		"value": "[\"Any conclusions drawn from the analysis of this information are not the responsibility of USACE, Precision Aerial Reconnaissance, NOAA, the Office for Coastal Management or its partners.\"]"
+		"value": "["Any conclusions drawn from the analysis of this information are not the responsibility of USACE, Precision Aerial Reconnaissance, NOAA, the Office for Coastal Management or its partners."]"
 	},
 	{
 		"key": "metadata_type",
@@ -252,7 +252,7 @@
 	},
 	{
 		"key": "responsible-party",
-		"value": "[{\"name\": \"NOAA Office for Coastal Management\", \"roles\": [\"pointOfContact\"]}]"
+		"value": "[{"name": "NOAA Office for Coastal Management", "roles": ["pointOfContact"]}]"
 	},
 	{
 		"key": "temporal-extent-end",

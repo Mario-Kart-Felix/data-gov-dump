@@ -36,7 +36,7 @@
 		"cache_url": null,
 		"name": "Geospatial Data Download Page (CSV, KML, SHP, JSON)",
 		"created": "2016-07-15T21:34:27.280634",
-		"url": "http:\/\/data.idfggis.opendata.arcgis.com\/datasets\/01a6b9de82214764b8443416fabae6f5_0",
+		"url": "http://data.idfggis.opendata.arcgis.com/datasets/01a6b9de82214764b8443416fabae6f5_0",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 0,
@@ -65,7 +65,7 @@
 		"cache_url": null,
 		"name": "ESRI Map Service Layer REST Endpoint (HTML)",
 		"created": "2016-07-15T21:34:27.280655",
-		"url": "http:\/\/services.arcgis.com\/FjJI5xHF2dUPVrgK\/arcgis\/rest\/services\/Idaho_Crucial_Habitat\/FeatureServer\/0",
+		"url": "http://services.arcgis.com/FjJI5xHF2dUPVrgK/arcgis/rest/services/Idaho_Crucial_Habitat/FeatureServer/0",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 1,
@@ -94,7 +94,7 @@
 		"cache_url": null,
 		"name": "Esri Feature Service (west-wide dataset)",
 		"created": "2016-07-15T21:34:27.280663",
-		"url": "http:\/\/www.wafwachat.org\/data\/download",
+		"url": "http://www.wafwachat.org/data/download",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 2,
@@ -124,7 +124,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2016-07-15T21:34:27.280671",
-		"url": "http:\/\/www.wafwachat.org\/data\/metadata",
+		"url": "http://www.wafwachat.org/data/metadata",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 3,
@@ -144,11 +144,11 @@
 	"name": "idaho-crucial-habitat",
 	"isopen": false,
 	"url": null,
-	"notes": "The Western Governors' Association (WGA) Crucial Habitat Assessment Tool (CHAT; http:\/\/westgovchat.org\/), launched in December 2013, is a starting point for discussing the intersection of development and wildlife. The CHAT is the product of coordination among state fish and wildlife agencies working under the direction and guidance of the WGA to define crucial fish and wildlife habitat more consistently across state lines. The result is intended to improve understanding of fish and wildlife habitat priorities among the states and can be useful for both state-specific and inter-state queries. The crucial habitat dataset is intended to facilitate landscape decision-making in the early stages of land use project planning, and to facilitate efforts to identify important areas for conservation using regionally consistent analyses and data definitions.States compiled data encompassing several data types and layers of information including habitat for species of concern (terrestrial and aquatic), landscape condition (a summary of native and unfragmented habitat; prioritizes large natural areas and connectivity zones between them), wetlands and riparian areas, and habitat for species of economic and recreation importance (terrestrial and aquatic). Relative priorities within each group were aggregated into a final crucial habitat rank. States sought consensus on how information was aggregated and final relative ranks calculated; however, it was ultimately up to individual states to apply rules that made the most sense for their geography and supporting data.",
+	"notes": "The Western Governors' Association (WGA) Crucial Habitat Assessment Tool (CHAT; http://westgovchat.org/), launched in December 2013, is a starting point for discussing the intersection of development and wildlife. The CHAT is the product of coordination among state fish and wildlife agencies working under the direction and guidance of the WGA to define crucial fish and wildlife habitat more consistently across state lines. The result is intended to improve understanding of fish and wildlife habitat priorities among the states and can be useful for both state-specific and inter-state queries. The crucial habitat dataset is intended to facilitate landscape decision-making in the early stages of land use project planning, and to facilitate efforts to identify important areas for conservation using regionally consistent analyses and data definitions.States compiled data encompassing several data types and layers of information including habitat for species of concern (terrestrial and aquatic), landscape condition (a summary of native and unfragmented habitat; prioritizes large natural areas and connectivity zones between them), wetlands and riparian areas, and habitat for species of economic and recreation importance (terrestrial and aquatic). Relative priorities within each group were aggregated into a final crucial habitat rank. States sought consensus on how information was aggregated and final relative ranks calculated; however, it was ultimately up to individual states to apply rules that made the most sense for their geography and supporting data.",
 	"license_title": null,
 	"extras": [{
 		"key": "responsible-party",
-		"value": "[{\"name\": \"Idaho Department of Fish and Game\", \"roles\": [\"pointOfContact\"]}]"
+		"value": "[{"name": "Idaho Department of Fish and Game", "roles": ["pointOfContact"]}]"
 	},
 	{
 		"key": "contact-email",
@@ -168,7 +168,7 @@
 	},
 	{
 		"key": "dataset-reference-date",
-		"value": "[{\"type\": \"publication\", \"value\": \"2013-10-29\"}]"
+		"value": "[{"type": "publication", "value": "2013-10-29"}]"
 	},
 	{
 		"key": "resource-type",
@@ -196,7 +196,7 @@
 	},
 	{
 		"key": "licence",
-		"value": "[\"The data represented in this file is true and accurate to the best of our knowledge but is considered a best representation only.  Users must assume responsibility in determining the usability of this data for their purposes.\\nIdaho Fish and Game does not assume liability.  No warranty expressed or implied is made by Idaho Fish and Game regarding the utility of the data on any other system, nor shall the act of distribution constitute such warranty.\"]"
+		"value": "["The data represented in this file is true and accurate to the best of our knowledge but is considered a best representation only.  Users must assume responsibility in determining the usability of this data for their purposes.\nIdaho Fish and Game does not assume liability.  No warranty expressed or implied is made by Idaho Fish and Game regarding the utility of the data on any other system, nor shall the act of distribution constitute such warranty."]"
 	},
 	{
 		"key": "metadata_type",
@@ -208,7 +208,7 @@
 	},
 	{
 		"key": "spatial",
-		"value": "{\"type\": \"Polygon\", \"coordinates\": [[[-119.293004, 41.164817], [-110.501614, 41.164817], [-110.501614, 49.65909], [-119.293004, 49.65909], [-119.293004, 41.164817]]]}"
+		"value": "{"type": "Polygon", "coordinates": [[[-119.293004, 41.164817], [-110.501614, 41.164817], [-110.501614, 49.65909], [-119.293004, 49.65909], [-119.293004, 41.164817]]]}"
 	},
 	{
 		"key": "guid",
@@ -220,7 +220,7 @@
 	},
 	{
 		"key": "access_constraints",
-		"value": "[\"Use Constraints: The data represented in this file is true and accurate to the best of our knowledge but is considered a best representation only. Users must assume responsibility in determining the usability of this data for their purposes. Idaho Fish and Game does not assume liability. No warranty expressed or implied is made by Idaho Fish and Game regarding the utility of the data on any other system, nor shall the act of distribution constitute such warranty. The CHAT is not a substitute for site-specific consultation with land and resource management agencies, nor does it satisfy the need for on-the-ground biological surveys or assessments. Users are encouraged to consult with state fish and wildlife agency staff regarding the proper use and interpretation of these data and to receive guidance on how to obtain site-specific information as available.The crucial habitat dataset is a landscape-scale, coarse-resolution dataset not intended to establish specific boundaries for site-specific planning, regulation, or acquisition. It is not intended to determine the exact ecological health or condition of any specific location on the ground.The dataset is based on the best available scientific information, and is expected to be updated regularly. The crucial habitat rank of a hexagon may change over time as new information is incorporated. Users should check back on the CHAT medata page (http:\/\/westgovchat.org\/data\/metadata) or with the state technical contacts to ensure they have the most recent version of the data.\", \"Access Constraints: IDFG offers free, unrestricted access and use of this data. Users must assume responsibility in determining the usability of this data for their purposes.\"]"
+		"value": "["Use Constraints: The data represented in this file is true and accurate to the best of our knowledge but is considered a best representation only. Users must assume responsibility in determining the usability of this data for their purposes. Idaho Fish and Game does not assume liability. No warranty expressed or implied is made by Idaho Fish and Game regarding the utility of the data on any other system, nor shall the act of distribution constitute such warranty. The CHAT is not a substitute for site-specific consultation with land and resource management agencies, nor does it satisfy the need for on-the-ground biological surveys or assessments. Users are encouraged to consult with state fish and wildlife agency staff regarding the proper use and interpretation of these data and to receive guidance on how to obtain site-specific information as available.The crucial habitat dataset is a landscape-scale, coarse-resolution dataset not intended to establish specific boundaries for site-specific planning, regulation, or acquisition. It is not intended to determine the exact ecological health or condition of any specific location on the ground.The dataset is based on the best available scientific information, and is expected to be updated regularly. The crucial habitat rank of a hexagon may change over time as new information is incorporated. Users should check back on the CHAT medata page (http://westgovchat.org/data/metadata) or with the state technical contacts to ensure they have the most recent version of the data.", "Access Constraints: IDFG offers free, unrestricted access and use of this data. Users must assume responsibility in determining the usability of this data for their purposes."]"
 	},
 	{
 		"key": "spatial_harvester",
@@ -262,7 +262,7 @@
 		"revision_timestamp": "2015-01-16T18:28:14.593903",
 		"is_organization": true,
 		"state": "active",
-		"image_url": "http:\/\/upload.wikimedia.org\/wikipedia\/en\/thumb\/4\/44\/University_of_Idaho_seal.svg\/300px-University_of_Idaho_seal.svg.png",
+		"image_url": "http://upload.wikimedia.org/wikipedia/en/thumb/4/44/University_of_Idaho_seal.svg/300px-University_of_Idaho_seal.svg.png",
 		"revision_id": "761955d7-9530-4622-8609-d0b01c78e177",
 		"type": "organization",
 		"id": "75e22a8a-da5f-46f3-93d8-924063a3703d",

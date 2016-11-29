@@ -37,7 +37,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2013-07-19T12:00:46.672819",
-		"url": "http:\/\/www.igsb.uiowa.edu\/nrgislibx\/",
+		"url": "http://www.igsb.uiowa.edu/nrgislibx/",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 0,
@@ -67,7 +67,7 @@
 		"cache_url": null,
 		"name": "Zip File",
 		"created": "2013-07-19T12:00:46.672855",
-		"url": "ftp:\/\/ftp.igsb.uiowa.edu\/gis_library\/ia_state\/hydrologic\/surface_waters\/designated_wetlands_setback.zip",
+		"url": "ftp://ftp.igsb.uiowa.edu/gis_library/ia_state/hydrologic/surface_waters/designated_wetlands_setback.zip",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 1,
@@ -97,7 +97,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2013-07-19T12:00:46.672868",
-		"url": "http:\/\/www.igsb.uiowa.edu\/nrgislibx\/",
+		"url": "http://www.igsb.uiowa.edu/nrgislibx/",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 2,
@@ -127,7 +127,7 @@
 		"cache_url": null,
 		"name": "Zip File",
 		"created": "2013-07-19T12:00:46.672879",
-		"url": "ftp:\/\/ftp.igsb.uiowa.edu\/gis_library\/ia_state\/hydrologic\/surface_waters\/designated_wetlands_setback.zip",
+		"url": "ftp://ftp.igsb.uiowa.edu/gis_library/ia_state/hydrologic/surface_waters/designated_wetlands_setback.zip",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 3,
@@ -147,11 +147,11 @@
 	"name": "designated-wetlands-and-setback-distances-in-iowa",
 	"isopen": false,
 	"url": null,
-	"notes": "This GIS layer depicts wetlands designated for protection in the state of Iowa. Designated wetland is defined in Iowa Code subsection 459.102(21) as follows: 21. \"Designated wetland\" means land designated as a protected wetland by the United States department of the interior or the department of natural resources, including but not limited to a protected wetland as defined in section 456B.1, if the land is owned and managed by the federal government or the department of natural resources. However, a designated wetland does not include land where an agricultural drainage well has been plugged causing a temporary wetland or land within a drainage district or levee district. As referenced in the foregoing definition, protected wetland is defined in Iowa Code subsection 456B.1(4) as follows: 4. \"Protected wetlands\" means type 3, type 4, and type 5 wetlands as described in circular 39, Wetlands of the United States, 1971 Edition, published by the United States department of the interior. However, a protected wetland does not include land where an agricultural drainage well has been plugged causing a temporary wetland or land within a drainage district or levee district. Wetlands: An area of two or more acres in a natural condition that is mostly under water or waterlogged during the spring growing season and is characterized by vegetation of hydric soils.",
+	"notes": "This GIS layer depicts wetlands designated for protection in the state of Iowa. Designated wetland is defined in Iowa Code subsection 459.102(21) as follows: 21. "Designated wetland" means land designated as a protected wetland by the United States department of the interior or the department of natural resources, including but not limited to a protected wetland as defined in section 456B.1, if the land is owned and managed by the federal government or the department of natural resources. However, a designated wetland does not include land where an agricultural drainage well has been plugged causing a temporary wetland or land within a drainage district or levee district. As referenced in the foregoing definition, protected wetland is defined in Iowa Code subsection 456B.1(4) as follows: 4. "Protected wetlands" means type 3, type 4, and type 5 wetlands as described in circular 39, Wetlands of the United States, 1971 Edition, published by the United States department of the interior. However, a protected wetland does not include land where an agricultural drainage well has been plugged causing a temporary wetland or land within a drainage district or levee district. Wetlands: An area of two or more acres in a natural condition that is mostly under water or waterlogged during the spring growing season and is characterized by vegetation of hydric soils.",
 	"license_title": null,
 	"extras": [{
 		"key": "responsible-party",
-		"value": "[{\"name\": \"Iowa Department of Natural Resources\", \"roles\": [\"pointOfContact\"]}]"
+		"value": "[{"name": "Iowa Department of Natural Resources", "roles": ["pointOfContact"]}]"
 	},
 	{
 		"key": "contact-email",
@@ -171,7 +171,7 @@
 	},
 	{
 		"key": "dataset-reference-date",
-		"value": "[{\"type\": \"publication\", \"value\": \"2006-08-18\"}]"
+		"value": "[{"type": "publication", "value": "2006-08-18"}]"
 	},
 	{
 		"key": "resource-type",
@@ -199,7 +199,7 @@
 	},
 	{
 		"key": "licence",
-		"value": "[\"Although efforts have been made in correcting errors in order to make this information useful to the Department, the Department assumes no responsibility for errors in the information.  Similarly, the Department assumes no responsibility for the consequences of inappropriate uses or interpretations of the data made by anyone to whom this data has been made available.  The Department bears no responsibility to inform users of any changes made to this data.  Anyone using this data is advised that precision implied by the coverage may far exceed actual precision.  Comments on this data are invited and the Department would appreciate that documented errors be brought to staff attention. \"]"
+		"value": "["Although efforts have been made in correcting errors in order to make this information useful to the Department, the Department assumes no responsibility for errors in the information.  Similarly, the Department assumes no responsibility for the consequences of inappropriate uses or interpretations of the data made by anyone to whom this data has been made available.  The Department bears no responsibility to inform users of any changes made to this data.  Anyone using this data is advised that precision implied by the coverage may far exceed actual precision.  Comments on this data are invited and the Department would appreciate that documented errors be brought to staff attention. "]"
 	},
 	{
 		"key": "metadata_type",
@@ -207,7 +207,7 @@
 	},
 	{
 		"key": "spatial",
-		"value": "{\"type\": \"Polygon\", \"coordinates\": [[[-96.435977, 40.558218], [-90.348291, 40.558218], [-90.348291, 43.533366], [-96.435977, 43.533366], [-96.435977, 40.558218]]]}"
+		"value": "{"type": "Polygon", "coordinates": [[[-96.435977, 40.558218], [-90.348291, 40.558218], [-90.348291, 43.533366], [-96.435977, 43.533366], [-96.435977, 40.558218]]]}"
 	},
 	{
 		"key": "guid",
@@ -219,7 +219,7 @@
 	},
 	{
 		"key": "access_constraints",
-		"value": "[\"Use Constraints: The development of the coverages in the NRGIS Library represents a major investment of staff time and effort. As a professional responsibility, the Iowa DNR expects to receive proper credit when these GIS coverages are utilized. The Department also expects that the original documentation will remain with any redistribution of these coverages.\", \"Access Constraints: None\"]"
+		"value": "["Use Constraints: The development of the coverages in the NRGIS Library represents a major investment of staff time and effort. As a professional responsibility, the Iowa DNR expects to receive proper credit when these GIS coverages are utilized. The Department also expects that the original documentation will remain with any redistribution of these coverages.", "Access Constraints: None"]"
 	},
 	{
 		"key": "spatial_harvester",
@@ -261,7 +261,7 @@
 		"revision_timestamp": "2013-07-19T15:56:17.219368",
 		"is_organization": true,
 		"state": "active",
-		"image_url": "http:\/\/www.gis.iastate.edu\/images\/GISFlogo50H.png",
+		"image_url": "http://www.gis.iastate.edu/images/GISFlogo50H.png",
 		"revision_id": "3fb02433-fa30-4475-9ff3-e5dcf5cfb139",
 		"type": "organization",
 		"id": "32e644cd-07b4-427e-b867-d7f9dcf23f9c",

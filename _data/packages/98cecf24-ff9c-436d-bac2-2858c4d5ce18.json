@@ -37,7 +37,7 @@
 		"cache_url": null,
 		"name": "Web Feature Service",
 		"created": "2013-03-14T21:28:25.044787",
-		"url": "http:\/\/gis.glin.net\/geoserver\/wfs?request=getfeature&service=wfs&version=1.0.0&typename=glin:gl_landsat_footprints_wrs2&outputformat=shape-zip",
+		"url": "http://gis.glin.net/geoserver/wfs?request=getfeature&service=wfs&version=1.0.0&typename=glin:gl_landsat_footprints_wrs2&outputformat=shape-zip",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 0,
@@ -67,7 +67,7 @@
 		"cache_url": null,
 		"name": "Web Feature Service",
 		"created": "2013-03-14T21:28:25.044809",
-		"url": "http:\/\/gis.glin.net\/geoserver\/wfs?request=getfeature&service=wfs&version=1.0.0&typename=glin:gl_landsat_footprints_wrs2&outputformat=GML2-GZIP",
+		"url": "http://gis.glin.net/geoserver/wfs?request=getfeature&service=wfs&version=1.0.0&typename=glin:gl_landsat_footprints_wrs2&outputformat=GML2-GZIP",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 1,
@@ -97,7 +97,7 @@
 		"cache_url": null,
 		"name": "Web Mapping Service",
 		"created": "2013-03-14T21:28:25.044817",
-		"url": "http:\/\/gis.glin.net\/geoserver\/wms?bbox=-93.971500,40.852700,-69.368200,49.791700&request=GetMap&layers=glin:gl_landsat_footprints_wrs2&width=600&height=400&srs=EPSG:4326&styles=poly_navy&format=image\/svg",
+		"url": "http://gis.glin.net/geoserver/wms?bbox=-93.971500,40.852700,-69.368200,49.791700&request=GetMap&layers=glin:gl_landsat_footprints_wrs2&width=600&height=400&srs=EPSG:4326&styles=poly_navy&format=image/svg",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 2,
@@ -127,7 +127,7 @@
 		"cache_url": null,
 		"name": "Web Mapping Service",
 		"created": "2013-03-14T21:28:25.044824",
-		"url": "http:\/\/gis.glin.net\/geoserver\/wms?bbox=-93.971500,40.852700,-69.368200,49.791700&request=GetMap&layers=glin:gl_landsat_footprints_wrs2&width=600&height=400&srs=EPSG:4326&styles=poly_navy&format=application\/pdf",
+		"url": "http://gis.glin.net/geoserver/wms?bbox=-93.971500,40.852700,-69.368200,49.791700&request=GetMap&layers=glin:gl_landsat_footprints_wrs2&width=600&height=400&srs=EPSG:4326&styles=poly_navy&format=application/pdf",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 3,
@@ -157,7 +157,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2013-03-14T21:28:25.044831",
-		"url": "http:\/\/gis.glin.net\/ogc\/services.php#gl_landsat_footprints_wrs2",
+		"url": "http://gis.glin.net/ogc/services.php#gl_landsat_footprints_wrs2",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 4,
@@ -177,11 +177,11 @@
 	"name": "great-lakes-landsat-footprints-wrs2",
 	"isopen": false,
 	"url": null,
-	"notes": "Satellites such as Landsat 4, 5, and 7, Terra, EO-1 and others all share the same basic 705km, 98.9 minute near-polar sun synchronous orbit. For the Landsat series, the ground trace of the orbit is described by the WRS-2 grid or index, (also known as WRS-II, World Reference System Two). It consists of 233 unique orbit ground traces that are interlaced in 15 daily patterns of 16 orbits. Therefore, every 16 days the ground traces repeat over the same locations (good for measuring change over time). Data products from the Landsat series are produced from the strip of data received along a given path by cutting or dividing the data into rectangles or \"granules\" designated by row numbers for each path. There are 248 rows to accompany each path. This data layer represents the area coverage of WRS-2 polygons or Landsat \"footprints\" over the Great Lakes and connecting waterways. Each rectangle is approximately 185km wide and 175km long Note: Landsat 1-3 produced data tied to the WRS-1 system, which is similar but different. Information compiled by Dr. Sam Batzli, University of Wisconsin-Madison and WisconsinView.org",
+	"notes": "Satellites such as Landsat 4, 5, and 7, Terra, EO-1 and others all share the same basic 705km, 98.9 minute near-polar sun synchronous orbit. For the Landsat series, the ground trace of the orbit is described by the WRS-2 grid or index, (also known as WRS-II, World Reference System Two). It consists of 233 unique orbit ground traces that are interlaced in 15 daily patterns of 16 orbits. Therefore, every 16 days the ground traces repeat over the same locations (good for measuring change over time). Data products from the Landsat series are produced from the strip of data received along a given path by cutting or dividing the data into rectangles or "granules" designated by row numbers for each path. There are 248 rows to accompany each path. This data layer represents the area coverage of WRS-2 polygons or Landsat "footprints" over the Great Lakes and connecting waterways. Each rectangle is approximately 185km wide and 175km long Note: Landsat 1-3 produced data tied to the WRS-1 system, which is similar but different. Information compiled by Dr. Sam Batzli, University of Wisconsin-Madison and WisconsinView.org",
 	"license_title": null,
 	"extras": [{
 		"key": "responsible-party",
-		"value": "[{\"name\": \"University of Wisconsin Madison\", \"roles\": [\"pointOfContact\"]}]"
+		"value": "[{"name": "University of Wisconsin Madison", "roles": ["pointOfContact"]}]"
 	},
 	{
 		"key": "contact-email",
@@ -201,7 +201,7 @@
 	},
 	{
 		"key": "dataset-reference-date",
-		"value": "[{\"type\": \"publication\", \"value\": \"9999-01-01\"}]"
+		"value": "[{"type": "publication", "value": "9999-01-01"}]"
 	},
 	{
 		"key": "resource-type",
@@ -229,7 +229,7 @@
 	},
 	{
 		"key": "licence",
-		"value": "[\"Disclaimer. The Great Lakes Commission (GLC) and the Great Lakes Information Network (GLIN) cannot assume liability for any damages caused by any errors or omissions in the data, nor as a result of the failure of the data to function on a particular system. The Great Lakes Commission (GLC) and the Great Lakes Information Network (GLIN) make no warranty, expressed or implied, nor does the fact of distribution constitute such a warranty.\"]"
+		"value": "["Disclaimer. The Great Lakes Commission (GLC) and the Great Lakes Information Network (GLIN) cannot assume liability for any damages caused by any errors or omissions in the data, nor as a result of the failure of the data to function on a particular system. The Great Lakes Commission (GLC) and the Great Lakes Information Network (GLIN) make no warranty, expressed or implied, nor does the fact of distribution constitute such a warranty."]"
 	},
 	{
 		"key": "metadata_type",
@@ -237,7 +237,7 @@
 	},
 	{
 		"key": "spatial",
-		"value": "{\"type\": \"Polygon\", \"coordinates\": [[[-93.9715, 40.8527], [-93.9715, 49.7917], [-69.3682, 49.7917], [-69.3682, 40.8527], [-93.9715, 40.8527]]]}"
+		"value": "{"type": "Polygon", "coordinates": [[[-93.9715, 40.8527], [-93.9715, 49.7917], [-69.3682, 49.7917], [-69.3682, 40.8527], [-93.9715, 40.8527]]]}"
 	},
 	{
 		"key": "guid",
@@ -249,11 +249,11 @@
 	},
 	{
 		"key": "access_constraints",
-		"value": "[\"Use Constraints: There are not restrictions for non-commercial use of this data set.\", \"Access Constraints: None\"]"
+		"value": "["Use Constraints: There are not restrictions for non-commercial use of this data set.", "Access Constraints: None"]"
 	},
 	{
 		"key": "graphic-preview-file",
-		"value": "http:\/\/gis.glin.net\/geoserver\/wms?bbox=-93.971500,40.852700,-69.368200,49.791700&request=GetMap&layers=glin:gl_landsat_footprints_wrs2&width=600&height=400&srs=EPSG:4326&styles=poly_navy&format=image\/png"
+		"value": "http://gis.glin.net/geoserver/wms?bbox=-93.971500,40.852700,-69.368200,49.791700&request=GetMap&layers=glin:gl_landsat_footprints_wrs2&width=600&height=400&srs=EPSG:4326&styles=poly_navy&format=image/png"
 	},
 	{
 		"key": "frequency-of-update",
@@ -291,7 +291,7 @@
 		"revision_timestamp": "2015-01-16T18:08:30.443285",
 		"is_organization": true,
 		"state": "active",
-		"image_url": "http:\/\/indianarealpropertylaw.com\/wp-content\/uploads\/2013\/07\/Great-Lakes-Commission.jpg",
+		"image_url": "http://indianarealpropertylaw.com/wp-content/uploads/2013/07/Great-Lakes-Commission.jpg",
 		"revision_id": "b1642f30-a698-46dd-ad02-061968095af6",
 		"type": "organization",
 		"id": "6f701557-5979-4d24-9171-73111c57faec",

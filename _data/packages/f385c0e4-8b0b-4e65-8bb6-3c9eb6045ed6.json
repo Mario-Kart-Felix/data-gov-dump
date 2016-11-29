@@ -37,7 +37,7 @@
 		"cache_url": null,
 		"name": "Zip File",
 		"created": "2016-01-02T01:58:11.213315",
-		"url": "ftp:\/\/ftp.coast.noaa.gov\/pub\/MSP\/OceanUsesNewHampshireMaine.zip",
+		"url": "ftp://ftp.coast.noaa.gov/pub/MSP/OceanUsesNewHampshireMaine.zip",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 0,
@@ -67,7 +67,7 @@
 		"cache_url": null,
 		"name": "Esri Rest API Endpoint",
 		"created": "2016-01-02T01:58:11.213339",
-		"url": "https:\/\/coast.noaa.gov\/arcgis\/rest\/services\/MarineCadastre\/OceanUsesNewHampshireMaine\/MapServer",
+		"url": "https://coast.noaa.gov/arcgis/rest/services/MarineCadastre/OceanUsesNewHampshireMaine/MapServer",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 1,
@@ -97,7 +97,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2016-01-02T01:58:11.213348",
-		"url": "http:\/\/www.marinecadastre.gov\/data",
+		"url": "http://www.marinecadastre.gov/data",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 2,
@@ -127,7 +127,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2016-01-02T01:58:11.213356",
-		"url": "https:\/\/coast.noaa.gov\/",
+		"url": "https://coast.noaa.gov/",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 3,
@@ -147,11 +147,11 @@
 	"name": "ocean-uses-new-hampshire-and-maine",
 	"isopen": false,
 	"url": null,
-	"notes": "This Ocean Uses Atlas Project is an innovative partnership between the Coastal Response Research Center (CRRC) and NOAA's Office of Ocean and Coastal Resource Management (OCRM). The Project was designed to enhance ocean management through geospatial data on the full range of significant human uses of the ocean environment from the shorelines of New Hampshire and Southern Maine to the EEZ boundary. The data were gathered from regional ocean experts and users through participatory GIS methods. For more information on the project scope, background and related data products, please visit http:\/\/marinecadastre.gov\/oceanuses\/ or http:\/\/marineprotectedareas.noaa.gov\/dataanalysis\/atlas_nhsm\/.",
+	"notes": "This Ocean Uses Atlas Project is an innovative partnership between the Coastal Response Research Center (CRRC) and NOAA's Office of Ocean and Coastal Resource Management (OCRM). The Project was designed to enhance ocean management through geospatial data on the full range of significant human uses of the ocean environment from the shorelines of New Hampshire and Southern Maine to the EEZ boundary. The data were gathered from regional ocean experts and users through participatory GIS methods. For more information on the project scope, background and related data products, please visit http://marinecadastre.gov/oceanuses/ or http://marineprotectedareas.noaa.gov/dataanalysis/atlas_nhsm/.",
 	"license_title": null,
 	"extras": [{
 		"key": "responsible-party",
-		"value": "[{\"name\": \"NOAA Office for Coastal Management\", \"roles\": [\"pointOfContact\"]}]"
+		"value": "[{"name": "NOAA Office for Coastal Management", "roles": ["pointOfContact"]}]"
 	},
 	{
 		"key": "contact-email",
@@ -171,7 +171,7 @@
 	},
 	{
 		"key": "dataset-reference-date",
-		"value": "[{\"type\": \"publication\", \"value\": \"2015-10-01\"}]"
+		"value": "[{"type": "publication", "value": "2015-10-01"}]"
 	},
 	{
 		"key": "resource-type",
@@ -199,7 +199,7 @@
 	},
 	{
 		"key": "licence",
-		"value": "[\"NOAA makes no warranties or representations whatsoever regarding the availability, quality, accuracy, content, completeness or suitability for the user's needs of such information. The services, information, and data made available on the MarineCadastre.gov web site are provided 'as is' without warranties of any kind. These data are intended for coastal and ocean use planning. Not for navigation.\"]"
+		"value": "["NOAA makes no warranties or representations whatsoever regarding the availability, quality, accuracy, content, completeness or suitability for the user's needs of such information. The services, information, and data made available on the MarineCadastre.gov web site are provided 'as is' without warranties of any kind. These data are intended for coastal and ocean use planning. Not for navigation."]"
 	},
 	{
 		"key": "metadata_type",
@@ -211,7 +211,7 @@
 	},
 	{
 		"key": "spatial",
-		"value": "{\"type\": \"Polygon\", \"coordinates\": [[[-70.953664, 42.817253], [-67.469906, 42.817253], [-67.469906, 43.935719], [-70.953664, 43.935719], [-70.953664, 42.817253]]]}"
+		"value": "{"type": "Polygon", "coordinates": [[[-70.953664, 42.817253], [-67.469906, 42.817253], [-67.469906, 43.935719], [-70.953664, 43.935719], [-70.953664, 42.817253]]]}"
 	},
 	{
 		"key": "guid",
@@ -223,7 +223,7 @@
 	},
 	{
 		"key": "access_constraints",
-		"value": "[\"Use Constraints: These data are intended for coastal and ocean use planning. Not for navigation. http:\/\/www.marinecadastre.gov\/about\/disclaimer.html\", \"Access Constraints: None\"]"
+		"value": "["Use Constraints: These data are intended for coastal and ocean use planning. Not for navigation. http://www.marinecadastre.gov/about/disclaimer.html", "Access Constraints: None"]"
 	},
 	{
 		"key": "spatial_harvester",
@@ -265,7 +265,7 @@
 		"revision_timestamp": "2013-03-25T23:05:12.923863",
 		"is_organization": true,
 		"state": "active",
-		"image_url": "https:\/\/fortress.wa.gov\/dfw\/score\/score\/images\/noaa_logo.png",
+		"image_url": "https://fortress.wa.gov/dfw/score/score/images/noaa_logo.png",
 		"revision_id": "c6d43080-22e1-405e-a83d-f2a512d9e867",
 		"type": "organization",
 		"id": "e811f0b4-451f-4896-9e8f-fc6802837819",

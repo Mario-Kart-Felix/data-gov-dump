@@ -36,7 +36,7 @@
 		"cache_url": null,
 		"name": "http",
 		"created": "2016-04-18T15:49:33.867139",
-		"url": "http:\/\/aviationweather.gov\/wifs",
+		"url": "http://aviationweather.gov/wifs",
 		"webstore_url": null,
 		"resource_locator_function": "download",
 		"position": 0,
@@ -80,7 +80,7 @@
 	},
 	{
 		"key": "dataset-reference-date",
-		"value": "[{\"type\": \"creation\", \"value\": \"2015-11-23\"}]"
+		"value": "[{"type": "creation", "value": "2015-11-23"}]"
 	},
 	{
 		"key": "resource-type",
@@ -120,7 +120,7 @@
 	},
 	{
 		"key": "spatial",
-		"value": "{\"type\": \"Polygon\", \"coordinates\": [[[0.0, -90.0], [360.0, -90.0], [360.0, 90.0], [0.0, 90.0], [0.0, -90.0]]]}"
+		"value": "{"type": "Polygon", "coordinates": [[[0.0, -90.0], [360.0, -90.0], [360.0, 90.0], [0.0, 90.0], [0.0, -90.0]]]}"
 	},
 	{
 		"key": "guid",
@@ -144,7 +144,7 @@
 	},
 	{
 		"package_id": "47c82810-5c57-4b5e-a42f-8395d388ede5",
-		"value": "doc\/noaa\/nws\/toc\/nwstg, none, clear air turbulence, icing, wafs, y[ifl]x[cdefghijklm][0-9][0-9] (egrr|kwbc), in-cloud turbulence, turbulence, world area forecast system, doc\/noaa\/nws\/ncep\/awc",
+		"value": "doc/noaa/nws/toc/nwstg, none, clear air turbulence, icing, wafs, y[ifl]x[cdefghijklm][0-9][0-9] (egrr|kwbc), in-cloud turbulence, turbulence, world area forecast system, doc/noaa/nws/ncep/awc",
 		"revision_timestamp": "2016-04-18T19:49:33.796473",
 		"state": "active",
 		"key": "tags",
@@ -174,7 +174,7 @@
 		"revision_timestamp": "2013-03-25T23:05:12.923863",
 		"is_organization": true,
 		"state": "active",
-		"image_url": "https:\/\/fortress.wa.gov\/dfw\/score\/score\/images\/noaa_logo.png",
+		"image_url": "https://fortress.wa.gov/dfw/score/score/images/noaa_logo.png",
 		"revision_id": "c6d43080-22e1-405e-a83d-f2a512d9e867",
 		"type": "organization",
 		"id": "e811f0b4-451f-4896-9e8f-fc6802837819",

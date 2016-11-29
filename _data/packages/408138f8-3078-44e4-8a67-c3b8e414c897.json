@@ -36,7 +36,7 @@
 		"cache_url": null,
 		"name": "File Information",
 		"created": "2014-11-19T10:27:42.972157",
-		"url": "http:\/\/cida.usgs.gov\/thredds\/dodsC\/topowx.html",
+		"url": "http://cida.usgs.gov/thredds/dodsC/topowx.html",
 		"webstore_url": null,
 		"resource_locator_function": "download",
 		"position": 0,
@@ -66,7 +66,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2014-11-19T10:27:42.972186",
-		"url": "http:\/\/www.ntsg.umt.edu\/",
+		"url": "http://www.ntsg.umt.edu/",
 		"webstore_url": null,
 		"resource_locator_function": "information",
 		"position": 1,
@@ -96,7 +96,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2014-11-19T10:27:42.972197",
-		"url": "http:\/\/www.ntsg.umt.edu\/",
+		"url": "http://www.ntsg.umt.edu/",
 		"webstore_url": null,
 		"resource_locator_function": "information",
 		"position": 2,
@@ -126,7 +126,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2014-11-19T10:27:42.972207",
-		"url": "http:\/\/www.ntsg.umt.edu\/",
+		"url": "http://www.ntsg.umt.edu/",
 		"webstore_url": null,
 		"resource_locator_function": "information",
 		"position": 3,
@@ -155,7 +155,7 @@
 		"cache_url": null,
 		"name": "OPeNDAP",
 		"created": "2014-11-19T10:27:42.972217",
-		"url": "http:\/\/cida.usgs.gov\/thredds\/dodsC\/topowx",
+		"url": "http://cida.usgs.gov/thredds/dodsC/topowx",
 		"webstore_url": null,
 		"resource_locator_function": "download",
 		"position": 4,
@@ -184,7 +184,7 @@
 		"cache_url": null,
 		"name": "OPeNDAP",
 		"created": "2014-11-19T10:27:42.972227",
-		"url": "http:\/\/cida.usgs.gov\/thredds\/dodsC\/topowx_normals",
+		"url": "http://cida.usgs.gov/thredds/dodsC/topowx_normals",
 		"webstore_url": null,
 		"resource_locator_function": "download",
 		"position": 5,
@@ -204,7 +204,7 @@
 	"name": "topowx-topoclimatic-daily-air-temperature-dataset-for-the-conterminous-united-states",
 	"isopen": false,
 	"url": null,
-	"notes": "The TopoWx ('Topography Weather') dataset contains historical 30-arcsec resolution (~800-m) interpolations of daily minimum and maximum topoclimatic air temperature for the conterminous U.S. Using both DEM-based variables and MODIS land skin temperature as predictors of air temperature, interpolation procedures include moving window regression kriging and geographically weighted regression. To avoid artificial climate trends, all input station data are homogenized using the GHCN\/USHCN Pairwise Homogenization Algorithm (http:\/\/www.ncdc.noaa.gov\/oa\/climate\/research\/ushcn\/#phas). The interpolation model is open source and information on obtaining model code can be found at http:\/\/www.ntsg.umt.edu\/project\/TopoWx. The following data are available in this archive: 1948-2012 daily minimum and maximum temperature, and 1981-2010 monthly normals for minimum and maximum temperature with corresponding uncertainty (kriging prediction error).",
+	"notes": "The TopoWx ('Topography Weather') dataset contains historical 30-arcsec resolution (~800-m) interpolations of daily minimum and maximum topoclimatic air temperature for the conterminous U.S. Using both DEM-based variables and MODIS land skin temperature as predictors of air temperature, interpolation procedures include moving window regression kriging and geographically weighted regression. To avoid artificial climate trends, all input station data are homogenized using the GHCN/USHCN Pairwise Homogenization Algorithm (http://www.ncdc.noaa.gov/oa/climate/research/ushcn/#phas). The interpolation model is open source and information on obtaining model code can be found at http://www.ntsg.umt.edu/project/TopoWx. The following data are available in this archive: 1948-2012 daily minimum and maximum temperature, and 1981-2010 monthly normals for minimum and maximum temperature with corresponding uncertainty (kriging prediction error).",
 	"license_title": null,
 	"extras": [{
 		"key": "bbox-east-long",
@@ -220,7 +220,7 @@
 	},
 	{
 		"key": "coupled-resource",
-		"value": "[{\"href\": [\"#DataIdentification\"], \"uuid\": [], \"title\": []}, {\"href\": [\"#DataIdentification\"], \"uuid\": [], \"title\": []}]"
+		"value": "[{"href": ["#DataIdentification"], "uuid": [], "title": []}, {"href": ["#DataIdentification"], "uuid": [], "title": []}]"
 	},
 	{
 		"key": "guid",
@@ -240,7 +240,7 @@
 	},
 	{
 		"key": "spatial",
-		"value": "{\"type\": \"Polygon\", \"coordinates\": [[[-125.000000553, 24.1249998968], [-66.6750007868, 24.1249998968], [-66.6750007868, 51.1999997885], [-125.000000553, 51.1999997885], [-125.000000553, 24.1249998968]]]}"
+		"value": "{"type": "Polygon", "coordinates": [[[-125.000000553, 24.1249998968], [-66.6750007868, 24.1249998968], [-66.6750007868, 51.1999997885], [-125.000000553, 51.1999997885], [-125.000000553, 24.1249998968]]]}"
 	},
 	{
 		"key": "progress",
@@ -268,7 +268,7 @@
 	},
 	{
 		"key": "dataset-reference-date",
-		"value": "[{\"type\": \"creation\", \"value\": \"2014-06-13\"}, {\"type\": \"\", \"value\": \"2014-07-01\"}]"
+		"value": "[{"type": "creation", "value": "2014-06-13"}, {"type": "", "value": "2014-07-01"}]"
 	},
 	{
 		"key": "frequency-of-update",
@@ -284,7 +284,7 @@
 	},
 	{
 		"key": "responsible-party",
-		"value": "[{\"name\": \"USGS\", \"roles\": [\"pointOfContact\"]}]"
+		"value": "[{"name": "USGS", "roles": ["pointOfContact"]}]"
 	},
 	{
 		"key": "temporal-extent-end",
@@ -323,14 +323,14 @@
 		"value": "geo-data-portal"
 	}],
 	"organization": {
-		"description": "http:\/\/www.usgs.gov\/\r\nThe USGS is a federal science agency that provides impartial information on the health of our ecosystems and environment, the natural hazards that threaten us, the natural resources we rely on, the impacts of climate and land-use change, and the core science systems that help us provide timely, relevant, and useable information.",
+		"description": "http://www.usgs.gov/rnThe USGS is a federal science agency that provides impartial information on the health of our ecosystems and environment, the natural hazards that threaten us, the natural resources we rely on, the impacts of climate and land-use change, and the core science systems that help us provide timely, relevant, and useable information.",
 		"created": "2013-03-14T03:44:38.263357",
 		"title": "U.S. Geological Survey, Department of the Interior",
 		"name": "usgs-gov",
 		"revision_timestamp": "2014-09-02T13:43:52.167023",
 		"is_organization": true,
 		"state": "active",
-		"image_url": "http:\/\/pubs.usgs.gov\/sir\/2004\/5296\/04-5296_confluence_park\/usgs_logo.gif",
+		"image_url": "http://pubs.usgs.gov/sir/2004/5296/04-5296_confluence_park/usgs_logo.gif",
 		"revision_id": "2858aa99-9501-4f96-82e5-9647b968ed66",
 		"type": "organization",
 		"id": "bd2cdd5a-4d65-46c0-9937-c8381175f104",

@@ -34,9 +34,9 @@
 		"resource_locator_protocol": "WWW:LINK-1.0-http--link",
 		"mimetype": null,
 		"cache_url": null,
-		"name": "ftp:\/\/ftp.nefsc.noaa.gov",
+		"name": "ftp://ftp.nefsc.noaa.gov",
 		"created": "2016-08-08T22:15:40.255798",
-		"url": "ftp:\/\/ftp.nefsc.noaa.gov",
+		"url": "ftp://ftp.nefsc.noaa.gov",
 		"webstore_url": null,
 		"resource_locator_function": "download",
 		"position": 0,
@@ -65,7 +65,7 @@
 		"cache_url": null,
 		"name": "Website",
 		"created": "2016-08-08T22:15:40.255836",
-		"url": "http:\/\/www.nefsc.noaa.gov",
+		"url": "http://www.nefsc.noaa.gov",
 		"webstore_url": null,
 		"resource_locator_function": "information",
 		"position": 1,
@@ -94,7 +94,7 @@
 		"cache_url": null,
 		"name": "Website",
 		"created": "2016-08-08T22:15:40.255846",
-		"url": "http:\/\/www.nefsc.noaa.gov",
+		"url": "http://www.nefsc.noaa.gov",
 		"webstore_url": null,
 		"resource_locator_function": "information",
 		"position": 2,
@@ -123,7 +123,7 @@
 		"cache_url": null,
 		"name": "Website",
 		"created": "2016-08-08T22:15:40.255854",
-		"url": "http:\/\/www.nefsc.noaa.gov",
+		"url": "http://www.nefsc.noaa.gov",
 		"webstore_url": null,
 		"resource_locator_function": "information",
 		"position": 3,
@@ -152,7 +152,7 @@
 		"cache_url": null,
 		"name": "NOAA Data Management Plan (DMP)",
 		"created": "2016-08-08T22:15:40.255861",
-		"url": "https:\/\/inport.nmfs.noaa.gov\/inport\/item\/25087\/dmp",
+		"url": "https://inport.nmfs.noaa.gov/inport/item/25087/dmp",
 		"webstore_url": null,
 		"resource_locator_function": "information",
 		"position": 4,
@@ -169,7 +169,7 @@
 		"state": "active",
 		"last_modified": null,
 		"hash": "",
-		"description": "This page describes the NASA GCMD Keywords, how\n                                                        to reference those keywords and provides download instructions.\n                                                    ",
+		"description": "This page describes the NASA GCMD Keywords, hown                                                        to reference those keywords and provides download instructions.n                                                    ",
 		"format": "HTML",
 		"tracking_summary": {
 			"total": 468,
@@ -181,7 +181,7 @@
 		"cache_url": null,
 		"name": "GCMD Keywords Page",
 		"created": "2016-08-08T22:15:40.255868",
-		"url": "http:\/\/gcmd.nasa.gov\/learn\/keyword_list.html",
+		"url": "http://gcmd.nasa.gov/learn/keyword_list.html",
 		"webstore_url": null,
 		"resource_locator_function": "information",
 		"position": 5,
@@ -201,7 +201,7 @@
 	"name": "shrimp-survey-data",
 	"isopen": false,
 	"url": null,
-	"notes": "The Northern Shrimp Survey was initiated in 1983 by the Atlantic States Marine Fisheries Commission (ASMFC) and monitors the relative abundance (number of shrimp), biomass (weight of shrimp),  and composition  of the northern shrimp stock throughout the Gulf of Maine. The data give an understanding of year class strength and sex stage and maturity of shrimp in the population. The survey focuses its efforts in offshore waters (in depths greater than 50 meters) and is timed to sample both males and females during the summer when they are expected to be offshore. The data it collects forms the basis of the annual northern shrimp assessment, which in turn, is used by fishery managers from Maine, New Hampshire and Massachusetts to set each year\u00e2\u0080\u0099s fishing regulations.",
+	"notes": "The Northern Shrimp Survey was initiated in 1983 by the Atlantic States Marine Fisheries Commission (ASMFC) and monitors the relative abundance (number of shrimp), biomass (weight of shrimp),  and composition  of the northern shrimp stock throughout the Gulf of Maine. The data give an understanding of year class strength and sex stage and maturity of shrimp in the population. The survey focuses its efforts in offshore waters (in depths greater than 50 meters) and is timed to sample both males and females during the summer when they are expected to be offshore. The data it collects forms the basis of the annual northern shrimp assessment, which in turn, is used by fishery managers from Maine, New Hampshire and Massachusetts to set each yearu00e2u0080u0099s fishing regulations.",
 	"license_title": null,
 	"extras": [{
 		"key": "bbox-east-long",
@@ -237,7 +237,7 @@
 	},
 	{
 		"key": "spatial",
-		"value": "{\"type\": \"Polygon\", \"coordinates\": [[[-70.6485, 41.337467], [-68.016667, 41.337467], [-68.016667, 43.89625], [-70.6485, 43.89625], [-70.6485, 41.337467]]]}"
+		"value": "{"type": "Polygon", "coordinates": [[[-70.6485, 41.337467], [-68.016667, 41.337467], [-68.016667, 43.89625], [-70.6485, 43.89625], [-70.6485, 41.337467]]]}"
 	},
 	{
 		"key": "progress",
@@ -245,7 +245,7 @@
 	},
 	{
 		"key": "access_constraints",
-		"value": "[\"Access Constraints: If data is stored on an internal NEFSC network, the requester may not have direct access to query the data unless they are also authorized for network access. | Use Constraints: User must read and fully comprehend the metadata prior to use. Applications or inferences derived from the data should be carefully considered for accuracy. Acknowledgement of NOAA\/NMFS\/NEFSC, as the source from which these data were obtained in any publications and\/or other representations of these, data is suggested.\"]"
+		"value": "["Access Constraints: If data is stored on an internal NEFSC network, the requester may not have direct access to query the data unless they are also authorized for network access. | Use Constraints: User must read and fully comprehend the metadata prior to use. Applications or inferences derived from the data should be carefully considered for accuracy. Acknowledgement of NOAA/NMFS/NEFSC, as the source from which these data were obtained in any publications and/or other representations of these, data is suggested."]"
 	},
 	{
 		"key": "temporal-extent-begin",
@@ -265,7 +265,7 @@
 	},
 	{
 		"key": "dataset-reference-date",
-		"value": "[{\"type\": \"publication\", \"value\": \"\"}]"
+		"value": "[{"type": "publication", "value": ""}]"
 	},
 	{
 		"key": "frequency-of-update",
@@ -281,7 +281,7 @@
 	},
 	{
 		"key": "responsible-party",
-		"value": "[{\"name\": \"\", \"roles\": [\"\"]}, {\"name\": \"Northeast Fisheries Science Center\", \"roles\": [\"pointOfContact\", \"custodian\"]}]"
+		"value": "[{"name": "", "roles": [""]}, {"name": "Northeast Fisheries Science Center", "roles": ["pointOfContact", "custodian"]}]"
 	},
 	{
 		"key": "spatial-data-service-type",
@@ -293,7 +293,7 @@
 	},
 	{
 		"package_id": "00df44af-a39d-45bc-84fa-ee65356748fa",
-		"value": "four seam modified commercial shrimp trawl, pandalus borealis, northeast fisheries science center, national marine fisheries service, noaa, u.s. department of commerce, summer, doc\/noaa\/nmfs\/nefsc, northern shrimp, western gulf of maine, northern shrimp surveys, atlantic states marine fisheries commission, northwest atlantic, frv gloria michelle, population survey",
+		"value": "four seam modified commercial shrimp trawl, pandalus borealis, northeast fisheries science center, national marine fisheries service, noaa, u.s. department of commerce, summer, doc/noaa/nmfs/nefsc, northern shrimp, western gulf of maine, northern shrimp surveys, atlantic states marine fisheries commission, northwest atlantic, frv gloria michelle, population survey",
 		"revision_timestamp": "2016-04-18T19:38:18.396664",
 		"state": "active",
 		"key": "tags",
@@ -323,7 +323,7 @@
 		"revision_timestamp": "2013-03-25T23:05:12.923863",
 		"is_organization": true,
 		"state": "active",
-		"image_url": "https:\/\/fortress.wa.gov\/dfw\/score\/score\/images\/noaa_logo.png",
+		"image_url": "https://fortress.wa.gov/dfw/score/score/images/noaa_logo.png",
 		"revision_id": "c6d43080-22e1-405e-a83d-f2a512d9e867",
 		"type": "organization",
 		"id": "e811f0b4-451f-4896-9e8f-fc6802837819",

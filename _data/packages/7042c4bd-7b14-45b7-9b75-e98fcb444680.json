@@ -37,7 +37,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2015-09-26T19:28:48.045639",
-		"url": "http:\/\/coast.noaa.gov",
+		"url": "http://coast.noaa.gov",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 0,
@@ -67,7 +67,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2015-09-26T19:28:48.045663",
-		"url": "http:\/\/coast.noaa.gov",
+		"url": "http://coast.noaa.gov",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 1,
@@ -94,9 +94,9 @@
 		"resource_locator_protocol": "",
 		"mimetype": null,
 		"cache_url": null,
-		"name": "Where they exist, the supplemental information folder will include acquisition and QA\/QC reports, breaklines, a footprint of the spatial extent of the data and other relevant related information",
+		"name": "Where they exist, the supplemental information folder will include acquisition and QA/QC reports, breaklines, a footprint of the spatial extent of the data and other relevant related information",
 		"created": "2015-09-26T19:28:48.045673",
-		"url": "ftp:\/\/csc.noaa.gov\/pub\/DigitalCoast\/lidar1_z\/geoid12a\/data\/2496\/supplemental\/",
+		"url": "ftp://csc.noaa.gov/pub/DigitalCoast/lidar1_z/geoid12a/data/2496/supplemental/",
 		"webstore_url": null,
 		"resource_locator_function": "information",
 		"position": 2,
@@ -116,7 +116,7 @@
 	"name": "2012-puget-sound-lidar-consortium-pslc-topographic-lidar-chehalis-river-watershed-area-washingt",
 	"isopen": false,
 	"url": null,
-	"notes": "Watershed Sciences, Inc. (WSI) collected Light Detection and Ranging (LiDAR) data for the Chehalis River Watershed study area on January 28th, February 2nd-7th, March 4th-9th, March 21st-23rd, and April 7th, 2012. Acquisition days were not consecutive due to weather. Data was collected for the Puget Sound LiDAR Consortium in partnership with the Federal Emergency Management Agency Region X (FEMA), Washington Department of Natural Resources, and Lewis County. The requested area of 224,713 acres for the Chehalis River Watershed was expanded to include a 100m buffer to ensure complete coverage and adequate point densities around survey area boundaries resulting in a total of 234,556 acres of delivered LiDAR data. The LiDAR survey utilized an Optech Orion-C and a Leica ALS60 sensor in a Cessna Caravan 208B. Please see \"Project Report\" below for specific information regarding the airborne survey and ground survey. This Lidar survey acheived a nominal point spacing of 10.94 points per square meter.",
+	"notes": "Watershed Sciences, Inc. (WSI) collected Light Detection and Ranging (LiDAR) data for the Chehalis River Watershed study area on January 28th, February 2nd-7th, March 4th-9th, March 21st-23rd, and April 7th, 2012. Acquisition days were not consecutive due to weather. Data was collected for the Puget Sound LiDAR Consortium in partnership with the Federal Emergency Management Agency Region X (FEMA), Washington Department of Natural Resources, and Lewis County. The requested area of 224,713 acres for the Chehalis River Watershed was expanded to include a 100m buffer to ensure complete coverage and adequate point densities around survey area boundaries resulting in a total of 234,556 acres of delivered LiDAR data. The LiDAR survey utilized an Optech Orion-C and a Leica ALS60 sensor in a Cessna Caravan 208B. Please see "Project Report" below for specific information regarding the airborne survey and ground survey. This Lidar survey acheived a nominal point spacing of 10.94 points per square meter.",
 	"license_title": null,
 	"extras": [{
 		"key": "bbox-east-long",
@@ -144,7 +144,7 @@
 	},
 	{
 		"key": "graphic-preview-file",
-		"value": "ftp:\/\/ftp.csc.noaa.gov\/pub\/crs\/beachmap\/qa_docs\/wa\/pslc2012\/wa2012_pslc_chehalis_footprint.KMZ"
+		"value": "ftp://ftp.csc.noaa.gov/pub/crs/beachmap/qa_docs/wa/pslc2012/wa2012_pslc_chehalis_footprint.KMZ"
 	},
 	{
 		"key": "metadata-language",
@@ -160,7 +160,7 @@
 	},
 	{
 		"key": "spatial",
-		"value": "{\"type\": \"Polygon\", \"coordinates\": [[[-123.619278, 46.386544], [-122.749918, 46.386544], [-122.749918, 47.05848], [-123.619278, 47.05848], [-123.619278, 46.386544]]]}"
+		"value": "{"type": "Polygon", "coordinates": [[[-123.619278, 46.386544], [-122.749918, 46.386544], [-122.749918, 47.05848], [-123.619278, 47.05848], [-123.619278, 46.386544]]]}"
 	},
 	{
 		"key": "progress",
@@ -188,7 +188,7 @@
 	},
 	{
 		"key": "dataset-reference-date",
-		"value": "[{\"type\": \"publication\", \"value\": \"2013-06-01\"}]"
+		"value": "[{"type": "publication", "value": "2013-06-01"}]"
 	},
 	{
 		"key": "graphic-preview-description",
@@ -200,7 +200,7 @@
 	},
 	{
 		"key": "licence",
-		"value": "[\"These data depict the elevations at the time of the survey and are only accurate for that time. Users should be aware that\\n            temporal changes may have occurred since this data set was collected and some parts of this data may no longer represent actual surface\\n            conditions. Users should not use this data for critical applications without a full awareness of its limitations. Any conclusions drawn\\n            from analysis of this information are not the responsibility of NOAA or any of its partners. These data are NOT to be used for navigational purposes.\"]"
+		"value": "["These data depict the elevations at the time of the survey and are only accurate for that time. Users should be aware that\n            temporal changes may have occurred since this data set was collected and some parts of this data may no longer represent actual surface\n            conditions. Users should not use this data for critical applications without a full awareness of its limitations. Any conclusions drawn\n            from analysis of this information are not the responsibility of NOAA or any of its partners. These data are NOT to be used for navigational purposes."]"
 	},
 	{
 		"key": "metadata_type",
@@ -208,7 +208,7 @@
 	},
 	{
 		"key": "responsible-party",
-		"value": "[{\"name\": \"Puget Sound Lidar Consortium (PSLC)\", \"roles\": [\"pointOfContact\"]}]"
+		"value": "[{"name": "Puget Sound Lidar Consortium (PSLC)", "roles": ["pointOfContact"]}]"
 	},
 	{
 		"key": "temporal-extent-end",
@@ -224,7 +224,7 @@
 	},
 	{
 		"package_id": "7042c4bd-7b14-45b7-9b75-e98fcb444680",
-		"value": "elevation, lewis county, remote sensing, washington, us, lidar, chehalis river watershed, laz, topography\/bathymetry, model, grays harbor county",
+		"value": "elevation, lewis county, remote sensing, washington, us, lidar, chehalis river watershed, laz, topography/bathymetry, model, grays harbor county",
 		"revision_timestamp": "2015-09-26T23:28:47.980903",
 		"state": "active",
 		"key": "tags",
@@ -254,7 +254,7 @@
 		"revision_timestamp": "2013-03-25T23:05:12.923863",
 		"is_organization": true,
 		"state": "active",
-		"image_url": "https:\/\/fortress.wa.gov\/dfw\/score\/score\/images\/noaa_logo.png",
+		"image_url": "https://fortress.wa.gov/dfw/score/score/images/noaa_logo.png",
 		"revision_id": "c6d43080-22e1-405e-a83d-f2a512d9e867",
 		"type": "organization",
 		"id": "e811f0b4-451f-4896-9e8f-fc6802837819",

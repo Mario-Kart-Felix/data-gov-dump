@@ -37,7 +37,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2014-12-01T09:24:47.239976",
-		"url": "http:\/\/www2.census.gov\/geo\/tiger\/TIGER2013\/ESTATE",
+		"url": "http://www2.census.gov/geo/tiger/TIGER2013/ESTATE",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 0,
@@ -46,7 +46,7 @@
 	}],
 	"num_resources": 1,
 	"tags": [],
-	"title": "TIGER\/Line Shapefile, 2013, Series Information File for\n                     the Current Estate State-based Shapefile (U.S. Virgin Islands Only)",
+	"title": "TIGER/Line Shapefile, 2013, Series Information File forn                     the Current Estate State-based Shapefile (U.S. Virgin Islands Only)",
 	"tracking_summary": {
 		"total": 38,
 		"recent": 1
@@ -57,7 +57,7 @@
 	"name": "tiger-line-shapefile-2013-series-information-file-for-the-current-estate-state-based-",
 	"isopen": false,
 	"url": null,
-	"notes": "The TIGER\/Line shapefiles and related database files (.dbf) are an extract of selected\n               geographic and cartographic information from the U.S. Census Bureau's Master Address File \/ Topologically Integrated Geographic Encoding and Referencing\n               (MAF\/TIGER) Database (MTDB).  The MTDB represents a seamless national file with no overlaps or gaps between parts, however, each TIGER\/Line shapefile is\n               designed to stand alone as an independent data set, or they can be combined to cover the entire nation.  Estates are subdivisions of the three major\n               islands in the United States Virgin Islands (USVI). The estates have legally defined boundaries and are much smaller in area than the Census Subdistricts\n               (county subdivisions), but do not necessarily nest within these districts.  The boundaries of the estates are primarily those of the former agricultural\n               plantations that existed at the time Denmark transferred the islands to the United States in 1917.  The names and boundaries of the estates are in common\n               usage by residents and in government administration.  The boundaries of the estates are as of January 1, 2010 and were provided to the Census Bureau by\n               the USVI Office of the Lieutenant Governor.  Estates can be found in the Sub Minor Civil Division (submcd) shapefile for the 2010 and 2011 TIGER\/Line\n               products.",
+	"notes": "The TIGER/Line shapefiles and related database files (.dbf) are an extract of selectedn               geographic and cartographic information from the U.S. Census Bureau's Master Address File / Topologically Integrated Geographic Encoding and Referencingn               (MAF/TIGER) Database (MTDB).  The MTDB represents a seamless national file with no overlaps or gaps between parts, however, each TIGER/Line shapefile isn               designed to stand alone as an independent data set, or they can be combined to cover the entire nation.  Estates are subdivisions of the three majorn               islands in the United States Virgin Islands (USVI). The estates have legally defined boundaries and are much smaller in area than the Census Subdistrictsn               (county subdivisions), but do not necessarily nest within these districts.  The boundaries of the estates are primarily those of the former agriculturaln               plantations that existed at the time Denmark transferred the islands to the United States in 1917.  The names and boundaries of the estates are in commonn               usage by residents and in government administration.  The boundaries of the estates are as of January 1, 2010 and were provided to the Census Bureau byn               the USVI Office of the Lieutenant Governor.  Estates can be found in the Sub Minor Civil Division (submcd) shapefile for the 2010 and 2011 TIGER/Linen               products.",
 	"license_title": null,
 	"extras": [{
 		"key": "bbox-east-long",
@@ -97,7 +97,7 @@
 	},
 	{
 		"key": "spatial",
-		"value": "{\"type\": \"Polygon\", \"coordinates\": [[[-179.231086, -14.601813], [179.859681, -14.601813], [179.859681, 71.441059], [-179.231086, 71.441059], [-179.231086, -14.601813]]]}"
+		"value": "{"type": "Polygon", "coordinates": [[[-179.231086, -14.601813], [179.859681, -14.601813], [179.859681, 71.441059], [-179.231086, 71.441059], [-179.231086, -14.601813]]]}"
 	},
 	{
 		"key": "progress",
@@ -105,7 +105,7 @@
 	},
 	{
 		"key": "access_constraints",
-		"value": "[\"Access Constraints: None\", \"Use Constraints: The TIGER\/Line Shapefile products are not copyrighted however\\n                     TIGER\/Line and Census TIGER are registered trademarks of the U.S. Census Bureau.  These products are free to use in a product or publication,\\n                     however acknowledgment must be given to the U.S. Census Bureau as the source.\", \"Distribution Liability: No warranty, expressed or implied is made with regard to\\n                     the accuracy of these data, and no liability is assumed by the U.S. Government in general or the U.S. Census Bureau in specific as to the spatial\\n                     or attribute accuracy of the data.  The act of distribution shall not constitute any such warranty and no responsibility is assumed by the U.S.\\n                     government in the use of these files.  The boundary information in the TIGER\/Line Shapefiles is for statistical data collection and tabulation\\n                     purposes only; their depiction and designation for statistical purposes do not constitute a determination of jurisdictional authority or rights\\n                     of ownership or entitlement and they are not legal land descriptions.\"]"
+		"value": "["Access Constraints: None", "Use Constraints: The TIGER/Line Shapefile products are not copyrighted however\n                     TIGER/Line and Census TIGER are registered trademarks of the U.S. Census Bureau.  These products are free to use in a product or publication,\n                     however acknowledgment must be given to the U.S. Census Bureau as the source.", "Distribution Liability: No warranty, expressed or implied is made with regard to\n                     the accuracy of these data, and no liability is assumed by the U.S. Government in general or the U.S. Census Bureau in specific as to the spatial\n                     or attribute accuracy of the data.  The act of distribution shall not constitute any such warranty and no responsibility is assumed by the U.S.\n                     government in the use of these files.  The boundary information in the TIGER/Line Shapefiles is for statistical data collection and tabulation\n                     purposes only; their depiction and designation for statistical purposes do not constitute a determination of jurisdictional authority or rights\n                     of ownership or entitlement and they are not legal land descriptions."]"
 	},
 	{
 		"key": "temporal-extent-begin",
@@ -125,7 +125,7 @@
 	},
 	{
 		"key": "dataset-reference-date",
-		"value": "[{\"type\": \"publication\", \"value\": \"2013\"}]"
+		"value": "[{"type": "publication", "value": "2013"}]"
 	},
 	{
 		"key": "frequency-of-update",
@@ -183,7 +183,7 @@
 		"revision_timestamp": "2013-08-29T13:37:04.171127",
 		"is_organization": true,
 		"state": "active",
-		"image_url": "http:\/\/www.census.gov\/main\/img\/home\/CensusLogo-white.png",
+		"image_url": "http://www.census.gov/main/img/home/CensusLogo-white.png",
 		"revision_id": "0995f525-d563-4254-a535-af5b926fe663",
 		"type": "organization",
 		"id": "31c49abe-512a-412a-9cc7-5b2601325d6b",

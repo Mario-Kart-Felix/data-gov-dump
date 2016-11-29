@@ -37,7 +37,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2013-03-15T15:36:54.176134",
-		"url": "http:\/\/www.vcgi.org\/dataware\/default.cfm?layer=FacilitiesHospitals_HOSPITAL",
+		"url": "http://www.vcgi.org/dataware/default.cfm?layer=FacilitiesHospitals_HOSPITAL",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 0,
@@ -67,7 +67,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2013-03-15T15:36:54.176153",
-		"url": "http:\/\/www.vcgi.org\/dataware\/default.cfm?layer=FacilitiesHospitals_HOSPITAL",
+		"url": "http://www.vcgi.org/dataware/default.cfm?layer=FacilitiesHospitals_HOSPITAL",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 1,
@@ -97,7 +97,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2013-03-15T15:36:54.176158",
-		"url": "http:\/\/www.vcgi.org\/dataware\/default.cfm?layer=FacilitiesHospitals_HOSPITAL&mapit=yes",
+		"url": "http://www.vcgi.org/dataware/default.cfm?layer=FacilitiesHospitals_HOSPITAL&mapit=yes",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 2,
@@ -127,7 +127,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2013-03-15T15:36:54.176162",
-		"url": "http:\/\/maps.vcgi.org:8080\/wmsconnector\/com.esri.wms.Esrimap?servicename=DATAWARE_VCGI&VERSION=1.1.1&request=getmap&BBOX=-73.45416,42.72279,-71.46528,45.018356&SRS=EPSG:4326&LAYERS=FACILITIES_HOSPITAL_POINT&WIDTH=300&HEIGHT=400&FORMAT=image\/gif",
+		"url": "http://maps.vcgi.org:8080/wmsconnector/com.esri.wms.Esrimap?servicename=DATAWARE_VCGI&VERSION=1.1.1&request=getmap&BBOX=-73.45416,42.72279,-71.46528,45.018356&SRS=EPSG:4326&LAYERS=FACILITIES_HOSPITAL_POINT&WIDTH=300&HEIGHT=400&FORMAT=image/gif",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 3,
@@ -160,7 +160,7 @@
 	"name": "facilitieshospitals-hospital",
 	"isopen": false,
 	"url": null,
-	"notes": "This data layer contains point locations of all major community, regional, comprehensive health, and healthcare provider hospitals in the state of Vermont. The listing of current hospitals was obtained from the 1998\/1999 & 2000\/2001 \"Vermont Manufacturers' Directory\", published annually by the \"Vermont Business Magazine\". Included within the attributes of the database are Annual Sales Ranges, Employment numbers, and hospital contact information. This data layer does not include Psychiatric or Specialty hospitals. Many of the point locations of hospital sites were obtained from EmergencyE911_ESITE data layers and verified with checking USGS topographic quadrangle maps, while other point locations were captured from orthophotos or USGS topographic quadrangle maps directly.",
+	"notes": "This data layer contains point locations of all major community, regional, comprehensive health, and healthcare provider hospitals in the state of Vermont. The listing of current hospitals was obtained from the 1998/1999 & 2000/2001 "Vermont Manufacturers' Directory", published annually by the "Vermont Business Magazine". Included within the attributes of the database are Annual Sales Ranges, Employment numbers, and hospital contact information. This data layer does not include Psychiatric or Specialty hospitals. Many of the point locations of hospital sites were obtained from EmergencyE911_ESITE data layers and verified with checking USGS topographic quadrangle maps, while other point locations were captured from orthophotos or USGS topographic quadrangle maps directly.",
 	"license_title": null,
 	"extras": [{
 		"key": "bbox-east-long",
@@ -184,7 +184,7 @@
 	},
 	{
 		"key": "graphic-preview-file",
-		"value": "http:\/\/maps.vcgi.org:8080\/wmsconnector\/com.esri.wms.Esrimap?servicename=DATAWARE_VCGI&VERSION=1.1.1&request=getmap&BBOX=-73.45416,42.72279,-71.46528,45.018356&SRS=EPSG:4326&LAYERS=FACILITIES_HOSPITAL_POINT&WIDTH=300&HEIGHT=400&FORMAT=image\/gif"
+		"value": "http://maps.vcgi.org:8080/wmsconnector/com.esri.wms.Esrimap?servicename=DATAWARE_VCGI&VERSION=1.1.1&request=getmap&BBOX=-73.45416,42.72279,-71.46528,45.018356&SRS=EPSG:4326&LAYERS=FACILITIES_HOSPITAL_POINT&WIDTH=300&HEIGHT=400&FORMAT=image/gif"
 	},
 	{
 		"key": "bbox-south-lat",
@@ -196,11 +196,11 @@
 	},
 	{
 		"key": "spatial",
-		"value": "{\"type\": \"Polygon\", \"coordinates\": [[[-73.454162, 42.722789], [-73.454162, 45.018361], [-71.465281, 45.018361], [-71.465281, 42.722789], [-73.454162, 42.722789]]]}"
+		"value": "{"type": "Polygon", "coordinates": [[[-73.454162, 42.722789], [-73.454162, 45.018361], [-71.465281, 45.018361], [-71.465281, 42.722789], [-73.454162, 42.722789]]]}"
 	},
 	{
 		"key": "access_constraints",
-		"value": "[\"Use Constraints: Although every effort has been made to assure the accuracy of features and their attributes for the FacilitiesHospitals_HOSPITAL data layer, VCGI is not accountable for any errors or misuse of the data.\", \"Access Constraints: VCGI and the State of Vermont make no representations of any kind, including but not limited to the warranties of merchantability or fitness for a particular use, nor are any such warranties to be implied with respect to the data.\"]"
+		"value": "["Use Constraints: Although every effort has been made to assure the accuracy of features and their attributes for the FacilitiesHospitals_HOSPITAL data layer, VCGI is not accountable for any errors or misuse of the data.", "Access Constraints: VCGI and the State of Vermont make no representations of any kind, including but not limited to the warranties of merchantability or fitness for a particular use, nor are any such warranties to be implied with respect to the data."]"
 	},
 	{
 		"key": "temporal-extent-begin",
@@ -220,7 +220,7 @@
 	},
 	{
 		"key": "dataset-reference-date",
-		"value": "[{\"type\": \"publication\", \"value\": \"1998-09-01\"}]"
+		"value": "[{"type": "publication", "value": "1998-09-01"}]"
 	},
 	{
 		"key": "frequency-of-update",
@@ -228,7 +228,7 @@
 	},
 	{
 		"key": "licence",
-		"value": "[\"VCGI and the State of Vermont make no representations of any kind, including but not limited to the warranties of merchantability or fitness for a particular use, nor are any such warranties to be implied with respect to the data.\"]"
+		"value": "["VCGI and the State of Vermont make no representations of any kind, including but not limited to the warranties of merchantability or fitness for a particular use, nor are any such warranties to be implied with respect to the data."]"
 	},
 	{
 		"key": "metadata_type",
@@ -236,7 +236,7 @@
 	},
 	{
 		"key": "responsible-party",
-		"value": "[{\"name\": \"VCGI\", \"roles\": [\"pointOfContact\"]}]"
+		"value": "[{"name": "VCGI", "roles": ["pointOfContact"]}]"
 	},
 	{
 		"key": "temporal-extent-end",
@@ -252,7 +252,7 @@
 	},
 	{
 		"package_id": "76ab7c59-883b-487c-a306-0f62c6c6c3c8",
-		"value": "structure, Buildings, Hospitals, Medical, Emergency Management, Environment\/Hazard, Health Care",
+		"value": "structure, Buildings, Hospitals, Medical, Emergency Management, Environment/Hazard, Health Care",
 		"revision_timestamp": "2013-05-17T00:00:00",
 		"state": "active",
 		"key": "tags",
@@ -282,7 +282,7 @@
 		"revision_timestamp": "2013-03-27T17:47:03.718032",
 		"is_organization": true,
 		"state": "active",
-		"image_url": "http:\/\/vcgi.vermont.gov\/sites\/all\/themes\/vt_template\/logo.png",
+		"image_url": "http://vcgi.vermont.gov/sites/all/themes/vt_template/logo.png",
 		"revision_id": "c5dfbbb0-f1e0-4db6-b566-e932e1520060",
 		"type": "organization",
 		"id": "0c3a4ebc-9929-4f21-bdd0-76a35d52f57d",

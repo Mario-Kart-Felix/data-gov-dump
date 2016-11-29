@@ -37,7 +37,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2016-04-04T20:01:26.433775",
-		"url": "https:\/\/edg.epa.gov\/data\/Public\/ORD\/EnviroAtlas\/National",
+		"url": "https://edg.epa.gov/data/Public/ORD/EnviroAtlas/National",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 0,
@@ -67,7 +67,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2016-04-04T20:01:26.433806",
-		"url": "https:\/\/edg.epa.gov\/data\/Public\/ORD\/EnviroAtlas",
+		"url": "https://edg.epa.gov/data/Public/ORD/EnviroAtlas",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 1,
@@ -97,7 +97,7 @@
 		"cache_url": null,
 		"name": "Esri Rest API Endpoint",
 		"created": "2016-04-04T20:01:26.433815",
-		"url": "https:\/\/enviroatlas.epa.gov\/arcgis\/rest\/services\/National",
+		"url": "https://enviroatlas.epa.gov/arcgis/rest/services/National",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 2,
@@ -127,7 +127,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2016-04-04T20:01:26.433822",
-		"url": "https:\/\/www.epa.gov\/enviroatlas\/enviroatlas-data",
+		"url": "https://www.epa.gov/enviroatlas/enviroatlas-data",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 3,
@@ -157,7 +157,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2016-04-04T20:01:26.433829",
-		"url": "https:\/\/www.epa.gov\/enviroatlas",
+		"url": "https://www.epa.gov/enviroatlas",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 4,
@@ -177,7 +177,7 @@
 	"name": "enviroatlas-domestic-water-demand-by-12-digit-huc-for-the-conterminous-united-states",
 	"isopen": false,
 	"url": null,
-	"notes": "This EnviroAtlas dataset includes domestic water demand attributes which provide insight into the amount of water currently used for indoor and outdoor residential purposes in the contiguous United States. The values are based on 2005 water demand and 2010 population distribution, and have been summarized by watershed or 12-digit hydrologic unit code (HUC). For the purposes of this metric, domestic water use includes residential uses, such as for drinking, bathing, cleaning, landscaping, and pools. Depending on the location, domestic water can be self-supplied, such as by private wells, or publicly-supplied, such as by municipalities. Sources include either surface water or groundwater. Estimates are for primary residences only (i.e., excluding second homes and tourism rentals). This dataset was produced by the US EPA to support research and online mapping activities related to the EnviroAtlas. EnviroAtlas (https:\/\/www.epa.gov\/enviroatlas) allows the user to interact with a web-based, easy-to-use, mapping application to view and analyze multiple ecosystem services for the contiguous United States. The dataset is available as downloadable data (https:\/\/edg.epa.gov\/data\/Public\/ORD\/EnviroAtlas) or as an EnviroAtlas map service. Additional descriptive information about each attribute in this dataset can be found in its associated EnviroAtlas Fact Sheet (https:\/\/www.epa.gov\/enviroatlas\/enviroatlas-fact-sheets).",
+	"notes": "This EnviroAtlas dataset includes domestic water demand attributes which provide insight into the amount of water currently used for indoor and outdoor residential purposes in the contiguous United States. The values are based on 2005 water demand and 2010 population distribution, and have been summarized by watershed or 12-digit hydrologic unit code (HUC). For the purposes of this metric, domestic water use includes residential uses, such as for drinking, bathing, cleaning, landscaping, and pools. Depending on the location, domestic water can be self-supplied, such as by private wells, or publicly-supplied, such as by municipalities. Sources include either surface water or groundwater. Estimates are for primary residences only (i.e., excluding second homes and tourism rentals). This dataset was produced by the US EPA to support research and online mapping activities related to the EnviroAtlas. EnviroAtlas (https://www.epa.gov/enviroatlas) allows the user to interact with a web-based, easy-to-use, mapping application to view and analyze multiple ecosystem services for the contiguous United States. The dataset is available as downloadable data (https://edg.epa.gov/data/Public/ORD/EnviroAtlas) or as an EnviroAtlas map service. Additional descriptive information about each attribute in this dataset can be found in its associated EnviroAtlas Fact Sheet (https://www.epa.gov/enviroatlas/enviroatlas-fact-sheets).",
 	"license_title": null,
 	"extras": [{
 		"key": "bbox-east-long",
@@ -213,7 +213,7 @@
 	},
 	{
 		"key": "spatial",
-		"value": "{\"type\": \"Polygon\", \"coordinates\": [[[-128.02839229, 22.7348894], [-65.20336449, 22.7348894], [-65.20336449, 51.6773602], [-128.02839229, 51.6773602], [-128.02839229, 22.7348894]]]}"
+		"value": "{"type": "Polygon", "coordinates": [[[-128.02839229, 22.7348894], [-65.20336449, 22.7348894], [-65.20336449, 51.6773602], [-128.02839229, 51.6773602], [-128.02839229, 22.7348894]]]}"
 	},
 	{
 		"key": "progress",
@@ -221,11 +221,11 @@
 	},
 	{
 		"key": "access_constraints",
-		"value": "[\"Use Constraints: None. Please check sources, scale, accuracy, currentness and other available information. Please confirm that you are using the most recent copy of both data and metadata. Acknowledgement of the EPA would be appreciated.\", \"Access Constraints: None.\"]"
+		"value": "["Use Constraints: None. Please check sources, scale, accuracy, currentness and other available information. Please confirm that you are using the most recent copy of both data and metadata. Acknowledgement of the EPA would be appreciated.", "Access Constraints: None."]"
 	},
 	{
 		"key": "licence_url",
-		"value": "https:\/\/edg.epa.gov\/EPA_Data_License.htm"
+		"value": "https://edg.epa.gov/EPA_Data_License.htm"
 	},
 	{
 		"key": "contact-email",
@@ -241,7 +241,7 @@
 	},
 	{
 		"key": "dataset-reference-date",
-		"value": "[{\"type\": \"publication\", \"value\": \"2012-01-01\"}]"
+		"value": "[{"type": "publication", "value": "2012-01-01"}]"
 	},
 	{
 		"key": "frequency-of-update",
@@ -249,7 +249,7 @@
 	},
 	{
 		"key": "licence",
-		"value": "[\"https:\/\/edg.epa.gov\/EPA_Data_License.htm\"]"
+		"value": "["https://edg.epa.gov/EPA_Data_License.htm"]"
 	},
 	{
 		"key": "metadata_type",
@@ -257,7 +257,7 @@
 	},
 	{
 		"key": "responsible-party",
-		"value": "[{\"name\": \"US Environmental Protection Agency, Research Triangle Park\", \"roles\": [\"pointOfContact\"]}]"
+		"value": "[{"name": "US Environmental Protection Agency, Research Triangle Park", "roles": ["pointOfContact"]}]"
 	},
 	{
 		"key": "spatial-data-service-type",
@@ -299,7 +299,7 @@
 		"revision_timestamp": "2014-01-16T18:58:42.895981",
 		"is_organization": true,
 		"state": "active",
-		"image_url": "http:\/\/edg.epa.gov\/EPALogo.svg",
+		"image_url": "http://edg.epa.gov/EPALogo.svg",
 		"revision_id": "f0e4b475-7424-4ce0-9a22-412e7e595154",
 		"type": "organization",
 		"id": "6d90e48d-3076-4327-b2f4-c33919f374d5",

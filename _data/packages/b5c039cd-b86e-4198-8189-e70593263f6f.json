@@ -36,7 +36,7 @@
 		"cache_url": null,
 		"name": "SHP",
 		"created": "2016-04-22T22:37:37.403107",
-		"url": "http:\/\/vcgi.vermont.gov\/warehouse\/",
+		"url": "http://vcgi.vermont.gov/warehouse/",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 0,
@@ -69,11 +69,11 @@
 	"name": "landlandcov-impervlcb2011",
 	"isopen": false,
 	"url": null,
-	"notes": "High-resolution impervious surfaces dataset for the Lake Champlain Basin, Vermont and New York. Two impervious classes were mapped: (1) Roads\\Railroads; and (2) Other Impervious. The latter category included parking lots, driveways, sidewalks, and buildings. Pertinent imagery could not be obtained for the Quebec portion of the Lake Champlain Basin, which was thus excluded from the final product. The primary source used to derive this impervious surfaces layer was 1-meter resolution National Agricultural Imagery Program (NAIP) data acquired in 2011. The NAIP datasets covering the study area were 4-band aerial imagery, meaning that they contained a Near Infrared band in addition to the visible bands (i.e., Red, Green, Blue). This band improved the utility of the imagery, permitting use of vegetation indices that rely on the Near Infrared and Red bands (e.g., Normalized Difference Vegetation Index). Ancillary data sources included various thematic vector GIS datasets, including the Lake Champlain Basin watershed boundary, lakes, stream centerlines, road centerlines, railroad centerlines, and building points. This impervious surfaces dataset is considered current as of 2011. Object-based image analysis techniques (OBIA) were used to extract impervious surfaces using the best available remotely-sensed and vector GIS datasets. OBIA systems work by grouping pixels into meaningful objects based on their spectral and spatial properties while taking into account boundaries imposed by existing vector datasets. Within the OBIA environment, a rule-based expert system was designed to effectively mimic the process of manual image analysis by incorporating the elements of image interpretation (color\/tone, texture, pattern, location, size, and shape) into the classification process. A series of morphological procedures were used to ensure that the end product was both accurate and cartographically coherent. It is important to note that the mapping protocol described above was a \"top-down\" approach: impervious surfaces were mapped when they were visible in the available aerial imagery. In practical terms, impervious surfaces were not captured by the mapping process when they were obscured by tree canopy. Although this modeling limitation means that the total area of extant impervious surfaces would be underestimated in subsequent analyses, it also provides a better estimate of surfaces whose environmental effects are not mitigated by overhanging vegetation. Indeed, one of the well-known benefits of trees is that they absorb or slow rainwater before it hits the ground, so the top-down approach is a reasonable and effective method for mapping the impervious surfaces that most affect stormwater runoff volume. The draft impervious maps produced by automated feature extraction were extensively reviewed for accuracy, coherence, and aesthetic quality, and errors of omission and commission were fixed as necessary. Accuracy assessments were then conducted separately for the two sides of the Basin, indicating an overall accuracy of 99% for Vermont and 99% for New York. The overall accuracy for the combined area was also 99%. The user's accuracies for Roads\/Railroads, Other Impervious, and Not Impervious were 98%, 98%, and 100% respectively.",
+	"notes": "High-resolution impervious surfaces dataset for the Lake Champlain Basin, Vermont and New York. Two impervious classes were mapped: (1) Roads\Railroads; and (2) Other Impervious. The latter category included parking lots, driveways, sidewalks, and buildings. Pertinent imagery could not be obtained for the Quebec portion of the Lake Champlain Basin, which was thus excluded from the final product. The primary source used to derive this impervious surfaces layer was 1-meter resolution National Agricultural Imagery Program (NAIP) data acquired in 2011. The NAIP datasets covering the study area were 4-band aerial imagery, meaning that they contained a Near Infrared band in addition to the visible bands (i.e., Red, Green, Blue). This band improved the utility of the imagery, permitting use of vegetation indices that rely on the Near Infrared and Red bands (e.g., Normalized Difference Vegetation Index). Ancillary data sources included various thematic vector GIS datasets, including the Lake Champlain Basin watershed boundary, lakes, stream centerlines, road centerlines, railroad centerlines, and building points. This impervious surfaces dataset is considered current as of 2011. Object-based image analysis techniques (OBIA) were used to extract impervious surfaces using the best available remotely-sensed and vector GIS datasets. OBIA systems work by grouping pixels into meaningful objects based on their spectral and spatial properties while taking into account boundaries imposed by existing vector datasets. Within the OBIA environment, a rule-based expert system was designed to effectively mimic the process of manual image analysis by incorporating the elements of image interpretation (color/tone, texture, pattern, location, size, and shape) into the classification process. A series of morphological procedures were used to ensure that the end product was both accurate and cartographically coherent. It is important to note that the mapping protocol described above was a "top-down" approach: impervious surfaces were mapped when they were visible in the available aerial imagery. In practical terms, impervious surfaces were not captured by the mapping process when they were obscured by tree canopy. Although this modeling limitation means that the total area of extant impervious surfaces would be underestimated in subsequent analyses, it also provides a better estimate of surfaces whose environmental effects are not mitigated by overhanging vegetation. Indeed, one of the well-known benefits of trees is that they absorb or slow rainwater before it hits the ground, so the top-down approach is a reasonable and effective method for mapping the impervious surfaces that most affect stormwater runoff volume. The draft impervious maps produced by automated feature extraction were extensively reviewed for accuracy, coherence, and aesthetic quality, and errors of omission and commission were fixed as necessary. Accuracy assessments were then conducted separately for the two sides of the Basin, indicating an overall accuracy of 99% for Vermont and 99% for New York. The overall accuracy for the combined area was also 99%. The user's accuracies for Roads/Railroads, Other Impervious, and Not Impervious were 98%, 98%, and 100% respectively.",
 	"license_title": null,
 	"extras": [{
 		"key": "responsible-party",
-		"value": "[{\"name\": \"VT Center for Geographic Information\", \"roles\": [\"pointOfContact\"]}]"
+		"value": "[{"name": "VT Center for Geographic Information", "roles": ["pointOfContact"]}]"
 	},
 	{
 		"key": "contact-email",
@@ -93,7 +93,7 @@
 	},
 	{
 		"key": "dataset-reference-date",
-		"value": "[{\"type\": \"publication\", \"value\": \"2014-02-05\"}]"
+		"value": "[{"type": "publication", "value": "2014-02-05"}]"
 	},
 	{
 		"key": "resource-type",
@@ -121,7 +121,7 @@
 	},
 	{
 		"key": "licence",
-		"value": "[\"VCGI and the State of Vermont make no representations of any kind, including but not limited to the warranties of merchantability or fitness for a particular use, nor are any such warranties to be implied with respect to the data.\"]"
+		"value": "["VCGI and the State of Vermont make no representations of any kind, including but not limited to the warranties of merchantability or fitness for a particular use, nor are any such warranties to be implied with respect to the data."]"
 	},
 	{
 		"key": "metadata_type",
@@ -133,7 +133,7 @@
 	},
 	{
 		"key": "spatial",
-		"value": "{\"type\": \"Polygon\", \"coordinates\": [[[-74.454908, 43.225864], [-72.154701, 43.225864], [-72.154701, 45.03776], [-74.454908, 45.03776], [-74.454908, 43.225864]]]}"
+		"value": "{"type": "Polygon", "coordinates": [[[-74.454908, 43.225864], [-72.154701, 43.225864], [-72.154701, 45.03776], [-74.454908, 45.03776], [-74.454908, 43.225864]]]}"
 	},
 	{
 		"key": "guid",
@@ -145,7 +145,7 @@
 	},
 	{
 		"key": "access_constraints",
-		"value": "[\"Use Constraints: None.\", \"Access Constraints: VCGI and the State of VT make no representations of any kind, including but not limited to the warranties of merchantability or fitness for a particular use, nor are any such warranties to be implied with respect to the data.\"]"
+		"value": "["Use Constraints: None.", "Access Constraints: VCGI and the State of VT make no representations of any kind, including but not limited to the warranties of merchantability or fitness for a particular use, nor are any such warranties to be implied with respect to the data."]"
 	},
 	{
 		"key": "spatial_harvester",
@@ -157,7 +157,7 @@
 	},
 	{
 		"package_id": "b5c039cd-b86e-4198-8189-e70593263f6f",
-		"value": "parking lots, buildings, impervious surfaces, driveways, roads\\railroads",
+		"value": "parking lots, buildings, impervious surfaces, driveways, roads\railroads",
 		"revision_timestamp": "2016-04-23T02:37:37.239256",
 		"state": "active",
 		"key": "tags",
@@ -187,7 +187,7 @@
 		"revision_timestamp": "2013-03-27T17:47:03.718032",
 		"is_organization": true,
 		"state": "active",
-		"image_url": "http:\/\/vcgi.vermont.gov\/sites\/all\/themes\/vt_template\/logo.png",
+		"image_url": "http://vcgi.vermont.gov/sites/all/themes/vt_template/logo.png",
 		"revision_id": "c5dfbbb0-f1e0-4db6-b566-e932e1520060",
 		"type": "organization",
 		"id": "0c3a4ebc-9929-4f21-bdd0-76a35d52f57d",

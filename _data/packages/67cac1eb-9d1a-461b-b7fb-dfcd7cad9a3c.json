@@ -36,7 +36,7 @@
 		"cache_url": null,
 		"name": "Hierarchical Data Format (HDF)",
 		"created": "2016-07-02T15:13:33.093282",
-		"url": "http:\/\/earthexplorer.usgs.gov",
+		"url": "http://earthexplorer.usgs.gov",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 0,
@@ -65,7 +65,7 @@
 		"cache_url": null,
 		"name": "Hierarchical Data Format (HDF)",
 		"created": "2016-07-02T15:13:33.093310",
-		"url": "http:\/\/glovis.usgs.gov",
+		"url": "http://glovis.usgs.gov",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 1,
@@ -95,7 +95,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2016-07-02T15:13:33.093319",
-		"url": "https:\/\/lpdaac.usgs.gov\/dataset_discovery\/modis\/modis_products_table\/mcd12q1",
+		"url": "https://lpdaac.usgs.gov/dataset_discovery/modis/modis_products_table/mcd12q1",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 2,
@@ -104,7 +104,7 @@
 	}],
 	"num_resources": 3,
 	"tags": [],
-	"title": "MODIS\/COMBINED MCD12Q1 Land Cover Type Yearly L3 Global 500 m SIN Grid",
+	"title": "MODIS/COMBINED MCD12Q1 Land Cover Type Yearly L3 Global 500 m SIN Grid",
 	"tracking_summary": {
 		"total": 97,
 		"recent": 14
@@ -115,11 +115,11 @@
 	"name": "modis-combined-mcd12q1-land-cover-type-yearly-l3-global-500-m-sin-grid505bb",
 	"isopen": false,
 	"url": null,
-	"notes": "MODIS\/Terra+Aqua Land Cover Type Yearly L3 Global 0.05Deg CMG The Land Cover Type Yearly Climate Modeling Grid (CMG) is a lower spatial resolution (0.05?) product, which provides the dominant land cover type and also the sub-grid frequency distribution of land cover classes. The CMG product (Short name: MCD12C1) is derived using the same algorithm that produces the V005 Global 500 m Land Cover Type product (MCD12Q1). It contains three classification schemes, which describe the land cover properties derived from observations spanning a year?s input of Terra and Aqua MODIS data. The primary land cover scheme identifies 17 land cover classes defined by the International Geosphere Biosphere Programme (IGBP), which includes 11 natural vegetation classes, 3 developed and mosaicked land classes, and 3 non-vegetated land classes. It includes the following three classification schemes, derived through a supervised decision-tree classification method: Land Cover Type 1: IGBP global vegetation classification scheme Land Cover Type 3: MODIS-derived LAI\/FPAR scheme Land Cover Type 2: University of Maryland (UMD) scheme Additional layers include a Land Cover Type Assessment SDS, a Land Cover Percent SDS, and a Land Cover Quality Control SDS. Information on each individual MODIS Platform\/Product are available at: https:\/\/lpdaac.usgs.gov\/lpdaac\/products\/modis_products_table",
+	"notes": "MODIS/Terra+Aqua Land Cover Type Yearly L3 Global 0.05Deg CMG The Land Cover Type Yearly Climate Modeling Grid (CMG) is a lower spatial resolution (0.05?) product, which provides the dominant land cover type and also the sub-grid frequency distribution of land cover classes. The CMG product (Short name: MCD12C1) is derived using the same algorithm that produces the V005 Global 500 m Land Cover Type product (MCD12Q1). It contains three classification schemes, which describe the land cover properties derived from observations spanning a year?s input of Terra and Aqua MODIS data. The primary land cover scheme identifies 17 land cover classes defined by the International Geosphere Biosphere Programme (IGBP), which includes 11 natural vegetation classes, 3 developed and mosaicked land classes, and 3 non-vegetated land classes. It includes the following three classification schemes, derived through a supervised decision-tree classification method: Land Cover Type 1: IGBP global vegetation classification scheme Land Cover Type 3: MODIS-derived LAI/FPAR scheme Land Cover Type 2: University of Maryland (UMD) scheme Additional layers include a Land Cover Type Assessment SDS, a Land Cover Percent SDS, and a Land Cover Quality Control SDS. Information on each individual MODIS Platform/Product are available at: https://lpdaac.usgs.gov/lpdaac/products/modis_products_table",
 	"license_title": null,
 	"extras": [{
 		"key": "responsible-party",
-		"value": "[{\"name\": \"U.S. Geological Survey Earth Resources Observation and Science (EROS) Center\", \"roles\": [\"pointOfContact\"]}]"
+		"value": "[{"name": "U.S. Geological Survey Earth Resources Observation and Science (EROS) Center", "roles": ["pointOfContact"]}]"
 	},
 	{
 		"key": "contact-email",
@@ -139,7 +139,7 @@
 	},
 	{
 		"key": "dataset-reference-date",
-		"value": "[{\"type\": \"publication\", \"value\": \"2016-06-30\"}]"
+		"value": "[{"type": "publication", "value": "2016-06-30"}]"
 	},
 	{
 		"key": "resource-type",
@@ -167,7 +167,7 @@
 	},
 	{
 		"key": "licence",
-		"value": "[\"Although these data have been processed successfully on a computer system at the U.S. Geological Survey, no warranty, expressed or implied, is made by the USGS regarding the use of the data on any other system, nor does the act of distribution constitute any such warranty.  \"]"
+		"value": "["Although these data have been processed successfully on a computer system at the U.S. Geological Survey, no warranty, expressed or implied, is made by the USGS regarding the use of the data on any other system, nor does the act of distribution constitute any such warranty.  "]"
 	},
 	{
 		"key": "metadata_type",
@@ -179,7 +179,7 @@
 	},
 	{
 		"key": "spatial",
-		"value": "{\"type\": \"Polygon\", \"coordinates\": [[[-180.0, -85.2], [180.0, -85.2], [180.0, 85.2], [-180.0, 85.2], [-180.0, -85.2]]]}"
+		"value": "{"type": "Polygon", "coordinates": [[[-180.0, -85.2], [180.0, -85.2], [180.0, 85.2], [-180.0, 85.2], [-180.0, -85.2]]]}"
 	},
 	{
 		"key": "guid",
@@ -191,7 +191,7 @@
 	},
 	{
 		"key": "access_constraints",
-		"value": "[\"Use Constraints: There is no guarantee of warranty concerning the accuracy of these data. Users should be aware that temporal changes may have occurred since the data was collected and that some parts of these data may no longer represent actual surface conditions. Users should not use these data for critical applications without a full awareness of their limitations. Acknowledgement of the originating agencies would be appreciated in products derived from these data. Any user who modifies the data set is obligated to describe the types of modifications they perform. User specifically agrees not to misrepresent the data set, nor to imply that changes made were approved or endorsed by the U.S. Geological Survey. Please refer to http:\/\/www.usgs.gov\/privacy.html for the USGS disclaimer.\", \"Access Constraints: Any downloading and use of these data signifies a user's agreement to comprehension and compliance of the USGS Standard Disclaimer. Insure all portions of metadata are read and clearly understood before using these data in order to protect both user and USGS interests.\"]"
+		"value": "["Use Constraints: There is no guarantee of warranty concerning the accuracy of these data. Users should be aware that temporal changes may have occurred since the data was collected and that some parts of these data may no longer represent actual surface conditions. Users should not use these data for critical applications without a full awareness of their limitations. Acknowledgement of the originating agencies would be appreciated in products derived from these data. Any user who modifies the data set is obligated to describe the types of modifications they perform. User specifically agrees not to misrepresent the data set, nor to imply that changes made were approved or endorsed by the U.S. Geological Survey. Please refer to http://www.usgs.gov/privacy.html for the USGS disclaimer.", "Access Constraints: Any downloading and use of these data signifies a user's agreement to comprehension and compliance of the USGS Standard Disclaimer. Insure all portions of metadata are read and clearly understood before using these data in order to protect both user and USGS interests."]"
 	},
 	{
 		"key": "spatial_harvester",
@@ -226,14 +226,14 @@
 		"value": "USGS Earth Resources Observation and Science (EROS)"
 	}],
 	"organization": {
-		"description": "http:\/\/www.usgs.gov\/\r\nThe USGS is a federal science agency that provides impartial information on the health of our ecosystems and environment, the natural hazards that threaten us, the natural resources we rely on, the impacts of climate and land-use change, and the core science systems that help us provide timely, relevant, and useable information.",
+		"description": "http://www.usgs.gov/rnThe USGS is a federal science agency that provides impartial information on the health of our ecosystems and environment, the natural hazards that threaten us, the natural resources we rely on, the impacts of climate and land-use change, and the core science systems that help us provide timely, relevant, and useable information.",
 		"created": "2013-03-14T03:44:38.263357",
 		"title": "U.S. Geological Survey, Department of the Interior",
 		"name": "usgs-gov",
 		"revision_timestamp": "2014-09-02T13:43:52.167023",
 		"is_organization": true,
 		"state": "active",
-		"image_url": "http:\/\/pubs.usgs.gov\/sir\/2004\/5296\/04-5296_confluence_park\/usgs_logo.gif",
+		"image_url": "http://pubs.usgs.gov/sir/2004/5296/04-5296_confluence_park/usgs_logo.gif",
 		"revision_id": "2858aa99-9501-4f96-82e5-9647b968ed66",
 		"type": "organization",
 		"id": "bd2cdd5a-4d65-46c0-9937-c8381175f104",

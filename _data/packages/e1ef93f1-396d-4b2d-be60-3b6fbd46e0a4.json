@@ -37,7 +37,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2016-05-30T21:23:29.186010",
-		"url": "https:\/\/coast.noaa.gov\/dataviewer\/#\/lidar\/search\/where:ID=576",
+		"url": "https://coast.noaa.gov/dataviewer/#/lidar/search/where:ID=576",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 0,
@@ -67,7 +67,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2016-05-30T21:23:29.186049",
-		"url": "https:\/\/coast.noaa.gov\/htdata\/lidar1_z\/geoid12a\/data\/576",
+		"url": "https://coast.noaa.gov/htdata/lidar1_z/geoid12a/data/576",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 1,
@@ -97,7 +97,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2016-05-30T21:23:29.186058",
-		"url": "https:\/\/coast.noaa.gov\/dataviewer",
+		"url": "https://coast.noaa.gov/dataviewer",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 2,
@@ -127,7 +127,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2016-05-30T21:23:29.186065",
-		"url": "https:\/\/coast.noaa.gov",
+		"url": "https://coast.noaa.gov",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 3,
@@ -147,7 +147,7 @@
 	"name": "2007-northwest-florida-water-management-district-nwfwmd-lidar-holmes-county",
 	"isopen": false,
 	"url": null,
-	"notes": "LIDAR-derived binary (.las) files containing points classified as bare-earth and canopy (first return) were produced for the 2007\/2008 Northwest Florida Water Management District - 5 Counties (Calhoun, Holmes, Washington, Jackson and Liberty), Florida lidar mapping project. The files were provided in a scheme of FDEM-derived 5,000 x 5,000 foot (1500 x 1500 meter) tiles. When initially processed, horizontal mapping units were in UTM meters, vertical mapping units are in U.S. survey feet. The total mapping area covers approximately 2102 square miles.",
+	"notes": "LIDAR-derived binary (.las) files containing points classified as bare-earth and canopy (first return) were produced for the 2007/2008 Northwest Florida Water Management District - 5 Counties (Calhoun, Holmes, Washington, Jackson and Liberty), Florida lidar mapping project. The files were provided in a scheme of FDEM-derived 5,000 x 5,000 foot (1500 x 1500 meter) tiles. When initially processed, horizontal mapping units were in UTM meters, vertical mapping units are in U.S. survey feet. The total mapping area covers approximately 2102 square miles.",
 	"license_title": null,
 	"extras": [{
 		"key": "bbox-east-long",
@@ -183,7 +183,7 @@
 	},
 	{
 		"key": "spatial",
-		"value": "{\"type\": \"Polygon\", \"coordinates\": [[[-86.053, 30.694], [-85.482, 30.694], [-85.482, 31.006], [-86.053, 31.006], [-86.053, 30.694]]]}"
+		"value": "{"type": "Polygon", "coordinates": [[[-86.053, 30.694], [-85.482, 30.694], [-85.482, 31.006], [-86.053, 31.006], [-86.053, 30.694]]]}"
 	},
 	{
 		"key": "progress",
@@ -191,7 +191,7 @@
 	},
 	{
 		"key": "access_constraints",
-		"value": "[\"Use Constraints: Users should be aware that temporal changes may have occurred since this data set was collected and some parts of this data may no longer represent actual surface conditions. Users should not base critical applications on this data set without full awareness of potential limitations.\", \"Access Constraints: None\"]"
+		"value": "["Use Constraints: Users should be aware that temporal changes may have occurred since this data set was collected and some parts of this data may no longer represent actual surface conditions. Users should not base critical applications on this data set without full awareness of potential limitations.", "Access Constraints: None"]"
 	},
 	{
 		"key": "temporal-extent-begin",
@@ -211,7 +211,7 @@
 	},
 	{
 		"key": "dataset-reference-date",
-		"value": "[{\"type\": \"publication\", \"value\": \"2011-04-01\"}]"
+		"value": "[{"type": "publication", "value": "2011-04-01"}]"
 	},
 	{
 		"key": "frequency-of-update",
@@ -219,7 +219,7 @@
 	},
 	{
 		"key": "licence",
-		"value": "[\"\\nAny conclusions drawn from analysis of this information are not the responsibility of the Northwest Florida Water Management District (NWFWMD),\\nthe NOAA Office for Coastal Management or its partners.\\n\"]"
+		"value": "["\nAny conclusions drawn from analysis of this information are not the responsibility of the Northwest Florida Water Management District (NWFWMD),\nthe NOAA Office for Coastal Management or its partners.\n"]"
 	},
 	{
 		"key": "metadata_type",
@@ -227,7 +227,7 @@
 	},
 	{
 		"key": "responsible-party",
-		"value": "[{\"name\": \"Northwest Florida Water Management District\", \"roles\": [\"pointOfContact\"]}]"
+		"value": "[{"name": "Northwest Florida Water Management District", "roles": ["pointOfContact"]}]"
 	},
 	{
 		"key": "temporal-extent-end",
@@ -243,7 +243,7 @@
 	},
 	{
 		"package_id": "e1ef93f1-396d-4b2d-be60-3b6fbd46e0a4",
-		"value": "nwfwmd, binary, washington county, elevation, usa, bare earth, digital surface model, northwest florida water management district, calhoun county, classified, florida, jackson county, lidar, holmes county, bathymetry\/topography, 2007, canopy, liberty county, 2008",
+		"value": "nwfwmd, binary, washington county, elevation, usa, bare earth, digital surface model, northwest florida water management district, calhoun county, classified, florida, jackson county, lidar, holmes county, bathymetry/topography, 2007, canopy, liberty county, 2008",
 		"revision_timestamp": "2015-09-26T19:35:28.058464",
 		"state": "active",
 		"key": "tags",
@@ -273,7 +273,7 @@
 		"revision_timestamp": "2013-03-25T23:05:12.923863",
 		"is_organization": true,
 		"state": "active",
-		"image_url": "https:\/\/fortress.wa.gov\/dfw\/score\/score\/images\/noaa_logo.png",
+		"image_url": "https://fortress.wa.gov/dfw/score/score/images/noaa_logo.png",
 		"revision_id": "c6d43080-22e1-405e-a83d-f2a512d9e867",
 		"type": "organization",
 		"id": "e811f0b4-451f-4896-9e8f-fc6802837819",

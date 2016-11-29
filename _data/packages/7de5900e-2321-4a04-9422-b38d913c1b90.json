@@ -37,7 +37,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2016-03-04T15:46:14.864333",
-		"url": "http:\/\/bios.dfg.ca.gov",
+		"url": "http://bios.dfg.ca.gov",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 0,
@@ -67,7 +67,7 @@
 		"cache_url": null,
 		"name": "Zip File",
 		"created": "2016-03-04T15:46:14.864384",
-		"url": "ftp:\/\/ftp.dfg.ca.gov\/BDB\/GIS\/BIOS\/Public_Datasets\/100_199\/ds166.zip",
+		"url": "ftp://ftp.dfg.ca.gov/BDB/GIS/BIOS/Public_Datasets/100_199/ds166.zip",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 1,
@@ -123,7 +123,7 @@
 	},
 	{
 		"key": "spatial",
-		"value": "{\"type\": \"Polygon\", \"coordinates\": [[[-118.076384, 34.074091], [-114.712605, 34.074091], [-114.712605, 37.258493], [-118.076384, 37.258493], [-118.076384, 34.074091]]]}"
+		"value": "{"type": "Polygon", "coordinates": [[[-118.076384, 34.074091], [-114.712605, 34.074091], [-114.712605, 37.258493], [-118.076384, 37.258493], [-118.076384, 34.074091]]]}"
 	},
 	{
 		"key": "progress",
@@ -131,7 +131,7 @@
 	},
 	{
 		"key": "access_constraints",
-		"value": "[\"Use Constraints: While the polygons boundaries have been preserved in the final vegetation map so that the source and secondary label items can be maintained for each polygon, an ArcInfo 'dissolve' could be used to eliminate polygon boundaries between adjacent identical primary map labels. Alternately, the map may be viewed in ArcView with polygon boundaries eliminated for a presentation of contiguous vegetation types without the polygon boundaries.\", \"Access Constraints: None\"]"
+		"value": "["Use Constraints: While the polygons boundaries have been preserved in the final vegetation map so that the source and secondary label items can be maintained for each polygon, an ArcInfo 'dissolve' could be used to eliminate polygon boundaries between adjacent identical primary map labels. Alternately, the map may be viewed in ArcView with polygon boundaries eliminated for a presentation of contiguous vegetation types without the polygon boundaries.", "Access Constraints: None"]"
 	},
 	{
 		"key": "temporal-extent-begin",
@@ -151,7 +151,7 @@
 	},
 	{
 		"key": "dataset-reference-date",
-		"value": "[{\"type\": \"publication\", \"value\": \"2002-01-01\"}]"
+		"value": "[{"type": "publication", "value": "2002-01-01"}]"
 	},
 	{
 		"key": "frequency-of-update",
@@ -159,7 +159,7 @@
 	},
 	{
 		"key": "licence",
-		"value": "[\"Although these data have been processed successfully on a computer system at the USGS-FRESC-Colorado Plateau Field Station, no warranty expressed or implied is made regarding the accuracy or utility of these data on any other system or for general or scientific purposes, nor shall the act of distribution constitute any such warranty. This disclaimer applies both to individual use of these data and aggregate use with other data. It is strongly recommended that these data are directly acquired from a U.S. Geological Survey server, and not indirectly through other sources which may have changed these data in some way. It is also strongly recommended that careful attention be paid to the contents of the metadata file associated with these data. The U.S. Geological Survey and USGS-FRESC-Colorado Plateau Field Station shall not be held liable for improper or incorrect use of these data described and\/or contained herein.\"]"
+		"value": "["Although these data have been processed successfully on a computer system at the USGS-FRESC-Colorado Plateau Field Station, no warranty expressed or implied is made regarding the accuracy or utility of these data on any other system or for general or scientific purposes, nor shall the act of distribution constitute any such warranty. This disclaimer applies both to individual use of these data and aggregate use with other data. It is strongly recommended that these data are directly acquired from a U.S. Geological Survey server, and not indirectly through other sources which may have changed these data in some way. It is also strongly recommended that careful attention be paid to the contents of the metadata file associated with these data. The U.S. Geological Survey and USGS-FRESC-Colorado Plateau Field Station shall not be held liable for improper or incorrect use of these data described and/or contained herein."]"
 	},
 	{
 		"key": "metadata_type",
@@ -167,7 +167,7 @@
 	},
 	{
 		"key": "responsible-party",
-		"value": "[{\"name\": \"USGS Forest and Rangeland Ecosystem Science Center\", \"roles\": [\"pointOfContact\"]}]"
+		"value": "[{"name": "USGS Forest and Rangeland Ecosystem Science Center", "roles": ["pointOfContact"]}]"
 	},
 	{
 		"key": "temporal-extent-end",
@@ -213,7 +213,7 @@
 		"revision_timestamp": "2013-05-31T17:51:13.706377",
 		"is_organization": true,
 		"state": "active",
-		"image_url": "http:\/\/www.ca.gov\/images\/template2012\/header_ca.gov.png",
+		"image_url": "http://www.ca.gov/images/template2012/header_ca.gov.png",
 		"revision_id": "ad94cda4-9394-44d0-9c37-573dc3c47c9a",
 		"type": "organization",
 		"id": "467d900f-8a42-452d-9906-6610dd1a767f",

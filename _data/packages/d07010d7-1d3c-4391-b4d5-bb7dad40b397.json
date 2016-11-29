@@ -36,7 +36,7 @@
 		"cache_url": null,
 		"name": "ArcGIS shapefile (Vector Digital Polyline Data)",
 		"created": "2016-08-03T05:20:32.020397",
-		"url": "http:\/\/coastal.er.usgs.gov\/data-release\/doi-F7KH0KFX\/data\/New_Jersey_1839_75_Shoreline.zip",
+		"url": "http://coastal.er.usgs.gov/data-release/doi-F7KH0KFX/data/New_Jersey_1839_75_Shoreline.zip",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 0,
@@ -66,7 +66,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2016-08-03T05:20:32.020438",
-		"url": "http:\/\/coastal.er.usgs.gov\/data-release\/doi-F7KH0KFX\/",
+		"url": "http://coastal.er.usgs.gov/data-release/doi-F7KH0KFX/",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 1,
@@ -86,7 +86,7 @@
 	"name": "shapefile-of-historical-new-jersey-shoreline-data-derived-from-national-oceanic-and-atmospheric",
 	"isopen": false,
 	"url": null,
-	"notes": "Historical shoreline surveys were conducted by the National Ocean Service (NOS), dating back to the early 1800s. The maps resulting from these surveys, often called t-sheets, provide a reference of historical shoreline position that can be compared to modern data to identify shoreline change. The t-sheets are stored at the National Archives and many have been scanned by the National Oceanic and Atmospheric Administration (NOAA) and are available on the NOAA Shoreline Web site (http:\/\/www.shoreline.noaa.gov\/data\/datasheets\/t-sheets.html). While some scanned t-sheets were georeferenced and digitized by NOAA, still others remain as non-georeferenced raster files (http:\/\/nosimagery.noaa.gov\/images\/shoreline_surveys\/survey_scans\/NOAA_Shoreline_Survey_Scans.html). New_Jersey_1839_75_Digitized_Shoreline.zip features a digitized historic shoreline for the New Jersey coastline from 1839 to 1875. The data were scanned by NOAA, but were not georeferenced. The t-sheets included in this data release are: T-121 (1839), T-119 Part 1 (1841), T-1084 (1868), T-1166 (1870), T-1333 (1871), T-1315a (1872), T-1371 (1874), T-1407 (1875). Digital files were georeferenced, corrected to a modern datum, and shorelines digitized to provide a vector polyline depicting the historical shoreline position. All shorelines, including the foreshore, backshore, mainland and island shorelines were delineated and digitized for each survey using ArcMap 10.3.1. These shorelines were digitized for use in long-term shoreline and wetland analyses for Hurricane Sandy wetland physical change assessment.",
+	"notes": "Historical shoreline surveys were conducted by the National Ocean Service (NOS), dating back to the early 1800s. The maps resulting from these surveys, often called t-sheets, provide a reference of historical shoreline position that can be compared to modern data to identify shoreline change. The t-sheets are stored at the National Archives and many have been scanned by the National Oceanic and Atmospheric Administration (NOAA) and are available on the NOAA Shoreline Web site (http://www.shoreline.noaa.gov/data/datasheets/t-sheets.html). While some scanned t-sheets were georeferenced and digitized by NOAA, still others remain as non-georeferenced raster files (http://nosimagery.noaa.gov/images/shoreline_surveys/survey_scans/NOAA_Shoreline_Survey_Scans.html). New_Jersey_1839_75_Digitized_Shoreline.zip features a digitized historic shoreline for the New Jersey coastline from 1839 to 1875. The data were scanned by NOAA, but were not georeferenced. The t-sheets included in this data release are: T-121 (1839), T-119 Part 1 (1841), T-1084 (1868), T-1166 (1870), T-1333 (1871), T-1315a (1872), T-1371 (1874), T-1407 (1875). Digital files were georeferenced, corrected to a modern datum, and shorelines digitized to provide a vector polyline depicting the historical shoreline position. All shorelines, including the foreshore, backshore, mainland and island shorelines were delineated and digitized for each survey using ArcMap 10.3.1. These shorelines were digitized for use in long-term shoreline and wetland analyses for Hurricane Sandy wetland physical change assessment.",
 	"license_title": null,
 	"extras": [{
 		"key": "bbox-east-long",
@@ -122,7 +122,7 @@
 	},
 	{
 		"key": "spatial",
-		"value": "{\"type\": \"Polygon\", \"coordinates\": [[[-74.525620272, 39.315238553], [-74.041838758, 39.315238553], [-74.041838758, 40.072202935], [-74.525620272, 40.072202935], [-74.525620272, 39.315238553]]]}"
+		"value": "{"type": "Polygon", "coordinates": [[[-74.525620272, 39.315238553], [-74.041838758, 39.315238553], [-74.041838758, 40.072202935], [-74.525620272, 40.072202935], [-74.525620272, 39.315238553]]]}"
 	},
 	{
 		"key": "progress",
@@ -130,7 +130,7 @@
 	},
 	{
 		"key": "access_constraints",
-		"value": "[\"Use Constraints: The U.S. Geological Survey requests to be acknowledged as originator of the data in future products or derivative research.\", \"Access Constraints: None\"]"
+		"value": "["Use Constraints: The U.S. Geological Survey requests to be acknowledged as originator of the data in future products or derivative research.", "Access Constraints: None"]"
 	},
 	{
 		"key": "temporal-extent-begin",
@@ -150,7 +150,7 @@
 	},
 	{
 		"key": "dataset-reference-date",
-		"value": "[{\"type\": \"publication\", \"value\": \"2016-07-18\"}]"
+		"value": "[{"type": "publication", "value": "2016-07-18"}]"
 	},
 	{
 		"key": "frequency-of-update",
@@ -158,7 +158,7 @@
 	},
 	{
 		"key": "licence",
-		"value": "[\"This digital publication was prepared by an agency of the United States Government. Although these data have been processed successfully on a computer system at the U.S. Geological Survey, no warranty expressed or implied is made regarding the display or utility of the data on any other system, nor shall the act of distribution imply any such warranty. The U.S. Geological Survey shall not be held liable for improper or incorrect use of the data described and (or) contained herein. Reference herein to any specific commercial product, process, or service by trade name, trademark, manufacturer, or otherwise does not constitute or imply its endorsement, recommendation, or favoring by the United States Government or any agency thereof.\"]"
+		"value": "["This digital publication was prepared by an agency of the United States Government. Although these data have been processed successfully on a computer system at the U.S. Geological Survey, no warranty expressed or implied is made regarding the display or utility of the data on any other system, nor shall the act of distribution imply any such warranty. The U.S. Geological Survey shall not be held liable for improper or incorrect use of the data described and (or) contained herein. Reference herein to any specific commercial product, process, or service by trade name, trademark, manufacturer, or otherwise does not constitute or imply its endorsement, recommendation, or favoring by the United States Government or any agency thereof."]"
 	},
 	{
 		"key": "metadata_type",
@@ -166,7 +166,7 @@
 	},
 	{
 		"key": "responsible-party",
-		"value": "[{\"name\": \"U.S. Geological Survey Coastal and Marine Science Center\", \"roles\": [\"pointOfContact\"]}]"
+		"value": "[{"name": "U.S. Geological Survey Coastal and Marine Science Center", "roles": ["pointOfContact"]}]"
 	},
 	{
 		"key": "temporal-extent-end",
@@ -205,14 +205,14 @@
 		"value": "USGS Coastal and Marine Geoscience Data System"
 	}],
 	"organization": {
-		"description": "http:\/\/www.usgs.gov\/\r\nThe USGS is a federal science agency that provides impartial information on the health of our ecosystems and environment, the natural hazards that threaten us, the natural resources we rely on, the impacts of climate and land-use change, and the core science systems that help us provide timely, relevant, and useable information.",
+		"description": "http://www.usgs.gov/rnThe USGS is a federal science agency that provides impartial information on the health of our ecosystems and environment, the natural hazards that threaten us, the natural resources we rely on, the impacts of climate and land-use change, and the core science systems that help us provide timely, relevant, and useable information.",
 		"created": "2013-03-14T03:44:38.263357",
 		"title": "U.S. Geological Survey, Department of the Interior",
 		"name": "usgs-gov",
 		"revision_timestamp": "2014-09-02T13:43:52.167023",
 		"is_organization": true,
 		"state": "active",
-		"image_url": "http:\/\/pubs.usgs.gov\/sir\/2004\/5296\/04-5296_confluence_park\/usgs_logo.gif",
+		"image_url": "http://pubs.usgs.gov/sir/2004/5296/04-5296_confluence_park/usgs_logo.gif",
 		"revision_id": "2858aa99-9501-4f96-82e5-9647b968ed66",
 		"type": "organization",
 		"id": "bd2cdd5a-4d65-46c0-9937-c8381175f104",

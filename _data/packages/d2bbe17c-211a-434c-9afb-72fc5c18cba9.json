@@ -36,7 +36,7 @@
 		"cache_url": null,
 		"name": "ESRI Shapefile (.shp)",
 		"created": "2016-07-15T21:34:31.101253",
-		"url": "http:\/\/cloud.insideidaho.org\/webApps\/util\/zip.ashx?fn=http:\/\/cloud.insideidaho.org\/data\/blm\/VRM_PUB_24K_POLY.shp",
+		"url": "http://cloud.insideidaho.org/webApps/util/zip.ashx?fn=http://cloud.insideidaho.org/data/blm/VRM_PUB_24K_POLY.shp",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 0,
@@ -66,7 +66,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2016-07-15T21:34:31.101281",
-		"url": "http:\/\/VRM Metadata",
+		"url": "http://VRM Metadata",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 1,
@@ -86,11 +86,11 @@
 	"name": "visual-resource-management-polygon",
 	"isopen": false,
 	"url": null,
-	"notes": "This GIS dataset contains Idaho BLM Visual Resource Management (VRM) polygons. The public lands administered by BLM contain many outstanding scenic landscapes. While these lands provide a place to escape and enjoy the beauty of nature, they are also used for a multitude of other activities. Any activities that occur on these lands, such as recreation, mining, timber harvesting, grazing, or road development for example, have the potential to disturb the surface of the landscape and impact scenic values. Visual resource management (VRM) is a system for minimizing the visual impacts of surface-disturbing activities and maintaining scenic values for the future. When visual resources are not carefully managed and the visual impacts of poorly designed surface-disturbing activities are ignored, there can be dire consequences to the scenic values of American landscapes. The benefits to be gained by carefully designing surface-disturbing activities to minimize visual impacts are readily apparent. BLM is committed to sound management of the scenic values on public lands in order to ensure that these benefits are realized and the scenic values are protected. (The previous information, and the VRM Class descriptions in the attribute section, is taken from the BLM National Science and Technology Center VRM website at http:\/\/www.blm.gov\/nstc\/VRM).",
+	"notes": "This GIS dataset contains Idaho BLM Visual Resource Management (VRM) polygons. The public lands administered by BLM contain many outstanding scenic landscapes. While these lands provide a place to escape and enjoy the beauty of nature, they are also used for a multitude of other activities. Any activities that occur on these lands, such as recreation, mining, timber harvesting, grazing, or road development for example, have the potential to disturb the surface of the landscape and impact scenic values. Visual resource management (VRM) is a system for minimizing the visual impacts of surface-disturbing activities and maintaining scenic values for the future. When visual resources are not carefully managed and the visual impacts of poorly designed surface-disturbing activities are ignored, there can be dire consequences to the scenic values of American landscapes. The benefits to be gained by carefully designing surface-disturbing activities to minimize visual impacts are readily apparent. BLM is committed to sound management of the scenic values on public lands in order to ensure that these benefits are realized and the scenic values are protected. (The previous information, and the VRM Class descriptions in the attribute section, is taken from the BLM National Science and Technology Center VRM website at http://www.blm.gov/nstc/VRM).",
 	"license_title": null,
 	"extras": [{
 		"key": "responsible-party",
-		"value": "[{\"name\": \"Bureau of Land Management, Idaho State Office\", \"roles\": [\"pointOfContact\"]}]"
+		"value": "[{"name": "Bureau of Land Management, Idaho State Office", "roles": ["pointOfContact"]}]"
 	},
 	{
 		"key": "contact-email",
@@ -110,7 +110,7 @@
 	},
 	{
 		"key": "dataset-reference-date",
-		"value": "[{\"type\": \"publication\", \"value\": \"9999-01-01\"}]"
+		"value": "[{"type": "publication", "value": "9999-01-01"}]"
 	},
 	{
 		"key": "resource-type",
@@ -138,7 +138,7 @@
 	},
 	{
 		"key": "licence",
-		"value": "[\"Although these data have been processed successfully on a computer system at the Idaho Geospatial Data Clearinghouse, no warranty, expressed or implied, is made regarding the utility of the data on any other system, nor shall the act of distribution constitute any such warranty. \"]"
+		"value": "["Although these data have been processed successfully on a computer system at the Idaho Geospatial Data Clearinghouse, no warranty, expressed or implied, is made regarding the utility of the data on any other system, nor shall the act of distribution constitute any such warranty. "]"
 	},
 	{
 		"key": "metadata_type",
@@ -150,7 +150,7 @@
 	},
 	{
 		"key": "spatial",
-		"value": "{\"type\": \"Polygon\", \"coordinates\": [[[-117.529935, 41.877033], [-110.657023, 41.877033], [-110.657023, 49.028543], [-117.529935, 49.028543], [-117.529935, 41.877033]]]}"
+		"value": "{"type": "Polygon", "coordinates": [[[-117.529935, 41.877033], [-110.657023, 41.877033], [-110.657023, 49.028543], [-117.529935, 49.028543], [-117.529935, 41.877033]]]}"
 	},
 	{
 		"key": "guid",
@@ -162,7 +162,7 @@
 	},
 	{
 		"key": "access_constraints",
-		"value": "[\"Use Constraints: No warranty is made by the Bureau of Land Management. The accuracy, reliability, or completeness of these data for individual use or aggregate use with other data is not guaranteed. No warranty is made by the Bureau of Land Management for use of the data for purposes not intended by BLM. No warranty is made by the Bureau of Land Management as to the accuracy, reliability, or completeness of these data for individual use or aggregate use with other data. Original data were compiled from various sources. This information may not meet the National Map Accuracy Standards. This product was developed through digital means and may be updated without notification.\", \"Access Constraints: Public Data\"]"
+		"value": "["Use Constraints: No warranty is made by the Bureau of Land Management. The accuracy, reliability, or completeness of these data for individual use or aggregate use with other data is not guaranteed. No warranty is made by the Bureau of Land Management for use of the data for purposes not intended by BLM. No warranty is made by the Bureau of Land Management as to the accuracy, reliability, or completeness of these data for individual use or aggregate use with other data. Original data were compiled from various sources. This information may not meet the National Map Accuracy Standards. This product was developed through digital means and may be updated without notification.", "Access Constraints: Public Data"]"
 	},
 	{
 		"key": "spatial_harvester",
@@ -204,7 +204,7 @@
 		"revision_timestamp": "2015-01-16T18:28:14.593903",
 		"is_organization": true,
 		"state": "active",
-		"image_url": "http:\/\/upload.wikimedia.org\/wikipedia\/en\/thumb\/4\/44\/University_of_Idaho_seal.svg\/300px-University_of_Idaho_seal.svg.png",
+		"image_url": "http://upload.wikimedia.org/wikipedia/en/thumb/4/44/University_of_Idaho_seal.svg/300px-University_of_Idaho_seal.svg.png",
 		"revision_id": "761955d7-9530-4622-8609-d0b01c78e177",
 		"type": "organization",
 		"id": "75e22a8a-da5f-46f3-93d8-924063a3703d",

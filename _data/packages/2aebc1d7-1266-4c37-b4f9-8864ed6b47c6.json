@@ -37,7 +37,7 @@
 		"cache_url": null,
 		"name": "Zip File",
 		"created": "2014-11-17T16:10:42.036010",
-		"url": "http:\/\/water.usgs.gov\/GIS\/dsdl\/drb_1990_dss_block_groups.zip",
+		"url": "http://water.usgs.gov/GIS/dsdl/drb_1990_dss_block_groups.zip",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 0,
@@ -67,7 +67,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2014-11-17T16:10:42.036033",
-		"url": "http:\/\/water.usgs.gov\/lookup\/getspatial?block_groups_1990",
+		"url": "http://water.usgs.gov/lookup/getspatial?block_groups_1990",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 1,
@@ -97,7 +97,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2014-11-17T16:10:42.036041",
-		"url": "http:\/\/water.usgs.gov\/watercensus\/delaware.html",
+		"url": "http://water.usgs.gov/watercensus/delaware.html",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 2,
@@ -145,7 +145,7 @@
 	},
 	{
 		"key": "graphic-preview-file",
-		"value": "http:\/\/water.usgs.gov\/GIS\/browse\/drb_1990_dss_block_groups.jpg"
+		"value": "http://water.usgs.gov/GIS/browse/drb_1990_dss_block_groups.jpg"
 	},
 	{
 		"key": "bbox-south-lat",
@@ -161,7 +161,7 @@
 	},
 	{
 		"key": "spatial",
-		"value": "{\"type\": \"Polygon\", \"coordinates\": [[[-76.921512584, 38.547779209], [-73.425731562, 38.547779209], [-73.425731562, 42.740807647], [-76.921512584, 42.740807647], [-76.921512584, 38.547779209]]]}"
+		"value": "{"type": "Polygon", "coordinates": [[[-76.921512584, 38.547779209], [-73.425731562, 38.547779209], [-73.425731562, 42.740807647], [-76.921512584, 42.740807647], [-76.921512584, 38.547779209]]]}"
 	},
 	{
 		"key": "progress",
@@ -169,7 +169,7 @@
 	},
 	{
 		"key": "access_constraints",
-		"value": "[\"Use Constraints: None. Users are advised to read the dataset's metadata thoroughly to understand appropriate use and data limitations.\", \"Access Constraints: None\"]"
+		"value": "["Use Constraints: None. Users are advised to read the dataset's metadata thoroughly to understand appropriate use and data limitations.", "Access Constraints: None"]"
 	},
 	{
 		"key": "contact-email",
@@ -185,7 +185,7 @@
 	},
 	{
 		"key": "dataset-reference-date",
-		"value": "[{\"type\": \"publication\", \"value\": \"2013-05-01\"}]"
+		"value": "[{"type": "publication", "value": "2013-05-01"}]"
 	},
 	{
 		"key": "graphic-preview-description",
@@ -197,7 +197,7 @@
 	},
 	{
 		"key": "licence",
-		"value": "[\"Distributor assumes no liability for misuse of data.\"]"
+		"value": "["Distributor assumes no liability for misuse of data."]"
 	},
 	{
 		"key": "metadata_type",
@@ -205,7 +205,7 @@
 	},
 	{
 		"key": "responsible-party",
-		"value": "[{\"name\": \"U.S. Geological Survey, New York Water Science Center\", \"roles\": [\"pointOfContact\"]}]"
+		"value": "[{"name": "U.S. Geological Survey, New York Water Science Center", "roles": ["pointOfContact"]}]"
 	},
 	{
 		"key": "spatial-data-service-type",
@@ -240,14 +240,14 @@
 		"value": "Water NSDI Node Spatial Datasets"
 	}],
 	"organization": {
-		"description": "http:\/\/www.usgs.gov\/\r\nThe USGS is a federal science agency that provides impartial information on the health of our ecosystems and environment, the natural hazards that threaten us, the natural resources we rely on, the impacts of climate and land-use change, and the core science systems that help us provide timely, relevant, and useable information.",
+		"description": "http://www.usgs.gov/rnThe USGS is a federal science agency that provides impartial information on the health of our ecosystems and environment, the natural hazards that threaten us, the natural resources we rely on, the impacts of climate and land-use change, and the core science systems that help us provide timely, relevant, and useable information.",
 		"created": "2013-03-14T03:44:38.263357",
 		"title": "U.S. Geological Survey, Department of the Interior",
 		"name": "usgs-gov",
 		"revision_timestamp": "2014-09-02T13:43:52.167023",
 		"is_organization": true,
 		"state": "active",
-		"image_url": "http:\/\/pubs.usgs.gov\/sir\/2004\/5296\/04-5296_confluence_park\/usgs_logo.gif",
+		"image_url": "http://pubs.usgs.gov/sir/2004/5296/04-5296_confluence_park/usgs_logo.gif",
 		"revision_id": "2858aa99-9501-4f96-82e5-9647b968ed66",
 		"type": "organization",
 		"id": "bd2cdd5a-4d65-46c0-9937-c8381175f104",

@@ -36,7 +36,7 @@
 		"cache_url": null,
 		"name": "Service Description",
 		"created": "2013-03-16T02:01:42.201032",
-		"url": "http:\/\/geothermal.isgs.illinois.edu\/ArcGIS\/rest\/services\/aasggeothermal\/MIWellLogs\/MapServer",
+		"url": "http://geothermal.isgs.illinois.edu/ArcGIS/rest/services/aasggeothermal/MIWellLogs/MapServer",
 		"webstore_url": null,
 		"resource_locator_function": "381",
 		"position": 0,
@@ -65,7 +65,7 @@
 		"cache_url": null,
 		"name": "Service Description",
 		"created": "2013-03-16T02:01:42.201052",
-		"url": "http:\/\/geothermal.isgs.illinois.edu\/ArcGIS\/services\/aasggeothermal\/MIWellLogs\/MapServer\/WFSServer?request=GetCapabilities&service=WFS",
+		"url": "http://geothermal.isgs.illinois.edu/ArcGIS/services/aasggeothermal/MIWellLogs/MapServer/WFSServer?request=GetCapabilities&service=WFS",
 		"webstore_url": null,
 		"resource_locator_function": "381",
 		"position": 1,
@@ -94,7 +94,7 @@
 		"cache_url": null,
 		"name": "Downloadable File",
 		"created": "2013-03-16T02:01:42.201059",
-		"url": "http:\/\/geothermal.isgs.illinois.edu\/ArcGIS\/services\/aasggeothermal\/MIWellLogs\/MapServer\/WMSServer?request=GetCapabilities&service=WMS",
+		"url": "http://geothermal.isgs.illinois.edu/ArcGIS/services/aasggeothermal/MIWellLogs/MapServer/WMSServer?request=GetCapabilities&service=WMS",
 		"webstore_url": null,
 		"resource_locator_function": "375",
 		"position": 2,
@@ -123,7 +123,7 @@
 		"cache_url": null,
 		"name": "Zipped 2007 Excel spreadsheet containing Michigan Well Log Observational Data",
 		"created": "2013-03-16T02:01:42.201065",
-		"url": "http:\/\/repository.stategeothermaldata.org\/metadata\/record\/caad517515720208ad5e01bce40409dd\/file\/miwelllogs.zip",
+		"url": "http://repository.stategeothermaldata.org/metadata/record/caad517515720208ad5e01bce40409dd/file/miwelllogs.zip",
 		"webstore_url": null,
 		"resource_locator_function": "375",
 		"position": 3,
@@ -156,11 +156,11 @@
 	"name": "michigan-well-log-observation-data",
 	"isopen": false,
 	"url": null,
-	"notes": "This dataset contains well log observations compiled by the Department of Geosciences, Western Michigan University, and published as a Web feature service, a web map service, an ESRI service, and as a downloadable Excel spreadsheet for the National Geothermal Data System. Fields in the Well Log Observation Content Model will become XML elements in interchange documents for WMS simple features provided by a node in the USGIN network. Each observation includes a Log URI, API Number, Latitude and Longitude spatially referenced to EPSG: 4326 (for interoperability). The data contained in the submitted dataset is available as an Excel Spreadsheet, ESRI service, WMS and WFS service. Link to Well Log Observation Content Model: http:\/\/stategeothermaldata.org\/data_delivery\/content_models\/well_log_observation.",
+	"notes": "This dataset contains well log observations compiled by the Department of Geosciences, Western Michigan University, and published as a Web feature service, a web map service, an ESRI service, and as a downloadable Excel spreadsheet for the National Geothermal Data System. Fields in the Well Log Observation Content Model will become XML elements in interchange documents for WMS simple features provided by a node in the USGIN network. Each observation includes a Log URI, API Number, Latitude and Longitude spatially referenced to EPSG: 4326 (for interoperability). The data contained in the submitted dataset is available as an Excel Spreadsheet, ESRI service, WMS and WFS service. Link to Well Log Observation Content Model: http://stategeothermaldata.org/data_delivery/content_models/well_log_observation.",
 	"license_title": null,
 	"extras": [{
 		"key": "responsible-party",
-		"value": "[{\"name\": \"No Organization Name Was Given\", \"roles\": [\"pointOfContact\"]}]"
+		"value": "[{"name": "No Organization Name Was Given", "roles": ["pointOfContact"]}]"
 	},
 	{
 		"key": "contact-email",
@@ -180,7 +180,7 @@
 	},
 	{
 		"key": "dataset-reference-date",
-		"value": "[{\"type\": \"publication\", \"value\": \"2012-07-06T12:00:00\"}]"
+		"value": "[{"type": "publication", "value": "2012-07-06T12:00:00"}]"
 	},
 	{
 		"key": "resource-type",
@@ -216,7 +216,7 @@
 	},
 	{
 		"key": "spatial",
-		"value": "{\"type\": \"Polygon\", \"coordinates\": [[[-90.8818478584, 41.8997109897], [-90.8818478584, 48.2223757652], [-82.8838009834, 48.2223757652], [-82.8838009834, 41.8997109897], [-90.8818478584, 41.8997109897]]]}"
+		"value": "{"type": "Polygon", "coordinates": [[[-90.8818478584, 41.8997109897], [-90.8818478584, 48.2223757652], [-82.8838009834, 48.2223757652], [-82.8838009834, 41.8997109897], [-90.8818478584, 41.8997109897]]]}"
 	},
 	{
 		"key": "guid",
@@ -266,7 +266,7 @@
 		"revision_timestamp": "2013-03-20T21:11:17.592932",
 		"is_organization": true,
 		"state": "active",
-		"image_url": "http:\/\/www.50states.com\/flag\/image\/nunst004.gif",
+		"image_url": "http://www.50states.com/flag/image/nunst004.gif",
 		"revision_id": "61be6428-4398-4199-a336-f3cd1e956f9b",
 		"type": "organization",
 		"id": "f3f6e1d4-64fb-4a2f-b32c-9ac0b76fe4de",

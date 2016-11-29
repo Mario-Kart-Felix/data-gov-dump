@@ -34,9 +34,9 @@
 		"resource_locator_protocol": "WWW:LINK-1.0-http--link",
 		"mimetype": null,
 		"cache_url": null,
-		"name": "ftp:\/\/ftp.nefsc.noaa.gov\/",
+		"name": "ftp://ftp.nefsc.noaa.gov/",
 		"created": "2016-08-08T18:33:34.907428",
-		"url": "ftp:\/\/ftp.nefsc.noaa.gov\/",
+		"url": "ftp://ftp.nefsc.noaa.gov/",
 		"webstore_url": null,
 		"resource_locator_function": "download",
 		"position": 0,
@@ -65,7 +65,7 @@
 		"cache_url": null,
 		"name": "Website",
 		"created": "2016-08-08T18:33:34.907458",
-		"url": "http:\/\/www.nefsc.noaa.gov",
+		"url": "http://www.nefsc.noaa.gov",
 		"webstore_url": null,
 		"resource_locator_function": "information",
 		"position": 1,
@@ -94,7 +94,7 @@
 		"cache_url": null,
 		"name": "Website",
 		"created": "2016-08-08T18:33:34.907468",
-		"url": "http:\/\/www.nefsc.noaa.gov",
+		"url": "http://www.nefsc.noaa.gov",
 		"webstore_url": null,
 		"resource_locator_function": "information",
 		"position": 2,
@@ -123,7 +123,7 @@
 		"cache_url": null,
 		"name": "Website",
 		"created": "2016-08-08T18:33:34.907476",
-		"url": "http:\/\/www.nefsc.noaa.gov",
+		"url": "http://www.nefsc.noaa.gov",
 		"webstore_url": null,
 		"resource_locator_function": "information",
 		"position": 3,
@@ -152,7 +152,7 @@
 		"cache_url": null,
 		"name": "NOAA Data Management Plan (DMP)",
 		"created": "2016-08-08T18:33:34.907484",
-		"url": "https:\/\/inport.nmfs.noaa.gov\/inport\/item\/27385\/dmp",
+		"url": "https://inport.nmfs.noaa.gov/inport/item/27385/dmp",
 		"webstore_url": null,
 		"resource_locator_function": "information",
 		"position": 4,
@@ -169,7 +169,7 @@
 		"state": "active",
 		"last_modified": null,
 		"hash": "",
-		"description": "This page describes the NASA GCMD Keywords, how\n                                                        to reference those keywords and provides download instructions.\n                                                    ",
+		"description": "This page describes the NASA GCMD Keywords, hown                                                        to reference those keywords and provides download instructions.n                                                    ",
 		"format": "HTML",
 		"tracking_summary": {
 			"total": 467,
@@ -181,7 +181,7 @@
 		"cache_url": null,
 		"name": "GCMD Keywords Page",
 		"created": "2016-08-08T18:33:34.907490",
-		"url": "http:\/\/gcmd.nasa.gov\/learn\/keyword_list.html",
+		"url": "http://gcmd.nasa.gov/learn/keyword_list.html",
 		"webstore_url": null,
 		"resource_locator_function": "information",
 		"position": 5,
@@ -203,7 +203,7 @@
 		"revision_timestamp": "2013-03-25T23:05:12.923863",
 		"is_organization": true,
 		"state": "active",
-		"image_url": "https:\/\/fortress.wa.gov\/dfw\/score\/score\/images\/noaa_logo.png",
+		"image_url": "https://fortress.wa.gov/dfw/score/score/images/noaa_logo.png",
 		"revision_id": "c6d43080-22e1-405e-a83d-f2a512d9e867",
 		"type": "organization",
 		"id": "e811f0b4-451f-4896-9e8f-fc6802837819",
@@ -214,11 +214,11 @@
 	"name": "cooperative-research-twin-trawl-sweep-comparison-study",
 	"isopen": false,
 	"url": null,
-	"notes": "The \"Twin-Trawl Sweep Efficiency Study\" was intended to compare the sweep efficiency and selectivity of the NEFSC standardized bottom trawl to that of a standardized trawl that differed only in sweep configuration. The experimental trawl was equipped with a small cookie sweep while the standardized trawl has a larger rock-hopper sweep. This work was done on a commercial twin-trawler that was capable of towing both nets side-by-side simultaneously. This work was undertaken in Southern New England waters in depths (30-50 meters) assumed to have high flounder and skate densities. Ninety two valid paired tows were accomplished. Efficiency and size selectivity for the two configurations were compared.",
+	"notes": "The "Twin-Trawl Sweep Efficiency Study" was intended to compare the sweep efficiency and selectivity of the NEFSC standardized bottom trawl to that of a standardized trawl that differed only in sweep configuration. The experimental trawl was equipped with a small cookie sweep while the standardized trawl has a larger rock-hopper sweep. This work was done on a commercial twin-trawler that was capable of towing both nets side-by-side simultaneously. This work was undertaken in Southern New England waters in depths (30-50 meters) assumed to have high flounder and skate densities. Ninety two valid paired tows were accomplished. Efficiency and size selectivity for the two configurations were compared.",
 	"owner_org": "e811f0b4-451f-4896-9e8f-fc6802837819",
 	"extras": [{
 		"key": "responsible-party",
-		"value": "[{\"name\": \"\", \"roles\": [\"\"]}, {\"name\": \"Northeast Fisheries Science Center\", \"roles\": [\"pointOfContact\", \"custodian\"]}]"
+		"value": "[{"name": "", "roles": [""]}, {"name": "Northeast Fisheries Science Center", "roles": ["pointOfContact", "custodian"]}]"
 	},
 	{
 		"key": "contact-email",
@@ -238,7 +238,7 @@
 	},
 	{
 		"key": "dataset-reference-date",
-		"value": "[{\"type\": \"publication\", \"value\": \"\"}]"
+		"value": "[{"type": "publication", "value": ""}]"
 	},
 	{
 		"key": "resource-type",
@@ -278,7 +278,7 @@
 	},
 	{
 		"key": "spatial",
-		"value": "{\"type\": \"Polygon\", \"coordinates\": [[[-71.782887, 39.976988], [-66.7082, 39.976988], [-66.7082, 43.465033], [-71.782887, 43.465033], [-71.782887, 39.976988]]]}"
+		"value": "{"type": "Polygon", "coordinates": [[[-71.782887, 39.976988], [-66.7082, 39.976988], [-66.7082, 43.465033], [-71.782887, 43.465033], [-71.782887, 39.976988]]]}"
 	},
 	{
 		"key": "guid",
@@ -290,7 +290,7 @@
 	},
 	{
 		"key": "access_constraints",
-		"value": "[\"Access Constraints: User must read and fully comprehend the metadata prior to use. Applications or inferences derived from the data should be carefully considered for accuracy.  | Use Constraints: Acknowledgement of NOAA\/NMFS\/NEFSC, as the source from which these data were obtained in any publications and\/or other representations of these, data is suggested.\"]"
+		"value": "["Access Constraints: User must read and fully comprehend the metadata prior to use. Applications or inferences derived from the data should be carefully considered for accuracy.  | Use Constraints: Acknowledgement of NOAA/NMFS/NEFSC, as the source from which these data were obtained in any publications and/or other representations of these, data is suggested."]"
 	},
 	{
 		"key": "spatial_harvester",
@@ -302,7 +302,7 @@
 	},
 	{
 		"key": "tags",
-		"value": "northeast fisheries science center, national marine fisheries service, noaa, u.s. department of commerce, pelagic, southern new england, doc\/noaa\/nmfs\/nefsc, 2010, cooperative research, northwest atlantic, mid-atlantic bight, gulf of maine, twin trawl, northeast cooperative research program (ncrp), benthic, demersal",
+		"value": "northeast fisheries science center, national marine fisheries service, noaa, u.s. department of commerce, pelagic, southern new england, doc/noaa/nmfs/nefsc, 2010, cooperative research, northwest atlantic, mid-atlantic bight, gulf of maine, twin trawl, northeast cooperative research program (ncrp), benthic, demersal",
 		"__extras": {
 			"revision_id": "01607913-b903-4c4b-9c17-9551700a08a8",
 			"package_id": "6b833005-8736-4a2c-876d-78247370ac1a"

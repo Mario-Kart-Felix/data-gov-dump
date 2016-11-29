@@ -37,7 +37,7 @@
 		"cache_url": null,
 		"name": "Zip File",
 		"created": "2016-07-15T21:34:23.407905",
-		"url": "ftp:\/\/www.co.kootenai.id.us\/GISData\/Transportation\/railroad.zip",
+		"url": "ftp://www.co.kootenai.id.us/GISData/Transportation/railroad.zip",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 0,
@@ -67,7 +67,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2016-07-15T21:34:23.407928",
-		"url": "ftp:\/\/www.co.kootenai.id.us\/GISData\/Metadata\/railroad.htm",
+		"url": "ftp://www.co.kootenai.id.us/GISData/Metadata/railroad.htm",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 1,
@@ -91,7 +91,7 @@
 	"license_title": null,
 	"extras": [{
 		"key": "responsible-party",
-		"value": "[{\"name\": \"Kootenai County GIS\", \"roles\": [\"pointOfContact\"]}]"
+		"value": "[{"name": "Kootenai County GIS", "roles": ["pointOfContact"]}]"
 	},
 	{
 		"key": "contact-email",
@@ -111,7 +111,7 @@
 	},
 	{
 		"key": "dataset-reference-date",
-		"value": "[{\"type\": \"publication\", \"value\": \"2002-01-01\"}]"
+		"value": "[{"type": "publication", "value": "2002-01-01"}]"
 	},
 	{
 		"key": "resource-type",
@@ -139,7 +139,7 @@
 	},
 	{
 		"key": "licence",
-		"value": "[\"Public Data - None\"]"
+		"value": "["Public Data - None"]"
 	},
 	{
 		"key": "metadata_type",
@@ -151,7 +151,7 @@
 	},
 	{
 		"key": "spatial",
-		"value": "{\"type\": \"Polygon\", \"coordinates\": [[[-117.052153, 47.364189], [-116.323399, 47.364189], [-116.323399, 47.980217], [-117.052153, 47.980217], [-117.052153, 47.364189]]]}"
+		"value": "{"type": "Polygon", "coordinates": [[[-117.052153, 47.364189], [-116.323399, 47.364189], [-116.323399, 47.980217], [-117.052153, 47.980217], [-117.052153, 47.364189]]]}"
 	},
 	{
 		"key": "guid",
@@ -163,7 +163,7 @@
 	},
 	{
 		"key": "access_constraints",
-		"value": "[\"Use Constraints: Public data, no restrictions on use. Data is offered \\\"as is\\\", for reference purposes only, and Kootenai County is not responsible for inaccuracies or misuse of the data.\", \"Access Constraints: Public data, no restrictions on access.\"]"
+		"value": "["Use Constraints: Public data, no restrictions on use. Data is offered \"as is\", for reference purposes only, and Kootenai County is not responsible for inaccuracies or misuse of the data.", "Access Constraints: Public data, no restrictions on access."]"
 	},
 	{
 		"key": "spatial_harvester",
@@ -205,7 +205,7 @@
 		"revision_timestamp": "2015-01-16T18:28:14.593903",
 		"is_organization": true,
 		"state": "active",
-		"image_url": "http:\/\/upload.wikimedia.org\/wikipedia\/en\/thumb\/4\/44\/University_of_Idaho_seal.svg\/300px-University_of_Idaho_seal.svg.png",
+		"image_url": "http://upload.wikimedia.org/wikipedia/en/thumb/4/44/University_of_Idaho_seal.svg/300px-University_of_Idaho_seal.svg.png",
 		"revision_id": "761955d7-9530-4622-8609-d0b01c78e177",
 		"type": "organization",
 		"id": "75e22a8a-da5f-46f3-93d8-924063a3703d",

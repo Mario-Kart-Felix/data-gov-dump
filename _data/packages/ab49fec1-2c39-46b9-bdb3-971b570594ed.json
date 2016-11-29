@@ -37,7 +37,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2015-09-26T19:41:39.193806",
-		"url": "ftp:\/\/sidads.colorado.edu\/DATASETS\/NOAA\/G02129\/",
+		"url": "ftp://sidads.colorado.edu/DATASETS/NOAA/G02129/",
 		"webstore_url": null,
 		"resource_locator_function": "function",
 		"position": 0,
@@ -55,7 +55,7 @@
 		"last_modified": null,
 		"hash": "",
 		"description": "",
-		"format": "application\/vnd.lotus-organizer",
+		"format": "application/vnd.lotus-organizer",
 		"tracking_summary": {
 			"total": 85,
 			"recent": 4
@@ -67,7 +67,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2015-09-26T19:41:39.193830",
-		"url": "http:\/\/nsidc.org",
+		"url": "http://nsidc.org",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 1,
@@ -97,7 +97,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2015-09-26T19:41:39.193840",
-		"url": "http:\/\/nsidc.org\/noaa\/",
+		"url": "http://nsidc.org/noaa/",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 2,
@@ -115,7 +115,7 @@
 		"last_modified": null,
 		"hash": "",
 		"description": "",
-		"format": "application\/vnd.lotus-organizer",
+		"format": "application/vnd.lotus-organizer",
 		"tracking_summary": {
 			"total": 85,
 			"recent": 4
@@ -127,7 +127,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2015-09-26T19:41:39.193849",
-		"url": "http:\/\/nsidc.org",
+		"url": "http://nsidc.org",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 3,
@@ -147,7 +147,7 @@
 	"name": "southern-hemisphere-ice-limits-1973-1978",
 	"isopen": false,
 	"url": null,
-	"notes": "\nWeekly Southern Ocean ice limits, have been digitized from U.S. Navy Fleet Weather Facility ice charts, at the Max-Planck Institut fur Meteorologie, Hamburg. Coverage is from 1 January 1973 to 31 June 1978. Data are gridded at 5 degree longitude intervals and are available via ftp.<strong>Note:<\/strong> NOAA@NSIDC believes these data to be of value, however, they should be used with caution because we are unable to quality check the data or provide documentation due to lack of funding. If you have any information about this data set that others would find useful, please contact <a href=\"mailto:nsidc@nsidc.org\">NSIDC User Services<\/a>.\n",
+	"notes": "nWeekly Southern Ocean ice limits, have been digitized from U.S. Navy Fleet Weather Facility ice charts, at the Max-Planck Institut fur Meteorologie, Hamburg. Coverage is from 1 January 1973 to 31 June 1978. Data are gridded at 5 degree longitude intervals and are available via ftp.<strong>Note:</strong> NOAA@NSIDC believes these data to be of value, however, they should be used with caution because we are unable to quality check the data or provide documentation due to lack of funding. If you have any information about this data set that others would find useful, please contact <a href="mailto:nsidc@nsidc.org">NSIDC User Services</a>.n",
 	"license_title": null,
 	"extras": [{
 		"key": "bbox-east-long",
@@ -183,7 +183,7 @@
 	},
 	{
 		"key": "spatial",
-		"value": "{\"type\": \"Polygon\", \"coordinates\": [[[-180.0, -90.0], [180.0, -90.0], [180.0, -50.0], [-180.0, -50.0], [-180.0, -90.0]]]}"
+		"value": "{"type": "Polygon", "coordinates": [[[-180.0, -90.0], [180.0, -90.0], [180.0, -50.0], [-180.0, -50.0], [-180.0, -90.0]]]}"
 	},
 	{
 		"key": "progress",
@@ -191,7 +191,7 @@
 	},
 	{
 		"key": "access_constraints",
-		"value": "[\"Access Constraints : none\", \"Use Constraints : none\"]"
+		"value": "["Access Constraints : none", "Use Constraints : none"]"
 	},
 	{
 		"key": "temporal-extent-begin",
@@ -211,7 +211,7 @@
 	},
 	{
 		"key": "dataset-reference-date",
-		"value": "[{\"type\": \"publication\", \"value\": \"2003-07-25\"}]"
+		"value": "[{"type": "publication", "value": "2003-07-25"}]"
 	},
 	{
 		"key": "frequency-of-update",
@@ -227,7 +227,7 @@
 	},
 	{
 		"key": "responsible-party",
-		"value": "[{\"name\": \"\", \"roles\": [\"principalInvestigator\"]}, {\"name\": \"National Snow and Ice Data Center\", \"roles\": [\"pointOfContact\"]}]"
+		"value": "[{"name": "", "roles": ["principalInvestigator"]}, {"name": "National Snow and Ice Data Center", "roles": ["pointOfContact"]}]"
 	},
 	{
 		"key": "temporal-extent-end",
@@ -243,7 +243,7 @@
 	},
 	{
 		"package_id": "ab49fec1-2c39-46b9-bdb3-971b570594ed",
-		"value": "terrestrial hydrosphere, cryosphere, snow\/ice, antarctic, oceans, global change, antarctica, sea ice extent, southern hemisphere, ice extent, geographic region, sea ice, continent, earth science",
+		"value": "terrestrial hydrosphere, cryosphere, snow/ice, antarctic, oceans, global change, antarctica, sea ice extent, southern hemisphere, ice extent, geographic region, sea ice, continent, earth science",
 		"revision_timestamp": "2015-09-26T23:41:39.141104",
 		"state": "active",
 		"key": "tags",
@@ -273,7 +273,7 @@
 		"revision_timestamp": "2013-03-25T23:05:12.923863",
 		"is_organization": true,
 		"state": "active",
-		"image_url": "https:\/\/fortress.wa.gov\/dfw\/score\/score\/images\/noaa_logo.png",
+		"image_url": "https://fortress.wa.gov/dfw/score/score/images/noaa_logo.png",
 		"revision_id": "c6d43080-22e1-405e-a83d-f2a512d9e867",
 		"type": "organization",
 		"id": "e811f0b4-451f-4896-9e8f-fc6802837819",

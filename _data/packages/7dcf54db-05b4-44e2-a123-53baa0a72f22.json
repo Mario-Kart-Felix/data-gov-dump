@@ -37,7 +37,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2013-03-15T15:37:21.006199",
-		"url": "http:\/\/www.vcgi.org\/dataware\/default.cfm?layer=VHDCARTO",
+		"url": "http://www.vcgi.org/dataware/default.cfm?layer=VHDCARTO",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 0,
@@ -67,7 +67,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2013-03-15T15:37:21.006220",
-		"url": "http:\/\/www.vcgi.org\/dataware\/default.cfm?layer=WaterHydro_VHDCARTO",
+		"url": "http://www.vcgi.org/dataware/default.cfm?layer=WaterHydro_VHDCARTO",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 1,
@@ -97,7 +97,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2013-03-15T15:37:21.006225",
-		"url": "http:\/\/www.vcgi.org\/techres\/white_papers\/swresources\/default_content.cfm",
+		"url": "http://www.vcgi.org/techres/white_papers/swresources/default_content.cfm",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 2,
@@ -130,7 +130,7 @@
 	"name": "waterhydro-vhdcarto",
 	"isopen": false,
 	"url": null,
-	"notes": "VHDCARTO is a simplified version of the local resolution Vermont Hydrography Dataset (VHD) that has been enriched with stream perenniality, e.g., \"intermittent\" vs. \"perennial\", as well as, Strahler stream order attribution for the single linear feature class only. The primary means of accessing this information cartographically is via the FCODE and STREAM_ORDER fields, respectively. See the Entity and Attribution Information section for details. NOTE! Perenniality data does not exist for stream reaches contained within, or intersected by, Essex or Caledonia counties, thus the FCODE \"46000\" in these areas. The absence of Soil SUrvey GeOgraphic (SSURGO) database information in these areas precluded the computation of perenniality. These areas will be processed at some future date. For information on the FCODE symbol for attribution or analysis see the following document http:\/\/nhd.usgs.gov\/NHDinGEO_FCodes_by_layer.pdf (NHDFlowline). A two dimensional feature class for lakes, ponds and larger streams is also included in VHDCARTO. Both layers are derived from the latest National Hydrography Dataset (NHD) data. The NHD is a feature-based database that interconnects and uniquely identifies the stream segments or reaches that make up the nation's surface water drainage system. For information on the science behind computing perenniality attribution please refer to the following U.S. Geological Survey Scientific Investigative Report (SIR) # 2006-5217 - http:\/\/pubs.usgs.gov\/sir\/2006\/5217\/pdf\/SIR2006-5217_report.pdf",
+	"notes": "VHDCARTO is a simplified version of the local resolution Vermont Hydrography Dataset (VHD) that has been enriched with stream perenniality, e.g., "intermittent" vs. "perennial", as well as, Strahler stream order attribution for the single linear feature class only. The primary means of accessing this information cartographically is via the FCODE and STREAM_ORDER fields, respectively. See the Entity and Attribution Information section for details. NOTE! Perenniality data does not exist for stream reaches contained within, or intersected by, Essex or Caledonia counties, thus the FCODE "46000" in these areas. The absence of Soil SUrvey GeOgraphic (SSURGO) database information in these areas precluded the computation of perenniality. These areas will be processed at some future date. For information on the FCODE symbol for attribution or analysis see the following document http://nhd.usgs.gov/NHDinGEO_FCodes_by_layer.pdf (NHDFlowline). A two dimensional feature class for lakes, ponds and larger streams is also included in VHDCARTO. Both layers are derived from the latest National Hydrography Dataset (NHD) data. The NHD is a feature-based database that interconnects and uniquely identifies the stream segments or reaches that make up the nation's surface water drainage system. For information on the science behind computing perenniality attribution please refer to the following U.S. Geological Survey Scientific Investigative Report (SIR) # 2006-5217 - http://pubs.usgs.gov/sir/2006/5217/pdf/SIR2006-5217_report.pdf",
 	"license_title": null,
 	"extras": [{
 		"key": "temporal-extent-begin",
@@ -158,7 +158,7 @@
 	},
 	{
 		"key": "dataset-reference-date",
-		"value": "[{\"type\": \"publication\", \"value\": \"2010-06-09\"}]"
+		"value": "[{"type": "publication", "value": "2010-06-09"}]"
 	},
 	{
 		"key": "resource-type",
@@ -186,7 +186,7 @@
 	},
 	{
 		"key": "licence",
-		"value": "[\"VCGI and the State of Vermont make no representations of any kind, including but not limited to the warranties of merchantability or fitness for a particular use, nor are any such warranties to be implied with respect to the data.\"]"
+		"value": "["VCGI and the State of Vermont make no representations of any kind, including but not limited to the warranties of merchantability or fitness for a particular use, nor are any such warranties to be implied with respect to the data."]"
 	},
 	{
 		"key": "metadata_type",
@@ -194,11 +194,11 @@
 	},
 	{
 		"key": "responsible-party",
-		"value": "[{\"name\": \"VCGI, Inc.\", \"roles\": [\"pointOfContact\"]}]"
+		"value": "[{"name": "VCGI, Inc.", "roles": ["pointOfContact"]}]"
 	},
 	{
 		"key": "spatial",
-		"value": "{\"type\": \"Polygon\", \"coordinates\": [[[-73.74271, 42.559606], [-73.74271, 45.059295], [-71.464335, 45.059295], [-71.464335, 42.559606], [-73.74271, 42.559606]]]}"
+		"value": "{"type": "Polygon", "coordinates": [[[-73.74271, 42.559606], [-73.74271, 45.059295], [-71.464335, 45.059295], [-71.464335, 42.559606], [-73.74271, 42.559606]]]}"
 	},
 	{
 		"key": "guid",
@@ -210,7 +210,7 @@
 	},
 	{
 		"key": "access_constraints",
-		"value": "[\"Use Constraints: None. Acknowledgment of the originating agencies would be appreciated in products derived from these data.\", \"Access Constraints: VCGI and the State of Vermont make no representations of any kind, including but not limited to the warranties of merchantability or fitness for a particular use, nor are any such warranties to be implied with respect to the data.\"]"
+		"value": "["Use Constraints: None. Acknowledgment of the originating agencies would be appreciated in products derived from these data.", "Access Constraints: VCGI and the State of Vermont make no representations of any kind, including but not limited to the warranties of merchantability or fitness for a particular use, nor are any such warranties to be implied with respect to the data."]"
 	},
 	{
 		"key": "frequency-of-update",
@@ -248,7 +248,7 @@
 		"revision_timestamp": "2013-03-27T17:47:03.718032",
 		"is_organization": true,
 		"state": "active",
-		"image_url": "http:\/\/vcgi.vermont.gov\/sites\/all\/themes\/vt_template\/logo.png",
+		"image_url": "http://vcgi.vermont.gov/sites/all/themes/vt_template/logo.png",
 		"revision_id": "c5dfbbb0-f1e0-4db6-b566-e932e1520060",
 		"type": "organization",
 		"id": "0c3a4ebc-9929-4f21-bdd0-76a35d52f57d",

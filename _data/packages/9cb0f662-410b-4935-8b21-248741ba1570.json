@@ -37,7 +37,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2015-09-26T19:48:49.859500",
-		"url": "http:\/\/olympiccoast.noaa.gov\/research\/mapping\/datacatalog.html",
+		"url": "http://olympiccoast.noaa.gov/research/mapping/datacatalog.html",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 0,
@@ -67,7 +67,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2015-09-26T19:48:49.859538",
-		"url": "http:\/\/olympiccoast.noaa.gov\/research\/mapping",
+		"url": "http://olympiccoast.noaa.gov/research/mapping",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 1,
@@ -89,7 +89,7 @@
 		"revision_timestamp": "2013-03-25T23:05:12.923863",
 		"is_organization": true,
 		"state": "active",
-		"image_url": "https:\/\/fortress.wa.gov\/dfw\/score\/score\/images\/noaa_logo.png",
+		"image_url": "https://fortress.wa.gov/dfw/score/score/images/noaa_logo.png",
 		"revision_id": "c6d43080-22e1-405e-a83d-f2a512d9e867",
 		"type": "organization",
 		"id": "e811f0b4-451f-4896-9e8f-fc6802837819",
@@ -100,11 +100,11 @@
 	"name": "neah-bay-to-cape-alava-northwest-coast-washington-state-topographic-survey-data",
 	"isopen": false,
 	"url": null,
-	"notes": "These data were collected by the SHOALS-1000T(Scanning Hydrographic Operational Airborne Lidar Survey)system which consists of an airborne laser transmitter\/receiver with a 1kHz. bathymetric laser and a10 kHz topographic laser. The system was operated from a Beechcraft King Air 90aircraft. Data were collected with the bathymetric laser while flying at altitudes of about 400 meters and a groundspeed of about 124 knots. The topographic laser data was collected at altitudes of about 700 m and a groundspeed of 150 kts. One KGPS base stations was used during processing of the dataset. The SHOALS system includes a ground-based data processing system for calculating accurate horizontal position and water depth \/ elevation. LIDAR is an acronym for LIght Detection And Ranging. The system operates by emitting a pulse of light that travels from an airborne platform to the water surface where a small portion of the laser energy is backscattered to the airborne receiver. The remaining energy at the water\u0092s surface propagates through the water column and reflects off the sea bottom and back to the airborne detector. The time difference between the surface return and the bottom return corresponds to water depth. The maximum depth the system is able to sense is related to the complex interaction of radiance of bottom material, incident sunangle and intensity, and the type and quantity of organics or sediments in the water column. As a rule-of-thumb, the SHOALS 1000 system is capable of sensing bottom to depths equal to two or three times the Secchi depth. Topographic elevations are gridded in this dataset.",
+	"notes": "These data were collected by the SHOALS-1000T(Scanning Hydrographic Operational Airborne Lidar Survey)system which consists of an airborne laser transmitter/receiver with a 1kHz. bathymetric laser and a10 kHz topographic laser. The system was operated from a Beechcraft King Air 90aircraft. Data were collected with the bathymetric laser while flying at altitudes of about 400 meters and a groundspeed of about 124 knots. The topographic laser data was collected at altitudes of about 700 m and a groundspeed of 150 kts. One KGPS base stations was used during processing of the dataset. The SHOALS system includes a ground-based data processing system for calculating accurate horizontal position and water depth / elevation. LIDAR is an acronym for LIght Detection And Ranging. The system operates by emitting a pulse of light that travels from an airborne platform to the water surface where a small portion of the laser energy is backscattered to the airborne receiver. The remaining energy at the wateru0092s surface propagates through the water column and reflects off the sea bottom and back to the airborne detector. The time difference between the surface return and the bottom return corresponds to water depth. The maximum depth the system is able to sense is related to the complex interaction of radiance of bottom material, incident sunangle and intensity, and the type and quantity of organics or sediments in the water column. As a rule-of-thumb, the SHOALS 1000 system is capable of sensing bottom to depths equal to two or three times the Secchi depth. Topographic elevations are gridded in this dataset.",
 	"owner_org": "e811f0b4-451f-4896-9e8f-fc6802837819",
 	"extras": [{
 		"key": "responsible-party",
-		"value": "[{\"name\": \"NOAA, Olympic Coast National Marine Sanctuary\", \"roles\": [\"pointOfContact\"]}]"
+		"value": "[{"name": "NOAA, Olympic Coast National Marine Sanctuary", "roles": ["pointOfContact"]}]"
 	},
 	{
 		"key": "contact-email",
@@ -116,7 +116,7 @@
 	},
 	{
 		"key": "bbox-west-long",
-		"value": "-124.793908\n"
+		"value": "-124.793908n"
 	},
 	{
 		"key": "metadata-date",
@@ -124,7 +124,7 @@
 	},
 	{
 		"key": "dataset-reference-date",
-		"value": "[{\"type\": \"publication\", \"value\": \"2005-05-20\"}]"
+		"value": "[{"type": "publication", "value": "2005-05-20"}]"
 	},
 	{
 		"key": "resource-type",
@@ -132,7 +132,7 @@
 	},
 	{
 		"key": "bbox-east-long",
-		"value": "-124.628193\n"
+		"value": "-124.628193n"
 	},
 	{
 		"key": "spatial-reference-system",
@@ -140,7 +140,7 @@
 	},
 	{
 		"key": "bbox-north-lat",
-		"value": "48.409543\n"
+		"value": "48.409543n"
 	},
 	{
 		"key": "coupled-resource",
@@ -148,11 +148,11 @@
 	},
 	{
 		"key": "bbox-south-lat",
-		"value": "48.149852\n"
+		"value": "48.149852n"
 	},
 	{
 		"key": "licence",
-		"value": "[\"Unknown\\n\"]"
+		"value": "["Unknown\n"]"
 	},
 	{
 		"key": "metadata_type",
@@ -164,7 +164,7 @@
 	},
 	{
 		"key": "spatial",
-		"value": "{\"type\": \"Polygon\", \"coordinates\": [[[-124.793908, 48.149852], [-124.628193, 48.149852], [-124.628193, 48.409543], [-124.793908, 48.409543], [-124.793908, 48.149852]]]}"
+		"value": "{"type": "Polygon", "coordinates": [[[-124.793908, 48.149852], [-124.628193, 48.149852], [-124.628193, 48.409543], [-124.793908, 48.409543], [-124.793908, 48.149852]]]}"
 	},
 	{
 		"key": "guid",
@@ -176,7 +176,7 @@
 	},
 	{
 		"key": "access_constraints",
-		"value": "[\"Use Constraints: Acknowledgement of the existing conditions of the nearshore bathymetry and beach would be appreciated in products derived from these data.\", \"Access Constraints: None\"]"
+		"value": "["Use Constraints: Acknowledgement of the existing conditions of the nearshore bathymetry and beach would be appreciated in products derived from these data.", "Access Constraints: None"]"
 	},
 	{
 		"key": "spatial_harvester",
@@ -188,7 +188,7 @@
 	},
 	{
 		"key": "tags",
-		"value": "wa, koitlah point, topographic survey, lidar survey, olympic coast, bathymetry\/topography, cape alava, hydrographic survey, tatoosh island",
+		"value": "wa, koitlah point, topographic survey, lidar survey, olympic coast, bathymetry/topography, cape alava, hydrographic survey, tatoosh island",
 		"__extras": {
 			"revision_id": "b4992009-53cc-4b3e-9bb2-9de063d63840",
 			"package_id": "9cb0f662-410b-4935-8b21-248741ba1570"

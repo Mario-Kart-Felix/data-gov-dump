@@ -32,7 +32,7 @@
 	"license_title": null,
 	"extras": [{
 		"key": "responsible-party",
-		"value": "[{\"name\": \"REQUIRED: The organization responsible for the metadata information.\", \"roles\": [\"pointOfContact\"]}]"
+		"value": "[{"name": "REQUIRED: The organization responsible for the metadata information.", "roles": ["pointOfContact"]}]"
 	},
 	{
 		"key": "guid",
@@ -56,7 +56,7 @@
 	},
 	{
 		"key": "dataset-reference-date",
-		"value": "[{\"type\": \"publication\", \"value\": \"9999-01-01\"}]"
+		"value": "[{"type": "publication", "value": "9999-01-01"}]"
 	},
 	{
 		"key": "resource-type",
@@ -80,11 +80,11 @@
 	},
 	{
 		"key": "licence",
-		"value": "[\" \"]"
+		"value": "[" "]"
 	},
 	{
 		"key": "spatial",
-		"value": "{\"type\": \"Polygon\", \"coordinates\": [[[-117.074504, 46.536213], [-117.074504, 47.137608], [-116.318469, 47.137608], [-116.318469, 46.536213], [-117.074504, 46.536213]]]}"
+		"value": "{"type": "Polygon", "coordinates": [[[-117.074504, 46.536213], [-117.074504, 47.137608], [-116.318469, 47.137608], [-116.318469, 46.536213], [-117.074504, 46.536213]]]}"
 	},
 	{
 		"key": "metadata-language",
@@ -100,7 +100,7 @@
 	},
 	{
 		"key": "access_constraints",
-		"value": "[\"Use Constraints: REQUIRED: Restrictions and legal prerequisites for using the data set after access is granted.\", \"Access Constraints: REQUIRED: Restrictions and legal prerequisites for accessing the data set.\"]"
+		"value": "["Use Constraints: REQUIRED: Restrictions and legal prerequisites for using the data set after access is granted.", "Access Constraints: REQUIRED: Restrictions and legal prerequisites for accessing the data set."]"
 	},
 	{
 		"key": "bbox-east-long",
@@ -123,7 +123,7 @@
 		"revision_timestamp": "2015-01-16T18:28:14.593903",
 		"is_organization": true,
 		"state": "active",
-		"image_url": "http:\/\/upload.wikimedia.org\/wikipedia\/en\/thumb\/4\/44\/University_of_Idaho_seal.svg\/300px-University_of_Idaho_seal.svg.png",
+		"image_url": "http://upload.wikimedia.org/wikipedia/en/thumb/4/44/University_of_Idaho_seal.svg/300px-University_of_Idaho_seal.svg.png",
 		"revision_id": "761955d7-9530-4622-8609-d0b01c78e177",
 		"type": "organization",
 		"id": "75e22a8a-da5f-46f3-93d8-924063a3703d",

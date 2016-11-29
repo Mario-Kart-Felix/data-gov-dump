@@ -37,7 +37,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2016-05-11T16:35:58.462643",
-		"url": "http:\/\/dx.doi.org\/10.5066\/F7F47M5C",
+		"url": "http://dx.doi.org/10.5066/F7F47M5C",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 0,
@@ -57,7 +57,7 @@
 	"name": "range-extent-15",
 	"isopen": false,
 	"url": null,
-	"notes": "The GIS layer \"Range_extent_15\" is a simple polyline representing the geographic distribution of the southern sea otter (Enhydra lutris nereis) in mainland California, based on data collected during the spring 2015 range-wide census. The USGS range-wide sea otter census has been undertaken twice a year since 1982, once in May and once in October, using consistent methodology involving both ground-based and aerial-based counts. The spring census is considered more accurate than the fall count, and provides the primary basis for gauging population trends by State and Federal management agencies. Sea otter distribution in California (the mainland range) is considered to comprise a band of potential habitat stretching along the coast of California, and bounded to the north and south by range limits defined as \"the points farthest from the range center at which 5 or more otters are counted within a 10km contiguous stretch of coastline (as measured along the 10m bathymetric contour) during the two most recent spring censuses, or at which these same criteria were met in the previous year\".",
+	"notes": "The GIS layer "Range_extent_15" is a simple polyline representing the geographic distribution of the southern sea otter (Enhydra lutris nereis) in mainland California, based on data collected during the spring 2015 range-wide census. The USGS range-wide sea otter census has been undertaken twice a year since 1982, once in May and once in October, using consistent methodology involving both ground-based and aerial-based counts. The spring census is considered more accurate than the fall count, and provides the primary basis for gauging population trends by State and Federal management agencies. Sea otter distribution in California (the mainland range) is considered to comprise a band of potential habitat stretching along the coast of California, and bounded to the north and south by range limits defined as "the points farthest from the range center at which 5 or more otters are counted within a 10km contiguous stretch of coastline (as measured along the 10m bathymetric contour) during the two most recent spring censuses, or at which these same criteria were met in the previous year".",
 	"license_title": null,
 	"extras": [{
 		"key": "bbox-east-long",
@@ -93,7 +93,7 @@
 	},
 	{
 		"key": "spatial",
-		"value": "{\"type\": \"Polygon\", \"coordinates\": [[[-122.373376708, 34.418157193], [-120.278704733, 34.418157193], [-120.278704733, 37.196206673], [-122.373376708, 37.196206673], [-122.373376708, 34.418157193]]]}"
+		"value": "{"type": "Polygon", "coordinates": [[[-122.373376708, 34.418157193], [-120.278704733, 34.418157193], [-120.278704733, 37.196206673], [-122.373376708, 37.196206673], [-122.373376708, 34.418157193]]]}"
 	},
 	{
 		"key": "progress",
@@ -101,7 +101,7 @@
 	},
 	{
 		"key": "access_constraints",
-		"value": "[\"Use Constraints: The authors of these data suggest that users direct any questions pertaining to appropriate use or assistance with understanding limitations and interpretation of the data to the individuals\/organization listed in the Point of Contact section.\", \"Access Constraints: None\"]"
+		"value": "["Use Constraints: The authors of these data suggest that users direct any questions pertaining to appropriate use or assistance with understanding limitations and interpretation of the data to the individuals/organization listed in the Point of Contact section.", "Access Constraints: None"]"
 	},
 	{
 		"key": "temporal-extent-begin",
@@ -121,7 +121,7 @@
 	},
 	{
 		"key": "dataset-reference-date",
-		"value": "[{\"type\": \"publication\", \"value\": \"2015-01-01\"}]"
+		"value": "[{"type": "publication", "value": "2015-01-01"}]"
 	},
 	{
 		"key": "frequency-of-update",
@@ -129,7 +129,7 @@
 	},
 	{
 		"key": "licence",
-		"value": "[\"Unless otherwise stated, all data, metadata and related materials are considered to satisfy the quality standards relative to the purpose for which the data were collected. Although these data and associated metadata have been reviewed for accuracy and completeness and approved for release by the U.S. Geological Survey (USGS), no warranty expressed or implied is made regarding the display or utility of the data on any other system or for general or scientific purposes, nor shall the act of distribution constitute any such warranty.  Any use of trade, firm, or product names is for descriptive purposes only and does not imply endorsement by the U.S. Government.\"]"
+		"value": "["Unless otherwise stated, all data, metadata and related materials are considered to satisfy the quality standards relative to the purpose for which the data were collected. Although these data and associated metadata have been reviewed for accuracy and completeness and approved for release by the U.S. Geological Survey (USGS), no warranty expressed or implied is made regarding the display or utility of the data on any other system or for general or scientific purposes, nor shall the act of distribution constitute any such warranty.  Any use of trade, firm, or product names is for descriptive purposes only and does not imply endorsement by the U.S. Government."]"
 	},
 	{
 		"key": "metadata_type",
@@ -137,7 +137,7 @@
 	},
 	{
 		"key": "responsible-party",
-		"value": "[{\"name\": \"U.S. Geological Survey, PACIFIC REGION\", \"roles\": [\"pointOfContact\"]}]"
+		"value": "[{"name": "U.S. Geological Survey, PACIFIC REGION", "roles": ["pointOfContact"]}]"
 	},
 	{
 		"key": "temporal-extent-end",
@@ -176,14 +176,14 @@
 		"value": "Western Ecological Research Center (WERC), USGS"
 	}],
 	"organization": {
-		"description": "http:\/\/www.usgs.gov\/\r\nThe USGS is a federal science agency that provides impartial information on the health of our ecosystems and environment, the natural hazards that threaten us, the natural resources we rely on, the impacts of climate and land-use change, and the core science systems that help us provide timely, relevant, and useable information.",
+		"description": "http://www.usgs.gov/rnThe USGS is a federal science agency that provides impartial information on the health of our ecosystems and environment, the natural hazards that threaten us, the natural resources we rely on, the impacts of climate and land-use change, and the core science systems that help us provide timely, relevant, and useable information.",
 		"created": "2013-03-14T03:44:38.263357",
 		"title": "U.S. Geological Survey, Department of the Interior",
 		"name": "usgs-gov",
 		"revision_timestamp": "2014-09-02T13:43:52.167023",
 		"is_organization": true,
 		"state": "active",
-		"image_url": "http:\/\/pubs.usgs.gov\/sir\/2004\/5296\/04-5296_confluence_park\/usgs_logo.gif",
+		"image_url": "http://pubs.usgs.gov/sir/2004/5296/04-5296_confluence_park/usgs_logo.gif",
 		"revision_id": "2858aa99-9501-4f96-82e5-9647b968ed66",
 		"type": "organization",
 		"id": "bd2cdd5a-4d65-46c0-9937-c8381175f104",

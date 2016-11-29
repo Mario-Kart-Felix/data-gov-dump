@@ -36,7 +36,7 @@
 		"cache_url": null,
 		"name": "NDGIS web site",
 		"created": "2015-01-09T11:58:32.386989",
-		"url": "http:\/\/www.nd.gov\/gis\/",
+		"url": "http://www.nd.gov/gis/",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 0,
@@ -65,7 +65,7 @@
 		"cache_url": null,
 		"name": "Download Bismarck-Mandan Aerial Photography 2009",
 		"created": "2015-01-09T11:58:32.387009",
-		"url": "http:\/\/gisdata.nd.gov\/Cities\/BismarckMandan\/AerialPhotography\/2009\/",
+		"url": "http://gisdata.nd.gov/Cities/BismarckMandan/AerialPhotography/2009/",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 1,
@@ -94,7 +94,7 @@
 		"cache_url": null,
 		"name": "Download Bismarck Aerial Photography 2009",
 		"created": "2015-01-09T11:58:32.387016",
-		"url": "http:\/\/gisdata.nd.gov\/Cities\/Bismarck\/AerialPhotography\/2009\/",
+		"url": "http://gisdata.nd.gov/Cities/Bismarck/AerialPhotography/2009/",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 2,
@@ -123,7 +123,7 @@
 		"cache_url": null,
 		"name": "Download Mandan Aerial Photography 2009",
 		"created": "2015-01-09T11:58:32.387023",
-		"url": "http:\/\/gisdata.nd.gov\/Cities\/Mandan\/AerialPhotography\/2009\/",
+		"url": "http://gisdata.nd.gov/Cities/Mandan/AerialPhotography/2009/",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 3,
@@ -152,7 +152,7 @@
 		"cache_url": null,
 		"name": "Bismarck-Mandan_2009",
 		"created": "2015-01-09T11:58:32.387029",
-		"url": "http:\/\/ndgishub.nd.gov\/arcgis\/services\/All_Imagery\/MapServer\/WMSServer?",
+		"url": "http://ndgishub.nd.gov/arcgis/services/All_Imagery/MapServer/WMSServer?",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 4,
@@ -181,7 +181,7 @@
 		"cache_url": null,
 		"name": "Esri REST including WMS and WCS",
 		"created": "2015-01-09T11:58:32.387036",
-		"url": "http:\/\/ndgishub.nd.gov\/ArcGIS\/rest\/services\/All_Imagery\/MapServer",
+		"url": "http://ndgishub.nd.gov/ArcGIS/rest/services/All_Imagery/MapServer",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 5,
@@ -250,7 +250,7 @@
 	},
 	{
 		"key": "spatial-reference-system",
-		"value": "NAD83 \/ North Dakota South"
+		"value": "NAD83 / North Dakota South"
 	},
 	{
 		"key": "spatial_harvester",
@@ -258,7 +258,7 @@
 	},
 	{
 		"key": "spatial",
-		"value": "{\"type\": \"Polygon\", \"coordinates\": [[[-100.85, 46.74], [-100.67, 46.74], [-100.67, 46.87], [-100.85, 46.87], [-100.85, 46.74]]]}"
+		"value": "{"type": "Polygon", "coordinates": [[[-100.85, 46.74], [-100.67, 46.74], [-100.67, 46.87], [-100.85, 46.87], [-100.85, 46.74]]]}"
 	},
 	{
 		"key": "progress",
@@ -266,7 +266,7 @@
 	},
 	{
 		"key": "access_constraints",
-		"value": "[\"Not to be used for purposes other than those strictly outlined in the Bismarck-Mandan MPO project.\"]"
+		"value": "["Not to be used for purposes other than those strictly outlined in the Bismarck-Mandan MPO project."]"
 	},
 	{
 		"key": "contact-email",
@@ -282,7 +282,7 @@
 	},
 	{
 		"key": "dataset-reference-date",
-		"value": "[{\"type\": \"publication\", \"value\": \"2009-05-06T00:00:00\"}]"
+		"value": "[{"type": "publication", "value": "2009-05-06T00:00:00"}]"
 	},
 	{
 		"key": "graphic-preview-description",
@@ -302,7 +302,7 @@
 	},
 	{
 		"key": "responsible-party",
-		"value": "[{\"name\": \"Bismarck-Mandan MPO\", \"roles\": [\"pointOfContact\"]}]"
+		"value": "[{"name": "Bismarck-Mandan MPO", "roles": ["pointOfContact"]}]"
 	},
 	{
 		"key": "spatial-data-service-type",
@@ -337,14 +337,14 @@
 		"value": "North Dakota GIS Hub Data Portal"
 	}],
 	"organization": {
-		"description": "The GIS Hub is the state source for GIS - data, services, and information.  More information can be found at www.nd.gov\/gis.",
+		"description": "The GIS Hub is the state source for GIS - data, services, and information.  More information can be found at www.nd.gov/gis.",
 		"created": "2013-03-14T03:44:44.340717",
 		"title": "State of North Dakota",
 		"name": "nd-gov",
 		"revision_timestamp": "2013-07-15T16:27:30.098476",
 		"is_organization": true,
 		"state": "active",
-		"image_url": "http:\/\/www.nd.gov\/gis\/images\/ndgis-logo.gif",
+		"image_url": "http://www.nd.gov/gis/images/ndgis-logo.gif",
 		"revision_id": "27517bb9-815c-4d4f-b45b-b88b6316697b",
 		"type": "organization",
 		"id": "1c782de6-9f1f-4427-93fd-33732e29970f",

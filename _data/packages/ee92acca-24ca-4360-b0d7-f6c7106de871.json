@@ -37,7 +37,7 @@
 		"cache_url": null,
 		"name": "TAR Compressed File",
 		"created": "2014-11-17T16:10:44.256062",
-		"url": "http:\/\/water.usgs.gov\/GIS\/dsdl\/na70_landuse.tgz",
+		"url": "http://water.usgs.gov/GIS/dsdl/na70_landuse.tgz",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 0,
@@ -67,7 +67,7 @@
 		"cache_url": null,
 		"name": "TAR Compressed File",
 		"created": "2014-11-17T16:10:44.256090",
-		"url": "http:\/\/water.usgs.gov\/GIS\/dsdl\/na70_landuse.tar.gz",
+		"url": "http://water.usgs.gov/GIS/dsdl/na70_landuse.tar.gz",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 1,
@@ -97,7 +97,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2014-11-17T16:10:44.256104",
-		"url": "http:\/\/water.usgs.gov\/lookup\/getspatial?na70_landuse",
+		"url": "http://water.usgs.gov/lookup/getspatial?na70_landuse",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 2,
@@ -117,7 +117,7 @@
 	"name": "major-land-uses-in-the-united-states",
 	"isopen": false,
 	"url": null,
-	"notes": "This is a polygon coverage of major land uses in the United States. The source of the coverage is the map of major land uses in the National Atlas, pages 158-159, which was adapted from U.S. Department of Agriculture, \"Major Land Uses in the United States,\" by Francis J. Marschner, revised by James R. Anderson, 1967.",
+	"notes": "This is a polygon coverage of major land uses in the United States. The source of the coverage is the map of major land uses in the National Atlas, pages 158-159, which was adapted from U.S. Department of Agriculture, "Major Land Uses in the United States," by Francis J. Marschner, revised by James R. Anderson, 1967.",
 	"license_title": null,
 	"extras": [{
 		"key": "bbox-east-long",
@@ -153,7 +153,7 @@
 	},
 	{
 		"key": "spatial",
-		"value": "{\"type\": \"Polygon\", \"coordinates\": [[[-127.871468, 23.248364], [-65.405602, 23.248364], [-65.405602, 51.552484], [-127.871468, 51.552484], [-127.871468, 23.248364]]]}"
+		"value": "{"type": "Polygon", "coordinates": [[[-127.871468, 23.248364], [-65.405602, 23.248364], [-65.405602, 51.552484], [-127.871468, 51.552484], [-127.871468, 23.248364]]]}"
 	},
 	{
 		"key": "progress",
@@ -161,7 +161,7 @@
 	},
 	{
 		"key": "access_constraints",
-		"value": "[\"Use Constraints: The scale of the data (1:7,500,000) limits its use to broad overviews of land use. Several areas on the scanned map did not register properly with existing 1:2,000,000 base maps. The areas are southwest New Mexico to southwest California and the northwest corner of Maine. The original ticks appear to be located properly. The discrepancy might be due to different source maps or error in transforming the scanned copy.\", \"Access Constraints: none\"]"
+		"value": "["Use Constraints: The scale of the data (1:7,500,000) limits its use to broad overviews of land use. Several areas on the scanned map did not register properly with existing 1:2,000,000 base maps. The areas are southwest New Mexico to southwest California and the northwest corner of Maine. The original ticks appear to be located properly. The discrepancy might be due to different source maps or error in transforming the scanned copy.", "Access Constraints: none"]"
 	},
 	{
 		"key": "temporal-extent-begin",
@@ -169,7 +169,7 @@
 	},
 	{
 		"key": "contact-email",
-		"value": "http:\/\/answers.usgs.gov\/cgi-bin\/gsanswers?pemail=h2oteam&subject=GIS+Dataset+na70_landuse"
+		"value": "http://answers.usgs.gov/cgi-bin/gsanswers?pemail=h2oteam&subject=GIS+Dataset+na70_landuse"
 	},
 	{
 		"key": "bbox-west-long",
@@ -181,7 +181,7 @@
 	},
 	{
 		"key": "dataset-reference-date",
-		"value": "[{\"type\": \"publication\", \"value\": \"1967-01-01\"}]"
+		"value": "[{"type": "publication", "value": "1967-01-01"}]"
 	},
 	{
 		"key": "frequency-of-update",
@@ -189,7 +189,7 @@
 	},
 	{
 		"key": "licence",
-		"value": "[\"\\n\\nAlthough this dataset has been used by the U.S. Geological Survey,\\nU.S. Department of the Interior, no warranty expressed or implied\\nis made by the U.S. Geological Survey as to the accuracy of the\\ndata and related materials. The act of distribution shall not\\nconstitute any such warranty, and no responsibility is assumed by\\nthe U.S. Geological Survey in the use of this data, software, or\\nrelated materials.\\n\\nAny use of trade, product, or firm names is for descriptive\\npurposes only and does not imply endorsement by the U.S.\\nGovernment.\\n\"]"
+		"value": "["\n\nAlthough this dataset has been used by the U.S. Geological Survey,\nU.S. Department of the Interior, no warranty expressed or implied\nis made by the U.S. Geological Survey as to the accuracy of the\ndata and related materials. The act of distribution shall not\nconstitute any such warranty, and no responsibility is assumed by\nthe U.S. Geological Survey in the use of this data, software, or\nrelated materials.\n\nAny use of trade, product, or firm names is for descriptive\npurposes only and does not imply endorsement by the U.S.\nGovernment.\n"]"
 	},
 	{
 		"key": "metadata_type",
@@ -197,7 +197,7 @@
 	},
 	{
 		"key": "responsible-party",
-		"value": "[{\"name\": \"U.S. Geological Survey\", \"roles\": [\"pointOfContact\"]}]"
+		"value": "[{"name": "U.S. Geological Survey", "roles": ["pointOfContact"]}]"
 	},
 	{
 		"key": "temporal-extent-end",
@@ -236,14 +236,14 @@
 		"value": "Water NSDI Node Spatial Datasets"
 	}],
 	"organization": {
-		"description": "http:\/\/www.usgs.gov\/\r\nThe USGS is a federal science agency that provides impartial information on the health of our ecosystems and environment, the natural hazards that threaten us, the natural resources we rely on, the impacts of climate and land-use change, and the core science systems that help us provide timely, relevant, and useable information.",
+		"description": "http://www.usgs.gov/rnThe USGS is a federal science agency that provides impartial information on the health of our ecosystems and environment, the natural hazards that threaten us, the natural resources we rely on, the impacts of climate and land-use change, and the core science systems that help us provide timely, relevant, and useable information.",
 		"created": "2013-03-14T03:44:38.263357",
 		"title": "U.S. Geological Survey, Department of the Interior",
 		"name": "usgs-gov",
 		"revision_timestamp": "2014-09-02T13:43:52.167023",
 		"is_organization": true,
 		"state": "active",
-		"image_url": "http:\/\/pubs.usgs.gov\/sir\/2004\/5296\/04-5296_confluence_park\/usgs_logo.gif",
+		"image_url": "http://pubs.usgs.gov/sir/2004/5296/04-5296_confluence_park/usgs_logo.gif",
 		"revision_id": "2858aa99-9501-4f96-82e5-9647b968ed66",
 		"type": "organization",
 		"id": "bd2cdd5a-4d65-46c0-9937-c8381175f104",

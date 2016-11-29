@@ -36,7 +36,7 @@
 		"cache_url": null,
 		"name": "Service Description",
 		"created": "2013-03-16T01:02:42.988566",
-		"url": "http:\/\/web2.nbmg.unr.edu\/ArcGIS\/services\/UT_data\/UTThermalSprings\/MapServer\/WMSServer?request=GetCapabilities&service=WMS",
+		"url": "http://web2.nbmg.unr.edu/ArcGIS/services/UT_data/UTThermalSprings/MapServer/WMSServer?request=GetCapabilities&service=WMS",
 		"webstore_url": null,
 		"resource_locator_function": "381",
 		"position": 0,
@@ -65,7 +65,7 @@
 		"cache_url": null,
 		"name": "Service Description",
 		"created": "2013-03-16T01:02:42.988589",
-		"url": "http:\/\/web2.nbmg.unr.edu\/ArcGIS\/services\/UT_data\/UTThermalSprings\/MapServer\/WFSServer?request=GetCapabilities&service=WFS",
+		"url": "http://web2.nbmg.unr.edu/ArcGIS/services/UT_data/UTThermalSprings/MapServer/WFSServer?request=GetCapabilities&service=WFS",
 		"webstore_url": null,
 		"resource_locator_function": "381",
 		"position": 1,
@@ -94,7 +94,7 @@
 		"cache_url": null,
 		"name": "Service Description",
 		"created": "2013-03-16T01:02:42.988621",
-		"url": "http:\/\/web2.nbmg.unr.edu\/ArcGIS\/rest\/services\/UT_data\/UTThermalSprings\/MapServer",
+		"url": "http://web2.nbmg.unr.edu/ArcGIS/rest/services/UT_data/UTThermalSprings/MapServer",
 		"webstore_url": null,
 		"resource_locator_function": "381",
 		"position": 2,
@@ -123,7 +123,7 @@
 		"cache_url": null,
 		"name": "Zipped Excel Spreadsheet with UT Thermal Springs",
 		"created": "2013-03-16T01:02:42.988630",
-		"url": "http:\/\/repository.stategeothermaldata.org\/metadata\/record\/cc54f15894222c91e71e4530dc04505d\/file\/utah_hotspringfeature.zip",
+		"url": "http://repository.stategeothermaldata.org/metadata/record/cc54f15894222c91e71e4530dc04505d/file/utah_hotspringfeature.zip",
 		"webstore_url": null,
 		"resource_locator_function": "375",
 		"position": 3,
@@ -152,7 +152,7 @@
 		"cache_url": null,
 		"name": "ESRI Shapefile containnig UT Thermal Springs data",
 		"created": "2013-03-16T01:02:42.988637",
-		"url": "http:\/\/repository.stategeothermaldata.org\/metadata\/record\/cc54f15894222c91e71e4530dc04505d\/file\/utah_hotspringsshapefile.zip",
+		"url": "http://repository.stategeothermaldata.org/metadata/record/cc54f15894222c91e71e4530dc04505d/file/utah_hotspringsshapefile.zip",
 		"webstore_url": null,
 		"resource_locator_function": "375",
 		"position": 4,
@@ -185,11 +185,11 @@
 	"name": "utah-thermal-spring-features",
 	"isopen": false,
 	"url": null,
-	"notes": "Thermal Spring information for the state of Utah. Dataset is a compilation of thermal spring temperature observations compiled by the Utah Geological Survey, published as a web feature service, a web map service, an ESRI service and as an Excel spreadsheet for the National Geothermal Data System.\nThe downloadable spreadsheet contains 9 worksheets, including information about the template, instructions on using the template, notes related to revisions of the template, Resource provider information, the data, a field list (data mapping view) and a worksheet with vocabularies for use in populating the spreadsheet (data valid terms). 285 spring records are included. Fields in the data table include ThermalSpringURI, Name, Label, OtherName, OtherIdentifier, Description, Source, SourceURI, FeatureType, LandLeaseOwner, OtherLocationName, County, State, PLSS_Meridians, Township, Range, Section, SectionPart, Parcel, UTM_E, UTM_N, UTMDatumZone, LatDegree, LongDegree, SRS, LocationUncertaintyStatement, ObservationURI, Temperature, TemperatureUnits, TempMeasurementProcedure, TempMeasurementDateTime, Flow, FlowUnits, FlowMeasurementProcedure, FlowMeasurementDateTime, MeasurementSource, FlowContinuity, Classification, RelatedWaterChemistry, DataEntrySource, RelatedResources and Remarks.",
+	"notes": "Thermal Spring information for the state of Utah. Dataset is a compilation of thermal spring temperature observations compiled by the Utah Geological Survey, published as a web feature service, a web map service, an ESRI service and as an Excel spreadsheet for the National Geothermal Data System.nThe downloadable spreadsheet contains 9 worksheets, including information about the template, instructions on using the template, notes related to revisions of the template, Resource provider information, the data, a field list (data mapping view) and a worksheet with vocabularies for use in populating the spreadsheet (data valid terms). 285 spring records are included. Fields in the data table include ThermalSpringURI, Name, Label, OtherName, OtherIdentifier, Description, Source, SourceURI, FeatureType, LandLeaseOwner, OtherLocationName, County, State, PLSS_Meridians, Township, Range, Section, SectionPart, Parcel, UTM_E, UTM_N, UTMDatumZone, LatDegree, LongDegree, SRS, LocationUncertaintyStatement, ObservationURI, Temperature, TemperatureUnits, TempMeasurementProcedure, TempMeasurementDateTime, Flow, FlowUnits, FlowMeasurementProcedure, FlowMeasurementDateTime, MeasurementSource, FlowContinuity, Classification, RelatedWaterChemistry, DataEntrySource, RelatedResources and Remarks.",
 	"license_title": null,
 	"extras": [{
 		"key": "responsible-party",
-		"value": "[{\"name\": \"Arizona Geological Survey\", \"roles\": [\"pointOfContact\"]}]"
+		"value": "[{"name": "Arizona Geological Survey", "roles": ["pointOfContact"]}]"
 	},
 	{
 		"key": "contact-email",
@@ -209,7 +209,7 @@
 	},
 	{
 		"key": "dataset-reference-date",
-		"value": "[{\"type\": \"publication\", \"value\": \"2011-11-23T12:00:00\"}]"
+		"value": "[{"type": "publication", "value": "2011-11-23T12:00:00"}]"
 	},
 	{
 		"key": "resource-type",
@@ -245,7 +245,7 @@
 	},
 	{
 		"key": "spatial",
-		"value": "{\"type\": \"Polygon\", \"coordinates\": [[[-114.787, 36.6804], [-114.787, 42.3046], [-108.503, 42.3046], [-108.503, 36.6804], [-114.787, 36.6804]]]}"
+		"value": "{"type": "Polygon", "coordinates": [[[-114.787, 36.6804], [-114.787, 42.3046], [-108.503, 42.3046], [-108.503, 36.6804], [-114.787, 36.6804]]]}"
 	},
 	{
 		"key": "guid",
@@ -295,7 +295,7 @@
 		"revision_timestamp": "2013-03-20T21:11:17.592932",
 		"is_organization": true,
 		"state": "active",
-		"image_url": "http:\/\/www.50states.com\/flag\/image\/nunst004.gif",
+		"image_url": "http://www.50states.com/flag/image/nunst004.gif",
 		"revision_id": "61be6428-4398-4199-a336-f3cd1e956f9b",
 		"type": "organization",
 		"id": "f3f6e1d4-64fb-4a2f-b32c-9ac0b76fe4de",

@@ -37,7 +37,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2016-09-24T11:28:46.673783",
-		"url": "https:\/\/www.epa.gov\/geospatial",
+		"url": "https://www.epa.gov/geospatial",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 0,
@@ -67,7 +67,7 @@
 		"cache_url": null,
 		"name": "Esri Rest API Endpoint",
 		"created": "2016-09-24T11:28:46.673806",
-		"url": "https:\/\/geodata.epa.gov\/arcgis\/rest\/services\/OAR_OAQPS\/VMT_services\/MapServer",
+		"url": "https://geodata.epa.gov/arcgis/rest/services/OAR_OAQPS/VMT_services/MapServer",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 1,
@@ -97,7 +97,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2016-09-24T11:28:46.673816",
-		"url": "https:\/\/www.epa.gov\/air-emissions-inventories\/national-emissions-inventory",
+		"url": "https://www.epa.gov/air-emissions-inventories/national-emissions-inventory",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 2,
@@ -127,7 +127,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2016-09-24T11:28:46.673823",
-		"url": "https:\/\/www3.epa.gov\/airquality\/",
+		"url": "https://www3.epa.gov/airquality/",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 3,
@@ -136,7 +136,7 @@
 	}],
 	"num_resources": 4,
 	"tags": [],
-	"title": "National Emissions Inventory Vehicle Miles Traveled, U.S., 2011, EPA\/OAR\/OAQPS\/AQAD",
+	"title": "National Emissions Inventory Vehicle Miles Traveled, U.S., 2011, EPA/OAR/OAQPS/AQAD",
 	"tracking_summary": {
 		"total": 6,
 		"recent": 2
@@ -147,7 +147,7 @@
 	"name": "national-emissions-inventory-vehicle-miles-traveled-u-s-2011-epa-oar-oaqps-aqad",
 	"isopen": false,
 	"url": null,
-	"notes": "This web service layer depicts gridded Vehicle Miles Traveled (VMT) for 2011 from the National Emission Inventory (NEI). The default 2011 National Emissions Inventory (NEI) vehicle miles traveled (VMT) data are developed primarily from information provided by the Federal Highway Administration (FHWA), along with the FHWA\u2019s published Highway Statistics 2011, data from the Bureau of Census, and information provided by the US Environmental Protection Agency (EPA). This 2011 full VMT database was developed to provide default VMT at the county, road type, and vehicle type level of detail, to be used in the 2011 NEI in areas for which no state or local agency provided VMT data. The road types included were the 12 Highway Performance Monitoring System (HPMS) functional roadway types while the vehicle types used were the six MOVES HPMS vehicle types , for a total of 72 records per county. To be compatible with MOVES inputs and for easy import into the MOVES HPMSVtypeYear table, the data were also provided at the level of county and HPMSVtypeID. In both cases, the VMT data provided are annual data in units of millions of vehicle miles. The 2011 VMT database was developed using data supplied directly by FHWA and as well as publicly available data from the 2011 version of FHWA\u2019s Highway Statistics data series (http:\/\/www.fhwa.dot.gov\/policyinformation\/statistics\/2011\/). The FHWA data sets that were provided include a subset of fields from the 2011 HPMS database. The HPMS database is at the link level of detail. Each link is coded with the corresponding state, county, and, if applicable, urban area code. The roadway functional system code is included. The beginning point and ending point mileage of the link are included, from which the length of the link can be calculated. In addition, the total average annual daily traffic (AADT) volume is included along with AADT for single-unit trucks and combination trucks. Annual VMT can then be calculated by multiplying the link length by the AADT and multiplying by 365. 2011 annual county-level VMT data was spatially allocated to the 12US2 (12km Contintental US) grid using spatial surrogates corresponding to different road types. SMOKE was used first to apply the spatial surrogates to the VMT data.",
+	"notes": "This web service layer depicts gridded Vehicle Miles Traveled (VMT) for 2011 from the National Emission Inventory (NEI). The default 2011 National Emissions Inventory (NEI) vehicle miles traveled (VMT) data are developed primarily from information provided by the Federal Highway Administration (FHWA), along with the FHWAu2019s published Highway Statistics 2011, data from the Bureau of Census, and information provided by the US Environmental Protection Agency (EPA). This 2011 full VMT database was developed to provide default VMT at the county, road type, and vehicle type level of detail, to be used in the 2011 NEI in areas for which no state or local agency provided VMT data. The road types included were the 12 Highway Performance Monitoring System (HPMS) functional roadway types while the vehicle types used were the six MOVES HPMS vehicle types , for a total of 72 records per county. To be compatible with MOVES inputs and for easy import into the MOVES HPMSVtypeYear table, the data were also provided at the level of county and HPMSVtypeID. In both cases, the VMT data provided are annual data in units of millions of vehicle miles. The 2011 VMT database was developed using data supplied directly by FHWA and as well as publicly available data from the 2011 version of FHWAu2019s Highway Statistics data series (http://www.fhwa.dot.gov/policyinformation/statistics/2011/). The FHWA data sets that were provided include a subset of fields from the 2011 HPMS database. The HPMS database is at the link level of detail. Each link is coded with the corresponding state, county, and, if applicable, urban area code. The roadway functional system code is included. The beginning point and ending point mileage of the link are included, from which the length of the link can be calculated. In addition, the total average annual daily traffic (AADT) volume is included along with AADT for single-unit trucks and combination trucks. Annual VMT can then be calculated by multiplying the link length by the AADT and multiplying by 365. 2011 annual county-level VMT data was spatially allocated to the 12US2 (12km Contintental US) grid using spatial surrogates corresponding to different road types. SMOKE was used first to apply the spatial surrogates to the VMT data.",
 	"license_title": null,
 	"extras": [{
 		"key": "bbox-east-long",
@@ -183,7 +183,7 @@
 	},
 	{
 		"key": "spatial",
-		"value": "{\"type\": \"Polygon\", \"coordinates\": [[[-138.21454852, 6.65223303], [-12.68151645, 6.65223303], [-12.68151645, 61.7110157], [-138.21454852, 61.7110157], [-138.21454852, 6.65223303]]]}"
+		"value": "{"type": "Polygon", "coordinates": [[[-138.21454852, 6.65223303], [-12.68151645, 6.65223303], [-12.68151645, 61.7110157], [-138.21454852, 61.7110157], [-138.21454852, 6.65223303]]]}"
 	},
 	{
 		"key": "progress",
@@ -191,11 +191,11 @@
 	},
 	{
 		"key": "access_constraints",
-		"value": "[\"Use Constraints: None. Please check sources, scale, accuracy, currency and other available information. Please confirm that you are using the most recent copy of both data and metadata. Acknowledgement of the EPA would be appreciated.\", \"Access Constraints: None\"]"
+		"value": "["Use Constraints: None. Please check sources, scale, accuracy, currency and other available information. Please confirm that you are using the most recent copy of both data and metadata. Acknowledgement of the EPA would be appreciated.", "Access Constraints: None"]"
 	},
 	{
 		"key": "licence_url",
-		"value": "https:\/\/edg.epa.gov\/EPA_Data_License.html"
+		"value": "https://edg.epa.gov/EPA_Data_License.html"
 	},
 	{
 		"key": "contact-email",
@@ -211,7 +211,7 @@
 	},
 	{
 		"key": "dataset-reference-date",
-		"value": "[{\"type\": \"publication\", \"value\": \"2016-04-11\"}]"
+		"value": "[{"type": "publication", "value": "2016-04-11"}]"
 	},
 	{
 		"key": "frequency-of-update",
@@ -219,7 +219,7 @@
 	},
 	{
 		"key": "licence",
-		"value": "[\"https:\/\/edg.epa.gov\/EPA_Data_License.html\"]"
+		"value": "["https://edg.epa.gov/EPA_Data_License.html"]"
 	},
 	{
 		"key": "metadata_type",
@@ -227,7 +227,7 @@
 	},
 	{
 		"key": "responsible-party",
-		"value": "[{\"name\": \"U.S. Environmental Protection Agency, Office of Air and Radiation-Office of Air Quality Planning and Standards\", \"roles\": [\"pointOfContact\"]}]"
+		"value": "[{"name": "U.S. Environmental Protection Agency, Office of Air and Radiation-Office of Air Quality Planning and Standards", "roles": ["pointOfContact"]}]"
 	},
 	{
 		"key": "spatial-data-service-type",
@@ -269,7 +269,7 @@
 		"revision_timestamp": "2014-01-16T18:58:42.895981",
 		"is_organization": true,
 		"state": "active",
-		"image_url": "http:\/\/edg.epa.gov\/EPALogo.svg",
+		"image_url": "http://edg.epa.gov/EPALogo.svg",
 		"revision_id": "f0e4b475-7424-4ce0-9a22-412e7e595154",
 		"type": "organization",
 		"id": "6d90e48d-3076-4327-b2f4-c33919f374d5",

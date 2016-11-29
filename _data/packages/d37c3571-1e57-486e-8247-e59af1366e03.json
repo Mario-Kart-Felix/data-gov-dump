@@ -37,7 +37,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2013-03-15T15:36:03.134317",
-		"url": "http:\/\/www.vcgi.org\/dataware\/default.cfm?layer=DemoCensus_BLCKGR2010",
+		"url": "http://www.vcgi.org/dataware/default.cfm?layer=DemoCensus_BLCKGR2010",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 0,
@@ -67,7 +67,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2013-03-15T15:36:03.134337",
-		"url": "http:\/\/www.vcgi.org\/dataware\/default.cfm?layer=DemoCensus_CNTY2010",
+		"url": "http://www.vcgi.org/dataware/default.cfm?layer=DemoCensus_CNTY2010",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 1,
@@ -97,7 +97,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2013-03-15T15:36:03.134342",
-		"url": "http:\/\/www.vcgi.org\/dataware\/default.cfm?layer=DemoCensus_CNTY2010&mapit=yes",
+		"url": "http://www.vcgi.org/dataware/default.cfm?layer=DemoCensus_CNTY2010&mapit=yes",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 2,
@@ -127,7 +127,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2013-03-15T15:36:03.134346",
-		"url": "http:\/\/maps.vcgi.org:8080\/wmsconnector\/com.esri.wms.Esrimap?servicename=DATAWARE_VCGI&VERSION=1.1.1&request=getmap&BBOX=-73.45416,42.72279,-71.46528,45.018356&SRS=EPSG:4326&LAYERS=Demo_BLCKGR2010_POLY&WIDTH=300&HEIGHT=400&FORMAT=image\/gif",
+		"url": "http://maps.vcgi.org:8080/wmsconnector/com.esri.wms.Esrimap?servicename=DATAWARE_VCGI&VERSION=1.1.1&request=getmap&BBOX=-73.45416,42.72279,-71.46528,45.018356&SRS=EPSG:4326&LAYERS=Demo_BLCKGR2010_POLY&WIDTH=300&HEIGHT=400&FORMAT=image/gif",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 3,
@@ -157,7 +157,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2013-03-15T15:36:03.134351",
-		"url": "http:\/\/www.census.gov\/geo\/www\/tiger",
+		"url": "http://www.census.gov/geo/www/tiger",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 4,
@@ -190,7 +190,7 @@
 	"name": "democensus-blckgr2010",
 	"isopen": false,
 	"url": null,
-	"notes": "BLCKGR2010 contains a subset of attributes from Summary File 1 of the 2010 Decennial Census. The TIGER\/Line Files are shapefiles and related database files (.dbf) that are an extract of selected geographic and cartographic information from the U.S. Census Bureau's Master Address File \/ Topologically Integrated Geographic Encoding and Referencing (MAF\/TIGER) Database (MTDB). The MTDB represents a seamless national file with no overlaps or gaps between parts, however, each TIGER\/Line File is designed to stand alone as an independent data set, or they can be combined to cover the entire nation. States and equivalent entities are the primary governmental divisions of the United States. In addition to the fifty States, the Census Bureau treats the District of Columbia, Puerto Rico, and each of the Island Areas (American Samoa, the Commonwealth of the Northern Mariana Islands, Guam, and the U.S. Virgin Islands) as the statistical equivalents of States for the purpose of data presentation.",
+	"notes": "BLCKGR2010 contains a subset of attributes from Summary File 1 of the 2010 Decennial Census. The TIGER/Line Files are shapefiles and related database files (.dbf) that are an extract of selected geographic and cartographic information from the U.S. Census Bureau's Master Address File / Topologically Integrated Geographic Encoding and Referencing (MAF/TIGER) Database (MTDB). The MTDB represents a seamless national file with no overlaps or gaps between parts, however, each TIGER/Line File is designed to stand alone as an independent data set, or they can be combined to cover the entire nation. States and equivalent entities are the primary governmental divisions of the United States. In addition to the fifty States, the Census Bureau treats the District of Columbia, Puerto Rico, and each of the Island Areas (American Samoa, the Commonwealth of the Northern Mariana Islands, Guam, and the U.S. Virgin Islands) as the statistical equivalents of States for the purpose of data presentation.",
 	"license_title": null,
 	"extras": [{
 		"key": "temporal-extent-begin",
@@ -218,7 +218,7 @@
 	},
 	{
 		"key": "dataset-reference-date",
-		"value": "[{\"type\": \"publication\", \"value\": \"2012-03-09T10:32\"}]"
+		"value": "[{"type": "publication", "value": "2012-03-09T10:32"}]"
 	},
 	{
 		"key": "resource-type",
@@ -246,7 +246,7 @@
 	},
 	{
 		"key": "licence",
-		"value": "[\"VCGI and the State of Vermont make no representations of any kind, including but not limited to the warranties of merchantability or fitness for a particular use, nor are any such warranties to be implied with respect to the data.\"]"
+		"value": "["VCGI and the State of Vermont make no representations of any kind, including but not limited to the warranties of merchantability or fitness for a particular use, nor are any such warranties to be implied with respect to the data."]"
 	},
 	{
 		"key": "metadata_type",
@@ -254,11 +254,11 @@
 	},
 	{
 		"key": "responsible-party",
-		"value": "[{\"name\": \"U.S. Department of Commerce, U.S. Census Bureau, Geography Division, Geographic Products Branch\", \"roles\": [\"pointOfContact\"]}]"
+		"value": "[{"name": "U.S. Department of Commerce, U.S. Census Bureau, Geography Division, Geographic Products Branch", "roles": ["pointOfContact"]}]"
 	},
 	{
 		"key": "spatial",
-		"value": "{\"type\": \"Polygon\", \"coordinates\": [[[-73.437905, 42.72685], [-73.437905, 45.016659], [-71.465039, 45.016659], [-71.465039, 42.72685], [-73.437905, 42.72685]]]}"
+		"value": "{"type": "Polygon", "coordinates": [[[-73.437905, 42.72685], [-73.437905, 45.016659], [-71.465039, 45.016659], [-71.465039, 42.72685], [-73.437905, 42.72685]]]}"
 	},
 	{
 		"key": "guid",
@@ -270,11 +270,11 @@
 	},
 	{
 		"key": "access_constraints",
-		"value": "[\"Use Constraints: The TIGER\/Line Shapefile products are not copyrighted however TIGER\/Line and Census TIGER are registered trademarks of the U.S. Census Bureau. These products are free to use in a product or publication, however acknowledgement must be given to the U.S. Census Bureau as the source. The boundary information in the TIGER\/Line Shapefiles are for statistical data collection and tabulation purposes only; their depiction and designation for statistical purposes does not constitute a determination of jurisdictional authority or rights of ownership or entitlement and they are not legal land descriptions.Coordinates in the TIGER\/Line shapefiles have six implied decimal places, but the positional accuracy of these coordinates is not as great as the six decimal places suggest.\", \"Access Constraints: None\"]"
+		"value": "["Use Constraints: The TIGER/Line Shapefile products are not copyrighted however TIGER/Line and Census TIGER are registered trademarks of the U.S. Census Bureau. These products are free to use in a product or publication, however acknowledgement must be given to the U.S. Census Bureau as the source. The boundary information in the TIGER/Line Shapefiles are for statistical data collection and tabulation purposes only; their depiction and designation for statistical purposes does not constitute a determination of jurisdictional authority or rights of ownership or entitlement and they are not legal land descriptions.Coordinates in the TIGER/Line shapefiles have six implied decimal places, but the positional accuracy of these coordinates is not as great as the six decimal places suggest.", "Access Constraints: None"]"
 	},
 	{
 		"key": "frequency-of-update",
-		"value": "TIGER\/LINE SHAPEFILES ARE EXTRACTED FROM THE CENSUS MAF\/TIGER DATABASE. NO CHANGES OR UPDATES WILL BE MADE TO THIS VERSION OF THE TIGER\/LINE SHAPEFILES. FUTURE RELEASES OF TIGER\/LINE SHAPEFILES WILL REFLECT UPDATES MADE TO THE CENSUS MAF\/TIGER DATABASE."
+		"value": "TIGER/LINE SHAPEFILES ARE EXTRACTED FROM THE CENSUS MAF/TIGER DATABASE. NO CHANGES OR UPDATES WILL BE MADE TO THIS VERSION OF THE TIGER/LINE SHAPEFILES. FUTURE RELEASES OF TIGER/LINE SHAPEFILES WILL REFLECT UPDATES MADE TO THE CENSUS MAF/TIGER DATABASE."
 	},
 	{
 		"package_id": "d37c3571-1e57-486e-8247-e59af1366e03",
@@ -308,7 +308,7 @@
 		"revision_timestamp": "2013-03-27T17:47:03.718032",
 		"is_organization": true,
 		"state": "active",
-		"image_url": "http:\/\/vcgi.vermont.gov\/sites\/all\/themes\/vt_template\/logo.png",
+		"image_url": "http://vcgi.vermont.gov/sites/all/themes/vt_template/logo.png",
 		"revision_id": "c5dfbbb0-f1e0-4db6-b566-e932e1520060",
 		"type": "organization",
 		"id": "0c3a4ebc-9929-4f21-bdd0-76a35d52f57d",

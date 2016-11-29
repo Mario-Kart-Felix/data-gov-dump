@@ -37,7 +37,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2016-05-30T21:23:10.465538",
-		"url": "https:\/\/coast.noaa.gov\/slr",
+		"url": "https://coast.noaa.gov/slr",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 0,
@@ -67,7 +67,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2016-05-30T21:23:10.465568",
-		"url": "https:\/\/coast.noaa.gov\/digitalcoast\/tools\/slr",
+		"url": "https://coast.noaa.gov/digitalcoast/tools/slr",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 1,
@@ -97,7 +97,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2016-05-30T21:23:10.465587",
-		"url": "https:\/\/coast.noaa.gov\/",
+		"url": "https://coast.noaa.gov/",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 2,
@@ -117,11 +117,11 @@
 	"name": "noaa-office-for-coastal-management-coastal-inundation-digital-elevation-model-jacksonville-wfo-",
 	"isopen": false,
 	"url": null,
-	"notes": "This digital elevation model (DEM) is a part of a series of DEMs produced for the National Oceanic and Atmospheric Administration Office for Coastal Management's Sea Level Rise and Coastal Flooding Impacts Viewer. The DEM includes best available lidar data known to exist at the time of DEM creation that meets project specifications for those counties in the state of Georgia that fall within the boundary of the Jacksonville, FL Weather Forecast Office (WFO), as defined by the NOAA National Weather Service. The DEM is derived from LiDAR data collected in 2010 under a multi-agency partnership between the Coastal Georgia Regional Development Center, USGS, FEMA, NOAA and local county governments. Although the entire project extent extends beyond the boundaries of this DEM, only data in Camden County, as well as portions of Charlton, Brantley, and Wayne Counties was used in DEM creation. Hydrographic breaklines used in the creation of the DEM were obtained from the Coastal Regional Georgia Development Center. The DEMs are hydro flattened such that water elevations are less than or equal to 0 meters. The DEM is referenced vertically to the North American Vertical Datum of 1988 (NAVD88) with vertical units of meters and horizontally to the North American Datum of 1983 (NAD83). The resolution of the DEM is approximately 5 meters. This DEM does not include licensed data within the boundary of the WFO that is unavailable for distribution to the general public. As such, the extent of this DEM is different than that of the DEM used by the NOAA Office for Coastal Management in creating the inundation data seen in the Sea Level Rise and Coastal Impacts Viewer (http:\/\/www.coast.noaa.gov\/slr\/viewer\/).",
+	"notes": "This digital elevation model (DEM) is a part of a series of DEMs produced for the National Oceanic and Atmospheric Administration Office for Coastal Management's Sea Level Rise and Coastal Flooding Impacts Viewer. The DEM includes best available lidar data known to exist at the time of DEM creation that meets project specifications for those counties in the state of Georgia that fall within the boundary of the Jacksonville, FL Weather Forecast Office (WFO), as defined by the NOAA National Weather Service. The DEM is derived from LiDAR data collected in 2010 under a multi-agency partnership between the Coastal Georgia Regional Development Center, USGS, FEMA, NOAA and local county governments. Although the entire project extent extends beyond the boundaries of this DEM, only data in Camden County, as well as portions of Charlton, Brantley, and Wayne Counties was used in DEM creation. Hydrographic breaklines used in the creation of the DEM were obtained from the Coastal Regional Georgia Development Center. The DEMs are hydro flattened such that water elevations are less than or equal to 0 meters. The DEM is referenced vertically to the North American Vertical Datum of 1988 (NAVD88) with vertical units of meters and horizontally to the North American Datum of 1983 (NAD83). The resolution of the DEM is approximately 5 meters. This DEM does not include licensed data within the boundary of the WFO that is unavailable for distribution to the general public. As such, the extent of this DEM is different than that of the DEM used by the NOAA Office for Coastal Management in creating the inundation data seen in the Sea Level Rise and Coastal Impacts Viewer (http://www.coast.noaa.gov/slr/viewer/).",
 	"license_title": null,
 	"extras": [{
 		"key": "responsible-party",
-		"value": "[{\"name\": \"NOAA Office for Coastal Management\", \"roles\": [\"pointOfContact\"]}]"
+		"value": "[{"name": "NOAA Office for Coastal Management", "roles": ["pointOfContact"]}]"
 	},
 	{
 		"key": "contact-email",
@@ -141,7 +141,7 @@
 	},
 	{
 		"key": "dataset-reference-date",
-		"value": "[{\"type\": \"publication\", \"value\": \"2012-01-01\"}]"
+		"value": "[{"type": "publication", "value": "2012-01-01"}]"
 	},
 	{
 		"key": "resource-type",
@@ -169,7 +169,7 @@
 	},
 	{
 		"key": "licence",
-		"value": "[\"Any conclusions drawn from the analysis of this information are not the responsibility of the Office for Coastal Management or its partners.\"]"
+		"value": "["Any conclusions drawn from the analysis of this information are not the responsibility of the Office for Coastal Management or its partners."]"
 	},
 	{
 		"key": "metadata_type",
@@ -181,7 +181,7 @@
 	},
 	{
 		"key": "spatial",
-		"value": "{\"type\": \"Polygon\", \"coordinates\": [[[-82.4216114873, 30.3546121311], [-81.3031364873, 30.3546121311], [-81.3031364873, 31.8302521311], [-82.4216114873, 31.8302521311], [-82.4216114873, 30.3546121311]]]}"
+		"value": "{"type": "Polygon", "coordinates": [[[-82.4216114873, 30.3546121311], [-81.3031364873, 30.3546121311], [-81.3031364873, 31.8302521311], [-82.4216114873, 31.8302521311], [-82.4216114873, 30.3546121311]]]}"
 	},
 	{
 		"key": "guid",
@@ -193,7 +193,7 @@
 	},
 	{
 		"key": "access_constraints",
-		"value": "[\"Use Constraints: The dataset is provided \\\"as is,\\\" without warranty to its performance, merchantable state, or fitness for any particular purpose. The entire risk associated with the results and performance of this dataset is assumed by the user. This dataset should be used strictly as a planning reference and not for navigation, permitting, or other legal purposes.\", \"Access Constraints: None\"]"
+		"value": "["Use Constraints: The dataset is provided \"as is,\" without warranty to its performance, merchantable state, or fitness for any particular purpose. The entire risk associated with the results and performance of this dataset is assumed by the user. This dataset should be used strictly as a planning reference and not for navigation, permitting, or other legal purposes.", "Access Constraints: None"]"
 	},
 	{
 		"key": "spatial_harvester",
@@ -205,7 +205,7 @@
 	},
 	{
 		"package_id": "92c4cef1-6963-4e75-b9bc-abc552c4d47a",
-		"value": "sea level rise, charlton county, topography, elevation, inundation, us, lidar, georgia, bathymetry\/topography, dem, digital elevation model, brantley county, flooding, camden county, wayne county",
+		"value": "sea level rise, charlton county, topography, elevation, inundation, us, lidar, georgia, bathymetry/topography, dem, digital elevation model, brantley county, flooding, camden county, wayne county",
 		"revision_timestamp": "2015-09-26T21:11:38.274650",
 		"state": "active",
 		"key": "tags",
@@ -235,7 +235,7 @@
 		"revision_timestamp": "2013-03-25T23:05:12.923863",
 		"is_organization": true,
 		"state": "active",
-		"image_url": "https:\/\/fortress.wa.gov\/dfw\/score\/score\/images\/noaa_logo.png",
+		"image_url": "https://fortress.wa.gov/dfw/score/score/images/noaa_logo.png",
 		"revision_id": "c6d43080-22e1-405e-a83d-f2a512d9e867",
 		"type": "organization",
 		"id": "e811f0b4-451f-4896-9e8f-fc6802837819",

@@ -28,11 +28,11 @@
 	"name": "subregion-4-digit-huc-boundaries-nhd",
 	"isopen": false,
 	"url": null,
-	"notes": "This dataset represents Subregion (4-digit HUC) Hydrologic Unit Boundaries and codes for Arizona. There are a total of 10 subregions within or partially within Arizona. The Arizona State Land Department downloaded the NHD data from the USGS NHD website (http:\/\/nhd.usgs.gov\/) in 2008. Since then, ASLD have made minor modifications to the dataset (See Process Steps for details). Please note: This is a modified version of the NHD. For a comprehensive and more current version please visit the USGS NHD at http:\/\/nhd.usgs.gov\/.",
+	"notes": "This dataset represents Subregion (4-digit HUC) Hydrologic Unit Boundaries and codes for Arizona. There are a total of 10 subregions within or partially within Arizona. The Arizona State Land Department downloaded the NHD data from the USGS NHD website (http://nhd.usgs.gov/) in 2008. Since then, ASLD have made minor modifications to the dataset (See Process Steps for details). Please note: This is a modified version of the NHD. For a comprehensive and more current version please visit the USGS NHD at http://nhd.usgs.gov/.",
 	"license_title": null,
 	"extras": [{
 		"key": "responsible-party",
-		"value": "[{\"name\": \"NRCS (http:\/\/www.nrcs.usda.gov\/)\", \"roles\": [\"pointOfContact\"]}]"
+		"value": "[{"name": "NRCS (http://www.nrcs.usda.gov/)", "roles": ["pointOfContact"]}]"
 	},
 	{
 		"key": "contact-email",
@@ -52,7 +52,7 @@
 	},
 	{
 		"key": "dataset-reference-date",
-		"value": "[{\"type\": \"publication\", \"value\": \"2008-01-01\"}]"
+		"value": "[{"type": "publication", "value": "2008-01-01"}]"
 	},
 	{
 		"key": "resource-type",
@@ -80,7 +80,7 @@
 	},
 	{
 		"key": "licence",
-		"value": "[\" \"]"
+		"value": "[" "]"
 	},
 	{
 		"key": "metadata_type",
@@ -92,7 +92,7 @@
 	},
 	{
 		"key": "spatial",
-		"value": "{\"type\": \"Polygon\", \"coordinates\": [[[-200.0, 0.0], [-56.8344239, 0.0], [-56.8344239, 143.165576], [-200.0, 143.165576], [-200.0, 0.0]]]}"
+		"value": "{"type": "Polygon", "coordinates": [[[-200.0, 0.0], [-56.8344239, 0.0], [-56.8344239, 143.165576], [-200.0, 143.165576], [-200.0, 0.0]]]}"
 	},
 	{
 		"key": "guid",
@@ -104,7 +104,7 @@
 	},
 	{
 		"key": "access_constraints",
-		"value": "[\"Use Constraints: These data were digitized and edited from best available sources at a scales ranging from 1:24,000, or better, up to 1:2,000,000. This data is not intended to be the authoritative source for hydrologic units, but only as a reference to NHD data that has some interdependecies with hydrologic unit delineation for reach code assignments.\", \"Access Constraints: None. Acknowledgment of the originating agencies would be appreciated in products derived from these data.\"]"
+		"value": "["Use Constraints: These data were digitized and edited from best available sources at a scales ranging from 1:24,000, or better, up to 1:2,000,000. This data is not intended to be the authoritative source for hydrologic units, but only as a reference to NHD data that has some interdependecies with hydrologic unit delineation for reach code assignments.", "Access Constraints: None. Acknowledgment of the originating agencies would be appreciated in products derived from these data."]"
 	},
 	{
 		"key": "spatial_harvester",
@@ -146,7 +146,7 @@
 		"revision_timestamp": "2013-05-31T17:51:13.706377",
 		"is_organization": true,
 		"state": "active",
-		"image_url": "http:\/\/www.ca.gov\/images\/template2012\/header_ca.gov.png",
+		"image_url": "http://www.ca.gov/images/template2012/header_ca.gov.png",
 		"revision_id": "ad94cda4-9394-44d0-9c37-573dc3c47c9a",
 		"type": "organization",
 		"id": "467d900f-8a42-452d-9906-6610dd1a767f",

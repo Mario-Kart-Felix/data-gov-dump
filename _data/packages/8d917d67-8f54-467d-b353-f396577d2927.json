@@ -30,11 +30,11 @@
 			"recent": 40
 		},
 		"mimetype_inner": null,
-		"mimetype": "text\/html",
+		"mimetype": "text/html",
 		"cache_url": null,
 		"name": "gSSURGO",
 		"created": "2014-10-02T11:52:40.211203",
-		"url": "http:\/\/datagateway.nrcs.usda.gov",
+		"url": "http://datagateway.nrcs.usda.gov",
 		"webstore_url": null,
 		"last_modified": null,
 		"position": 0,
@@ -168,7 +168,7 @@
 	"name": "gridded-soil-survey-geographic-gssurgo-database-for-the-united-states-of-america-and-the-t",
 	"isopen": true,
 	"url": null,
-	"notes": "This dataset is called the Gridded SSURGO (gSSURGO) Database and is derived from the Soil Survey Geographic (SSURGO) Database. SSURGO is generally the most detailed level of soil geographic data developed by the National Cooperative Soil Survey (NCSS) in accordance with NCSS mapping standards. The tabular data represent the soil attributes, and are derived from properties and characteristics stored in the National Soil Information System (NASIS). \r\n\r\nThe gSSURGO data were prepared by merging traditional SSURGO digital vector map and tabular data into State-wide extents.  A gridded map layer, derived from the vector, at a 10 meter cell size that approximates the vector polygons has been added.  The raster and vector map data are also available in a Conterminous US-wide extent.  The raster map data are in 10-, 30-, and 90- meter cell sizes.  The gridded map layer is offered in an ArcGIS file geodatabase raster format in an Albers Equal Area projection.\r\n\r\nEach cell (and polygon) is linked to a map unit identifier called the map unit key. A unique map unit key is used to link to raster cells and polygons to attribute tables, including the new value added look up (valu) table containing \"ready to map\" attributes and additional derived data.\r\n\r\nThe value added look up (valu) table contains attribute data summarized to the map unit level using best practice generalization methods intended to meet the needs of most users.  The generalization methods include map unit component weighted averages and percent of the map unit meeting a given criteria.",
+	"notes": "This dataset is called the Gridded SSURGO (gSSURGO) Database and is derived from the Soil Survey Geographic (SSURGO) Database. SSURGO is generally the most detailed level of soil geographic data developed by the National Cooperative Soil Survey (NCSS) in accordance with NCSS mapping standards. The tabular data represent the soil attributes, and are derived from properties and characteristics stored in the National Soil Information System (NASIS). rnrnThe gSSURGO data were prepared by merging traditional SSURGO digital vector map and tabular data into State-wide extents.  A gridded map layer, derived from the vector, at a 10 meter cell size that approximates the vector polygons has been added.  The raster and vector map data are also available in a Conterminous US-wide extent.  The raster map data are in 10-, 30-, and 90- meter cell sizes.  The gridded map layer is offered in an ArcGIS file geodatabase raster format in an Albers Equal Area projection.rnrnEach cell (and polygon) is linked to a map unit identifier called the map unit key. A unique map unit key is used to link to raster cells and polygons to attribute tables, including the new value added look up (valu) table containing "ready to map" attributes and additional derived data.rnrnThe value added look up (valu) table contains attribute data summarized to the map unit level using best practice generalization methods intended to meet the needs of most users.  The generalization methods include map unit component weighted averages and percent of the map unit meeting a given criteria.",
 	"license_title": "Creative Commons CCZero",
 	"extras": [{
 		"key": "harvest_source_id",
@@ -202,15 +202,15 @@
 	},
 	{
 		"key": "catalog_@context",
-		"value": "https:\/\/project-open-data.cio.gov\/v1.1\/schema\/data.jsonld"
+		"value": "https://project-open-data.cio.gov/v1.1/schema/data.jsonld"
 	},
 	{
 		"key": "catalog_describedBy",
-		"value": "https:\/\/project-open-data.cio.gov\/v1.1\/schema\/catalog.json"
+		"value": "https://project-open-data.cio.gov/v1.1/schema/catalog.json"
 	},
 	{
 		"key": "__category_tag_3b2f2e70-3e81-4aa7-8305-a534cd6af6c8",
-		"value": "[\"Atmospheric, Earth and Ocean Sciences\",\"Soils, Sediments\"]"
+		"value": "["Atmospheric, Earth and Ocean Sciences","Soils, Sediments"]"
 	},
 	{
 		"key": "harvest_source_title",
@@ -222,7 +222,7 @@
 	},
 	{
 		"key": "catalog_conformsTo",
-		"value": "https:\/\/project-open-data.cio.gov\/v1.1\/schema"
+		"value": "https://project-open-data.cio.gov/v1.1/schema"
 	},
 	{
 		"key": "bureauCode",
@@ -234,7 +234,7 @@
 	},
 	{
 		"key": "landingPage",
-		"value": "http:\/\/datagateway.nrcs.usda.gov"
+		"value": "http://datagateway.nrcs.usda.gov"
 	},
 	{
 		"key": "harvest_object_id",
@@ -246,7 +246,7 @@
 	},
 	{
 		"key": "license",
-		"value": "https:\/\/creativecommons.org\/publicdomain\/zero\/1.0\/"
+		"value": "https://creativecommons.org/publicdomain/zero/1.0/"
 	},
 	{
 		"key": "modified",
@@ -258,7 +258,7 @@
 	},
 	{
 		"key": "accrualPeriodicity",
-		"value": "R\/P1Y"
+		"value": "R/P1Y"
 	},
 	{
 		"key": "identifier",
@@ -279,7 +279,7 @@
 		"key": "harvest_source_title",
 		"value": "USDA JSON"
 	}],
-	"license_url": "http:\/\/www.opendefinition.org\/licenses\/cc-zero",
+	"license_url": "http://www.opendefinition.org/licenses/cc-zero",
 	"organization": {
 		"description": "",
 		"created": "2013-05-18T11:48:54.524965",
@@ -288,7 +288,7 @@
 		"revision_timestamp": "2014-07-16T17:31:02.443184",
 		"is_organization": true,
 		"state": "active",
-		"image_url": "http:\/\/www.data.gov\/app\/uploads\/2014\/07\/USDA_logo.png",
+		"image_url": "http://www.data.gov/app/uploads/2014/07/USDA_logo.png",
 		"revision_id": "9e003139-dbe7-4b48-a9fe-0ae8b4c122f2",
 		"type": "organization",
 		"id": "4ae51f6c-467a-4f9d-b40a-2c52e83c326a",

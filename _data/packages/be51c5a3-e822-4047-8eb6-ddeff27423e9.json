@@ -25,7 +25,7 @@
 		"last_modified": null,
 		"hash": "",
 		"description": "kelp89.exe",
-		"format": "application\/octet-stream",
+		"format": "application/octet-stream",
 		"tracking_summary": {
 			"total": 7,
 			"recent": 1
@@ -37,7 +37,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2015-04-25T08:19:50.427718",
-		"url": "ftp:\/\/maphost.dfg.ca.gov\/outgoing\/itb\/pveisze\/kelp89.exe",
+		"url": "ftp://maphost.dfg.ca.gov/outgoing/itb/pveisze/kelp89.exe",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 0,
@@ -67,7 +67,7 @@
 		"cache_url": null,
 		"name": "Esri Rest API Endpoint",
 		"created": "2015-04-25T08:19:50.427740",
-		"url": "https:\/\/map.dfg.ca.gov\/arcgis\/rest\/services\/Project_Marine\/Marine_Kelp\/MapServer",
+		"url": "https://map.dfg.ca.gov/arcgis/rest/services/Project_Marine/Marine_Kelp/MapServer",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 1,
@@ -87,11 +87,11 @@
 	"name": "kelp-canopy-map-data-1989-california-coast30661",
 	"isopen": false,
 	"url": null,
-	"notes": "Kelp beds along the coast of California are a critical habitat for many important sport and commercial species of invertebrates and fishes. The California Coastal Kelp Resources Survey is the most recent statewide mapping of kelp, acquired under contract by the California Department of Fish and Game (DFG) from ECOSCAN Resources. Aerial photos, taken in July through October 1989, were projected onto 1:24000 USGS topographic maps and kelp canopy features were delineated. The maps include the topographic base, shorelines, watercourses, rocky intertidal zones, offshore rocks\/islands, sand beaches, selected geographic place names, and DFG Administrative Kelp Bed Numbers. Details on Kelp Bed designations and harvest regulations are set forth in Title 14 California Code of Regulations, Section 165.5. Detailed methodology of kelp mapping is available from ECOSCAN. See contact information below. DFG scanned the original 24'x36', black and white paper maps into packbit-compressed tif images and georeferenced them to the above USGS base using a custom ARC\/INFO application developed by ESRI. Scan resolution was 400 dpi. There are a total of 84 map images covering the coast of California. Image file names have a .tif extension and georeferencing data are contained in associated .tfw files. Detailed information about the scanning methodology is available from DFG. Intended uses of these maps include kelp harvest assessment, kelp bed lease management, and related biological applications. Kelp bed area statistics were compiled from this and previous surveys. Contact DFG.",
+	"notes": "Kelp beds along the coast of California are a critical habitat for many important sport and commercial species of invertebrates and fishes. The California Coastal Kelp Resources Survey is the most recent statewide mapping of kelp, acquired under contract by the California Department of Fish and Game (DFG) from ECOSCAN Resources. Aerial photos, taken in July through October 1989, were projected onto 1:24000 USGS topographic maps and kelp canopy features were delineated. The maps include the topographic base, shorelines, watercourses, rocky intertidal zones, offshore rocks/islands, sand beaches, selected geographic place names, and DFG Administrative Kelp Bed Numbers. Details on Kelp Bed designations and harvest regulations are set forth in Title 14 California Code of Regulations, Section 165.5. Detailed methodology of kelp mapping is available from ECOSCAN. See contact information below. DFG scanned the original 24'x36', black and white paper maps into packbit-compressed tif images and georeferenced them to the above USGS base using a custom ARC/INFO application developed by ESRI. Scan resolution was 400 dpi. There are a total of 84 map images covering the coast of California. Image file names have a .tif extension and georeferencing data are contained in associated .tfw files. Detailed information about the scanning methodology is available from DFG. Intended uses of these maps include kelp harvest assessment, kelp bed lease management, and related biological applications. Kelp bed area statistics were compiled from this and previous surveys. Contact DFG.",
 	"license_title": null,
 	"extras": [{
 		"key": "responsible-party",
-		"value": "[{\"name\": \"\", \"roles\": [\"pointOfContact\"]}]"
+		"value": "[{"name": "", "roles": ["pointOfContact"]}]"
 	},
 	{
 		"key": "contact-email",
@@ -111,7 +111,7 @@
 	},
 	{
 		"key": "dataset-reference-date",
-		"value": "[{\"type\": \"publication\", \"value\": \"9999-01-01\"}]"
+		"value": "[{"type": "publication", "value": "9999-01-01"}]"
 	},
 	{
 		"key": "resource-type",
@@ -139,7 +139,7 @@
 	},
 	{
 		"key": "licence",
-		"value": "[\" \"]"
+		"value": "[" "]"
 	},
 	{
 		"key": "metadata_type",
@@ -151,7 +151,7 @@
 	},
 	{
 		"key": "spatial",
-		"value": "{\"type\": \"Polygon\", \"coordinates\": [[[-124.5, 32.6], [-117.5, 32.6], [-117.5, 42.0], [-124.5, 42.0], [-124.5, 32.6]]]}"
+		"value": "{"type": "Polygon", "coordinates": [[[-124.5, 32.6], [-117.5, 32.6], [-117.5, 42.0], [-124.5, 42.0], [-124.5, 32.6]]]}"
 	},
 	{
 		"key": "guid",
@@ -163,7 +163,7 @@
 	},
 	{
 		"key": "access_constraints",
-		"value": "[\"Use Constraints: none\", \"Access Constraints:\"]"
+		"value": "["Use Constraints: none", "Access Constraints:"]"
 	},
 	{
 		"key": "spatial_harvester",
@@ -205,7 +205,7 @@
 		"revision_timestamp": "2013-05-31T17:51:13.706377",
 		"is_organization": true,
 		"state": "active",
-		"image_url": "http:\/\/www.ca.gov\/images\/template2012\/header_ca.gov.png",
+		"image_url": "http://www.ca.gov/images/template2012/header_ca.gov.png",
 		"revision_id": "ad94cda4-9394-44d0-9c37-573dc3c47c9a",
 		"type": "organization",
 		"id": "467d900f-8a42-452d-9906-6610dd1a767f",

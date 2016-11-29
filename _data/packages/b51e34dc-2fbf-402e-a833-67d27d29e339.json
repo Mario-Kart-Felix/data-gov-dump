@@ -37,7 +37,7 @@
 		"cache_url": null,
 		"name": "Zip File",
 		"created": "2014-11-17T16:10:51.810335",
-		"url": "http:\/\/water.usgs.gov\/GIS\/dsdl\/ds680\/ds680_originaldata_V01.zip",
+		"url": "http://water.usgs.gov/GIS/dsdl/ds680/ds680_originaldata_V01.zip",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 0,
@@ -67,7 +67,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2014-11-17T16:10:51.810375",
-		"url": "http:\/\/water.usgs.gov\/lookup\/getspatial?ds680_originaldata",
+		"url": "http://water.usgs.gov/lookup/getspatial?ds680_originaldata",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 1,
@@ -87,7 +87,7 @@
 	"name": "original-vector-datasets-for-hawaii-streamstats",
 	"isopen": false,
 	"url": null,
-	"notes": "These datasets each consist of a folder containing a personal geodatabase of the NHD, and shapefiles used in the HydroDEM process. These files are provided as a means to document exactly which lines were used to develop the HydroDEMs. Each folder contains a line shapefile named for the 8-digit HUC code, containing the NHD flowlines that comprise the coastline for that island. The \u00e2\u0080\u009chydrolines.shp\u00e2\u0080\u009d shapefile contains the lines that were burned into the DEM. These lines were selected from the NHD flowlines, with some minor editing in places. The \u00e2\u0080\u009cwbpolys.shp\u00e2\u0080\u009d shapefile contains the water-body polygons that were selected from the NHD and used in the bathymetric gradient process. The folders for HUCs 20010000 (Hawaii) and 20020000 (Maui) also contain a \u00e2\u0080\u009cwalls.shp\u00e2\u0080\u009d shapefile, which contains the lines that were superimposed on the surface as \u00e2\u0080\u009cwalls.\u00e2\u0080\u009d",
+	"notes": "These datasets each consist of a folder containing a personal geodatabase of the NHD, and shapefiles used in the HydroDEM process. These files are provided as a means to document exactly which lines were used to develop the HydroDEMs. Each folder contains a line shapefile named for the 8-digit HUC code, containing the NHD flowlines that comprise the coastline for that island. The u00e2u0080u009chydrolines.shpu00e2u0080u009d shapefile contains the lines that were burned into the DEM. These lines were selected from the NHD flowlines, with some minor editing in places. The u00e2u0080u009cwbpolys.shpu00e2u0080u009d shapefile contains the water-body polygons that were selected from the NHD and used in the bathymetric gradient process. The folders for HUCs 20010000 (Hawaii) and 20020000 (Maui) also contain a u00e2u0080u009cwalls.shpu00e2u0080u009d shapefile, which contains the lines that were superimposed on the surface as u00e2u0080u009cwalls.u00e2u0080u009d",
 	"license_title": null,
 	"extras": [{
 		"key": "bbox-east-long",
@@ -115,7 +115,7 @@
 	},
 	{
 		"key": "graphic-preview-file",
-		"value": "http:\/\/water.usgs.gov\/GIS\/browse\/ds680_originaldata.jpg"
+		"value": "http://water.usgs.gov/GIS/browse/ds680_originaldata.jpg"
 	},
 	{
 		"key": "bbox-south-lat",
@@ -131,7 +131,7 @@
 	},
 	{
 		"key": "spatial",
-		"value": "{\"type\": \"Polygon\", \"coordinates\": [[[-159.789288, 18.893342], [-154.732099, 18.893342], [-154.732099, 22.233206], [-159.789288, 22.233206], [-159.789288, 18.893342]]]}"
+		"value": "{"type": "Polygon", "coordinates": [[[-159.789288, 18.893342], [-154.732099, 18.893342], [-154.732099, 22.233206], [-159.789288, 22.233206], [-159.789288, 18.893342]]]}"
 	},
 	{
 		"key": "progress",
@@ -139,7 +139,7 @@
 	},
 	{
 		"key": "access_constraints",
-		"value": "[\"Use Constraints: None\", \"Access Constraints: None\"]"
+		"value": "["Use Constraints: None", "Access Constraints: None"]"
 	},
 	{
 		"key": "contact-email",
@@ -155,7 +155,7 @@
 	},
 	{
 		"key": "dataset-reference-date",
-		"value": "[{\"type\": \"publication\", \"value\": \"2012-01-01\"}]"
+		"value": "[{"type": "publication", "value": "2012-01-01"}]"
 	},
 	{
 		"key": "graphic-preview-description",
@@ -167,7 +167,7 @@
 	},
 	{
 		"key": "licence",
-		"value": "[\"\\nAlthough these data have been used by the U.S.\\nGeological Survey, U.S. Department of the Interior, no warranty\\nexpressed or implied is made by the U.S. Geological Survey as to the\\naccuracy of the data. The act of distribution shall not constitute any\\nsuch warranty, and no responsibility is assumed by the U.S. Geological\\nSurvey in the use of these data, software, or related materials.  \\n\\nThe use of firm, trade, or brand names in this report is for\\nidentification purposes only and does not constitute endorsement by the\\nU.S. Geological Survey. The names mentioned in this document may be\\ntrademarks or registered trademarks of their respective trademark\\nowners.\\n\"]"
+		"value": "["\nAlthough these data have been used by the U.S.\nGeological Survey, U.S. Department of the Interior, no warranty\nexpressed or implied is made by the U.S. Geological Survey as to the\naccuracy of the data. The act of distribution shall not constitute any\nsuch warranty, and no responsibility is assumed by the U.S. Geological\nSurvey in the use of these data, software, or related materials.  \n\nThe use of firm, trade, or brand names in this report is for\nidentification purposes only and does not constitute endorsement by the\nU.S. Geological Survey. The names mentioned in this document may be\ntrademarks or registered trademarks of their respective trademark\nowners.\n"]"
 	},
 	{
 		"key": "metadata_type",
@@ -175,7 +175,7 @@
 	},
 	{
 		"key": "responsible-party",
-		"value": "[{\"name\": \"U.S. Geological Survey\", \"roles\": [\"pointOfContact\"]}]"
+		"value": "[{"name": "U.S. Geological Survey", "roles": ["pointOfContact"]}]"
 	},
 	{
 		"key": "spatial-data-service-type",
@@ -210,14 +210,14 @@
 		"value": "Water NSDI Node Spatial Datasets"
 	}],
 	"organization": {
-		"description": "http:\/\/www.usgs.gov\/\r\nThe USGS is a federal science agency that provides impartial information on the health of our ecosystems and environment, the natural hazards that threaten us, the natural resources we rely on, the impacts of climate and land-use change, and the core science systems that help us provide timely, relevant, and useable information.",
+		"description": "http://www.usgs.gov/rnThe USGS is a federal science agency that provides impartial information on the health of our ecosystems and environment, the natural hazards that threaten us, the natural resources we rely on, the impacts of climate and land-use change, and the core science systems that help us provide timely, relevant, and useable information.",
 		"created": "2013-03-14T03:44:38.263357",
 		"title": "U.S. Geological Survey, Department of the Interior",
 		"name": "usgs-gov",
 		"revision_timestamp": "2014-09-02T13:43:52.167023",
 		"is_organization": true,
 		"state": "active",
-		"image_url": "http:\/\/pubs.usgs.gov\/sir\/2004\/5296\/04-5296_confluence_park\/usgs_logo.gif",
+		"image_url": "http://pubs.usgs.gov/sir/2004/5296/04-5296_confluence_park/usgs_logo.gif",
 		"revision_id": "2858aa99-9501-4f96-82e5-9647b968ed66",
 		"type": "organization",
 		"id": "bd2cdd5a-4d65-46c0-9937-c8381175f104",

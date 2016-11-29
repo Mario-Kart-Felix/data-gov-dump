@@ -37,7 +37,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2015-04-25T08:18:55.117688",
-		"url": "http:\/\/Server=GISSQL; Service=sde:sqlserver:gissql; Database=GEOVECTOR; User=metadataadm; Version=sde.DEFAULT",
+		"url": "http://Server=GISSQL; Service=sde:sqlserver:gissql; Database=GEOVECTOR; User=metadataadm; Version=sde.DEFAULT",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 0,
@@ -101,7 +101,7 @@
 	},
 	{
 		"key": "spatial",
-		"value": "{\"type\": \"Polygon\", \"coordinates\": [[[-119.313142, 35.229614], [-118.673816, 35.229614], [-118.673816, 35.521144], [-119.313142, 35.521144], [-119.313142, 35.229614]]]}"
+		"value": "{"type": "Polygon", "coordinates": [[[-119.313142, 35.229614], [-118.673816, 35.229614], [-118.673816, 35.521144], [-119.313142, 35.521144], [-119.313142, 35.229614]]]}"
 	},
 	{
 		"key": "progress",
@@ -109,7 +109,7 @@
 	},
 	{
 		"key": "access_constraints",
-		"value": "[\"Use Constraints: Visual aid only. Please see official documentation prior to project commencement.\", \"Access Constraints: none\"]"
+		"value": "["Use Constraints: Visual aid only. Please see official documentation prior to project commencement.", "Access Constraints: none"]"
 	},
 	{
 		"key": "contact-email",
@@ -125,7 +125,7 @@
 	},
 	{
 		"key": "dataset-reference-date",
-		"value": "[{\"type\": \"publication\", \"value\": \"NaN-20-07\"}]"
+		"value": "[{"type": "publication", "value": "NaN-20-07"}]"
 	},
 	{
 		"key": "frequency-of-update",
@@ -133,7 +133,7 @@
 	},
 	{
 		"key": "licence",
-		"value": "[\"I. Disclaimer of  Liability and Warranties\\n\\tA. You understand and agree that it is possible that errors\\n\\tand omissions will occur in data input or\\n\\tprogramming done by The City of Bakersfield to provide the\\n\\tdata in the supplied format. You further understand\\n\\tand agree that it is probable that errors and omissions will\\n\\toccur in the record keeping process, especially when\\n\\tlarge number of records are developed and maintained,\\n\\tand that data may not meet your standards as to\\n\\taccuracy or completeness. Notwithstanding, you agree to\\n\\ttake the data \\\"as is\\\", fully expecting that there may be\\n\\terrors and omissions associated with the data.\\n\\n\\tB. You further understands and agree that The City of\\n\\tBakersfield makes absolutely no warranty whatsoever,\\n\\twhether expressed or implied, as to the accuracy,\\n\\tthoroughness, value, quality, validity, merchantability,\\n\\tsuitability, condition or fitness for a particular purpose of the\\n\\tdata or any programming used to obtain the data,\\n\\tnor as to whether the data are error-free, up-to-date,\\n\\tcomplete or based upon accurate or meaningful facts.\\n\\n\\tC. You further understand and agree that you forever\\n\\twaiver any and all rights, claims, causes of action or other\\n\\trecourse that you might otherwise have against The City of\\n\\tBakersfield for any injuries or damages of any type,\\n\\twhether direct, indirect, incidental, consequential or\\n\\totherwise, resulting from any error or omission in the data or\\n\\tin any programming used to obtain the data, or in any\\n\\tmanner arising out of or related to the data retrieved\\n\\thereunder. You agree that The City of Bakersfield shall not\\n\\tbe liable to you for any liability, claim, loss, damage,\\n\\tinjury or expense of any kind caused or alleged to be\\n\\tcaused, directly or indirectly, by the inadequacy of data\\n\\tobtained from The City of Bakersfield, by any deficiency of\\n\\tThe City of Bakersfield or your systems, by any delay\\n\\tor failure to provide service, or by any other interruption,\\n\\tdisruption or loss to your operations.\\n\\nII. Indemnification\\nYou agree not to provide a copy or partial copy of any data\\nto any other party, including consultants under\\ncontract with you, without disclosing that the copy or partial\\ncopy was obtained from The City of Bakersfield and\\nwithout attaching a duplicate of these Terms and\\nConditions.\"]"
+		"value": "["I. Disclaimer of  Liability and Warranties\n\tA. You understand and agree that it is possible that errors\n\tand omissions will occur in data input or\n\tprogramming done by The City of Bakersfield to provide the\n\tdata in the supplied format. You further understand\n\tand agree that it is probable that errors and omissions will\n\toccur in the record keeping process, especially when\n\tlarge number of records are developed and maintained,\n\tand that data may not meet your standards as to\n\taccuracy or completeness. Notwithstanding, you agree to\n\ttake the data \"as is\", fully expecting that there may be\n\terrors and omissions associated with the data.\n\n\tB. You further understands and agree that The City of\n\tBakersfield makes absolutely no warranty whatsoever,\n\twhether expressed or implied, as to the accuracy,\n\tthoroughness, value, quality, validity, merchantability,\n\tsuitability, condition or fitness for a particular purpose of the\n\tdata or any programming used to obtain the data,\n\tnor as to whether the data are error-free, up-to-date,\n\tcomplete or based upon accurate or meaningful facts.\n\n\tC. You further understand and agree that you forever\n\twaiver any and all rights, claims, causes of action or other\n\trecourse that you might otherwise have against The City of\n\tBakersfield for any injuries or damages of any type,\n\twhether direct, indirect, incidental, consequential or\n\totherwise, resulting from any error or omission in the data or\n\tin any programming used to obtain the data, or in any\n\tmanner arising out of or related to the data retrieved\n\thereunder. You agree that The City of Bakersfield shall not\n\tbe liable to you for any liability, claim, loss, damage,\n\tinjury or expense of any kind caused or alleged to be\n\tcaused, directly or indirectly, by the inadequacy of data\n\tobtained from The City of Bakersfield, by any deficiency of\n\tThe City of Bakersfield or your systems, by any delay\n\tor failure to provide service, or by any other interruption,\n\tdisruption or loss to your operations.\n\nII. Indemnification\nYou agree not to provide a copy or partial copy of any data\nto any other party, including consultants under\ncontract with you, without disclosing that the copy or partial\ncopy was obtained from The City of Bakersfield and\nwithout attaching a duplicate of these Terms and\nConditions."]"
 	},
 	{
 		"key": "metadata_type",
@@ -141,7 +141,7 @@
 	},
 	{
 		"key": "responsible-party",
-		"value": "[{\"name\": \"City of Bakersfield - IT\/GIS\", \"roles\": [\"pointOfContact\"]}]"
+		"value": "[{"name": "City of Bakersfield - IT/GIS", "roles": ["pointOfContact"]}]"
 	},
 	{
 		"key": "spatial-data-service-type",
@@ -183,7 +183,7 @@
 		"revision_timestamp": "2013-05-31T17:51:13.706377",
 		"is_organization": true,
 		"state": "active",
-		"image_url": "http:\/\/www.ca.gov\/images\/template2012\/header_ca.gov.png",
+		"image_url": "http://www.ca.gov/images/template2012/header_ca.gov.png",
 		"revision_id": "ad94cda4-9394-44d0-9c37-573dc3c47c9a",
 		"type": "organization",
 		"id": "467d900f-8a42-452d-9906-6610dd1a767f",

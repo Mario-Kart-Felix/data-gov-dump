@@ -37,7 +37,7 @@
 		"cache_url": null,
 		"name": "Zip File",
 		"created": "2016-09-09T19:01:58.708525",
-		"url": "ftp:\/\/ftp.dfg.ca.gov\/BDB\/GIS\/BIOS\/Public_Datasets\/900_999\/ds981.zip",
+		"url": "ftp://ftp.dfg.ca.gov/BDB/GIS/BIOS/Public_Datasets/900_999/ds981.zip",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 0,
@@ -67,7 +67,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2016-09-09T19:01:58.708570",
-		"url": "http:\/\/bios.dfg.ca.gov\/",
+		"url": "http://bios.dfg.ca.gov/",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 1,
@@ -91,7 +91,7 @@
 	"license_title": null,
 	"extras": [{
 		"key": "responsible-party",
-		"value": "[{\"name\": \"NOAA Fisheries\", \"roles\": [\"pointOfContact\"]}]"
+		"value": "[{"name": "NOAA Fisheries", "roles": ["pointOfContact"]}]"
 	},
 	{
 		"key": "contact-email",
@@ -111,7 +111,7 @@
 	},
 	{
 		"key": "dataset-reference-date",
-		"value": "[{\"type\": \"publication\", \"value\": \"2014-01-09\"}]"
+		"value": "[{"type": "publication", "value": "2014-01-09"}]"
 	},
 	{
 		"key": "resource-type",
@@ -139,7 +139,7 @@
 	},
 	{
 		"key": "licence",
-		"value": "[\"No warranty, expressed or implied is made and no liability is assumed by NOAA Fisheries as to the positional or attribute accuracy of the data. The act of distribution shall not constitute any such warranty and no responsibility is assumed by the U.S. Government in the use of these files.\"]"
+		"value": "["No warranty, expressed or implied is made and no liability is assumed by NOAA Fisheries as to the positional or attribute accuracy of the data. The act of distribution shall not constitute any such warranty and no responsibility is assumed by the U.S. Government in the use of these files."]"
 	},
 	{
 		"key": "metadata_type",
@@ -151,7 +151,7 @@
 	},
 	{
 		"key": "spatial",
-		"value": "{\"type\": \"Polygon\", \"coordinates\": [[[-124.44758, 38.390035], [-122.67654, 38.390035], [-122.67654, 41.457749], [-124.44758, 41.457749], [-124.44758, 38.390035]]]}"
+		"value": "{"type": "Polygon", "coordinates": [[[-124.44758, 38.390035], [-122.67654, 38.390035], [-122.67654, 41.457749], [-124.44758, 41.457749], [-124.44758, 38.390035]]]}"
 	},
 	{
 		"key": "guid",
@@ -163,7 +163,7 @@
 	},
 	{
 		"key": "access_constraints",
-		"value": "[\"Use Constraints: No warranty, expressed or implied is made and no liability is assumed by NOAA Fisheries as to the positional or attribute accuracy of the data. The act of distribution shall not constitute any such warranty and no responsibility is assumed by the U.S. Government in the use of these files.\", \"Access Constraints: None\"]"
+		"value": "["Use Constraints: No warranty, expressed or implied is made and no liability is assumed by NOAA Fisheries as to the positional or attribute accuracy of the data. The act of distribution shall not constitute any such warranty and no responsibility is assumed by the U.S. Government in the use of these files.", "Access Constraints: None"]"
 	},
 	{
 		"key": "spatial_harvester",
@@ -205,7 +205,7 @@
 		"revision_timestamp": "2013-05-31T17:51:13.706377",
 		"is_organization": true,
 		"state": "active",
-		"image_url": "http:\/\/www.ca.gov\/images\/template2012\/header_ca.gov.png",
+		"image_url": "http://www.ca.gov/images/template2012/header_ca.gov.png",
 		"revision_id": "ad94cda4-9394-44d0-9c37-573dc3c47c9a",
 		"type": "organization",
 		"id": "467d900f-8a42-452d-9906-6610dd1a767f",

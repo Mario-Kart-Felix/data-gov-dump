@@ -36,7 +36,7 @@
 		"cache_url": null,
 		"name": "Service Description",
 		"created": "2013-03-16T01:20:16.827752",
-		"url": "http:\/\/web2.nbmg.unr.edu\/ArcGIS\/rest\/services\/WY_data\/WYBoreholeTemperatures\/MapServer",
+		"url": "http://web2.nbmg.unr.edu/ArcGIS/rest/services/WY_data/WYBoreholeTemperatures/MapServer",
 		"webstore_url": null,
 		"resource_locator_function": "381",
 		"position": 0,
@@ -65,7 +65,7 @@
 		"cache_url": null,
 		"name": "Downloadable File",
 		"created": "2013-03-16T01:20:16.827771",
-		"url": "http:\/\/web2.nbmg.unr.edu\/ArcGIS\/services\/WY_data\/WYBoreholeTemperatures\/MapServer\/WMSServer?request=GetCapabilities&service=WMS",
+		"url": "http://web2.nbmg.unr.edu/ArcGIS/services/WY_data/WYBoreholeTemperatures/MapServer/WMSServer?request=GetCapabilities&service=WMS",
 		"webstore_url": null,
 		"resource_locator_function": "375",
 		"position": 1,
@@ -94,7 +94,7 @@
 		"cache_url": null,
 		"name": "Service Description",
 		"created": "2013-03-16T01:20:16.827777",
-		"url": "http:\/\/web2.nbmg.unr.edu\/ArcGIS\/services\/WY_data\/WYBoreholeTemperatures\/MapServer\/WFSServer?request=GetCapabilities&service=WFS",
+		"url": "http://web2.nbmg.unr.edu/ArcGIS/services/WY_data/WYBoreholeTemperatures/MapServer/WFSServer?request=GetCapabilities&service=WFS",
 		"webstore_url": null,
 		"resource_locator_function": "381",
 		"position": 2,
@@ -127,11 +127,11 @@
 	"name": "wyoming-borehole-temperature-observations",
 	"isopen": false,
 	"url": null,
-	"notes": "This dataset contains borehole temperature observation data compiled by the Wyoming Geological Survey, and published as a Web feature service for the National Geothermal Data System. This dataset includes data from both year 1 and year 3 submissions, from both the Wyoming Geological Survey and data from an AAPG publication compiled by Richard W. Davis.  See author information (below) for details.  Fields in the Borehole Temperature Observation Content Model will become XML elements in interchange documents for WMS simple features provided by a node in the USGIN network. Each feature includes a label, drilled depth (if available), measured temperature and source. The dataset is spatially referenced to EPSG: 4326 (for interoperability). The data contained in the submitted dataset is available as an Excel Spreadsheet, ESRI service, WMS and WFS service. Link to Borehole Temperature Observation Content Model: <html>http:\/\/stategeothermaldata.org\/data_delivery\/content_models\/borehole_temperature_observation<html>.",
+	"notes": "This dataset contains borehole temperature observation data compiled by the Wyoming Geological Survey, and published as a Web feature service for the National Geothermal Data System. This dataset includes data from both year 1 and year 3 submissions, from both the Wyoming Geological Survey and data from an AAPG publication compiled by Richard W. Davis.  See author information (below) for details.  Fields in the Borehole Temperature Observation Content Model will become XML elements in interchange documents for WMS simple features provided by a node in the USGIN network. Each feature includes a label, drilled depth (if available), measured temperature and source. The dataset is spatially referenced to EPSG: 4326 (for interoperability). The data contained in the submitted dataset is available as an Excel Spreadsheet, ESRI service, WMS and WFS service. Link to Borehole Temperature Observation Content Model: <html>http://stategeothermaldata.org/data_delivery/content_models/borehole_temperature_observation<html>.",
 	"license_title": null,
 	"extras": [{
 		"key": "responsible-party",
-		"value": "[{\"name\": \"Arizona Geological Survey\", \"roles\": [\"pointOfContact\"]}]"
+		"value": "[{"name": "Arizona Geological Survey", "roles": ["pointOfContact"]}]"
 	},
 	{
 		"key": "contact-email",
@@ -151,7 +151,7 @@
 	},
 	{
 		"key": "dataset-reference-date",
-		"value": "[{\"type\": \"publication\", \"value\": \"2013-02-28T00:00:00\"}]"
+		"value": "[{"type": "publication", "value": "2013-02-28T00:00:00"}]"
 	},
 	{
 		"key": "resource-type",
@@ -187,7 +187,7 @@
 	},
 	{
 		"key": "spatial",
-		"value": "{\"type\": \"Polygon\", \"coordinates\": [[[-111.533203125, 41.013065787], [-111.533203125, 45.0580014354], [-104.106445312, 45.0580014354], [-104.106445312, 41.013065787], [-111.533203125, 41.013065787]]]}"
+		"value": "{"type": "Polygon", "coordinates": [[[-111.533203125, 41.013065787], [-111.533203125, 45.0580014354], [-104.106445312, 45.0580014354], [-104.106445312, 41.013065787], [-111.533203125, 41.013065787]]]}"
 	},
 	{
 		"key": "guid",
@@ -237,7 +237,7 @@
 		"revision_timestamp": "2013-03-20T21:11:17.592932",
 		"is_organization": true,
 		"state": "active",
-		"image_url": "http:\/\/www.50states.com\/flag\/image\/nunst004.gif",
+		"image_url": "http://www.50states.com/flag/image/nunst004.gif",
 		"revision_id": "61be6428-4398-4199-a336-f3cd1e956f9b",
 		"type": "organization",
 		"id": "f3f6e1d4-64fb-4a2f-b32c-9ac0b76fe4de",

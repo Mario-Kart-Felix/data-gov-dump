@@ -36,7 +36,7 @@
 		"cache_url": null,
 		"name": "TIGERWeb",
 		"created": "2016-11-19T10:35:27.434109",
-		"url": "http:\/\/tigerweb.geo.census.gov\/tigerwebmain\/TIGERweb_main.html",
+		"url": "http://tigerweb.geo.census.gov/tigerwebmain/TIGERweb_main.html",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 0,
@@ -65,7 +65,7 @@
 		"cache_url": null,
 		"name": "OGC Web Mapping Service Information",
 		"created": "2016-11-19T10:35:27.434295",
-		"url": "http:\/\/www.opengeospatial.org\/",
+		"url": "http://www.opengeospatial.org/",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 1,
@@ -94,7 +94,7 @@
 		"cache_url": null,
 		"name": "GeoServices REST Specification Version 1.0 ",
 		"created": "2016-11-19T10:35:27.434306",
-		"url": "http:\/\/www.esri.com\/~\/media\/Files\/Pdfs\/library\/whitepapers\/pdfs\/geoservices-rest-spec.pdf",
+		"url": "http://www.esri.com/~/media/Files/Pdfs/library/whitepapers/pdfs/geoservices-rest-spec.pdf",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 2,
@@ -127,7 +127,7 @@
 	"name": "tigerweb-2014-series-information-for-the-tigerweb-files",
 	"isopen": false,
 	"url": null,
-	"notes": "TIGERweb allows the viewing of TIGER spatial data online and for TIGER\n          data to be streamed to your mapping application. TIGERweb consists of a web mapping service and a REST service.\n          \n          Thew web mapping service is an Open Geospatial Consortium (OGC) service that allows users to visualize our TIGER\n          (Topologically Integrated Geographic Encoding and Referencing database) data. This service consists of two\n          applications and eight services. The applications allow users to select features and view their attributes, to search\n          for features by name or geocode, and to identify features by selecting them from a map. The TIGERweb applications are a\n          simple way to view our TIGER data without having to download the data. The web Mapping services provide a simple HTTP\n          interface for requesting geo-registered map images from our geospatial database. It allows users to\n          produce maps containing TIGERweb layers with layers from other servers. TIGERWeb consists of\n          the following two applications and eight  services: \n          Applications: TIGERweb,  TIGERweb Decennial\n          Services: Current,  ACS15, ACS14, Census 2010 (for the TIGERweb application), Physical Features (for the TIGERweb application),\n          Census 2010 (for the TIGERweb Decennial application), Census 2000 and Physical Features (for the TIGERweb Decennial application)\n        \n          The REST service is a way for Web clients to communicate with geographic information system (GIS) servers through Representational\n          State Transfer (REST) technology. It allows users to interface with the REST server with structured URLs. The server responds with \n          map images, text-based geographic information, or other resources that satisfy the request. There are two groups of services: TIGERweb\n          and TIGERweb Decennial.  The following REST services are offered for both groups:\n          American Indian, Alaska Native, and Native Hawaiian Areas\n          Census Regions and Divisions\n          Census Tracts and Blocks\n          Hydrography \n          Labels\n          Legislative Areas \n          Metropolitan and Micropolitan Statistical Areas and Related Statistical Areas\n          Military and Other Special Land Use Areas\n          Places and County Subdivisions\n          PUMAs, UGAs and ZCTAs\n          School Districts\n          States and Counties\n          Transportation (Roads and Railroads)\n          Tribal Census Tracts and Block Groups\n          Urban Areas \n        ",
+	"notes": "TIGERweb allows the viewing of TIGER spatial data online and for TIGERn          data to be streamed to your mapping application. TIGERweb consists of a web mapping service and a REST service.n          n          Thew web mapping service is an Open Geospatial Consortium (OGC) service that allows users to visualize our TIGERn          (Topologically Integrated Geographic Encoding and Referencing database) data. This service consists of twon          applications and eight services. The applications allow users to select features and view their attributes, to searchn          for features by name or geocode, and to identify features by selecting them from a map. The TIGERweb applications are an          simple way to view our TIGER data without having to download the data. The web Mapping services provide a simple HTTPn          interface for requesting geo-registered map images from our geospatial database. It allows users ton          produce maps containing TIGERweb layers with layers from other servers. TIGERWeb consists ofn          the following two applications and eight  services: n          Applications: TIGERweb,  TIGERweb Decennialn          Services: Current,  ACS15, ACS14, Census 2010 (for the TIGERweb application), Physical Features (for the TIGERweb application),n          Census 2010 (for the TIGERweb Decennial application), Census 2000 and Physical Features (for the TIGERweb Decennial application)n        n          The REST service is a way for Web clients to communicate with geographic information system (GIS) servers through Representationaln          State Transfer (REST) technology. It allows users to interface with the REST server with structured URLs. The server responds with n          map images, text-based geographic information, or other resources that satisfy the request. There are two groups of services: TIGERwebn          and TIGERweb Decennial.  The following REST services are offered for both groups:n          American Indian, Alaska Native, and Native Hawaiian Areasn          Census Regions and Divisionsn          Census Tracts and Blocksn          Hydrography n          Labelsn          Legislative Areas n          Metropolitan and Micropolitan Statistical Areas and Related Statistical Areasn          Military and Other Special Land Use Areasn          Places and County Subdivisionsn          PUMAs, UGAs and ZCTAsn          School Districtsn          States and Countiesn          Transportation (Roads and Railroads)n          Tribal Census Tracts and Block Groupsn          Urban Areas n        ",
 	"license_title": null,
 	"extras": [{
 		"key": "bbox-east-long",
@@ -151,7 +151,7 @@
 	},
 	{
 		"key": "__category_tag_9a350fa9-bc49-43d4-8e77-270b9714976d",
-		"value": "[\"Pacific Islands\",\"Hawaii\",\"Education\",\"K-12\"]"
+		"value": "["Pacific Islands","Hawaii","Education","K-12"]"
 	},
 	{
 		"key": "guid",
@@ -171,7 +171,7 @@
 	},
 	{
 		"key": "spatial",
-		"value": "{\"type\": \"Polygon\", \"coordinates\": [[[-179.231086, -14.601813], [179.859681, -14.601813], [179.859681, 71.441059], [-179.231086, 71.441059], [-179.231086, -14.601813]]]}"
+		"value": "{"type": "Polygon", "coordinates": [[[-179.231086, -14.601813], [179.859681, -14.601813], [179.859681, 71.441059], [-179.231086, 71.441059], [-179.231086, -14.601813]]]}"
 	},
 	{
 		"key": "progress",
@@ -179,7 +179,7 @@
 	},
 	{
 		"key": "access_constraints",
-		"value": "[\"Access Constraints: None\", \"Distribution Liability: No warranty, expressed or implied is made\\n              with regard to the accuracy of these data, and no liability is assumed by the U.S.\\n              Government in general or the U.S. Census Bureau in specific as to the spatial or\\n              attribute accuracy of the data. The act of distribution shall not constitute any such\\n              warranty and no responsibility is assumed by the U.S. government in the use of these\\n              files. The boundary information in the TIGER\/Line Shapefiles is for statistical data\\n              collection and tabulation purposes only; their depiction and designation for\\n              statistical purposes do not constitute a determination of jurisdictional authority or\\n              rights of ownership or entitlement and they are not legal land\\n              descriptions.\"]"
+		"value": "["Access Constraints: None", "Distribution Liability: No warranty, expressed or implied is made\n              with regard to the accuracy of these data, and no liability is assumed by the U.S.\n              Government in general or the U.S. Census Bureau in specific as to the spatial or\n              attribute accuracy of the data. The act of distribution shall not constitute any such\n              warranty and no responsibility is assumed by the U.S. government in the use of these\n              files. The boundary information in the TIGER/Line Shapefiles is for statistical data\n              collection and tabulation purposes only; their depiction and designation for\n              statistical purposes do not constitute a determination of jurisdictional authority or\n              rights of ownership or entitlement and they are not legal land\n              descriptions."]"
 	},
 	{
 		"key": "temporal-extent-begin",
@@ -199,7 +199,7 @@
 	},
 	{
 		"key": "dataset-reference-date",
-		"value": "[{\"type\": \"publication\", \"value\": \"2013\"}]"
+		"value": "[{"type": "publication", "value": "2013"}]"
 	},
 	{
 		"key": "frequency-of-update",
@@ -257,7 +257,7 @@
 		"revision_timestamp": "2013-08-29T13:37:04.171127",
 		"is_organization": true,
 		"state": "active",
-		"image_url": "http:\/\/www.census.gov\/main\/img\/home\/CensusLogo-white.png",
+		"image_url": "http://www.census.gov/main/img/home/CensusLogo-white.png",
 		"revision_id": "0995f525-d563-4254-a535-af5b926fe663",
 		"type": "organization",
 		"id": "31c49abe-512a-412a-9cc7-5b2601325d6b",

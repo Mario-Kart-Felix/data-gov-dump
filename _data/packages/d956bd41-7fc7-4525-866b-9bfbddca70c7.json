@@ -36,7 +36,7 @@
 		"cache_url": null,
 		"name": "ArcGIS Shapefile",
 		"created": "2016-10-05T05:44:22.017973",
-		"url": "http:\/\/coastal.er.usgs.gov\/data-release\/doi-F76T0JR7\/data\/New_Jersey_1971_78_Digitized_Shoreline.zip",
+		"url": "http://coastal.er.usgs.gov/data-release/doi-F76T0JR7/data/New_Jersey_1971_78_Digitized_Shoreline.zip",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 0,
@@ -66,7 +66,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2016-10-05T05:44:22.018029",
-		"url": "http:\/\/coastal.er.usgs.gov\/data-release\/doi-F76T0JR7",
+		"url": "http://coastal.er.usgs.gov/data-release/doi-F76T0JR7",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 1,
@@ -86,7 +86,7 @@
 	"name": "historical-shoreline-for-new-jersey-1971-to-1978-vector-digital-data",
 	"isopen": false,
 	"url": null,
-	"notes": "New_Jersey_1971_78_Digitized_Shoreline.zip features a digitized historic shoreline for the New Jersey coastline (Point Pleasant, NJ to Longport, NJ) from 1971 to 1978. Imagery of the New Jersey coastline was acquired from the New Jersey Geographic Information Network (NJGIN) as two images: \u201c1970 NJDEP Wetlands Basemap\u201d (1971-78) and the \u201c1977 Tidelands Basemaps\u201d (1977-78). These images are available as a web mapping service (WMS) through the NJGIN website (https:\/\/njgin.state.nj.us\/NJ_NJGINExplorer\/jviewer.jsp?pg=wms_instruct). To reduce digitizing error, the imagery was acquired on a hard drive from the NJGIN via personal communication. Using ArcMap 10.3.1, the \"1970 NJDEP Wetlands Basemap\" was used to delineate and digitize historical foreshore, backshore, mainland, and island shoreline positions, with the \u201c1977 Tidelands Basemaps\u201d being used to fill in missing shorelines and clarify areas of uncertainty from the 1970s imagery. These shorelines were digitized for use in long-term shoreline and wetland analyses for Hurricane Sandy wetland physical change assessment.",
+	"notes": "New_Jersey_1971_78_Digitized_Shoreline.zip features a digitized historic shoreline for the New Jersey coastline (Point Pleasant, NJ to Longport, NJ) from 1971 to 1978. Imagery of the New Jersey coastline was acquired from the New Jersey Geographic Information Network (NJGIN) as two images: u201c1970 NJDEP Wetlands Basemapu201d (1971-78) and the u201c1977 Tidelands Basemapsu201d (1977-78). These images are available as a web mapping service (WMS) through the NJGIN website (https://njgin.state.nj.us/NJ_NJGINExplorer/jviewer.jsp?pg=wms_instruct). To reduce digitizing error, the imagery was acquired on a hard drive from the NJGIN via personal communication. Using ArcMap 10.3.1, the "1970 NJDEP Wetlands Basemap" was used to delineate and digitize historical foreshore, backshore, mainland, and island shoreline positions, with the u201c1977 Tidelands Basemapsu201d being used to fill in missing shorelines and clarify areas of uncertainty from the 1970s imagery. These shorelines were digitized for use in long-term shoreline and wetland analyses for Hurricane Sandy wetland physical change assessment.",
 	"license_title": null,
 	"extras": [{
 		"key": "bbox-east-long",
@@ -122,7 +122,7 @@
 	},
 	{
 		"key": "spatial",
-		"value": "{\"type\": \"Polygon\", \"coordinates\": [[[-74.577325105, 39.299815615], [-74.041075153, 39.299815615], [-74.041075153, 40.081196268], [-74.577325105, 40.081196268], [-74.577325105, 39.299815615]]]}"
+		"value": "{"type": "Polygon", "coordinates": [[[-74.577325105, 39.299815615], [-74.041075153, 39.299815615], [-74.041075153, 40.081196268], [-74.577325105, 40.081196268], [-74.577325105, 39.299815615]]]}"
 	},
 	{
 		"key": "progress",
@@ -130,7 +130,7 @@
 	},
 	{
 		"key": "access_constraints",
-		"value": "[\"Use Constraints: The U.S. Geological Survey requests to be acknowledged as originator of the data in future products or derivative research.\", \"Access Constraints: None\"]"
+		"value": "["Use Constraints: The U.S. Geological Survey requests to be acknowledged as originator of the data in future products or derivative research.", "Access Constraints: None"]"
 	},
 	{
 		"key": "temporal-extent-begin",
@@ -150,7 +150,7 @@
 	},
 	{
 		"key": "dataset-reference-date",
-		"value": "[{\"type\": \"publication\", \"value\": \"2016-09-08\"}]"
+		"value": "[{"type": "publication", "value": "2016-09-08"}]"
 	},
 	{
 		"key": "frequency-of-update",
@@ -158,7 +158,7 @@
 	},
 	{
 		"key": "licence",
-		"value": "[\"This digital publication was prepared by an agency of the United States Government. Although these data have been processed successfully on a computer system at the U.S. Geological Survey, no warranty expressed or implied is made regarding the display or utility of the data on any other system, nor shall the act of distribution imply any such warranty. The U.S. Geological Survey shall not be held liable for improper or incorrect use of the data described and (or) contained herein. Reference herein to any specific commercial product, process, or service by trade name, trademark, manufacturer, or otherwise does not constitute or imply its endorsement, recommendation, or favoring by the United States Government or any agency thereof.\"]"
+		"value": "["This digital publication was prepared by an agency of the United States Government. Although these data have been processed successfully on a computer system at the U.S. Geological Survey, no warranty expressed or implied is made regarding the display or utility of the data on any other system, nor shall the act of distribution imply any such warranty. The U.S. Geological Survey shall not be held liable for improper or incorrect use of the data described and (or) contained herein. Reference herein to any specific commercial product, process, or service by trade name, trademark, manufacturer, or otherwise does not constitute or imply its endorsement, recommendation, or favoring by the United States Government or any agency thereof."]"
 	},
 	{
 		"key": "metadata_type",
@@ -166,7 +166,7 @@
 	},
 	{
 		"key": "responsible-party",
-		"value": "[{\"name\": \"U.S. Geological Survey Coastal and Marine Science Center\", \"roles\": [\"pointOfContact\"]}]"
+		"value": "[{"name": "U.S. Geological Survey Coastal and Marine Science Center", "roles": ["pointOfContact"]}]"
 	},
 	{
 		"key": "temporal-extent-end",
@@ -205,14 +205,14 @@
 		"value": "USGS Coastal and Marine Geoscience Data System"
 	}],
 	"organization": {
-		"description": "http:\/\/www.usgs.gov\/\r\nThe USGS is a federal science agency that provides impartial information on the health of our ecosystems and environment, the natural hazards that threaten us, the natural resources we rely on, the impacts of climate and land-use change, and the core science systems that help us provide timely, relevant, and useable information.",
+		"description": "http://www.usgs.gov/rnThe USGS is a federal science agency that provides impartial information on the health of our ecosystems and environment, the natural hazards that threaten us, the natural resources we rely on, the impacts of climate and land-use change, and the core science systems that help us provide timely, relevant, and useable information.",
 		"created": "2013-03-14T03:44:38.263357",
 		"title": "U.S. Geological Survey, Department of the Interior",
 		"name": "usgs-gov",
 		"revision_timestamp": "2014-09-02T13:43:52.167023",
 		"is_organization": true,
 		"state": "active",
-		"image_url": "http:\/\/pubs.usgs.gov\/sir\/2004\/5296\/04-5296_confluence_park\/usgs_logo.gif",
+		"image_url": "http://pubs.usgs.gov/sir/2004/5296/04-5296_confluence_park/usgs_logo.gif",
 		"revision_id": "2858aa99-9501-4f96-82e5-9647b968ed66",
 		"type": "organization",
 		"id": "bd2cdd5a-4d65-46c0-9937-c8381175f104",

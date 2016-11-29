@@ -36,7 +36,7 @@
 		"cache_url": null,
 		"name": "ESRI Shapefile (.shp)",
 		"created": "2016-07-15T21:34:46.790710",
-		"url": "ftp:\/\/ftp.co.nezperce.id.us\/gis\/data\/npc_structures.zip",
+		"url": "ftp://ftp.co.nezperce.id.us/gis/data/npc_structures.zip",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 0,
@@ -66,7 +66,7 @@
 		"cache_url": null,
 		"name": "Zip File",
 		"created": "2016-07-15T21:34:46.790730",
-		"url": "ftp:\/\/ftp.co.nezperce.id.us\/gis\/data\/npc_structures.zip",
+		"url": "ftp://ftp.co.nezperce.id.us/gis/data/npc_structures.zip",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 1,
@@ -90,7 +90,7 @@
 	"license_title": null,
 	"extras": [{
 		"key": "responsible-party",
-		"value": "[{\"name\": \"Nez Perce County GIS\", \"roles\": [\"pointOfContact\"]}]"
+		"value": "[{"name": "Nez Perce County GIS", "roles": ["pointOfContact"]}]"
 	},
 	{
 		"key": "contact-email",
@@ -102,7 +102,7 @@
 	},
 	{
 		"key": "bbox-west-long",
-		"value": "\n-117.063810"
+		"value": "n-117.063810"
 	},
 	{
 		"key": "metadata-date",
@@ -110,7 +110,7 @@
 	},
 	{
 		"key": "dataset-reference-date",
-		"value": "[{\"type\": \"publication\", \"value\": \"2012-04-12\"}]"
+		"value": "[{"type": "publication", "value": "2012-04-12"}]"
 	},
 	{
 		"key": "resource-type",
@@ -118,7 +118,7 @@
 	},
 	{
 		"key": "bbox-east-long",
-		"value": "\n-116.328456"
+		"value": "n-116.328456"
 	},
 	{
 		"key": "spatial-reference-system",
@@ -126,7 +126,7 @@
 	},
 	{
 		"key": "bbox-north-lat",
-		"value": "\n46.630169"
+		"value": "n46.630169"
 	},
 	{
 		"key": "coupled-resource",
@@ -134,11 +134,11 @@
 	},
 	{
 		"key": "bbox-south-lat",
-		"value": "\n45.899261"
+		"value": "n45.899261"
 	},
 	{
 		"key": "licence",
-		"value": "[\"Although these data have been processed successfully on a computer system at Nez Perce County, Idaho, no warranty, expressed or implied, is made regarding the utility of the data on any other system, nor shall the act of distribution constitute any such warranty.\"]"
+		"value": "["Although these data have been processed successfully on a computer system at Nez Perce County, Idaho, no warranty, expressed or implied, is made regarding the utility of the data on any other system, nor shall the act of distribution constitute any such warranty."]"
 	},
 	{
 		"key": "metadata_type",
@@ -150,7 +150,7 @@
 	},
 	{
 		"key": "spatial",
-		"value": "{\"type\": \"Polygon\", \"coordinates\": [[[-117.06381, 45.899261], [-116.328456, 45.899261], [-116.328456, 46.630169], [-117.06381, 46.630169], [-117.06381, 45.899261]]]}"
+		"value": "{"type": "Polygon", "coordinates": [[[-117.06381, 45.899261], [-116.328456, 45.899261], [-116.328456, 46.630169], [-117.06381, 46.630169], [-117.06381, 45.899261]]]}"
 	},
 	{
 		"key": "guid",
@@ -162,7 +162,7 @@
 	},
 	{
 		"key": "access_constraints",
-		"value": "[\"Use Constraints: Public data, no restrictions on use.\", \"Access Constraints: Public data, no restrictions on use.\"]"
+		"value": "["Use Constraints: Public data, no restrictions on use.", "Access Constraints: Public data, no restrictions on use."]"
 	},
 	{
 		"key": "spatial_harvester",
@@ -204,7 +204,7 @@
 		"revision_timestamp": "2015-01-16T18:28:14.593903",
 		"is_organization": true,
 		"state": "active",
-		"image_url": "http:\/\/upload.wikimedia.org\/wikipedia\/en\/thumb\/4\/44\/University_of_Idaho_seal.svg\/300px-University_of_Idaho_seal.svg.png",
+		"image_url": "http://upload.wikimedia.org/wikipedia/en/thumb/4/44/University_of_Idaho_seal.svg/300px-University_of_Idaho_seal.svg.png",
 		"revision_id": "761955d7-9530-4622-8609-d0b01c78e177",
 		"type": "organization",
 		"id": "75e22a8a-da5f-46f3-93d8-924063a3703d",

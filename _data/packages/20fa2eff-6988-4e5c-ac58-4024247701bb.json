@@ -37,7 +37,7 @@
 		"cache_url": null,
 		"name": "Zip File",
 		"created": "2016-10-19T16:52:59.560629",
-		"url": "ftp:\/\/ftp.soest.hawaii.edu\/pibhmc\/website\/data\/nwhi\/backscatter\/mid\/mid_8101.zip",
+		"url": "ftp://ftp.soest.hawaii.edu/pibhmc/website/data/nwhi/backscatter/mid/mid_8101.zip",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 0,
@@ -67,7 +67,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2016-10-19T16:52:59.560654",
-		"url": "http:\/\/www.soest.hawaii.edu\/pibhmc\/pibhmc_nwhi_mid_backscat.htm",
+		"url": "http://www.soest.hawaii.edu/pibhmc/pibhmc_nwhi_mid_backscat.htm",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 1,
@@ -97,7 +97,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2016-10-19T16:52:59.560662",
-		"url": "http:\/\/www.soest.hawaii.edu\/pibhmc",
+		"url": "http://www.soest.hawaii.edu/pibhmc",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 2,
@@ -121,7 +121,7 @@
 	"license_title": null,
 	"extras": [{
 		"key": "bbox-east-long",
-		"value": "\n          -177.251943\n        "
+		"value": "n          -177.251943n        "
 	},
 	{
 		"key": "resource-type",
@@ -129,7 +129,7 @@
 	},
 	{
 		"key": "bbox-north-lat",
-		"value": "\n          28.345964\n        "
+		"value": "n          28.345964n        "
 	},
 	{
 		"key": "coupled-resource",
@@ -145,7 +145,7 @@
 	},
 	{
 		"key": "graphic-preview-file",
-		"value": "http:\/\/www.soest.hawaii.edu\/pibhmc\/NWHI_images\/Midway_Backscatter1m_445.jpg"
+		"value": "http://www.soest.hawaii.edu/pibhmc/NWHI_images/Midway_Backscatter1m_445.jpg"
 	},
 	{
 		"key": "metadata-language",
@@ -161,7 +161,7 @@
 	},
 	{
 		"key": "spatial",
-		"value": "{\"type\": \"Polygon\", \"coordinates\": [[[-177.50213, 28.15762], [-177.251943, 28.15762], [-177.251943, 28.345964], [-177.50213, 28.345964], [-177.50213, 28.15762]]]}"
+		"value": "{"type": "Polygon", "coordinates": [[[-177.50213, 28.15762], [-177.251943, 28.15762], [-177.251943, 28.345964], [-177.50213, 28.345964], [-177.50213, 28.15762]]]}"
 	},
 	{
 		"key": "progress",
@@ -169,7 +169,7 @@
 	},
 	{
 		"key": "access_constraints",
-		"value": "[\"Use Constraints: These data are not to be used for navigation purposes. Please acknowledge NOAA and the Joint Institute for Marine and Atmospheric Research, University of Hawaii as the sources of this information.\", \"Access Constraints: None\"]"
+		"value": "["Use Constraints: These data are not to be used for navigation purposes. Please acknowledge NOAA and the Joint Institute for Marine and Atmospheric Research, University of Hawaii as the sources of this information.", "Access Constraints: None"]"
 	},
 	{
 		"key": "temporal-extent-begin",
@@ -181,7 +181,7 @@
 	},
 	{
 		"key": "bbox-west-long",
-		"value": "\n          -177.502130\n        "
+		"value": "n          -177.502130n        "
 	},
 	{
 		"key": "metadata-date",
@@ -189,7 +189,7 @@
 	},
 	{
 		"key": "dataset-reference-date",
-		"value": "[{\"type\": \"publication\", \"value\": \"2011-12-21\"}]"
+		"value": "[{"type": "publication", "value": "2011-12-21"}]"
 	},
 	{
 		"key": "graphic-preview-description",
@@ -201,7 +201,7 @@
 	},
 	{
 		"key": "licence",
-		"value": "[\"\\n      These data are not to be used for navigational purposes. NOAA\\nmakes no warranty regarding these data, expressed or implied,\\nnor does the fact of distribution constitute such a warranty.\\nNOAA cannot assume liability for any damages caused by any\\nerrors or omissions in these data, nor as a result of the\\nfailure of these\\ndata to function on a particular system.\\n    \"]"
+		"value": "["\n      These data are not to be used for navigational purposes. NOAA\nmakes no warranty regarding these data, expressed or implied,\nnor does the fact of distribution constitute such a warranty.\nNOAA cannot assume liability for any damages caused by any\nerrors or omissions in these data, nor as a result of the\nfailure of these\ndata to function on a particular system.\n    "]"
 	},
 	{
 		"key": "metadata_type",
@@ -209,7 +209,7 @@
 	},
 	{
 		"key": "responsible-party",
-		"value": "[{\"name\": \"Pacific Islands Benthic Habitat Mapping Center (PIBHMC), Coral Reef Ecosystem Division (CRED), Pacific Islands Fisheries Science Center (PIFSC), National Marine Fisheries Service (NMFS), National Oceanic and Atmospheric Administration (NOAA)\", \"roles\": [\"pointOfContact\"]}]"
+		"value": "[{"name": "Pacific Islands Benthic Habitat Mapping Center (PIBHMC), Coral Reef Ecosystem Division (CRED), Pacific Islands Fisheries Science Center (PIFSC), National Marine Fisheries Service (NMFS), National Oceanic and Atmospheric Administration (NOAA)", "roles": ["pointOfContact"]}]"
 	},
 	{
 		"key": "temporal-extent-end",
@@ -221,11 +221,11 @@
 	},
 	{
 		"key": "bbox-south-lat",
-		"value": "\n          28.157620\n        "
+		"value": "n          28.157620n        "
 	},
 	{
 		"package_id": "20fa2eff-6988-4e5c-ac58-4024247701bb",
-		"value": "northwestern hawaiian islands, geographic information, multibeam backscatter, 467, oceans, united states of america, acoustic imagery, midway atoll, hawaii, bathymetry\/seafloor topography, benthic habitat mapping and characterization in the pacific islands region, backscatter, earth science",
+		"value": "northwestern hawaiian islands, geographic information, multibeam backscatter, 467, oceans, united states of america, acoustic imagery, midway atoll, hawaii, bathymetry/seafloor topography, benthic habitat mapping and characterization in the pacific islands region, backscatter, earth science",
 		"revision_timestamp": "2016-10-19T20:52:59.466087",
 		"state": "active",
 		"key": "tags",
@@ -255,7 +255,7 @@
 		"revision_timestamp": "2013-03-25T23:05:12.923863",
 		"is_organization": true,
 		"state": "active",
-		"image_url": "https:\/\/fortress.wa.gov\/dfw\/score\/score\/images\/noaa_logo.png",
+		"image_url": "https://fortress.wa.gov/dfw/score/score/images/noaa_logo.png",
 		"revision_id": "c6d43080-22e1-405e-a83d-f2a512d9e867",
 		"type": "organization",
 		"id": "e811f0b4-451f-4896-9e8f-fc6802837819",

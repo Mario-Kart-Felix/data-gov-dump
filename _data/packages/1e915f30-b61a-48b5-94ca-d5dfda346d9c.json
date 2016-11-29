@@ -37,7 +37,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2014-09-17T14:17:44.651477",
-		"url": "http:\/\/msdis-maps.missouri.edu\/",
+		"url": "http://msdis-maps.missouri.edu/",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 0,
@@ -67,7 +67,7 @@
 		"cache_url": null,
 		"name": "XML File",
 		"created": "2014-09-17T14:17:44.651499",
-		"url": "ftp:\/\/msdis.missouri.edu\/pub\/metadata_gos\/MO_2005_Major_Lakes_shp.xml",
+		"url": "ftp://msdis.missouri.edu/pub/metadata_gos/MO_2005_Major_Lakes_shp.xml",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 1,
@@ -97,7 +97,7 @@
 		"cache_url": null,
 		"name": "Zip File",
 		"created": "2014-09-17T14:17:44.651507",
-		"url": "ftp:\/\/msdis.missouri.edu\/pub\/Inland_Water_Resources\/MO_2005_Major_Lakes_shp.zip",
+		"url": "ftp://msdis.missouri.edu/pub/Inland_Water_Resources/MO_2005_Major_Lakes_shp.zip",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 2,
@@ -117,11 +117,11 @@
 	"name": "hydrography-mo-2005-major-lakes-shp",
 	"isopen": false,
 	"url": null,
-	"notes": "The NHDPlus Version 1.0 is an integrated suite of application-ready geospatial data sets that incorporate many of the best features of the National Hydrography Dataset (NHD) and the National Elevation Dataset (NED). The NHDPlus includes a stream network (based on the 1:100,000-scale NHD), improved networking, naming, and \"value-added attributes\" (VAA's). NHDPlus also includes elevation-derived catchments (drainage areas) produced using a drainage enforcement technique first broadly applied in New England, and thus dubbed \"The New-England Method\". This technique involves \"burning-in\" the 1:100,000-scale NHD and when available building \"walls\" using the national Watershed Boundary Dataset (WBD). The resulting modified digital elevation model (HydroDEM) is used to produce hydrologic derivatives that agree with the NHD and WBD. An interdisciplinary team from the U. S. Geological Survey (USGS), U.S. Environmental Protection Agency (USEPA), and contractors, over the last two years has found this method to produce the best quality NHD catchments using an automated process. The VAAs include greatly enhanced capabilities for upstream and downstream navigation, analysis and modeling. Examples include: retrieve all flowlines (predominantly confluence-to-confluence stream segments) and catchments upstream of a given flowline using queries rather than by slower flowline-by-flowline navigation; retrieve flowlines by stream order; subset a stream level path sorted in hydrologic order for stream profile mapping, analysis and plotting; and, calculate cumulative catchment attributes using streamlined VAA hydrologic sequencing routing attributes. The VAAs include results from the use of these cumulative routing techniques, including cumulative drainage areas, precipitation, temperature, and land cover distributions. Several of these cumulative attributes are used to estimate mean annual flow and velocity as part of the VAAs. NHDPlus contains a snapshot (2005) of the 1:100,000-scale NHD that has been extensively improved. While these updates will eventually make their way back to the central NHD repository at USGS, this will not have happened prior to distribution of NHDPlus because the update process for the central NHD repository is still in development. Consequently, the NHDPlus will contain some temporary database keys and, as a result, NHDPlus users may not make updates to the NHD portions of NHDPlus with the intent of sending these updates back to the USGS. Once the NHDPlus updates have been posted to the central NHD repository, a fresh copy of the improved data can be downloaded from the central NHD repository and that copy will be usable for data maintenance. Note that the NHDPlus products are tightly integrated and user modifications to the underlying NHD can compromise this synchronization.",
+	"notes": "The NHDPlus Version 1.0 is an integrated suite of application-ready geospatial data sets that incorporate many of the best features of the National Hydrography Dataset (NHD) and the National Elevation Dataset (NED). The NHDPlus includes a stream network (based on the 1:100,000-scale NHD), improved networking, naming, and "value-added attributes" (VAA's). NHDPlus also includes elevation-derived catchments (drainage areas) produced using a drainage enforcement technique first broadly applied in New England, and thus dubbed "The New-England Method". This technique involves "burning-in" the 1:100,000-scale NHD and when available building "walls" using the national Watershed Boundary Dataset (WBD). The resulting modified digital elevation model (HydroDEM) is used to produce hydrologic derivatives that agree with the NHD and WBD. An interdisciplinary team from the U. S. Geological Survey (USGS), U.S. Environmental Protection Agency (USEPA), and contractors, over the last two years has found this method to produce the best quality NHD catchments using an automated process. The VAAs include greatly enhanced capabilities for upstream and downstream navigation, analysis and modeling. Examples include: retrieve all flowlines (predominantly confluence-to-confluence stream segments) and catchments upstream of a given flowline using queries rather than by slower flowline-by-flowline navigation; retrieve flowlines by stream order; subset a stream level path sorted in hydrologic order for stream profile mapping, analysis and plotting; and, calculate cumulative catchment attributes using streamlined VAA hydrologic sequencing routing attributes. The VAAs include results from the use of these cumulative routing techniques, including cumulative drainage areas, precipitation, temperature, and land cover distributions. Several of these cumulative attributes are used to estimate mean annual flow and velocity as part of the VAAs. NHDPlus contains a snapshot (2005) of the 1:100,000-scale NHD that has been extensively improved. While these updates will eventually make their way back to the central NHD repository at USGS, this will not have happened prior to distribution of NHDPlus because the update process for the central NHD repository is still in development. Consequently, the NHDPlus will contain some temporary database keys and, as a result, NHDPlus users may not make updates to the NHD portions of NHDPlus with the intent of sending these updates back to the USGS. Once the NHDPlus updates have been posted to the central NHD repository, a fresh copy of the improved data can be downloaded from the central NHD repository and that copy will be usable for data maintenance. Note that the NHDPlus products are tightly integrated and user modifications to the underlying NHD can compromise this synchronization.",
 	"license_title": null,
 	"extras": [{
 		"key": "responsible-party",
-		"value": "[{\"name\": \"Missouri Spatial Data Information Services (MSDIS)\", \"roles\": [\"pointOfContact\"]}]"
+		"value": "[{"name": "Missouri Spatial Data Information Services (MSDIS)", "roles": ["pointOfContact"]}]"
 	},
 	{
 		"key": "contact-email",
@@ -141,7 +141,7 @@
 	},
 	{
 		"key": "dataset-reference-date",
-		"value": "[{\"type\": \"publication\", \"value\": \"2013-01-01\"}]"
+		"value": "[{"type": "publication", "value": "2013-01-01"}]"
 	},
 	{
 		"key": "resource-type",
@@ -169,7 +169,7 @@
 	},
 	{
 		"key": "licence",
-		"value": "[\"Although these data have been processed successfully on a computer system by the data steward, no warranty either expressed or implied is made regarding the utility of the data on any system, nor shall this notice generated by the Ramona GIS Inventory System or the act of distribution constitute any such warranty. The data steward may have additional liability information associated with delivery or distribution of this product.\"]"
+		"value": "["Although these data have been processed successfully on a computer system by the data steward, no warranty either expressed or implied is made regarding the utility of the data on any system, nor shall this notice generated by the Ramona GIS Inventory System or the act of distribution constitute any such warranty. The data steward may have additional liability information associated with delivery or distribution of this product."]"
 	},
 	{
 		"key": "metadata_type",
@@ -181,7 +181,7 @@
 	},
 	{
 		"key": "spatial",
-		"value": "{\"type\": \"Polygon\", \"coordinates\": [[[-111.05513763, 40.99626923], [-104.05198669, 40.99626923], [-104.05198669, 45.0042038], [-111.05513763, 45.0042038], [-111.05513763, 40.99626923]]]}"
+		"value": "{"type": "Polygon", "coordinates": [[[-111.05513763, 40.99626923], [-104.05198669, 40.99626923], [-104.05198669, 45.0042038], [-111.05513763, 45.0042038], [-111.05513763, 40.99626923]]]}"
 	},
 	{
 		"key": "guid",
@@ -193,7 +193,7 @@
 	},
 	{
 		"key": "access_constraints",
-		"value": "[\"Use Constraints: This is an incomplete metadata record and use constraints are not documented by the Ramona GIS Inventory system.\", \"Access Constraints: This is an incomplete metadata record and access constraints are not documented by the Ramona GIS Inventory system.\"]"
+		"value": "["Use Constraints: This is an incomplete metadata record and use constraints are not documented by the Ramona GIS Inventory system.", "Access Constraints: This is an incomplete metadata record and access constraints are not documented by the Ramona GIS Inventory system."]"
 	},
 	{
 		"key": "spatial_harvester",
@@ -235,7 +235,7 @@
 		"revision_timestamp": "2014-09-11T20:27:16.009304",
 		"is_organization": true,
 		"state": "active",
-		"image_url": "http:\/\/www.nsgic.org\/public_resources\/nsgic-logo-b_1321892056.gif",
+		"image_url": "http://www.nsgic.org/public_resources/nsgic-logo-b_1321892056.gif",
 		"revision_id": "979d3df0-d323-4e1e-ac62-d1623b463626",
 		"type": "organization",
 		"id": "b0b4c45b-a8ca-416b-b463-ee90d0a1a3df",

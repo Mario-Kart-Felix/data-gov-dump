@@ -36,7 +36,7 @@
 		"cache_url": null,
 		"name": "ESRI Shapefile (.shp)",
 		"created": "2016-07-15T21:35:00.638277",
-		"url": "http:\/\/cloud.insideidaho.org\/webApps\/util\/zip.ashx?fn=http:\/\/cloud.insideidaho.org\/data\/blm\/CompletedVegetationTreatments_PUB_24K_POLY.shp",
+		"url": "http://cloud.insideidaho.org/webApps/util/zip.ashx?fn=http://cloud.insideidaho.org/data/blm/CompletedVegetationTreatments_PUB_24K_POLY.shp",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 0,
@@ -66,7 +66,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2016-07-15T21:35:00.638304",
-		"url": "http:\/\/BLM Metadata",
+		"url": "http://BLM Metadata",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 1,
@@ -86,11 +86,11 @@
 	"name": "vegetation-treatment-area-completed-polygon",
 	"isopen": false,
 	"url": null,
-	"notes": "This data set will be a warehouse of completed vegetation treatment areas and associated attribute information for the BLM. Each system that currently maintains vegetation treatments will provide treatment area information on a regular basis to the treatment area data set. People who conduct vegetation treatments on BLM-managed land including Invasive Species Treatments, Emergency Stabilization and Rehabilitation Treatments, Range Improvement Treatments, Fuels Treatments and\/or Forest Treatments.",
+	"notes": "This data set will be a warehouse of completed vegetation treatment areas and associated attribute information for the BLM. Each system that currently maintains vegetation treatments will provide treatment area information on a regular basis to the treatment area data set. People who conduct vegetation treatments on BLM-managed land including Invasive Species Treatments, Emergency Stabilization and Rehabilitation Treatments, Range Improvement Treatments, Fuels Treatments and/or Forest Treatments.",
 	"license_title": null,
 	"extras": [{
 		"key": "responsible-party",
-		"value": "[{\"name\": \"Idaho State Office, Geographic Sciences Section\", \"roles\": [\"pointOfContact\"]}]"
+		"value": "[{"name": "Idaho State Office, Geographic Sciences Section", "roles": ["pointOfContact"]}]"
 	},
 	{
 		"key": "contact-email",
@@ -110,7 +110,7 @@
 	},
 	{
 		"key": "dataset-reference-date",
-		"value": "[{\"type\": \"publication\", \"value\": \"9999-01-01\"}]"
+		"value": "[{"type": "publication", "value": "9999-01-01"}]"
 	},
 	{
 		"key": "resource-type",
@@ -138,7 +138,7 @@
 	},
 	{
 		"key": "licence",
-		"value": "[\"Although these data have been processed successfully on a computer system at the Idaho Geospatial Data Clearinghouse, no warranty, expressed or implied, is made regarding the utility of the data on any other system, nor shall the act of distribution constitute any such warranty. \"]"
+		"value": "["Although these data have been processed successfully on a computer system at the Idaho Geospatial Data Clearinghouse, no warranty, expressed or implied, is made regarding the utility of the data on any other system, nor shall the act of distribution constitute any such warranty. "]"
 	},
 	{
 		"key": "metadata_type",
@@ -150,7 +150,7 @@
 	},
 	{
 		"key": "spatial",
-		"value": "{\"type\": \"Polygon\", \"coordinates\": [[[-116.972662, 42.044267], [-110.834423, 42.044267], [-110.834423, 47.547458], [-116.972662, 47.547458], [-116.972662, 42.044267]]]}"
+		"value": "{"type": "Polygon", "coordinates": [[[-116.972662, 42.044267], [-110.834423, 42.044267], [-110.834423, 47.547458], [-116.972662, 47.547458], [-116.972662, 42.044267]]]}"
 	},
 	{
 		"key": "guid",
@@ -162,7 +162,7 @@
 	},
 	{
 		"key": "access_constraints",
-		"value": "[\"Use Constraints: No warranty is made by the Bureau of Land Management. The accuracy, reliability, or completeness of these data for individual use or aggregate use with other data is not guaranteed.\", \"Access Constraints: None, Public Data\"]"
+		"value": "["Use Constraints: No warranty is made by the Bureau of Land Management. The accuracy, reliability, or completeness of these data for individual use or aggregate use with other data is not guaranteed.", "Access Constraints: None, Public Data"]"
 	},
 	{
 		"key": "spatial_harvester",
@@ -204,7 +204,7 @@
 		"revision_timestamp": "2015-01-16T18:28:14.593903",
 		"is_organization": true,
 		"state": "active",
-		"image_url": "http:\/\/upload.wikimedia.org\/wikipedia\/en\/thumb\/4\/44\/University_of_Idaho_seal.svg\/300px-University_of_Idaho_seal.svg.png",
+		"image_url": "http://upload.wikimedia.org/wikipedia/en/thumb/4/44/University_of_Idaho_seal.svg/300px-University_of_Idaho_seal.svg.png",
 		"revision_id": "761955d7-9530-4622-8609-d0b01c78e177",
 		"type": "organization",
 		"id": "75e22a8a-da5f-46f3-93d8-924063a3703d",

@@ -37,7 +37,7 @@
 		"cache_url": null,
 		"name": "Esri Rest API Endpoint",
 		"created": "2013-03-15T11:40:57.426378",
-		"url": "http:\/\/irmaservices.nps.gov\/ArcGIS\/rest\/services\/NRMapWorks\/449146\/MapServer",
+		"url": "http://irmaservices.nps.gov/ArcGIS/rest/services/NRMapWorks/449146/MapServer",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 0,
@@ -67,7 +67,7 @@
 		"cache_url": null,
 		"name": "PDF File",
 		"created": "2013-03-15T11:40:57.426401",
-		"url": "http:\/\/irmafiles.nps.gov\/Reference\/Holding\/424917\/moruveg.pdf",
+		"url": "http://irmafiles.nps.gov/Reference/Holding/424917/moruveg.pdf",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 1,
@@ -97,7 +97,7 @@
 		"cache_url": null,
 		"name": "PDF File",
 		"created": "2013-03-15T11:40:57.426409",
-		"url": "http:\/\/irmafiles.nps.gov\/Reference\/Holding\/424918\/moruveg_large.pdf",
+		"url": "http://irmafiles.nps.gov/Reference/Holding/424918/moruveg_large.pdf",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 2,
@@ -127,7 +127,7 @@
 		"cache_url": null,
 		"name": "Zip File",
 		"created": "2013-03-15T11:40:57.426416",
-		"url": "http:\/\/irmafiles.nps.gov\/Reference\/Holding\/424919\/moru.zip",
+		"url": "http://irmafiles.nps.gov/Reference/Holding/424919/moru.zip",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 3,
@@ -157,7 +157,7 @@
 		"cache_url": null,
 		"name": "Zip File",
 		"created": "2013-03-15T11:40:57.426423",
-		"url": "http:\/\/irmafiles.nps.gov\/Reference\/Holding\/424920\/morubdy.zip",
+		"url": "http://irmafiles.nps.gov/Reference/Holding/424920/morubdy.zip",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 4,
@@ -187,7 +187,7 @@
 		"cache_url": null,
 		"name": "Zip File",
 		"created": "2013-03-15T11:40:57.426430",
-		"url": "http:\/\/irmafiles.nps.gov\/Reference\/Holding\/449146\/MORUgeodata_service.zip",
+		"url": "http://irmafiles.nps.gov/Reference/Holding/449146/MORUgeodata_service.zip",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 5,
@@ -217,7 +217,7 @@
 		"cache_url": null,
 		"name": "Zip File",
 		"created": "2013-03-15T11:40:57.426436",
-		"url": "http:\/\/biology.usgs.gov\/npsveg\/ftp\/vegmapping\/moru\/moru.zip",
+		"url": "http://biology.usgs.gov/npsveg/ftp/vegmapping/moru/moru.zip",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 6,
@@ -237,15 +237,15 @@
 	"name": "spatial-vegetation-data-for-mount-rushmore-national-memorial-vegetation-mapping-project",
 	"isopen": false,
 	"url": null,
-	"notes": "The National Park Service (NPS), in conjunction with the Biological Resources Division (BRD) of the U.S. Geological Survey (USGS), has implemented a program to \"develop a uniform hierarchical vegetation methodology\" at a national level. The program will also create a geographic information system (GIS) database for the parks under its management. The purpose of the data is to document the state of vegetation within the NPS service area during the 1990's, thereby providing a baseline study for further analysis at the Regional or Service-wide level. The vegetation at Mount Rushmore was mapped using 1:16,000 scale U.S. Forest Service Color Aerial Photography acquired August 28, 1993. The mapping classification used two separate classification systems. All natural vegetation used the National Vegetation Classification System (NVCS) as a base. The vegetation classifcation was created after extensive on site sampling and numerical analysis. The vegetation map units were derived from the vegatation classification. Other non-natural or cultural mapping units used the Anderson Level II classification system. The mapped area includes a buffer around the Memorial boundary.",
+	"notes": "The National Park Service (NPS), in conjunction with the Biological Resources Division (BRD) of the U.S. Geological Survey (USGS), has implemented a program to "develop a uniform hierarchical vegetation methodology" at a national level. The program will also create a geographic information system (GIS) database for the parks under its management. The purpose of the data is to document the state of vegetation within the NPS service area during the 1990's, thereby providing a baseline study for further analysis at the Regional or Service-wide level. The vegetation at Mount Rushmore was mapped using 1:16,000 scale U.S. Forest Service Color Aerial Photography acquired August 28, 1993. The mapping classification used two separate classification systems. All natural vegetation used the National Vegetation Classification System (NVCS) as a base. The vegetation classifcation was created after extensive on site sampling and numerical analysis. The vegetation map units were derived from the vegatation classification. Other non-natural or cultural mapping units used the Anderson Level II classification system. The mapped area includes a buffer around the Memorial boundary.",
 	"license_title": null,
 	"extras": [{
 		"key": "responsible-party",
-		"value": "[{\"name\": \"USGS BRD Center for Biological Informatics\", \"roles\": [\"pointOfContact\"]}]"
+		"value": "[{"name": "USGS BRD Center for Biological Informatics", "roles": ["pointOfContact"]}]"
 	},
 	{
 		"key": "dataset-reference-date",
-		"value": "[{\"type\": \"publication\", \"value\": \"1998-03-10\"}]"
+		"value": "[{"type": "publication", "value": "1998-03-10"}]"
 	},
 	{
 		"key": "contact-email",
@@ -293,7 +293,7 @@
 	},
 	{
 		"key": "licence",
-		"value": "[\"\\nThe U.S. Geological Survey and the National Park Service shall not be held liable for improper or incorrect use of the data described and\/or contained herein.  These data and related graphics (if available) are not legal documents and are not intended to be used as such.\\n\\nThe information contained in these data is dynamic and may change over time.  The data are not better than the original sources from which they were derived.  It is the responsibility of the data user to use the data appropriately and consistent within the limitations of geospatial data in general and these data in particular.  Any related graphics (if available) are intended to aid the data user in acquiring relevant data; it is not approriate to use the related graphics as data.\\n\\nThe U.S. Geological Survey and the National Park Service gives no warranty, expressed or implied, as to the accuracy, reliability, or completeness of these data.  It is strongly recommended that these data are directly acquired from an U.S. Geological Survey and National Park Service servers and not indirectly through other sources which may have changed the data in some way.  Although these data have been processed successfully on a computer system at the U.S. Geological Survey, no warranty expressed or implied is made regarding the utility of the data on another system or for general or scientific purposes, nor shall the act of distribution constitute any such warranty. This disclaimer applies both to individual use of the data and aggregate use with other data. It is also strongly recommended that careful attention be paid to the contents of the metadata file associated with these data. Mention of trade names or commercial products in this metadata report does not constitute endorsement or recommendation for use by the U. S. Department of the Interior, U. S. Geological Survey and National Park Service.\\n\"]"
+		"value": "["\nThe U.S. Geological Survey and the National Park Service shall not be held liable for improper or incorrect use of the data described and/or contained herein.  These data and related graphics (if available) are not legal documents and are not intended to be used as such.\n\nThe information contained in these data is dynamic and may change over time.  The data are not better than the original sources from which they were derived.  It is the responsibility of the data user to use the data appropriately and consistent within the limitations of geospatial data in general and these data in particular.  Any related graphics (if available) are intended to aid the data user in acquiring relevant data; it is not approriate to use the related graphics as data.\n\nThe U.S. Geological Survey and the National Park Service gives no warranty, expressed or implied, as to the accuracy, reliability, or completeness of these data.  It is strongly recommended that these data are directly acquired from an U.S. Geological Survey and National Park Service servers and not indirectly through other sources which may have changed the data in some way.  Although these data have been processed successfully on a computer system at the U.S. Geological Survey, no warranty expressed or implied is made regarding the utility of the data on another system or for general or scientific purposes, nor shall the act of distribution constitute any such warranty. This disclaimer applies both to individual use of the data and aggregate use with other data. It is also strongly recommended that careful attention be paid to the contents of the metadata file associated with these data. Mention of trade names or commercial products in this metadata report does not constitute endorsement or recommendation for use by the U. S. Department of the Interior, U. S. Geological Survey and National Park Service.\n"]"
 	},
 	{
 		"key": "metadata_type",
@@ -301,7 +301,7 @@
 	},
 	{
 		"key": "spatial",
-		"value": "{\"type\": \"Polygon\", \"coordinates\": [[[-103.5, 43.8], [-103.5, 43.9], [-103.4, 43.9], [-103.4, 43.8], [-103.5, 43.8]]]}"
+		"value": "{"type": "Polygon", "coordinates": [[[-103.5, 43.8], [-103.5, 43.9], [-103.4, 43.9], [-103.4, 43.8], [-103.5, 43.8]]]}"
 	},
 	{
 		"key": "guid",
@@ -313,11 +313,11 @@
 	},
 	{
 		"key": "access_constraints",
-		"value": "[\"Use Constraints: No warranty, expressed or implied, is made regarding the accuracy or utility of the data on any other system or for general or scientific purposes. Any person using the information presented here should fully understand the data collection and compilation procedures, as described in the metadata, before beginning analysis. The burden for determining fitness for use lies entirely with the user.\", \"Access Constraints: None\"]"
+		"value": "["Use Constraints: No warranty, expressed or implied, is made regarding the accuracy or utility of the data on any other system or for general or scientific purposes. Any person using the information presented here should fully understand the data collection and compilation procedures, as described in the metadata, before beginning analysis. The burden for determining fitness for use lies entirely with the user.", "Access Constraints: None"]"
 	},
 	{
 		"key": "graphic-preview-file",
-		"value": "http:\/\/biology.usgs.gov\/npsveg\/moru\/images\/moruveg.pdf"
+		"value": "http://biology.usgs.gov/npsveg/moru/images/moruveg.pdf"
 	},
 	{
 		"package_id": "edfc9fa0-e228-400a-8b5a-52ebce0b9a1a",
@@ -351,7 +351,7 @@
 		"revision_timestamp": "2015-03-18T14:25:04.527925",
 		"is_organization": true,
 		"state": "active",
-		"image_url": "https:\/\/raw.githubusercontent.com\/GSA\/logo\/master\/nps.png",
+		"image_url": "https://raw.githubusercontent.com/GSA/logo/master/nps.png",
 		"revision_id": "c01136dc-911c-4651-92b7-36046d755b81",
 		"type": "organization",
 		"id": "ffbc26a5-1ae8-4c8c-ac45-e5b76fc6486a",

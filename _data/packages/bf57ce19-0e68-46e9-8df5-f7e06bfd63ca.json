@@ -36,7 +36,7 @@
 		"cache_url": null,
 		"name": "ND GIS Web Site",
 		"created": "2013-12-07T04:04:40.071029",
-		"url": "http:\/\/www.nd.gov\/gis",
+		"url": "http://www.nd.gov/gis",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 0,
@@ -65,7 +65,7 @@
 		"cache_url": null,
 		"name": "Copy this WMS URL link into your application",
 		"created": "2013-12-07T04:04:40.071064",
-		"url": "http:\/\/ndgishub.nd.gov\/arcgis\/services\/Elevation\/DEM_RedRiverDevilsLake_3m_2009\/MapServer\/WMSServer?",
+		"url": "http://ndgishub.nd.gov/arcgis/services/Elevation/DEM_RedRiverDevilsLake_3m_2009/MapServer/WMSServer?",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 1,
@@ -94,7 +94,7 @@
 		"cache_url": null,
 		"name": "Click to view WMS capabilities",
 		"created": "2013-12-07T04:04:40.071083",
-		"url": "http:\/\/ndgishub.nd.gov\/arcgis\/services\/Elevation\/DEM_RedRiverDevilsLake_3m_2009\/MapServer\/WMSServer?request=GetCapabilities&service=WMS",
+		"url": "http://ndgishub.nd.gov/arcgis/services/Elevation/DEM_RedRiverDevilsLake_3m_2009/MapServer/WMSServer?request=GetCapabilities&service=WMS",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 2,
@@ -123,7 +123,7 @@
 		"cache_url": null,
 		"name": "Copy this WCS URL link into your application",
 		"created": "2013-12-07T04:04:40.071101",
-		"url": "http:\/\/ndgishub.nd.gov\/arcgis\/services\/Elevation\/DEM_RedRiverDevilsLake_3m_2009\/MapServer\/WCSServer?",
+		"url": "http://ndgishub.nd.gov/arcgis/services/Elevation/DEM_RedRiverDevilsLake_3m_2009/MapServer/WCSServer?",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 3,
@@ -152,7 +152,7 @@
 		"cache_url": null,
 		"name": "Click to view WCS capabilities",
 		"created": "2013-12-07T04:04:40.071115",
-		"url": "http:\/\/ndgishub.nd.gov\/arcgis\/services\/Elevation\/DEM_RedRiverDevilsLake_3m_2009\/MapServer\/WCSServer?request=GetCapabilities&service=WCS",
+		"url": "http://ndgishub.nd.gov/arcgis/services/Elevation/DEM_RedRiverDevilsLake_3m_2009/MapServer/WCSServer?request=GetCapabilities&service=WCS",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 4,
@@ -181,7 +181,7 @@
 		"cache_url": null,
 		"name": "Esri REST including WMS and WCS",
 		"created": "2013-12-07T04:04:40.071124",
-		"url": "http:\/\/ndgishub.nd.gov\/ArcGIS\/rest\/services\/Elevation\/DEM_RedRiverDevilsLake_3m_2009\/MapServer",
+		"url": "http://ndgishub.nd.gov/ArcGIS/rest/services/Elevation/DEM_RedRiverDevilsLake_3m_2009/MapServer",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 5,
@@ -214,7 +214,7 @@
 	"name": "red-river-and-devils-lake-digital-elevation-model-3m-dem-2009",
 	"isopen": false,
 	"url": null,
-	"notes": "Three-meter posting DEMs for the Red River and Devils Lake areas, organized by blocks.  See the included index layer for the location of each of the blocks. The vertical units for the DEMs are available in feet and meters.\n\nPlease see the online resources below for links to the services.",
+	"notes": "Three-meter posting DEMs for the Red River and Devils Lake areas, organized by blocks.  See the included index layer for the location of each of the blocks. The vertical units for the DEMs are available in feet and meters.nnPlease see the online resources below for links to the services.",
 	"license_title": null,
 	"extras": [{
 		"key": "bbox-east-long",
@@ -258,7 +258,7 @@
 	},
 	{
 		"key": "spatial",
-		"value": "{\"type\": \"Polygon\", \"coordinates\": [[[-99.1371378551, 45.8418046748], [-96.5004191051, 45.8418046748], [-96.5004191051, 49.0717851435], [-99.1371378551, 49.0717851435], [-99.1371378551, 45.8418046748]]]}"
+		"value": "{"type": "Polygon", "coordinates": [[[-99.1371378551, 45.8418046748], [-96.5004191051, 45.8418046748], [-96.5004191051, 49.0717851435], [-99.1371378551, 49.0717851435], [-99.1371378551, 45.8418046748]]]}"
 	},
 	{
 		"key": "progress",
@@ -266,7 +266,7 @@
 	},
 	{
 		"key": "access_constraints",
-		"value": "[\"The State of North Dakota has compiled this data according to conventional cartographic standards, using what is thought to be the most reliable information available. This data is intended to make results of research available at the earliest possible date, but is not intended to constitute final or formal publication. The State of North Dakota makes every effort to provide virus-free files but does not guarantee uncorrupted files. The State of North Dakota does not guarantee this data to be free from errors, inaccuracies, or viruses, and disclaims any responsibility or liability for interpretations or decisions based on this data.\"]"
+		"value": "["The State of North Dakota has compiled this data according to conventional cartographic standards, using what is thought to be the most reliable information available. This data is intended to make results of research available at the earliest possible date, but is not intended to constitute final or formal publication. The State of North Dakota makes every effort to provide virus-free files but does not guarantee uncorrupted files. The State of North Dakota does not guarantee this data to be free from errors, inaccuracies, or viruses, and disclaims any responsibility or liability for interpretations or decisions based on this data."]"
 	},
 	{
 		"key": "contact-email",
@@ -282,7 +282,7 @@
 	},
 	{
 		"key": "dataset-reference-date",
-		"value": "[{\"type\": \"publication\", \"value\": \"2011-03-30T00:00:00\"}]"
+		"value": "[{"type": "publication", "value": "2011-03-30T00:00:00"}]"
 	},
 	{
 		"key": "graphic-preview-description",
@@ -302,7 +302,7 @@
 	},
 	{
 		"key": "responsible-party",
-		"value": "[{\"name\": \"Information Technology Department\", \"roles\": [\"originator\"]}]"
+		"value": "[{"name": "Information Technology Department", "roles": ["originator"]}]"
 	},
 	{
 		"key": "spatial-data-service-type",
@@ -337,14 +337,14 @@
 		"value": "North Dakota GIS Hub Data Portal"
 	}],
 	"organization": {
-		"description": "The GIS Hub is the state source for GIS - data, services, and information.  More information can be found at www.nd.gov\/gis.",
+		"description": "The GIS Hub is the state source for GIS - data, services, and information.  More information can be found at www.nd.gov/gis.",
 		"created": "2013-03-14T03:44:44.340717",
 		"title": "State of North Dakota",
 		"name": "nd-gov",
 		"revision_timestamp": "2013-07-15T16:27:30.098476",
 		"is_organization": true,
 		"state": "active",
-		"image_url": "http:\/\/www.nd.gov\/gis\/images\/ndgis-logo.gif",
+		"image_url": "http://www.nd.gov/gis/images/ndgis-logo.gif",
 		"revision_id": "27517bb9-815c-4d4f-b45b-b88b6316697b",
 		"type": "organization",
 		"id": "1c782de6-9f1f-4427-93fd-33732e29970f",

@@ -37,7 +37,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2015-09-26T16:20:22.888010",
-		"url": "http:\/\/www.oceangrafix.com",
+		"url": "http://www.oceangrafix.com",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 0,
@@ -67,7 +67,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2015-09-26T16:20:22.889073",
-		"url": "http:\/\/nauticalcharts.noaa.gov\/pod\/Pod.htm",
+		"url": "http://nauticalcharts.noaa.gov/pod/Pod.htm",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 1,
@@ -91,7 +91,7 @@
 	"license_title": null,
 	"extras": [{
 		"key": "bbox-east-long",
-		"value": "180\n"
+		"value": "180n"
 	},
 	{
 		"key": "resource-type",
@@ -99,7 +99,7 @@
 	},
 	{
 		"key": "bbox-north-lat",
-		"value": "81.9\n"
+		"value": "81.9n"
 	},
 	{
 		"key": "coupled-resource",
@@ -115,7 +115,7 @@
 	},
 	{
 		"key": "bbox-south-lat",
-		"value": "-14.4\n"
+		"value": "-14.4n"
 	},
 	{
 		"key": "spatial-reference-system",
@@ -123,7 +123,7 @@
 	},
 	{
 		"key": "spatial",
-		"value": "{\"type\": \"Polygon\", \"coordinates\": [[[-180.0, -14.4], [180.0, -14.4], [180.0, 81.9], [-180.0, 81.9], [-180.0, -14.4]]]}"
+		"value": "{"type": "Polygon", "coordinates": [[[-180.0, -14.4], [180.0, -14.4], [180.0, 81.9], [-180.0, 81.9], [-180.0, -14.4]]]}"
 	},
 	{
 		"key": "progress",
@@ -131,7 +131,7 @@
 	},
 	{
 		"key": "access_constraints",
-		"value": "[\"Use Constraints: To be used for navigation and\/or as per agreement with the NOAA POD chart distributor and distribution network.\", \"Access Constraints: none\"]"
+		"value": "["Use Constraints: To be used for navigation and/or as per agreement with the NOAA POD chart distributor and distribution network.", "Access Constraints: none"]"
 	},
 	{
 		"key": "temporal-extent-begin",
@@ -143,7 +143,7 @@
 	},
 	{
 		"key": "bbox-west-long",
-		"value": "-180\n"
+		"value": "-180n"
 	},
 	{
 		"key": "metadata-date",
@@ -151,7 +151,7 @@
 	},
 	{
 		"key": "dataset-reference-date",
-		"value": "[{\"type\": \"publication\", \"value\": \"2000-01-01\"}]"
+		"value": "[{"type": "publication", "value": "2000-01-01"}]"
 	},
 	{
 		"key": "frequency-of-update",
@@ -159,7 +159,7 @@
 	},
 	{
 		"key": "licence",
-		"value": "[\"POD charts are produced under the authority of the National Ocean Service, National Oceanic and Atmospheric Administration (NOAA). NOAA is the national hydrographic office for the United States of America (33USC para 883a et seq.).  The data from which this POD chart was produced is certified by NOAA for navigational use.  POD charts meet the requirements for the mandatory carriage of nautical charts established by the U.S. Coast Guard and published in Titles 33 and 46, Code of Federal Regulations, including the requirements for updating.OceanGrafix, LLC. warrants that the nautical charts manufactured by OceanGrafix as authorized by NOAA and NOS, pursuant to that certain Cooperative Research and Development Agreement entered into by and among OceanGrafix, NOAA, and NOS, are accurate reproductions of the nautical chart data files and updates thereto provided to OceanGrafix by NOAA and NOS.  Additionally, OceanGrafix warrants that the Charts shall be free from defects in manufacturing materials and workmanship for a period of 90 days from the date of shipment of the Charts from OceanGrafix to the chart agent.\\n\"]"
+		"value": "["POD charts are produced under the authority of the National Ocean Service, National Oceanic and Atmospheric Administration (NOAA). NOAA is the national hydrographic office for the United States of America (33USC para 883a et seq.).  The data from which this POD chart was produced is certified by NOAA for navigational use.  POD charts meet the requirements for the mandatory carriage of nautical charts established by the U.S. Coast Guard and published in Titles 33 and 46, Code of Federal Regulations, including the requirements for updating.OceanGrafix, LLC. warrants that the nautical charts manufactured by OceanGrafix as authorized by NOAA and NOS, pursuant to that certain Cooperative Research and Development Agreement entered into by and among OceanGrafix, NOAA, and NOS, are accurate reproductions of the nautical chart data files and updates thereto provided to OceanGrafix by NOAA and NOS.  Additionally, OceanGrafix warrants that the Charts shall be free from defects in manufacturing materials and workmanship for a period of 90 days from the date of shipment of the Charts from OceanGrafix to the chart agent.\n"]"
 	},
 	{
 		"key": "metadata_type",
@@ -167,7 +167,7 @@
 	},
 	{
 		"key": "responsible-party",
-		"value": "[{\"name\": \"OceanGrafix, LLC\", \"roles\": [\"pointOfContact\"]}]"
+		"value": "[{"name": "OceanGrafix, LLC", "roles": ["pointOfContact"]}]"
 	},
 	{
 		"key": "spatial-data-service-type",
@@ -209,7 +209,7 @@
 		"revision_timestamp": "2013-03-25T23:05:12.923863",
 		"is_organization": true,
 		"state": "active",
-		"image_url": "https:\/\/fortress.wa.gov\/dfw\/score\/score\/images\/noaa_logo.png",
+		"image_url": "https://fortress.wa.gov/dfw/score/score/images/noaa_logo.png",
 		"revision_id": "c6d43080-22e1-405e-a83d-f2a512d9e867",
 		"type": "organization",
 		"id": "e811f0b4-451f-4896-9e8f-fc6802837819",

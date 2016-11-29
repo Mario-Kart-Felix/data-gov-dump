@@ -36,7 +36,7 @@
 		"cache_url": null,
 		"name": "View Imagery in an Online Web Map",
 		"created": "2016-07-15T21:35:08.609910",
-		"url": "http:\/\/www.arcgis.com\/home\/webmap\/viewer.html?url=http:\/\/cloud.insideidaho.org\/arcgis\/rest\/services\/imageryBaseMapsEarthCover\/2009_1ft_boundaryCounty\/ImageServer&source=sd",
+		"url": "http://www.arcgis.com/home/webmap/viewer.html?url=http://cloud.insideidaho.org/arcgis/rest/services/imageryBaseMapsEarthCover/2009_1ft_boundaryCounty/ImageServer&source=sd",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 0,
@@ -65,7 +65,7 @@
 		"cache_url": null,
 		"name": "View Imagery in Google Earth",
 		"created": "2016-07-15T21:35:08.609943",
-		"url": "http:\/\/cloud.insideidaho.org\/arcgis\/rest\/services\/imageryBaseMapsEarthCover\/2009_1ft_boundaryCounty\/ImageServer\/kml\/mapImage.kmz",
+		"url": "http://cloud.insideidaho.org/arcgis/rest/services/imageryBaseMapsEarthCover/2009_1ft_boundaryCounty/ImageServer/kml/mapImage.kmz",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 1,
@@ -94,7 +94,7 @@
 		"cache_url": null,
 		"name": "View Imagery in ArcMap",
 		"created": "2016-07-15T21:35:08.609960",
-		"url": "http:\/\/cloud.insideidaho.org\/arcgis\/rest\/services\/imageryBaseMapsEarthCover\/2009_1ft_boundaryCounty\/ImageServer?f=lyr&v=9.3",
+		"url": "http://cloud.insideidaho.org/arcgis/rest/services/imageryBaseMapsEarthCover/2009_1ft_boundaryCounty/ImageServer?f=lyr&v=9.3",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 2,
@@ -123,7 +123,7 @@
 		"cache_url": null,
 		"name": "View ArcGIS Server Service Description Information",
 		"created": "2016-07-15T21:35:08.609976",
-		"url": "http:\/\/cloud.insideidaho.org\/ArcGIS\/rest\/services\/imageryBaseMapsEarthCover\/2009_1ft_boundaryCounty\/ImageServer",
+		"url": "http://cloud.insideidaho.org/ArcGIS/rest/services/imageryBaseMapsEarthCover/2009_1ft_boundaryCounty/ImageServer",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 3,
@@ -152,7 +152,7 @@
 		"cache_url": null,
 		"name": "Download Individual Image Tiles Using an Online Map",
 		"created": "2016-07-15T21:35:08.609989",
-		"url": "http:\/\/cloud.insideidaho.org\/webMaps\/flash\/tiledownload\/index.html?collection=orthoimagery&layerName=2009_1ft_Boundary_County",
+		"url": "http://cloud.insideidaho.org/webMaps/flash/tiledownload/index.html?collection=orthoimagery&layerName=2009_1ft_Boundary_County",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 4,
@@ -181,7 +181,7 @@
 		"cache_url": null,
 		"name": "View OGC Web Map Service (WMS) Description Information",
 		"created": "2016-07-15T21:35:08.610004",
-		"url": "http:\/\/cloud.insideidaho.org\/ArcGIS\/services\/imageryBaseMapsEarthCover\/2009_1ft_boundaryCounty\/ImageServer\/WMSServer?request=GetCapabilities&service=WMS",
+		"url": "http://cloud.insideidaho.org/ArcGIS/services/imageryBaseMapsEarthCover/2009_1ft_boundaryCounty/ImageServer/WMSServer?request=GetCapabilities&service=WMS",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 5,
@@ -210,7 +210,7 @@
 		"cache_url": null,
 		"name": "View OGC Web Coverage Service (WCS) Description Information",
 		"created": "2016-07-15T21:35:08.610019",
-		"url": "http:\/\/cloud.insideidaho.org\/ArcGIS\/services\/imageryBaseMapsEarthCover\/2009_1ft_boundaryCounty\/ImageServer\/WCSServer?request=GetCapabilities&service=WCS",
+		"url": "http://cloud.insideidaho.org/ArcGIS/services/imageryBaseMapsEarthCover/2009_1ft_boundaryCounty/ImageServer/WCSServer?request=GetCapabilities&service=WCS",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 6,
@@ -234,7 +234,7 @@
 	"license_title": null,
 	"extras": [{
 		"key": "responsible-party",
-		"value": "[{\"name\": \"Idaho Geospatial Data Clearinghouse\", \"roles\": [\"pointOfContact\"]}]"
+		"value": "[{"name": "Idaho Geospatial Data Clearinghouse", "roles": ["pointOfContact"]}]"
 	},
 	{
 		"key": "contact-email",
@@ -254,7 +254,7 @@
 	},
 	{
 		"key": "dataset-reference-date",
-		"value": "[{\"type\": \"publication\", \"value\": \"2009-01-01\"}]"
+		"value": "[{"type": "publication", "value": "2009-01-01"}]"
 	},
 	{
 		"key": "resource-type",
@@ -282,7 +282,7 @@
 	},
 	{
 		"key": "licence",
-		"value": "[\"Although these data have been processed successfully on a computer system at the Idaho Geospatial Data Clearinghouse, no warranty, expressed or implied, is made regarding the utility of the data on any other system, nor shall the act of distribution constitute any such warranty. \"]"
+		"value": "["Although these data have been processed successfully on a computer system at the Idaho Geospatial Data Clearinghouse, no warranty, expressed or implied, is made regarding the utility of the data on any other system, nor shall the act of distribution constitute any such warranty. "]"
 	},
 	{
 		"key": "metadata_type",
@@ -294,7 +294,7 @@
 	},
 	{
 		"key": "spatial",
-		"value": "{\"type\": \"Polygon\", \"coordinates\": [[[-117.116436, 48.55401], [-115.355686, 48.55401], [-115.355686, 49.15578], [-117.116436, 49.15578], [-117.116436, 48.55401]]]}"
+		"value": "{"type": "Polygon", "coordinates": [[[-117.116436, 48.55401], [-115.355686, 48.55401], [-115.355686, 49.15578], [-117.116436, 49.15578], [-117.116436, 48.55401]]]}"
 	},
 	{
 		"key": "guid",
@@ -306,7 +306,7 @@
 	},
 	{
 		"key": "access_constraints",
-		"value": "[\"Use Constraints: There is no guarantee of warranty concerning the accuracy of the data. Users should be aware that temporal changes may have occurred since this data set was collected and that some parts of this data may no longer represent actual surface conditions. Users should not use this data for critical applications without a full awareness of its limitations. Acknowledgement of the originating agencies would be appreciated in products derived from these data. Any user who modifies the data is obligated to describe the types of modifications they perform. User specifically agrees not to misrepresent the data, nor to imply that changes made were approved or endorsed by the U.S. Government.\", \"Access Constraints: Any downloading and use of these data signifies a users agreement to comprehension and compliance of the U.S. Government Standard Disclaimer. Insure all portions of metadata are read and clearly understood before using these data in order to protect both user and U.S. Government interests.\"]"
+		"value": "["Use Constraints: There is no guarantee of warranty concerning the accuracy of the data. Users should be aware that temporal changes may have occurred since this data set was collected and that some parts of this data may no longer represent actual surface conditions. Users should not use this data for critical applications without a full awareness of its limitations. Acknowledgement of the originating agencies would be appreciated in products derived from these data. Any user who modifies the data is obligated to describe the types of modifications they perform. User specifically agrees not to misrepresent the data, nor to imply that changes made were approved or endorsed by the U.S. Government.", "Access Constraints: Any downloading and use of these data signifies a users agreement to comprehension and compliance of the U.S. Government Standard Disclaimer. Insure all portions of metadata are read and clearly understood before using these data in order to protect both user and U.S. Government interests."]"
 	},
 	{
 		"key": "spatial_harvester",
@@ -348,7 +348,7 @@
 		"revision_timestamp": "2015-01-16T18:28:14.593903",
 		"is_organization": true,
 		"state": "active",
-		"image_url": "http:\/\/upload.wikimedia.org\/wikipedia\/en\/thumb\/4\/44\/University_of_Idaho_seal.svg\/300px-University_of_Idaho_seal.svg.png",
+		"image_url": "http://upload.wikimedia.org/wikipedia/en/thumb/4/44/University_of_Idaho_seal.svg/300px-University_of_Idaho_seal.svg.png",
 		"revision_id": "761955d7-9530-4622-8609-d0b01c78e177",
 		"type": "organization",
 		"id": "75e22a8a-da5f-46f3-93d8-924063a3703d",

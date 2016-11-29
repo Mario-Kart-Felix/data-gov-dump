@@ -36,7 +36,7 @@
 		"cache_url": null,
 		"name": "GCMD Feedback Form",
 		"created": "2015-11-09T20:30:04.736112",
-		"url": "http:\/\/gcmd.nasa.gov\/MailComments\/MailComments.jsf?rcpt=gcmduso",
+		"url": "http://gcmd.nasa.gov/MailComments/MailComments.jsf?rcpt=gcmduso",
 		"webstore_url": null,
 		"resource_locator_function": "information",
 		"position": 0,
@@ -65,7 +65,7 @@
 		"cache_url": null,
 		"name": "GCMD's Science Keywords and Associated Directory Keywords",
 		"created": "2015-11-09T20:30:04.736146",
-		"url": "http:\/\/gcmd.nasa.gov\/learn\/keyword_list.html",
+		"url": "http://gcmd.nasa.gov/learn/keyword_list.html",
 		"webstore_url": null,
 		"resource_locator_function": "information",
 		"position": 1,
@@ -85,7 +85,7 @@
 	"name": "auroral-electrojet-indices-designed-to-provide-a-global-measure-2-5-minute-intervals-of-auroral",
 	"isopen": false,
 	"url": null,
-	"notes": "The Auroral Electrojet index (AE) is designed to provide a global quantitative measure of auroral zone magnetic activity produced by enhanced ionospheric currents flowing below and within the auroral oval. Ideally, it is the total range of deviation at an instant of time from quiet day values of the horizontal magnetic field (H) around the auroral oval. The indices are derived in response to a need voiced by scientific users. These indices are computed from a\n                    network of geomagnetic observatories, some recording digitally and others as analog, which encircle the northern auroral zone. The AE computation uses horizontal magnetic field values measured at 2.5-minute intervals. AE plus the supplemental indices AL, AU and AO are included in this data file.",
+	"notes": "The Auroral Electrojet index (AE) is designed to provide a global quantitative measure of auroral zone magnetic activity produced by enhanced ionospheric currents flowing below and within the auroral oval. Ideally, it is the total range of deviation at an instant of time from quiet day values of the horizontal magnetic field (H) around the auroral oval. The indices are derived in response to a need voiced by scientific users. These indices are computed from an                    network of geomagnetic observatories, some recording digitally and others as analog, which encircle the northern auroral zone. The AE computation uses horizontal magnetic field values measured at 2.5-minute intervals. AE plus the supplemental indices AL, AU and AO are included in this data file.",
 	"license_title": null,
 	"extras": [{
 		"key": "bbox-east-long",
@@ -121,7 +121,7 @@
 	},
 	{
 		"key": "spatial",
-		"value": "{\"type\": \"Polygon\", \"coordinates\": [[[-180.0, -90.0], [180.0, -90.0], [180.0, 90.0], [-180.0, 90.0], [-180.0, -90.0]]]}"
+		"value": "{"type": "Polygon", "coordinates": [[[-180.0, -90.0], [180.0, -90.0], [180.0, 90.0], [-180.0, 90.0], [-180.0, -90.0]]]}"
 	},
 	{
 		"key": "progress",
@@ -129,7 +129,7 @@
 	},
 	{
 		"key": "access_constraints",
-		"value": "[\"Use Constraints: None\", \"Access Constraints: No Constraints\"]"
+		"value": "["Use Constraints: None", "Access Constraints: No Constraints"]"
 	},
 	{
 		"key": "temporal-extent-begin",
@@ -149,7 +149,7 @@
 	},
 	{
 		"key": "dataset-reference-date",
-		"value": "[{\"type\": \"publication\", \"value\": \"1975-01-01\"}]"
+		"value": "[{"type": "publication", "value": "1975-01-01"}]"
 	},
 	{
 		"key": "frequency-of-update",
@@ -157,7 +157,7 @@
 	},
 	{
 		"key": "licence",
-		"value": "[\"While every effort has been made to ensure that these data are accurate and reliable within the limits of the current state of the art, NOAA cannot assume liability for any damages caused by any errors or omissions in the data.\"]"
+		"value": "["While every effort has been made to ensure that these data are accurate and reliable within the limits of the current state of the art, NOAA cannot assume liability for any damages caused by any errors or omissions in the data."]"
 	},
 	{
 		"key": "metadata_type",
@@ -165,7 +165,7 @@
 	},
 	{
 		"key": "responsible-party",
-		"value": "[{\"name\": \"DOC\/NOAA\/NESDIS\/NCEI > National Centers for Environmental Information, NESDIS, NOAA, U.S. Department of Commerce\", \"roles\": [\"pointOfContact\"]}]"
+		"value": "[{"name": "DOC/NOAA/NESDIS/NCEI > National Centers for Environmental Information, NESDIS, NOAA, U.S. Department of Commerce", "roles": ["pointOfContact"]}]"
 	},
 	{
 		"key": "temporal-extent-end",
@@ -181,7 +181,7 @@
 	},
 	{
 		"package_id": "b9c74f75-3715-42d1-9f35-7539bd84029e",
-		"value": "sun-earth interactions, global, solid earth, doc\/noaa\/nesdis\/ngdc, geomagnetic indices, geomagnetism, horizontal magnetic field, auroral electrojet index, national centers for environmental information, nesdis, noaa, u.s. department of commerce, aurora, doc\/noaa\/nesdis\/ncei, national geophysical data center, nesdis, noaa, u.s. department of commerce, ionosphere\/magnetosphere particles, earth science",
+		"value": "sun-earth interactions, global, solid earth, doc/noaa/nesdis/ngdc, geomagnetic indices, geomagnetism, horizontal magnetic field, auroral electrojet index, national centers for environmental information, nesdis, noaa, u.s. department of commerce, aurora, doc/noaa/nesdis/ncei, national geophysical data center, nesdis, noaa, u.s. department of commerce, ionosphere/magnetosphere particles, earth science",
 		"revision_timestamp": "2015-11-10T01:30:04.483653",
 		"state": "active",
 		"key": "tags",
@@ -211,7 +211,7 @@
 		"revision_timestamp": "2013-03-25T23:05:12.923863",
 		"is_organization": true,
 		"state": "active",
-		"image_url": "https:\/\/fortress.wa.gov\/dfw\/score\/score\/images\/noaa_logo.png",
+		"image_url": "https://fortress.wa.gov/dfw/score/score/images/noaa_logo.png",
 		"revision_id": "c6d43080-22e1-405e-a83d-f2a512d9e867",
 		"type": "organization",
 		"id": "e811f0b4-451f-4896-9e8f-fc6802837819",

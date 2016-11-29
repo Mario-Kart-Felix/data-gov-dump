@@ -37,7 +37,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2013-03-14T14:28:12.226460",
-		"url": "http:\/\/www.des.state.nh.us\/",
+		"url": "http://www.des.state.nh.us/",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 0,
@@ -67,7 +67,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2013-03-14T14:28:12.226474",
-		"url": "http:\/\/<URL:http:\/\/www.granit.sr.unh.edu\/cgi-bin\/nhsearch?dset=repp_pt\/nh>",
+		"url": "http://<URL:http://www.granit.sr.unh.edu/cgi-bin/nhsearch?dset=repp_pt/nh>",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 1,
@@ -115,7 +115,7 @@
 	},
 	{
 		"key": "dataset-reference-date",
-		"value": "[{\"type\": \"publication\", \"value\": \"2005-08-30\"}]"
+		"value": "[{"type": "publication", "value": "2005-08-30"}]"
 	},
 	{
 		"key": "resource-type",
@@ -143,7 +143,7 @@
 	},
 	{
 		"key": "licence",
-		"value": "[\"NHDES is not responsible for the use or interpretation of this information.  Not intended for legal purposes.\"]"
+		"value": "["NHDES is not responsible for the use or interpretation of this information.  Not intended for legal purposes."]"
 	},
 	{
 		"key": "metadata_type",
@@ -151,11 +151,11 @@
 	},
 	{
 		"key": "responsible-party",
-		"value": "[{\"name\": \"New Hampshire Department of Environmental Services\", \"roles\": [\"pointOfContact\"]}]"
+		"value": "[{"name": "New Hampshire Department of Environmental Services", "roles": ["pointOfContact"]}]"
 	},
 	{
 		"key": "spatial",
-		"value": "{\"type\": \"Polygon\", \"coordinates\": [[[-72.587739, 42.69672], [-72.587739, 45.286724], [-70.679137, 45.286724], [-70.679137, 42.69672], [-72.587739, 42.69672]]]}"
+		"value": "{"type": "Polygon", "coordinates": [[[-72.587739, 42.69672], [-72.587739, 45.286724], [-70.679137, 45.286724], [-70.679137, 42.69672], [-72.587739, 42.69672]]]}"
 	},
 	{
 		"key": "guid",
@@ -167,7 +167,7 @@
 	},
 	{
 		"key": "access_constraints",
-		"value": "[\"Use Constraints: User is required to read metadata completely before using the data. Local Resource Protection Priorities (LRPP) were determined through correspondence between the Regional Planning Commissions and municipal boards and officials. The source of local input varies from municipality to municipality. The resources identified in the LRPP are valued locally for their natural or cultural significance, and are not assigned priorities. Landowners' preferences for resource protection have not been determined. The information provided in this coverage is a subset of spatial databases developed by the New Hampshire Department of Environmental Services (NHDES). Development of these databases is an ongoing project; they may not contain all existing and potential sites, stations, or threats. The NHDES is not responsible for the use or interpretation of this information, or for any inaccuracies in the site names, tax map and lot information, or locations. All information is subject to verification. These data are to be used for planning purposes only; distribution is discouraged.\", \"Access Constraints: None\"]"
+		"value": "["Use Constraints: User is required to read metadata completely before using the data. Local Resource Protection Priorities (LRPP) were determined through correspondence between the Regional Planning Commissions and municipal boards and officials. The source of local input varies from municipality to municipality. The resources identified in the LRPP are valued locally for their natural or cultural significance, and are not assigned priorities. Landowners' preferences for resource protection have not been determined. The information provided in this coverage is a subset of spatial databases developed by the New Hampshire Department of Environmental Services (NHDES). Development of these databases is an ongoing project; they may not contain all existing and potential sites, stations, or threats. The NHDES is not responsible for the use or interpretation of this information, or for any inaccuracies in the site names, tax map and lot information, or locations. All information is subject to verification. These data are to be used for planning purposes only; distribution is discouraged.", "Access Constraints: None"]"
 	},
 	{
 		"key": "frequency-of-update",
@@ -205,7 +205,7 @@
 		"revision_timestamp": "2013-03-26T22:59:50.307125",
 		"is_organization": true,
 		"state": "active",
-		"image_url": "http:\/\/www.unh.edu\/images\/UNHlogo.gif",
+		"image_url": "http://www.unh.edu/images/UNHlogo.gif",
 		"revision_id": "af978fed-b308-4bc6-a1ec-56a4dec12ceb",
 		"type": "organization",
 		"id": "7b93b22e-2449-4bf3-bd47-17c1c9046689",

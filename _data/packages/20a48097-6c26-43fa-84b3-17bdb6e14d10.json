@@ -37,7 +37,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2016-03-04T15:47:17.282177",
-		"url": "http:\/\/bios.dfg.ca.gov",
+		"url": "http://bios.dfg.ca.gov",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 0,
@@ -67,7 +67,7 @@
 		"cache_url": null,
 		"name": "Zip File",
 		"created": "2016-03-04T15:47:17.282213",
-		"url": "ftp:\/\/ftp.dfg.ca.gov\/BDB\/GIS\/BIOS\/Public_Datasets\/100_199\/ds122.zip",
+		"url": "ftp://ftp.dfg.ca.gov/BDB/GIS/BIOS/Public_Datasets/100_199/ds122.zip",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 1,
@@ -87,11 +87,11 @@
 	"name": "steelhead-critical-habitat-coast-noaa-ds122fc16c",
 	"isopen": false,
 	"url": null,
-	"notes": "This layer depicts areas designated for Steelhead Critical Habitat as well as habitat type and quality in the Coastal California Steelhead ESUs (evolutionarily significant unit - a \"distinct population\" of Pacific salmon defined as a \"species\" under the Endangered Species Act), including the Northern California ESU, Central California Coast ESU, South-Central California CoastESU, and Southern California ESU. These data represent the stream segments identified as Critical Habitat by the National Marine Fisheries Service (NOAA Fisheries) Southwest Regional Office (SWR). The linework for this layer is based on the California Department of Fish and Game (CDFG) and Pacific States Marine Fisheries Commission (PSMFC) 1:100,000 scale stream based routed hydrography. SWR biologists divided the routed hydrography into stream segments using the best available information to represent local Steelhead distribution and habitat. As a result, each segment has its own unique identifier (GIS_Link) and related presence and habitat information. The data set is in shapefile format and can be included as a map layer in a GIS. This GIS layer is part of a larger mapping effort to define the anadromous distribution and to designate critical habitat in five steelhead ESU's and two Chinook ESU's in California. Several NOAA Fisheries offices participated in this effort. As a result, although the same issues were addressed within each ESU, the offices chose differing approaches to define and populate the habitat attributes. The consequence is that there are some slight differences in the attribute tables between the coastal ESUs and the Central Valley ESUs. For a complete description of the NOAA Fisheries Critical Habitat Designation project and for links to the final report, frequently asked questions, and other project documents, please visit: http:\/\/www.nwr.noaa.gov\/1salmon\/salmesa\/crithab\/CHsite.htm .",
+	"notes": "This layer depicts areas designated for Steelhead Critical Habitat as well as habitat type and quality in the Coastal California Steelhead ESUs (evolutionarily significant unit - a "distinct population" of Pacific salmon defined as a "species" under the Endangered Species Act), including the Northern California ESU, Central California Coast ESU, South-Central California CoastESU, and Southern California ESU. These data represent the stream segments identified as Critical Habitat by the National Marine Fisheries Service (NOAA Fisheries) Southwest Regional Office (SWR). The linework for this layer is based on the California Department of Fish and Game (CDFG) and Pacific States Marine Fisheries Commission (PSMFC) 1:100,000 scale stream based routed hydrography. SWR biologists divided the routed hydrography into stream segments using the best available information to represent local Steelhead distribution and habitat. As a result, each segment has its own unique identifier (GIS_Link) and related presence and habitat information. The data set is in shapefile format and can be included as a map layer in a GIS. This GIS layer is part of a larger mapping effort to define the anadromous distribution and to designate critical habitat in five steelhead ESU's and two Chinook ESU's in California. Several NOAA Fisheries offices participated in this effort. As a result, although the same issues were addressed within each ESU, the offices chose differing approaches to define and populate the habitat attributes. The consequence is that there are some slight differences in the attribute tables between the coastal ESUs and the Central Valley ESUs. For a complete description of the NOAA Fisheries Critical Habitat Designation project and for links to the final report, frequently asked questions, and other project documents, please visit: http://www.nwr.noaa.gov/1salmon/salmesa/crithab/CHsite.htm .",
 	"license_title": null,
 	"extras": [{
 		"key": "responsible-party",
-		"value": "[{\"name\": \"NOAA Fisheries\", \"roles\": [\"pointOfContact\"]}]"
+		"value": "[{"name": "NOAA Fisheries", "roles": ["pointOfContact"]}]"
 	},
 	{
 		"key": "contact-email",
@@ -111,7 +111,7 @@
 	},
 	{
 		"key": "dataset-reference-date",
-		"value": "[{\"type\": \"publication\", \"value\": \"2005-01-01\"}]"
+		"value": "[{"type": "publication", "value": "2005-01-01"}]"
 	},
 	{
 		"key": "resource-type",
@@ -139,7 +139,7 @@
 	},
 	{
 		"key": "licence",
-		"value": "[\"No warranty, expressed or implied is made and no liability is assumed by NOAA Fisheries as to the positional or attribute accuracy of the data. The act of distribution shall not constitute any such warranty and no responsibility is assumed by the U.S. Government in the use of these files.\"]"
+		"value": "["No warranty, expressed or implied is made and no liability is assumed by NOAA Fisheries as to the positional or attribute accuracy of the data. The act of distribution shall not constitute any such warranty and no responsibility is assumed by the U.S. Government in the use of these files."]"
 	},
 	{
 		"key": "metadata_type",
@@ -151,7 +151,7 @@
 	},
 	{
 		"key": "spatial",
-		"value": "{\"type\": \"Polygon\", \"coordinates\": [[[-124.465006, 33.339502], [-117.151519, 33.339502], [-117.151519, 41.508913], [-124.465006, 41.508913], [-124.465006, 33.339502]]]}"
+		"value": "{"type": "Polygon", "coordinates": [[[-124.465006, 33.339502], [-117.151519, 33.339502], [-117.151519, 41.508913], [-124.465006, 41.508913], [-124.465006, 33.339502]]]}"
 	},
 	{
 		"key": "guid",
@@ -163,7 +163,7 @@
 	},
 	{
 		"key": "access_constraints",
-		"value": "[\"Use Constraints: No warranty, expressed or implied is made and no liability is assumed by NOAA Fisheries as to the positional or attribute accuracy of the data. The act of distribution shall not constitute any such warranty and no responsibility is assumed by the U.S. Government in the use of these files.\", \"Access Constraints: None\"]"
+		"value": "["Use Constraints: No warranty, expressed or implied is made and no liability is assumed by NOAA Fisheries as to the positional or attribute accuracy of the data. The act of distribution shall not constitute any such warranty and no responsibility is assumed by the U.S. Government in the use of these files.", "Access Constraints: None"]"
 	},
 	{
 		"key": "spatial_harvester",
@@ -205,7 +205,7 @@
 		"revision_timestamp": "2013-05-31T17:51:13.706377",
 		"is_organization": true,
 		"state": "active",
-		"image_url": "http:\/\/www.ca.gov\/images\/template2012\/header_ca.gov.png",
+		"image_url": "http://www.ca.gov/images/template2012/header_ca.gov.png",
 		"revision_id": "ad94cda4-9394-44d0-9c37-573dc3c47c9a",
 		"type": "organization",
 		"id": "467d900f-8a42-452d-9906-6610dd1a767f",

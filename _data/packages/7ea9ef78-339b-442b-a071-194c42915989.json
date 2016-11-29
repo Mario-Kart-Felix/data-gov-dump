@@ -36,7 +36,7 @@
 		"cache_url": null,
 		"name": "WAF",
 		"created": "2016-11-27T22:58:30.704748",
-		"url": "http:\/\/thor-f5.er.usgs.gov\/ngtoc\/metadata\/waf\/map_indices\/",
+		"url": "http://thor-f5.er.usgs.gov/ngtoc/metadata/waf/map_indices/",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 0,
@@ -65,7 +65,7 @@
 		"cache_url": null,
 		"name": "FileGDB",
 		"created": "2016-11-27T22:58:30.705671",
-		"url": "http:\/\/prd-tnm.s3.amazonaws.com\/index.html?prefix=StagedProducts\/MapIndices\/GDB\/",
+		"url": "http://prd-tnm.s3.amazonaws.com/index.html?prefix=StagedProducts/MapIndices/GDB/",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 1,
@@ -94,7 +94,7 @@
 		"cache_url": null,
 		"name": "Shapefile",
 		"created": "2016-11-27T22:58:30.705684",
-		"url": "http:\/\/prd-tnm.s3.amazonaws.com\/index.html?prefix=StagedProducts\/MapIndices\/Shape\/",
+		"url": "http://prd-tnm.s3.amazonaws.com/index.html?prefix=StagedProducts/MapIndices/Shape/",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 2,
@@ -123,7 +123,7 @@
 		"cache_url": null,
 		"name": "Map Indices Map Server (ArcGIS)",
 		"created": "2016-11-27T22:58:30.705693",
-		"url": "http:\/\/services.nationalmap.gov\/arcgis\/rest\/services\/map_indices\/MapServer",
+		"url": "http://services.nationalmap.gov/arcgis/rest/services/map_indices/MapServer",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 3,
@@ -152,7 +152,7 @@
 		"cache_url": null,
 		"name": "Map Indices Map Server (OGC WMS)",
 		"created": "2016-11-27T22:58:30.705701",
-		"url": "http:\/\/services.nationalmap.gov\/arcgis\/services\/geonames\/MapServer\/WMSServer?request=GetCapabilities&service=WMS",
+		"url": "http://services.nationalmap.gov/arcgis/services/geonames/MapServer/WMSServer?request=GetCapabilities&service=WMS",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 4,
@@ -181,7 +181,7 @@
 		"cache_url": null,
 		"name": "Map Indices Feature Server (OGC WFS)",
 		"created": "2016-11-27T22:58:30.705710",
-		"url": "http:\/\/services.nationalmap.gov\/arcgis\/services\/WFS\/geonames\/MapServer\/WFSServer?request=GetCapabilities&service=WFS",
+		"url": "http://services.nationalmap.gov/arcgis/services/WFS/geonames/MapServer/WFSServer?request=GetCapabilities&service=WFS",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 5,
@@ -211,7 +211,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2016-11-27T22:58:30.705718",
-		"url": "http:\/\/viewer.nationalmap.gov",
+		"url": "http://viewer.nationalmap.gov",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 6,
@@ -271,7 +271,7 @@
 	},
 	{
 		"key": "spatial",
-		"value": "{\"type\": \"Polygon\", \"coordinates\": [[[-179.229655487, -14.4246950943], [179.856674735, -14.4246950943], [179.856674735, 71.4395725902], [-179.229655487, 71.4395725902], [-179.229655487, -14.4246950943]]]}"
+		"value": "{"type": "Polygon", "coordinates": [[[-179.229655487, -14.4246950943], [179.856674735, -14.4246950943], [179.856674735, 71.4395725902], [-179.229655487, 71.4395725902], [-179.229655487, -14.4246950943]]]}"
 	},
 	{
 		"key": "progress",
@@ -279,7 +279,7 @@
 	},
 	{
 		"key": "access_constraints",
-		"value": "[\"Use Constraints: None. Acknowledgment of the U.S. Geological Survey would be appreciated for products derived from these data.\", \"Access Constraints: None\"]"
+		"value": "["Use Constraints: None. Acknowledgment of the U.S. Geological Survey would be appreciated for products derived from these data.", "Access Constraints: None"]"
 	},
 	{
 		"key": "temporal-extent-begin",
@@ -287,7 +287,7 @@
 	},
 	{
 		"key": "contact-email",
-		"value": "http:\/\/www.usgs.gov\/ask\/"
+		"value": "http://www.usgs.gov/ask/"
 	},
 	{
 		"key": "bbox-west-long",
@@ -299,7 +299,7 @@
 	},
 	{
 		"key": "dataset-reference-date",
-		"value": "[{\"type\": \"publication\", \"value\": \"2016-01-01\"}]"
+		"value": "[{"type": "publication", "value": "2016-01-01"}]"
 	},
 	{
 		"key": "frequency-of-update",
@@ -307,7 +307,7 @@
 	},
 	{
 		"key": "licence",
-		"value": "[\"No liability for content or accuracy is presumed by USGS for data.\"]"
+		"value": "["No liability for content or accuracy is presumed by USGS for data."]"
 	},
 	{
 		"key": "metadata_type",
@@ -315,7 +315,7 @@
 	},
 	{
 		"key": "responsible-party",
-		"value": "[{\"name\": \"U.S. Geological Survey, National Geospatial Technical Operations Center\", \"roles\": [\"pointOfContact\"]}]"
+		"value": "[{"name": "U.S. Geological Survey, National Geospatial Technical Operations Center", "roles": ["pointOfContact"]}]"
 	},
 	{
 		"key": "spatial-data-service-type",
@@ -350,14 +350,14 @@
 		"value": "USGS Map Indices Downloadable Data Collection"
 	}],
 	"organization": {
-		"description": "http:\/\/www.usgs.gov\/\r\nThe USGS is a federal science agency that provides impartial information on the health of our ecosystems and environment, the natural hazards that threaten us, the natural resources we rely on, the impacts of climate and land-use change, and the core science systems that help us provide timely, relevant, and useable information.",
+		"description": "http://www.usgs.gov/rnThe USGS is a federal science agency that provides impartial information on the health of our ecosystems and environment, the natural hazards that threaten us, the natural resources we rely on, the impacts of climate and land-use change, and the core science systems that help us provide timely, relevant, and useable information.",
 		"created": "2013-03-14T03:44:38.263357",
 		"title": "U.S. Geological Survey, Department of the Interior",
 		"name": "usgs-gov",
 		"revision_timestamp": "2014-09-02T13:43:52.167023",
 		"is_organization": true,
 		"state": "active",
-		"image_url": "http:\/\/pubs.usgs.gov\/sir\/2004\/5296\/04-5296_confluence_park\/usgs_logo.gif",
+		"image_url": "http://pubs.usgs.gov/sir/2004/5296/04-5296_confluence_park/usgs_logo.gif",
 		"revision_id": "2858aa99-9501-4f96-82e5-9647b968ed66",
 		"type": "organization",
 		"id": "bd2cdd5a-4d65-46c0-9937-c8381175f104",

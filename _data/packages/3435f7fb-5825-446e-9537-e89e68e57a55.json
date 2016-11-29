@@ -36,7 +36,7 @@
 		"cache_url": null,
 		"name": "Shapefile Zip File Directory",
 		"created": "2016-11-21T16:25:59.319594",
-		"url": "http:\/\/www2.census.gov\/geo\/tiger\/TIGER2015\/TABBLOCK",
+		"url": "http://www2.census.gov/geo/tiger/TIGER2015/TABBLOCK",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 0,
@@ -53,7 +53,7 @@
 		"state": "active",
 		"last_modified": null,
 		"hash": "",
-		"description": "Should be used for most mapping projects--this is our most comprehensive dataset. Designed for use with GIS (geographic\n                           information systems).",
+		"description": "Should be used for most mapping projects--this is our most comprehensive dataset. Designed for use with GIS (geographicn                           information systems).",
 		"format": "HTML",
 		"tracking_summary": {
 			"total": 0,
@@ -63,9 +63,9 @@
 		"resource_locator_protocol": "",
 		"mimetype": null,
 		"cache_url": null,
-		"name": "TIGER\/Line\u00ae Shapefiles",
+		"name": "TIGER/Lineu00ae Shapefiles",
 		"created": "2016-11-21T16:25:59.319636",
-		"url": "http:\/\/www.census.gov\/geo\/maps-data\/data\/tiger-line.html",
+		"url": "http://www.census.gov/geo/maps-data/data/tiger-line.html",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 1,
@@ -92,9 +92,9 @@
 		"resource_locator_protocol": "",
 		"mimetype": null,
 		"cache_url": null,
-		"name": "TIGER\/Line\u00ae Shapefiles 2015 Technical Documentation Shapefiles",
+		"name": "TIGER/Lineu00ae Shapefiles 2015 Technical Documentation Shapefiles",
 		"created": "2016-11-21T16:25:59.319646",
-		"url": "http:\/\/www2.census.gov\/geo\/pdfs\/maps-data\/data\/tiger\/tgrshp2015\/TGRSHP2015_TechDoc.pdf",
+		"url": "http://www2.census.gov/geo/pdfs/maps-data/data/tiger/tgrshp2015/TGRSHP2015_TechDoc.pdf",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 2,
@@ -123,7 +123,7 @@
 		"cache_url": null,
 		"name": "Feature Catalog for the 2010 Census Block State-based Shapefile",
 		"created": "2016-11-21T16:25:59.319655",
-		"url": "http:\/\/meta.geo.census.gov\/data\/existing\/decennial\/GEO\/GPMB\/TIGERline\/TIGER2015\/tabblock10\/tl_2015_tabblock10.shp.ea.iso.xml",
+		"url": "http://meta.geo.census.gov/data/existing/decennial/GEO/GPMB/TIGERline/TIGER2015/tabblock10/tl_2015_tabblock10.shp.ea.iso.xml",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 3,
@@ -150,9 +150,9 @@
 		"resource_locator_protocol": "",
 		"mimetype": null,
 		"cache_url": null,
-		"name": "TIGERweb\/tigerWMS_ACS2015 (MapServer)",
+		"name": "TIGERweb/tigerWMS_ACS2015 (MapServer)",
 		"created": "2016-11-21T16:25:59.319663",
-		"url": "https:\/\/tigerweb.geo.census.gov\/arcgis\/services\/TIGERweb\/tigerWMS_2015\/MapServer\/WMSServer",
+		"url": "https://tigerweb.geo.census.gov/arcgis/services/TIGERweb/tigerWMS_2015/MapServer/WMSServer",
 		"webstore_url": null,
 		"resource_locator_function": "download",
 		"position": 4,
@@ -179,9 +179,9 @@
 		"resource_locator_protocol": "",
 		"mimetype": null,
 		"cache_url": null,
-		"name": "TIGERweb\/Tracts_Blocks (MapServer)",
+		"name": "TIGERweb/Tracts_Blocks (MapServer)",
 		"created": "2016-11-21T16:25:59.319671",
-		"url": "https:\/\/tigerweb.geo.census.gov\/arcgis\/rest\/services\/TIGERweb\/Tracts_Blocks\/MapServer",
+		"url": "https://tigerweb.geo.census.gov/arcgis/rest/services/TIGERweb/Tracts_Blocks/MapServer",
 		"webstore_url": null,
 		"resource_locator_function": "download",
 		"position": 5,
@@ -190,7 +190,7 @@
 	}],
 	"num_resources": 6,
 	"tags": [],
-	"title": "TIGER\/Line Shapefile, 2015, Series Information for the 2010 Census Block State-based Shapefile",
+	"title": "TIGER/Line Shapefile, 2015, Series Information for the 2010 Census Block State-based Shapefile",
 	"tracking_summary": {
 		"total": 66,
 		"recent": 4
@@ -201,7 +201,7 @@
 	"name": "tiger-line-shapefile-2015-series-information-for-the-2010-census-block-state-based-shapefile",
 	"isopen": false,
 	"url": null,
-	"notes": "The TIGER\/Line shapefiles and related database files (.dbf) are an extract of selected geographic and cartographic information from the\n               U.S. Census Bureau's Master Address File \/ Topologically Integrated Geographic Encoding and Referencing (MAF\/TIGER) Database (MTDB).  The MTDB represents\n               a seamless national file with no overlaps or gaps between parts, however, each TIGER\/Line shapefile is designed to stand alone as an independent data\n               set, or they can be combined to cover the entire nation.\n\n               Census Blocks are statistical areas bounded on all sides by visible features, such as streets, roads, streams, and railroad tracks, and\/or by nonvisible\n               boundaries such as city, town, township, and county limits, and short line-of-sight extensions of streets and roads.  Census blocks are relatively small\n               in area; for example, a block in a city bounded by streets.  However, census blocks in remote areas are often large and irregular and may even be many\n               square miles in area.  A common misunderstanding is that data users think census blocks are used geographically to build all other census geographic\n               areas, rather all other census geographic areas are updated and then used as the primary constraints, along with roads and water features, to delineate\n               the tabulation blocks.  As a result, all 2010 Census blocks nest within every other 2010 Census geographic area, so that Census Bureau statistical data\n               can be tabulated at the block level and aggregated up to the appropriate geographic areas.  Census blocks cover all territory in the United States,\n               Puerto Rico, and the Island Areas (American Samoa, Guam, the Commonwealth of the Northern Mariana Islands, and the U.S. Virgin Islands).  Blocks are the\n               smallest geographic areas for which the Census Bureau publishes data from the decennial census.  A block may consist of one or more faces.  \n            ",
+	"notes": "The TIGER/Line shapefiles and related database files (.dbf) are an extract of selected geographic and cartographic information from then               U.S. Census Bureau's Master Address File / Topologically Integrated Geographic Encoding and Referencing (MAF/TIGER) Database (MTDB).  The MTDB representsn               a seamless national file with no overlaps or gaps between parts, however, each TIGER/Line shapefile is designed to stand alone as an independent datan               set, or they can be combined to cover the entire nation.nn               Census Blocks are statistical areas bounded on all sides by visible features, such as streets, roads, streams, and railroad tracks, and/or by nonvisiblen               boundaries such as city, town, township, and county limits, and short line-of-sight extensions of streets and roads.  Census blocks are relatively smalln               in area; for example, a block in a city bounded by streets.  However, census blocks in remote areas are often large and irregular and may even be manyn               square miles in area.  A common misunderstanding is that data users think census blocks are used geographically to build all other census geographicn               areas, rather all other census geographic areas are updated and then used as the primary constraints, along with roads and water features, to delineaten               the tabulation blocks.  As a result, all 2010 Census blocks nest within every other 2010 Census geographic area, so that Census Bureau statistical datan               can be tabulated at the block level and aggregated up to the appropriate geographic areas.  Census blocks cover all territory in the United States,n               Puerto Rico, and the Island Areas (American Samoa, Guam, the Commonwealth of the Northern Mariana Islands, and the U.S. Virgin Islands).  Blocks are then               smallest geographic areas for which the Census Bureau publishes data from the decennial census.  A block may consist of one or more faces.  n            ",
 	"license_title": null,
 	"extras": [{
 		"key": "bbox-east-long",
@@ -233,7 +233,7 @@
 	},
 	{
 		"key": "graphic-preview-file",
-		"value": "\/\/tigerweb.geo.census.gov\/arcgis\/services\/TIGERweb\/tigerWMS_Current\/MapServer\/WmsServer?REQUEST=GetMap&SERVICE=WMS&VERSION=1.3.0&LAYERS=2010 Census Blocks,2010 Census Blocks Labels&STYLES=default,default&FORMAT=image\/svg+xml&BGCOLOR=0xFFFFFF&TRANSPARENT=TRUE&CRS=EPSG:4326&BBOX=42.499053,-71.897142,42.52679,-71.889999&WIDTH=891&HEIGHT=751"
+		"value": "//tigerweb.geo.census.gov/arcgis/services/TIGERweb/tigerWMS_Current/MapServer/WmsServer?REQUEST=GetMap&SERVICE=WMS&VERSION=1.3.0&LAYERS=2010 Census Blocks,2010 Census Blocks Labels&STYLES=default,default&FORMAT=image/svg+xml&BGCOLOR=0xFFFFFF&TRANSPARENT=TRUE&CRS=EPSG:4326&BBOX=42.499053,-71.897142,42.52679,-71.889999&WIDTH=891&HEIGHT=751"
 	},
 	{
 		"key": "bbox-south-lat",
@@ -249,7 +249,7 @@
 	},
 	{
 		"key": "spatial",
-		"value": "{\"type\": \"Polygon\", \"coordinates\": [[[-179.231086, -14.601813], [179.859681, -14.601813], [179.859681, 71.441059], [-179.231086, 71.441059], [-179.231086, -14.601813]]]}"
+		"value": "{"type": "Polygon", "coordinates": [[[-179.231086, -14.601813], [179.859681, -14.601813], [179.859681, 71.441059], [-179.231086, 71.441059], [-179.231086, -14.601813]]]}"
 	},
 	{
 		"key": "progress",
@@ -257,7 +257,7 @@
 	},
 	{
 		"key": "access_constraints",
-		"value": "[\" Access Constraints: None\", \" Use Constraints:The TIGER\/Line Shapefile products are not copyrighted however TIGER\/Line and Census TIGER are registered\\n                     trademarks of the U.S. Census Bureau.  These products are free to use in a product or publication, however acknowledgment must be given to the\\n                     U.S. Census Bureau as the source.\\n                     \\n                     The boundary information in the TIGER\/Line Shapefiles are for statistical data collection and tabulation purposes only; their depiction and\\n                     designation for statistical purposes does not constitute a determination of jurisdictional authority or rights of ownership or entitlement and they\\n                     are not legal land descriptions. Coordinates in the TIGER\/Line shapefiles have six implied decimal places, but the positional accuracy of these\\n                     coordinates is not as great as the six decimal places suggest.\"]"
+		"value": "[" Access Constraints: None", " Use Constraints:The TIGER/Line Shapefile products are not copyrighted however TIGER/Line and Census TIGER are registered\n                     trademarks of the U.S. Census Bureau.  These products are free to use in a product or publication, however acknowledgment must be given to the\n                     U.S. Census Bureau as the source.\n                     \n                     The boundary information in the TIGER/Line Shapefiles are for statistical data collection and tabulation purposes only; their depiction and\n                     designation for statistical purposes does not constitute a determination of jurisdictional authority or rights of ownership or entitlement and they\n                     are not legal land descriptions. Coordinates in the TIGER/Line shapefiles have six implied decimal places, but the positional accuracy of these\n                     coordinates is not as great as the six decimal places suggest."]"
 	},
 	{
 		"key": "contact-email",
@@ -273,7 +273,7 @@
 	},
 	{
 		"key": "dataset-reference-date",
-		"value": "[{\"type\": \"publication\", \"value\": \"2015\"}]"
+		"value": "[{"type": "publication", "value": "2015"}]"
 	},
 	{
 		"key": "graphic-preview-description",
@@ -331,7 +331,7 @@
 		"revision_timestamp": "2013-08-29T13:37:04.171127",
 		"is_organization": true,
 		"state": "active",
-		"image_url": "http:\/\/www.census.gov\/main\/img\/home\/CensusLogo-white.png",
+		"image_url": "http://www.census.gov/main/img/home/CensusLogo-white.png",
 		"revision_id": "0995f525-d563-4254-a535-af5b926fe663",
 		"type": "organization",
 		"id": "31c49abe-512a-412a-9cc7-5b2601325d6b",

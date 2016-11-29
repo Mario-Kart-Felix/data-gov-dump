@@ -37,7 +37,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2016-05-30T21:51:06.754114",
-		"url": "https:\/\/coast.noaa.gov\/digitalcoast\/",
+		"url": "https://coast.noaa.gov/digitalcoast/",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 0,
@@ -67,7 +67,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2016-05-30T21:51:06.754156",
-		"url": "https:\/\/coast.noaa.gov\/dataviewer\/#\/lidar\/search\/where:ID=4800",
+		"url": "https://coast.noaa.gov/dataviewer/#/lidar/search/where:ID=4800",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 1,
@@ -97,7 +97,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2016-05-30T21:51:06.754166",
-		"url": "https:\/\/coast.noaa.gov\/htdata\/lidar1_z\/geoid12b\/data\/4800",
+		"url": "https://coast.noaa.gov/htdata/lidar1_z/geoid12b/data/4800",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 2,
@@ -127,7 +127,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2016-05-30T21:51:06.754174",
-		"url": "https:\/\/coast.noaa.gov\/dataviewer",
+		"url": "https://coast.noaa.gov/dataviewer",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 3,
@@ -157,7 +157,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2016-05-30T21:51:06.754181",
-		"url": "https:\/\/coast.noaa.gov",
+		"url": "https://coast.noaa.gov",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 4,
@@ -177,7 +177,7 @@
 	"name": "2014-noaa-post-hurricane-sandy-topobathymetric-lidar-mapping-for-shoreline-mapping",
 	"isopen": false,
 	"url": null,
-	"notes": "These data were collected by the National Oceanic Atmospheric Administration National Geodetic Survey Remote Sensing Division using a Riegl VQ820G system. The data were acquired from 20140108 - 20140522 in four missions. The missions flown on 20140108 and 20140109 represent Low Water missions and the missions flown on 20140516 and 20140522 represent High Water (everything outside of MLLW tidal requirements) missions. The data includes topobathy data in an LAS 1.2 format file classified as unclassified (1), ground (2), topo noise (7), refracted High Water data landward of the MLLW land\/water interface (18), bathy noise (22), noise as defined by the sensor (23), refracted sensor noise (24), water column (25), bathymetric bottom or submerged topography (26), water surface (27), International Hydrographic Organization (IHO) S-57 objects (30), and temporal bathy bottom (31) in accordance with project specifications. Several of the noise classes were filtered out prior to distribution on the Digital Coast. The full project consists of 2,775 square miles along the Atlantic Coast from New York to South Carolina. This dataset represents a contiguous area covering a portion of acquisition block 1 to 140 with 500 m x 500 m lidar tiles.",
+	"notes": "These data were collected by the National Oceanic Atmospheric Administration National Geodetic Survey Remote Sensing Division using a Riegl VQ820G system. The data were acquired from 20140108 - 20140522 in four missions. The missions flown on 20140108 and 20140109 represent Low Water missions and the missions flown on 20140516 and 20140522 represent High Water (everything outside of MLLW tidal requirements) missions. The data includes topobathy data in an LAS 1.2 format file classified as unclassified (1), ground (2), topo noise (7), refracted High Water data landward of the MLLW land/water interface (18), bathy noise (22), noise as defined by the sensor (23), refracted sensor noise (24), water column (25), bathymetric bottom or submerged topography (26), water surface (27), International Hydrographic Organization (IHO) S-57 objects (30), and temporal bathy bottom (31) in accordance with project specifications. Several of the noise classes were filtered out prior to distribution on the Digital Coast. The full project consists of 2,775 square miles along the Atlantic Coast from New York to South Carolina. This dataset represents a contiguous area covering a portion of acquisition block 1 to 140 with 500 m x 500 m lidar tiles.",
 	"license_title": null,
 	"extras": [{
 		"key": "bbox-east-long",
@@ -213,7 +213,7 @@
 	},
 	{
 		"key": "spatial",
-		"value": "{\"type\": \"Polygon\", \"coordinates\": [[[-79.215103, 33.184196], [-71.851784, 33.184196], [-71.851784, 41.087776], [-79.215103, 41.087776], [-79.215103, 33.184196]]]}"
+		"value": "{"type": "Polygon", "coordinates": [[[-79.215103, 33.184196], [-71.851784, 33.184196], [-71.851784, 41.087776], [-79.215103, 41.087776], [-79.215103, 33.184196]]]}"
 	},
 	{
 		"key": "progress",
@@ -221,7 +221,7 @@
 	},
 	{
 		"key": "access_constraints",
-		"value": "[\"Use Constraints: Users should be aware that temporal changes may have occurred since this data set was collected and some parts of this data may no longer represent actual surface conditions. Users should not use this data for critical applications without a full awareness of its limitations.\", \"Access Constraints: None\"]"
+		"value": "["Use Constraints: Users should be aware that temporal changes may have occurred since this data set was collected and some parts of this data may no longer represent actual surface conditions. Users should not use this data for critical applications without a full awareness of its limitations.", "Access Constraints: None"]"
 	},
 	{
 		"key": "temporal-extent-begin",
@@ -241,7 +241,7 @@
 	},
 	{
 		"key": "dataset-reference-date",
-		"value": "[{\"type\": \"publication\", \"value\": \"2015-09-14\"}]"
+		"value": "[{"type": "publication", "value": "2015-09-14"}]"
 	},
 	{
 		"key": "frequency-of-update",
@@ -249,7 +249,7 @@
 	},
 	{
 		"key": "licence",
-		"value": "[\"Any conclusions drawn from the analysis of this information are not the responsibility of NOAA, the National Geodetic Survey, the Office for Coastal Management, or its partners.\"]"
+		"value": "["Any conclusions drawn from the analysis of this information are not the responsibility of NOAA, the National Geodetic Survey, the Office for Coastal Management, or its partners."]"
 	},
 	{
 		"key": "metadata_type",
@@ -257,7 +257,7 @@
 	},
 	{
 		"key": "responsible-party",
-		"value": "[{\"name\": \"National Oceanic and Atmospheric Administration (NOAA), National Ocean Service (NOS), National Geodetic Survey (NGS), Remote Sensing Division\", \"roles\": [\"pointOfContact\"]}]"
+		"value": "[{"name": "National Oceanic and Atmospheric Administration (NOAA), National Ocean Service (NOS), National Geodetic Survey (NGS), Remote Sensing Division", "roles": ["pointOfContact"]}]"
 	},
 	{
 		"key": "temporal-extent-end",
@@ -273,7 +273,7 @@
 	},
 	{
 		"package_id": "581b3ba0-87b4-4a2b-83da-06b3463f82af",
-		"value": "topography, 20140108, 20140109, new jersey, delaware, 20140522, virginia, north carolina, lidar, united states, new york, bathymetry\/topography, south carolina, maryland, 20140516, hurricane sandy",
+		"value": "topography, 20140108, 20140109, new jersey, delaware, 20140522, virginia, north carolina, lidar, united states, new york, bathymetry/topography, south carolina, maryland, 20140516, hurricane sandy",
 		"revision_timestamp": "2015-09-26T23:25:10.117635",
 		"state": "active",
 		"key": "tags",
@@ -303,7 +303,7 @@
 		"revision_timestamp": "2013-03-25T23:05:12.923863",
 		"is_organization": true,
 		"state": "active",
-		"image_url": "https:\/\/fortress.wa.gov\/dfw\/score\/score\/images\/noaa_logo.png",
+		"image_url": "https://fortress.wa.gov/dfw/score/score/images/noaa_logo.png",
 		"revision_id": "c6d43080-22e1-405e-a83d-f2a512d9e867",
 		"type": "organization",
 		"id": "e811f0b4-451f-4896-9e8f-fc6802837819",

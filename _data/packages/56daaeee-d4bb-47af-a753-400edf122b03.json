@@ -37,7 +37,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2015-09-26T15:45:04.470685",
-		"url": "http:\/\/coast.noaa.gov",
+		"url": "http://coast.noaa.gov",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 0,
@@ -67,7 +67,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2015-09-26T15:45:04.470708",
-		"url": "http:\/\/coast.noaa.gov",
+		"url": "http://coast.noaa.gov",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 1,
@@ -94,9 +94,9 @@
 		"resource_locator_protocol": "",
 		"mimetype": null,
 		"cache_url": null,
-		"name": "Where they exist, the supplemental information folder will include acquisition and QA\/QC reports, breaklines, a footprint of the spatial extent of the data and other relevant related information",
+		"name": "Where they exist, the supplemental information folder will include acquisition and QA/QC reports, breaklines, a footprint of the spatial extent of the data and other relevant related information",
 		"created": "2015-09-26T15:45:04.470717",
-		"url": "ftp:\/\/csc.noaa.gov\/pub\/DigitalCoast\/lidar1_z\/geoid12a\/data\/520\/supplemental\/",
+		"url": "ftp://csc.noaa.gov/pub/DigitalCoast/lidar1_z/geoid12a/data/520/supplemental/",
 		"webstore_url": null,
 		"resource_locator_function": "information",
 		"position": 2,
@@ -116,7 +116,7 @@
 	"name": "2007-2008-florida-division-of-emergency-management-fdem-lidar-project-blocks-1-10-southeast-fddb5a",
 	"isopen": false,
 	"url": null,
-	"notes": "This Light Detection and Ranging (LiDAR) LAS dataset is a topographic survey conducted for the State of Florida Division of Emergency Management LiDAR Project. These data were produced for the Florida Division of Emergency Management. The LiDAR point cloud was flown at a density sufficient to support a maximum final post spacing of 4 feet for unobscured areas. 3001 Inc. acquired the data from July 12, 2007 through February 8, 2008. The data was divided into 5000' by 5000' cells that serve as the final tiling scheme. The State of Florida Division of Emergency Management LiDAR Survey was collected under the guidance of a Professional Mapper\/Surveyor.",
+	"notes": "This Light Detection and Ranging (LiDAR) LAS dataset is a topographic survey conducted for the State of Florida Division of Emergency Management LiDAR Project. These data were produced for the Florida Division of Emergency Management. The LiDAR point cloud was flown at a density sufficient to support a maximum final post spacing of 4 feet for unobscured areas. 3001 Inc. acquired the data from July 12, 2007 through February 8, 2008. The data was divided into 5000' by 5000' cells that serve as the final tiling scheme. The State of Florida Division of Emergency Management LiDAR Survey was collected under the guidance of a Professional Mapper/Surveyor.",
 	"license_title": null,
 	"extras": [{
 		"key": "bbox-east-long",
@@ -144,7 +144,7 @@
 	},
 	{
 		"key": "graphic-preview-file",
-		"value": "ftp:\/\/ftp.csc.noaa.gov\/pub\/crs\/beachmap\/qa_docs\/fl\/fdem\/ch2mhill\/ch2mhill_block_index_shapefile.zip"
+		"value": "ftp://ftp.csc.noaa.gov/pub/crs/beachmap/qa_docs/fl/fdem/ch2mhill/ch2mhill_block_index_shapefile.zip"
 	},
 	{
 		"key": "metadata-language",
@@ -160,7 +160,7 @@
 	},
 	{
 		"key": "spatial",
-		"value": "{\"type\": \"Polygon\", \"coordinates\": [[[-81.817534, 24.537523], [-80.021117, 24.537523], [-80.021117, 27.565112], [-81.817534, 27.565112], [-81.817534, 24.537523]]]}"
+		"value": "{"type": "Polygon", "coordinates": [[[-81.817534, 24.537523], [-80.021117, 24.537523], [-80.021117, 27.565112], [-81.817534, 27.565112], [-81.817534, 24.537523]]]}"
 	},
 	{
 		"key": "progress",
@@ -188,7 +188,7 @@
 	},
 	{
 		"key": "dataset-reference-date",
-		"value": "[{\"type\": \"publication\", \"value\": \"2009-01-01\"}]"
+		"value": "[{"type": "publication", "value": "2009-01-01"}]"
 	},
 	{
 		"key": "graphic-preview-description",
@@ -200,7 +200,7 @@
 	},
 	{
 		"key": "licence",
-		"value": "[\"These data depict the elevations at the time of the survey and are only accurate for that time. Users should be aware that\\n            temporal changes may have occurred since this data set was collected and some parts of this data may no longer represent actual surface\\n            conditions. Users should not use this data for critical applications without a full awareness of its limitations. Any conclusions drawn\\n            from analysis of this information are not the responsibility of NOAA or any of its partners. These data are NOT to be used for navigational purposes.\"]"
+		"value": "["These data depict the elevations at the time of the survey and are only accurate for that time. Users should be aware that\n            temporal changes may have occurred since this data set was collected and some parts of this data may no longer represent actual surface\n            conditions. Users should not use this data for critical applications without a full awareness of its limitations. Any conclusions drawn\n            from analysis of this information are not the responsibility of NOAA or any of its partners. These data are NOT to be used for navigational purposes."]"
 	},
 	{
 		"key": "metadata_type",
@@ -208,7 +208,7 @@
 	},
 	{
 		"key": "responsible-party",
-		"value": "[{\"name\": \"Florida Division of Emergency Management (FDEM)\", \"roles\": [\"pointOfContact\"]}]"
+		"value": "[{"name": "Florida Division of Emergency Management (FDEM)", "roles": ["pointOfContact"]}]"
 	},
 	{
 		"key": "temporal-extent-end",
@@ -224,7 +224,7 @@
 	},
 	{
 		"package_id": "56daaeee-d4bb-47af-a753-400edf122b03",
-		"value": "martin county, st. lucie county, photogrammetry, broward county, key west, contour, tin, dsm, las v.1.1 lidar, monroe county, elevation, miami-dade county, palm beach county, florida keys, height, stereo photogrammetry, planimetric, dtm, miami, florida, us, bathymetry\/topography, dem",
+		"value": "martin county, st. lucie county, photogrammetry, broward county, key west, contour, tin, dsm, las v.1.1 lidar, monroe county, elevation, miami-dade county, palm beach county, florida keys, height, stereo photogrammetry, planimetric, dtm, miami, florida, us, bathymetry/topography, dem",
 		"revision_timestamp": "2015-09-26T19:45:04.421296",
 		"state": "active",
 		"key": "tags",
@@ -254,7 +254,7 @@
 		"revision_timestamp": "2013-03-25T23:05:12.923863",
 		"is_organization": true,
 		"state": "active",
-		"image_url": "https:\/\/fortress.wa.gov\/dfw\/score\/score\/images\/noaa_logo.png",
+		"image_url": "https://fortress.wa.gov/dfw/score/score/images/noaa_logo.png",
 		"revision_id": "c6d43080-22e1-405e-a83d-f2a512d9e867",
 		"type": "organization",
 		"id": "e811f0b4-451f-4896-9e8f-fc6802837819",

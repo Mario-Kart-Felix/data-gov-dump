@@ -37,7 +37,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2013-03-15T22:03:16.138067",
-		"url": "http:\/\/www.streamnet.org\/mapping_apps.cfm?tab=bio",
+		"url": "http://www.streamnet.org/mapping_apps.cfm?tab=bio",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 0,
@@ -67,7 +67,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2013-03-15T22:03:16.138090",
-		"url": "http:\/\/www.streamnet.org\/online-data\/GISData.html",
+		"url": "http://www.streamnet.org/online-data/GISData.html",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 1,
@@ -97,7 +97,7 @@
 		"cache_url": null,
 		"name": "Text File",
 		"created": "2013-03-15T22:03:16.138099",
-		"url": "ftp:\/\/ftp.streamnet.org\/pub\/streamnet\/ASCII_Data\/FishDist.txt",
+		"url": "ftp://ftp.streamnet.org/pub/streamnet/ASCII_Data/FishDist.txt",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 2,
@@ -127,7 +127,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2013-03-15T22:03:16.138106",
-		"url": "http:\/\/www.streamnet.org\/pnwr\/pnwrhome.html",
+		"url": "http://www.streamnet.org/pnwr/pnwrhome.html",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 3,
@@ -147,7 +147,7 @@
 	"name": "chum-salmon-distribution-pacific-northwest-updated-march-2006",
 	"isopen": false,
 	"url": null,
-	"notes": "This dataset is a record of fish distribution and activity for CHUM SALMON contained in the StreamNet database. This feature class was created based on linear event data extracted from the StreamNet database on March 21, 2006. Distribution is based upon the best professional judgement of local fish biologists, in the Pacific Northwest Region (Oregon, Washington, and Idaho). These data were collected by biologists at the state fish & wildlife agencies of Washington (WDFW), Oregon (ODFW) and Idaho (IDFG). Data were then compiled by StreamNet staff into paper maps or event tables at the state level. These event tables were submitted to the StreamNet regional staff at Pacific States Marine Fisheries Commision (PSMFC) where this regional distribution feature class was created from the source route event tables. All data is referenced to the PNW 1:100,000 River Reach Hydrography (http:\/\/www.streamnet.org\/pnwr\/pnwrhome.html) on the LLID-based stream routing system.",
+	"notes": "This dataset is a record of fish distribution and activity for CHUM SALMON contained in the StreamNet database. This feature class was created based on linear event data extracted from the StreamNet database on March 21, 2006. Distribution is based upon the best professional judgement of local fish biologists, in the Pacific Northwest Region (Oregon, Washington, and Idaho). These data were collected by biologists at the state fish & wildlife agencies of Washington (WDFW), Oregon (ODFW) and Idaho (IDFG). Data were then compiled by StreamNet staff into paper maps or event tables at the state level. These event tables were submitted to the StreamNet regional staff at Pacific States Marine Fisheries Commision (PSMFC) where this regional distribution feature class was created from the source route event tables. All data is referenced to the PNW 1:100,000 River Reach Hydrography (http://www.streamnet.org/pnwr/pnwrhome.html) on the LLID-based stream routing system.",
 	"license_title": null,
 	"extras": [{
 		"key": "bbox-east-long",
@@ -171,7 +171,7 @@
 	},
 	{
 		"key": "dataset-reference-date",
-		"value": "[{\"type\": \"publication\", \"value\": \"9999-01-01\"}]"
+		"value": "[{"type": "publication", "value": "9999-01-01"}]"
 	},
 	{
 		"key": "resource-type",
@@ -179,7 +179,7 @@
 	},
 	{
 		"key": "responsible-party",
-		"value": "[{\"name\": \"Pacific States Marine Fisheries Commission\", \"roles\": [\"pointOfContact\"]}]"
+		"value": "[{"name": "Pacific States Marine Fisheries Commission", "roles": ["pointOfContact"]}]"
 	},
 	{
 		"key": "spatial-reference-system",
@@ -199,7 +199,7 @@
 	},
 	{
 		"key": "licence",
-		"value": "[\"This product was prepared as a cooperative effort of the U.S. Government, state governments, the region's tribes and tribal fish organizations, and the Pacific States Marine Fisheries Commission. None of these organizations, nor any of their employees, makes any warranty, express or implied, or assumes any legal liability or responsibility for the accuracy, completeness, or usefulness of any information, apparatus, product, or process disclosed, or represents that its use would not infringe on privately owned rights. Reference herein to any specific commercial product, process, or service by trade name, trademark, manufacturer, or otherwise does not necessarily constitute or imply its endorsement, recommendation, or favoring by the participating organizations. The views and opinions of authors expressed herein do not necessarily reflect those of the participating agencies.\"]"
+		"value": "["This product was prepared as a cooperative effort of the U.S. Government, state governments, the region's tribes and tribal fish organizations, and the Pacific States Marine Fisheries Commission. None of these organizations, nor any of their employees, makes any warranty, express or implied, or assumes any legal liability or responsibility for the accuracy, completeness, or usefulness of any information, apparatus, product, or process disclosed, or represents that its use would not infringe on privately owned rights. Reference herein to any specific commercial product, process, or service by trade name, trademark, manufacturer, or otherwise does not necessarily constitute or imply its endorsement, recommendation, or favoring by the participating organizations. The views and opinions of authors expressed herein do not necessarily reflect those of the participating agencies."]"
 	},
 	{
 		"key": "metadata_type",
@@ -207,7 +207,7 @@
 	},
 	{
 		"key": "spatial",
-		"value": "{\"type\": \"Polygon\", \"coordinates\": [[[-125.319417, 42.30475], [-125.319417, 49.063146], [-113.069111, 49.063146], [-113.069111, 42.30475], [-125.319417, 42.30475]]]}"
+		"value": "{"type": "Polygon", "coordinates": [[[-125.319417, 42.30475], [-125.319417, 49.063146], [-113.069111, 49.063146], [-113.069111, 42.30475], [-125.319417, 42.30475]]]}"
 	},
 	{
 		"key": "guid",
@@ -219,7 +219,7 @@
 	},
 	{
 		"key": "access_constraints",
-		"value": "[\"Use Constraints: Data are collected at the 1:100,000 scale and only on streams that are included in the PNW reach LLID-based routing system. Generally, this includes all named streams at the 1:100,000 scale and some unnamed tributaries. Smaller tributaries that are not included in this routing system are not shown in this coverage. This data represents believed instances of fish distribution or habitat that likely supports fish distribution, and as every stream has not been fully evaluated, this is not an all-inclusive list of fish distribution in this region. Each arc included in this coverage represents a stream segment of suitable habitat currently believed to be utilized by wild, natural, and\/or hatchery fish populations and\/or streams where sightings of wild, natural, and\/or hatchery fish have been documented..\", \"Access Constraints: None.\"]"
+		"value": "["Use Constraints: Data are collected at the 1:100,000 scale and only on streams that are included in the PNW reach LLID-based routing system. Generally, this includes all named streams at the 1:100,000 scale and some unnamed tributaries. Smaller tributaries that are not included in this routing system are not shown in this coverage. This data represents believed instances of fish distribution or habitat that likely supports fish distribution, and as every stream has not been fully evaluated, this is not an all-inclusive list of fish distribution in this region. Each arc included in this coverage represents a stream segment of suitable habitat currently believed to be utilized by wild, natural, and/or hatchery fish populations and/or streams where sightings of wild, natural, and/or hatchery fish have been documented..", "Access Constraints: None."]"
 	},
 	{
 		"key": "frequency-of-update",
@@ -257,7 +257,7 @@
 		"revision_timestamp": "2013-03-26T22:13:28.360124",
 		"is_organization": true,
 		"state": "active",
-		"image_url": "http:\/\/www.psmfc.org\/wp-content\/themes\/pacific-state-marine-fisheries-commission\/images\/logo.png",
+		"image_url": "http://www.psmfc.org/wp-content/themes/pacific-state-marine-fisheries-commission/images/logo.png",
 		"revision_id": "00e5f250-e93b-4aa7-aa98-079758cf4772",
 		"type": "organization",
 		"id": "6279ebdd-c41b-45cb-ad1d-770fe599bded",

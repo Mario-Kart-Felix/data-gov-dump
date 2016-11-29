@@ -37,7 +37,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2016-10-08T13:04:07.079376",
-		"url": "https:\/\/iaspub.epa.gov\/sor_internet\/registry\/substreg\/home\/overview\/home.do",
+		"url": "https://iaspub.epa.gov/sor_internet/registry/substreg/home/overview/home.do",
 		"webstore_url": null,
 		"resource_locator_function": "information",
 		"position": 0,
@@ -57,7 +57,7 @@
 	"name": "substance-identification-information-from-epas-substance-registry",
 	"isopen": false,
 	"url": null,
-	"notes": "The Substance Registry Services (SRS) is the authoritative resource for basic information about substances of interest to the U.S. EPA and its state and tribal partners.  Substances, particularly chemicals, can have many valid synonyms.  For example, toluene, methyl benzene, and phenyl methane, are commonly used names for the same chemical.  EPA programs collect environmental data for this chemical using each of these names, plus others.  This diversity leads to problems when a user is looking for programmatic data for toluene but is unaware that the data is stored under the synonym methyl benzene.  For each substance, the SRS identifies the statutes, EPA programs, as well as organization external to EPA, that track or regulate that substance and the synonym used by that statute, EPA program or external organization.  Besides standardized information for each chemical, such as the Chemical Abstracts Services name and the Chemical Abstracts Number and the EPA Registry Name (the EPA standard name), the SRS also includes additional information, such as molecular weight and molecular formula.  Additionally, an SRS Internal Tracking Number uniquely identifies each substance, enabling cross-walking between synonyms. \n\nEPA is providing a large .ZIP file providing the SRS data in CSV format, and a separate small metadata file in XML containing the field names and definitions.",
+	"notes": "The Substance Registry Services (SRS) is the authoritative resource for basic information about substances of interest to the U.S. EPA and its state and tribal partners.  Substances, particularly chemicals, can have many valid synonyms.  For example, toluene, methyl benzene, and phenyl methane, are commonly used names for the same chemical.  EPA programs collect environmental data for this chemical using each of these names, plus others.  This diversity leads to problems when a user is looking for programmatic data for toluene but is unaware that the data is stored under the synonym methyl benzene.  For each substance, the SRS identifies the statutes, EPA programs, as well as organization external to EPA, that track or regulate that substance and the synonym used by that statute, EPA program or external organization.  Besides standardized information for each chemical, such as the Chemical Abstracts Services name and the Chemical Abstracts Number and the EPA Registry Name (the EPA standard name), the SRS also includes additional information, such as molecular weight and molecular formula.  Additionally, an SRS Internal Tracking Number uniquely identifies each substance, enabling cross-walking between synonyms. nnEPA is providing a large .ZIP file providing the SRS data in CSV format, and a separate small metadata file in XML containing the field names and definitions.",
 	"license_title": null,
 	"extras": [{
 		"key": "bbox-east-long",
@@ -93,7 +93,7 @@
 	},
 	{
 		"key": "spatial",
-		"value": "{\"type\": \"Polygon\", \"coordinates\": [[[-180.0, 18.0], [-66.0, 18.0], [-66.0, 72.0], [-180.0, 72.0], [-180.0, 18.0]]]}"
+		"value": "{"type": "Polygon", "coordinates": [[[-180.0, 18.0], [-66.0, 18.0], [-66.0, 72.0], [-180.0, 72.0], [-180.0, 18.0]]]}"
 	},
 	{
 		"key": "progress",
@@ -101,11 +101,11 @@
 	},
 	{
 		"key": "access_constraints",
-		"value": "[\"https:\/\/edg.epa.gov\/EPA_Data_License.html\"]"
+		"value": "["https://edg.epa.gov/EPA_Data_License.html"]"
 	},
 	{
 		"key": "temporal-extent-begin",
-		"value": "\n                  "
+		"value": "n                  "
 	},
 	{
 		"key": "contact-email",
@@ -121,7 +121,7 @@
 	},
 	{
 		"key": "dataset-reference-date",
-		"value": "[{\"type\": \"publication\", \"value\": \"2014\"}, {\"type\": \"revision\", \"value\": \"2014\"}]"
+		"value": "[{"type": "publication", "value": "2014"}, {"type": "revision", "value": "2014"}]"
 	},
 	{
 		"key": "frequency-of-update",
@@ -137,11 +137,11 @@
 	},
 	{
 		"key": "responsible-party",
-		"value": "[{\"name\": \"U.S. EPA Office of Environmental Information (OEI)\", \"roles\": [\"owner\"]}]"
+		"value": "[{"name": "U.S. EPA Office of Environmental Information (OEI)", "roles": ["owner"]}]"
 	},
 	{
 		"key": "temporal-extent-end",
-		"value": "\n                  "
+		"value": "n                  "
 	},
 	{
 		"key": "spatial-data-service-type",
@@ -183,7 +183,7 @@
 		"revision_timestamp": "2014-01-16T18:58:42.895981",
 		"is_organization": true,
 		"state": "active",
-		"image_url": "http:\/\/edg.epa.gov\/EPALogo.svg",
+		"image_url": "http://edg.epa.gov/EPALogo.svg",
 		"revision_id": "f0e4b475-7424-4ce0-9a22-412e7e595154",
 		"type": "organization",
 		"id": "6d90e48d-3076-4327-b2f4-c33919f374d5",

@@ -37,7 +37,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2016-06-09T03:18:40.134679",
-		"url": "http:\/\/msdis-maps.missouri.edu\/",
+		"url": "http://msdis-maps.missouri.edu/",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 0,
@@ -67,7 +67,7 @@
 		"cache_url": null,
 		"name": "XML File",
 		"created": "2016-06-09T03:18:40.134704",
-		"url": "ftp:\/\/msdis.missouri.edu\/pub\/metadata_gos\/MO_2015_NPDES_Animal_Feeding_Operations_shp.xml",
+		"url": "ftp://msdis.missouri.edu/pub/metadata_gos/MO_2015_NPDES_Animal_Feeding_Operations_shp.xml",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 1,
@@ -97,7 +97,7 @@
 		"cache_url": null,
 		"name": "XML File",
 		"created": "2016-06-09T03:18:40.134713",
-		"url": "https:\/\/www.gisinventory.net\/metadata\/gis-inventory-metadata-224-26179.xml",
+		"url": "https://www.gisinventory.net/metadata/gis-inventory-metadata-224-26179.xml",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 2,
@@ -117,11 +117,11 @@
 	"name": "environmental-monitoring-other-mo-2015-national-pollutant-discharge-elimination-system-animal-",
 	"isopen": false,
 	"url": null,
-	"notes": "This is a point data set depicting animal feeding operations (AFO) outfall locations in Missouri with National Pollutant Discharge Elimination System (NPDES) operating permits. As authorized by Section 402 of the Clean Water Act, the NPDES permit program controls water pollution by regulating point sources that discharge pollutants into the waters of the United States. Point sources are discrete conveyances such as pipes or man-made ditches. Wastewater discharges regulated under the NPDES program include but not limited to facilities such Animal Feeding Operations (AFOs) and Concentrated Animal Feeding Operations (CAFOs). An operation is defined as an Animal Feeding Operation, or AFO, if the facility confines, stables, or feeds animals for 45 days or more in a 12-month period and a ground cover of vegetation is not sustained over at least 50 percent of the confinement area. An operation is defined as a Concentrated Animal Feeding Operation, or CAFO, if it meets the definition of an AFO above and also confines more than 1,000 animal units (1,000 animal units is equal to 2,500 swine; 100,000 broilers; 700 dairy cows; or 1,000 beef steers). An operation's \"Class Size\" is a category that is based upon the total number of animal units confined at an operation. The Class IC, IB and IA are categories that start at 1,000, 3,000 and 7,000 animal units respectively and are required by state regulation to obtain a permit. Class II operations confine less than 1,000 animal units, and by definition, are only an AFO. Class II operations are not required to have a permit, although many voluntarily obtain one anyway. The Department can also require a Class II operation to obtain a permit when an unauthorized discharge has occurred or when a discharge results in a violation of water quality standards. The Class II operations that appear on these maps include only those that are currently permitted and do not represent the total state-wide count of all Class II operations in Missouri. The department does not track nor have records of non-permitted Class II operations.",
+	"notes": "This is a point data set depicting animal feeding operations (AFO) outfall locations in Missouri with National Pollutant Discharge Elimination System (NPDES) operating permits. As authorized by Section 402 of the Clean Water Act, the NPDES permit program controls water pollution by regulating point sources that discharge pollutants into the waters of the United States. Point sources are discrete conveyances such as pipes or man-made ditches. Wastewater discharges regulated under the NPDES program include but not limited to facilities such Animal Feeding Operations (AFOs) and Concentrated Animal Feeding Operations (CAFOs). An operation is defined as an Animal Feeding Operation, or AFO, if the facility confines, stables, or feeds animals for 45 days or more in a 12-month period and a ground cover of vegetation is not sustained over at least 50 percent of the confinement area. An operation is defined as a Concentrated Animal Feeding Operation, or CAFO, if it meets the definition of an AFO above and also confines more than 1,000 animal units (1,000 animal units is equal to 2,500 swine; 100,000 broilers; 700 dairy cows; or 1,000 beef steers). An operation's "Class Size" is a category that is based upon the total number of animal units confined at an operation. The Class IC, IB and IA are categories that start at 1,000, 3,000 and 7,000 animal units respectively and are required by state regulation to obtain a permit. Class II operations confine less than 1,000 animal units, and by definition, are only an AFO. Class II operations are not required to have a permit, although many voluntarily obtain one anyway. The Department can also require a Class II operation to obtain a permit when an unauthorized discharge has occurred or when a discharge results in a violation of water quality standards. The Class II operations that appear on these maps include only those that are currently permitted and do not represent the total state-wide count of all Class II operations in Missouri. The department does not track nor have records of non-permitted Class II operations.",
 	"license_title": null,
 	"extras": [{
 		"key": "responsible-party",
-		"value": "[{\"name\": \"Missouri Spatial Data Information Services (MSDIS)\", \"roles\": [\"pointOfContact\"]}]"
+		"value": "[{"name": "Missouri Spatial Data Information Services (MSDIS)", "roles": ["pointOfContact"]}]"
 	},
 	{
 		"key": "contact-email",
@@ -141,7 +141,7 @@
 	},
 	{
 		"key": "dataset-reference-date",
-		"value": "[{\"type\": \"publication\", \"value\": \"2015-01-01\"}]"
+		"value": "[{"type": "publication", "value": "2015-01-01"}]"
 	},
 	{
 		"key": "resource-type",
@@ -169,7 +169,7 @@
 	},
 	{
 		"key": "licence",
-		"value": "[\"Although these data have been processed successfully on a computer system by the data steward, no warranty either expressed or implied is made regarding the utility of the data on any system, nor shall this notice generated by the Ramona GIS Inventory System or the act of distribution constitute any such warranty. The data steward may have additional liability information associated with delivery or distribution of this product.\"]"
+		"value": "["Although these data have been processed successfully on a computer system by the data steward, no warranty either expressed or implied is made regarding the utility of the data on any system, nor shall this notice generated by the Ramona GIS Inventory System or the act of distribution constitute any such warranty. The data steward may have additional liability information associated with delivery or distribution of this product."]"
 	},
 	{
 		"key": "metadata_type",
@@ -181,7 +181,7 @@
 	},
 	{
 		"key": "spatial",
-		"value": "{\"type\": \"Polygon\", \"coordinates\": [[[-95.77441406, 35.99509048], [-89.10059357, 35.99509048], [-89.10059357, 40.61402893], [-95.77441406, 40.61402893], [-95.77441406, 35.99509048]]]}"
+		"value": "{"type": "Polygon", "coordinates": [[[-95.77441406, 35.99509048], [-89.10059357, 35.99509048], [-89.10059357, 40.61402893], [-95.77441406, 40.61402893], [-95.77441406, 35.99509048]]]}"
 	},
 	{
 		"key": "guid",
@@ -193,7 +193,7 @@
 	},
 	{
 		"key": "access_constraints",
-		"value": "[\"Use Constraints: Although all data in this data set have been compiled by the Missouri Department of Natural Resources, no warranty, expressed or implied, is made by the department as to the accuracy of the data and related materials.\", \"Access Constraints: None\"]"
+		"value": "["Use Constraints: Although all data in this data set have been compiled by the Missouri Department of Natural Resources, no warranty, expressed or implied, is made by the department as to the accuracy of the data and related materials.", "Access Constraints: None"]"
 	},
 	{
 		"key": "spatial_harvester",
@@ -235,7 +235,7 @@
 		"revision_timestamp": "2014-09-11T20:27:16.009304",
 		"is_organization": true,
 		"state": "active",
-		"image_url": "http:\/\/www.nsgic.org\/public_resources\/nsgic-logo-b_1321892056.gif",
+		"image_url": "http://www.nsgic.org/public_resources/nsgic-logo-b_1321892056.gif",
 		"revision_id": "979d3df0-d323-4e1e-ac62-d1623b463626",
 		"type": "organization",
 		"id": "b0b4c45b-a8ca-416b-b463-ee90d0a1a3df",

@@ -37,7 +37,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2013-03-14T20:44:56.666919",
-		"url": "http:\/\/<URL:http:\/\/losco.state.la.us>",
+		"url": "http://<URL:http://losco.state.la.us>",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 0,
@@ -67,7 +67,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2013-03-14T20:44:56.666942",
-		"url": "http:\/\/<URL:http:\/\/losco.state.la.us>",
+		"url": "http://<URL:http://losco.state.la.us>",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 1,
@@ -97,7 +97,7 @@
 		"cache_url": null,
 		"name": "Zip File",
 		"created": "2013-03-14T20:44:56.666951",
-		"url": "http:\/\/lagic.lsu.edu\/data\/lra\/Petro_Refineries_2000.zip",
+		"url": "http://lagic.lsu.edu/data/lra/Petro_Refineries_2000.zip",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 2,
@@ -134,7 +134,7 @@
 	"license_title": null,
 	"extras": [{
 		"key": "responsible-party",
-		"value": "[{\"name\": \"Louisiana Oil Spill Coordinator's Office\", \"roles\": [\"pointOfContact\"]}]"
+		"value": "[{"name": "Louisiana Oil Spill Coordinator's Office", "roles": ["pointOfContact"]}]"
 	},
 	{
 		"key": "contact-email",
@@ -154,7 +154,7 @@
 	},
 	{
 		"key": "dataset-reference-date",
-		"value": "[{\"type\": \"publication\", \"value\": \"2007-01-01\"}]"
+		"value": "[{"type": "publication", "value": "2007-01-01"}]"
 	},
 	{
 		"key": "resource-type",
@@ -182,7 +182,7 @@
 	},
 	{
 		"key": "licence",
-		"value": "[\"\\nThe data herein, including but not limited to geographic\\ndata, tabular data, analytical data, electronic data\\nstructures or files, are provided \\\"as is\\\" without warranty of\\nany kind, either expressed or implied, or statutory,\\nincluding, but not limited to, the implied warranties or\\nmerchantability and fitness for a particular purpose.  The\\nentire risk as to the quality and performance of the data is\\nassumed by the user.  No guarantee of accuracy is\\ngranted, nor is any responsibility for reliance thereon\\nassumed.  In no event shall the Louisiana Oil Spill\\nCoordinator's Office (LOSCO) be liable for direct, indirect,\\nincidental, consequential or special damages of any kind,\\nincluding, but not limited to, loss of anticipated profits or\\nbenefits arising out of use of or reliance on the data. The\\nLOSCO does not accept liability for any damages or\\nmisrepresentation caused by inaccuracies in the data or as\\na result of changes to the data caused by system transfers\\nor other transformations or conversions, nor is there\\nresponsibility assumed to maintain the data in any manner\\nor form.\\n\\nThese data have been developed from the best available\\nsources.  Although efforts have been made to ensure that\\nthe data are accurate and reliable, errors and variable\\nconditions originating from physical sources used to\\ndevelop the data may be reflected in the data supplied.\\nUsers must be aware of these conditions and bear\\nresponsibility for the appropriate use of the information with\\nrespect to possible errors, scale, resolution, rectification,\\npositional accuracy, development methodology, time\\nperiod, environmental and climatic conditions and other\\ncircumstances specific to these data.  The user is\\nresponsible for understanding the accuracy limitations of\\nthe data provided herein.  The burden for determining\\nfitness for use lies entirely with the user.  The user should\\nrefer to the accompanying metadata notes for a description\\nof the data and data development procedures.\\n\\nAlthough these data have been processed successfully on\\ncomputers at the LOSCO, no guarantee, expressed or\\nimplied, is made by LOSCO regarding the use of these data\\non any other system, nor does the act of distribution\\nconstitute or imply any such warranty.  Distribution of these\\ndata is intended for information purposes and should not be\\nconsidered authoritative for navigational, engineering, legal\\nand other site-specific uses.\\n LAGIC assumes no liability for this data. Please refer to the originator for more information.\"]"
+		"value": "["\nThe data herein, including but not limited to geographic\ndata, tabular data, analytical data, electronic data\nstructures or files, are provided \"as is\" without warranty of\nany kind, either expressed or implied, or statutory,\nincluding, but not limited to, the implied warranties or\nmerchantability and fitness for a particular purpose.  The\nentire risk as to the quality and performance of the data is\nassumed by the user.  No guarantee of accuracy is\ngranted, nor is any responsibility for reliance thereon\nassumed.  In no event shall the Louisiana Oil Spill\nCoordinator's Office (LOSCO) be liable for direct, indirect,\nincidental, consequential or special damages of any kind,\nincluding, but not limited to, loss of anticipated profits or\nbenefits arising out of use of or reliance on the data. The\nLOSCO does not accept liability for any damages or\nmisrepresentation caused by inaccuracies in the data or as\na result of changes to the data caused by system transfers\nor other transformations or conversions, nor is there\nresponsibility assumed to maintain the data in any manner\nor form.\n\nThese data have been developed from the best available\nsources.  Although efforts have been made to ensure that\nthe data are accurate and reliable, errors and variable\nconditions originating from physical sources used to\ndevelop the data may be reflected in the data supplied.\nUsers must be aware of these conditions and bear\nresponsibility for the appropriate use of the information with\nrespect to possible errors, scale, resolution, rectification,\npositional accuracy, development methodology, time\nperiod, environmental and climatic conditions and other\ncircumstances specific to these data.  The user is\nresponsible for understanding the accuracy limitations of\nthe data provided herein.  The burden for determining\nfitness for use lies entirely with the user.  The user should\nrefer to the accompanying metadata notes for a description\nof the data and data development procedures.\n\nAlthough these data have been processed successfully on\ncomputers at the LOSCO, no guarantee, expressed or\nimplied, is made by LOSCO regarding the use of these data\non any other system, nor does the act of distribution\nconstitute or imply any such warranty.  Distribution of these\ndata is intended for information purposes and should not be\nconsidered authoritative for navigational, engineering, legal\nand other site-specific uses.\n LAGIC assumes no liability for this data. Please refer to the originator for more information."]"
 	},
 	{
 		"key": "metadata_type",
@@ -190,7 +190,7 @@
 	},
 	{
 		"key": "spatial",
-		"value": "{\"type\": \"Polygon\", \"coordinates\": [[[-93.796, 29.526], [-93.796, 32.797], [-89.939, 32.797], [-89.939, 29.526], [-93.796, 29.526]]]}"
+		"value": "{"type": "Polygon", "coordinates": [[[-93.796, 29.526], [-93.796, 32.797], [-89.939, 32.797], [-89.939, 29.526], [-93.796, 29.526]]]}"
 	},
 	{
 		"key": "guid",
@@ -202,7 +202,7 @@
 	},
 	{
 		"key": "access_constraints",
-		"value": "[\"Use Constraints: Acknowledgement of the Louisiana Speaks Regional Plan and Louisiana Recovery Authority would be appreciated in products developed from these data. Sharing new data layers developed directly from these data would be appreciated. Calthorpe Associates has made every reasonable effort to ensure quality and accuracy in producing this data set. Nevertheless, the user should be aware that the information on which it is based may have come from a variety of sources of varying degrees of accuracy. Therefore, Calthorpe Associates cannot guarantee the accuracy of this data set, and does not accept any responsibility for the consequences of its use. These data are not legal documents and are not to be used as such.\", \"Access Constraints: None.\"]"
+		"value": "["Use Constraints: Acknowledgement of the Louisiana Speaks Regional Plan and Louisiana Recovery Authority would be appreciated in products developed from these data. Sharing new data layers developed directly from these data would be appreciated. Calthorpe Associates has made every reasonable effort to ensure quality and accuracy in producing this data set. Nevertheless, the user should be aware that the information on which it is based may have come from a variety of sources of varying degrees of accuracy. Therefore, Calthorpe Associates cannot guarantee the accuracy of this data set, and does not accept any responsibility for the consequences of its use. These data are not legal documents and are not to be used as such.", "Access Constraints: None."]"
 	},
 	{
 		"key": "graphic-preview-file",
@@ -244,7 +244,7 @@
 		"revision_timestamp": "2013-03-25T22:09:53.255504",
 		"is_organization": true,
 		"state": "active",
-		"image_url": "http:\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/2\/2f\/Seal_of_Louisiana.svg\/220px-Seal_of_Louisiana.svg.png",
+		"image_url": "http://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Seal_of_Louisiana.svg/220px-Seal_of_Louisiana.svg.png",
 		"revision_id": "cb2c2109-cc58-4c20-b217-92da3b00ff31",
 		"type": "organization",
 		"id": "c6abf130-9205-49e9-bdde-aff963e263e1",

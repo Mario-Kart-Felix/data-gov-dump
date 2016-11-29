@@ -36,7 +36,7 @@
 		"cache_url": null,
 		"name": "Data Subset Form",
 		"created": "2016-10-19T14:42:38.754981",
-		"url": "http:\/\/coastwatch.pfeg.noaa.gov\/erddap\/tabledap\/erdPrdCtd.html",
+		"url": "http://coastwatch.pfeg.noaa.gov/erddap/tabledap/erdPrdCtd.html",
 		"webstore_url": null,
 		"resource_locator_function": "download",
 		"position": 0,
@@ -65,7 +65,7 @@
 		"cache_url": null,
 		"name": "Make-A-Graph Form",
 		"created": "2016-10-19T14:42:38.755004",
-		"url": "http:\/\/coastwatch.pfeg.noaa.gov\/erddap\/tabledap\/erdPrdCtd.graph",
+		"url": "http://coastwatch.pfeg.noaa.gov/erddap/tabledap/erdPrdCtd.graph",
 		"webstore_url": null,
 		"resource_locator_function": "mapDigital",
 		"position": 1,
@@ -94,7 +94,7 @@
 		"cache_url": null,
 		"name": "Background Information",
 		"created": "2016-10-19T14:42:38.755013",
-		"url": "https:\/\/swfsc.noaa.gov\/PRD\/",
+		"url": "https://swfsc.noaa.gov/PRD/",
 		"webstore_url": null,
 		"resource_locator_function": "information",
 		"position": 2,
@@ -123,7 +123,7 @@
 		"cache_url": null,
 		"name": "Background Information",
 		"created": "2016-10-19T14:42:38.755020",
-		"url": "https:\/\/swfsc.noaa.gov\/PRD\/",
+		"url": "https://swfsc.noaa.gov/PRD/",
 		"webstore_url": null,
 		"resource_locator_function": "information",
 		"position": 3,
@@ -152,7 +152,7 @@
 		"cache_url": null,
 		"name": "Background Information",
 		"created": "2016-10-19T14:42:38.755027",
-		"url": "https:\/\/swfsc.noaa.gov\/PRD\/",
+		"url": "https://swfsc.noaa.gov/PRD/",
 		"webstore_url": null,
 		"resource_locator_function": "information",
 		"position": 4,
@@ -181,7 +181,7 @@
 		"cache_url": null,
 		"name": "ERDDAP-tabledap",
 		"created": "2016-10-19T14:42:38.755034",
-		"url": "http:\/\/coastwatch.pfeg.noaa.gov\/erddap\/tabledap\/erdPrdCtd",
+		"url": "http://coastwatch.pfeg.noaa.gov/erddap/tabledap/erdPrdCtd",
 		"webstore_url": null,
 		"resource_locator_function": "download",
 		"position": 5,
@@ -210,7 +210,7 @@
 		"cache_url": null,
 		"name": "Background Information",
 		"created": "2016-10-19T14:42:38.755041",
-		"url": "https:\/\/swfsc.noaa.gov\/PRD\/",
+		"url": "https://swfsc.noaa.gov/PRD/",
 		"webstore_url": null,
 		"resource_locator_function": "information",
 		"position": 6,
@@ -239,7 +239,7 @@
 		"cache_url": null,
 		"name": "OPeNDAP",
 		"created": "2016-10-19T14:42:38.755048",
-		"url": "http:\/\/coastwatch.pfeg.noaa.gov\/erddap\/tabledap\/erdPrdCtd",
+		"url": "http://coastwatch.pfeg.noaa.gov/erddap/tabledap/erdPrdCtd",
 		"webstore_url": null,
 		"resource_locator_function": "download",
 		"position": 7,
@@ -268,7 +268,7 @@
 		"cache_url": null,
 		"name": "Background Information",
 		"created": "2016-10-19T14:42:38.755055",
-		"url": "https:\/\/swfsc.noaa.gov\/PRD\/",
+		"url": "https://swfsc.noaa.gov/PRD/",
 		"webstore_url": null,
 		"resource_locator_function": "information",
 		"position": 8,
@@ -297,7 +297,7 @@
 		"cache_url": null,
 		"name": "Subset",
 		"created": "2016-10-19T14:42:38.755062",
-		"url": "http:\/\/coastwatch.pfeg.noaa.gov\/erddap\/tabledap\/erdPrdCtd.subset",
+		"url": "http://coastwatch.pfeg.noaa.gov/erddap/tabledap/erdPrdCtd.subset",
 		"webstore_url": null,
 		"resource_locator_function": "download",
 		"position": 9,
@@ -333,7 +333,7 @@
 	},
 	{
 		"key": "coupled-resource",
-		"value": "[{\"href\": [\"#DataIdentification\"], \"uuid\": [], \"title\": []}, {\"href\": [\"#DataIdentification\"], \"uuid\": [], \"title\": []}, {\"href\": [\"#DataIdentification\"], \"uuid\": [], \"title\": []}]"
+		"value": "[{"href": ["#DataIdentification"], "uuid": [], "title": []}, {"href": ["#DataIdentification"], "uuid": [], "title": []}, {"href": ["#DataIdentification"], "uuid": [], "title": []}]"
 	},
 	{
 		"key": "guid",
@@ -353,7 +353,7 @@
 	},
 	{
 		"key": "spatial",
-		"value": "{\"type\": \"Polygon\", \"coordinates\": [[[-155.852, -18.038], [-77.55, -18.038], [-77.55, 47.705], [-155.852, 47.705], [-155.852, -18.038]]]}"
+		"value": "{"type": "Polygon", "coordinates": [[[-155.852, -18.038], [-77.55, -18.038], [-77.55, 47.705], [-155.852, 47.705], [-155.852, -18.038]]]}"
 	},
 	{
 		"key": "progress",
@@ -381,7 +381,7 @@
 	},
 	{
 		"key": "dataset-reference-date",
-		"value": "[{\"type\": \"creation\", \"value\": \"2016-10-09\"}]"
+		"value": "[{"type": "creation", "value": "2016-10-09"}]"
 	},
 	{
 		"key": "frequency-of-update",
@@ -397,7 +397,7 @@
 	},
 	{
 		"key": "responsible-party",
-		"value": "[{\"name\": \"NOAA SWFSC PRD\", \"roles\": [\"pointOfContact\"]}]"
+		"value": "[{"name": "NOAA SWFSC PRD", "roles": ["pointOfContact"]}]"
 	},
 	{
 		"key": "temporal-extent-end",
@@ -413,7 +413,7 @@
 	},
 	{
 		"package_id": "e89c2106-7a95-45db-9f4c-d636688ccc28",
-		"value": "prd, chlorophyll, ocean temperature, color, surface, noaa, sea, euphotic, concentration, ocean, ship, pigments, productivity, temperature, zone, density, trajectory, noaa swfsc prd, station, latitude, integrated, resources, division, swfsc, oceans, water, seawater, concentration_of_chlorophyll_in_sea_water, ocean color, sea surface temperature, data, salinity\/density, chemistry, phaeophytin, longitude, salinity, ctd, protected, sea_surface_temperature, time, identifier, ocean chemistry",
+		"value": "prd, chlorophyll, ocean temperature, color, surface, noaa, sea, euphotic, concentration, ocean, ship, pigments, productivity, temperature, zone, density, trajectory, noaa swfsc prd, station, latitude, integrated, resources, division, swfsc, oceans, water, seawater, concentration_of_chlorophyll_in_sea_water, ocean color, sea surface temperature, data, salinity/density, chemistry, phaeophytin, longitude, salinity, ctd, protected, sea_surface_temperature, time, identifier, ocean chemistry",
 		"revision_timestamp": "2015-09-26T20:23:00.911720",
 		"state": "active",
 		"key": "tags",
@@ -443,7 +443,7 @@
 		"revision_timestamp": "2013-03-25T23:05:12.923863",
 		"is_organization": true,
 		"state": "active",
-		"image_url": "https:\/\/fortress.wa.gov\/dfw\/score\/score\/images\/noaa_logo.png",
+		"image_url": "https://fortress.wa.gov/dfw/score/score/images/noaa_logo.png",
 		"revision_id": "c6d43080-22e1-405e-a83d-f2a512d9e867",
 		"type": "organization",
 		"id": "e811f0b4-451f-4896-9e8f-fc6802837819",

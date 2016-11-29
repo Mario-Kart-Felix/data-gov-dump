@@ -37,7 +37,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2013-03-15T15:36:42.248742",
-		"url": "http:\/\/www.vcgi.org\/dataware\/default.cfm?layer=EnvironOther_GMNFWSR",
+		"url": "http://www.vcgi.org/dataware/default.cfm?layer=EnvironOther_GMNFWSR",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 0,
@@ -64,7 +64,7 @@
 		"revision_timestamp": "2013-03-27T17:47:03.718032",
 		"is_organization": true,
 		"state": "active",
-		"image_url": "http:\/\/vcgi.vermont.gov\/sites\/all\/themes\/vt_template\/logo.png",
+		"image_url": "http://vcgi.vermont.gov/sites/all/themes/vt_template/logo.png",
 		"revision_id": "c5dfbbb0-f1e0-4db6-b566-e932e1520060",
 		"type": "organization",
 		"id": "0c3a4ebc-9929-4f21-bdd0-76a35d52f57d",
@@ -75,11 +75,11 @@
 	"name": "environother-gmnfwsr",
 	"isopen": false,
 	"url": null,
-	"notes": "The dataset contains the Management Area for Eligible Wild, Scenic, and Recreational Rivers designated during the 2006 Forest Plan. This management area is a 1\/4 mile buffer on each side of selected rivers, with various portions of the buffer identified for Wild, Scenic, or Recreational River corridors. The names of the associated rivers are included in the dataset.",
+	"notes": "The dataset contains the Management Area for Eligible Wild, Scenic, and Recreational Rivers designated during the 2006 Forest Plan. This management area is a 1/4 mile buffer on each side of selected rivers, with various portions of the buffer identified for Wild, Scenic, or Recreational River corridors. The names of the associated rivers are included in the dataset.",
 	"owner_org": "0c3a4ebc-9929-4f21-bdd0-76a35d52f57d",
 	"extras": [{
 		"key": "bbox-east-long",
-		"value": "\n-72.588528"
+		"value": "n-72.588528"
 	},
 	{
 		"key": "resource-type",
@@ -87,7 +87,7 @@
 	},
 	{
 		"key": "bbox-north-lat",
-		"value": "\n44.164367"
+		"value": "n44.164367"
 	},
 	{
 		"key": "coupled-resource",
@@ -99,11 +99,11 @@
 	},
 	{
 		"key": "graphic-preview-file",
-		"value": "http:\/\/maps.vcgi.org:8080\/wmsconnector\/com.esri.wms.Esrimap?servicename=DATAWARE_VCGI&VERSION=1.1.1&request=getmap&BBOX=-73.45416,42.72279,-71.46528,45.018356&SRS=EPSG:4326&LAYERS=FeatureClass_ENVIRON_GMNFWSR_POLY&WIDTH=300&HEIGHT=400&FORMAT=image\/gif"
+		"value": "http://maps.vcgi.org:8080/wmsconnector/com.esri.wms.Esrimap?servicename=DATAWARE_VCGI&VERSION=1.1.1&request=getmap&BBOX=-73.45416,42.72279,-71.46528,45.018356&SRS=EPSG:4326&LAYERS=FeatureClass_ENVIRON_GMNFWSR_POLY&WIDTH=300&HEIGHT=400&FORMAT=image/gif"
 	},
 	{
 		"key": "bbox-south-lat",
-		"value": "\n42.821867"
+		"value": "n42.821867"
 	},
 	{
 		"key": "spatial-reference-system",
@@ -111,11 +111,11 @@
 	},
 	{
 		"key": "spatial",
-		"value": "{\"type\": \"Polygon\", \"coordinates\": [[[-73.277423, 42.821867], [-73.277423, 44.164367], [-72.588528, 44.164367], [-72.588528, 42.821867], [-73.277423, 42.821867]]]}"
+		"value": "{"type": "Polygon", "coordinates": [[[-73.277423, 42.821867], [-73.277423, 44.164367], [-72.588528, 44.164367], [-72.588528, 42.821867], [-73.277423, 42.821867]]]}"
 	},
 	{
 		"key": "access_constraints",
-		"value": "[\"Use Constraints: The Forest Service uses the most current and complete data available. GIS data and product accuracy may vary. They may be developed from sources of differing accuracy; accurate only at certain scales; based on modeling or interpretation; incomplete while being created or revised; etc. Using GIS products for purposes other than those for which they were created, may yield inaccurate or misleading results. The Forest Service reserves the right to correct, update, modify or replace GIS products without notification.\", \"Access Constraints: VCGI, GMNF, and the State of VT make no representations of any kind, including but not limited to the warranties of merchantability or fitness for a particular use, nor are any such warranties to be implied with respect to the data.\"]"
+		"value": "["Use Constraints: The Forest Service uses the most current and complete data available. GIS data and product accuracy may vary. They may be developed from sources of differing accuracy; accurate only at certain scales; based on modeling or interpretation; incomplete while being created or revised; etc. Using GIS products for purposes other than those for which they were created, may yield inaccurate or misleading results. The Forest Service reserves the right to correct, update, modify or replace GIS products without notification.", "Access Constraints: VCGI, GMNF, and the State of VT make no representations of any kind, including but not limited to the warranties of merchantability or fitness for a particular use, nor are any such warranties to be implied with respect to the data."]"
 	},
 	{
 		"key": "temporal-extent-begin",
@@ -127,7 +127,7 @@
 	},
 	{
 		"key": "bbox-west-long",
-		"value": "\n-73.277423"
+		"value": "n-73.277423"
 	},
 	{
 		"key": "metadata-date",
@@ -135,7 +135,7 @@
 	},
 	{
 		"key": "dataset-reference-date",
-		"value": "[{\"type\": \"publication\", \"value\": \"2009-06-01\"}]"
+		"value": "[{"type": "publication", "value": "2009-06-01"}]"
 	},
 	{
 		"key": "frequency-of-update",
@@ -143,7 +143,7 @@
 	},
 	{
 		"key": "licence",
-		"value": "[\"See access and use constraints information.\"]"
+		"value": "["See access and use constraints information."]"
 	},
 	{
 		"key": "metadata_type",
@@ -151,7 +151,7 @@
 	},
 	{
 		"key": "responsible-party",
-		"value": "[{\"name\": \"Green Mountain & Finger Lakes National Forest\", \"roles\": [\"pointOfContact\"]}]"
+		"value": "[{"name": "Green Mountain & Finger Lakes National Forest", "roles": ["pointOfContact"]}]"
 	},
 	{
 		"key": "temporal-extent-end",

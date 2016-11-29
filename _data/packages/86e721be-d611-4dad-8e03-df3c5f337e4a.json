@@ -37,7 +37,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2015-06-19T12:41:59.259166",
-		"url": "http:\/\/hazards.fema.gov",
+		"url": "http://hazards.fema.gov",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 0,
@@ -67,7 +67,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2015-06-19T12:41:59.259187",
-		"url": "http:\/\/www.fema.gov\/msc",
+		"url": "http://www.fema.gov/msc",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 1,
@@ -87,11 +87,11 @@
 	"name": "basemap-framework-submission-for-howell-county-mo",
 	"isopen": false,
 	"url": null,
-	"notes": "The Digital Flood Insurance Rate Map (DFIRM) Database depicts flood risk information and supporting data used to develop the risk data. The primary risk classifications used are the 1-percent-annual-chance flood event, the 0.2-percent-annual- chance flood event, and areas of minimal flood risk. The DFIRM Database is derived from Flood Insurance Studies (FISs), previously published Flood Insurance Rate Maps (FIRMs), flood hazard analyses performed in support of the FISs and FIRMs, and new mapping data, where available. The FISs and FIRMs are published by the Federal Emergency Management Agency (FEMA). The file is georeferenced to earth's surface using the UTM projection and coordinate system. The specifications for the horizontal control of DFIRM data files are consistent with those required for mapping at a scale of 1:12,000. Purpose: The FIRM is the basis for floodplain management, mitigation, and insurance activities for the National Flood Insurance Program (NFIP). Insurance applications include enforcement of the mandatory purchase requirement of the Flood Disaster Protection Act, which \"... requires the purchase of flood insurance by property owners who are being assisted by Federal programs or by Federally supervised, regulated or insured agencies or institutions in the acquisition or improvement of land facilities located or to be located in identified areas having special flood hazards,\" Section 2 (b) (4) of the Flood Disaster Protection Act of 1973. In addition to the identification of Special Flood Hazard Areas (SFHAs), the risk zones shown on the FIRMs are the basis for the establishment of premium rates for flood coverage offered through the NFIP.",
+	"notes": "The Digital Flood Insurance Rate Map (DFIRM) Database depicts flood risk information and supporting data used to develop the risk data. The primary risk classifications used are the 1-percent-annual-chance flood event, the 0.2-percent-annual- chance flood event, and areas of minimal flood risk. The DFIRM Database is derived from Flood Insurance Studies (FISs), previously published Flood Insurance Rate Maps (FIRMs), flood hazard analyses performed in support of the FISs and FIRMs, and new mapping data, where available. The FISs and FIRMs are published by the Federal Emergency Management Agency (FEMA). The file is georeferenced to earth's surface using the UTM projection and coordinate system. The specifications for the horizontal control of DFIRM data files are consistent with those required for mapping at a scale of 1:12,000. Purpose: The FIRM is the basis for floodplain management, mitigation, and insurance activities for the National Flood Insurance Program (NFIP). Insurance applications include enforcement of the mandatory purchase requirement of the Flood Disaster Protection Act, which "... requires the purchase of flood insurance by property owners who are being assisted by Federal programs or by Federally supervised, regulated or insured agencies or institutions in the acquisition or improvement of land facilities located or to be located in identified areas having special flood hazards," Section 2 (b) (4) of the Flood Disaster Protection Act of 1973. In addition to the identification of Special Flood Hazard Areas (SFHAs), the risk zones shown on the FIRMs are the basis for the establishment of premium rates for flood coverage offered through the NFIP.",
 	"license_title": null,
 	"extras": [{
 		"key": "responsible-party",
-		"value": "[{\"name\": \"Federal Emergency Management Agency\", \"roles\": [\"pointOfContact\"]}]"
+		"value": "[{"name": "Federal Emergency Management Agency", "roles": ["pointOfContact"]}]"
 	},
 	{
 		"key": "contact-email",
@@ -111,7 +111,7 @@
 	},
 	{
 		"key": "dataset-reference-date",
-		"value": "[{\"type\": \"publication\", \"value\": \"2008-02-29\"}]"
+		"value": "[{"type": "publication", "value": "2008-02-29"}]"
 	},
 	{
 		"key": "resource-type",
@@ -139,7 +139,7 @@
 	},
 	{
 		"key": "licence",
-		"value": "[\"\\nNo warranty expressed or implied is made by FEMA regarding the utility of the data on any other \\nsystem nor shall the act of distribution constitute any such warranty.\\n\"]"
+		"value": "["\nNo warranty expressed or implied is made by FEMA regarding the utility of the data on any other \nsystem nor shall the act of distribution constitute any such warranty.\n"]"
 	},
 	{
 		"key": "metadata_type",
@@ -151,7 +151,7 @@
 	},
 	{
 		"key": "spatial",
-		"value": "{\"type\": \"Polygon\", \"coordinates\": [[[-92.135446, 36.430037], [-91.610367, 36.430037], [-91.610367, 37.069972], [-92.135446, 37.069972], [-92.135446, 36.430037]]]}"
+		"value": "{"type": "Polygon", "coordinates": [[[-92.135446, 36.430037], [-91.610367, 36.430037], [-91.610367, 37.069972], [-92.135446, 37.069972], [-92.135446, 36.430037]]]}"
 	},
 	{
 		"key": "guid",
@@ -163,7 +163,7 @@
 	},
 	{
 		"key": "access_constraints",
-		"value": "[\"Use Constraints: The hardcopy FIRM and DFIRM and the accompanying FISs are the official designation of SFHAs and Base Flood Elevations (BFEs) for the NFIP. For the purposes of the NFIP, changes to the flood risk information published by FEMA may only be performed by FEMA and through the mechanisms established in the NFIP regulations (44 CFR Parts 59-78). These digital data are produced in conjunction with the hardcopy FIRMs and generally match the hardcopy map exactly. However the hardcopy flood maps and flood profiles are the authoritative documents for the NFIP. Acknowledgement of FEMA would be appreciated in products derived from these data.\", \"Access Constraints: None\"]"
+		"value": "["Use Constraints: The hardcopy FIRM and DFIRM and the accompanying FISs are the official designation of SFHAs and Base Flood Elevations (BFEs) for the NFIP. For the purposes of the NFIP, changes to the flood risk information published by FEMA may only be performed by FEMA and through the mechanisms established in the NFIP regulations (44 CFR Parts 59-78). These digital data are produced in conjunction with the hardcopy FIRMs and generally match the hardcopy map exactly. However the hardcopy flood maps and flood profiles are the authoritative documents for the NFIP. Acknowledgement of FEMA would be appreciated in products derived from these data.", "Access Constraints: None"]"
 	},
 	{
 		"key": "spatial_harvester",
@@ -205,7 +205,7 @@
 		"revision_timestamp": "2013-03-25T17:20:37.167472",
 		"is_organization": true,
 		"state": "active",
-		"image_url": "http:\/\/ep4u.sm4.biz\/communities\/7\/004\/008\/908\/237\/images\/4543640096_pre.jpg",
+		"image_url": "http://ep4u.sm4.biz/communities/7/004/008/908/237/images/4543640096_pre.jpg",
 		"revision_id": "42c731d4-22ea-4393-b3b6-100cc50fc0bd",
 		"type": "organization",
 		"id": "ae816746-a815-4a3f-805d-2b51b561c626",

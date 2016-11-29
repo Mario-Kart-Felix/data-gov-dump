@@ -37,7 +37,7 @@
 		"cache_url": null,
 		"name": "Zip File",
 		"created": "2016-11-04T15:59:02.427371",
-		"url": "https:\/\/edg.epa.gov\/data\/PUBLIC\/R5\/EDGIndianLandsCensus2016r1.zip",
+		"url": "https://edg.epa.gov/data/PUBLIC/R5/EDGIndianLandsCensus2016r1.zip",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 0,
@@ -67,7 +67,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2016-11-04T15:59:02.427433",
-		"url": "https:\/\/edg.epa.gov",
+		"url": "https://edg.epa.gov",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 1,
@@ -97,7 +97,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2016-11-04T15:59:02.427463",
-		"url": "https:\/\/www.census.gov\/geo\/maps-data\/data\/tiger-line.html",
+		"url": "https://www.census.gov/geo/maps-data/data/tiger-line.html",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 2,
@@ -106,7 +106,7 @@
 	}],
 	"num_resources": 3,
 	"tags": [],
-	"title": "2016 American Indian\/Alaska Native\/Native Hawaiian Areas (AIANNH) Michigan, Minnesota, and Wisconsin",
+	"title": "2016 American Indian/Alaska Native/Native Hawaiian Areas (AIANNH) Michigan, Minnesota, and Wisconsin",
 	"tracking_summary": {
 		"total": 3,
 		"recent": 3
@@ -117,7 +117,7 @@
 	"name": "2016-american-indian-alaska-native-native-hawaiian-areas-aiannh-michigan-minnesota-and-wisconsi",
 	"isopen": false,
 	"url": null,
-	"notes": "The TIGER\/Line shapefiles and related database files (.dbf) are an extract of selected geographic and cartographic information from the U.S. Census Bureau's Master Address File \/ Topologically Integrated Geographic Encoding and Referencing (MAF\/TIGER) Database (MTDB). The MTDB represents a seamless national file with no overlaps or gaps between parts, however, each TIGER\/Line shapefile is designed to stand alone as an independent data set, or they can be combined to cover the entire nation. The American Indian\/Alaska Native\/Native Hawaiian (AIANNH) Areas Shapefile includes the following legal entities: federally recognized American Indian reservations and off-reservation trust land areas, state-recognized American Indian reservations, and Hawaiian home lands (HHLs). The statistical entities included are Alaska Native village statistical areas (ANVSAs), Oklahoma tribal statistical areas (OTSAs), tribal designated statistical areas (TDSAs), and state designated tribal statistical areas (SDTSAs). Joint use areas are also included in this shapefile refer to areas that are administered jointly and\/or claimed by two or more American Indian tribes. The Census Bureau designates both legal and statistical joint use areas as unique geographic entities for the purpose of presenting statistical data. The Bureau of Indian Affairs (BIA) within the U.S. Department of the Interior (DOI) provides the list of federally recognized tribes and only provides legal boundary information when the tribes need supporting records, if a boundary is based on treaty or another document that is historical or open to legal interpretation, or when another tribal, state, or local government challenges the depiction of a reservation or off-reservation trust land. The boundaries for federally recognized American Indian reservations and off-reservation trust lands are as of January 1, 2016, as reported by the federally recognized tribal governments through the Census Bureau's Boundary and Annexation Survey (BAS). The boundaries for state-recognized American Indian reservations and for SDTSAs were delineated by a state governor-appointed liaisons for the 2010 Census through the State American Indian Reservation Program and TSAP respectively. In order to create this file, the U.S. EPA Region 5 extracted the Indian land boundaries within Michigan, Minnesota and Wisconsin, created map labels based on preferred Region 5 names, and gathered tribal government web site locations. Please see Processing Steps and Attribute Information for more information.",
+	"notes": "The TIGER/Line shapefiles and related database files (.dbf) are an extract of selected geographic and cartographic information from the U.S. Census Bureau's Master Address File / Topologically Integrated Geographic Encoding and Referencing (MAF/TIGER) Database (MTDB). The MTDB represents a seamless national file with no overlaps or gaps between parts, however, each TIGER/Line shapefile is designed to stand alone as an independent data set, or they can be combined to cover the entire nation. The American Indian/Alaska Native/Native Hawaiian (AIANNH) Areas Shapefile includes the following legal entities: federally recognized American Indian reservations and off-reservation trust land areas, state-recognized American Indian reservations, and Hawaiian home lands (HHLs). The statistical entities included are Alaska Native village statistical areas (ANVSAs), Oklahoma tribal statistical areas (OTSAs), tribal designated statistical areas (TDSAs), and state designated tribal statistical areas (SDTSAs). Joint use areas are also included in this shapefile refer to areas that are administered jointly and/or claimed by two or more American Indian tribes. The Census Bureau designates both legal and statistical joint use areas as unique geographic entities for the purpose of presenting statistical data. The Bureau of Indian Affairs (BIA) within the U.S. Department of the Interior (DOI) provides the list of federally recognized tribes and only provides legal boundary information when the tribes need supporting records, if a boundary is based on treaty or another document that is historical or open to legal interpretation, or when another tribal, state, or local government challenges the depiction of a reservation or off-reservation trust land. The boundaries for federally recognized American Indian reservations and off-reservation trust lands are as of January 1, 2016, as reported by the federally recognized tribal governments through the Census Bureau's Boundary and Annexation Survey (BAS). The boundaries for state-recognized American Indian reservations and for SDTSAs were delineated by a state governor-appointed liaisons for the 2010 Census through the State American Indian Reservation Program and TSAP respectively. In order to create this file, the U.S. EPA Region 5 extracted the Indian land boundaries within Michigan, Minnesota and Wisconsin, created map labels based on preferred Region 5 names, and gathered tribal government web site locations. Please see Processing Steps and Attribute Information for more information.",
 	"license_title": null,
 	"extras": [{
 		"key": "bbox-east-long",
@@ -153,7 +153,7 @@
 	},
 	{
 		"key": "spatial",
-		"value": "{\"type\": \"Polygon\", \"coordinates\": [[[-97.646484375, 41.5085772974], [-81.826171875, 41.5085772974], [-81.826171875, 49.5537255135], [-97.646484375, 49.5537255135], [-97.646484375, 41.5085772974]]]}"
+		"value": "{"type": "Polygon", "coordinates": [[[-97.646484375, 41.5085772974], [-81.826171875, 41.5085772974], [-81.826171875, 49.5537255135], [-97.646484375, 49.5537255135], [-97.646484375, 41.5085772974]]]}"
 	},
 	{
 		"key": "progress",
@@ -161,7 +161,7 @@
 	},
 	{
 		"key": "access_constraints",
-		"value": "[\"Use Constraints: The TIGER\/Line Shapefile products are not copyrighted however TIGER\/Line and Census TIGER are registered trademarks of the U.S. Census Bureau. These products are free to use in a product or publication, however acknowledgement must be given to the U.S. Census Bureau as one of the sources. The boundary information in the TIGER\/Line Shapefiles are for statistical data collection and tabulation purposes only; their depiction and designation for statistical purposes does not constitute a determination of jurisdictional authority or rights of ownership or entitlement and they are not legal land descriptions. Coordinates in the TIGER\/Line shapefiles have six implied decimal places, but the positional accuracy of these coordinates is not as great as the six decimal places suggest. Use the following disclaimer when displaying these boundaries \\\"The boundaries of Indian lands displayed on this map consist of reservations and off-reservation trust lands as compiled by the U.S. Census Bureau for the purpose of statistical data collection only. This boundary information is only a guide and is not a legal determination of jurisdictional authority or rights of ownership or entitlement. For specific questions about Indian country boundaries, please consult the U.S. EPA Region 5 Tribal and International Affairs Office and the Office of Regional Counsel.\\\" No warranty, expressed or implied is made with regard to the accuracy of these data, and no liability is assumed by the U.S. Government in general or the U.S. Census Bureau or the U.S. Environmental Protection Agency specifically as to the spatial or attribute accuracy of the data. The act of distribution shall not constitute any such warranty and no responsibility is assumed by the U.S. government in the use of these files.\", \"Access Constraints: None\"]"
+		"value": "["Use Constraints: The TIGER/Line Shapefile products are not copyrighted however TIGER/Line and Census TIGER are registered trademarks of the U.S. Census Bureau. These products are free to use in a product or publication, however acknowledgement must be given to the U.S. Census Bureau as one of the sources. The boundary information in the TIGER/Line Shapefiles are for statistical data collection and tabulation purposes only; their depiction and designation for statistical purposes does not constitute a determination of jurisdictional authority or rights of ownership or entitlement and they are not legal land descriptions. Coordinates in the TIGER/Line shapefiles have six implied decimal places, but the positional accuracy of these coordinates is not as great as the six decimal places suggest. Use the following disclaimer when displaying these boundaries \"The boundaries of Indian lands displayed on this map consist of reservations and off-reservation trust lands as compiled by the U.S. Census Bureau for the purpose of statistical data collection only. This boundary information is only a guide and is not a legal determination of jurisdictional authority or rights of ownership or entitlement. For specific questions about Indian country boundaries, please consult the U.S. EPA Region 5 Tribal and International Affairs Office and the Office of Regional Counsel.\" No warranty, expressed or implied is made with regard to the accuracy of these data, and no liability is assumed by the U.S. Government in general or the U.S. Census Bureau or the U.S. Environmental Protection Agency specifically as to the spatial or attribute accuracy of the data. The act of distribution shall not constitute any such warranty and no responsibility is assumed by the U.S. government in the use of these files.", "Access Constraints: None"]"
 	},
 	{
 		"key": "temporal-extent-begin",
@@ -169,7 +169,7 @@
 	},
 	{
 		"key": "licence_url",
-		"value": "https:\/\/edg.epa.gov\/EPA_Data_License.html"
+		"value": "https://edg.epa.gov/EPA_Data_License.html"
 	},
 	{
 		"key": "contact-email",
@@ -185,15 +185,15 @@
 	},
 	{
 		"key": "dataset-reference-date",
-		"value": "[{\"type\": \"publication\", \"value\": \"2016-10-24\"}]"
+		"value": "[{"type": "publication", "value": "2016-10-24"}]"
 	},
 	{
 		"key": "frequency-of-update",
-		"value": "NO CHANGES OR UPDATES WILL BE MADE TO THIS VERSION OF THE TIGER\/LINE SHAPEFILES. FUTURE RELEASES OF TIGER\/LINE SHAPEFILES WILL REFLECT UPDATES MADE TO THE CENSUS MAF\/TIGER DATABASE."
+		"value": "NO CHANGES OR UPDATES WILL BE MADE TO THIS VERSION OF THE TIGER/LINE SHAPEFILES. FUTURE RELEASES OF TIGER/LINE SHAPEFILES WILL REFLECT UPDATES MADE TO THE CENSUS MAF/TIGER DATABASE."
 	},
 	{
 		"key": "licence",
-		"value": "[\"https:\/\/edg.epa.gov\/EPA_Data_License.html\"]"
+		"value": "["https://edg.epa.gov/EPA_Data_License.html"]"
 	},
 	{
 		"key": "metadata_type",
@@ -201,7 +201,7 @@
 	},
 	{
 		"key": "responsible-party",
-		"value": "[{\"name\": \"U.S. Environmental Protection Agency, Region 5\", \"roles\": [\"pointOfContact\"]}]"
+		"value": "[{"name": "U.S. Environmental Protection Agency, Region 5", "roles": ["pointOfContact"]}]"
 	},
 	{
 		"key": "temporal-extent-end",
@@ -247,7 +247,7 @@
 		"revision_timestamp": "2014-01-16T18:58:42.895981",
 		"is_organization": true,
 		"state": "active",
-		"image_url": "http:\/\/edg.epa.gov\/EPALogo.svg",
+		"image_url": "http://edg.epa.gov/EPALogo.svg",
 		"revision_id": "f0e4b475-7424-4ce0-9a22-412e7e595154",
 		"type": "organization",
 		"id": "6d90e48d-3076-4327-b2f4-c33919f374d5",

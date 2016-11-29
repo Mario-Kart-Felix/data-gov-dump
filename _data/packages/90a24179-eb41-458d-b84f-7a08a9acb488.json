@@ -30,11 +30,11 @@
 			"recent": 2
 		},
 		"mimetype_inner": null,
-		"mimetype": "text\/csv",
+		"mimetype": "text/csv",
 		"cache_url": null,
 		"name": "manufacturingcombenergyenduse-gwh-2014.csv",
 		"created": "2016-08-30T09:29:43.803640",
-		"url": "http:\/\/data.nrel.gov\/files\/50\/ManufacturingCombEnergyEnduse-GWh_2014%20%281%29.csv",
+		"url": "http://data.nrel.gov/files/50/ManufacturingCombEnergyEnduse-GWh_2014%20%281%29.csv",
 		"webstore_url": null,
 		"last_modified": null,
 		"position": 0,
@@ -57,11 +57,11 @@
 			"recent": 2
 		},
 		"mimetype_inner": null,
-		"mimetype": "text\/csv",
+		"mimetype": "text/csv",
 		"cache_url": null,
 		"name": "industrialcombenergy-2014.csv",
 		"created": "2016-08-30T09:29:43.803689",
-		"url": "http:\/\/data.nrel.gov\/files\/50\/IndustrialCombEnergy_2014%20%281%29.csv",
+		"url": "http://data.nrel.gov/files/50/IndustrialCombEnergy_2014%20%281%29.csv",
 		"webstore_url": null,
 		"last_modified": null,
 		"position": 1,
@@ -176,7 +176,7 @@
 	"name": "industrial-facility-combustion-energy-use",
 	"isopen": true,
 	"url": null,
-	"notes": "Facility-level industrial combustion energy use is calculated from greenhouse gas emissions data reported by large emitters (>25,000 metric tons CO2e per year) under the U.S. EPA's Greenhouse Gas Reporting Program (GHGRP, https:\/\/www.epa.gov\/ghgreporting). The calculation applies EPA default emissions factors to reported fuel use by fuel type. Additional facility information is included with calculated combustion energy values, such as industry type (six-digit NAICS code), location (lat, long, zip code, county, and state), combustion unit type, and combustion unit name. \n\nFurther identification of combustion energy use is provided by calculating energy end use (e.g., conventional boiler use, co-generation\/CHP use, process heating, other facility support) by manufacturing NAICS code. Manufacturing facilities are matched by their NAICS code and reported fuel type with the proportion of combustion fuel energy for each end use category identified in the 2010 Energy Information Administration Manufacturing Energy Consumption Survey (MECS, http:\/\/www.eia.gov\/consumption\/manufacturing\/data\/2010\/). MECS data are adjusted to account for data that were withheld or whose end use was unspecified following the procedure described in Fox, Don B., Daniel Sutter, and Jefferson W. Tester. 2011. The Thermal Spectrum of Low-Temperature Energy Use in the United States, NY: Cornell Energy Institute.\n",
+	"notes": "Facility-level industrial combustion energy use is calculated from greenhouse gas emissions data reported by large emitters (>25,000 metric tons CO2e per year) under the U.S. EPA's Greenhouse Gas Reporting Program (GHGRP, https://www.epa.gov/ghgreporting). The calculation applies EPA default emissions factors to reported fuel use by fuel type. Additional facility information is included with calculated combustion energy values, such as industry type (six-digit NAICS code), location (lat, long, zip code, county, and state), combustion unit type, and combustion unit name. nnFurther identification of combustion energy use is provided by calculating energy end use (e.g., conventional boiler use, co-generation/CHP use, process heating, other facility support) by manufacturing NAICS code. Manufacturing facilities are matched by their NAICS code and reported fuel type with the proportion of combustion fuel energy for each end use category identified in the 2010 Energy Information Administration Manufacturing Energy Consumption Survey (MECS, http://www.eia.gov/consumption/manufacturing/data/2010/). MECS data are adjusted to account for data that were withheld or whose end use was unspecified following the procedure described in Fox, Don B., Daniel Sutter, and Jefferson W. Tester. 2011. The Thermal Spectrum of Low-Temperature Energy Use in the United States, NY: Cornell Energy Institute.n",
 	"license_title": "Creative Commons Attribution",
 	"extras": [{
 		"key": "harvest_source_id",
@@ -200,23 +200,23 @@
 	},
 	{
 		"key": "spatial",
-		"value": "{\"type\":\"Polygon\",\"coordinates\":[[[-125.4514,24.5873],[-66.5318,24.5873],[-66.5318,49.2637],[-125.4514,49.2637],[-125.4514,24.5873]]]}"
+		"value": "{"type":"Polygon","coordinates":[[[-125.4514,24.5873],[-66.5318,24.5873],[-66.5318,49.2637],[-125.4514,49.2637],[-125.4514,24.5873]]]}"
 	},
 	{
 		"key": "catalog_conformsTo",
-		"value": "https:\/\/project-open-data.cio.gov\/v1.1\/schema"
+		"value": "https://project-open-data.cio.gov/v1.1/schema"
 	},
 	{
 		"key": "catalog_@context",
-		"value": "https:\/\/project-open-data.cio.gov\/v1.1\/schema\/catalog.jsonld"
+		"value": "https://project-open-data.cio.gov/v1.1/schema/catalog.jsonld"
 	},
 	{
 		"key": "catalog_describedBy",
-		"value": "https:\/\/project-open-data.cio.gov\/v1.1\/schema\/catalog.json"
+		"value": "https://project-open-data.cio.gov/v1.1/schema/catalog.json"
 	},
 	{
 		"key": "format",
-		"value": "text\/csv"
+		"value": "text/csv"
 	},
 	{
 		"key": "harvest_source_title",
@@ -236,7 +236,7 @@
 	},
 	{
 		"key": "landingPage",
-		"value": "http:\/\/data.nrel.gov\/submissions\/50"
+		"value": "http://data.nrel.gov/submissions/50"
 	},
 	{
 		"key": "harvest_object_id",
@@ -244,7 +244,7 @@
 	},
 	{
 		"key": "accessURL",
-		"value": "http:\/\/data.nrel.gov\/files\/50\/ManufacturingCombEnergyEnduse-GWh_2014%20%281%29.csv"
+		"value": "http://data.nrel.gov/files/50/ManufacturingCombEnergyEnduse-GWh_2014%20%281%29.csv"
 	},
 	{
 		"key": "publisher",
@@ -252,7 +252,7 @@
 	},
 	{
 		"key": "license",
-		"value": "https:\/\/creativecommons.org\/licenses\/by\/4.0\/"
+		"value": "https://creativecommons.org/licenses/by/4.0/"
 	},
 	{
 		"key": "modified",
@@ -268,7 +268,7 @@
 	},
 	{
 		"key": "identifier",
-		"value": "http:\/\/en.openei.org\/doe-opendata\/dataset\/f0000000-d9e3-4bd6-80f2-000000000050"
+		"value": "http://en.openei.org/doe-opendata/dataset/f0000000-d9e3-4bd6-80f2-000000000050"
 	},
 	{
 		"state": "active",
@@ -285,7 +285,7 @@
 		"key": "harvest_source_title",
 		"value": "Energy JSON"
 	}],
-	"license_url": "http:\/\/www.opendefinition.org\/licenses\/cc-by",
+	"license_url": "http://www.opendefinition.org/licenses/cc-by",
 	"organization": {
 		"description": "",
 		"created": "2013-05-18T11:31:21.471948",
@@ -294,7 +294,7 @@
 		"revision_timestamp": "2013-05-31T20:48:37.771905",
 		"is_organization": true,
 		"state": "active",
-		"image_url": "http:\/\/energy.gov\/sites\/prod\/files\/styles\/imagelink\/public\/DoE-Logo.jpeg",
+		"image_url": "http://energy.gov/sites/prod/files/styles/imagelink/public/DoE-Logo.jpeg",
 		"revision_id": "14e1d3c1-4cc7-460c-bf1c-b10e3429b4b0",
 		"type": "organization",
 		"id": "735d0118-b2a7-4246-a0e3-608b0fa8d1ec",

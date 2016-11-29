@@ -37,7 +37,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2015-03-10T14:16:03.501877",
-		"url": "http:\/\/www.census.gov\/geo\/maps-data\/data\/tiger-cart-boundary.html",
+		"url": "http://www.census.gov/geo/maps-data/data/tiger-cart-boundary.html",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 0,
@@ -46,7 +46,7 @@
 	}],
 	"num_resources": 1,
 	"tags": [],
-	"title": " Series\n                     Information File for the 2012 Cartographic Boundary File, 2013 State-State\n                     Legislative District (Upper Chamber), 1:500,000",
+	"title": " Seriesn                     Information File for the 2012 Cartographic Boundary File, 2013 State-Staten                     Legislative District (Upper Chamber), 1:500,000",
 	"tracking_summary": {
 		"total": 26,
 		"recent": 1
@@ -57,7 +57,7 @@
 	"name": "series-information-file-for-the-2012-cartographic-boundary-file-2013-state-state-e0533",
 	"isopen": false,
 	"url": null,
-	"notes": "The 2012 cartographic\n               boundary shapefiles are simplified representations of selected geographic areas from\n               the Census Bureau's MAF\/TIGER geographic database. These boundary files are\n               specifically designed for small-scale thematic mapping. When possible generalization\n               is performed with the intent to maintain the hierarchical relationships among\n               geographies and to maintain the alignment of geographies within a file set for a\n               given year. Geographic areas may not align with the same areas from another year.\n               Some geographies are available as nation-based shapefiles while others are available\n               only as state-based files. ",
+	"notes": "The 2012 cartographicn               boundary shapefiles are simplified representations of selected geographic areas fromn               the Census Bureau's MAF/TIGER geographic database. These boundary files aren               specifically designed for small-scale thematic mapping. When possible generalizationn               is performed with the intent to maintain the hierarchical relationships amongn               geographies and to maintain the alignment of geographies within a file set for an               given year. Geographic areas may not align with the same areas from another year.n               Some geographies are available as nation-based shapefiles while others are availablen               only as state-based files. ",
 	"license_title": null,
 	"extras": [{
 		"key": "bbox-east-long",
@@ -97,7 +97,7 @@
 	},
 	{
 		"key": "spatial",
-		"value": "{\"type\": \"Polygon\", \"coordinates\": [[[-179.231086, -14.601813], [179.859681, -14.601813], [179.859681, 71.441059], [-179.231086, 71.441059], [-179.231086, -14.601813]]]}"
+		"value": "{"type": "Polygon", "coordinates": [[[-179.231086, -14.601813], [179.859681, -14.601813], [179.859681, 71.441059], [-179.231086, 71.441059], [-179.231086, -14.601813]]]}"
 	},
 	{
 		"key": "progress",
@@ -105,7 +105,7 @@
 	},
 	{
 		"key": "access_constraints",
-		"value": "[\"Access\\n                     Constraints: None\", \"Use Constraints:\\n                     These products are free to use in a product or publication, however\\n                     acknowledgement must be given to the U.S. Census Bureau as the source. The\\n                     boundary information is for visual display at appropriate small scales only.\\n                     Cartographic boundary files should not be used for geographic analysis\\n                     including area or perimeter calculation. Files should not be used for geocoding\\n                     addresses. Files should not be used for determining precise geographic area\\n                     relationships.\", \"Distribution\\n                     Liability: No warranty, expressed or implied is made with regard to the\\n                     accuracy of these data, and no liability is assumed by the U.S. Government in\\n                     general or the U.S. Census Bureau in specific as to the spatial or attribute\\n                     accuracy of the data. The act of distribution shall not constitute any such\\n                     warranty and no responsibility is assumed by the U.S. government in the use of\\n                     these files. The boundary information is for small-scale mapping purposes only;\\n                     boundary depiction and designation for small-scale mapping purposes do not\\n                     constitute a determination of jurisdictional authority or rights of ownership\\n                     or entitlement and they are not legal land descriptions.\"]"
+		"value": "["Access\n                     Constraints: None", "Use Constraints:\n                     These products are free to use in a product or publication, however\n                     acknowledgement must be given to the U.S. Census Bureau as the source. The\n                     boundary information is for visual display at appropriate small scales only.\n                     Cartographic boundary files should not be used for geographic analysis\n                     including area or perimeter calculation. Files should not be used for geocoding\n                     addresses. Files should not be used for determining precise geographic area\n                     relationships.", "Distribution\n                     Liability: No warranty, expressed or implied is made with regard to the\n                     accuracy of these data, and no liability is assumed by the U.S. Government in\n                     general or the U.S. Census Bureau in specific as to the spatial or attribute\n                     accuracy of the data. The act of distribution shall not constitute any such\n                     warranty and no responsibility is assumed by the U.S. government in the use of\n                     these files. The boundary information is for small-scale mapping purposes only;\n                     boundary depiction and designation for small-scale mapping purposes do not\n                     constitute a determination of jurisdictional authority or rights of ownership\n                     or entitlement and they are not legal land descriptions."]"
 	},
 	{
 		"key": "temporal-extent-begin",
@@ -113,7 +113,7 @@
 	},
 	{
 		"key": "contact-email",
-		"value": "\n                                 >geo.geography@census.gov"
+		"value": "n                                 >geo.geography@census.gov"
 	},
 	{
 		"key": "bbox-west-long",
@@ -125,7 +125,7 @@
 	},
 	{
 		"key": "dataset-reference-date",
-		"value": "[{\"type\": \"publication\", \"value\": \"2012\"}]"
+		"value": "[{"type": "publication", "value": "2012"}]"
 	},
 	{
 		"key": "frequency-of-update",
@@ -141,7 +141,7 @@
 	},
 	{
 		"key": "responsible-party",
-		"value": "[{\"name\": \">U.S. Department\\n                     of Commerce, U.S. Census Bureau, Geography Division\", \"roles\": [\"pointOfContact\"]}]"
+		"value": "[{"name": ">U.S. Department\n                     of Commerce, U.S. Census Bureau, Geography Division", "roles": ["pointOfContact"]}]"
 	},
 	{
 		"key": "temporal-extent-end",
@@ -187,7 +187,7 @@
 		"revision_timestamp": "2013-08-29T13:37:04.171127",
 		"is_organization": true,
 		"state": "active",
-		"image_url": "http:\/\/www.census.gov\/main\/img\/home\/CensusLogo-white.png",
+		"image_url": "http://www.census.gov/main/img/home/CensusLogo-white.png",
 		"revision_id": "0995f525-d563-4254-a535-af5b926fe663",
 		"type": "organization",
 		"id": "31c49abe-512a-412a-9cc7-5b2601325d6b",

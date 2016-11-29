@@ -23,18 +23,18 @@
 		"size": null,
 		"state": "active",
 		"hash": "",
-		"description": "Penrose Well Temperatures\n\nGeothermal waters have been encountered in several wells near Penrose in Fremont County, Colorado. Most of the wells were drilled for oil and gas exploration and, in a few cases, production.\n\nThis ESRI point shapefile utilizes data from 95 wells in and around the Penrose area provided by the Colorado Oil and Gas Conservation Commission (COGCC) database at   http:\/\/cogcc.state.co.us\/ . Temperature data from the database was used to calculate a temperature gradient for each well. This information was then used to estimate temperatures at various depths.\n\nProjection: UTM Zone 13 NAD27\n \nExtent:\nWest  -105.224871    \tEast  -105.027633 \nNorth  38.486269    \tSouth  38.259507 \n\nOriginators:\nColorado Oil and Gas Conservation Commission (COGCC)\nKaren Christopherson\n",
+		"description": "Penrose Well TemperaturesnnGeothermal waters have been encountered in several wells near Penrose in Fremont County, Colorado. Most of the wells were drilled for oil and gas exploration and, in a few cases, production.nnThis ESRI point shapefile utilizes data from 95 wells in and around the Penrose area provided by the Colorado Oil and Gas Conservation Commission (COGCC) database at   http://cogcc.state.co.us/ . Temperature data from the database was used to calculate a temperature gradient for each well. This information was then used to estimate temperatures at various depths.nnProjection: UTM Zone 13 NAD27n nExtent:nWest  -105.224871    tEast  -105.027633 nNorth  38.486269    tSouth  38.259507 nnOriginators:nColorado Oil and Gas Conservation Commission (COGCC)nKaren Christophersonn",
 		"format": "ZIP",
 		"tracking_summary": {
 			"total": 1,
 			"recent": 1
 		},
 		"mimetype_inner": null,
-		"mimetype": "application\/zip",
+		"mimetype": "application/zip",
 		"cache_url": null,
 		"name": "penrosewelltemps.shp.zip",
 		"created": "2016-04-27T21:26:38.930635",
-		"url": "http:\/\/gdr.openei.org\/files\/343\/PenroseWellTemps.shp.zip",
+		"url": "http://gdr.openei.org/files/343/PenroseWellTemps.shp.zip",
 		"webstore_url": null,
 		"last_modified": null,
 		"position": 0,
@@ -93,7 +93,7 @@
 	"name": "penrose-well-temperatures",
 	"isopen": true,
 	"url": null,
-	"notes": "Penrose Well Temperatures\n\nGeothermal waters have been encountered in several wells near Penrose in Fremont County, Colorado. Most of the wells were drilled for oil and gas exploration and, in a few cases, production.\n\nThis ESRI point shapefile utilizes data from 95 wells in and around the Penrose area provided by the Colorado Oil and Gas Conservation Commission (COGCC) database at   http:\/\/cogcc.state.co.us\/ . Temperature data from the database were used to calculate a temperature gradient for each well. This information was then used to estimate temperatures at various depths.\n\nProjection: UTM Zone 13 NAD27\n \nExtent:\nWest  -105.224871    \tEast  -105.027633 \nNorth  38.486269    \tSouth  38.259507 \n\nOriginators:\nColorado Oil and Gas Conservation Commission (COGCC)\nKaren Christopherson\n",
+	"notes": "Penrose Well TemperaturesnnGeothermal waters have been encountered in several wells near Penrose in Fremont County, Colorado. Most of the wells were drilled for oil and gas exploration and, in a few cases, production.nnThis ESRI point shapefile utilizes data from 95 wells in and around the Penrose area provided by the Colorado Oil and Gas Conservation Commission (COGCC) database at   http://cogcc.state.co.us/ . Temperature data from the database were used to calculate a temperature gradient for each well. This information was then used to estimate temperatures at various depths.nnProjection: UTM Zone 13 NAD27n nExtent:nWest  -105.224871    tEast  -105.027633 nNorth  38.486269    tSouth  38.259507 nnOriginators:nColorado Oil and Gas Conservation Commission (COGCC)nKaren Christophersonn",
 	"license_title": "Creative Commons Attribution",
 	"extras": [{
 		"key": "harvest_source_id",
@@ -117,23 +117,23 @@
 	},
 	{
 		"key": "spatial",
-		"value": "{\"type\":\"Polygon\",\"coordinates\":[[[-105.224871,38.259507],[-105.027633,38.259507],[-105.027633,38.486269],[-105.224871,38.486269],[-105.224871,38.259507]]]}"
+		"value": "{"type":"Polygon","coordinates":[[[-105.224871,38.259507],[-105.027633,38.259507],[-105.027633,38.486269],[-105.224871,38.486269],[-105.224871,38.259507]]]}"
 	},
 	{
 		"key": "catalog_conformsTo",
-		"value": "https:\/\/project-open-data.cio.gov\/v1.1\/schema"
+		"value": "https://project-open-data.cio.gov/v1.1/schema"
 	},
 	{
 		"key": "catalog_@context",
-		"value": "https:\/\/project-open-data.cio.gov\/v1.1\/schema\/catalog.jsonld"
+		"value": "https://project-open-data.cio.gov/v1.1/schema/catalog.jsonld"
 	},
 	{
 		"key": "catalog_describedBy",
-		"value": "https:\/\/project-open-data.cio.gov\/v1.1\/schema\/catalog.json"
+		"value": "https://project-open-data.cio.gov/v1.1/schema/catalog.json"
 	},
 	{
 		"key": "format",
-		"value": "application\/unknown"
+		"value": "application/unknown"
 	},
 	{
 		"key": "harvest_source_title",
@@ -153,7 +153,7 @@
 	},
 	{
 		"key": "landingPage",
-		"value": "http:\/\/gdr.openei.org\/submissions\/343"
+		"value": "http://gdr.openei.org/submissions/343"
 	},
 	{
 		"key": "harvest_object_id",
@@ -161,7 +161,7 @@
 	},
 	{
 		"key": "accessURL",
-		"value": "http:\/\/gdr.openei.org\/files\/343\/PenroseWellTemps.shp.zip"
+		"value": "http://gdr.openei.org/files/343/PenroseWellTemps.shp.zip"
 	},
 	{
 		"key": "publisher",
@@ -169,7 +169,7 @@
 	},
 	{
 		"key": "license",
-		"value": "https:\/\/creativecommons.org\/licenses\/by\/4.0\/"
+		"value": "https://creativecommons.org/licenses/by/4.0/"
 	},
 	{
 		"key": "modified",
@@ -185,7 +185,7 @@
 	},
 	{
 		"key": "identifier",
-		"value": "http:\/\/en.openei.org\/doe-opendata\/dataset\/f0000000-e214-4b72-acd2-000000000343"
+		"value": "http://en.openei.org/doe-opendata/dataset/f0000000-e214-4b72-acd2-000000000343"
 	},
 	{
 		"state": "active",
@@ -202,7 +202,7 @@
 		"key": "harvest_source_title",
 		"value": "Energy JSON"
 	}],
-	"license_url": "http:\/\/www.opendefinition.org\/licenses\/cc-by",
+	"license_url": "http://www.opendefinition.org/licenses/cc-by",
 	"organization": {
 		"description": "",
 		"created": "2013-05-18T11:31:21.471948",
@@ -211,7 +211,7 @@
 		"revision_timestamp": "2013-05-31T20:48:37.771905",
 		"is_organization": true,
 		"state": "active",
-		"image_url": "http:\/\/energy.gov\/sites\/prod\/files\/styles\/imagelink\/public\/DoE-Logo.jpeg",
+		"image_url": "http://energy.gov/sites/prod/files/styles/imagelink/public/DoE-Logo.jpeg",
 		"revision_id": "14e1d3c1-4cc7-460c-bf1c-b10e3429b4b0",
 		"type": "organization",
 		"id": "735d0118-b2a7-4246-a0e3-608b0fa8d1ec",

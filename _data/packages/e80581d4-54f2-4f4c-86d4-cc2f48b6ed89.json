@@ -37,7 +37,7 @@
 		"cache_url": null,
 		"name": "Zip File",
 		"created": "2013-03-15T12:16:45.442060",
-		"url": "http:\/\/irmafiles.nps.gov\/Reference\/Holding\/372600\/zion_cnties.zip",
+		"url": "http://irmafiles.nps.gov/Reference/Holding/372600/zion_cnties.zip",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 0,
@@ -67,7 +67,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2013-03-15T12:16:45.442082",
-		"url": "http:\/\/www.nps.gov\/gis\/data_info\/",
+		"url": "http://www.nps.gov/gis/data_info/",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 1,
@@ -97,7 +97,7 @@
 		"cache_url": null,
 		"name": "Zip File",
 		"created": "2013-03-15T12:16:45.442090",
-		"url": "http:\/\/irmafiles.nps.gov\/Reference\/Holding\/372600\/zion_cnties.zip",
+		"url": "http://irmafiles.nps.gov/Reference/Holding/372600/zion_cnties.zip",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 2,
@@ -127,7 +127,7 @@
 		"cache_url": null,
 		"name": "XML File",
 		"created": "2013-03-15T12:16:45.442097",
-		"url": "http:\/\/nrdata.nps.gov\/zion\/ziondata\/zion_cnties.xml",
+		"url": "http://nrdata.nps.gov/zion/ziondata/zion_cnties.xml",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 3,
@@ -183,11 +183,11 @@
 	},
 	{
 		"key": "spatial",
-		"value": "{\"type\": \"Polygon\", \"coordinates\": [[[-114.276502, 36.959843], [-114.276502, 42.03573], [-108.899214, 42.03573], [-108.899214, 36.959843], [-114.276502, 36.959843]]]}"
+		"value": "{"type": "Polygon", "coordinates": [[[-114.276502, 36.959843], [-114.276502, 42.03573], [-108.899214, 42.03573], [-108.899214, 36.959843], [-114.276502, 36.959843]]]}"
 	},
 	{
 		"key": "access_constraints",
-		"value": "[\"Use Constraints: For use at 1:24,000 scale. Data released to the Receiving Agency (RA) remains the property of the originating data source (see Source_Information) and cannot be reproduced for sale by the RA without the written consent of that data source. Redistribution of datasets unchanged as obtained from the AGRC and without fee is allowed. Any hardcopies utilizing these data sets shall clearly indicate their source. If the RA has modified the data in any way, they are obligated to describe the types of modifications they have performed on the hardcopy map. RA specifically agrees not to misrepresent these data sets, nor to imply that changes they made were approved by the AGRC.\", \"Access Constraints: None\"]"
+		"value": "["Use Constraints: For use at 1:24,000 scale. Data released to the Receiving Agency (RA) remains the property of the originating data source (see Source_Information) and cannot be reproduced for sale by the RA without the written consent of that data source. Redistribution of datasets unchanged as obtained from the AGRC and without fee is allowed. Any hardcopies utilizing these data sets shall clearly indicate their source. If the RA has modified the data in any way, they are obligated to describe the types of modifications they have performed on the hardcopy map. RA specifically agrees not to misrepresent these data sets, nor to imply that changes they made were approved by the AGRC.", "Access Constraints: None"]"
 	},
 	{
 		"key": "temporal-extent-begin",
@@ -207,7 +207,7 @@
 	},
 	{
 		"key": "dataset-reference-date",
-		"value": "[{\"type\": \"publication\", \"value\": \"2001-01-01\"}]"
+		"value": "[{"type": "publication", "value": "2001-01-01"}]"
 	},
 	{
 		"key": "frequency-of-update",
@@ -215,7 +215,7 @@
 	},
 	{
 		"key": "licence",
-		"value": "[\"AGRC provides these data \\\"as is\\\" without liability.\"]"
+		"value": "["AGRC provides these data \"as is\" without liability."]"
 	},
 	{
 		"key": "metadata_type",
@@ -223,7 +223,7 @@
 	},
 	{
 		"key": "responsible-party",
-		"value": "[{\"name\": \"Zion National Park\", \"roles\": [\"pointOfContact\"]}]"
+		"value": "[{"name": "Zion National Park", "roles": ["pointOfContact"]}]"
 	},
 	{
 		"key": "temporal-extent-end",
@@ -269,7 +269,7 @@
 		"revision_timestamp": "2015-03-18T14:25:04.527925",
 		"is_organization": true,
 		"state": "active",
-		"image_url": "https:\/\/raw.githubusercontent.com\/GSA\/logo\/master\/nps.png",
+		"image_url": "https://raw.githubusercontent.com/GSA/logo/master/nps.png",
 		"revision_id": "c01136dc-911c-4651-92b7-36046d755b81",
 		"type": "organization",
 		"id": "ffbc26a5-1ae8-4c8c-ac45-e5b76fc6486a",

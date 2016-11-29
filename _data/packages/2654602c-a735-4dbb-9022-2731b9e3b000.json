@@ -37,7 +37,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2015-09-26T23:20:18.832908",
-		"url": "http:\/\/response.restoration.noaa.gov\/esi",
+		"url": "http://response.restoration.noaa.gov/esi",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 0,
@@ -101,7 +101,7 @@
 	},
 	{
 		"key": "spatial",
-		"value": "{\"type\": \"Polygon\", \"coordinates\": [[[-124.125, 45.3], [-120.67375, 45.3], [-120.67375, 46.375], [-124.125, 46.375], [-124.125, 45.3]]]}"
+		"value": "{"type": "Polygon", "coordinates": [[[-124.125, 45.3], [-120.67375, 45.3], [-120.67375, 46.375], [-124.125, 46.375], [-124.125, 45.3]]]}"
 	},
 	{
 		"key": "progress",
@@ -109,7 +109,7 @@
 	},
 	{
 		"key": "access_constraints",
-		"value": "[\"Use Constraints: DO NOT USE MAPS FOR NAVIGATIONAL PURPOSES.Besides the above warning, there are no use constraints on these data. Note that the ESI database should not be used to the exclusion of other pertinent data or information held by state or federal agencies or other organizations. Likewise, information contained in the database cannot be used in place of consultations with environmental, natural resource, and cultural resource agencies, or in place of field surveys. Recognize that the information contained in the ESI database represents known concentration areas or occurrences of natural, cultural, and human-use resources, but does not necessarily represent the full distribution or range of each species or resource. This is particularly important to recognize when considering potential impacts to protected resources, such as endangered species, wetlands, etc. Acknowledgment of the originators, publishers, contributors, and sources listed would be appreciated in products derived from these data.\", \"Access Constraints: None\"]"
+		"value": "["Use Constraints: DO NOT USE MAPS FOR NAVIGATIONAL PURPOSES.Besides the above warning, there are no use constraints on these data. Note that the ESI database should not be used to the exclusion of other pertinent data or information held by state or federal agencies or other organizations. Likewise, information contained in the database cannot be used in place of consultations with environmental, natural resource, and cultural resource agencies, or in place of field surveys. Recognize that the information contained in the ESI database represents known concentration areas or occurrences of natural, cultural, and human-use resources, but does not necessarily represent the full distribution or range of each species or resource. This is particularly important to recognize when considering potential impacts to protected resources, such as endangered species, wetlands, etc. Acknowledgment of the originators, publishers, contributors, and sources listed would be appreciated in products derived from these data.", "Access Constraints: None"]"
 	},
 	{
 		"key": "temporal-extent-begin",
@@ -129,7 +129,7 @@
 	},
 	{
 		"key": "dataset-reference-date",
-		"value": "[{\"type\": \"publication\", \"value\": \"2004-11-01\"}]"
+		"value": "[{"type": "publication", "value": "2004-11-01"}]"
 	},
 	{
 		"key": "graphic-preview-description",
@@ -141,7 +141,7 @@
 	},
 	{
 		"key": "licence",
-		"value": "[\"Although these data have been processed successfully on a computer system at the National Oceanic and Atmospheric Administration, no warranty, expressed or implied, is made by NOAA regarding the utility of the data on any other system, nor shall the act of distribution constitute any such warranty.  NOAA warrants the delivery of this product in computer-readable format, and will offer a replacement copy of the product when the product is determined unreadable by computer-input peripherals, or when the physical medium is delivered in damaged condition.\"]"
+		"value": "["Although these data have been processed successfully on a computer system at the National Oceanic and Atmospheric Administration, no warranty, expressed or implied, is made by NOAA regarding the utility of the data on any other system, nor shall the act of distribution constitute any such warranty.  NOAA warrants the delivery of this product in computer-readable format, and will offer a replacement copy of the product when the product is determined unreadable by computer-input peripherals, or when the physical medium is delivered in damaged condition."]"
 	},
 	{
 		"key": "metadata_type",
@@ -149,7 +149,7 @@
 	},
 	{
 		"key": "responsible-party",
-		"value": "[{\"name\": \"NOAA, Office of Response and Restoration\", \"roles\": [\"pointOfContact\"]}]"
+		"value": "[{"name": "NOAA, Office of Response and Restoration", "roles": ["pointOfContact"]}]"
 	},
 	{
 		"key": "temporal-extent-end",
@@ -195,7 +195,7 @@
 		"revision_timestamp": "2013-03-25T23:05:12.923863",
 		"is_organization": true,
 		"state": "active",
-		"image_url": "https:\/\/fortress.wa.gov\/dfw\/score\/score\/images\/noaa_logo.png",
+		"image_url": "https://fortress.wa.gov/dfw/score/score/images/noaa_logo.png",
 		"revision_id": "c6d43080-22e1-405e-a83d-f2a512d9e867",
 		"type": "organization",
 		"id": "e811f0b4-451f-4896-9e8f-fc6802837819",

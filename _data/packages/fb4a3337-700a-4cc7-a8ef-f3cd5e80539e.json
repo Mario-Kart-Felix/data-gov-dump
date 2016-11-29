@@ -37,7 +37,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2015-09-26T17:15:47.623577",
-		"url": "http:\/\/coast.noaa.gov",
+		"url": "http://coast.noaa.gov",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 0,
@@ -67,7 +67,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2015-09-26T17:15:47.623599",
-		"url": "http:\/\/coast.noaa.gov",
+		"url": "http://coast.noaa.gov",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 1,
@@ -89,7 +89,7 @@
 		"revision_timestamp": "2013-03-25T23:05:12.923863",
 		"is_organization": true,
 		"state": "active",
-		"image_url": "https:\/\/fortress.wa.gov\/dfw\/score\/score\/images\/noaa_logo.png",
+		"image_url": "https://fortress.wa.gov/dfw/score/score/images/noaa_logo.png",
 		"revision_id": "c6d43080-22e1-405e-a83d-f2a512d9e867",
 		"type": "organization",
 		"id": "e811f0b4-451f-4896-9e8f-fc6802837819",
@@ -100,7 +100,7 @@
 	"name": "2006-united-states-army-corps-of-engineers-usace-post-hurricane-wilma-lidar-hurricane-pass-to-b",
 	"isopen": false,
 	"url": null,
-	"notes": "The data contained in these files contain hydrographic and topographic data collected by the CHARTS system along the west coast of Florida from Hurricane Pass to Big Hickory Pass, following Hurricane Wilma. The data were collected and processed in geographic coordinates and ellipsoid heights. The positions are relative to NAD83 in decimal degrees of longitude and latitude. The heights were converted from ellipsoid to geoid heights (NAVD88) using the Geoid03 model with the results in meters. The date and time of each point are also provided as YYYY\/MM\/DD HH:MM:SS.SSSSSS.",
+	"notes": "The data contained in these files contain hydrographic and topographic data collected by the CHARTS system along the west coast of Florida from Hurricane Pass to Big Hickory Pass, following Hurricane Wilma. The data were collected and processed in geographic coordinates and ellipsoid heights. The positions are relative to NAD83 in decimal degrees of longitude and latitude. The heights were converted from ellipsoid to geoid heights (NAVD88) using the Geoid03 model with the results in meters. The date and time of each point are also provided as YYYY/MM/DD HH:MM:SS.SSSSSS.",
 	"owner_org": "e811f0b4-451f-4896-9e8f-fc6802837819",
 	"extras": [{
 		"key": "bbox-east-long",
@@ -136,7 +136,7 @@
 	},
 	{
 		"key": "spatial",
-		"value": "{\"type\": \"Polygon\", \"coordinates\": [[[-82.88, 26.36], [-81.86, 26.36], [-81.86, 28.06], [-82.88, 28.06], [-82.88, 26.36]]]}"
+		"value": "{"type": "Polygon", "coordinates": [[[-82.88, 26.36], [-81.86, 26.36], [-81.86, 28.06], [-82.88, 28.06], [-82.88, 26.36]]]}"
 	},
 	{
 		"key": "progress",
@@ -164,7 +164,7 @@
 	},
 	{
 		"key": "dataset-reference-date",
-		"value": "[{\"type\": \"publication\", \"value\": \"\"}]"
+		"value": "[{"type": "publication", "value": ""}]"
 	},
 	{
 		"key": "frequency-of-update",
@@ -172,7 +172,7 @@
 	},
 	{
 		"key": "licence",
-		"value": "[\"These data depict the elevations at the time of the survey and are only accurate for that time. Users should be aware that\\n            temporal changes may have occurred since this data set was collected and some parts of this data may no longer represent actual surface\\n            conditions. Users should not use this data for critical applications without a full awareness of its limitations. Any conclusions drawn\\n            from analysis of this information are not the responsibility of NOAA or any of its partners. These data are NOT to be used for navigational purposes.\"]"
+		"value": "["These data depict the elevations at the time of the survey and are only accurate for that time. Users should be aware that\n            temporal changes may have occurred since this data set was collected and some parts of this data may no longer represent actual surface\n            conditions. Users should not use this data for critical applications without a full awareness of its limitations. Any conclusions drawn\n            from analysis of this information are not the responsibility of NOAA or any of its partners. These data are NOT to be used for navigational purposes."]"
 	},
 	{
 		"key": "metadata_type",
@@ -180,7 +180,7 @@
 	},
 	{
 		"key": "responsible-party",
-		"value": "[{\"name\": \"US Army Corps of Engineers (USACE) Joint Airborne Lidar Bathymetry Technical Center of eXpertise (JALBTCX)\", \"roles\": [\"pointOfContact\"]}]"
+		"value": "[{"name": "US Army Corps of Engineers (USACE) Joint Airborne Lidar Bathymetry Technical Center of eXpertise (JALBTCX)", "roles": ["pointOfContact"]}]"
 	},
 	{
 		"key": "temporal-extent-end",
@@ -196,7 +196,7 @@
 	},
 	{
 		"key": "tags",
-		"value": "post hurricane wilma, elevation, may\/june 2006, florida, hurricane pass, lidar, united states, clearwater beach, big hickory pass, bathymetry\/topography, laser, gulf coast, estero bay",
+		"value": "post hurricane wilma, elevation, may/june 2006, florida, hurricane pass, lidar, united states, clearwater beach, big hickory pass, bathymetry/topography, laser, gulf coast, estero bay",
 		"__extras": {
 			"revision_id": "714925be-bccf-483f-9312-b4ee9b4caf84",
 			"package_id": "fb4a3337-700a-4cc7-a8ef-f3cd5e80539e"

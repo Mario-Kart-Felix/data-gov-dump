@@ -31,11 +31,11 @@
 		},
 		"mimetype_inner": null,
 		"revision_id": "bc188a16-60c9-4c45-9bd2-b1e3d975be26",
-		"mimetype": "text\/csv",
+		"mimetype": "text/csv",
 		"cache_url": null,
 		"name": "Comma Separated Values File",
 		"created": "2015-02-04T14:38:36.387447",
-		"url": "https:\/\/data.cityofchicago.org\/api\/views\/ug5u-hxnx\/rows.csv?accessType=DOWNLOAD",
+		"url": "https://data.cityofchicago.org/api/views/ug5u-hxnx/rows.csv?accessType=DOWNLOAD",
 		"webstore_url": null,
 		"last_modified": null,
 		"position": 0,
@@ -59,11 +59,11 @@
 		},
 		"mimetype_inner": null,
 		"revision_id": "9622f6bd-a1c8-43ca-ba9a-95a10f3d5aa1",
-		"mimetype": "application\/rdf+xml",
+		"mimetype": "application/rdf+xml",
 		"cache_url": null,
 		"name": "RDF File",
 		"created": "2015-02-04T14:38:36.387480",
-		"url": "https:\/\/data.cityofchicago.org\/api\/views\/ug5u-hxnx\/rows.rdf?accessType=DOWNLOAD",
+		"url": "https://data.cityofchicago.org/api/views/ug5u-hxnx/rows.rdf?accessType=DOWNLOAD",
 		"webstore_url": null,
 		"last_modified": null,
 		"position": 1,
@@ -87,11 +87,11 @@
 		},
 		"mimetype_inner": null,
 		"revision_id": "9622f6bd-a1c8-43ca-ba9a-95a10f3d5aa1",
-		"mimetype": "application\/json",
+		"mimetype": "application/json",
 		"cache_url": null,
 		"name": "JSON File",
 		"created": "2015-02-04T14:38:36.387499",
-		"url": "https:\/\/data.cityofchicago.org\/api\/views\/ug5u-hxnx\/rows.json?accessType=DOWNLOAD",
+		"url": "https://data.cityofchicago.org/api/views/ug5u-hxnx/rows.json?accessType=DOWNLOAD",
 		"webstore_url": null,
 		"last_modified": null,
 		"position": 2,
@@ -115,11 +115,11 @@
 		},
 		"mimetype_inner": null,
 		"revision_id": "9622f6bd-a1c8-43ca-ba9a-95a10f3d5aa1",
-		"mimetype": "application\/xml",
+		"mimetype": "application/xml",
 		"cache_url": null,
 		"name": "XML File",
 		"created": "2015-02-04T14:38:36.387508",
-		"url": "https:\/\/data.cityofchicago.org\/api\/views\/ug5u-hxnx\/rows.xml?accessType=DOWNLOAD",
+		"url": "https://data.cityofchicago.org/api/views/ug5u-hxnx/rows.xml?accessType=DOWNLOAD",
 		"webstore_url": null,
 		"last_modified": null,
 		"position": 3,
@@ -175,7 +175,7 @@
 	"name": "cdph-storage-tanks-46e93",
 	"isopen": false,
 	"url": null,
-	"notes": "This dataset contains Aboveground Storage Tank (AST) and Underground Storage Tank (UST) information from the Department of Public Health\u2019s (CDPH) Tank Asset Database. The Tank Asset Database contains tank information from CDPH AST and UST permit applications as well as UST records imported from the historic Department of Environment (DOE) database. This dataset also includes AST records from the historic DOE and pre-1992 UST records from the Building Department. \r\nData fields requiring description are detailed below. \r\nMAPPED LOCATION: Contains latitude\/longitude coordinates of the site as determined through the Chicago Open Data Portal\u2019s geocoding engine. In instances where the facility address is a range, the lower number (the value in the \u201cStreet Number From\u201d column) is used for geocoding. For example, for the range address 1000-1005 S Wabash Ave, the Mapped Location would be the coordinates for 1000 S Wabash Ave. \r\n TANK TYPE:  Specifies if the asset is an Underground Storage Tank or an Aboveground Storage Tank.  \r\nFACILITY ID: This is the unique identifier of the facility. A UST Facility ID that is seven digits long and begins with the number \u20182\u2019 is a Facility ID assigned by the Office of the State Fire Marshall (OSFM). All other IDs were assigned by the DOE or CDPH based on the facility address.   \r\nOWNER: The owner of record for the tank. For State-regulated USTs, this is the owner registered with the OSFM. \r\nFACILITY NAME: This is the name given to the facility. This is usually the company\/owner name, building name or address.  \r\nTANK ID: This is a numeric ID that uniquely identifies a particular tank at the facility. \r\nTANK MATERIAL: Specifies the type of material the tank is made of. \r\nTANK PRODUCT: Specifies the type of product stored in the tank.    \r\nTANK CAPACITY: This is the storage volume of the tank in gallons. \r\nINSTALLATION DATE: The date the tank was installed at the facility if known. For some records, this information is in the COMMENTS column.\r\nREMOVAL DATE: The date the tank was removed from the facility if known.  For some records, this information is in the COMMENTS column.\r\nLAST USED DATE: The date the tank was last in service if known.  For some records, this information is in the COMMENTS column.\r\nCOMMENT: Contains additional information on the tank that may include supplemental location information; field observations; removal, abandonment, or last used dates; permitting notes; and other miscellaneous information. \r\nDATA SOURCE: The city department that collected the data.",
+	"notes": "This dataset contains Aboveground Storage Tank (AST) and Underground Storage Tank (UST) information from the Department of Public Healthu2019s (CDPH) Tank Asset Database. The Tank Asset Database contains tank information from CDPH AST and UST permit applications as well as UST records imported from the historic Department of Environment (DOE) database. This dataset also includes AST records from the historic DOE and pre-1992 UST records from the Building Department. rnData fields requiring description are detailed below. rnMAPPED LOCATION: Contains latitude/longitude coordinates of the site as determined through the Chicago Open Data Portalu2019s geocoding engine. In instances where the facility address is a range, the lower number (the value in the u201cStreet Number Fromu201d column) is used for geocoding. For example, for the range address 1000-1005 S Wabash Ave, the Mapped Location would be the coordinates for 1000 S Wabash Ave. rn TANK TYPE:  Specifies if the asset is an Underground Storage Tank or an Aboveground Storage Tank.  rnFACILITY ID: This is the unique identifier of the facility. A UST Facility ID that is seven digits long and begins with the number u20182u2019 is a Facility ID assigned by the Office of the State Fire Marshall (OSFM). All other IDs were assigned by the DOE or CDPH based on the facility address.   rnOWNER: The owner of record for the tank. For State-regulated USTs, this is the owner registered with the OSFM. rnFACILITY NAME: This is the name given to the facility. This is usually the company/owner name, building name or address.  rnTANK ID: This is a numeric ID that uniquely identifies a particular tank at the facility. rnTANK MATERIAL: Specifies the type of material the tank is made of. rnTANK PRODUCT: Specifies the type of product stored in the tank.    rnTANK CAPACITY: This is the storage volume of the tank in gallons. rnINSTALLATION DATE: The date the tank was installed at the facility if known. For some records, this information is in the COMMENTS column.rnREMOVAL DATE: The date the tank was removed from the facility if known.  For some records, this information is in the COMMENTS column.rnLAST USED DATE: The date the tank was last in service if known.  For some records, this information is in the COMMENTS column.rnCOMMENT: Contains additional information on the tank that may include supplemental location information; field observations; removal, abandonment, or last used dates; permitting notes; and other miscellaneous information. rnDATA SOURCE: The city department that collected the data.",
 	"license_title": "License Not Specified",
 	"extras": [{
 		"key": "publisher",
@@ -187,7 +187,7 @@
 	},
 	{
 		"key": "catalog_describedBy",
-		"value": "https:\/\/project-open-data.cio.gov\/v1.1\/schema\/catalog.json"
+		"value": "https://project-open-data.cio.gov/v1.1/schema/catalog.json"
 	},
 	{
 		"key": "harvest_source_id",
@@ -195,7 +195,7 @@
 	},
 	{
 		"key": "catalog_@context",
-		"value": "https:\/\/project-open-data.cio.gov\/v1.1\/schema\/catalog.jsonld"
+		"value": "https://project-open-data.cio.gov/v1.1/schema/catalog.jsonld"
 	},
 	{
 		"key": "issued",
@@ -227,19 +227,19 @@
 	},
 	{
 		"key": "catalog_@id",
-		"value": "https:\/\/data.cityofchicago.org\/data.json"
+		"value": "https://data.cityofchicago.org/data.json"
 	},
 	{
 		"key": "catalog_conformsTo",
-		"value": "https:\/\/project-open-data.cio.gov\/v1.1\/schema"
+		"value": "https://project-open-data.cio.gov/v1.1/schema"
 	},
 	{
 		"key": "identifier",
-		"value": "https:\/\/data.cityofchicago.org\/api\/views\/ug5u-hxnx"
+		"value": "https://data.cityofchicago.org/api/views/ug5u-hxnx"
 	},
 	{
 		"key": "landingPage",
-		"value": "https:\/\/data.cityofchicago.org\/d\/ug5u-hxnx"
+		"value": "https://data.cityofchicago.org/d/ug5u-hxnx"
 	},
 	{
 		"key": "harvest_object_id",

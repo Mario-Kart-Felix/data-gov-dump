@@ -31,11 +31,11 @@
 		},
 		"mimetype_inner": null,
 		"revision_id": "3417dd6b-aef4-4468-b937-8a42406267ac",
-		"mimetype": "text\/html",
+		"mimetype": "text/html",
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2016-01-29T08:44:30.870288",
-		"url": "ftp:\/\/ftp.cpc.ncep.noaa.gov\/wd51yf\/global_monthly",
+		"url": "ftp://ftp.cpc.ncep.noaa.gov/wd51yf/global_monthly",
 		"webstore_url": null,
 		"last_modified": null,
 		"position": 0,
@@ -166,7 +166,7 @@
 	"name": "climate-prediction-center-cpc-global-monthly-leaky-bucket-soil-moisture-analysis-04ad4",
 	"isopen": false,
 	"url": null,
-	"notes": "Monthly global soil moisture, runoff, and evaporation data sets produced by the Leaky Bucket model at 0.5? ? 0.5? resolution for the period from 1948 to the present. The land model is a one?layer ?bucket? water balance model, while the driving input fields are Climate Prediction Center monthly global precipitation over land, which uses over 17,000 gauges worldwide, and monthly global temperature from GHCN-CAMS (Fan and Van den Dool 2008). The output consists of global monthly soil moisture, evaporation, and runoff, starting from January 1948. A distinguishing feature of this data set is that all fields are updated monthly, which greatly enhances utility for near real time purposes. Data validation shows that the land model does well; both the simulated annual cycle and interannual variability of soil moisture are reasonably good against the limited observations in different regions. Refer to these papers: Fan, Y. and H. van den Dool (2004), Climate Prediction Center global monthly soil moisture data set at 0.5? resolution for 1948 to present, J. Geophys. Res., 109, D10102, doi:10.1029\/2003JD004345. Fan, Y. and H. van den Dool (2008), A global monthly land surface air temperature analysis for 1948?present, J. Geophys. Res., 113, D01103, doi:10.1029\/2007JD008470.",
+	"notes": "Monthly global soil moisture, runoff, and evaporation data sets produced by the Leaky Bucket model at 0.5? ? 0.5? resolution for the period from 1948 to the present. The land model is a one?layer ?bucket? water balance model, while the driving input fields are Climate Prediction Center monthly global precipitation over land, which uses over 17,000 gauges worldwide, and monthly global temperature from GHCN-CAMS (Fan and Van den Dool 2008). The output consists of global monthly soil moisture, evaporation, and runoff, starting from January 1948. A distinguishing feature of this data set is that all fields are updated monthly, which greatly enhances utility for near real time purposes. Data validation shows that the land model does well; both the simulated annual cycle and interannual variability of soil moisture are reasonably good against the limited observations in different regions. Refer to these papers: Fan, Y. and H. van den Dool (2004), Climate Prediction Center global monthly soil moisture data set at 0.5? resolution for 1948 to present, J. Geophys. Res., 109, D10102, doi:10.1029/2003JD004345. Fan, Y. and H. van den Dool (2008), A global monthly land surface air temperature analysis for 1948?present, J. Geophys. Res., 113, D01103, doi:10.1029/2007JD008470.",
 	"license_title": "License Not Specified",
 	"extras": [{
 		"key": "publisher",
@@ -186,11 +186,11 @@
 	},
 	{
 		"key": "catalog_@context",
-		"value": "https:\/\/project-open-data.cio.gov\/v1.1\/schema\/catalog.jsonld"
+		"value": "https://project-open-data.cio.gov/v1.1/schema/catalog.jsonld"
 	},
 	{
 		"key": "temporal",
-		"value": "1948-01-01T00:00:00\/2014-08-25T10:50:21.458000-04:00"
+		"value": "1948-01-01T00:00:00/2014-08-25T10:50:21.458000-04:00"
 	},
 	{
 		"key": "resource-type",
@@ -222,15 +222,15 @@
 	},
 	{
 		"key": "accrualPeriodicity",
-		"value": "R\/P1M"
+		"value": "R/P1M"
 	},
 	{
 		"key": "spatial",
-		"value": "{\"type\": \"Polygon\", \"coordinates\": [[[-179.75, -89.75], [179.75, -89.75], [179.75, 89.75], [-179.75, 89.75], [-179.75, -89.75]]]}"
+		"value": "{"type": "Polygon", "coordinates": [[[-179.75, -89.75], [179.75, -89.75], [179.75, 89.75], [-179.75, 89.75], [-179.75, -89.75]]]}"
 	},
 	{
 		"key": "catalog_conformsTo",
-		"value": "https:\/\/project-open-data.cio.gov\/v1.1\/schema"
+		"value": "https://project-open-data.cio.gov/v1.1/schema"
 	},
 	{
 		"key": "accessLevel",
@@ -246,7 +246,7 @@
 	},
 	{
 		"key": "catalog_describedBy",
-		"value": "https:\/\/project-open-data.cio.gov\/v1.1\/schema\/catalog.json"
+		"value": "https://project-open-data.cio.gov/v1.1/schema/catalog.json"
 	},
 	{
 		"state": "active",
@@ -271,7 +271,7 @@
 		"revision_timestamp": "2013-05-30T16:50:01.416157",
 		"is_organization": true,
 		"state": "active",
-		"image_url": "http:\/\/www.vos.noaa.gov\/MWL\/aug_10\/Images\/doc_logo_xparent.png",
+		"image_url": "http://www.vos.noaa.gov/MWL/aug_10/Images/doc_logo_xparent.png",
 		"revision_id": "44c851b9-8872-497a-8a13-2f06740b7ffb",
 		"type": "organization",
 		"id": "9cda5205-d632-4814-96e7-a4ab5e0dce85",

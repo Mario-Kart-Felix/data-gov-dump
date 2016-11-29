@@ -37,7 +37,7 @@
 		"cache_url": null,
 		"name": "JPG Image File",
 		"created": "2016-10-19T14:52:09.805150",
-		"url": "http:\/\/data.nodc.noaa.gov\/coris\/data\/NOAA\/nmfs\/pifsc\/cred\/griddedbathymetry\/BathyAtlasNWHI2003\/nihoa_island_kauai_transit",
+		"url": "http://data.nodc.noaa.gov/coris/data/NOAA/nmfs/pifsc/cred/griddedbathymetry/BathyAtlasNWHI2003/nihoa_island_kauai_transit",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 0,
@@ -67,7 +67,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2016-10-19T14:52:09.805174",
-		"url": "http:\/\/data.nodc.noaa.gov\/coris\/data\/NOAA\/nmfs\/pifsc\/cred\/griddedbathymetry\/BathyAtlasNWHI2003\/nihoa_island_kauai_transit\/",
+		"url": "http://data.nodc.noaa.gov/coris/data/NOAA/nmfs/pifsc/cred/griddedbathymetry/BathyAtlasNWHI2003/nihoa_island_kauai_transit/",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 1,
@@ -97,7 +97,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2016-10-19T14:52:09.805183",
-		"url": "https:\/\/products.coastalscience.noaa.gov\/collections\/benthic\/e98nwhi\/default.aspx",
+		"url": "https://products.coastalscience.noaa.gov/collections/benthic/e98nwhi/default.aspx",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 2,
@@ -117,11 +117,11 @@
 	"name": "cred-gridded-bathymetry-of-nihoa-island-and-transit-to-kauai-100-026-in-the-northwestern-hawaii",
 	"isopen": false,
 	"url": null,
-	"notes": "File 100-026b is a 60-m ASCII grid of depth data collected near Nihoa & Transit to Kauai in the Northwestern Hawaiian Islands as of May 2003. This grid has been produced as part of the \"Bathymetric Atlas of the Northwestern Hawaiian Islands -- A Planning Document for Benthic Habitat Mapping -- Draft -- May 2003. Data sources for the downloadable grids include: multibeam bathymetry from Simrad EM1002 and EM120 sonars aboard the R\/V Kilo Moana collected in October\/November 2003; multibeam bathymetry data from a SeaBeam 210 sonar aboard the R\/V Kai'imikai-O-Kanaloa collected in 2000-2002; LIDAR data obtained using the LADS MK II lidar system; and depth data derived from IKONOS satellite imagery. No tidal corrections have been applied to the data. The data source location for each type of data is indicated in the \"dot plot\" browse objects. Additional single-beam bathymetric data are available in this area and are indicated on the 100-026b Plot C browse object, but these less accurate depths are not included in the downloadable grid. Multibeam data were processed using SABER editing software and MBSystem and multibeam, LIDAR and IKONOS data were integrated using MBSystem, and GMT. Grid spacing is 60-m, horizontal accuracy is 20m (no differential GPS correctors applied), vertical accuracy is depth dependent (~1% of water depth), WGS84 datum. These data are not to be used for navigation.",
+	"notes": "File 100-026b is a 60-m ASCII grid of depth data collected near Nihoa & Transit to Kauai in the Northwestern Hawaiian Islands as of May 2003. This grid has been produced as part of the "Bathymetric Atlas of the Northwestern Hawaiian Islands -- A Planning Document for Benthic Habitat Mapping -- Draft -- May 2003. Data sources for the downloadable grids include: multibeam bathymetry from Simrad EM1002 and EM120 sonars aboard the R/V Kilo Moana collected in October/November 2003; multibeam bathymetry data from a SeaBeam 210 sonar aboard the R/V Kai'imikai-O-Kanaloa collected in 2000-2002; LIDAR data obtained using the LADS MK II lidar system; and depth data derived from IKONOS satellite imagery. No tidal corrections have been applied to the data. The data source location for each type of data is indicated in the "dot plot" browse objects. Additional single-beam bathymetric data are available in this area and are indicated on the 100-026b Plot C browse object, but these less accurate depths are not included in the downloadable grid. Multibeam data were processed using SABER editing software and MBSystem and multibeam, LIDAR and IKONOS data were integrated using MBSystem, and GMT. Grid spacing is 60-m, horizontal accuracy is 20m (no differential GPS correctors applied), vertical accuracy is depth dependent (~1% of water depth), WGS84 datum. These data are not to be used for navigation.",
 	"license_title": null,
 	"extras": [{
 		"key": "bbox-east-long",
-		"value": "\n          -160.869\n        "
+		"value": "n          -160.869n        "
 	},
 	{
 		"key": "resource-type",
@@ -129,7 +129,7 @@
 	},
 	{
 		"key": "bbox-north-lat",
-		"value": "\n          23.047\n        "
+		"value": "n          23.047n        "
 	},
 	{
 		"key": "coupled-resource",
@@ -145,7 +145,7 @@
 	},
 	{
 		"key": "bbox-south-lat",
-		"value": "\n          22.3\n        "
+		"value": "n          22.3n        "
 	},
 	{
 		"key": "spatial-reference-system",
@@ -153,7 +153,7 @@
 	},
 	{
 		"key": "spatial",
-		"value": "{\"type\": \"Polygon\", \"coordinates\": [[[-161.815, 22.3], [-160.869, 22.3], [-160.869, 23.047], [-161.815, 23.047], [-161.815, 22.3]]]}"
+		"value": "{"type": "Polygon", "coordinates": [[[-161.815, 22.3], [-160.869, 22.3], [-160.869, 23.047], [-161.815, 23.047], [-161.815, 22.3]]]}"
 	},
 	{
 		"key": "progress",
@@ -161,7 +161,7 @@
 	},
 	{
 		"key": "access_constraints",
-		"value": "[\"Use Constraints: These data are NOT TO BE USED FOR NAVIGATION\", \"Access Constraints: None.\"]"
+		"value": "["Use Constraints: These data are NOT TO BE USED FOR NAVIGATION", "Access Constraints: None."]"
 	},
 	{
 		"key": "temporal-extent-begin",
@@ -173,7 +173,7 @@
 	},
 	{
 		"key": "bbox-west-long",
-		"value": "\n          -161.815\n        "
+		"value": "n          -161.815n        "
 	},
 	{
 		"key": "metadata-date",
@@ -181,7 +181,7 @@
 	},
 	{
 		"key": "dataset-reference-date",
-		"value": "[{\"type\": \"publication\", \"value\": \"2003-05-01\"}]"
+		"value": "[{"type": "publication", "value": "2003-05-01"}]"
 	},
 	{
 		"key": "frequency-of-update",
@@ -189,7 +189,7 @@
 	},
 	{
 		"key": "licence",
-		"value": "[\"\\n      These data are not to be used for navigational purposes.\\nNOAA makes no warranty regarding these data, expressed or implied, nor does the fact of distribution constitute\\nsuch a warranty. NOAA cannot assume liability for any damages caused by any errors or omissions in these data,\\nnor as a result of the failure of these data to function on a particular system.\\n    \"]"
+		"value": "["\n      These data are not to be used for navigational purposes.\nNOAA makes no warranty regarding these data, expressed or implied, nor does the fact of distribution constitute\nsuch a warranty. NOAA cannot assume liability for any damages caused by any errors or omissions in these data,\nnor as a result of the failure of these data to function on a particular system.\n    "]"
 	},
 	{
 		"key": "metadata_type",
@@ -197,7 +197,7 @@
 	},
 	{
 		"key": "responsible-party",
-		"value": "[{\"name\": \"Pacific Islands Benthic Habitat Mapping Center (PIBHMC), Coral Reef Ecosystem Division (CRED), Pacific Islands Fisheries Science Center (PIFSC), National Marine Fisheries Service (NMFS), National Oceanic and Atmospheric Administration (NOAA)\", \"roles\": [\"pointOfContact\"]}]"
+		"value": "[{"name": "Pacific Islands Benthic Habitat Mapping Center (PIBHMC), Coral Reef Ecosystem Division (CRED), Pacific Islands Fisheries Science Center (PIFSC), National Marine Fisheries Service (NMFS), National Oceanic and Atmospheric Administration (NOAA)", "roles": ["pointOfContact"]}]"
 	},
 	{
 		"key": "temporal-extent-end",
@@ -213,7 +213,7 @@
 	},
 	{
 		"package_id": "821ebfba-22f3-4c67-aea6-682662daaa51",
-		"value": "nihoa (23n161w0001), pacific ocean, honolulu, united states of america, base map, zoology, earth science, country\/territory, lidar, northwestern hawaiian islands, benthic habitat mapping and characterization - northwestern and main hawaiian islands, 1217, oceans, echosounding, mapping, ikonos depth data, bathymetry\/seafloor topography, grid, central pacific ocean, ocean basin, bathymetry, biosphere, hawaii, reef monitoring and assessment, multibeam sonar, satellite imagery, corals, map images",
+		"value": "nihoa (23n161w0001), pacific ocean, honolulu, united states of america, base map, zoology, earth science, country/territory, lidar, northwestern hawaiian islands, benthic habitat mapping and characterization - northwestern and main hawaiian islands, 1217, oceans, echosounding, mapping, ikonos depth data, bathymetry/seafloor topography, grid, central pacific ocean, ocean basin, bathymetry, biosphere, hawaii, reef monitoring and assessment, multibeam sonar, satellite imagery, corals, map images",
 		"revision_timestamp": "2015-09-26T20:37:05.454691",
 		"state": "active",
 		"key": "tags",
@@ -243,7 +243,7 @@
 		"revision_timestamp": "2013-03-25T23:05:12.923863",
 		"is_organization": true,
 		"state": "active",
-		"image_url": "https:\/\/fortress.wa.gov\/dfw\/score\/score\/images\/noaa_logo.png",
+		"image_url": "https://fortress.wa.gov/dfw/score/score/images/noaa_logo.png",
 		"revision_id": "c6d43080-22e1-405e-a83d-f2a512d9e867",
 		"type": "organization",
 		"id": "e811f0b4-451f-4896-9e8f-fc6802837819",

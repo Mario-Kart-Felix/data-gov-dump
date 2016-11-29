@@ -34,9 +34,9 @@
 		"resource_locator_protocol": "WWW:LINK-1.0-http--link",
 		"mimetype": null,
 		"cache_url": null,
-		"name": "ftp:\/\/ftp.nefsc.noaa.gov\/",
+		"name": "ftp://ftp.nefsc.noaa.gov/",
 		"created": "2016-08-08T17:20:32.607913",
-		"url": "ftp:\/\/ftp.nefsc.noaa.gov\/",
+		"url": "ftp://ftp.nefsc.noaa.gov/",
 		"webstore_url": null,
 		"resource_locator_function": "download",
 		"position": 0,
@@ -65,7 +65,7 @@
 		"cache_url": null,
 		"name": "Website",
 		"created": "2016-08-08T17:20:32.607953",
-		"url": "http:\/\/www.nefsc.noaa.gov",
+		"url": "http://www.nefsc.noaa.gov",
 		"webstore_url": null,
 		"resource_locator_function": "information",
 		"position": 1,
@@ -94,7 +94,7 @@
 		"cache_url": null,
 		"name": "Website",
 		"created": "2016-08-08T17:20:32.607962",
-		"url": "http:\/\/www.nefsc.noaa.gov",
+		"url": "http://www.nefsc.noaa.gov",
 		"webstore_url": null,
 		"resource_locator_function": "information",
 		"position": 2,
@@ -123,7 +123,7 @@
 		"cache_url": null,
 		"name": "Website",
 		"created": "2016-08-08T17:20:32.607969",
-		"url": "http:\/\/www.nefsc.noaa.gov",
+		"url": "http://www.nefsc.noaa.gov",
 		"webstore_url": null,
 		"resource_locator_function": "information",
 		"position": 3,
@@ -152,7 +152,7 @@
 		"cache_url": null,
 		"name": "NOAA Data Management Plan (DMP)",
 		"created": "2016-08-08T17:20:32.607977",
-		"url": "https:\/\/inport.nmfs.noaa.gov\/inport\/item\/27321\/dmp",
+		"url": "https://inport.nmfs.noaa.gov/inport/item/27321/dmp",
 		"webstore_url": null,
 		"resource_locator_function": "information",
 		"position": 4,
@@ -169,7 +169,7 @@
 		"state": "active",
 		"last_modified": null,
 		"hash": "",
-		"description": "This page describes the NASA GCMD Keywords, how\n                                                        to reference those keywords and provides download instructions.\n                                                    ",
+		"description": "This page describes the NASA GCMD Keywords, hown                                                        to reference those keywords and provides download instructions.n                                                    ",
 		"format": "HTML",
 		"tracking_summary": {
 			"total": 476,
@@ -181,7 +181,7 @@
 		"cache_url": null,
 		"name": "GCMD Keywords Page",
 		"created": "2016-08-08T17:20:32.607984",
-		"url": "http:\/\/gcmd.nasa.gov\/learn\/keyword_list.html",
+		"url": "http://gcmd.nasa.gov/learn/keyword_list.html",
 		"webstore_url": null,
 		"resource_locator_function": "information",
 		"position": 5,
@@ -201,7 +201,7 @@
 	"name": "cooperative-research-pilot-flatfish-survey-yellowtail",
 	"isopen": false,
 	"url": null,
-	"notes": "An industry-based pilot flatfish survey of Georges Bank conducted aboard the F\/V Mary K and the F\/V Yankee Pride. The surveyed used a two-seam, two-bridle flounder net which utilized a sweep consisting of 4\u201d rubber cookies, 20 fathom bridles, and 5 fathom extensions. Both vessels used 734 kg Thyboron type IV 84\u201d trawl doors and utilized a 23 fathom restrictor wire between the doors to ensure consistency in door spread. The U.S. portion of Georges Bank was divided into \u201chigh density\u201d and \u201clow density\u201d strata based on input from fisherman and previously collected survey and observer data for yellowtail flounder. Stations were randomly selected within each stratum, with higher sampling intensity in the high density stratums. Tows were conducted for 20 minutes at a target speed of 2.8 knots. At locations where the seafloor would not allow a tow to be completed with the chosen gear, the nearest towable area was selected by the captain as an alternate.1",
+	"notes": "An industry-based pilot flatfish survey of Georges Bank conducted aboard the F/V Mary K and the F/V Yankee Pride. The surveyed used a two-seam, two-bridle flounder net which utilized a sweep consisting of 4u201d rubber cookies, 20 fathom bridles, and 5 fathom extensions. Both vessels used 734 kg Thyboron type IV 84u201d trawl doors and utilized a 23 fathom restrictor wire between the doors to ensure consistency in door spread. The U.S. portion of Georges Bank was divided into u201chigh densityu201d and u201clow densityu201d strata based on input from fisherman and previously collected survey and observer data for yellowtail flounder. Stations were randomly selected within each stratum, with higher sampling intensity in the high density stratums. Tows were conducted for 20 minutes at a target speed of 2.8 knots. At locations where the seafloor would not allow a tow to be completed with the chosen gear, the nearest towable area was selected by the captain as an alternate.1",
 	"license_title": null,
 	"extras": [{
 		"key": "temporal-extent-begin",
@@ -225,7 +225,7 @@
 	},
 	{
 		"key": "dataset-reference-date",
-		"value": "[{\"type\": \"publication\", \"value\": \"\"}]"
+		"value": "[{"type": "publication", "value": ""}]"
 	},
 	{
 		"key": "resource-type",
@@ -233,7 +233,7 @@
 	},
 	{
 		"key": "responsible-party",
-		"value": "[{\"name\": \"\", \"roles\": [\"\"]}, {\"name\": \"Northeast Fisheries Science Center\", \"roles\": [\"pointOfContact\", \"custodian\"]}]"
+		"value": "[{"name": "", "roles": [""]}, {"name": "Northeast Fisheries Science Center", "roles": ["pointOfContact", "custodian"]}]"
 	},
 	{
 		"key": "spatial-reference-system",
@@ -269,7 +269,7 @@
 	},
 	{
 		"key": "access_constraints",
-		"value": "[\"Access Constraints: User must read and fully comprehend the metadata prior to use. Applications or inferences derived from the data should be carefully considered for accuracy. \\nNEFSC Data Access Constraint:\\nIf data is stored on an internal NEFSC network, the requester may not have direct access to query the data unless they are also authorized for network access. | Use Constraints: Acknowledgement of NOAA\/NMFS\/NEFSC, as the source from which these data were obtained in any publications and\/or other representations of these, data is suggested.\"]"
+		"value": "["Access Constraints: User must read and fully comprehend the metadata prior to use. Applications or inferences derived from the data should be carefully considered for accuracy. \nNEFSC Data Access Constraint:\nIf data is stored on an internal NEFSC network, the requester may not have direct access to query the data unless they are also authorized for network access. | Use Constraints: Acknowledgement of NOAA/NMFS/NEFSC, as the source from which these data were obtained in any publications and/or other representations of these, data is suggested."]"
 	},
 	{
 		"key": "spatial_harvester",
@@ -277,7 +277,7 @@
 	},
 	{
 		"package_id": "5c0a1f57-1183-4fe6-b4e7-f8fbe338e950",
-		"value": "georges bank, northeast fisheries science center, national marine fisheries service, noaa, u.s. department of commerce, summer, doc\/noaa\/nmfs\/nefsc, flatfish, cooperative research, yellowtail, survey, northeast cooperative research program (ncrp), benthic, demersal, 2013",
+		"value": "georges bank, northeast fisheries science center, national marine fisheries service, noaa, u.s. department of commerce, summer, doc/noaa/nmfs/nefsc, flatfish, cooperative research, yellowtail, survey, northeast cooperative research program (ncrp), benthic, demersal, 2013",
 		"revision_timestamp": "2016-07-18T22:18:03.146685",
 		"state": "active",
 		"key": "tags",
@@ -307,7 +307,7 @@
 		"revision_timestamp": "2013-03-25T23:05:12.923863",
 		"is_organization": true,
 		"state": "active",
-		"image_url": "https:\/\/fortress.wa.gov\/dfw\/score\/score\/images\/noaa_logo.png",
+		"image_url": "https://fortress.wa.gov/dfw/score/score/images/noaa_logo.png",
 		"revision_id": "c6d43080-22e1-405e-a83d-f2a512d9e867",
 		"type": "organization",
 		"id": "e811f0b4-451f-4896-9e8f-fc6802837819",

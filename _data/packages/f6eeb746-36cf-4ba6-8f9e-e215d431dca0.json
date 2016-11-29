@@ -37,7 +37,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2013-03-14T16:08:51.034225",
-		"url": "http:\/\/www.geostor.arkansas.gov\/G6\/Home.html?id=45e5f73ab8662b52bb32034bfd834d27",
+		"url": "http://www.geostor.arkansas.gov/G6/Home.html?id=45e5f73ab8662b52bb32034bfd834d27",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 0,
@@ -67,7 +67,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2013-03-14T16:08:51.034245",
-		"url": "http:\/\/www.geostor.arkansas.gov",
+		"url": "http://www.geostor.arkansas.gov",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 1,
@@ -114,7 +114,7 @@
 	"name": "911-public-safety-answering-point-psap-area-boundary-polygon",
 	"isopen": false,
 	"url": null,
-	"notes": "911 Public Safety Answering Point (PSAP) service area boundaries in Arkansas According to the National Emergency Number Association (NENA), a Public Safety Answering Point (PSAP) is a facility equipped and staffed to receive 9-1-1 calls. The service area is the geographic area within which a 911 call placed using a landline is answered at the associated PSAP. This dataset only includes primary PSAPs. Secondary PSAPs, backup PSAPs, and wireless PSAPs have been excluded from this dataset. Primary PSAPs receive calls directly, whereas secondary PSAPs receive calls that have been transferred by a primary PSAP. Backup PSAPs provide service in cases where another PSAP is inoperable. Most military bases have their own emergency telephone systems. To connect to such system from within a military base it may be necessary to dial a number other than 9 1 1. Due to the sensitive nature of military installations, TGS did not actively research these systems. If civilian authorities in surrounding areas volunteered information about these systems or if adding a military PSAP was necessary to fill a hole in civilian provided data, TGS included it in this dataset. Otherwise military installations are depicted as being covered by one or more adjoining civilian emergency telephone systems. In some cases areas are covered by more than one PSAP boundary. In these cases, any of the applicable PSAPs may take a 911 call. Where a specific call is routed may depend on how busy the applicable PSAPS are (i.e. load balancing), operational status (i.e. redundancy), or time of date \/ day of week. If an area does not have 911 service, TGS included that area in the dataset along with the address and phone number of their dispatch center. These are areas where someone must dial a 7 or 10 digit number to get emergency services. These records can be identified by a \"Y\" in the [NON911EMNO] field. This indicates that dialing 911 inside one of these areas does not connect one with emergency services. This dataset was constructed by gathering information about PSAPs from state level officials. In some cases this was geospatial information, in others it was tabular. This information was supplemented with a list of PSAPs from the Federal Communications Commission (FCC). Each PSAP was researched to verify its tabular information. In cases where the source data was not geospatial, each PSAP was researched to determine its service area in terms of existing boundaries (e.g. city and county boundaries). In some cases existing boundaries had to be modified to reflect coverage areas (e.g. \u00e2\u0080\u009centire county north of Country Road 30\u00e2\u0080\u009d). However, there may be cases where minor deviations from existing boundaries are not reflected in this dataset, such as the case where a particular PSAPs coverage area includes an entire county, and the homes and businesses along a road which is partly in another county. Text fields in this dataset have been set to all upper case to facilitate consistent database engine search results. All diacritics (e.g., the German umlaut or the Spanish tilde) have been replaced with their closest equivalent English character to facilitate use with database systems that may not support diacritics.",
+	"notes": "911 Public Safety Answering Point (PSAP) service area boundaries in Arkansas According to the National Emergency Number Association (NENA), a Public Safety Answering Point (PSAP) is a facility equipped and staffed to receive 9-1-1 calls. The service area is the geographic area within which a 911 call placed using a landline is answered at the associated PSAP. This dataset only includes primary PSAPs. Secondary PSAPs, backup PSAPs, and wireless PSAPs have been excluded from this dataset. Primary PSAPs receive calls directly, whereas secondary PSAPs receive calls that have been transferred by a primary PSAP. Backup PSAPs provide service in cases where another PSAP is inoperable. Most military bases have their own emergency telephone systems. To connect to such system from within a military base it may be necessary to dial a number other than 9 1 1. Due to the sensitive nature of military installations, TGS did not actively research these systems. If civilian authorities in surrounding areas volunteered information about these systems or if adding a military PSAP was necessary to fill a hole in civilian provided data, TGS included it in this dataset. Otherwise military installations are depicted as being covered by one or more adjoining civilian emergency telephone systems. In some cases areas are covered by more than one PSAP boundary. In these cases, any of the applicable PSAPs may take a 911 call. Where a specific call is routed may depend on how busy the applicable PSAPS are (i.e. load balancing), operational status (i.e. redundancy), or time of date / day of week. If an area does not have 911 service, TGS included that area in the dataset along with the address and phone number of their dispatch center. These are areas where someone must dial a 7 or 10 digit number to get emergency services. These records can be identified by a "Y" in the [NON911EMNO] field. This indicates that dialing 911 inside one of these areas does not connect one with emergency services. This dataset was constructed by gathering information about PSAPs from state level officials. In some cases this was geospatial information, in others it was tabular. This information was supplemented with a list of PSAPs from the Federal Communications Commission (FCC). Each PSAP was researched to verify its tabular information. In cases where the source data was not geospatial, each PSAP was researched to determine its service area in terms of existing boundaries (e.g. city and county boundaries). In some cases existing boundaries had to be modified to reflect coverage areas (e.g. u00e2u0080u009centire county north of Country Road 30u00e2u0080u009d). However, there may be cases where minor deviations from existing boundaries are not reflected in this dataset, such as the case where a particular PSAPs coverage area includes an entire county, and the homes and businesses along a road which is partly in another county. Text fields in this dataset have been set to all upper case to facilitate consistent database engine search results. All diacritics (e.g., the German umlaut or the Spanish tilde) have been replaced with their closest equivalent English character to facilitate use with database systems that may not support diacritics.",
 	"license_title": null,
 	"extras": [{
 		"key": "bbox-east-long",
@@ -134,7 +134,7 @@
 	},
 	{
 		"key": "__category_tag_9a350fa9-bc49-43d4-8e77-270b9714976d",
-		"value": "[\"Pacific Islands\",\"Hawaii\"]"
+		"value": "["Pacific Islands","Hawaii"]"
 	},
 	{
 		"key": "guid",
@@ -150,11 +150,11 @@
 	},
 	{
 		"key": "spatial",
-		"value": "{\"type\": \"Polygon\", \"coordinates\": [[[-94.618368, 32.969416], [-94.618368, 36.531955], [-89.619991, 36.531955], [-89.619991, 32.969416], [-94.618368, 32.969416]]]}"
+		"value": "{"type": "Polygon", "coordinates": [[[-94.618368, 32.969416], [-94.618368, 36.531955], [-89.619991, 36.531955], [-89.619991, 32.969416], [-94.618368, 32.969416]]]}"
 	},
 	{
 		"key": "access_constraints",
-		"value": "[\"Use Constraints: None\", \"Access Constraints: None\"]"
+		"value": "["Use Constraints: None", "Access Constraints: None"]"
 	},
 	{
 		"key": "temporal-extent-begin",
@@ -174,7 +174,7 @@
 	},
 	{
 		"key": "dataset-reference-date",
-		"value": "[{\"type\": \"publication\", \"value\": \"2008-04-14\"}]"
+		"value": "[{"type": "publication", "value": "2008-04-14"}]"
 	},
 	{
 		"key": "frequency-of-update",
@@ -182,7 +182,7 @@
 	},
 	{
 		"key": "licence",
-		"value": "[\"The data herein, including but not limited to geographic data, tabular data, analytical data, electronic data structures or files, are provided \\\"as is\\\" without warranty of any kind, either expressed or implied, or statutory, including, but not limited to, the implied warranties or merchantability and fitness for a particular purpose. The entire risk as to the quality and performance of the data is assumed by the user. No guarantee of accuracy is granted, nor is any responsibility for reliance thereon assumed. In no event shall the Arkansas Geographic Information Office be liable for direct, indirect, incidental, consequential or special damages of any kind, including, but not limited to, loss of anticipated profits or benefits arising out of use of or reliance on the data. The Arkansas Geographic Information Office does not accept liability for any damages or misrepresentation caused by inaccuracies in the data or as a result of changes to the data caused by system transfers or other transformations or conversions, nor is there responsibility assumed to maintain the data in any manner or form. This data has been developed from the best available sources. Although efforts have been made to ensure that the data is accurate and reliable, errors and variable conditions originating from physical sources used to develop the data may be reflected in the data supplied. Users must be aware of these conditions and bear responsibility for the appropriate use of the information with respect to possible errors, scale, resolution, rectification, positional accuracy, development methodology, time period, environmental and climatic conditions and other circumstances specific to this data. The user is responsible for understanding the accuracy limitations of the data provided herein. The burden for determining fitness for use lies entirely with the user. The user should refer to the accompanying metadata notes for a description of the data and data development procedures. Although this data has been processed successfully on computers at the Arkansas Geographic Information Office, no guarantee, expressed or implied, is made by Arkansas Geographic Information Office regarding the use of these data on any other system, nor does the act of distribution constitute or imply any such warranty. Distribution of these data is intended for information purposes and should not be considered authoritative for engineering, legal and other site-specific uses.\"]"
+		"value": "["The data herein, including but not limited to geographic data, tabular data, analytical data, electronic data structures or files, are provided \"as is\" without warranty of any kind, either expressed or implied, or statutory, including, but not limited to, the implied warranties or merchantability and fitness for a particular purpose. The entire risk as to the quality and performance of the data is assumed by the user. No guarantee of accuracy is granted, nor is any responsibility for reliance thereon assumed. In no event shall the Arkansas Geographic Information Office be liable for direct, indirect, incidental, consequential or special damages of any kind, including, but not limited to, loss of anticipated profits or benefits arising out of use of or reliance on the data. The Arkansas Geographic Information Office does not accept liability for any damages or misrepresentation caused by inaccuracies in the data or as a result of changes to the data caused by system transfers or other transformations or conversions, nor is there responsibility assumed to maintain the data in any manner or form. This data has been developed from the best available sources. Although efforts have been made to ensure that the data is accurate and reliable, errors and variable conditions originating from physical sources used to develop the data may be reflected in the data supplied. Users must be aware of these conditions and bear responsibility for the appropriate use of the information with respect to possible errors, scale, resolution, rectification, positional accuracy, development methodology, time period, environmental and climatic conditions and other circumstances specific to this data. The user is responsible for understanding the accuracy limitations of the data provided herein. The burden for determining fitness for use lies entirely with the user. The user should refer to the accompanying metadata notes for a description of the data and data development procedures. Although this data has been processed successfully on computers at the Arkansas Geographic Information Office, no guarantee, expressed or implied, is made by Arkansas Geographic Information Office regarding the use of these data on any other system, nor does the act of distribution constitute or imply any such warranty. Distribution of these data is intended for information purposes and should not be considered authoritative for engineering, legal and other site-specific uses."]"
 	},
 	{
 		"key": "metadata_type",
@@ -190,7 +190,7 @@
 	},
 	{
 		"key": "responsible-party",
-		"value": "[{\"name\": \"TechniGraphics, Inc.\", \"roles\": [\"pointOfContact\"]}]"
+		"value": "[{"name": "TechniGraphics, Inc.", "roles": ["pointOfContact"]}]"
 	},
 	{
 		"key": "temporal-extent-end",
@@ -236,7 +236,7 @@
 		"revision_timestamp": "2013-03-20T20:55:07.892290",
 		"is_organization": true,
 		"state": "active",
-		"image_url": "http:\/\/www.50states.com\/flag\/image\/nunst005.gif",
+		"image_url": "http://www.50states.com/flag/image/nunst005.gif",
 		"revision_id": "3a817c03-47cd-4444-b4ab-9734805a04e9",
 		"type": "organization",
 		"id": "73513ca8-1988-426e-9db2-73b8d0247d67",

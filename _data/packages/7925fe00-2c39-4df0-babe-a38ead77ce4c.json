@@ -36,7 +36,7 @@
 		"cache_url": null,
 		"name": "ND GIS Web Site",
 		"created": "2013-12-07T04:05:30.158535",
-		"url": "http:\/\/www.nd.gov\/gis",
+		"url": "http://www.nd.gov/gis",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 0,
@@ -65,7 +65,7 @@
 		"cache_url": null,
 		"name": "Elevation: Click to view WCS capabilities",
 		"created": "2013-12-07T04:05:30.158562",
-		"url": "http:\/\/ndgishub.nd.gov\/arcgis\/services\/All_Elevation\/MapServer\/WCSServer?request=GetCapabilities&service=WCS",
+		"url": "http://ndgishub.nd.gov/arcgis/services/All_Elevation/MapServer/WCSServer?request=GetCapabilities&service=WCS",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 1,
@@ -94,7 +94,7 @@
 		"cache_url": null,
 		"name": "Imagery: Click to view WCS capabilities",
 		"created": "2013-12-07T04:05:30.158571",
-		"url": "http:\/\/ndgishub.nd.gov\/arcgis\/services\/All_Imagery\/MapServer\/WCSServer?request=GetCapabilities&service=WCS",
+		"url": "http://ndgishub.nd.gov/arcgis/services/All_Imagery/MapServer/WCSServer?request=GetCapabilities&service=WCS",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 2,
@@ -111,7 +111,7 @@
 		"state": "active",
 		"last_modified": null,
 		"hash": "",
-		"description": "Landuse\/Landcover: Click to view WCS capabilities",
+		"description": "Landuse/Landcover: Click to view WCS capabilities",
 		"format": "WCS",
 		"tracking_summary": {
 			"total": 5,
@@ -121,9 +121,9 @@
 		"resource_locator_protocol": "WWW:LINK-1.0-http--related",
 		"mimetype": null,
 		"cache_url": null,
-		"name": "Landuse\/Landcover: Click to view WCS capabilities",
+		"name": "Landuse/Landcover: Click to view WCS capabilities",
 		"created": "2013-12-07T04:05:30.158579",
-		"url": "http:\/\/ndgishub.nd.gov\/arcgis\/services\/All_LanduseLandcover\/MapServer\/WCSServer?request=GetCapabilities&service=WCS",
+		"url": "http://ndgishub.nd.gov/arcgis/services/All_LanduseLandcover/MapServer/WCSServer?request=GetCapabilities&service=WCS",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 3,
@@ -156,7 +156,7 @@
 	"name": "ogc-web-mapping-services-wcs",
 	"isopen": false,
 	"url": null,
-	"notes": "North Dakota GIS Hub Open Geospatial Consortium (OGC) Web Coverage Services (WCS) are used for streaming raster data to desktop and web-based applications.  These data include raster data such as aerial photography, landuse\/landcover, and elevation data.\n\nWith WCS and using ArcGIS Desktop, it is possible to adjust the display properties such as resampling, stretch, and which bands to display, very similar to what one can do with a raster source from ArcSDE, ArcGIS Server, or MrSID.\n\nPlease see the Supplemental Information section for instructions on how to use these WCS services.",
+	"notes": "North Dakota GIS Hub Open Geospatial Consortium (OGC) Web Coverage Services (WCS) are used for streaming raster data to desktop and web-based applications.  These data include raster data such as aerial photography, landuse/landcover, and elevation data.nnWith WCS and using ArcGIS Desktop, it is possible to adjust the display properties such as resampling, stretch, and which bands to display, very similar to what one can do with a raster source from ArcSDE, ArcGIS Server, or MrSID.nnPlease see the Supplemental Information section for instructions on how to use these WCS services.",
 	"license_title": null,
 	"extras": [{
 		"key": "bbox-east-long",
@@ -200,7 +200,7 @@
 	},
 	{
 		"key": "spatial",
-		"value": "{\"type\": \"Polygon\", \"coordinates\": [[[-104.5, 45.5], [-96.5, 45.5], [-96.5, 49.5], [-104.5, 49.5], [-104.5, 45.5]]]}"
+		"value": "{"type": "Polygon", "coordinates": [[[-104.5, 45.5], [-96.5, 45.5], [-96.5, 49.5], [-104.5, 49.5], [-104.5, 45.5]]]}"
 	},
 	{
 		"key": "progress",
@@ -208,7 +208,7 @@
 	},
 	{
 		"key": "access_constraints",
-		"value": "[\"The State of North Dakota has compiled this data according to conventional cartographic standards, using what is thought to be the most reliable information available. This data is intended to make results of research available at the earliest possible date, but is not intended to constitute final or formal publication. The State of North Dakota makes every effort to provide virus-free files but does not guarantee uncorrupted files. The State of North Dakota does not guarantee this data to be free from errors, inaccuracies, or viruses, and disclaims any responsibility or liability for interpretations or decisions based on this data.\"]"
+		"value": "["The State of North Dakota has compiled this data according to conventional cartographic standards, using what is thought to be the most reliable information available. This data is intended to make results of research available at the earliest possible date, but is not intended to constitute final or formal publication. The State of North Dakota makes every effort to provide virus-free files but does not guarantee uncorrupted files. The State of North Dakota does not guarantee this data to be free from errors, inaccuracies, or viruses, and disclaims any responsibility or liability for interpretations or decisions based on this data."]"
 	},
 	{
 		"key": "contact-email",
@@ -224,7 +224,7 @@
 	},
 	{
 		"key": "dataset-reference-date",
-		"value": "[{\"type\": \"publication\", \"value\": \"2011-01-19T00:00:00\"}]"
+		"value": "[{"type": "publication", "value": "2011-01-19T00:00:00"}]"
 	},
 	{
 		"key": "graphic-preview-description",
@@ -244,7 +244,7 @@
 	},
 	{
 		"key": "responsible-party",
-		"value": "[{\"name\": \"Information Technology Department\", \"roles\": [\"originator\"]}]"
+		"value": "[{"name": "Information Technology Department", "roles": ["originator"]}]"
 	},
 	{
 		"key": "spatial-data-service-type",
@@ -279,14 +279,14 @@
 		"value": "North Dakota GIS Hub Data Portal"
 	}],
 	"organization": {
-		"description": "The GIS Hub is the state source for GIS - data, services, and information.  More information can be found at www.nd.gov\/gis.",
+		"description": "The GIS Hub is the state source for GIS - data, services, and information.  More information can be found at www.nd.gov/gis.",
 		"created": "2013-03-14T03:44:44.340717",
 		"title": "State of North Dakota",
 		"name": "nd-gov",
 		"revision_timestamp": "2013-07-15T16:27:30.098476",
 		"is_organization": true,
 		"state": "active",
-		"image_url": "http:\/\/www.nd.gov\/gis\/images\/ndgis-logo.gif",
+		"image_url": "http://www.nd.gov/gis/images/ndgis-logo.gif",
 		"revision_id": "27517bb9-815c-4d4f-b45b-b88b6316697b",
 		"type": "organization",
 		"id": "1c782de6-9f1f-4427-93fd-33732e29970f",

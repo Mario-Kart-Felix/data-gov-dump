@@ -36,7 +36,7 @@
 		"cache_url": null,
 		"name": "SHP",
 		"created": "2016-04-22T22:37:29.349993",
-		"url": "http:\/\/vcgi.vermont.gov\/warehouse\/?layer=TransStats_HCL20062010",
+		"url": "http://vcgi.vermont.gov/warehouse/?layer=TransStats_HCL20062010",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 0,
@@ -69,11 +69,11 @@
 	"name": "transstats-hcl20062010",
 	"isopen": false,
 	"url": null,
-	"notes": "The HCL20062010 dataset contains High Crash Locations (HCLs) for intersections and sections for data years 2006-2010. The HCLs in this dataset are based on the number of crashes and not the severity of the crashes. The intersections and sections analyzed in this dataset are limited to those highways that fall under the Federal Aid Highway system. A good overview of of the 2006-2010 HCL data is available in this PDF http:\/\/vtransplanning.vermont.gov\/sites\/aot_policy\/files\/documents\/highwayresearch\/2006-2010_High_Crash_Location_Report.pdf",
+	"notes": "The HCL20062010 dataset contains High Crash Locations (HCLs) for intersections and sections for data years 2006-2010. The HCLs in this dataset are based on the number of crashes and not the severity of the crashes. The intersections and sections analyzed in this dataset are limited to those highways that fall under the Federal Aid Highway system. A good overview of of the 2006-2010 HCL data is available in this PDF http://vtransplanning.vermont.gov/sites/aot_policy/files/documents/highwayresearch/2006-2010_High_Crash_Location_Report.pdf",
 	"license_title": null,
 	"extras": [{
 		"key": "responsible-party",
-		"value": "[{\"name\": \"Vermont Agency of Transportation (VTrans) - Mapping & GIS Unit\", \"roles\": [\"pointOfContact\"]}]"
+		"value": "[{"name": "Vermont Agency of Transportation (VTrans) - Mapping & GIS Unit", "roles": ["pointOfContact"]}]"
 	},
 	{
 		"key": "contact-email",
@@ -93,7 +93,7 @@
 	},
 	{
 		"key": "dataset-reference-date",
-		"value": "[{\"type\": \"publication\", \"value\": \"2013-11-21\"}]"
+		"value": "[{"type": "publication", "value": "2013-11-21"}]"
 	},
 	{
 		"key": "resource-type",
@@ -121,7 +121,7 @@
 	},
 	{
 		"key": "licence",
-		"value": "[\"VCGI and the State of Vermont make no representations of any kind, including but not limited to the warranties of merchantability or fitness for a particular use, nor are any such warranties to be implied with respect to the data.\"]"
+		"value": "["VCGI and the State of Vermont make no representations of any kind, including but not limited to the warranties of merchantability or fitness for a particular use, nor are any such warranties to be implied with respect to the data."]"
 	},
 	{
 		"key": "metadata_type",
@@ -133,7 +133,7 @@
 	},
 	{
 		"key": "spatial",
-		"value": "{\"type\": \"Polygon\", \"coordinates\": [[[-73.394156, 42.758077], [-71.580445, 42.758077], [-71.580445, 45.002172], [-73.394156, 45.002172], [-73.394156, 42.758077]]]}"
+		"value": "{"type": "Polygon", "coordinates": [[[-73.394156, 42.758077], [-71.580445, 42.758077], [-71.580445, 45.002172], [-73.394156, 45.002172], [-73.394156, 42.758077]]]}"
 	},
 	{
 		"key": "guid",
@@ -145,7 +145,7 @@
 	},
 	{
 		"key": "access_constraints",
-		"value": "[\"Use Constraints: None.\", \"Access Constraints: VCGI and the State of VT make no representations of any kind, including but not limited to the warranties of merchantability or fitness for a particular use, nor are any such warranties to be implied with respect to the data.\"]"
+		"value": "["Use Constraints: None.", "Access Constraints: VCGI and the State of VT make no representations of any kind, including but not limited to the warranties of merchantability or fitness for a particular use, nor are any such warranties to be implied with respect to the data."]"
 	},
 	{
 		"key": "spatial_harvester",
@@ -187,7 +187,7 @@
 		"revision_timestamp": "2013-03-27T17:47:03.718032",
 		"is_organization": true,
 		"state": "active",
-		"image_url": "http:\/\/vcgi.vermont.gov\/sites\/all\/themes\/vt_template\/logo.png",
+		"image_url": "http://vcgi.vermont.gov/sites/all/themes/vt_template/logo.png",
 		"revision_id": "c5dfbbb0-f1e0-4db6-b566-e932e1520060",
 		"type": "organization",
 		"id": "0c3a4ebc-9929-4f21-bdd0-76a35d52f57d",

@@ -37,7 +37,7 @@
 		"cache_url": null,
 		"name": "Zip File",
 		"created": "2013-03-14T20:24:46.353448",
-		"url": "ftp:\/\/ftp.dfg.ca.gov\/BDB\/GIS\/BIOS\/Public_Datasets\/001_099\/ds060.zip",
+		"url": "ftp://ftp.dfg.ca.gov/BDB/GIS/BIOS/Public_Datasets/001_099/ds060.zip",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 0,
@@ -70,11 +70,11 @@
 	"name": "birds-breeding-ds60",
 	"isopen": false,
 	"url": null,
-	"notes": "This data set provides access to information gathered on annual breeding bird surveys in California using a map layer developed by the Department. This data layer links to the breeding birds survey information that has been gathered from observers, compiled, and made available over the internet by the Migratory Bird Research Program, Patuxent Wildlife Research Center of the U.S. Geological Survey. The Breeding Bird Survey web site can be reached directly at http:\/\/www.pwrc.usgs.gov\/bbs\/ . A more complete description of the breeding bird survey program and the data than that given here is available at http:\/\/www.mbr-pwrc.usgs.gov\/bbs\/genintro.html and http:\/\/www.pwrc.usgs.gov\/bbs\/about\/ . TIME PERIOD COVERED. The span of breeding bird survey records in the complete database is from 1963 through 2003. Not all of the survey routes were initiated in 1963 and some are not active. So, many will not have survey results for the complete period during which the surveys have been conducted. NUMBER OF RECORDS. The shapefile containing the survey routes was produced in 1999 and displays and provides links to 248 routes. The current (Aug. 2004) USGS site has information on 255 routes. The routes missing from our map, and their links, are: (087) Needles -------- http:\/\/www.mbr-pwrc.usgs.gov\/cgi-bin\/rtena23.pl?14087 (152) Cordova -------- http:\/\/www.mbr-pwrc.usgs.gov\/cgi-bin\/rtena23.pl?14152 (225) Tres Pinos 2 ---- http:\/\/www.mbr-pwrc.usgs.gov\/cgi-bin\/rtena23.pl?14225 (320) Collegeville 2 ---- http:\/\/www.mbr-pwrc.usgs.gov\/cgi-bin\/rtena23.pl?14320 (429) Cecilville -------- http:\/\/www.mbr-pwrc.usgs.gov\/cgi-bin\/rtena23.pl?14429 (536) Squaw Valley --- http:\/\/www.mbr-pwrc.usgs.gov\/cgi-bin\/rtena23.pl?14536 (953) South Fork Mtn - http:\/\/www.mbr-pwrc.usgs.gov\/cgi-bin\/rtena23.pl?14953 GEOGRAPHIC EXTENT OF THE RECORDS. The Breeding Bird Survey routes are found throughout the State and are distributed across all 12 of the physiographic types that",
+	"notes": "This data set provides access to information gathered on annual breeding bird surveys in California using a map layer developed by the Department. This data layer links to the breeding birds survey information that has been gathered from observers, compiled, and made available over the internet by the Migratory Bird Research Program, Patuxent Wildlife Research Center of the U.S. Geological Survey. The Breeding Bird Survey web site can be reached directly at http://www.pwrc.usgs.gov/bbs/ . A more complete description of the breeding bird survey program and the data than that given here is available at http://www.mbr-pwrc.usgs.gov/bbs/genintro.html and http://www.pwrc.usgs.gov/bbs/about/ . TIME PERIOD COVERED. The span of breeding bird survey records in the complete database is from 1963 through 2003. Not all of the survey routes were initiated in 1963 and some are not active. So, many will not have survey results for the complete period during which the surveys have been conducted. NUMBER OF RECORDS. The shapefile containing the survey routes was produced in 1999 and displays and provides links to 248 routes. The current (Aug. 2004) USGS site has information on 255 routes. The routes missing from our map, and their links, are: (087) Needles -------- http://www.mbr-pwrc.usgs.gov/cgi-bin/rtena23.pl?14087 (152) Cordova -------- http://www.mbr-pwrc.usgs.gov/cgi-bin/rtena23.pl?14152 (225) Tres Pinos 2 ---- http://www.mbr-pwrc.usgs.gov/cgi-bin/rtena23.pl?14225 (320) Collegeville 2 ---- http://www.mbr-pwrc.usgs.gov/cgi-bin/rtena23.pl?14320 (429) Cecilville -------- http://www.mbr-pwrc.usgs.gov/cgi-bin/rtena23.pl?14429 (536) Squaw Valley --- http://www.mbr-pwrc.usgs.gov/cgi-bin/rtena23.pl?14536 (953) South Fork Mtn - http://www.mbr-pwrc.usgs.gov/cgi-bin/rtena23.pl?14953 GEOGRAPHIC EXTENT OF THE RECORDS. The Breeding Bird Survey routes are found throughout the State and are distributed across all 12 of the physiographic types that",
 	"license_title": null,
 	"extras": [{
 		"key": "responsible-party",
-		"value": "[{\"name\": \"\", \"roles\": [\"pointOfContact\"]}]"
+		"value": "[{"name": "", "roles": ["pointOfContact"]}]"
 	},
 	{
 		"key": "contact-email",
@@ -94,7 +94,7 @@
 	},
 	{
 		"key": "dataset-reference-date",
-		"value": "[{\"type\": \"publication\", \"value\": \"9999-01-01\"}]"
+		"value": "[{"type": "publication", "value": "9999-01-01"}]"
 	},
 	{
 		"key": "resource-type",
@@ -122,7 +122,7 @@
 	},
 	{
 		"key": "licence",
-		"value": "[\" \"]"
+		"value": "[" "]"
 	},
 	{
 		"key": "metadata_type",
@@ -130,7 +130,7 @@
 	},
 	{
 		"key": "spatial",
-		"value": "{\"type\": \"Point\", \"coordinates\": [0.0, 0.0]}"
+		"value": "{"type": "Point", "coordinates": [0.0, 0.0]}"
 	},
 	{
 		"key": "guid",
@@ -142,7 +142,7 @@
 	},
 	{
 		"key": "access_constraints",
-		"value": "[\"Use Constraints:\", \"Access Constraints:\"]"
+		"value": "["Use Constraints:", "Access Constraints:"]"
 	},
 	{
 		"key": "frequency-of-update",
@@ -180,7 +180,7 @@
 		"revision_timestamp": "2013-03-26T20:50:42.014311",
 		"is_organization": true,
 		"state": "active",
-		"image_url": "http:\/\/www.resources.ca.gov\/images\/ca_department\/natural_resources_logo.jpg",
+		"image_url": "http://www.resources.ca.gov/images/ca_department/natural_resources_logo.jpg",
 		"revision_id": "e7aa4350-6f5c-4214-9dff-498e9ff147b1",
 		"type": "organization",
 		"id": "5c6ed61e-7555-4e3c-bf86-f079cffd5587",

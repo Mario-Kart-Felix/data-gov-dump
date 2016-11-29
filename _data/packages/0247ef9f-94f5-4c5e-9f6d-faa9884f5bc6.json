@@ -36,7 +36,7 @@
 		"cache_url": null,
 		"name": "Shapefile Zip File",
 		"created": "2016-10-07T09:05:07.779657",
-		"url": "http:\/\/www2.census.gov\/geo\/tiger\/TIGER2016\/PRIMARYROADS\/tl_2016_us_primaryroads.zip",
+		"url": "http://www2.census.gov/geo/tiger/TIGER2016/PRIMARYROADS/tl_2016_us_primaryroads.zip",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 0,
@@ -63,9 +63,9 @@
 		"resource_locator_protocol": "",
 		"mimetype": null,
 		"cache_url": null,
-		"name": "TIGER\/Line\u00ae Shapefiles",
+		"name": "TIGER/Lineu00ae Shapefiles",
 		"created": "2016-10-07T09:05:07.779695",
-		"url": "http:\/\/www.census.gov\/geo\/maps-data\/data\/tiger-line.html",
+		"url": "http://www.census.gov/geo/maps-data/data/tiger-line.html",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 1,
@@ -92,9 +92,9 @@
 		"resource_locator_protocol": "",
 		"mimetype": null,
 		"cache_url": null,
-		"name": "TIGERweb\/tigerWMS_PhysicalFeatures (MapServer)",
+		"name": "TIGERweb/tigerWMS_PhysicalFeatures (MapServer)",
 		"created": "2016-10-07T09:05:07.779704",
-		"url": "https:\/\/tigerweb.geo.census.gov\/arcgis\/services\/TIGERweb\/tigerWMS_PhysicalFeatures\/MapServer\/WmsServer?",
+		"url": "https://tigerweb.geo.census.gov/arcgis/services/TIGERweb/tigerWMS_PhysicalFeatures/MapServer/WmsServer?",
 		"webstore_url": null,
 		"resource_locator_function": "download",
 		"position": 2,
@@ -121,9 +121,9 @@
 		"resource_locator_protocol": "",
 		"mimetype": null,
 		"cache_url": null,
-		"name": "TIGERweb\/tigerWMS_PhysicalFeatures (MapServer) Rest Service",
+		"name": "TIGERweb/tigerWMS_PhysicalFeatures (MapServer) Rest Service",
 		"created": "2016-10-07T09:05:07.779711",
-		"url": "https:\/\/tigerweb.geo.census.gov\/arcgis\/rest\/services\/TIGERweb\/Transportation\/MapServer",
+		"url": "https://tigerweb.geo.census.gov/arcgis/rest/services/TIGERweb/Transportation/MapServer",
 		"webstore_url": null,
 		"resource_locator_function": "download",
 		"position": 3,
@@ -132,7 +132,7 @@
 	}],
 	"num_resources": 4,
 	"tags": [],
-	"title": "TIGER\/Line Shapefile, 2016,  nation, U.S., Primary Roads National Shapefile",
+	"title": "TIGER/Line Shapefile, 2016,  nation, U.S., Primary Roads National Shapefile",
 	"tracking_summary": {
 		"total": 66,
 		"recent": 10
@@ -143,7 +143,7 @@
 	"name": "tiger-line-shapefile-2016-nation-u-s-primary-roads-national-shapefile",
 	"isopen": false,
 	"url": null,
-	"notes": "The TIGER\/Line shapefiles and related database files (.dbf) are an extract of selected geographic and cartographic information from the\n                                 U.S. Census Bureau's Master Address File \/ Topologically Integrated Geographic Encoding and Referencing (MAF\/TIGER) Database (MTDB).\n                                 The MTDB represents a seamless national file with no overlaps or gaps between parts, however, each TIGER\/Line shapefile is designed to\n                                 stand alone as an independent data set, or they can be combined to cover the entire nation.\n\n                                 Primary roads are generally divided, limited-access highways within the interstate highway system or under State management, and are\n                                 distinguished by the presence of interchanges.  These highways are accessible by ramps and may include some toll highways.  The\n                                 MAF\/TIGER Feature Classification Code (MTFCC) is S1100 for primary roads.  \n            ",
+	"notes": "The TIGER/Line shapefiles and related database files (.dbf) are an extract of selected geographic and cartographic information from then                                 U.S. Census Bureau's Master Address File / Topologically Integrated Geographic Encoding and Referencing (MAF/TIGER) Database (MTDB).n                                 The MTDB represents a seamless national file with no overlaps or gaps between parts, however, each TIGER/Line shapefile is designed ton                                 stand alone as an independent data set, or they can be combined to cover the entire nation.nn                                 Primary roads are generally divided, limited-access highways within the interstate highway system or under State management, and aren                                 distinguished by the presence of interchanges.  These highways are accessible by ramps and may include some toll highways.  Then                                 MAF/TIGER Feature Classification Code (MTFCC) is S1100 for primary roads.  n            ",
 	"license_title": null,
 	"extras": [{
 		"key": "bbox-east-long",
@@ -171,7 +171,7 @@
 	},
 	{
 		"key": "graphic-preview-file",
-		"value": "https:\/\/tigerweb.geo.census.gov\/arcgis\/services\/TIGERweb\/tigerWMS_PhysicalFeatures\/MapServer\/WmsServer?REQUEST=GetMap&SERVICE=WMS&VERSION=1.3.0&LAYERS=Primary Roads&STYLES= default&FORMAT=image\/svg+xml&BGCOLOR=0xFFFFFF&TRANSPARENT=FALSE&CRS=EPSG:4326&BBOX=+46.4885652,-123.7376480, +47.8731709, -121.8063833,&WIDTH=891&HEIGHT=751"
+		"value": "https://tigerweb.geo.census.gov/arcgis/services/TIGERweb/tigerWMS_PhysicalFeatures/MapServer/WmsServer?REQUEST=GetMap&SERVICE=WMS&VERSION=1.3.0&LAYERS=Primary Roads&STYLES= default&FORMAT=image/svg+xml&BGCOLOR=0xFFFFFF&TRANSPARENT=FALSE&CRS=EPSG:4326&BBOX=+46.4885652,-123.7376480, +47.8731709, -121.8063833,&WIDTH=891&HEIGHT=751"
 	},
 	{
 		"key": "bbox-south-lat",
@@ -187,7 +187,7 @@
 	},
 	{
 		"key": "spatial",
-		"value": "{\"type\": \"Polygon\", \"coordinates\": [[[-179.231086, -14.601813], [179.859681, -14.601813], [179.859681, 71.441059], [-179.231086, 71.441059], [-179.231086, -14.601813]]]}"
+		"value": "{"type": "Polygon", "coordinates": [[[-179.231086, -14.601813], [179.859681, -14.601813], [179.859681, 71.441059], [-179.231086, 71.441059], [-179.231086, -14.601813]]]}"
 	},
 	{
 		"key": "progress",
@@ -195,7 +195,7 @@
 	},
 	{
 		"key": "access_constraints",
-		"value": "[\" Access Constraints: None\", \" Use Constraints:The TIGER\/Line Shapefile products are not copyrighted however TIGER\/Line and Census TIGER are registered\\n                                        trademarks of the U.S. Census Bureau.  These products are free to use in a product or publication, however acknowledgement must\\n                                        be given to the U.S. Census Bureau as the source.\\n                                        \\n                                       The horizontal spatial accuracy information present in these files is provided for the purposes of statistical analysis and\\n                                       census operations only.  No warranty, expressed or implied is made with regard to the accuracy of the spatial accuracy, and no\\n                                       liability is assumed by the U.S. Government in general or the U.S. Census Bureau, specifically as to the spatial or attribute\\n                                       accuracy of the data.  The TIGER\/Line Shapefiles may not be suitable for high-precision measurement applications such as\\n                                       engineering problems, property transfers, or other uses that might require highly accurate measurements of the earth's surface.\\n                                       Coordinates in the TIGER\/Line shapefiles have six implied decimal places, but the positional accuracy of these coordinates is not\\n                                       as great as the six decimal places suggest.\\n                  \"]"
+		"value": "[" Access Constraints: None", " Use Constraints:The TIGER/Line Shapefile products are not copyrighted however TIGER/Line and Census TIGER are registered\n                                        trademarks of the U.S. Census Bureau.  These products are free to use in a product or publication, however acknowledgement must\n                                        be given to the U.S. Census Bureau as the source.\n                                        \n                                       The horizontal spatial accuracy information present in these files is provided for the purposes of statistical analysis and\n                                       census operations only.  No warranty, expressed or implied is made with regard to the accuracy of the spatial accuracy, and no\n                                       liability is assumed by the U.S. Government in general or the U.S. Census Bureau, specifically as to the spatial or attribute\n                                       accuracy of the data.  The TIGER/Line Shapefiles may not be suitable for high-precision measurement applications such as\n                                       engineering problems, property transfers, or other uses that might require highly accurate measurements of the earth's surface.\n                                       Coordinates in the TIGER/Line shapefiles have six implied decimal places, but the positional accuracy of these coordinates is not\n                                       as great as the six decimal places suggest.\n                  "]"
 	},
 	{
 		"key": "temporal-extent-begin",
@@ -215,7 +215,7 @@
 	},
 	{
 		"key": "dataset-reference-date",
-		"value": "[{\"type\": \"publication\", \"value\": \"2016\"}]"
+		"value": "[{"type": "publication", "value": "2016"}]"
 	},
 	{
 		"key": "graphic-preview-description",
@@ -277,7 +277,7 @@
 		"revision_timestamp": "2013-08-29T13:37:04.171127",
 		"is_organization": true,
 		"state": "active",
-		"image_url": "http:\/\/www.census.gov\/main\/img\/home\/CensusLogo-white.png",
+		"image_url": "http://www.census.gov/main/img/home/CensusLogo-white.png",
 		"revision_id": "0995f525-d563-4254-a535-af5b926fe663",
 		"type": "organization",
 		"id": "31c49abe-512a-412a-9cc7-5b2601325d6b",

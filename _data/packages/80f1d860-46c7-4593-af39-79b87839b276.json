@@ -37,7 +37,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2015-09-26T21:34:36.062314",
-		"url": "ftp:\/\/sidads.colorado.edu\/pub\/DATASETS\/NOAA\/G02170\/",
+		"url": "ftp://sidads.colorado.edu/pub/DATASETS/NOAA/G02170/",
 		"webstore_url": null,
 		"resource_locator_function": "function",
 		"position": 0,
@@ -67,7 +67,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2015-09-26T21:34:36.062340",
-		"url": "http:\/\/nsidc.org\/data\/docs\/noaa\/g02170_russian_monthly_precip\/index.html",
+		"url": "http://nsidc.org/data/docs/noaa/g02170_russian_monthly_precip/index.html",
 		"webstore_url": null,
 		"resource_locator_function": "function",
 		"position": 1,
@@ -85,7 +85,7 @@
 		"last_modified": null,
 		"hash": "",
 		"description": "",
-		"format": "application\/vnd.lotus-organizer",
+		"format": "application/vnd.lotus-organizer",
 		"tracking_summary": {
 			"total": 85,
 			"recent": 4
@@ -97,7 +97,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2015-09-26T21:34:36.062349",
-		"url": "http:\/\/nsidc.org",
+		"url": "http://nsidc.org",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 2,
@@ -127,7 +127,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2015-09-26T21:34:36.062357",
-		"url": "http:\/\/nsidc.org\/noaa\/",
+		"url": "http://nsidc.org/noaa/",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 3,
@@ -145,7 +145,7 @@
 		"last_modified": null,
 		"hash": "",
 		"description": "",
-		"format": "application\/vnd.lotus-organizer",
+		"format": "application/vnd.lotus-organizer",
 		"tracking_summary": {
 			"total": 85,
 			"recent": 4
@@ -157,7 +157,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2015-09-26T21:34:36.062364",
-		"url": "http:\/\/nsidc.org",
+		"url": "http://nsidc.org",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 4,
@@ -177,7 +177,7 @@
 	"name": "monthly-mean-precipitation-sums-at-russian-arctic-stations-1966-1990",
 	"isopen": false,
 	"url": null,
-	"notes": "\nThis data set contains monthly mean precipitation sums from Russian arctic stations. Precipitation measurements were acquired using a Tretyakov precipitation gauge. Data have not been adjusted for wind bias. Data from 1967 and later are corrected for wetting loss (this correction was made by observers as they recorded the station data). Precipitation measurements from 216 stations are available. An analysis of existing precipitation data sets confirmed that data from these stations are not, at the time of publication, available in other commonly used precipitation data sets. Most data records begin in 1966 and end in 1990. The data are in tab-delimited ASCII format and available via FTP.\n",
+	"notes": "nThis data set contains monthly mean precipitation sums from Russian arctic stations. Precipitation measurements were acquired using a Tretyakov precipitation gauge. Data have not been adjusted for wind bias. Data from 1967 and later are corrected for wetting loss (this correction was made by observers as they recorded the station data). Precipitation measurements from 216 stations are available. An analysis of existing precipitation data sets confirmed that data from these stations are not, at the time of publication, available in other commonly used precipitation data sets. Most data records begin in 1966 and end in 1990. The data are in tab-delimited ASCII format and available via FTP.n",
 	"license_title": null,
 	"extras": [{
 		"key": "bbox-east-long",
@@ -213,7 +213,7 @@
 	},
 	{
 		"key": "spatial",
-		"value": "{\"type\": \"Polygon\", \"coordinates\": [[[38.25, 50.17], [164.17, 50.17], [164.17, 69.77], [38.25, 69.77], [38.25, 50.17]]]}"
+		"value": "{"type": "Polygon", "coordinates": [[[38.25, 50.17], [164.17, 50.17], [164.17, 69.77], [38.25, 69.77], [38.25, 50.17]]]}"
 	},
 	{
 		"key": "progress",
@@ -221,7 +221,7 @@
 	},
 	{
 		"key": "access_constraints",
-		"value": "[\"Access Constraints : none\", \"Use Constraints : none\"]"
+		"value": "["Access Constraints : none", "Use Constraints : none"]"
 	},
 	{
 		"key": "temporal-extent-begin",
@@ -241,7 +241,7 @@
 	},
 	{
 		"key": "dataset-reference-date",
-		"value": "[{\"type\": \"publication\", \"value\": \"2006-08-29\"}]"
+		"value": "[{"type": "publication", "value": "2006-08-29"}]"
 	},
 	{
 		"key": "frequency-of-update",
@@ -257,7 +257,7 @@
 	},
 	{
 		"key": "responsible-party",
-		"value": "[{\"name\": \"\", \"roles\": [\"principalInvestigator\"]}, {\"name\": \"National Snow and Ice Data Center\", \"roles\": [\"pointOfContact\"]}]"
+		"value": "[{"name": "", "roles": ["principalInvestigator"]}, {"name": "National Snow and Ice Data Center", "roles": ["pointOfContact"]}]"
 	},
 	{
 		"key": "temporal-extent-end",
@@ -303,7 +303,7 @@
 		"revision_timestamp": "2013-03-25T23:05:12.923863",
 		"is_organization": true,
 		"state": "active",
-		"image_url": "https:\/\/fortress.wa.gov\/dfw\/score\/score\/images\/noaa_logo.png",
+		"image_url": "https://fortress.wa.gov/dfw/score/score/images/noaa_logo.png",
 		"revision_id": "c6d43080-22e1-405e-a83d-f2a512d9e867",
 		"type": "organization",
 		"id": "e811f0b4-451f-4896-9e8f-fc6802837819",

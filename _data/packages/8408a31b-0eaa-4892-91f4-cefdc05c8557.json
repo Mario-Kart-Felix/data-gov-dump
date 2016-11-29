@@ -36,7 +36,7 @@
 		"cache_url": null,
 		"name": "NDGIS web site",
 		"created": "2015-01-09T11:58:51.909740",
-		"url": "http:\/\/www.nd.gov\/gis",
+		"url": "http://www.nd.gov/gis",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 0,
@@ -65,7 +65,7 @@
 		"cache_url": null,
 		"name": "Download River Miles",
 		"created": "2015-01-09T11:58:51.909768",
-		"url": "http:\/\/www.nd.gov\/gis\/apps\/DataDownload\/?clipping=Full&coord=ND83-SF&format=SHAPE&layers=NDHUB.RIVERMILES",
+		"url": "http://www.nd.gov/gis/apps/DataDownload/?clipping=Full&coord=ND83-SF&format=SHAPE&layers=NDHUB.RIVERMILES",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 1,
@@ -94,7 +94,7 @@
 		"cache_url": null,
 		"name": "River Miles",
 		"created": "2015-01-09T11:58:51.909776",
-		"url": "http:\/\/ndgishub.nd.gov\/arcgis\/services\/All_Hydrography\/MapServer\/WMSServer?",
+		"url": "http://ndgishub.nd.gov/arcgis/services/All_Hydrography/MapServer/WMSServer?",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 2,
@@ -123,7 +123,7 @@
 		"cache_url": null,
 		"name": "Esri REST including WMS",
 		"created": "2015-01-09T11:58:51.909782",
-		"url": "http:\/\/ndgishub.nd.gov\/ArcGIS\/rest\/services\/All_Hydrography\/MapServer",
+		"url": "http://ndgishub.nd.gov/ArcGIS/rest/services/All_Hydrography/MapServer",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 3,
@@ -152,7 +152,7 @@
 		"cache_url": null,
 		"name": "Esri REST including WFS and KML",
 		"created": "2015-01-09T11:58:51.909789",
-		"url": "http:\/\/ndgishub.nd.gov\/ArcGIS\/rest\/services\/Features\/Hydrography\/MapServer",
+		"url": "http://ndgishub.nd.gov/ArcGIS/rest/services/Features/Hydrography/MapServer",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 4,
@@ -235,7 +235,7 @@
 	},
 	{
 		"key": "__category_tag_78473e2f-b6ba-4e28-b0c1-d53c35a7e010",
-		"value": "[\"Navigation\",\"Geospatial\"]"
+		"value": "["Navigation","Geospatial"]"
 	},
 	{
 		"key": "spatial-reference-system",
@@ -247,7 +247,7 @@
 	},
 	{
 		"key": "spatial",
-		"value": "{\"type\": \"Polygon\", \"coordinates\": [[[-104.5, 45.5], [-96.5, 45.5], [-96.5, 49.5], [-104.5, 49.5], [-104.5, 45.5]]]}"
+		"value": "{"type": "Polygon", "coordinates": [[[-104.5, 45.5], [-96.5, 45.5], [-96.5, 49.5], [-104.5, 49.5], [-104.5, 45.5]]]}"
 	},
 	{
 		"key": "progress",
@@ -255,7 +255,7 @@
 	},
 	{
 		"key": "access_constraints",
-		"value": "[\"The data represents the results of data collection\/processing for a specific activity and indicates the general existing conditions. As such , it is only valid for its intended use, content, and accuracy specifications. The user is responsible for the results of any application of the data other than its intended purpose.\"]"
+		"value": "["The data represents the results of data collection/processing for a specific activity and indicates the general existing conditions. As such , it is only valid for its intended use, content, and accuracy specifications. The user is responsible for the results of any application of the data other than its intended purpose."]"
 	},
 	{
 		"key": "contact-email",
@@ -271,7 +271,7 @@
 	},
 	{
 		"key": "dataset-reference-date",
-		"value": "[{\"type\": \"publication\", \"value\": \"2004-10-20T09:38:00\"}]"
+		"value": "[{"type": "publication", "value": "2004-10-20T09:38:00"}]"
 	},
 	{
 		"key": "graphic-preview-description",
@@ -291,7 +291,7 @@
 	},
 	{
 		"key": "responsible-party",
-		"value": "[{\"name\": \"St. Paul District - US Army Corps of Engineers\", \"roles\": [\"originator\"]}]"
+		"value": "[{"name": "St. Paul District - US Army Corps of Engineers", "roles": ["originator"]}]"
 	},
 	{
 		"key": "spatial-data-service-type",
@@ -326,14 +326,14 @@
 		"value": "North Dakota GIS Hub Data Portal"
 	}],
 	"organization": {
-		"description": "The GIS Hub is the state source for GIS - data, services, and information.  More information can be found at www.nd.gov\/gis.",
+		"description": "The GIS Hub is the state source for GIS - data, services, and information.  More information can be found at www.nd.gov/gis.",
 		"created": "2013-03-14T03:44:44.340717",
 		"title": "State of North Dakota",
 		"name": "nd-gov",
 		"revision_timestamp": "2013-07-15T16:27:30.098476",
 		"is_organization": true,
 		"state": "active",
-		"image_url": "http:\/\/www.nd.gov\/gis\/images\/ndgis-logo.gif",
+		"image_url": "http://www.nd.gov/gis/images/ndgis-logo.gif",
 		"revision_id": "27517bb9-815c-4d4f-b45b-b88b6316697b",
 		"type": "organization",
 		"id": "1c782de6-9f1f-4427-93fd-33732e29970f",

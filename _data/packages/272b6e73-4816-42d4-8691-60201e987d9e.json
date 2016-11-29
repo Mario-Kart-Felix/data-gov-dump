@@ -37,7 +37,7 @@
 		"cache_url": null,
 		"name": "Zip File",
 		"created": "2016-01-02T04:24:44.933452",
-		"url": "http:\/\/www.boem.gov\/Fishing-Closures-Map-Package.zip",
+		"url": "http://www.boem.gov/Fishing-Closures-Map-Package.zip",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 0,
@@ -67,7 +67,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2016-01-02T04:24:44.933476",
-		"url": "http:\/\/www.boem.gov\/Fishing-Closures-Map-Package\/",
+		"url": "http://www.boem.gov/Fishing-Closures-Map-Package/",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 1,
@@ -97,7 +97,7 @@
 		"cache_url": null,
 		"name": "Esri Rest API Endpoint",
 		"created": "2016-01-02T04:24:44.933486",
-		"url": "https:\/\/coast.noaa.gov\/arcgis\/rest\/services\/MarineCadastre\/BOEM_Layers\/MapServer\/",
+		"url": "https://coast.noaa.gov/arcgis/rest/services/MarineCadastre/BOEM_Layers/MapServer/",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 2,
@@ -127,7 +127,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2016-01-02T04:24:44.933493",
-		"url": "http:\/\/www.marinecadastre.gov\/data\/",
+		"url": "http://www.marinecadastre.gov/data/",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 3,
@@ -157,7 +157,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2016-01-02T04:24:44.933500",
-		"url": "https:\/\/www.coast.noaa.gov\/",
+		"url": "https://www.coast.noaa.gov/",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 4,
@@ -177,11 +177,11 @@
 	"name": "west-coast-fishing-closures-2015",
 	"isopen": false,
 	"url": null,
-	"notes": "These data delineate state and federally managed ocean areas off the West Coast of the United States that are closed to or have restrictions on commercial or recreational fishing for fish and invertebrates as of June 2015. These areas include marine protected areas, marine reserves, essential fish habitat conservation areas, and other types of conservation areas. Closures and restrictions may be year-round or seasonal. The data do not include all spatially explicit fishing regulations. The focus of these data is on fishing closures and restrictions that generally persist through time, and do not include many fishing management measures that are used to open and close areas dynamically to manage species, harvests, and seasons. Some areas where access is prohibited or restricted are included because these act as \"de-facto\" closures or restrictions to fishing.",
+	"notes": "These data delineate state and federally managed ocean areas off the West Coast of the United States that are closed to or have restrictions on commercial or recreational fishing for fish and invertebrates as of June 2015. These areas include marine protected areas, marine reserves, essential fish habitat conservation areas, and other types of conservation areas. Closures and restrictions may be year-round or seasonal. The data do not include all spatially explicit fishing regulations. The focus of these data is on fishing closures and restrictions that generally persist through time, and do not include many fishing management measures that are used to open and close areas dynamically to manage species, harvests, and seasons. Some areas where access is prohibited or restricted are included because these act as "de-facto" closures or restrictions to fishing.",
 	"license_title": null,
 	"extras": [{
 		"key": "responsible-party",
-		"value": "[{\"name\": \"NOAA Office for Coastal Management\", \"roles\": [\"pointOfContact\"]}]"
+		"value": "[{"name": "NOAA Office for Coastal Management", "roles": ["pointOfContact"]}]"
 	},
 	{
 		"key": "contact-email",
@@ -201,7 +201,7 @@
 	},
 	{
 		"key": "dataset-reference-date",
-		"value": "[{\"type\": \"publication\", \"value\": \"2015-12-09\"}]"
+		"value": "[{"type": "publication", "value": "2015-12-09"}]"
 	},
 	{
 		"key": "resource-type",
@@ -229,7 +229,7 @@
 	},
 	{
 		"key": "licence",
-		"value": "[\"NOAA makes no warranties or representations whatsoever regarding the availability, quality, accuracy, content, completeness or suitability for the user's needs of such information. The services, information, and data made available on the Marine Cadastre web site are provided \\\"as is\\\" without warranties of any kind. These data are intended for coastal and ocean use planning. Not for navigation. http:\/\/www.marinecadastre.gov\/about\/disclaimer.html\"]"
+		"value": "["NOAA makes no warranties or representations whatsoever regarding the availability, quality, accuracy, content, completeness or suitability for the user's needs of such information. The services, information, and data made available on the Marine Cadastre web site are provided \"as is\" without warranties of any kind. These data are intended for coastal and ocean use planning. Not for navigation. http://www.marinecadastre.gov/about/disclaimer.html"]"
 	},
 	{
 		"key": "metadata_type",
@@ -241,7 +241,7 @@
 	},
 	{
 		"key": "spatial",
-		"value": "{\"type\": \"Polygon\", \"coordinates\": [[[-129.162414, 30.891215], [-117.120607, 30.891215], [-117.120607, 48.505903], [-129.162414, 48.505903], [-129.162414, 30.891215]]]}"
+		"value": "{"type": "Polygon", "coordinates": [[[-129.162414, 30.891215], [-117.120607, 30.891215], [-117.120607, 48.505903], [-129.162414, 48.505903], [-129.162414, 30.891215]]]}"
 	},
 	{
 		"key": "guid",
@@ -253,7 +253,7 @@
 	},
 	{
 		"key": "access_constraints",
-		"value": "[\"Use Constraints: The data are not legal boundaries and should not be used to determine if fishing for specific species and\/or with specific gear is allowed at a certain location. These data are intended for coastal and ocean use planning. Not for navigation. http:\/\/www.marinecadastre.gov\/about\/disclaimer.html\", \"Access Constraints: None\"]"
+		"value": "["Use Constraints: The data are not legal boundaries and should not be used to determine if fishing for specific species and/or with specific gear is allowed at a certain location. These data are intended for coastal and ocean use planning. Not for navigation. http://www.marinecadastre.gov/about/disclaimer.html", "Access Constraints: None"]"
 	},
 	{
 		"key": "spatial_harvester",
@@ -295,7 +295,7 @@
 		"revision_timestamp": "2013-03-25T23:05:12.923863",
 		"is_organization": true,
 		"state": "active",
-		"image_url": "https:\/\/fortress.wa.gov\/dfw\/score\/score\/images\/noaa_logo.png",
+		"image_url": "https://fortress.wa.gov/dfw/score/score/images/noaa_logo.png",
 		"revision_id": "c6d43080-22e1-405e-a83d-f2a512d9e867",
 		"type": "organization",
 		"id": "e811f0b4-451f-4896-9e8f-fc6802837819",

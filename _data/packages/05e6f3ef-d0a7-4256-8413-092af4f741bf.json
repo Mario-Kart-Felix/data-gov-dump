@@ -36,7 +36,7 @@
 		"cache_url": null,
 		"name": "Daily Weather Records Landing Page",
 		"created": "2016-05-30T21:55:06.442138",
-		"url": "http:\/\/gis.ncdc.noaa.gov\/all-records\/catalog\/search\/resource\/details.page?id=gov.noaa.ncdc:C00781",
+		"url": "http://gis.ncdc.noaa.gov/all-records/catalog/search/resource/details.page?id=gov.noaa.ncdc:C00781",
 		"webstore_url": null,
 		"resource_locator_function": "information",
 		"position": 0,
@@ -65,7 +65,7 @@
 		"cache_url": null,
 		"name": "Daily Weather Records Application",
 		"created": "2016-05-30T21:55:06.442175",
-		"url": "http:\/\/www.ncdc.noaa.gov\/cdo-web\/datatools\/records",
+		"url": "http://www.ncdc.noaa.gov/cdo-web/datatools/records",
 		"webstore_url": null,
 		"resource_locator_function": "search",
 		"position": 1,
@@ -94,7 +94,7 @@
 		"cache_url": null,
 		"name": "Daily Weather Records Application",
 		"created": "2016-05-30T21:55:06.442197",
-		"url": "http:\/\/www.ncdc.noaa.gov\/cdo-web\/datatools\/records",
+		"url": "http://www.ncdc.noaa.gov/cdo-web/datatools/records",
 		"webstore_url": null,
 		"resource_locator_function": "information",
 		"position": 2,
@@ -123,7 +123,7 @@
 		"cache_url": null,
 		"name": "NOAA National Centers for Environmental Information (NCEI)",
 		"created": "2016-05-30T21:55:06.442216",
-		"url": "http:\/\/www.ncei.noaa.gov",
+		"url": "http://www.ncei.noaa.gov",
 		"webstore_url": null,
 		"resource_locator_function": "information",
 		"position": 3,
@@ -152,7 +152,7 @@
 		"cache_url": null,
 		"name": "NASA GCMD Keyword Community Page",
 		"created": "2016-05-30T21:55:06.442235",
-		"url": "http:\/\/gcmd.gsfc.nasa.gov\/learn\/keywords.html",
+		"url": "http://gcmd.gsfc.nasa.gov/learn/keywords.html",
 		"webstore_url": null,
 		"resource_locator_function": "information",
 		"position": 4,
@@ -181,7 +181,7 @@
 		"cache_url": null,
 		"name": "GCOS Essential Climate Variables",
 		"created": "2016-05-30T21:55:06.442253",
-		"url": "http:\/\/www.wmo.int\/pages\/prog\/gcos\/index.php?name=EssentialClimateVariables",
+		"url": "http://www.wmo.int/pages/prog/gcos/index.php?name=EssentialClimateVariables",
 		"webstore_url": null,
 		"resource_locator_function": "information",
 		"position": 5,
@@ -210,7 +210,7 @@
 		"cache_url": null,
 		"name": "NASA GCMD Keyword Community Page",
 		"created": "2016-05-30T21:55:06.442272",
-		"url": "http:\/\/gcmd.gsfc.nasa.gov\/learn\/keywords.html",
+		"url": "http://gcmd.gsfc.nasa.gov/learn/keywords.html",
 		"webstore_url": null,
 		"resource_locator_function": "information",
 		"position": 6,
@@ -239,7 +239,7 @@
 		"cache_url": null,
 		"name": "NASA GCMD Keyword Community Page",
 		"created": "2016-05-30T21:55:06.442290",
-		"url": "http:\/\/gcmd.gsfc.nasa.gov\/learn\/keywords.html",
+		"url": "http://gcmd.gsfc.nasa.gov/learn/keywords.html",
 		"webstore_url": null,
 		"resource_locator_function": "information",
 		"position": 7,
@@ -268,7 +268,7 @@
 		"cache_url": null,
 		"name": "NASA GCMD Keyword Community Page",
 		"created": "2016-05-30T21:55:06.442308",
-		"url": "http:\/\/gcmd.gsfc.nasa.gov\/learn\/keywords.html",
+		"url": "http://gcmd.gsfc.nasa.gov/learn/keywords.html",
 		"webstore_url": null,
 		"resource_locator_function": "information",
 		"position": 8,
@@ -297,7 +297,7 @@
 		"cache_url": null,
 		"name": "NASA GCMD Keyword Community Page",
 		"created": "2016-05-30T21:55:06.442322",
-		"url": "http:\/\/gcmd.gsfc.nasa.gov\/learn\/keywords.html",
+		"url": "http://gcmd.gsfc.nasa.gov/learn/keywords.html",
 		"webstore_url": null,
 		"resource_locator_function": "information",
 		"position": 9,
@@ -317,7 +317,7 @@
 	"name": "daily-weather-records",
 	"isopen": false,
 	"url": null,
-	"notes": "These daily weather records were compiled from a subset of stations in the Global Historical Climatological Network (GHCN)-Daily dataset. A weather record is considered broken if the value exceeds the maximum (or minimum) value recorded for an eligible station. A weather record is considered tied if the value is the same as the maximum (or minimum) value recorded for an eligible station. Daily weather parameters include Highest Min\/Max Temperature, Lowest Min\/Max Temperature, Highest Precipitation, Highest Snowfall and Highest Snow Depth. All stations meet defined eligibility criteria. For this application, a station is defined as the complete daily weather records at a particular location, having a unique identifier in the GHCN-Daily dataset. For a station to be considered for any weather parameter, it must have a minimum of 30 years of data with more than 182 days complete in each year. This is effectively a 30-year record of service requirement, but allows for inclusion of some stations which routinely shut down during certain seasons. Small station moves, such as a move from one property to an adjacent property, may occur within a station history. However, larger moves, such as a station moving from downtown to the city airport, generally result in the commissioning of a new station identifier. This tool treats each of these histories as a different station. In this way, it does not thread the separate histories into one record for a city. Records Timescales are characterized in three ways. In order of increasing noteworthiness, they are Daily Records, Monthly Records and All Time Records. For a given station, Daily Records refers to the specific calendar day: (e.g., the value recorded on March 7th compared to every other March 7th). Monthly Records exceed all values observed within the specified month (e.g., the value recorded on March 7th compared to all values recorded in every March). All-Time Records exceed the record of all observations, for any date, in a station's period of record. The Date Range and Location features are used to define the time and location ranges which are of interest to the user. For example, selecting a date range of March 1, 2012 through March 15, 2012 will return a list of records broken or tied on those 15 days. The Location Category and Country menus allow the user to define the geographic extent of the records of interest. For example, selecting Oklahoma will narrow the returned list of records to those that occurred in the state of Oklahoma, USA. The number of records broken for several recent periods is summarized in the table and updated daily. Due to late-arriving data, the number of recent records is likely underrepresented in all categories, but the ratio of records (warm to cold, for example) should be a fairly strong estimate of a final outcome. There are many more precipitation stations than temperature stations, so the raw number of precipitation records will likely exceed the number of temperature records in most climatic situations.",
+	"notes": "These daily weather records were compiled from a subset of stations in the Global Historical Climatological Network (GHCN)-Daily dataset. A weather record is considered broken if the value exceeds the maximum (or minimum) value recorded for an eligible station. A weather record is considered tied if the value is the same as the maximum (or minimum) value recorded for an eligible station. Daily weather parameters include Highest Min/Max Temperature, Lowest Min/Max Temperature, Highest Precipitation, Highest Snowfall and Highest Snow Depth. All stations meet defined eligibility criteria. For this application, a station is defined as the complete daily weather records at a particular location, having a unique identifier in the GHCN-Daily dataset. For a station to be considered for any weather parameter, it must have a minimum of 30 years of data with more than 182 days complete in each year. This is effectively a 30-year record of service requirement, but allows for inclusion of some stations which routinely shut down during certain seasons. Small station moves, such as a move from one property to an adjacent property, may occur within a station history. However, larger moves, such as a station moving from downtown to the city airport, generally result in the commissioning of a new station identifier. This tool treats each of these histories as a different station. In this way, it does not thread the separate histories into one record for a city. Records Timescales are characterized in three ways. In order of increasing noteworthiness, they are Daily Records, Monthly Records and All Time Records. For a given station, Daily Records refers to the specific calendar day: (e.g., the value recorded on March 7th compared to every other March 7th). Monthly Records exceed all values observed within the specified month (e.g., the value recorded on March 7th compared to all values recorded in every March). All-Time Records exceed the record of all observations, for any date, in a station's period of record. The Date Range and Location features are used to define the time and location ranges which are of interest to the user. For example, selecting a date range of March 1, 2012 through March 15, 2012 will return a list of records broken or tied on those 15 days. The Location Category and Country menus allow the user to define the geographic extent of the records of interest. For example, selecting Oklahoma will narrow the returned list of records to those that occurred in the state of Oklahoma, USA. The number of records broken for several recent periods is summarized in the table and updated daily. Due to late-arriving data, the number of recent records is likely underrepresented in all categories, but the ratio of records (warm to cold, for example) should be a fairly strong estimate of a final outcome. There are many more precipitation stations than temperature stations, so the raw number of precipitation records will likely exceed the number of temperature records in most climatic situations.",
 	"license_title": null,
 	"extras": [{
 		"key": "bbox-east-long",
@@ -353,7 +353,7 @@
 	},
 	{
 		"key": "spatial",
-		"value": "{\"type\": \"Polygon\", \"coordinates\": [[[-180.0, 90.0], [180.0, 90.0], [180.0, -90.0], [-180.0, -90.0], [-180.0, 90.0]]]}"
+		"value": "{"type": "Polygon", "coordinates": [[[-180.0, 90.0], [180.0, 90.0], [180.0, -90.0], [-180.0, -90.0], [-180.0, 90.0]]]}"
 	},
 	{
 		"key": "progress",
@@ -361,7 +361,7 @@
 	},
 	{
 		"key": "access_constraints",
-		"value": "[\"NCEI cannot assume liability for any damages caused by any errors or omissions in the data, nor as a result of the failure of the data to function on a particular system. NCEI makes no warranty, expressed or implied, nor does the fact of distribution constitute such a warranty. NCEI can only certify that the data it distributes are an authentic copy of the records that were accepted for inclusion in the NCEI archives.\"]"
+		"value": "["NCEI cannot assume liability for any damages caused by any errors or omissions in the data, nor as a result of the failure of the data to function on a particular system. NCEI makes no warranty, expressed or implied, nor does the fact of distribution constitute such a warranty. NCEI can only certify that the data it distributes are an authentic copy of the records that were accepted for inclusion in the NCEI archives."]"
 	},
 	{
 		"key": "temporal-extent-begin",
@@ -381,7 +381,7 @@
 	},
 	{
 		"key": "dataset-reference-date",
-		"value": "[{\"type\": \"publication\", \"value\": \"2013-12-01\"}]"
+		"value": "[{"type": "publication", "value": "2013-12-01"}]"
 	},
 	{
 		"key": "frequency-of-update",
@@ -397,7 +397,7 @@
 	},
 	{
 		"key": "responsible-party",
-		"value": "[{\"name\": \"DOC\/NOAA\/NESDIS\/NCEI > National Centers for Environmental Information, NESDIS, NOAA, U.S. Department of Commerce\", \"roles\": [\"pointOfContact\"]}]"
+		"value": "[{"name": "DOC/NOAA/NESDIS/NCEI > National Centers for Environmental Information, NESDIS, NOAA, U.S. Department of Commerce", "roles": ["pointOfContact"]}]"
 	},
 	{
 		"key": "spatial-data-service-type",
@@ -409,7 +409,7 @@
 	},
 	{
 		"package_id": "05e6f3ef-d0a7-4256-8413-092af4f741bf",
-		"value": "atmosphere, atmospheric - surface - air temperature, doc\/noaa\/nesdis\/ncei, earth science, vertical location, precipitation, atmospheric - surface - precipitation, snow, maximum\/minimum temperature, precipitation amount, atmospheric temperature, national centers for environmental information, nesdis, noaa, u.s. department of commerce, national climatic data center, nesdis, noaa, u.s. department of commerce, geographic region, land surface, doc\/noaa\/nesdis\/ncdc, terrestrial hydrosphere, h : point resolution, surface temperature, air temperature, snow depth, solid precipitation, terrestrial - snow cover, snow\/ice, global land",
+		"value": "atmosphere, atmospheric - surface - air temperature, doc/noaa/nesdis/ncei, earth science, vertical location, precipitation, atmospheric - surface - precipitation, snow, maximum/minimum temperature, precipitation amount, atmospheric temperature, national centers for environmental information, nesdis, noaa, u.s. department of commerce, national climatic data center, nesdis, noaa, u.s. department of commerce, geographic region, land surface, doc/noaa/nesdis/ncdc, terrestrial hydrosphere, h : point resolution, surface temperature, air temperature, snow depth, solid precipitation, terrestrial - snow cover, snow/ice, global land",
 		"revision_timestamp": "2016-05-31T01:55:06.228210",
 		"state": "active",
 		"key": "tags",
@@ -439,7 +439,7 @@
 		"revision_timestamp": "2013-03-25T23:05:12.923863",
 		"is_organization": true,
 		"state": "active",
-		"image_url": "https:\/\/fortress.wa.gov\/dfw\/score\/score\/images\/noaa_logo.png",
+		"image_url": "https://fortress.wa.gov/dfw/score/score/images/noaa_logo.png",
 		"revision_id": "c6d43080-22e1-405e-a83d-f2a512d9e867",
 		"type": "organization",
 		"id": "e811f0b4-451f-4896-9e8f-fc6802837819",

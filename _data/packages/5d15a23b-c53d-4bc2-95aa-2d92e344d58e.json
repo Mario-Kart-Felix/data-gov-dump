@@ -37,7 +37,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2015-09-26T21:38:04.827295",
-		"url": "http:\/\/response.restoration.noaa.gov\/cameosuite",
+		"url": "http://response.restoration.noaa.gov/cameosuite",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 0,
@@ -67,7 +67,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2015-09-26T21:38:04.827318",
-		"url": "http:\/\/response.restoration.noaa.gov\/cameosuite",
+		"url": "http://response.restoration.noaa.gov/cameosuite",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 1,
@@ -123,7 +123,7 @@
 	},
 	{
 		"key": "spatial",
-		"value": "{\"type\": \"Polygon\", \"coordinates\": [[[-180.0, -90.0], [180.0, -90.0], [180.0, 90.0], [-180.0, 90.0], [-180.0, -90.0]]]}"
+		"value": "{"type": "Polygon", "coordinates": [[[-180.0, -90.0], [180.0, -90.0], [180.0, 90.0], [-180.0, 90.0], [-180.0, -90.0]]]}"
 	},
 	{
 		"key": "progress",
@@ -131,7 +131,7 @@
 	},
 	{
 		"key": "access_constraints",
-		"value": "[\"Use Constraints: ALOHA was designed with first responders in mind. Its computations represent a compromise between accuracy and speed: it has been designed to produce good results quickly enough to be of use to responders. It is intended to be used for estimating threat zones for short range, short duration chemical accidents; a threat zone is the area where a hazard (such as toxicity, flammability, thermal radiation, or damaging overpressure) has exceeded a user-specified Level of Concern (LOC). Results produced by ALOHA are estimates and should not be considered precise answers. ALOHA results can be unreliable when the following conditions exist: very low wind speeds, very stable atmospheric conditions, or concentration patchiness (particularly near the spill source). ALOHA does not account for the effects of byproducts from fires, explosions, or chemical reactions; particulates; chemical mixtures; wind shifts and terrain steering effects; terrain; or hazardous fragments.\", \"Access Constraints: None\"]"
+		"value": "["Use Constraints: ALOHA was designed with first responders in mind. Its computations represent a compromise between accuracy and speed: it has been designed to produce good results quickly enough to be of use to responders. It is intended to be used for estimating threat zones for short range, short duration chemical accidents; a threat zone is the area where a hazard (such as toxicity, flammability, thermal radiation, or damaging overpressure) has exceeded a user-specified Level of Concern (LOC). Results produced by ALOHA are estimates and should not be considered precise answers. ALOHA results can be unreliable when the following conditions exist: very low wind speeds, very stable atmospheric conditions, or concentration patchiness (particularly near the spill source). ALOHA does not account for the effects of byproducts from fires, explosions, or chemical reactions; particulates; chemical mixtures; wind shifts and terrain steering effects; terrain; or hazardous fragments.", "Access Constraints: None"]"
 	},
 	{
 		"key": "temporal-extent-begin",
@@ -151,7 +151,7 @@
 	},
 	{
 		"key": "dataset-reference-date",
-		"value": "[{\"type\": \"publication\", \"value\": \"2014-01-01\"}]"
+		"value": "[{"type": "publication", "value": "2014-01-01"}]"
 	},
 	{
 		"key": "frequency-of-update",
@@ -159,7 +159,7 @@
 	},
 	{
 		"key": "licence",
-		"value": "[\"The United States Government has used its best efforts to incorporate accurate and complete data into ALOHA\\u00ae, CAMEO\\u00ae, CAMEO Chemicals, and MARPLOT\\u00ae. Nevertheless, the United States government does not warrant accuracy or completeness, is not responsible for errors and omissions, and is not liable for any direct, indirect or consequential damages flowing from the recipient's use of ALOHA, CAMEO, CAMEO Chemicals, and MARPLOT. The CAMEO suite software programs are being distributed \\\"as is\\\" and the United States government does not make any warranty claims, either expressed or implied, with respect to the software, its quality, accuracy, completeness, performance, merchantability or fitness for any intended purpose.\"]"
+		"value": "["The United States Government has used its best efforts to incorporate accurate and complete data into ALOHA\u00ae, CAMEO\u00ae, CAMEO Chemicals, and MARPLOT\u00ae. Nevertheless, the United States government does not warrant accuracy or completeness, is not responsible for errors and omissions, and is not liable for any direct, indirect or consequential damages flowing from the recipient's use of ALOHA, CAMEO, CAMEO Chemicals, and MARPLOT. The CAMEO suite software programs are being distributed \"as is\" and the United States government does not make any warranty claims, either expressed or implied, with respect to the software, its quality, accuracy, completeness, performance, merchantability or fitness for any intended purpose."]"
 	},
 	{
 		"key": "metadata_type",
@@ -167,7 +167,7 @@
 	},
 	{
 		"key": "responsible-party",
-		"value": "[{\"name\": \"National Oceanic and Atmospheric Administration (NOAA), National Ocean Service (NOS), Office and Response and Restoration (OR&R), Emergency Response Division (ERD)\", \"roles\": [\"pointOfContact\"]}]"
+		"value": "[{"name": "National Oceanic and Atmospheric Administration (NOAA), National Ocean Service (NOS), Office and Response and Restoration (OR&R), Emergency Response Division (ERD)", "roles": ["pointOfContact"]}]"
 	},
 	{
 		"key": "spatial-data-service-type",
@@ -209,7 +209,7 @@
 		"revision_timestamp": "2013-03-25T23:05:12.923863",
 		"is_organization": true,
 		"state": "active",
-		"image_url": "https:\/\/fortress.wa.gov\/dfw\/score\/score\/images\/noaa_logo.png",
+		"image_url": "https://fortress.wa.gov/dfw/score/score/images/noaa_logo.png",
 		"revision_id": "c6d43080-22e1-405e-a83d-f2a512d9e867",
 		"type": "organization",
 		"id": "e811f0b4-451f-4896-9e8f-fc6802837819",

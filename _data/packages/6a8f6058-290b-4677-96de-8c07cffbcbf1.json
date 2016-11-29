@@ -37,7 +37,7 @@
 		"cache_url": null,
 		"name": "Zip File",
 		"created": "2016-03-04T15:42:46.473480",
-		"url": "ftp:\/\/ftp.dfg.ca.gov\/BDB\/GIS\/BIOS\/Public_Datasets\/100_199\/ds188.zip",
+		"url": "ftp://ftp.dfg.ca.gov/BDB/GIS/BIOS/Public_Datasets/100_199/ds188.zip",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 0,
@@ -67,7 +67,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2016-03-04T15:42:46.473505",
-		"url": "http:\/\/bios.dfg.ca.gov\/",
+		"url": "http://bios.dfg.ca.gov/",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 1,
@@ -89,7 +89,7 @@
 		"revision_timestamp": "2013-05-31T17:51:13.706377",
 		"is_organization": true,
 		"state": "active",
-		"image_url": "http:\/\/www.ca.gov\/images\/template2012\/header_ca.gov.png",
+		"image_url": "http://www.ca.gov/images/template2012/header_ca.gov.png",
 		"revision_id": "ad94cda4-9394-44d0-9c37-573dc3c47c9a",
 		"type": "organization",
 		"id": "467d900f-8a42-452d-9906-6610dd1a767f",
@@ -100,7 +100,7 @@
 	"name": "vernal-pool-amphibians-shrimp-plants-san-diego-ds1888366b",
 	"isopen": false,
 	"url": null,
-	"notes": "In 2002, the City of San Diego (City) received funding through a U. S. Fish and Wildlife Service (USFWS) Section 6 Planning Grant to complete an inventory and management plan of vernal pools within the City\u2019s jurisdiction. This inventory (performed during 2003) builds on several previous studies and surveys, which were used to determine the general locations of individual vernal pools and complexes. However, much of the area currently owned by the City and other jurisdictions has never been surveyed for specific vernal pools and, in many cases, historical maps do not accurately represent the existing basins. This inventory focuses on these areas. This inventory does not, however, include vernal pools known to occur on military lands (i.e., MCAS Miramar, Navy Chollas Heights) within the City but not under City jurisdiction. A comprehensive vernal pool plant survey has been completed for each complex within the City. City staff estimated percent cover for the six vernal pool species listed as endangered or threatened by the state and\/or federal government, or considered covered (i.e. adequately conserved) by the Multiple Species Conservation Program (MSCP).",
+	"notes": "In 2002, the City of San Diego (City) received funding through a U. S. Fish and Wildlife Service (USFWS) Section 6 Planning Grant to complete an inventory and management plan of vernal pools within the Cityu2019s jurisdiction. This inventory (performed during 2003) builds on several previous studies and surveys, which were used to determine the general locations of individual vernal pools and complexes. However, much of the area currently owned by the City and other jurisdictions has never been surveyed for specific vernal pools and, in many cases, historical maps do not accurately represent the existing basins. This inventory focuses on these areas. This inventory does not, however, include vernal pools known to occur on military lands (i.e., MCAS Miramar, Navy Chollas Heights) within the City but not under City jurisdiction. A comprehensive vernal pool plant survey has been completed for each complex within the City. City staff estimated percent cover for the six vernal pool species listed as endangered or threatened by the state and/or federal government, or considered covered (i.e. adequately conserved) by the Multiple Species Conservation Program (MSCP).",
 	"owner_org": "467d900f-8a42-452d-9906-6610dd1a767f",
 	"extras": [{
 		"key": "bbox-east-long",
@@ -136,7 +136,7 @@
 	},
 	{
 		"key": "spatial",
-		"value": "{\"type\": \"Polygon\", \"coordinates\": [[[-117.261071, 32.537656], [-116.733919, 32.537656], [-116.733919, 32.979512], [-117.261071, 32.979512], [-117.261071, 32.537656]]]}"
+		"value": "{"type": "Polygon", "coordinates": [[[-117.261071, 32.537656], [-116.733919, 32.537656], [-116.733919, 32.979512], [-117.261071, 32.979512], [-117.261071, 32.537656]]]}"
 	},
 	{
 		"key": "progress",
@@ -144,7 +144,7 @@
 	},
 	{
 		"key": "access_constraints",
-		"value": "[\"Use Constraints: None\", \"Access Constraints: None\"]"
+		"value": "["Use Constraints: None", "Access Constraints: None"]"
 	},
 	{
 		"key": "temporal-extent-begin",
@@ -164,7 +164,7 @@
 	},
 	{
 		"key": "dataset-reference-date",
-		"value": "[{\"type\": \"publication\", \"value\": \"2003-06-01\"}]"
+		"value": "[{"type": "publication", "value": "2003-06-01"}]"
 	},
 	{
 		"key": "frequency-of-update",
@@ -172,7 +172,7 @@
 	},
 	{
 		"key": "licence",
-		"value": "[\" \"]"
+		"value": "[" "]"
 	},
 	{
 		"key": "metadata_type",
@@ -180,7 +180,7 @@
 	},
 	{
 		"key": "responsible-party",
-		"value": "[{\"name\": \"City of San Diego, Planning, MSCP\", \"roles\": [\"pointOfContact\"]}]"
+		"value": "[{"name": "City of San Diego, Planning, MSCP", "roles": ["pointOfContact"]}]"
 	},
 	{
 		"key": "temporal-extent-end",

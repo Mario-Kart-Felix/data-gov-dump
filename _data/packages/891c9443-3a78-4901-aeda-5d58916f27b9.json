@@ -37,7 +37,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2015-09-26T22:47:13.902952",
-		"url": "ftp:\/\/sidads.colorado.edu\/pub\/DATASETS\/NOAA\/G00917\/",
+		"url": "ftp://sidads.colorado.edu/pub/DATASETS/NOAA/G00917/",
 		"webstore_url": null,
 		"resource_locator_function": "function",
 		"position": 0,
@@ -67,7 +67,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2015-09-26T22:47:13.902974",
-		"url": "http:\/\/nsidc.org\/data\/docs\/noaa\/g00917_nmc_seaice_extent\/index.html",
+		"url": "http://nsidc.org/data/docs/noaa/g00917_nmc_seaice_extent/index.html",
 		"webstore_url": null,
 		"resource_locator_function": "function",
 		"position": 1,
@@ -85,7 +85,7 @@
 		"last_modified": null,
 		"hash": "",
 		"description": "",
-		"format": "application\/vnd.lotus-organizer",
+		"format": "application/vnd.lotus-organizer",
 		"tracking_summary": {
 			"total": 85,
 			"recent": 4
@@ -97,7 +97,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2015-09-26T22:47:13.902984",
-		"url": "http:\/\/nsidc.org",
+		"url": "http://nsidc.org",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 2,
@@ -127,7 +127,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2015-09-26T22:47:13.903015",
-		"url": "http:\/\/nsidc.org\/noaa\/",
+		"url": "http://nsidc.org/noaa/",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 3,
@@ -145,7 +145,7 @@
 		"last_modified": null,
 		"hash": "",
 		"description": "",
-		"format": "application\/vnd.lotus-organizer",
+		"format": "application/vnd.lotus-organizer",
 		"tracking_summary": {
 			"total": 85,
 			"recent": 4
@@ -157,7 +157,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2015-09-26T22:47:13.903034",
-		"url": "http:\/\/nsidc.org",
+		"url": "http://nsidc.org",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 4,
@@ -166,7 +166,7 @@
 	}],
 	"num_resources": 5,
 	"tags": [],
-	"title": "NOAA\/NMC\/CAC Arctic and Antarctic Monthly Sea Ice Extent, 1973-1990",
+	"title": "NOAA/NMC/CAC Arctic and Antarctic Monthly Sea Ice Extent, 1973-1990",
 	"tracking_summary": {
 		"total": 5,
 		"recent": 1
@@ -177,7 +177,7 @@
 	"name": "noaa-nmc-cac-arctic-and-antarctic-monthly-sea-ice-extent-1973-1990",
 	"isopen": false,
 	"url": null,
-	"notes": "\nSea ice extent from January 1973 through August 1990 was digitized from weekly operational sea ice charts produced by the Navy\/NOAA Joint Ice Center. Charts were digitized by hand using a 1 degree latitude x 2.5 degrees longitude grid.  The grid boxes were then summed in 1 degree latitude  x 10 degrees longitude slices, and the ice covered area computed. The data represent the extent of sea ice at the end of each month, given for 36 10-degree longitudinal sectors in each hemisphere. Data were provided by the NOAA National Weather Service National Meteorological Center (NMC) Climate Analyses Center (CAC).\n",
+	"notes": "nSea ice extent from January 1973 through August 1990 was digitized from weekly operational sea ice charts produced by the Navy/NOAA Joint Ice Center. Charts were digitized by hand using a 1 degree latitude x 2.5 degrees longitude grid.  The grid boxes were then summed in 1 degree latitude  x 10 degrees longitude slices, and the ice covered area computed. The data represent the extent of sea ice at the end of each month, given for 36 10-degree longitudinal sectors in each hemisphere. Data were provided by the NOAA National Weather Service National Meteorological Center (NMC) Climate Analyses Center (CAC).n",
 	"license_title": null,
 	"extras": [{
 		"key": "bbox-east-long",
@@ -213,7 +213,7 @@
 	},
 	{
 		"key": "spatial",
-		"value": "{\"type\": \"Polygon\", \"coordinates\": [[[-180.0, -90.0], [180.0, -90.0], [180.0, 90.0], [-180.0, 90.0], [-180.0, -90.0]]]}"
+		"value": "{"type": "Polygon", "coordinates": [[[-180.0, -90.0], [180.0, -90.0], [180.0, 90.0], [-180.0, 90.0], [-180.0, -90.0]]]}"
 	},
 	{
 		"key": "progress",
@@ -221,7 +221,7 @@
 	},
 	{
 		"key": "access_constraints",
-		"value": "[\"Access Constraints : none\", \"Use Constraints : none\"]"
+		"value": "["Access Constraints : none", "Use Constraints : none"]"
 	},
 	{
 		"key": "temporal-extent-begin",
@@ -241,7 +241,7 @@
 	},
 	{
 		"key": "dataset-reference-date",
-		"value": "[{\"type\": \"publication\", \"value\": \"1983-01-01\"}]"
+		"value": "[{"type": "publication", "value": "1983-01-01"}]"
 	},
 	{
 		"key": "frequency-of-update",
@@ -257,7 +257,7 @@
 	},
 	{
 		"key": "responsible-party",
-		"value": "[{\"name\": \"\", \"roles\": [\"principalInvestigator\"]}, {\"name\": \"National Snow and Ice Data Center\", \"roles\": [\"pointOfContact\"]}]"
+		"value": "[{"name": "", "roles": ["principalInvestigator"]}, {"name": "National Snow and Ice Data Center", "roles": ["pointOfContact"]}]"
 	},
 	{
 		"key": "temporal-extent-end",
@@ -303,7 +303,7 @@
 		"revision_timestamp": "2013-03-25T23:05:12.923863",
 		"is_organization": true,
 		"state": "active",
-		"image_url": "https:\/\/fortress.wa.gov\/dfw\/score\/score\/images\/noaa_logo.png",
+		"image_url": "https://fortress.wa.gov/dfw/score/score/images/noaa_logo.png",
 		"revision_id": "c6d43080-22e1-405e-a83d-f2a512d9e867",
 		"type": "organization",
 		"id": "e811f0b4-451f-4896-9e8f-fc6802837819",

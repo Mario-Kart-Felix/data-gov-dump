@@ -37,7 +37,7 @@
 		"cache_url": null,
 		"name": "Zip File",
 		"created": "2016-05-31T02:49:31.410071",
-		"url": "ftp:\/\/ftp.coast.noaa.gov\/pub\/benthic\/Sub-Bottom_Profile_Data\/NY_HudsonRiver_sbp.zip",
+		"url": "ftp://ftp.coast.noaa.gov/pub/benthic/Sub-Bottom_Profile_Data/NY_HudsonRiver_sbp.zip",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 0,
@@ -93,7 +93,7 @@
 	},
 	{
 		"key": "spatial",
-		"value": "{\"type\": \"Polygon\", \"coordinates\": [[[-73.933423, 42.06449], [-73.685289, 42.06449], [-73.685289, 42.752039], [-73.933423, 42.752039], [-73.933423, 42.06449]]]}"
+		"value": "{"type": "Polygon", "coordinates": [[[-73.933423, 42.06449], [-73.685289, 42.06449], [-73.685289, 42.752039], [-73.933423, 42.752039], [-73.933423, 42.06449]]]}"
 	},
 	{
 		"key": "progress",
@@ -101,7 +101,7 @@
 	},
 	{
 		"key": "access_constraints",
-		"value": "[\"Use Constraints: None\", \"Access Constraints: None\"]"
+		"value": "["Use Constraints: None", "Access Constraints: None"]"
 	},
 	{
 		"key": "temporal-extent-begin",
@@ -121,7 +121,7 @@
 	},
 	{
 		"key": "dataset-reference-date",
-		"value": "[{\"type\": \"publication\", \"value\": \"2012-01-01\"}]"
+		"value": "[{"type": "publication", "value": "2012-01-01"}]"
 	},
 	{
 		"key": "frequency-of-update",
@@ -129,7 +129,7 @@
 	},
 	{
 		"key": "licence",
-		"value": "[\"NOAA manages much of the data to users of digital geographic data.NOAA is in no way condoning or endorsing the application of this data for any given purpose.It is the sole responsibility of the user to determine whether or not the data is suitable for the intended purpose.It is also the obligation of the user to apply the data in an appropriate and conscientious manner.NOAA provides no warranty,nor accepts any liability occurring from any incomplete,incorrect, or misleading data, or from any incorrect,incomplete, or misleading use of the data.Much of the data is based on and maintained with ARC\/GIS software developed by the Environmental Systems Research Institute (ESRI).In addition, much of the information presented uses conventions and terms popularized by ARC\/GISand its user community.NOAA in no way represents the interests of ESRI,nor acts as agents for them.\"]"
+		"value": "["NOAA manages much of the data to users of digital geographic data.NOAA is in no way condoning or endorsing the application of this data for any given purpose.It is the sole responsibility of the user to determine whether or not the data is suitable for the intended purpose.It is also the obligation of the user to apply the data in an appropriate and conscientious manner.NOAA provides no warranty,nor accepts any liability occurring from any incomplete,incorrect, or misleading data, or from any incorrect,incomplete, or misleading use of the data.Much of the data is based on and maintained with ARC/GIS software developed by the Environmental Systems Research Institute (ESRI).In addition, much of the information presented uses conventions and terms popularized by ARC/GISand its user community.NOAA in no way represents the interests of ESRI,nor acts as agents for them."]"
 	},
 	{
 		"key": "metadata_type",
@@ -137,7 +137,7 @@
 	},
 	{
 		"key": "responsible-party",
-		"value": "[{\"name\": \"Hudson River National Estuarine Research Reserve, NYS DEC\", \"roles\": [\"pointOfContact\"]}]"
+		"value": "[{"name": "Hudson River National Estuarine Research Reserve, NYS DEC", "roles": ["pointOfContact"]}]"
 	},
 	{
 		"key": "temporal-extent-end",
@@ -183,7 +183,7 @@
 		"revision_timestamp": "2013-03-25T23:05:12.923863",
 		"is_organization": true,
 		"state": "active",
-		"image_url": "https:\/\/fortress.wa.gov\/dfw\/score\/score\/images\/noaa_logo.png",
+		"image_url": "https://fortress.wa.gov/dfw/score/score/images/noaa_logo.png",
 		"revision_id": "c6d43080-22e1-405e-a83d-f2a512d9e867",
 		"type": "organization",
 		"id": "e811f0b4-451f-4896-9e8f-fc6802837819",

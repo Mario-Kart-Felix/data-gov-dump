@@ -37,7 +37,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2013-03-15T15:32:30.110174",
-		"url": "http:\/\/www.vcgi.org\/dataware\/default.cfm?layer=EcologicStats_CNTYFRST",
+		"url": "http://www.vcgi.org/dataware/default.cfm?layer=EcologicStats_CNTYFRST",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 0,
@@ -67,7 +67,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2013-03-15T15:32:30.110197",
-		"url": "http:\/\/www.vcgi.org\/dataware\/default.cfm?layer=EcologicStats_CNTYFRST",
+		"url": "http://www.vcgi.org/dataware/default.cfm?layer=EcologicStats_CNTYFRST",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 1,
@@ -97,7 +97,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2013-03-15T15:32:30.110206",
-		"url": "http:\/\/www.vcgi.org\/dataware\/default.cfm?layer=EcologicStats_CNTYFRST&mapit=yes",
+		"url": "http://www.vcgi.org/dataware/default.cfm?layer=EcologicStats_CNTYFRST&mapit=yes",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 2,
@@ -127,7 +127,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2013-03-15T15:32:30.110213",
-		"url": "http:\/\/maps.vcgi.org:8080\/wmsconnector\/com.esri.wms.Esrimap?servicename=DATAWARE_VCGI&VERSION=1.1.1&request=getmap&BBOX=-73.45416,42.72279,-71.46528,45.018356&SRS=EPSG:4326&LAYERS=ECOLOGIC_CNTYFRST_POLY&WIDTH=300&HEIGHT=400&FORMAT=image\/gif",
+		"url": "http://maps.vcgi.org:8080/wmsconnector/com.esri.wms.Esrimap?servicename=DATAWARE_VCGI&VERSION=1.1.1&request=getmap&BBOX=-73.45416,42.72279,-71.46528,45.018356&SRS=EPSG:4326&LAYERS=ECOLOGIC_CNTYFRST_POLY&WIDTH=300&HEIGHT=400&FORMAT=image/gif",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 3,
@@ -160,7 +160,7 @@
 	"name": "ecologicstats-cntyfrst",
 	"isopen": false,
 	"url": null,
-	"notes": "This datalayer contains Vermont forestry estimate data, by county, primarily obtained from the Vermont Forest Inventory and Analysis (FIA), conducted in the years; 1966, 1973, 1983, and 1997 by the USDA Forest Service. Inventory items for Grand Isle and Franklin Counties have been combined. See the 'Attribute Accuracy Report' for reasons. Also included within this database are land-use change figures, reflective of the time periods; 1970s-1980s, 1980s-1990s, and the 1970s-1990s. This data has been made available by the Orton Family Foundation and the UVM School of Natural Resources, Spatial Analysis Lab. One may download Excel spreadsheets or comma-delimited ASCII textfiles of this data from the VGIS indicators webpage - http:\/\/www.vcgi.org\/indicators\/",
+	"notes": "This datalayer contains Vermont forestry estimate data, by county, primarily obtained from the Vermont Forest Inventory and Analysis (FIA), conducted in the years; 1966, 1973, 1983, and 1997 by the USDA Forest Service. Inventory items for Grand Isle and Franklin Counties have been combined. See the 'Attribute Accuracy Report' for reasons. Also included within this database are land-use change figures, reflective of the time periods; 1970s-1980s, 1980s-1990s, and the 1970s-1990s. This data has been made available by the Orton Family Foundation and the UVM School of Natural Resources, Spatial Analysis Lab. One may download Excel spreadsheets or comma-delimited ASCII textfiles of this data from the VGIS indicators webpage - http://www.vcgi.org/indicators/",
 	"license_title": null,
 	"extras": [{
 		"key": "bbox-east-long",
@@ -184,7 +184,7 @@
 	},
 	{
 		"key": "graphic-preview-file",
-		"value": "http:\/\/maps.vcgi.org:8080\/wmsconnector\/com.esri.wms.Esrimap?servicename=DATAWARE_VCGI&VERSION=1.1.1&request=getmap&BBOX=-73.45416,42.72279,-71.46528,45.018356&SRS=EPSG:4326&LAYERS=ECOLOGIC_CNTYFRST_POLY&WIDTH=300&HEIGHT=400&FORMAT=image\/gif"
+		"value": "http://maps.vcgi.org:8080/wmsconnector/com.esri.wms.Esrimap?servicename=DATAWARE_VCGI&VERSION=1.1.1&request=getmap&BBOX=-73.45416,42.72279,-71.46528,45.018356&SRS=EPSG:4326&LAYERS=ECOLOGIC_CNTYFRST_POLY&WIDTH=300&HEIGHT=400&FORMAT=image/gif"
 	},
 	{
 		"key": "bbox-south-lat",
@@ -196,11 +196,11 @@
 	},
 	{
 		"key": "spatial",
-		"value": "{\"type\": \"Polygon\", \"coordinates\": [[[-73.454162, 42.722789], [-73.454162, 45.018361], [-71.465281, 45.018361], [-71.465281, 42.722789], [-73.454162, 42.722789]]]}"
+		"value": "{"type": "Polygon", "coordinates": [[[-73.454162, 42.722789], [-73.454162, 45.018361], [-71.465281, 45.018361], [-71.465281, 42.722789], [-73.454162, 42.722789]]]}"
 	},
 	{
 		"key": "access_constraints",
-		"value": "[\"Use Constraints: Forestry attribute definitions are peculiar to these data. The terms so defined are not to be treated as generic in order to avoid misinterpretation. Geospatial boundaries do not line up well with coincident water features from the Digital Line Graph (DLG) data at RF 100,000 scale. Producing maps at RF 50,000 or larger scale should be done with caution to avoid obvious data accuracy problems.\", \"Access Constraints: VCGI and the State of Vermont make no representations of any kind including, but not limited to the warranties of merchantability or fitness for a particular use, nor are any such warranties to be implied with respect to the data.\"]"
+		"value": "["Use Constraints: Forestry attribute definitions are peculiar to these data. The terms so defined are not to be treated as generic in order to avoid misinterpretation. Geospatial boundaries do not line up well with coincident water features from the Digital Line Graph (DLG) data at RF 100,000 scale. Producing maps at RF 50,000 or larger scale should be done with caution to avoid obvious data accuracy problems.", "Access Constraints: VCGI and the State of Vermont make no representations of any kind including, but not limited to the warranties of merchantability or fitness for a particular use, nor are any such warranties to be implied with respect to the data."]"
 	},
 	{
 		"key": "temporal-extent-begin",
@@ -220,7 +220,7 @@
 	},
 	{
 		"key": "dataset-reference-date",
-		"value": "[{\"type\": \"publication\", \"value\": \"2000-05-17\"}]"
+		"value": "[{"type": "publication", "value": "2000-05-17"}]"
 	},
 	{
 		"key": "frequency-of-update",
@@ -228,7 +228,7 @@
 	},
 	{
 		"key": "licence",
-		"value": "[\"VCGI and the State of Vermont make no representations of any kind, including but not limited to the warranties of merchantability or fitness for a particular use, nor are any such warranties to be implied with respect to the data.\"]"
+		"value": "["VCGI and the State of Vermont make no representations of any kind, including but not limited to the warranties of merchantability or fitness for a particular use, nor are any such warranties to be implied with respect to the data."]"
 	},
 	{
 		"key": "metadata_type",
@@ -236,7 +236,7 @@
 	},
 	{
 		"key": "responsible-party",
-		"value": "[{\"name\": \"Vermont Center for Geographic Information\", \"roles\": [\"pointOfContact\"]}]"
+		"value": "[{"name": "Vermont Center for Geographic Information", "roles": ["pointOfContact"]}]"
 	},
 	{
 		"key": "temporal-extent-end",
@@ -282,7 +282,7 @@
 		"revision_timestamp": "2013-03-27T17:47:03.718032",
 		"is_organization": true,
 		"state": "active",
-		"image_url": "http:\/\/vcgi.vermont.gov\/sites\/all\/themes\/vt_template\/logo.png",
+		"image_url": "http://vcgi.vermont.gov/sites/all/themes/vt_template/logo.png",
 		"revision_id": "c5dfbbb0-f1e0-4db6-b566-e932e1520060",
 		"type": "organization",
 		"id": "0c3a4ebc-9929-4f21-bdd0-76a35d52f57d",

@@ -36,7 +36,7 @@
 		"cache_url": null,
 		"name": "Keyhole Markup Language (KML)",
 		"created": "2015-07-22T08:34:11.294621",
-		"url": "http:\/\/www.census.gov\/geo\/maps-data\/data\/kml\/kml_tracts.html",
+		"url": "http://www.census.gov/geo/maps-data/data/kml/kml_tracts.html",
 		"webstore_url": null,
 		"resource_locator_function": "download",
 		"position": 0,
@@ -56,7 +56,7 @@
 	"name": "series-information-file-for-the-2014-kml-boundary-file-state-county-census-tract-1-500000",
 	"isopen": false,
 	"url": null,
-	"notes": "The 2014 cartographic boundary KMLs are simplified representations of selected geographic areas from the U.S. Census Bureau's Master Address File \/ Topologically Integrated Geographic Encoding and Referencing (MAF\/TIGER) Database (MTDB). These boundary files are specifically designed for small-scale thematic mapping. When possible, generalization is performed with the intent to maintain the hierarchical relationships among geographies and to maintain the alignment of geographies within a file set for a given year. Geographic areas may not align with the same areas from another year. Some geographies are available as nation-based files while others are available only as state-based files.\n\nCensus tracts are small, relatively permanent statistical subdivisions of a county or equivalent entity, and were defined by local participants as part of the 2010 Census Participant Statistical Areas Program.  The Census Bureau delineated the census tracts in situations where no local participant existed or where all the potential participants declined to participate.  The primary purpose of census tracts is to provide a stable set of geographic units for the presentation of census data and comparison back to previous decennial censuses.  Census tracts generally have a population size between 1,200 and 8,000 people, with an optimum size of 4,000 people.  When first delineated, census tracts were designed to be homogeneous with respect to population characteristics, economic status, and living conditions.  The spatial size of census tracts varies widely depending on the density of settlement.  Physical changes in street patterns caused by highway construction, new development, and so forth, may require boundary revisions.  In addition, census tracts occasionally are split due to population growth, or combined as a result of substantial population decline.  Census tract boundaries generally follow visible and identifiable features.  They may follow legal boundaries such as minor civil division (MCD) or incorporated place boundaries in some States and situations to allow for census tract-to-governmental unit relationships where the governmental boundaries tend to remain unchanged between censuses.  State and county boundaries always are census tract boundaries in the standard census geographic hierarchy.  In a few rare instances, a census tract may consist of noncontiguous areas.  These noncontiguous areas may occur where the census tracts are coextensive with all or parts of legal entities that are themselves noncontiguous.  For the 2010 Census, the census tract code range of 9400 through 9499 was enforced for census tracts that include a majority American Indian population according to Census 2000 data and\/or their area was primarily covered by federally recognized American Indian reservations and\/or off-reservation trust lands; the code range 9800 through 9899 was enforced for those census tracts that contained little or no population and represented a relatively large special land use area such as a National Park, military installation, or a business\/industrial park; and the code range 9900 through 9998 was enforced for those census tracts that contained only water area, no land area.",
+	"notes": "The 2014 cartographic boundary KMLs are simplified representations of selected geographic areas from the U.S. Census Bureau's Master Address File / Topologically Integrated Geographic Encoding and Referencing (MAF/TIGER) Database (MTDB). These boundary files are specifically designed for small-scale thematic mapping. When possible, generalization is performed with the intent to maintain the hierarchical relationships among geographies and to maintain the alignment of geographies within a file set for a given year. Geographic areas may not align with the same areas from another year. Some geographies are available as nation-based files while others are available only as state-based files.nnCensus tracts are small, relatively permanent statistical subdivisions of a county or equivalent entity, and were defined by local participants as part of the 2010 Census Participant Statistical Areas Program.  The Census Bureau delineated the census tracts in situations where no local participant existed or where all the potential participants declined to participate.  The primary purpose of census tracts is to provide a stable set of geographic units for the presentation of census data and comparison back to previous decennial censuses.  Census tracts generally have a population size between 1,200 and 8,000 people, with an optimum size of 4,000 people.  When first delineated, census tracts were designed to be homogeneous with respect to population characteristics, economic status, and living conditions.  The spatial size of census tracts varies widely depending on the density of settlement.  Physical changes in street patterns caused by highway construction, new development, and so forth, may require boundary revisions.  In addition, census tracts occasionally are split due to population growth, or combined as a result of substantial population decline.  Census tract boundaries generally follow visible and identifiable features.  They may follow legal boundaries such as minor civil division (MCD) or incorporated place boundaries in some States and situations to allow for census tract-to-governmental unit relationships where the governmental boundaries tend to remain unchanged between censuses.  State and county boundaries always are census tract boundaries in the standard census geographic hierarchy.  In a few rare instances, a census tract may consist of noncontiguous areas.  These noncontiguous areas may occur where the census tracts are coextensive with all or parts of legal entities that are themselves noncontiguous.  For the 2010 Census, the census tract code range of 9400 through 9499 was enforced for census tracts that include a majority American Indian population according to Census 2000 data and/or their area was primarily covered by federally recognized American Indian reservations and/or off-reservation trust lands; the code range 9800 through 9899 was enforced for those census tracts that contained little or no population and represented a relatively large special land use area such as a National Park, military installation, or a business/industrial park; and the code range 9900 through 9998 was enforced for those census tracts that contained only water area, no land area.",
 	"license_title": null,
 	"extras": [{
 		"key": "bbox-east-long",
@@ -80,7 +80,7 @@
 	},
 	{
 		"key": "dataset-reference-date",
-		"value": "[{\"type\": \"publication\", \"value\": \"201505\"}]"
+		"value": "[{"type": "publication", "value": "201505"}]"
 	},
 	{
 		"key": "resource-type",
@@ -120,7 +120,7 @@
 	},
 	{
 		"key": "spatial",
-		"value": "{\"type\": \"Polygon\", \"coordinates\": [[[-179.231086, -14.601813], [179.859681, -14.601813], [179.859681, 71.441059], [-179.231086, 71.441059], [-179.231086, -14.601813]]]}"
+		"value": "{"type": "Polygon", "coordinates": [[[-179.231086, -14.601813], [179.859681, -14.601813], [179.859681, 71.441059], [-179.231086, 71.441059], [-179.231086, -14.601813]]]}"
 	},
 	{
 		"key": "guid",
@@ -132,7 +132,7 @@
 	},
 	{
 		"key": "access_constraints",
-		"value": "[\" Access Constraints: None\", \" Use Constraints:The intended display scale for this file is 1:500,000.  This file should not be displayed at scales larger than 1:500,000.\\n\\nThese products are free to use in a product or publication, however acknowledgement must be given to the U.S. Census Bureau as the source.  The boundary information is for visual display at appropriate small scales only.  Cartographic boundary files should not be used for geographic analysis including area or perimeter calculation.  Files should not be used for geocoding addresses.  Files should not be used for determining precise geographic area relationships.\\n\"]"
+		"value": "[" Access Constraints: None", " Use Constraints:The intended display scale for this file is 1:500,000.  This file should not be displayed at scales larger than 1:500,000.\n\nThese products are free to use in a product or publication, however acknowledgement must be given to the U.S. Census Bureau as the source.  The boundary information is for visual display at appropriate small scales only.  Cartographic boundary files should not be used for geographic analysis including area or perimeter calculation.  Files should not be used for geocoding addresses.  Files should not be used for determining precise geographic area relationships.\n"]"
 	},
 	{
 		"key": "spatial_harvester",
@@ -174,7 +174,7 @@
 		"revision_timestamp": "2013-08-29T13:37:04.171127",
 		"is_organization": true,
 		"state": "active",
-		"image_url": "http:\/\/www.census.gov\/main\/img\/home\/CensusLogo-white.png",
+		"image_url": "http://www.census.gov/main/img/home/CensusLogo-white.png",
 		"revision_id": "0995f525-d563-4254-a535-af5b926fe663",
 		"type": "organization",
 		"id": "31c49abe-512a-412a-9cc7-5b2601325d6b",

@@ -36,7 +36,7 @@
 		"cache_url": null,
 		"name": "BLM Basemaps WMS",
 		"created": "2013-03-16T00:02:27.035370",
-		"url": "http:\/\/www.geocommunicator.gov\/arcgis\/services\/Basemaps\/MapServer\/WMSServer?request=GetCapabilities&service=WMS",
+		"url": "http://www.geocommunicator.gov/arcgis/services/Basemaps/MapServer/WMSServer?request=GetCapabilities&service=WMS",
 		"webstore_url": null,
 		"resource_locator_function": "381",
 		"position": 0,
@@ -65,7 +65,7 @@
 		"cache_url": null,
 		"name": "FGDC metadata record",
 		"created": "2013-03-16T00:02:27.035392",
-		"url": "http:\/\/www.geocommunicator.gov\/GeoComm\/metadata\/basemaps\/BLM_MAP_BASEMAPS.htm",
+		"url": "http://www.geocommunicator.gov/GeoComm/metadata/basemaps/BLM_MAP_BASEMAPS.htm",
 		"webstore_url": null,
 		"resource_locator_function": "375",
 		"position": 1,
@@ -98,11 +98,11 @@
 	"name": "basemaps-for-usa-wms-from-us-bureau-of-land-management",
 	"isopen": false,
 	"url": null,
-	"notes": "Includes: UTM zones, BLM Administrative Boundaries, Urban Areas, Counties, 100K quadrangle boundaries, Major Roads, US Highways, Interstates, State boundaries. \nFGDC metadata available at http:\/\/www.geocommunicator.gov\/GeoComm\/metadata\/basemaps\/BLM_MAP_BASEMAPS.htm",
+	"notes": "Includes: UTM zones, BLM Administrative Boundaries, Urban Areas, Counties, 100K quadrangle boundaries, Major Roads, US Highways, Interstates, State boundaries. nFGDC metadata available at http://www.geocommunicator.gov/GeoComm/metadata/basemaps/BLM_MAP_BASEMAPS.htm",
 	"license_title": null,
 	"extras": [{
 		"key": "responsible-party",
-		"value": "[{\"name\": \"No Organization Name Was Given\", \"roles\": [\"pointOfContact\"]}]"
+		"value": "[{"name": "No Organization Name Was Given", "roles": ["pointOfContact"]}]"
 	},
 	{
 		"key": "contact-email",
@@ -122,7 +122,7 @@
 	},
 	{
 		"key": "dataset-reference-date",
-		"value": "[{\"type\": \"publication\", \"value\": \"2012-01-26T12:00:00Z\"}]"
+		"value": "[{"type": "publication", "value": "2012-01-26T12:00:00Z"}]"
 	},
 	{
 		"key": "resource-type",
@@ -158,7 +158,7 @@
 	},
 	{
 		"key": "spatial",
-		"value": "{\"type\": \"Polygon\", \"coordinates\": [[[-177.0, 23.0], [-177.0, 71.0], [-66.0, 71.0], [-66.0, 23.0], [-177.0, 23.0]]]}"
+		"value": "{"type": "Polygon", "coordinates": [[[-177.0, 23.0], [-177.0, 71.0], [-66.0, 71.0], [-66.0, 23.0], [-177.0, 23.0]]]}"
 	},
 	{
 		"key": "guid",
@@ -208,7 +208,7 @@
 		"revision_timestamp": "2013-03-20T21:11:17.592932",
 		"is_organization": true,
 		"state": "active",
-		"image_url": "http:\/\/www.50states.com\/flag\/image\/nunst004.gif",
+		"image_url": "http://www.50states.com/flag/image/nunst004.gif",
 		"revision_id": "61be6428-4398-4199-a336-f3cd1e956f9b",
 		"type": "organization",
 		"id": "f3f6e1d4-64fb-4a2f-b32c-9ac0b76fe4de",

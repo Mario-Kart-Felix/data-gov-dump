@@ -25,7 +25,7 @@
 		"last_modified": null,
 		"hash": "",
 		"description": "",
-		"format": "erdas imagine (.img) and tiff \/ bigtiff \/ geotiff (.tif)",
+		"format": "erdas imagine (.img) and tiff / bigtiff / geotiff (.tif)",
 		"tracking_summary": {
 			"total": 1,
 			"recent": 1
@@ -37,7 +37,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2016-05-30T22:16:42.608524",
-		"url": "https:\/\/coast.noaa.gov\/dataregistry\/",
+		"url": "https://coast.noaa.gov/dataregistry/",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 0,
@@ -67,7 +67,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2016-05-30T22:16:42.608575",
-		"url": "https:\/\/coast.noaa.gov\/dataregistry",
+		"url": "https://coast.noaa.gov/dataregistry",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 1,
@@ -97,7 +97,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2016-05-30T22:16:42.608585",
-		"url": "https:\/\/coast.noaa.gov\/htdata\/raster2\/imagery\/HorrySC_2014_4745",
+		"url": "https://coast.noaa.gov/htdata/raster2/imagery/HorrySC_2014_4745",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 2,
@@ -127,7 +127,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2016-05-30T22:16:42.608593",
-		"url": "https:\/\/coast.noaa.gov\/dataviewer\/#\/imagery\/search\/where:ID=4745",
+		"url": "https://coast.noaa.gov/dataviewer/#/imagery/search/where:ID=4745",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 3,
@@ -147,7 +147,7 @@
 	"name": "2014-horry-county-sc-ads80-4-band-8-bit-imagery",
 	"isopen": false,
 	"url": null,
-	"notes": "All imagery was collected during the 2014 Spring flying season during leaf-off conditions for deciduous vegetation in the State of South Carolina. The sun angle was at 30-degrees or greater, and streams were within their normal banks. During the flight planning and acquisition, a significant effort was made to limit clouds, snow, fog, haze, smoke, or other ground obscuring conditions in the imagery. In no case does the maximum cloud cover exceed 5% per image. Within the immediate areas of power plants, factories, or controlled agricultural burns some steam or smoke and\/or shadows may be visible on imagery.",
+	"notes": "All imagery was collected during the 2014 Spring flying season during leaf-off conditions for deciduous vegetation in the State of South Carolina. The sun angle was at 30-degrees or greater, and streams were within their normal banks. During the flight planning and acquisition, a significant effort was made to limit clouds, snow, fog, haze, smoke, or other ground obscuring conditions in the imagery. In no case does the maximum cloud cover exceed 5% per image. Within the immediate areas of power plants, factories, or controlled agricultural burns some steam or smoke and/or shadows may be visible on imagery.",
 	"license_title": null,
 	"extras": [{
 		"key": "bbox-east-long",
@@ -183,7 +183,7 @@
 	},
 	{
 		"key": "spatial",
-		"value": "{\"type\": \"Polygon\", \"coordinates\": [[[-79.358, 33.541], [-79.532, 33.541], [-79.532, 34.323], [-79.358, 34.323], [-79.358, 33.541]]]}"
+		"value": "{"type": "Polygon", "coordinates": [[[-79.358, 33.541], [-79.532, 33.541], [-79.532, 34.323], [-79.358, 34.323], [-79.358, 33.541]]]}"
 	},
 	{
 		"key": "progress",
@@ -191,7 +191,7 @@
 	},
 	{
 		"key": "access_constraints",
-		"value": "[\"Use Constraints: None. However, users should be aware that temporal changes may have occurred since this data set was collected and that some parts of this data may no longer represent actual surface conditions. Users should not use this data for critical applications without a full awareness of it's limitations.\", \"Access Constraints: None\"]"
+		"value": "["Use Constraints: None. However, users should be aware that temporal changes may have occurred since this data set was collected and that some parts of this data may no longer represent actual surface conditions. Users should not use this data for critical applications without a full awareness of it's limitations.", "Access Constraints: None"]"
 	},
 	{
 		"key": "temporal-extent-begin",
@@ -211,7 +211,7 @@
 	},
 	{
 		"key": "dataset-reference-date",
-		"value": "[{\"type\": \"publication\", \"value\": \"2014-12-22\"}]"
+		"value": "[{"type": "publication", "value": "2014-12-22"}]"
 	},
 	{
 		"key": "frequency-of-update",
@@ -219,7 +219,7 @@
 	},
 	{
 		"key": "licence",
-		"value": "[\"Woolpert prepared the original data as set forth in the Scope of Services, in accordance with reasonable care and due diligence as set forth in this Agreement, however, due to the easily alterable nature of electronic media, files, documents, and other deliverables, Woolpert, Inc. makes no warranties, either expressed or implied, with respect to the accuracy, completeness, merchantability, or fitness for any particular purpose, including, but not limited to, use of any\/all data as described within this metadata file, by any user of this data. Any use will be at the end-user's sole risk.\"]"
+		"value": "["Woolpert prepared the original data as set forth in the Scope of Services, in accordance with reasonable care and due diligence as set forth in this Agreement, however, due to the easily alterable nature of electronic media, files, documents, and other deliverables, Woolpert, Inc. makes no warranties, either expressed or implied, with respect to the accuracy, completeness, merchantability, or fitness for any particular purpose, including, but not limited to, use of any/all data as described within this metadata file, by any user of this data. Any use will be at the end-user's sole risk."]"
 	},
 	{
 		"key": "metadata_type",
@@ -227,7 +227,7 @@
 	},
 	{
 		"key": "responsible-party",
-		"value": "[{\"name\": \"NOAA Office for Coastal Management\", \"roles\": [\"pointOfContact\"]}]"
+		"value": "[{"name": "NOAA Office for Coastal Management", "roles": ["pointOfContact"]}]"
 	},
 	{
 		"key": "temporal-extent-end",
@@ -273,7 +273,7 @@
 		"revision_timestamp": "2013-03-25T23:05:12.923863",
 		"is_organization": true,
 		"state": "active",
-		"image_url": "https:\/\/fortress.wa.gov\/dfw\/score\/score\/images\/noaa_logo.png",
+		"image_url": "https://fortress.wa.gov/dfw/score/score/images/noaa_logo.png",
 		"revision_id": "c6d43080-22e1-405e-a83d-f2a512d9e867",
 		"type": "organization",
 		"id": "e811f0b4-451f-4896-9e8f-fc6802837819",

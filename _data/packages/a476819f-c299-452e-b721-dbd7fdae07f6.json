@@ -36,7 +36,7 @@
 		"cache_url": null,
 		"name": "GIS and Mapping",
 		"created": "2013-12-07T04:05:37.010491",
-		"url": "http:\/\/www.dot.nd.gov\/business\/gis-mapping.htm",
+		"url": "http://www.dot.nd.gov/business/gis-mapping.htm",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 0,
@@ -65,7 +65,7 @@
 		"cache_url": null,
 		"name": "North Dakota Travel Information Map",
 		"created": "2013-12-07T04:05:37.010534",
-		"url": "http:\/\/www.dot.nd.gov\/travel-info-v2\/",
+		"url": "http://www.dot.nd.gov/travel-info-v2/",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 1,
@@ -94,7 +94,7 @@
 		"cache_url": null,
 		"name": "NDDOT Travel Information Mobile App",
 		"created": "2013-12-07T04:05:37.010566",
-		"url": "http:\/\/www.dot.nd.gov\/travelinfo\/m\/",
+		"url": "http://www.dot.nd.gov/travelinfo/m/",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 2,
@@ -127,7 +127,7 @@
 	"name": "department-of-transportion-travel-information",
 	"isopen": false,
 	"url": null,
-	"notes": "Provides access to road conditions, load restrictions, work zones (road construction), road & weather cameras, width\/height restrictions and weather radar all on one map.",
+	"notes": "Provides access to road conditions, load restrictions, work zones (road construction), road & weather cameras, width/height restrictions and weather radar all on one map.",
 	"license_title": null,
 	"extras": [{
 		"key": "bbox-east-long",
@@ -171,7 +171,7 @@
 	},
 	{
 		"key": "spatial",
-		"value": "{\"type\": \"Polygon\", \"coordinates\": [[[-104.5, 45.5], [-96.5, 45.5], [-96.5, 49.5], [-104.5, 49.5], [-104.5, 45.5]]]}"
+		"value": "{"type": "Polygon", "coordinates": [[[-104.5, 45.5], [-96.5, 45.5], [-96.5, 49.5], [-104.5, 49.5], [-104.5, 45.5]]]}"
 	},
 	{
 		"key": "progress",
@@ -179,7 +179,7 @@
 	},
 	{
 		"key": "access_constraints",
-		"value": "[\"This is for informational purposes only.  The State of North Dakota has compiled this data according to conventional cartographic standards, using what is thought to be the most reliable information available.  This data is intended to make results of research available at the earliest possible date, but is not intended to constitute final or formal publication.  The State of North Dakota makes every effort to provide virus-free files but does not guarantee uncorrupted files.  The State of North Dakota does not guarantee this data to be free from errors, inaccuracies, or viruses, and disclaims any responsibility or liability for interpretations or decisions based on this data.\"]"
+		"value": "["This is for informational purposes only.  The State of North Dakota has compiled this data according to conventional cartographic standards, using what is thought to be the most reliable information available.  This data is intended to make results of research available at the earliest possible date, but is not intended to constitute final or formal publication.  The State of North Dakota makes every effort to provide virus-free files but does not guarantee uncorrupted files.  The State of North Dakota does not guarantee this data to be free from errors, inaccuracies, or viruses, and disclaims any responsibility or liability for interpretations or decisions based on this data."]"
 	},
 	{
 		"key": "contact-email",
@@ -195,7 +195,7 @@
 	},
 	{
 		"key": "dataset-reference-date",
-		"value": "[{\"type\": \"publication\", \"value\": \"2009-07-30T09:38:00\"}]"
+		"value": "[{"type": "publication", "value": "2009-07-30T09:38:00"}]"
 	},
 	{
 		"key": "graphic-preview-description",
@@ -215,7 +215,7 @@
 	},
 	{
 		"key": "responsible-party",
-		"value": "[{\"name\": \"Department of Transportation\", \"roles\": [\"owner\"]}]"
+		"value": "[{"name": "Department of Transportation", "roles": ["owner"]}]"
 	},
 	{
 		"key": "spatial-data-service-type",
@@ -250,14 +250,14 @@
 		"value": "North Dakota GIS Hub Data Portal"
 	}],
 	"organization": {
-		"description": "The GIS Hub is the state source for GIS - data, services, and information.  More information can be found at www.nd.gov\/gis.",
+		"description": "The GIS Hub is the state source for GIS - data, services, and information.  More information can be found at www.nd.gov/gis.",
 		"created": "2013-03-14T03:44:44.340717",
 		"title": "State of North Dakota",
 		"name": "nd-gov",
 		"revision_timestamp": "2013-07-15T16:27:30.098476",
 		"is_organization": true,
 		"state": "active",
-		"image_url": "http:\/\/www.nd.gov\/gis\/images\/ndgis-logo.gif",
+		"image_url": "http://www.nd.gov/gis/images/ndgis-logo.gif",
 		"revision_id": "27517bb9-815c-4d4f-b45b-b88b6316697b",
 		"type": "organization",
 		"id": "1c782de6-9f1f-4427-93fd-33732e29970f",

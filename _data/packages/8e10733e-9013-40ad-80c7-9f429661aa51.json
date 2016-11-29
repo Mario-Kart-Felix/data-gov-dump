@@ -36,7 +36,7 @@
 		"cache_url": null,
 		"name": "ESRI GRID",
 		"created": "2016-07-15T21:34:01.479857",
-		"url": "http:\/\/cloud.insideidaho.org\/webApps\/util\/zip.ashx?fn=http:\/\/cloud.insideidaho.org\/data\/idl\/safr\/issues\/I1_Wildfire",
+		"url": "http://cloud.insideidaho.org/webApps/util/zip.ashx?fn=http://cloud.insideidaho.org/data/idl/safr/issues/I1_Wildfire",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 0,
@@ -65,7 +65,7 @@
 		"cache_url": null,
 		"name": "Adobe Portable Document Format (.pdf)",
 		"created": "2016-07-15T21:34:01.479879",
-		"url": "http:\/\/cloud.insideidaho.org\/data\/idl\/safr\/issues\/I1_Wildfire\/I1_Relative_Risks_to_Communities_and_Ecosystems_from_Uncharacteristic_Wildland_Fire.pdf",
+		"url": "http://cloud.insideidaho.org/data/idl/safr/issues/I1_Wildfire/I1_Relative_Risks_to_Communities_and_Ecosystems_from_Uncharacteristic_Wildland_Fire.pdf",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 1,
@@ -85,11 +85,11 @@
 	"name": "relative-risk-to-communities-and-ecosystems-from-uncharacteristic-wildland-fire",
 	"isopen": false,
 	"url": null,
-	"notes": "Issue: Relative Risk to Communities and Ecosystems from Uncharacteristic Wildland Fire The intent of this issue is to: o Identify where communities and their associated forestlands are at greatest risk from uncharacteristic wildfires; o Identify areas where departure from historic fire regimes may lead to uncharacteristic wildland fires areas where damaging insects threaten forest health This layer was constructed by using the following layers: 1. The Relative Risk to Communities from Wildland Fire in Idaho model, developed by the Idaho Interagency Wildland Fire Plan Working Group. A complete description of this model is available for download at: http:\/\/www.idahofireplan.org\/images\/Assessment.pdf. The assessment was completed by Jeff Jones, Landscape Ecologist, Flathead National Forest, and others from the State Fire Plan Working Group. This model considers relative wildland fire risk (weather, ignition probability, rate of spread), relative wildland fire hazard (fuel hazard, expected fuel moisture, slope effect on fire spread) and wildland urban interface (inhabited areas, communities at risk). This dataset identifies wildland urban communities from the Federal Register (66 Fed. Reg. 753, January 4, 2001). The SAFR Core Development Team felt this model best informed the issue of community risk to wildfire and is supported by the Interagency Fire Plan Working Group. 2. Fire Regime Condition Classes (FRCC): This dataset shows changes in vegetation and fuels from historical conditions. From this map, inferences can be made to characterize forest lands with higher potential of uncharacteristic wildland fires (if ignitions were to occur). It is deemed the best indicator available of potential threat to forest systems from uncharacteristic fire. FRCC was used in the Idaho Roadless Rule to assess potential for uncharacteristic wildfires, and to evaluate the ability to treat fuels to reduce this potential. Information on this dataset can be found at: http:\/\/www.fs.fed.us\/rm\/pubs_other\/rmrs_2004_menakis001.pdf. Issue Process: The Relative Risk to Communities from Wildland Fire in Idaho dataset was reclassified into five groups (1-5), from very low risk to very high risk, using natural breaks in the data. The FRCC data measures relative departure from historic fire regimes in three categories (1-3), from low departure to high. This data was first masked to include only forested areas, and then reclassified into three categories with values of 1, 3 and 5. Instead of adding these two datasets together, they were merged such that the highest value from either dataset became the value for that cell. For example, if either the Relative Risk to Communities from Wildland fire or the FRCC had a value of five for a particular cell, that cell received a value of five. Idaho Statewide Assessment of Forest Resources document contains additional information and can be found at: http:\/\/www.idl.idaho.gov\/bureau\/ForestAssist\/safr\/final\/061410-ID-SAFR-FINAL.pdf.",
+	"notes": "Issue: Relative Risk to Communities and Ecosystems from Uncharacteristic Wildland Fire The intent of this issue is to: o Identify where communities and their associated forestlands are at greatest risk from uncharacteristic wildfires; o Identify areas where departure from historic fire regimes may lead to uncharacteristic wildland fires areas where damaging insects threaten forest health This layer was constructed by using the following layers: 1. The Relative Risk to Communities from Wildland Fire in Idaho model, developed by the Idaho Interagency Wildland Fire Plan Working Group. A complete description of this model is available for download at: http://www.idahofireplan.org/images/Assessment.pdf. The assessment was completed by Jeff Jones, Landscape Ecologist, Flathead National Forest, and others from the State Fire Plan Working Group. This model considers relative wildland fire risk (weather, ignition probability, rate of spread), relative wildland fire hazard (fuel hazard, expected fuel moisture, slope effect on fire spread) and wildland urban interface (inhabited areas, communities at risk). This dataset identifies wildland urban communities from the Federal Register (66 Fed. Reg. 753, January 4, 2001). The SAFR Core Development Team felt this model best informed the issue of community risk to wildfire and is supported by the Interagency Fire Plan Working Group. 2. Fire Regime Condition Classes (FRCC): This dataset shows changes in vegetation and fuels from historical conditions. From this map, inferences can be made to characterize forest lands with higher potential of uncharacteristic wildland fires (if ignitions were to occur). It is deemed the best indicator available of potential threat to forest systems from uncharacteristic fire. FRCC was used in the Idaho Roadless Rule to assess potential for uncharacteristic wildfires, and to evaluate the ability to treat fuels to reduce this potential. Information on this dataset can be found at: http://www.fs.fed.us/rm/pubs_other/rmrs_2004_menakis001.pdf. Issue Process: The Relative Risk to Communities from Wildland Fire in Idaho dataset was reclassified into five groups (1-5), from very low risk to very high risk, using natural breaks in the data. The FRCC data measures relative departure from historic fire regimes in three categories (1-3), from low departure to high. This data was first masked to include only forested areas, and then reclassified into three categories with values of 1, 3 and 5. Instead of adding these two datasets together, they were merged such that the highest value from either dataset became the value for that cell. For example, if either the Relative Risk to Communities from Wildland fire or the FRCC had a value of five for a particular cell, that cell received a value of five. Idaho Statewide Assessment of Forest Resources document contains additional information and can be found at: http://www.idl.idaho.gov/bureau/ForestAssist/safr/final/061410-ID-SAFR-FINAL.pdf.",
 	"license_title": null,
 	"extras": [{
 		"key": "responsible-party",
-		"value": "[{\"name\": \"Idaho Department of Lands\", \"roles\": [\"pointOfContact\"]}]"
+		"value": "[{"name": "Idaho Department of Lands", "roles": ["pointOfContact"]}]"
 	},
 	{
 		"key": "contact-email",
@@ -101,7 +101,7 @@
 	},
 	{
 		"key": "bbox-west-long",
-		"value": "\n-117.530649"
+		"value": "n-117.530649"
 	},
 	{
 		"key": "metadata-date",
@@ -109,7 +109,7 @@
 	},
 	{
 		"key": "dataset-reference-date",
-		"value": "[{\"type\": \"publication\", \"value\": \"2009-09-01\"}]"
+		"value": "[{"type": "publication", "value": "2009-09-01"}]"
 	},
 	{
 		"key": "resource-type",
@@ -117,7 +117,7 @@
 	},
 	{
 		"key": "bbox-east-long",
-		"value": "\n-110.656307"
+		"value": "n-110.656307"
 	},
 	{
 		"key": "spatial-reference-system",
@@ -125,7 +125,7 @@
 	},
 	{
 		"key": "bbox-north-lat",
-		"value": "\n49.038918"
+		"value": "n49.038918"
 	},
 	{
 		"key": "coupled-resource",
@@ -133,11 +133,11 @@
 	},
 	{
 		"key": "bbox-south-lat",
-		"value": "\n41.945767"
+		"value": "n41.945767"
 	},
 	{
 		"key": "licence",
-		"value": "[\"None. Please check sources, scale, accuracy, currentness and other available information. Please confirm that you are using the most recent copy of both data and metadata.  Acknowledgement of the IDL would be appreciated.\"]"
+		"value": "["None. Please check sources, scale, accuracy, currentness and other available information. Please confirm that you are using the most recent copy of both data and metadata.  Acknowledgement of the IDL would be appreciated."]"
 	},
 	{
 		"key": "metadata_type",
@@ -149,7 +149,7 @@
 	},
 	{
 		"key": "spatial",
-		"value": "{\"type\": \"Polygon\", \"coordinates\": [[[-117.530649, 41.945767], [-110.656307, 41.945767], [-110.656307, 49.038918], [-117.530649, 49.038918], [-117.530649, 41.945767]]]}"
+		"value": "{"type": "Polygon", "coordinates": [[[-117.530649, 41.945767], [-110.656307, 41.945767], [-110.656307, 49.038918], [-117.530649, 49.038918], [-117.530649, 41.945767]]]}"
 	},
 	{
 		"key": "guid",
@@ -161,7 +161,7 @@
 	},
 	{
 		"key": "access_constraints",
-		"value": "[\"Use Constraints: None. Please check sources, scale, accuracy, currentness and other available information. Please confirm that you are using the most recent copy of both data and metadata. Acknowledgement of the IDL would be appreciated.\", \"Access Constraints: None.\"]"
+		"value": "["Use Constraints: None. Please check sources, scale, accuracy, currentness and other available information. Please confirm that you are using the most recent copy of both data and metadata. Acknowledgement of the IDL would be appreciated.", "Access Constraints: None."]"
 	},
 	{
 		"key": "spatial_harvester",
@@ -203,7 +203,7 @@
 		"revision_timestamp": "2015-01-16T18:28:14.593903",
 		"is_organization": true,
 		"state": "active",
-		"image_url": "http:\/\/upload.wikimedia.org\/wikipedia\/en\/thumb\/4\/44\/University_of_Idaho_seal.svg\/300px-University_of_Idaho_seal.svg.png",
+		"image_url": "http://upload.wikimedia.org/wikipedia/en/thumb/4/44/University_of_Idaho_seal.svg/300px-University_of_Idaho_seal.svg.png",
 		"revision_id": "761955d7-9530-4622-8609-d0b01c78e177",
 		"type": "organization",
 		"id": "75e22a8a-da5f-46f3-93d8-924063a3703d",

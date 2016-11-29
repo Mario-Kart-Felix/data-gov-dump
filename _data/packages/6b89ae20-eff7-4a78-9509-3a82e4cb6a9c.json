@@ -35,7 +35,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2016-05-26T22:32:47.859996",
-		"url": "https:\/\/hifld-dhs-gii.opendata.arcgis.com\/",
+		"url": "https://hifld-dhs-gii.opendata.arcgis.com/",
 		"webstore_url": null,
 		"last_modified": null,
 		"position": 0,
@@ -94,11 +94,11 @@
 	"name": "hazardous-materials-routes",
 	"isopen": false,
 	"url": null,
-	"notes": "The Federal Motor Carrier Safety Administration (FMCSA) Hazardous Material Routes were developed using the 2004 First Edition TIGER\/Line files. The routes are described in the National Hazardous Material Route Registry (NMHRR). The on-line NMHRR linkage is http:\/\/hazmat.fmcsa.dot.gov\/nhmrr\/index.asp With the exception of 13 features that were not identified with the Tiger\/Lines, Hazmat routes were created by extracting the TIGER\/Line segments that corresponded to each individual route. Hazmat routes in the NTAD, are organized into 3 database files, hazmat.shp, hmroutes.dbf, and hmstcnty.dbf. Each record in each database represents a unique Tiger\/Line segment. These Tiger\/Line segments are grouped into routes identified as character strings in the ROUTE_ID field in the hmroutes.dbf table. The route name appearing in the ROUTE_ID is assigned by FMCSA and is unique for each State [this sentence could be deleted - it doesn't add a lot to it]. The hmstcnty.dbf table allows the user to select routes by State and County. A single shapefile, called hazmat.shp, represents geometry for all routes in the United States.",
+	"notes": "The Federal Motor Carrier Safety Administration (FMCSA) Hazardous Material Routes were developed using the 2004 First Edition TIGER/Line files. The routes are described in the National Hazardous Material Route Registry (NMHRR). The on-line NMHRR linkage is http://hazmat.fmcsa.dot.gov/nhmrr/index.asp With the exception of 13 features that were not identified with the Tiger/Lines, Hazmat routes were created by extracting the TIGER/Line segments that corresponded to each individual route. Hazmat routes in the NTAD, are organized into 3 database files, hazmat.shp, hmroutes.dbf, and hmstcnty.dbf. Each record in each database represents a unique Tiger/Line segment. These Tiger/Line segments are grouped into routes identified as character strings in the ROUTE_ID field in the hmroutes.dbf table. The route name appearing in the ROUTE_ID is assigned by FMCSA and is unique for each State [this sentence could be deleted - it doesn't add a lot to it]. The hmstcnty.dbf table allows the user to select routes by State and County. A single shapefile, called hazmat.shp, represents geometry for all routes in the United States.",
 	"license_title": "License Not Specified",
 	"extras": [{
 		"key": "publisher",
-		"value": "Under Secretary \/ Management"
+		"value": "Under Secretary / Management"
 	},
 	{
 		"key": "identifier",
@@ -114,7 +114,7 @@
 	},
 	{
 		"key": "catalog_@context",
-		"value": "https:\/\/project-open-data.cio.gov\/v1.1\/schema\/catalog.jsonld"
+		"value": "https://project-open-data.cio.gov/v1.1/schema/catalog.jsonld"
 	},
 	{
 		"key": "resource-type",
@@ -146,7 +146,7 @@
 	},
 	{
 		"key": "catalog_conformsTo",
-		"value": "https:\/\/project-open-data.cio.gov\/v1.1\/schema"
+		"value": "https://project-open-data.cio.gov/v1.1/schema"
 	},
 	{
 		"key": "accessLevel",
@@ -183,7 +183,7 @@
 		"revision_timestamp": "2015-06-22T16:39:40.221108",
 		"is_organization": true,
 		"state": "active",
-		"image_url": "https:\/\/raw.githubusercontent.com\/GSA\/logo\/master\/dhs.png",
+		"image_url": "https://raw.githubusercontent.com/GSA/logo/master/dhs.png",
 		"revision_id": "fb44c14e-9b55-46b9-b355-d465242171bb",
 		"type": "organization",
 		"id": "05d603ec-9121-4f71-b09e-5d5b5a7efc64",

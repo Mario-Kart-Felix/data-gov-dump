@@ -36,7 +36,7 @@
 		"cache_url": null,
 		"name": "Export",
 		"created": "2014-11-17T16:10:57.570025",
-		"url": "http:\/\/water.usgs.gov\/GIS\/dsdl\/yell_100k.e00.gz",
+		"url": "http://water.usgs.gov/GIS/dsdl/yell_100k.e00.gz",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 0,
@@ -65,7 +65,7 @@
 		"cache_url": null,
 		"name": "Other",
 		"created": "2014-11-17T16:10:57.570055",
-		"url": "http:\/\/water.usgs.gov\/GIS\/dsdl\/yell_100k.tgz",
+		"url": "http://water.usgs.gov/GIS/dsdl/yell_100k.tgz",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 1,
@@ -95,7 +95,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2014-11-17T16:10:57.570071",
-		"url": "http:\/\/water.usgs.gov\/lookup\/getspatial?yell_100k",
+		"url": "http://water.usgs.gov/lookup/getspatial?yell_100k",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 2,
@@ -110,14 +110,14 @@
 	},
 	"groups": [],
 	"organization": {
-		"description": "http:\/\/www.usgs.gov\/\r\nThe USGS is a federal science agency that provides impartial information on the health of our ecosystems and environment, the natural hazards that threaten us, the natural resources we rely on, the impacts of climate and land-use change, and the core science systems that help us provide timely, relevant, and useable information.",
+		"description": "http://www.usgs.gov/rnThe USGS is a federal science agency that provides impartial information on the health of our ecosystems and environment, the natural hazards that threaten us, the natural resources we rely on, the impacts of climate and land-use change, and the core science systems that help us provide timely, relevant, and useable information.",
 		"title": "U.S. Geological Survey, Department of the Interior",
 		"created": "2013-03-14T03:44:38.263357",
 		"approval_status": "approved",
 		"revision_timestamp": "2014-09-02T13:43:52.167023",
 		"is_organization": true,
 		"state": "active",
-		"image_url": "http:\/\/pubs.usgs.gov\/sir\/2004\/5296\/04-5296_confluence_park\/usgs_logo.gif",
+		"image_url": "http://pubs.usgs.gov/sir/2004/5296/04-5296_confluence_park/usgs_logo.gif",
 		"revision_id": "2858aa99-9501-4f96-82e5-9647b968ed66",
 		"type": "organization",
 		"id": "bd2cdd5a-4d65-46c0-9937-c8381175f104",
@@ -132,7 +132,7 @@
 	"owner_org": "bd2cdd5a-4d65-46c0-9937-c8381175f104",
 	"extras": [{
 		"key": "responsible-party",
-		"value": "[{\"name\": \"U.S. Geological Survey\", \"roles\": [\"pointOfContact\"]}]"
+		"value": "[{"name": "U.S. Geological Survey", "roles": ["pointOfContact"]}]"
 	},
 	{
 		"key": "contact-email",
@@ -152,7 +152,7 @@
 	},
 	{
 		"key": "dataset-reference-date",
-		"value": "[{\"type\": \"publication\", \"value\": \"2000-01-01\"}]"
+		"value": "[{"type": "publication", "value": "2000-01-01"}]"
 	},
 	{
 		"key": "resource-type",
@@ -180,7 +180,7 @@
 	},
 	{
 		"key": "licence",
-		"value": "[\"Although this data set has been used by the U.S. Geological\\nSurvey, U.S. Department of the Interior, no warranty expressed or\\nimplied is made by the U.S. Geological Survey as to the accuracy\\nof the data and related materials. The act of distribution shall not \\nconstitute any such warranty, and no responsibility is assumed by \\nthe U.S. Geological Survey in the use of this data, software, or \\nrelated materials.\\n\\nAny use of trade, product, or firm names is for descriptive\\npurposes only and does not imply endorsement by the U.S.\\nGovernment.\"]"
+		"value": "["Although this data set has been used by the U.S. Geological\nSurvey, U.S. Department of the Interior, no warranty expressed or\nimplied is made by the U.S. Geological Survey as to the accuracy\nof the data and related materials. The act of distribution shall not \nconstitute any such warranty, and no responsibility is assumed by \nthe U.S. Geological Survey in the use of this data, software, or \nrelated materials.\n\nAny use of trade, product, or firm names is for descriptive\npurposes only and does not imply endorsement by the U.S.\nGovernment."]"
 	},
 	{
 		"key": "metadata_type",
@@ -192,7 +192,7 @@
 	},
 	{
 		"key": "spatial",
-		"value": "{\"type\": \"Polygon\", \"coordinates\": [[[-111.2770699, 42.41831121], [-103.50712541, 42.41831121], [-103.50712541, 47.98566457], [-111.2770699, 47.98566457], [-111.2770699, 42.41831121]]]}"
+		"value": "{"type": "Polygon", "coordinates": [[[-111.2770699, 42.41831121], [-103.50712541, 42.41831121], [-103.50712541, 47.98566457], [-111.2770699, 47.98566457], [-111.2770699, 42.41831121]]]}"
 	},
 	{
 		"key": "guid",
@@ -204,7 +204,7 @@
 	},
 	{
 		"key": "access_constraints",
-		"value": "[\"Use Constraints: These data are not for use at map scales greater than 1:100,000.\", \"Access Constraints: none\"]"
+		"value": "["Use Constraints: These data are not for use at map scales greater than 1:100,000.", "Access Constraints: none"]"
 	},
 	{
 		"key": "spatial_harvester",

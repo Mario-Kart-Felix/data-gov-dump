@@ -37,7 +37,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2015-07-16T17:37:23.605722",
-		"url": "http:\/\/www.bts.gov\/programs\/geographic_information_services\/",
+		"url": "http://www.bts.gov/programs/geographic_information_services/",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 0,
@@ -67,7 +67,7 @@
 		"cache_url": null,
 		"name": "Esri Rest API Endpoint",
 		"created": "2015-07-16T17:37:23.605762",
-		"url": "http:\/\/gis.rita.dot.gov\/ArcGIS\/rest\/services\/NTAD",
+		"url": "http://gis.rita.dot.gov/ArcGIS/rest/services/NTAD",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 1,
@@ -97,7 +97,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2015-07-16T17:37:23.605772",
-		"url": "http:\/\/www.rita.dot.gov\/bts\/sites\/rita.dot.gov.bts\/files\/publications\/national_transportation_atlas_database\/2015\/index.html",
+		"url": "http://www.rita.dot.gov/bts/sites/rita.dot.gov.bts/files/publications/national_transportation_atlas_database/2015/index.html",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 2,
@@ -127,7 +127,7 @@
 		"cache_url": null,
 		"name": "XML File",
 		"created": "2015-07-16T17:37:23.605780",
-		"url": "https:\/\/2bts.rita.dot.gov\/pdc\/index.xml",
+		"url": "https://2bts.rita.dot.gov/pdc/index.xml",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 3,
@@ -160,7 +160,7 @@
 	"name": "freight-intermodal-facility-national-national-geospatial-data-asset-ngda-intermodal-freight",
 	"isopen": false,
 	"url": null,
-	"notes": "This is a public dataset for the Department of Transportation, Office of the Assistant Secretary for Research and Technology's Bureau of Transportation Statistics (NTAD 2015). The public database consists of four tables. One of the tables is a spatial table: INTERMODAL_FACILITY. The three other tables consist of attribute data for the database: INTERMODAL_CARGO, INTERMODAL_COMMODITY and INTERMODAL_DIRECTIONALITY. This database was based on the requirements from the Commodity Flow Survey and with the different modes of DOT, supervised by OST-R\/BTS. The database will extend its design to support all of the modes within the DOT and in reference to modes involved with Intermodal transfer.",
+	"notes": "This is a public dataset for the Department of Transportation, Office of the Assistant Secretary for Research and Technology's Bureau of Transportation Statistics (NTAD 2015). The public database consists of four tables. One of the tables is a spatial table: INTERMODAL_FACILITY. The three other tables consist of attribute data for the database: INTERMODAL_CARGO, INTERMODAL_COMMODITY and INTERMODAL_DIRECTIONALITY. This database was based on the requirements from the Commodity Flow Survey and with the different modes of DOT, supervised by OST-R/BTS. The database will extend its design to support all of the modes within the DOT and in reference to modes involved with Intermodal transfer.",
 	"license_title": null,
 	"extras": [{
 		"key": "bbox-east-long",
@@ -192,7 +192,7 @@
 	},
 	{
 		"key": "__category_tag_aa0c01c9-d292-4dc1-8fec-b10c1bb629a9",
-		"value": "[\"Transportation\",\"Transportation Nodes\"]"
+		"value": "["Transportation","Transportation Nodes"]"
 	},
 	{
 		"key": "spatial-reference-system",
@@ -200,7 +200,7 @@
 	},
 	{
 		"key": "spatial",
-		"value": "{\"type\": \"Polygon\", \"coordinates\": [[[-165.43611, 18.439], [-66.002, 18.439], [-66.002, 64.80709], [-165.43611, 64.80709], [-165.43611, 18.439]]]}"
+		"value": "{"type": "Polygon", "coordinates": [[[-165.43611, 18.439], [-66.002, 18.439], [-66.002, 64.80709], [-165.43611, 64.80709], [-165.43611, 18.439]]]}"
 	},
 	{
 		"key": "progress",
@@ -208,7 +208,7 @@
 	},
 	{
 		"key": "access_constraints",
-		"value": "[\"Use Constraints: None. Acknowledgment of the Office of the Assistant Secretary for Research and Technology\/Bureau of Transportation Statistics (BTS) National Transportation Atlas Databases (NTAD) 2015 would be appreciated in products derived from these data. http:\/\/www.bts.gov\/programs\/geographic_information_services\/\", \"Access Constraints: The access of this data is not restricted.\"]"
+		"value": "["Use Constraints: None. Acknowledgment of the Office of the Assistant Secretary for Research and Technology/Bureau of Transportation Statistics (BTS) National Transportation Atlas Databases (NTAD) 2015 would be appreciated in products derived from these data. http://www.bts.gov/programs/geographic_information_services/", "Access Constraints: The access of this data is not restricted."]"
 	},
 	{
 		"key": "contact-email",
@@ -224,7 +224,7 @@
 	},
 	{
 		"key": "dataset-reference-date",
-		"value": "[{\"type\": \"publication\", \"value\": \"2003-01-01\"}]"
+		"value": "[{"type": "publication", "value": "2003-01-01"}]"
 	},
 	{
 		"key": "frequency-of-update",
@@ -232,7 +232,7 @@
 	},
 	{
 		"key": "licence",
-		"value": "[\"None\"]"
+		"value": "["None"]"
 	},
 	{
 		"key": "metadata_type",
@@ -240,7 +240,7 @@
 	},
 	{
 		"key": "responsible-party",
-		"value": "[{\"name\": \"Office of the Assistant Secretary for Research and Technology\/Bureau of Transportation Statistics (BTS)\", \"roles\": [\"pointOfContact\"]}]"
+		"value": "[{"name": "Office of the Assistant Secretary for Research and Technology/Bureau of Transportation Statistics (BTS)", "roles": ["pointOfContact"]}]"
 	},
 	{
 		"key": "spatial-data-service-type",
@@ -282,7 +282,7 @@
 		"revision_timestamp": "2013-08-30T13:59:29.523214",
 		"is_organization": true,
 		"state": "active",
-		"image_url": "http:\/\/upload.wikimedia.org\/wikipedia\/commons\/8\/81\/US_DOT_Triskelion.png",
+		"image_url": "http://upload.wikimedia.org/wikipedia/commons/8/81/US_DOT_Triskelion.png",
 		"revision_id": "684c8481-4ae2-46b0-a083-b392eea15130",
 		"type": "organization",
 		"id": "fc5cb2c1-d0b0-482a-8a52-7d42ea186ae1",

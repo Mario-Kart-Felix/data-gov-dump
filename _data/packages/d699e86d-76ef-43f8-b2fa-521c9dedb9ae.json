@@ -31,11 +31,11 @@
 		},
 		"mimetype_inner": null,
 		"revision_id": "10013908-e383-47d0-89c2-32deae9ac31a",
-		"mimetype": "text\/csv",
+		"mimetype": "text/csv",
 		"cache_url": null,
 		"name": "Comma Separated Values File",
 		"created": "2016-01-21T18:53:42.148256",
-		"url": "https:\/\/data.brla.gov\/api\/views\/54bn-2sqf\/rows.csv?accessType=DOWNLOAD",
+		"url": "https://data.brla.gov/api/views/54bn-2sqf/rows.csv?accessType=DOWNLOAD",
 		"webstore_url": null,
 		"last_modified": null,
 		"position": 0,
@@ -59,11 +59,11 @@
 		},
 		"mimetype_inner": null,
 		"revision_id": "2cbca0a8-adb9-498d-9500-4659f44b9a6c",
-		"mimetype": "application\/rdf+xml",
+		"mimetype": "application/rdf+xml",
 		"cache_url": null,
 		"name": "RDF File",
 		"created": "2016-01-21T18:53:42.148307",
-		"url": "https:\/\/data.brla.gov\/api\/views\/54bn-2sqf\/rows.rdf?accessType=DOWNLOAD",
+		"url": "https://data.brla.gov/api/views/54bn-2sqf/rows.rdf?accessType=DOWNLOAD",
 		"webstore_url": null,
 		"last_modified": null,
 		"position": 1,
@@ -87,11 +87,11 @@
 		},
 		"mimetype_inner": null,
 		"revision_id": "2cbca0a8-adb9-498d-9500-4659f44b9a6c",
-		"mimetype": "application\/json",
+		"mimetype": "application/json",
 		"cache_url": null,
 		"name": "JSON File",
 		"created": "2016-01-21T18:53:42.148317",
-		"url": "https:\/\/data.brla.gov\/api\/views\/54bn-2sqf\/rows.json?accessType=DOWNLOAD",
+		"url": "https://data.brla.gov/api/views/54bn-2sqf/rows.json?accessType=DOWNLOAD",
 		"webstore_url": null,
 		"last_modified": null,
 		"position": 2,
@@ -115,11 +115,11 @@
 		},
 		"mimetype_inner": null,
 		"revision_id": "2cbca0a8-adb9-498d-9500-4659f44b9a6c",
-		"mimetype": "application\/xml",
+		"mimetype": "application/xml",
 		"cache_url": null,
 		"name": "XML File",
 		"created": "2016-01-21T18:53:42.148325",
-		"url": "https:\/\/data.brla.gov\/api\/views\/54bn-2sqf\/rows.xml?accessType=DOWNLOAD",
+		"url": "https://data.brla.gov/api/views/54bn-2sqf/rows.xml?accessType=DOWNLOAD",
 		"webstore_url": null,
 		"last_modified": null,
 		"position": 3,
@@ -175,7 +175,7 @@
 	"name": "purchase-orders",
 	"isopen": false,
 	"url": null,
-	"notes": "Listing of all purchase orders issued to procure goods and\/or services within City-Parish.\r\n\r\nIn the City-Parish Purchasing system, a purchase order (PO) is made up of two components: a header and one or many detail items that comprise the overarching PO. The header contains information that pertains to the entire PO. This includes, but is not limited to,  the total amount of the PO, the department requesting the purchase and the vendor providing the goods or services. The detail item(s) contain information that is specific to the individual item ordered or service procured through the Purchase Order. The item\/service description, item\/service quantity and the cost of the item is located within the Purchase Order details. There may be one or many detail items on an individual Purchase Order. For example, a Purchase Order for a computer equipment may include three items: the computer, the monitor and the base software package.\r\n\r\nBoth header information and detail item information are included in this dataset in order to provide a comprehensive view of the purchase order data. The Record Type field indicates whether the record is a header record (H) or detail item record (D). In the computer purchase example from above, the system would display 4 records \u2013 one header record and 3 detail item records.  \r\n\r\nIt should be noted header information will be duplicated on all detail items. No detail item information will be displayed on the header record.",
+	"notes": "Listing of all purchase orders issued to procure goods and/or services within City-Parish.rnrnIn the City-Parish Purchasing system, a purchase order (PO) is made up of two components: a header and one or many detail items that comprise the overarching PO. The header contains information that pertains to the entire PO. This includes, but is not limited to,  the total amount of the PO, the department requesting the purchase and the vendor providing the goods or services. The detail item(s) contain information that is specific to the individual item ordered or service procured through the Purchase Order. The item/service description, item/service quantity and the cost of the item is located within the Purchase Order details. There may be one or many detail items on an individual Purchase Order. For example, a Purchase Order for a computer equipment may include three items: the computer, the monitor and the base software package.rnrnBoth header information and detail item information are included in this dataset in order to provide a comprehensive view of the purchase order data. The Record Type field indicates whether the record is a header record (H) or detail item record (D). In the computer purchase example from above, the system would display 4 records u2013 one header record and 3 detail item records.  rnrnIt should be noted header information will be duplicated on all detail items. No detail item information will be displayed on the header record.",
 	"license_title": "License Not Specified",
 	"extras": [{
 		"key": "publisher",
@@ -187,7 +187,7 @@
 	},
 	{
 		"key": "catalog_describedBy",
-		"value": "https:\/\/project-open-data.cio.gov\/v1.1\/schema\/catalog.json"
+		"value": "https://project-open-data.cio.gov/v1.1/schema/catalog.json"
 	},
 	{
 		"key": "harvest_source_id",
@@ -195,7 +195,7 @@
 	},
 	{
 		"key": "catalog_@context",
-		"value": "https:\/\/project-open-data.cio.gov\/v1.1\/schema\/catalog.jsonld"
+		"value": "https://project-open-data.cio.gov/v1.1/schema/catalog.jsonld"
 	},
 	{
 		"key": "issued",
@@ -227,19 +227,19 @@
 	},
 	{
 		"key": "catalog_@id",
-		"value": "https:\/\/data.brla.gov\/data.json"
+		"value": "https://data.brla.gov/data.json"
 	},
 	{
 		"key": "catalog_conformsTo",
-		"value": "https:\/\/project-open-data.cio.gov\/v1.1\/schema"
+		"value": "https://project-open-data.cio.gov/v1.1/schema"
 	},
 	{
 		"key": "identifier",
-		"value": "https:\/\/data.brla.gov\/api\/views\/54bn-2sqf"
+		"value": "https://data.brla.gov/api/views/54bn-2sqf"
 	},
 	{
 		"key": "landingPage",
-		"value": "https:\/\/data.brla.gov\/d\/54bn-2sqf"
+		"value": "https://data.brla.gov/d/54bn-2sqf"
 	},
 	{
 		"key": "harvest_object_id",
@@ -265,7 +265,7 @@
 		"value": "City of Baton Rouge Data.json"
 	}],
 	"organization": {
-		"description": "ity of Baton Rouge\/Parish of East Baton Rouge Consolidated Government",
+		"description": "ity of Baton Rouge/Parish of East Baton Rouge Consolidated Government",
 		"created": "2015-02-11T13:48:19.421824",
 		"title": "City of Baton Rouge",
 		"name": "city-of-baton-rouge",

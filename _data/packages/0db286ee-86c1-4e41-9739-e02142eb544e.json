@@ -25,7 +25,7 @@
 		"last_modified": null,
 		"hash": "",
 		"description": "",
-		"format": "application\/vnd.lotus-organizer",
+		"format": "application/vnd.lotus-organizer",
 		"tracking_summary": {
 			"total": 1387,
 			"recent": 30
@@ -37,7 +37,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2014-09-17T14:22:39.557437",
-		"url": "http:\/\/www.IndianaMap.org",
+		"url": "http://www.IndianaMap.org",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 0,
@@ -67,7 +67,7 @@
 		"cache_url": null,
 		"name": "XML File",
 		"created": "2014-09-17T14:22:39.557467",
-		"url": "http:\/\/maps.indiana.edu\/metadata\/Infrastructure\/Roads_TIGER05_IN.xml",
+		"url": "http://maps.indiana.edu/metadata/Infrastructure/Roads_TIGER05_IN.xml",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 1,
@@ -85,7 +85,7 @@
 		"last_modified": null,
 		"hash": "",
 		"description": "",
-		"format": "application\/vnd.lotus-organizer",
+		"format": "application/vnd.lotus-organizer",
 		"tracking_summary": {
 			"total": 328,
 			"recent": 9
@@ -97,7 +97,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2014-09-17T14:22:39.557484",
-		"url": "http:\/\/www.igic.org",
+		"url": "http://www.igic.org",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 2,
@@ -127,7 +127,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2014-09-17T14:22:39.557495",
-		"url": "http:\/\/igs.indiana.edu\/arcims\/statewide\/download.html",
+		"url": "http://igs.indiana.edu/arcims/statewide/download.html",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 3,
@@ -147,11 +147,11 @@
 	"name": "road-and-street-centerlines-roads-tiger05-in-indiana-roads-from-tiger-2005-files-u-s-census-bu",
 	"isopen": false,
 	"url": null,
-	"notes": "ROADS_TIGER05_IN is a line shapefile of Indiana roads. Original data are from the U.S. Department of Commerce, U.S. Census Bureau, Census 2005 (First Edition) Tiger Line Files. The following is excerpted from the metadata provided by INDOT for the source shapefile DOTGIS.ROADS_TIGER05_IN.SHP: \"The 2005 First Edition TIGER\/Line files are an extract of selected geographic and cartographic information from the Census TIGER database. The geographic coverage for a single TIGER\/Line file is a county or statistical equivalent entity, with the coverage area based on the latest available governmental unit boundaries. The Census TIGER database represents a seamless national file with no overlaps or gaps between parts. However, each county-based TIGER\/Line file is designed to stand alone as an independent data set or the files can be combined to cover the whole Nation. The 2005 First Edition TIGER\/Line files consist of line segments representing physical features and governmental and statistical boundaries. The files contain information distributed over a series of record types for the spatial objects of a county. There are 19 record types, including the basic data record, the shape coordinate points, and geographic codes that can be used with appropriate software to prepare maps. Other geographic information contained in the files includes attributes such as feature identifiers\/census feature class codes (CFCC) used to differentiate feature types, address ranges and ZIP Codes, codes for legal and statistical entities, latitude\/longitude coordinates of linear and point features, landmark point features, area landmarks, and area boundaries.\"",
+	"notes": "ROADS_TIGER05_IN is a line shapefile of Indiana roads. Original data are from the U.S. Department of Commerce, U.S. Census Bureau, Census 2005 (First Edition) Tiger Line Files. The following is excerpted from the metadata provided by INDOT for the source shapefile DOTGIS.ROADS_TIGER05_IN.SHP: "The 2005 First Edition TIGER/Line files are an extract of selected geographic and cartographic information from the Census TIGER database. The geographic coverage for a single TIGER/Line file is a county or statistical equivalent entity, with the coverage area based on the latest available governmental unit boundaries. The Census TIGER database represents a seamless national file with no overlaps or gaps between parts. However, each county-based TIGER/Line file is designed to stand alone as an independent data set or the files can be combined to cover the whole Nation. The 2005 First Edition TIGER/Line files consist of line segments representing physical features and governmental and statistical boundaries. The files contain information distributed over a series of record types for the spatial objects of a county. There are 19 record types, including the basic data record, the shape coordinate points, and geographic codes that can be used with appropriate software to prepare maps. Other geographic information contained in the files includes attributes such as feature identifiers/census feature class codes (CFCC) used to differentiate feature types, address ranges and ZIP Codes, codes for legal and statistical entities, latitude/longitude coordinates of linear and point features, landmark point features, area landmarks, and area boundaries."",
 	"license_title": null,
 	"extras": [{
 		"key": "responsible-party",
-		"value": "[{\"name\": \"Indiana Geographic Information Council, Inc. (IGIC)\", \"roles\": [\"pointOfContact\"]}]"
+		"value": "[{"name": "Indiana Geographic Information Council, Inc. (IGIC)", "roles": ["pointOfContact"]}]"
 	},
 	{
 		"key": "contact-email",
@@ -171,7 +171,7 @@
 	},
 	{
 		"key": "dataset-reference-date",
-		"value": "[{\"type\": \"publication\", \"value\": \"2014-01-01\"}]"
+		"value": "[{"type": "publication", "value": "2014-01-01"}]"
 	},
 	{
 		"key": "resource-type",
@@ -199,7 +199,7 @@
 	},
 	{
 		"key": "licence",
-		"value": "[\"Although these data have been processed successfully on a computer system by the data steward, no warranty either expressed or implied is made regarding the utility of the data on any system, nor shall this notice generated by the Ramona GIS Inventory System or the act of distribution constitute any such warranty. The data steward may have additional liability information associated with delivery or distribution of this product.\"]"
+		"value": "["Although these data have been processed successfully on a computer system by the data steward, no warranty either expressed or implied is made regarding the utility of the data on any system, nor shall this notice generated by the Ramona GIS Inventory System or the act of distribution constitute any such warranty. The data steward may have additional liability information associated with delivery or distribution of this product."]"
 	},
 	{
 		"key": "metadata_type",
@@ -211,7 +211,7 @@
 	},
 	{
 		"key": "spatial",
-		"value": "{\"type\": \"Polygon\", \"coordinates\": [[[-88.08974457, 37.7730484], [-84.78767395, 37.7730484], [-84.78767395, 41.76232147], [-88.08974457, 41.76232147], [-88.08974457, 37.7730484]]]}"
+		"value": "{"type": "Polygon", "coordinates": [[[-88.08974457, 37.7730484], [-84.78767395, 37.7730484], [-84.78767395, 41.76232147], [-88.08974457, 41.76232147], [-88.08974457, 37.7730484]]]}"
 	},
 	{
 		"key": "guid",
@@ -223,7 +223,7 @@
 	},
 	{
 		"key": "access_constraints",
-		"value": "[\"Use Constraints: This is an incomplete metadata record and use constraints are not documented by the Ramona GIS Inventory system.\", \"Access Constraints: This is an incomplete metadata record and access constraints are not documented by the Ramona GIS Inventory system.\"]"
+		"value": "["Use Constraints: This is an incomplete metadata record and use constraints are not documented by the Ramona GIS Inventory system.", "Access Constraints: This is an incomplete metadata record and access constraints are not documented by the Ramona GIS Inventory system."]"
 	},
 	{
 		"key": "spatial_harvester",
@@ -265,7 +265,7 @@
 		"revision_timestamp": "2014-09-11T20:27:16.009304",
 		"is_organization": true,
 		"state": "active",
-		"image_url": "http:\/\/www.nsgic.org\/public_resources\/nsgic-logo-b_1321892056.gif",
+		"image_url": "http://www.nsgic.org/public_resources/nsgic-logo-b_1321892056.gif",
 		"revision_id": "979d3df0-d323-4e1e-ac62-d1623b463626",
 		"type": "organization",
 		"id": "b0b4c45b-a8ca-416b-b463-ee90d0a1a3df",

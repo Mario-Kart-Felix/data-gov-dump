@@ -37,7 +37,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2016-07-18T18:49:51.158686",
-		"url": "https:\/\/coast.noaa.gov\/dataviewer\/#\/lidar\/search\/where:ID=245",
+		"url": "https://coast.noaa.gov/dataviewer/#/lidar/search/where:ID=245",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 0,
@@ -67,7 +67,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2016-07-18T18:49:51.158713",
-		"url": "https:\/\/coast.noaa.gov\/digitalcoast\/data\/coastalifsar",
+		"url": "https://coast.noaa.gov/digitalcoast/data/coastalifsar",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 1,
@@ -97,7 +97,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2016-07-18T18:49:51.158721",
-		"url": "https:\/\/coast.noaa.gov",
+		"url": "https://coast.noaa.gov",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 2,
@@ -127,7 +127,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2016-07-18T18:49:51.158729",
-		"url": "http:\/\/www.intermap.com",
+		"url": "http://www.intermap.com",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 3,
@@ -157,7 +157,7 @@
 		"cache_url": null,
 		"name": "PDF File",
 		"created": "2016-07-18T18:49:51.158736",
-		"url": "http:\/\/www.intermap.com\/images\/handbook\/producthandbook.pdf",
+		"url": "http://www.intermap.com/images/handbook/producthandbook.pdf",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 4,
@@ -179,7 +179,7 @@
 		"revision_timestamp": "2013-03-25T23:05:12.923863",
 		"is_organization": true,
 		"state": "active",
-		"image_url": "https:\/\/fortress.wa.gov\/dfw\/score\/score\/images\/noaa_logo.png",
+		"image_url": "https://fortress.wa.gov/dfw/score/score/images/noaa_logo.png",
 		"revision_id": "c6d43080-22e1-405e-a83d-f2a512d9e867",
 		"type": "organization",
 		"id": "e811f0b4-451f-4896-9e8f-fc6802837819",
@@ -190,7 +190,7 @@
 	"name": "2005-hawaii-ifsar-digital-terrain-model-dtm",
 	"isopen": false,
 	"url": null,
-	"notes": "Intermap DEMs populate its data store. The DEM products are generated using Intermap's STAR technology (Interferometric Synthetic Aperture Radar). The system is mounted in an aircraft. The Digital Terrain Model (DTM) data product was derived from the Digital Surface Model (DSM) using Intermap's proprietary algorithm. The DTM data for 7.5-minute by 7.5-minute units correspond to the USGS 1:24,000 scale topographic quadrangle map series for areas in the United States and throughout the world. Each tile provides full coverage with overlap into adjacent tiles. Data for locations above 56 degrees North\/South are licensed in 7.5-minute by 15-minute tiles.",
+	"notes": "Intermap DEMs populate its data store. The DEM products are generated using Intermap's STAR technology (Interferometric Synthetic Aperture Radar). The system is mounted in an aircraft. The Digital Terrain Model (DTM) data product was derived from the Digital Surface Model (DSM) using Intermap's proprietary algorithm. The DTM data for 7.5-minute by 7.5-minute units correspond to the USGS 1:24,000 scale topographic quadrangle map series for areas in the United States and throughout the world. Each tile provides full coverage with overlap into adjacent tiles. Data for locations above 56 degrees North/South are licensed in 7.5-minute by 15-minute tiles.",
 	"owner_org": "e811f0b4-451f-4896-9e8f-fc6802837819",
 	"extras": [{
 		"key": "bbox-east-long",
@@ -226,7 +226,7 @@
 	},
 	{
 		"key": "spatial",
-		"value": "{\"type\": \"Polygon\", \"coordinates\": [[[-160.247, 18.874979], [-154.806, 18.874979], [-154.806, 22.232], [-160.247, 22.232], [-160.247, 18.874979]]]}"
+		"value": "{"type": "Polygon", "coordinates": [[[-160.247, 18.874979], [-154.806, 18.874979], [-154.806, 22.232], [-160.247, 22.232], [-160.247, 18.874979]]]}"
 	},
 	{
 		"key": "progress",
@@ -234,7 +234,7 @@
 	},
 	{
 		"key": "access_constraints",
-		"value": "[\"Use Constraints: Data set is not for use in litigation. While efforts have been made to ensure that these data are accurate and reliable within the state of the art, NOAA, cannot assume liability for any damages, or misrepresentations, caused by any inaccuracies in the data, or as a result of the data to be used on a particular system. NOAA makes no warranty, expressed or implied, nor does the fact of distribution constitute such a warranty.\", \"Access Constraints: None\"]"
+		"value": "["Use Constraints: Data set is not for use in litigation. While efforts have been made to ensure that these data are accurate and reliable within the state of the art, NOAA, cannot assume liability for any damages, or misrepresentations, caused by any inaccuracies in the data, or as a result of the data to be used on a particular system. NOAA makes no warranty, expressed or implied, nor does the fact of distribution constitute such a warranty.", "Access Constraints: None"]"
 	},
 	{
 		"key": "temporal-extent-begin",
@@ -254,7 +254,7 @@
 	},
 	{
 		"key": "dataset-reference-date",
-		"value": "[{\"type\": \"publication\", \"value\": \"2006-02-22\"}]"
+		"value": "[{"type": "publication", "value": "2006-02-22"}]"
 	},
 	{
 		"key": "frequency-of-update",
@@ -262,7 +262,7 @@
 	},
 	{
 		"key": "licence",
-		"value": "[\"Any conclusions drawn from the analysis of this information are not the responsibility of NOAA, the Office for Coastal Management or its partners.\"]"
+		"value": "["Any conclusions drawn from the analysis of this information are not the responsibility of NOAA, the Office for Coastal Management or its partners."]"
 	},
 	{
 		"key": "metadata_type",
@@ -270,7 +270,7 @@
 	},
 	{
 		"key": "responsible-party",
-		"value": "[{\"name\": \"Intermap Technologies Inc.\", \"roles\": [\"pointOfContact\"]}]"
+		"value": "[{"name": "Intermap Technologies Inc.", "roles": ["pointOfContact"]}]"
 	},
 	{
 		"key": "temporal-extent-end",
@@ -286,7 +286,7 @@
 	},
 	{
 		"key": "tags",
-		"value": "cartography, terrain, surface, height, photogrammetry, radar, topography, earth, sar, geography, hypsography, usa, dsm, geodesy, stereophotogrammetry, ground, geosar, orri, elevation, bald, mapping, interferometric, ifsar, star-3i(reg.), ori, ifsare, october, remote, dtm, hawaii, bathymetry\/topography, dem, 2005, insar, sensing, first",
+		"value": "cartography, terrain, surface, height, photogrammetry, radar, topography, earth, sar, geography, hypsography, usa, dsm, geodesy, stereophotogrammetry, ground, geosar, orri, elevation, bald, mapping, interferometric, ifsar, star-3i(reg.), ori, ifsare, october, remote, dtm, hawaii, bathymetry/topography, dem, 2005, insar, sensing, first",
 		"__extras": {
 			"revision_id": "84fb25c2-955f-4cc0-95e1-38306970835d",
 			"package_id": "1f2f9820-54d4-45f9-ab6e-25662c1c71b9"

@@ -36,7 +36,7 @@
 		"cache_url": null,
 		"name": "Ionosphere Digital Database Worldwide Vertical Incidence",
 		"created": "2015-10-06T17:59:50.722003",
-		"url": "http:\/\/www.ngdc.noaa.gov\/stp\/CDROM\/ionocd.html",
+		"url": "http://www.ngdc.noaa.gov/stp/CDROM/ionocd.html",
 		"webstore_url": null,
 		"resource_locator_function": "information",
 		"position": 0,
@@ -65,7 +65,7 @@
 		"cache_url": null,
 		"name": "GCMD Feedback Form",
 		"created": "2015-10-06T17:59:50.722036",
-		"url": "http:\/\/gcmd.nasa.gov\/MailComments\/MailComments.jsf?rcpt=gcmduso",
+		"url": "http://gcmd.nasa.gov/MailComments/MailComments.jsf?rcpt=gcmduso",
 		"webstore_url": null,
 		"resource_locator_function": "information",
 		"position": 1,
@@ -94,7 +94,7 @@
 		"cache_url": null,
 		"name": "GCMD Keywords Page",
 		"created": "2015-10-06T17:59:50.722043",
-		"url": "http:\/\/gcmd.nasa.gov\/learn\/keyword_list.html",
+		"url": "http://gcmd.nasa.gov/learn/keyword_list.html",
 		"webstore_url": null,
 		"resource_locator_function": "information",
 		"position": 2,
@@ -123,7 +123,7 @@
 		"cache_url": null,
 		"name": "GCMD Feedback Form",
 		"created": "2015-10-06T17:59:50.722050",
-		"url": "http:\/\/gcmd.nasa.gov\/MailComments\/MailComments.jsf?rcpt=gcmduso",
+		"url": "http://gcmd.nasa.gov/MailComments/MailComments.jsf?rcpt=gcmduso",
 		"webstore_url": null,
 		"resource_locator_function": "information",
 		"position": 3,
@@ -152,7 +152,7 @@
 		"cache_url": null,
 		"name": "GCMD Keywords Page",
 		"created": "2015-10-06T17:59:50.722056",
-		"url": "http:\/\/gcmd.nasa.gov\/learn\/keyword_list.html",
+		"url": "http://gcmd.nasa.gov/learn/keyword_list.html",
 		"webstore_url": null,
 		"resource_locator_function": "information",
 		"position": 4,
@@ -172,7 +172,7 @@
 	"name": "ionospheric-digital-database",
 	"isopen": false,
 	"url": null,
-	"notes": "The ionosphere is that part of the Earth's atmosphere that results mainly from the photo ionization of the upper atmosphere. Traditionally, the following ionospheric regions and their approximate height ranges have been designated: D region (60-90 km); E region (90-150 km); F1 region (150-250 km); and F2 region (above 250 km). Ionosondes utilize the radio wave-reflecting properties of the ionosphere. The product of the speed of light in a vacuum and half the\n                    elapsed time between vertical transmission of a single frequency electromagnetic wave and reception of the reflected wave at the transmitting location is defined as the virtual height of that frequency. A sweep-frequency ionogram is a plot of virtual height versus frequency and is recorded as instantaneously as possible. These ionospheric data consist mainly of hourly values for at least one of the following characteristics: foF2, M(3000)F2, hF2, foF1, M(3000)F1, hF, foE, hE,\n                    foE2, hE2, foEs, fbEs, hEs, fmI, and fxI. The values are five byte (character) fields. The first three bytes of the field are reserved for a numeric value; the last two bytes are reserved for the qualifying and descriptive letter, if present. There are no decimals encoded in these data. Documentation is included. There are two CD-ROM's worth of data. One contains 1957 - 1975 data; the other contains 1976-1990 data. ASCII data files and a DOS-compatible application is\n                    included.",
+	"notes": "The ionosphere is that part of the Earth's atmosphere that results mainly from the photo ionization of the upper atmosphere. Traditionally, the following ionospheric regions and their approximate height ranges have been designated: D region (60-90 km); E region (90-150 km); F1 region (150-250 km); and F2 region (above 250 km). Ionosondes utilize the radio wave-reflecting properties of the ionosphere. The product of the speed of light in a vacuum and half then                    elapsed time between vertical transmission of a single frequency electromagnetic wave and reception of the reflected wave at the transmitting location is defined as the virtual height of that frequency. A sweep-frequency ionogram is a plot of virtual height versus frequency and is recorded as instantaneously as possible. These ionospheric data consist mainly of hourly values for at least one of the following characteristics: foF2, M(3000)F2, hF2, foF1, M(3000)F1, hF, foE, hE,n                    foE2, hE2, foEs, fbEs, hEs, fmI, and fxI. The values are five byte (character) fields. The first three bytes of the field are reserved for a numeric value; the last two bytes are reserved for the qualifying and descriptive letter, if present. There are no decimals encoded in these data. Documentation is included. There are two CD-ROM's worth of data. One contains 1957 - 1975 data; the other contains 1976-1990 data. ASCII data files and a DOS-compatible application isn                    included.",
 	"license_title": null,
 	"extras": [{
 		"key": "bbox-east-long",
@@ -208,7 +208,7 @@
 	},
 	{
 		"key": "spatial",
-		"value": "{\"type\": \"Polygon\", \"coordinates\": [[[-180.0, -90.0], [180.0, -90.0], [180.0, 90.0], [-180.0, 90.0], [-180.0, -90.0]]]}"
+		"value": "{"type": "Polygon", "coordinates": [[[-180.0, -90.0], [180.0, -90.0], [180.0, 90.0], [-180.0, 90.0], [-180.0, -90.0]]]}"
 	},
 	{
 		"key": "progress",
@@ -216,7 +216,7 @@
 	},
 	{
 		"key": "access_constraints",
-		"value": "[\"Use Constraints: None\", \"Access Constraints: No Constraints\"]"
+		"value": "["Use Constraints: None", "Access Constraints: No Constraints"]"
 	},
 	{
 		"key": "temporal-extent-begin",
@@ -236,7 +236,7 @@
 	},
 	{
 		"key": "dataset-reference-date",
-		"value": "[{\"type\": \"publication\", \"value\": \"1981-01-01\"}]"
+		"value": "[{"type": "publication", "value": "1981-01-01"}]"
 	},
 	{
 		"key": "frequency-of-update",
@@ -244,7 +244,7 @@
 	},
 	{
 		"key": "licence",
-		"value": "[\"While every effort has been made to ensure that these data are accurate and reliable within the limits of the current state of the art, NOAA cannot assume liability for any damages caused by any errors or omissions in the data, nor as a result of the failure of the data to function on a particular system. NOAA makes no warranty, expressed or implied, nor does the fact of distribution constitute such a warranty.\"]"
+		"value": "["While every effort has been made to ensure that these data are accurate and reliable within the limits of the current state of the art, NOAA cannot assume liability for any damages caused by any errors or omissions in the data, nor as a result of the failure of the data to function on a particular system. NOAA makes no warranty, expressed or implied, nor does the fact of distribution constitute such a warranty."]"
 	},
 	{
 		"key": "metadata_type",
@@ -252,7 +252,7 @@
 	},
 	{
 		"key": "responsible-party",
-		"value": "[{\"name\": \"DOC\/NOAA\/NESDIS\/NCEI > National Centers for Environmental Information, NESDIS, NOAA, U.S. Department of Commerce\", \"roles\": [\"pointOfContact\"]}]"
+		"value": "[{"name": "DOC/NOAA/NESDIS/NCEI > National Centers for Environmental Information, NESDIS, NOAA, U.S. Department of Commerce", "roles": ["pointOfContact"]}]"
 	},
 	{
 		"key": "temporal-extent-end",
@@ -268,7 +268,7 @@
 	},
 	{
 		"package_id": "f4ade3e0-de3d-4953-99d5-f131a53be83c",
-		"value": "ionospheric science, global, icsu-wds, doc\/noaa\/nesdis\/ngdc, national centers for environmental information, nesdis, noaa, u.s. department of commerce, solar energetic particles, space physics, solar physics, particle density, vertical soundings, ionosonde, doc\/noaa\/nesdis\/ncei, ionosphere, national geophysical data center, nesdis, noaa, u.s. department of commerce, international council for science - world data system, earth science",
+		"value": "ionospheric science, global, icsu-wds, doc/noaa/nesdis/ngdc, national centers for environmental information, nesdis, noaa, u.s. department of commerce, solar energetic particles, space physics, solar physics, particle density, vertical soundings, ionosonde, doc/noaa/nesdis/ncei, ionosphere, national geophysical data center, nesdis, noaa, u.s. department of commerce, international council for science - world data system, earth science",
 		"revision_timestamp": "2015-10-06T21:59:50.673674",
 		"state": "active",
 		"key": "tags",
@@ -298,7 +298,7 @@
 		"revision_timestamp": "2013-03-25T23:05:12.923863",
 		"is_organization": true,
 		"state": "active",
-		"image_url": "https:\/\/fortress.wa.gov\/dfw\/score\/score\/images\/noaa_logo.png",
+		"image_url": "https://fortress.wa.gov/dfw/score/score/images/noaa_logo.png",
 		"revision_id": "c6d43080-22e1-405e-a83d-f2a512d9e867",
 		"type": "organization",
 		"id": "e811f0b4-451f-4896-9e8f-fc6802837819",

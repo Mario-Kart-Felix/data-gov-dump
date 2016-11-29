@@ -37,7 +37,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2014-05-02T16:06:41.241899",
-		"url": "http:\/\/www.dnr.state.mn.us\/maps\/mntopo\/index.html",
+		"url": "http://www.dnr.state.mn.us/maps/mntopo/index.html",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 0,
@@ -110,7 +110,7 @@
 	},
 	{
 		"key": "spatial",
-		"value": "{\"type\": \"Polygon\", \"coordinates\": [[[-93.144138, 45.294135], [-92.641809, 45.294135], [-92.641809, 45.732329], [-93.144138, 45.732329], [-93.144138, 45.294135]]]}"
+		"value": "{"type": "Polygon", "coordinates": [[[-93.144138, 45.294135], [-92.641809, 45.294135], [-92.641809, 45.732329], [-93.144138, 45.732329], [-93.144138, 45.294135]]]}"
 	},
 	{
 		"key": "progress",
@@ -118,7 +118,7 @@
 	},
 	{
 		"key": "access_constraints",
-		"value": "[\"Use Constraints: The topographic data represents the results of data collection\/processing for Chisago County and indicates the existing general conditions. As such, they are only valid for their intended use, content, time and accuracy specifications. The user is responsible for the results of any application of data other than its intended purposes.\", \"Access Constraints: None\"]"
+		"value": "["Use Constraints: The topographic data represents the results of data collection/processing for Chisago County and indicates the existing general conditions. As such, they are only valid for their intended use, content, time and accuracy specifications. The user is responsible for the results of any application of data other than its intended purposes.", "Access Constraints: None"]"
 	},
 	{
 		"key": "contact-email",
@@ -134,7 +134,7 @@
 	},
 	{
 		"key": "dataset-reference-date",
-		"value": "[{\"type\": \"publication\", \"value\": \"2008-01-01\"}]"
+		"value": "[{"type": "publication", "value": "2008-01-01"}]"
 	},
 	{
 		"key": "frequency-of-update",
@@ -142,7 +142,7 @@
 	},
 	{
 		"key": "licence",
-		"value": "[\"1. Chisago County:  The digital vector data represents the results of data collection\/processing for Chisago, MN and indicates the general conditions existing at the time of flight.  As such, it is only valid for its intended use, content, time and accuracy specifications.  The user is responsible for the results of any application of the data other than for its intended purpose.\\n\\n2. Minnesota Department of Natural Resources General Geographic Data License Agreement is online: http:\/\/www.dnr.state.mn.us\/sitetools\/data_software_license.html \\n\\n3. MnGeo's data disclaimer is online: http:\/\/www.mngeo.state.mn.us\/chouse\/disclaimer.html\"]"
+		"value": "["1. Chisago County:  The digital vector data represents the results of data collection/processing for Chisago, MN and indicates the general conditions existing at the time of flight.  As such, it is only valid for its intended use, content, time and accuracy specifications.  The user is responsible for the results of any application of the data other than for its intended purpose.\n\n2. Minnesota Department of Natural Resources General Geographic Data License Agreement is online: http://www.dnr.state.mn.us/sitetools/data_software_license.html \n\n3. MnGeo's data disclaimer is online: http://www.mngeo.state.mn.us/chouse/disclaimer.html"]"
 	},
 	{
 		"key": "metadata_type",
@@ -150,7 +150,7 @@
 	},
 	{
 		"key": "responsible-party",
-		"value": "[{\"name\": \"Chisago County\", \"roles\": [\"pointOfContact\"]}]"
+		"value": "[{"name": "Chisago County", "roles": ["pointOfContact"]}]"
 	},
 	{
 		"key": "spatial-data-service-type",
@@ -192,7 +192,7 @@
 		"revision_timestamp": "2013-03-27T17:32:06.049250",
 		"is_organization": true,
 		"state": "active",
-		"image_url": "http:\/\/mn.gov\/portal\/images\/mn_header_mn-logo.png",
+		"image_url": "http://mn.gov/portal/images/mn_header_mn-logo.png",
 		"revision_id": "018d8409-7698-467f-8dc2-c58188806480",
 		"type": "organization",
 		"id": "24298fe4-ee0d-43ae-af51-81ae5f5c6165",

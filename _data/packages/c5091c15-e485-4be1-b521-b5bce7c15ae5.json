@@ -37,7 +37,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2015-09-26T18:50:01.091777",
-		"url": "ftp:\/\/ftp.cpc.ncep.noaa.gov\/wd53rl\/ssu\/",
+		"url": "ftp://ftp.cpc.ncep.noaa.gov/wd53rl/ssu/",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 0,
@@ -67,7 +67,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2015-09-26T18:50:01.091807",
-		"url": "ftp:\/\/ftp.cpc.ncep.noaa.gov\/wd53rl\/ssu\/",
+		"url": "ftp://ftp.cpc.ncep.noaa.gov/wd53rl/ssu/",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 1,
@@ -123,7 +123,7 @@
 	},
 	{
 		"key": "spatial",
-		"value": "{\"type\": \"Polygon\", \"coordinates\": [[[-180.0, -70.0], [180.0, -70.0], [180.0, 70.0], [-180.0, 70.0], [-180.0, -70.0]]]}"
+		"value": "{"type": "Polygon", "coordinates": [[[-180.0, -70.0], [180.0, -70.0], [180.0, 70.0], [-180.0, 70.0], [-180.0, -70.0]]]}"
 	},
 	{
 		"key": "progress",
@@ -131,7 +131,7 @@
 	},
 	{
 		"key": "access_constraints",
-		"value": "[\"Access Constraints: None Use Constraints: Acknowledgment of the Data Originator when using the data item as a source. Distribution Liability: Refer the NOAA National Weather Service disclaimerhttp:\/\/www.weather.gov\/disclaimer.php\"]"
+		"value": "["Access Constraints: None Use Constraints: Acknowledgment of the Data Originator when using the data item as a source. Distribution Liability: Refer the NOAA National Weather Service disclaimerhttp://www.weather.gov/disclaimer.php"]"
 	},
 	{
 		"key": "temporal-extent-begin",
@@ -151,7 +151,7 @@
 	},
 	{
 		"key": "dataset-reference-date",
-		"value": "[{\"type\": \"publication\", \"value\": \"2009-01-30\"}]"
+		"value": "[{"type": "publication", "value": "2009-01-30"}]"
 	},
 	{
 		"key": "frequency-of-update",
@@ -167,7 +167,7 @@
 	},
 	{
 		"key": "responsible-party",
-		"value": "[{\"name\": \"Climate Prediction Center, NOAA\", \"roles\": [\"pointOfContact\"]}]"
+		"value": "[{"name": "Climate Prediction Center, NOAA", "roles": ["pointOfContact"]}]"
 	},
 	{
 		"key": "temporal-extent-end",
@@ -213,7 +213,7 @@
 		"revision_timestamp": "2013-03-25T23:05:12.923863",
 		"is_organization": true,
 		"state": "active",
-		"image_url": "https:\/\/fortress.wa.gov\/dfw\/score\/score\/images\/noaa_logo.png",
+		"image_url": "https://fortress.wa.gov/dfw/score/score/images/noaa_logo.png",
 		"revision_id": "c6d43080-22e1-405e-a83d-f2a512d9e867",
 		"type": "organization",
 		"id": "e811f0b4-451f-4896-9e8f-fc6802837819",

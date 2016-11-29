@@ -36,7 +36,7 @@
 		"cache_url": null,
 		"name": "NDGIS web site",
 		"created": "2013-12-07T04:05:32.861776",
-		"url": "http:\/\/www.nd.gov\/gis",
+		"url": "http://www.nd.gov/gis",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 0,
@@ -65,7 +65,7 @@
 		"cache_url": null,
 		"name": "Download USDA-FSA-APFO Aerial Photography 2003",
 		"created": "2013-12-07T04:05:32.861803",
-		"url": "http:\/\/gisdata.nd.gov\/NAIP\/2003\/",
+		"url": "http://gisdata.nd.gov/NAIP/2003/",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 1,
@@ -94,7 +94,7 @@
 		"cache_url": null,
 		"name": "Statewide_2003",
 		"created": "2013-12-07T04:05:32.861812",
-		"url": "http:\/\/ndgishub.nd.gov\/arcgis\/services\/All_Imagery\/MapServer\/WMSServer?",
+		"url": "http://ndgishub.nd.gov/arcgis/services/All_Imagery/MapServer/WMSServer?",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 2,
@@ -123,7 +123,7 @@
 		"cache_url": null,
 		"name": "Esri REST including WMS and WCS",
 		"created": "2013-12-07T04:05:32.861819",
-		"url": "http:\/\/ndgishub.nd.gov\/ArcGIS\/rest\/services\/All_Imagery\/MapServer",
+		"url": "http://ndgishub.nd.gov/ArcGIS/rest/services/All_Imagery/MapServer",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 3,
@@ -156,7 +156,7 @@
 	"name": "usda-fsa-apfo-aerial-photography-2003",
 	"isopen": false,
 	"url": null,
-	"notes": "This data set contains imagery from the National Agricultural Imagery Program (NAIP). NAIP acquires digital ortho imagery during the agricultural growing seasons in the continental U.S.. A primary goal of the NAIP program is to enable availabilty of ortho imagery within a year of acquisition. NAIP provides two main products: 1 meter ground sample distance (GSD) ortho imagery rectified to a horizontal accuracy of within +\/- 3 meters of reference digital ortho quarter quads (DOQQS) from the National Digital Ortho Program (NDOP); and, 2 meter GSD ortho imagery rectified to within +\/- 20 meters of reference DOQQs. The tiling format of NAIP imagery is based on a 3.75' x 3.75' quarter quadrangle with a 360 meter buffer on all four sides. NAIP quarter quads are rectified to the UTM coordinate system NAD83. NAIP imagery can obtain as much as 10% cloud cover per tile.",
+	"notes": "This data set contains imagery from the National Agricultural Imagery Program (NAIP). NAIP acquires digital ortho imagery during the agricultural growing seasons in the continental U.S.. A primary goal of the NAIP program is to enable availabilty of ortho imagery within a year of acquisition. NAIP provides two main products: 1 meter ground sample distance (GSD) ortho imagery rectified to a horizontal accuracy of within +/- 3 meters of reference digital ortho quarter quads (DOQQS) from the National Digital Ortho Program (NDOP); and, 2 meter GSD ortho imagery rectified to within +/- 20 meters of reference DOQQs. The tiling format of NAIP imagery is based on a 3.75' x 3.75' quarter quadrangle with a 360 meter buffer on all four sides. NAIP quarter quads are rectified to the UTM coordinate system NAD83. NAIP imagery can obtain as much as 10% cloud cover per tile.",
 	"license_title": null,
 	"extras": [{
 		"key": "bbox-east-long",
@@ -200,7 +200,7 @@
 	},
 	{
 		"key": "spatial",
-		"value": "{\"type\": \"Polygon\", \"coordinates\": [[[-104.5, 45.5], [-96.5, 45.5], [-96.5, 49.5], [-104.5, 49.5], [-104.5, 45.5]]]}"
+		"value": "{"type": "Polygon", "coordinates": [[[-104.5, 45.5], [-96.5, 45.5], [-96.5, 49.5], [-104.5, 49.5], [-104.5, 45.5]]]}"
 	},
 	{
 		"key": "progress",
@@ -208,7 +208,7 @@
 	},
 	{
 		"key": "access_constraints",
-		"value": "[\"The Aerial Photography Field Office asks to be credited in derived products.\", \"There are no limitations for access.\", \"In no event shall the creators, custodians, or distributors of this information be liable for any damages arising out of its use ( or the inability to use it).\"]"
+		"value": "["The Aerial Photography Field Office asks to be credited in derived products.", "There are no limitations for access.", "In no event shall the creators, custodians, or distributors of this information be liable for any damages arising out of its use ( or the inability to use it)."]"
 	},
 	{
 		"key": "contact-email",
@@ -224,7 +224,7 @@
 	},
 	{
 		"key": "dataset-reference-date",
-		"value": "[{\"type\": \"publication\", \"value\": \"2003-10-01\"}]"
+		"value": "[{"type": "publication", "value": "2003-10-01"}]"
 	},
 	{
 		"key": "graphic-preview-description",
@@ -244,7 +244,7 @@
 	},
 	{
 		"key": "responsible-party",
-		"value": "[{\"name\": \"USDA-FSA Aerial Photography Field Office and North Dakota Game and Fish Department\", \"roles\": [\"pointOfContact\"]}]"
+		"value": "[{"name": "USDA-FSA Aerial Photography Field Office and North Dakota Game and Fish Department", "roles": ["pointOfContact"]}]"
 	},
 	{
 		"key": "spatial-data-service-type",
@@ -279,14 +279,14 @@
 		"value": "North Dakota GIS Hub Data Portal"
 	}],
 	"organization": {
-		"description": "The GIS Hub is the state source for GIS - data, services, and information.  More information can be found at www.nd.gov\/gis.",
+		"description": "The GIS Hub is the state source for GIS - data, services, and information.  More information can be found at www.nd.gov/gis.",
 		"created": "2013-03-14T03:44:44.340717",
 		"title": "State of North Dakota",
 		"name": "nd-gov",
 		"revision_timestamp": "2013-07-15T16:27:30.098476",
 		"is_organization": true,
 		"state": "active",
-		"image_url": "http:\/\/www.nd.gov\/gis\/images\/ndgis-logo.gif",
+		"image_url": "http://www.nd.gov/gis/images/ndgis-logo.gif",
 		"revision_id": "27517bb9-815c-4d4f-b45b-b88b6316697b",
 		"type": "organization",
 		"id": "1c782de6-9f1f-4427-93fd-33732e29970f",

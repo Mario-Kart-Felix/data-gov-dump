@@ -37,7 +37,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2015-12-20T13:40:36.970925",
-		"url": "http:\/\/data.nodc.noaa.gov\/accession\/0002805",
+		"url": "http://data.nodc.noaa.gov/accession/0002805",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 0,
@@ -59,7 +59,7 @@
 		"revision_timestamp": "2013-03-25T23:05:12.923863",
 		"is_organization": true,
 		"state": "active",
-		"image_url": "https:\/\/fortress.wa.gov\/dfw\/score\/score\/images\/noaa_logo.png",
+		"image_url": "https://fortress.wa.gov/dfw/score/score/images/noaa_logo.png",
 		"revision_id": "c6d43080-22e1-405e-a83d-f2a512d9e867",
 		"type": "organization",
 		"id": "e811f0b4-451f-4896-9e8f-fc6802837819",
@@ -70,11 +70,11 @@
 	"name": "chlorophyll-data-from-the-old-outfall-site-in-the-south-sector-of-kaneohe-bay-oahu-hawaii-febru",
 	"isopen": false,
 	"url": null,
-	"notes": "Kaneohe Bay received increasing amounts of sewage from the 1950s through 1977. Most sewage was diverted from the bay in 1977 and early 1978. Data were collected beginning in September 1976 and continued until June 1979. The time series was re-established in June 1982 and continued to December 2005, when it was terminated. The sampling was at 1 m depth in the south sector of Kaneohe Bay, Oahu near the old outfall that ceased in 1977. Previous NODC Accessions 0000396 (1976-1979) and 0000422 (1982-1\/2001) contained monthly averages of chlorophyll a, based on weekly to bi-weekly samples. This data set has the weekly to bi-weekly chlorophyll a, pheo, water temperature, secchi depth, and sample site depth. Additional data were taken from June 2004 - December 2005 and these will be available in a separate data set.",
+	"notes": "Kaneohe Bay received increasing amounts of sewage from the 1950s through 1977. Most sewage was diverted from the bay in 1977 and early 1978. Data were collected beginning in September 1976 and continued until June 1979. The time series was re-established in June 1982 and continued to December 2005, when it was terminated. The sampling was at 1 m depth in the south sector of Kaneohe Bay, Oahu near the old outfall that ceased in 1977. Previous NODC Accessions 0000396 (1976-1979) and 0000422 (1982-1/2001) contained monthly averages of chlorophyll a, based on weekly to bi-weekly samples. This data set has the weekly to bi-weekly chlorophyll a, pheo, water temperature, secchi depth, and sample site depth. Additional data were taken from June 2004 - December 2005 and these will be available in a separate data set.",
 	"owner_org": "e811f0b4-451f-4896-9e8f-fc6802837819",
 	"extras": [{
 		"key": "bbox-east-long",
-		"value": "\n          -157.775\n        "
+		"value": "n          -157.775n        "
 	},
 	{
 		"key": "resource-type",
@@ -82,7 +82,7 @@
 	},
 	{
 		"key": "bbox-north-lat",
-		"value": "\n          21.4116\n        "
+		"value": "n          21.4116n        "
 	},
 	{
 		"key": "coupled-resource",
@@ -98,7 +98,7 @@
 	},
 	{
 		"key": "bbox-south-lat",
-		"value": "\n          21.4116\n        "
+		"value": "n          21.4116n        "
 	},
 	{
 		"key": "spatial-reference-system",
@@ -106,7 +106,7 @@
 	},
 	{
 		"key": "spatial",
-		"value": "{\"type\": \"Point\", \"coordinates\": [-157.775, 21.4116]}"
+		"value": "{"type": "Point", "coordinates": [-157.775, 21.4116]}"
 	},
 	{
 		"key": "progress",
@@ -114,7 +114,7 @@
 	},
 	{
 		"key": "access_constraints",
-		"value": "[\"Use Constraints: Dataset credit required\", \"Access Constraints: None\"]"
+		"value": "["Use Constraints: Dataset credit required", "Access Constraints: None"]"
 	},
 	{
 		"key": "temporal-extent-begin",
@@ -126,7 +126,7 @@
 	},
 	{
 		"key": "bbox-west-long",
-		"value": "\n          -157.775\n        "
+		"value": "n          -157.775n        "
 	},
 	{
 		"key": "metadata-date",
@@ -134,7 +134,7 @@
 	},
 	{
 		"key": "dataset-reference-date",
-		"value": "[{\"type\": \"publication\", \"value\": \"\"}]"
+		"value": "[{"type": "publication", "value": ""}]"
 	},
 	{
 		"key": "frequency-of-update",
@@ -142,7 +142,7 @@
 	},
 	{
 		"key": "licence",
-		"value": "[\"\\n      NOAA makes no warranty regarding these data,expressed or implied, nor does the fact of distribution constitute such a warranty.  NOAA, NESDIS, NODC and NCDDC cannot assume liability for any damages caused by any errors or omissions in these data, nor as a result of the failure of these data to function on a particular system.\\n    \"]"
+		"value": "["\n      NOAA makes no warranty regarding these data,expressed or implied, nor does the fact of distribution constitute such a warranty.  NOAA, NESDIS, NODC and NCDDC cannot assume liability for any damages caused by any errors or omissions in these data, nor as a result of the failure of these data to function on a particular system.\n    "]"
 	},
 	{
 		"key": "metadata_type",
@@ -150,7 +150,7 @@
 	},
 	{
 		"key": "responsible-party",
-		"value": "[{\"name\": \"Department of Oceanography, SOEST, University of Hawaii at Manoa\", \"roles\": [\"pointOfContact\"]}]"
+		"value": "[{"name": "Department of Oceanography, SOEST, University of Hawaii at Manoa", "roles": ["pointOfContact"]}]"
 	},
 	{
 		"key": "temporal-extent-end",
@@ -166,7 +166,7 @@
 	},
 	{
 		"key": "tags",
-		"value": "surface waters, 1 m depth of samples, water temperature (deg c), numeric data sets, pheo (mg per cubic meter or ug\/l), site depth (meters), chlorophylls, biosphere, microbiota, pacific ocean, pigments, oahu, water quality, coastal studies, secchi depth (meters), earth science, kaneohe bay, old outfall site, chlorophyll concentrations (mg per cubic meter, or ug\/l)",
+		"value": "surface waters, 1 m depth of samples, water temperature (deg c), numeric data sets, pheo (mg per cubic meter or ug/l), site depth (meters), chlorophylls, biosphere, microbiota, pacific ocean, pigments, oahu, water quality, coastal studies, secchi depth (meters), earth science, kaneohe bay, old outfall site, chlorophyll concentrations (mg per cubic meter, or ug/l)",
 		"__extras": {
 			"package_id": "82670dcb-9935-42aa-b341-5032ae1990b4",
 			"revision_id": "99979447-ef6b-429d-bae3-6390af25eeae"

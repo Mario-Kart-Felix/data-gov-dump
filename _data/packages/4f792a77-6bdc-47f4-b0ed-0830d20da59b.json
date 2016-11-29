@@ -37,7 +37,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2016-09-19T16:58:50.966902",
-		"url": "https:\/\/www.pifsc.noaa.gov\/cred\/ocean_and_climate_change.php",
+		"url": "https://www.pifsc.noaa.gov/cred/ocean_and_climate_change.php",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 0,
@@ -57,11 +57,11 @@
 	"name": "cred-coral-reef-early-warning-system-crews-enhanced-buoy-environmental-data-logger-edl-pria-pal86455",
 	"isopen": false,
 	"url": null,
-	"notes": "CREWS Enhanced (CREWS-ENH) buoys are equipped to sea surface measure water temperature and conductivity (Sea-Bird Model SBE37-SM, Sea-Bird Electronics, Inc., www.seabird.com); PAR, UV305 nm, UV330 nm and UV380 nm (Biospherical BIC2104U) at 1 m (nominal) below the water line and air temperature (R.M Young Model 41342); barometric pressure (Heise DXD); wind vectors (Vaisala WAS425A); PAR, UV305 nm, UV330 nm and UV380 nm (Biospherical BIC2104R) at 2 m (nominal) above the water line. A compass (KVH C100 SE-25) is used in the calculation of wind direction and a GPS system provides geolocation. CREWS-ENH buoys telemeter hourly data in near-real-time (NRT). Data telemetry serves to alert researchers to the potential of imminent or ongoing coral reef bleaching or other natural events (hurricanes, storm damage, cooling, etc.) so that additional field observations and data collection efforts can be initiated, if warranted. NRT data is available at https:\/\/www.pifsc.noaa.gov\/cred\/ocean_and_climate_change.php and is updated on a daily basis. When a buoy is recovered, a higher resolution (typically a 1800 second sampling interval) dataset is uploaded from the buoy's Environmental Data Logger (EDL). Please contact CRED with any questions. For program information see the web site https:\/\/www.pifsc.noaa.gov\/cred\/ocean_and_climate_change.php",
+	"notes": "CREWS Enhanced (CREWS-ENH) buoys are equipped to sea surface measure water temperature and conductivity (Sea-Bird Model SBE37-SM, Sea-Bird Electronics, Inc., www.seabird.com); PAR, UV305 nm, UV330 nm and UV380 nm (Biospherical BIC2104U) at 1 m (nominal) below the water line and air temperature (R.M Young Model 41342); barometric pressure (Heise DXD); wind vectors (Vaisala WAS425A); PAR, UV305 nm, UV330 nm and UV380 nm (Biospherical BIC2104R) at 2 m (nominal) above the water line. A compass (KVH C100 SE-25) is used in the calculation of wind direction and a GPS system provides geolocation. CREWS-ENH buoys telemeter hourly data in near-real-time (NRT). Data telemetry serves to alert researchers to the potential of imminent or ongoing coral reef bleaching or other natural events (hurricanes, storm damage, cooling, etc.) so that additional field observations and data collection efforts can be initiated, if warranted. NRT data is available at https://www.pifsc.noaa.gov/cred/ocean_and_climate_change.php and is updated on a daily basis. When a buoy is recovered, a higher resolution (typically a 1800 second sampling interval) dataset is uploaded from the buoy's Environmental Data Logger (EDL). Please contact CRED with any questions. For program information see the web site https://www.pifsc.noaa.gov/cred/ocean_and_climate_change.php",
 	"license_title": null,
 	"extras": [{
 		"key": "bbox-east-long",
-		"value": "\n          -162.10280\n        "
+		"value": "n          -162.10280n        "
 	},
 	{
 		"key": "resource-type",
@@ -69,7 +69,7 @@
 	},
 	{
 		"key": "bbox-north-lat",
-		"value": "\n          05.88468\n        "
+		"value": "n          05.88468n        "
 	},
 	{
 		"key": "coupled-resource",
@@ -85,7 +85,7 @@
 	},
 	{
 		"key": "bbox-south-lat",
-		"value": "\n          05.88463\n        "
+		"value": "n          05.88463n        "
 	},
 	{
 		"key": "spatial-reference-system",
@@ -93,7 +93,7 @@
 	},
 	{
 		"key": "spatial",
-		"value": "{\"type\": \"Polygon\", \"coordinates\": [[[-162.10289, 5.88463], [-162.1028, 5.88463], [-162.1028, 5.88468], [-162.10289, 5.88468], [-162.10289, 5.88463]]]}"
+		"value": "{"type": "Polygon", "coordinates": [[[-162.10289, 5.88463], [-162.1028, 5.88463], [-162.1028, 5.88468], [-162.10289, 5.88468], [-162.10289, 5.88463]]]}"
 	},
 	{
 		"key": "progress",
@@ -101,7 +101,7 @@
 	},
 	{
 		"key": "access_constraints",
-		"value": "[\"Use Constraints: These oceanographic data are PRELIMINARY data and have not been screened for accuracy. NOAA can not be held liable for use of these data in a manner other than for perusal of preliminary oceanographic data for scientific research on coral reefs ecosystems.\", \"Access Constraints: None\"]"
+		"value": "["Use Constraints: These oceanographic data are PRELIMINARY data and have not been screened for accuracy. NOAA can not be held liable for use of these data in a manner other than for perusal of preliminary oceanographic data for scientific research on coral reefs ecosystems.", "Access Constraints: None"]"
 	},
 	{
 		"key": "temporal-extent-begin",
@@ -113,7 +113,7 @@
 	},
 	{
 		"key": "bbox-west-long",
-		"value": "\n          -162.10289\n        "
+		"value": "n          -162.10289n        "
 	},
 	{
 		"key": "metadata-date",
@@ -121,7 +121,7 @@
 	},
 	{
 		"key": "dataset-reference-date",
-		"value": "[{\"type\": \"publication\", \"value\": \"2009-10-23\"}]"
+		"value": "[{"type": "publication", "value": "2009-10-23"}]"
 	},
 	{
 		"key": "frequency-of-update",
@@ -129,7 +129,7 @@
 	},
 	{
 		"key": "licence",
-		"value": "[\"\\n      These oceanographic data are PRELIMINARY data and have not been screened for accuracy. NOAA can not be held liable for use of these data in a manner other than for perusal of preliminary oceanographic data for scientific research on coral reefs ecosystems. Disclaimer - NOAA makes no warranty regarding these data, expressed or implied, nor does the fact of distribution constitute such a warranty. NOAA and NODC cannot assume liability for any damages caused by any errors or omissions in these data, nor as a result of the failure of these data to function on a particular system.\\n    \"]"
+		"value": "["\n      These oceanographic data are PRELIMINARY data and have not been screened for accuracy. NOAA can not be held liable for use of these data in a manner other than for perusal of preliminary oceanographic data for scientific research on coral reefs ecosystems. Disclaimer - NOAA makes no warranty regarding these data, expressed or implied, nor does the fact of distribution constitute such a warranty. NOAA and NODC cannot assume liability for any damages caused by any errors or omissions in these data, nor as a result of the failure of these data to function on a particular system.\n    "]"
 	},
 	{
 		"key": "metadata_type",
@@ -137,7 +137,7 @@
 	},
 	{
 		"key": "responsible-party",
-		"value": "[{\"name\": \"Coral Reef Ecosystem Division (CRED), Pacific Islands Fisheries Science Center (PIFSC), National Marine Fisheries Service (NMFS), National Oceanic and Atmospheric Administration (NOAA)\", \"roles\": [\"pointOfContact\"]}]"
+		"value": "[{"name": "Coral Reef Ecosystem Division (CRED), Pacific Islands Fisheries Science Center (PIFSC), National Marine Fisheries Service (NMFS), National Oceanic and Atmospheric Administration (NOAA)", "roles": ["pointOfContact"]}]"
 	},
 	{
 		"key": "temporal-extent-end",
@@ -153,7 +153,7 @@
 	},
 	{
 		"package_id": "4f792a77-6bdc-47f4-b0ed-0830d20da59b",
-		"value": "atmosphere, ultraviolet radiation, solar irradiance, united states of america, pacific ocean, air temperature, ocean optics, line islands, sea level pressure, zoology, earth science, environmental data logger (edl), oceanography, in situ physical, crews (coral reef early warning system), atmospheric pressure, reef assessment and monitoring program (ramp), coastal processes, country\/territory, palmyra atoll (05n162w0001), instrumented buoy, coral reef early warning system (crews) enhanced buoy, usa minor outlying islands, coral diseases, radiation budget, numeric data sets, atmospheric temperature, oceanographic, central pacific ocean, oceans, bleaching, pal_ocean_001, ocean basin, in situ meteorological, sea surface temperature (sst), palmyra atoll, pacific remote island areas, moored, atmospheric winds, photosynthetically active radiation, biosphere, coral reefs, reef monitoring and assessment, surface pressure, mooring, corals, coral reef ecosystem division (cred), noaa pacific islands fisheries science center, surface winds",
+		"value": "atmosphere, ultraviolet radiation, solar irradiance, united states of america, pacific ocean, air temperature, ocean optics, line islands, sea level pressure, zoology, earth science, environmental data logger (edl), oceanography, in situ physical, crews (coral reef early warning system), atmospheric pressure, reef assessment and monitoring program (ramp), coastal processes, country/territory, palmyra atoll (05n162w0001), instrumented buoy, coral reef early warning system (crews) enhanced buoy, usa minor outlying islands, coral diseases, radiation budget, numeric data sets, atmospheric temperature, oceanographic, central pacific ocean, oceans, bleaching, pal_ocean_001, ocean basin, in situ meteorological, sea surface temperature (sst), palmyra atoll, pacific remote island areas, moored, atmospheric winds, photosynthetically active radiation, biosphere, coral reefs, reef monitoring and assessment, surface pressure, mooring, corals, coral reef ecosystem division (cred), noaa pacific islands fisheries science center, surface winds",
 		"revision_timestamp": "2015-09-26T22:52:54.543597",
 		"state": "active",
 		"key": "tags",
@@ -183,7 +183,7 @@
 		"revision_timestamp": "2013-03-25T23:05:12.923863",
 		"is_organization": true,
 		"state": "active",
-		"image_url": "https:\/\/fortress.wa.gov\/dfw\/score\/score\/images\/noaa_logo.png",
+		"image_url": "https://fortress.wa.gov/dfw/score/score/images/noaa_logo.png",
 		"revision_id": "c6d43080-22e1-405e-a83d-f2a512d9e867",
 		"type": "organization",
 		"id": "e811f0b4-451f-4896-9e8f-fc6802837819",

@@ -37,7 +37,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2015-09-26T18:51:20.405174",
-		"url": "ftp:\/\/sidads.colorado.edu\/pub\/DATASETS\/NOAA\/G00799\/",
+		"url": "ftp://sidads.colorado.edu/pub/DATASETS/NOAA/G00799/",
 		"webstore_url": null,
 		"resource_locator_function": "function",
 		"position": 0,
@@ -67,7 +67,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2015-09-26T18:51:20.405202",
-		"url": "http:\/\/nsidc.org\/data\/docs\/noaa\/g00799_arctic_southern_sea_ice\/index.html",
+		"url": "http://nsidc.org/data/docs/noaa/g00799_arctic_southern_sea_ice/index.html",
 		"webstore_url": null,
 		"resource_locator_function": "function",
 		"position": 1,
@@ -85,7 +85,7 @@
 		"last_modified": null,
 		"hash": "",
 		"description": "",
-		"format": "application\/vnd.lotus-organizer",
+		"format": "application/vnd.lotus-organizer",
 		"tracking_summary": {
 			"total": 85,
 			"recent": 4
@@ -97,7 +97,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2015-09-26T18:51:20.405211",
-		"url": "http:\/\/nsidc.org",
+		"url": "http://nsidc.org",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 2,
@@ -127,7 +127,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2015-09-26T18:51:20.405219",
-		"url": "http:\/\/nsidc.org\/noaa\/",
+		"url": "http://nsidc.org/noaa/",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 3,
@@ -145,7 +145,7 @@
 		"last_modified": null,
 		"hash": "",
 		"description": "",
-		"format": "application\/vnd.lotus-organizer",
+		"format": "application/vnd.lotus-organizer",
 		"tracking_summary": {
 			"total": 85,
 			"recent": 4
@@ -157,7 +157,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2015-09-26T18:51:20.405227",
-		"url": "http:\/\/nsidc.org",
+		"url": "http://nsidc.org",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 4,
@@ -177,7 +177,7 @@
 	"name": "arctic-and-southern-ocean-sea-ice-concentrations",
 	"isopen": false,
 	"url": null,
-	"notes": "\nMonthly sea ice concentration for Arctic (1901 to 1995) and Southern oceans (1973 to 1990) were digitized on a standard 1-degree grid (cylindrical projection) to provide a relatively uniform set of sea ice extent for all longitudes, as a basis for hemispheric scale studies of observed sea ice fluctuations (Walsh 1978). The Arctic grid covers the Arctic Ocean and portions of peripheral seas where sea ice occurs during all or part of the year. The Southern Ocean grid extends to approximately 50 degrees south latitude. Potential uses of this data set include statistical analysis of anomalies in different regions, computing regional and hemispheric trends, and modeling the high latitude surface energy budget. Data sources are U.S. Fleet Weather Facility, U.S. Navy National Ice Center (formerly Navy\/NOAA Joint Ice Center), U.S. Naval Oceanographic Office, Canadian Department of Transport, British Meteorological Office, Danish Meteorological Institute, Norwegian Polar Institute, and Icelandic ice summaries.Data are available via ftp. Software to select and print grids by date is also available.\n",
+	"notes": "nMonthly sea ice concentration for Arctic (1901 to 1995) and Southern oceans (1973 to 1990) were digitized on a standard 1-degree grid (cylindrical projection) to provide a relatively uniform set of sea ice extent for all longitudes, as a basis for hemispheric scale studies of observed sea ice fluctuations (Walsh 1978). The Arctic grid covers the Arctic Ocean and portions of peripheral seas where sea ice occurs during all or part of the year. The Southern Ocean grid extends to approximately 50 degrees south latitude. Potential uses of this data set include statistical analysis of anomalies in different regions, computing regional and hemispheric trends, and modeling the high latitude surface energy budget. Data sources are U.S. Fleet Weather Facility, U.S. Navy National Ice Center (formerly Navy/NOAA Joint Ice Center), U.S. Naval Oceanographic Office, Canadian Department of Transport, British Meteorological Office, Danish Meteorological Institute, Norwegian Polar Institute, and Icelandic ice summaries.Data are available via ftp. Software to select and print grids by date is also available.n",
 	"license_title": null,
 	"extras": [{
 		"key": "bbox-east-long",
@@ -213,7 +213,7 @@
 	},
 	{
 		"key": "spatial",
-		"value": "{\"type\": \"Polygon\", \"coordinates\": [[[-180.0, -90.0], [180.0, -90.0], [180.0, 90.0], [-180.0, 90.0], [-180.0, -90.0]]]}"
+		"value": "{"type": "Polygon", "coordinates": [[[-180.0, -90.0], [180.0, -90.0], [180.0, 90.0], [-180.0, 90.0], [-180.0, -90.0]]]}"
 	},
 	{
 		"key": "progress",
@@ -221,7 +221,7 @@
 	},
 	{
 		"key": "access_constraints",
-		"value": "[\"Access Constraints : none\", \"Use Constraints : none\"]"
+		"value": "["Access Constraints : none", "Use Constraints : none"]"
 	},
 	{
 		"key": "temporal-extent-begin",
@@ -241,7 +241,7 @@
 	},
 	{
 		"key": "dataset-reference-date",
-		"value": "[{\"type\": \"publication\", \"value\": \"1991-01-01\"}]"
+		"value": "[{"type": "publication", "value": "1991-01-01"}]"
 	},
 	{
 		"key": "frequency-of-update",
@@ -257,7 +257,7 @@
 	},
 	{
 		"key": "responsible-party",
-		"value": "[{\"name\": \"\", \"roles\": [\"principalInvestigator\"]}, {\"name\": \"University of Illinois at Urbana-Champaign\", \"roles\": [\"principalInvestigator\"]}, {\"name\": \"University of Illinois\", \"roles\": [\"pointOfContact\"]}, {\"name\": \"National Snow and Ice Data Center\", \"roles\": [\"pointOfContact\"]}]"
+		"value": "[{"name": "", "roles": ["principalInvestigator"]}, {"name": "University of Illinois at Urbana-Champaign", "roles": ["principalInvestigator"]}, {"name": "University of Illinois", "roles": ["pointOfContact"]}, {"name": "National Snow and Ice Data Center", "roles": ["pointOfContact"]}]"
 	},
 	{
 		"key": "temporal-extent-end",
@@ -273,7 +273,7 @@
 	},
 	{
 		"package_id": "3748e7d2-8dea-4fcf-bda2-10087ec7e0e5",
-		"value": "pacific ocean, esip, cryosphere, barents sea, amundsen sea, greenland sea, sea of okhotsk, southern ocean, ice extent, antarctic, earth science, beaufort sea, bering sea, noaa climate and global change program, gridded data, sea ice concentration, arctic, sea of japan, polar, ice concentration, north atlantic ocean, cgc, oceans, arctic ocean, chukchi sea, geographic region, earth science information partners program, sea ice, atlantic ocean, terrestrial hydrosphere, gulf of alaska, ocean, global change, north pacific ocean, snow\/ice, model input data",
+		"value": "pacific ocean, esip, cryosphere, barents sea, amundsen sea, greenland sea, sea of okhotsk, southern ocean, ice extent, antarctic, earth science, beaufort sea, bering sea, noaa climate and global change program, gridded data, sea ice concentration, arctic, sea of japan, polar, ice concentration, north atlantic ocean, cgc, oceans, arctic ocean, chukchi sea, geographic region, earth science information partners program, sea ice, atlantic ocean, terrestrial hydrosphere, gulf of alaska, ocean, global change, north pacific ocean, snow/ice, model input data",
 		"revision_timestamp": "2015-09-26T22:51:20.361877",
 		"state": "active",
 		"key": "tags",
@@ -303,7 +303,7 @@
 		"revision_timestamp": "2013-03-25T23:05:12.923863",
 		"is_organization": true,
 		"state": "active",
-		"image_url": "https:\/\/fortress.wa.gov\/dfw\/score\/score\/images\/noaa_logo.png",
+		"image_url": "https://fortress.wa.gov/dfw/score/score/images/noaa_logo.png",
 		"revision_id": "c6d43080-22e1-405e-a83d-f2a512d9e867",
 		"type": "organization",
 		"id": "e811f0b4-451f-4896-9e8f-fc6802837819",

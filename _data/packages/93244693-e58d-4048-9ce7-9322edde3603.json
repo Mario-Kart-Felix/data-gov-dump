@@ -36,7 +36,7 @@
 		"cache_url": null,
 		"name": "Service Description",
 		"created": "2013-03-15T23:27:32.269387",
-		"url": "http:\/\/services.azgs.az.gov\/ArcGIS\/rest\/services\/aasggeothermal\/OKWellLogs\/MapServer",
+		"url": "http://services.azgs.az.gov/ArcGIS/rest/services/aasggeothermal/OKWellLogs/MapServer",
 		"webstore_url": null,
 		"resource_locator_function": "381",
 		"position": 0,
@@ -65,7 +65,7 @@
 		"cache_url": null,
 		"name": "Downloadable File",
 		"created": "2013-03-15T23:27:32.269406",
-		"url": "http:\/\/services.azgs.az.gov\/ArcGIS\/services\/aasggeothermal\/OKWellLogs\/MapServer\/WMSServer?request=GetCapabilities&service=WMS",
+		"url": "http://services.azgs.az.gov/ArcGIS/services/aasggeothermal/OKWellLogs/MapServer/WMSServer?request=GetCapabilities&service=WMS",
 		"webstore_url": null,
 		"resource_locator_function": "375",
 		"position": 1,
@@ -94,7 +94,7 @@
 		"cache_url": null,
 		"name": "Service Description",
 		"created": "2013-03-15T23:27:32.269413",
-		"url": "http:\/\/services.azgs.az.gov\/ArcGIS\/services\/aasggeothermal\/OKWellLogs\/MapServer\/WFSServer?request=GetCapabilities&service=WFS",
+		"url": "http://services.azgs.az.gov/ArcGIS/services/aasggeothermal/OKWellLogs/MapServer/WFSServer?request=GetCapabilities&service=WFS",
 		"webstore_url": null,
 		"resource_locator_function": "381",
 		"position": 2,
@@ -123,7 +123,7 @@
 		"cache_url": null,
 		"name": "Zipped Excel 2007 Spreadsheet containing OK Well Log data",
 		"created": "2013-03-15T23:27:32.269419",
-		"url": "http:\/\/repository.stategeothermaldata.org\/metadata\/record\/9e15e1a59b768b330d029e86dc02e283\/file\/ok_revised_welllogobservations0.8.zip",
+		"url": "http://repository.stategeothermaldata.org/metadata/record/9e15e1a59b768b330d029e86dc02e283/file/ok_revised_welllogobservations0.8.zip",
 		"webstore_url": null,
 		"resource_locator_function": "375",
 		"position": 3,
@@ -160,7 +160,7 @@
 	"license_title": null,
 	"extras": [{
 		"key": "responsible-party",
-		"value": "[{\"name\": \"AZGS\", \"roles\": [\"pointOfContact\"]}]"
+		"value": "[{"name": "AZGS", "roles": ["pointOfContact"]}]"
 	},
 	{
 		"key": "contact-email",
@@ -180,7 +180,7 @@
 	},
 	{
 		"key": "dataset-reference-date",
-		"value": "[{\"type\": \"publication\", \"value\": \"2012-10-25T00:00:00\"}]"
+		"value": "[{"type": "publication", "value": "2012-10-25T00:00:00"}]"
 	},
 	{
 		"key": "resource-type",
@@ -216,7 +216,7 @@
 	},
 	{
 		"key": "spatial",
-		"value": "{\"type\": \"Polygon\", \"coordinates\": [[[-103.776705265, 33.0307395537], [-103.776705265, 37.6176818155], [-93.49350214, 37.6176818155], [-93.49350214, 33.0307395537], [-103.776705265, 33.0307395537]]]}"
+		"value": "{"type": "Polygon", "coordinates": [[[-103.776705265, 33.0307395537], [-103.776705265, 37.6176818155], [-93.49350214, 37.6176818155], [-93.49350214, 33.0307395537], [-103.776705265, 33.0307395537]]]}"
 	},
 	{
 		"key": "guid",
@@ -266,7 +266,7 @@
 		"revision_timestamp": "2013-03-20T21:11:17.592932",
 		"is_organization": true,
 		"state": "active",
-		"image_url": "http:\/\/www.50states.com\/flag\/image\/nunst004.gif",
+		"image_url": "http://www.50states.com/flag/image/nunst004.gif",
 		"revision_id": "61be6428-4398-4199-a336-f3cd1e956f9b",
 		"type": "organization",
 		"id": "f3f6e1d4-64fb-4a2f-b32c-9ac0b76fe4de",

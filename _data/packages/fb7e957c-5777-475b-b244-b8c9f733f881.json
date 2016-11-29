@@ -37,7 +37,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2015-09-26T16:58:18.818925",
-		"url": "http:\/\/coast.noaa.gov",
+		"url": "http://coast.noaa.gov",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 0,
@@ -67,7 +67,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2015-09-26T16:58:18.818949",
-		"url": "http:\/\/coast.noaa.gov",
+		"url": "http://coast.noaa.gov",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 1,
@@ -94,9 +94,9 @@
 		"resource_locator_protocol": "",
 		"mimetype": null,
 		"cache_url": null,
-		"name": "Lidar QA\/QC Report",
+		"name": "Lidar QA/QC Report",
 		"created": "2015-09-26T16:58:18.818959",
-		"url": "ftp:\/\/ftp.csc.noaa.gov\/pub\/crs\/beachmap\/qa_docs\/md\/Cecil_QA_Report_2005.pdf",
+		"url": "ftp://ftp.csc.noaa.gov/pub/crs/beachmap/qa_docs/md/Cecil_QA_Report_2005.pdf",
 		"webstore_url": null,
 		"resource_locator_function": "information",
 		"position": 2,
@@ -118,7 +118,7 @@
 		"revision_timestamp": "2013-03-25T23:05:12.923863",
 		"is_organization": true,
 		"state": "active",
-		"image_url": "https:\/\/fortress.wa.gov\/dfw\/score\/score\/images\/noaa_logo.png",
+		"image_url": "https://fortress.wa.gov/dfw/score/score/images/noaa_logo.png",
 		"revision_id": "c6d43080-22e1-405e-a83d-f2a512d9e867",
 		"type": "organization",
 		"id": "e811f0b4-451f-4896-9e8f-fc6802837819",
@@ -129,7 +129,7 @@
 	"name": "2005-maryland-department-of-natural-resources-lidar-cecil-county",
 	"isopen": false,
 	"url": null,
-	"notes": "Light Detection and Ranging (LIDAR) is a method of locating objects on the ground using aerial-borne equipment. It is similar to RADAR or SONAR in that the two-way travel time of an energy beam reflected off an object is precisely measured, but this technology uses laser light instead of radio or sound waves. This technology has proven very useful in remote sensing of the earth. It can be used for determining elevations of both the earth's surface and items (natural and man-made) on the surface. Analysis of LIDAR data is used in detailed modeling of the earth's surface for drainage and floodplain studies, determining how a new structure will affect views from various locations, shoreline erosion studies, and other reasons. This data set contains only the bare earth mass points. Bare earth points represent ground features. Features that are above ground, such as buildings, bridges, tree tops, etc, have been eliminated. Mass points may appear to have \"holes\" with no elevation values in areas where the surface could not be determined, such as very dense forests or urban areas.",
+	"notes": "Light Detection and Ranging (LIDAR) is a method of locating objects on the ground using aerial-borne equipment. It is similar to RADAR or SONAR in that the two-way travel time of an energy beam reflected off an object is precisely measured, but this technology uses laser light instead of radio or sound waves. This technology has proven very useful in remote sensing of the earth. It can be used for determining elevations of both the earth's surface and items (natural and man-made) on the surface. Analysis of LIDAR data is used in detailed modeling of the earth's surface for drainage and floodplain studies, determining how a new structure will affect views from various locations, shoreline erosion studies, and other reasons. This data set contains only the bare earth mass points. Bare earth points represent ground features. Features that are above ground, such as buildings, bridges, tree tops, etc, have been eliminated. Mass points may appear to have "holes" with no elevation values in areas where the surface could not be determined, such as very dense forests or urban areas.",
 	"owner_org": "e811f0b4-451f-4896-9e8f-fc6802837819",
 	"extras": [{
 		"key": "bbox-east-long",
@@ -165,7 +165,7 @@
 	},
 	{
 		"key": "spatial",
-		"value": "{\"type\": \"Polygon\", \"coordinates\": [[[-76.24904, 39.357195], [-75.75024, 39.357195], [-75.75024, 39.728895], [-76.24904, 39.728895], [-76.24904, 39.357195]]]}"
+		"value": "{"type": "Polygon", "coordinates": [[[-76.24904, 39.357195], [-75.75024, 39.357195], [-75.75024, 39.728895], [-76.24904, 39.728895], [-76.24904, 39.357195]]]}"
 	},
 	{
 		"key": "progress",
@@ -193,7 +193,7 @@
 	},
 	{
 		"key": "dataset-reference-date",
-		"value": "[{\"type\": \"publication\", \"value\": \"2005-01-20\"}]"
+		"value": "[{"type": "publication", "value": "2005-01-20"}]"
 	},
 	{
 		"key": "frequency-of-update",
@@ -201,7 +201,7 @@
 	},
 	{
 		"key": "licence",
-		"value": "[\"These data depict the elevations at the time of the survey and are only accurate for that time. Users should be aware that\\n            temporal changes may have occurred since this data set was collected and some parts of this data may no longer represent actual surface\\n            conditions. Users should not use this data for critical applications without a full awareness of its limitations. Any conclusions drawn\\n            from analysis of this information are not the responsibility of NOAA or any of its partners. These data are NOT to be used for navigational purposes.\"]"
+		"value": "["These data depict the elevations at the time of the survey and are only accurate for that time. Users should be aware that\n            temporal changes may have occurred since this data set was collected and some parts of this data may no longer represent actual surface\n            conditions. Users should not use this data for critical applications without a full awareness of its limitations. Any conclusions drawn\n            from analysis of this information are not the responsibility of NOAA or any of its partners. These data are NOT to be used for navigational purposes."]"
 	},
 	{
 		"key": "metadata_type",
@@ -209,7 +209,7 @@
 	},
 	{
 		"key": "responsible-party",
-		"value": "[{\"name\": \"Maryland Department of Natural Resources\", \"roles\": [\"pointOfContact\"]}]"
+		"value": "[{"name": "Maryland Department of Natural Resources", "roles": ["pointOfContact"]}]"
 	},
 	{
 		"key": "temporal-extent-end",
@@ -225,7 +225,7 @@
 	},
 	{
 		"key": "tags",
-		"value": "first return, elevation model, gridded dem, chesapeake bay, bare earth, bald earth, digital elevation model, dnr, terrain model, us, surface model, elevation and derived products, bathymetry\/topography, dem, last return, cecil county, maryland, lidar",
+		"value": "first return, elevation model, gridded dem, chesapeake bay, bare earth, bald earth, digital elevation model, dnr, terrain model, us, surface model, elevation and derived products, bathymetry/topography, dem, last return, cecil county, maryland, lidar",
 		"__extras": {
 			"revision_id": "7183f67f-e5ca-43f6-af88-a1ad7592d7e9",
 			"package_id": "fb7e957c-5777-475b-b244-b8c9f733f881"

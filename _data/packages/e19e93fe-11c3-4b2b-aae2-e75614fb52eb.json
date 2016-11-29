@@ -37,7 +37,7 @@
 		"cache_url": null,
 		"name": "Esri Rest API Endpoint",
 		"created": "2016-11-01T00:12:10.179787",
-		"url": "http:\/\/gisint1.rtpnc.epa.gov\/ArcGIS\/rest\/services\/OA\/EJ_Environmental_Data\/MapServer",
+		"url": "http://gisint1.rtpnc.epa.gov/ArcGIS/rest/services/OA/EJ_Environmental_Data/MapServer",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 0,
@@ -67,7 +67,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2016-11-01T00:12:10.179809",
-		"url": "http:\/\/edg.epa.gov",
+		"url": "http://edg.epa.gov",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 1,
@@ -87,7 +87,7 @@
 	"name": "ejscreen-version-1-primary-ej-index",
 	"isopen": false,
 	"url": null,
-	"notes": "The primary EJ index measures how much a particular place contributes to overall nationwide differences in environmental indicator values between demographic groups. This EJ index is a combination of a block group environmental factor, the population of the block group, and the demographic composition of the block group. In this index, the demographic composition of the block group is the difference between the block group\u2019s composition and the national average, as measured by the primary demographic index. EJSCREEN is an environmental justice screening tool that provides EPA with a nationally consistent approach to screening for potential areas of EJ concern that may warrant further investigation. The EJ indexes are block group level results that combine multiple demographic factors with a single environmental variable (such as proximity to traffic) that can be used to help identify communities living with the greatest potential for negative environmental and health effects. The EJSCREEN tool is currently for internal EPA use only. It is anticipated that as users become accustomed to this new tool, individual programs within the Agency will develop program use guidelines and a community of practice will develop around them within the EPA Geoplatform. Users should keep in mind that screening tools are subject to substantial uncertainty in their demographic and environmental data, particularly when looking at small geographic areas, such as Census block groups. Data on the full range of environmental impacts and demographic factors in any given location are almost certainly not available directly through this tool, and its initial results should be supplemented with additional information and local knowledge before making any judgments about potential areas of EJ concern.",
+	"notes": "The primary EJ index measures how much a particular place contributes to overall nationwide differences in environmental indicator values between demographic groups. This EJ index is a combination of a block group environmental factor, the population of the block group, and the demographic composition of the block group. In this index, the demographic composition of the block group is the difference between the block groupu2019s composition and the national average, as measured by the primary demographic index. EJSCREEN is an environmental justice screening tool that provides EPA with a nationally consistent approach to screening for potential areas of EJ concern that may warrant further investigation. The EJ indexes are block group level results that combine multiple demographic factors with a single environmental variable (such as proximity to traffic) that can be used to help identify communities living with the greatest potential for negative environmental and health effects. The EJSCREEN tool is currently for internal EPA use only. It is anticipated that as users become accustomed to this new tool, individual programs within the Agency will develop program use guidelines and a community of practice will develop around them within the EPA Geoplatform. Users should keep in mind that screening tools are subject to substantial uncertainty in their demographic and environmental data, particularly when looking at small geographic areas, such as Census block groups. Data on the full range of environmental impacts and demographic factors in any given location are almost certainly not available directly through this tool, and its initial results should be supplemented with additional information and local knowledge before making any judgments about potential areas of EJ concern.",
 	"license_title": null,
 	"extras": [{
 		"key": "bbox-east-long",
@@ -123,7 +123,7 @@
 	},
 	{
 		"key": "spatial",
-		"value": "{\"type\": \"Polygon\", \"coordinates\": [[[-138.21454852, 6.65223303], [-12.68151645, 6.65223303], [-12.68151645, 61.7110157], [-138.21454852, 61.7110157], [-138.21454852, 6.65223303]]]}"
+		"value": "{"type": "Polygon", "coordinates": [[[-138.21454852, 6.65223303], [-12.68151645, 6.65223303], [-12.68151645, 61.7110157], [-138.21454852, 61.7110157], [-138.21454852, 6.65223303]]]}"
 	},
 	{
 		"key": "progress",
@@ -131,11 +131,11 @@
 	},
 	{
 		"key": "access_constraints",
-		"value": "[\"Use Constraints: These data should not be distributed to users unless distribution is explicitly granted. Please check sources, scale, accuracy, currentness and other available information. Please confirm that you are using the most recent copy of both data and metadata. Acknowledgement of the EPA would be appreciated.\", \"Access Constraints: Data Are Restricted to Internal EPA Personnel Only\"]"
+		"value": "["Use Constraints: These data should not be distributed to users unless distribution is explicitly granted. Please check sources, scale, accuracy, currentness and other available information. Please confirm that you are using the most recent copy of both data and metadata. Acknowledgement of the EPA would be appreciated.", "Access Constraints: Data Are Restricted to Internal EPA Personnel Only"]"
 	},
 	{
 		"key": "licence_url",
-		"value": "https:\/\/edg.epa.gov\/EPA_Data_License.htm"
+		"value": "https://edg.epa.gov/EPA_Data_License.htm"
 	},
 	{
 		"key": "contact-email",
@@ -151,7 +151,7 @@
 	},
 	{
 		"key": "dataset-reference-date",
-		"value": "[{\"type\": \"publication\", \"value\": \"2012-06-29\"}]"
+		"value": "[{"type": "publication", "value": "2012-06-29"}]"
 	},
 	{
 		"key": "frequency-of-update",
@@ -159,7 +159,7 @@
 	},
 	{
 		"key": "licence",
-		"value": "[\"https:\/\/edg.epa.gov\/EPA_Data_License.htm\"]"
+		"value": "["https://edg.epa.gov/EPA_Data_License.htm"]"
 	},
 	{
 		"key": "metadata_type",
@@ -167,7 +167,7 @@
 	},
 	{
 		"key": "responsible-party",
-		"value": "[{\"name\": \"U.S. Environmental Protection Agency, Office of Policy\", \"roles\": [\"pointOfContact\"]}]"
+		"value": "[{"name": "U.S. Environmental Protection Agency, Office of Policy", "roles": ["pointOfContact"]}]"
 	},
 	{
 		"key": "spatial-data-service-type",
@@ -209,7 +209,7 @@
 		"revision_timestamp": "2014-01-16T18:58:42.895981",
 		"is_organization": true,
 		"state": "active",
-		"image_url": "http:\/\/edg.epa.gov\/EPALogo.svg",
+		"image_url": "http://edg.epa.gov/EPALogo.svg",
 		"revision_id": "f0e4b475-7424-4ce0-9a22-412e7e595154",
 		"type": "organization",
 		"id": "6d90e48d-3076-4327-b2f4-c33919f374d5",

@@ -37,7 +37,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2016-03-31T19:58:33.741313",
-		"url": "https:\/\/newftp.epa.gov\/webclient\/WebClient.jsf",
+		"url": "https://newftp.epa.gov/webclient/WebClient.jsf",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 0,
@@ -57,7 +57,7 @@
 	"name": "ejscreen-regions-percentiles-lookup-table-2015-intranet",
 	"isopen": false,
 	"url": null,
-	"notes": "The Regions table provides percentile breaks of important EJSCREEN elements (demographic indicators and indexes, environmental indicators and indexes) at the EPA region summary level. This table provides support to the EJSCREEN reporting tools. EJSCREEN is an environmental justice (EJ) screening and mapping tool that provides EPA with a nationally consistent dataset and methodology for calculating \"EJ indexes,\" which can be used for highlighting places that may be candidates for further review, analysis, or outreach as the agency develops programs, policies and other activities.",
+	"notes": "The Regions table provides percentile breaks of important EJSCREEN elements (demographic indicators and indexes, environmental indicators and indexes) at the EPA region summary level. This table provides support to the EJSCREEN reporting tools. EJSCREEN is an environmental justice (EJ) screening and mapping tool that provides EPA with a nationally consistent dataset and methodology for calculating "EJ indexes," which can be used for highlighting places that may be candidates for further review, analysis, or outreach as the agency develops programs, policies and other activities.",
 	"license_title": null,
 	"extras": [{
 		"key": "bbox-east-long",
@@ -93,7 +93,7 @@
 	},
 	{
 		"key": "spatial",
-		"value": "{\"type\": \"Polygon\", \"coordinates\": [[[-138.21454852, 6.65223303], [-12.68151645, 6.65223303], [-12.68151645, 61.7110157], [-138.21454852, 61.7110157], [-138.21454852, 6.65223303]]]}"
+		"value": "{"type": "Polygon", "coordinates": [[[-138.21454852, 6.65223303], [-12.68151645, 6.65223303], [-12.68151645, 61.7110157], [-138.21454852, 61.7110157], [-138.21454852, 6.65223303]]]}"
 	},
 	{
 		"key": "progress",
@@ -101,11 +101,11 @@
 	},
 	{
 		"key": "access_constraints",
-		"value": "[\"Use Constraints: Please check sources, scale, accuracy, currentness and other available information. Please confirm that you are using the most recent copy of both data and metadata. Acknowledgement of the EPA would be appreciated.\", \"Access Constraints: Data Are unrestricted\"]"
+		"value": "["Use Constraints: Please check sources, scale, accuracy, currentness and other available information. Please confirm that you are using the most recent copy of both data and metadata. Acknowledgement of the EPA would be appreciated.", "Access Constraints: Data Are unrestricted"]"
 	},
 	{
 		"key": "licence_url",
-		"value": "https:\/\/edg.epa.gov\/EPA_Data_License.htm"
+		"value": "https://edg.epa.gov/EPA_Data_License.htm"
 	},
 	{
 		"key": "contact-email",
@@ -121,7 +121,7 @@
 	},
 	{
 		"key": "dataset-reference-date",
-		"value": "[{\"type\": \"publication\", \"value\": \"2015-04-09\"}]"
+		"value": "[{"type": "publication", "value": "2015-04-09"}]"
 	},
 	{
 		"key": "frequency-of-update",
@@ -129,7 +129,7 @@
 	},
 	{
 		"key": "licence",
-		"value": "[\"https:\/\/edg.epa.gov\/EPA_Data_License.htm\"]"
+		"value": "["https://edg.epa.gov/EPA_Data_License.htm"]"
 	},
 	{
 		"key": "metadata_type",
@@ -137,7 +137,7 @@
 	},
 	{
 		"key": "responsible-party",
-		"value": "[{\"name\": \"U.S. Environmental Protection Agency, Office of the Administrator, Office of Policy\", \"roles\": [\"pointOfContact\"]}]"
+		"value": "[{"name": "U.S. Environmental Protection Agency, Office of the Administrator, Office of Policy", "roles": ["pointOfContact"]}]"
 	},
 	{
 		"key": "spatial-data-service-type",
@@ -179,7 +179,7 @@
 		"revision_timestamp": "2014-01-16T18:58:42.895981",
 		"is_organization": true,
 		"state": "active",
-		"image_url": "http:\/\/edg.epa.gov\/EPALogo.svg",
+		"image_url": "http://edg.epa.gov/EPALogo.svg",
 		"revision_id": "f0e4b475-7424-4ce0-9a22-412e7e595154",
 		"type": "organization",
 		"id": "6d90e48d-3076-4327-b2f4-c33919f374d5",

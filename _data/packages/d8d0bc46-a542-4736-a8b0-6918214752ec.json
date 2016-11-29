@@ -36,7 +36,7 @@
 		"cache_url": null,
 		"name": "Open Geospatial Consortium Web Map Service (WMS)",
 		"created": "2015-09-26T16:14:24.042611",
-		"url": "http:\/\/wrecks.nauticalcharts.noaa.gov\/arcgis\/services\/public_wrecks\/Wrecks_And_Obstructions\/MapServer\/WMSServer?request=GetCapabilities%26service=WMS",
+		"url": "http://wrecks.nauticalcharts.noaa.gov/arcgis/services/public_wrecks/Wrecks_And_Obstructions/MapServer/WMSServer?request=GetCapabilities%26service=WMS",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 0,
@@ -65,7 +65,7 @@
 		"cache_url": null,
 		"name": "Coast Survey Product Inquiry System",
 		"created": "2015-09-26T16:14:24.042645",
-		"url": "http:\/\/ocsdata.ncd.noaa.gov\/idrs\/inquiry.aspx",
+		"url": "http://ocsdata.ncd.noaa.gov/idrs/inquiry.aspx",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 1,
@@ -87,7 +87,7 @@
 		"revision_timestamp": "2013-03-25T23:05:12.923863",
 		"is_organization": true,
 		"state": "active",
-		"image_url": "https:\/\/fortress.wa.gov\/dfw\/score\/score\/images\/noaa_logo.png",
+		"image_url": "https://fortress.wa.gov/dfw/score/score/images/noaa_logo.png",
 		"revision_id": "c6d43080-22e1-405e-a83d-f2a512d9e867",
 		"type": "organization",
 		"id": "e811f0b4-451f-4896-9e8f-fc6802837819",
@@ -122,7 +122,7 @@
 	},
 	{
 		"key": "graphic-preview-file",
-		"value": "http:\/\/www.nauticalcharts.noaa.gov\/hsd\/images\/SW_Wrecks_topimage.jpg"
+		"value": "http://www.nauticalcharts.noaa.gov/hsd/images/SW_Wrecks_topimage.jpg"
 	},
 	{
 		"key": "bbox-south-lat",
@@ -138,7 +138,7 @@
 	},
 	{
 		"key": "spatial",
-		"value": "{\"type\": \"Polygon\", \"coordinates\": [[[-180.0, -65.0], [167.0, -65.0], [167.0, 72.0], [-180.0, 72.0], [-180.0, -65.0]]]}"
+		"value": "{"type": "Polygon", "coordinates": [[[-180.0, -65.0], [167.0, -65.0], [167.0, 72.0], [-180.0, 72.0], [-180.0, -65.0]]]}"
 	},
 	{
 		"key": "progress",
@@ -146,7 +146,7 @@
 	},
 	{
 		"key": "access_constraints",
-		"value": "[\"Access Constraints: None.  Use Constraints:  The database records are not comprehensive. There are wrecks that do not appear on the nautical charts and   wrecks on the nautical charts that do not appear in the historical records.  Updates to database are limited, with priority given to wrecks that may be hazards to navigation. We have removed reported wrecks that have been salvaged or disproved by further investigation.\\n Distribution Liability: None\"]"
+		"value": "["Access Constraints: None.  Use Constraints:  The database records are not comprehensive. There are wrecks that do not appear on the nautical charts and   wrecks on the nautical charts that do not appear in the historical records.  Updates to database are limited, with priority given to wrecks that may be hazards to navigation. We have removed reported wrecks that have been salvaged or disproved by further investigation.\n Distribution Liability: None"]"
 	},
 	{
 		"key": "temporal-extent-begin",
@@ -166,7 +166,7 @@
 	},
 	{
 		"key": "dataset-reference-date",
-		"value": "[{\"type\": \"creation\", \"value\": \"2014-06-01\"}]"
+		"value": "[{"type": "creation", "value": "2014-06-01"}]"
 	},
 	{
 		"key": "frequency-of-update",
@@ -182,7 +182,7 @@
 	},
 	{
 		"key": "responsible-party",
-		"value": "[{\"name\": \"DOC\/NOAA\/NOS\/OCS\", \"roles\": [\"pointOfContact\"]}]"
+		"value": "[{"name": "DOC/NOAA/NOS/OCS", "roles": ["pointOfContact"]}]"
 	},
 	{
 		"key": "spatial-data-service-type",

@@ -37,7 +37,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2013-03-14T16:07:16.919953",
-		"url": "http:\/\/www.geostor.arkansas.gov\/G6\/Home.html?id=09636142789956ccec1aa3ab8a9b1573",
+		"url": "http://www.geostor.arkansas.gov/G6/Home.html?id=09636142789956ccec1aa3ab8a9b1573",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 0,
@@ -67,7 +67,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2013-03-14T16:07:16.919975",
-		"url": "http:\/\/www.geostor.arkansas.gov",
+		"url": "http://www.geostor.arkansas.gov",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 1,
@@ -100,7 +100,7 @@
 	"name": "landcover-30m-1992-raster",
 	"isopen": false,
 	"url": null,
-	"notes": "Data available online through GeoStor at http:\/\/www.geostor.arkansas.gov. These data can be used in a geographic information system (GIS) for any number of purposes such as assessing wildlife habitat, water quality, pesticide runoff, land use change, etc. The State data sets are provided with a 300 meter buffer beyond the State border to facilitate combining the State files into larger regions. The user must have a firm understanding of how the datasets were compiled and the resulting limitations of these data. The National Land Cover Dataset was compiled from Landsat satellite TM imagery (circa 1992) with a spatial resolution of 30 meters and supplemented by various ancillary data (where available). The analysis and interpretation of the satellite imagery was conducted using very large, sometimes multi-state image mosaics (i.e. up to 18 Landsat scenes). Using a relatively small number of aerial photographs for 'ground truth', the thematic interpretations were necessarily conducted from a spatially-broad perspective. Furthermore, the accuracy assessments (see below) correspond to 'federal regions' which are groupings of contiguous states. Thus, the reliability of the data is greatest at the state or multi-state level. The statistical accuracy of the data is known only for the region. Important Caution Advisory With this in mind, users are cautioned to carefully scrutinize the data to see if they are of sufficient reliability before attempting to use the dataset for larger-scale or local analyses. This evaluation must be made remembering that the NLCD represents conditions in the early 1990s. The Arkansas portion of the NLCD was created as part of a project area encompassing portions of Federal Region VI, including the states of New Mexico, Texas, Oklahoma, Louisiana, and Arkansas. The NLCD classification contains 21 different land cover categories with a spatial resolution of 30 meters. The NLCD was produced as a cooperative effort between the U.S. Geological Survey (USGS) and the U.S. Environmental Protection Agency (US EPA) to produce a consistent, land cover data layer for the conterminous U.S. using early 1990s Landsat thematic mapper (TM) data purchased by the Multi-resolution Land Characterization (MRLC) Consortium. The MRLC Consortium is a partnership of federal agencies that produce or use land cover data. Partners include the USGS (National Mapping, Biological Resources, and Water Resources Divisions), US EPA, the U.S. Forest Service, and the National Oceanic and Atmospheric Administration.",
+	"notes": "Data available online through GeoStor at http://www.geostor.arkansas.gov. These data can be used in a geographic information system (GIS) for any number of purposes such as assessing wildlife habitat, water quality, pesticide runoff, land use change, etc. The State data sets are provided with a 300 meter buffer beyond the State border to facilitate combining the State files into larger regions. The user must have a firm understanding of how the datasets were compiled and the resulting limitations of these data. The National Land Cover Dataset was compiled from Landsat satellite TM imagery (circa 1992) with a spatial resolution of 30 meters and supplemented by various ancillary data (where available). The analysis and interpretation of the satellite imagery was conducted using very large, sometimes multi-state image mosaics (i.e. up to 18 Landsat scenes). Using a relatively small number of aerial photographs for 'ground truth', the thematic interpretations were necessarily conducted from a spatially-broad perspective. Furthermore, the accuracy assessments (see below) correspond to 'federal regions' which are groupings of contiguous states. Thus, the reliability of the data is greatest at the state or multi-state level. The statistical accuracy of the data is known only for the region. Important Caution Advisory With this in mind, users are cautioned to carefully scrutinize the data to see if they are of sufficient reliability before attempting to use the dataset for larger-scale or local analyses. This evaluation must be made remembering that the NLCD represents conditions in the early 1990s. The Arkansas portion of the NLCD was created as part of a project area encompassing portions of Federal Region VI, including the states of New Mexico, Texas, Oklahoma, Louisiana, and Arkansas. The NLCD classification contains 21 different land cover categories with a spatial resolution of 30 meters. The NLCD was produced as a cooperative effort between the U.S. Geological Survey (USGS) and the U.S. Environmental Protection Agency (US EPA) to produce a consistent, land cover data layer for the conterminous U.S. using early 1990s Landsat thematic mapper (TM) data purchased by the Multi-resolution Land Characterization (MRLC) Consortium. The MRLC Consortium is a partnership of federal agencies that produce or use land cover data. Partners include the USGS (National Mapping, Biological Resources, and Water Resources Divisions), US EPA, the U.S. Forest Service, and the National Oceanic and Atmospheric Administration.",
 	"license_title": null,
 	"extras": [{
 		"key": "temporal-extent-begin",
@@ -128,7 +128,7 @@
 	},
 	{
 		"key": "dataset-reference-date",
-		"value": "[{\"type\": \"publication\", \"value\": \"1999-01-01\"}]"
+		"value": "[{"type": "publication", "value": "1999-01-01"}]"
 	},
 	{
 		"key": "resource-type",
@@ -156,7 +156,7 @@
 	},
 	{
 		"key": "licence",
-		"value": "[\"Although these data have been processed successfully on\\na computer system at the USGS, no warranty expressed or\\nimplied is made by the USGS regarding the use of the data\\non any other system, nor does the act of distribution\\nconstitute any such warranty.\"]"
+		"value": "["Although these data have been processed successfully on\na computer system at the USGS, no warranty expressed or\nimplied is made by the USGS regarding the use of the data\non any other system, nor does the act of distribution\nconstitute any such warranty."]"
 	},
 	{
 		"key": "metadata_type",
@@ -164,11 +164,11 @@
 	},
 	{
 		"key": "responsible-party",
-		"value": "[{\"name\": \"U.S. Geological Survey EROS Data Center\", \"roles\": [\"pointOfContact\"]}]"
+		"value": "[{"name": "U.S. Geological Survey EROS Data Center", "roles": ["pointOfContact"]}]"
 	},
 	{
 		"key": "spatial",
-		"value": "{\"type\": \"Polygon\", \"coordinates\": [[[-94.619155, 32.869158], [-94.619155, 36.64658], [-89.74202, 36.64658], [-89.74202, 32.869158], [-94.619155, 32.869158]]]}"
+		"value": "{"type": "Polygon", "coordinates": [[[-94.619155, 32.869158], [-94.619155, 36.64658], [-89.74202, 36.64658], [-89.74202, 32.869158], [-94.619155, 32.869158]]]}"
 	},
 	{
 		"key": "guid",
@@ -180,7 +180,7 @@
 	},
 	{
 		"key": "access_constraints",
-		"value": "[\"Use Constraints: None. Acknowledgement of the U.S. Geological Survey would be appreciated in products derived from these data.\", \"Access Constraints: None.\"]"
+		"value": "["Use Constraints: None. Acknowledgement of the U.S. Geological Survey would be appreciated in products derived from these data.", "Access Constraints: None."]"
 	},
 	{
 		"key": "frequency-of-update",
@@ -218,7 +218,7 @@
 		"revision_timestamp": "2013-03-20T20:55:07.892290",
 		"is_organization": true,
 		"state": "active",
-		"image_url": "http:\/\/www.50states.com\/flag\/image\/nunst005.gif",
+		"image_url": "http://www.50states.com/flag/image/nunst005.gif",
 		"revision_id": "3a817c03-47cd-4444-b4ab-9734805a04e9",
 		"type": "organization",
 		"id": "73513ca8-1988-426e-9db2-73b8d0247d67",

@@ -37,7 +37,7 @@
 		"cache_url": null,
 		"name": "Esri Rest API Endpoint",
 		"created": "2016-09-05T17:01:53.448242",
-		"url": "http:\/\/idpgis.ncep.noaa.gov\/arcgis\/rest\/services\/NOS_Observations\/CO_OPS_Stations\/MapServer",
+		"url": "http://idpgis.ncep.noaa.gov/arcgis/rest/services/NOS_Observations/CO_OPS_Stations/MapServer",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 0,
@@ -67,7 +67,7 @@
 		"cache_url": null,
 		"name": "Esri Rest API Endpoint",
 		"created": "2016-09-05T17:01:53.448276",
-		"url": "http:\/\/idpgis.ncep.noaa.gov\/arcgis\/rest\/services\/NOS_Observations\/CO_OPS_Products\/MapServer",
+		"url": "http://idpgis.ncep.noaa.gov/arcgis/rest/services/NOS_Observations/CO_OPS_Products/MapServer",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 1,
@@ -97,7 +97,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2016-09-05T17:01:53.448290",
-		"url": "http:\/\/www.tidesandcurrents.noaa.gov\/map\/",
+		"url": "http://www.tidesandcurrents.noaa.gov/map/",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 2,
@@ -127,7 +127,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2016-09-05T17:01:53.448312",
-		"url": "http:\/\/www.tidesandcurrents.noaa.gov\/map\/",
+		"url": "http://www.tidesandcurrents.noaa.gov/map/",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 3,
@@ -183,7 +183,7 @@
 	},
 	{
 		"key": "spatial",
-		"value": "{\"type\": \"Polygon\", \"coordinates\": [[[-180.0, -54.8], [180.0, -54.8], [180.0, 70.4], [-180.0, 70.4], [-180.0, -54.8]]]}"
+		"value": "{"type": "Polygon", "coordinates": [[[-180.0, -54.8], [180.0, -54.8], [180.0, 70.4], [-180.0, 70.4], [-180.0, -54.8]]]}"
 	},
 	{
 		"key": "progress",
@@ -191,7 +191,7 @@
 	},
 	{
 		"key": "access_constraints",
-		"value": "[\"Use Constraints: None\", \"Access Constraints: None\"]"
+		"value": "["Use Constraints: None", "Access Constraints: None"]"
 	},
 	{
 		"key": "temporal-extent-begin",
@@ -211,7 +211,7 @@
 	},
 	{
 		"key": "dataset-reference-date",
-		"value": "[{\"type\": \"publication\", \"value\": \"2012-01-01\"}]"
+		"value": "[{"type": "publication", "value": "2012-01-01"}]"
 	},
 	{
 		"key": "frequency-of-update",
@@ -219,7 +219,7 @@
 	},
 	{
 		"key": "licence",
-		"value": "[\"Preliminary data have not been subjected to the National Ocean Service's quality control or quality assurance procedures and do not meet the criteria and standards of official National Ocean Service data. They are released for limited public use as preliminary data to be used only with appropriate caution.  Predicted Tidal DataThe accuracy of the tide predictions is different for each location.  Periodically we do a comparison of the predicted tides vs the observed tides for a calendar year.  The information generated is compiled in a Tide Prediction Accuracy Table.  We work to insure that the predictions are as accurate as possible. However, we can only predict the astronomical tides, we cannot predict the effect that wind, rain, freshwater runoff, and other short-term meteorological events will have on the tides.  In general, predictions for stations along the outer coast are more accurate than those for stations farther inland; along a river, or in a bay or other estuary. Inland stations tend to have a stronger non-tidal influence; that is, they are more susceptible to the effects of wind and other meteorological effects than stations along the outer coast.  An example of an inland station which is difficult to predict is Baltimore, Maryland. This station is located at the northern end of Chesapeake Bay. Winds which blow along the length of the bay have been known to cause water levels to be 1-2 feet above or below the predicted tides.  Stations in relatively shallow water, or with a small tidal range, are also highly susceptible to meteorological effects and thus difficult to accurately predict. At these stations, short-term weather events can completely mask the astronomical tides.  Many of the stations along the western Gulf of Mexico fall into this category.  An example is Galveston, Texas. This station is in a bay which is relatively shallow and has a small opening to the sea. At this station it is possible for meteorological events to delay or accelerate the arrival of the predicted tides by an hour or more.\"]"
+		"value": "["Preliminary data have not been subjected to the National Ocean Service's quality control or quality assurance procedures and do not meet the criteria and standards of official National Ocean Service data. They are released for limited public use as preliminary data to be used only with appropriate caution.  Predicted Tidal DataThe accuracy of the tide predictions is different for each location.  Periodically we do a comparison of the predicted tides vs the observed tides for a calendar year.  The information generated is compiled in a Tide Prediction Accuracy Table.  We work to insure that the predictions are as accurate as possible. However, we can only predict the astronomical tides, we cannot predict the effect that wind, rain, freshwater runoff, and other short-term meteorological events will have on the tides.  In general, predictions for stations along the outer coast are more accurate than those for stations farther inland; along a river, or in a bay or other estuary. Inland stations tend to have a stronger non-tidal influence; that is, they are more susceptible to the effects of wind and other meteorological effects than stations along the outer coast.  An example of an inland station which is difficult to predict is Baltimore, Maryland. This station is located at the northern end of Chesapeake Bay. Winds which blow along the length of the bay have been known to cause water levels to be 1-2 feet above or below the predicted tides.  Stations in relatively shallow water, or with a small tidal range, are also highly susceptible to meteorological effects and thus difficult to accurately predict. At these stations, short-term weather events can completely mask the astronomical tides.  Many of the stations along the western Gulf of Mexico fall into this category.  An example is Galveston, Texas. This station is in a bay which is relatively shallow and has a small opening to the sea. At this station it is possible for meteorological events to delay or accelerate the arrival of the predicted tides by an hour or more."]"
 	},
 	{
 		"key": "metadata_type",
@@ -227,7 +227,7 @@
 	},
 	{
 		"key": "responsible-party",
-		"value": "[{\"name\": \"National Oceanic and Atmospheric Administration (NOAA), National Ocean Service (NOS), Center for Operational Oceanographic Products and Services (CO-OPS)\", \"roles\": [\"pointOfContact\"]}]"
+		"value": "[{"name": "National Oceanic and Atmospheric Administration (NOAA), National Ocean Service (NOS), Center for Operational Oceanographic Products and Services (CO-OPS)", "roles": ["pointOfContact"]}]"
 	},
 	{
 		"key": "spatial-data-service-type",
@@ -239,7 +239,7 @@
 	},
 	{
 		"package_id": "7a98718c-cc1e-485d-8985-945d73b1a52b",
-		"value": "atmosphere, coastal sea level stations, air pressure, coastal u.s. territories, tides and currents, anemometers, noaa geostationary operational environmental satellites, cataloging, water oceans and coasts theme, environmental advisories, oceans, web-based geographic information systems, air pressure sensor, marine weather\/forecast, sea surface height, marine advisories, tidal range, humidity sensors, coastal water levels, humidity, current meters, atmospheric water vapor, surface air temperature, ports, data networking\/data transfer tools, meteorological observations, water level stations, great lakes water level, ocean winds, coastal currents, goes, pressure sensors, temperature probes, acoustic sounders, national geospatial data asset, water temperature, sea level rise, atmospheric winds, tidal currents, water level gauges, physical oceanographic real-time system, ocean temperature, aps, continuous operational real-time monitoring system, data management\/data handling, coastal, ocean pressure, education\/outreach, atmospheric pressure, coastal processes, predictions, atmospheric temperature, science center exhibits, ngda, national water level observation network, tide stations, geographic information systems, nwlp, tide gauges, atmospheric pressure measurements, barometric pressure, nwlon, coastal monitoring, sea level pressure, tidal height, water level predictions, coastal united states, currents, national water level program, temperature sensors, water level, nwlon station, data delivery, coastal temperature, tides, relative humidity, corms, u.s. exclusive economic zone, data analysis and visualization, barometers, coastal oceanographic applications and services of tides and lakes, marine biology, air temperature, sea surface temperature, exhibit materials, wind, surface winds",
+		"value": "atmosphere, coastal sea level stations, air pressure, coastal u.s. territories, tides and currents, anemometers, noaa geostationary operational environmental satellites, cataloging, water oceans and coasts theme, environmental advisories, oceans, web-based geographic information systems, air pressure sensor, marine weather/forecast, sea surface height, marine advisories, tidal range, humidity sensors, coastal water levels, humidity, current meters, atmospheric water vapor, surface air temperature, ports, data networking/data transfer tools, meteorological observations, water level stations, great lakes water level, ocean winds, coastal currents, goes, pressure sensors, temperature probes, acoustic sounders, national geospatial data asset, water temperature, sea level rise, atmospheric winds, tidal currents, water level gauges, physical oceanographic real-time system, ocean temperature, aps, continuous operational real-time monitoring system, data management/data handling, coastal, ocean pressure, education/outreach, atmospheric pressure, coastal processes, predictions, atmospheric temperature, science center exhibits, ngda, national water level observation network, tide stations, geographic information systems, nwlp, tide gauges, atmospheric pressure measurements, barometric pressure, nwlon, coastal monitoring, sea level pressure, tidal height, water level predictions, coastal united states, currents, national water level program, temperature sensors, water level, nwlon station, data delivery, coastal temperature, tides, relative humidity, corms, u.s. exclusive economic zone, data analysis and visualization, barometers, coastal oceanographic applications and services of tides and lakes, marine biology, air temperature, sea surface temperature, exhibit materials, wind, surface winds",
 		"revision_timestamp": "2016-09-05T21:01:53.263876",
 		"state": "active",
 		"key": "tags",
@@ -269,7 +269,7 @@
 		"revision_timestamp": "2013-03-25T23:05:12.923863",
 		"is_organization": true,
 		"state": "active",
-		"image_url": "https:\/\/fortress.wa.gov\/dfw\/score\/score\/images\/noaa_logo.png",
+		"image_url": "https://fortress.wa.gov/dfw/score/score/images/noaa_logo.png",
 		"revision_id": "c6d43080-22e1-405e-a83d-f2a512d9e867",
 		"type": "organization",
 		"id": "e811f0b4-451f-4896-9e8f-fc6802837819",

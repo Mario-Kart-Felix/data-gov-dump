@@ -37,7 +37,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2015-09-26T18:42:36.522721",
-		"url": "ftp:\/\/sidads.colorado.edu\/pub\/DATASETS\/NOAA\/G02191",
+		"url": "ftp://sidads.colorado.edu/pub/DATASETS/NOAA/G02191",
 		"webstore_url": null,
 		"resource_locator_function": "function",
 		"position": 0,
@@ -55,7 +55,7 @@
 		"last_modified": null,
 		"hash": "",
 		"description": "",
-		"format": "application\/vnd.lotus-organizer",
+		"format": "application/vnd.lotus-organizer",
 		"tracking_summary": {
 			"total": 85,
 			"recent": 4
@@ -67,7 +67,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2015-09-26T18:42:36.522743",
-		"url": "http:\/\/nsidc.org",
+		"url": "http://nsidc.org",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 1,
@@ -97,7 +97,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2015-09-26T18:42:36.522752",
-		"url": "http:\/\/nsidc.org\/noaa\/",
+		"url": "http://nsidc.org/noaa/",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 2,
@@ -115,7 +115,7 @@
 		"last_modified": null,
 		"hash": "",
 		"description": "",
-		"format": "application\/vnd.lotus-organizer",
+		"format": "application/vnd.lotus-organizer",
 		"tracking_summary": {
 			"total": 85,
 			"recent": 4
@@ -127,7 +127,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2015-09-26T18:42:36.522760",
-		"url": "http:\/\/nsidc.org",
+		"url": "http://nsidc.org",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 3,
@@ -147,7 +147,7 @@
 	"name": "aidjex-beaufort-sea-upward-looking-sonar-april-1976",
 	"isopen": false,
 	"url": null,
-	"notes": "\nThis data contains Upward Looking Sonar (ULS) profiles of the underside of the Arctic pack ice along three transects whose total length is 777 nautical miles. The data were obtained by the USS Gurnard (SSN-662), a U.S. Navy submarine, on a traverse of the AIDJEX Main Experiment area in the Beaufort Sea from 07 April 1976 to 10 April 1976. The sea ice thickness derived from the ULS is given in feet.The data are in a single ASCII text file: Aidjex_04_1976_uls.txt. The data in this text file are not formatted into columns; all data are presented in one long row separated by spaces. Little is known about the format of the file, so caution should be used when working with the data. NSIDC is providing this data as part of our effort to preserve historical data.  The data file begins with nine values that appear to be header information. These nine values include latitude and longitude values along with other unknown values. After the header, there are approximately 2100 measurements of what NSIDC believes is sea ice thickness in feet, however it is unclear how often these measurements were taken. After these 2100 values, another header of nine values occurs followed again by 2100 measurements. The file continues in this pattern through the remainder of the file. Users with information about the contents of the file are encouraged to contact <a href=\"mailto:nsidc.org\">NSIDC User Services<\/a>.Two supporting documents that provide some background have been scanned and included as PDF files. These are AIDJEX_ULS_background.pdf and AIDJEX_ULS_format.pdf.These data are available via FTP.<strong>Note:<\/strong> These data are in a raw format with unknown fields and are being provided as is for preservation purposes. A processed version of the data are available in the <a href=\"\/data\/g01360.html\">Submarine Upward Looking Sonar Ice Draft Profile Data and Statistics<\/a> data set.\n",
+	"notes": "nThis data contains Upward Looking Sonar (ULS) profiles of the underside of the Arctic pack ice along three transects whose total length is 777 nautical miles. The data were obtained by the USS Gurnard (SSN-662), a U.S. Navy submarine, on a traverse of the AIDJEX Main Experiment area in the Beaufort Sea from 07 April 1976 to 10 April 1976. The sea ice thickness derived from the ULS is given in feet.The data are in a single ASCII text file: Aidjex_04_1976_uls.txt. The data in this text file are not formatted into columns; all data are presented in one long row separated by spaces. Little is known about the format of the file, so caution should be used when working with the data. NSIDC is providing this data as part of our effort to preserve historical data.  The data file begins with nine values that appear to be header information. These nine values include latitude and longitude values along with other unknown values. After the header, there are approximately 2100 measurements of what NSIDC believes is sea ice thickness in feet, however it is unclear how often these measurements were taken. After these 2100 values, another header of nine values occurs followed again by 2100 measurements. The file continues in this pattern through the remainder of the file. Users with information about the contents of the file are encouraged to contact <a href="mailto:nsidc.org">NSIDC User Services</a>.Two supporting documents that provide some background have been scanned and included as PDF files. These are AIDJEX_ULS_background.pdf and AIDJEX_ULS_format.pdf.These data are available via FTP.<strong>Note:</strong> These data are in a raw format with unknown fields and are being provided as is for preservation purposes. A processed version of the data are available in the <a href="/data/g01360.html">Submarine Upward Looking Sonar Ice Draft Profile Data and Statistics</a> data set.n",
 	"license_title": null,
 	"extras": [{
 		"key": "bbox-east-long",
@@ -183,7 +183,7 @@
 	},
 	{
 		"key": "spatial",
-		"value": "{\"type\": \"Polygon\", \"coordinates\": [[[-155.0, 70.0], [-137.0, 70.0], [-137.0, 76.0], [-155.0, 76.0], [-155.0, 70.0]]]}"
+		"value": "{"type": "Polygon", "coordinates": [[[-155.0, 70.0], [-137.0, 70.0], [-137.0, 76.0], [-155.0, 76.0], [-155.0, 70.0]]]}"
 	},
 	{
 		"key": "progress",
@@ -191,7 +191,7 @@
 	},
 	{
 		"key": "access_constraints",
-		"value": "[\"Access Constraints : none\", \"Use Constraints : none\"]"
+		"value": "["Access Constraints : none", "Use Constraints : none"]"
 	},
 	{
 		"key": "temporal-extent-begin",
@@ -211,7 +211,7 @@
 	},
 	{
 		"key": "dataset-reference-date",
-		"value": "[{\"type\": \"publication\", \"value\": \"2013-08-28\"}]"
+		"value": "[{"type": "publication", "value": "2013-08-28"}]"
 	},
 	{
 		"key": "frequency-of-update",
@@ -227,7 +227,7 @@
 	},
 	{
 		"key": "responsible-party",
-		"value": "[{\"name\": \"\", \"roles\": [\"principalInvestigator\"]}, {\"name\": \"National Snow and Ice Data Center\", \"roles\": [\"pointOfContact\"]}]"
+		"value": "[{"name": "", "roles": ["principalInvestigator"]}, {"name": "National Snow and Ice Data Center", "roles": ["pointOfContact"]}]"
 	},
 	{
 		"key": "temporal-extent-end",
@@ -273,7 +273,7 @@
 		"revision_timestamp": "2013-03-25T23:05:12.923863",
 		"is_organization": true,
 		"state": "active",
-		"image_url": "https:\/\/fortress.wa.gov\/dfw\/score\/score\/images\/noaa_logo.png",
+		"image_url": "https://fortress.wa.gov/dfw/score/score/images/noaa_logo.png",
 		"revision_id": "c6d43080-22e1-405e-a83d-f2a512d9e867",
 		"type": "organization",
 		"id": "e811f0b4-451f-4896-9e8f-fc6802837819",

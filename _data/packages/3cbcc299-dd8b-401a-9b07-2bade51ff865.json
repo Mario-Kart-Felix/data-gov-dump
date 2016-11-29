@@ -37,7 +37,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2015-01-29T16:36:39.369319",
-		"url": "file:\/\/",
+		"url": "file://",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 0,
@@ -67,7 +67,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2015-01-29T16:36:39.369340",
-		"url": "http:\/\/www.humanitarianresponse.info\/",
+		"url": "http://www.humanitarianresponse.info/",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 1,
@@ -97,7 +97,7 @@
 		"cache_url": null,
 		"name": "Zip File",
 		"created": "2015-01-29T16:36:39.369348",
-		"url": "http:\/\/ebola-data.un.org\/Liberia\/Liberia_WADC00267_HR_lbr_lakeresa_lake_unmil\/Liberia_WADC00267_HR_lbr_lakeresa_lake_unmil.zip",
+		"url": "http://ebola-data.un.org/Liberia/Liberia_WADC00267_HR_lbr_lakeresa_lake_unmil/Liberia_WADC00267_HR_lbr_lakeresa_lake_unmil.zip",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 2,
@@ -121,7 +121,7 @@
 	"license_title": null,
 	"extras": [{
 		"key": "responsible-party",
-		"value": "[{\"name\": \"DPKO, UNMIL\", \"roles\": [\"pointOfContact\"]}]"
+		"value": "[{"name": "DPKO, UNMIL", "roles": ["pointOfContact"]}]"
 	},
 	{
 		"key": "contact-email",
@@ -141,7 +141,7 @@
 	},
 	{
 		"key": "dataset-reference-date",
-		"value": "[{\"type\": \"publication\", \"value\": \"2004-11-01\"}]"
+		"value": "[{"type": "publication", "value": "2004-11-01"}]"
 	},
 	{
 		"key": "resource-type",
@@ -169,7 +169,7 @@
 	},
 	{
 		"key": "licence",
-		"value": "[\"See access and use constraints information.\"]"
+		"value": "["See access and use constraints information."]"
 	},
 	{
 		"key": "metadata_type",
@@ -181,7 +181,7 @@
 	},
 	{
 		"key": "spatial",
-		"value": "{\"type\": \"Polygon\", \"coordinates\": [[[-12.00877, 4.365], [-7.03368, 4.365], [-7.03368, 7.55085], [-12.00877, 7.55085], [-12.00877, 4.365]]]}"
+		"value": "{"type": "Polygon", "coordinates": [[[-12.00877, 4.365], [-7.03368, 4.365], [-7.03368, 7.55085], [-12.00877, 7.55085], [-12.00877, 4.365]]]}"
 	},
 	{
 		"key": "guid",
@@ -193,7 +193,7 @@
 	},
 	{
 		"key": "access_constraints",
-		"value": "[\"Use Constraints: Restricted to use by UN staff\", \"Access Constraints: None\"]"
+		"value": "["Use Constraints: Restricted to use by UN staff", "Access Constraints: None"]"
 	},
 	{
 		"key": "spatial_harvester",

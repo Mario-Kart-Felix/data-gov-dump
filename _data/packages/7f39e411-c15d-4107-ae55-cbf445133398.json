@@ -34,9 +34,9 @@
 		"resource_locator_protocol": "WWW:LINK-1.0-http--link",
 		"mimetype": null,
 		"cache_url": null,
-		"name": "ftp:\/\/ftp.nefsc.noaa.gov\/",
+		"name": "ftp://ftp.nefsc.noaa.gov/",
 		"created": "2016-08-08T19:06:39.322971",
-		"url": "ftp:\/\/ftp.nefsc.noaa.gov\/",
+		"url": "ftp://ftp.nefsc.noaa.gov/",
 		"webstore_url": null,
 		"resource_locator_function": "download",
 		"position": 0,
@@ -65,7 +65,7 @@
 		"cache_url": null,
 		"name": "Website",
 		"created": "2016-08-08T19:06:39.323006",
-		"url": "http:\/\/www.nefsc.noaa.gov",
+		"url": "http://www.nefsc.noaa.gov",
 		"webstore_url": null,
 		"resource_locator_function": "information",
 		"position": 1,
@@ -94,7 +94,7 @@
 		"cache_url": null,
 		"name": "Website",
 		"created": "2016-08-08T19:06:39.323027",
-		"url": "http:\/\/www.nefsc.noaa.gov",
+		"url": "http://www.nefsc.noaa.gov",
 		"webstore_url": null,
 		"resource_locator_function": "information",
 		"position": 2,
@@ -123,7 +123,7 @@
 		"cache_url": null,
 		"name": "Website",
 		"created": "2016-08-08T19:06:39.323042",
-		"url": "http:\/\/www.nefsc.noaa.gov",
+		"url": "http://www.nefsc.noaa.gov",
 		"webstore_url": null,
 		"resource_locator_function": "information",
 		"position": 3,
@@ -152,7 +152,7 @@
 		"cache_url": null,
 		"name": "NOAA Data Management Plan (DMP)",
 		"created": "2016-08-08T19:06:39.323055",
-		"url": "https:\/\/inport.nmfs.noaa.gov\/inport\/item\/27384\/dmp",
+		"url": "https://inport.nmfs.noaa.gov/inport/item/27384/dmp",
 		"webstore_url": null,
 		"resource_locator_function": "information",
 		"position": 4,
@@ -169,7 +169,7 @@
 		"state": "active",
 		"last_modified": null,
 		"hash": "",
-		"description": "This page describes the NASA GCMD Keywords, how\n                                                        to reference those keywords and provides download instructions.\n                                                    ",
+		"description": "This page describes the NASA GCMD Keywords, hown                                                        to reference those keywords and provides download instructions.n                                                    ",
 		"format": "HTML",
 		"tracking_summary": {
 			"total": 474,
@@ -181,7 +181,7 @@
 		"cache_url": null,
 		"name": "GCMD Keywords Page",
 		"created": "2016-08-08T19:06:39.323067",
-		"url": "http:\/\/gcmd.nasa.gov\/learn\/keyword_list.html",
+		"url": "http://gcmd.nasa.gov/learn/keyword_list.html",
 		"webstore_url": null,
 		"resource_locator_function": "information",
 		"position": 5,
@@ -201,7 +201,7 @@
 	"name": "cooperative-research-paired-trawl-sweep-comparison-study",
 	"isopen": false,
 	"url": null,
-	"notes": "In the spring of 2009, Northeast Fisheries Science Center (NEFSC) replaced the previous standard bottom trawl gear (Yankee 36) with a new standard survey trawl designed in close collaboration with the fishing industry and local net manufacturers. Some stakeholders expressed concern that the rockhopper sweep introduced with this gear was not suitable for the efficient capture of flatfish and could therefore bias survey estimates. To address this question, a paired trawl experiment was conducted during the fall of 2009 and the spring and fall of 2010 aboard three chartered fishing vessels, the Mary K, the Moragh K, and the Endurance. The new standard survey trawl with rockhopper sweep was compared with an identical net with a 3\u00e2\u0080\u009d cookie sweep using paired tows between 2 vessels. Results in general showed significantly more flatfish caught with the cookie sweep, although differences in size distributions between the two sweeps were negligible in most cases.",
+	"notes": "In the spring of 2009, Northeast Fisheries Science Center (NEFSC) replaced the previous standard bottom trawl gear (Yankee 36) with a new standard survey trawl designed in close collaboration with the fishing industry and local net manufacturers. Some stakeholders expressed concern that the rockhopper sweep introduced with this gear was not suitable for the efficient capture of flatfish and could therefore bias survey estimates. To address this question, a paired trawl experiment was conducted during the fall of 2009 and the spring and fall of 2010 aboard three chartered fishing vessels, the Mary K, the Moragh K, and the Endurance. The new standard survey trawl with rockhopper sweep was compared with an identical net with a 3u00e2u0080u009d cookie sweep using paired tows between 2 vessels. Results in general showed significantly more flatfish caught with the cookie sweep, although differences in size distributions between the two sweeps were negligible in most cases.",
 	"license_title": null,
 	"extras": [{
 		"key": "bbox-east-long",
@@ -237,7 +237,7 @@
 	},
 	{
 		"key": "spatial",
-		"value": "{\"type\": \"Polygon\", \"coordinates\": [[[-70.865883, 41.108983], [-66.955583, 41.108983], [-66.955583, 44.691317], [-70.865883, 44.691317], [-70.865883, 41.108983]]]}"
+		"value": "{"type": "Polygon", "coordinates": [[[-70.865883, 41.108983], [-66.955583, 41.108983], [-66.955583, 44.691317], [-70.865883, 44.691317], [-70.865883, 41.108983]]]}"
 	},
 	{
 		"key": "progress",
@@ -245,7 +245,7 @@
 	},
 	{
 		"key": "access_constraints",
-		"value": "[\"Access Constraints: User must read and fully comprehend the metadata prior to use. Applications or inferences derived from the data should be carefully considered for accuracy. \\nNEFSC Data Access Constraint:\\nIf data is stored on an internal NEFSC network, the requester may not have direct access to query the data unless they are also authorized for network access. | Use Constraints: Acknowledgement of NOAA\/NMFS\/NEFSC, as the source from which these data were obtained in any publications and\/or other representations of these, data is suggested.\"]"
+		"value": "["Access Constraints: User must read and fully comprehend the metadata prior to use. Applications or inferences derived from the data should be carefully considered for accuracy. \nNEFSC Data Access Constraint:\nIf data is stored on an internal NEFSC network, the requester may not have direct access to query the data unless they are also authorized for network access. | Use Constraints: Acknowledgement of NOAA/NMFS/NEFSC, as the source from which these data were obtained in any publications and/or other representations of these, data is suggested."]"
 	},
 	{
 		"key": "temporal-extent-begin",
@@ -265,7 +265,7 @@
 	},
 	{
 		"key": "dataset-reference-date",
-		"value": "[{\"type\": \"publication\", \"value\": \"\"}]"
+		"value": "[{"type": "publication", "value": ""}]"
 	},
 	{
 		"key": "frequency-of-update",
@@ -281,7 +281,7 @@
 	},
 	{
 		"key": "responsible-party",
-		"value": "[{\"name\": \"\", \"roles\": [\"\"]}, {\"name\": \"Northeast Fisheries Science Center\", \"roles\": [\"pointOfContact\", \"custodian\"]}]"
+		"value": "[{"name": "", "roles": [""]}, {"name": "Northeast Fisheries Science Center", "roles": ["pointOfContact", "custodian"]}]"
 	},
 	{
 		"key": "temporal-extent-end",
@@ -297,7 +297,7 @@
 	},
 	{
 		"package_id": "7f39e411-c15d-4107-ae55-cbf445133398",
-		"value": "georges bank, northeast fisheries science center, national marine fisheries service, noaa, u.s. department of commerce, southern new england, doc\/noaa\/nmfs\/nefsc, paired trawl, 2010, cooperative research, northeast cooperative research program (ncrp), gulf of maine, 2009, benthic, demersal",
+		"value": "georges bank, northeast fisheries science center, national marine fisheries service, noaa, u.s. department of commerce, southern new england, doc/noaa/nmfs/nefsc, paired trawl, 2010, cooperative research, northeast cooperative research program (ncrp), gulf of maine, 2009, benthic, demersal",
 		"revision_timestamp": "2016-07-19T00:01:33.578142",
 		"state": "active",
 		"key": "tags",
@@ -327,7 +327,7 @@
 		"revision_timestamp": "2013-03-25T23:05:12.923863",
 		"is_organization": true,
 		"state": "active",
-		"image_url": "https:\/\/fortress.wa.gov\/dfw\/score\/score\/images\/noaa_logo.png",
+		"image_url": "https://fortress.wa.gov/dfw/score/score/images/noaa_logo.png",
 		"revision_id": "c6d43080-22e1-405e-a83d-f2a512d9e867",
 		"type": "organization",
 		"id": "e811f0b4-451f-4896-9e8f-fc6802837819",

@@ -37,7 +37,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2015-09-26T23:15:05.079566",
-		"url": "http:\/\/www.ngs.noaa.gov\/GEOID\/",
+		"url": "http://www.ngs.noaa.gov/GEOID/",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 0,
@@ -67,7 +67,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2015-09-26T23:15:05.079606",
-		"url": "http:\/\/www.ngs.noaa.gov\/GEOID",
+		"url": "http://www.ngs.noaa.gov/GEOID",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 1,
@@ -87,11 +87,11 @@
 	"name": "geoid-height-and-deflection-of-the-vertical-models",
 	"isopen": false,
 	"url": null,
-	"notes": "The Office of the National Geodetic Survey has produced a series of high-resolution gravimetric geoid models, hybrid geoid models, and associated deflection of the vertical products for the United States. The gravimetric geoid models are referred to the Geodetic Reference System of 1980 (GRS80), centered at the most recent ITRF reference frame of origin. The hybrid geoid models and associated deflection of the vertical models refer to the NAD 83 datum, and are used as a transformation between NAD 83 and NAVD 88.Major geoid products were released in 1990, 1993, 1996, 1999, and 2003. A new model is planned for 2006. Each release represents an improvement in accuracy over the previous models. The newest (2003) products are (1) USGG2003, a gravimetric geoid model, (2) GEOID03, a hybrid geoid model. USGG2003 converts between ITRF00 and an enhanced EGM96 geoid for all regions (CONUS, Alaska, Hawaii, and Puerto Rico\/Virgin Islands). GEOID03 converts between NAD 83 and NAVD 88 for CONUS only, and between NAD 83 and the enhanced EGM96 geoid for all other regions.Within the conterminous US, most users should use GEOID03. It is constructed specifically to relate GPS ellipsoid heights in the NAD 83 datum and orthometric heights in the NAVD 88 datum. These are the datums used in many maps and charts, and most applications require that consistency. A new model, GEOID06, will be generated this year only for Alaska to provide a transformation between NAD 83 and NAVD 88 - where it is available. NAVD 88 coverage in Alaska is not complete and may not be suitable for all regions. No NAVD 88 coverage exists in Hawaii or PR\/VI, hence only the EGM96 geoid surface is currently valid there.The GEOID03 product comprises eight files for the conterminous US, four files for Alaska, and one each for Hawaii and Puerto Rico\/Virgin Islands. Each file contains geoid heights on a one minute by one minute grid in little-endian binary (PC compatible). The INTG program is supplied at the download site to interpolate to a specific position within these grids. Another program, XNTG, is supplied to extract subsets and convert the grids. Both are in FORTRAN, are available compiled and as source code, and can byte-swap the grids if needed on a Unix platform. There is also an on-line geoid computational facility within the NGS Geodetic Tool Kit at http:\/\/www.ngs.noaa.gov\/TOOLS. Similar files, programs, and on-line computational facilities exist for USGG2003 and DEFLEC99. See the GEOID section of the NGS Web site at http:\/\/www.ngs.noaa.gov\/GEOID.Geoid and deflection of the vertical models for Mexico and the Caribbean were computed in 1997 and are distributed as MEXICO97, DMEX97, CARIB97, and DCAR97 respectively. NGS also offers technical information concerning the construction of the geoid models and practical information concerning its use on the NGS web site at http:\/\/www.ngs.noaa.gov\/GEOID. NGS also offers a workshop concerning GPS derived heights and the use of the geoid models to convert from GPS derived heights to orthometric heights (see http:\/\/www.ngs.noaa.gov\/PC_PROD\/WorkShops\/).",
+	"notes": "The Office of the National Geodetic Survey has produced a series of high-resolution gravimetric geoid models, hybrid geoid models, and associated deflection of the vertical products for the United States. The gravimetric geoid models are referred to the Geodetic Reference System of 1980 (GRS80), centered at the most recent ITRF reference frame of origin. The hybrid geoid models and associated deflection of the vertical models refer to the NAD 83 datum, and are used as a transformation between NAD 83 and NAVD 88.Major geoid products were released in 1990, 1993, 1996, 1999, and 2003. A new model is planned for 2006. Each release represents an improvement in accuracy over the previous models. The newest (2003) products are (1) USGG2003, a gravimetric geoid model, (2) GEOID03, a hybrid geoid model. USGG2003 converts between ITRF00 and an enhanced EGM96 geoid for all regions (CONUS, Alaska, Hawaii, and Puerto Rico/Virgin Islands). GEOID03 converts between NAD 83 and NAVD 88 for CONUS only, and between NAD 83 and the enhanced EGM96 geoid for all other regions.Within the conterminous US, most users should use GEOID03. It is constructed specifically to relate GPS ellipsoid heights in the NAD 83 datum and orthometric heights in the NAVD 88 datum. These are the datums used in many maps and charts, and most applications require that consistency. A new model, GEOID06, will be generated this year only for Alaska to provide a transformation between NAD 83 and NAVD 88 - where it is available. NAVD 88 coverage in Alaska is not complete and may not be suitable for all regions. No NAVD 88 coverage exists in Hawaii or PR/VI, hence only the EGM96 geoid surface is currently valid there.The GEOID03 product comprises eight files for the conterminous US, four files for Alaska, and one each for Hawaii and Puerto Rico/Virgin Islands. Each file contains geoid heights on a one minute by one minute grid in little-endian binary (PC compatible). The INTG program is supplied at the download site to interpolate to a specific position within these grids. Another program, XNTG, is supplied to extract subsets and convert the grids. Both are in FORTRAN, are available compiled and as source code, and can byte-swap the grids if needed on a Unix platform. There is also an on-line geoid computational facility within the NGS Geodetic Tool Kit at http://www.ngs.noaa.gov/TOOLS. Similar files, programs, and on-line computational facilities exist for USGG2003 and DEFLEC99. See the GEOID section of the NGS Web site at http://www.ngs.noaa.gov/GEOID.Geoid and deflection of the vertical models for Mexico and the Caribbean were computed in 1997 and are distributed as MEXICO97, DMEX97, CARIB97, and DCAR97 respectively. NGS also offers technical information concerning the construction of the geoid models and practical information concerning its use on the NGS web site at http://www.ngs.noaa.gov/GEOID. NGS also offers a workshop concerning GPS derived heights and the use of the geoid models to convert from GPS derived heights to orthometric heights (see http://www.ngs.noaa.gov/PC_PROD/WorkShops/).",
 	"license_title": null,
 	"extras": [{
 		"key": "responsible-party",
-		"value": "[{\"name\": \"National Oceanic and Atmospheric Administration (NOAA), National Ocean Service (NOS), National Geodetic Survey (NGS)\", \"roles\": [\"pointOfContact\"]}]"
+		"value": "[{"name": "National Oceanic and Atmospheric Administration (NOAA), National Ocean Service (NOS), National Geodetic Survey (NGS)", "roles": ["pointOfContact"]}]"
 	},
 	{
 		"key": "contact-email",
@@ -103,7 +103,7 @@
 	},
 	{
 		"key": "bbox-west-long",
-		"value": "-175.0\n"
+		"value": "-175.0n"
 	},
 	{
 		"key": "metadata-date",
@@ -111,7 +111,7 @@
 	},
 	{
 		"key": "dataset-reference-date",
-		"value": "[{\"type\": \"publication\", \"value\": \"2003-01-01\"}]"
+		"value": "[{"type": "publication", "value": "2003-01-01"}]"
 	},
 	{
 		"key": "resource-type",
@@ -119,7 +119,7 @@
 	},
 	{
 		"key": "bbox-east-long",
-		"value": "-63.0\n"
+		"value": "-63.0n"
 	},
 	{
 		"key": "spatial-reference-system",
@@ -127,7 +127,7 @@
 	},
 	{
 		"key": "bbox-north-lat",
-		"value": "+71.0\n"
+		"value": "+71.0n"
 	},
 	{
 		"key": "coupled-resource",
@@ -135,11 +135,11 @@
 	},
 	{
 		"key": "bbox-south-lat",
-		"value": "+15.0\n"
+		"value": "+15.0n"
 	},
 	{
 		"key": "licence",
-		"value": "[\"none\\n\"]"
+		"value": "["none\n"]"
 	},
 	{
 		"key": "metadata_type",
@@ -151,7 +151,7 @@
 	},
 	{
 		"key": "spatial",
-		"value": "{\"type\": \"Polygon\", \"coordinates\": [[[-175.0, 15.0], [-63.0, 15.0], [-63.0, 71.0], [-175.0, 71.0], [-175.0, 15.0]]]}"
+		"value": "{"type": "Polygon", "coordinates": [[[-175.0, 15.0], [-63.0, 15.0], [-63.0, 71.0], [-175.0, 71.0], [-175.0, 15.0]]]}"
 	},
 	{
 		"key": "guid",
@@ -163,7 +163,7 @@
 	},
 	{
 		"key": "access_constraints",
-		"value": "[\"Use Constraints: none\", \"Access Constraints: none\"]"
+		"value": "["Use Constraints: none", "Access Constraints: none"]"
 	},
 	{
 		"key": "spatial_harvester",
@@ -175,7 +175,7 @@
 	},
 	{
 		"package_id": "dc989d98-1a86-443a-9d63-937b84eccc82",
-		"value": "topographic data, egm96, gravity fields, elevation, virgin islands, mexico, geoid99, terrain elevation, interior and crust, usgg2003, geodesy, puerto rico, geodetic\/global positioning, caribbean, geoid03, deflec99, united states, land",
+		"value": "topographic data, egm96, gravity fields, elevation, virgin islands, mexico, geoid99, terrain elevation, interior and crust, usgg2003, geodesy, puerto rico, geodetic/global positioning, caribbean, geoid03, deflec99, united states, land",
 		"revision_timestamp": "2015-09-27T03:15:04.964792",
 		"state": "active",
 		"key": "tags",
@@ -205,7 +205,7 @@
 		"revision_timestamp": "2013-03-25T23:05:12.923863",
 		"is_organization": true,
 		"state": "active",
-		"image_url": "https:\/\/fortress.wa.gov\/dfw\/score\/score\/images\/noaa_logo.png",
+		"image_url": "https://fortress.wa.gov/dfw/score/score/images/noaa_logo.png",
 		"revision_id": "c6d43080-22e1-405e-a83d-f2a512d9e867",
 		"type": "organization",
 		"id": "e811f0b4-451f-4896-9e8f-fc6802837819",

@@ -37,7 +37,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2016-05-30T22:54:28.398387",
-		"url": "https:\/\/coast.noaa.gov\/dataviewer\/#\/lidar\/search\/where:ID=47",
+		"url": "https://coast.noaa.gov/dataviewer/#/lidar/search/where:ID=47",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 0,
@@ -67,7 +67,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2016-05-30T22:54:28.398410",
-		"url": "https:\/\/coast.noaa.gov\/htdata\/lidar1_z\/geoid12a\/data\/47",
+		"url": "https://coast.noaa.gov/htdata/lidar1_z/geoid12a/data/47",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 1,
@@ -97,7 +97,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2016-05-30T22:54:28.398420",
-		"url": "https:\/\/coast.noaa.gov\/dataviewer",
+		"url": "https://coast.noaa.gov/dataviewer",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 2,
@@ -127,7 +127,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2016-05-30T22:54:28.398427",
-		"url": "https:\/\/coast.noaa.gov",
+		"url": "https://coast.noaa.gov",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 3,
@@ -147,7 +147,7 @@
 	"name": "december-2002-lidar-point-data-of-southern-california-coastline-dana-point-to-point-la-jolla112dd",
 	"isopen": false,
 	"url": null,
-	"notes": "This data set contains lidar point data (latitude and longitude) from a strip of Southern California coastline (including water, beach, cliffs, and top of cliffs) from Dana Point to Point La Jolla. The data set was created by combining data collected using an Optech Inc. Airborne Laser Terrain Mapper (ALTM) 1225 in combination with geodetic quality Global Positioning System (GPS) airborne and ground-based receivers. The Bureau of Economic Geology, the University of Texas at Austin owns and operates an ALTM 1225 system (serial number 99d118). The system was installed in a single engine Cessna 206 (tail number N4589U) owned and operated by the Texas State Aircraft Pooling Board. The lidar data set described by this document was collected on 3-4 December 2002 (33702 and 33802) between 20:33 and 23:29 UTC on 33702 and 20:26 and 21:19 UTC on 33802 (see Lineage, Source_Information, Source_Contribution for pass information). Conditions on both days were clear skies, no fog or low clouds. A second flight on 33802 was required due to low cloud formation on 33702. 99d118 instrument settings for this flight were; laser pulse rate: 25kHz, scanner rate: 26Hz, scan angle: +\/-20deg, beam divergence: narrow (wide for offshore pass), altitude: 700-820m AGL, and ground speed: 78-112kts. Two GPS base stations (Scripps pier and San Onofre Power Plant, see Lineage, Source_Information, Source_Contribution for coordinates) were operating during the survey. Data represented is all points including terrain, vegetation, and structures. This data also contains returns from the water surface. No processing has been done to remove returns from terrain, vegetation, structures or water surfaces.",
+	"notes": "This data set contains lidar point data (latitude and longitude) from a strip of Southern California coastline (including water, beach, cliffs, and top of cliffs) from Dana Point to Point La Jolla. The data set was created by combining data collected using an Optech Inc. Airborne Laser Terrain Mapper (ALTM) 1225 in combination with geodetic quality Global Positioning System (GPS) airborne and ground-based receivers. The Bureau of Economic Geology, the University of Texas at Austin owns and operates an ALTM 1225 system (serial number 99d118). The system was installed in a single engine Cessna 206 (tail number N4589U) owned and operated by the Texas State Aircraft Pooling Board. The lidar data set described by this document was collected on 3-4 December 2002 (33702 and 33802) between 20:33 and 23:29 UTC on 33702 and 20:26 and 21:19 UTC on 33802 (see Lineage, Source_Information, Source_Contribution for pass information). Conditions on both days were clear skies, no fog or low clouds. A second flight on 33802 was required due to low cloud formation on 33702. 99d118 instrument settings for this flight were; laser pulse rate: 25kHz, scanner rate: 26Hz, scan angle: +/-20deg, beam divergence: narrow (wide for offshore pass), altitude: 700-820m AGL, and ground speed: 78-112kts. Two GPS base stations (Scripps pier and San Onofre Power Plant, see Lineage, Source_Information, Source_Contribution for coordinates) were operating during the survey. Data represented is all points including terrain, vegetation, and structures. This data also contains returns from the water surface. No processing has been done to remove returns from terrain, vegetation, structures or water surfaces.",
 	"license_title": null,
 	"extras": [{
 		"key": "bbox-east-long",
@@ -183,7 +183,7 @@
 	},
 	{
 		"key": "spatial",
-		"value": "{\"type\": \"Polygon\", \"coordinates\": [[[-117.724831, 32.83383], [-117.249831, 32.83383], [-117.249831, 33.47133], [-117.724831, 33.47133], [-117.724831, 32.83383]]]}"
+		"value": "{"type": "Polygon", "coordinates": [[[-117.724831, 32.83383], [-117.249831, 32.83383], [-117.249831, 33.47133], [-117.724831, 33.47133], [-117.724831, 32.83383]]]}"
 	},
 	{
 		"key": "progress",
@@ -191,7 +191,7 @@
 	},
 	{
 		"key": "access_constraints",
-		"value": "[\"Use Constraints: Users should be aware that temporal changes may have occurred since this data set was collected and some parts of this data may no longer represent actual surface conditions. Users should not use this data for critical applications without a full awareness of its limitations.\", \"Access Constraints: none\"]"
+		"value": "["Use Constraints: Users should be aware that temporal changes may have occurred since this data set was collected and some parts of this data may no longer represent actual surface conditions. Users should not use this data for critical applications without a full awareness of its limitations.", "Access Constraints: none"]"
 	},
 	{
 		"key": "temporal-extent-begin",
@@ -211,7 +211,7 @@
 	},
 	{
 		"key": "dataset-reference-date",
-		"value": "[{\"type\": \"publication\", \"value\": \"2003-12-22\"}]"
+		"value": "[{"type": "publication", "value": "2003-12-22"}]"
 	},
 	{
 		"key": "frequency-of-update",
@@ -219,7 +219,7 @@
 	},
 	{
 		"key": "licence",
-		"value": "[\"\\nThis data was collected in partnership with Scripps Institution of Oceanography,\\nThe University of California, San Diego. Any conclusions drawn from analysis of this information are not the responsibility\\nof the Bureau of Economic Geology or the University of Texas at Austin, NOAA, the OCM or its partners.\\n\"]"
+		"value": "["\nThis data was collected in partnership with Scripps Institution of Oceanography,\nThe University of California, San Diego. Any conclusions drawn from analysis of this information are not the responsibility\nof the Bureau of Economic Geology or the University of Texas at Austin, NOAA, the OCM or its partners.\n"]"
 	},
 	{
 		"key": "metadata_type",
@@ -227,7 +227,7 @@
 	},
 	{
 		"key": "responsible-party",
-		"value": "[{\"name\": \"SCBPS\/CDIP, Scripps Institution of Oceanography\", \"roles\": [\"pointOfContact\"]}]"
+		"value": "[{"name": "SCBPS/CDIP, Scripps Institution of Oceanography", "roles": ["pointOfContact"]}]"
 	},
 	{
 		"key": "temporal-extent-end",
@@ -243,7 +243,7 @@
 	},
 	{
 		"package_id": "7ca29f76-ba4b-470e-bf2d-f18e25cb2a50",
-		"value": "pacific ocean, shoreline, december, san diego, longitude, lidar, 2002, intensity, bathymetry\/topography, us, point file, california, latitude, laser, beach",
+		"value": "pacific ocean, shoreline, december, san diego, longitude, lidar, 2002, intensity, bathymetry/topography, us, point file, california, latitude, laser, beach",
 		"revision_timestamp": "2015-09-26T21:35:49.395342",
 		"state": "active",
 		"key": "tags",
@@ -273,7 +273,7 @@
 		"revision_timestamp": "2013-03-25T23:05:12.923863",
 		"is_organization": true,
 		"state": "active",
-		"image_url": "https:\/\/fortress.wa.gov\/dfw\/score\/score\/images\/noaa_logo.png",
+		"image_url": "https://fortress.wa.gov/dfw/score/score/images/noaa_logo.png",
 		"revision_id": "c6d43080-22e1-405e-a83d-f2a512d9e867",
 		"type": "organization",
 		"id": "e811f0b4-451f-4896-9e8f-fc6802837819",

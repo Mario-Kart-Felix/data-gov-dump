@@ -37,7 +37,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2015-01-21T10:27:38.846612",
-		"url": "http:\/\/www2.census.gov\/geo\/tiger\/TIGER2012\/LINEARWATER",
+		"url": "http://www2.census.gov/geo/tiger/TIGER2012/LINEARWATER",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 0,
@@ -67,7 +67,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2015-01-21T10:27:38.846654",
-		"url": "http:\/\/www2.census.gov\/geo\/datadotgov\/linearwater",
+		"url": "http://www2.census.gov/geo/datadotgov/linearwater",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 1,
@@ -97,7 +97,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2015-01-21T10:27:38.846671",
-		"url": "http:\/\/www2.census.gov\/geo\/tiger\/TIGER2012\/LINEARWATER",
+		"url": "http://www2.census.gov/geo/tiger/TIGER2012/LINEARWATER",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 2,
@@ -106,7 +106,7 @@
 	}],
 	"num_resources": 3,
 	"tags": [],
-	"title": "TIGER\/Line Shapefile, 2012, Series Information File for the Linear Hydrography County-based Shapefiles",
+	"title": "TIGER/Line Shapefile, 2012, Series Information File for the Linear Hydrography County-based Shapefiles",
 	"tracking_summary": {
 		"total": 27,
 		"recent": 1
@@ -117,7 +117,7 @@
 	"name": "tiger-line-shapefile-2012-series-information-file-for-the-linear-hydrography-county-based-shape",
 	"isopen": false,
 	"url": null,
-	"notes": "The TIGER\/Line shapefiles and related database files (.dbf) are an extract of selected geographic and cartographic information from the\n               U.S. Census Bureau's Master Address File \/ Topologically Integrated Geographic Encoding and Referencing (MAF\/TIGER) Database (MTDB). The MTDB represents\n               a seamless national file with no overlaps or gaps between parts, however, each TIGER\/Line shapefile is designed to stand alone as an independent data set,\n               or they can be combined to cover the entire nation. Linear Water Features includes single-line drainage water features and artificial path features that\n               run through double-line drainage features such as rivers and streams, and serve as a linear representation of these features. The artificial path\n               features may correspond to those in the USGS National Hydrographic Dataset (NHD). However, in many cases the features do not match NHD equivalent feature\n               and will not carry the NHD metadata codes. These features have a MAF\/TIGER Feature Classification Code (MTFCC) beginning with an \"H\" to indicate the\n               super class of Hydrographic Features.",
+	"notes": "The TIGER/Line shapefiles and related database files (.dbf) are an extract of selected geographic and cartographic information from then               U.S. Census Bureau's Master Address File / Topologically Integrated Geographic Encoding and Referencing (MAF/TIGER) Database (MTDB). The MTDB representsn               a seamless national file with no overlaps or gaps between parts, however, each TIGER/Line shapefile is designed to stand alone as an independent data set,n               or they can be combined to cover the entire nation. Linear Water Features includes single-line drainage water features and artificial path features thatn               run through double-line drainage features such as rivers and streams, and serve as a linear representation of these features. The artificial pathn               features may correspond to those in the USGS National Hydrographic Dataset (NHD). However, in many cases the features do not match NHD equivalent featuren               and will not carry the NHD metadata codes. These features have a MAF/TIGER Feature Classification Code (MTFCC) beginning with an "H" to indicate then               super class of Hydrographic Features.",
 	"license_title": null,
 	"extras": [{
 		"key": "bbox-east-long",
@@ -157,7 +157,7 @@
 	},
 	{
 		"key": "spatial",
-		"value": "{\"type\": \"Polygon\", \"coordinates\": [[[-179.231086, -14.601813], [179.859681, -14.601813], [179.859681, 71.441059], [-179.231086, 71.441059], [-179.231086, -14.601813]]]}"
+		"value": "{"type": "Polygon", "coordinates": [[[-179.231086, -14.601813], [179.859681, -14.601813], [179.859681, 71.441059], [-179.231086, 71.441059], [-179.231086, -14.601813]]]}"
 	},
 	{
 		"key": "progress",
@@ -165,7 +165,7 @@
 	},
 	{
 		"key": "access_constraints",
-		"value": "[\"Use Constraints: The TIGER\/Line Shapefile products are not copyrighted however TIGER\/Line and Census TIGER are registered\\n                     trademarks of the U.S. Census Bureau. These products are free to use in a product or publication, however acknowledgment must be given to the U.S.\\n                     Census Bureau as the source. The horizontal spatial accuracy information present in these files is provided for the purposes of statistical\\n                     analysis and census operations only. No warranty, expressed or implied is made with regard to the accuracy of the spatial accuracy, and no\\n                     liability is assumed by the U.S. Government in general or the U.S. Census Bureau, specifically as to the spatial or attribute accuracy of the data.\\n                     The TIGER\/Line Shapefiles may not be suitable for high-precision measurement applications such as engineering problems, property transfers, or\\n                     other uses that might require highly accurate measurements of the earth's surface. Coordinates in the TIGER\/Line shapefiles have six implied decimal\\n                     places, but the positional accuracy of these coordinates is not as great as the six decimal places suggest.\", \"Access Constraints: None\"]"
+		"value": "["Use Constraints: The TIGER/Line Shapefile products are not copyrighted however TIGER/Line and Census TIGER are registered\n                     trademarks of the U.S. Census Bureau. These products are free to use in a product or publication, however acknowledgment must be given to the U.S.\n                     Census Bureau as the source. The horizontal spatial accuracy information present in these files is provided for the purposes of statistical\n                     analysis and census operations only. No warranty, expressed or implied is made with regard to the accuracy of the spatial accuracy, and no\n                     liability is assumed by the U.S. Government in general or the U.S. Census Bureau, specifically as to the spatial or attribute accuracy of the data.\n                     The TIGER/Line Shapefiles may not be suitable for high-precision measurement applications such as engineering problems, property transfers, or\n                     other uses that might require highly accurate measurements of the earth's surface. Coordinates in the TIGER/Line shapefiles have six implied decimal\n                     places, but the positional accuracy of these coordinates is not as great as the six decimal places suggest.", "Access Constraints: None"]"
 	},
 	{
 		"key": "temporal-extent-begin",
@@ -185,7 +185,7 @@
 	},
 	{
 		"key": "dataset-reference-date",
-		"value": "[{\"type\": \"publication\", \"value\": \"2012-01-01\"}]"
+		"value": "[{"type": "publication", "value": "2012-01-01"}]"
 	},
 	{
 		"key": "frequency-of-update",
@@ -193,7 +193,7 @@
 	},
 	{
 		"key": "licence",
-		"value": "[\"No warranty, expressed or implied is made with regard to the accuracy of these data, and no liability is assumed by the U.S.\\n                     Government in general or the U.S. Census Bureau in specific as to the spatial or attribute accuracy of the data.  The act of distribution shall not\\n                     constitute any such warranty and no responsibility is assumed by the U.S. government in the use of these files.  The boundary information in the\\n                     TIGER\/Line Shapefiles is for statistical data collection and tabulation purposes only; their depiction and designation for statistical purposes do\\n                     not constitute a determination of jurisdictional authority or rights of ownership or entitlement and they are not legal land descriptions.\\n                  \"]"
+		"value": "["No warranty, expressed or implied is made with regard to the accuracy of these data, and no liability is assumed by the U.S.\n                     Government in general or the U.S. Census Bureau in specific as to the spatial or attribute accuracy of the data.  The act of distribution shall not\n                     constitute any such warranty and no responsibility is assumed by the U.S. government in the use of these files.  The boundary information in the\n                     TIGER/Line Shapefiles is for statistical data collection and tabulation purposes only; their depiction and designation for statistical purposes do\n                     not constitute a determination of jurisdictional authority or rights of ownership or entitlement and they are not legal land descriptions.\n                  "]"
 	},
 	{
 		"key": "metadata_type",
@@ -201,7 +201,7 @@
 	},
 	{
 		"key": "responsible-party",
-		"value": "[{\"name\": \"U.S. Department of Commerce, U.S. Census Bureau, Geography Division, Geographic Products Branch\", \"roles\": [\"pointOfContact\"]}]"
+		"value": "[{"name": "U.S. Department of Commerce, U.S. Census Bureau, Geography Division, Geographic Products Branch", "roles": ["pointOfContact"]}]"
 	},
 	{
 		"key": "temporal-extent-end",
@@ -247,7 +247,7 @@
 		"revision_timestamp": "2013-08-29T13:37:04.171127",
 		"is_organization": true,
 		"state": "active",
-		"image_url": "http:\/\/www.census.gov\/main\/img\/home\/CensusLogo-white.png",
+		"image_url": "http://www.census.gov/main/img/home/CensusLogo-white.png",
 		"revision_id": "0995f525-d563-4254-a535-af5b926fe663",
 		"type": "organization",
 		"id": "31c49abe-512a-412a-9cc7-5b2601325d6b",

@@ -37,7 +37,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2016-05-31T01:24:25.619236",
-		"url": "https:\/\/coast.noaa.gov\/slr",
+		"url": "https://coast.noaa.gov/slr",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 0,
@@ -67,7 +67,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2016-05-31T01:24:25.619264",
-		"url": "https:\/\/coast.noaa.gov\/digitalcoast\/tools\/slr",
+		"url": "https://coast.noaa.gov/digitalcoast/tools/slr",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 1,
@@ -97,7 +97,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2016-05-31T01:24:25.619273",
-		"url": "https:\/\/coast.noaa.gov\/",
+		"url": "https://coast.noaa.gov/",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 2,
@@ -106,7 +106,7 @@
 	}],
 	"num_resources": 3,
 	"tags": [],
-	"title": "NOAA Office for Coastal Management Coastal Inundation Digital Elevation Model: Gray\/Portland Weather Forecast Office (GYX WFO) - Maine and New Hampshire",
+	"title": "NOAA Office for Coastal Management Coastal Inundation Digital Elevation Model: Gray/Portland Weather Forecast Office (GYX WFO) - Maine and New Hampshire",
 	"tracking_summary": {
 		"total": 12,
 		"recent": 1
@@ -117,7 +117,7 @@
 	"name": "noaa-office-for-coastal-management-coastal-inundation-digital-elevation-model-gray-portland-wea",
 	"isopen": false,
 	"url": null,
-	"notes": "These data were created as part of the National Oceanic and Atmospheric Administration Office for Coastal Management's efforts to create an online mapping viewer called the Sea Level Rise and Coastal Flooding Impacts Viewer. It depicts potential sea level rise and its associated impacts on the nation's coastal areas. The purpose of the mapping viewer is to provide coastal managers and scientists with a preliminary look at sea level rise (slr) and coastal flooding impacts. The viewer is a screening-level tool that uses nationally consistent data sets and analyses. Data and maps provided can be used at several scales to help gauge trends and prioritize actions for different scenarios. The Sea Level Rise and Coastal Flooding Impacts Viewer may be accessed at: http:\/\/www.coast.noaa.gov\/slr This metadata record describes the Gray\/Portland Weather Forecast Office (GYX WFO) digital elevation model (DEM), which is a part of a series of DEMs produced for the National Oceanic and Atmospheric Administration Office for Coastal Management's Sea Level Rise and Coastal Flooding Impacts Viewer described above. The DEMs created for this project were developed using the NOAA National Weather Service's Weather Forecast Office (WFO) boundaries. This DEM includes the best available lidar known to exist at the time of DEM creation that met project specifications for the Gray\/Portland WFO, which includes the coastal areas of the counties of Waldo, Knox, Kennebec, Lincoln, Sagadahoc, Androscoggin, Cumberland, and York in Maine and Strafford and Rockingham in New Hampshire. The DEM was produced from LiDAR datasets acquired by the U.S. Geological Survey (USGS) under the LiDAR for the Northeast Project. Hydrographic breaklines were delineated from LiDAR intensity imagery generated from the LiDAR dataset. The final DEM is hydro flattened such that water elevations are less than or equal to -0.5 meters. The DEM is referenced vertically to the North American Vertical Datum of 1988 (NAVD88) with vertical units of meters and horizontally to the North American Datum of 1983 (NAD83). The resolution of the DEM is approximately 10 meters.",
+	"notes": "These data were created as part of the National Oceanic and Atmospheric Administration Office for Coastal Management's efforts to create an online mapping viewer called the Sea Level Rise and Coastal Flooding Impacts Viewer. It depicts potential sea level rise and its associated impacts on the nation's coastal areas. The purpose of the mapping viewer is to provide coastal managers and scientists with a preliminary look at sea level rise (slr) and coastal flooding impacts. The viewer is a screening-level tool that uses nationally consistent data sets and analyses. Data and maps provided can be used at several scales to help gauge trends and prioritize actions for different scenarios. The Sea Level Rise and Coastal Flooding Impacts Viewer may be accessed at: http://www.coast.noaa.gov/slr This metadata record describes the Gray/Portland Weather Forecast Office (GYX WFO) digital elevation model (DEM), which is a part of a series of DEMs produced for the National Oceanic and Atmospheric Administration Office for Coastal Management's Sea Level Rise and Coastal Flooding Impacts Viewer described above. The DEMs created for this project were developed using the NOAA National Weather Service's Weather Forecast Office (WFO) boundaries. This DEM includes the best available lidar known to exist at the time of DEM creation that met project specifications for the Gray/Portland WFO, which includes the coastal areas of the counties of Waldo, Knox, Kennebec, Lincoln, Sagadahoc, Androscoggin, Cumberland, and York in Maine and Strafford and Rockingham in New Hampshire. The DEM was produced from LiDAR datasets acquired by the U.S. Geological Survey (USGS) under the LiDAR for the Northeast Project. Hydrographic breaklines were delineated from LiDAR intensity imagery generated from the LiDAR dataset. The final DEM is hydro flattened such that water elevations are less than or equal to -0.5 meters. The DEM is referenced vertically to the North American Vertical Datum of 1988 (NAVD88) with vertical units of meters and horizontally to the North American Datum of 1983 (NAD83). The resolution of the DEM is approximately 10 meters.",
 	"license_title": null,
 	"extras": [{
 		"key": "bbox-east-long",
@@ -153,7 +153,7 @@
 	},
 	{
 		"key": "spatial",
-		"value": "{\"type\": \"Polygon\", \"coordinates\": [[[-71.452579, 42.736623], [-68.480862, 42.736623], [-68.480862, 44.755587], [-71.452579, 44.755587], [-71.452579, 42.736623]]]}"
+		"value": "{"type": "Polygon", "coordinates": [[[-71.452579, 42.736623], [-68.480862, 42.736623], [-68.480862, 44.755587], [-71.452579, 44.755587], [-71.452579, 42.736623]]]}"
 	},
 	{
 		"key": "progress",
@@ -161,7 +161,7 @@
 	},
 	{
 		"key": "access_constraints",
-		"value": "[\"Use Constraints: The dataset is provided as is, without warranty to its performance, merchantable state, or fitness for any particular purpose. The entire risk associated with the results and performance of this dataset is assumed by the user. This dataset should be used strictly as a planning reference and not for navigation, permitting, or other legal purposes.\", \"Access Constraints: None\"]"
+		"value": "["Use Constraints: The dataset is provided as is, without warranty to its performance, merchantable state, or fitness for any particular purpose. The entire risk associated with the results and performance of this dataset is assumed by the user. This dataset should be used strictly as a planning reference and not for navigation, permitting, or other legal purposes.", "Access Constraints: None"]"
 	},
 	{
 		"key": "temporal-extent-begin",
@@ -181,7 +181,7 @@
 	},
 	{
 		"key": "dataset-reference-date",
-		"value": "[{\"type\": \"publication\", \"value\": \"2013-08-01\"}]"
+		"value": "[{"type": "publication", "value": "2013-08-01"}]"
 	},
 	{
 		"key": "frequency-of-update",
@@ -189,7 +189,7 @@
 	},
 	{
 		"key": "licence",
-		"value": "[\"Any conclusions drawn from the analysis of this information are not the responsibility of the NOAA Office for Coastal Management or its partners.\"]"
+		"value": "["Any conclusions drawn from the analysis of this information are not the responsibility of the NOAA Office for Coastal Management or its partners."]"
 	},
 	{
 		"key": "metadata_type",
@@ -197,7 +197,7 @@
 	},
 	{
 		"key": "responsible-party",
-		"value": "[{\"name\": \"NOAA Office for Coastal Management\", \"roles\": [\"pointOfContact\"]}]"
+		"value": "[{"name": "NOAA Office for Coastal Management", "roles": ["pointOfContact"]}]"
 	},
 	{
 		"key": "temporal-extent-end",
@@ -213,7 +213,7 @@
 	},
 	{
 		"package_id": "09d2af05-5cc6-473c-8f7a-c55a64ddd60d",
-		"value": "rockingham county, kennebec county, topography, androscoggin county, maine, lidar, sagadahoc county, digital elevation model, new hampshire, elevation, cumberland county, strafford county, inundation, knox county, sea level rise, york county, lincoln county, us, waldo county, bathymetry\/topography, dem, flooding",
+		"value": "rockingham county, kennebec county, topography, androscoggin county, maine, lidar, sagadahoc county, digital elevation model, new hampshire, elevation, cumberland county, strafford county, inundation, knox county, sea level rise, york county, lincoln county, us, waldo county, bathymetry/topography, dem, flooding",
 		"revision_timestamp": "2015-09-26T23:43:46.328389",
 		"state": "active",
 		"key": "tags",
@@ -243,7 +243,7 @@
 		"revision_timestamp": "2013-03-25T23:05:12.923863",
 		"is_organization": true,
 		"state": "active",
-		"image_url": "https:\/\/fortress.wa.gov\/dfw\/score\/score\/images\/noaa_logo.png",
+		"image_url": "https://fortress.wa.gov/dfw/score/score/images/noaa_logo.png",
 		"revision_id": "c6d43080-22e1-405e-a83d-f2a512d9e867",
 		"type": "organization",
 		"id": "e811f0b4-451f-4896-9e8f-fc6802837819",

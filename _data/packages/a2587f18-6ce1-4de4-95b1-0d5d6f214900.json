@@ -37,7 +37,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2016-05-31T04:43:16.096052",
-		"url": "http:\/\/marinecadastre.gov\/",
+		"url": "http://marinecadastre.gov/",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 0,
@@ -67,7 +67,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2016-05-31T04:43:16.096073",
-		"url": "http:\/\/marinecadastre.gov\/data\/",
+		"url": "http://marinecadastre.gov/data/",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 1,
@@ -114,7 +114,7 @@
 	"name": "marinecadastre-gov",
 	"isopen": false,
 	"url": null,
-	"notes": "MarineCadastre.gov is a marine information system that provides authoritative ocean data, offshore planning tools, and technical support to the offshore renewable energy community. The project was initiated by the Energy Policy Act of 2005 (P.L. 109-58) - Sec. 388 - Alternative Energy-Related Uses on the Outer Continental Shelf, which directs the secretary of the interior, in cooperation with the secretary of commerce, the commandant of the Coast Guard, and the secretary of defense, to establish an outer continental shelf (OCS) mapping initiative to assist in decision-making related to alternative energy uses on the OCS. At its core, MarineCadastre.gov contains marine cadastral data, which encompass the spatial extent, usage, rights, restrictions, and responsibilities of marine areas, as well as other regionally specific data needed to support planning, management, and conservation of submerged lands and marine spaces. The combination of marine cadastral and regionally specific data provides users with many of the data layers needed for renewable energy siting and other ocean planning efforts. The MarineCadastre.gov National Viewer is intended to be used as a planning and screening tool to inform decisions on ocean uses. It is not intended to be used for precise site selection, but rather to provide the geospatial picture of ocean planning data layers needed to make decisions about where suitable areas exist for offshore activities. MarineCadastre.gov also has more regionally focused viewers within its Map Gallery. Those viewers demonstrate how marine cadastre data can be used along with state or regionally applicable data sets to inform ocean planning decisions.The MarineCadastre.gov Data Registry lists all the data layers that can be found on MarineCadastre.gov with the ability to shop for layers, add these to a cart, and open in a map on ArcGIS Online. There are quarterly updates to the National Viewer and Data Registry. Please sign up for data updates here: https:\/\/coast.noaa.gov\/digitalcoast\/publications\/subscribe.",
+	"notes": "MarineCadastre.gov is a marine information system that provides authoritative ocean data, offshore planning tools, and technical support to the offshore renewable energy community. The project was initiated by the Energy Policy Act of 2005 (P.L. 109-58) - Sec. 388 - Alternative Energy-Related Uses on the Outer Continental Shelf, which directs the secretary of the interior, in cooperation with the secretary of commerce, the commandant of the Coast Guard, and the secretary of defense, to establish an outer continental shelf (OCS) mapping initiative to assist in decision-making related to alternative energy uses on the OCS. At its core, MarineCadastre.gov contains marine cadastral data, which encompass the spatial extent, usage, rights, restrictions, and responsibilities of marine areas, as well as other regionally specific data needed to support planning, management, and conservation of submerged lands and marine spaces. The combination of marine cadastral and regionally specific data provides users with many of the data layers needed for renewable energy siting and other ocean planning efforts. The MarineCadastre.gov National Viewer is intended to be used as a planning and screening tool to inform decisions on ocean uses. It is not intended to be used for precise site selection, but rather to provide the geospatial picture of ocean planning data layers needed to make decisions about where suitable areas exist for offshore activities. MarineCadastre.gov also has more regionally focused viewers within its Map Gallery. Those viewers demonstrate how marine cadastre data can be used along with state or regionally applicable data sets to inform ocean planning decisions.The MarineCadastre.gov Data Registry lists all the data layers that can be found on MarineCadastre.gov with the ability to shop for layers, add these to a cart, and open in a map on ArcGIS Online. There are quarterly updates to the National Viewer and Data Registry. Please sign up for data updates here: https://coast.noaa.gov/digitalcoast/publications/subscribe.",
 	"license_title": null,
 	"extras": [{
 		"key": "bbox-east-long",
@@ -146,7 +146,7 @@
 	},
 	{
 		"key": "__category_tag_aa0c01c9-d292-4dc1-8fec-b10c1bb629a9",
-		"value": "[\"Arctic Ocean, Sea Ice and Coasts\",\"Arctic\",\"Energy Infrastructure\",\"Energy Supply\",\"Energy Transmission\/distribution\",\"Ecosystem Vulnerability\",\"Changing Oceans\",\"Coastal Flooding\"]"
+		"value": "["Arctic Ocean, Sea Ice and Coasts","Arctic","Energy Infrastructure","Energy Supply","Energy Transmission/distribution","Ecosystem Vulnerability","Changing Oceans","Coastal Flooding"]"
 	},
 	{
 		"key": "spatial-reference-system",
@@ -154,7 +154,7 @@
 	},
 	{
 		"key": "spatial",
-		"value": "{\"type\": \"Polygon\", \"coordinates\": [[[145.0, -15.0], [-66.0, -15.0], [-66.0, 72.0], [145.0, 72.0], [145.0, -15.0]]]}"
+		"value": "{"type": "Polygon", "coordinates": [[[145.0, -15.0], [-66.0, -15.0], [-66.0, 72.0], [145.0, 72.0], [145.0, -15.0]]]}"
 	},
 	{
 		"key": "progress",
@@ -162,7 +162,7 @@
 	},
 	{
 		"key": "access_constraints",
-		"value": "[\"Use Constraints: These data are intended for coastal and ocean use planning. Not for navigation. http:\/\/marinecadastre.gov\/about\/disclaimer.html\", \"Access Constraints: None\"]"
+		"value": "["Use Constraints: These data are intended for coastal and ocean use planning. Not for navigation. http://marinecadastre.gov/about/disclaimer.html", "Access Constraints: None"]"
 	},
 	{
 		"key": "temporal-extent-begin",
@@ -182,7 +182,7 @@
 	},
 	{
 		"key": "dataset-reference-date",
-		"value": "[{\"type\": \"publication\", \"value\": \"2009-01-01\"}]"
+		"value": "[{"type": "publication", "value": "2009-01-01"}]"
 	},
 	{
 		"key": "frequency-of-update",
@@ -190,7 +190,7 @@
 	},
 	{
 		"key": "licence",
-		"value": "[\" \"]"
+		"value": "[" "]"
 	},
 	{
 		"key": "metadata_type",
@@ -198,7 +198,7 @@
 	},
 	{
 		"key": "responsible-party",
-		"value": "[{\"name\": \"NOAA Office for Coastal Management\", \"roles\": [\"pointOfContact\"]}]"
+		"value": "[{"name": "NOAA Office for Coastal Management", "roles": ["pointOfContact"]}]"
 	},
 	{
 		"key": "spatial-data-service-type",
@@ -240,7 +240,7 @@
 		"revision_timestamp": "2013-03-25T23:05:12.923863",
 		"is_organization": true,
 		"state": "active",
-		"image_url": "https:\/\/fortress.wa.gov\/dfw\/score\/score\/images\/noaa_logo.png",
+		"image_url": "https://fortress.wa.gov/dfw/score/score/images/noaa_logo.png",
 		"revision_id": "c6d43080-22e1-405e-a83d-f2a512d9e867",
 		"type": "organization",
 		"id": "e811f0b4-451f-4896-9e8f-fc6802837819",

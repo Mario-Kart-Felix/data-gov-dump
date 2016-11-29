@@ -25,7 +25,7 @@
 		"last_modified": null,
 		"hash": "",
 		"description": "Interactive map viewer to allow discovery and access to water column sonar data",
-		"format": "kongsberg\/simrad instrument files (.raw or .wcd)",
+		"format": "kongsberg/simrad instrument files (.raw or .wcd)",
 		"tracking_summary": {
 			"total": 2086,
 			"recent": 47
@@ -36,7 +36,7 @@
 		"cache_url": null,
 		"name": "Water Column Sonar Data Map Viewer",
 		"created": "2015-09-26T15:38:49.244853",
-		"url": "http:\/\/maps.ngdc.noaa.gov\/viewers\/water_column_sonar\/",
+		"url": "http://maps.ngdc.noaa.gov/viewers/water_column_sonar/",
 		"webstore_url": null,
 		"resource_locator_function": "search",
 		"position": 0,
@@ -65,7 +65,7 @@
 		"cache_url": null,
 		"name": "GCMD Feedback Form",
 		"created": "2015-09-26T15:38:49.244878",
-		"url": "http:\/\/gcmd.nasa.gov\/MailComments\/MailComments.jsf?rcpt=gcmduso",
+		"url": "http://gcmd.nasa.gov/MailComments/MailComments.jsf?rcpt=gcmduso",
 		"webstore_url": null,
 		"resource_locator_function": "information",
 		"position": 1,
@@ -94,7 +94,7 @@
 		"cache_url": null,
 		"name": "GCMD Keywords Page",
 		"created": "2015-09-26T15:38:49.244888",
-		"url": "http:\/\/gcmd.nasa.gov\/learn\/keyword_list.html",
+		"url": "http://gcmd.nasa.gov/learn/keyword_list.html",
 		"webstore_url": null,
 		"resource_locator_function": "information",
 		"position": 2,
@@ -123,7 +123,7 @@
 		"cache_url": null,
 		"name": "GCMD Feedback Form",
 		"created": "2015-09-26T15:38:49.244896",
-		"url": "http:\/\/gcmd.nasa.gov\/MailComments\/MailComments.jsf?rcpt=gcmduso",
+		"url": "http://gcmd.nasa.gov/MailComments/MailComments.jsf?rcpt=gcmduso",
 		"webstore_url": null,
 		"resource_locator_function": "information",
 		"position": 3,
@@ -152,7 +152,7 @@
 		"cache_url": null,
 		"name": "GCMD Keywords Page",
 		"created": "2015-09-26T15:38:49.244904",
-		"url": "http:\/\/gcmd.nasa.gov\/learn\/keyword_list.html",
+		"url": "http://gcmd.nasa.gov/learn/keyword_list.html",
 		"webstore_url": null,
 		"resource_locator_function": "information",
 		"position": 4,
@@ -181,7 +181,7 @@
 		"cache_url": null,
 		"name": "EX1204 Cruise metadata",
 		"created": "2015-09-26T15:38:49.244912",
-		"url": "http:\/\/www.ncddc.noaa.gov\/oer-waf\/ISO\/Resolved\/2012\/EX1204_COLLECTION_RESOLVED.xml",
+		"url": "http://www.ncddc.noaa.gov/oer-waf/ISO/Resolved/2012/EX1204_COLLECTION_RESOLVED.xml",
 		"webstore_url": null,
 		"resource_locator_function": "information",
 		"position": 5,
@@ -237,7 +237,7 @@
 	},
 	{
 		"key": "spatial",
-		"value": "{\"type\": \"Polygon\", \"coordinates\": [[[-74.9, 35.4], [-67.4, 35.4], [-67.4, 40.7], [-74.9, 40.7], [-74.9, 35.4]]]}"
+		"value": "{"type": "Polygon", "coordinates": [[[-74.9, 35.4], [-67.4, 35.4], [-67.4, 40.7], [-74.9, 40.7], [-74.9, 35.4]]]}"
 	},
 	{
 		"key": "progress",
@@ -245,7 +245,7 @@
 	},
 	{
 		"key": "access_constraints",
-		"value": "[\"Cite as: NOAA Office of Ocean Exploration and Research (2012): Water Column Sonar Data Collection (EX1204, EK60). National Centers for Environmental Information, NOAA. doi: 10.7289\/V5K935HD [access date].\", \"Access Constraints: None Use Constraints: The user is responsible for the results of any application of this data for other than its intended purpose. Distribution Liability: While we make every effort to ensure that our databases are error-free, errors do occur. We ask that you notify us immediately of any errors that you discover in our data. We will make every effort to correct them. With respect to documents available from this server, neither the United States Government nor any of its employees, makes any warranty, express or implied, including the warranties of merchantability and fitness for a particular purpose; nor assumes any legal liability or responsibility for the accuracy, completeness, or usefulness of any information, apparatus, product, or process disclosed; nor represents that its use would not infringe privately owned rights.\"]"
+		"value": "["Cite as: NOAA Office of Ocean Exploration and Research (2012): Water Column Sonar Data Collection (EX1204, EK60). National Centers for Environmental Information, NOAA. doi: 10.7289/V5K935HD [access date].", "Access Constraints: None Use Constraints: The user is responsible for the results of any application of this data for other than its intended purpose. Distribution Liability: While we make every effort to ensure that our databases are error-free, errors do occur. We ask that you notify us immediately of any errors that you discover in our data. We will make every effort to correct them. With respect to documents available from this server, neither the United States Government nor any of its employees, makes any warranty, express or implied, including the warranties of merchantability and fitness for a particular purpose; nor assumes any legal liability or responsibility for the accuracy, completeness, or usefulness of any information, apparatus, product, or process disclosed; nor represents that its use would not infringe privately owned rights."]"
 	},
 	{
 		"key": "temporal-extent-begin",
@@ -265,7 +265,7 @@
 	},
 	{
 		"key": "dataset-reference-date",
-		"value": "[{\"type\": \"publication\", \"value\": \"\"}]"
+		"value": "[{"type": "publication", "value": ""}]"
 	},
 	{
 		"key": "frequency-of-update",
@@ -281,7 +281,7 @@
 	},
 	{
 		"key": "responsible-party",
-		"value": "[{\"name\": \"DOC\/NOAA\/NESDIS\/NCEI > National Centers for Environmental Information, NESDIS, NOAA, U.S. Department of Commerce\", \"roles\": [\"pointOfContact\"]}, {\"name\": \"DOC\/NOAA\/NESDIS\/NCEI\/CCOG > Center for Coasts, Oceans, and Geophysics\", \"roles\": [\"pointOfContact\"]}]"
+		"value": "[{"name": "DOC/NOAA/NESDIS/NCEI > National Centers for Environmental Information, NESDIS, NOAA, U.S. Department of Commerce", "roles": ["pointOfContact"]}, {"name": "DOC/NOAA/NESDIS/NCEI/CCOG > Center for Coasts, Oceans, and Geophysics", "roles": ["pointOfContact"]}]"
 	},
 	{
 		"key": "temporal-extent-end",
@@ -297,7 +297,7 @@
 	},
 	{
 		"package_id": "c03fe85d-6a6b-4f78-9d71-ee079f97d757",
-		"value": "hydrographer canyon, ocean research, okeanos explorer, expedition, singlebeam sonar, water column backscatter, mapping survey, sub-bottom profile, jones canyon, systematic exploration, oceanographer canyon, norfolk canyon, doc\/noaa\/nesdis\/ncei, sea, atlantis canyon, transformational research, ocean exploration and research, technology, noaa fleet, scs, lydonia canyon, marine education, hudson canyon, ocean literacy, multibeam backscatter, r337, stewardship, national centers for environmental information, nesdis, noaa, u.s. department of commerce, single-beam sonar, uchupi canyon, multibeam sonar, ocean discovery, seafloor topography, scientific mission, okeanos, single beam sonar, alvin canyon, oceans, explorer, underwater, u.s. east coast, oer, undersea, virginia, atlantic basin, telepresence, bathymetry, rhode island, davisville, noaa, national geophysical data center, nesdis, noaa, u.s. department of commerce, washington canyon, accomac canyon, norfolk, veatch canyon, multibeam, doc\/noaa\/nesdis\/ngdc, scientific research, carteret canyon, ocean, ocean exploration, gilbert canyon, singlebeam, exploration, babylon canyon, science, us east coast, scientific computing system, baltimore canyon, ocean education",
+		"value": "hydrographer canyon, ocean research, okeanos explorer, expedition, singlebeam sonar, water column backscatter, mapping survey, sub-bottom profile, jones canyon, systematic exploration, oceanographer canyon, norfolk canyon, doc/noaa/nesdis/ncei, sea, atlantis canyon, transformational research, ocean exploration and research, technology, noaa fleet, scs, lydonia canyon, marine education, hudson canyon, ocean literacy, multibeam backscatter, r337, stewardship, national centers for environmental information, nesdis, noaa, u.s. department of commerce, single-beam sonar, uchupi canyon, multibeam sonar, ocean discovery, seafloor topography, scientific mission, okeanos, single beam sonar, alvin canyon, oceans, explorer, underwater, u.s. east coast, oer, undersea, virginia, atlantic basin, telepresence, bathymetry, rhode island, davisville, noaa, national geophysical data center, nesdis, noaa, u.s. department of commerce, washington canyon, accomac canyon, norfolk, veatch canyon, multibeam, doc/noaa/nesdis/ngdc, scientific research, carteret canyon, ocean, ocean exploration, gilbert canyon, singlebeam, exploration, babylon canyon, science, us east coast, scientific computing system, baltimore canyon, ocean education",
 		"revision_timestamp": "2015-09-26T19:38:49.170128",
 		"state": "active",
 		"key": "tags",
@@ -327,7 +327,7 @@
 		"revision_timestamp": "2013-03-25T23:05:12.923863",
 		"is_organization": true,
 		"state": "active",
-		"image_url": "https:\/\/fortress.wa.gov\/dfw\/score\/score\/images\/noaa_logo.png",
+		"image_url": "https://fortress.wa.gov/dfw/score/score/images/noaa_logo.png",
 		"revision_id": "c6d43080-22e1-405e-a83d-f2a512d9e867",
 		"type": "organization",
 		"id": "e811f0b4-451f-4896-9e8f-fc6802837819",

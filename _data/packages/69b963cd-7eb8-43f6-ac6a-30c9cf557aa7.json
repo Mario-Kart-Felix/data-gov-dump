@@ -36,7 +36,7 @@
 		"cache_url": null,
 		"name": "NLCD Map Service (ArcGIS)",
 		"created": "2016-09-27T04:31:13.221091",
-		"url": "http:\/\/services.nationalmap.gov\/arcgis\/rest\/services\/geonames\/MapServer",
+		"url": "http://services.nationalmap.gov/arcgis/rest/services/geonames/MapServer",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 0,
@@ -65,7 +65,7 @@
 		"cache_url": null,
 		"name": "NLCD Map Service (WMS)",
 		"created": "2016-09-27T04:31:13.221124",
-		"url": "https:\/\/raster.nationalmap.gov\/arcgis\/services\/LandCover\/USGS_EROS_LandCover_NLCD\/MapServer\/WMSServer?request=GetCapabilities&service=WMS",
+		"url": "https://raster.nationalmap.gov/arcgis/services/LandCover/USGS_EROS_LandCover_NLCD/MapServer/WMSServer?request=GetCapabilities&service=WMS",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 1,
@@ -94,7 +94,7 @@
 		"cache_url": null,
 		"name": "NLCD Coverage Service (WCS)",
 		"created": "2016-09-27T04:31:13.221133",
-		"url": "https:\/\/raster.nationalmap.gov\/arcgis\/services\/LandCover\/USGS_EROS_LandCover_NLCD\/MapServer\/WCSServer?request=GetCapabilities&service=WCS",
+		"url": "https://raster.nationalmap.gov/arcgis/services/LandCover/USGS_EROS_LandCover_NLCD/MapServer/WCSServer?request=GetCapabilities&service=WCS",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 2,
@@ -124,7 +124,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2016-09-27T04:31:13.221141",
-		"url": "http:\/\/viewer.nationalmap.gov",
+		"url": "http://viewer.nationalmap.gov",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 3,
@@ -154,7 +154,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2016-09-27T04:31:13.221148",
-		"url": "http:\/\/www.mrlc.gov\/",
+		"url": "http://www.mrlc.gov/",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 4,
@@ -201,7 +201,7 @@
 	"name": "usgs-land-cover-nlcd-overlay-map-service-from-the-national-map-national-geospatial-data-asset-",
 	"isopen": false,
 	"url": null,
-	"notes": "NLCD 1992, NLCD 2001, NLCD 2006, and NLCD 2011 are National Land Cover Database classification schemes based primarily on Landsat data along with ancillary data sources, such as topography, census and agricultural statistics, soil characteristics, wetlands, and other land cover maps. NLCD 1992 is a 21-class land cover classification scheme that has been applied consistently across the conterminous U.S. at a spatial resolution of 30 meters. NLCD 2001 is a 16-class land cover classification scheme that also has been applied to the conterminous U.S. at a spatial resolution of 30 meters, and includes Alaska, Hawaii, and Puerto Rico. NLCD 2006 quantifies land cover change for the conterminous U.S. between the years 2001 to 2006. Generation of NLCD 2006 helped identify and correct issues in the NLCD 2001 land cover and impervious surface products only, and no changes were made to the NLCD 2001 canopy product. For additional information, go to http:\/\/www.mrlc.gov\/. See http:\/\/viewer.nationalmap.gov\/help for assistance with The National Map viewer, services, or metadata.",
+	"notes": "NLCD 1992, NLCD 2001, NLCD 2006, and NLCD 2011 are National Land Cover Database classification schemes based primarily on Landsat data along with ancillary data sources, such as topography, census and agricultural statistics, soil characteristics, wetlands, and other land cover maps. NLCD 1992 is a 21-class land cover classification scheme that has been applied consistently across the conterminous U.S. at a spatial resolution of 30 meters. NLCD 2001 is a 16-class land cover classification scheme that also has been applied to the conterminous U.S. at a spatial resolution of 30 meters, and includes Alaska, Hawaii, and Puerto Rico. NLCD 2006 quantifies land cover change for the conterminous U.S. between the years 2001 to 2006. Generation of NLCD 2006 helped identify and correct issues in the NLCD 2001 land cover and impervious surface products only, and no changes were made to the NLCD 2001 canopy product. For additional information, go to http://www.mrlc.gov/. See http://viewer.nationalmap.gov/help for assistance with The National Map viewer, services, or metadata.",
 	"license_title": null,
 	"extras": [{
 		"key": "bbox-east-long",
@@ -229,7 +229,7 @@
 	},
 	{
 		"key": "graphic-preview-file",
-		"value": "http:\/\/thor-f5.er.usgs.gov\/ngtoc\/metadata\/waf\/services\/overlays\/browse\/landcover.jpg"
+		"value": "http://thor-f5.er.usgs.gov/ngtoc/metadata/waf/services/overlays/browse/landcover.jpg"
 	},
 	{
 		"key": "bbox-south-lat",
@@ -237,7 +237,7 @@
 	},
 	{
 		"key": "__category_tag_aa0c01c9-d292-4dc1-8fec-b10c1bb629a9",
-		"value": "[\"Permafrost and Arctic Landscapes\",\"Arctic\",\"Water\"]"
+		"value": "["Permafrost and Arctic Landscapes","Arctic","Water"]"
 	},
 	{
 		"key": "spatial-reference-system",
@@ -249,7 +249,7 @@
 	},
 	{
 		"key": "spatial",
-		"value": "{\"type\": \"Polygon\", \"coordinates\": [[[-179.999, 17.625], [-65.0, 17.625], [-65.0, 71.5], [-179.999, 71.5], [-179.999, 17.625]]]}"
+		"value": "{"type": "Polygon", "coordinates": [[[-179.999, 17.625], [-65.0, 17.625], [-65.0, 71.5], [-179.999, 71.5], [-179.999, 17.625]]]}"
 	},
 	{
 		"key": "progress",
@@ -257,7 +257,7 @@
 	},
 	{
 		"key": "access_constraints",
-		"value": "[\"Use Constraints: None. Acknowledgement of the originating agencies would be appreciated in products derived from these data.\", \"Access Constraints: None\"]"
+		"value": "["Use Constraints: None. Acknowledgement of the originating agencies would be appreciated in products derived from these data.", "Access Constraints: None"]"
 	},
 	{
 		"key": "contact-email",
@@ -273,11 +273,11 @@
 	},
 	{
 		"key": "dataset-reference-date",
-		"value": "[{\"type\": \"publication\", \"value\": \"2016-01-01\"}]"
+		"value": "[{"type": "publication", "value": "2016-01-01"}]"
 	},
 	{
 		"key": "__category_tag_3b2f2e70-3e81-4aa7-8305-a534cd6af6c8",
-		"value": "[\"Land Cover and Land Use\"]"
+		"value": "["Land Cover and Land Use"]"
 	},
 	{
 		"key": "graphic-preview-description",
@@ -289,7 +289,7 @@
 	},
 	{
 		"key": "licence",
-		"value": "[\"Although these data have been processed successfully on a computer system at the\\n         U.S. Geological Survey, no warranty expressed or implied is made regarding the accuracy or\\n         utility of the data on any other system or for general or scientific purposes, nor shall\\n         the act of distribution constitute any such warranty. This disclaimer applies both to\\n         individual use of the data and aggregate use with other data. It is strongly recommended\\n         that these data are directly acquired from a U.S. Geological Survey server, and not\\n         indirectly through other sources which may have changed the data in some way. It is also\\n         strongly recommended that careful attention be paid to the contents of the metadata file\\n         associated with these data. The U.S. Geological Survey shall not be held liable for\\n         improper or incorrect use of the data described and\/or contained herein.\"]"
+		"value": "["Although these data have been processed successfully on a computer system at the\n         U.S. Geological Survey, no warranty expressed or implied is made regarding the accuracy or\n         utility of the data on any other system or for general or scientific purposes, nor shall\n         the act of distribution constitute any such warranty. This disclaimer applies both to\n         individual use of the data and aggregate use with other data. It is strongly recommended\n         that these data are directly acquired from a U.S. Geological Survey server, and not\n         indirectly through other sources which may have changed the data in some way. It is also\n         strongly recommended that careful attention be paid to the contents of the metadata file\n         associated with these data. The U.S. Geological Survey shall not be held liable for\n         improper or incorrect use of the data described and/or contained herein."]"
 	},
 	{
 		"key": "metadata_type",
@@ -297,7 +297,7 @@
 	},
 	{
 		"key": "responsible-party",
-		"value": "[{\"name\": \"U.S. Geological Survey, National Geospatial Technical Operations Center\", \"roles\": [\"pointOfContact\"]}]"
+		"value": "[{"name": "U.S. Geological Survey, National Geospatial Technical Operations Center", "roles": ["pointOfContact"]}]"
 	},
 	{
 		"key": "spatial-data-service-type",
@@ -332,14 +332,14 @@
 		"value": "Overlay Map Services in The National Map"
 	}],
 	"organization": {
-		"description": "http:\/\/www.usgs.gov\/\r\nThe USGS is a federal science agency that provides impartial information on the health of our ecosystems and environment, the natural hazards that threaten us, the natural resources we rely on, the impacts of climate and land-use change, and the core science systems that help us provide timely, relevant, and useable information.",
+		"description": "http://www.usgs.gov/rnThe USGS is a federal science agency that provides impartial information on the health of our ecosystems and environment, the natural hazards that threaten us, the natural resources we rely on, the impacts of climate and land-use change, and the core science systems that help us provide timely, relevant, and useable information.",
 		"created": "2013-03-14T03:44:38.263357",
 		"title": "U.S. Geological Survey, Department of the Interior",
 		"name": "usgs-gov",
 		"revision_timestamp": "2014-09-02T13:43:52.167023",
 		"is_organization": true,
 		"state": "active",
-		"image_url": "http:\/\/pubs.usgs.gov\/sir\/2004\/5296\/04-5296_confluence_park\/usgs_logo.gif",
+		"image_url": "http://pubs.usgs.gov/sir/2004/5296/04-5296_confluence_park/usgs_logo.gif",
 		"revision_id": "2858aa99-9501-4f96-82e5-9647b968ed66",
 		"type": "organization",
 		"id": "bd2cdd5a-4d65-46c0-9937-c8381175f104",

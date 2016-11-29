@@ -37,7 +37,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2016-05-30T22:33:32.344356",
-		"url": "https:\/\/coast.noaa.gov\/slr",
+		"url": "https://coast.noaa.gov/slr",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 0,
@@ -67,7 +67,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2016-05-30T22:33:32.344391",
-		"url": "https:\/\/coast.noaa.gov\/digitalcoast\/tools\/slr",
+		"url": "https://coast.noaa.gov/digitalcoast/tools/slr",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 1,
@@ -97,7 +97,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2016-05-30T22:33:32.344401",
-		"url": "https:\/\/coast.noaa.gov\/",
+		"url": "https://coast.noaa.gov/",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 2,
@@ -117,11 +117,11 @@
 	"name": "noaa-office-for-coastal-management-coastal-inundation-digital-elevation-model-corpus-christi-we",
 	"isopen": false,
 	"url": null,
-	"notes": "This digital elevation model (DEM) is a part of a series of DEMs produced for the National Oceanic and Atmospheric Administration Office for Coastal Management's Sea Level Rise and Coastal Flooding Impacts Viewer. The DEM includes the best available lidar data known to exist at the time of DEM creation that meets project specifications for those counties within the boundary of the Corpus Christi TX Weather Forecast Office (WFO), as defined by the NOAA National Weather Service. The counties within this boundary are: Kleberg, Nueces, San Patricio, Aransas, Refugio, Victoria, and Calhoun. For all counties, except for Kleberg, the DEM is derived from LiDAR data sets collected for the Texas Water Development Board (TWDB) in 2005 and 2006 with a point density of 1.4 m GSD. The LiDAR data for Kleberg County is based on the US Geological Survey (USGS) National Elevation Dataset (NED) 1\/9 arc-second elevation data. Hydrographic breaklines used in the creation of the DEM were delineated using LiDAR intensity imagery generated from the data sets. Hydrography for Kleberg County is based on the National Hydrography Dataset (NHD) and the National Wetlands Inventory (NWI). The DEM is hydro flattened such that water elevations are less than or equal to 0 meters. The DEM is referenced vertically to the North American Vertical Datum of 1988 (NAVD88) with vertical units of meters and horizontally to the North American Datum of 1983 (NAD83). The resolution of the DEM is approximately 10 meters.",
+	"notes": "This digital elevation model (DEM) is a part of a series of DEMs produced for the National Oceanic and Atmospheric Administration Office for Coastal Management's Sea Level Rise and Coastal Flooding Impacts Viewer. The DEM includes the best available lidar data known to exist at the time of DEM creation that meets project specifications for those counties within the boundary of the Corpus Christi TX Weather Forecast Office (WFO), as defined by the NOAA National Weather Service. The counties within this boundary are: Kleberg, Nueces, San Patricio, Aransas, Refugio, Victoria, and Calhoun. For all counties, except for Kleberg, the DEM is derived from LiDAR data sets collected for the Texas Water Development Board (TWDB) in 2005 and 2006 with a point density of 1.4 m GSD. The LiDAR data for Kleberg County is based on the US Geological Survey (USGS) National Elevation Dataset (NED) 1/9 arc-second elevation data. Hydrographic breaklines used in the creation of the DEM were delineated using LiDAR intensity imagery generated from the data sets. Hydrography for Kleberg County is based on the National Hydrography Dataset (NHD) and the National Wetlands Inventory (NWI). The DEM is hydro flattened such that water elevations are less than or equal to 0 meters. The DEM is referenced vertically to the North American Vertical Datum of 1988 (NAVD88) with vertical units of meters and horizontally to the North American Datum of 1983 (NAD83). The resolution of the DEM is approximately 10 meters.",
 	"license_title": null,
 	"extras": [{
 		"key": "responsible-party",
-		"value": "[{\"name\": \"NOAA Office for Coastal Management\", \"roles\": [\"pointOfContact\"]}]"
+		"value": "[{"name": "NOAA Office for Coastal Management", "roles": ["pointOfContact"]}]"
 	},
 	{
 		"key": "contact-email",
@@ -141,7 +141,7 @@
 	},
 	{
 		"key": "dataset-reference-date",
-		"value": "[{\"type\": \"publication\", \"value\": \"2012-10-01\"}]"
+		"value": "[{"type": "publication", "value": "2012-10-01"}]"
 	},
 	{
 		"key": "resource-type",
@@ -169,7 +169,7 @@
 	},
 	{
 		"key": "licence",
-		"value": "[\"Any conclusions drawn from the analysis of this information are not the responsibility of the Office for Coastal Management or its partners.\"]"
+		"value": "["Any conclusions drawn from the analysis of this information are not the responsibility of the Office for Coastal Management or its partners."]"
 	},
 	{
 		"key": "metadata_type",
@@ -181,7 +181,7 @@
 	},
 	{
 		"key": "spatial",
-		"value": "{\"type\": \"Polygon\", \"coordinates\": [[[-98.060857, 27.208032], [-96.321646, 27.208032], [-96.321646, 29.104993], [-98.060857, 29.104993], [-98.060857, 27.208032]]]}"
+		"value": "{"type": "Polygon", "coordinates": [[[-98.060857, 27.208032], [-96.321646, 27.208032], [-96.321646, 29.104993], [-98.060857, 29.104993], [-98.060857, 27.208032]]]}"
 	},
 	{
 		"key": "guid",
@@ -193,7 +193,7 @@
 	},
 	{
 		"key": "access_constraints",
-		"value": "[\"Use Constraints: The data set is provided \\\"as is,\\\" without warranty to its performance, merchantable state, or fitness for any particular purpose. The entire risk associated with the results and performance of this data set are assumed by the user. This data set should be used strictly as a planning reference and not for navigation, permitting, or other legal purposes.\", \"Access Constraints: None\"]"
+		"value": "["Use Constraints: The data set is provided \"as is,\" without warranty to its performance, merchantable state, or fitness for any particular purpose. The entire risk associated with the results and performance of this data set are assumed by the user. This data set should be used strictly as a planning reference and not for navigation, permitting, or other legal purposes.", "Access Constraints: None"]"
 	},
 	{
 		"key": "spatial_harvester",
@@ -205,7 +205,7 @@
 	},
 	{
 		"package_id": "3c20c334-5253-46f5-a698-fec1f6307ba6",
-		"value": "sea level rise, victoria county, topography, elevation, calhoun county, inundation, nueces county, aransas county, us, lidar, bathymetry\/topography, dem, digital elevation model, kleberg county, san patricio county, flooding, refugio county, texas",
+		"value": "sea level rise, victoria county, topography, elevation, calhoun county, inundation, nueces county, aransas county, us, lidar, bathymetry/topography, dem, digital elevation model, kleberg county, san patricio county, flooding, refugio county, texas",
 		"revision_timestamp": "2015-09-26T21:10:03.393498",
 		"state": "active",
 		"key": "tags",
@@ -235,7 +235,7 @@
 		"revision_timestamp": "2013-03-25T23:05:12.923863",
 		"is_organization": true,
 		"state": "active",
-		"image_url": "https:\/\/fortress.wa.gov\/dfw\/score\/score\/images\/noaa_logo.png",
+		"image_url": "https://fortress.wa.gov/dfw/score/score/images/noaa_logo.png",
 		"revision_id": "c6d43080-22e1-405e-a83d-f2a512d9e867",
 		"type": "organization",
 		"id": "e811f0b4-451f-4896-9e8f-fc6802837819",

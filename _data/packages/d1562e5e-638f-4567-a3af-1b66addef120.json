@@ -36,7 +36,7 @@
 		"cache_url": null,
 		"name": "ftp",
 		"created": "2016-04-18T15:46:42.713181",
-		"url": "ftp:\/\/tgftp.nws.noaa.gov\/data\/raw\/fb\/",
+		"url": "ftp://tgftp.nws.noaa.gov/data/raw/fb/",
 		"webstore_url": null,
 		"resource_locator_function": "download",
 		"position": 0,
@@ -65,7 +65,7 @@
 		"cache_url": null,
 		"name": "http",
 		"created": "2016-04-18T15:46:42.713207",
-		"url": "http:\/\/weather.noaa.gov\/pub\/data\/raw\/fb\/",
+		"url": "http://weather.noaa.gov/pub/data/raw/fb/",
 		"webstore_url": null,
 		"resource_locator_function": "download",
 		"position": 1,
@@ -94,7 +94,7 @@
 		"cache_url": null,
 		"name": "AWC",
 		"created": "2016-04-18T15:46:42.713218",
-		"url": "http:\/\/www.aviationweather.gov\/windtemp",
+		"url": "http://www.aviationweather.gov/windtemp",
 		"webstore_url": null,
 		"resource_locator_function": "information",
 		"position": 2,
@@ -123,7 +123,7 @@
 		"cache_url": null,
 		"name": "USWX Schema",
 		"created": "2016-04-18T15:46:42.713226",
-		"url": "http:\/\/nws.weather.gov\/schemas\/USWX\/1.0\/",
+		"url": "http://nws.weather.gov/schemas/USWX/1.0/",
 		"webstore_url": null,
 		"resource_locator_function": "download",
 		"position": 3,
@@ -152,7 +152,7 @@
 		"cache_url": null,
 		"name": "Winds-Aloft",
 		"created": "2016-04-18T15:46:42.713235",
-		"url": "http:\/\/www.aviationweather.gov\/windtemp",
+		"url": "http://www.aviationweather.gov/windtemp",
 		"webstore_url": null,
 		"resource_locator_function": "download",
 		"position": 4,
@@ -212,7 +212,7 @@
 	},
 	{
 		"key": "spatial",
-		"value": "{\"type\": \"Polygon\", \"coordinates\": [[[167.375, 16.281], [-45.383, 16.281], [-45.383, 75.705], [167.375, 75.705], [167.375, 16.281]]]}"
+		"value": "{"type": "Polygon", "coordinates": [[[167.375, 16.281], [-45.383, 16.281], [-45.383, 75.705], [167.375, 75.705], [167.375, 16.281]]]}"
 	},
 	{
 		"key": "progress",
@@ -236,7 +236,7 @@
 	},
 	{
 		"key": "dataset-reference-date",
-		"value": "[{\"type\": \"creation\", \"value\": \"2011-11-11\"}]"
+		"value": "[{"type": "creation", "value": "2011-11-11"}]"
 	},
 	{
 		"key": "frequency-of-update",
@@ -244,7 +244,7 @@
 	},
 	{
 		"key": "licence",
-		"value": "[\"Disclaimer - While every effort has been made to ensure that these data are accurate and reliable within the limits of the current state of the art, NOAA cannot assume liability for any damages caused by any errors or omissions in the data, nor as a result of the failure of the data to function on a particular system. NOAA makes no warranty, expressed or implied, nor does the fact of distribution constitute such a warranty.\"]"
+		"value": "["Disclaimer - While every effort has been made to ensure that these data are accurate and reliable within the limits of the current state of the art, NOAA cannot assume liability for any damages caused by any errors or omissions in the data, nor as a result of the failure of the data to function on a particular system. NOAA makes no warranty, expressed or implied, nor does the fact of distribution constitute such a warranty."]"
 	},
 	{
 		"key": "metadata_type",
@@ -252,7 +252,7 @@
 	},
 	{
 		"key": "responsible-party",
-		"value": "[{\"name\": \"\", \"roles\": [\"pointOfContact\"]}]"
+		"value": "[{"name": "", "roles": ["pointOfContact"]}]"
 	},
 	{
 		"key": "spatial-data-service-type",
@@ -264,7 +264,7 @@
 	},
 	{
 		"package_id": "d1562e5e-638f-4567-a3af-1b66addef120",
-		"value": "wind_speed, doc\/noaa\/nws\/toc\/nwstg, none, fbus3[0-9] kwno, surface temperature, doc\/noaa\/nws\/ncep\/awc, wind speed\/wind direction, wind_from_direction, fbhw3[0-9] kwno, air_temperature, surface winds, upper level winds, wind shear, winds, winds-aloft, wind_shear, upper air temperature, fboc3[0-9] kwno, fbak3[0-9] kwno",
+		"value": "wind_speed, doc/noaa/nws/toc/nwstg, none, fbus3[0-9] kwno, surface temperature, doc/noaa/nws/ncep/awc, wind speed/wind direction, wind_from_direction, fbhw3[0-9] kwno, air_temperature, surface winds, upper level winds, wind shear, winds, winds-aloft, wind_shear, upper air temperature, fboc3[0-9] kwno, fbak3[0-9] kwno",
 		"revision_timestamp": "2016-04-18T19:46:42.622262",
 		"state": "active",
 		"key": "tags",
@@ -294,7 +294,7 @@
 		"revision_timestamp": "2013-03-25T23:05:12.923863",
 		"is_organization": true,
 		"state": "active",
-		"image_url": "https:\/\/fortress.wa.gov\/dfw\/score\/score\/images\/noaa_logo.png",
+		"image_url": "https://fortress.wa.gov/dfw/score/score/images/noaa_logo.png",
 		"revision_id": "c6d43080-22e1-405e-a83d-f2a512d9e867",
 		"type": "organization",
 		"id": "e811f0b4-451f-4896-9e8f-fc6802837819",

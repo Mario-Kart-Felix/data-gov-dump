@@ -37,7 +37,7 @@
 		"cache_url": null,
 		"name": "Zip File",
 		"created": "2013-03-15T12:00:42.520814",
-		"url": "http:\/\/irmafiles.nps.gov\/Reference\/Holding\/368702\/havo_campgrounds.zip",
+		"url": "http://irmafiles.nps.gov/Reference/Holding/368702/havo_campgrounds.zip",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 0,
@@ -67,7 +67,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2013-03-15T12:00:42.520828",
-		"url": "http:\/\/www.nps.gov\/gis\/",
+		"url": "http://www.nps.gov/gis/",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 1,
@@ -97,7 +97,7 @@
 		"cache_url": null,
 		"name": "Zip File",
 		"created": "2013-03-15T12:00:42.520833",
-		"url": "http:\/\/irmafiles.nps.gov\/Reference\/Holding\/368702\/havo_campgrounds.zip",
+		"url": "http://irmafiles.nps.gov/Reference/Holding/368702/havo_campgrounds.zip",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 2,
@@ -127,7 +127,7 @@
 		"cache_url": null,
 		"name": "XML File",
 		"created": "2013-03-15T12:00:42.520837",
-		"url": "http:\/\/nrdata.nps.gov\/havo\/havodata\/havo_campgrounds.xml",
+		"url": "http://nrdata.nps.gov/havo/havodata/havo_campgrounds.xml",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 3,
@@ -151,7 +151,7 @@
 	"license_title": null,
 	"extras": [{
 		"key": "responsible-party",
-		"value": "[{\"name\": \"National Park Service\", \"roles\": [\"pointOfContact\"]}]"
+		"value": "[{"name": "National Park Service", "roles": ["pointOfContact"]}]"
 	},
 	{
 		"key": "contact-email",
@@ -171,7 +171,7 @@
 	},
 	{
 		"key": "dataset-reference-date",
-		"value": "[{\"type\": \"publication\", \"value\": \"2004-04-00\"}]"
+		"value": "[{"type": "publication", "value": "2004-04-00"}]"
 	},
 	{
 		"key": "resource-type",
@@ -199,7 +199,7 @@
 	},
 	{
 		"key": "licence",
-		"value": "[\"\\nThe National Park Service shall not be held liable for\\nimproper use of the data described and\/or contained herein.\\nThese data and related graphics (\\\"GIF\\\" format files) are\\nnot legal documents and are not intended to be used as\\nsuch. The information contained in these data is dynamic\\nand may change over time. The data are not better than the original \\nsources from which they were derived. It is the responsibility \\nof the data user to use the data appropriately and consistent \\nwithin the limitations of geospatial data in general and these \\ndata in particular. The related graphics are intended to aid the\\ndata user in acquiring relevant data; it is not appropriate\\nto use the related graphics as data. The National Park Service gives \\nno warranty, expressed or implied, as to the accuracy, reliability, \\nor completeness of these data. It is strongly recommended that these \\ndata are directly acquired from an NPS server and not indirectly \\nthrough other sources which may have changed the data in some way. \\nAlthough these data have been processed successfully on a computer \\nsystem at the National Park Service, no warranty expressed or\\nimplied is made regarding the utility of the data on another system \\nor for general or scientific purposes, nor shall the act of distribution \\nconstitute any such warranty. This disclaimer applies both to individual \\nuse of the data and aggregate use with other data.\\n\"]"
+		"value": "["\nThe National Park Service shall not be held liable for\nimproper use of the data described and/or contained herein.\nThese data and related graphics (\"GIF\" format files) are\nnot legal documents and are not intended to be used as\nsuch. The information contained in these data is dynamic\nand may change over time. The data are not better than the original \nsources from which they were derived. It is the responsibility \nof the data user to use the data appropriately and consistent \nwithin the limitations of geospatial data in general and these \ndata in particular. The related graphics are intended to aid the\ndata user in acquiring relevant data; it is not appropriate\nto use the related graphics as data. The National Park Service gives \nno warranty, expressed or implied, as to the accuracy, reliability, \nor completeness of these data. It is strongly recommended that these \ndata are directly acquired from an NPS server and not indirectly \nthrough other sources which may have changed the data in some way. \nAlthough these data have been processed successfully on a computer \nsystem at the National Park Service, no warranty expressed or\nimplied is made regarding the utility of the data on another system \nor for general or scientific purposes, nor shall the act of distribution \nconstitute any such warranty. This disclaimer applies both to individual \nuse of the data and aggregate use with other data.\n"]"
 	},
 	{
 		"key": "metadata_type",
@@ -207,7 +207,7 @@
 	},
 	{
 		"key": "spatial",
-		"value": "{\"type\": \"Polygon\", \"coordinates\": [[[-155.582566, 19.254501], [-155.582566, 19.53409], [-155.146329, 19.53409], [-155.146329, 19.254501], [-155.582566, 19.254501]]]}"
+		"value": "{"type": "Polygon", "coordinates": [[[-155.582566, 19.254501], [-155.582566, 19.53409], [-155.146329, 19.53409], [-155.146329, 19.254501], [-155.582566, 19.254501]]]}"
 	},
 	{
 		"key": "guid",
@@ -219,7 +219,7 @@
 	},
 	{
 		"key": "access_constraints",
-		"value": "[\"Use Constraints: None\", \"Access Constraints: None\"]"
+		"value": "["Use Constraints: None", "Access Constraints: None"]"
 	},
 	{
 		"key": "frequency-of-update",
@@ -257,7 +257,7 @@
 		"revision_timestamp": "2015-03-18T14:25:04.527925",
 		"is_organization": true,
 		"state": "active",
-		"image_url": "https:\/\/raw.githubusercontent.com\/GSA\/logo\/master\/nps.png",
+		"image_url": "https://raw.githubusercontent.com/GSA/logo/master/nps.png",
 		"revision_id": "c01136dc-911c-4651-92b7-36046d755b81",
 		"type": "organization",
 		"id": "ffbc26a5-1ae8-4c8c-ac45-e5b76fc6486a",

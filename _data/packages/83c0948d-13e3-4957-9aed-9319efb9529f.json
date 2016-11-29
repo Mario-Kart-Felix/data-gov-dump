@@ -37,7 +37,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2015-09-26T17:18:39.311100",
-		"url": "ftp:\/\/sidads.colorado.edu\/pub\/DATASETS\/NOAA\/G00803\/",
+		"url": "ftp://sidads.colorado.edu/pub/DATASETS/NOAA/G00803/",
 		"webstore_url": null,
 		"resource_locator_function": "function",
 		"position": 0,
@@ -67,7 +67,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2015-09-26T17:18:39.311127",
-		"url": "http:\/\/nsidc.org\/data\/docs\/noaa\/g00803_glerl_ice_thickness\/index.html",
+		"url": "http://nsidc.org/data/docs/noaa/g00803_glerl_ice_thickness/index.html",
 		"webstore_url": null,
 		"resource_locator_function": "function",
 		"position": 1,
@@ -85,7 +85,7 @@
 		"last_modified": null,
 		"hash": "",
 		"description": "",
-		"format": "application\/vnd.lotus-organizer",
+		"format": "application/vnd.lotus-organizer",
 		"tracking_summary": {
 			"total": 85,
 			"recent": 4
@@ -97,7 +97,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2015-09-26T17:18:39.311137",
-		"url": "http:\/\/nsidc.org",
+		"url": "http://nsidc.org",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 2,
@@ -127,7 +127,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2015-09-26T17:18:39.311144",
-		"url": "http:\/\/nsidc.org\/noaa\/",
+		"url": "http://nsidc.org/noaa/",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 3,
@@ -145,7 +145,7 @@
 		"last_modified": null,
 		"hash": "",
 		"description": "",
-		"format": "application\/vnd.lotus-organizer",
+		"format": "application/vnd.lotus-organizer",
 		"tracking_summary": {
 			"total": 85,
 			"recent": 4
@@ -157,7 +157,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2015-09-26T17:18:39.311152",
-		"url": "http:\/\/nsidc.org",
+		"url": "http://nsidc.org",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 4,
@@ -177,7 +177,7 @@
 	"name": "glerl-great-lakes-ice-thickness-data-base-1966-1979",
 	"isopen": false,
 	"url": null,
-	"notes": "\nDuring the winters of 1965\/66 through 1976\/77, NOAA\/Great Lakes Environmental Research Laboratory (GLERL) collected weekly ice thickness and stratigraphy data at up to 90 stations per year on the Great Lakes. Data include station name, latitude, longitude and period of record as well as thickness of up to six ice layers, total ice thickness, snow depth (on top of ice), snow condition, ice condition, and ice type code. The data are useful for site-specific shoreline engineering studies, winter navigation projects and remote sensing ground truth. Constraints on the data include the relatively short period of record (eleven seasons maximum for any one station). Additionally, the time series may not reflect the full winter severity range. Nearshore data may not be valid for nearby locations or representative of offshore conditions, and ice type codes (the visual observation code) changed in 1974\/75. Both old and new code lists are available.\n",
+	"notes": "nDuring the winters of 1965/66 through 1976/77, NOAA/Great Lakes Environmental Research Laboratory (GLERL) collected weekly ice thickness and stratigraphy data at up to 90 stations per year on the Great Lakes. Data include station name, latitude, longitude and period of record as well as thickness of up to six ice layers, total ice thickness, snow depth (on top of ice), snow condition, ice condition, and ice type code. The data are useful for site-specific shoreline engineering studies, winter navigation projects and remote sensing ground truth. Constraints on the data include the relatively short period of record (eleven seasons maximum for any one station). Additionally, the time series may not reflect the full winter severity range. Nearshore data may not be valid for nearby locations or representative of offshore conditions, and ice type codes (the visual observation code) changed in 1974/75. Both old and new code lists are available.n",
 	"license_title": null,
 	"extras": [{
 		"key": "bbox-east-long",
@@ -213,7 +213,7 @@
 	},
 	{
 		"key": "spatial",
-		"value": "{\"type\": \"Polygon\", \"coordinates\": [[[-93.0, 41.0], [-76.0, 41.0], [-76.0, 49.0], [-93.0, 49.0], [-93.0, 41.0]]]}"
+		"value": "{"type": "Polygon", "coordinates": [[[-93.0, 41.0], [-76.0, 41.0], [-76.0, 49.0], [-93.0, 49.0], [-93.0, 41.0]]]}"
 	},
 	{
 		"key": "progress",
@@ -221,7 +221,7 @@
 	},
 	{
 		"key": "access_constraints",
-		"value": "[\"Access Constraints : none\", \"Use Constraints : none\"]"
+		"value": "["Access Constraints : none", "Use Constraints : none"]"
 	},
 	{
 		"key": "temporal-extent-begin",
@@ -241,7 +241,7 @@
 	},
 	{
 		"key": "dataset-reference-date",
-		"value": "[{\"type\": \"publication\", \"value\": \"1995-01-01\"}]"
+		"value": "[{"type": "publication", "value": "1995-01-01"}]"
 	},
 	{
 		"key": "frequency-of-update",
@@ -257,7 +257,7 @@
 	},
 	{
 		"key": "responsible-party",
-		"value": "[{\"name\": \"Great Lakes Environmental Research Laboratory\", \"roles\": [\"principalInvestigator\"]}, {\"name\": \"National Snow and Ice Data Center\", \"roles\": [\"pointOfContact\"]}]"
+		"value": "[{"name": "Great Lakes Environmental Research Laboratory", "roles": ["principalInvestigator"]}, {"name": "National Snow and Ice Data Center", "roles": ["pointOfContact"]}]"
 	},
 	{
 		"key": "temporal-extent-end",
@@ -273,7 +273,7 @@
 	},
 	{
 		"package_id": "83c0948d-13e3-4957-9aed-9319efb9529f",
-		"value": "terrestrial hydrosphere, cryosphere, lake erie, usa, snow depth, lake ice, ice thickness, mid-latitude, united states of america, ice depth\/thickness, north america, ice stratigraphy, freshwater ice, idn_node gsfc\/nsidc, snow\/ice, geographic region, shore ice, great lakes, continent, earth science",
+		"value": "terrestrial hydrosphere, cryosphere, lake erie, usa, snow depth, lake ice, ice thickness, mid-latitude, united states of america, ice depth/thickness, north america, ice stratigraphy, freshwater ice, idn_node gsfc/nsidc, snow/ice, geographic region, shore ice, great lakes, continent, earth science",
 		"revision_timestamp": "2015-09-26T21:18:39.263361",
 		"state": "active",
 		"key": "tags",
@@ -303,7 +303,7 @@
 		"revision_timestamp": "2013-03-25T23:05:12.923863",
 		"is_organization": true,
 		"state": "active",
-		"image_url": "https:\/\/fortress.wa.gov\/dfw\/score\/score\/images\/noaa_logo.png",
+		"image_url": "https://fortress.wa.gov/dfw/score/score/images/noaa_logo.png",
 		"revision_id": "c6d43080-22e1-405e-a83d-f2a512d9e867",
 		"type": "organization",
 		"id": "e811f0b4-451f-4896-9e8f-fc6802837819",

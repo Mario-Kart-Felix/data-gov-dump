@@ -37,7 +37,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2016-09-09T18:52:03.920166",
-		"url": "http:\/\/bios.dfg.ca.gov",
+		"url": "http://bios.dfg.ca.gov",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 0,
@@ -67,7 +67,7 @@
 		"cache_url": null,
 		"name": "Zip File",
 		"created": "2016-09-09T18:52:03.920210",
-		"url": "ftp:\/\/ftp.dfg.ca.gov\/BDB\/GIS\/BIOS\/Public_Datasets\/001_099\/ds063.zip",
+		"url": "ftp://ftp.dfg.ca.gov/BDB/GIS/BIOS/Public_Datasets/001_099/ds063.zip",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 1,
@@ -91,7 +91,7 @@
 	"license_title": null,
 	"extras": [{
 		"key": "responsible-party",
-		"value": "[{\"name\": \"Pacific States Marine Fisheries Commission, CalFish\", \"roles\": [\"pointOfContact\"]}]"
+		"value": "[{"name": "Pacific States Marine Fisheries Commission, CalFish", "roles": ["pointOfContact"]}]"
 	},
 	{
 		"key": "contact-email",
@@ -111,7 +111,7 @@
 	},
 	{
 		"key": "dataset-reference-date",
-		"value": "[{\"type\": \"publication\", \"value\": \"2015-05-29\"}]"
+		"value": "[{"type": "publication", "value": "2015-05-29"}]"
 	},
 	{
 		"key": "resource-type",
@@ -139,7 +139,7 @@
 	},
 	{
 		"key": "licence",
-		"value": "[\" \"]"
+		"value": "[" "]"
 	},
 	{
 		"key": "metadata_type",
@@ -151,7 +151,7 @@
 	},
 	{
 		"key": "spatial",
-		"value": "{\"type\": \"Polygon\", \"coordinates\": [[[-124.483447, 38.348108], [-122.564872, 38.348108], [-122.564872, 41.772468], [-124.483447, 41.772468], [-124.483447, 38.348108]]]}"
+		"value": "{"type": "Polygon", "coordinates": [[[-124.483447, 38.348108], [-122.564872, 38.348108], [-122.564872, 41.772468], [-124.483447, 41.772468], [-124.483447, 38.348108]]]}"
 	},
 	{
 		"key": "guid",
@@ -163,7 +163,7 @@
 	},
 	{
 		"key": "access_constraints",
-		"value": "[\"Use Constraints: DATA LIMITATIONS AND ASSUMPTIONS: For analytical purposes, users should assume that data collection methods were similar enough between streams, years, and observers to allow comparison of relative values. Observer bias is presumed low to non-existent. Unit-level in-stream habitat data are designed for suitability assessment of salmonid habitat at fine scales (stream segment). They should not be used for large watershed-level assessment tasks since no sampling designs were established for that purpose. In addition, the shapefiles comprising this data set are a visual representation of the data and have not been calibrated to existing stream data. Therefore spatial errors should be expected. KNOWN CAVEATS OF THE DATA: A significant scaling error often occurs in these data. Some of this error could be from mapping fine-scale ground measurements to a coarser map scale. The average in-stream habitat unit is approximately 55 feet (17 m) long while 1:24,000 scale maps may be accurate to the nearest 90 feet (30m). In most cases, distances measured at a fine scale will exceed measurements at a course scale (Mandelbrot, 1982). With this and other errors, habitat units for some streams may not be accurately placed on the map. Uncertainty of habitat unit placement on the map increases with distance upstream from the starting point. In many cases, the scaling error caused the length of the stream as measured in the surveys to exceed the apparent stream length mapped on the hydrography. For these instances, a scaling factor was applied automatically by the NCNCR 'Stream Habitat' application (contact Karen Wilson, Karen.Wilson@wildlife.ca.gov, for information on this program). Even after application of the scaling factor, instances of the length discrepancy exceeding 1000 feet were found in the data where the surveys covered several miles. Habitat conditions can change drastically both from year to year and within a season. Some of the factors to consider are variable stream flows (especially flood events), temperatures and silt loads. Use of the data with other time-dependent data such as stream biological inventories and salmon carcass surveys must be done with caution.\", \"Access Constraints: None\"]"
+		"value": "["Use Constraints: DATA LIMITATIONS AND ASSUMPTIONS: For analytical purposes, users should assume that data collection methods were similar enough between streams, years, and observers to allow comparison of relative values. Observer bias is presumed low to non-existent. Unit-level in-stream habitat data are designed for suitability assessment of salmonid habitat at fine scales (stream segment). They should not be used for large watershed-level assessment tasks since no sampling designs were established for that purpose. In addition, the shapefiles comprising this data set are a visual representation of the data and have not been calibrated to existing stream data. Therefore spatial errors should be expected. KNOWN CAVEATS OF THE DATA: A significant scaling error often occurs in these data. Some of this error could be from mapping fine-scale ground measurements to a coarser map scale. The average in-stream habitat unit is approximately 55 feet (17 m) long while 1:24,000 scale maps may be accurate to the nearest 90 feet (30m). In most cases, distances measured at a fine scale will exceed measurements at a course scale (Mandelbrot, 1982). With this and other errors, habitat units for some streams may not be accurately placed on the map. Uncertainty of habitat unit placement on the map increases with distance upstream from the starting point. In many cases, the scaling error caused the length of the stream as measured in the surveys to exceed the apparent stream length mapped on the hydrography. For these instances, a scaling factor was applied automatically by the NCNCR 'Stream Habitat' application (contact Karen Wilson, Karen.Wilson@wildlife.ca.gov, for information on this program). Even after application of the scaling factor, instances of the length discrepancy exceeding 1000 feet were found in the data where the surveys covered several miles. Habitat conditions can change drastically both from year to year and within a season. Some of the factors to consider are variable stream flows (especially flood events), temperatures and silt loads. Use of the data with other time-dependent data such as stream biological inventories and salmon carcass surveys must be done with caution.", "Access Constraints: None"]"
 	},
 	{
 		"key": "spatial_harvester",
@@ -205,7 +205,7 @@
 		"revision_timestamp": "2013-05-31T17:51:13.706377",
 		"is_organization": true,
 		"state": "active",
-		"image_url": "http:\/\/www.ca.gov\/images\/template2012\/header_ca.gov.png",
+		"image_url": "http://www.ca.gov/images/template2012/header_ca.gov.png",
 		"revision_id": "ad94cda4-9394-44d0-9c37-573dc3c47c9a",
 		"type": "organization",
 		"id": "467d900f-8a42-452d-9906-6610dd1a767f",

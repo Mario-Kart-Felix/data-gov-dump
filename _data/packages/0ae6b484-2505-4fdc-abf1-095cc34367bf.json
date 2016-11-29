@@ -37,7 +37,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2016-05-31T02:54:20.973525",
-		"url": "https:\/\/coast.noaa.gov\/dataviewer\/#\/lidar\/search\/where:ID=23",
+		"url": "https://coast.noaa.gov/dataviewer/#/lidar/search/where:ID=23",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 0,
@@ -67,7 +67,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2016-05-31T02:54:20.973558",
-		"url": "https:\/\/coast.noaa.gov\/htdata\/lidar1_z\/geoid12a\/data\/23",
+		"url": "https://coast.noaa.gov/htdata/lidar1_z/geoid12a/data/23",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 1,
@@ -97,7 +97,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2016-05-31T02:54:20.973570",
-		"url": "https:\/\/coast.noaa.gov\/dataviewer",
+		"url": "https://coast.noaa.gov/dataviewer",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 2,
@@ -127,7 +127,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2016-05-31T02:54:20.973578",
-		"url": "https:\/\/coast.noaa.gov",
+		"url": "https://coast.noaa.gov",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 3,
@@ -149,7 +149,7 @@
 		"revision_timestamp": "2013-03-25T23:05:12.923863",
 		"is_organization": true,
 		"state": "active",
-		"image_url": "https:\/\/fortress.wa.gov\/dfw\/score\/score\/images\/noaa_logo.png",
+		"image_url": "https://fortress.wa.gov/dfw/score/score/images/noaa_logo.png",
 		"revision_id": "c6d43080-22e1-405e-a83d-f2a512d9e867",
 		"type": "organization",
 		"id": "e811f0b4-451f-4896-9e8f-fc6802837819",
@@ -160,11 +160,11 @@
 	"name": "2004-alaska-lidar-mapping",
 	"isopen": false,
 	"url": null,
-	"notes": "The data sets are generated using the OPTECH ALTM 70 kHz LIDAR system mounted onboard AeroMap's twin-engine Cessna 320 aircraft. Classified data sets such as this one may have varying posting due to some LIDAR pulses not reaching the ground caused by data anomalies. Accuracy statements are based on areas of moderate terrain. Diminished accuracies are to be expected in areas of extreme terrain and dense vegetation. The accuracy of each point is expected to meet the vertical accuracy standard; however, derived products may be less accurate in extreme terrain and dense vegetation due to a lesser number of points defining the bare-earth in these areas. The data were QA\/QC'ed but some data holidays still exist. This data represents the last return data only.",
+	"notes": "The data sets are generated using the OPTECH ALTM 70 kHz LIDAR system mounted onboard AeroMap's twin-engine Cessna 320 aircraft. Classified data sets such as this one may have varying posting due to some LIDAR pulses not reaching the ground caused by data anomalies. Accuracy statements are based on areas of moderate terrain. Diminished accuracies are to be expected in areas of extreme terrain and dense vegetation. The accuracy of each point is expected to meet the vertical accuracy standard; however, derived products may be less accurate in extreme terrain and dense vegetation due to a lesser number of points defining the bare-earth in these areas. The data were QA/QC'ed but some data holidays still exist. This data represents the last return data only.",
 	"owner_org": "e811f0b4-451f-4896-9e8f-fc6802837819",
 	"extras": [{
 		"key": "responsible-party",
-		"value": "[{\"name\": \"NOAA Office for Coastal Management\", \"roles\": [\"pointOfContact\"]}]"
+		"value": "[{"name": "NOAA Office for Coastal Management", "roles": ["pointOfContact"]}]"
 	},
 	{
 		"key": "contact-email",
@@ -184,7 +184,7 @@
 	},
 	{
 		"key": "dataset-reference-date",
-		"value": "[{\"type\": \"publication\", \"value\": \"2006-03-22\"}]"
+		"value": "[{"type": "publication", "value": "2006-03-22"}]"
 	},
 	{
 		"key": "resource-type",
@@ -212,7 +212,7 @@
 	},
 	{
 		"key": "licence",
-		"value": "[\"\\nAny conclusions drawn from analysis of this information are not the responsibility of NOAA, the Office for Coastal Management or its partners.\\n\"]"
+		"value": "["\nAny conclusions drawn from analysis of this information are not the responsibility of NOAA, the Office for Coastal Management or its partners.\n"]"
 	},
 	{
 		"key": "metadata_type",
@@ -224,7 +224,7 @@
 	},
 	{
 		"key": "spatial",
-		"value": "{\"type\": \"Polygon\", \"coordinates\": [[[-168.530215, 65.594656], [-162.633189, 65.594656], [-162.633189, 68.35997], [-168.530215, 68.35997], [-168.530215, 65.594656]]]}"
+		"value": "{"type": "Polygon", "coordinates": [[[-168.530215, 65.594656], [-162.633189, 65.594656], [-162.633189, 68.35997], [-168.530215, 68.35997], [-168.530215, 65.594656]]]}"
 	},
 	{
 		"key": "guid",
@@ -236,7 +236,7 @@
 	},
 	{
 		"key": "access_constraints",
-		"value": "[\"Use Constraints: Users should be aware that temporal changes may have occurred since this data set was collected and some parts of this data may no longer represent actual surface conditions. Users should not use this data for critical applications without a full awareness of its limitations.\", \"Access Constraints: None\"]"
+		"value": "["Use Constraints: Users should be aware that temporal changes may have occurred since this data set was collected and some parts of this data may no longer represent actual surface conditions. Users should not use this data for critical applications without a full awareness of its limitations.", "Access Constraints: None"]"
 	},
 	{
 		"key": "spatial_harvester",
@@ -248,7 +248,7 @@
 	},
 	{
 		"key": "tags",
-		"value": "cartography, hydrography, seward peninsula, terrain, cape seppings, surface, height, photogrammetry, radar, earth, cape krusenstern, kotzebue, shishmaref, geography, usa, lidar, dsm, cape espenburg, geodesy, stereophotogrammetry, wales, ground, elevation, august, bald, mapping, interferometric, point hope, remote, july, kivilina, cape thompson, laser, dtm, alaska, bathymetry\/topography, dem, 2004, sensing, first",
+		"value": "cartography, hydrography, seward peninsula, terrain, cape seppings, surface, height, photogrammetry, radar, earth, cape krusenstern, kotzebue, shishmaref, geography, usa, lidar, dsm, cape espenburg, geodesy, stereophotogrammetry, wales, ground, elevation, august, bald, mapping, interferometric, point hope, remote, july, kivilina, cape thompson, laser, dtm, alaska, bathymetry/topography, dem, 2004, sensing, first",
 		"__extras": {
 			"revision_id": "90ff28c1-a4b8-4bcb-82bc-a5c98afa3eeb",
 			"package_id": "0ae6b484-2505-4fdc-abf1-095cc34367bf"

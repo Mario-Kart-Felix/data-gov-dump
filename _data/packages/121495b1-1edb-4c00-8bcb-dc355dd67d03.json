@@ -37,7 +37,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2016-05-30T22:16:41.368935",
-		"url": "https:\/\/coast.noaa.gov\/dataviewer\/#\/lidar\/search\/where:ID=27",
+		"url": "https://coast.noaa.gov/dataviewer/#/lidar/search/where:ID=27",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 0,
@@ -67,7 +67,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2016-05-30T22:16:41.368979",
-		"url": "https:\/\/coast.noaa.gov\/htdata\/lidar1_z\/geoid12a\/data\/27",
+		"url": "https://coast.noaa.gov/htdata/lidar1_z/geoid12a/data/27",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 1,
@@ -97,7 +97,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2016-05-30T22:16:41.368988",
-		"url": "http:\/\/dnrweb.dnr.state.md.us\/gis\/data\/lidar",
+		"url": "http://dnrweb.dnr.state.md.us/gis/data/lidar",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 2,
@@ -127,7 +127,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2016-05-30T22:16:41.368996",
-		"url": "http:\/\/www.msgic.state.md.us\/techtool",
+		"url": "http://www.msgic.state.md.us/techtool",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 3,
@@ -157,7 +157,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2016-05-30T22:16:41.369003",
-		"url": "http:\/\/dnrweb.dnr.state.md.us\/gis\/data\/lidar",
+		"url": "http://dnrweb.dnr.state.md.us/gis/data/lidar",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 4,
@@ -187,7 +187,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2016-05-30T22:16:41.369010",
-		"url": "http:\/\/dnrweb.dnr.state.md.us\/gis\/data\/lidar",
+		"url": "http://dnrweb.dnr.state.md.us/gis/data/lidar",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 5,
@@ -217,7 +217,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2016-05-30T22:16:41.369018",
-		"url": "https:\/\/coast.noaa.gov\/dataviewer",
+		"url": "https://coast.noaa.gov/dataviewer",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 6,
@@ -247,7 +247,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2016-05-30T22:16:41.369025",
-		"url": "https:\/\/coast.noaa.gov",
+		"url": "https://coast.noaa.gov",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 7,
@@ -267,7 +267,7 @@
 	"name": "2004-maryland-department-of-natural-resources-lidar-anne-arundel-charles-howard-and-st-marys-co",
 	"isopen": false,
 	"url": null,
-	"notes": "Light Detection and Ranging (LIDAR) is a method of locating objects on the ground using aerial-borne equipment. It is similar to RADAR or SONAR in that the two-way travel time of an energy beam reflected off an object is precisely measured, but this technology uses laser light instead of radio or sound waves. This technology has proven very useful in remote sensing of the earth. It can be used for determining elevations of both the earth's surface and items (natural and man-made) on the surface. Analysis of LIDAR data is used in detailed modeling of the earth's surface for drainage and floodplain studies, determining how a new structure will affect views from various locations, shoreline erosion studies, and other reasons. This data set contains only the bare earth mass points. Bare earth points represent ground features. Features that are above ground, such as buildings, bridges, tree tops, etc, have been eliminated. Mass points may appear to have \"holes\" with no elevation values in areas where the surface could not be determined, such as very dense forests or urban areas.",
+	"notes": "Light Detection and Ranging (LIDAR) is a method of locating objects on the ground using aerial-borne equipment. It is similar to RADAR or SONAR in that the two-way travel time of an energy beam reflected off an object is precisely measured, but this technology uses laser light instead of radio or sound waves. This technology has proven very useful in remote sensing of the earth. It can be used for determining elevations of both the earth's surface and items (natural and man-made) on the surface. Analysis of LIDAR data is used in detailed modeling of the earth's surface for drainage and floodplain studies, determining how a new structure will affect views from various locations, shoreline erosion studies, and other reasons. This data set contains only the bare earth mass points. Bare earth points represent ground features. Features that are above ground, such as buildings, bridges, tree tops, etc, have been eliminated. Mass points may appear to have "holes" with no elevation values in areas where the surface could not be determined, such as very dense forests or urban areas.",
 	"license_title": null,
 	"extras": [{
 		"key": "bbox-east-long",
@@ -303,7 +303,7 @@
 	},
 	{
 		"key": "spatial",
-		"value": "{\"type\": \"Polygon\", \"coordinates\": [[[-76.472538, 37.881527], [-75.297853, 37.881527], [-75.297853, 39.124828], [-76.472538, 39.124828], [-76.472538, 37.881527]]]}"
+		"value": "{"type": "Polygon", "coordinates": [[[-76.472538, 37.881527], [-75.297853, 37.881527], [-75.297853, 39.124828], [-76.472538, 39.124828], [-76.472538, 37.881527]]]}"
 	},
 	{
 		"key": "progress",
@@ -311,7 +311,7 @@
 	},
 	{
 		"key": "access_constraints",
-		"value": "[\"Use Constraints: Users should be aware that temporal changes may have occurred since this data set was collected and some parts of this data may no longer represent actual surface conditions. Users should not use this data for critical applications without a full awareness of its limitations. The Department of Natural Resources makes no warranty, expressed or implied, as to the use or appropriateness of Spatial Data, and there are no warranties of merchantability or fitness for a particular purpose or use. The information contained in Spatial Data is from publicly available sources, but no representation is made as to the accuracy or completeness of Spatial Data. The Department of Natural Resources shall not be subject to liability for human error, error due to software conversion, defect, or failure of machines, or any material used in the connection with the machines, including tapes, disks, CD-ROMs or DVD-ROMs and energy. The Department of Natural Resources shall not be liable for any lost profits, consequential damages, or claims against the Department of Natural Resources by third parties. The liability of the Department of Natural Resources for damage regardless of the form of the action shall not exceed any distribution fees that may have been paid in obtaining Spatial Data.\", \"Access Constraints: None\"]"
+		"value": "["Use Constraints: Users should be aware that temporal changes may have occurred since this data set was collected and some parts of this data may no longer represent actual surface conditions. Users should not use this data for critical applications without a full awareness of its limitations. The Department of Natural Resources makes no warranty, expressed or implied, as to the use or appropriateness of Spatial Data, and there are no warranties of merchantability or fitness for a particular purpose or use. The information contained in Spatial Data is from publicly available sources, but no representation is made as to the accuracy or completeness of Spatial Data. The Department of Natural Resources shall not be subject to liability for human error, error due to software conversion, defect, or failure of machines, or any material used in the connection with the machines, including tapes, disks, CD-ROMs or DVD-ROMs and energy. The Department of Natural Resources shall not be liable for any lost profits, consequential damages, or claims against the Department of Natural Resources by third parties. The liability of the Department of Natural Resources for damage regardless of the form of the action shall not exceed any distribution fees that may have been paid in obtaining Spatial Data.", "Access Constraints: None"]"
 	},
 	{
 		"key": "temporal-extent-begin",
@@ -331,7 +331,7 @@
 	},
 	{
 		"key": "dataset-reference-date",
-		"value": "[{\"type\": \"publication\", \"value\": \"2005-01-20\"}]"
+		"value": "[{"type": "publication", "value": "2005-01-20"}]"
 	},
 	{
 		"key": "frequency-of-update",
@@ -339,7 +339,7 @@
 	},
 	{
 		"key": "licence",
-		"value": "[\"Any conclusions drawn from the analysis of this information are not the responsibility of NOAA, the OCM or its partners.\"]"
+		"value": "["Any conclusions drawn from the analysis of this information are not the responsibility of NOAA, the OCM or its partners."]"
 	},
 	{
 		"key": "metadata_type",
@@ -347,7 +347,7 @@
 	},
 	{
 		"key": "responsible-party",
-		"value": "[{\"name\": \"Maryland Department of Natural Resources\", \"roles\": [\"pointOfContact\"]}]"
+		"value": "[{"name": "Maryland Department of Natural Resources", "roles": ["pointOfContact"]}]"
 	},
 	{
 		"key": "temporal-extent-end",
@@ -363,7 +363,7 @@
 	},
 	{
 		"package_id": "121495b1-1edb-4c00-8bcb-dc355dd67d03",
-		"value": "first return, bald earth, gridded dem, charles county, chesapeake bay, bare earth, elevation model, digital elevation model, terrain model, us, lidar, elevation and derived products, last return, st. mary's county, bathymetry\/topography, dem, dnr, howard county, maryland, surface model, anne arundel county",
+		"value": "first return, bald earth, gridded dem, charles county, chesapeake bay, bare earth, elevation model, digital elevation model, terrain model, us, lidar, elevation and derived products, last return, st. mary's county, bathymetry/topography, dem, dnr, howard county, maryland, surface model, anne arundel county",
 		"revision_timestamp": "2016-01-02T06:18:38.301352",
 		"state": "active",
 		"key": "tags",
@@ -393,7 +393,7 @@
 		"revision_timestamp": "2013-03-25T23:05:12.923863",
 		"is_organization": true,
 		"state": "active",
-		"image_url": "https:\/\/fortress.wa.gov\/dfw\/score\/score\/images\/noaa_logo.png",
+		"image_url": "https://fortress.wa.gov/dfw/score/score/images/noaa_logo.png",
 		"revision_id": "c6d43080-22e1-405e-a83d-f2a512d9e867",
 		"type": "organization",
 		"id": "e811f0b4-451f-4896-9e8f-fc6802837819",

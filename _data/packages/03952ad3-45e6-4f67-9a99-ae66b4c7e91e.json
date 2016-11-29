@@ -36,7 +36,7 @@
 		"cache_url": null,
 		"name": "Transportation Map Service (ArcGIS)",
 		"created": "2016-09-29T05:39:37.533690",
-		"url": "http:\/\/services.nationalmap.gov\/arcgis\/rest\/services\/transportation\/MapServer",
+		"url": "http://services.nationalmap.gov/arcgis/rest/services/transportation/MapServer",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 0,
@@ -65,7 +65,7 @@
 		"cache_url": null,
 		"name": "Transportation Map Service (WMS)",
 		"created": "2016-09-29T05:39:37.533717",
-		"url": "http:\/\/services.nationalmap.gov\/arcgis\/services\/transportation\/MapServer\/WMSServer?request=GetCapabilities&service=WMS",
+		"url": "http://services.nationalmap.gov/arcgis/services/transportation/MapServer/WMSServer?request=GetCapabilities&service=WMS",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 1,
@@ -94,7 +94,7 @@
 		"cache_url": null,
 		"name": "Transportation Feature Service (WFS)",
 		"created": "2016-09-29T05:39:37.533726",
-		"url": "http:\/\/services.nationalmap.gov\/arcgis\/services\/WFS\/transportation\/MapServer\/WFSServer?request=GetCapabilities&service=WFS",
+		"url": "http://services.nationalmap.gov/arcgis/services/WFS/transportation/MapServer/WFSServer?request=GetCapabilities&service=WFS",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 2,
@@ -124,7 +124,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2016-09-29T05:39:37.533733",
-		"url": "http:\/\/viewer.nationalmap.gov\/viewer",
+		"url": "http://viewer.nationalmap.gov/viewer",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 3,
@@ -154,7 +154,7 @@
 		"cache_url": null,
 		"name": "PDF File",
 		"created": "2016-09-29T05:39:37.533740",
-		"url": "http:\/\/services.nationalmap.gov\/bestpractices\/model\/acrodocs\/Poster_BPTrans_03_01_2006.pdf",
+		"url": "http://services.nationalmap.gov/bestpractices/model/acrodocs/Poster_BPTrans_03_01_2006.pdf",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 4,
@@ -174,7 +174,7 @@
 	"name": "usgs-transportation-overlay-map-service-from-the-national-map",
 	"isopen": false,
 	"url": null,
-	"notes": "The USGS Transportation service from The National Map (TNM) is based on TIGER\/Line data provided through U.S. Census Bureau and road data from U.S. Forest Service. Some of the TIGER\/Line data includes limited corrections done by USGS. Transportation data consists of roads, railroads, trails, airports, and other features associated with the transport of people or commerce. The data include the name or route designator, classification, and location. Transportation data support general mapping and geographic information system technology analysis for applications such as traffic safety, congestion mitigation, disaster planning, and emergency response. The National Map transportation data is commonly combined with other data themes, such as boundaries, elevation, hydrography, and structures, to produce general reference base maps. The National Map Download Client allows free downloads of public domain transportation data in either Esri File Geodatabase or Shapefile formats. For additional information on the transportation data model, go to http:\/\/nationalmap.gov\/transport.html.",
+	"notes": "The USGS Transportation service from The National Map (TNM) is based on TIGER/Line data provided through U.S. Census Bureau and road data from U.S. Forest Service. Some of the TIGER/Line data includes limited corrections done by USGS. Transportation data consists of roads, railroads, trails, airports, and other features associated with the transport of people or commerce. The data include the name or route designator, classification, and location. Transportation data support general mapping and geographic information system technology analysis for applications such as traffic safety, congestion mitigation, disaster planning, and emergency response. The National Map transportation data is commonly combined with other data themes, such as boundaries, elevation, hydrography, and structures, to produce general reference base maps. The National Map Download Client allows free downloads of public domain transportation data in either Esri File Geodatabase or Shapefile formats. For additional information on the transportation data model, go to http://nationalmap.gov/transport.html.",
 	"license_title": null,
 	"extras": [{
 		"key": "bbox-east-long",
@@ -202,7 +202,7 @@
 	},
 	{
 		"key": "graphic-preview-file",
-		"value": "http:\/\/thor-f5.er.usgs.gov\/ngtoc\/metadata\/waf\/services\/overlays\/browse\/transportation.jpg"
+		"value": "http://thor-f5.er.usgs.gov/ngtoc/metadata/waf/services/overlays/browse/transportation.jpg"
 	},
 	{
 		"key": "bbox-south-lat",
@@ -218,7 +218,7 @@
 	},
 	{
 		"key": "spatial",
-		"value": "{\"type\": \"Polygon\", \"coordinates\": [[[-179.1666667, 17.625], [180.0, 17.625], [180.0, 71.5], [-179.1666667, 71.5], [-179.1666667, 17.625]]]}"
+		"value": "{"type": "Polygon", "coordinates": [[[-179.1666667, 17.625], [180.0, 17.625], [180.0, 71.5], [-179.1666667, 71.5], [-179.1666667, 17.625]]]}"
 	},
 	{
 		"key": "progress",
@@ -226,7 +226,7 @@
 	},
 	{
 		"key": "access_constraints",
-		"value": "[\"Use Constraints: None. Acknowledgement of the originating agencies would be appreciated in products derived from these data.\", \"Access Constraints: None\"]"
+		"value": "["Use Constraints: None. Acknowledgement of the originating agencies would be appreciated in products derived from these data.", "Access Constraints: None"]"
 	},
 	{
 		"key": "contact-email",
@@ -242,7 +242,7 @@
 	},
 	{
 		"key": "dataset-reference-date",
-		"value": "[{\"type\": \"publication\", \"value\": \"2016-01-01\"}]"
+		"value": "[{"type": "publication", "value": "2016-01-01"}]"
 	},
 	{
 		"key": "graphic-preview-description",
@@ -254,7 +254,7 @@
 	},
 	{
 		"key": "licence",
-		"value": "[\"Although these data have been processed successfully on a computer system at the\\n         U.S. Geological Survey, no warranty expressed or implied is made regarding the accuracy or\\n         utility of the data on any other system or for general or scientific purposes, nor shall\\n         the act of distribution constitute any such warranty. This disclaimer applies both to\\n         individual use of the data and aggregate use with other data. It is strongly recommended\\n         that these data are directly acquired from a U.S. Geological Survey server, and not\\n         indirectly through other sources which may have changed the data in some way. It is also\\n         strongly recommended that careful attention be paid to the contents of the metadata file\\n         associated with these data. The U.S. Geological Survey shall not be held liable for\\n         improper or incorrect use of the data described and\/or contained herein.\"]"
+		"value": "["Although these data have been processed successfully on a computer system at the\n         U.S. Geological Survey, no warranty expressed or implied is made regarding the accuracy or\n         utility of the data on any other system or for general or scientific purposes, nor shall\n         the act of distribution constitute any such warranty. This disclaimer applies both to\n         individual use of the data and aggregate use with other data. It is strongly recommended\n         that these data are directly acquired from a U.S. Geological Survey server, and not\n         indirectly through other sources which may have changed the data in some way. It is also\n         strongly recommended that careful attention be paid to the contents of the metadata file\n         associated with these data. The U.S. Geological Survey shall not be held liable for\n         improper or incorrect use of the data described and/or contained herein."]"
 	},
 	{
 		"key": "metadata_type",
@@ -262,7 +262,7 @@
 	},
 	{
 		"key": "responsible-party",
-		"value": "[{\"name\": \"U.S. Geological Survey, National Geospatial Technical Operations Center\", \"roles\": [\"pointOfContact\"]}]"
+		"value": "[{"name": "U.S. Geological Survey, National Geospatial Technical Operations Center", "roles": ["pointOfContact"]}]"
 	},
 	{
 		"key": "spatial-data-service-type",
@@ -297,14 +297,14 @@
 		"value": "Overlay Map Services in The National Map"
 	}],
 	"organization": {
-		"description": "http:\/\/www.usgs.gov\/\r\nThe USGS is a federal science agency that provides impartial information on the health of our ecosystems and environment, the natural hazards that threaten us, the natural resources we rely on, the impacts of climate and land-use change, and the core science systems that help us provide timely, relevant, and useable information.",
+		"description": "http://www.usgs.gov/rnThe USGS is a federal science agency that provides impartial information on the health of our ecosystems and environment, the natural hazards that threaten us, the natural resources we rely on, the impacts of climate and land-use change, and the core science systems that help us provide timely, relevant, and useable information.",
 		"created": "2013-03-14T03:44:38.263357",
 		"title": "U.S. Geological Survey, Department of the Interior",
 		"name": "usgs-gov",
 		"revision_timestamp": "2014-09-02T13:43:52.167023",
 		"is_organization": true,
 		"state": "active",
-		"image_url": "http:\/\/pubs.usgs.gov\/sir\/2004\/5296\/04-5296_confluence_park\/usgs_logo.gif",
+		"image_url": "http://pubs.usgs.gov/sir/2004/5296/04-5296_confluence_park/usgs_logo.gif",
 		"revision_id": "2858aa99-9501-4f96-82e5-9647b968ed66",
 		"type": "organization",
 		"id": "bd2cdd5a-4d65-46c0-9937-c8381175f104",

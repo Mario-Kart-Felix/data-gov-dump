@@ -37,7 +37,7 @@
 		"cache_url": null,
 		"name": "Esri Rest API Endpoint",
 		"created": "2015-09-26T20:08:34.296273",
-		"url": "http:\/\/www.ncddc.noaa.gov\/arcgis\/rest\/services\/OceanExploration\/OECruiseData\/MapServer",
+		"url": "http://www.ncddc.noaa.gov/arcgis/rest/services/OceanExploration/OECruiseData/MapServer",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 0,
@@ -67,7 +67,7 @@
 		"cache_url": null,
 		"name": "Web Mapping Service",
 		"created": "2015-09-26T20:08:34.296297",
-		"url": "http:\/\/www.ncddc.noaa.gov\/arcgis\/services\/OceanExploration\/OECruiseData\/MapServer\/WMSServer?request=GetCapabilities&service=WMS",
+		"url": "http://www.ncddc.noaa.gov/arcgis/services/OceanExploration/OECruiseData/MapServer/WMSServer?request=GetCapabilities&service=WMS",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 1,
@@ -97,7 +97,7 @@
 		"cache_url": null,
 		"name": "Esri Rest API Endpoint",
 		"created": "2015-09-26T20:08:34.296307",
-		"url": "http:\/\/www.ncddc.noaa.gov\/arcgis\/rest\/services\/OceanExploration\/OECruiseData\/MapServer",
+		"url": "http://www.ncddc.noaa.gov/arcgis/rest/services/OceanExploration/OECruiseData/MapServer",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 2,
@@ -119,7 +119,7 @@
 		"revision_timestamp": "2013-03-25T23:05:12.923863",
 		"is_organization": true,
 		"state": "active",
-		"image_url": "https:\/\/fortress.wa.gov\/dfw\/score\/score\/images\/noaa_logo.png",
+		"image_url": "https://fortress.wa.gov/dfw/score/score/images/noaa_logo.png",
 		"revision_id": "c6d43080-22e1-405e-a83d-f2a512d9e867",
 		"type": "organization",
 		"id": "e811f0b4-451f-4896-9e8f-fc6802837819",
@@ -130,7 +130,7 @@
 	"name": "ship-sensor-observations-for-okeanos-explorer-ex-1105-office-of-ocean-exploration-and-research",
 	"isopen": false,
 	"url": null,
-	"notes": "Hourly measurements made by selected ship sensors on the NOAA Ship OKEANOS EXPLORER during the \"EX-1105\" expedition sponsored by the National Oceanic and Atmospheric Administration (NOAA) Office of Ocean Exploration and Research, Aug. 22 through Sept. 10, 2011. Measurements include ship's position and heading, wind speed and direction, barometric pressure, and relative humidity.",
+	"notes": "Hourly measurements made by selected ship sensors on the NOAA Ship OKEANOS EXPLORER during the "EX-1105" expedition sponsored by the National Oceanic and Atmospheric Administration (NOAA) Office of Ocean Exploration and Research, Aug. 22 through Sept. 10, 2011. Measurements include ship's position and heading, wind speed and direction, barometric pressure, and relative humidity.",
 	"owner_org": "e811f0b4-451f-4896-9e8f-fc6802837819",
 	"extras": [{
 		"key": "bbox-east-long",
@@ -166,7 +166,7 @@
 	},
 	{
 		"key": "spatial",
-		"value": "{\"type\": \"Polygon\", \"coordinates\": [[[-88.566953, 23.905011], [-81.711557, 23.905011], [-81.711557, 30.351645], [-88.566953, 30.351645], [-88.566953, 23.905011]]]}"
+		"value": "{"type": "Polygon", "coordinates": [[[-88.566953, 23.905011], [-81.711557, 23.905011], [-81.711557, 30.351645], [-88.566953, 30.351645], [-88.566953, 23.905011]]]}"
 	},
 	{
 		"key": "progress",
@@ -174,7 +174,7 @@
 	},
 	{
 		"key": "access_constraints",
-		"value": "[\"Use Constraints: None\", \"Access Constraints: None\"]"
+		"value": "["Use Constraints: None", "Access Constraints: None"]"
 	},
 	{
 		"key": "temporal-extent-begin",
@@ -194,7 +194,7 @@
 	},
 	{
 		"key": "dataset-reference-date",
-		"value": "[{\"type\": \"publication\", \"value\": \"\"}]"
+		"value": "[{"type": "publication", "value": ""}]"
 	},
 	{
 		"key": "frequency-of-update",
@@ -202,7 +202,7 @@
 	},
 	{
 		"key": "licence",
-		"value": "[\"NOAA makes no warranty regarding these data, expressed or implied, nor does the fact of distribution constitute such a warranty. NOAA, NESDIS, NODC and NCDDC cannot assume liability for any damages caused by any errors or omissions in these data, nor as a result of the failure of these data to function on a particular system.\"]"
+		"value": "["NOAA makes no warranty regarding these data, expressed or implied, nor does the fact of distribution constitute such a warranty. NOAA, NESDIS, NODC and NCDDC cannot assume liability for any damages caused by any errors or omissions in these data, nor as a result of the failure of these data to function on a particular system."]"
 	},
 	{
 		"key": "metadata_type",
@@ -210,7 +210,7 @@
 	},
 	{
 		"key": "responsible-party",
-		"value": "[{\"name\": \"NOAA\/NESDIS\/NODC\/NCDDC-National Coastal Data Development Center\", \"roles\": [\"pointOfContact\"]}]"
+		"value": "[{"name": "NOAA/NESDIS/NODC/NCDDC-National Coastal Data Development Center", "roles": ["pointOfContact"]}]"
 	},
 	{
 		"key": "temporal-extent-end",

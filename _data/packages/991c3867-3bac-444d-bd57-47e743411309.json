@@ -36,7 +36,7 @@
 		"cache_url": null,
 		"name": "Service Description",
 		"created": "2013-03-16T00:40:15.867190",
-		"url": "http:\/\/ec2-50-18-49-187.us-west-1.compute.amazonaws.com\/arcgis\/services\/Non-Cached\/DNR_ActiveFault\/MapServer\/WMSServer?request=GetCapabilities&service=WMS",
+		"url": "http://ec2-50-18-49-187.us-west-1.compute.amazonaws.com/arcgis/services/Non-Cached/DNR_ActiveFault/MapServer/WMSServer?request=GetCapabilities&service=WMS",
 		"webstore_url": null,
 		"resource_locator_function": "381",
 		"position": 0,
@@ -65,7 +65,7 @@
 		"cache_url": null,
 		"name": "Service Description",
 		"created": "2013-03-16T00:40:15.867208",
-		"url": "http:\/\/ec2-50-18-49-187.us-west-1.compute.amazonaws.com\/arcgis\/services\/Non-Cached\/DNR_ActiveFault\/MapServer\/WFSServer?request=GetCapabilities&service=WFS",
+		"url": "http://ec2-50-18-49-187.us-west-1.compute.amazonaws.com/arcgis/services/Non-Cached/DNR_ActiveFault/MapServer/WFSServer?request=GetCapabilities&service=WFS",
 		"webstore_url": null,
 		"resource_locator_function": "381",
 		"position": 1,
@@ -94,7 +94,7 @@
 		"cache_url": null,
 		"name": "Service Description",
 		"created": "2013-03-16T00:40:15.867214",
-		"url": "http:\/\/ec2-50-18-49-187.us-west-1.compute.amazonaws.com\/arcgis\/rest\/services\/Non-Cached\/DNR_ActiveFault\/MapServer",
+		"url": "http://ec2-50-18-49-187.us-west-1.compute.amazonaws.com/arcgis/rest/services/Non-Cached/DNR_ActiveFault/MapServer",
 		"webstore_url": null,
 		"resource_locator_function": "381",
 		"position": 2,
@@ -123,7 +123,7 @@
 		"cache_url": null,
 		"name": "Zipped ESRI Shapefile with Excel 2007 (.xls) Spreadsheet contianing WA Active Fault data",
 		"created": "2013-03-16T00:40:15.867219",
-		"url": "http:\/\/repository.stategeothermaldata.org\/metadata\/record\/168566464e3d5f8f3cde3b9fc00446c1\/file\/gis-files.zip",
+		"url": "http://repository.stategeothermaldata.org/metadata/record/168566464e3d5f8f3cde3b9fc00446c1/file/gis-files.zip",
 		"webstore_url": null,
 		"resource_locator_function": "375",
 		"position": 3,
@@ -152,7 +152,7 @@
 		"cache_url": null,
 		"name": "Zipped Personal Geodatabse (.mdb) containing the WA Active Fault data",
 		"created": "2013-03-16T00:40:15.867224",
-		"url": "http:\/\/repository.stategeothermaldata.org\/metadata\/record\/168566464e3d5f8f3cde3b9fc00446c1\/file\/waactivefaultspgd.zip",
+		"url": "http://repository.stategeothermaldata.org/metadata/record/168566464e3d5f8f3cde3b9fc00446c1/file/waactivefaultspgd.zip",
 		"webstore_url": null,
 		"resource_locator_function": "375",
 		"position": 4,
@@ -185,11 +185,11 @@
 	"name": "washington-active-faults",
 	"isopen": false,
 	"url": null,
-	"notes": "The records within this dataset represent faults with known or suspected Quaternary (<1,600,000 yrs) activity in the state of Washington. These records make up a feature class that is part of a geodatabase that contains data on seismogenic features in Washington State. Other feature classes are active_fold, earthquake_location, and excavation_trench. Data were gathered from numerous sources, including the Washington State portion of the U.S Geological Survey's\"Quaternary fault and fold database of the United States\"(USGS, 2010). Faults were attributed with information such as age, visibility, method of detection, and in most cases, the corresponding ID number for the fault in the USGS database, for easy correlation between the two data sources. This dataset contains multiple interpretations of the same faults or fault systems by different authors, which may be only partially co-located. Differing interpretations are the result of different methods used to detect the faults and the scale of the investigation. Care should be used with this dataset to ensure full understanding of the scope of past work and breadth of interpretation of the fault of interest.",
+	"notes": "The records within this dataset represent faults with known or suspected Quaternary (<1,600,000 yrs) activity in the state of Washington. These records make up a feature class that is part of a geodatabase that contains data on seismogenic features in Washington State. Other feature classes are active_fold, earthquake_location, and excavation_trench. Data were gathered from numerous sources, including the Washington State portion of the U.S Geological Survey's"Quaternary fault and fold database of the United States"(USGS, 2010). Faults were attributed with information such as age, visibility, method of detection, and in most cases, the corresponding ID number for the fault in the USGS database, for easy correlation between the two data sources. This dataset contains multiple interpretations of the same faults or fault systems by different authors, which may be only partially co-located. Differing interpretations are the result of different methods used to detect the faults and the scale of the investigation. Care should be used with this dataset to ensure full understanding of the scope of past work and breadth of interpretation of the fault of interest.",
 	"license_title": null,
 	"extras": [{
 		"key": "responsible-party",
-		"value": "[{\"name\": \"Arizona Geological Survey\", \"roles\": [\"pointOfContact\"]}]"
+		"value": "[{"name": "Arizona Geological Survey", "roles": ["pointOfContact"]}]"
 	},
 	{
 		"key": "contact-email",
@@ -209,7 +209,7 @@
 	},
 	{
 		"key": "dataset-reference-date",
-		"value": "[{\"type\": \"publication\", \"value\": \"2011-09-30T12:00:00\"}]"
+		"value": "[{"type": "publication", "value": "2011-09-30T12:00:00"}]"
 	},
 	{
 		"key": "resource-type",
@@ -245,7 +245,7 @@
 	},
 	{
 		"key": "spatial",
-		"value": "{\"type\": \"Polygon\", \"coordinates\": [[[-126.130859375, 45.0302766558], [-126.130859375, 49.8976660842], [-115.583984375, 49.8976660842], [-115.583984375, 45.0302766558], [-126.130859375, 45.0302766558]]]}"
+		"value": "{"type": "Polygon", "coordinates": [[[-126.130859375, 45.0302766558], [-126.130859375, 49.8976660842], [-115.583984375, 49.8976660842], [-115.583984375, 45.0302766558], [-126.130859375, 45.0302766558]]]}"
 	},
 	{
 		"key": "guid",
@@ -295,7 +295,7 @@
 		"revision_timestamp": "2013-03-20T21:11:17.592932",
 		"is_organization": true,
 		"state": "active",
-		"image_url": "http:\/\/www.50states.com\/flag\/image\/nunst004.gif",
+		"image_url": "http://www.50states.com/flag/image/nunst004.gif",
 		"revision_id": "61be6428-4398-4199-a336-f3cd1e956f9b",
 		"type": "organization",
 		"id": "f3f6e1d4-64fb-4a2f-b32c-9ac0b76fe4de",

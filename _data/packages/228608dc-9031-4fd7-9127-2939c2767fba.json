@@ -37,7 +37,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2016-05-30T23:22:31.528743",
-		"url": "https:\/\/coast.noaa.gov\/dataviewer\/#\/lidar\/search\/where:ID=2549",
+		"url": "https://coast.noaa.gov/dataviewer/#/lidar/search/where:ID=2549",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 0,
@@ -67,7 +67,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2016-05-30T23:22:31.528784",
-		"url": "https:\/\/coast.noaa.gov\/htdata\/lidar1_z\/geoid12a\/data\/2549",
+		"url": "https://coast.noaa.gov/htdata/lidar1_z/geoid12a/data/2549",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 1,
@@ -97,7 +97,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2016-05-30T23:22:31.528793",
-		"url": "https:\/\/coast.noaa.gov\/dataviewer",
+		"url": "https://coast.noaa.gov/dataviewer",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 2,
@@ -127,7 +127,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2016-05-30T23:22:31.528800",
-		"url": "https:\/\/coast.noaa.gov",
+		"url": "https://coast.noaa.gov",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 3,
@@ -149,7 +149,7 @@
 		"revision_timestamp": "2013-03-25T23:05:12.923863",
 		"is_organization": true,
 		"state": "active",
-		"image_url": "https:\/\/fortress.wa.gov\/dfw\/score\/score\/images\/noaa_logo.png",
+		"image_url": "https://fortress.wa.gov/dfw/score/score/images/noaa_logo.png",
 		"revision_id": "c6d43080-22e1-405e-a83d-f2a512d9e867",
 		"type": "organization",
 		"id": "e811f0b4-451f-4896-9e8f-fc6802837819",
@@ -160,7 +160,7 @@
 	"name": "2010-federal-emergency-management-agency-fema-topographic-lidar-concord-river-watershed-massach",
 	"isopen": false,
 	"url": null,
-	"notes": "The Concord AOI consists of one area. Ground Control is collected throughout the AOI for use in the processing of LiDAR data to ensure data accurately represents the ground surface. QA\/QC checkpoints, (FVA and CVA - see Ground Control process step for further information) also collected throughout the AOI, are used for independent quality checks of the processed LiDAR data. LiDAR acquisition products include Pre- and Post- flight reports which contain information on the flightlines, equipment parameters, and other pertinant acquisition details. The LiDAR product is considered to be point cloud data and consists of 1500mx1500m tiles of LAS points which are partially classified such that the bare earth points can be calibrated to the ground surface and tested via the independent QC to ensure the ground surface is accurately represented. The Bare Earth deliverables consists of tiles of fully classified LAS points. A suite of products derived from the LiDAR data including DEMs and contour data has been created to support H&H analysis within the Concord watershed. A full narrative accompanies this deliverable, as well as the independent QC report.",
+	"notes": "The Concord AOI consists of one area. Ground Control is collected throughout the AOI for use in the processing of LiDAR data to ensure data accurately represents the ground surface. QA/QC checkpoints, (FVA and CVA - see Ground Control process step for further information) also collected throughout the AOI, are used for independent quality checks of the processed LiDAR data. LiDAR acquisition products include Pre- and Post- flight reports which contain information on the flightlines, equipment parameters, and other pertinant acquisition details. The LiDAR product is considered to be point cloud data and consists of 1500mx1500m tiles of LAS points which are partially classified such that the bare earth points can be calibrated to the ground surface and tested via the independent QC to ensure the ground surface is accurately represented. The Bare Earth deliverables consists of tiles of fully classified LAS points. A suite of products derived from the LiDAR data including DEMs and contour data has been created to support H&H analysis within the Concord watershed. A full narrative accompanies this deliverable, as well as the independent QC report.",
 	"owner_org": "e811f0b4-451f-4896-9e8f-fc6802837819",
 	"extras": [{
 		"key": "bbox-east-long",
@@ -196,7 +196,7 @@
 	},
 	{
 		"key": "spatial",
-		"value": "{\"type\": \"Polygon\", \"coordinates\": [[[-71.71944, 42.203354], [-71.246749, 42.203354], [-71.246749, 42.641574], [-71.71944, 42.641574], [-71.71944, 42.203354]]]}"
+		"value": "{"type": "Polygon", "coordinates": [[[-71.71944, 42.203354], [-71.246749, 42.203354], [-71.246749, 42.641574], [-71.71944, 42.641574], [-71.71944, 42.203354]]]}"
 	},
 	{
 		"key": "progress",
@@ -204,7 +204,7 @@
 	},
 	{
 		"key": "access_constraints",
-		"value": "[\"Use Constraints: Acknowledgement of FEMA would be appreciated in products derived from these data. This digital data is produced for the purposes of updating\/creating a DFIRM database.\", \"Access Constraints: None\"]"
+		"value": "["Use Constraints: Acknowledgement of FEMA would be appreciated in products derived from these data. This digital data is produced for the purposes of updating/creating a DFIRM database.", "Access Constraints: None"]"
 	},
 	{
 		"key": "temporal-extent-begin",
@@ -224,7 +224,7 @@
 	},
 	{
 		"key": "dataset-reference-date",
-		"value": "[{\"type\": \"publication\", \"value\": \"2013-09-01\"}]"
+		"value": "[{"type": "publication", "value": "2013-09-01"}]"
 	},
 	{
 		"key": "frequency-of-update",
@@ -232,7 +232,7 @@
 	},
 	{
 		"key": "licence",
-		"value": "[\"\\nAny conclusions drawn from the analysis of this information are not the responsibility\\nof Photo Science, Greenhorne & O'Mara, CompassData, STARR, FEMA, NOAA, the Office for Coastal Management or its partners.\\n\"]"
+		"value": "["\nAny conclusions drawn from the analysis of this information are not the responsibility\nof Photo Science, Greenhorne & O'Mara, CompassData, STARR, FEMA, NOAA, the Office for Coastal Management or its partners.\n"]"
 	},
 	{
 		"key": "metadata_type",
@@ -240,7 +240,7 @@
 	},
 	{
 		"key": "responsible-party",
-		"value": "[{\"name\": \"NOAA Office for Coastal Management\", \"roles\": [\"pointOfContact\"]}]"
+		"value": "[{"name": "NOAA Office for Coastal Management", "roles": ["pointOfContact"]}]"
 	},
 	{
 		"key": "temporal-extent-end",
@@ -256,7 +256,7 @@
 	},
 	{
 		"key": "tags",
-		"value": "topography\/bathymetry, usa, elevation data, lidar, land surface, massachusetts, concord river watershed, middlesex county, worchester county, las",
+		"value": "topography/bathymetry, usa, elevation data, lidar, land surface, massachusetts, concord river watershed, middlesex county, worchester county, las",
 		"__extras": {
 			"revision_id": "641b300a-5d76-43ee-b71d-4378aa17be5d",
 			"package_id": "228608dc-9031-4fd7-9127-2939c2767fba"

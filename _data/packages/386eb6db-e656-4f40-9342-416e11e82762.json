@@ -36,7 +36,7 @@
 		"cache_url": null,
 		"name": "ESRI Coverage",
 		"created": "2016-07-15T21:34:29.591962",
-		"url": "http:\/\/cloud.insideidaho.org\/webApps\/util\/zip.ashx?fn=http:\/\/cloud.insideidaho.org\/data\/bnf\/histfire",
+		"url": "http://cloud.insideidaho.org/webApps/util/zip.ashx?fn=http://cloud.insideidaho.org/data/bnf/histfire",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 0,
@@ -66,7 +66,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2016-07-15T21:34:29.591985",
-		"url": "http:\/\/cloud.insideidaho.org\/webApps\/util\/zip.ashx?fn=http:\/\/cloud.insideidaho.org\/data\/bnf\/histfire",
+		"url": "http://cloud.insideidaho.org/webApps/util/zip.ashx?fn=http://cloud.insideidaho.org/data/bnf/histfire",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 1,
@@ -86,7 +86,7 @@
 	"name": "historic-large-fires-for-boise-national-forest-idaho-for-1900-1997",
 	"isopen": false,
 	"url": null,
-	"notes": "This data set reflects large fires (approximately 200 acre minimum size) for 1900-1997 for Boise National Forest, Idaho. Due to multiple fires occurring in the same area, at different times, many individual polygons are much smaller than 200 acres. Fire location, perimeter, and size are approximate. Much variation in accuracy of spatial features, eg. fire perimeters for 1994 (Boise River Complex) were collected with aerial gps, while perimeters for much older fires were approximated from narrative accounts. Data source\/accuracy for individual fires not identified. Attributes for some fires included recorded acres as well as ArcInfo calcualted acres, much variablility in agreement, see discussion under procedures used and limitations of data.",
+	"notes": "This data set reflects large fires (approximately 200 acre minimum size) for 1900-1997 for Boise National Forest, Idaho. Due to multiple fires occurring in the same area, at different times, many individual polygons are much smaller than 200 acres. Fire location, perimeter, and size are approximate. Much variation in accuracy of spatial features, eg. fire perimeters for 1994 (Boise River Complex) were collected with aerial gps, while perimeters for much older fires were approximated from narrative accounts. Data source/accuracy for individual fires not identified. Attributes for some fires included recorded acres as well as ArcInfo calcualted acres, much variablility in agreement, see discussion under procedures used and limitations of data.",
 	"license_title": null,
 	"extras": [{
 		"key": "bbox-east-long",
@@ -122,7 +122,7 @@
 	},
 	{
 		"key": "spatial",
-		"value": "{\"type\": \"Polygon\", \"coordinates\": [[[-116.30507085, 43.2453821], [-115.07755278, 43.2453821], [-115.07755278, 44.88566158], [-116.30507085, 44.88566158], [-116.30507085, 43.2453821]]]}"
+		"value": "{"type": "Polygon", "coordinates": [[[-116.30507085, 43.2453821], [-115.07755278, 43.2453821], [-115.07755278, 44.88566158], [-116.30507085, 44.88566158], [-116.30507085, 43.2453821]]]}"
 	},
 	{
 		"key": "progress",
@@ -130,7 +130,7 @@
 	},
 	{
 		"key": "access_constraints",
-		"value": "[\"Use Constraints: None\", \"Access Constraints: None\"]"
+		"value": "["Use Constraints: None", "Access Constraints: None"]"
 	},
 	{
 		"key": "temporal-extent-begin",
@@ -150,7 +150,7 @@
 	},
 	{
 		"key": "dataset-reference-date",
-		"value": "[{\"type\": \"publication\", \"value\": \"1998-01-01\"}]"
+		"value": "[{"type": "publication", "value": "1998-01-01"}]"
 	},
 	{
 		"key": "frequency-of-update",
@@ -158,7 +158,7 @@
 	},
 	{
 		"key": "licence",
-		"value": "[\"Although these data have been processed successfully on a computer system at the University of Idaho Library, no warranty, expressed or implied, is made regarding the utility of the data on any other system, nor shall the act of distribution constitute any such warranty.\"]"
+		"value": "["Although these data have been processed successfully on a computer system at the University of Idaho Library, no warranty, expressed or implied, is made regarding the utility of the data on any other system, nor shall the act of distribution constitute any such warranty."]"
 	},
 	{
 		"key": "metadata_type",
@@ -166,7 +166,7 @@
 	},
 	{
 		"key": "responsible-party",
-		"value": "[{\"name\": \"Boise National Forest GIS Staff\", \"roles\": [\"pointOfContact\"]}]"
+		"value": "[{"name": "Boise National Forest GIS Staff", "roles": ["pointOfContact"]}]"
 	},
 	{
 		"key": "temporal-extent-end",
@@ -212,7 +212,7 @@
 		"revision_timestamp": "2015-01-16T18:28:14.593903",
 		"is_organization": true,
 		"state": "active",
-		"image_url": "http:\/\/upload.wikimedia.org\/wikipedia\/en\/thumb\/4\/44\/University_of_Idaho_seal.svg\/300px-University_of_Idaho_seal.svg.png",
+		"image_url": "http://upload.wikimedia.org/wikipedia/en/thumb/4/44/University_of_Idaho_seal.svg/300px-University_of_Idaho_seal.svg.png",
 		"revision_id": "761955d7-9530-4622-8609-d0b01c78e177",
 		"type": "organization",
 		"id": "75e22a8a-da5f-46f3-93d8-924063a3703d",

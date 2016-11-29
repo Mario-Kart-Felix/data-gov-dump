@@ -37,7 +37,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2015-11-10T02:30:20.531656",
-		"url": "http:\/\/www.soest.hawaii.edu\/pibhmc",
+		"url": "http://www.soest.hawaii.edu/pibhmc",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 0,
@@ -57,11 +57,11 @@
 	"name": "em300-and-em3002d-multibeam-sonar-data-from-cruise-hiialakai-hi-06-05-main-hawaiian-islands",
 	"isopen": false,
 	"url": null,
-	"notes": "EM300 and EM3002D multibeam Data were collected on 19-24 April, and 28 April - 11 May 2006 aboard NOAA Ship Hi'ialakai in the Main Hawaiian Islands at Penguin Bank, N. Shore Molokai, Lanai, and the Big Island of Hawaii during cruise HI-06-05. These multibeam data were collected using SAIC ISS-2000 software in the Generic Sensor Format and processed using SABER editing software. Surface sound velocity values were supplied by a Seabird SBE-45 MicroTSG and a SBE-38 remote temperature probe. Sound velocity corrections from a Seabird 911 CTD sensor and motion corrections from a POS-MV vertical reference were applied to the data in real time. Predicted tides were applied to the data in real time and observed tides were applied during post-processing. Horizontal accuracy is 5 m (differential GPS correctors applied), vertical accuracy is depth dependent (~1% of water depth), WGS84 datum. These data are not to be used for navigation. Depths mapped range from 20-2000 m. Concurrent mapping was done by the R\/V AHI in water depths ranging from 10-300 m with the data set being AHI-06-05; metadata for AHI-06-05 are submitted separately.",
+	"notes": "EM300 and EM3002D multibeam Data were collected on 19-24 April, and 28 April - 11 May 2006 aboard NOAA Ship Hi'ialakai in the Main Hawaiian Islands at Penguin Bank, N. Shore Molokai, Lanai, and the Big Island of Hawaii during cruise HI-06-05. These multibeam data were collected using SAIC ISS-2000 software in the Generic Sensor Format and processed using SABER editing software. Surface sound velocity values were supplied by a Seabird SBE-45 MicroTSG and a SBE-38 remote temperature probe. Sound velocity corrections from a Seabird 911 CTD sensor and motion corrections from a POS-MV vertical reference were applied to the data in real time. Predicted tides were applied to the data in real time and observed tides were applied during post-processing. Horizontal accuracy is 5 m (differential GPS correctors applied), vertical accuracy is depth dependent (~1% of water depth), WGS84 datum. These data are not to be used for navigation. Depths mapped range from 20-2000 m. Concurrent mapping was done by the R/V AHI in water depths ranging from 10-300 m with the data set being AHI-06-05; metadata for AHI-06-05 are submitted separately.",
 	"license_title": null,
 	"extras": [{
 		"key": "bbox-east-long",
-		"value": "\n          -155.80\n        "
+		"value": "n          -155.80n        "
 	},
 	{
 		"key": "resource-type",
@@ -69,7 +69,7 @@
 	},
 	{
 		"key": "bbox-north-lat",
-		"value": "\n          21.25\n        "
+		"value": "n          21.25n        "
 	},
 	{
 		"key": "coupled-resource",
@@ -85,7 +85,7 @@
 	},
 	{
 		"key": "bbox-south-lat",
-		"value": "\n          19.70\n        "
+		"value": "n          19.70n        "
 	},
 	{
 		"key": "spatial-reference-system",
@@ -93,7 +93,7 @@
 	},
 	{
 		"key": "spatial",
-		"value": "{\"type\": \"Polygon\", \"coordinates\": [[[-157.8, 19.7], [-155.8, 19.7], [-155.8, 21.25], [-157.8, 21.25], [-157.8, 19.7]]]}"
+		"value": "{"type": "Polygon", "coordinates": [[[-157.8, 19.7], [-155.8, 19.7], [-155.8, 21.25], [-157.8, 21.25], [-157.8, 19.7]]]}"
 	},
 	{
 		"key": "progress",
@@ -101,7 +101,7 @@
 	},
 	{
 		"key": "access_constraints",
-		"value": "[\"Use Constraints: These data are NOT TO BE USED FOR NAVIGATION\", \"Access Constraints: None.\"]"
+		"value": "["Use Constraints: These data are NOT TO BE USED FOR NAVIGATION", "Access Constraints: None."]"
 	},
 	{
 		"key": "temporal-extent-begin",
@@ -113,7 +113,7 @@
 	},
 	{
 		"key": "bbox-west-long",
-		"value": "\n          -157.80\n        "
+		"value": "n          -157.80n        "
 	},
 	{
 		"key": "metadata-date",
@@ -121,7 +121,7 @@
 	},
 	{
 		"key": "dataset-reference-date",
-		"value": "[{\"type\": \"publication\", \"value\": \"2007-05-31\"}]"
+		"value": "[{"type": "publication", "value": "2007-05-31"}]"
 	},
 	{
 		"key": "frequency-of-update",
@@ -129,7 +129,7 @@
 	},
 	{
 		"key": "licence",
-		"value": "[\"\\n      These data are not to be used for\\nnavigational purposes. NOAA makes no warranty regarding these\\ndata, expressed or implied, nor does the fact of distribution\\nconstitute such a warranty. NOAA cannot assume liability for\\nany damages caused by any errors or omissions in these data,\\nnor as a result of the failure of these data to function on a\\nparticular system.\\n    \"]"
+		"value": "["\n      These data are not to be used for\nnavigational purposes. NOAA makes no warranty regarding these\ndata, expressed or implied, nor does the fact of distribution\nconstitute such a warranty. NOAA cannot assume liability for\nany damages caused by any errors or omissions in these data,\nnor as a result of the failure of these data to function on a\nparticular system.\n    "]"
 	},
 	{
 		"key": "metadata_type",
@@ -137,7 +137,7 @@
 	},
 	{
 		"key": "responsible-party",
-		"value": "[{\"name\": \"Pacific Islands Benthic Habitat Mapping Center (PIBHMC), Coral Reef Ecosystem Division (CRED), Pacific Islands Fisheries Science Center (PIFSC), National Marine Fisheries Service (NMFS), National Oceanic and Atmospheric Administration (NOAA)\", \"roles\": [\"pointOfContact\"]}]"
+		"value": "[{"name": "Pacific Islands Benthic Habitat Mapping Center (PIBHMC), Coral Reef Ecosystem Division (CRED), Pacific Islands Fisheries Science Center (PIFSC), National Marine Fisheries Service (NMFS), National Oceanic and Atmospheric Administration (NOAA)", "roles": ["pointOfContact"]}]"
 	},
 	{
 		"key": "temporal-extent-end",
@@ -153,7 +153,7 @@
 	},
 	{
 		"package_id": "890d6fb3-e267-403f-931f-fd847b7701ff",
-		"value": "molokai, geographic information, lanai, oceans, penguin bank, hawaiian islands, multibeam sonar, bathymetry, bathymetry\/seafloor topography, big island of hawaii, earth science",
+		"value": "molokai, geographic information, lanai, oceans, penguin bank, hawaiian islands, multibeam sonar, bathymetry, bathymetry/seafloor topography, big island of hawaii, earth science",
 		"revision_timestamp": "2015-09-27T01:27:19.112481",
 		"state": "active",
 		"key": "tags",
@@ -183,7 +183,7 @@
 		"revision_timestamp": "2013-03-25T23:05:12.923863",
 		"is_organization": true,
 		"state": "active",
-		"image_url": "https:\/\/fortress.wa.gov\/dfw\/score\/score\/images\/noaa_logo.png",
+		"image_url": "https://fortress.wa.gov/dfw/score/score/images/noaa_logo.png",
 		"revision_id": "c6d43080-22e1-405e-a83d-f2a512d9e867",
 		"type": "organization",
 		"id": "e811f0b4-451f-4896-9e8f-fc6802837819",

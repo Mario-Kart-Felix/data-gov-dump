@@ -37,7 +37,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2015-11-10T04:22:27.428259",
-		"url": "ftp:\/\/ftp.aoml.noaa.gov\/pub\/phod\/rsmith\/VS_VP_Trans_Study\/shipboard_data\/GP2010A\/ctd\/ascii\/",
+		"url": "ftp://ftp.aoml.noaa.gov/pub/phod/rsmith/VS_VP_Trans_Study/shipboard_data/GP2010A/ctd/ascii/",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 0,
@@ -67,7 +67,7 @@
 		"cache_url": null,
 		"name": "JPG Image File",
 		"created": "2015-11-10T04:22:27.428287",
-		"url": "ftp:\/\/ftp.aoml.noaa.gov\/pub\/phod\/rsmith\/VS_VP_Trans_Study\/shipboard_data\/GP2010A\/ctd\/plots\/",
+		"url": "ftp://ftp.aoml.noaa.gov/pub/phod/rsmith/VS_VP_Trans_Study/shipboard_data/GP2010A/ctd/plots/",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 1,
@@ -97,7 +97,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2015-11-10T04:22:27.428302",
-		"url": "ftp:\/\/ftp.aoml.noaa.gov\/pub\/phod\/rsmith\/VS_VP_Trans_Study\/shipboard_data\/NF1001\/ctd\/ascii\/",
+		"url": "ftp://ftp.aoml.noaa.gov/pub/phod/rsmith/VS_VP_Trans_Study/shipboard_data/NF1001/ctd/ascii/",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 2,
@@ -127,7 +127,7 @@
 		"cache_url": null,
 		"name": "JPG Image File",
 		"created": "2015-11-10T04:22:27.428314",
-		"url": "ftp:\/\/ftp.aoml.noaa.gov\/pub\/phod\/rsmith\/VS_VP_Trans_Study\/shipboard_data\/NF1001\/ctd\/plots\/",
+		"url": "ftp://ftp.aoml.noaa.gov/pub/phod/rsmith/VS_VP_Trans_Study/shipboard_data/NF1001/ctd/plots/",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 3,
@@ -157,7 +157,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2015-11-10T04:22:27.428325",
-		"url": "ftp:\/\/ftp.aoml.noaa.gov\/pub\/phod\/rsmith\/VS_VP_Trans_Study\/shipboard_data\/NF1102\/ctd\/ascii\/",
+		"url": "ftp://ftp.aoml.noaa.gov/pub/phod/rsmith/VS_VP_Trans_Study/shipboard_data/NF1102/ctd/ascii/",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 4,
@@ -187,7 +187,7 @@
 		"cache_url": null,
 		"name": "JPG Image File",
 		"created": "2015-11-10T04:22:27.428335",
-		"url": "ftp:\/\/ftp.aoml.noaa.gov\/pub\/phod\/rsmith\/VS_VP_Trans_Study\/shipboard_data\/NF1102\/ctd\/plots\/",
+		"url": "ftp://ftp.aoml.noaa.gov/pub/phod/rsmith/VS_VP_Trans_Study/shipboard_data/NF1102/ctd/plots/",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 5,
@@ -217,7 +217,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2015-11-10T04:22:27.428345",
-		"url": "http:\/\/data.nodc.noaa.gov\/accession\/0088063",
+		"url": "http://data.nodc.noaa.gov/accession/0088063",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 6,
@@ -241,7 +241,7 @@
 	"license_title": null,
 	"extras": [{
 		"key": "bbox-east-long",
-		"value": "\n          -65.0\n        "
+		"value": "n          -65.0n        "
 	},
 	{
 		"key": "resource-type",
@@ -249,7 +249,7 @@
 	},
 	{
 		"key": "bbox-north-lat",
-		"value": "\n          18.5\n        "
+		"value": "n          18.5n        "
 	},
 	{
 		"key": "coupled-resource",
@@ -265,7 +265,7 @@
 	},
 	{
 		"key": "bbox-south-lat",
-		"value": "\n          18.0\n        "
+		"value": "n          18.0n        "
 	},
 	{
 		"key": "spatial-reference-system",
@@ -273,7 +273,7 @@
 	},
 	{
 		"key": "spatial",
-		"value": "{\"type\": \"Polygon\", \"coordinates\": [[[-65.5, 18.0], [-65.0, 18.0], [-65.0, 18.5], [-65.5, 18.5], [-65.5, 18.0]]]}"
+		"value": "{"type": "Polygon", "coordinates": [[[-65.5, 18.0], [-65.0, 18.0], [-65.0, 18.5], [-65.5, 18.5], [-65.5, 18.0]]]}"
 	},
 	{
 		"key": "progress",
@@ -281,7 +281,7 @@
 	},
 	{
 		"key": "access_constraints",
-		"value": "[\"Use Constraints: All users will be asked to read and fully comprehend metadata prior to data use, acknowledge the Originator when using the data set as a source, share data products developed using the source data wet with the Originator.\", \"Access Constraints: Anyone interested in use of this data must contact Ryan Smith at NOAA\/AOML\/PhOD\"]"
+		"value": "["Use Constraints: All users will be asked to read and fully comprehend metadata prior to data use, acknowledge the Originator when using the data set as a source, share data products developed using the source data wet with the Originator.", "Access Constraints: Anyone interested in use of this data must contact Ryan Smith at NOAA/AOML/PhOD"]"
 	},
 	{
 		"key": "temporal-extent-begin",
@@ -293,7 +293,7 @@
 	},
 	{
 		"key": "bbox-west-long",
-		"value": "\n          -65.5\n        "
+		"value": "n          -65.5n        "
 	},
 	{
 		"key": "metadata-date",
@@ -301,7 +301,7 @@
 	},
 	{
 		"key": "dataset-reference-date",
-		"value": "[{\"type\": \"publication\", \"value\": \"2012-02-01\"}]"
+		"value": "[{"type": "publication", "value": "2012-02-01"}]"
 	},
 	{
 		"key": "frequency-of-update",
@@ -309,7 +309,7 @@
 	},
 	{
 		"key": "licence",
-		"value": "[\"\\n      Data are made publicly available for general information purposes and scientific interest.  NOAA cannot be held liable for use of these data in any other manner.\\n    \"]"
+		"value": "["\n      Data are made publicly available for general information purposes and scientific interest.  NOAA cannot be held liable for use of these data in any other manner.\n    "]"
 	},
 	{
 		"key": "metadata_type",
@@ -317,7 +317,7 @@
 	},
 	{
 		"key": "responsible-party",
-		"value": "[{\"name\": \"OAR\/Atlantic Oceanographic and Meteorological Laboratory (AOML)\", \"roles\": [\"pointOfContact\"]}]"
+		"value": "[{"name": "OAR/Atlantic Oceanographic and Meteorological Laboratory (AOML)", "roles": ["pointOfContact"]}]"
 	},
 	{
 		"key": "temporal-extent-end",
@@ -333,7 +333,7 @@
 	},
 	{
 		"package_id": "8862c5d5-e3f4-487a-9f9b-7885fc8fc743",
-		"value": "atlantic ocean, ocean temperature, numeric data sets, oceanography, virgin islands, ocean currents, st. thomas, coastal processes, oceans, salinity, vieques island, ocean circulation, culebra island, salinity\/density, ocean basin, puerto rico, caribbean sea, conductivity, caribbean sea \/north atlantic ocean, water temperature, earth science",
+		"value": "atlantic ocean, ocean temperature, numeric data sets, oceanography, virgin islands, ocean currents, st. thomas, coastal processes, oceans, salinity, vieques island, ocean circulation, culebra island, salinity/density, ocean basin, puerto rico, caribbean sea, conductivity, caribbean sea /north atlantic ocean, water temperature, earth science",
 		"revision_timestamp": "2015-09-27T02:29:41.720147",
 		"state": "active",
 		"key": "tags",
@@ -363,7 +363,7 @@
 		"revision_timestamp": "2013-03-25T23:05:12.923863",
 		"is_organization": true,
 		"state": "active",
-		"image_url": "https:\/\/fortress.wa.gov\/dfw\/score\/score\/images\/noaa_logo.png",
+		"image_url": "https://fortress.wa.gov/dfw/score/score/images/noaa_logo.png",
 		"revision_id": "c6d43080-22e1-405e-a83d-f2a512d9e867",
 		"type": "organization",
 		"id": "e811f0b4-451f-4896-9e8f-fc6802837819",

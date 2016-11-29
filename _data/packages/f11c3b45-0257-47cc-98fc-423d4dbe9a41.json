@@ -36,7 +36,7 @@
 		"cache_url": null,
 		"name": "Service Description",
 		"created": "2013-03-16T00:39:18.014566",
-		"url": "http:\/\/ec2-50-18-49-187.us-west-1.compute.amazonaws.com\/arcgis\/services\/Non-Cached\/DNR_WellLogs\/MapServer\/WMSServer?request=GetCapabilities&service=WMS",
+		"url": "http://ec2-50-18-49-187.us-west-1.compute.amazonaws.com/arcgis/services/Non-Cached/DNR_WellLogs/MapServer/WMSServer?request=GetCapabilities&service=WMS",
 		"webstore_url": null,
 		"resource_locator_function": "381",
 		"position": 0,
@@ -65,7 +65,7 @@
 		"cache_url": null,
 		"name": "Service Description",
 		"created": "2013-03-16T00:39:18.014589",
-		"url": "http:\/\/ec2-50-18-49-187.us-west-1.compute.amazonaws.com\/arcgis\/services\/Non-Cached\/DNR_WellLogs\/MapServer\/WFSServer?request=GetCapabilities&service=WFS",
+		"url": "http://ec2-50-18-49-187.us-west-1.compute.amazonaws.com/arcgis/services/Non-Cached/DNR_WellLogs/MapServer/WFSServer?request=GetCapabilities&service=WFS",
 		"webstore_url": null,
 		"resource_locator_function": "381",
 		"position": 1,
@@ -94,7 +94,7 @@
 		"cache_url": null,
 		"name": "Service Description",
 		"created": "2013-03-16T00:39:18.014598",
-		"url": "http:\/\/ec2-50-18-49-187.us-west-1.compute.amazonaws.com\/arcgis\/rest\/services\/Non-Cached\/DNR_WellLogs\/MapServer",
+		"url": "http://ec2-50-18-49-187.us-west-1.compute.amazonaws.com/arcgis/rest/services/Non-Cached/DNR_WellLogs/MapServer",
 		"webstore_url": null,
 		"resource_locator_function": "381",
 		"position": 2,
@@ -123,7 +123,7 @@
 		"cache_url": null,
 		"name": "Oil and gas well logs Excel file",
 		"created": "2013-03-16T00:39:18.014605",
-		"url": "http:\/\/repository.stategeothermaldata.org\/metadata\/record\/ba2f0b9d21f71acfe10609f76e360152\/file\/wa_welllogdatatemplate_wa_oil_gas_wells_1.0_v6.zip",
+		"url": "http://repository.stategeothermaldata.org/metadata/record/ba2f0b9d21f71acfe10609f76e360152/file/wa_welllogdatatemplate_wa_oil_gas_wells_1.0_v6.zip",
 		"webstore_url": null,
 		"resource_locator_function": "375",
 		"position": 3,
@@ -152,7 +152,7 @@
 		"cache_url": null,
 		"name": "Temperature gradient well logs Excel file",
 		"created": "2013-03-16T00:39:18.014612",
-		"url": "http:\/\/repository.stategeothermaldata.org\/metadata\/record\/ba2f0b9d21f71acfe10609f76e360152\/file\/wa_welllogdatatemplate_wa_temperature_gradient_wells_1.0_v5.zip",
+		"url": "http://repository.stategeothermaldata.org/metadata/record/ba2f0b9d21f71acfe10609f76e360152/file/wa_welllogdatatemplate_wa_temperature_gradient_wells_1.0_v5.zip",
 		"webstore_url": null,
 		"resource_locator_function": "375",
 		"position": 4,
@@ -181,7 +181,7 @@
 		"cache_url": null,
 		"name": "Well Logs Excel file, updated",
 		"created": "2013-03-16T00:39:18.014619",
-		"url": "http:\/\/repository.stategeothermaldata.org\/metadata\/record\/ba2f0b9d21f71acfe10609f76e360152\/file\/wa_welllogobservation0.8_0.zip",
+		"url": "http://repository.stategeothermaldata.org/metadata/record/ba2f0b9d21f71acfe10609f76e360152/file/wa_welllogobservation0.8_0.zip",
 		"webstore_url": null,
 		"resource_locator_function": "375",
 		"position": 5,
@@ -218,7 +218,7 @@
 	"license_title": null,
 	"extras": [{
 		"key": "responsible-party",
-		"value": "[{\"name\": \"Arizona Geological Survey\", \"roles\": [\"pointOfContact\"]}]"
+		"value": "[{"name": "Arizona Geological Survey", "roles": ["pointOfContact"]}]"
 	},
 	{
 		"key": "contact-email",
@@ -238,7 +238,7 @@
 	},
 	{
 		"key": "dataset-reference-date",
-		"value": "[{\"type\": \"publication\", \"value\": \"2012-04-23T12:00:00\"}]"
+		"value": "[{"type": "publication", "value": "2012-04-23T12:00:00"}]"
 	},
 	{
 		"key": "resource-type",
@@ -274,7 +274,7 @@
 	},
 	{
 		"key": "spatial",
-		"value": "{\"type\": \"Polygon\", \"coordinates\": [[[-125.84, 45.0779], [-125.84, 49.4293], [-116.391, 49.4293], [-116.391, 45.0779], [-125.84, 45.0779]]]}"
+		"value": "{"type": "Polygon", "coordinates": [[[-125.84, 45.0779], [-125.84, 49.4293], [-116.391, 49.4293], [-116.391, 45.0779], [-125.84, 45.0779]]]}"
 	},
 	{
 		"key": "guid",
@@ -324,7 +324,7 @@
 		"revision_timestamp": "2013-03-20T21:11:17.592932",
 		"is_organization": true,
 		"state": "active",
-		"image_url": "http:\/\/www.50states.com\/flag\/image\/nunst004.gif",
+		"image_url": "http://www.50states.com/flag/image/nunst004.gif",
 		"revision_id": "61be6428-4398-4199-a336-f3cd1e956f9b",
 		"type": "organization",
 		"id": "f3f6e1d4-64fb-4a2f-b32c-9ac0b76fe4de",

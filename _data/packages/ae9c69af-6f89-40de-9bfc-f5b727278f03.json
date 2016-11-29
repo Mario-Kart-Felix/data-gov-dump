@@ -37,7 +37,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2015-09-26T16:16:42.344091",
-		"url": "http:\/\/www.nauticalcharts.noaa.gov\/hsd\/awois.html",
+		"url": "http://www.nauticalcharts.noaa.gov/hsd/awois.html",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 0,
@@ -67,7 +67,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2015-09-26T16:16:42.344138",
-		"url": "http:\/\/www.nauticalcharts.noaa.gov\/hsd\/awois.html",
+		"url": "http://www.nauticalcharts.noaa.gov/hsd/awois.html",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 1,
@@ -118,7 +118,7 @@
 	"license_title": null,
 	"extras": [{
 		"key": "bbox-east-long",
-		"value": "+166.00\n"
+		"value": "+166.00n"
 	},
 	{
 		"key": "resource-type",
@@ -126,7 +126,7 @@
 	},
 	{
 		"key": "bbox-north-lat",
-		"value": "+64.5\n"
+		"value": "+64.5n"
 	},
 	{
 		"key": "coupled-resource",
@@ -142,11 +142,11 @@
 	},
 	{
 		"key": "bbox-south-lat",
-		"value": "+17.0\n"
+		"value": "+17.0n"
 	},
 	{
 		"key": "__category_tag_78473e2f-b6ba-4e28-b0c1-d53c35a7e010",
-		"value": "[\"Hazards\",\"Safety\"]"
+		"value": "["Hazards","Safety"]"
 	},
 	{
 		"key": "spatial-reference-system",
@@ -154,7 +154,7 @@
 	},
 	{
 		"key": "spatial",
-		"value": "{\"type\": \"Polygon\", \"coordinates\": [[[-180.0, 17.0], [166.0, 17.0], [166.0, 64.5], [-180.0, 64.5], [-180.0, 17.0]]]}"
+		"value": "{"type": "Polygon", "coordinates": [[[-180.0, 17.0], [166.0, 17.0], [166.0, 64.5], [-180.0, 64.5], [-180.0, 17.0]]]}"
 	},
 	{
 		"key": "progress",
@@ -162,7 +162,7 @@
 	},
 	{
 		"key": "access_constraints",
-		"value": "[\"Use Constraints: AWOIS is not a comprehensive record of wrecks and obstructions in any particular area. Historical research is constantly being conducted to improve the quality of the file, but it will never completely address every known or reported wreck and obstruction. The emphasis is constantly placed on wrecks and obstruction which may be a hazard to navigation. NOAA assumes no liability for use of this data.\", \"Access Constraints: None\"]"
+		"value": "["Use Constraints: AWOIS is not a comprehensive record of wrecks and obstructions in any particular area. Historical research is constantly being conducted to improve the quality of the file, but it will never completely address every known or reported wreck and obstruction. The emphasis is constantly placed on wrecks and obstruction which may be a hazard to navigation. NOAA assumes no liability for use of this data.", "Access Constraints: None"]"
 	},
 	{
 		"key": "temporal-extent-begin",
@@ -174,7 +174,7 @@
 	},
 	{
 		"key": "bbox-west-long",
-		"value": "-180.00\n"
+		"value": "-180.00n"
 	},
 	{
 		"key": "metadata-date",
@@ -182,7 +182,7 @@
 	},
 	{
 		"key": "dataset-reference-date",
-		"value": "[{\"type\": \"publication\", \"value\": \"2009-09-03\"}]"
+		"value": "[{"type": "publication", "value": "2009-09-03"}]"
 	},
 	{
 		"key": "frequency-of-update",
@@ -190,7 +190,7 @@
 	},
 	{
 		"key": "licence",
-		"value": "[\"AWOIS is not a comprehensive record of wrecks or obstructions in any particular area.  Historical research is constantly being conducted to improve the quality of the file, but it will never completely address every known or reported wreck or obstruction.  The emphasis is constantly placed on wrecks and obstructions which may be a hazard to navigation.  NOAA assumes no liability for use of this data.\\n\"]"
+		"value": "["AWOIS is not a comprehensive record of wrecks or obstructions in any particular area.  Historical research is constantly being conducted to improve the quality of the file, but it will never completely address every known or reported wreck or obstruction.  The emphasis is constantly placed on wrecks and obstructions which may be a hazard to navigation.  NOAA assumes no liability for use of this data.\n"]"
 	},
 	{
 		"key": "metadata_type",
@@ -198,7 +198,7 @@
 	},
 	{
 		"key": "responsible-party",
-		"value": "[{\"name\": \"National Oceanic and Atmospheric Administration (NOAA), National Ocean Service (NOS), Office of Coast Survey (OCS), Hydrographic Survey Division\", \"roles\": [\"pointOfContact\"]}]"
+		"value": "[{"name": "National Oceanic and Atmospheric Administration (NOAA), National Ocean Service (NOS), Office of Coast Survey (OCS), Hydrographic Survey Division", "roles": ["pointOfContact"]}]"
 	},
 	{
 		"key": "spatial-data-service-type",
@@ -240,7 +240,7 @@
 		"revision_timestamp": "2013-03-25T23:05:12.923863",
 		"is_organization": true,
 		"state": "active",
-		"image_url": "https:\/\/fortress.wa.gov\/dfw\/score\/score\/images\/noaa_logo.png",
+		"image_url": "https://fortress.wa.gov/dfw/score/score/images/noaa_logo.png",
 		"revision_id": "c6d43080-22e1-405e-a83d-f2a512d9e867",
 		"type": "organization",
 		"id": "e811f0b4-451f-4896-9e8f-fc6802837819",

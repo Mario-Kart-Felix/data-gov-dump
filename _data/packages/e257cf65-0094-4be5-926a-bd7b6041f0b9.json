@@ -37,7 +37,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2016-05-30T23:17:41.008554",
-		"url": "https:\/\/coast.noaa.gov\/dataviewer\/#\/lidar\/search\/where:ID=1466",
+		"url": "https://coast.noaa.gov/dataviewer/#/lidar/search/where:ID=1466",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 0,
@@ -67,7 +67,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2016-05-30T23:17:41.008585",
-		"url": "https:\/\/coast.noaa.gov\/htdata\/lidar1_z\/geoid12a\/data\/1466",
+		"url": "https://coast.noaa.gov/htdata/lidar1_z/geoid12a/data/1466",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 1,
@@ -97,7 +97,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2016-05-30T23:17:41.008596",
-		"url": "https:\/\/coast.noaa.gov\/dataviewer",
+		"url": "https://coast.noaa.gov/dataviewer",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 2,
@@ -127,7 +127,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2016-05-30T23:17:41.008605",
-		"url": "https:\/\/coast.noaa.gov",
+		"url": "https://coast.noaa.gov",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 3,
@@ -147,7 +147,7 @@
 	"name": "2007-aero-metric-inc-topographic-lidar-valdez-alaska",
 	"isopen": false,
 	"url": null,
-	"notes": "This project was completed under USGS Contract No. 07CRCN0002, Task Order No. 070020009. This delivery contains point cloud data in LAS 1.1 format, classified in the following manner. Class 1: Unclassified, Class 2: Ground, Class 7: Low Point (Noise), Class 9: Water, Class 10: High Point (Noise), Class 12: Overlap, and Class 17: Port The following are the collection parameters and equipment used to create these data sets. Aircraft: Cessna 320 (N3443Q) and Piper Navajo (N6GR) Lidar System: Optech ALTM Gemini (03SEN145) Approximate Collection Altitude (Above Mean Terrain): 1800 meters Ground Speed: 145 kts Pulse Rate Frequency: 70 kHz Mirror Scan Frequency: 62.6 Hz Scan Angle (+\/-): 5.3 degrees Beam Divergence: Narrow (0.25 mrad) Accuracy statements are based on areas of moderate terrain, with points classified as ground. Diminished accuracies are to be expected in areas of extreme terrain and dense vegetation. The accuracy of each point is expected to meet the vertical accuracy standard. Derived products may be less accurate in areas of extreme terrain and dense vegetation due to a lesser number of points defining the ground in these areas. Classified data sets such as this one may have varying posting due to some pulses not reaching the ground.",
+	"notes": "This project was completed under USGS Contract No. 07CRCN0002, Task Order No. 070020009. This delivery contains point cloud data in LAS 1.1 format, classified in the following manner. Class 1: Unclassified, Class 2: Ground, Class 7: Low Point (Noise), Class 9: Water, Class 10: High Point (Noise), Class 12: Overlap, and Class 17: Port The following are the collection parameters and equipment used to create these data sets. Aircraft: Cessna 320 (N3443Q) and Piper Navajo (N6GR) Lidar System: Optech ALTM Gemini (03SEN145) Approximate Collection Altitude (Above Mean Terrain): 1800 meters Ground Speed: 145 kts Pulse Rate Frequency: 70 kHz Mirror Scan Frequency: 62.6 Hz Scan Angle (+/-): 5.3 degrees Beam Divergence: Narrow (0.25 mrad) Accuracy statements are based on areas of moderate terrain, with points classified as ground. Diminished accuracies are to be expected in areas of extreme terrain and dense vegetation. The accuracy of each point is expected to meet the vertical accuracy standard. Derived products may be less accurate in areas of extreme terrain and dense vegetation due to a lesser number of points defining the ground in these areas. Classified data sets such as this one may have varying posting due to some pulses not reaching the ground.",
 	"license_title": null,
 	"extras": [{
 		"key": "bbox-east-long",
@@ -175,7 +175,7 @@
 	},
 	{
 		"key": "graphic-preview-file",
-		"value": "https:\/\/coast.noaa.gov\/htdata\/lidar1_z\/geoid12a\/data\/1466\/supplemental\/ak2007_aerometric_valdez_footprint.KMZ"
+		"value": "https://coast.noaa.gov/htdata/lidar1_z/geoid12a/data/1466/supplemental/ak2007_aerometric_valdez_footprint.KMZ"
 	},
 	{
 		"key": "bbox-south-lat",
@@ -191,7 +191,7 @@
 	},
 	{
 		"key": "spatial",
-		"value": "{\"type\": \"Polygon\", \"coordinates\": [[[-146.641106, 61.036345], [-145.913257, 61.036345], [-145.913257, 61.15846], [-146.641106, 61.15846], [-146.641106, 61.036345]]]}"
+		"value": "{"type": "Polygon", "coordinates": [[[-146.641106, 61.036345], [-145.913257, 61.036345], [-145.913257, 61.15846], [-146.641106, 61.15846], [-146.641106, 61.036345]]]}"
 	},
 	{
 		"key": "progress",
@@ -199,7 +199,7 @@
 	},
 	{
 		"key": "access_constraints",
-		"value": "[\"Use Constraints: Users should be aware that temporal changes may have occurred since this data set was collected and some parts of this data may no longer represent actual surface conditions. Users should not use this data for critical applications without a full awareness of its limitations. These data depict the heights at the time of the survey and are only accurate for that time.\", \"Access Constraints: None\"]"
+		"value": "["Use Constraints: Users should be aware that temporal changes may have occurred since this data set was collected and some parts of this data may no longer represent actual surface conditions. Users should not use this data for critical applications without a full awareness of its limitations. These data depict the heights at the time of the survey and are only accurate for that time.", "Access Constraints: None"]"
 	},
 	{
 		"key": "contact-email",
@@ -215,7 +215,7 @@
 	},
 	{
 		"key": "dataset-reference-date",
-		"value": "[{\"type\": \"publication\", \"value\": \"2013-02-01\"}]"
+		"value": "[{"type": "publication", "value": "2013-02-01"}]"
 	},
 	{
 		"key": "graphic-preview-description",
@@ -227,7 +227,7 @@
 	},
 	{
 		"key": "licence",
-		"value": "[\"\\nAny conclusions drawn from the analysis of this information are not the responsibility\\nof Aero-Metric Inc, NOAA, the Office for Coastal Management or its partners.\\n\"]"
+		"value": "["\nAny conclusions drawn from the analysis of this information are not the responsibility\nof Aero-Metric Inc, NOAA, the Office for Coastal Management or its partners.\n"]"
 	},
 	{
 		"key": "metadata_type",
@@ -235,7 +235,7 @@
 	},
 	{
 		"key": "responsible-party",
-		"value": "[{\"name\": \"Aero-Metric, Inc.\", \"roles\": [\"pointOfContact\"]}]"
+		"value": "[{"name": "Aero-Metric, Inc.", "roles": ["pointOfContact"]}]"
 	},
 	{
 		"key": "spatial-data-service-type",
@@ -247,7 +247,7 @@
 	},
 	{
 		"package_id": "e257cf65-0094-4be5-926a-bd7b6041f0b9",
-		"value": "topography, laser, usa, remote sensing, topography\/bathymetry, terrain, alaska, lidar, valdez, elevation",
+		"value": "topography, laser, usa, remote sensing, topography/bathymetry, terrain, alaska, lidar, valdez, elevation",
 		"revision_timestamp": "2015-09-26T21:59:16.218996",
 		"state": "active",
 		"key": "tags",
@@ -277,7 +277,7 @@
 		"revision_timestamp": "2013-03-25T23:05:12.923863",
 		"is_organization": true,
 		"state": "active",
-		"image_url": "https:\/\/fortress.wa.gov\/dfw\/score\/score\/images\/noaa_logo.png",
+		"image_url": "https://fortress.wa.gov/dfw/score/score/images/noaa_logo.png",
 		"revision_id": "c6d43080-22e1-405e-a83d-f2a512d9e867",
 		"type": "organization",
 		"id": "e811f0b4-451f-4896-9e8f-fc6802837819",

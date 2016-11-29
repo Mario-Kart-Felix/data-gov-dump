@@ -36,7 +36,7 @@
 		"cache_url": null,
 		"name": "Full InPort Metadata Record",
 		"created": "2016-04-11T16:53:19.144086",
-		"url": "https:\/\/inport.nmfs.noaa.gov\/inport\/item\/2721",
+		"url": "https://inport.nmfs.noaa.gov/inport/item/2721",
 		"webstore_url": null,
 		"resource_locator_function": "information",
 		"position": 0,
@@ -65,7 +65,7 @@
 		"cache_url": null,
 		"name": "Website",
 		"created": "2016-04-11T16:53:19.144110",
-		"url": "http:\/\/www.pifsc.noaa.gov",
+		"url": "http://www.pifsc.noaa.gov",
 		"webstore_url": null,
 		"resource_locator_function": "information",
 		"position": 1,
@@ -94,7 +94,7 @@
 		"cache_url": null,
 		"name": "Website",
 		"created": "2016-04-11T16:53:19.144118",
-		"url": "http:\/\/www.pifsc.noaa.gov",
+		"url": "http://www.pifsc.noaa.gov",
 		"webstore_url": null,
 		"resource_locator_function": "information",
 		"position": 2,
@@ -123,7 +123,7 @@
 		"cache_url": null,
 		"name": "Website",
 		"created": "2016-04-11T16:53:19.144126",
-		"url": "http:\/\/www.pifsc.noaa.gov",
+		"url": "http://www.pifsc.noaa.gov",
 		"webstore_url": null,
 		"resource_locator_function": "information",
 		"position": 3,
@@ -140,7 +140,7 @@
 		"state": "active",
 		"last_modified": null,
 		"hash": "",
-		"description": "This page describes the NASA GCMD Keywords, how\n                                                        to reference those keywords and provides download instructions.\n                                                    ",
+		"description": "This page describes the NASA GCMD Keywords, hown                                                        to reference those keywords and provides download instructions.n                                                    ",
 		"format": "HTML",
 		"tracking_summary": {
 			"total": 473,
@@ -152,7 +152,7 @@
 		"cache_url": null,
 		"name": "GCMD Keywords Page",
 		"created": "2016-04-11T16:53:19.144133",
-		"url": "http:\/\/gcmd.nasa.gov\/learn\/keyword_list.html",
+		"url": "http://gcmd.nasa.gov/learn/keyword_list.html",
 		"webstore_url": null,
 		"resource_locator_function": "information",
 		"position": 4,
@@ -172,7 +172,7 @@
 	"name": "hawaii-longline-logbook",
 	"isopen": false,
 	"url": null,
-	"notes": "This data set contains the logbook data of U.S. longline vessels based in Hawaii from 1990 to the present that fish in the central Pacific (120 deg W - 170 deg E and 50 deg N - 20 deg S). Tunas (Thunnus spp.) are the dominant species of the longline catch. Swordfish and blue shark were also \nnumerous in the longline catch prior to April 2001. In addition, there are approximately 10 to 15 other  \nPelagic Management Unit Species (PMUS).\n \nSince April 2001, there have been numerous regulation changes that affect the catch and effort and fishing area of the fleet; the point of contact should be contacted for more information.\n",
+	"notes": "This data set contains the logbook data of U.S. longline vessels based in Hawaii from 1990 to the present that fish in the central Pacific (120 deg W - 170 deg E and 50 deg N - 20 deg S). Tunas (Thunnus spp.) are the dominant species of the longline catch. Swordfish and blue shark were also nnumerous in the longline catch prior to April 2001. In addition, there are approximately 10 to 15 other  nPelagic Management Unit Species (PMUS).n nSince April 2001, there have been numerous regulation changes that affect the catch and effort and fishing area of the fleet; the point of contact should be contacted for more information.n",
 	"license_title": null,
 	"extras": [{
 		"key": "bbox-east-long",
@@ -208,7 +208,7 @@
 	},
 	{
 		"key": "spatial",
-		"value": "{\"type\": \"Polygon\", \"coordinates\": [[[170.0, -20.0], [-120.0, -20.0], [-120.0, 50.0], [170.0, 50.0], [170.0, -20.0]]]}"
+		"value": "{"type": "Polygon", "coordinates": [[[170.0, -20.0], [-120.0, -20.0], [-120.0, 50.0], [170.0, 50.0], [170.0, -20.0]]]}"
 	},
 	{
 		"key": "progress",
@@ -216,7 +216,7 @@
 	},
 	{
 		"key": "access_constraints",
-		"value": "[\"Access Constraints: NMFS personnel need a signed non-disclosure agreement statement and a \\\"need to know\\\" to access the detailed data. There are not constraints on access to summarized non-confidential data. | Use Constraints: Disclaimer - While every effort has been made to ensure that these data are accurate and reliable within the limits of the current state of the art, NOAA cannot assume liability for any damages caused by any errors or omissions in the data, nor as a result of the failure of the data to function on a particular system. NOAA makes no warranty, expressed or implied, nor does the fact of distribution constitute such a warranty.\"]"
+		"value": "["Access Constraints: NMFS personnel need a signed non-disclosure agreement statement and a \"need to know\" to access the detailed data. There are not constraints on access to summarized non-confidential data. | Use Constraints: Disclaimer - While every effort has been made to ensure that these data are accurate and reliable within the limits of the current state of the art, NOAA cannot assume liability for any damages caused by any errors or omissions in the data, nor as a result of the failure of the data to function on a particular system. NOAA makes no warranty, expressed or implied, nor does the fact of distribution constitute such a warranty."]"
 	},
 	{
 		"key": "temporal-extent-begin",
@@ -236,7 +236,7 @@
 	},
 	{
 		"key": "dataset-reference-date",
-		"value": "[{\"type\": \"publication\", \"value\": \"\"}]"
+		"value": "[{"type": "publication", "value": ""}]"
 	},
 	{
 		"key": "frequency-of-update",
@@ -252,7 +252,7 @@
 	},
 	{
 		"key": "responsible-party",
-		"value": "[{\"name\": \"Pacific Islands Fisheries Science Center\", \"roles\": [\"pointOfContact\"]}]"
+		"value": "[{"name": "Pacific Islands Fisheries Science Center", "roles": ["pointOfContact"]}]"
 	},
 	{
 		"key": "spatial-data-service-type",
@@ -264,7 +264,7 @@
 	},
 	{
 		"package_id": "ae7d9ce8-83e7-4688-9504-265a4981ddcf",
-		"value": "shark, doc\/noaa\/nmfs, pelagic species, frmd, swordfish, protected species interaction, daily, central pacific, hawaii, longline, logbook, pacific ocean, longline logbook metadata portfolio, tuna, national marine fisheries service, noaa, u.s. department of commerce, fmb, pifsc",
+		"value": "shark, doc/noaa/nmfs, pelagic species, frmd, swordfish, protected species interaction, daily, central pacific, hawaii, longline, logbook, pacific ocean, longline logbook metadata portfolio, tuna, national marine fisheries service, noaa, u.s. department of commerce, fmb, pifsc",
 		"revision_timestamp": "2016-01-23T08:11:37.657142",
 		"state": "active",
 		"key": "tags",
@@ -294,7 +294,7 @@
 		"revision_timestamp": "2013-03-25T23:05:12.923863",
 		"is_organization": true,
 		"state": "active",
-		"image_url": "https:\/\/fortress.wa.gov\/dfw\/score\/score\/images\/noaa_logo.png",
+		"image_url": "https://fortress.wa.gov/dfw/score/score/images/noaa_logo.png",
 		"revision_id": "c6d43080-22e1-405e-a83d-f2a512d9e867",
 		"type": "organization",
 		"id": "e811f0b4-451f-4896-9e8f-fc6802837819",

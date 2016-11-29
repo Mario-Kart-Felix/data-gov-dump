@@ -25,7 +25,7 @@
 		"last_modified": null,
 		"hash": "",
 		"description": "",
-		"format": "binary for the 6 data sets with a \"b\" at the end hd5 for the 6 data sets without the \"b\"",
+		"format": "binary for the 6 data sets with a "b" at the end hd5 for the 6 data sets without the "b"",
 		"tracking_summary": {
 			"total": 830,
 			"recent": 35
@@ -34,9 +34,9 @@
 		"resource_locator_protocol": "",
 		"mimetype": null,
 		"cache_url": null,
-		"name": "Binary for the 6 data sets with a \"B\" at the end HD5 for the 6 data sets without the \"B\"",
+		"name": "Binary for the 6 data sets with a "B" at the end HD5 for the 6 data sets without the "B"",
 		"created": "2016-04-23T12:29:18.066435",
-		"url": "http:\/\/earthexplorer.usgs.gov",
+		"url": "http://earthexplorer.usgs.gov",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 0,
@@ -66,7 +66,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2016-04-23T12:29:18.066461",
-		"url": "http:\/\/dx.doi.org\/10.5067\/Community\/ASTER_GED\/AG1kmB.003",
+		"url": "http://dx.doi.org/10.5067/Community/ASTER_GED/AG1kmB.003",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 1,
@@ -86,11 +86,11 @@
 	"name": "aster-global-emissivity-dataset-1-kilometer-binary-v003-ag1kmb",
 	"isopen": false,
 	"url": null,
-	"notes": "The Advanced Spaceborne Thermal Emission and Reflection radiometer Global Emissivity Database (ASTER GED) was developed by the National Aeronautics and Space Administration's (NASA) Jet Propulsion Laboratory (JPL), California Institute of Technology. The North America portion of this collection was formerly called the North American ASTER Land Surface Emissivity Database (NAALSED) - a seasonal dataset consisting of mean summer (J-A-S) and winter (J-F-M) products. ASTER GED products are output on 1degree x 1 degree grids at 100-meter or 1-kilometer spatial resolution (nominal) and include the mean emissivity and standard deviation for all 5 ASTER thermal infrared bands, mean land surface temperature (LST) and standard deviation, a re-sampled ASTER GDEM (not included in the North America Winter products), land-water mask, mean Normalized Difference Vegetation Index (NDVI) and standard deviation, latitude, longitude, and observation count. Additional ASTER GED product information is available at https:\/\/lpdaac.usgs.gov\/products\/community_products_table. Product tiles are available in HDF and binary format and may be downloaded via HTTP by visiting the following data clients: NASA Reverb (http:\/\/reverb.echo.nasa.gov), LP DAAC Data Pool (http:\/\/e4ftl01.cr.usgs.gov\/ASTT\/), or EarthExplorer (http:\/\/earthexplorer.usgs.gov).",
+	"notes": "The Advanced Spaceborne Thermal Emission and Reflection radiometer Global Emissivity Database (ASTER GED) was developed by the National Aeronautics and Space Administration's (NASA) Jet Propulsion Laboratory (JPL), California Institute of Technology. The North America portion of this collection was formerly called the North American ASTER Land Surface Emissivity Database (NAALSED) - a seasonal dataset consisting of mean summer (J-A-S) and winter (J-F-M) products. ASTER GED products are output on 1degree x 1 degree grids at 100-meter or 1-kilometer spatial resolution (nominal) and include the mean emissivity and standard deviation for all 5 ASTER thermal infrared bands, mean land surface temperature (LST) and standard deviation, a re-sampled ASTER GDEM (not included in the North America Winter products), land-water mask, mean Normalized Difference Vegetation Index (NDVI) and standard deviation, latitude, longitude, and observation count. Additional ASTER GED product information is available at https://lpdaac.usgs.gov/products/community_products_table. Product tiles are available in HDF and binary format and may be downloaded via HTTP by visiting the following data clients: NASA Reverb (http://reverb.echo.nasa.gov), LP DAAC Data Pool (http://e4ftl01.cr.usgs.gov/ASTT/), or EarthExplorer (http://earthexplorer.usgs.gov).",
 	"license_title": null,
 	"extras": [{
 		"key": "responsible-party",
-		"value": "[{\"name\": \"U.S. Geological Survey Earth Resources Observation and Science (EROS) Center\", \"roles\": [\"pointOfContact\"]}]"
+		"value": "[{"name": "U.S. Geological Survey Earth Resources Observation and Science (EROS) Center", "roles": ["pointOfContact"]}]"
 	},
 	{
 		"key": "contact-email",
@@ -110,7 +110,7 @@
 	},
 	{
 		"key": "dataset-reference-date",
-		"value": "[{\"type\": \"publication\", \"value\": \"2016-04-21\"}]"
+		"value": "[{"type": "publication", "value": "2016-04-21"}]"
 	},
 	{
 		"key": "resource-type",
@@ -138,7 +138,7 @@
 	},
 	{
 		"key": "licence",
-		"value": "[\"Although these data have been processed successfully on a computer system at the U.S. Geological Survey, no warranty, expressed or implied, is made by the USGS regarding the use of the data on any other system, nor does the act of distribution constitute any such warranty.  \"]"
+		"value": "["Although these data have been processed successfully on a computer system at the U.S. Geological Survey, no warranty, expressed or implied, is made by the USGS regarding the use of the data on any other system, nor does the act of distribution constitute any such warranty.  "]"
 	},
 	{
 		"key": "metadata_type",
@@ -150,7 +150,7 @@
 	},
 	{
 		"key": "spatial",
-		"value": "{\"type\": \"Polygon\", \"coordinates\": [[[-180.0, -59.0], [180.0, -59.0], [180.0, 84.0], [-180.0, 84.0], [-180.0, -59.0]]]}"
+		"value": "{"type": "Polygon", "coordinates": [[[-180.0, -59.0], [180.0, -59.0], [180.0, 84.0], [-180.0, 84.0], [-180.0, -59.0]]]}"
 	},
 	{
 		"key": "guid",
@@ -162,7 +162,7 @@
 	},
 	{
 		"key": "access_constraints",
-		"value": "[\"Use Constraints: There is no guarantee of warranty concerning the accuracy of these data. Users should be aware that temporal changes may have occurred since the data was collected and that some parts of these data may no longer represent actual surface conditions. Users should not use these data for critical applications without a full awareness of their limitations. Acknowledgement of the originating agencies would be appreciated in products derived from these data. Any user who modifies the data set is obligated to describe the types of modifications they perform. User specifically agrees not to misrepresent the data set, nor to imply that changes made were approved or endorsed by the U.S. Geological Survey. Please refer to http:\/\/www.usgs.gov\/privacy.html for the USGS disclaimer.\", \"Access Constraints: Any downloading and use of these data signifies a user's agreement to comprehension and compliance of the USGS Standard Disclaimer. Insure all portions of metadata are read and clearly understood before using these data in order to protect both user and USGS interests.\"]"
+		"value": "["Use Constraints: There is no guarantee of warranty concerning the accuracy of these data. Users should be aware that temporal changes may have occurred since the data was collected and that some parts of these data may no longer represent actual surface conditions. Users should not use these data for critical applications without a full awareness of their limitations. Acknowledgement of the originating agencies would be appreciated in products derived from these data. Any user who modifies the data set is obligated to describe the types of modifications they perform. User specifically agrees not to misrepresent the data set, nor to imply that changes made were approved or endorsed by the U.S. Geological Survey. Please refer to http://www.usgs.gov/privacy.html for the USGS disclaimer.", "Access Constraints: Any downloading and use of these data signifies a user's agreement to comprehension and compliance of the USGS Standard Disclaimer. Insure all portions of metadata are read and clearly understood before using these data in order to protect both user and USGS interests."]"
 	},
 	{
 		"key": "spatial_harvester",
@@ -197,14 +197,14 @@
 		"value": "USGS Earth Resources Observation and Science (EROS)"
 	}],
 	"organization": {
-		"description": "http:\/\/www.usgs.gov\/\r\nThe USGS is a federal science agency that provides impartial information on the health of our ecosystems and environment, the natural hazards that threaten us, the natural resources we rely on, the impacts of climate and land-use change, and the core science systems that help us provide timely, relevant, and useable information.",
+		"description": "http://www.usgs.gov/rnThe USGS is a federal science agency that provides impartial information on the health of our ecosystems and environment, the natural hazards that threaten us, the natural resources we rely on, the impacts of climate and land-use change, and the core science systems that help us provide timely, relevant, and useable information.",
 		"created": "2013-03-14T03:44:38.263357",
 		"title": "U.S. Geological Survey, Department of the Interior",
 		"name": "usgs-gov",
 		"revision_timestamp": "2014-09-02T13:43:52.167023",
 		"is_organization": true,
 		"state": "active",
-		"image_url": "http:\/\/pubs.usgs.gov\/sir\/2004\/5296\/04-5296_confluence_park\/usgs_logo.gif",
+		"image_url": "http://pubs.usgs.gov/sir/2004/5296/04-5296_confluence_park/usgs_logo.gif",
 		"revision_id": "2858aa99-9501-4f96-82e5-9647b968ed66",
 		"type": "organization",
 		"id": "bd2cdd5a-4d65-46c0-9937-c8381175f104",

@@ -37,7 +37,7 @@
 		"cache_url": null,
 		"name": "Web Page",
 		"created": "2016-09-09T18:57:47.898575",
-		"url": "http:\/\/bios.dfg.ca.gov",
+		"url": "http://bios.dfg.ca.gov",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 0,
@@ -67,7 +67,7 @@
 		"cache_url": null,
 		"name": "Zip File",
 		"created": "2016-09-09T18:57:47.898618",
-		"url": "ftp:\/\/ftp.dfg.ca.gov\/BDB\/GIS\/BIOS\/Public_Datasets\/1000_1099\/ds1044.zip",
+		"url": "ftp://ftp.dfg.ca.gov/BDB/GIS/BIOS/Public_Datasets/1000_1099/ds1044.zip",
 		"webstore_url": null,
 		"resource_locator_function": "",
 		"position": 1,
@@ -89,7 +89,7 @@
 		"revision_timestamp": "2013-05-31T17:51:13.706377",
 		"is_organization": true,
 		"state": "active",
-		"image_url": "http:\/\/www.ca.gov\/images\/template2012\/header_ca.gov.png",
+		"image_url": "http://www.ca.gov/images/template2012/header_ca.gov.png",
 		"revision_id": "ad94cda4-9394-44d0-9c37-573dc3c47c9a",
 		"type": "organization",
 		"id": "467d900f-8a42-452d-9906-6610dd1a767f",
@@ -100,11 +100,11 @@
 	"name": "limestone-salamander-habitat-model-for-nsnf-connectivity-cdfw-ds1044",
 	"isopen": false,
 	"url": null,
-	"notes": "The Maxent modeling algorithm was used to build the species distribution model at 270 m spatial resolution using species occurrence points and environmental layers as predictors (Phillips et al. 2006). Species occurrence points were primarily obtained from CNDDB (California Natural Diversity Database) and other CDFW sources, GBIF (Global Biodiversity Information Facility), PRBO (Point Blue Conservation Science) and Arctos museum databases. Vegetation, distance to water, elevation, and bioclimatic variables (Franklin et al. 2013) were used as predictor variables. The models were run at 270 m spatial resolution with five replications using cross-validation as a method of sample evaluation. Cross-validation involved the partitioning of the sample data into n subsets, fitting the models to n-1subsets, and testing the model on the one subset not used in fitting the model. Initial model runs showed that our models converged around 2,000 iterations and for this reason we ran all models with 2,500 maximum iterations. Maxent was implemented in R using the \u2018dismo\u2019package (Hijmans et al. 2011). Model evaluation was carried out using the \u2018PresenceAbsence\u2019package in R (Freeman and Moisen 2008). We used AUC as a metric to evaluate model performance. The package also computes threshold values using several accuracy metrics to translate predicted probability maps into binary suitable and unsuitable habitats. We selected the MeanProb, a threshold set based on the mean predicted probability of species occurrences. The output from Maxent are grid datasets in a multiband \u2018tif\u2019format with one band for each replication. We averaged the five replicated maps and created a mean grid for each species. The grid was then symbolized to represent low (threshold-50), medium (50-75) and high (75-100) habitat suitability, with pixel values that are below the threshold excluded. Models were reviewed by CDFW species experts; please review the use limitations.For more information see the project report at [https:\/\/nrm.dfg.ca.gov\/FileHandler.ashx?DocumentID=85358].",
+	"notes": "The Maxent modeling algorithm was used to build the species distribution model at 270 m spatial resolution using species occurrence points and environmental layers as predictors (Phillips et al. 2006). Species occurrence points were primarily obtained from CNDDB (California Natural Diversity Database) and other CDFW sources, GBIF (Global Biodiversity Information Facility), PRBO (Point Blue Conservation Science) and Arctos museum databases. Vegetation, distance to water, elevation, and bioclimatic variables (Franklin et al. 2013) were used as predictor variables. The models were run at 270 m spatial resolution with five replications using cross-validation as a method of sample evaluation. Cross-validation involved the partitioning of the sample data into n subsets, fitting the models to n-1subsets, and testing the model on the one subset not used in fitting the model. Initial model runs showed that our models converged around 2,000 iterations and for this reason we ran all models with 2,500 maximum iterations. Maxent was implemented in R using the u2018dismou2019package (Hijmans et al. 2011). Model evaluation was carried out using the u2018PresenceAbsenceu2019package in R (Freeman and Moisen 2008). We used AUC as a metric to evaluate model performance. The package also computes threshold values using several accuracy metrics to translate predicted probability maps into binary suitable and unsuitable habitats. We selected the MeanProb, a threshold set based on the mean predicted probability of species occurrences. The output from Maxent are grid datasets in a multiband u2018tifu2019format with one band for each replication. We averaged the five replicated maps and created a mean grid for each species. The grid was then symbolized to represent low (threshold-50), medium (50-75) and high (75-100) habitat suitability, with pixel values that are below the threshold excluded. Models were reviewed by CDFW species experts; please review the use limitations.For more information see the project report at [https://nrm.dfg.ca.gov/FileHandler.ashx?DocumentID=85358].",
 	"owner_org": "467d900f-8a42-452d-9906-6610dd1a767f",
 	"extras": [{
 		"key": "responsible-party",
-		"value": "[{\"name\": \"California Department of Fish and Wildlife, Data and Technology Division, Biogeographic Data Branch\", \"roles\": [\"pointOfContact\"]}]"
+		"value": "[{"name": "California Department of Fish and Wildlife, Data and Technology Division, Biogeographic Data Branch", "roles": ["pointOfContact"]}]"
 	},
 	{
 		"key": "contact-email",
@@ -124,7 +124,7 @@
 	},
 	{
 		"key": "dataset-reference-date",
-		"value": "[{\"type\": \"publication\", \"value\": \"2014-06-17\"}]"
+		"value": "[{"type": "publication", "value": "2014-06-17"}]"
 	},
 	{
 		"key": "resource-type",
@@ -152,7 +152,7 @@
 	},
 	{
 		"key": "licence",
-		"value": "[\" \"]"
+		"value": "[" "]"
 	},
 	{
 		"key": "metadata_type",
@@ -164,7 +164,7 @@
 	},
 	{
 		"key": "spatial",
-		"value": "{\"type\": \"Polygon\", \"coordinates\": [[[-120.175798, 37.484028], [-119.647666, 37.484028], [-119.647666, 37.800288], [-120.175798, 37.800288], [-120.175798, 37.484028]]]}"
+		"value": "{"type": "Polygon", "coordinates": [[[-120.175798, 37.484028], [-119.647666, 37.484028], [-119.647666, 37.800288], [-120.175798, 37.800288], [-120.175798, 37.484028]]]}"
 	},
 	{
 		"key": "guid",
@@ -176,7 +176,7 @@
 	},
 	{
 		"key": "access_constraints",
-		"value": "[\"Use Constraints: The user accepts sole responsibility for the correct interpretation of this report and the correct use of its accompanying data sets in environmental documents. The northern Sierra Nevada foothills wildlife connectivity project habitat data delineates area likely important to the selected focal species. It is a decision-support tool to be refined by field work and expert knowledge. DO NOT assume that areas predicted as low, medium or high habitat represents the likelihood of the focal species being present or that areas below the predicted threshold are unimportant to wildlife populations or movements.\", \"Access Constraints: None\"]"
+		"value": "["Use Constraints: The user accepts sole responsibility for the correct interpretation of this report and the correct use of its accompanying data sets in environmental documents. The northern Sierra Nevada foothills wildlife connectivity project habitat data delineates area likely important to the selected focal species. It is a decision-support tool to be refined by field work and expert knowledge. DO NOT assume that areas predicted as low, medium or high habitat represents the likelihood of the focal species being present or that areas below the predicted threshold are unimportant to wildlife populations or movements.", "Access Constraints: None"]"
 	},
 	{
 		"key": "spatial_harvester",
