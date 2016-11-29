@@ -1,0 +1,67 @@
+|-
+  "{nt"owner_org": "3609164c-4c49-4a44-9179-23163027dc0a",nt"maintainer":
+    "admin",nt"relationships_as_object": [],nt"private": false,nt"maintainer_email":
+    "HealthData@hhs.gov",nt"num_tags": 10,nt"id": "fcfa3324-f6ab-4b0c-8a5f-ce2c7306d0b7",nt"metadata_created":
+    "2015-06-19T02:52:44.501165",nt"metadata_modified": "2016-10-07T14:55:24.373467",nt"author":
+    null,nt"author_email": null,nt"state": "active",nt"version": null,nt"license_id":
+    "other-license-specified",nt"type": "dataset",nt"resources": [],nt"num_resources":
+    0,nt"tags": [{ntt"vocabulary_id": null,ntt"display_name": "claims",ntt"name":
+    "claims",ntt"revision_timestamp": "2015-06-19T02:52:44.501165",ntt"state":
+    "active",ntt"id": "ad0de342-d965-4507-8fce-213b42189fcf"nt},nt{ntt"vocabulary_id":
+    null,ntt"display_name": "inpatient",ntt"name": "inpatient",ntt"revision_timestamp":
+    "2015-06-19T02:52:44.501165",ntt"state": "active",ntt"id": "8962f0b9-7328-406b-be68-50151ba7c24c"nt},nt{ntt"vocabulary_id":
+    null,ntt"display_name": "medicaid",ntt"name": "medicaid",ntt"revision_timestamp":
+    "2015-06-19T02:52:44.501165",ntt"state": "active",ntt"id": "6e127a56-4ac1-4d20-8282-8b5fe5ca201f"nt},nt{ntt"vocabulary_id":
+    null,ntt"display_name": "medicare",ntt"name": "medicare",ntt"revision_timestamp":
+    "2015-06-19T02:52:44.501165",ntt"state": "active",ntt"id": "74b5e161-50ea-4ed3-a1a3-583caaccae4d"nt},nt{ntt"vocabulary_id":
+    null,ntt"display_name": "national",ntt"name": "national",ntt"revision_timestamp":
+    "2015-06-19T02:52:44.501165",ntt"state": "active",ntt"id": "cea57a8f-cf1c-4ac3-af70-6578b39240a5"nt},nt{ntt"vocabulary_id":
+    null,ntt"display_name": "payments",ntt"name": "payments",ntt"revision_timestamp":
+    "2015-06-19T02:52:44.501165",ntt"state": "active",ntt"id": "9290b517-cd7a-49fb-9c21-5dbcc7d7d535"nt},nt{ntt"vocabulary_id":
+    null,ntt"display_name": "prospective-payment-system-pps",ntt"name":
+    "prospective-payment-system-pps",ntt"revision_timestamp": "2015-06-19T02:52:44.501165",ntt"state":
+    "active",ntt"id": "92394854-7791-4f36-8437-39818f75b4a7"nt},nt{ntt"vocabulary_id":
+    null,ntt"display_name": "psychiatric-facility",ntt"name": "psychiatric-facility",ntt"revision_timestamp":
+    "2015-06-19T02:52:44.501165",ntt"state": "active",ntt"id": "d3b86266-c864-4c7d-a90b-66ca3464678f"nt},nt{ntt"vocabulary_id":
+    null,ntt"display_name": "psychiatric-treatment-center",ntt"name": "psychiatric-treatment-center",ntt"revision_timestamp":
+    "2015-06-19T02:52:44.501165",ntt"state": "active",ntt"id": "8bdd8529-0535-4812-b48c-b0d828595706"nt},nt{ntt"vocabulary_id":
+    null,ntt"display_name": "restricted-use-data-file",ntt"name": "restricted-use-data-file",ntt"revision_timestamp":
+    "2015-06-19T02:52:44.501165",ntt"state": "active",ntt"id": "4d567476-b41b-4d68-8d36-9ace6d602a36"nt}],nt"title":
+    "Inpatient Psychiatric Prospective Payment System (IPF PPS)",nt"tracking_summary":
+    {ntt"total": 33,ntt"recent": 1nt},nt"groups": [],nt"relationships_as_subject":
+    [],nt"revision_timestamp": "2016-04-06T23:20:58.600883",nt"name": "inpatient-psychiatric-prospective-payment-system-ipf-pps",nt"isopen":
+    true,nt"url": null,nt"notes": "<p>This file contains case level data for
+    inpatient psychiatric stays and is derived from 2011 MEDPAR data file and the latest
+    available provider specific file. The data available in this file are consistent
+    with the data as described in the IPF PPS Update Notice published in August 2012.
+    The records are stripped of most data elements that will permit identification of
+    beneficiaries. This file includes approximately 0.5 million records for services
+    paid under the inpatient psychiatric benefit.</p>n",nt"license_title": "Other
+    License Specified",nt"extras": [{ntt"key": "publisher",ntt"value":
+    "Department of Health &amp; Human Services"nt},nt{ntt"key": "identifier",ntt"value":
+    "2abad36e-416a-4201-8df3-2991fba00a2d"nt},nt{ntt"key": "license",ntt"value":
+    "http://opendefinition.org/licenses/odc-odbl/"nt},nt{ntt"key": "harvest_source_id",ntt"value":
+    "15c538b5-31a0-474e-8ba5-c85ee421cb4d"nt},nt{ntt"key": "catalog_@context",ntt"value":
+    "https://project-open-data.cio.gov/v1.1/schema/catalog.jsonld"nt},nt{ntt"key":
+    "resource-type",ntt"value": "Dataset"nt},nt{ntt"key": "modified",ntt"value":
+    "2016-04-05"nt},nt{ntt"key": "harvest_source_title",ntt"value":
+    "Healthdata.gov"nt},nt{ntt"key": "source_schema_version",ntt"value":
+    "1.1"nt},nt{ntt"key": "source_datajson_identifier",ntt"value":
+    truent},nt{ntt"key": "language",ntt"value": ["en"]nt},nt{ntt"key":
+    "bureauCode",ntt"value": ["009:38"]nt},nt{ntt"key": "catalog_@id",ntt"value":
+    "https://www.healthdata.gov/data.json"nt},nt{ntt"key": "programCode",ntt"value":
+    ["009:000"]nt},nt{ntt"key": "accessLevel",ntt"value": "restricted
+    public"nt},nt{ntt"key": "harvest_object_id",ntt"value": "f4f09706-d41c-49d1-b77c-fe40474ff5bc"nt},nt{ntt"key":
+    "source_hash",ntt"value": "ff39cf72a60aed225926fddfaf61ab0fec9ab695"nt},nt{ntt"key":
+    "catalog_conformsTo",ntt"value": "https://project-open-data.cio.gov/v1.1/schema"nt},nt{ntt"key":
+    "catalog_describedBy",ntt"value": "https://project-open-data.cio.gov/v1.1/schema/catalog.json"nt},nt{ntt"state":
+    "active",ntt"key": "harvest_object_id",ntt"value": "f4f09706-d41c-49d1-b77c-fe40474ff5bc"nt},nt{ntt"state":
+    "active",ntt"key": "harvest_source_id",ntt"value": "15c538b5-31a0-474e-8ba5-c85ee421cb4d"nt},nt{ntt"state":
+    "active",ntt"key": "harvest_source_title",ntt"value": "Healthdata.gov"nt}],nt"organization":
+    {ntt"description": "",ntt"created": "2013-08-26T15:35:30.958442",ntt"title":
+    "U.S. Department of Health & Human Services",ntt"name": "hhs-gov",ntt"revision_timestamp":
+    "2014-02-28T21:57:27.766656",ntt"is_organization": true,ntt"state":
+    "active",ntt"image_url": "http://www.healthdata.gov/sites/all/themes/hdtheme/logo-dark.png",ntt"revision_id":
+    "eff89d9e-dc00-4101-bbd4-750e1adcc5bb",ntt"type": "organization",ntt"id":
+    "3609164c-4c49-4a44-9179-23163027dc0a",ntt"approval_status": "approved"nt},nt"revision_id":
+    "a5578c45-6e52-4812-82cd-e70d1eaac85c"n}"

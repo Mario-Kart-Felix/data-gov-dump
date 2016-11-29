@@ -1,0 +1,111 @@
+|-
+  "{nt"owner_org": "31c49abe-512a-412a-9cc7-5b2601325d6b",nt"maintainer":
+    null,nt"relationships_as_object": [],nt"private": false,nt"maintainer_email":
+    null,nt"num_tags": 0,nt"id": "2155d8ed-20b7-4eed-a440-a322d6e308e0",nt"metadata_created":
+    "2015-08-24T16:49:09.425946",nt"metadata_modified": "2015-10-22T15:07:26.632061",nt"author":
+    null,nt"author_email": null,nt"state": "active",nt"version": null,nt"license_id":
+    null,nt"type": "dataset",nt"resources": [{ntt"resource_group_id":
+    "ddcfbe0f-ef70-4c08-b675-d2b4f79cfb5c",ntt"cache_last_updated": null,ntt"revision_timestamp":
+    "2015-10-22T15:07:26.632061",ntt"webstore_last_updated": null,ntt"id":
+    "20d38610-ffd6-4b6b-9037-7e43d2ea3761",ntt"size": null,ntt"state": "active",ntt"last_modified":
+    null,ntt"hash": "",ntt"description": "Should be used for most mapping
+    projects--this is our most comprehensive dataset. Designed for use with GIS (geographicn
+                           information systems).",ntt"format": "tgrshp (compressed)",ntt"tracking_summary":
+    {nttt"total": 17,nttt"recent": 2ntt},ntt"mimetype_inner": null,ntt"resource_locator_protocol":
+    "",ntt"mimetype": null,ntt"cache_url": null,ntt"name": "Address
+    Ranges County-based Relationship Files",ntt"created": "2015-10-22T11:07:26.678014",ntt"url":
+    "http://www2.census.gov/geo/tiger/TIGER2015/ADDR",ntt"webstore_url": null,ntt"resource_locator_function":
+    "",ntt"position": 0,ntt"revision_id": "53a33cd4-a81d-42f1-89d5-989d23af633c",ntt"resource_type":
+    nullnt},nt{ntt"resource_group_id": "ddcfbe0f-ef70-4c08-b675-d2b4f79cfb5c",ntt"cache_last_updated":
+    null,ntt"revision_timestamp": "2015-10-22T15:07:26.632061",ntt"webstore_last_updated":
+    null,ntt"id": "dd716604-37f7-4b7f-803f-8068b1cfbbc6",ntt"size": null,ntt"state":
+    "active",ntt"last_modified": null,ntt"hash": "",ntt"description":
+    "Documentation for the 2015 TIGER Files",ntt"format": "PDF",ntt"tracking_summary":
+    {nttt"total": 144,nttt"recent": 13ntt},ntt"mimetype_inner":
+    null,ntt"resource_locator_protocol": "",ntt"mimetype": null,ntt"cache_url":
+    null,ntt"name": "TIGER/Lineu00aeShapefiles 2015 Technical Documentation",ntt"created":
+    "2015-10-22T11:07:26.678049",ntt"url": "http://www2.census.gov/geo/pdfs/maps-data/data/tiger/tgrshp2015/TGRSHP2015_TechDoc.pdf",ntt"webstore_url":
+    null,ntt"resource_locator_function": "",ntt"position": 1,ntt"revision_id":
+    "53a33cd4-a81d-42f1-89d5-989d23af633c",ntt"resource_type": nullnt},nt{ntt"resource_group_id":
+    "ddcfbe0f-ef70-4c08-b675-d2b4f79cfb5c",ntt"cache_last_updated": null,ntt"revision_timestamp":
+    "2015-10-22T15:07:26.632061",ntt"webstore_last_updated": null,ntt"id":
+    "0b826339-44dd-42f2-a697-ede6b8ee0077",ntt"size": null,ntt"state": "active",ntt"last_modified":
+    null,ntt"hash": "",ntt"description": "tl_2015_addr.dbf.ea.iso.xml",ntt"format":
+    "XML",ntt"tracking_summary": {nttt"total": 4,nttt"recent": 1ntt},ntt"mimetype_inner":
+    null,ntt"resource_locator_protocol": "",ntt"mimetype": null,ntt"cache_url":
+    null,ntt"name": "Feature Catalog for the 2015 TIGER/Line Shapefile Address
+    Ranges County-based Relationship File",ntt"created": "2015-10-22T11:07:26.678057",ntt"url":
+    "http://meta.geo.census.gov/data/existing/decennial/GEO/GPMB/TIGERline/TIGER2015/addr/tl_2015_addr.dbf.ea.iso.xml",ntt"webstore_url":
+    null,ntt"resource_locator_function": "",ntt"position": 2,ntt"revision_id":
+    "53a33cd4-a81d-42f1-89d5-989d23af633c",ntt"resource_type": nullnt}],nt"num_resources":
+    3,nt"tags": [],nt"title": "TIGER/Line Shapefile,  2015, Series Information
+    for the Address Ranges County-based Relationship File",nt"tracking_summary":
+    {ntt"total": 94,ntt"recent": 1nt},nt"groups": [],nt"relationships_as_subject":
+    [],nt"revision_timestamp": "2015-08-24T16:49:09.425946",nt"name": "tiger-line-shapefile-2015-series-information-for-the-address-ranges-county-based-relationship-f",nt"isopen":
+    false,nt"url": null,nt"notes": " The Address Ranges Relationship File (ADDR.dbf)
+    contains the attributes of each address range.  Each address range applies to a
+    single edge and has an               unique address range identifier (ARID) value.
+     The edge to which an address range applies can be determined by linking the address
+    range to the All Linesn               Shapefile (EDGES.shp) using the permanent
+    topological edge identifier (TLID) attribute.  Multiple address ranges can apply
+    to the same edge since an edgen               can have multiple address ranges.
+     Note that the most inclusive address range associated with each side of a street
+    edge already appears in the All Linesn               Shapefile (EDGES.shp).  The
+    TIGER/Line Files contain potential address ranges, not individual addresses.  The
+    term "address range" refers to then               collection of all possible structure
+    numbers from the first structure number to the last structure number and all numbers
+    of a specified parity inn               between along an edge side relative to the
+    direction in which the edge is coded.  The address ranges in the TIGER/Line Files
+    are potential ranges thatn               include the full range of possible structure
+    numbers even though the actual structures may not exist.n               n               The
+    TIGER/Line shapefiles and related database files (.dbf) are an extract of selected
+    geographic and cartographic information from then               U.S. Census Bureau's
+    Master Address File / Topologically Integrated Geographic Encoding and Referencing
+    (MAF/TIGER) Database (MTDB).  The MTDB representsn               a seamless national
+    file with no overlaps or gaps between parts, however, each TIGER/Line shapefile
+    is designed to stand alone as an independent data set,n               or they can
+    be combined to cover the entire nation.",nt"license_title": null,nt"extras":
+    [{ntt"key": "bbox-east-long",ntt"value": "179.859681"nt},nt{ntt"key":
+    "contact-email",ntt"value": ""nt},nt{ntt"key": "metadata-language",ntt"value":
+    ""nt},nt{ntt"key": "bbox-west-long",ntt"value": "-179.231086"nt},nt{ntt"key":
+    "metadata-date",ntt"value": "2015-10-22"nt},nt{ntt"key": "dataset-reference-date",ntt"value":
+    "[{"type": "publication", "value": "2015"}]"nt},nt{ntt"key":
+    "resource-type",ntt"value": "series"nt},nt{ntt"key": "bbox-north-lat",ntt"value":
+    "71.441059"nt},nt{ntt"key": "spatial-reference-system",ntt"value":
+    ""nt},nt{ntt"key": "coupled-resource",ntt"value": "[]"nt},nt{ntt"key":
+    "bbox-south-lat",ntt"value": "-14.601813"nt},nt{ntt"key": "licence",ntt"value":
+    "[]"nt},nt{ntt"key": "metadata_type",ntt"value": "geospatial"nt},nt{ntt"key":
+    "collection_metadata",ntt"value": "true"nt},nt{ntt"key": "progress",ntt"value":
+    ""nt},nt{ntt"key": "spatial",ntt"value": "{"type": "Polygon",
+    "coordinates": [[[-179.231086, -14.601813], [179.859681, -14.601813], [179.859681,
+    71.441059], [-179.231086, 71.441059], [-179.231086, -14.601813]]]}"nt},nt{ntt"key":
+    "guid",ntt"value": "SeriesCollection_tl_2015_addr.dbf.iso.xml"nt},nt{ntt"key":
+    "spatial-data-service-type",ntt"value": ""nt},nt{ntt"key": "access_constraints",ntt"value":
+    "[" Access Constraints: None", " Use Constraints:The TIGER/Line Shapefile products
+    are not copyrighted however TIGER/Line and Census TIGER are registeredn                     trademarks
+    of the U.S. Census Bureau.  These products are free to use in a product or publication,
+    however acknowledgment must be given to the U.S.n                     Census Bureau
+    as the source."]"nt},nt{ntt"key": "spatial_harvester",ntt"value":
+    truent},nt{ntt"key": "frequency-of-update",ntt"value": "notPlanned"nt},nt{ntt"package_id":
+    "2155d8ed-20b7-4eed-a440-a322d6e308e0",ntt"value": "permanent edge id, county
+    gnis code, state gnis code, side indicator flag, ngda, transportation theme, state
+    fips code, united states, zip +4 code, national geospatial data asset, county fips
+    code, 5-digit zip code, ngda portfolio themes, u.s., from house number, to house
+    number",ntt"revision_timestamp": "2015-08-24T16:49:09.425946",ntt"state":
+    "active",ntt"key": "tags",ntt"revision_id": "76197aa8-02f4-4fd4-a351-f6cf45f0580f",ntt"id":
+    "169a32e1-fd2c-4f49-815e-679b76018d14"nt},nt{ntt"state": "active",ntt"key":
+    "harvest_object_id",ntt"value": "38b5d052-5926-43d4-9f5a-7d566428a840"nt},nt{ntt"state":
+    "active",ntt"key": "harvest_source_id",ntt"value": "7a54bb5d-50ca-41e4-b4a3-97905ba49271"nt},nt{ntt"state":
+    "active",ntt"key": "harvest_source_title",ntt"value": "2015TigerAddr"nt}],nt"organization":
+    {ntt"description": "The Census Bureau's mission is to serve as the leading
+    source of quality data about the nation's people and economy. We honor privacy,
+    protect confidentiality, share our expertise globally, and conduct our work openly.
+    We are guided on this mission by scientific objectivity, our strong and capable
+    workforce, our devotion to research-based innovation, and our abiding commitment
+    to our customers.",ntt"created": "2013-03-14T03:44:46.743070",ntt"title":
+    "US Census Bureau, Department of Commerce",ntt"name": "census-gov",ntt"revision_timestamp":
+    "2013-08-29T13:37:04.171127",ntt"is_organization": true,ntt"state":
+    "active",ntt"image_url": "http://www.census.gov/main/img/home/CensusLogo-white.png",ntt"revision_id":
+    "0995f525-d563-4254-a535-af5b926fe663",ntt"type": "organization",ntt"id":
+    "31c49abe-512a-412a-9cc7-5b2601325d6b",ntt"approval_status": "approved"nt},nt"revision_id":
+    "76197aa8-02f4-4fd4-a351-f6cf45f0580f"n}"

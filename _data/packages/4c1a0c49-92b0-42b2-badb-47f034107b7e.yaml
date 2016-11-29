@@ -1,0 +1,115 @@
+|-
+  "{nt"owner_org": "d8a6202b-c0c3-463d-88a0-3bc021a178ed",nt"maintainer":
+    "JENNIFER WEI, PH. D",nt"relationships_as_object": [],nt"private": false,nt"maintainer_email":
+    "jennifer.c.wei@nasa.gov",nt"num_tags": 3,nt"id": "4c1a0c49-92b0-42b2-badb-47f034107b7e",nt"metadata_created":
+    "2014-10-08T03:11:24.920392",nt"metadata_modified": "2016-05-06T08:04:33.312663",nt"author":
+    null,nt"author_email": null,nt"state": "active",nt"version": null,nt"license_id":
+    "us-pd",nt"type": "dataset",nt"resources": [{ntt"resource_group_id":
+    "2e228f52-a832-4c1e-b734-9109ff994cb6",ntt"cache_last_updated": null,ntt"revision_timestamp":
+    "2015-11-25T17:29:21.526044",ntt"webstore_last_updated": null,ntt"id":
+    "3a16bac8-9c9c-44c3-a89a-996b4ca104b6",ntt"size": null,ntt"state": "active",ntt"hash":
+    "",ntt"description": "OMLER.003",ntt"format": "application/octet-stream",ntt"tracking_summary":
+    {nttt"total": 0,nttt"recent": 0ntt},ntt"mimetype_inner": null,ntt"revision_id":
+    "26cce3e6-f1c4-44dc-9111-33e5b7486d2f",ntt"mimetype": "application/octet-stream",ntt"cache_url":
+    null,ntt"name": "Web Page",ntt"created": "2015-07-08T15:19:54.888392",ntt"url":
+    "ftp://acdisc.gsfc.nasa.gov/data/s4pa/Aura_OMI_Level3/OMLER.003/",ntt"webstore_url":
+    null,ntt"last_modified": null,ntt"position": 0,ntt"no_real_name":
+    true,ntt"resource_type": nullnt}],nt"num_resources": 1,nt"tags":
+    [{ntt"vocabulary_id": null,ntt"display_name": "atmosphere",ntt"name":
+    "atmosphere",ntt"revision_timestamp": "2014-10-08T03:11:24.920392",ntt"state":
+    "active",ntt"id": "104e93c2-cbec-435b-b3ba-0d6385114d41"nt},nt{ntt"vocabulary_id":
+    null,ntt"display_name": "atmospheric-radiation",ntt"name": "atmospheric-radiation",ntt"revision_timestamp":
+    "2014-10-08T03:11:24.920392",ntt"state": "active",ntt"id": "01c7a3ac-d116-4ff3-ae9f-0b8cbec245fa"nt},nt{ntt"vocabulary_id":
+    null,ntt"display_name": "earth-science",ntt"name": "earth-science",ntt"revision_timestamp":
+    "2014-10-08T03:11:24.920392",ntt"state": "active",ntt"id": "f28006f8-df78-4700-b72f-f4a19628ba67"nt}],nt"title":
+    "OMI/Aura Surface Reflectance Climatology Level 3 Global 0.5deg Lat/Lon Grid V003",nt"tracking_summary":
+    {ntt"total": 12,ntt"recent": 0nt},nt"groups": [],nt"relationships_as_subject":
+    [],nt"revision_timestamp": "2015-07-08T19:19:54.804518",nt"name": "omi-aura-surface-reflectance-climatology-level-3-global-0-5deg-lat-lon-grid-v003",nt"isopen":
+    true,nt"url": null,nt"notes": "The OMI Earth Surface Reflectance Climatology
+    product, OMLER (Global 0.5deg Lat/Lon grid) which is based on Version 003 Level-1B
+    top of atmosphere upwelling radiance and incoming irradiance, is now available (
+    http://disc.gsfc.nasa.gov/Aura/OMI/omler_v003.shtml ) from the NASA Goddard Earth
+    Sciences Data and Information Services Center (GES DISC). n                        nOMI
+    calibrated and geolocated radiances from 159 channels in UV1(264-311 nm), 557 channels
+    in UV2 (307-383 nm) and 751 channels in VIS (349-504) spectral  regions, spectral
+    irradiances, calibration measurements, and all derived geophysical atmospheric products
+    (Level-2 and 3) are archived at the NASA Goddard DAAC.n                              n(The
+    shortname for this OMI Level-3 Product is OMLER) nThe lead algorithm scientists
+    for this product are KNMI scientists Dr. Quintus Kleipool and Dr. Marcel Dobber.
+         n                              nOMLER spectral surface reflectance product
+    contains monthly and yearly climatology of the Earth's surface Lambert Equivalent
+    Reflectance (LER) for 23 wavelengths in the spectral range 309 to 500 nm, at a spatial
+    resolution of 0.5 by 0.5 degrees. This LER is defined as the required reflectance
+    of an isotropic surface needed to match the observed top of the atmosphere (TOA)
+    reflectance in a pure Rayleigh scattering atmosphere under cloud free conditions
+    and no aerosols. The climatology is based on statistical analysis of the three years
+    of OMI version 03 radiance data (Oct 2004-Oct 2007).  This product also provides
+    minimum spectral surface reflectivity observed for each 0.5 deg Lat/Lon grid during
+    the three years period. n                         nThe OMLER product file is produced
+    in Hierarchical Data Format (HDF-EOS5). It is roughly 300 MB in size. For browsing
+    and extracting data from Aura data files, some software and tools have been made
+    available from the Aura GES DISC tools site:    http://disc.gsfc.nasa.gov/Aura/tools.shtmln
+                           nA Readme document containing brief algorithm description
+    and file spec provided by the OMLER Algorithm lead is available from the GES DISC
+    data product site  http://disc.gsfc.nasa.gov/Aura/OMI/omler_v003.shtml",nt"license_title":
+    "U.S. Government Work",nt"extras": [{ntt"key": "harvest_source_id",ntt"value":
+    "39e4ad2a-47ca-4507-8258-852babd0fd99"nt},nt{ntt"key": "collection_metadata",ntt"value":
+    "true"nt},nt{ntt"key": "issued",ntt"value": "2008-09-08T00:00:00.000Z"nt},nt{ntt"key":
+    "resource-type",ntt"value": "Dataset"nt},nt{ntt"key": "source_hash",ntt"value":
+    "65e83defb6e830909b47b55899d2002d7badc59b"nt},nt{ntt"key": "accessLevel",ntt"value":
+    "public"nt},nt{ntt"key": "temporal",ntt"value": "2005-01-01T00:00:00Z/2009-12-31T23:59:59Z"nt},nt{ntt"key":
+    "theme",ntt"value": ["geospatial"]nt},nt{ntt"key": "spatial",ntt"value":
+    "-180.0 -90.0 180.0 90.0"nt},nt{ntt"key": "catalog_conformsTo",ntt"value":
+    "https://project-open-data.cio.gov/v1.1/schema"nt},nt{ntt"key": "catalog_@context",ntt"value":
+    "https://project-open-data.cio.gov/v1.1/schema/catalog.jsonld"nt},nt{ntt"key":
+    "catalog_describedBy",ntt"value": "https://project-open-data.cio.gov/v1.1/schema/catalog.json"nt},nt{ntt"key":
+    "harvest_source_title",ntt"value": "NASA Data.json"nt},nt{ntt"key":
+    "source_schema_version",ntt"value": "1.1"nt},nt{ntt"key": "programCode",ntt"value":
+    ["026:001"]nt},nt{ntt"key": "bureauCode",ntt"value": ["026:00"]nt},nt{ntt"key":
+    "metadata_type",ntt"value": "geospatial"nt},nt{ntt"key": "landingPage",ntt"value":
+    "http://reverb.echo.nasa.gov/reverb?selected=C180129150-GSFCS4PA"nt},nt{ntt"key":
+    "harvest_object_id",ntt"value": "a0003948-f543-4617-8f4b-3eb23ee02a7f"nt},nt{ntt"key":
+    "publisher",ntt"value": "GESDISC"nt},nt{ntt"key": "_id",ntt"value":
+    {nttt"$oid": "55942a71c63a7fe59b496e8e"ntt}nt},nt{ntt"key":
+    "license",ntt"value": "http://www.usa.gov/publicdomain/label/1.0/"nt},nt{ntt"key":
+    "language",ntt"value": ["en-US"]nt},nt{ntt"key": "publisher_hierarchy",ntt"value":
+    "U.S. Government > National Aeronautics and Space Administration > GESDISC"nt},nt{ntt"key":
+    "modified",ntt"value": "2015-06-04T00:00:00.000Z"nt},nt{ntt"key":
+    "source_datajson_identifier",ntt"value": truent},nt{ntt"key": "accrualPeriodicity",ntt"value":
+    "irregular"nt},nt{ntt"key": "identifier",ntt"value": "C180129150-GSFCS4PA"nt},nt{ntt"state":
+    "active",ntt"key": "harvest_object_id",ntt"value": "a0003948-f543-4617-8f4b-3eb23ee02a7f"nt},nt{ntt"state":
+    "active",ntt"key": "harvest_source_id",ntt"value": "39e4ad2a-47ca-4507-8258-852babd0fd99"nt},nt{ntt"state":
+    "active",ntt"key": "harvest_source_title",ntt"value": "NASA Data.json"nt}],nt"license_url":
+    "http://www.usa.gov/publicdomain/label/1.0/",nt"organization": {ntt"description":
+    "NASA's vision: To reach for new heights and reveal the unknown so that what we
+    do and learn will benefit all humankind.rnrnTo do that, thousands of people have
+    been working around the world -- and off of it -- for 50 years, trying to answer
+    some basic questions. What's out there in space? How do we get there? What will
+    we find? What can we learn there, or learn just by trying to get there, that will
+    make life better here on Earth?rnrnNASA conducts its work in four principal organizations,
+    called mission directorates:rn rnAeronautics: works to solve the challenges that
+    still exist in our nation's air transportation system: air traffic congestion, safety
+    and environmental impacts.rnrnHuman Exploration and Operations: focuses on International
+    Space Station operations, development of commercial spaceflight opportunities and
+    human exploration beyond low Earth orbit.rnrnScience: explores the Earth, solar
+    system and universe beyond; charts the best route of discovery; and reaps the benefits
+    of Earth and space exploration for society.rnrnSpace Technology: rapidly develops,
+    demonstrates, and infuses revolutionary, high-payoff technologies, expanding the
+    boundaries of the aerospace enterprise.rnrnIn the early 21st century, NASA's reach
+    spans the universe. The Mars rover Curiosity is still exploring Mars to see if it
+    might once have had environments suitable for life. Cassini is in orbit around Saturn,
+    as Juno makes its way to Jupiter. The restored Hubble Space Telescope continues
+    to explore the deepest reaches of the cosmos as NASA developes the James Webb Space
+    Telescope.rnrnCloser to home, the latest crew of the International Space Station
+    is extending the permanent human presence in space. With commercial partners such
+    as SpaceX, NASA is helping to foster the development of private-sector aerospace.rnrnEarth
+    science satellites are sending back unprecedented data on Earth's oceans, climate
+    and other features. NASA's aeronautics team is working with other government organizations,
+    universities, and industry to fundamentally improve the air transportation experience
+    and retain our nation's leadership in global aviation.",ntt"created": "2013-03-14T03:44:44.467521",ntt"title":
+    "National Aeronautics and Space Administration",ntt"name": "nasa-gov",ntt"revision_timestamp":
+    "2013-08-20T16:04:52.563777",ntt"is_organization": true,ntt"state":
+    "active",ntt"image_url": "http://polargateways2008.gsfc.nasa.gov/images/LOGO_2in/NASA_2.jpg",ntt"revision_id":
+    "7f05110b-681a-402c-a372-74500dc583dd",ntt"type": "organization",ntt"id":
+    "d8a6202b-c0c3-463d-88a0-3bc021a178ed",ntt"approval_status": "approved"nt},nt"revision_id":
+    "375e2702-3550-40c1-9f8b-bd87c03f3fbf"n}"

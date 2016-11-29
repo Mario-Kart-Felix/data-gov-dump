@@ -1,0 +1,127 @@
+|-
+  "{nt"owner_org": "d8a6202b-c0c3-463d-88a0-3bc021a178ed",nt"maintainer":
+    "JAY HERMAN, PH. D",nt"relationships_as_object": [],nt"private": false,nt"maintainer_email":
+    "Jay.R.Herman@nasa.gov",nt"num_tags": 3,nt"id": "47e359b9-3945-4d44-b06c-ace2cbfad4a6",nt"metadata_created":
+    "2014-10-08T03:10:03.785263",nt"metadata_modified": "2015-07-08T19:18:37.202690",nt"author":
+    null,nt"author_email": null,nt"state": "active",nt"version": null,nt"license_id":
+    "us-pd",nt"type": "dataset",nt"resources": [{ntt"resource_group_id":
+    "10650472-a58c-487c-9335-fd34c18acfc7",ntt"cache_last_updated": null,ntt"revision_timestamp":
+    "2015-07-08T19:18:37.202690",ntt"webstore_last_updated": null,ntt"id":
+    "104dca6b-e311-45a7-bd1a-b30714a00283",ntt"size": null,ntt"state": "active",ntt"hash":
+    "",ntt"description": "",ntt"format": "HTML",ntt"tracking_summary":
+    {nttt"total": 0,nttt"recent": 0ntt},ntt"mimetype_inner": null,ntt"revision_id":
+    "f31aec3b-cd63-43af-a5ae-f4a033154a1c",ntt"mimetype": "text/html",ntt"cache_url":
+    null,ntt"name": "Web Page",ntt"created": "2014-10-07T23:10:03.914634",ntt"url":
+    "http://reverb.echo.nasa.gov/reverb?selected=C205967747-GSFCS4PA",ntt"webstore_url":
+    null,ntt"last_modified": null,ntt"position": 0,ntt"no_real_name":
+    true,ntt"resource_type": nullnt}],nt"num_resources": 1,nt"tags":
+    [{ntt"vocabulary_id": null,ntt"display_name": "atmosphere",ntt"name":
+    "atmosphere",ntt"revision_timestamp": "2014-10-08T03:10:03.785263",ntt"state":
+    "active",ntt"id": "104e93c2-cbec-435b-b3ba-0d6385114d41"nt},nt{ntt"vocabulary_id":
+    null,ntt"display_name": "atmospheric-radiation",ntt"name": "atmospheric-radiation",ntt"revision_timestamp":
+    "2014-10-08T03:10:03.785263",ntt"state": "active",ntt"id": "01c7a3ac-d116-4ff3-ae9f-0b8cbec245fa"nt},nt{ntt"vocabulary_id":
+    null,ntt"display_name": "earth-science",ntt"name": "earth-science",ntt"revision_timestamp":
+    "2014-10-08T03:10:03.785263",ntt"state": "active",ntt"id": "f28006f8-df78-4700-b72f-f4a19628ba67"nt}],nt"title":
+    "Multi-Satellite Lambertian Equivalent Reflectivity (Local Satellite Time) Daily
+    L3 Global 5.0deg Lat Zones V1",nt"tracking_summary": {ntt"total": 6,ntt"recent":
+    0nt},nt"groups": [],nt"relationships_as_subject": [],nt"revision_timestamp":
+    "2015-05-07T04:14:15.218945",nt"name": "multi-satellite-lambertian-equivalent-reflectivity-local-satellite-time-daily-l3-global-5-",nt"isopen":
+    true,nt"url": null,nt"notes": "The Multi-Satellite Lambertian Equivalent
+    Reflectivity (Local Satellite Time) Daily L3 Global 5.0deg Lat Zones data product
+    (MSLERLSTL3zm) is derived from observations made by the Nimbus-7 SBUV, and NOAA
+    9, 11, 14, 16, 17, 18, 19 SBUV/2 instruments (340 nm), Nimbus-7 and Earth Probe
+    TOMS (331 nm), OMI (340 nm) and SeaWiFS (412 nm) from 1978 to 2011. The Local Satellite
+    Time (LST) data are uncorrected for the drift of the local equator crossing time
+    of the spacecraft. The table below lists the date ranges for each instrument (note
+    A = ascending node, D = descending node):nnInstrument            Start Date    End
+    Daten------------------    ----------    ----------nNimbus-7 SBUV         1978-11-01
+       1990-06-21nNOAA-9 SBUV/2  (A)    1985-02-02    1991-09-03nNOAA-9 SBUV/2  (D)
+       1990-04-25    1997-05-31nNOAA-11 SBUV/2 (A)    1988-12-01    1995-03-31nNOAA-11
+    SBUV/2 (D)    1997-07-15    2001-03-26nNOAA-14 SBUV/2 (A)    1995-02-05    2002-09-11nNOAA-14
+    SBUV/2 (D)    2002-04-09    2006-09-28nNOAA-16 SBUV/2 (A)    2000-10-03    2009-09-15nNOAA-16
+    SBUV/2 (D)    2008-04-28    2012-12-31nNOAA-17 SBUV/2        2002-07-10    2012-12-31nNOAA-18
+    SBUV/2        2005-06-05    2012-12-12nNimbus-7 TOMS         1978-11-01    1993-05-06nEarthProbe
+    TOMS       1996-07-25    2004-06-21nAura OMI              2005-01-01    2008-12-31nSeaStar
+    SeaWiFS       1998-01-01    2008-12-30nnThe scene reflectivities of the Earth at
+    blue and ultraviolet (UV) wavelengths (320 nm to 415 nm) are low over most surfaces
+    (except ice and snow), and are almost independent of the seasonal changes in vegetation
+    on land and in the oceans. This makes it ideal for examining changes in radiation
+    reflected back to space from changes in cloud and aerosol amounts, especially as
+    affected by the start of climate change.nnThe MSLERLSTL3zm data are archived in
+    the HDF-EOS5 file format using the Zonal Average (ZA) model. The product consists
+    of a single data file representing the entire data set containing the individual
+    instrument data in separate time versus latitude arrays. Each data array contains
+    attributes describing the variable, and the file contains metadata stored in the
+    HDFEOS file attribute section.nnParameters contained in the data files include the
+    following:nVariable Name|Description|UnitsnLER340_Nimbus7_SBUV|LER at 340 nm from
+    Nimbus-7 SBUV|%nLER340_NOAA09_SBUV2a|LER at 340 nm from NOAA-9 SBUV/2 Ascending|%nLER340_NOAA09_SBUV2d|LER
+    at 340 nm from NOAA-9 SBUV/2 Descending|%nLER340_NOAA11_SBUV2a|LER at 340 nm from
+    NOAA-11 SBUV/2 Ascending|%nLER340_NOAA11_SBUV2d|LER at 340 nm from NOAA-11 SBUV/2
+    Descending|%nLER340_NOAA14_SBUV2a|LER at 340 nm from NOAA-14 SBUV/2 Ascending|%nLER340_NOAA14_SBUV2d|LER
+    at 340 nm from NOAA-14 SBUV/2 Descending|%nLER340_NOAA16_SBUV2a|LER at 340 nm from
+    NOAA-16 SBUV/2 Ascending|%nLER340_NOAA16_SBUV2d|LER at 340 nm from NOAA-16 SBUV/2
+    Descending|%nLER340_NOAA17_SBUV2|LER at 340 nm from NOAA-17 SBUV/2|%nLER340_NOAA18_SBUV2|LER
+    at 340 nm from NOAA-18 SBUV/2|%nLER331_Nimbus7_TOMS|LER at 331 nm from Nimbus-7
+    TOMS|%nLER331_EarthProbe_TOMS|LER at 331 nm from Earth Probe TOMS|%nLER340_Aura_OMI|LER
+    at 340 nm from EOS-Aura OMI|%nLER412_SeaStar_SeaWiFS|LER at 412 nm from SeaStar
+    SeaWiFS|%nEnd of parameter informationn",nt"license_title": "U.S. Government
+    Work",nt"extras": [{ntt"key": "harvest_source_id",ntt"value": "39e4ad2a-47ca-4507-8258-852babd0fd99"nt},nt{ntt"key":
+    "issued",ntt"value": "2012-05-23T00:00:00.000Z"nt},nt{ntt"key":
+    "resource-type",ntt"value": "Dataset"nt},nt{ntt"key": "references",ntt"value":
+    ["ftp://measures.ecs.nasa.gov/data/s4pa/LER/MSLERLSTL3zm.1/",ntt"ftp://measures.gsfc.nasa.gov/data/s4pa/LER/MSLERLSTL3zm.1.00/doc/README.MSLERL3zm.pdf",ntt"http://disc.sci.gsfc.nasa.gov/daac-bin/DataHoldingsMEASURES.pl?PROGRAM_List=JayHerman",ntt"http://measures.gsfc.nasa.gov/opendap/LER/MSLERLSTL3zm.1/catalog.xml",ntt"http://mirador.gsfc.nasa.gov/cgi-bin/mirador/homepageAlt.pl?keyword=MSLERLSTL3zm",ntt"http://reverb.echo.nasa.gov/reverb/#utf8=%E2%9C%93&amp;spatial_map=satellite&amp;spatial_type=rectangle&amp;keywords=GES_DISC_MSLERLSTL3zm_V1"]nt},nt{ntt"key":
+    "source_hash",ntt"value": "6bb954bd5da076f1cfe1e591bb560f5a1aaaba8a"nt},nt{ntt"key":
+    "accessLevel",ntt"value": "public"nt},nt{ntt"key": "temporal",ntt"value":
+    "1978-11-02T00:00:00.000Z/2012-12-31T23:59:59.999Z"nt},nt{ntt"key": "theme",ntt"value":
+    ["EOSDIS",ntt"ESIP",ntt"MEASURES"]nt},nt{ntt"key": "spatial",ntt"value":
+    "-180.0, -80.0, 180.0, 80.0"nt},nt{ntt"key": "catalog_conformsTo",ntt"value":
+    "https://project-open-data.cio.gov/v1.1/schema"nt},nt{ntt"key": "catalog_@context",ntt"value":
+    "https://project-open-data.cio.gov/v1.1/schema/catalog.jsonld"nt},nt{ntt"key":
+    "catalog_describedBy",ntt"value": "https://project-open-data.cio.gov/v1.1/schema/catalog.json"nt},nt{ntt"key":
+    "harvest_source_title",ntt"value": "NASA Data.json"nt},nt{ntt"key":
+    "source_schema_version",ntt"value": "1.1"nt},nt{ntt"key": "programCode",ntt"value":
+    ["026:001"]nt},nt{ntt"key": "bureauCode",ntt"value": ["026:00"]nt},nt{ntt"key":
+    "landingPage",ntt"value": "http://reverb.echo.nasa.gov/reverb?selected=C205967747-GSFCS4PA"nt},nt{ntt"key":
+    "harvest_object_id",ntt"value": "0028c675-dc9c-45c6-a662-77f9e0a11465"nt},nt{ntt"key":
+    "publisher",ntt"value": "National Aeronautics and Space Administration"nt},nt{ntt"key":
+    "identifier",ntt"value": "C205967747-GSFCS4PA"nt},nt{ntt"key":
+    "license",ntt"value": "http://www.usa.gov/publicdomain/label/1.0/"nt},nt{ntt"key":
+    "language",ntt"value": ["en-US"]nt},nt{ntt"key": "modified",ntt"value":
+    "2014-05-12T00:00:00.000Z"nt},nt{ntt"key": "source_datajson_identifier",ntt"value":
+    truent},nt{ntt"key": "accrualPeriodicity",ntt"value": "irregular"nt},nt{ntt"key":
+    "_id",ntt"value": {nttt"$oid": "55942a6ec63a7fe59b496bf5"ntt}nt},nt{ntt"state":
+    "active",ntt"key": "harvest_object_id",ntt"value": "0028c675-dc9c-45c6-a662-77f9e0a11465"nt},nt{ntt"state":
+    "active",ntt"key": "harvest_source_id",ntt"value": "39e4ad2a-47ca-4507-8258-852babd0fd99"nt},nt{ntt"state":
+    "active",ntt"key": "harvest_source_title",ntt"value": "NASA Data.json"nt}],nt"license_url":
+    "http://www.usa.gov/publicdomain/label/1.0/",nt"organization": {ntt"description":
+    "NASA's vision: To reach for new heights and reveal the unknown so that what we
+    do and learn will benefit all humankind.rnrnTo do that, thousands of people have
+    been working around the world -- and off of it -- for 50 years, trying to answer
+    some basic questions. What's out there in space? How do we get there? What will
+    we find? What can we learn there, or learn just by trying to get there, that will
+    make life better here on Earth?rnrnNASA conducts its work in four principal organizations,
+    called mission directorates:rn rnAeronautics: works to solve the challenges that
+    still exist in our nation's air transportation system: air traffic congestion, safety
+    and environmental impacts.rnrnHuman Exploration and Operations: focuses on International
+    Space Station operations, development of commercial spaceflight opportunities and
+    human exploration beyond low Earth orbit.rnrnScience: explores the Earth, solar
+    system and universe beyond; charts the best route of discovery; and reaps the benefits
+    of Earth and space exploration for society.rnrnSpace Technology: rapidly develops,
+    demonstrates, and infuses revolutionary, high-payoff technologies, expanding the
+    boundaries of the aerospace enterprise.rnrnIn the early 21st century, NASA's reach
+    spans the universe. The Mars rover Curiosity is still exploring Mars to see if it
+    might once have had environments suitable for life. Cassini is in orbit around Saturn,
+    as Juno makes its way to Jupiter. The restored Hubble Space Telescope continues
+    to explore the deepest reaches of the cosmos as NASA developes the James Webb Space
+    Telescope.rnrnCloser to home, the latest crew of the International Space Station
+    is extending the permanent human presence in space. With commercial partners such
+    as SpaceX, NASA is helping to foster the development of private-sector aerospace.rnrnEarth
+    science satellites are sending back unprecedented data on Earth's oceans, climate
+    and other features. NASA's aeronautics team is working with other government organizations,
+    universities, and industry to fundamentally improve the air transportation experience
+    and retain our nation's leadership in global aviation.",ntt"created": "2013-03-14T03:44:44.467521",ntt"title":
+    "National Aeronautics and Space Administration",ntt"name": "nasa-gov",ntt"revision_timestamp":
+    "2013-08-20T16:04:52.563777",ntt"is_organization": true,ntt"state":
+    "active",ntt"image_url": "http://polargateways2008.gsfc.nasa.gov/images/LOGO_2in/NASA_2.jpg",ntt"revision_id":
+    "7f05110b-681a-402c-a372-74500dc583dd",ntt"type": "organization",ntt"id":
+    "d8a6202b-c0c3-463d-88a0-3bc021a178ed",ntt"approval_status": "approved"nt},nt"revision_id":
+    "5f50535d-56e4-443f-9f30-92c8974ccd6b"n}"

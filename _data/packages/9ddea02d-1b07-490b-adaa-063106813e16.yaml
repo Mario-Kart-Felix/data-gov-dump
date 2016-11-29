@@ -1,0 +1,88 @@
+"{\n\t\"owner_org\": \"6bfa9b1b-ca6e-471f-aaef-ca8f2c26769b\",\n\t\"maintainer\":
+  null,\n\t\"relationships_as_object\": [],\n\t\"private\": false,\n\t\"maintainer_email\":
+  null,\n\t\"num_tags\": 0,\n\t\"id\": \"9ddea02d-1b07-490b-adaa-063106813e16\",\n\t\"metadata_created\":
+  \"2013-03-28T01:14:28.903985\",\n\t\"metadata_modified\": \"2015-04-09T21:29:31.347006\",\n\t\"author\":
+  null,\n\t\"author_email\": null,\n\t\"state\": \"active\",\n\t\"version\": null,\n\t\"license_id\":
+  null,\n\t\"type\": \"dataset\",\n\t\"resources\": [{\n\t\t\"resource_group_id\":
+  \"e2a34310-46e5-4a94-a435-593dc9ebad9c\",\n\t\t\"cache_last_updated\": null,\n\t\t\"revision_timestamp\":
+  \"2015-04-09T21:29:31.347006\",\n\t\t\"webstore_last_updated\": null,\n\t\t\"id\":
+  \"212ccd72-7581-4b0f-8e55-b6babdc2eaf4\",\n\t\t\"size\": null,\n\t\t\"state\": \"active\",\n\t\t\"last_modified\":
+  null,\n\t\t\"hash\": \"\",\n\t\t\"description\": \"\",\n\t\t\"format\": \"\",\n\t\t\"tracking_summary\":
+  {\n\t\t\t\"total\": 31,\n\t\t\t\"recent\": 2\n\t\t},\n\t\t\"mimetype_inner\": null,\n\t\t\"resource_locator_protocol\":
+  \"\",\n\t\t\"revision_id\": \"fe955331-bca0-48f4-b883-11590957ecac\",\n\t\t\"mimetype\":
+  null,\n\t\t\"cache_url\": null,\n\t\t\"name\": \"Web Page\",\n\t\t\"created\": \"2013-03-28T02:14:28.924381\",\n\t\t\"url\":
+  \"ftp://mgssun6.umn.edu/dex/fullset/\",\n\t\t\"webstore_url\": null,\n\t\t\"resource_locator_function\":
+  \"\",\n\t\t\"position\": 0,\n\t\t\"no_real_name\": \"True\",\n\t\t\"resource_type\":
+  null\n\t}],\n\t\"num_resources\": 1,\n\t\"tags\": [],\n\t\"title\": \"1:100k Digital
+  Raster Graphic - Collars Removed\",\n\t\"tracking_summary\": {\n\t\t\"total\": 115,\n\t\t\"recent\":
+  0\n\t},\n\t\"groups\": [{\n\t\t\"capacity\": \"public\",\n\t\t\"description\": \"Local
+  Government Topic - for all datasets with state, local, county organizations\",\n\t\t\"created\":
+  \"2015-04-06T16:22:44.896030\",\n\t\t\"title\": \"Local Government\",\n\t\t\"name\":
+  \"local\",\n\t\t\"is_organization\": false,\n\t\t\"state\": \"active\",\n\t\t\"image_url\":
+  \"\",\n\t\t\"revision_id\": \"a44b1716-9f9d-4db9-9b8e-321769eb8f69\",\n\t\t\"type\":
+  \"group\",\n\t\t\"id\": \"ccc6c266-eee8-44bd-89aa-7cd8c4c6bf46\",\n\t\t\"approval_status\":
+  \"approved\"\n\t}],\n\t\"relationships_as_subject\": [],\n\t\"revision_timestamp\":
+  \"2013-03-28T01:14:28.903985\",\n\t\"name\": \"1-100k-digital-raster-graphic-collars-removed\",\n\t\"isopen\":
+  false,\n\t\"url\": null,\n\t\"notes\": \"A digital raster graphic (DRG) is a scanned
+  image of an U.S. Geological Survey (USGS) standard series topographic map, including
+  all map collar information. The image inside the map neatline is georeferenced to
+  the surface of the earth and fit to the Universal Transverse Mercator projection.
+  The horizontal positional accuracy and datum of the DRG matches the accuracy and
+  datum of the source map. The map is scanned at a minimum resolution of 250 dots
+  per inch. DRG's are created by scanning published paper maps on high-resolution
+  scanners. The raster image is georeferenced and fit to the UTM projection. Colors
+  are standardized to remove scanner limitations and artifacts. The average data set
+  size is about 6 megabytes in Tagged Image File Format (TIFF) with PackBits compression.
+  DRG's can be easily combined with other digital cartographic products such as digital
+  elevation models (DEM) and digital orthophoto quadrangles (DOQ). DRG's are stored
+  as rectified TIFF files in geoTIFF format. GeoTIFF is a relatively new TIFF image
+  storage format that incorporates georeferencing information in the header. This
+  allows software, such as ArcView, ARC/INFO, or EPPL7 to reference the image without
+  an additional header or world file. Within the Minnesota Department of Natural Resources
+  Core GIS data set the DRG's have been processed to be in compliance with departmental
+  data standards (UTM Extended Zone 15, NAD83 datum) and the map collar information
+  has been removed to facilitate the display of the DRG's in a seamless fashion. These
+  DRG's were clipped and transformed to UTM Zone 15 using EPPL7 Raster GIS.\",\n\t\"license_title\":
+  null,\n\t\"extras\": [{\n\t\t\"key\": \"bbox-east-long\",\n\t\t\"value\": \"-89\"\n\t},\n\t{\n\t\t\"key\":
+  \"contact-email\",\n\t\t\"value\": \"hal.watson@state.mn.us\"\n\t},\n\t{\n\t\t\"key\":
+  \"metadata-language\",\n\t\t\"value\": \"\"\n\t},\n\t{\n\t\t\"key\": \"bbox-west-long\",\n\t\t\"value\":
+  \"-97.5\"\n\t},\n\t{\n\t\t\"key\": \"metadata-date\",\n\t\t\"value\": \"9999-01-01\"\n\t},\n\t{\n\t\t\"key\":
+  \"dataset-reference-date\",\n\t\t\"value\": \"[{\"type\": \"publication\", \"value\":
+  \"9999-01-01\"}]\"\n\t},\n\t{\n\t\t\"key\": \"resource-type\",\n\t\t\"value\": \"dataset\"\n\t},\n\t{\n\t\t\"key\":
+  \"bbox-north-lat\",\n\t\t\"value\": \"49.5\"\n\t},\n\t{\n\t\t\"key\": \"spatial-reference-system\",\n\t\t\"value\":
+  \"\"\n\t},\n\t{\n\t\t\"key\": \"coupled-resource\",\n\t\t\"value\": \"[]\"\n\t},\n\t{\n\t\t\"key\":
+  \"bbox-south-lat\",\n\t\t\"value\": \"43\"\n\t},\n\t{\n\t\t\"key\": \"licence\",\n\t\t\"value\":
+  \"[\"The Minnesota Department of Natural Resources makes no representation or warranties,
+  express or implied, with respect to the reuse of data provided herewith, regardless
+  of its format or the means of its transmission. There is no guarantee or representation
+  to the user as to the accuracy, currency, suitability, or reliability of this data
+  for any purpose. The user accepts the data 'as is', and assumes all risks associated
+  with its use. By accepting this data, the user agrees not to transmit this data
+  or provide access to it or any part of it to another party unless the user shall
+  include with the data a copy of this disclaimer. The Minnesota Department of Natural
+  Resources assumes no responsibility for actual or consequential damage incurred
+  as a result of any user's reliance on this data.\"]\"\n\t},\n\t{\n\t\t\"key\": \"metadata_type\",\n\t\t\"value\":
+  \"geospatial\"\n\t},\n\t{\n\t\t\"key\": \"responsible-party\",\n\t\t\"value\": \"[{\"name\":
+  \"DNR-MIS\", \"roles\": [\"pointOfContact\"]}]\"\n\t},\n\t{\n\t\t\"key\": \"spatial\",\n\t\t\"value\":
+  \"{\"type\": \"Polygon\", \"coordinates\": [[[-97.5, 43.0], [-97.5, 49.5], [-89.0,
+  49.5], [-89.0, 43.0], [-97.5, 43.0]]]}\"\n\t},\n\t{\n\t\t\"key\": \"guid\",\n\t\t\"value\":
+  \"\"\n\t},\n\t{\n\t\t\"key\": \"spatial-data-service-type\",\n\t\t\"value\": \"\"\n\t},\n\t{\n\t\t\"key\":
+  \"access_constraints\",\n\t\t\"value\": \"[\"Use Constraints: None. Acknowledgment
+  of the U.S. Geological Survey and the Minnesota Department of Natural Resources
+  would be appreciated in products derived from these data.\", \"Access Constraints:
+  None\"]\"\n\t},\n\t{\n\t\t\"key\": \"graphic-preview-file\",\n\t\t\"value\": \"http://jmaps.dnr.state.mn.us/gis/dp_datasample.jsp?mpid=38000002&ptid=9&fcid=6&lname=1:100k
+  Digital Raster Graphic - Collars Removed\"\n\t},\n\t{\n\t\t\"key\": \"frequency-of-update\",\n\t\t\"value\":
+  \"\"\n\t},\n\t{\n\t\t\"package_id\": \"9ddea02d-1b07-490b-adaa-063106813e16\",\n\t\t\"value\":
+  \"DRG, TIFF, Digital Raster Graphic, Topographic Map, imageryBaseMapsEarthCover\",\n\t\t\"revision_timestamp\":
+  \"2013-05-17T00:00:00\",\n\t\t\"state\": \"active\",\n\t\t\"key\": \"tags\",\n\t\t\"revision_id\":
+  \"496b954e-68ce-452b-9872-1d0c184c5027\",\n\t\t\"id\": \"67a2f92a-9d07-4501-a84b-026795e5ea41\"\n\t},\n\t{\n\t\t\"state\":
+  \"active\",\n\t\t\"key\": \"harvest_object_id\",\n\t\t\"value\": \"b0e6a495-1b1a-48aa-9a7c-6451e5aa9849\"\n\t},\n\t{\n\t\t\"state\":
+  \"active\",\n\t\t\"key\": \"harvest_source_id\",\n\t\t\"value\": \"5546934e-bbe0-4cff-8926-e70aebfc97cb\"\n\t},\n\t{\n\t\t\"state\":
+  \"active\",\n\t\t\"key\": \"harvest_source_title\",\n\t\t\"value\": \"Minnesota
+  DNR\"\n\t}],\n\t\"organization\": {\n\t\t\"description\": \"\",\n\t\t\"created\":
+  \"2013-03-14T03:44:37.617845\",\n\t\t\"title\": \"Minnesota Department of Natural
+  Resources\",\n\t\t\"name\": \"dnr-state-mn-us\",\n\t\t\"revision_timestamp\": \"2013-03-21T17:53:31.532555\",\n\t\t\"is_organization\":
+  true,\n\t\t\"state\": \"active\",\n\t\t\"image_url\": \"http://www.naturalinnovations.org/eeresourceguide/images/mn_dnr_logo.gif\",\n\t\t\"revision_id\":
+  \"a4813d04-e782-48ad-bd72-dd87a4899e84\",\n\t\t\"type\": \"organization\",\n\t\t\"id\":
+  \"6bfa9b1b-ca6e-471f-aaef-ca8f2c26769b\",\n\t\t\"approval_status\": \"approved\"\n\t},\n\t\"revision_id\":
+  \"496b954e-68ce-452b-9872-1d0c184c5027\"\n}"

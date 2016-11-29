@@ -1,0 +1,99 @@
+|-
+  "{nt"owner_org": "735d0118-b2a7-4246-a0e3-608b0fa8d1ec",nt"maintainer":
+    "Nicholas Langle",nt"relationships_as_object": [],nt"private": false,nt"maintainer_email":
+    "nicholas.langle@nrel.gov",nt"num_tags": 7,nt"id": "041a7e97-2099-426f-ae62-397b0f5590a8",nt"metadata_created":
+    "2015-02-23T20:18:58.863341",nt"metadata_modified": "2015-09-01T18:20:24.077907",nt"author":
+    null,nt"author_email": null,nt"state": "active",nt"version": null,nt"license_id":
+    "cc-zero",nt"type": "dataset",nt"resources": [{ntt"resource_group_id":
+    "03478ec3-f0ab-4db1-ac14-a5a12998b14b",ntt"cache_last_updated": null,ntt"revision_timestamp":
+    "2015-02-23T20:18:58.863341",ntt"webstore_last_updated": null,ntt"id":
+    "1c28b22a-c383-4736-ab49-eabbe33348b1",ntt"size": null,ntt"state": "active",ntt"hash":
+    "",ntt"description": "OTEC summer average delta T",ntt"format": "ZIP",ntt"tracking_summary":
+    {nttt"total": 0,nttt"recent": 0ntt},ntt"mimetype_inner": null,ntt"mimetype":
+    "application/zip",ntt"cache_url": null,ntt"name": "OTEC summer average
+    delta T",ntt"created": "2015-02-23T15:18:59.324613",ntt"url": "http://en.openei.org/doe-opendata/dataset/d25e035d-0706-4449-83f9-f73dbc2a4f9b/resource/393215d4-1ae3-403a-bc2e-69452eed5127/download/dtsum.zip",ntt"webstore_url":
+    null,ntt"last_modified": null,ntt"position": 0,ntt"revision_id":
+    "66fb4f3a-93ca-45d7-b9b7-6aeb53c7baf0",ntt"resource_type": nullnt}],nt"num_resources":
+    1,nt"tags": [{ntt"vocabulary_id": null,ntt"display_name": "delta-t",ntt"name":
+    "delta-t",ntt"revision_timestamp": "2015-02-23T20:18:58.863341",ntt"state":
+    "active",ntt"id": "670e67b3-b757-456a-a273-34307f4ddb61"nt},nt{ntt"vocabulary_id":
+    null,ntt"display_name": "hydrokinetic",ntt"name": "hydrokinetic",ntt"revision_timestamp":
+    "2015-02-23T20:18:58.863341",ntt"state": "active",ntt"id": "87031483-72d6-457d-9dd2-3e403f2849aa"nt},nt{ntt"vocabulary_id":
+    null,ntt"display_name": "ocean",ntt"name": "ocean",ntt"revision_timestamp":
+    "2015-02-23T20:18:58.863341",ntt"state": "active",ntt"id": "8f38c56a-1dff-4dbc-9504-af259fc42e1a"nt},nt{ntt"vocabulary_id":
+    null,ntt"display_name": "ocean-energy",ntt"name": "ocean-energy",ntt"revision_timestamp":
+    "2015-02-23T20:18:58.863341",ntt"state": "active",ntt"id": "97ee1f07-0484-43ba-93d9-00fe4d934e18"nt},nt{ntt"vocabulary_id":
+    null,ntt"display_name": "ocean-thermal-energy-conversion",ntt"name":
+    "ocean-thermal-energy-conversion",ntt"revision_timestamp": "2015-02-23T20:18:58.863341",ntt"state":
+    "active",ntt"id": "4566617e-2cc8-45c2-9d7c-a4a4e7a4da3a"nt},nt{ntt"vocabulary_id":
+    null,ntt"display_name": "otec",ntt"name": "otec",ntt"revision_timestamp":
+    "2015-02-23T20:18:58.863341",ntt"state": "active",ntt"id": "01c2f0e8-ae26-42c2-bbec-2b32b6ecf547"nt},nt{ntt"vocabulary_id":
+    null,ntt"display_name": "thermal",ntt"name": "thermal",ntt"revision_timestamp":
+    "2015-02-23T20:18:58.863341",ntt"state": "active",ntt"id": "2477d29a-ceff-412f-a060-334b0a35f8ec"nt}],nt"title":
+    "Ocean Thermal Energy Conversion (OTEC) - delta T (Summer Average)",nt"tracking_summary":
+    {ntt"total": 5,ntt"recent": 1nt},nt"groups": [],nt"relationships_as_subject":
+    [],nt"revision_timestamp": "2015-09-01T18:20:24.077907",nt"name": "ocean-thermal-energy-conversion-otec-delta-t-summer-average-fd3b7",nt"isopen":
+    true,nt"url": null,nt"notes": "This shapefile represents seasonal summer
+    average delta T estimates.rnrnu0394T represents the difference in temperature (u00b0C)
+    between the warm and cold water sources used by an OTEC plant at a specific location.
+    Warm water is defined uniformly as water at a depth of 20 m, while cold water is
+    defined for each point by locating the depth that leads to the greatest annual net
+    power when each depth and u0394T along the thermocline are input into the power
+    equation. This optimization balances power gained by obtaining colder water from
+    deeper locations against power lost by transporting the water upward through a longer
+    pipe.rnrnData were processed and converted to shapefile format by NREL for the [Ocean
+    Thermal Extractable Energy Visualization](http://www.osti.gov/bridge/purl.cover.jsp?purl=/1055457/1055457.pdf)rnrn###
+    License InfornThis GIS data was developed by the National Renewable Energy Laboratory
+    ("NREL"), which is operated by the Alliance for Sustainable Energy, LLC for the
+    U.S. Department of Energy ("DOE"). The user is granted the right, without any
+    fee or cost, to use, copy, modify, alter, enhance and distribute this data for any
+    purpose whatsoever, provided that this entire notice appears in all copies of the
+    data.rnrnFurther, the user of this data agrees to credit NREL in any publications
+    or software that incorporate or use the data. Access to and use of the GIS data
+    shall further impose the following obligations on the User. The names DOE/NREL may
+    not be used in any advertising or publicity to endorse or promote any product or
+    commercial entity using or incorporating the GIS data unless specific written authorization
+    is obtained from DOE/NREL. The User also understands that DOE/NREL shall not be
+    obligated to provide updates, support, consulting, training or assistance of any
+    kind whatsoever with regard to the use of the GIS data.rnrnTHE GIS DATA IS PROVIDED
+    "AS IS" AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING BUT NOT LIMITED TO, THE
+    IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE DISCLAIMED.
+    IN NO EVENT SHALL DOE/NREL BE LIABLE FOR ANY SPECIAL, INDIRECT OR CONSEQUENTIAL
+    DAMAGES OR ANY DAMAGES WHATSOEVER, INCLUDING BUT NOT LIMITED TO CLAIMS ASSOCIATED
+    WITH THE LOSS OF DATA OR PROFITS, WHICH MAY RESULT FROM AN ACTION IN CONTRACT, NEGLIGENCE
+    OR OTHER TORTIOUS CLAIM THAT ARISES OUT OF OR IN CONNECTION WITH THE ACCESS OR USE
+    OF THE GIS DATA.rnrnThe User acknowledges that access to the GIS data is subject
+    to U.S. Export laws and regulations and any use or transfer of the GIS data must
+    be authorized under those regulations. The User shall not use, distribute, transfer,
+    or transmit GIS data or any products incorporating the GIS data except in compliance
+    with U.S. export regulations. If requested by DOE/NREL, the User agrees to sign
+    written assurances and other export-related documentation as may be required to
+    comply with U.S. export regulations.",nt"license_title": "Creative Commons
+    CCZero",nt"extras": [{ntt"key": "accessURL",ntt"value": "http://en.openei.org/doe-opendata/dataset/d25e035d-0706-4449-83f9-f73dbc2a4f9b/resource/393215d4-1ae3-403a-bc2e-69452eed5127/download/dtsum.zip"nt},nt{ntt"key":
+    "publisher",ntt"value": "National Renewable Energy Laboratory"nt},nt{ntt"key":
+    "landingPage",ntt"value": "http://www.nrel.gov"nt},nt{ntt"key":
+    "license",ntt"value": "https://creativecommons.org/publicdomain/zero/1.0/"nt},nt{ntt"key":
+    "harvest_source_id",ntt"value": "8d4de31c-979c-4b50-be6b-ea3c72453ff6"nt},nt{ntt"key":
+    "catalog_@context",ntt"value": "https://project-open-data.cio.gov/v1.1/schema/catalog.jsonld"nt},nt{ntt"key":
+    "accessLevel",ntt"value": "public"nt},nt{ntt"key": "format",ntt"value":
+    "application/unknown"nt},nt{ntt"key": "resource-type",ntt"value":
+    "Dataset"nt},nt{ntt"key": "modified",ntt"value": "2015-08-21T20:49:13Z"nt},nt{ntt"key":
+    "harvest_source_title",ntt"value": "Energy JSON"nt},nt{ntt"key":
+    "source_schema_version",ntt"value": "1.1"nt},nt{ntt"key": "source_datajson_identifier",ntt"value":
+    truent},nt{ntt"key": "programCode",ntt"value": ["019:000"]nt},nt{ntt"key":
+    "bureauCode",ntt"value": ["019:20"]nt},nt{ntt"key": "dataQuality",ntt"value":
+    truent},nt{ntt"key": "identifier",ntt"value": "http://en.openei.org/doe-opendata/dataset/d25e035d-0706-4449-83f9-f73dbc2a4f9b"nt},nt{ntt"key":
+    "harvest_object_id",ntt"value": "7bb5e3a5-7664-4c50-aa1b-1dc8c4cb0ab7"nt},nt{ntt"key":
+    "source_hash",ntt"value": "c6b33d97c80fa63724c9d205e7ad69d58aa4694a"nt},nt{ntt"key":
+    "catalog_conformsTo",ntt"value": "https://project-open-data.cio.gov/v1.1/schema"nt},nt{ntt"key":
+    "catalog_describedBy",ntt"value": "https://project-open-data.cio.gov/v1.1/schema/catalog.json"nt},nt{ntt"state":
+    "active",ntt"key": "harvest_object_id",ntt"value": "7bb5e3a5-7664-4c50-aa1b-1dc8c4cb0ab7"nt},nt{ntt"state":
+    "active",ntt"key": "harvest_source_id",ntt"value": "8d4de31c-979c-4b50-be6b-ea3c72453ff6"nt},nt{ntt"state":
+    "active",ntt"key": "harvest_source_title",ntt"value": "Energy JSON"nt}],nt"license_url":
+    "http://www.opendefinition.org/licenses/cc-zero",nt"organization": {ntt"description":
+    "",ntt"created": "2013-05-18T11:31:21.471948",ntt"title": "Department
+    of Energy",ntt"name": "doe-gov",ntt"revision_timestamp": "2013-05-31T20:48:37.771905",ntt"is_organization":
+    true,ntt"state": "active",ntt"image_url": "http://energy.gov/sites/prod/files/styles/imagelink/public/DoE-Logo.jpeg",ntt"revision_id":
+    "14e1d3c1-4cc7-460c-bf1c-b10e3429b4b0",ntt"type": "organization",ntt"id":
+    "735d0118-b2a7-4246-a0e3-608b0fa8d1ec",ntt"approval_status": "approved"nt},nt"revision_id":
+    "99db1a72-6674-4636-82bd-b53c940769c1"n}"

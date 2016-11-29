@@ -1,0 +1,375 @@
+|-
+  "{nt"license_title": null,nt"maintainer": null,nt"relationships_as_object":
+    [],nt"private": false,nt"maintainer_email": null,nt"revision_timestamp":
+    "2015-09-26T22:19:56.974056",nt"id": "20ac2085-44cf-42dc-90fe-3ea9c5f6e7ad",nt"metadata_created":
+    "2015-09-26T22:19:56.974056",nt"metadata_modified": "2016-10-19T20:15:36.233355",nt"author":
+    null,nt"author_email": null,nt"state": "active",nt"version": null,nt"license_id":
+    null,nt"type": "dataset",nt"resources": [{ntt"resource_group_id":
+    "0260ebf6-aefc-40d0-b521-64147ca25b44",ntt"cache_last_updated": null,ntt"revision_timestamp":
+    "2016-10-19T20:15:36.233355",ntt"webstore_last_updated": null,ntt"id":
+    "757df8c5-6eda-4fc4-ba4c-78d68d9e53b7",ntt"size": null,ntt"state": "active",ntt"last_modified":
+    null,ntt"hash": "",ntt"description": "Search for data granules belonging
+    to this collection (a granule is the smallest aggregation of data that can be independently
+    described and retrieved).",ntt"format": "NetCDF",ntt"tracking_summary":
+    {nttt"total": 0,nttt"recent": 0ntt},ntt"mimetype_inner": null,ntt"resource_locator_protocol":
+    "HTTP",ntt"mimetype": null,ntt"cache_url": null,ntt"name": "Granule
+    Search",ntt"created": "2016-10-19T16:15:36.715061",ntt"url": "https://www.nodc.noaa.gov/search/granule/rest/find/document?searchText=fileIdentifier%3AGHRSST-EUR-L2P-AVHRR16_G*%20OR%20fileIdentifier%3AEUR-L2P-AVHRR16_G*&start=1&max=100&f=SearchPage",ntt"webstore_url":
+    null,ntt"resource_locator_function": "search",ntt"position": 0,ntt"revision_id":
+    "f0494a1e-7505-43af-b60d-dbb83105ae20",ntt"resource_type": nullnt},nt{ntt"resource_group_id":
+    "0260ebf6-aefc-40d0-b521-64147ca25b44",ntt"cache_last_updated": null,ntt"revision_timestamp":
+    "2016-10-19T20:15:36.233355",ntt"webstore_last_updated": null,ntt"id":
+    "2a992f11-bedd-491f-8008-7cefb1d40369",ntt"size": null,ntt"state": "active",ntt"last_modified":
+    null,ntt"hash": "",ntt"description": "Navigate directly to the URL
+    for a descriptive web page with download links.",ntt"format": "NetCDF",ntt"tracking_summary":
+    {nttt"total": 0,nttt"recent": 0ntt},ntt"mimetype_inner": null,ntt"resource_locator_protocol":
+    "HTTP",ntt"mimetype": null,ntt"cache_url": null,ntt"name": "Descriptive
+    Information",ntt"created": "2016-10-19T16:15:36.715094",ntt"url": "https://data.nodc.noaa.gov/cgi-bin/iso?id=gov.noaa.nodc:GHRSST-EUR-L2P-AVHRR16_G",ntt"webstore_url":
+    null,ntt"resource_locator_function": "information",ntt"position": 1,ntt"revision_id":
+    "f0494a1e-7505-43af-b60d-dbb83105ae20",ntt"resource_type": nullnt},nt{ntt"resource_group_id":
+    "0260ebf6-aefc-40d0-b521-64147ca25b44",ntt"cache_last_updated": null,ntt"revision_timestamp":
+    "2016-10-19T20:15:36.233355",ntt"webstore_last_updated": null,ntt"id":
+    "5e8e1304-b737-436a-b9fc-93b88c82be85",ntt"size": null,ntt"state": "active",ntt"last_modified":
+    null,ntt"hash": "",ntt"description": "These data are available through
+    a variety of services via a THREDDS (Thematic Real-time Environmental Distributed
+    Data Services) Data Server (TDS). Depending on the dataset, the TDS can provide
+    WMS, WCS, DAP, HTTP, and other data access and metadata services as well. For more
+    information on the TDS, see http://www.unidata.ucar.edu/software/thredds/current/tds/.",ntt"format":
+    "NetCDF",ntt"tracking_summary": {nttt"total": 0,nttt"recent":
+    0ntt},ntt"mimetype_inner": null,ntt"resource_locator_protocol": "THREDDS",ntt"mimetype":
+    null,ntt"cache_url": null,ntt"name": "THREDDS",ntt"created": "2016-10-19T16:15:36.715104",ntt"url":
+    "https://data.nodc.noaa.gov/thredds/catalog/ghrsst/L2P/AVHRR16_G/EUR/",ntt"webstore_url":
+    null,ntt"resource_locator_function": "download",ntt"position": 2,ntt"revision_id":
+    "f0494a1e-7505-43af-b60d-dbb83105ae20",ntt"resource_type": nullnt},nt{ntt"resource_group_id":
+    "0260ebf6-aefc-40d0-b521-64147ca25b44",ntt"cache_last_updated": null,ntt"revision_timestamp":
+    "2016-10-19T20:15:36.233355",ntt"webstore_last_updated": null,ntt"id":
+    "74f34e6b-59b5-4a3e-b387-65cf16e883b8",ntt"size": null,ntt"state": "active",ntt"last_modified":
+    null,ntt"hash": "",ntt"description": "These data are available through
+    the Data Access Protocol (DAP) via an OPeNDAP Hyrax server. For a listing of OPeNDAP
+    clients which may be used to access OPeNDAP-enabled data sets, please see the OPeNDAP
+    website at http://opendap.org/.",ntt"format": "NetCDF",ntt"tracking_summary":
+    {nttt"total": 0,nttt"recent": 0ntt},ntt"mimetype_inner": null,ntt"resource_locator_protocol":
+    "DAP",ntt"mimetype": null,ntt"cache_url": null,ntt"name": "OPeNDAP",ntt"created":
+    "2016-10-19T16:15:36.715112",ntt"url": "https://data.nodc.noaa.gov/opendap/ghrsst/L2P/AVHRR16_G/EUR/",ntt"webstore_url":
+    null,ntt"resource_locator_function": "download",ntt"position": 3,ntt"revision_id":
+    "f0494a1e-7505-43af-b60d-dbb83105ae20",ntt"resource_type": nullnt},nt{ntt"resource_group_id":
+    "0260ebf6-aefc-40d0-b521-64147ca25b44",ntt"cache_last_updated": null,ntt"revision_timestamp":
+    "2016-10-19T20:15:36.233355",ntt"webstore_last_updated": null,ntt"id":
+    "b6dc1821-fe58-41ec-b9d4-aef998b30101",ntt"size": null,ntt"state": "active",ntt"last_modified":
+    null,ntt"hash": "",ntt"description": "Navigate directly to the URL
+    for data access and direct download.",ntt"format": "NetCDF",ntt"tracking_summary":
+    {nttt"total": 0,nttt"recent": 0ntt},ntt"mimetype_inner": null,ntt"resource_locator_protocol":
+    "HTTP",ntt"mimetype": null,ntt"cache_url": null,ntt"name": "HTTP",ntt"created":
+    "2016-10-19T16:15:36.715120",ntt"url": "https://data.nodc.noaa.gov/ghrsst/L2P/AVHRR16_G/EUR/",ntt"webstore_url":
+    null,ntt"resource_locator_function": "download",ntt"position": 4,ntt"revision_id":
+    "f0494a1e-7505-43af-b60d-dbb83105ae20",ntt"resource_type": nullnt},nt{ntt"resource_group_id":
+    "0260ebf6-aefc-40d0-b521-64147ca25b44",ntt"cache_last_updated": null,ntt"revision_timestamp":
+    "2016-10-19T20:15:36.233355",ntt"webstore_last_updated": null,ntt"id":
+    "f13c09e2-a097-4504-8ed8-b8420cccd8a1",ntt"size": null,ntt"state": "active",ntt"last_modified":
+    null,ntt"hash": "",ntt"description": "These data are available through
+    the File Transfer Protocol (FTP). You may use any FTP client to download these data.",ntt"format":
+    "NetCDF",ntt"tracking_summary": {nttt"total": 0,nttt"recent":
+    0ntt},ntt"mimetype_inner": null,ntt"resource_locator_protocol": "FTP",ntt"mimetype":
+    null,ntt"cache_url": null,ntt"name": "FTP",ntt"created": "2016-10-19T16:15:36.715128",ntt"url":
+    "ftp://ftp.nodc.noaa.gov/pub/data.nodc/ghrsst/L2P/AVHRR16_G/EUR/",ntt"webstore_url":
+    null,ntt"resource_locator_function": "download",ntt"position": 5,ntt"revision_id":
+    "f0494a1e-7505-43af-b60d-dbb83105ae20",ntt"resource_type": nullnt},nt{ntt"resource_group_id":
+    "0260ebf6-aefc-40d0-b521-64147ca25b44",ntt"cache_last_updated": null,ntt"revision_timestamp":
+    "2016-10-19T20:15:36.233355",ntt"webstore_last_updated": null,ntt"id":
+    "97b9fa05-9a04-445c-b4b0-3a5bd8187b73",ntt"size": null,ntt"state": "active",ntt"last_modified":
+    null,ntt"hash": "",ntt"description": "Main NCEI website providing links
+    to access data and data services.",ntt"format": "",ntt"tracking_summary":
+    {nttt"total": 40,nttt"recent": 2ntt},ntt"mimetype_inner": null,ntt"resource_locator_protocol":
+    "HTTP",ntt"mimetype": null,ntt"cache_url": null,ntt"name": "NOAA
+    National Centers for Environmental Information website",ntt"created": "2016-10-19T16:15:36.715136",ntt"url":
+    "https://www.ncei.noaa.gov/",ntt"webstore_url": null,ntt"resource_locator_function":
+    "information",ntt"position": 6,ntt"revision_id": "f0494a1e-7505-43af-b60d-dbb83105ae20",ntt"resource_type":
+    nullnt},nt{ntt"resource_group_id": "0260ebf6-aefc-40d0-b521-64147ca25b44",ntt"cache_last_updated":
+    null,ntt"revision_timestamp": "2016-10-19T20:15:36.233355",ntt"webstore_last_updated":
+    null,ntt"id": "ed5189f5-870f-41a6-8299-d8156e7ef068",ntt"size": null,ntt"state":
+    "active",ntt"last_modified": null,ntt"hash": "",ntt"description":
+    "Main NODC website providing links to access data and data services.",ntt"format":
+    "",ntt"tracking_summary": {nttt"total": 6,nttt"recent": 4ntt},ntt"mimetype_inner":
+    null,ntt"resource_locator_protocol": "HTTP",ntt"mimetype": null,ntt"cache_url":
+    null,ntt"name": "NOAA National Oceanographic Data Center website",ntt"created":
+    "2016-10-19T16:15:36.715145",ntt"url": "https://www.nodc.noaa.gov/",ntt"webstore_url":
+    null,ntt"resource_locator_function": "information",ntt"position": 7,ntt"revision_id":
+    "f0494a1e-7505-43af-b60d-dbb83105ae20",ntt"resource_type": nullnt},nt{ntt"resource_group_id":
+    "0260ebf6-aefc-40d0-b521-64147ca25b44",ntt"cache_last_updated": null,ntt"revision_timestamp":
+    "2016-10-19T20:15:36.233355",ntt"webstore_last_updated": null,ntt"id":
+    "cc140d53-deef-424d-afc0-5fc8553abc01",ntt"size": null,ntt"state": "active",ntt"last_modified":
+    null,ntt"hash": "",ntt"description": "Institution web page",ntt"format":
+    "HTML",ntt"tracking_summary": {nttt"total": 1,nttt"recent": 1ntt},ntt"mimetype_inner":
+    null,ntt"resource_locator_protocol": "HTTP",ntt"mimetype": null,ntt"cache_url":
+    null,ntt"name": "NASA Jet Propulsion Laboratory PO DAAC website",ntt"created":
+    "2016-10-19T16:15:36.715152",ntt"url": "http://podaac.jpl.nasa.gov/index.html",ntt"webstore_url":
+    null,ntt"resource_locator_function": "information",ntt"position": 8,ntt"revision_id":
+    "f0494a1e-7505-43af-b60d-dbb83105ae20",ntt"resource_type": nullnt},nt{ntt"resource_group_id":
+    "0260ebf6-aefc-40d0-b521-64147ca25b44",ntt"cache_last_updated": null,ntt"revision_timestamp":
+    "2016-10-19T20:15:36.233355",ntt"webstore_last_updated": null,ntt"id":
+    "04cc628d-3188-44bd-ba45-9e5e20a7960c",ntt"size": null,ntt"state": "active",ntt"last_modified":
+    null,ntt"hash": "",ntt"description": "Institution web page",ntt"format":
+    "",ntt"tracking_summary": {nttt"total": 0,nttt"recent": 0ntt},ntt"mimetype_inner":
+    null,ntt"resource_locator_protocol": "HTTP",ntt"mimetype": null,ntt"cache_url":
+    null,ntt"name": "Medspiration website",ntt"created": "2016-10-19T16:15:36.715160",ntt"url":
+    "http://cersat.ifremer.fr/thematic-portals/projects/medspiration",ntt"webstore_url":
+    null,ntt"resource_locator_function": "information",ntt"position": 9,ntt"revision_id":
+    "f0494a1e-7505-43af-b60d-dbb83105ae20",ntt"resource_type": nullnt},nt{ntt"resource_group_id":
+    "0260ebf6-aefc-40d0-b521-64147ca25b44",ntt"cache_last_updated": null,ntt"revision_timestamp":
+    "2016-10-19T20:15:36.233355",ntt"webstore_last_updated": null,ntt"id":
+    "3e299e85-3783-4c7e-9cd7-9ac822f75563",ntt"size": null,ntt"state": "active",ntt"last_modified":
+    null,ntt"hash": "",ntt"description": "Main NCEI website providing links
+    to access data and data services.",ntt"format": "",ntt"tracking_summary":
+    {nttt"total": 40,nttt"recent": 2ntt},ntt"mimetype_inner": null,ntt"resource_locator_protocol":
+    "HTTP",ntt"mimetype": null,ntt"cache_url": null,ntt"name": "NOAA
+    National Centers for Environmental Information website",ntt"created": "2016-10-19T16:15:36.715168",ntt"url":
+    "https://www.ncei.noaa.gov/",ntt"webstore_url": null,ntt"resource_locator_function":
+    "information",ntt"position": 10,ntt"revision_id": "f0494a1e-7505-43af-b60d-dbb83105ae20",ntt"resource_type":
+    nullnt},nt{ntt"resource_group_id": "0260ebf6-aefc-40d0-b521-64147ca25b44",ntt"cache_last_updated":
+    null,ntt"revision_timestamp": "2016-10-19T20:15:36.233355",ntt"webstore_last_updated":
+    null,ntt"id": "db369384-8549-492c-909b-71a7040f94a5",ntt"size": null,ntt"state":
+    "active",ntt"last_modified": null,ntt"hash": "",ntt"description":
+    "",ntt"format": "",ntt"tracking_summary": {nttt"total": 0,nttt"recent":
+    0ntt},ntt"mimetype_inner": null,ntt"resource_locator_protocol": "",ntt"revision_id":
+    "f0494a1e-7505-43af-b60d-dbb83105ae20",ntt"mimetype": null,ntt"cache_url":
+    null,ntt"name": "Web Page",ntt"created": "2016-10-19T16:15:36.715175",ntt"url":
+    "ftp://ftp.ifremer.fr/ifremer/valmedspi",ntt"webstore_url": null,ntt"resource_locator_function":
+    "",ntt"position": 11,ntt"no_real_name": true,ntt"resource_type":
+    nullnt},nt{ntt"resource_group_id": "0260ebf6-aefc-40d0-b521-64147ca25b44",ntt"cache_last_updated":
+    null,ntt"revision_timestamp": "2016-10-19T20:15:36.233355",ntt"webstore_last_updated":
+    null,ntt"id": "93ef43ba-aa04-4dda-b814-82a31df8c478",ntt"size": null,ntt"state":
+    "active",ntt"last_modified": null,ntt"hash": "",ntt"description":
+    "Overview of the NASA GCMD Keywords.",ntt"format": "HTML",ntt"tracking_summary":
+    {nttt"total": 147,nttt"recent": 13ntt},ntt"mimetype_inner":
+    null,ntt"resource_locator_protocol": "HTTP",ntt"mimetype": null,ntt"cache_url":
+    null,ntt"name": "NASA GCMD Keyword Community Page",ntt"created": "2016-10-19T16:15:36.715183",ntt"url":
+    "http://gcmd.gsfc.nasa.gov/learn/keywords.html",ntt"webstore_url": null,ntt"resource_locator_function":
+    "information",ntt"position": 12,ntt"revision_id": "f0494a1e-7505-43af-b60d-dbb83105ae20",ntt"resource_type":
+    nullnt},nt{ntt"resource_group_id": "0260ebf6-aefc-40d0-b521-64147ca25b44",ntt"cache_last_updated":
+    null,ntt"revision_timestamp": "2016-10-19T20:15:36.233355",ntt"webstore_last_updated":
+    null,ntt"id": "12744de7-0e19-43c9-a40c-67a31ab03c09",ntt"size": null,ntt"state":
+    "active",ntt"last_modified": null,ntt"hash": "",ntt"description":
+    "Overview of the NASA GCMD Keywords.",ntt"format": "HTML",ntt"tracking_summary":
+    {nttt"total": 147,nttt"recent": 13ntt},ntt"mimetype_inner":
+    null,ntt"resource_locator_protocol": "HTTP",ntt"mimetype": null,ntt"cache_url":
+    null,ntt"name": "NASA GCMD Keyword Community Page",ntt"created": "2016-10-19T16:15:36.715191",ntt"url":
+    "http://gcmd.gsfc.nasa.gov/learn/keywords.html",ntt"webstore_url": null,ntt"resource_locator_function":
+    "information",ntt"position": 13,ntt"revision_id": "f0494a1e-7505-43af-b60d-dbb83105ae20",ntt"resource_type":
+    nullnt},nt{ntt"resource_group_id": "0260ebf6-aefc-40d0-b521-64147ca25b44",ntt"cache_last_updated":
+    null,ntt"revision_timestamp": "2016-10-19T20:15:36.233355",ntt"webstore_last_updated":
+    null,ntt"id": "0b9ed031-1b83-40b8-bfdc-90e049747d28",ntt"size": null,ntt"state":
+    "active",ntt"last_modified": null,ntt"hash": "",ntt"description":
+    "Overview of the NASA GCMD Keywords.",ntt"format": "HTML",ntt"tracking_summary":
+    {nttt"total": 147,nttt"recent": 13ntt},ntt"mimetype_inner":
+    null,ntt"resource_locator_protocol": "HTTP",ntt"mimetype": null,ntt"cache_url":
+    null,ntt"name": "NASA GCMD Keyword Community Page",ntt"created": "2016-10-19T16:15:36.715199",ntt"url":
+    "http://gcmd.gsfc.nasa.gov/learn/keywords.html",ntt"webstore_url": null,ntt"resource_locator_function":
+    "information",ntt"position": 14,ntt"revision_id": "f0494a1e-7505-43af-b60d-dbb83105ae20",ntt"resource_type":
+    nullnt},nt{ntt"resource_group_id": "0260ebf6-aefc-40d0-b521-64147ca25b44",ntt"cache_last_updated":
+    null,ntt"revision_timestamp": "2016-10-19T20:15:36.233355",ntt"webstore_last_updated":
+    null,ntt"id": "d5ece88d-4884-49d7-9f86-de16c22db8a2",ntt"size": null,ntt"state":
+    "active",ntt"last_modified": null,ntt"hash": "",ntt"description":
+    "Overview of the NASA GCMD Keywords.",ntt"format": "HTML",ntt"tracking_summary":
+    {nttt"total": 147,nttt"recent": 13ntt},ntt"mimetype_inner":
+    null,ntt"resource_locator_protocol": "HTTP",ntt"mimetype": null,ntt"cache_url":
+    null,ntt"name": "NASA GCMD Keyword Community Page",ntt"created": "2016-10-19T16:15:36.715207",ntt"url":
+    "http://gcmd.gsfc.nasa.gov/learn/keywords.html",ntt"webstore_url": null,ntt"resource_locator_function":
+    "information",ntt"position": 15,ntt"revision_id": "f0494a1e-7505-43af-b60d-dbb83105ae20",ntt"resource_type":
+    nullnt},nt{ntt"resource_group_id": "0260ebf6-aefc-40d0-b521-64147ca25b44",ntt"cache_last_updated":
+    null,ntt"revision_timestamp": "2016-10-19T20:15:36.233355",ntt"webstore_last_updated":
+    null,ntt"id": "40d6464b-4b8e-4d13-9f55-37fc08cce89a",ntt"size": null,ntt"state":
+    "active",ntt"last_modified": null,ntt"hash": "",ntt"description":
+    "Overview of the NASA GCMD Keywords.",ntt"format": "HTML",ntt"tracking_summary":
+    {nttt"total": 147,nttt"recent": 13ntt},ntt"mimetype_inner":
+    null,ntt"resource_locator_protocol": "HTTP",ntt"mimetype": null,ntt"cache_url":
+    null,ntt"name": "NASA GCMD Keyword Community Page",ntt"created": "2016-10-19T16:15:36.715215",ntt"url":
+    "http://gcmd.gsfc.nasa.gov/learn/keywords.html",ntt"webstore_url": null,ntt"resource_locator_function":
+    "information",ntt"position": 16,ntt"revision_id": "f0494a1e-7505-43af-b60d-dbb83105ae20",ntt"resource_type":
+    nullnt},nt{ntt"resource_group_id": "0260ebf6-aefc-40d0-b521-64147ca25b44",ntt"cache_last_updated":
+    null,ntt"revision_timestamp": "2016-10-19T20:15:36.233355",ntt"webstore_last_updated":
+    null,ntt"id": "b46b95a4-b72a-46fe-83cf-f2ceebe598fe",ntt"size": null,ntt"state":
+    "active",ntt"last_modified": null,ntt"hash": "",ntt"description":
+    "Overview of the NASA GCMD Keywords.",ntt"format": "HTML",ntt"tracking_summary":
+    {nttt"total": 147,nttt"recent": 13ntt},ntt"mimetype_inner":
+    null,ntt"resource_locator_protocol": "HTTP",ntt"mimetype": null,ntt"cache_url":
+    null,ntt"name": "NASA GCMD Keyword Community Page",ntt"created": "2016-10-19T16:15:36.715223",ntt"url":
+    "http://gcmd.gsfc.nasa.gov/learn/keywords.html",ntt"webstore_url": null,ntt"resource_locator_function":
+    "information",ntt"position": 17,ntt"revision_id": "f0494a1e-7505-43af-b60d-dbb83105ae20",ntt"resource_type":
+    nullnt},nt{ntt"resource_group_id": "0260ebf6-aefc-40d0-b521-64147ca25b44",ntt"cache_last_updated":
+    null,ntt"revision_timestamp": "2016-10-19T20:15:36.233355",ntt"webstore_last_updated":
+    null,ntt"id": "d15ed57c-056b-4dd3-a3b7-4ddcf2377b27",ntt"size": null,ntt"state":
+    "active",ntt"last_modified": null,ntt"hash": "",ntt"description":
+    "Overview of the NASA GCMD Keywords.",ntt"format": "HTML",ntt"tracking_summary":
+    {nttt"total": 147,nttt"recent": 13ntt},ntt"mimetype_inner":
+    null,ntt"resource_locator_protocol": "HTTP",ntt"mimetype": null,ntt"cache_url":
+    null,ntt"name": "NASA GCMD Keyword Community Page",ntt"created": "2016-10-19T16:15:36.715230",ntt"url":
+    "http://gcmd.gsfc.nasa.gov/learn/keywords.html",ntt"webstore_url": null,ntt"resource_locator_function":
+    "information",ntt"position": 18,ntt"revision_id": "f0494a1e-7505-43af-b60d-dbb83105ae20",ntt"resource_type":
+    nullnt},nt{ntt"resource_group_id": "0260ebf6-aefc-40d0-b521-64147ca25b44",ntt"cache_last_updated":
+    null,ntt"revision_timestamp": "2016-10-19T20:15:36.233355",ntt"webstore_last_updated":
+    null,ntt"id": "214a5342-29b4-4dc7-aafc-30634338431f",ntt"size": null,ntt"state":
+    "active",ntt"last_modified": null,ntt"hash": "",ntt"description":
+    "Overview of the NASA GCMD Keywords.",ntt"format": "HTML",ntt"tracking_summary":
+    {nttt"total": 147,nttt"recent": 13ntt},ntt"mimetype_inner":
+    null,ntt"resource_locator_protocol": "HTTP",ntt"mimetype": null,ntt"cache_url":
+    null,ntt"name": "NASA GCMD Keyword Community Page",ntt"created": "2016-10-19T16:15:36.715238",ntt"url":
+    "http://gcmd.gsfc.nasa.gov/learn/keywords.html",ntt"webstore_url": null,ntt"resource_locator_function":
+    "information",ntt"position": 19,ntt"revision_id": "f0494a1e-7505-43af-b60d-dbb83105ae20",ntt"resource_type":
+    nullnt},nt{ntt"resource_group_id": "0260ebf6-aefc-40d0-b521-64147ca25b44",ntt"cache_last_updated":
+    null,ntt"revision_timestamp": "2016-10-19T20:15:36.233355",ntt"webstore_last_updated":
+    null,ntt"id": "83a6bfcd-d5b9-43ae-b82e-2c8d6e415bcb",ntt"size": null,ntt"state":
+    "active",ntt"last_modified": null,ntt"hash": "",ntt"description":
+    "Overview of the NASA GCMD Keywords.",ntt"format": "HTML",ntt"tracking_summary":
+    {nttt"total": 147,nttt"recent": 13ntt},ntt"mimetype_inner":
+    null,ntt"resource_locator_protocol": "HTTP",ntt"mimetype": null,ntt"cache_url":
+    null,ntt"name": "NASA GCMD Keyword Community Page",ntt"created": "2016-10-19T16:15:36.715246",ntt"url":
+    "http://gcmd.gsfc.nasa.gov/learn/keywords.html",ntt"webstore_url": null,ntt"resource_locator_function":
+    "information",ntt"position": 20,ntt"revision_id": "f0494a1e-7505-43af-b60d-dbb83105ae20",ntt"resource_type":
+    nullnt},nt{ntt"resource_group_id": "0260ebf6-aefc-40d0-b521-64147ca25b44",ntt"cache_last_updated":
+    null,ntt"revision_timestamp": "2016-10-19T20:15:36.233355",ntt"webstore_last_updated":
+    null,ntt"id": "c3531b57-a158-4529-a9a6-2052989dc048",ntt"size": null,ntt"state":
+    "active",ntt"last_modified": null,ntt"hash": "",ntt"description":
+    "",ntt"format": "",ntt"tracking_summary": {nttt"total": 0,nttt"recent":
+    0ntt},ntt"mimetype_inner": null,ntt"resource_locator_protocol": "",ntt"revision_id":
+    "f0494a1e-7505-43af-b60d-dbb83105ae20",ntt"mimetype": null,ntt"cache_url":
+    null,ntt"name": "Web Page",ntt"created": "2016-10-19T16:15:36.715254",ntt"url":
+    "ftp://ftp.ifremer.fr/ifremer/valmedspi",ntt"webstore_url": null,ntt"resource_locator_function":
+    "",ntt"position": 21,ntt"no_real_name": true,ntt"resource_type":
+    nullnt},nt{ntt"resource_group_id": "0260ebf6-aefc-40d0-b521-64147ca25b44",ntt"cache_last_updated":
+    null,ntt"revision_timestamp": "2016-10-19T20:15:36.233355",ntt"webstore_last_updated":
+    null,ntt"id": "008fb90d-b765-42a2-8895-e33c52d5a8c1",ntt"size": null,ntt"state":
+    "active",ntt"last_modified": null,ntt"hash": "",ntt"description":
+    "Portal to the GHRSST Global Data Assembly Center and data access",ntt"format":
+    "",ntt"tracking_summary": {nttt"total": 14,nttt"recent": 1ntt},ntt"mimetype_inner":
+    null,ntt"resource_locator_protocol": "HTTP",ntt"mimetype": null,ntt"cache_url":
+    null,ntt"name": "Portal to the GHRSST Global Data Assembly Center and data
+    access",ntt"created": "2016-10-19T16:15:36.715262",ntt"url": "http://ghrsst.jpl.nasa.gov",ntt"webstore_url":
+    null,ntt"resource_locator_function": "",ntt"position": 22,ntt"revision_id":
+    "f0494a1e-7505-43af-b60d-dbb83105ae20",ntt"resource_type": nullnt},nt{ntt"resource_group_id":
+    "0260ebf6-aefc-40d0-b521-64147ca25b44",ntt"cache_last_updated": null,ntt"revision_timestamp":
+    "2016-10-19T20:15:36.233355",ntt"webstore_last_updated": null,ntt"id":
+    "5bbd5beb-3904-4192-a51f-7e7ca7a31727",ntt"size": null,ntt"state": "active",ntt"last_modified":
+    null,ntt"hash": "",ntt"description": "Home Page of the Global Ocean
+    Data Assimilation Experiment High Resolution SST Pilot Project (GHRSST-PP)",ntt"format":
+    "application/vnd.lotus-organizer",ntt"tracking_summary": {nttt"total":
+    0,nttt"recent": 0ntt},ntt"mimetype_inner": null,ntt"resource_locator_protocol":
+    "HTTP",ntt"mimetype": null,ntt"cache_url": null,ntt"name": "Home
+    Page of the Global Ocean Data Assimilation Experiment High Resolution SST Pilot
+    Project (GHRSST-PP)",ntt"created": "2016-10-19T16:15:36.715270",ntt"url":
+    "http://www.ghrsst-pp.org",ntt"webstore_url": null,ntt"resource_locator_function":
+    "",ntt"position": 23,ntt"revision_id": "f0494a1e-7505-43af-b60d-dbb83105ae20",ntt"resource_type":
+    nullnt},nt{ntt"resource_group_id": "0260ebf6-aefc-40d0-b521-64147ca25b44",ntt"cache_last_updated":
+    null,ntt"revision_timestamp": "2016-10-19T20:15:36.233355",ntt"webstore_last_updated":
+    null,ntt"id": "c9fbd618-cf54-46bb-8d08-a873d80f18d4",ntt"size": null,ntt"state":
+    "active",ntt"last_modified": null,ntt"hash": "",ntt"description":
+    "Description of the Medspiration projec",ntt"format": "application/vnd.lotus-organizer",ntt"tracking_summary":
+    {nttt"total": 0,nttt"recent": 0ntt},ntt"mimetype_inner": null,ntt"resource_locator_protocol":
+    "HTTP",ntt"mimetype": null,ntt"cache_url": null,ntt"name": "Description
+    of the Medspiration projec",ntt"created": "2016-10-19T16:15:36.715277",ntt"url":
+    "http://www.medspiration.org",ntt"webstore_url": null,ntt"resource_locator_function":
+    "",ntt"position": 24,ntt"revision_id": "f0494a1e-7505-43af-b60d-dbb83105ae20",ntt"resource_type":
+    nullnt},nt{ntt"resource_group_id": "0260ebf6-aefc-40d0-b521-64147ca25b44",ntt"cache_last_updated":
+    null,ntt"revision_timestamp": "2016-10-19T20:15:36.233355",ntt"webstore_last_updated":
+    null,ntt"id": "e98caeb9-50d2-4f76-b3f4-7fdf2c12a0fe",ntt"size": null,ntt"state":
+    "active",ntt"last_modified": null,ntt"hash": "",ntt"description":
+    "(Search Granule)",ntt"format": "",ntt"tracking_summary": {nttt"total":
+    0,nttt"recent": 0ntt},ntt"mimetype_inner": null,ntt"resource_locator_protocol":
+    "HTTP",ntt"mimetype": null,ntt"cache_url": null,ntt"name": "Web
+    Service",ntt"created": "2016-10-19T16:15:36.715286",ntt"url": "http://podaac.jpl.nasa.gov/ws/search/granule/?datasetId=PODAAC-GH16G-2PE01",ntt"webstore_url":
+    null,ntt"resource_locator_function": "",ntt"position": 25,ntt"revision_id":
+    "f0494a1e-7505-43af-b60d-dbb83105ae20",ntt"resource_type": nullnt},nt{ntt"resource_group_id":
+    "0260ebf6-aefc-40d0-b521-64147ca25b44",ntt"cache_last_updated": null,ntt"revision_timestamp":
+    "2016-10-19T20:15:36.233355",ntt"webstore_last_updated": null,ntt"id":
+    "f81e8fbe-0a15-4026-9a3f-b7ab16d4b966",ntt"size": null,ntt"state": "active",ntt"last_modified":
+    null,ntt"hash": "",ntt"description": "JPL Physical Oceanography Data
+    Active Archive Centre (PO.DAAC)",ntt"format": "HTML",ntt"tracking_summary":
+    {nttt"total": 0,nttt"recent": 0ntt},ntt"mimetype_inner": null,ntt"resource_locator_protocol":
+    "HTTP",ntt"mimetype": null,ntt"cache_url": null,ntt"name": "JPL
+    Physical Oceanography Data Active Archive Centre (PO.DAAC)",ntt"created":
+    "2016-10-19T16:15:36.715293",ntt"url": "http://podaac.jpl.nasa.gov:2031/DATASET_DOCS/avhrr_navoceano.html",ntt"webstore_url":
+    null,ntt"resource_locator_function": "",ntt"position": 26,ntt"revision_id":
+    "f0494a1e-7505-43af-b60d-dbb83105ae20",ntt"resource_type": nullnt}],nt"num_resources":
+    27,nt"tags": [],nt"tracking_summary": {ntt"total": 0,ntt"recent":
+    0nt},nt"groups": [],nt"organization": {ntt"description": "",ntt"title":
+    "National Oceanic and Atmospheric Administration, Department of Commerce",ntt"created":
+    "2013-03-14T03:44:40.434269",ntt"approval_status": "approved",ntt"revision_timestamp":
+    "2013-03-25T23:05:12.923863",ntt"is_organization": true,ntt"state":
+    "active",ntt"image_url": "https://fortress.wa.gov/dfw/score/score/images/noaa_logo.png",ntt"revision_id":
+    "c6d43080-22e1-405e-a83d-f2a512d9e867",ntt"type": "organization",ntt"id":
+    "e811f0b4-451f-4896-9e8f-fc6802837819",ntt"name": "noaa-gov"nt},nt"relationships_as_subject":
+    [],nt"num_tags": 0,nt"name": "ghrsst-level-2p-global-bulk-sea-surface-temperature-from-the-advanced-very-high-resolution-radi66d03",nt"isopen":
+    false,nt"url": null,nt"notes": "A global Level 2P Group for High Resolution
+    Sea Surface Temperature (GHRSST) dataset based on multi-channel sea surface temperature
+    (SST) retrievals from the Advanced Very High Resolution Radiometer (AVHRR) on the
+    NOAA-16 platform (launched on 21 Sep 2000). The AVHRR is a space-borne scanning
+    sensor on the National Oceanic and Atmospheric Administration (NOAA) family of Polar
+    Orbiting Environmental Satellites (POES) having a operational legacy that traces
+    back to the Television Infrared Observation Satellite-N (TIROS-N) launched in 1978.
+    AVHRR instruments measure the radiance of the Earth in 5 (or 6) relatively wide
+    spectral bands. The first two are centered around the red (0.6 micrometer) and near-infrared
+    (0.9 micrometer) regions, the third one is located around 3.5 micrometer, and the
+    last two sample the emitted thermal radiation, around 11 and 12 micrometers, respectively.
+    The legacy 5 band instrument is known as AVHRR/2 while the more recent version,
+    the AVHRR/3 (first carried on the NOAA-15 platform), acquires data in a 6th channel
+    located at 1.6 micrometer. Typically the 11 and 12 micron channels are used to derive
+    sea surface temperature (SST) sometimes in combination with the 3.5 micron channel.
+    The highest ground resolution that can be obtained from the current AVHRR instruments
+    is 1.1 km at nadir. The NOAA platforms are sun synchronous generally viewing the
+    same earth location twice a day (latitude dependent) due to the relatively large
+    AVHRR swath of approximately 2400 km. This particular dataset is derived from Global
+    Area Coverage (GAC) binary AVHRR SST binary data originally produced by the US Naval
+    Oceanographic Office (NAVO) and downloaded from the NASA Physical Oceanography Distributed
+    Active Archive Center (PO.DAAC). GAC data provide daily subsampled global coverage
+    recorded on tape recorders and then transmitted to a ground station. Finally, L2P
+    data products are derived following the GHRSST-PP Data Processing Specification
+    (GDS) version 1.5 including Single Sensor Error Statistics (SSES).",nt"owner_org":
+    "e811f0b4-451f-4896-9e8f-fc6802837819",nt"extras": [{ntt"key": "bbox-east-long",ntt"value":
+    "45"nt},nt{ntt"key": "resource-type",ntt"value": "series"nt},nt{ntt"key":
+    "bbox-north-lat",ntt"value": "80"nt},nt{ntt"key": "coupled-resource",ntt"value":
+    "[]"nt},nt{ntt"key": "graphic-preview-type",ntt"value": "PNG"nt},nt{ntt"key":
+    "guid",ntt"value": "gov.noaa.nodc:GHRSST-EUR-L2P-AVHRR16_G"nt},nt{ntt"key":
+    "graphic-preview-file",ntt"value": "https://data.nodc.noaa.gov/cgi-bin/gfx?id=gov.noaa.nodc:GHRSST-EUR-L2P-AVHRR16_G"nt},nt{ntt"key":
+    "metadata-language",ntt"value": "eng"nt},nt{ntt"key": "spatial-reference-system",ntt"value":
+    ""nt},nt{ntt"key": "spatial_harvester",ntt"value": truent},nt{ntt"key":
+    "spatial",ntt"value": "{"type": "Polygon", "coordinates": [[[-100.0,
+    -70.0], [45.0, -70.0], [45.0, 80.0], [-100.0, 80.0], [-100.0, -70.0]]]}"nt},nt{ntt"key":
+    "progress",ntt"value": "onGoing"nt},nt{ntt"key": "access_constraints",ntt"value":
+    "["Cite as: Medspiration (2005). GHRSST Level 2P Global Bulk Sea Surface Temperature
+    from the Advanced Very High Resolution Radiometer (AVHRR) on the NOAA-16 satellite
+    (GDS version 1). National Oceanographic Data Center, NOAA. Dataset. [access date]",
+    "NOAA and NCEI cannot provide any warranty as to the accuracy, reliability, or
+    completeness of furnished data. Users assume responsibility to determine the usability
+    of these data. The user is responsible for the results of any application of this
+    data for other than its intended purpose."]"nt},nt{ntt"key": "temporal-extent-begin",ntt"value":
+    "2005-01-31"nt},nt{ntt"key": "contact-email",ntt"value": "NCEI.Info@noaa.gov"nt},nt{ntt"key":
+    "bbox-west-long",ntt"value": "-100"nt},nt{ntt"key": "metadata-date",ntt"value":
+    "2015-12-02T19:48:23"nt},nt{ntt"key": "dataset-reference-date",ntt"value":
+    "[{"type": "publication", "value": "2013-05-01"}]"nt},nt{ntt"key":
+    "graphic-preview-description",ntt"value": "Preview graphic"nt},nt{ntt"key":
+    "frequency-of-update",ntt"value": "asNeeded"nt},nt{ntt"key": "licence",ntt"value":
+    "["accessLevel: Public"]"nt},nt{ntt"key": "metadata_type",ntt"value":
+    "geospatial"nt},nt{ntt"key": "responsible-party",ntt"value": "[{"name":
+    "IFREMER/CERSAT > Institut Francais de Recherche pour l'Exploitation de la Mer,
+    Center d'Exploitation et de Recherche Satellitaire", "roles": ["pointOfContact"]},
+    {"name": "DOC/NOAA/NESDIS/NCEI > National Centers for Environmental Information,
+    NESDIS, NOAA, U.S. Department of Commerce", "roles": ["pointOfContact"]}]"nt},nt{ntt"key":
+    "temporal-extent-end",ntt"value": "2006-08-14"nt},nt{ntt"key":
+    "spatial-data-service-type",ntt"value": ""nt},nt{ntt"key": "bbox-south-lat",ntt"value":
+    "-70"nt},nt{ntt"key": "tags",ntt"value": "ocean temperature,
+    avhrr-3, noaa-16, bulk sea surface temperature, doc/noaa/nesdis/ncei, global ocean,
+    http://podaac.jpl.nasa.gov/, national oceanographic data center, nesdis, noaa, u.s.
+    department of commerce, earth science, oceanography, advanced very high resolution
+    radiometer-3, earth remote sensing instruments, group for high resolution sea surface
+    temperature, g - i, physical oceanography distributed active archive center, jet
+    propulsion laboratory, nasa, passive remote sensing, national oceanic & atmospheric
+    administration-16, atlantic ocean, national centers for environmental information,
+    nesdis, noaa, u.s. department of commerce, ghrsst, imaging spectrometers/radiometers,
+    oceans, noaa poes (polar orbiting environmental satellites), spectrometers/radiometers,
+    sea surface temperature, geographic region, government agencies-u.s. federal agencies,
+    doc/noaa/nesdis/nodc, nasa/jpl/podaac, nasa, earth observation satellites",ntt"__extras":
+    {nttt"revision_id": "3e819d4d-b633-495a-b20d-a9890d11bf69",nttt"package_id":
+    "20ac2085-44cf-42dc-90fe-3ea9c5f6e7ad"ntt}nt},nt{ntt"key": "harvest_object_id",ntt"value":
+    "65ee016a-5e02-40d8-9dfe-1d619fb23e7b"nt},nt{ntt"key": "harvest_source_id",ntt"value":
+    "2aed8e29-fc5b-4cde-aa66-fb1118fd705e"nt},nt{ntt"key": "harvest_source_title",ntt"value":
+    "NOAA CSW Harvest Source"nt}],nt"title": "GHRSST Level 2P Global Bulk Sea
+    Surface Temperature from the Advanced Very High Resolution Radiometer (AVHRR) on
+    the NOAA-16 satellite (GDS version 1)",nt"revision_id": "df175d93-0f22-4dc9-925a-fc456b598fdd"n}"
