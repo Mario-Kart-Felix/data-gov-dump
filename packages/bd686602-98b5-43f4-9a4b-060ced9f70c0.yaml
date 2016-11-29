@@ -1,0 +1,83 @@
+"{\n\t\"owner_org\": \"ae816746-a815-4a3f-805d-2b51b561c626\",\n\t\"maintainer\":
+  null,\n\t\"relationships_as_object\": [],\n\t\"private\": false,\n\t\"maintainer_email\":
+  null,\n\t\"num_tags\": 0,\n\t\"id\": \"bd686602-98b5-43f4-9a4b-060ced9f70c0\",\n\t\"metadata_created\":
+  \"2015-07-06T05:57:10.547606\",\n\t\"metadata_modified\": \"2015-07-06T05:57:10.547606\",\n\t\"author\":
+  null,\n\t\"author_email\": null,\n\t\"state\": \"active\",\n\t\"version\": null,\n\t\"license_id\":
+  null,\n\t\"type\": \"dataset\",\n\t\"resources\": [{\n\t\t\"resource_group_id\":
+  \"60fb5df8-a893-4de0-bf4a-3c1bb872b83c\",\n\t\t\"cache_last_updated\": null,\n\t\t\"revision_timestamp\":
+  \"2015-07-06T05:57:10.547606\",\n\t\t\"webstore_last_updated\": null,\n\t\t\"id\":
+  \"e3b227cc-9117-4421-9028-f269ed218634\",\n\t\t\"size\": null,\n\t\t\"state\": \"active\",\n\t\t\"last_modified\":
+  null,\n\t\t\"hash\": \"\",\n\t\t\"description\": \"\",\n\t\t\"format\": \"fema-dcs-terrain\",\n\t\t\"tracking_summary\":
+  {\n\t\t\t\"total\": 8957,\n\t\t\t\"recent\": 304\n\t\t},\n\t\t\"mimetype_inner\":
+  null,\n\t\t\"resource_locator_protocol\": \"\",\n\t\t\"revision_id\": \"5d18ba3a-99f5-4d30-830a-03f05b65a897\",\n\t\t\"mimetype\":
+  null,\n\t\t\"cache_url\": null,\n\t\t\"name\": \"Web Page\",\n\t\t\"created\": \"2015-07-06T01:57:10.759424\",\n\t\t\"url\":
+  \"http://hazards.fema.gov\",\n\t\t\"webstore_url\": null,\n\t\t\"resource_locator_function\":
+  \"\",\n\t\t\"position\": 0,\n\t\t\"no_real_name\": true,\n\t\t\"resource_type\":
+  null\n\t},\n\t{\n\t\t\"resource_group_id\": \"60fb5df8-a893-4de0-bf4a-3c1bb872b83c\",\n\t\t\"cache_last_updated\":
+  null,\n\t\t\"revision_timestamp\": \"2015-07-06T05:57:10.547606\",\n\t\t\"webstore_last_updated\":
+  null,\n\t\t\"id\": \"e514c1b7-ac47-4867-9ab6-6c2b00fba62f\",\n\t\t\"size\": null,\n\t\t\"state\":
+  \"active\",\n\t\t\"last_modified\": null,\n\t\t\"hash\": \"\",\n\t\t\"description\":
+  \"\",\n\t\t\"format\": \"\",\n\t\t\"tracking_summary\": {\n\t\t\t\"total\": 8957,\n\t\t\t\"recent\":
+  304\n\t\t},\n\t\t\"mimetype_inner\": null,\n\t\t\"resource_locator_protocol\": \"\",\n\t\t\"revision_id\":
+  \"5d18ba3a-99f5-4d30-830a-03f05b65a897\",\n\t\t\"mimetype\": null,\n\t\t\"cache_url\":
+  null,\n\t\t\"name\": \"Web Page\",\n\t\t\"created\": \"2015-07-06T01:57:10.759456\",\n\t\t\"url\":
+  \"http://hazards.fema.gov\",\n\t\t\"webstore_url\": null,\n\t\t\"resource_locator_function\":
+  \"\",\n\t\t\"position\": 1,\n\t\t\"no_real_name\": true,\n\t\t\"resource_type\":
+  null\n\t}],\n\t\"num_resources\": 2,\n\t\"tags\": [],\n\t\"title\": \"TERRAIN, City
+  of Clark Fork Levee PMR, BONNER COUNTY, IDAHO\",\n\t\"tracking_summary\": {\n\t\t\"total\":
+  11,\n\t\t\"recent\": 1\n\t},\n\t\"groups\": [],\n\t\"relationships_as_subject\":
+  [],\n\t\"revision_timestamp\": \"2015-07-06T05:57:10.547606\",\n\t\"name\": \"terrain-city-of-clark-fork-levee-pmr-bonner-county-idaho\",\n\t\"isopen\":
+  false,\n\t\"url\": null,\n\t\"notes\": \"The dataset encompasses portions of Northern
+  Oregon, Eastern Washington, Northern Idaho, and Northwestern Montana within the
+  Columbia River drainage. The bare earth digital elevation models (DEM) represent
+  the earth's surface with all vegetation and human-made structures removed. The bare
+  earth DEMs were derived from LiDAR data using TIN processing of the ground point
+  returns. The DEM grid cell size is 1 m. The elevation units are in meters. Some
+  elevation values have been interpolated across areas in the ground model where there
+  is no elevation data (e.g. over dense vegetation). Breaklines derived from lidargrammetry
+  were used to enforce water boundaries and interpolate some areas where the ground
+  was obscured from the LiDAR data. Water surfaces were derived from a TIN of the
+  3-D water edge breaklines. Watershed Sciences, Inc. collected the LiDAR and created
+  this data set for David C. Smith & Associates, Inc. and the U.S. Army Corps of Engineers\",\n\t\"license_title\":
+  null,\n\t\"extras\": [{\n\t\t\"key\": \"responsible-party\",\n\t\t\"value\": \"[{\"name\":
+  \"DOGAMI\", \"roles\": [\"pointOfContact\"]}]\"\n\t},\n\t{\n\t\t\"key\": \"contact-email\",\n\t\t\"value\":
+  \"ian.madin@dogami.state.or.us\"\n\t},\n\t{\n\t\t\"key\": \"metadata-language\",\n\t\t\"value\":
+  \"\"\n\t},\n\t{\n\t\t\"key\": \"bbox-west-long\",\n\t\t\"value\": \"-116.22\"\n\t},\n\t{\n\t\t\"key\":
+  \"metadata-date\",\n\t\t\"value\": \"2010-02-01\"\n\t},\n\t{\n\t\t\"key\": \"dataset-reference-date\",\n\t\t\"value\":
+  \"[{\"type\": \"publication\", \"value\": \"2010-07-15\"}]\"\n\t},\n\t{\n\t\t\"key\":
+  \"resource-type\",\n\t\t\"value\": \"dataset\"\n\t},\n\t{\n\t\t\"key\": \"bbox-east-long\",\n\t\t\"value\":
+  \"-116.15\"\n\t},\n\t{\n\t\t\"key\": \"spatial-reference-system\",\n\t\t\"value\":
+  \"\"\n\t},\n\t{\n\t\t\"key\": \"bbox-north-lat\",\n\t\t\"value\": \"48.2\"\n\t},\n\t{\n\t\t\"key\":
+  \"coupled-resource\",\n\t\t\"value\": \"[]\"\n\t},\n\t{\n\t\t\"key\": \"bbox-south-lat\",\n\t\t\"value\":
+  \"48.12\"\n\t},\n\t{\n\t\t\"key\": \"licence\",\n\t\t\"value\": \"[\"No warranty
+  expressed or implied is made by FEMA regarding the utility of the data on any other
+  system nor shall the act of distribution constitute any such warranty.\"]\"\n\t},\n\t{\n\t\t\"key\":
+  \"metadata_type\",\n\t\t\"value\": \"geospatial\"\n\t},\n\t{\n\t\t\"key\": \"progress\",\n\t\t\"value\":
+  \"underDevelopment\"\n\t},\n\t{\n\t\t\"key\": \"spatial\",\n\t\t\"value\": \"{\"type\":
+  \"Polygon\", \"coordinates\": [[[-116.22, 48.12], [-116.15, 48.12], [-116.15, 48.2],
+  [-116.22, 48.2], [-116.22, 48.12]]]}\"\n\t},\n\t{\n\t\t\"key\": \"guid\",\n\t\t\"value\":
+  \"\"\n\t},\n\t{\n\t\t\"key\": \"spatial-data-service-type\",\n\t\t\"value\": \"\"\n\t},\n\t{\n\t\t\"key\":
+  \"access_constraints\",\n\t\t\"value\": \"[\"Use Constraints: Acknowledgement of
+  FEMA would be appreciated in products derived from these data. This digital data
+  is produced for the purposes of updating/creating a DFIRM database. Users should
+  be aware that temporal changes may have occurred since this data set was collected
+  and some parts of this data may no longer represent actual surface conditions. Users
+  should not use this data for critical applications without a full awareness of its
+  limitations.\", \"Access Constraints: None\"]\"\n\t},\n\t{\n\t\t\"key\": \"spatial_harvester\",\n\t\t\"value\":
+  true\n\t},\n\t{\n\t\t\"key\": \"frequency-of-update\",\n\t\t\"value\": \"unknown\"\n\t},\n\t{\n\t\t\"package_id\":
+  \"bd686602-98b5-43f4-9a4b-060ced9f70c0\",\n\t\t\"value\": \"slope, county-fips 017,
+  topography, breaklines, digital terrain model, dem, flow vectors, elevation data,
+  region 10, lidar, land surface, county bonner, relief, fema-cid 16017c, community
+  bonner, county of, state id, contours\",\n\t\t\"revision_timestamp\": \"2015-07-06T05:57:10.547606\",\n\t\t\"state\":
+  \"active\",\n\t\t\"key\": \"tags\",\n\t\t\"revision_id\": \"5d18ba3a-99f5-4d30-830a-03f05b65a897\",\n\t\t\"id\":
+  \"d553e3a1-42b1-40ef-a3dc-9cb16442f9f7\"\n\t},\n\t{\n\t\t\"state\": \"active\",\n\t\t\"key\":
+  \"harvest_object_id\",\n\t\t\"value\": \"d829cfa3-dac8-4371-ae61-dad625405ebb\"\n\t},\n\t{\n\t\t\"state\":
+  \"active\",\n\t\t\"key\": \"harvest_source_id\",\n\t\t\"value\": \"fd47c02e-3ef2-42fb-b4e5-40560b136a08\"\n\t},\n\t{\n\t\t\"state\":
+  \"active\",\n\t\t\"key\": \"harvest_source_title\",\n\t\t\"value\": \"FEMA-R10\"\n\t}],\n\t\"organization\":
+  {\n\t\t\"description\": \"\",\n\t\t\"created\": \"2013-03-14T03:44:42.822878\",\n\t\t\"title\":
+  \"Federal Emergency Management Agency, Department of Homeland Security\",\n\t\t\"name\":
+  \"fema-gov\",\n\t\t\"revision_timestamp\": \"2013-03-25T17:20:37.167472\",\n\t\t\"is_organization\":
+  true,\n\t\t\"state\": \"active\",\n\t\t\"image_url\": \"http://ep4u.sm4.biz/communities/7/004/008/908/237/images/4543640096_pre.jpg\",\n\t\t\"revision_id\":
+  \"42c731d4-22ea-4393-b3b6-100cc50fc0bd\",\n\t\t\"type\": \"organization\",\n\t\t\"id\":
+  \"ae816746-a815-4a3f-805d-2b51b561c626\",\n\t\t\"approval_status\": \"approved\"\n\t},\n\t\"revision_id\":
+  \"5d18ba3a-99f5-4d30-830a-03f05b65a897\"\n}"

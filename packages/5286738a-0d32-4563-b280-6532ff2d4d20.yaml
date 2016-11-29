@@ -1,0 +1,114 @@
+"{\n\t\"owner_org\": \"56d45844-910f-4632-a4ff-bf5f0e6cb653\",\n\t\"maintainer\":
+  null,\n\t\"relationships_as_object\": [],\n\t\"private\": false,\n\t\"maintainer_email\":
+  null,\n\t\"num_tags\": 0,\n\t\"id\": \"5286738a-0d32-4563-b280-6532ff2d4d20\",\n\t\"metadata_created\":
+  \"2013-03-14T19:47:02.535115\",\n\t\"metadata_modified\": \"2013-05-30T15:56:28.333515\",\n\t\"author\":
+  null,\n\t\"author_email\": null,\n\t\"state\": \"active\",\n\t\"version\": null,\n\t\"license_id\":
+  null,\n\t\"type\": \"dataset\",\n\t\"resources\": [{\n\t\t\"resource_group_id\":
+  \"e0653662-5a23-4798-b4e5-c9fe5cf37417\",\n\t\t\"cache_last_updated\": null,\n\t\t\"revision_timestamp\":
+  \"2013-03-14T19:47:02.535115\",\n\t\t\"webstore_last_updated\": null,\n\t\t\"id\":
+  \"9ac55dff-01d3-4216-b547-2c90ac12acc8\",\n\t\t\"size\": null,\n\t\t\"state\": \"active\",\n\t\t\"last_modified\":
+  null,\n\t\t\"hash\": \"\",\n\t\t\"description\": \"\",\n\t\t\"format\": \"\",\n\t\t\"tracking_summary\":
+  {\n\t\t\t\"total\": 245,\n\t\t\t\"recent\": 5\n\t\t},\n\t\t\"mimetype_inner\": null,\n\t\t\"resource_locator_protocol\":
+  \"\",\n\t\t\"revision_id\": \"7ea073cb-89d3-4edb-9cf9-8ca6ec8fd28b\",\n\t\t\"mimetype\":
+  null,\n\t\t\"cache_url\": null,\n\t\t\"name\": \"Web Page\",\n\t\t\"created\": \"2013-03-14T20:47:02.557487\",\n\t\t\"url\":
+  \"http:\\www.kansasgis.org\",\n\t\t\"webstore_url\": null,\n\t\t\"resource_locator_function\":
+  \"\",\n\t\t\"position\": 0,\n\t\t\"no_real_name\": true,\n\t\t\"resource_type\":
+  null\n\t},\n\t{\n\t\t\"resource_group_id\": \"e0653662-5a23-4798-b4e5-c9fe5cf37417\",\n\t\t\"cache_last_updated\":
+  null,\n\t\t\"revision_timestamp\": \"2013-03-14T19:47:02.535115\",\n\t\t\"webstore_last_updated\":
+  null,\n\t\t\"id\": \"45cd4500-2246-4904-930f-3c80c2cf9ec9\",\n\t\t\"size\": null,\n\t\t\"state\":
+  \"active\",\n\t\t\"last_modified\": null,\n\t\t\"hash\": \"\",\n\t\t\"description\":
+  \"\",\n\t\t\"format\": \"\",\n\t\t\"tracking_summary\": {\n\t\t\t\"total\": 164,\n\t\t\t\"recent\":
+  4\n\t\t},\n\t\t\"mimetype_inner\": null,\n\t\t\"resource_locator_protocol\": \"\",\n\t\t\"revision_id\":
+  \"7ea073cb-89d3-4edb-9cf9-8ca6ec8fd28b\",\n\t\t\"mimetype\": null,\n\t\t\"cache_url\":
+  null,\n\t\t\"name\": \"Web Page\",\n\t\t\"created\": \"2013-03-14T20:47:02.557508\",\n\t\t\"url\":
+  \"http://www.kansasgis.org\",\n\t\t\"webstore_url\": null,\n\t\t\"resource_locator_function\":
+  \"\",\n\t\t\"position\": 1,\n\t\t\"no_real_name\": true,\n\t\t\"resource_type\":
+  null\n\t}],\n\t\"num_resources\": 2,\n\t\"tags\": [],\n\t\"title\": \"Correctional
+  Institutions\",\n\t\"tracking_summary\": {\n\t\t\"total\": 28,\n\t\t\"recent\":
+  0\n\t},\n\t\"groups\": [],\n\t\"relationships_as_subject\": [],\n\t\"revision_timestamp\":
+  \"2013-03-14T19:47:02.535115\",\n\t\"name\": \"correctional-institutions\",\n\t\"isopen\":
+  false,\n\t\"url\": null,\n\t\"notes\": \"Jails and Prisons (Correctional Institutions)
+  in Kansas The Jails and Prisons sub-layer is part of the Emergency Law Enforcement
+  Sector and the Critical Infrastructure Category. A Jail or Prison consists of any
+  facility or location where individuals are regularly and lawfully detained against
+  their will. This includes Federal and State prisons, local jails, and juvenile detention
+  facilities, as well as law enforcement temporary holding facilities. Work camps,
+  including camps operated seasonally, are included if they otherwise meet the definition.
+  A Federal Prison is a facility operated by the Federal Bureau of Prisons for the
+  incarceration of individuals. A State Prison is a facility operated by a state,
+  commonwealth, or territory of the US for the incarceration of individuals for a
+  term usually longer than 1 year. A Juvenile Detention Facility is a facility for
+  the incarceration of those who have not yet reached the age of majority (usually
+  18 years). A Local Jail is a locally administered facility that holds inmates beyond
+  arraignment (usually 72 hours) and is staffed by municipal or county employees.
+  A temporary holding facility, sometimes referred to as a \"police lock up\" or \"drunk
+  tank\", is a facility used to detain people prior to arraignment. Locations that
+  are administrative offices only are excluded from the dataset. This definition of
+  Jails is consistent with that used by the Department of Justice (DOJ) in their \"National
+  Jail Census\", with the exception of \"temporary holding facilities\", which the
+  DOJ excludes. If the facility is enclosed with a fence, wall, or structure with
+  a gate around the buildings only, the locations were depicted as ONENTITY at the
+  entrance. If the facility's buildings are not enclosed, the locations were depicted
+  as ONENTITY on the building or BLOCKFACE on the correct street segment. Personal
+  homes, administrative offices and temporary locations are intended to be excluded
+  from this dataset, but a few may be included. Personal homes of constables may exist
+  due to the fact that many constables work out of their home. With the merge of the
+  Law Enforcement and the Correctional Institutions datasets, the NAICS Descriptions
+  were assigned based on the facility's main function, which were determined by the
+  entity's name, facility type, web research and state supplied data. For records
+  where the entity's name represents both datasets, the NAICS Description was assigned
+  based on the specifications of the dataset the record is assigned to. text fields
+  in this dataset have been set to all upper case to facilitate consistent database
+  engine search results. All diacritics (e.g., the German umlaut or the Spanish tilde)
+  have been replaced with their closest equivalent English character to facilitate
+  use with database systems that may not support diacritics. The currentness of this
+  dataset is indicated by the [CONTDATE] attribute. Based upon this attribute, the
+  oldest record dates from 2006/06/27 and the newest record dates from 2008/03/06\",\n\t\"license_title\":
+  null,\n\t\"extras\": [{\n\t\t\"key\": \"temporal-extent-begin\",\n\t\t\"value\":
+  \"2006-06-27\"\n\t},\n\t{\n\t\t\"key\": \"temporal-extent-end\",\n\t\t\"value\":
+  \"2008-03-06\"\n\t},\n\t{\n\t\t\"key\": \"contact-email\",\n\t\t\"value\": \"mthompson@tgstech.com\"\n\t},\n\t{\n\t\t\"key\":
+  \"metadata-language\",\n\t\t\"value\": \"\"\n\t},\n\t{\n\t\t\"key\": \"bbox-west-long\",\n\t\t\"value\":
+  \"-101.891711\"\n\t},\n\t{\n\t\t\"key\": \"metadata-date\",\n\t\t\"value\": \"2009-10-07\"\n\t},\n\t{\n\t\t\"key\":
+  \"dataset-reference-date\",\n\t\t\"value\": \"[{\"type\": \"publication\", \"value\":
+  \"2008-04-07\"}]\"\n\t},\n\t{\n\t\t\"key\": \"resource-type\",\n\t\t\"value\": \"dataset\"\n\t},\n\t{\n\t\t\"key\":
+  \"bbox-east-long\",\n\t\t\"value\": \"-94.622120\"\n\t},\n\t{\n\t\t\"key\": \"spatial-reference-system\",\n\t\t\"value\":
+  \"\"\n\t},\n\t{\n\t\t\"key\": \"bbox-north-lat\",\n\t\t\"value\": \"39.851558\"\n\t},\n\t{\n\t\t\"key\":
+  \"coupled-resource\",\n\t\t\"value\": \"[]\"\n\t},\n\t{\n\t\t\"key\": \"bbox-south-lat\",\n\t\t\"value\":
+  \"36.997855\"\n\t},\n\t{\n\t\t\"key\": \"licence\",\n\t\t\"value\": \"[\"The State
+  of Kansas Geographic Information Systems Core Database's digital data have been
+  tested and their documentation carefully reviewed. However, the State of Kansas
+  Geographic Information Systems Policy Board's Data Access and Support Center and
+  its representatives make no warranty or representation, either expressed or implied,
+  with respect to the digital data and their documentation, their quality, performance,
+  merchantability, or fitness for a particular purpose. The digital data are distributed
+  on \"as is\" basis, and the user assumes all risk to their quality, the results
+  obtained from their use, and the performance of the data. In no event will the State
+  of Kansas Geographic Information Systems Policy Board or its representatives be
+  liable for any direct, indirect, special, incidental or consequential damages resulting
+  from and defect in the State of Kansas Geographic Information Systems Core Database's
+  digital data or in their documentation. This disclaimer of warranty is exlusive
+  and in lieu of all others, oral or written, express or implied. No agent or employee
+  is authorized to make any modification, extension, or addition to this warranty.\"]\"\n\t},\n\t{\n\t\t\"key\":
+  \"metadata_type\",\n\t\t\"value\": \"geospatial\"\n\t},\n\t{\n\t\t\"key\": \"responsible-party\",\n\t\t\"value\":
+  \"[{\"name\": \"TechniGraphics, Inc.\", \"roles\": [\"pointOfContact\"]}]\"\n\t},\n\t{\n\t\t\"key\":
+  \"spatial\",\n\t\t\"value\": \"{\"type\": \"Polygon\", \"coordinates\": [[[-101.891711,
+  36.997855], [-101.891711, 39.851558], [-94.62212, 39.851558], [-94.62212, 36.997855],
+  [-101.891711, 36.997855]]]}\"\n\t},\n\t{\n\t\t\"key\": \"guid\",\n\t\t\"value\":
+  \"\"\n\t},\n\t{\n\t\t\"key\": \"spatial-data-service-type\",\n\t\t\"value\": \"\"\n\t},\n\t{\n\t\t\"key\":
+  \"access_constraints\",\n\t\t\"value\": \"[\"Use Constraints: None\", \"Access Constraints:
+  None\"]\"\n\t},\n\t{\n\t\t\"key\": \"frequency-of-update\",\n\t\t\"value\": \"unknown\"\n\t},\n\t{\n\t\t\"package_id\":
+  \"5286738a-0d32-4563-b280-6532ff2d4d20\",\n\t\t\"value\": \"Jails, Prisons, Juvenile
+  detention homes, structure\",\n\t\t\"revision_timestamp\": \"2013-05-17T00:00:00\",\n\t\t\"state\":
+  \"active\",\n\t\t\"key\": \"tags\",\n\t\t\"revision_id\": \"7ea073cb-89d3-4edb-9cf9-8ca6ec8fd28b\",\n\t\t\"id\":
+  \"15a75c3e-58f5-4daa-afa4-ef2694856ca1\"\n\t},\n\t{\n\t\t\"state\": \"active\",\n\t\t\"key\":
+  \"harvest_object_id\",\n\t\t\"value\": \"f40638e0-22ab-4c41-a4cc-b6115b408e7c\"\n\t},\n\t{\n\t\t\"state\":
+  \"active\",\n\t\t\"key\": \"harvest_source_id\",\n\t\t\"value\": \"619e3d4a-0a81-4a85-a769-47b591108252\"\n\t},\n\t{\n\t\t\"state\":
+  \"active\",\n\t\t\"key\": \"harvest_source_title\",\n\t\t\"value\": \"Kansas Data
+  Access and Support Center\"\n\t}],\n\t\"organization\": {\n\t\t\"description\":
+  \"\",\n\t\t\"created\": \"2013-03-14T03:44:40.184067\",\n\t\t\"title\": \"Kansas
+  Data Access and Support Center\",\n\t\t\"name\": \"kgs-ku-edu\",\n\t\t\"revision_timestamp\":
+  \"2013-05-30T15:56:28.333515\",\n\t\t\"is_organization\": true,\n\t\t\"state\":
+  \"active\",\n\t\t\"image_url\": \"http://www.kansasgis.org/_style/img/banner.png\",\n\t\t\"revision_id\":
+  \"649a4ecd-dd72-4628-b80e-cea6a4f616d2\",\n\t\t\"type\": \"organization\",\n\t\t\"id\":
+  \"56d45844-910f-4632-a4ff-bf5f0e6cb653\",\n\t\t\"approval_status\": \"approved\"\n\t},\n\t\"revision_id\":
+  \"7ea073cb-89d3-4edb-9cf9-8ca6ec8fd28b\"\n}"

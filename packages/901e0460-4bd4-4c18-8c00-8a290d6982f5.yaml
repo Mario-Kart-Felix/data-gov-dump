@@ -1,0 +1,87 @@
+"{\n\t\"owner_org\": \"d4258583-d8ab-4f7a-9c23-4f1a442f69b9\",\n\t\"maintainer\":
+  \"Donald Long\",\n\t\"relationships_as_object\": [],\n\t\"private\": false,\n\t\"maintainer_email\":
+  \"dlong01@fs.fed.us\",\n\t\"num_tags\": 4,\n\t\"id\": \"901e0460-4bd4-4c18-8c00-8a290d6982f5\",\n\t\"metadata_created\":
+  \"2014-11-03T19:06:54.081090\",\n\t\"metadata_modified\": \"2015-09-18T16:31:28.569059\",\n\t\"author\":
+  \"Donald Long\",\n\t\"author_email\": \"dlong01@fs.fed.us\",\n\t\"state\": \"active\",\n\t\"version\":
+  null,\n\t\"license_id\": \"notspecified\",\n\t\"type\": \"dataset\",\n\t\"resources\":
+  [{\n\t\t\"resource_group_id\": \"4d40897b-ed2b-4cc0-9e74-71850acbe84e\",\n\t\t\"cache_last_updated\":
+  null,\n\t\t\"revision_timestamp\": \"2014-11-05T18:58:48.968092\",\n\t\t\"webstore_last_updated\":
+  null,\n\t\t\"id\": \"043d6637-b8e1-497b-8df2-225d7b810f54\",\n\t\t\"size\": null,\n\t\t\"state\":
+  \"active\",\n\t\t\"hash\": \"\",\n\t\t\"description\": \"The Fire Regime Groups
+  (FRG) were intended to characterize the presumed historical fire regimes within
+  landscapes based on interactions between vegetation dynamics, fire spread, fire
+  effects, and spatial context. FRG definitions have been altered from previous applications
+  to best approximate the definitions outlined in the Interagency Fire Regime Condition
+  Class Guidebook. These definitions were refined to create discrete, mutually exclusive
+  criteria appropriate for use with LANDFIRE's fire frequency and severity data products.
+  \",\n\t\t\"format\": \"HTML\",\n\t\t\"tracking_summary\": {\n\t\t\t\"total\": 31,\n\t\t\t\"recent\":
+  2\n\t\t},\n\t\t\"mimetype_inner\": null,\n\t\t\"mimetype\": null,\n\t\t\"cache_url\":
+  null,\n\t\t\"name\": \" LANDFIRE Fire Regime Groups\",\n\t\t\"created\": \"2014-11-03T14:11:01.154164\",\n\t\t\"url\":
+  \"http://www.landfire.gov/NationalProductDescriptions12.php\",\n\t\t\"webstore_url\":
+  null,\n\t\t\"last_modified\": null,\n\t\t\"position\": 0,\n\t\t\"revision_id\":
+  \"e2d97546-81f6-404d-914c-73bdc893a96f\",\n\t\t\"resource_type\": \"file\"\n\t},\n\t{\n\t\t\"resource_group_id\":
+  \"4d40897b-ed2b-4cc0-9e74-71850acbe84e\",\n\t\t\"cache_last_updated\": null,\n\t\t\"revision_timestamp\":
+  \"2014-11-12T18:10:39.700194\",\n\t\t\"webstore_last_updated\": null,\n\t\t\"id\":
+  \"f861567b-d958-412f-b530-9126cc656b50\",\n\t\t\"size\": null,\n\t\t\"state\": \"active\",\n\t\t\"hash\":
+  \"\",\n\t\t\"description\": \"The Mean Fire Return Interval (MFRI) layer quantifies
+  the average period between fires under the presumed historical fire regime. MFRI
+  is intended to describe one component of historical fire regime characteristics
+  in the context of the broader historical time period represented by the LANDFIRE
+  Biophysical Settings (BPS) layer and BPS Model documentation. MFRI is derived from
+  the vegetation and disturbance dynamics model VDDT (Vegetation Dynamics Development
+  Tool) (LF_1.0.0 CONUS only used the vegetation and disturbance dynamics model LANDSUM).
+  This layer is created by linking the BpS Group attribute in the BpS layer with the
+  Refresh Model Tracker (RMT) data and assigning the MFRI attribute. This geospatial
+  product should display a reasonable approximation of MFRI, as documented in the
+  RMT. MFRI is used in landscape assessments.\",\n\t\t\"format\": \"HTML\",\n\t\t\"tracking_summary\":
+  {\n\t\t\t\"total\": 9,\n\t\t\t\"recent\": 2\n\t\t},\n\t\t\"mimetype_inner\": null,\n\t\t\"mimetype\":
+  null,\n\t\t\"cache_url\": null,\n\t\t\"name\": \"LANDFIRE Mean Fire Interval\",\n\t\t\"created\":
+  \"2014-11-05T13:47:54.758100\",\n\t\t\"url\": \"http://www.landfire.gov/NationalProductDescriptions13.php\",\n\t\t\"webstore_url\":
+  null,\n\t\t\"last_modified\": null,\n\t\t\"position\": 1,\n\t\t\"revision_id\":
+  \"a393b75f-e29d-42c9-9763-67fb03050877\",\n\t\t\"resource_type\": \"file\"\n\t}],\n\t\"num_resources\":
+  2,\n\t\"tags\": [{\n\t\t\"vocabulary_id\": null,\n\t\t\"display_name\": \"Fire Regime\",\n\t\t\"name\":
+  \"Fire Regime\",\n\t\t\"revision_timestamp\": \"2014-11-03T19:06:54.081090\",\n\t\t\"state\":
+  \"active\",\n\t\t\"id\": \"0a57a34c-a73a-4a45-a60e-e920d59808d9\"\n\t},\n\t{\n\t\t\"vocabulary_id\":
+  null,\n\t\t\"display_name\": \"Land  Use Land Cover Theme\",\n\t\t\"name\": \"Land
+  \ Use Land Cover Theme\",\n\t\t\"revision_timestamp\": \"2015-01-30T19:04:41.517808\",\n\t\t\"state\":
+  \"active\",\n\t\t\"id\": \"e095c438-d778-4c14-a983-3adec8147baf\"\n\t},\n\t{\n\t\t\"vocabulary_id\":
+  null,\n\t\t\"display_name\": \"NGDA\",\n\t\t\"name\": \"NGDA\",\n\t\t\"revision_timestamp\":
+  \"2015-01-30T19:04:41.517808\",\n\t\t\"state\": \"active\",\n\t\t\"id\": \"22b46b09-bdef-48bc-b827-9134e6f85749\"\n\t},\n\t{\n\t\t\"vocabulary_id\":
+  null,\n\t\t\"display_name\": \"USFS\",\n\t\t\"name\": \"USFS\",\n\t\t\"revision_timestamp\":
+  \"2015-09-01T16:43:57.326833\",\n\t\t\"state\": \"active\",\n\t\t\"id\": \"52eb8066-5fc3-4202-8ee4-005fde1ab0a9\"\n\t}],\n\t\"title\":
+  \"US Forest Service LANDFIRE Historical Fire Regimes\",\n\t\"tracking_summary\":
+  {\n\t\t\"total\": 156,\n\t\t\"recent\": 4\n\t},\n\t\"groups\": [{\n\t\t\"capacity\":
+  \"public\",\n\t\t\"description\": \"Ecosystems Community\",\n\t\t\"created\": \"2013-06-17T18:29:50.724385\",\n\t\t\"title\":
+  \"Ecosystems\",\n\t\t\"name\": \"ecosystems0617\",\n\t\t\"is_organization\": false,\n\t\t\"state\":
+  \"active\",\n\t\t\"image_url\": \"\",\n\t\t\"revision_id\": \"6ee79b45-0dac-47c5-9d0a-bbdf2e6b206e\",\n\t\t\"type\":
+  \"group\",\n\t\t\"id\": \"3b2f2e70-3e81-4aa7-8305-a534cd6af6c8\",\n\t\t\"approval_status\":
+  \"approved\"\n\t},\n\t{\n\t\t\"capacity\": \"public\",\n\t\t\"description\": \"\",\n\t\t\"created\":
+  \"2014-02-10T19:48:04.582185\",\n\t\t\"title\": \"Climate\",\n\t\t\"name\": \"climate5434\",\n\t\t\"is_organization\":
+  false,\n\t\t\"state\": \"active\",\n\t\t\"image_url\": \"\",\n\t\t\"revision_id\":
+  \"0b1d940d-ae84-483e-abb0-c9f69b9d870c\",\n\t\t\"type\": \"group\",\n\t\t\"id\":
+  \"aa0c01c9-d292-4dc1-8fec-b10c1bb629a9\",\n\t\t\"approval_status\": \"approved\"\n\t}],\n\t\"relationships_as_subject\":
+  [],\n\t\"revision_timestamp\": \"2015-09-18T16:31:28.569059\",\n\t\"name\": \"us-forest-service-landfire-historical-fire-regimes\",\n\t\"isopen\":
+  false,\n\t\"url\": null,\n\t\"notes\": \"Historical fire regimes, intervals, and
+  vegetation conditions are mapped using the Vegetation Dynamics Development Tool
+  (VDDT). These data support fire and landscape management planning goals in the National
+  Cohesive Wildland Fire Management Strategy, the Federal Wildland Fire Management
+  Policy, and the Healthy Forests Restoration Act.\",\n\t\"license_title\": \"License
+  Not Specified\",\n\t\"extras\": [{\n\t\t\"key\": \"responsible-party\",\n\t\t\"value\":
+  \"Donald Long\"\n\t},\n\t{\n\t\t\"key\": \"contact-name\",\n\t\t\"value\": \"Don
+  Long\"\n\t},\n\t{\n\t\t\"key\": \"contact-email\",\n\t\t\"value\": \"dlong01@fs.fed.us\"\n\t},\n\t{\n\t\t\"key\":
+  \"public_access_level\",\n\t\t\"value\": \"public\"\n\t},\n\t{\n\t\t\"key\": \"metadata-date\",\n\t\t\"value\":
+  \"2013-03-31\"\n\t},\n\t{\n\t\t\"key\": \"__category_tag_aa0c01c9-d292-4dc1-8fec-b10c1bb629a9\",\n\t\t\"value\":
+  \"[\"Ecosystem Vulnerability\",\"Fire Regimes\",\"Ecosystem Services and Processes\"]\"\n\t},\n\t{\n\t\t\"key\":
+  \"dataset-reference-date\",\n\t\t\"value\": \"Current\"\n\t},\n\t{\n\t\t\"key\":
+  \"resource-type\",\n\t\t\"value\": \"dataset\"\n\t},\n\t{\n\t\t\"key\": \"Theme\",\n\t\t\"value\":
+  \"NGDA, National Geospatial Data Asset, Land Use Land Cover Theme\"\n\t},\n\t{\n\t\t\"key\":
+  \"metadata_type\",\n\t\t\"value\": \"geospatial\"\n\t},\n\t{\n\t\t\"key\": \"__category_tag_3b2f2e70-3e81-4aa7-8305-a534cd6af6c8\",\n\t\t\"value\":
+  \"[\"Fire Regimes\"]\"\n\t},\n\t{\n\t\t\"key\": \"bureau_code\",\n\t\t\"value\":
+  \"005:96\"\n\t},\n\t{\n\t\t\"key\": \"program_code\",\n\t\t\"value\": \"005:000\"\n\t}],\n\t\"organization\":
+  {\n\t\t\"description\": \"\",\n\t\t\"created\": \"2013-03-14T03:44:45.351405\",\n\t\t\"title\":
+  \"US Forest Service, Department of Agriculture\",\n\t\t\"name\": \"fs-fed-us\",\n\t\t\"revision_timestamp\":
+  \"2014-07-11T14:26:24.459881\",\n\t\t\"is_organization\": true,\n\t\t\"state\":
+  \"active\",\n\t\t\"image_url\": \"http://www.data.gov/app/uploads/2014/07/Forest_Service_Logo.png\",\n\t\t\"revision_id\":
+  \"2560634b-6ef2-4505-8ad4-af0ebf818db7\",\n\t\t\"type\": \"organization\",\n\t\t\"id\":
+  \"d4258583-d8ab-4f7a-9c23-4f1a442f69b9\",\n\t\t\"approval_status\": \"approved\"\n\t},\n\t\"revision_id\":
+  \"9f9de421-030c-47a8-9648-833546015711\"\n}"

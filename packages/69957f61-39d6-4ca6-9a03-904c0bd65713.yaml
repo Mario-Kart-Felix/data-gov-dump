@@ -1,0 +1,69 @@
+|-
+  "{nt"license_title": null,nt"maintainer": null,nt"relationships_as_object":
+    [],nt"private": false,nt"maintainer_email": null,nt"revision_timestamp":
+    "2015-09-26T23:39:43.373586",nt"id": "69957f61-39d6-4ca6-9a03-904c0bd65713",nt"metadata_created":
+    "2015-09-26T23:39:43.373586",nt"metadata_modified": "2016-05-31T05:19:45.040157",nt"author":
+    null,nt"author_email": null,nt"state": "active",nt"version": null,nt"license_id":
+    null,nt"type": "dataset",nt"resources": [{ntt"resource_group_id":
+    "9a34543e-ab50-40b3-b06a-9720ab951a67",ntt"cache_last_updated": null,ntt"revision_timestamp":
+    "2016-05-31T05:19:45.040157",ntt"webstore_last_updated": null,ntt"id":
+    "9742bf8f-69ff-45ae-9209-c75fcedef537",ntt"size": null,ntt"state": "active",ntt"last_modified":
+    null,ntt"hash": "",ntt"description": "",ntt"format": "",ntt"tracking_summary":
+    {nttt"total": 25,nttt"recent": 2ntt},ntt"mimetype_inner": null,ntt"resource_locator_protocol":
+    "",ntt"revision_id": "43593615-a674-402f-b159-969354bd382a",ntt"mimetype":
+    null,ntt"cache_url": null,ntt"name": "Web Page",ntt"created": "2016-05-31T01:19:45.164779",ntt"url":
+    "https://coast.noaa.gov/digitalcoast/tools/opennspect",ntt"webstore_url":
+    null,ntt"resource_locator_function": "",ntt"position": 0,ntt"no_real_name":
+    true,ntt"resource_type": nullnt}],nt"num_resources": 1,nt"tags":
+    [],nt"tracking_summary": {ntt"total": 6,ntt"recent": 0nt},nt"groups":
+    [],nt"organization": {ntt"description": "",ntt"title": "National
+    Oceanic and Atmospheric Administration, Department of Commerce",ntt"created":
+    "2013-03-14T03:44:40.434269",ntt"approval_status": "approved",ntt"revision_timestamp":
+    "2013-03-25T23:05:12.923863",ntt"is_organization": true,ntt"state":
+    "active",ntt"image_url": "https://fortress.wa.gov/dfw/score/score/images/noaa_logo.png",ntt"revision_id":
+    "c6d43080-22e1-405e-a83d-f2a512d9e867",ntt"type": "organization",ntt"id":
+    "e811f0b4-451f-4896-9e8f-fc6802837819",ntt"name": "noaa-gov"nt},nt"relationships_as_subject":
+    [],nt"num_tags": 0,nt"name": "r-factor-for-the-island-of-oahu",nt"isopen":
+    false,nt"url": null,nt"notes": "The rainfall-runoff erosivity factor (R-Factor)
+    quantifies the effects of raindrop impacts and reflects the amount and rate of runoff
+    associated with the rain. The R-factor is one of the parameters used by the Revised
+    Unified Soil Loss Equation (RUSLE) to estimate annual rates of erosion. This product
+    is a raster representation of R-Factor derived from isoerodent maps published in
+    the Agriculture Handbook Number 703 (Renard et al.,1997). Lines connecting points
+    of equal rainfall ersoivity are called isoerodents. The iserodents plotted on a
+    map of the Island of Oahu were digitized, then values between these lines were obtained
+    by linear interpolation. The final R-Factor data are in raster GeoTiff format at
+    30 meter resolution in UTM, Zone 4, GRS80, NAD83.",nt"owner_org": "e811f0b4-451f-4896-9e8f-fc6802837819",nt"extras":
+    [{ntt"key": "bbox-east-long",ntt"value": "-157.537389"nt},nt{ntt"key":
+    "resource-type",ntt"value": "dataset"nt},nt{ntt"key": "bbox-north-lat",ntt"value":
+    "21.792525"nt},nt{ntt"key": "coupled-resource",ntt"value": "[]"nt},nt{ntt"key":
+    "guid",ntt"value": ""nt},nt{ntt"key": "spatial_harvester",ntt"value":
+    truent},nt{ntt"key": "bbox-south-lat",ntt"value": "21.149339"nt},nt{ntt"key":
+    "spatial-reference-system",ntt"value": ""nt},nt{ntt"key": "spatial",ntt"value":
+    "{"type": "Polygon", "coordinates": [[[-158.386092, 21.149339], [-157.537389,
+    21.149339], [-157.537389, 21.792525], [-158.386092, 21.792525], [-158.386092, 21.149339]]]}"nt},nt{ntt"key":
+    "progress",ntt"value": "completed"nt},nt{ntt"key": "access_constraints",ntt"value":
+    "["Use Constraints: None", "Access Constraints: None"]"nt},nt{ntt"key":
+    "temporal-extent-begin",ntt"value": "1975-01-01"nt},nt{ntt"key":
+    "contact-email",ntt"value": "coastal.info@noaa.gov"nt},nt{ntt"key":
+    "bbox-west-long",ntt"value": "-158.386092"nt},nt{ntt"key": "metadata-date",ntt"value":
+    "2016-05-23"nt},nt{ntt"key": "dataset-reference-date",ntt"value":
+    "[{"type": "publication", "value": "2013-12-26"}]"nt},nt{ntt"key":
+    "frequency-of-update",ntt"value": "notPlanned"nt},nt{ntt"key":
+    "licence",ntt"value": "["Any conclusions drawn from the analysis of this
+    information are not the responsibility of NOAA, the Office for Coastal Management
+    or its partners."]"nt},nt{ntt"key": "metadata_type",ntt"value":
+    "geospatial"nt},nt{ntt"key": "responsible-party",ntt"value": "[{"name":
+    "NOAA Office for Coastal Management", "roles": ["pointOfContact"]}]"nt},nt{ntt"key":
+    "temporal-extent-end",ntt"value": "1997-01-01"nt},nt{ntt"key":
+    "spatial-data-service-type",ntt"value": ""nt},nt{ntt"key": "metadata-language",ntt"value":
+    ""nt},nt{ntt"key": "tags",ntt"value": "revised universal soil
+    loss equation, waikiki, pearl city, honolulu, rusle, rainfall-runoff erosivity,
+    kaneohe, hawaii, diamond head, coastal zone, wahiawa, environmental monitoring,
+    waialua, oahu, r-factor, erosion, rusle2, pearl harbor, waianae",ntt"__extras":
+    {nttt"package_id": "69957f61-39d6-4ca6-9a03-904c0bd65713",nttt"revision_id":
+    "8513e92f-de3d-4200-ac51-3531fcb9d50e"ntt}nt},nt{ntt"key": "harvest_object_id",ntt"value":
+    "9d434c4d-b758-494f-a0ea-f6647452a1ca"nt},nt{ntt"key": "harvest_source_id",ntt"value":
+    "2aed8e29-fc5b-4cde-aa66-fb1118fd705e"nt},nt{ntt"key": "harvest_source_title",ntt"value":
+    "NOAA CSW Harvest Source"nt}],nt"title": "R-Factor for the Island of Oahu",nt"revision_id":
+    "8513e92f-de3d-4200-ac51-3531fcb9d50e"n}"

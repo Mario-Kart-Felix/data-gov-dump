@@ -1,0 +1,77 @@
+"{\n\t\"owner_org\": \"fc5cb2c1-d0b0-482a-8a52-7d42ea186ae1\",\n\t\"maintainer\":
+  \"Ian Serguson\",\n\t\"relationships_as_object\": [],\n\t\"private\": false,\n\t\"maintainer_email\":
+  \"ian.serguson@dot.gov\",\n\t\"num_tags\": 6,\n\t\"id\": \"79a8c536-22e0-44f5-9402-9d6663fe0592\",\n\t\"metadata_created\":
+  \"2016-05-25T00:41:29.582651\",\n\t\"metadata_modified\": \"2016-08-03T23:16:15.953129\",\n\t\"author\":
+  null,\n\t\"author_email\": null,\n\t\"state\": \"active\",\n\t\"version\": null,\n\t\"license_id\":
+  \"other-license-specified\",\n\t\"type\": \"dataset\",\n\t\"resources\": [],\n\t\"num_resources\":
+  0,\n\t\"tags\": [{\n\t\t\"vocabulary_id\": null,\n\t\t\"display_name\": \"cargo\",\n\t\t\"name\":
+  \"cargo\",\n\t\t\"revision_timestamp\": \"2016-05-25T00:41:29.582651\",\n\t\t\"state\":
+  \"active\",\n\t\t\"id\": \"63c5959e-8299-445b-a17c-596143281052\"\n\t},\n\t{\n\t\t\"vocabulary_id\":
+  null,\n\t\t\"display_name\": \"destination\",\n\t\t\"name\": \"destination\",\n\t\t\"revision_timestamp\":
+  \"2016-05-25T00:41:29.582651\",\n\t\t\"state\": \"active\",\n\t\t\"id\": \"cec20ed5-fb79-482f-a171-ae8491485315\"\n\t},\n\t{\n\t\t\"vocabulary_id\":
+  null,\n\t\t\"display_name\": \"flag\",\n\t\t\"name\": \"flag\",\n\t\t\"revision_timestamp\":
+  \"2016-05-25T00:41:29.582651\",\n\t\t\"state\": \"active\",\n\t\t\"id\": \"efc6ff77-40cf-437c-b4e0-067c76203c17\"\n\t},\n\t{\n\t\t\"vocabulary_id\":
+  null,\n\t\t\"display_name\": \"status\",\n\t\t\"name\": \"status\",\n\t\t\"revision_timestamp\":
+  \"2016-05-25T00:41:29.582651\",\n\t\t\"state\": \"active\",\n\t\t\"id\": \"75602239-e6ff-4d35-bccc-47b1e35425ca\"\n\t},\n\t{\n\t\t\"vocabulary_id\":
+  null,\n\t\t\"display_name\": \"transit\",\n\t\t\"name\": \"transit\",\n\t\t\"revision_timestamp\":
+  \"2016-05-25T00:41:29.582651\",\n\t\t\"state\": \"active\",\n\t\t\"id\": \"e57e7da0-b99c-4e16-8e53-0a071f9c7baf\"\n\t},\n\t{\n\t\t\"vocabulary_id\":
+  null,\n\t\t\"display_name\": \"vessel\",\n\t\t\"name\": \"vessel\",\n\t\t\"revision_timestamp\":
+  \"2016-05-25T00:41:29.582651\",\n\t\t\"state\": \"active\",\n\t\t\"id\": \"0f1f4f5b-be49-4863-abe2-7b704c8cbbc9\"\n\t}],\n\t\"title\":
+  \"Nav Status & Daily Transit Report\",\n\t\"tracking_summary\": {\n\t\t\"total\":
+  8,\n\t\t\"recent\": 0\n\t},\n\t\"groups\": [{\n\t\t\"capacity\": \"public\",\n\t\t\"description\":
+  \"Maritime Topic\",\n\t\t\"created\": \"2016-08-02T13:23:56.653226\",\n\t\t\"title\":
+  \"Maritime\",\n\t\t\"name\": \"maritime\",\n\t\t\"is_organization\": false,\n\t\t\"state\":
+  \"active\",\n\t\t\"image_url\": \"\",\n\t\t\"revision_id\": \"4d149a19-09bc-4a99-a262-f9038af94d46\",\n\t\t\"type\":
+  \"group\",\n\t\t\"id\": \"78473e2f-b6ba-4e28-b0c1-d53c35a7e010\",\n\t\t\"approval_status\":
+  \"approved\"\n\t}],\n\t\"relationships_as_subject\": [],\n\t\"revision_timestamp\":
+  \"2016-05-25T00:41:29.582651\",\n\t\"name\": \"nav-status-daily-transit-report\",\n\t\"isopen\":
+  true,\n\t\"url\": null,\n\t\"notes\": \"Displays a breakdown of vessel transit through
+  Eisenhower lock in Massena, NY by different types of vessels and comparing current
+  year transits to the year previous. Compares inbound and outbound; ocean and inland
+  vessels with cargo and ballast. Transit report displays vessel name, agent no, Lloyd's
+  no, flag designation, cargo, type of cargo, destination, and clearance times for
+  Snell and Eisenhower locks.\",\n\t\"license_title\": \"Other License Specified\",\n\t\"extras\":
+  [{\n\t\t\"key\": \"confidentiality\",\n\t\t\"value\": false\n\t},\n\t{\n\t\t\"key\":
+  \"harvest_source_id\",\n\t\t\"value\": \"a400d398-0d24-4940-b8b3-6573a1670b01\"\n\t},\n\t{\n\t\t\"key\":
+  \"issued\",\n\t\t\"value\": \"2014-11-06\"\n\t},\n\t{\n\t\t\"key\": \"resource-type\",\n\t\t\"value\":
+  \"Dataset\"\n\t},\n\t{\n\t\t\"key\": \"source_hash\",\n\t\t\"value\": \"7ba390721190f43984b7cb47d448e1d376276c72\"\n\t},\n\t{\n\t\t\"key\":
+  \"category\",\n\t\t\"value\": \"Raw data\"\n\t},\n\t{\n\t\t\"key\": \"__category_tag_78473e2f-b6ba-4e28-b0c1-d53c35a7e010\",\n\t\t\"value\":
+  \"[\"Operational Status\",\"Vessel Movements\"]\"\n\t},\n\t{\n\t\t\"key\": \"temporal\",\n\t\t\"value\":
+  \"R/2014-11-06/P1D\"\n\t},\n\t{\n\t\t\"key\": \"theme\",\n\t\t\"value\": [\"Transportation\"]\n\t},\n\t{\n\t\t\"key\":
+  \"programCode\",\n\t\t\"value\": [\"021:051\"]\n\t},\n\t{\n\t\t\"key\": \"subagency\",\n\t\t\"value\":
+  \"Saint Lawrence Seaway Development Corporation\"\n\t},\n\t{\n\t\t\"key\": \"catalog_conformsTo\",\n\t\t\"value\":
+  \"https://project-open-data.cio.gov/v1.1/schema\"\n\t},\n\t{\n\t\t\"key\": \"catalog_@context\",\n\t\t\"value\":
+  \"https://project-open-data.cio.gov/v1.1/schema/catalog.jsonld\"\n\t},\n\t{\n\t\t\"key\":
+  \"catalog_describedBy\",\n\t\t\"value\": \"https://project-open-data.cio.gov/v1.1/schema/catalog.json\"\n\t},\n\t{\n\t\t\"key\":
+  \"QualityResponsibleAgency\",\n\t\t\"value\": \"Saint Lawrence Seaway Development
+  Corporation\"\n\t},\n\t{\n\t\t\"key\": \"collectionMode\",\n\t\t\"value\": \"Generated
+  daily from Traffic Management System (TMS)\"\n\t},\n\t{\n\t\t\"key\": \"harvest_source_title\",\n\t\t\"value\":
+  \"DOT JSON\"\n\t},\n\t{\n\t\t\"key\": \"source_schema_version\",\n\t\t\"value\":
+  \"1.1\"\n\t},\n\t{\n\t\t\"key\": \"phone\",\n\t\t\"value\": \"(202) 366-6510\"\n\t},\n\t{\n\t\t\"key\":
+  \"bureauCode\",\n\t\t\"value\": [\"021:40\"]\n\t},\n\t{\n\t\t\"key\": \"accessLevel\",\n\t\t\"value\":
+  \"non-public\"\n\t},\n\t{\n\t\t\"key\": \"harvest_object_id\",\n\t\t\"value\": \"902c9a16-a906-4575-870f-c6657b4fe5ed\"\n\t},\n\t{\n\t\t\"key\":
+  \"publisher\",\n\t\t\"value\": \"Saint Lawrence Seaway Development Corporation\"\n\t},\n\t{\n\t\t\"key\":
+  \"organizationName\",\n\t\t\"value\": \"Department of Transportation / Saint Lawrence
+  Seaway Development Corporation\"\n\t},\n\t{\n\t\t\"key\": \"license\",\n\t\t\"value\":
+  \"https://project-open-data.cio.gov/unknown-license\"\n\t},\n\t{\n\t\t\"key\": \"language\",\n\t\t\"value\":
+  [\"en-US\"]\n\t},\n\t{\n\t\t\"key\": \"rights\",\n\t\t\"value\": \"Confidential
+  business information\"\n\t},\n\t{\n\t\t\"key\": \"publisher_hierarchy\",\n\t\t\"value\":
+  \"U.S. Government > Department of Transportation > Saint Lawrence Seaway Development
+  Corporation\"\n\t},\n\t{\n\t\t\"key\": \"guidelineCompliance\",\n\t\t\"value\":
+  false\n\t},\n\t{\n\t\t\"key\": \"modified\",\n\t\t\"value\": \"2014-11-07\"\n\t},\n\t{\n\t\t\"key\":
+  \"source_datajson_identifier\",\n\t\t\"value\": true\n\t},\n\t{\n\t\t\"key\": \"catalog_@id\",\n\t\t\"value\":
+  \"https://www.dot.gov/data.json\"\n\t},\n\t{\n\t\t\"key\": \"categoryDesignation\",\n\t\t\"value\":
+  \"Administrative\"\n\t},\n\t{\n\t\t\"key\": \"accrualPeriodicity\",\n\t\t\"value\":
+  \"R/P1D\"\n\t},\n\t{\n\t\t\"key\": \"numberOfDatasets\",\n\t\t\"value\": 1\n\t},\n\t{\n\t\t\"key\":
+  \"additionalMetadata\",\n\t\t\"value\": \"N/A\"\n\t},\n\t{\n\t\t\"key\": \"identifier\",\n\t\t\"value\":
+  \"592.0\"\n\t},\n\t{\n\t\t\"state\": \"active\",\n\t\t\"key\": \"harvest_object_id\",\n\t\t\"value\":
+  \"902c9a16-a906-4575-870f-c6657b4fe5ed\"\n\t},\n\t{\n\t\t\"state\": \"active\",\n\t\t\"key\":
+  \"harvest_source_id\",\n\t\t\"value\": \"a400d398-0d24-4940-b8b3-6573a1670b01\"\n\t},\n\t{\n\t\t\"state\":
+  \"active\",\n\t\t\"key\": \"harvest_source_title\",\n\t\t\"value\": \"DOT JSON\"\n\t}],\n\t\"organization\":
+  {\n\t\t\"description\": \"\",\n\t\t\"created\": \"2013-05-18T11:46:56.521190\",\n\t\t\"title\":
+  \"Department of Transportation\",\n\t\t\"name\": \"dot-gov\",\n\t\t\"revision_timestamp\":
+  \"2013-08-30T13:59:29.523214\",\n\t\t\"is_organization\": true,\n\t\t\"state\":
+  \"active\",\n\t\t\"image_url\": \"http://upload.wikimedia.org/wikipedia/commons/8/81/US_DOT_Triskelion.png\",\n\t\t\"revision_id\":
+  \"684c8481-4ae2-46b0-a083-b392eea15130\",\n\t\t\"type\": \"organization\",\n\t\t\"id\":
+  \"fc5cb2c1-d0b0-482a-8a52-7d42ea186ae1\",\n\t\t\"approval_status\": \"approved\"\n\t},\n\t\"revision_id\":
+  \"194b0d57-23ad-4ed5-be5b-76fed62df5c0\"\n}"

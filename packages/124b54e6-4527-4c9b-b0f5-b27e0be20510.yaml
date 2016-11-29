@@ -1,0 +1,85 @@
+|-
+  "{nt"owner_org": "32e644cd-07b4-427e-b867-d7f9dcf23f9c",nt"maintainer":
+    null,nt"relationships_as_object": [],nt"private": false,nt"maintainer_email":
+    null,nt"num_tags": 0,nt"id": "124b54e6-4527-4c9b-b0f5-b27e0be20510",nt"metadata_created":
+    "2013-07-19T16:00:29.726375",nt"metadata_modified": "2013-07-19T16:00:29.726375",nt"author":
+    null,nt"author_email": null,nt"state": "active",nt"version": null,nt"license_id":
+    null,nt"type": "dataset",nt"resources": [{ntt"resource_group_id":
+    "443bb43e-0aea-4ea7-9671-3bbd79c81c68",ntt"cache_last_updated": null,ntt"revision_timestamp":
+    "2013-07-19T16:00:29.726375",ntt"webstore_last_updated": null,ntt"id":
+    "49a58675-5a33-458b-ac78-f0008f6fc545",ntt"size": null,ntt"state": "active",ntt"last_modified":
+    null,ntt"hash": "",ntt"description": "sinhole_polys.zip",ntt"format":
+    "ZIP",ntt"tracking_summary": {nttt"total": 6,nttt"recent": 1ntt},ntt"mimetype_inner":
+    null,ntt"resource_locator_protocol": "",ntt"revision_id": "8fc51160-35f0-483d-a3e8-c384b6696a12",ntt"mimetype":
+    null,ntt"cache_url": null,ntt"name": "Zip File",ntt"created": "2013-07-19T12:00:29.889603",ntt"url":
+    "ftp://ftp.igsb.uiowa.edu/gis_library/ia_state/geologic/karst/sinhole_polys.zip",ntt"webstore_url":
+    null,ntt"resource_locator_function": "",ntt"position": 0,ntt"no_real_name":
+    true,ntt"resource_type": nullnt},nt{ntt"resource_group_id": "443bb43e-0aea-4ea7-9671-3bbd79c81c68",ntt"cache_last_updated":
+    null,ntt"revision_timestamp": "2013-07-19T16:00:29.726375",ntt"webstore_last_updated":
+    null,ntt"id": "2a6d3e4d-8ac7-4c3f-9cc6-9bf723c3837c",ntt"size": null,ntt"state":
+    "active",ntt"last_modified": null,ntt"hash": "",ntt"description":
+    "sinkhole_polys.zip",ntt"format": "ZIP",ntt"tracking_summary": {nttt"total":
+    2,nttt"recent": 1ntt},ntt"mimetype_inner": null,ntt"resource_locator_protocol":
+    "",ntt"revision_id": "8fc51160-35f0-483d-a3e8-c384b6696a12",ntt"mimetype":
+    null,ntt"cache_url": null,ntt"name": "Zip File",ntt"created": "2013-07-19T12:00:29.889672",ntt"url":
+    "ftp://ftp.igsb.uiowa.edu/gis_library/ia_state/geologic/karst/sinkhole_polys.zip",ntt"webstore_url":
+    null,ntt"resource_locator_function": "",ntt"position": 1,ntt"no_real_name":
+    true,ntt"resource_type": nullnt}],nt"num_resources": 2,nt"tags":
+    [],nt"title": "Current Sinkhole Boundaries in Iowa",nt"tracking_summary":
+    {ntt"total": 27,ntt"recent": 1nt},nt"groups": [],nt"relationships_as_subject":
+    [],nt"revision_timestamp": "2013-07-19T16:00:29.726375",nt"name": "current-sinkhole-boundaries-in-iowa",nt"isopen":
+    false,nt"url": null,nt"notes": "This dataset is a polygon coverage of the
+    sinkhole boundaries as determined by using LiDAR data. The polygons relate to the
+    point coverage using the KPolyID field in both coverages. If a point has a KPolyID,
+    the KPolyID links to the same field in the sinkhole_polys coverage. If the KPolyID
+    is empty the sinkhole is an historic sinkhole and does not show up in the LiDAR
+    data.",nt"license_title": null,nt"extras": [{ntt"key": "responsible-party",ntt"value":
+    "[{"name": "Iowa Department of Natural Resources", "roles": ["pointOfContact"]}]"nt},nt{ntt"key":
+    "contact-email",ntt"value": "calvin.wolter@dnr.iowa.gov"nt},nt{ntt"key":
+    "metadata-language",ntt"value": ""nt},nt{ntt"key": "bbox-west-long",ntt"value":
+    "-92.351066"nt},nt{ntt"key": "metadata-date",ntt"value": "2009-01-23"nt},nt{ntt"key":
+    "dataset-reference-date",ntt"value": "[{"type": "publication", "value":
+    "2009-01-23"}]"nt},nt{ntt"key": "resource-type",ntt"value": "dataset"nt},nt{ntt"key":
+    "bbox-east-long",ntt"value": "-91.114121"nt},nt{ntt"key": "spatial-reference-system",ntt"value":
+    ""nt},nt{ntt"key": "bbox-north-lat",ntt"value": "43.506812"nt},nt{ntt"key":
+    "coupled-resource",ntt"value": "[]"nt},nt{ntt"key": "bbox-south-lat",ntt"value":
+    "42.642751"nt},nt{ntt"key": "licence",ntt"value": "["Although
+    efforts have been made in correcting errors in order to make this information useful
+    to the Department, the Department assumes no responsibility for errors in the information.
+     Similarly, the Department assumes no responsibility for the consequences of inappropriate
+    uses or interpretations of the data made by anyone to whom this data has been made
+    available.  The Department bears no responsibility to inform users of any changes
+    made to this data.  Anyone using this data is advised that precision implied by
+    the coverage may far exceed actual precision.  Comments on this data are invited
+    and the Department would appreciate that documented errors be brought to staff attention.
+    "]"nt},nt{ntt"key": "metadata_type",ntt"value": "geospatial"nt},nt{ntt"key":
+    "spatial",ntt"value": "{"type": "Polygon", "coordinates": [[[-92.351066,
+    42.642751], [-91.114121, 42.642751], [-91.114121, 43.506812], [-92.351066, 43.506812],
+    [-92.351066, 42.642751]]]}"nt},nt{ntt"key": "guid",ntt"value":
+    ""nt},nt{ntt"key": "spatial-data-service-type",ntt"value": ""nt},nt{ntt"key":
+    "access_constraints",ntt"value": "["Use Constraints: The development of
+    the coverages in the NRGIS Library represents a major investment of staff time and
+    effort. As a professional responsibility, the Iowa DNR expects to receive proper
+    credit when these GIS coverages are utilized. The Department also expects that the
+    original documentation will remain with any redistribution of these coverages.",
+    "Access Constraints: None"]"nt},nt{ntt"key": "spatial_harvester",ntt"value":
+    truent},nt{ntt"key": "frequency-of-update",ntt"value": "irregular"nt},nt{ntt"package_id":
+    "124b54e6-4527-4c9b-b0f5-b27e0be20510",ntt"value": "sinhole, karst, depressions,
+    Iowa",ntt"revision_timestamp": "2013-07-19T16:00:29.726375",ntt"state":
+    "active",ntt"key": "tags",ntt"revision_id": "8fc51160-35f0-483d-a3e8-c384b6696a12",ntt"id":
+    "5bc53df4-60e3-411d-957f-51392d190b07"nt},nt{ntt"state": "active",ntt"key":
+    "harvest_object_id",ntt"value": "c618ade8-1e6a-4c7f-81a3-f906920a19b4"nt},nt{ntt"state":
+    "active",ntt"key": "harvest_source_id",ntt"value": "2abfde33-b6a6-461c-879b-612565f3a067"nt},nt{ntt"state":
+    "active",ntt"key": "harvest_source_title",ntt"value": "Iowa Geospatial
+    Data Clearinghouse"nt}],nt"organization": {ntt"description": "The GIS
+    Support and Research Facility is a public computing facility established to support
+    the use of geographic information system (GIS) technology at Iowa State University.
+    The mission of the facility is to provide a high level GIS research support laboratory
+    for students, faculty and staff as well as to provided GIS education and outreach
+    to the ISU community and the state of Iowa.",ntt"created": "2013-07-19T09:05:50.799086",ntt"title":
+    "Iowa State University GIS Support and Research Facility",ntt"name": "iastate-edu",ntt"revision_timestamp":
+    "2013-07-19T15:56:17.219368",ntt"is_organization": true,ntt"state":
+    "active",ntt"image_url": "http://www.gis.iastate.edu/images/GISFlogo50H.png",ntt"revision_id":
+    "3fb02433-fa30-4475-9ff3-e5dcf5cfb139",ntt"type": "organization",ntt"id":
+    "32e644cd-07b4-427e-b867-d7f9dcf23f9c",ntt"approval_status": "approved"nt},nt"revision_id":
+    "8fc51160-35f0-483d-a3e8-c384b6696a12"n}"

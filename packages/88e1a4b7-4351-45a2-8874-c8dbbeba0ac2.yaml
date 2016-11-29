@@ -1,0 +1,105 @@
+"{\n\t\"owner_org\": \"e811f0b4-451f-4896-9e8f-fc6802837819\",\n\t\"maintainer\":
+  null,\n\t\"relationships_as_object\": [],\n\t\"private\": false,\n\t\"maintainer_email\":
+  null,\n\t\"num_tags\": 0,\n\t\"id\": \"88e1a4b7-4351-45a2-8874-c8dbbeba0ac2\",\n\t\"metadata_created\":
+  \"2015-12-20T18:45:12.139741\",\n\t\"metadata_modified\": \"2015-12-20T18:45:12.139741\",\n\t\"author\":
+  null,\n\t\"author_email\": null,\n\t\"state\": \"active\",\n\t\"version\": null,\n\t\"license_id\":
+  null,\n\t\"type\": \"dataset\",\n\t\"resources\": [{\n\t\t\"resource_group_id\":
+  \"31c630de-04d0-4e06-8c7f-33a962d892f5\",\n\t\t\"cache_last_updated\": null,\n\t\t\"revision_timestamp\":
+  \"2015-12-20T18:45:12.139741\",\n\t\t\"webstore_last_updated\": null,\n\t\t\"id\":
+  \"5d3d266d-6fb1-4e30-b4f1-74c43df38446\",\n\t\t\"size\": null,\n\t\t\"state\": \"active\",\n\t\t\"last_modified\":
+  null,\n\t\t\"hash\": \"\",\n\t\t\"description\": \"\",\n\t\t\"format\": \"\",\n\t\t\"tracking_summary\":
+  {\n\t\t\t\"total\": 6,\n\t\t\t\"recent\": 2\n\t\t},\n\t\t\"mimetype_inner\": null,\n\t\t\"resource_locator_protocol\":
+  \"\",\n\t\t\"revision_id\": \"166bd511-7afa-4a50-96e3-37d898d2e84f\",\n\t\t\"mimetype\":
+  null,\n\t\t\"cache_url\": null,\n\t\t\"name\": \"Web Page\",\n\t\t\"created\": \"2015-12-20T13:45:12.239899\",\n\t\t\"url\":
+  \"http://ccma.nos.noaa.gov/about/biogeography/\",\n\t\t\"webstore_url\": null,\n\t\t\"resource_locator_function\":
+  \"\",\n\t\t\"position\": 0,\n\t\t\"no_real_name\": true,\n\t\t\"resource_type\":
+  null\n\t}],\n\t\"num_resources\": 1,\n\t\"tags\": [],\n\t\"title\": \"NOAA TIFF
+  Image - 4m Bathymetric Slope of Red Snapper Research Areas in the South Atlantic
+  Bight, 2010\",\n\t\"tracking_summary\": {\n\t\t\"total\": 2,\n\t\t\"recent\": 2\n\t},\n\t\"groups\":
+  [],\n\t\"relationships_as_subject\": [],\n\t\"revision_timestamp\": \"2015-12-20T18:45:12.139741\",\n\t\"name\":
+  \"noaa-tiff-image-4m-bathymetric-slope-of-red-snapper-research-areas-in-the-south-atlantic-2010e1b4d\",\n\t\"isopen\":
+  false,\n\t\"url\": null,\n\t\"notes\": \"This dataset contains unified Bathymetric
+  Slope GeoTiffs with 4x4 meter cell resolution describing the topography of 15 areas
+  along the shelf edge off the South Atlantic Bight where NOAA South East Fisheries
+  Independent Survey (SEFIS) are conducting research on Red Snapper (lutjanus campechanus).
+  The multibeam data covers a total of 232 sq km and was collected in 2010 by the
+  NOAA Ship Nancy Foster with a hull-mounted Kongsberg Simrad EM 1002 multibeam echo
+  sounder (95 kHz). It was processed by NOAA's NOS/NCCOS/CCMA Biogeography Branch
+  using CARIS HIPS 7.1 software. Data has all correctors applied (attitude, sound
+  velocity) and has been reduced to mean lower low water (MLLW) using final approved
+  tides and zoning from NOAA COOPS. The processed CARIS data was used to generate
+  a CARIS BASE surface using CUBE. The CARIS export option \"BASE Surface to ASCII\"
+  was then used to create a GeoTiff of the priority areas in ArcGIS 10. Slope was
+  derived from this surface using the Slope function in ArcGIS Spatial Analyst.\",\n\t\"license_title\":
+  null,\n\t\"extras\": [{\n\t\t\"key\": \"bbox-east-long\",\n\t\t\"value\": \"-79.00\"\n\t},\n\t{\n\t\t\"key\":
+  \"resource-type\",\n\t\t\"value\": \"dataset\"\n\t},\n\t{\n\t\t\"key\": \"bbox-north-lat\",\n\t\t\"value\":
+  \"32.43\"\n\t},\n\t{\n\t\t\"key\": \"coupled-resource\",\n\t\t\"value\": \"[]\"\n\t},\n\t{\n\t\t\"key\":
+  \"guid\",\n\t\t\"value\": \"\"\n\t},\n\t{\n\t\t\"key\": \"spatial_harvester\",\n\t\t\"value\":
+  true\n\t},\n\t{\n\t\t\"key\": \"bbox-south-lat\",\n\t\t\"value\": \"28.68\"\n\t},\n\t{\n\t\t\"key\":
+  \"spatial-reference-system\",\n\t\t\"value\": \"\"\n\t},\n\t{\n\t\t\"key\": \"spatial\",\n\t\t\"value\":
+  \"{\"type\": \"Polygon\", \"coordinates\": [[[-80.68, 28.68], [-79.0, 28.68], [-79.0,
+  32.43], [-80.68, 32.43], [-80.68, 28.68]]]}\"\n\t},\n\t{\n\t\t\"key\": \"progress\",\n\t\t\"value\":
+  \"completed\"\n\t},\n\t{\n\t\t\"key\": \"access_constraints\",\n\t\t\"value\": \"[\"Use
+  Constraints: Note: NOT TO BE USED FOR NAVIGATION. These data were prepared by an
+  agency of the United States Government. Neither the United States Government nor
+  any agency thereof, nor any of their employees, make any warranty, expressed or
+  implied, or assumes any legal liability or responsibility for the accuracy, completeness,
+  or usefulness of any information, apparatus, product, or process disclosed in this
+  report, or represents that its use would not infringe privately owned rights. Reference
+  therein to any specific commercial product, process, or service by trade name, trademark,
+  manufacturer, or otherwise does not necessarily constitute or imply its endorsement,
+  recommendation, or favoring by the United States Government or any agency thereof.
+  Any views and opinions of authors expressed herein do not necessarily state or reflect
+  those of the United States Government or any agency thereof. Although all data have
+  been used by NOAA, no warranty, expressed or implied, is made by NOAA as to the
+  accuracy of the data and/or related materials. The act of distribution shall not
+  constitute any such warranty, and no responsibility is assumed by NOAA in the use
+  of these data or related materials.\", \"Access Constraints: Please cite any use
+  of this data.\"]\"\n\t},\n\t{\n\t\t\"key\": \"temporal-extent-begin\",\n\t\t\"value\":
+  \"2010-09-15\"\n\t},\n\t{\n\t\t\"key\": \"contact-email\",\n\t\t\"value\": \"\"\n\t},\n\t{\n\t\t\"key\":
+  \"bbox-west-long\",\n\t\t\"value\": \"-80.68\"\n\t},\n\t{\n\t\t\"key\": \"metadata-date\",\n\t\t\"value\":
+  \"2014-08-27\"\n\t},\n\t{\n\t\t\"key\": \"dataset-reference-date\",\n\t\t\"value\":
+  \"[{\"type\": \"publication\", \"value\": \"2012-01-01\"}]\"\n\t},\n\t{\n\t\t\"key\":
+  \"frequency-of-update\",\n\t\t\"value\": \"notPlanned\"\n\t},\n\t{\n\t\t\"key\":
+  \"licence\",\n\t\t\"value\": \"[\"These data were prepared by an agency of the United
+  States Government. Neither the United States Government nor any agency thereof,
+  nor any of their employees, make any warranty, expressed or implied, or assumes
+  any legal liability or responsibility for the accuracy, completeness, or usefulness
+  of any information, apparatus, product, or process disclosed in this report, or
+  represents that its use would not infringe privately owned rights. Reference therein
+  to any specific commercial product, process, or service by trade name, trademark,
+  manufacturer, or otherwise does not necessarily constitute or imply its endorsement,
+  recommendation, or favoring by the United States Government or any agency thereof.
+  Any views and opinions of authors expressed herein do not necessarily state or reflect
+  those of the United States Government or any agency thereof. Although all data have
+  been used by NOAA, no warranty, expressed or implied, is made by NOAA as to the
+  accuracy of the data and/or related materials. The act of distribution shall not
+  constitute any such warranty, and no responsibility is assumed by NOAA in the use
+  of these data or related materials.\"]\"\n\t},\n\t{\n\t\t\"key\": \"metadata_type\",\n\t\t\"value\":
+  \"geospatial\"\n\t},\n\t{\n\t\t\"key\": \"responsible-party\",\n\t\t\"value\": \"[{\"name\":
+  \"Department of Commerce (DOC), National Oceanic and Atmospheric Administration
+  (NOAA), National Ocean Service (NOS), National Centers for Coastal Ocean Science
+  (NCCOS), Center for Coastal Monitoring and Assessment (CCMA), Biogeography Branch\",
+  \"roles\": [\"pointOfContact\"]}]\"\n\t},\n\t{\n\t\t\"key\": \"temporal-extent-end\",\n\t\t\"value\":
+  \"2010-10-21\"\n\t},\n\t{\n\t\t\"key\": \"spatial-data-service-type\",\n\t\t\"value\":
+  \"\"\n\t},\n\t{\n\t\t\"key\": \"metadata-language\",\n\t\t\"value\": \"\"\n\t},\n\t{\n\t\t\"package_id\":
+  \"88e1a4b7-4351-45a2-8874-c8dbbeba0ac2\",\n\t\t\"value\": \"slope, biogeography,
+  marmap, habitat, south atlantic bight, aquatic habitat, bathymetry, noaa, reef habitat,
+  benthic, earth science, south carolina, gis, geographic information, southeast atlantic,
+  sefis, efh, south atlantic ocean, 2010, description, continental shelf, oceans,
+  grid, bathymetry/seafloor topography, grays reef, reef, noaa ship nancy foster,
+  simrad em1002, seafloor, raster, georgia, multibeam, biosphere, mbes, florida, bathymetry/topography,
+  sonar, ocean explorer, red snapper\",\n\t\t\"revision_timestamp\": \"2015-12-20T18:45:12.139741\",\n\t\t\"state\":
+  \"active\",\n\t\t\"key\": \"tags\",\n\t\t\"revision_id\": \"166bd511-7afa-4a50-96e3-37d898d2e84f\",\n\t\t\"id\":
+  \"f34f0b56-9e02-4e6d-a70f-9d56bdc46a72\"\n\t},\n\t{\n\t\t\"state\": \"active\",\n\t\t\"key\":
+  \"harvest_object_id\",\n\t\t\"value\": \"9450fd8e-7605-44db-befc-e427350e7b60\"\n\t},\n\t{\n\t\t\"state\":
+  \"active\",\n\t\t\"key\": \"harvest_source_id\",\n\t\t\"value\": \"2aed8e29-fc5b-4cde-aa66-fb1118fd705e\"\n\t},\n\t{\n\t\t\"state\":
+  \"active\",\n\t\t\"key\": \"harvest_source_title\",\n\t\t\"value\": \"NOAA CSW Harvest
+  Source\"\n\t}],\n\t\"organization\": {\n\t\t\"description\": \"\",\n\t\t\"created\":
+  \"2013-03-14T03:44:40.434269\",\n\t\t\"title\": \"National Oceanic and Atmospheric
+  Administration, Department of Commerce\",\n\t\t\"name\": \"noaa-gov\",\n\t\t\"revision_timestamp\":
+  \"2013-03-25T23:05:12.923863\",\n\t\t\"is_organization\": true,\n\t\t\"state\":
+  \"active\",\n\t\t\"image_url\": \"https://fortress.wa.gov/dfw/score/score/images/noaa_logo.png\",\n\t\t\"revision_id\":
+  \"c6d43080-22e1-405e-a83d-f2a512d9e867\",\n\t\t\"type\": \"organization\",\n\t\t\"id\":
+  \"e811f0b4-451f-4896-9e8f-fc6802837819\",\n\t\t\"approval_status\": \"approved\"\n\t},\n\t\"revision_id\":
+  \"166bd511-7afa-4a50-96e3-37d898d2e84f\"\n}"
