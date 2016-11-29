@@ -4,3 +4,13 @@ layout: page
 
 <h1>{{ site.project_title }}</h1>
 <p>{{ site.project_description }}</p>
+
+site.data
+
+{% for package in site.data %}
+
+  {% assign content = package[0] %}
+
+  {{ content }}<br />
+
+{% endfor %}
