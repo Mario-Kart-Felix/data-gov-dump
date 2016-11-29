@@ -5,6 +5,7 @@ layout: page
 <h1>{{ site.project_title }}</h1>
 <p>{{ site.project_description }}</p>
 
-{{ site.data.packages.a83da3b9-de6d-4897-8365-adeb56b009ee }}
-
-<p>Done 2...</p>
+{% for package in site.data %}
+  {{ package[0] }}<br />
+{% endfor %}
+<p>Done 3...</p>
