@@ -1,11 +1,8 @@
-# Adopta Blueprint
-This is the master blueprint for Adopta projects. You start your project by forking this blueprint, and use it as the template for your project.
-Adopta projects take advantage of Github functionality, and run as Github Pages using Jekyll. Everthing about this project is managed through three mechinms:
+# Data.gov Index Dump
+I was wanting to map out, assess, and work with a variety of the government data indexed at data.gov. I didn't want to be hitting CKAN API behind the site to slice and dice the data I wanted, and wanted to establish a separate cached index of (http://data.gov)--for whatever might happen in the next administration
 
-* _config.yml - This is the heart of the project, and you will use to edit every aspect of the project from the title, to listing the data sets--everything starts here.
-* /blog - Tell the stories through the Jekyll blog, keeping potential consumers aware of every step along the way, so they can experience from start to finish.
-* Github Issues - The roadmap, changelog, and all conversations around each Adopta project should occur via Github issues, acting as central social thread for projects.
+The quickest and most complete way to pull a copy of the data.gov index was to pull the list of all the tags (https://catalog.data.gov/api/3/action/tag_list), then slow drip the API calls for all the tags, pulling and saving the JSON for all available data packages. To be clear, I am not pulling the data at the moment. This is just the data inventory index, each data resource has the details about where this data is located, and other meta data about the resource in each JSON file.
 
-Our goal is to keep the Adopta proces as simple as possible. It is purely about targeting valuable government datasets and topics, and moving forward the open data conversation by making sure they are truly available in a machine readable way.
+I put all 127,836 packages I pulled in the packages folder for this Github repository. All I did was pull the results and saved each package, using its unique id for the file name. I will be using this repo as a cached copy of data.gov, driving a variety of projects. I will re-run the pull scripts each month, keeping it as up to date as possible.
 
-Fork this repository, and get to work on your own Adopta project today, and join the movement.
+You can submit any questions, comments, and concerns via the Github issues for the project, or ping me @kinlane.com.
