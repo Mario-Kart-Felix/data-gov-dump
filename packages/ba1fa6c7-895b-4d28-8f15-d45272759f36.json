@@ -1,0 +1,218 @@
+{
+	"owner_org": "149dc403-f16f-4e9d-a9c9-39babf7e98bf",
+	"maintainer": "Data Exchange Administrator",
+	"relationships_as_object": [],
+	"private": false,
+	"maintainer_email": "ORDP.Data.Exchange@ssa.gov",
+	"num_tags": 10,
+	"id": "ba1fa6c7-895b-4d28-8f15-d45272759f36",
+	"metadata_created": "2015-01-30T16:17:57.904918",
+	"metadata_modified": "2016-10-29T19:05:40.890243",
+	"author": null,
+	"author_email": null,
+	"state": "active",
+	"version": null,
+	"license_id": "other-license-specified",
+	"type": "dataset",
+	"resources": [],
+	"num_resources": 0,
+	"tags": [{
+		"vocabulary_id": null,
+		"display_name": "aca",
+		"name": "aca",
+		"revision_timestamp": "2015-01-30T16:17:57.904918",
+		"state": "active",
+		"id": "6b5e73f9-ee00-46a1-88b0-3130f74130a8"
+	},
+	{
+		"vocabulary_id": null,
+		"display_name": "affordable-care-act",
+		"name": "affordable-care-act",
+		"revision_timestamp": "2015-01-30T16:17:57.904918",
+		"state": "active",
+		"id": "1b54b9ec-9a98-4c7f-b53a-9dd13357ca88"
+	},
+	{
+		"vocabulary_id": null,
+		"display_name": "cms",
+		"name": "cms",
+		"revision_timestamp": "2015-01-30T16:17:57.904918",
+		"state": "active",
+		"id": "81527bce-4fe3-4e74-ab1b-35f4bca5f2f2"
+	},
+	{
+		"vocabulary_id": null,
+		"display_name": "health-insurance",
+		"name": "health-insurance",
+		"revision_timestamp": "2015-01-30T16:17:57.904918",
+		"state": "active",
+		"id": "e6c9074f-8b5a-4202-8520-067e83bd19c9"
+	},
+	{
+		"vocabulary_id": null,
+		"display_name": "incarceration-data",
+		"name": "incarceration-data",
+		"revision_timestamp": "2015-01-30T16:17:57.904918",
+		"state": "active",
+		"id": "cd36948d-d7df-4f8a-aec6-0fbf12b6b36b"
+	},
+	{
+		"vocabulary_id": null,
+		"display_name": "mbr",
+		"name": "mbr",
+		"revision_timestamp": "2015-01-30T16:17:57.904918",
+		"state": "active",
+		"id": "80dae7b2-878c-4fbf-ad09-e2cd2eb7bc4d"
+	},
+	{
+		"vocabulary_id": null,
+		"display_name": "mef",
+		"name": "mef",
+		"revision_timestamp": "2015-01-30T16:17:57.904918",
+		"state": "active",
+		"id": "295eed79-b8af-4863-b4c8-57a57f5b0159"
+	},
+	{
+		"vocabulary_id": null,
+		"display_name": "numident",
+		"name": "numident",
+		"revision_timestamp": "2015-01-30T16:17:57.904918",
+		"state": "active",
+		"id": "e683a205-f54c-4455-b3a8-407f28574671"
+	},
+	{
+		"vocabulary_id": null,
+		"display_name": "pups",
+		"name": "pups",
+		"revision_timestamp": "2015-01-30T16:17:57.904918",
+		"state": "active",
+		"id": "945274a7-49a7-4b51-b031-24625499a216"
+	},
+	{
+		"vocabulary_id": null,
+		"display_name": "title-ii",
+		"name": "title-ii",
+		"revision_timestamp": "2015-01-30T16:17:57.904918",
+		"state": "active",
+		"id": "5def9ded-048c-4f51-80e3-73fb19489ecd"
+	}],
+	"title": "Affordable Care Act (ACA)",
+	"tracking_summary": {
+		"total": 405,
+		"recent": 17
+	},
+	"groups": [],
+	"relationships_as_subject": [],
+	"revision_timestamp": "2016-10-29T19:05:40.890243",
+	"name": "affordable-care-act-aca",
+	"isopen": true,
+	"url": null,
+	"notes": "The Affordable Care Act (ACA) is a federal statute enacted with a goal of increasing the quality and affordability of health insurance. Through a web service, CMS sends applicant information to SSA. SSA matches applicant data to various SSA data sources and provides a response back to CMS, based on the results of the matches. The results of these matches help CMS and states determine an applicant's eligibility and cost for health insurance. SSA provides results to CMS for matches of SSN, Name, and DOB against the Numident. SSA may also provide Incarceration data from PUPS, Title II income from the MBR, and quarters of coverage data from the MEF.",
+	"license_title": "Other License Specified",
+	"extras": [{
+		"key": "publisher",
+		"value": "Social Security Administration"
+	},
+	{
+		"key": "accessLevel",
+		"value": "restricted public"
+	},
+	{
+		"key": "license",
+		"value": "https:\/\/www.ssa.gov\/open\/data\/Restricted-Public-Licensing-Information.html"
+	},
+	{
+		"key": "harvest_source_id",
+		"value": "3ab711e9-e33a-4f1e-a524-30be635dbce0"
+	},
+	{
+		"key": "rights",
+		"value": "The data contained in this data exchange is restricted due to sensitivity and\/or privacy issues.  If you would like more information on a data exchange with SSA please visit the following web site https:\/\/www.ssa.gov\/dataexchange\/."
+	},
+	{
+		"key": "resource-type",
+		"value": "Dataset"
+	},
+	{
+		"key": "modified",
+		"value": "R\/P1D"
+	},
+	{
+		"key": "harvest_source_title",
+		"value": "SSA JSON"
+	},
+	{
+		"key": "source_schema_version",
+		"value": "1.1"
+	},
+	{
+		"key": "source_datajson_identifier",
+		"value": true
+	},
+	{
+		"key": "programCode",
+		"value": ["016:000"]
+	},
+	{
+		"key": "bureauCode",
+		"value": ["016:00"]
+	},
+	{
+		"key": "accrualPeriodicity",
+		"value": "R\/P1D"
+	},
+	{
+		"key": "spatial",
+		"value": "United States"
+	},
+	{
+		"key": "catalog_conformsTo",
+		"value": "https:\/\/project-open-data.cio.gov\/v1.1\/schema"
+	},
+	{
+		"key": "identifier",
+		"value": "US-GOV-SSA-689"
+	},
+	{
+		"key": "harvest_object_id",
+		"value": "255333e5-36b5-40bc-b0d8-9a8d57cf382f"
+	},
+	{
+		"key": "source_hash",
+		"value": "7bfda1f4ad7d09f0de56bd300cd83f11aa2a6a39"
+	},
+	{
+		"key": "catalog_describedBy",
+		"value": "https:\/\/project-open-data.cio.gov\/v1.1\/schema\/catalog.json"
+	},
+	{
+		"state": "active",
+		"key": "harvest_object_id",
+		"value": "255333e5-36b5-40bc-b0d8-9a8d57cf382f"
+	},
+	{
+		"state": "active",
+		"key": "harvest_source_id",
+		"value": "3ab711e9-e33a-4f1e-a524-30be635dbce0"
+	},
+	{
+		"state": "active",
+		"key": "harvest_source_title",
+		"value": "SSA JSON"
+	}],
+	"organization": {
+		"description": "",
+		"created": "2013-05-18T11:35:25.934290",
+		"title": "Social Security Administration",
+		"name": "ssa-gov",
+		"revision_timestamp": "2015-02-25T20:32:33.216893",
+		"is_organization": true,
+		"state": "active",
+		"image_url": "https:\/\/raw.githubusercontent.com\/GSA\/logo\/master\/ssa.png",
+		"revision_id": "1be01963-921d-432f-b56d-37fa76dfb0a1",
+		"type": "organization",
+		"id": "149dc403-f16f-4e9d-a9c9-39babf7e98bf",
+		"approval_status": "approved"
+	},
+	"revision_id": "bbafc11c-62bf-4376-8067-a9d3e05a2fe5"
+}

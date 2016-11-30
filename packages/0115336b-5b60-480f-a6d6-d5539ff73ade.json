@@ -1,0 +1,277 @@
+{
+	"owner_org": "3609164c-4c49-4a44-9179-23163027dc0a",
+	"maintainer": "admin",
+	"relationships_as_object": [],
+	"private": false,
+	"maintainer_email": "HealthData@hhs.gov",
+	"num_tags": 4,
+	"id": "0115336b-5b60-480f-a6d6-d5539ff73ade",
+	"metadata_created": "2015-06-19T02:53:15.712498",
+	"metadata_modified": "2016-10-07T14:55:30.637690",
+	"author": null,
+	"author_email": null,
+	"state": "active",
+	"version": null,
+	"license_id": "other-license-specified",
+	"type": "dataset",
+	"resources": [{
+		"resource_group_id": "4401e843-379c-4e5c-884d-0d737536c819",
+		"cache_last_updated": null,
+		"revision_timestamp": "2015-10-14T21:07:43.527929",
+		"webstore_last_updated": null,
+		"id": "f2993ebb-47e4-493f-b090-e5d8ac097978",
+		"size": null,
+		"state": "active",
+		"hash": "",
+		"description": "",
+		"format": "CSV",
+		"tracking_summary": {
+			"total": 16,
+			"recent": 1
+		},
+		"mimetype_inner": null,
+		"mimetype": "application\/unknown",
+		"cache_url": null,
+		"name": "csv",
+		"created": "2015-06-18T22:53:15.895756",
+		"url": "https:\/\/data.medicare.gov\/api\/views\/qg5v-bgia\/rows.csv?accessType=DOWNLOAD",
+		"webstore_url": null,
+		"last_modified": null,
+		"position": 0,
+		"revision_id": "0ed34067-3797-4a1e-85b7-f7d30e6c683c",
+		"resource_type": null
+	},
+	{
+		"resource_group_id": "4401e843-379c-4e5c-884d-0d737536c819",
+		"cache_last_updated": null,
+		"revision_timestamp": "2015-10-14T21:07:43.527929",
+		"webstore_last_updated": null,
+		"id": "b016f39d-e0a7-473a-9651-89257178075c",
+		"size": null,
+		"state": "active",
+		"hash": "",
+		"description": "",
+		"format": "RDF",
+		"tracking_summary": {
+			"total": 0,
+			"recent": 0
+		},
+		"mimetype_inner": null,
+		"mimetype": "application\/unknown",
+		"cache_url": null,
+		"name": "rdf",
+		"created": "2015-06-18T22:53:15.895791",
+		"url": "https:\/\/data.medicare.gov\/api\/views\/qg5v-bgia\/rows.rdf?accessType=DOWNLOAD",
+		"webstore_url": null,
+		"last_modified": null,
+		"position": 1,
+		"revision_id": "0ed34067-3797-4a1e-85b7-f7d30e6c683c",
+		"resource_type": null
+	},
+	{
+		"resource_group_id": "4401e843-379c-4e5c-884d-0d737536c819",
+		"cache_last_updated": null,
+		"revision_timestamp": "2015-10-14T21:07:43.527929",
+		"webstore_last_updated": null,
+		"id": "d818d3b8-c3d1-455f-b265-bacda440703c",
+		"size": null,
+		"state": "active",
+		"hash": "",
+		"description": "",
+		"format": "JSON",
+		"tracking_summary": {
+			"total": 0,
+			"recent": 0
+		},
+		"mimetype_inner": null,
+		"mimetype": "application\/unknown",
+		"cache_url": null,
+		"name": "json",
+		"created": "2015-06-18T22:53:15.895801",
+		"url": "https:\/\/data.medicare.gov\/api\/views\/qg5v-bgia\/rows.json?accessType=DOWNLOAD",
+		"webstore_url": null,
+		"last_modified": null,
+		"position": 2,
+		"revision_id": "0ed34067-3797-4a1e-85b7-f7d30e6c683c",
+		"resource_type": null
+	},
+	{
+		"resource_group_id": "4401e843-379c-4e5c-884d-0d737536c819",
+		"cache_last_updated": null,
+		"revision_timestamp": "2015-10-14T21:07:43.527929",
+		"webstore_last_updated": null,
+		"id": "85ee4955-f2a1-4fbc-95e3-7e14d0887724",
+		"size": null,
+		"state": "active",
+		"hash": "",
+		"description": "",
+		"format": "XML",
+		"tracking_summary": {
+			"total": 1,
+			"recent": 1
+		},
+		"mimetype_inner": null,
+		"mimetype": "application\/unknown",
+		"cache_url": null,
+		"name": "text\/xml",
+		"created": "2015-06-18T22:53:15.895809",
+		"url": "https:\/\/data.medicare.gov\/api\/views\/qg5v-bgia\/rows.xml?accessType=DOWNLOAD",
+		"webstore_url": null,
+		"last_modified": null,
+		"position": 3,
+		"revision_id": "0ed34067-3797-4a1e-85b7-f7d30e6c683c",
+		"resource_type": null
+	}],
+	"num_resources": 4,
+	"tags": [{
+		"vocabulary_id": null,
+		"display_name": "dfc",
+		"name": "dfc",
+		"revision_timestamp": "2015-06-19T02:53:15.712498",
+		"state": "active",
+		"id": "1aaf8a85-a566-4a04-8518-6729215a93d3"
+	},
+	{
+		"vocabulary_id": null,
+		"display_name": "dialysis",
+		"name": "dialysis",
+		"revision_timestamp": "2015-06-19T02:53:15.712498",
+		"state": "active",
+		"id": "ec1c248c-ddaf-417a-a6fa-48b816cf08a8"
+	},
+	{
+		"vocabulary_id": null,
+		"display_name": "dialysis-facilities",
+		"name": "dialysis-facilities",
+		"revision_timestamp": "2015-06-19T02:53:15.712498",
+		"state": "active",
+		"id": "f0143fce-5eee-4fa0-aef8-1f82f516dae3"
+	},
+	{
+		"vocabulary_id": null,
+		"display_name": "linking-quality-to-payment-qip",
+		"name": "linking-quality-to-payment-qip",
+		"revision_timestamp": "2015-06-19T02:53:15.712498",
+		"state": "active",
+		"id": "5660d4c2-e034-431b-9559-ee4e55be377a"
+	}],
+	"title": "ESRD QIP - Complete QIP Data - Payment Year 2015",
+	"tracking_summary": {
+		"total": 29,
+		"recent": 1
+	},
+	"groups": [],
+	"relationships_as_subject": [],
+	"revision_timestamp": "2016-04-06T23:21:05.099805",
+	"name": "esrd-qip-complete-qip-data-payment-year-2015",
+	"isopen": true,
+	"url": null,
+	"notes": "<p>The data set includes the number of eligible patients by clinical measure; % patients with Hemoglobin &gt; 12; ESRD QIP data by facility: % of hemodialysis patient-months with spKt\/V &gt;= 1.2; % of peritoneal patient-months with Kt\/V &gt;= 1.7 Kt\/V (dialytic + residual) during the four-month study period; % of pediatric in-center hemodialysis patient-months with spKt\/V &gt;= 1.2; % of hemodialysis patients using an arteriovenous fistula during last treatment of the month; % of hemodialysis patients using an intravenous catheter during the last treatment of the month and for at least 89 days prior; Hemoglobin &gt; 12 measure score; Dialysis Adequacy Measure Topic score; Vascular Access Type Measure Topic score; ICH CAHPS Admin score; NHSN Event Reporting score; Mineral Metabolism Reporting score; Anemia Management Reporting score; the Total Performance Score; and payment reduction percentage.<\/p>\n",
+	"license_title": "Other License Specified",
+	"extras": [{
+		"key": "publisher",
+		"value": "Department of Health &amp; Human Services"
+	},
+	{
+		"key": "identifier",
+		"value": "d7041524-8339-4ebe-9bbe-3e17315199d9"
+	},
+	{
+		"key": "license",
+		"value": "http:\/\/opendefinition.org\/licenses\/odc-odbl\/"
+	},
+	{
+		"key": "harvest_source_id",
+		"value": "15c538b5-31a0-474e-8ba5-c85ee421cb4d"
+	},
+	{
+		"key": "catalog_@context",
+		"value": "https:\/\/project-open-data.cio.gov\/v1.1\/schema\/catalog.jsonld"
+	},
+	{
+		"key": "resource-type",
+		"value": "Dataset"
+	},
+	{
+		"key": "modified",
+		"value": "2016-04-05"
+	},
+	{
+		"key": "harvest_source_title",
+		"value": "Healthdata.gov"
+	},
+	{
+		"key": "source_schema_version",
+		"value": "1.1"
+	},
+	{
+		"key": "source_datajson_identifier",
+		"value": true
+	},
+	{
+		"key": "language",
+		"value": ["en"]
+	},
+	{
+		"key": "bureauCode",
+		"value": ["009:38"]
+	},
+	{
+		"key": "catalog_@id",
+		"value": "https:\/\/www.healthdata.gov\/data.json"
+	},
+	{
+		"key": "programCode",
+		"value": ["009:000"]
+	},
+	{
+		"key": "accessLevel",
+		"value": "public"
+	},
+	{
+		"key": "harvest_object_id",
+		"value": "6ae527d6-77d1-42dc-a161-4a3ee883f8f5"
+	},
+	{
+		"key": "source_hash",
+		"value": "37cad0d231d04ff47cfc86a58b1262d8960e8206"
+	},
+	{
+		"key": "catalog_conformsTo",
+		"value": "https:\/\/project-open-data.cio.gov\/v1.1\/schema"
+	},
+	{
+		"key": "catalog_describedBy",
+		"value": "https:\/\/project-open-data.cio.gov\/v1.1\/schema\/catalog.json"
+	},
+	{
+		"state": "active",
+		"key": "harvest_object_id",
+		"value": "6ae527d6-77d1-42dc-a161-4a3ee883f8f5"
+	},
+	{
+		"state": "active",
+		"key": "harvest_source_id",
+		"value": "15c538b5-31a0-474e-8ba5-c85ee421cb4d"
+	},
+	{
+		"state": "active",
+		"key": "harvest_source_title",
+		"value": "Healthdata.gov"
+	}],
+	"organization": {
+		"description": "",
+		"created": "2013-08-26T15:35:30.958442",
+		"title": "U.S. Department of Health & Human Services",
+		"name": "hhs-gov",
+		"revision_timestamp": "2014-02-28T21:57:27.766656",
+		"is_organization": true,
+		"state": "active",
+		"image_url": "http:\/\/www.healthdata.gov\/sites\/all\/themes\/hdtheme\/logo-dark.png",
+		"revision_id": "eff89d9e-dc00-4101-bbd4-750e1adcc5bb",
+		"type": "organization",
+		"id": "3609164c-4c49-4a44-9179-23163027dc0a",
+		"approval_status": "approved"
+	},
+	"revision_id": "ebabbc7e-9233-4af1-ab43-7c09ff4b2012"
+}

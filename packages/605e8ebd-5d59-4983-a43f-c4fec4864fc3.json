@@ -1,0 +1,456 @@
+{
+	"owner_org": "735d0118-b2a7-4246-a0e3-608b0fa8d1ec",
+	"maintainer": "Lesley Parker",
+	"relationships_as_object": [],
+	"private": false,
+	"maintainer_email": "lparker4@wisc.edu",
+	"num_tags": 4,
+	"id": "605e8ebd-5d59-4983-a43f-c4fec4864fc3",
+	"metadata_created": "2016-07-08T03:19:57.288206",
+	"metadata_modified": "2016-07-08T03:19:57.288206",
+	"author": null,
+	"author_email": null,
+	"state": "active",
+	"version": null,
+	"license_id": "cc-by",
+	"type": "dataset",
+	"resources": [{
+		"resource_group_id": "707bcae9-ad26-4308-aaee-db56895c0f99",
+		"cache_last_updated": null,
+		"revision_timestamp": "2016-07-08T03:19:57.288206",
+		"webstore_last_updated": null,
+		"id": "0375c4fe-7a9a-4b8f-85c4-9020c23888cf",
+		"size": null,
+		"state": "active",
+		"hash": "",
+		"description": "Metadata for nodal instrument array including instrument locations and start and stop times for recording.",
+		"format": "CSV",
+		"tracking_summary": {
+			"total": 0,
+			"recent": 0
+		},
+		"mimetype_inner": null,
+		"mimetype": "text\/csv",
+		"cache_url": null,
+		"name": "nodal-continuous-metadata.csv",
+		"created": "2016-07-07T23:19:57.925290",
+		"url": "http:\/\/gdr.openei.org\/files\/826\/Nodal_continuous_metadata%20%281%29.csv",
+		"webstore_url": null,
+		"last_modified": null,
+		"position": 0,
+		"revision_id": "45008c48-b514-4af9-9278-9c1d8bf30d96",
+		"resource_type": null
+	},
+	{
+		"resource_group_id": "707bcae9-ad26-4308-aaee-db56895c0f99",
+		"cache_last_updated": null,
+		"revision_timestamp": "2016-07-08T03:19:57.288206",
+		"webstore_last_updated": null,
+		"id": "f6421067-9d0d-4242-9206-21ea05e303d1",
+		"size": null,
+		"state": "active",
+		"hash": "",
+		"description": "List of files for continuous data from nodal seismometers. Includes file size.",
+		"format": "CSV",
+		"tracking_summary": {
+			"total": 0,
+			"recent": 0
+		},
+		"mimetype_inner": null,
+		"mimetype": "text\/csv",
+		"cache_url": null,
+		"name": "nodal-continuous-file-list.csv",
+		"created": "2016-07-07T23:19:57.925322",
+		"url": "http:\/\/gdr.openei.org\/files\/826\/Nodal_continuous_file_list.csv",
+		"webstore_url": null,
+		"last_modified": null,
+		"position": 1,
+		"revision_id": "45008c48-b514-4af9-9278-9c1d8bf30d96",
+		"resource_type": null
+	},
+	{
+		"resource_group_id": "707bcae9-ad26-4308-aaee-db56895c0f99",
+		"cache_last_updated": null,
+		"revision_timestamp": "2016-07-08T03:19:57.288206",
+		"webstore_last_updated": null,
+		"id": "46d1151d-b8e5-42fa-ac63-5ae1bdfe870b",
+		"size": null,
+		"state": "active",
+		"hash": "",
+		"description": "Metadata for sweep identification in windowed data from nodal seismometers.",
+		"format": "CSV",
+		"tracking_summary": {
+			"total": 0,
+			"recent": 0
+		},
+		"mimetype_inner": null,
+		"mimetype": "text\/csv",
+		"cache_url": null,
+		"name": "nodal-sweep-metadata.csv",
+		"created": "2016-07-07T23:19:57.925332",
+		"url": "http:\/\/gdr.openei.org\/files\/826\/Nodal_sweep_metadata.csv",
+		"webstore_url": null,
+		"last_modified": null,
+		"position": 2,
+		"revision_id": "45008c48-b514-4af9-9278-9c1d8bf30d96",
+		"resource_type": null
+	},
+	{
+		"resource_group_id": "707bcae9-ad26-4308-aaee-db56895c0f99",
+		"cache_last_updated": null,
+		"revision_timestamp": "2016-07-08T03:19:57.288206",
+		"webstore_last_updated": null,
+		"id": "c58ad968-6b4f-4dbd-8b24-83cdf96f2ae6",
+		"size": null,
+		"state": "active",
+		"hash": "",
+		"description": "File list for windowed data from nodal seismometers for sweeps 4001-5000.",
+		"format": "CSV",
+		"tracking_summary": {
+			"total": 0,
+			"recent": 0
+		},
+		"mimetype_inner": null,
+		"mimetype": "text\/csv",
+		"cache_url": null,
+		"name": "nodal-sweep-file-list-5.csv",
+		"created": "2016-07-07T23:19:57.925339",
+		"url": "http:\/\/gdr.openei.org\/files\/826\/Nodal_sweep_file_list_5.csv",
+		"webstore_url": null,
+		"last_modified": null,
+		"position": 3,
+		"revision_id": "45008c48-b514-4af9-9278-9c1d8bf30d96",
+		"resource_type": null
+	},
+	{
+		"resource_group_id": "707bcae9-ad26-4308-aaee-db56895c0f99",
+		"cache_last_updated": null,
+		"revision_timestamp": "2016-07-08T03:19:57.288206",
+		"webstore_last_updated": null,
+		"id": "608e4d24-5dd3-4d6b-92dd-89f58cdcbf49",
+		"size": null,
+		"state": "active",
+		"hash": "",
+		"description": "File list for windowed data from nodal seismometers for sweeps 2001-3000.",
+		"format": "CSV",
+		"tracking_summary": {
+			"total": 0,
+			"recent": 0
+		},
+		"mimetype_inner": null,
+		"mimetype": "text\/csv",
+		"cache_url": null,
+		"name": "nodal-sweep-file-list-3.csv",
+		"created": "2016-07-07T23:19:57.925346",
+		"url": "http:\/\/gdr.openei.org\/files\/826\/Nodal_sweep_file_list_3.csv",
+		"webstore_url": null,
+		"last_modified": null,
+		"position": 4,
+		"revision_id": "45008c48-b514-4af9-9278-9c1d8bf30d96",
+		"resource_type": null
+	},
+	{
+		"resource_group_id": "707bcae9-ad26-4308-aaee-db56895c0f99",
+		"cache_last_updated": null,
+		"revision_timestamp": "2016-07-08T03:19:57.288206",
+		"webstore_last_updated": null,
+		"id": "7071777c-c91d-4b3e-9cea-70af7a005f30",
+		"size": null,
+		"state": "active",
+		"hash": "",
+		"description": "File list for windowed data from nodal seismometers for sweeps 1001-2000.",
+		"format": "CSV",
+		"tracking_summary": {
+			"total": 0,
+			"recent": 0
+		},
+		"mimetype_inner": null,
+		"mimetype": "text\/csv",
+		"cache_url": null,
+		"name": "nodal-sweep-file-list-2.csv",
+		"created": "2016-07-07T23:19:57.925354",
+		"url": "http:\/\/gdr.openei.org\/files\/826\/Nodal_sweep_file_list_2.csv",
+		"webstore_url": null,
+		"last_modified": null,
+		"position": 5,
+		"revision_id": "45008c48-b514-4af9-9278-9c1d8bf30d96",
+		"resource_type": null
+	},
+	{
+		"resource_group_id": "707bcae9-ad26-4308-aaee-db56895c0f99",
+		"cache_last_updated": null,
+		"revision_timestamp": "2016-07-08T03:19:57.288206",
+		"webstore_last_updated": null,
+		"id": "2f98aa7d-1ed4-44b6-8339-fd62fb2573a6",
+		"size": null,
+		"state": "active",
+		"hash": "",
+		"description": "File list for windowed data from nodal seismometers for sweeps 6001-6633.",
+		"format": "CSV",
+		"tracking_summary": {
+			"total": 0,
+			"recent": 0
+		},
+		"mimetype_inner": null,
+		"mimetype": "text\/csv",
+		"cache_url": null,
+		"name": "nodal-sweep-file-list-7.csv",
+		"created": "2016-07-07T23:19:57.925361",
+		"url": "http:\/\/gdr.openei.org\/files\/826\/Nodal_sweep_file_list_7.csv",
+		"webstore_url": null,
+		"last_modified": null,
+		"position": 6,
+		"revision_id": "45008c48-b514-4af9-9278-9c1d8bf30d96",
+		"resource_type": null
+	},
+	{
+		"resource_group_id": "707bcae9-ad26-4308-aaee-db56895c0f99",
+		"cache_last_updated": null,
+		"revision_timestamp": "2016-07-08T03:19:57.288206",
+		"webstore_last_updated": null,
+		"id": "8c80b5ab-28d6-43c7-b84e-ccd99f42a3e2",
+		"size": null,
+		"state": "active",
+		"hash": "",
+		"description": "File list for windowed data from nodal seismometers for sweeps 3001-4000.",
+		"format": "CSV",
+		"tracking_summary": {
+			"total": 0,
+			"recent": 0
+		},
+		"mimetype_inner": null,
+		"mimetype": "text\/csv",
+		"cache_url": null,
+		"name": "nodal-sweep-file-list-4.csv",
+		"created": "2016-07-07T23:19:57.925368",
+		"url": "http:\/\/gdr.openei.org\/files\/826\/Nodal_sweep_file_list_4.csv",
+		"webstore_url": null,
+		"last_modified": null,
+		"position": 7,
+		"revision_id": "45008c48-b514-4af9-9278-9c1d8bf30d96",
+		"resource_type": null
+	},
+	{
+		"resource_group_id": "707bcae9-ad26-4308-aaee-db56895c0f99",
+		"cache_last_updated": null,
+		"revision_timestamp": "2016-07-08T03:19:57.288206",
+		"webstore_last_updated": null,
+		"id": "0c7b8ced-0c36-4a22-a428-29515d17012b",
+		"size": null,
+		"state": "active",
+		"hash": "",
+		"description": "File list for windowed data from nodal seismometers for sweeps 5001-6000.",
+		"format": "CSV",
+		"tracking_summary": {
+			"total": 0,
+			"recent": 0
+		},
+		"mimetype_inner": null,
+		"mimetype": "text\/csv",
+		"cache_url": null,
+		"name": "nodal-sweep-file-list-6.csv",
+		"created": "2016-07-07T23:19:57.925375",
+		"url": "http:\/\/gdr.openei.org\/files\/826\/Nodal_sweep_file_list_6.csv",
+		"webstore_url": null,
+		"last_modified": null,
+		"position": 8,
+		"revision_id": "45008c48-b514-4af9-9278-9c1d8bf30d96",
+		"resource_type": null
+	},
+	{
+		"resource_group_id": "707bcae9-ad26-4308-aaee-db56895c0f99",
+		"cache_last_updated": null,
+		"revision_timestamp": "2016-07-08T03:19:57.288206",
+		"webstore_last_updated": null,
+		"id": "64351279-1a6d-487a-9c6d-607adf175492",
+		"size": null,
+		"state": "active",
+		"hash": "",
+		"description": "File list for windowed data from nodal seismometers for sweeps 1-1000.",
+		"format": "CSV",
+		"tracking_summary": {
+			"total": 0,
+			"recent": 0
+		},
+		"mimetype_inner": null,
+		"mimetype": "text\/csv",
+		"cache_url": null,
+		"name": "nodal-sweep-file-list-1.csv",
+		"created": "2016-07-07T23:19:57.925382",
+		"url": "http:\/\/gdr.openei.org\/files\/826\/Nodal_sweep_file_list_1.csv",
+		"webstore_url": null,
+		"last_modified": null,
+		"position": 9,
+		"revision_id": "45008c48-b514-4af9-9278-9c1d8bf30d96",
+		"resource_type": null
+	}],
+	"num_resources": 10,
+	"tags": [{
+		"vocabulary_id": null,
+		"display_name": "brady-hot-springs",
+		"name": "brady-hot-springs",
+		"revision_timestamp": "2016-07-08T03:19:57.288206",
+		"state": "active",
+		"id": "70f6aa8d-6f22-48f4-8d17-a9758f57ca88"
+	},
+	{
+		"vocabulary_id": null,
+		"display_name": "geothermal",
+		"name": "geothermal",
+		"revision_timestamp": "2016-07-08T03:19:57.288206",
+		"state": "active",
+		"id": "3f323051-fbd3-4715-bc13-e2fa5e65d369"
+	},
+	{
+		"vocabulary_id": null,
+		"display_name": "metadata",
+		"name": "metadata",
+		"revision_timestamp": "2016-07-08T03:19:57.288206",
+		"state": "active",
+		"id": "8348448d-b03b-40a8-bb88-e03d40038268"
+	},
+	{
+		"vocabulary_id": null,
+		"display_name": "nevada",
+		"name": "nevada",
+		"revision_timestamp": "2016-07-08T03:19:57.288206",
+		"state": "active",
+		"id": "ec8c7b6b-4081-43bb-9c5f-35cbe53dd3b8"
+	}],
+	"title": "PoroTomo Subtask 6.3 Nodal Seismometers Metadata",
+	"tracking_summary": {
+		"total": 1,
+		"recent": 1
+	},
+	"groups": [],
+	"relationships_as_subject": [],
+	"revision_timestamp": "2016-07-08T03:19:57.288206",
+	"name": "porotomo-subtask-6-3-nodal-seismometers-metadata",
+	"isopen": true,
+	"url": null,
+	"notes": "Metadata for the nodal seismometer array deployed at the POROTOMO's Natural Laboratory in Brady Hot Spring, Nevada during the March 2016 testing.\n\nMetadata includes location and timing for each instrument as well as file lists of data to be uploaded in a separate submission.",
+	"license_title": "Creative Commons Attribution",
+	"extras": [{
+		"key": "harvest_source_id",
+		"value": "8d4de31c-979c-4b50-be6b-ea3c72453ff6"
+	},
+	{
+		"key": "issued",
+		"value": "2016-03-28"
+	},
+	{
+		"key": "resource-type",
+		"value": "Dataset"
+	},
+	{
+		"key": "source_hash",
+		"value": "8d234f16618f383df87c0d77d00295ce2ca917a7"
+	},
+	{
+		"key": "accessLevel",
+		"value": "public"
+	},
+	{
+		"key": "spatial",
+		"value": "{\"type\":\"Polygon\",\"coordinates\":[[[-119.2167,39.5883],[-118.8167,39.5883],[-118.8167,39.9883],[-119.2167,39.9883],[-119.2167,39.5883]]]}"
+	},
+	{
+		"key": "catalog_conformsTo",
+		"value": "https:\/\/project-open-data.cio.gov\/v1.1\/schema"
+	},
+	{
+		"key": "catalog_@context",
+		"value": "https:\/\/project-open-data.cio.gov\/v1.1\/schema\/catalog.jsonld"
+	},
+	{
+		"key": "catalog_describedBy",
+		"value": "https:\/\/project-open-data.cio.gov\/v1.1\/schema\/catalog.json"
+	},
+	{
+		"key": "format",
+		"value": "text\/csv"
+	},
+	{
+		"key": "harvest_source_title",
+		"value": "Energy JSON"
+	},
+	{
+		"key": "source_schema_version",
+		"value": "1.1"
+	},
+	{
+		"key": "programCode",
+		"value": ["019:006"]
+	},
+	{
+		"key": "bureauCode",
+		"value": ["019:20"]
+	},
+	{
+		"key": "landingPage",
+		"value": "http:\/\/gdr.openei.org\/submissions\/826"
+	},
+	{
+		"key": "harvest_object_id",
+		"value": "669d3d4c-3df8-445b-8e4b-104d77f2b220"
+	},
+	{
+		"key": "accessURL",
+		"value": "http:\/\/gdr.openei.org\/files\/826\/Nodal_continuous_metadata%20%281%29.csv"
+	},
+	{
+		"key": "publisher",
+		"value": "University of Wisconsin"
+	},
+	{
+		"key": "license",
+		"value": "https:\/\/creativecommons.org\/licenses\/by\/4.0\/"
+	},
+	{
+		"key": "modified",
+		"value": "2016-03-28"
+	},
+	{
+		"key": "source_datajson_identifier",
+		"value": true
+	},
+	{
+		"key": "dataQuality",
+		"value": true
+	},
+	{
+		"key": "identifier",
+		"value": "http:\/\/en.openei.org\/doe-opendata\/dataset\/f0000000-e214-4b72-acd2-000000000826"
+	},
+	{
+		"state": "active",
+		"key": "harvest_object_id",
+		"value": "669d3d4c-3df8-445b-8e4b-104d77f2b220"
+	},
+	{
+		"state": "active",
+		"key": "harvest_source_id",
+		"value": "8d4de31c-979c-4b50-be6b-ea3c72453ff6"
+	},
+	{
+		"state": "active",
+		"key": "harvest_source_title",
+		"value": "Energy JSON"
+	}],
+	"license_url": "http:\/\/www.opendefinition.org\/licenses\/cc-by",
+	"organization": {
+		"description": "",
+		"created": "2013-05-18T11:31:21.471948",
+		"title": "Department of Energy",
+		"name": "doe-gov",
+		"revision_timestamp": "2013-05-31T20:48:37.771905",
+		"is_organization": true,
+		"state": "active",
+		"image_url": "http:\/\/energy.gov\/sites\/prod\/files\/styles\/imagelink\/public\/DoE-Logo.jpeg",
+		"revision_id": "14e1d3c1-4cc7-460c-bf1c-b10e3429b4b0",
+		"type": "organization",
+		"id": "735d0118-b2a7-4246-a0e3-608b0fa8d1ec",
+		"approval_status": "approved"
+	},
+	"revision_id": "45008c48-b514-4af9-9278-9c1d8bf30d96"
+}

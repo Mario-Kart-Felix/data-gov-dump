@@ -1,0 +1,239 @@
+{
+	"owner_org": "073affd8-0fc7-4496-935a-41449e274395",
+	"maintainer": "Nancy Kaplan",
+	"relationships_as_object": [],
+	"private": false,
+	"maintainer_email": "nkaplan@nsf.gov",
+	"num_tags": 6,
+	"id": "ae030d03-d486-4878-b3c3-9f1380c7409f",
+	"metadata_created": "2014-10-31T20:16:18.548127",
+	"metadata_modified": "2016-08-16T03:18:20.444103",
+	"author": null,
+	"author_email": null,
+	"state": "active",
+	"version": null,
+	"license_id": "other-license-specified",
+	"type": "dataset",
+	"resources": [{
+		"resource_group_id": "f8acfa22-ae59-45bc-a30e-c3b0927eaf47",
+		"cache_last_updated": null,
+		"revision_timestamp": "2016-08-16T03:18:20.444103",
+		"webstore_last_updated": null,
+		"id": "c22913ef-1e14-4779-b015-4dcb16a08bff",
+		"size": null,
+		"state": "active",
+		"hash": "",
+		"description": "Details NSF's Funding Rate History from FY 2001-2016.",
+		"format": "CSV",
+		"tracking_summary": {
+			"total": 7,
+			"recent": 3
+		},
+		"mimetype_inner": null,
+		"mimetype": "text\/csv",
+		"cache_url": null,
+		"name": "NSF Funding Rate History",
+		"created": "2016-08-15T23:18:21.404271",
+		"url": "https:\/\/inventory.data.gov\/dataset\/b89d7bfc-e3f1-4cea-9a7e-3cda52db5d0c\/resource\/59ff7dc6-3e6c-49d7-a058-ceaf084e53eb\/download\/nsffundingratehistory.csv",
+		"webstore_url": null,
+		"last_modified": null,
+		"position": 0,
+		"revision_id": "55bb80ac-d2cc-4d19-8563-a85fffe97645",
+		"resource_type": null
+	},
+	{
+		"resource_group_id": "f8acfa22-ae59-45bc-a30e-c3b0927eaf47",
+		"cache_last_updated": null,
+		"revision_timestamp": "2016-08-16T03:18:20.444103",
+		"webstore_last_updated": null,
+		"id": "688a5451-71c7-43e9-8d07-89cd2d3a7cca",
+		"size": null,
+		"state": "active",
+		"hash": "",
+		"description": "",
+		"format": "api",
+		"tracking_summary": {
+			"total": 1,
+			"recent": 1
+		},
+		"mimetype_inner": null,
+		"mimetype": null,
+		"cache_url": null,
+		"name": "NSF Funding Rate History API",
+		"created": "2016-08-15T23:18:21.404306",
+		"url": "https:\/\/inventory.data.gov\/api\/action\/datastore_search?resource_id=59ff7dc6-3e6c-49d7-a058-ceaf084e53eb&limit=1000",
+		"webstore_url": null,
+		"last_modified": null,
+		"position": 1,
+		"revision_id": "55bb80ac-d2cc-4d19-8563-a85fffe97645",
+		"resource_type": null
+	}],
+	"num_resources": 2,
+	"tags": [{
+		"vocabulary_id": null,
+		"display_name": "funding",
+		"name": "funding",
+		"revision_timestamp": "2016-08-16T03:18:20.444103",
+		"state": "active",
+		"id": "7e52d287-f34d-4069-b812-4e85c06ceb22"
+	},
+	{
+		"vocabulary_id": null,
+		"display_name": "history",
+		"name": "history",
+		"revision_timestamp": "2016-08-16T03:18:20.444103",
+		"state": "active",
+		"id": "78ea6eb6-4c69-4d6b-8b67-f63493c79946"
+	},
+	{
+		"vocabulary_id": null,
+		"display_name": "national-science-foundation",
+		"name": "national-science-foundation",
+		"revision_timestamp": "2016-08-16T03:18:20.444103",
+		"state": "active",
+		"id": "5ce20695-520d-4880-a358-7197a34538f7"
+	},
+	{
+		"vocabulary_id": null,
+		"display_name": "nsf",
+		"name": "nsf",
+		"revision_timestamp": "2016-08-16T03:18:20.444103",
+		"state": "active",
+		"id": "f1b7a1a2-3920-4c54-8479-b0fd69c53695"
+	},
+	{
+		"vocabulary_id": null,
+		"display_name": "rate",
+		"name": "rate",
+		"revision_timestamp": "2016-08-16T03:18:20.444103",
+		"state": "active",
+		"id": "60a50ae2-ae12-4cb6-ae84-35e695adbff4"
+	},
+	{
+		"vocabulary_id": null,
+		"display_name": "science",
+		"name": "science",
+		"revision_timestamp": "2016-08-16T03:18:20.444103",
+		"state": "active",
+		"id": "50b31fee-6e4f-4810-a54e-52cab7954206"
+	}],
+	"title": "NSF Funding Rate History Web API",
+	"tracking_summary": {
+		"total": 64,
+		"recent": 2
+	},
+	"groups": [],
+	"relationships_as_subject": [],
+	"revision_timestamp": "2016-08-16T03:18:20.444103",
+	"name": "nsf-funding-rate-history-web-api",
+	"isopen": true,
+	"url": null,
+	"notes": "This web API contains FY 2001-FY 2016 NSF funding rates for competitive research proposals by organizational unit. The funding rate is calculated by dividing the number of awards by the number of awards and declines.",
+	"license_title": "Other License Specified",
+	"extras": [{
+		"key": "publisher",
+		"value": "National Science Foundation"
+	},
+	{
+		"key": "identifier",
+		"value": "1228"
+	},
+	{
+		"key": "license",
+		"value": "http:\/\/www.nsf.gov\/"
+	},
+	{
+		"key": "harvest_source_id",
+		"value": "7e061b27-9cf7-43a6-86b8-57b064148734"
+	},
+	{
+		"key": "catalog_@context",
+		"value": "https:\/\/project-open-data.cio.gov\/v1.1\/schema\/catalog.jsonld"
+	},
+	{
+		"key": "describedByType",
+		"value": "application\/api"
+	},
+	{
+		"key": "resource-type",
+		"value": "Dataset"
+	},
+	{
+		"key": "modified",
+		"value": "2016-08-08"
+	},
+	{
+		"key": "harvest_source_title",
+		"value": "NSF JSON"
+	},
+	{
+		"key": "source_schema_version",
+		"value": "1.1"
+	},
+	{
+		"key": "source_datajson_identifier",
+		"value": true
+	},
+	{
+		"key": "programCode",
+		"value": ["422:011"]
+	},
+	{
+		"key": "bureauCode",
+		"value": ["422:00"]
+	},
+	{
+		"key": "spatial",
+		"value": "United States"
+	},
+	{
+		"key": "catalog_conformsTo",
+		"value": "https:\/\/project-open-data.cio.gov\/v1.1\/schema"
+	},
+	{
+		"key": "accessLevel",
+		"value": "public"
+	},
+	{
+		"key": "harvest_object_id",
+		"value": "fa589c0f-96a5-4451-8cbc-241612868536"
+	},
+	{
+		"key": "source_hash",
+		"value": "dfba38932bb76e339c20b5bf2d33212df6e92e59"
+	},
+	{
+		"key": "catalog_describedBy",
+		"value": "https:\/\/project-open-data.cio.gov\/v1.1\/schema\/catalog.json"
+	},
+	{
+		"state": "active",
+		"key": "harvest_object_id",
+		"value": "fa589c0f-96a5-4451-8cbc-241612868536"
+	},
+	{
+		"state": "active",
+		"key": "harvest_source_id",
+		"value": "7e061b27-9cf7-43a6-86b8-57b064148734"
+	},
+	{
+		"state": "active",
+		"key": "harvest_source_title",
+		"value": "NSF JSON"
+	}],
+	"organization": {
+		"description": "",
+		"created": "2013-05-18T11:32:17.254196",
+		"title": "National Science Foundation",
+		"name": "nsf-gov",
+		"revision_timestamp": "2014-06-06T15:04:31.891024",
+		"is_organization": true,
+		"state": "active",
+		"image_url": "https:\/\/raw.githubusercontent.com\/GSA\/logo\/master\/nsf.png",
+		"revision_id": "047dd3d5-7c38-4687-ba5c-ce3558a32957",
+		"type": "organization",
+		"id": "073affd8-0fc7-4496-935a-41449e274395",
+		"approval_status": "approved"
+	},
+	"revision_id": "55bb80ac-d2cc-4d19-8563-a85fffe97645"
+}

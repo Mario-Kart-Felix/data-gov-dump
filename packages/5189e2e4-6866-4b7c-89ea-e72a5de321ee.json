@@ -1,0 +1,418 @@
+{
+	"owner_org": "9cda5205-d632-4814-96e7-a4ab5e0dce85",
+	"maintainer": "Joe Schaefer",
+	"relationships_as_object": [],
+	"private": false,
+	"maintainer_email": "JSchaefer@noaa.gov",
+	"num_tags": 23,
+	"id": "5189e2e4-6866-4b7c-89ea-e72a5de321ee",
+	"metadata_created": "2015-05-20T21:04:28.717082",
+	"metadata_modified": "2015-09-17T06:58:51.106945",
+	"author": null,
+	"author_email": null,
+	"state": "active",
+	"version": null,
+	"license_id": "cc-by",
+	"type": "dataset",
+	"resources": [{
+		"resource_group_id": "fc935dbf-2b78-4af3-95df-aab130578095",
+		"cache_last_updated": null,
+		"revision_timestamp": "2015-08-14T06:38:37.208557",
+		"webstore_last_updated": null,
+		"id": "c256cb61-3078-4f07-b3f6-ecb50c328d1f",
+		"size": null,
+		"state": "active",
+		"hash": "",
+		"description": "spcrss.xml",
+		"format": "CSV",
+		"tracking_summary": {
+			"total": 1119,
+			"recent": 51
+		},
+		"mimetype_inner": null,
+		"mimetype": "text\/csv",
+		"cache_url": null,
+		"name": "Web Page",
+		"created": "2015-05-20T17:04:29.033228",
+		"url": "http:\/\/www.spc.noaa.gov\/products\/spcrss.xml",
+		"webstore_url": null,
+		"last_modified": null,
+		"position": 0,
+		"revision_id": "8a003f37-1444-4097-a45f-caeef77b9d36",
+		"resource_type": null
+	}],
+	"num_resources": 1,
+	"tags": [{
+		"vocabulary_id": null,
+		"display_name": "alerts",
+		"name": "alerts",
+		"revision_timestamp": "2015-05-20T21:04:28.717082",
+		"state": "active",
+		"id": "de309893-b3d0-46fa-be6e-f413fd81a618"
+	},
+	{
+		"vocabulary_id": null,
+		"display_name": "convective-outlooks",
+		"name": "convective-outlooks",
+		"revision_timestamp": "2015-05-20T21:04:28.717082",
+		"state": "active",
+		"id": "29a423ec-86b8-456a-b699-a4187cff0178"
+	},
+	{
+		"vocabulary_id": null,
+		"display_name": "environment",
+		"name": "environment",
+		"revision_timestamp": "2015-05-20T21:04:28.717082",
+		"state": "active",
+		"id": "99c1dc8a-2ada-4fd3-a140-6f13fad78962"
+	},
+	{
+		"vocabulary_id": null,
+		"display_name": "federal-data-download",
+		"name": "federal-data-download",
+		"revision_timestamp": "2015-05-20T21:04:28.717082",
+		"state": "active",
+		"id": "0e274c65-b035-4345-88ba-72e9dd7e5956"
+	},
+	{
+		"vocabulary_id": null,
+		"display_name": "federal-datasets",
+		"name": "federal-datasets",
+		"revision_timestamp": "2015-05-20T21:04:28.717082",
+		"state": "active",
+		"id": "609d5fba-d180-4859-9b30-dac65f81a9fa"
+	},
+	{
+		"vocabulary_id": null,
+		"display_name": "fire-weather-outlooks",
+		"name": "fire-weather-outlooks",
+		"revision_timestamp": "2015-05-20T21:04:28.717082",
+		"state": "active",
+		"id": "5ccf41d9-ce72-4d54-b969-82dcb6ce11ce"
+	},
+	{
+		"vocabulary_id": null,
+		"display_name": "funnel",
+		"name": "funnel",
+		"revision_timestamp": "2015-05-20T21:04:28.717082",
+		"state": "active",
+		"id": "8d5d33ea-f0e7-425e-9884-1dc6a25e0bfc"
+	},
+	{
+		"vocabulary_id": null,
+		"display_name": "hail-reports",
+		"name": "hail-reports",
+		"revision_timestamp": "2015-05-20T21:04:28.717082",
+		"state": "active",
+		"id": "f71a8a1d-ba64-4899-805b-68f13790f0a4"
+	},
+	{
+		"vocabulary_id": null,
+		"display_name": "monitoring-and-forecasting-severe-weather",
+		"name": "monitoring-and-forecasting-severe-weather",
+		"revision_timestamp": "2015-05-20T21:04:28.717082",
+		"state": "active",
+		"id": "fe095f74-8d48-419e-a901-1275341c7682"
+	},
+	{
+		"vocabulary_id": null,
+		"display_name": "national",
+		"name": "national",
+		"revision_timestamp": "2015-05-20T21:04:28.717082",
+		"state": "active",
+		"id": "cea57a8f-cf1c-4ac3-af70-6578b39240a5"
+	},
+	{
+		"vocabulary_id": null,
+		"display_name": "national-radar",
+		"name": "national-radar",
+		"revision_timestamp": "2015-05-20T21:04:28.717082",
+		"state": "active",
+		"id": "6643c56a-364e-4f6d-a5ec-209728efce3b"
+	},
+	{
+		"vocabulary_id": null,
+		"display_name": "product-archive",
+		"name": "product-archive",
+		"revision_timestamp": "2015-05-20T21:04:28.717082",
+		"state": "active",
+		"id": "2754e406-809a-405c-b5ed-50f6e9df22fd"
+	},
+	{
+		"vocabulary_id": null,
+		"display_name": "severe-weather",
+		"name": "severe-weather",
+		"revision_timestamp": "2015-05-20T21:04:28.717082",
+		"state": "active",
+		"id": "9274da48-c5dd-4cf1-adaa-9b048dcece4a"
+	},
+	{
+		"vocabulary_id": null,
+		"display_name": "severe-weather-watches",
+		"name": "severe-weather-watches",
+		"revision_timestamp": "2015-05-20T21:04:28.717082",
+		"state": "active",
+		"id": "dcf1ae37-cbe4-4b8d-b99a-d55d51d76e1e"
+	},
+	{
+		"vocabulary_id": null,
+		"display_name": "storm-reports",
+		"name": "storm-reports",
+		"revision_timestamp": "2015-05-20T21:04:28.717082",
+		"state": "active",
+		"id": "6b842817-9371-4f59-a9fd-9ee4053e8c2e"
+	},
+	{
+		"vocabulary_id": null,
+		"display_name": "thunderstorm",
+		"name": "thunderstorm",
+		"revision_timestamp": "2015-05-20T21:04:28.717082",
+		"state": "active",
+		"id": "74790e40-906b-4b8d-909c-b01e6fd99a16"
+	},
+	{
+		"vocabulary_id": null,
+		"display_name": "tornado",
+		"name": "tornado",
+		"revision_timestamp": "2015-05-20T21:04:28.717082",
+		"state": "active",
+		"id": "e5dcfffa-e6e9-4bc2-87ab-7a454c731c28"
+	},
+	{
+		"vocabulary_id": null,
+		"display_name": "tornao-reports",
+		"name": "tornao-reports",
+		"revision_timestamp": "2015-05-20T21:04:28.717082",
+		"state": "active",
+		"id": "654f203b-75b4-432a-8df5-7cc5d9a3de8b"
+	},
+	{
+		"vocabulary_id": null,
+		"display_name": "twister",
+		"name": "twister",
+		"revision_timestamp": "2015-05-20T21:04:28.717082",
+		"state": "active",
+		"id": "eba4516b-388f-415e-bc64-708a658e91e7"
+	},
+	{
+		"vocabulary_id": null,
+		"display_name": "warnings",
+		"name": "warnings",
+		"revision_timestamp": "2015-05-20T21:04:28.717082",
+		"state": "active",
+		"id": "3cd55ddc-2a5e-4f95-b963-50cab28555e8"
+	},
+	{
+		"vocabulary_id": null,
+		"display_name": "watch-and-warning-map",
+		"name": "watch-and-warning-map",
+		"revision_timestamp": "2015-05-20T21:04:28.717082",
+		"state": "active",
+		"id": "8f544a74-5ed4-4499-8fce-f62fd56a580a"
+	},
+	{
+		"vocabulary_id": null,
+		"display_name": "watches",
+		"name": "watches",
+		"revision_timestamp": "2015-05-20T21:04:28.717082",
+		"state": "active",
+		"id": "594e20bd-b5f6-402c-9650-120bd7ea9ce3"
+	},
+	{
+		"vocabulary_id": null,
+		"display_name": "wind-reports",
+		"name": "wind-reports",
+		"revision_timestamp": "2015-05-20T21:04:28.717082",
+		"state": "active",
+		"id": "d48f9ede-d54b-48b7-abb6-d1f41d9d4715"
+	}],
+	"title": "Storm Prediction Report",
+	"tracking_summary": {
+		"total": 2902,
+		"recent": 133
+	},
+	"groups": [{
+		"capacity": "public",
+		"description": "",
+		"created": "2013-05-18T12:07:45.970050",
+		"title": "Agriculture",
+		"name": "agriculture8571",
+		"is_organization": false,
+		"state": "active",
+		"image_url": "",
+		"revision_id": "997d07a9-9a87-45af-b903-429d6787844c",
+		"type": "group",
+		"id": "008741df-42eb-48ba-9e87-f69eb6e7d321",
+		"approval_status": "approved"
+	},
+	{
+		"capacity": "public",
+		"description": "",
+		"created": "2013-05-18T12:07:56.787536",
+		"title": "Safety",
+		"name": "safety3175",
+		"is_organization": false,
+		"state": "active",
+		"image_url": "",
+		"revision_id": "aad260f4-5a43-48bf-9a04-e6aec566ecc1",
+		"type": "group",
+		"id": "872991f6-ef6d-40e1-8bdc-fbbcede1463d",
+		"approval_status": "approved"
+	},
+	{
+		"capacity": "public",
+		"description": "Disaster Topic for Data.gov",
+		"created": "2014-07-25T17:07:20.015189",
+		"title": "Disasters",
+		"name": "disasters",
+		"is_organization": false,
+		"state": "active",
+		"image_url": "",
+		"revision_id": "1cec4007-f4b5-4e78-8daf-3fbd2d5d40bf",
+		"type": "group",
+		"id": "72886f47-5994-4ca9-82ba-4a75987250a9",
+		"approval_status": "approved"
+	}],
+	"relationships_as_subject": [],
+	"revision_timestamp": "2015-08-14T06:38:37.208557",
+	"name": "storm-prediction-report",
+	"isopen": true,
+	"url": null,
+	"notes": "The National Weather Service Storm Prediction Center (SPC) provides daily RSS feeds summarizing today's latest information about tornado and severe thunderstorm watches, mesoscale discussions, convective day 1-3 outlooks, and fire weather outlooks.  Although available to all, the data provided may be of particular value to weather professionals and students of meteorological sciences.",
+	"license_title": "Creative Commons Attribution",
+	"extras": [{
+		"key": "__category_tag_008741df-42eb-48ba-9e87-f69eb6e7d321",
+		"value": "[\"Natural Resources and Environment\"]"
+	},
+	{
+		"key": "issued",
+		"value": "1999-06-01"
+	},
+	{
+		"key": "resource-type",
+		"value": "Dataset"
+	},
+	{
+		"key": "references",
+		"value": ["http:\/\/www.spc.noaa.gov\/faq\/"]
+	},
+	{
+		"key": "source_hash",
+		"value": "b5492664c95aa6b1d79054d152dcaef5fc1624d3"
+	},
+	{
+		"key": "harvest_source_id",
+		"value": "0836a94a-b3c8-4190-a145-bddc06458b2c"
+	},
+	{
+		"key": "__category_tag_72886f47-5994-4ca9-82ba-4a75987250a9",
+		"value": "[\"Tornado\"]"
+	},
+	{
+		"key": "programCode",
+		"value": ["006:058"]
+	},
+	{
+		"key": "spatial",
+		"value": "Continental US"
+	},
+	{
+		"key": "__category_tag_872991f6-ef6d-40e1-8bdc-fbbcede1463d",
+		"value": "[\"Natural Hazards\"]"
+	},
+	{
+		"key": "describedBy",
+		"value": "http:\/\/wdsii.nssl.noaa.gov\/geotiff_new\/accessing.html"
+	},
+	{
+		"key": "catalog_@context",
+		"value": "https:\/\/project-open-data.cio.gov\/v1.1\/schema\/catalog.jsonld"
+	},
+	{
+		"key": "catalog_describedBy",
+		"value": "https:\/\/project-open-data.cio.gov\/v1.1\/schema\/catalog.json"
+	},
+	{
+		"key": "harvest_source_title",
+		"value": "Commerce Non Spatial Data.json Harvest Source"
+	},
+	{
+		"key": "source_schema_version",
+		"value": "1.1"
+	},
+	{
+		"key": "catalog_conformsTo",
+		"value": "https:\/\/project-open-data.cio.gov\/v1.1\/schema"
+	},
+	{
+		"key": "bureauCode",
+		"value": ["006:48"]
+	},
+	{
+		"key": "accessLevel",
+		"value": "public"
+	},
+	{
+		"key": "harvest_object_id",
+		"value": "1f7af1e8-3c3d-45eb-a9a8-4592f6944203"
+	},
+	{
+		"key": "publisher",
+		"value": "National Weather Service, Department of Commerce"
+	},
+	{
+		"key": "license",
+		"value": "https:\/\/creativecommons.org\/licenses\/by\/4.0"
+	},
+	{
+		"key": "modified",
+		"value": "2014-06-24"
+	},
+	{
+		"key": "source_datajson_identifier",
+		"value": true
+	},
+	{
+		"key": "accrualPeriodicity",
+		"value": "R\/P1D"
+	},
+	{
+		"key": "dataQuality",
+		"value": true
+	},
+	{
+		"key": "identifier",
+		"value": "DOC-11"
+	},
+	{
+		"state": "active",
+		"key": "harvest_object_id",
+		"value": "1f7af1e8-3c3d-45eb-a9a8-4592f6944203"
+	},
+	{
+		"state": "active",
+		"key": "harvest_source_id",
+		"value": "0836a94a-b3c8-4190-a145-bddc06458b2c"
+	},
+	{
+		"state": "active",
+		"key": "harvest_source_title",
+		"value": "Commerce Non Spatial Data.json Harvest Source"
+	}],
+	"license_url": "http:\/\/www.opendefinition.org\/licenses\/cc-by",
+	"organization": {
+		"description": "",
+		"created": "2013-05-18T11:37:59.153068",
+		"title": "Department of Commerce",
+		"name": "doc-gov",
+		"revision_timestamp": "2013-05-30T16:50:01.416157",
+		"is_organization": true,
+		"state": "active",
+		"image_url": "http:\/\/www.vos.noaa.gov\/MWL\/aug_10\/Images\/doc_logo_xparent.png",
+		"revision_id": "44c851b9-8872-497a-8a13-2f06740b7ffb",
+		"type": "organization",
+		"id": "9cda5205-d632-4814-96e7-a4ab5e0dce85",
+		"approval_status": "approved"
+	},
+	"revision_id": "8a003f37-1444-4097-a45f-caeef77b9d36"
+}

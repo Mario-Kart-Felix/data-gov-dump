@@ -1,0 +1,206 @@
+{
+	"owner_org": "54ed71a6-4861-4dc1-aa78-c5661ba9ab04",
+	"maintainer": null,
+	"relationships_as_object": [],
+	"private": false,
+	"maintainer_email": null,
+	"num_tags": 0,
+	"id": "2b8f1fe4-207b-4ebd-8faf-b7e00ac9268f",
+	"metadata_created": "2014-12-30T22:42:42.494442",
+	"metadata_modified": "2015-08-12T05:37:19.747938",
+	"author": null,
+	"author_email": null,
+	"state": "active",
+	"version": null,
+	"license_id": null,
+	"type": "dataset",
+	"resources": [{
+		"resource_group_id": "b4a812f1-58bd-4c64-8760-db34d645a51b",
+		"cache_last_updated": null,
+		"revision_timestamp": "2015-08-12T05:37:19.747938",
+		"webstore_last_updated": null,
+		"id": "b908a780-d0ff-4c13-acb9-aebf16fefe2c",
+		"size": null,
+		"state": "active",
+		"last_modified": null,
+		"hash": "",
+		"description": "csb.zip",
+		"format": "ZIP",
+		"tracking_summary": {
+			"total": 3,
+			"recent": 2
+		},
+		"mimetype_inner": null,
+		"resource_locator_protocol": "",
+		"revision_id": "85c273a3-ada4-452b-b360-2138057f29f3",
+		"mimetype": null,
+		"cache_url": null,
+		"name": "Zip File",
+		"created": "2015-08-12T01:37:20.145367",
+		"url": "http:\/\/www.data.boem.gov\/homepg\/pubinfo\/repcat\/arcinfo\/zipped\/csb.zip",
+		"webstore_url": null,
+		"resource_locator_function": "",
+		"position": 0,
+		"no_real_name": true,
+		"resource_type": null
+	}],
+	"num_resources": 1,
+	"tags": [],
+	"title": "Outer Continental Shelf 200 Nautical Mile Limit - Gulf of Mexico Region NAD27",
+	"tracking_summary": {
+		"total": 49,
+		"recent": 2
+	},
+	"groups": [{
+		"capacity": "public",
+		"description": "",
+		"created": "2013-05-18T12:07:55.682227",
+		"title": "Ocean",
+		"name": "ocean9585",
+		"is_organization": false,
+		"state": "active",
+		"image_url": "",
+		"revision_id": "78e0612e-b0f4-473e-bbe7-25c03fb826b6",
+		"type": "group",
+		"id": "f700e408-3bf4-4e8f-9499-b0ab0e2fec3c",
+		"approval_status": "approved"
+	}],
+	"relationships_as_subject": [],
+	"revision_timestamp": "2014-12-30T22:42:42.494442",
+	"name": "outer-continental-shelf-200-nautical-mile-limit-gulf-of-mexico-region-nad27",
+	"isopen": false,
+	"url": null,
+	"notes": "This data set contains Continental Shelf Boundary (CSB) lines in ESRI shapefile format for the BOEM Gulf of Mexico Region. The CSB defines the seaward limit of federally managed OCS lands. The line depicts the limit of U.S. jurisdiction for offshore mineral development. This CSB file only includes the lateral boundaries between the United States and Mexico, or Cuba. That portion of the CSB defined by the 200 nautical mile line is not yet included. The BOEM CSB line is similar to, the Exclusive Economic Zone (EEZ) line published by NOAA, but the CSB may have slight differences. For example the CSB line will include intersection points with the BOEM OCS blocks. Additional details are available from OCS Report MMS 99-0006 - Boundary Development on the Outer Continental Shelf: http:\/\/www.boem.gov\/uploadedFiles\/BOEM\/Oil_and_Gas_Energy_Program\/Mapping_and_Data\/99-0006.pdfBecause GIS projection and topology functions can change or generalize coordinates, these GIS files are considered to be approximate and are NOT an OFFICIAL record for the exact baseline coordinates. The Official Protraction Diagrams (OPDs) and Supplemental Official Block Diagrams (SOBDs) serve as the legal definition for BOEM offshore boundary coordinates and area descriptions. Contains the continental shelf boundary as of March 15, 2013. Used ArcCatalog to create shape files. Shape files put at \\\\imsnolna04\\le\\shared\\GISPublicInfo.",
+	"license_title": null,
+	"extras": [{
+		"key": "bbox-east-long",
+		"value": "-81.893723"
+	},
+	{
+		"key": "resource-type",
+		"value": "dataset"
+	},
+	{
+		"key": "bbox-north-lat",
+		"value": "30.218050"
+	},
+	{
+		"key": "coupled-resource",
+		"value": "[]"
+	},
+	{
+		"key": "guid",
+		"value": ""
+	},
+	{
+		"key": "graphic-preview-file",
+		"value": "http:\/\/www.data.boem.gov\/images_opt\/graphics\/gis\/GOMR_Continental_Shelf_Bdry.png"
+	},
+	{
+		"key": "bbox-south-lat",
+		"value": "25.773401"
+	},
+	{
+		"key": "spatial-reference-system",
+		"value": ""
+	},
+	{
+		"key": "spatial_harvester",
+		"value": true
+	},
+	{
+		"key": "spatial",
+		"value": "{\"type\": \"Polygon\", \"coordinates\": [[[-97.155212, 25.773401], [-81.893723, 25.773401], [-81.893723, 30.21805], [-97.155212, 30.21805], [-97.155212, 25.773401]]]}"
+	},
+	{
+		"key": "progress",
+		"value": "completed"
+	},
+	{
+		"key": "access_constraints",
+		"value": "[\"Use Constraints: The data was developed within the U.S. Government; no proprietary rights may be attached to them nor may they be sold to the U.S. Government as part of any procurement of ADP products or services. This data is NOT to be used for any MAS products\", \"Access Constraints: None\"]"
+	},
+	{
+		"key": "contact-email",
+		"value": "leonard.coats@boem.gov"
+	},
+	{
+		"key": "bbox-west-long",
+		"value": "-97.155212"
+	},
+	{
+		"key": "metadata-date",
+		"value": "2015-08-05"
+	},
+	{
+		"key": "dataset-reference-date",
+		"value": "[{\"type\": \"publication\", \"value\": \"\"}]"
+	},
+	{
+		"key": "graphic-preview-description",
+		"value": "Image depicting the Gulf of Mexico Continental Shelf Boundary - as created by BOEM"
+	},
+	{
+		"key": "frequency-of-update",
+		"value": "asNeeded"
+	},
+	{
+		"key": "licence",
+		"value": "[\" \"]"
+	},
+	{
+		"key": "metadata_type",
+		"value": "geospatial"
+	},
+	{
+		"key": "responsible-party",
+		"value": "[{\"name\": \"Bureau of Ocean Energy Management, Gulf of Mexico OCS Region; Office of Leasing & Plans, Mapping & Automation Section\", \"roles\": [\"pointOfContact\"]}]"
+	},
+	{
+		"key": "spatial-data-service-type",
+		"value": ""
+	},
+	{
+		"key": "metadata-language",
+		"value": ""
+	},
+	{
+		"package_id": "2b8f1fe4-207b-4ebd-8faf-b7e00ac9268f",
+		"value": "ngda, public information, national geospatial data asset, water oceans and coasts theme, tims pi dump, pi",
+		"revision_timestamp": "2015-03-10T17:54:45.081982",
+		"state": "active",
+		"key": "tags",
+		"revision_id": "ac604971-2c05-4bca-b64f-c81843f23b12",
+		"id": "f2d41fd7-fc87-4889-82da-29ef2aa2dd4f"
+	},
+	{
+		"state": "active",
+		"key": "harvest_object_id",
+		"value": "3dea1445-8a40-48cf-9ff0-e6042382873c"
+	},
+	{
+		"state": "active",
+		"key": "harvest_source_id",
+		"value": "3ccbd586-7009-4fb0-bf99-2f827c47cafa"
+	},
+	{
+		"state": "active",
+		"key": "harvest_source_title",
+		"value": "BOEM Geospatial Metadata"
+	}],
+	"organization": {
+		"description": "The Bureau of Ocean Energy Management (BOEM) manages the exploration and development of the nation's offshore resources. It seeks to appropriately balance economic development, energy independence, and environmental protection through oil and gas leases, renewable energy development and environmental reviews and studies.",
+		"created": "2013-03-14T03:44:48.638755",
+		"title": "Bureau of Ocean Energy Management, Department of the Interior",
+		"name": "boem-gov",
+		"revision_timestamp": "2013-03-20T22:26:39.819248",
+		"is_organization": true,
+		"state": "active",
+		"image_url": "http:\/\/www.boem.gov\/images\/boem\/layout\/logo.png",
+		"revision_id": "6f2fda4e-48e9-42f6-b1dd-da068900ba24",
+		"type": "organization",
+		"id": "54ed71a6-4861-4dc1-aa78-c5661ba9ab04",
+		"approval_status": "approved"
+	},
+	"revision_id": "907ca075-cdc8-40e5-9365-90c78b0e5f0c"
+}

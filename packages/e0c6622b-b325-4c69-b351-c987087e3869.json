@@ -1,0 +1,221 @@
+{
+	"owner_org": "735d0118-b2a7-4246-a0e3-608b0fa8d1ec",
+	"maintainer": "Jim Thomson",
+	"relationships_as_object": [],
+	"private": false,
+	"maintainer_email": "jthomson@apl.washington.edu",
+	"num_tags": 5,
+	"id": "e0c6622b-b325-4c69-b351-c987087e3869",
+	"metadata_created": "2016-07-08T03:20:00.468726",
+	"metadata_modified": "2016-07-08T03:20:00.468726",
+	"author": null,
+	"author_email": null,
+	"state": "active",
+	"version": null,
+	"license_id": "cc-by",
+	"type": "dataset",
+	"resources": [{
+		"resource_group_id": "456055a6-9cfe-4e13-8a38-f57e1d3939de",
+		"cache_last_updated": null,
+		"revision_timestamp": "2016-07-08T03:20:00.468726",
+		"webstore_last_updated": null,
+		"id": "36c0b3c9-8e94-4594-b393-15be9850c519",
+		"size": null,
+		"state": "active",
+		"hash": "",
+		"description": "SWIFT drifter turbulence data",
+		"format": "ZIP",
+		"tracking_summary": {
+			"total": 0,
+			"recent": 0
+		},
+		"mimetype_inner": null,
+		"mimetype": "application\/zip",
+		"cache_url": null,
+		"name": "swift-rivgenwake.zip",
+		"created": "2016-07-07T23:20:00.896758",
+		"url": "http:\/\/mhkdr.openei.org\/files\/106\/SWIFT_RivGenwake.zip",
+		"webstore_url": null,
+		"last_modified": null,
+		"position": 0,
+		"revision_id": "75031a2f-f474-4817-9a04-eadc2c819906",
+		"resource_type": null
+	}],
+	"num_resources": 1,
+	"tags": [{
+		"vocabulary_id": null,
+		"display_name": "energy",
+		"name": "energy",
+		"revision_timestamp": "2016-07-08T03:20:00.468726",
+		"state": "active",
+		"id": "b778e6f8-a8f8-4ad6-968b-e9789c6afe2d"
+	},
+	{
+		"vocabulary_id": null,
+		"display_name": "hydrokinetic",
+		"name": "hydrokinetic",
+		"revision_timestamp": "2016-07-08T03:20:00.468726",
+		"state": "active",
+		"id": "87031483-72d6-457d-9dd2-3e403f2849aa"
+	},
+	{
+		"vocabulary_id": null,
+		"display_name": "marine",
+		"name": "marine",
+		"revision_timestamp": "2016-07-08T03:20:00.468726",
+		"state": "active",
+		"id": "f2ee2106-f44e-4421-ac64-6ed0f2451d6c"
+	},
+	{
+		"vocabulary_id": null,
+		"display_name": "mhk",
+		"name": "mhk",
+		"revision_timestamp": "2016-07-08T03:20:00.468726",
+		"state": "active",
+		"id": "a4efdc0e-8038-4a07-a08f-df8d5df9657c"
+	},
+	{
+		"vocabulary_id": null,
+		"display_name": "power",
+		"name": "power",
+		"revision_timestamp": "2016-07-08T03:20:00.468726",
+		"state": "active",
+		"id": "eb008bfb-077a-445c-b461-3f704b8e22b1"
+	}],
+	"title": "RivGen wake data",
+	"tracking_summary": {
+		"total": 1,
+		"recent": 1
+	},
+	"groups": [],
+	"relationships_as_subject": [],
+	"revision_timestamp": "2016-07-08T03:20:00.468726",
+	"name": "rivgen-wake-data",
+	"isopen": true,
+	"url": null,
+	"notes": "Turbulence data collected in from a SWIFT drifter repeatedly released over the ORPC RivGen turbine",
+	"license_title": "Creative Commons Attribution",
+	"extras": [{
+		"key": "harvest_source_id",
+		"value": "8d4de31c-979c-4b50-be6b-ea3c72453ff6"
+	},
+	{
+		"key": "issued",
+		"value": "2015-07-01"
+	},
+	{
+		"key": "resource-type",
+		"value": "Dataset"
+	},
+	{
+		"key": "source_hash",
+		"value": "953077fcff4557b2d4620c3e41d55206d379ea40"
+	},
+	{
+		"key": "accessLevel",
+		"value": "public"
+	},
+	{
+		"key": "spatial",
+		"value": "{\"type\":\"Polygon\",\"coordinates\":[[[-155.92693878174,59.311419451315],[-155.90693878174,59.311419451315],[-155.90693878174,59.331419451315],[-155.92693878174,59.331419451315],[-155.92693878174,59.311419451315]]]}"
+	},
+	{
+		"key": "catalog_conformsTo",
+		"value": "https:\/\/project-open-data.cio.gov\/v1.1\/schema"
+	},
+	{
+		"key": "catalog_@context",
+		"value": "https:\/\/project-open-data.cio.gov\/v1.1\/schema\/catalog.jsonld"
+	},
+	{
+		"key": "catalog_describedBy",
+		"value": "https:\/\/project-open-data.cio.gov\/v1.1\/schema\/catalog.json"
+	},
+	{
+		"key": "format",
+		"value": "application\/unknown"
+	},
+	{
+		"key": "harvest_source_title",
+		"value": "Energy JSON"
+	},
+	{
+		"key": "source_schema_version",
+		"value": "1.1"
+	},
+	{
+		"key": "programCode",
+		"value": ["019:009"]
+	},
+	{
+		"key": "bureauCode",
+		"value": ["019:20"]
+	},
+	{
+		"key": "landingPage",
+		"value": "http:\/\/mhkdr.openei.org\/submissions\/106"
+	},
+	{
+		"key": "harvest_object_id",
+		"value": "f9ecf0c6-be10-478e-82dc-fb41db9236fa"
+	},
+	{
+		"key": "accessURL",
+		"value": "http:\/\/mhkdr.openei.org\/files\/106\/SWIFT_RivGenwake.zip"
+	},
+	{
+		"key": "publisher",
+		"value": "Northwest National Marine renewable Energy Center (UW)"
+	},
+	{
+		"key": "license",
+		"value": "https:\/\/creativecommons.org\/licenses\/by\/4.0\/"
+	},
+	{
+		"key": "modified",
+		"value": "2015-07-01"
+	},
+	{
+		"key": "source_datajson_identifier",
+		"value": true
+	},
+	{
+		"key": "dataQuality",
+		"value": true
+	},
+	{
+		"key": "identifier",
+		"value": "http:\/\/en.openei.org\/doe-opendata\/dataset\/f0000000-e214-4b72-acd2-000000000106"
+	},
+	{
+		"state": "active",
+		"key": "harvest_object_id",
+		"value": "f9ecf0c6-be10-478e-82dc-fb41db9236fa"
+	},
+	{
+		"state": "active",
+		"key": "harvest_source_id",
+		"value": "8d4de31c-979c-4b50-be6b-ea3c72453ff6"
+	},
+	{
+		"state": "active",
+		"key": "harvest_source_title",
+		"value": "Energy JSON"
+	}],
+	"license_url": "http:\/\/www.opendefinition.org\/licenses\/cc-by",
+	"organization": {
+		"description": "",
+		"created": "2013-05-18T11:31:21.471948",
+		"title": "Department of Energy",
+		"name": "doe-gov",
+		"revision_timestamp": "2013-05-31T20:48:37.771905",
+		"is_organization": true,
+		"state": "active",
+		"image_url": "http:\/\/energy.gov\/sites\/prod\/files\/styles\/imagelink\/public\/DoE-Logo.jpeg",
+		"revision_id": "14e1d3c1-4cc7-460c-bf1c-b10e3429b4b0",
+		"type": "organization",
+		"id": "735d0118-b2a7-4246-a0e3-608b0fa8d1ec",
+		"approval_status": "approved"
+	},
+	"revision_id": "75031a2f-f474-4817-9a04-eadc2c819906"
+}

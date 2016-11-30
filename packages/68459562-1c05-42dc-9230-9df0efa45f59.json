@@ -1,0 +1,274 @@
+{
+	"owner_org": "1bbe7404-4388-4132-84af-58a6801cb190",
+	"maintainer": "<Nobody>",
+	"relationships_as_object": [],
+	"private": false,
+	"maintainer_email": null,
+	"num_tags": 2,
+	"id": "68459562-1c05-42dc-9230-9df0efa45f59",
+	"metadata_created": "2016-01-28T05:23:38.510425",
+	"metadata_modified": "2016-06-16T06:23:12.521182",
+	"author": null,
+	"author_email": null,
+	"state": "active",
+	"version": null,
+	"license_id": "notspecified",
+	"type": "dataset",
+	"resources": [{
+		"resource_group_id": "60ac1f38-2374-4f2d-a628-dfc65147d1da",
+		"cache_last_updated": null,
+		"revision_timestamp": "2016-03-10T05:39:50.099422",
+		"webstore_last_updated": null,
+		"id": "52f9f5a4-7853-416b-a739-d87e17c27cc7",
+		"size": null,
+		"state": "active",
+		"hash": "",
+		"description": "",
+		"format": "CSV",
+		"tracking_summary": {
+			"total": 0,
+			"recent": 0
+		},
+		"mimetype_inner": null,
+		"revision_id": "80ec7e16-ae80-4519-b1bd-4f2b59db1512",
+		"mimetype": "text\/csv",
+		"cache_url": null,
+		"name": "Comma Separated Values File",
+		"created": "2016-01-28T00:23:38.790698",
+		"url": "https:\/\/data.wa.gov\/api\/views\/jth9-gdxk\/rows.csv?accessType=DOWNLOAD",
+		"webstore_url": null,
+		"last_modified": null,
+		"position": 0,
+		"no_real_name": true,
+		"resource_type": null
+	},
+	{
+		"resource_group_id": "60ac1f38-2374-4f2d-a628-dfc65147d1da",
+		"cache_last_updated": null,
+		"revision_timestamp": "2016-06-16T06:23:12.521182",
+		"webstore_last_updated": null,
+		"id": "0fff8c88-8f6f-4a5c-8be7-08e7bf380cef",
+		"size": null,
+		"state": "active",
+		"hash": "",
+		"description": "",
+		"format": "RDF",
+		"tracking_summary": {
+			"total": 0,
+			"recent": 0
+		},
+		"mimetype_inner": null,
+		"revision_id": "d4f51b76-03e0-4d23-98b9-6ec177c65dc8",
+		"mimetype": "application\/rdf+xml",
+		"cache_url": null,
+		"name": "RDF File",
+		"created": "2016-01-28T00:23:38.790725",
+		"url": "https:\/\/data.wa.gov\/api\/views\/jth9-gdxk\/rows.rdf?accessType=DOWNLOAD",
+		"webstore_url": null,
+		"last_modified": null,
+		"position": 1,
+		"no_real_name": true,
+		"resource_type": null
+	},
+	{
+		"resource_group_id": "60ac1f38-2374-4f2d-a628-dfc65147d1da",
+		"cache_last_updated": null,
+		"revision_timestamp": "2016-06-16T06:23:12.521182",
+		"webstore_last_updated": null,
+		"id": "9a734a55-6f80-4f54-93aa-169aa48b9418",
+		"size": null,
+		"state": "active",
+		"hash": "",
+		"description": "",
+		"format": "JSON",
+		"tracking_summary": {
+			"total": 0,
+			"recent": 0
+		},
+		"mimetype_inner": null,
+		"revision_id": "d4f51b76-03e0-4d23-98b9-6ec177c65dc8",
+		"mimetype": "application\/json",
+		"cache_url": null,
+		"name": "JSON File",
+		"created": "2016-01-28T00:23:38.790735",
+		"url": "https:\/\/data.wa.gov\/api\/views\/jth9-gdxk\/rows.json?accessType=DOWNLOAD",
+		"webstore_url": null,
+		"last_modified": null,
+		"position": 2,
+		"no_real_name": true,
+		"resource_type": null
+	},
+	{
+		"resource_group_id": "60ac1f38-2374-4f2d-a628-dfc65147d1da",
+		"cache_last_updated": null,
+		"revision_timestamp": "2016-06-16T06:23:12.521182",
+		"webstore_last_updated": null,
+		"id": "36385114-a7cb-4d38-ac89-0e1937d8773c",
+		"size": null,
+		"state": "active",
+		"hash": "",
+		"description": "",
+		"format": "XML",
+		"tracking_summary": {
+			"total": 0,
+			"recent": 0
+		},
+		"mimetype_inner": null,
+		"revision_id": "d4f51b76-03e0-4d23-98b9-6ec177c65dc8",
+		"mimetype": "application\/xml",
+		"cache_url": null,
+		"name": "XML File",
+		"created": "2016-01-28T00:23:38.790744",
+		"url": "https:\/\/data.wa.gov\/api\/views\/jth9-gdxk\/rows.xml?accessType=DOWNLOAD",
+		"webstore_url": null,
+		"last_modified": null,
+		"position": 3,
+		"no_real_name": true,
+		"resource_type": null
+	}],
+	"num_resources": 4,
+	"tags": [{
+		"vocabulary_id": null,
+		"display_name": "drought",
+		"name": "drought",
+		"revision_timestamp": "2016-01-28T05:23:38.510425",
+		"state": "active",
+		"id": "069d2539-d361-4d1e-ac83-40054d27909d"
+	},
+	{
+		"vocabulary_id": null,
+		"display_name": "well-depth",
+		"name": "well-depth",
+		"revision_timestamp": "2016-03-10T05:39:50.099422",
+		"state": "active",
+		"id": "fd93c01a-7a63-4fff-8f5d-3070b19dc827"
+	}],
+	"title": "PWS SRC Well Depth",
+	"tracking_summary": {
+		"total": 3,
+		"recent": 1
+	},
+	"groups": [{
+		"capacity": "public",
+		"description": "Local Government Topic - for all datasets with state, local, county organizations",
+		"created": "2015-04-06T16:22:44.896030",
+		"title": "Local Government",
+		"name": "local",
+		"is_organization": false,
+		"state": "active",
+		"image_url": "",
+		"revision_id": "a44b1716-9f9d-4db9-9b8e-321769eb8f69",
+		"type": "group",
+		"id": "ccc6c266-eee8-44bd-89aa-7cd8c4c6bf46",
+		"approval_status": "approved"
+	}],
+	"relationships_as_subject": [],
+	"revision_timestamp": "2016-01-28T05:23:38.510425",
+	"name": "pws-src-well-depth",
+	"isopen": false,
+	"url": null,
+	"notes": "PWS SRC's whose well depth is less than 50ft.",
+	"license_title": "License Not Specified",
+	"extras": [{
+		"key": "publisher",
+		"value": "data.wa.gov"
+	},
+	{
+		"key": "accessLevel",
+		"value": "public"
+	},
+	{
+		"key": "catalog_describedBy",
+		"value": "https:\/\/project-open-data.cio.gov\/v1.1\/schema\/catalog.json"
+	},
+	{
+		"key": "harvest_source_id",
+		"value": "d005e5c4-7890-4550-8088-388b91267384"
+	},
+	{
+		"key": "catalog_@context",
+		"value": "https:\/\/project-open-data.cio.gov\/v1.1\/schema\/catalog.jsonld"
+	},
+	{
+		"key": "issued",
+		"value": "2015-11-20"
+	},
+	{
+		"key": "resource-type",
+		"value": "Dataset"
+	},
+	{
+		"key": "modified",
+		"value": "2015-11-20"
+	},
+	{
+		"key": "harvest_source_title",
+		"value": "WA JSON"
+	},
+	{
+		"key": "source_schema_version",
+		"value": "1.1"
+	},
+	{
+		"key": "source_datajson_identifier",
+		"value": true
+	},
+	{
+		"key": "theme",
+		"value": ["Natural Resources & Environment"]
+	},
+	{
+		"key": "catalog_@id",
+		"value": "https:\/\/data.wa.gov\/data.json"
+	},
+	{
+		"key": "catalog_conformsTo",
+		"value": "https:\/\/project-open-data.cio.gov\/v1.1\/schema"
+	},
+	{
+		"key": "identifier",
+		"value": "https:\/\/data.wa.gov\/api\/views\/jth9-gdxk"
+	},
+	{
+		"key": "landingPage",
+		"value": "https:\/\/data.wa.gov\/d\/jth9-gdxk"
+	},
+	{
+		"key": "harvest_object_id",
+		"value": "0762feb0-5e9c-4d36-8811-361f5e543a6f"
+	},
+	{
+		"key": "source_hash",
+		"value": "3a9bad1ddd2e7b917a882084fafe0e4d2b1979cd"
+	},
+	{
+		"state": "active",
+		"key": "harvest_object_id",
+		"value": "0762feb0-5e9c-4d36-8811-361f5e543a6f"
+	},
+	{
+		"state": "active",
+		"key": "harvest_source_id",
+		"value": "d005e5c4-7890-4550-8088-388b91267384"
+	},
+	{
+		"state": "active",
+		"key": "harvest_source_title",
+		"value": "WA JSON"
+	}],
+	"organization": {
+		"description": "",
+		"created": "2014-04-16T13:42:21.348635",
+		"title": "State of Washington",
+		"name": "state-of-washington",
+		"revision_timestamp": "2014-04-16T17:42:21.266268",
+		"is_organization": true,
+		"state": "active",
+		"image_url": "",
+		"revision_id": "76568c20-32f1-4ff6-838e-f27f054d7b64",
+		"type": "organization",
+		"id": "1bbe7404-4388-4132-84af-58a6801cb190",
+		"approval_status": "approved"
+	},
+	"revision_id": "e4bb7873-1d65-4130-a4a5-a468a24a8052"
+}

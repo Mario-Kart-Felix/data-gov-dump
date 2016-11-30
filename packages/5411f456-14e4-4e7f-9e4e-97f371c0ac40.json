@@ -1,0 +1,466 @@
+{
+	"owner_org": "735d0118-b2a7-4246-a0e3-608b0fa8d1ec",
+	"maintainer": "Teymour Javaherchi, Nick Stelzenmuller & Alberto Aliseda",
+	"relationships_as_object": [],
+	"private": false,
+	"maintainer_email": "teymourj@uw.edu",
+	"num_tags": 12,
+	"id": "5411f456-14e4-4e7f-9e4e-97f371c0ac40",
+	"metadata_created": "2016-08-30T13:29:43.780835",
+	"metadata_modified": "2016-08-30T13:29:43.780835",
+	"author": null,
+	"author_email": null,
+	"state": "active",
+	"version": null,
+	"license_id": "cc-by",
+	"type": "dataset",
+	"resources": [{
+		"resource_group_id": "67677489-14a4-4c6c-94c4-fb33d61d546b",
+		"cache_last_updated": null,
+		"revision_timestamp": "2016-08-30T13:29:43.780835",
+		"webstore_last_updated": null,
+		"id": "532e3754-3140-4418-84b0-d63e55f80acd",
+		"size": null,
+		"state": "active",
+		"hash": "",
+		"description": "Official paper on the simulation setup and validation.",
+		"format": "pdf?sequence=1&isallowed=y",
+		"tracking_summary": {
+			"total": 0,
+			"recent": 0
+		},
+		"mimetype_inner": null,
+		"mimetype": null,
+		"cache_url": null,
+		"name": "experimental and numerical analysis of a scale-model horizontal axis hydrokinetic turbine",
+		"created": "2016-08-30T09:29:44.557147",
+		"url": "http:\/\/vtechworks.lib.vt.edu\/bitstream\/handle\/10919\/49223\/103-Javaherchi.pdf?sequence=1&isAllowed=y",
+		"webstore_url": null,
+		"last_modified": null,
+		"position": 0,
+		"revision_id": "a037a433-81ac-4188-8e2f-548ec4ed6b93",
+		"resource_type": null
+	},
+	{
+		"resource_group_id": "67677489-14a4-4c6c-94c4-fb33d61d546b",
+		"cache_last_updated": null,
+		"revision_timestamp": "2016-08-30T13:29:43.780835",
+		"webstore_last_updated": null,
+		"id": "18317c52-a4d5-4c6d-8396-6773dda27b4c",
+		"size": null,
+		"state": "active",
+		"hash": "",
+		"description": "Lift and drag coefficients look-up table.",
+		"format": "dat",
+		"tracking_summary": {
+			"total": 0,
+			"recent": 0
+		},
+		"mimetype_inner": null,
+		"mimetype": null,
+		"cache_url": null,
+		"name": "60240satj.dat",
+		"created": "2016-08-30T09:29:44.557171",
+		"url": "http:\/\/mhkdr.openei.org\/files\/114\/60240SAtj.dat",
+		"webstore_url": null,
+		"last_modified": null,
+		"position": 1,
+		"revision_id": "a037a433-81ac-4188-8e2f-548ec4ed6b93",
+		"resource_type": null
+	},
+	{
+		"resource_group_id": "67677489-14a4-4c6c-94c4-fb33d61d546b",
+		"cache_last_updated": null,
+		"revision_timestamp": "2016-08-30T13:29:43.780835",
+		"webstore_last_updated": null,
+		"id": "f3a19efb-0c76-491c-a558-c037cca213be",
+		"size": null,
+		"state": "active",
+		"hash": "",
+		"description": "VBM UDF.",
+		"format": "c",
+		"tracking_summary": {
+			"total": 0,
+			"recent": 0
+		},
+		"mimetype_inner": null,
+		"mimetype": null,
+		"cache_url": null,
+		"name": "rotor-model-v10.1.c",
+		"created": "2016-08-30T09:29:44.557180",
+		"url": "http:\/\/mhkdr.openei.org\/files\/114\/rotor_model_v10.1%20%281%29.c",
+		"webstore_url": null,
+		"last_modified": null,
+		"position": 2,
+		"revision_id": "a037a433-81ac-4188-8e2f-548ec4ed6b93",
+		"resource_type": null
+	},
+	{
+		"resource_group_id": "67677489-14a4-4c6c-94c4-fb33d61d546b",
+		"cache_last_updated": null,
+		"revision_timestamp": "2016-08-30T13:29:43.780835",
+		"webstore_last_updated": null,
+		"id": "2af96e09-1318-499f-a638-6adcdec1f636",
+		"size": null,
+		"state": "active",
+		"hash": "",
+		"description": "VBM UDF.",
+		"format": "scm",
+		"tracking_summary": {
+			"total": 0,
+			"recent": 0
+		},
+		"mimetype_inner": null,
+		"mimetype": null,
+		"cache_url": null,
+		"name": "rotor-model-v10.scm",
+		"created": "2016-08-30T09:29:44.557187",
+		"url": "http:\/\/mhkdr.openei.org\/files\/114\/rotor_model_v10%20%281%29.scm",
+		"webstore_url": null,
+		"last_modified": null,
+		"position": 3,
+		"revision_id": "a037a433-81ac-4188-8e2f-548ec4ed6b93",
+		"resource_type": null
+	},
+	{
+		"resource_group_id": "67677489-14a4-4c6c-94c4-fb33d61d546b",
+		"cache_last_updated": null,
+		"revision_timestamp": "2016-08-30T13:29:43.780835",
+		"webstore_last_updated": null,
+		"id": "a33fe39b-5551-4294-803e-bf315ffbb9ed",
+		"size": null,
+		"state": "active",
+		"hash": "",
+		"description": "VBM UDF.",
+		"format": "c",
+		"tracking_summary": {
+			"total": 0,
+			"recent": 0
+		},
+		"mimetype_inner": null,
+		"mimetype": null,
+		"cache_url": null,
+		"name": "thread-mem-v1.0.c",
+		"created": "2016-08-30T09:29:44.557194",
+		"url": "http:\/\/mhkdr.openei.org\/files\/114\/thread_mem_v1.0%20%281%29.c",
+		"webstore_url": null,
+		"last_modified": null,
+		"position": 4,
+		"revision_id": "a037a433-81ac-4188-8e2f-548ec4ed6b93",
+		"resource_type": null
+	},
+	{
+		"resource_group_id": "67677489-14a4-4c6c-94c4-fb33d61d546b",
+		"cache_last_updated": null,
+		"revision_timestamp": "2016-08-30T13:29:43.780835",
+		"webstore_last_updated": null,
+		"id": "74d97099-f18c-4043-afe4-0e7d5988e12b",
+		"size": null,
+		"state": "active",
+		"hash": "",
+		"description": "VBM UDF.",
+		"format": "h",
+		"tracking_summary": {
+			"total": 0,
+			"recent": 0
+		},
+		"mimetype_inner": null,
+		"mimetype": null,
+		"cache_url": null,
+		"name": "thread-mem.h",
+		"created": "2016-08-30T09:29:44.557202",
+		"url": "http:\/\/mhkdr.openei.org\/files\/114\/thread_mem%20%281%29.h",
+		"webstore_url": null,
+		"last_modified": null,
+		"position": 5,
+		"revision_id": "a037a433-81ac-4188-8e2f-548ec4ed6b93",
+		"resource_type": null
+	},
+	{
+		"resource_group_id": "67677489-14a4-4c6c-94c4-fb33d61d546b",
+		"cache_last_updated": null,
+		"revision_timestamp": "2016-08-30T13:29:43.780835",
+		"webstore_last_updated": null,
+		"id": "7896a9fe-5d46-47c5-ba06-9030167684b7",
+		"size": null,
+		"state": "active",
+		"hash": "",
+		"description": "Simulation .dat file.",
+		"format": "dat",
+		"tracking_summary": {
+			"total": 0,
+			"recent": 0
+		},
+		"mimetype_inner": null,
+		"mimetype": null,
+		"cache_url": null,
+		"name": "single-turbine-10e6-elements-modrot.dat",
+		"created": "2016-08-30T09:29:44.557209",
+		"url": "http:\/\/mhkdr.openei.org\/files\/114\/single_turbine_10E6_elements_modrot.dat",
+		"webstore_url": null,
+		"last_modified": null,
+		"position": 6,
+		"revision_id": "a037a433-81ac-4188-8e2f-548ec4ed6b93",
+		"resource_type": null
+	},
+	{
+		"resource_group_id": "67677489-14a4-4c6c-94c4-fb33d61d546b",
+		"cache_last_updated": null,
+		"revision_timestamp": "2016-08-30T13:29:43.780835",
+		"webstore_last_updated": null,
+		"id": "36c81d08-318c-4cfd-ac87-dd4a47c6552b",
+		"size": null,
+		"state": "active",
+		"hash": "",
+		"description": "Simulation .cas file.",
+		"format": "cas",
+		"tracking_summary": {
+			"total": 0,
+			"recent": 0
+		},
+		"mimetype_inner": null,
+		"mimetype": null,
+		"cache_url": null,
+		"name": "single-turbine-10e6-elements-modrot.cas",
+		"created": "2016-08-30T09:29:44.557216",
+		"url": "http:\/\/mhkdr.openei.org\/files\/114\/single_turbine_10E6_elements_modrot.cas",
+		"webstore_url": null,
+		"last_modified": null,
+		"position": 7,
+		"revision_id": "a037a433-81ac-4188-8e2f-548ec4ed6b93",
+		"resource_type": null
+	}],
+	"num_resources": 8,
+	"tags": [{
+		"vocabulary_id": null,
+		"display_name": "cfd",
+		"name": "cfd",
+		"revision_timestamp": "2016-08-30T13:29:43.780835",
+		"state": "active",
+		"id": "86de2514-7d3e-483f-8225-50ca9e86f0b6"
+	},
+	{
+		"vocabulary_id": null,
+		"display_name": "energy",
+		"name": "energy",
+		"revision_timestamp": "2016-08-30T13:29:43.780835",
+		"state": "active",
+		"id": "b778e6f8-a8f8-4ad6-968b-e9789c6afe2d"
+	},
+	{
+		"vocabulary_id": null,
+		"display_name": "experiment",
+		"name": "experiment",
+		"revision_timestamp": "2016-08-30T13:29:43.780835",
+		"state": "active",
+		"id": "418107c1-eeba-41f9-a15d-d53a382c00b0"
+	},
+	{
+		"vocabulary_id": null,
+		"display_name": "experimental",
+		"name": "experimental",
+		"revision_timestamp": "2016-08-30T13:29:43.780835",
+		"state": "active",
+		"id": "b2c12d2a-71d1-4c86-8c92-15f08f34ca23"
+	},
+	{
+		"vocabulary_id": null,
+		"display_name": "hydrokinetic",
+		"name": "hydrokinetic",
+		"revision_timestamp": "2016-08-30T13:29:43.780835",
+		"state": "active",
+		"id": "87031483-72d6-457d-9dd2-3e403f2849aa"
+	},
+	{
+		"vocabulary_id": null,
+		"display_name": "marine",
+		"name": "marine",
+		"revision_timestamp": "2016-08-30T13:29:43.780835",
+		"state": "active",
+		"id": "f2ee2106-f44e-4421-ac64-6ed0f2451d6c"
+	},
+	{
+		"vocabulary_id": null,
+		"display_name": "mhk",
+		"name": "mhk",
+		"revision_timestamp": "2016-08-30T13:29:43.780835",
+		"state": "active",
+		"id": "a4efdc0e-8038-4a07-a08f-df8d5df9657c"
+	},
+	{
+		"vocabulary_id": null,
+		"display_name": "power",
+		"name": "power",
+		"revision_timestamp": "2016-08-30T13:29:43.780835",
+		"state": "active",
+		"id": "eb008bfb-077a-445c-b461-3f704b8e22b1"
+	},
+	{
+		"vocabulary_id": null,
+		"display_name": "rans",
+		"name": "rans",
+		"revision_timestamp": "2016-08-30T13:29:43.780835",
+		"state": "active",
+		"id": "c7995798-ce7b-4156-8ae1-af3399f5e358"
+	},
+	{
+		"vocabulary_id": null,
+		"display_name": "simulation",
+		"name": "simulation",
+		"revision_timestamp": "2016-08-30T13:29:43.780835",
+		"state": "active",
+		"id": "c8e37697-90a1-441e-bfd8-61efa6c373cd"
+	},
+	{
+		"vocabulary_id": null,
+		"display_name": "tidal",
+		"name": "tidal",
+		"revision_timestamp": "2016-08-30T13:29:43.780835",
+		"state": "active",
+		"id": "c9916370-a72c-4f61-86dd-5410671252ed"
+	},
+	{
+		"vocabulary_id": null,
+		"display_name": "validation",
+		"name": "validation",
+		"revision_timestamp": "2016-08-30T13:29:43.780835",
+		"state": "active",
+		"id": "7623e89d-2d4d-4877-af0a-dc2d38ff788f"
+	}],
+	"title": "RANS Simulation (Virtual Blade Model [VBM]) of Single Lab Scaled DOE RM1 MHK Turbine.",
+	"tracking_summary": {
+		"total": 3,
+		"recent": 1
+	},
+	"groups": [],
+	"relationships_as_subject": [],
+	"revision_timestamp": "2016-08-30T13:29:43.780835",
+	"name": "rans-simulation-virtual-blade-model-vbm-of-single-lab-scaled-doe-rm1-mhk-turbine",
+	"isopen": true,
+	"url": null,
+	"notes": "Attached are the .cas and .dat files for the Reynolds Averaged Navier-Stokes (RANS) simulation of a single lab-scaled DOE RM1 turbine implemented in ANSYS FLUENT CFD-package.\n\nThe lab-scaled DOE RM1 is a re-design geometry, based of the full scale DOE RM1 design, producing same power output as the full scale model, while operating at matched Tip Speed Ratio values at reachable laboratory Reynolds number (see attached paper).\n\nIn this case study the flow field around and in the wake of the lab-scaled DOE RM1 turbine is simulated using Blade Element Model (a.k.a Virtual Blade Model) by solving RANS equations coupled with k-\\omega turbulence closure model. It should be highlighted that in this simulation the actual geometry of the rotor blade is not modeled. The effect of turbine rotating blades are modeled using the Blade Element Theory.\n\nThis simulation provides an accurate estimate for the performance of device and structure of it's turbulent far wake. Due to the simplifications implemented for modeling the rotating blades in this model, VBM is limited to capture details of the flow field in near wake region of the device.\n\nThe required User Defined Functions (UDFs) and look-up table of lift and drag coefficients are included along with the .cas and .dat files.",
+	"license_title": "Creative Commons Attribution",
+	"extras": [{
+		"key": "harvest_source_id",
+		"value": "8d4de31c-979c-4b50-be6b-ea3c72453ff6"
+	},
+	{
+		"key": "issued",
+		"value": "2014-04-15"
+	},
+	{
+		"key": "resource-type",
+		"value": "Dataset"
+	},
+	{
+		"key": "source_hash",
+		"value": "ea5420dcf9eaa30febe409f221ace67766a44033"
+	},
+	{
+		"key": "accessLevel",
+		"value": "public"
+	},
+	{
+		"key": "spatial",
+		"value": "{\"type\":\"Polygon\",\"coordinates\":[[[-125.6272,31.8965],[-116.1461,31.8965],[-116.1461,49.0625],[-125.6272,49.0625],[-125.6272,31.8965]]]}"
+	},
+	{
+		"key": "catalog_conformsTo",
+		"value": "https:\/\/project-open-data.cio.gov\/v1.1\/schema"
+	},
+	{
+		"key": "catalog_@context",
+		"value": "https:\/\/project-open-data.cio.gov\/v1.1\/schema\/catalog.jsonld"
+	},
+	{
+		"key": "catalog_describedBy",
+		"value": "https:\/\/project-open-data.cio.gov\/v1.1\/schema\/catalog.json"
+	},
+	{
+		"key": "format",
+		"value": "application\/unknown"
+	},
+	{
+		"key": "harvest_source_title",
+		"value": "Energy JSON"
+	},
+	{
+		"key": "source_schema_version",
+		"value": "1.1"
+	},
+	{
+		"key": "programCode",
+		"value": ["019:009"]
+	},
+	{
+		"key": "bureauCode",
+		"value": ["019:20"]
+	},
+	{
+		"key": "landingPage",
+		"value": "http:\/\/mhkdr.openei.org\/submissions\/114"
+	},
+	{
+		"key": "harvest_object_id",
+		"value": "7835410e-91e6-4a74-819d-4f2b81215b07"
+	},
+	{
+		"key": "accessURL",
+		"value": "http:\/\/vtechworks.lib.vt.edu\/bitstream\/handle\/10919\/49223\/103-Javaherchi.pdf?sequence=1&isAllowed=y"
+	},
+	{
+		"key": "publisher",
+		"value": "University of Washington (NNMREC)"
+	},
+	{
+		"key": "license",
+		"value": "https:\/\/creativecommons.org\/licenses\/by\/4.0\/"
+	},
+	{
+		"key": "modified",
+		"value": "2014-04-15"
+	},
+	{
+		"key": "source_datajson_identifier",
+		"value": true
+	},
+	{
+		"key": "dataQuality",
+		"value": true
+	},
+	{
+		"key": "identifier",
+		"value": "http:\/\/en.openei.org\/doe-opendata\/dataset\/f0000000-e214-4b72-acd2-000000000114"
+	},
+	{
+		"state": "active",
+		"key": "harvest_object_id",
+		"value": "7835410e-91e6-4a74-819d-4f2b81215b07"
+	},
+	{
+		"state": "active",
+		"key": "harvest_source_id",
+		"value": "8d4de31c-979c-4b50-be6b-ea3c72453ff6"
+	},
+	{
+		"state": "active",
+		"key": "harvest_source_title",
+		"value": "Energy JSON"
+	}],
+	"license_url": "http:\/\/www.opendefinition.org\/licenses\/cc-by",
+	"organization": {
+		"description": "",
+		"created": "2013-05-18T11:31:21.471948",
+		"title": "Department of Energy",
+		"name": "doe-gov",
+		"revision_timestamp": "2013-05-31T20:48:37.771905",
+		"is_organization": true,
+		"state": "active",
+		"image_url": "http:\/\/energy.gov\/sites\/prod\/files\/styles\/imagelink\/public\/DoE-Logo.jpeg",
+		"revision_id": "14e1d3c1-4cc7-460c-bf1c-b10e3429b4b0",
+		"type": "organization",
+		"id": "735d0118-b2a7-4246-a0e3-608b0fa8d1ec",
+		"approval_status": "approved"
+	},
+	"revision_id": "a037a433-81ac-4188-8e2f-548ec4ed6b93"
+}

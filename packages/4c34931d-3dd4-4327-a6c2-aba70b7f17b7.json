@@ -1,0 +1,298 @@
+{
+	"owner_org": "5107fb38-f013-41bc-b6d9-80e63c333796",
+	"maintainer": "<Nobody>",
+	"relationships_as_object": [],
+	"private": false,
+	"maintainer_email": "",
+	"num_tags": 5,
+	"id": "4c34931d-3dd4-4327-a6c2-aba70b7f17b7",
+	"metadata_created": "2015-02-04T19:25:06.142211",
+	"metadata_modified": "2016-08-25T08:32:35.563815",
+	"author": null,
+	"author_email": null,
+	"state": "active",
+	"version": null,
+	"license_id": "notspecified",
+	"type": "dataset",
+	"resources": [{
+		"resource_group_id": "fe69384d-df3c-472f-9ce4-5e66cd8a11db",
+		"cache_last_updated": null,
+		"revision_timestamp": "2016-01-28T07:30:46.437265",
+		"webstore_last_updated": null,
+		"id": "eb5eb637-bcd0-4fa9-9346-9a2a9ce49797",
+		"size": null,
+		"state": "active",
+		"hash": "",
+		"description": "",
+		"format": "CSV",
+		"tracking_summary": {
+			"total": 124,
+			"recent": 2
+		},
+		"mimetype_inner": null,
+		"revision_id": "366336f4-d25f-4525-ab6d-af235685a89d",
+		"mimetype": "text\/csv",
+		"cache_url": null,
+		"name": "Comma Separated Values File",
+		"created": "2015-02-04T14:25:06.218436",
+		"url": "https:\/\/data.seattle.gov\/api\/views\/7svg-ds5z\/rows.csv?accessType=DOWNLOAD",
+		"webstore_url": null,
+		"last_modified": null,
+		"position": 0,
+		"no_real_name": true,
+		"resource_type": null
+	},
+	{
+		"resource_group_id": "fe69384d-df3c-472f-9ce4-5e66cd8a11db",
+		"cache_last_updated": null,
+		"revision_timestamp": "2016-06-16T07:31:57.381109",
+		"webstore_last_updated": null,
+		"id": "827f5e81-0c97-4f22-a3eb-ed8789322816",
+		"size": null,
+		"state": "active",
+		"hash": "",
+		"description": "",
+		"format": "RDF",
+		"tracking_summary": {
+			"total": 7,
+			"recent": 1
+		},
+		"mimetype_inner": null,
+		"revision_id": "0c3c4779-1bfb-49bf-8a10-54e489167260",
+		"mimetype": "application\/rdf+xml",
+		"cache_url": null,
+		"name": "RDF File",
+		"created": "2015-02-04T14:25:06.218455",
+		"url": "https:\/\/data.seattle.gov\/api\/views\/7svg-ds5z\/rows.rdf?accessType=DOWNLOAD",
+		"webstore_url": null,
+		"last_modified": null,
+		"position": 1,
+		"no_real_name": true,
+		"resource_type": null
+	},
+	{
+		"resource_group_id": "fe69384d-df3c-472f-9ce4-5e66cd8a11db",
+		"cache_last_updated": null,
+		"revision_timestamp": "2016-06-16T07:31:57.381109",
+		"webstore_last_updated": null,
+		"id": "4555b145-2810-4c00-8fb6-9d7f5bffb825",
+		"size": null,
+		"state": "active",
+		"hash": "",
+		"description": "",
+		"format": "JSON",
+		"tracking_summary": {
+			"total": 15,
+			"recent": 1
+		},
+		"mimetype_inner": null,
+		"revision_id": "0c3c4779-1bfb-49bf-8a10-54e489167260",
+		"mimetype": "application\/json",
+		"cache_url": null,
+		"name": "JSON File",
+		"created": "2015-02-04T14:25:06.218463",
+		"url": "https:\/\/data.seattle.gov\/api\/views\/7svg-ds5z\/rows.json?accessType=DOWNLOAD",
+		"webstore_url": null,
+		"last_modified": null,
+		"position": 2,
+		"no_real_name": true,
+		"resource_type": null
+	},
+	{
+		"resource_group_id": "fe69384d-df3c-472f-9ce4-5e66cd8a11db",
+		"cache_last_updated": null,
+		"revision_timestamp": "2016-06-16T07:31:57.381109",
+		"webstore_last_updated": null,
+		"id": "c0f21f09-6e76-490c-9ee2-e8fc9266dcd8",
+		"size": null,
+		"state": "active",
+		"hash": "",
+		"description": "",
+		"format": "XML",
+		"tracking_summary": {
+			"total": 13,
+			"recent": 1
+		},
+		"mimetype_inner": null,
+		"revision_id": "0c3c4779-1bfb-49bf-8a10-54e489167260",
+		"mimetype": "application\/xml",
+		"cache_url": null,
+		"name": "XML File",
+		"created": "2015-02-04T14:25:06.218469",
+		"url": "https:\/\/data.seattle.gov\/api\/views\/7svg-ds5z\/rows.xml?accessType=DOWNLOAD",
+		"webstore_url": null,
+		"last_modified": null,
+		"position": 3,
+		"no_real_name": true,
+		"resource_type": null
+	}],
+	"num_resources": 4,
+	"tags": [{
+		"vocabulary_id": null,
+		"display_name": "counts",
+		"name": "counts",
+		"revision_timestamp": "2015-02-04T19:25:06.142211",
+		"state": "active",
+		"id": "a465e56e-cce2-49c9-9400-19243be35379"
+	},
+	{
+		"vocabulary_id": null,
+		"display_name": "seattle",
+		"name": "seattle",
+		"revision_timestamp": "2015-02-04T19:25:06.142211",
+		"state": "active",
+		"id": "dd4b1597-1f90-4e1f-ab4e-6770e5cfff36"
+	},
+	{
+		"vocabulary_id": null,
+		"display_name": "traffic",
+		"name": "traffic",
+		"revision_timestamp": "2015-02-04T19:25:06.142211",
+		"state": "active",
+		"id": "d330e2b6-717b-42cb-b283-70e5a0dad10e"
+	},
+	{
+		"vocabulary_id": null,
+		"display_name": "transportation",
+		"name": "transportation",
+		"revision_timestamp": "2015-02-04T19:25:06.142211",
+		"state": "active",
+		"id": "a4d87d39-b8f5-48cb-a969-911eca88657a"
+	},
+	{
+		"vocabulary_id": null,
+		"display_name": "volumes",
+		"name": "volumes",
+		"revision_timestamp": "2015-02-04T19:25:06.142211",
+		"state": "active",
+		"id": "9bc1d66a-84c4-4972-8e76-a3bf2cb7ab6f"
+	}],
+	"title": "Traffic Flow Counts",
+	"tracking_summary": {
+		"total": 392,
+		"recent": 19
+	},
+	"groups": [{
+		"capacity": "public",
+		"description": "Local Government Topic - for all datasets with state, local, county organizations",
+		"created": "2015-04-06T16:22:44.896030",
+		"title": "Local Government",
+		"name": "local",
+		"is_organization": false,
+		"state": "active",
+		"image_url": "",
+		"revision_id": "a44b1716-9f9d-4db9-9b8e-321769eb8f69",
+		"type": "group",
+		"id": "ccc6c266-eee8-44bd-89aa-7cd8c4c6bf46",
+		"approval_status": "approved"
+	}],
+	"relationships_as_subject": [],
+	"revision_timestamp": "2015-02-04T19:25:06.142211",
+	"name": "traffic-flow-counts-8225e",
+	"isopen": false,
+	"url": null,
+	"notes": "Vehicle traffic volumes for arterial streets in Seattle based on spot studies that have been adjusted for seasonal variation.\r\nTo provide a high level view of traffic volumes on major streets in Seattle, and compare changes from year to year.\r\nThe AAWDT count is a seasonally adjusted average weekday daily total of vehicle traffic for all lanes, i.e. total vehicles in both directions for one average 24-hour business day, Monday through Friday. Only selected arterial streets are included.",
+	"license_title": "License Not Specified",
+	"extras": [{
+		"key": "publisher",
+		"value": "data.seattle.gov"
+	},
+	{
+		"key": "accessLevel",
+		"value": "public"
+	},
+	{
+		"key": "catalog_describedBy",
+		"value": "https:\/\/project-open-data.cio.gov\/v1.1\/schema\/catalog.json"
+	},
+	{
+		"key": "harvest_source_id",
+		"value": "ce6dc3d2-9d16-4e25-837e-2789a33416fc"
+	},
+	{
+		"key": "catalog_@context",
+		"value": "https:\/\/project-open-data.cio.gov\/v1.1\/schema\/catalog.jsonld"
+	},
+	{
+		"key": "issued",
+		"value": "2011-04-17"
+	},
+	{
+		"key": "resource-type",
+		"value": "Dataset"
+	},
+	{
+		"key": "modified",
+		"value": "2014-10-28"
+	},
+	{
+		"key": "harvest_source_title",
+		"value": "Seattle JSON"
+	},
+	{
+		"key": "source_schema_version",
+		"value": "1.1"
+	},
+	{
+		"key": "source_datajson_identifier",
+		"value": true
+	},
+	{
+		"key": "theme",
+		"value": ["Transportation"]
+	},
+	{
+		"key": "catalog_@id",
+		"value": "https:\/\/data.seattle.gov\/data.json"
+	},
+	{
+		"key": "catalog_conformsTo",
+		"value": "https:\/\/project-open-data.cio.gov\/v1.1\/schema"
+	},
+	{
+		"key": "identifier",
+		"value": "https:\/\/data.seattle.gov\/api\/views\/7svg-ds5z"
+	},
+	{
+		"key": "landingPage",
+		"value": "https:\/\/data.seattle.gov\/d\/7svg-ds5z"
+	},
+	{
+		"key": "harvest_object_id",
+		"value": "e13c3a62-3896-4820-9f60-1970a333cb3b"
+	},
+	{
+		"key": "source_hash",
+		"value": "d6bb6ca0561bf7d6c6de39002d598d873ff2e72f"
+	},
+	{
+		"state": "active",
+		"key": "harvest_object_id",
+		"value": "e13c3a62-3896-4820-9f60-1970a333cb3b"
+	},
+	{
+		"state": "active",
+		"key": "harvest_source_id",
+		"value": "ce6dc3d2-9d16-4e25-837e-2789a33416fc"
+	},
+	{
+		"state": "active",
+		"key": "harvest_source_title",
+		"value": "Seattle JSON"
+	}],
+	"organization": {
+		"description": "",
+		"created": "2014-04-16T13:32:08.875275",
+		"title": "City of Seattle",
+		"name": "city-of-seattle",
+		"revision_timestamp": "2014-04-16T17:32:08.789278",
+		"is_organization": true,
+		"state": "active",
+		"image_url": "",
+		"revision_id": "70b5c1a8-4609-4540-afe0-d77be68314fd",
+		"type": "organization",
+		"id": "5107fb38-f013-41bc-b6d9-80e63c333796",
+		"approval_status": "approved"
+	},
+	"revision_id": "56dee12d-b8f0-49f8-a6ee-b8178669d436"
+}

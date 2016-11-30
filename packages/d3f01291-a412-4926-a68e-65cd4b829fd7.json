@@ -1,0 +1,284 @@
+{
+	"owner_org": "735d0118-b2a7-4246-a0e3-608b0fa8d1ec",
+	"maintainer": "Nicholas Langle",
+	"relationships_as_object": [],
+	"private": false,
+	"maintainer_email": "nicholas.langle@nrel.gov",
+	"num_tags": 10,
+	"id": "d3f01291-a412-4926-a68e-65cd4b829fd7",
+	"metadata_created": "2015-02-23T20:19:26.880246",
+	"metadata_modified": "2015-08-26T07:53:12.845840",
+	"author": null,
+	"author_email": null,
+	"state": "active",
+	"version": null,
+	"license_id": "cc-by",
+	"type": "dataset",
+	"resources": [{
+		"resource_group_id": "512487ef-9316-4803-a2db-d4e227c61a4e",
+		"cache_last_updated": null,
+		"revision_timestamp": "2015-05-26T23:10:59.310768",
+		"webstore_last_updated": null,
+		"id": "112ee514-53f5-4694-855a-933f4b59f8b5",
+		"size": null,
+		"state": "active",
+		"hash": "",
+		"description": "1000m resolution 50m height wind resource data for New Hampshire",
+		"format": "ZIP",
+		"tracking_summary": {
+			"total": 3,
+			"recent": 1
+		},
+		"mimetype_inner": null,
+		"mimetype": "application\/zip",
+		"cache_url": null,
+		"name": "New Hampshire High Resolution Wind Resource shape file",
+		"created": "2015-02-23T15:19:27.125777",
+		"url": "http:\/\/en.openei.org\/doe-opendata\/dataset\/ed58651c-195f-459b-8e10-b3c1c9da2793\/resource\/7c47f4cc-412e-4e1c-8cc1-3804c415f1af\/download\/newhampshirewindhighresolution.zip",
+		"webstore_url": null,
+		"last_modified": null,
+		"position": 0,
+		"revision_id": "571be93b-1eab-4565-8e31-d2d349073887",
+		"resource_type": null
+	},
+	{
+		"resource_group_id": "512487ef-9316-4803-a2db-d4e227c61a4e",
+		"cache_last_updated": null,
+		"revision_timestamp": "2015-05-26T23:10:59.310768",
+		"webstore_last_updated": null,
+		"id": "827ec3b6-f7a4-4f27-89d1-9cfe96298c54",
+		"size": null,
+		"state": "active",
+		"hash": "",
+		"description": "Detailed license and usage information for this dataset",
+		"format": "TXT",
+		"tracking_summary": {
+			"total": 0,
+			"recent": 0
+		},
+		"mimetype_inner": null,
+		"mimetype": "text\/plain",
+		"cache_url": null,
+		"name": "LICENSE.txt",
+		"created": "2015-05-26T19:10:59.695286",
+		"url": "http:\/\/en.openei.org\/doe-opendata\/dataset\/ed58651c-195f-459b-8e10-b3c1c9da2793\/resource\/c494fe2a-e70d-46e6-a8e8-e2ab563bcb20\/download\/license.txt",
+		"webstore_url": null,
+		"last_modified": null,
+		"position": 1,
+		"revision_id": "571be93b-1eab-4565-8e31-d2d349073887",
+		"resource_type": null
+	}],
+	"num_resources": 2,
+	"tags": [{
+		"vocabulary_id": null,
+		"display_name": "50m",
+		"name": "50m",
+		"revision_timestamp": "2015-05-26T23:10:59.310768",
+		"state": "active",
+		"id": "a8c504a8-1997-460d-b8e1-f0ab3f07c3ad"
+	},
+	{
+		"vocabulary_id": null,
+		"display_name": "energy",
+		"name": "energy",
+		"revision_timestamp": "2015-05-26T23:10:59.310768",
+		"state": "active",
+		"id": "b778e6f8-a8f8-4ad6-968b-e9789c6afe2d"
+	},
+	{
+		"vocabulary_id": null,
+		"display_name": "gis",
+		"name": "gis",
+		"revision_timestamp": "2015-02-23T20:19:26.880246",
+		"state": "active",
+		"id": "3dc0c789-3e0c-4755-8418-1f1a0b82a70b"
+	},
+	{
+		"vocabulary_id": null,
+		"display_name": "new-hampshire",
+		"name": "new-hampshire",
+		"revision_timestamp": "2015-02-23T20:19:26.880246",
+		"state": "active",
+		"id": "834d5572-3c74-4faf-910b-ed0b7cdc2016"
+	},
+	{
+		"vocabulary_id": null,
+		"display_name": "nrel",
+		"name": "nrel",
+		"revision_timestamp": "2015-02-23T20:19:26.880246",
+		"state": "active",
+		"id": "a92a3ab2-47b3-4a47-a58f-b95cec6360e1"
+	},
+	{
+		"vocabulary_id": null,
+		"display_name": "renewable",
+		"name": "renewable",
+		"revision_timestamp": "2015-05-26T23:10:59.310768",
+		"state": "active",
+		"id": "286e2ac7-b7a4-4c09-87ae-57440b811ef1"
+	},
+	{
+		"vocabulary_id": null,
+		"display_name": "shapefile",
+		"name": "shapefile",
+		"revision_timestamp": "2015-02-23T20:19:26.880246",
+		"state": "active",
+		"id": "c93a711f-def1-45a7-b1de-ca2bd28188dc"
+	},
+	{
+		"vocabulary_id": null,
+		"display_name": "wind",
+		"name": "wind",
+		"revision_timestamp": "2015-02-23T20:19:26.880246",
+		"state": "active",
+		"id": "bca2d1dc-ae4c-496d-b6a4-d0bba964f93f"
+	},
+	{
+		"vocabulary_id": null,
+		"display_name": "wind-data",
+		"name": "wind-data",
+		"revision_timestamp": "2015-05-26T23:10:59.310768",
+		"state": "active",
+		"id": "de80d63f-51ec-489e-a556-96151b186270"
+	},
+	{
+		"vocabulary_id": null,
+		"display_name": "wind-resource",
+		"name": "wind-resource",
+		"revision_timestamp": "2015-05-26T23:10:59.310768",
+		"state": "active",
+		"id": "85d176d9-23d3-4d87-b695-b3a949f538a7"
+	}],
+	"title": "New Hampshire High Resolution Wind Resource",
+	"tracking_summary": {
+		"total": 12,
+		"recent": 1
+	},
+	"groups": [],
+	"relationships_as_subject": [],
+	"revision_timestamp": "2015-05-26T23:10:59.310768",
+	"name": "nrel-gis-data-new-hampshire-high-resolution-wind-resource-1281b",
+	"isopen": true,
+	"url": null,
+	"notes": "Annual average wind resource potential for the state of New Hampshire at a 50 meter height.\r\nThis data set has been validated by NREL and wind energy meteorological consultants. *Note:* This data is not suitable for micro-siting potential development projects. This shapefile was generated from a raster dataset with a 200 m resolution, in a UTM zone 12, datum WGS 84 projection system.\r\n\r\nThe wind power resource estimates were produced by AWS TrueWind using their MesoMap system and historical weather data under contract to Wind Powering America\/NREL. This map has been validated with available surface data by NREL and wind energy meteorological consultants.\r\n",
+	"license_title": "Creative Commons Attribution",
+	"extras": [{
+		"key": "harvest_source_id",
+		"value": "8d4de31c-979c-4b50-be6b-ea3c72453ff6"
+	},
+	{
+		"key": "resource-type",
+		"value": "Dataset"
+	},
+	{
+		"key": "source_hash",
+		"value": "4855de12fd9938b810b49aabaf4a7e5b83f61c46"
+	},
+	{
+		"key": "accessLevel",
+		"value": "public"
+	},
+	{
+		"key": "spatial",
+		"value": "{\"type\":\"Polygon\",\"coordinates\":[[[-72.59392089843755,42.68555458174006],[-70.5965404296876,42.68555458174006],[-70.5965404296876,45.30810075825676],[-72.59392089843755,45.30810075825676],[-72.59392089843755,42.68555458174006]]]}"
+	},
+	{
+		"key": "catalog_conformsTo",
+		"value": "https:\/\/project-open-data.cio.gov\/v1.1\/schema"
+	},
+	{
+		"key": "catalog_@context",
+		"value": "https:\/\/project-open-data.cio.gov\/v1.1\/schema\/catalog.jsonld"
+	},
+	{
+		"key": "catalog_describedBy",
+		"value": "https:\/\/project-open-data.cio.gov\/v1.1\/schema\/catalog.json"
+	},
+	{
+		"key": "format",
+		"value": "application\/unknown"
+	},
+	{
+		"key": "harvest_source_title",
+		"value": "Energy JSON"
+	},
+	{
+		"key": "source_schema_version",
+		"value": "1.1"
+	},
+	{
+		"key": "programCode",
+		"value": ["019:000"]
+	},
+	{
+		"key": "bureauCode",
+		"value": ["019:20"]
+	},
+	{
+		"key": "landingPage",
+		"value": "http:\/\/www.nrel.gov\/gis\/cfm\/input.cfm"
+	},
+	{
+		"key": "harvest_object_id",
+		"value": "c4a26692-bc79-4934-bf1e-0844ec28873b"
+	},
+	{
+		"key": "accessURL",
+		"value": "http:\/\/en.openei.org\/doe-opendata\/dataset\/ed58651c-195f-459b-8e10-b3c1c9da2793\/resource\/7c47f4cc-412e-4e1c-8cc1-3804c415f1af\/download\/newhampshirewindhighresolution.zip"
+	},
+	{
+		"key": "publisher",
+		"value": "National Renewable Energy Laboratory"
+	},
+	{
+		"key": "license",
+		"value": "https:\/\/creativecommons.org\/licenses\/by\/4.0\/"
+	},
+	{
+		"key": "modified",
+		"value": "2015-08-21T20:46:10Z"
+	},
+	{
+		"key": "source_datajson_identifier",
+		"value": true
+	},
+	{
+		"key": "dataQuality",
+		"value": true
+	},
+	{
+		"key": "identifier",
+		"value": "http:\/\/en.openei.org\/doe-opendata\/dataset\/ed58651c-195f-459b-8e10-b3c1c9da2793"
+	},
+	{
+		"state": "active",
+		"key": "harvest_object_id",
+		"value": "c4a26692-bc79-4934-bf1e-0844ec28873b"
+	},
+	{
+		"state": "active",
+		"key": "harvest_source_id",
+		"value": "8d4de31c-979c-4b50-be6b-ea3c72453ff6"
+	},
+	{
+		"state": "active",
+		"key": "harvest_source_title",
+		"value": "Energy JSON"
+	}],
+	"license_url": "http:\/\/www.opendefinition.org\/licenses\/cc-by",
+	"organization": {
+		"description": "",
+		"created": "2013-05-18T11:31:21.471948",
+		"title": "Department of Energy",
+		"name": "doe-gov",
+		"revision_timestamp": "2013-05-31T20:48:37.771905",
+		"is_organization": true,
+		"state": "active",
+		"image_url": "http:\/\/energy.gov\/sites\/prod\/files\/styles\/imagelink\/public\/DoE-Logo.jpeg",
+		"revision_id": "14e1d3c1-4cc7-460c-bf1c-b10e3429b4b0",
+		"type": "organization",
+		"id": "735d0118-b2a7-4246-a0e3-608b0fa8d1ec",
+		"approval_status": "approved"
+	},
+	"revision_id": "571be93b-1eab-4565-8e31-d2d349073887"
+}

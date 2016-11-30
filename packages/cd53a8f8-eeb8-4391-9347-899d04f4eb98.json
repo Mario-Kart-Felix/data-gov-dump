@@ -1,0 +1,148 @@
+{
+	"license_title": "U.S. Government Work",
+	"maintainer": "Data Administrator",
+	"relationships_as_object": [],
+	"private": false,
+	"maintainer_email": "da.mailbox@ssa.gov",
+	"revision_timestamp": "2015-11-21T10:35:32.804335",
+	"id": "cd53a8f8-eeb8-4391-9347-899d04f4eb98",
+	"metadata_created": "2015-02-28T17:14:12.625548",
+	"metadata_modified": "2016-10-29T19:05:14.923338",
+	"author": null,
+	"author_email": null,
+	"state": "active",
+	"version": null,
+	"license_id": "us-pd",
+	"type": "dataset",
+	"resources": [],
+	"num_resources": 0,
+	"tags": [{
+		"vocabulary_id": null,
+		"display_name": "dma",
+		"name": "dma",
+		"revision_timestamp": "2015-02-28T17:14:12.625548",
+		"state": "active",
+		"id": "9a24d21b-5a7f-4bfe-9c09-235e726dae90"
+	},
+	{
+		"vocabulary_id": null,
+		"display_name": "document-conversion",
+		"name": "document-conversion",
+		"revision_timestamp": "2015-02-28T17:14:12.625548",
+		"state": "active",
+		"id": "0f25542a-771f-4f78-9480-050dccfcc0a2"
+	},
+	{
+		"vocabulary_id": null,
+		"display_name": "document-management",
+		"name": "document-management",
+		"revision_timestamp": "2015-02-28T17:14:12.625548",
+		"state": "active",
+		"id": "8511be06-9051-441d-953b-fe62e9daf355"
+	},
+	{
+		"vocabulary_id": null,
+		"display_name": "document-management-architecture",
+		"name": "document-management-architecture",
+		"revision_timestamp": "2015-02-28T17:14:12.625548",
+		"state": "active",
+		"id": "9e5fb2c6-133c-4eb3-a195-0675f090cbde"
+	}],
+	"tracking_summary": {
+		"total": 4,
+		"recent": 0
+	},
+	"groups": [],
+	"organization": {
+		"description": "",
+		"title": "Social Security Administration",
+		"created": "2013-05-18T11:35:25.934290",
+		"approval_status": "approved",
+		"revision_timestamp": "2015-02-25T20:32:33.216893",
+		"is_organization": true,
+		"state": "active",
+		"image_url": "https:\/\/raw.githubusercontent.com\/GSA\/logo\/master\/ssa.png",
+		"revision_id": "1be01963-921d-432f-b56d-37fa76dfb0a1",
+		"type": "organization",
+		"id": "149dc403-f16f-4e9d-a9c9-39babf7e98bf",
+		"name": "ssa-gov"
+	},
+	"relationships_as_subject": [],
+	"num_tags": 4,
+	"name": "document-conversion-engine",
+	"isopen": true,
+	"url": null,
+	"notes": "Data store used to assist in conversion of documents for storage in the document management architecture (DMA) or their own repositories.",
+	"owner_org": "149dc403-f16f-4e9d-a9c9-39babf7e98bf",
+	"extras": [{
+		"key": "publisher",
+		"value": "Social Security Administration"
+	},
+	{
+		"key": "accessLevel",
+		"value": "non-public"
+	},
+	{
+		"key": "license",
+		"value": "https:\/\/www.usa.gov\/publicdomain\/label\/1.0\/"
+	},
+	{
+		"key": "harvest_source_id",
+		"value": "3ab711e9-e33a-4f1e-a524-30be635dbce0"
+	},
+	{
+		"key": "rights",
+		"value": "The publishing of the data asset cannot be done due to one or more of the following reasons: contains personal identifying information, contains federal tax information, contains sensitive information, or a data assessment has not been completed."
+	},
+	{
+		"key": "resource-type",
+		"value": "Dataset"
+	},
+	{
+		"key": "modified",
+		"value": "2016-10-28"
+	},
+	{
+		"key": "harvest_source_title",
+		"value": "SSA JSON"
+	},
+	{
+		"key": "source_schema_version",
+		"value": "1.1"
+	},
+	{
+		"key": "source_datajson_identifier",
+		"value": true
+	},
+	{
+		"key": "programCode",
+		"value": ["016:000"]
+	},
+	{
+		"key": "bureauCode",
+		"value": ["016:00"]
+	},
+	{
+		"key": "catalog_conformsTo",
+		"value": "https:\/\/project-open-data.cio.gov\/v1.1\/schema"
+	},
+	{
+		"key": "identifier",
+		"value": "US-GOV-SSA-113"
+	},
+	{
+		"key": "harvest_object_id",
+		"value": "f30f000c-9f9f-4f36-bc98-4e8c3f723b60"
+	},
+	{
+		"key": "source_hash",
+		"value": "fb6e26ef7ed51976d559906c3ff861d88f54c459"
+	},
+	{
+		"key": "catalog_describedBy",
+		"value": "https:\/\/project-open-data.cio.gov\/v1.1\/schema\/catalog.json"
+	}],
+	"license_url": "http:\/\/www.usa.gov\/publicdomain\/label\/1.0\/",
+	"title": "Document Conversion Engine",
+	"revision_id": "090bcdf5-1a82-482e-9f44-890089ef65d8"
+}

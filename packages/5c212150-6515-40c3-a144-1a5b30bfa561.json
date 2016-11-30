@@ -1,0 +1,224 @@
+{
+	"owner_org": "d8a6202b-c0c3-463d-88a0-3bc021a178ed",
+	"maintainer": "Dennis Koga",
+	"relationships_as_object": [],
+	"private": false,
+	"maintainer_email": "dennis.koga@nasa.gov",
+	"num_tags": 5,
+	"id": "5c212150-6515-40c3-a144-1a5b30bfa561",
+	"metadata_created": "2015-08-24T21:40:27.572261",
+	"metadata_modified": "2015-08-24T21:40:27.572261",
+	"author": null,
+	"author_email": null,
+	"state": "active",
+	"version": null,
+	"license_id": "us-pd",
+	"type": "dataset",
+	"resources": [{
+		"resource_group_id": "6e7303c2-37a5-4886-a5a7-1b3fd9521f80",
+		"cache_last_updated": null,
+		"revision_timestamp": "2015-08-24T21:40:27.572261",
+		"webstore_last_updated": null,
+		"id": "a80663e8-a0e5-4da7-89c7-e2a089e76ecd",
+		"size": null,
+		"state": "active",
+		"hash": "",
+		"description": "IND2.1.2.1-NASA-OSA.tar.gz",
+		"format": "TAR",
+		"tracking_summary": {
+			"total": 0,
+			"recent": 0
+		},
+		"mimetype_inner": null,
+		"revision_id": "25e34538-7ce2-4a34-be08-ebf3ecca8ad0",
+		"mimetype": "application\/x-tar",
+		"cache_url": null,
+		"name": "TAR Compressed File",
+		"created": "2015-08-24T17:40:27.986912",
+		"url": "http:\/\/ti.arc.nasa.gov\/m\/opensource\/downloads\/IND2.1.2.1-NASA-OSA.tar.gz",
+		"webstore_url": null,
+		"last_modified": null,
+		"position": 0,
+		"no_real_name": true,
+		"resource_type": null
+	}],
+	"num_resources": 1,
+	"tags": [{
+		"vocabulary_id": null,
+		"display_name": "data-processing",
+		"name": "data-processing",
+		"revision_timestamp": "2015-08-24T21:40:27.572261",
+		"state": "active",
+		"id": "73926fbb-beb1-4ac1-b162-d6d72710cabe"
+	},
+	{
+		"vocabulary_id": null,
+		"display_name": "decision-tree",
+		"name": "decision-tree",
+		"revision_timestamp": "2015-08-24T21:40:27.572261",
+		"state": "active",
+		"id": "9240f020-eac8-4945-a6d4-12dddd70309e"
+	},
+	{
+		"vocabulary_id": null,
+		"display_name": "ind",
+		"name": "ind",
+		"revision_timestamp": "2015-08-24T21:40:27.572261",
+		"state": "active",
+		"id": "4b6465ed-daf0-4edc-a7d2-7a7b126881c7"
+	},
+	{
+		"vocabulary_id": null,
+		"display_name": "manipulation",
+		"name": "manipulation",
+		"revision_timestamp": "2015-08-24T21:40:27.572261",
+		"state": "active",
+		"id": "75d65b1f-9a37-4081-a7eb-551c98c0c147"
+	},
+	{
+		"vocabulary_id": null,
+		"display_name": "prediction",
+		"name": "prediction",
+		"revision_timestamp": "2015-08-24T21:40:27.572261",
+		"state": "active",
+		"id": "2582b3e3-066e-4935-afcd-a434c0c82771"
+	}],
+	"title": "ARC Code TI: IND: Creation and Manipulation of Decision Trees from Data",
+	"tracking_summary": {
+		"total": 9,
+		"recent": 1
+	},
+	"groups": [],
+	"relationships_as_subject": [],
+	"revision_timestamp": "2015-08-24T21:40:27.572261",
+	"name": "arc-code-ti-ind-creation-and-manipulation-of-decision-trees-from-data",
+	"isopen": true,
+	"url": null,
+	"notes": "IND is applicable to most data sets consisting of independent instances, each described by a fixed length vector of attribute values. An attribute value may be a number, one of a set of attribute specific symbols, or omitted. One of the attributes is delegated the 'target' and IND grows trees to predict the target. Prediction can then be done on new data or the decision tree printed out for inspection.",
+	"license_title": "U.S. Government Work",
+	"extras": [{
+		"key": "harvest_source_id",
+		"value": "39e4ad2a-47ca-4507-8258-852babd0fd99"
+	},
+	{
+		"key": "issued",
+		"value": "2015-07-21T00:00:00.000Z"
+	},
+	{
+		"key": "resource-type",
+		"value": "Dataset"
+	},
+	{
+		"key": "source_hash",
+		"value": "29d4bb9cd633d2c496c7c20f7cc761a0043f8260"
+	},
+	{
+		"key": "accessLevel",
+		"value": "public"
+	},
+	{
+		"key": "catalog_conformsTo",
+		"value": "https:\/\/project-open-data.cio.gov\/v1.1\/schema"
+	},
+	{
+		"key": "catalog_@context",
+		"value": "https:\/\/project-open-data.cio.gov\/v1.1\/schema\/catalog.jsonld"
+	},
+	{
+		"key": "catalog_describedBy",
+		"value": "https:\/\/project-open-data.cio.gov\/v1.1\/schema\/catalog.json"
+	},
+	{
+		"key": "harvest_source_title",
+		"value": "NASA Data.json"
+	},
+	{
+		"key": "source_schema_version",
+		"value": "1.1"
+	},
+	{
+		"key": "programCode",
+		"value": ["026:046"]
+	},
+	{
+		"key": "bureauCode",
+		"value": ["026:00"]
+	},
+	{
+		"key": "landingPage",
+		"value": "http:\/\/ti.arc.nasa.gov\/opensource\/projects\/ind\/"
+	},
+	{
+		"key": "harvest_object_id",
+		"value": "22a11931-2d9a-449b-8a2c-01a8239478ae"
+	},
+	{
+		"key": "publisher",
+		"value": "Ames Research Center"
+	},
+	{
+		"key": "_id",
+		"value": {
+			"$oid": "55db7497529439f55905403b"
+		}
+	},
+	{
+		"key": "license",
+		"value": "http:\/\/www.usa.gov\/publicdomain\/label\/1.0\/"
+	},
+	{
+		"key": "language",
+		"value": ["en-US"]
+	},
+	{
+		"key": "publisher_hierarchy",
+		"value": "U.S. Government > National Aeronautics and Space Administration > Ames Research Center"
+	},
+	{
+		"key": "modified",
+		"value": "2015-07-21T00:00:00.000Z"
+	},
+	{
+		"key": "source_datajson_identifier",
+		"value": true
+	},
+	{
+		"key": "accrualPeriodicity",
+		"value": "irregular"
+	},
+	{
+		"key": "identifier",
+		"value": "OCIO-Fitara-121"
+	},
+	{
+		"state": "active",
+		"key": "harvest_object_id",
+		"value": "22a11931-2d9a-449b-8a2c-01a8239478ae"
+	},
+	{
+		"state": "active",
+		"key": "harvest_source_id",
+		"value": "39e4ad2a-47ca-4507-8258-852babd0fd99"
+	},
+	{
+		"state": "active",
+		"key": "harvest_source_title",
+		"value": "NASA Data.json"
+	}],
+	"license_url": "http:\/\/www.usa.gov\/publicdomain\/label\/1.0\/",
+	"organization": {
+		"description": "NASA's vision: To reach for new heights and reveal the unknown so that what we do and learn will benefit all humankind.\r\n\r\nTo do that, thousands of people have been working around the world -- and off of it -- for 50 years, trying to answer some basic questions. What's out there in space? How do we get there? What will we find? What can we learn there, or learn just by trying to get there, that will make life better here on Earth?\r\n\r\nNASA conducts its work in four principal organizations, called mission directorates:\r\n \r\nAeronautics: works to solve the challenges that still exist in our nation's air transportation system: air traffic congestion, safety and environmental impacts.\r\n\r\nHuman Exploration and Operations: focuses on International Space Station operations, development of commercial spaceflight opportunities and human exploration beyond low Earth orbit.\r\n\r\nScience: explores the Earth, solar system and universe beyond; charts the best route of discovery; and reaps the benefits of Earth and space exploration for society.\r\n\r\nSpace Technology: rapidly develops, demonstrates, and infuses revolutionary, high-payoff technologies, expanding the boundaries of the aerospace enterprise.\r\n\r\nIn the early 21st century, NASA's reach spans the universe. The Mars rover Curiosity is still exploring Mars to see if it might once have had environments suitable for life. Cassini is in orbit around Saturn, as Juno makes its way to Jupiter. The restored Hubble Space Telescope continues to explore the deepest reaches of the cosmos as NASA developes the James Webb Space Telescope.\r\n\r\nCloser to home, the latest crew of the International Space Station is extending the permanent human presence in space. With commercial partners such as SpaceX, NASA is helping to foster the development of private-sector aerospace.\r\n\r\nEarth science satellites are sending back unprecedented data on Earth's oceans, climate and other features. NASA's aeronautics team is working with other government organizations, universities, and industry to fundamentally improve the air transportation experience and retain our nation's leadership in global aviation.",
+		"created": "2013-03-14T03:44:44.467521",
+		"title": "National Aeronautics and Space Administration",
+		"name": "nasa-gov",
+		"revision_timestamp": "2013-08-20T16:04:52.563777",
+		"is_organization": true,
+		"state": "active",
+		"image_url": "http:\/\/polargateways2008.gsfc.nasa.gov\/images\/LOGO_2in\/NASA_2.jpg",
+		"revision_id": "7f05110b-681a-402c-a372-74500dc583dd",
+		"type": "organization",
+		"id": "d8a6202b-c0c3-463d-88a0-3bc021a178ed",
+		"approval_status": "approved"
+	},
+	"revision_id": "25e34538-7ce2-4a34-be08-ebf3ecca8ad0"
+}

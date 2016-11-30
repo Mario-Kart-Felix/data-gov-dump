@@ -1,0 +1,214 @@
+{
+	"owner_org": "86c0c3d9-3826-47ab-a773-6924b858dd04",
+	"maintainer": "<Nobody>",
+	"relationships_as_object": [],
+	"private": false,
+	"maintainer_email": null,
+	"num_tags": 5,
+	"id": "70606fa1-6666-4add-9df1-5bfee9d529e0",
+	"metadata_created": "2016-01-28T07:20:07.195295",
+	"metadata_modified": "2016-01-28T07:20:07.195295",
+	"author": null,
+	"author_email": null,
+	"state": "active",
+	"version": null,
+	"license_id": "notspecified",
+	"type": "dataset",
+	"resources": [{
+		"resource_group_id": "5d5ce109-f87d-436b-ba34-48c1b43861b4",
+		"cache_last_updated": null,
+		"revision_timestamp": "2016-01-28T07:20:07.195295",
+		"webstore_last_updated": null,
+		"id": "77fbe2f7-86ce-45b4-9e60-db2a2cc56256",
+		"size": null,
+		"state": "active",
+		"hash": "",
+		"description": "",
+		"format": "ZIP",
+		"tracking_summary": {
+			"total": 0,
+			"recent": 0
+		},
+		"mimetype_inner": null,
+		"revision_id": "620b1f26-532c-4ed2-a724-77dd19014f3a",
+		"mimetype": "application\/zip",
+		"cache_url": null,
+		"name": "Zip File",
+		"created": "2016-01-28T02:20:07.534896",
+		"url": "https:\/\/data.cityofchicago.org\/download\/r8j7-4p5r\/application\/zip",
+		"webstore_url": null,
+		"last_modified": null,
+		"position": 0,
+		"no_real_name": true,
+		"resource_type": null
+	}],
+	"num_resources": 1,
+	"tags": [{
+		"vocabulary_id": null,
+		"display_name": "cta",
+		"name": "cta",
+		"revision_timestamp": "2016-01-28T07:20:07.195295",
+		"state": "active",
+		"id": "14fc3e0c-b00f-47ae-8281-814ccf3a4c96"
+	},
+	{
+		"vocabulary_id": null,
+		"display_name": "gis",
+		"name": "gis",
+		"revision_timestamp": "2016-01-28T07:20:07.195295",
+		"state": "active",
+		"id": "3dc0c789-3e0c-4755-8418-1f1a0b82a70b"
+	},
+	{
+		"vocabulary_id": null,
+		"display_name": "parking",
+		"name": "parking",
+		"revision_timestamp": "2016-01-28T07:20:07.195295",
+		"state": "active",
+		"id": "0664c3b4-a4fa-497f-94b8-8791084df1b4"
+	},
+	{
+		"vocabulary_id": null,
+		"display_name": "shapefiles",
+		"name": "shapefiles",
+		"revision_timestamp": "2016-01-28T07:20:07.195295",
+		"state": "active",
+		"id": "e066ef05-f157-4e4f-a65a-cd4f3435bb6c"
+	},
+	{
+		"vocabulary_id": null,
+		"display_name": "sustainability",
+		"name": "sustainability",
+		"revision_timestamp": "2016-01-28T07:20:07.195295",
+		"state": "active",
+		"id": "9c9af354-e8b1-408c-acac-e041b458c47a"
+	}],
+	"title": "CTA - Park & Ride Locations - Shapefile",
+	"tracking_summary": {
+		"total": 1,
+		"recent": 1
+	},
+	"groups": [{
+		"capacity": "public",
+		"description": "Local Government Topic - for all datasets with state, local, county organizations",
+		"created": "2015-04-06T16:22:44.896030",
+		"title": "Local Government",
+		"name": "local",
+		"is_organization": false,
+		"state": "active",
+		"image_url": "",
+		"revision_id": "a44b1716-9f9d-4db9-9b8e-321769eb8f69",
+		"type": "group",
+		"id": "ccc6c266-eee8-44bd-89aa-7cd8c4c6bf46",
+		"approval_status": "approved"
+	}],
+	"relationships_as_subject": [],
+	"revision_timestamp": "2016-01-28T07:20:07.195295",
+	"name": "cta-park-ride-locations-shapefile",
+	"isopen": false,
+	"url": null,
+	"notes": "Point data representing CTA park and ride locations. Details include number of spaces, cost, and rail station. To view or use these files, compression software and special GIS software, such as ESRI ArcGIS is required.                                                                          \r\nProjected Coordinate System:\tNAD_1983_StatePlane_Illinois_East_FIPS_1201_Feet",
+	"license_title": "License Not Specified",
+	"extras": [{
+		"key": "publisher",
+		"value": "data.cityofchicago.org"
+	},
+	{
+		"key": "accessLevel",
+		"value": "public"
+	},
+	{
+		"key": "catalog_describedBy",
+		"value": "https:\/\/project-open-data.cio.gov\/v1.1\/schema\/catalog.json"
+	},
+	{
+		"key": "harvest_source_id",
+		"value": "added36a-9183-4385-a0e5-dd478946b24c"
+	},
+	{
+		"key": "catalog_@context",
+		"value": "https:\/\/project-open-data.cio.gov\/v1.1\/schema\/catalog.jsonld"
+	},
+	{
+		"key": "issued",
+		"value": "2011-08-31"
+	},
+	{
+		"key": "resource-type",
+		"value": "Dataset"
+	},
+	{
+		"key": "modified",
+		"value": "2012-09-07"
+	},
+	{
+		"key": "harvest_source_title",
+		"value": "Chicago JSON"
+	},
+	{
+		"key": "source_schema_version",
+		"value": "1.1"
+	},
+	{
+		"key": "source_datajson_identifier",
+		"value": true
+	},
+	{
+		"key": "theme",
+		"value": ["Transportation"]
+	},
+	{
+		"key": "catalog_@id",
+		"value": "https:\/\/data.cityofchicago.org\/data.json"
+	},
+	{
+		"key": "catalog_conformsTo",
+		"value": "https:\/\/project-open-data.cio.gov\/v1.1\/schema"
+	},
+	{
+		"key": "identifier",
+		"value": "https:\/\/data.cityofchicago.org\/api\/views\/r8j7-4p5r"
+	},
+	{
+		"key": "landingPage",
+		"value": "https:\/\/data.cityofchicago.org\/d\/r8j7-4p5r"
+	},
+	{
+		"key": "harvest_object_id",
+		"value": "27ffadc3-8f76-4c12-9cbb-31df04702075"
+	},
+	{
+		"key": "source_hash",
+		"value": "2571973355938841adcee9dd9972cc804ddb60f7"
+	},
+	{
+		"state": "active",
+		"key": "harvest_object_id",
+		"value": "27ffadc3-8f76-4c12-9cbb-31df04702075"
+	},
+	{
+		"state": "active",
+		"key": "harvest_source_id",
+		"value": "added36a-9183-4385-a0e5-dd478946b24c"
+	},
+	{
+		"state": "active",
+		"key": "harvest_source_title",
+		"value": "Chicago JSON"
+	}],
+	"organization": {
+		"description": "",
+		"created": "2014-04-16T13:27:34.042027",
+		"title": "City of Chicago",
+		"name": "city-of-chicago",
+		"revision_timestamp": "2014-04-16T17:27:33.978738",
+		"is_organization": true,
+		"state": "active",
+		"image_url": "",
+		"revision_id": "2355fd63-2123-4dc7-b177-e959631cf360",
+		"type": "organization",
+		"id": "86c0c3d9-3826-47ab-a773-6924b858dd04",
+		"approval_status": "approved"
+	},
+	"revision_id": "620b1f26-532c-4ed2-a724-77dd19014f3a"
+}

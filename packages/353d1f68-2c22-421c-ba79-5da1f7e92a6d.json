@@ -1,0 +1,217 @@
+{
+	"license_title": "Creative Commons Attribution",
+	"maintainer": "Colin M Ferguson",
+	"relationships_as_object": [],
+	"private": false,
+	"maintainer_email": "cfergus@ucdavis.edu",
+	"revision_timestamp": "2016-05-20T00:43:58.049555",
+	"id": "353d1f68-2c22-421c-ba79-5da1f7e92a6d",
+	"metadata_created": "2016-05-20T00:43:58.049555",
+	"metadata_modified": "2016-05-20T00:43:58.049555",
+	"author": null,
+	"author_email": null,
+	"state": "active",
+	"version": null,
+	"license_id": "cc-by",
+	"type": "dataset",
+	"resources": [{
+		"resource_group_id": "ff6db6f8-132b-4045-8627-2b3d8bd314e6",
+		"cache_last_updated": null,
+		"revision_timestamp": "2016-05-20T00:43:58.049555",
+		"webstore_last_updated": null,
+		"id": "f4193439-c15e-4f15-ba47-0ef906737a1f",
+		"size": null,
+		"state": "active",
+		"hash": "",
+		"description": "Rough aqueous geochemistry analysis using various elemental concentrations.",
+		"format": "xlsx",
+		"tracking_summary": {
+			"total": 0,
+			"recent": 0
+		},
+		"mimetype_inner": null,
+		"mimetype": "application\/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+		"cache_url": null,
+		"name": "z-gc.xlsx",
+		"created": "2016-05-19T20:43:58.278431",
+		"url": "http:\/\/gdr.openei.org\/files\/672\/Z_GC.xlsx",
+		"webstore_url": null,
+		"last_modified": null,
+		"position": 0,
+		"revision_id": "52ba640a-f8d3-42fa-af30-f29fafe29ddf",
+		"resource_type": null
+	},
+	{
+		"resource_group_id": "ff6db6f8-132b-4045-8627-2b3d8bd314e6",
+		"cache_last_updated": null,
+		"revision_timestamp": "2016-05-20T00:43:58.049555",
+		"webstore_last_updated": null,
+		"id": "036979f5-afb3-4af7-9ddf-9f6be2274040",
+		"size": null,
+		"state": "active",
+		"hash": "",
+		"description": "All aqueous geochemistry data within the UCD PF area.",
+		"format": "dbf",
+		"tracking_summary": {
+			"total": 0,
+			"recent": 0
+		},
+		"mimetype_inner": null,
+		"mimetype": null,
+		"cache_url": null,
+		"name": "pfonly.dbf",
+		"created": "2016-05-19T20:43:58.278475",
+		"url": "http:\/\/gdr.openei.org\/files\/672\/PFonly.dbf",
+		"webstore_url": null,
+		"last_modified": null,
+		"position": 1,
+		"revision_id": "52ba640a-f8d3-42fa-af30-f29fafe29ddf",
+		"resource_type": null
+	}],
+	"num_resources": 2,
+	"tags": [{
+		"vocabulary_id": null,
+		"display_name": "aqueous",
+		"name": "aqueous",
+		"revision_timestamp": "2016-05-20T00:43:58.049555",
+		"state": "active",
+		"id": "5dcfa488-c65f-40f9-96d6-c2af9f8eabf8"
+	},
+	{
+		"vocabulary_id": null,
+		"display_name": "geochemistry",
+		"name": "geochemistry",
+		"revision_timestamp": "2016-05-20T00:43:58.049555",
+		"state": "active",
+		"id": "d1259b92-b5ff-4703-8769-46494124fc37"
+	},
+	{
+		"vocabulary_id": null,
+		"display_name": "geothermal",
+		"name": "geothermal",
+		"revision_timestamp": "2016-05-20T00:43:58.049555",
+		"state": "active",
+		"id": "3f323051-fbd3-4715-bc13-e2fa5e65d369"
+	}],
+	"tracking_summary": {
+		"total": 0,
+		"recent": 0
+	},
+	"groups": [],
+	"organization": {
+		"description": "",
+		"title": "Department of Energy",
+		"created": "2013-05-18T11:31:21.471948",
+		"approval_status": "approved",
+		"revision_timestamp": "2013-05-31T20:48:37.771905",
+		"is_organization": true,
+		"state": "active",
+		"image_url": "http:\/\/energy.gov\/sites\/prod\/files\/styles\/imagelink\/public\/DoE-Logo.jpeg",
+		"revision_id": "14e1d3c1-4cc7-460c-bf1c-b10e3429b4b0",
+		"type": "organization",
+		"id": "735d0118-b2a7-4246-a0e3-608b0fa8d1ec",
+		"name": "doe-gov"
+	},
+	"relationships_as_subject": [],
+	"num_tags": 3,
+	"name": "play-fairway-analysis-ca-nv-or-geochemistry-data-play-fairway-area-only-3b4e8",
+	"isopen": true,
+	"url": null,
+	"notes": "Subset of all Aqueous Geochemistry, selected for UCD PF area only.",
+	"owner_org": "735d0118-b2a7-4246-a0e3-608b0fa8d1ec",
+	"extras": [{
+		"key": "harvest_source_id",
+		"value": "8d4de31c-979c-4b50-be6b-ea3c72453ff6"
+	},
+	{
+		"key": "issued",
+		"value": "2015-08-05"
+	},
+	{
+		"key": "resource-type",
+		"value": "Dataset"
+	},
+	{
+		"key": "source_hash",
+		"value": "bcd6c757adba9858685eb5c7eb9ca92efa7469cf"
+	},
+	{
+		"key": "accessLevel",
+		"value": "public"
+	},
+	{
+		"key": "spatial",
+		"value": "{\"type\":\"Polygon\",\"coordinates\":[[[-120.89753886719,40.501481364988],[-119.76604824219,40.501481364988],[-119.76604824219,42.83509574107],[-120.89753886719,42.83509574107],[-120.89753886719,40.501481364988]]]}"
+	},
+	{
+		"key": "catalog_conformsTo",
+		"value": "https:\/\/project-open-data.cio.gov\/v1.1\/schema"
+	},
+	{
+		"key": "catalog_@context",
+		"value": "https:\/\/project-open-data.cio.gov\/v1.1\/schema\/catalog.jsonld"
+	},
+	{
+		"key": "catalog_describedBy",
+		"value": "https:\/\/project-open-data.cio.gov\/v1.1\/schema\/catalog.json"
+	},
+	{
+		"key": "format",
+		"value": "application\/vnd.openxmlformats-officedocument.spreadsheetml.sheet"
+	},
+	{
+		"key": "harvest_source_title",
+		"value": "Energy JSON"
+	},
+	{
+		"key": "source_schema_version",
+		"value": "1.1"
+	},
+	{
+		"key": "programCode",
+		"value": ["019:006"]
+	},
+	{
+		"key": "bureauCode",
+		"value": ["019:20"]
+	},
+	{
+		"key": "landingPage",
+		"value": "http:\/\/gdr.openei.org\/submissions\/672"
+	},
+	{
+		"key": "harvest_object_id",
+		"value": "c2f26b86-3909-4b3e-8b6b-d6e48c753104"
+	},
+	{
+		"key": "accessURL",
+		"value": "http:\/\/gdr.openei.org\/files\/672\/Z_GC.xlsx"
+	},
+	{
+		"key": "publisher",
+		"value": "University of California Davis"
+	},
+	{
+		"key": "license",
+		"value": "https:\/\/creativecommons.org\/licenses\/by\/4.0\/"
+	},
+	{
+		"key": "modified",
+		"value": "2015-08-05"
+	},
+	{
+		"key": "source_datajson_identifier",
+		"value": true
+	},
+	{
+		"key": "dataQuality",
+		"value": true
+	},
+	{
+		"key": "identifier",
+		"value": "http:\/\/en.openei.org\/doe-opendata\/dataset\/f0000000-e214-4b72-acd2-000000000672"
+	}],
+	"license_url": "http:\/\/www.opendefinition.org\/licenses\/cc-by",
+	"title": "Play Fairway Analysis CA-NV-OR: Geochemistry Data (Play Fairway Area Only)",
+	"revision_id": "52ba640a-f8d3-42fa-af30-f29fafe29ddf"
+}

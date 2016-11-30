@@ -1,0 +1,243 @@
+{
+	"owner_org": "bd2cdd5a-4d65-46c0-9937-c8381175f104",
+	"maintainer": null,
+	"relationships_as_object": [],
+	"private": false,
+	"maintainer_email": null,
+	"num_tags": 0,
+	"id": "6660ffef-a29d-4840-afe4-69119c8673ee",
+	"metadata_created": "2016-02-12T13:46:00.348557",
+	"metadata_modified": "2016-04-16T16:14:31.409619",
+	"author": null,
+	"author_email": null,
+	"state": "active",
+	"version": null,
+	"license_id": null,
+	"type": "dataset",
+	"resources": [{
+		"resource_group_id": "ff5254aa-ffe3-4cd6-88ad-dfe289116cc3",
+		"cache_last_updated": null,
+		"revision_timestamp": "2016-04-16T16:14:31.409619",
+		"webstore_last_updated": null,
+		"id": "1450cd89-aac7-4c99-a336-025837b23f3e",
+		"size": null,
+		"state": "active",
+		"last_modified": null,
+		"hash": "",
+		"description": "",
+		"format": "hdf",
+		"tracking_summary": {
+			"total": 830,
+			"recent": 35
+		},
+		"mimetype_inner": null,
+		"resource_locator_protocol": "",
+		"mimetype": null,
+		"cache_url": null,
+		"name": "HDF",
+		"created": "2016-04-16T12:14:31.574416",
+		"url": "http:\/\/earthexplorer.usgs.gov",
+		"webstore_url": null,
+		"resource_locator_function": "",
+		"position": 0,
+		"revision_id": "71ad2acc-3739-43fa-9fd8-b9147dbbdfa7",
+		"resource_type": null
+	},
+	{
+		"resource_group_id": "ff5254aa-ffe3-4cd6-88ad-dfe289116cc3",
+		"cache_last_updated": null,
+		"revision_timestamp": "2016-04-16T16:14:31.409619",
+		"webstore_last_updated": null,
+		"id": "05d15ab3-1f32-4364-96bd-026885a5c3c0",
+		"size": null,
+		"state": "active",
+		"last_modified": null,
+		"hash": "",
+		"description": "",
+		"format": "hdf",
+		"tracking_summary": {
+			"total": 88,
+			"recent": 7
+		},
+		"mimetype_inner": null,
+		"resource_locator_protocol": "",
+		"mimetype": null,
+		"cache_url": null,
+		"name": "HDF",
+		"created": "2016-04-16T12:14:31.574439",
+		"url": "http:\/\/glovis.usgs.gov",
+		"webstore_url": null,
+		"resource_locator_function": "",
+		"position": 1,
+		"revision_id": "71ad2acc-3739-43fa-9fd8-b9147dbbdfa7",
+		"resource_type": null
+	},
+	{
+		"resource_group_id": "ff5254aa-ffe3-4cd6-88ad-dfe289116cc3",
+		"cache_last_updated": null,
+		"revision_timestamp": "2016-04-16T16:14:31.409619",
+		"webstore_last_updated": null,
+		"id": "dd53f475-abb2-461a-9a37-dfdd5603ddf9",
+		"size": null,
+		"state": "active",
+		"last_modified": null,
+		"hash": "",
+		"description": "AST_L1T.003",
+		"format": "",
+		"tracking_summary": {
+			"total": 11,
+			"recent": 1
+		},
+		"mimetype_inner": null,
+		"resource_locator_protocol": "",
+		"revision_id": "71ad2acc-3739-43fa-9fd8-b9147dbbdfa7",
+		"mimetype": null,
+		"cache_url": null,
+		"name": "Web Page",
+		"created": "2016-04-16T12:14:31.574448",
+		"url": "http:\/\/dx.doi.org\/10.5067\/ASTER\/AST_L1T.003",
+		"webstore_url": null,
+		"resource_locator_function": "",
+		"position": 2,
+		"no_real_name": true,
+		"resource_type": null
+	}],
+	"num_resources": 3,
+	"tags": [],
+	"title": "NASA ASTER Level 1T",
+	"tracking_summary": {
+		"total": 268,
+		"recent": 16
+	},
+	"groups": [],
+	"relationships_as_subject": [],
+	"revision_timestamp": "2016-02-12T13:46:00.348557",
+	"name": "nasa-aster-level-1t8d54e",
+	"isopen": false,
+	"url": null,
+	"notes": "The Advanced Spaceborne Thermal Emission and Reflection Radiometer (ASTER) is an advanced multispectral imager that was launched on board NASA's Terra spacecraft in December, 1999. The ASTER Level-1T (L1T) data incorporate radiometric and geometric corrections while employing ASTER 30-meter Global Digital Elevation Model (DEM) for topographic accuracy. All of these data are stored together with metadata in one HDF file. The L1T image is projected onto a rotated map (rotated to path oriented coordinate) at full instrument resolutions. The Level-1T data generation also includes registration of the SWIR and TIR data to the VNIR data. And in addition, for SWIR in particular, the parallax errors due to the spatial locations of all of its bands are corrected. The Level-1T data set provide scaled or calibrated radiance values. Scenes with sufficient elevation and ground control data for terrain correction are processed to Level 1T.",
+	"license_title": null,
+	"extras": [{
+		"key": "responsible-party",
+		"value": "[{\"name\": \"U.S. Geological Survey Earth Resources Observation and Science (EROS) Center\", \"roles\": [\"pointOfContact\"]}]"
+	},
+	{
+		"key": "contact-email",
+		"value": "lta@usgs.gov"
+	},
+	{
+		"key": "metadata-language",
+		"value": ""
+	},
+	{
+		"key": "bbox-west-long",
+		"value": "-180"
+	},
+	{
+		"key": "metadata-date",
+		"value": "2016-04-14"
+	},
+	{
+		"key": "dataset-reference-date",
+		"value": "[{\"type\": \"publication\", \"value\": \"2016-04-14\"}]"
+	},
+	{
+		"key": "resource-type",
+		"value": "dataset"
+	},
+	{
+		"key": "bbox-east-long",
+		"value": "180"
+	},
+	{
+		"key": "spatial-reference-system",
+		"value": ""
+	},
+	{
+		"key": "bbox-north-lat",
+		"value": "84.7"
+	},
+	{
+		"key": "coupled-resource",
+		"value": "[]"
+	},
+	{
+		"key": "bbox-south-lat",
+		"value": "-85.2"
+	},
+	{
+		"key": "licence",
+		"value": "[\"Although these data have been processed successfully on a computer system at the U.S. Geological Survey, no warranty, expressed or implied, is made by the USGS regarding the use of the data on any other system, nor does the act of distribution constitute any such warranty.  \"]"
+	},
+	{
+		"key": "metadata_type",
+		"value": "geospatial"
+	},
+	{
+		"key": "progress",
+		"value": "underDevelopment"
+	},
+	{
+		"key": "spatial",
+		"value": "{\"type\": \"Polygon\", \"coordinates\": [[[-180.0, -85.2], [180.0, -85.2], [180.0, 84.7], [-180.0, 84.7], [-180.0, -85.2]]]}"
+	},
+	{
+		"key": "guid",
+		"value": ""
+	},
+	{
+		"key": "spatial-data-service-type",
+		"value": ""
+	},
+	{
+		"key": "access_constraints",
+		"value": "[\"Use Constraints: There is no guarantee of warranty concerning the accuracy of these data. Users should be aware that temporal changes may have occurred since the data was collected and that some parts of these data may no longer represent actual surface conditions. Users should not use these data for critical applications without a full awareness of their limitations. Acknowledgement of the originating agencies would be appreciated in products derived from these data. Any user who modifies the data set is obligated to describe the types of modifications they perform. User specifically agrees not to misrepresent the data set, nor to imply that changes made were approved or endorsed by the U.S. Geological Survey. Please refer to http:\/\/www.usgs.gov\/privacy.html for the USGS disclaimer.\", \"Access Constraints: Any downloading and use of these data signifies a user's agreement to comprehension and compliance of the USGS Standard Disclaimer. Insure all portions of metadata are read and clearly understood before using these data in order to protect both user and USGS interests.\"]"
+	},
+	{
+		"key": "spatial_harvester",
+		"value": true
+	},
+	{
+		"key": "frequency-of-update",
+		"value": "asNeeded"
+	},
+	{
+		"package_id": "6660ffef-a29d-4840-afe4-69119c8673ee",
+		"value": "imagery, image map, earth observing system, aster, terra, eos, u.s. geological survey, usgs",
+		"revision_timestamp": "2016-02-12T13:46:00.348557",
+		"state": "active",
+		"key": "tags",
+		"revision_id": "4dce87a6-a98c-4a6f-b9ad-e0ebba369f98",
+		"id": "bb8743ee-6116-41a0-a7eb-76a3397f55ed"
+	},
+	{
+		"state": "active",
+		"key": "harvest_object_id",
+		"value": "387034ff-29d3-4932-a70d-3f3a2fe1c620"
+	},
+	{
+		"state": "active",
+		"key": "harvest_source_id",
+		"value": "9f092989-2f6c-4e4b-a5eb-a9c8261a27e6"
+	},
+	{
+		"state": "active",
+		"key": "harvest_source_title",
+		"value": "USGS Earth Resources Observation and Science (EROS)"
+	}],
+	"organization": {
+		"description": "http:\/\/www.usgs.gov\/\r\nThe USGS is a federal science agency that provides impartial information on the health of our ecosystems and environment, the natural hazards that threaten us, the natural resources we rely on, the impacts of climate and land-use change, and the core science systems that help us provide timely, relevant, and useable information.",
+		"created": "2013-03-14T03:44:38.263357",
+		"title": "U.S. Geological Survey, Department of the Interior",
+		"name": "usgs-gov",
+		"revision_timestamp": "2014-09-02T13:43:52.167023",
+		"is_organization": true,
+		"state": "active",
+		"image_url": "http:\/\/pubs.usgs.gov\/sir\/2004\/5296\/04-5296_confluence_park\/usgs_logo.gif",
+		"revision_id": "2858aa99-9501-4f96-82e5-9647b968ed66",
+		"type": "organization",
+		"id": "bd2cdd5a-4d65-46c0-9937-c8381175f104",
+		"approval_status": "approved"
+	},
+	"revision_id": "4dce87a6-a98c-4a6f-b9ad-e0ebba369f98"
+}

@@ -1,0 +1,140 @@
+{
+	"license_title": "U.S. Government Work",
+	"maintainer": "Data Administrator",
+	"relationships_as_object": [],
+	"private": false,
+	"maintainer_email": "da.mailbox@ssa.gov",
+	"revision_timestamp": "2015-12-30T13:38:24.239040",
+	"id": "180427ec-14dc-4743-a375-19a3f9338430",
+	"metadata_created": "2015-02-28T17:13:42.196532",
+	"metadata_modified": "2016-10-29T19:05:05.245958",
+	"author": null,
+	"author_email": null,
+	"state": "active",
+	"version": null,
+	"license_id": "us-pd",
+	"type": "dataset",
+	"resources": [],
+	"num_resources": 0,
+	"tags": [{
+		"vocabulary_id": null,
+		"display_name": "automated-scheduling",
+		"name": "automated-scheduling",
+		"revision_timestamp": "2015-02-28T17:13:42.196532",
+		"state": "active",
+		"id": "c0a9b8b9-1d0e-4053-9f25-efd2d747af4e"
+	},
+	{
+		"vocabulary_id": null,
+		"display_name": "hearings",
+		"name": "hearings",
+		"revision_timestamp": "2015-02-28T17:13:42.196532",
+		"state": "active",
+		"id": "6238731f-c285-43a7-b777-7a0ec9b8ac08"
+	},
+	{
+		"vocabulary_id": null,
+		"display_name": "participants",
+		"name": "participants",
+		"revision_timestamp": "2015-02-28T17:13:42.196532",
+		"state": "active",
+		"id": "5b585993-9628-41b5-b3e1-4851c539dc9b"
+	}],
+	"tracking_summary": {
+		"total": 5,
+		"recent": 0
+	},
+	"groups": [],
+	"organization": {
+		"description": "",
+		"title": "Social Security Administration",
+		"created": "2013-05-18T11:35:25.934290",
+		"approval_status": "approved",
+		"revision_timestamp": "2015-02-25T20:32:33.216893",
+		"is_organization": true,
+		"state": "active",
+		"image_url": "https:\/\/raw.githubusercontent.com\/GSA\/logo\/master\/ssa.png",
+		"revision_id": "1be01963-921d-432f-b56d-37fa76dfb0a1",
+		"type": "organization",
+		"id": "149dc403-f16f-4e9d-a9c9-39babf7e98bf",
+		"name": "ssa-gov"
+	},
+	"relationships_as_subject": [],
+	"num_tags": 3,
+	"name": "automated-scheduling-management-information",
+	"isopen": true,
+	"url": null,
+	"notes": "Captures MI information from the ODAR Automated Scheduling database; which stores the  information needed to reduce the coordination time of scheduling all of the participants for a hearing.",
+	"owner_org": "149dc403-f16f-4e9d-a9c9-39babf7e98bf",
+	"extras": [{
+		"key": "publisher",
+		"value": "Social Security Administration"
+	},
+	{
+		"key": "accessLevel",
+		"value": "non-public"
+	},
+	{
+		"key": "license",
+		"value": "https:\/\/www.usa.gov\/publicdomain\/label\/1.0\/"
+	},
+	{
+		"key": "harvest_source_id",
+		"value": "3ab711e9-e33a-4f1e-a524-30be635dbce0"
+	},
+	{
+		"key": "rights",
+		"value": "The data asset contains Personally Identifiable Information (PII) and cannot be provided to the public."
+	},
+	{
+		"key": "resource-type",
+		"value": "Dataset"
+	},
+	{
+		"key": "modified",
+		"value": "2016-10-28"
+	},
+	{
+		"key": "harvest_source_title",
+		"value": "SSA JSON"
+	},
+	{
+		"key": "source_schema_version",
+		"value": "1.1"
+	},
+	{
+		"key": "source_datajson_identifier",
+		"value": true
+	},
+	{
+		"key": "programCode",
+		"value": ["016:000"]
+	},
+	{
+		"key": "bureauCode",
+		"value": ["016:00"]
+	},
+	{
+		"key": "catalog_conformsTo",
+		"value": "https:\/\/project-open-data.cio.gov\/v1.1\/schema"
+	},
+	{
+		"key": "identifier",
+		"value": "US-GOV-SSA-6"
+	},
+	{
+		"key": "harvest_object_id",
+		"value": "1bbec35a-dc44-46e8-81e0-159582c7e893"
+	},
+	{
+		"key": "source_hash",
+		"value": "b6efbc3c0a40f3bc1b0a980f10d370c4f6b26305"
+	},
+	{
+		"key": "catalog_describedBy",
+		"value": "https:\/\/project-open-data.cio.gov\/v1.1\/schema\/catalog.json"
+	}],
+	"license_url": "http:\/\/www.usa.gov\/publicdomain\/label\/1.0\/",
+	"title": "Automated Scheduling Management Information",
+	"revision_id": "6b5c0f0c-443a-4cdc-81c3-9c837b00ae75"
+}

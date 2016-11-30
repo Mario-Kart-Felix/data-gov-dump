@@ -1,0 +1,221 @@
+{
+	"owner_org": "149dc403-f16f-4e9d-a9c9-39babf7e98bf",
+	"maintainer": "Data Administrator",
+	"relationships_as_object": [],
+	"private": false,
+	"maintainer_email": "da.mailbox@ssa.gov",
+	"num_tags": 4,
+	"id": "551d4c52-be68-45d5-b7e4-0ef7c6904c94",
+	"metadata_created": "2015-02-28T17:13:42.464171",
+	"metadata_modified": "2016-10-29T19:05:05.257471",
+	"author": null,
+	"author_email": null,
+	"state": "active",
+	"version": null,
+	"license_id": "cc-zero",
+	"type": "dataset",
+	"resources": [{
+		"resource_group_id": "61a8d52f-441c-4141-91ac-4c1e9a3c8e1e",
+		"cache_last_updated": null,
+		"revision_timestamp": "2016-09-28T13:10:00.087032",
+		"webstore_last_updated": null,
+		"id": "c344439f-4930-4507-a915-2e88dfa16e4c",
+		"size": null,
+		"state": "active",
+		"hash": "",
+		"description": "data.csv",
+		"format": "CSV",
+		"tracking_summary": {
+			"total": 10,
+			"recent": 1
+		},
+		"mimetype_inner": null,
+		"revision_id": "8c962d67-578b-49d3-92f2-73d44bae44e0",
+		"mimetype": "text\/csv",
+		"cache_url": null,
+		"name": "Comma Separated Values File",
+		"created": "2015-12-01T06:05:39.328311",
+		"url": "https:\/\/www.ssa.gov\/data\/data.csv",
+		"webstore_url": null,
+		"last_modified": null,
+		"position": 0,
+		"no_real_name": true,
+		"resource_type": null
+	},
+	{
+		"conformsTo": "https:\/\/project-open-data.cio.gov\/v1.1\/schema",
+		"resource_group_id": "61a8d52f-441c-4141-91ac-4c1e9a3c8e1e",
+		"cache_last_updated": null,
+		"describedByType": "application\/json",
+		"revision_timestamp": "2016-09-28T13:10:00.087032",
+		"webstore_last_updated": null,
+		"id": "d4769fe5-71ed-4149-8ed1-51d863fc66dd",
+		"size": null,
+		"state": "active",
+		"describedBy": "https:\/\/www.ssa.gov\/data.json",
+		"hash": "",
+		"description": "data.json",
+		"format": "JSON",
+		"tracking_summary": {
+			"total": 36,
+			"recent": 2
+		},
+		"mimetype_inner": null,
+		"revision_id": "8c962d67-578b-49d3-92f2-73d44bae44e0",
+		"mimetype": "application\/json",
+		"cache_url": null,
+		"name": "JSON File",
+		"created": "2015-12-01T06:05:39.328363",
+		"url": "https:\/\/www.ssa.gov\/data.json",
+		"webstore_url": null,
+		"last_modified": null,
+		"position": 1,
+		"no_real_name": true,
+		"resource_type": null
+	}],
+	"num_resources": 2,
+	"tags": [{
+		"vocabulary_id": null,
+		"display_name": "data",
+		"name": "data",
+		"revision_timestamp": "2015-02-28T17:13:42.464171",
+		"state": "active",
+		"id": "3601f923-ccc1-45bc-b8a7-9c6f7b2bea85"
+	},
+	{
+		"vocabulary_id": null,
+		"display_name": "data-assets",
+		"name": "data-assets",
+		"revision_timestamp": "2015-02-28T17:13:42.464171",
+		"state": "active",
+		"id": "f6157321-91e0-41b5-bc24-a6c1d637ba82"
+	},
+	{
+		"vocabulary_id": null,
+		"display_name": "dataset",
+		"name": "dataset",
+		"revision_timestamp": "2015-02-28T17:13:42.464171",
+		"state": "active",
+		"id": "bcf4f6a4-166e-4808-842a-b379d051cafb"
+	},
+	{
+		"vocabulary_id": null,
+		"display_name": "enterprise-data-inventory",
+		"name": "enterprise-data-inventory",
+		"revision_timestamp": "2015-02-28T17:13:42.464171",
+		"state": "active",
+		"id": "f3bbf225-dbfd-4e3e-b5f7-5037aa485b1c"
+	}],
+	"title": "Social Security Administration (SSA) Enterprise Data Inventory (EDI)",
+	"tracking_summary": {
+		"total": 101,
+		"recent": 0
+	},
+	"groups": [],
+	"relationships_as_subject": [],
+	"revision_timestamp": "2016-08-31T11:34:30.821479",
+	"name": "enterprise-data-inventory-aabcd",
+	"isopen": true,
+	"url": null,
+	"notes": "Provides a list of all data assets maintained by the Social Security Administration. It consist of the Enterprise Data Inventory.",
+	"license_title": "Creative Commons CCZero",
+	"extras": [{
+		"key": "publisher",
+		"value": "Social Security Administration"
+	},
+	{
+		"key": "accessLevel",
+		"value": "public"
+	},
+	{
+		"key": "license",
+		"value": "https:\/\/creativecommons.org\/publicdomain\/zero\/1.0\/"
+	},
+	{
+		"key": "harvest_source_id",
+		"value": "3ab711e9-e33a-4f1e-a524-30be635dbce0"
+	},
+	{
+		"key": "resource-type",
+		"value": "Dataset"
+	},
+	{
+		"key": "modified",
+		"value": "2016-10-28"
+	},
+	{
+		"key": "harvest_source_title",
+		"value": "SSA JSON"
+	},
+	{
+		"key": "source_schema_version",
+		"value": "1.1"
+	},
+	{
+		"key": "source_datajson_identifier",
+		"value": true
+	},
+	{
+		"key": "programCode",
+		"value": ["016:000"]
+	},
+	{
+		"key": "bureauCode",
+		"value": ["016:00"]
+	},
+	{
+		"key": "references",
+		"value": ["https:\/\/www.ssa.gov\/data"]
+	},
+	{
+		"key": "catalog_conformsTo",
+		"value": "https:\/\/project-open-data.cio.gov\/v1.1\/schema"
+	},
+	{
+		"key": "identifier",
+		"value": "US-GOV-SSA-1"
+	},
+	{
+		"key": "harvest_object_id",
+		"value": "44829751-9b9d-42b1-93af-eb99a20b5c3e"
+	},
+	{
+		"key": "source_hash",
+		"value": "a7da8a0364ef8ba32e67aaffb3931f77aabb7100"
+	},
+	{
+		"key": "catalog_describedBy",
+		"value": "https:\/\/project-open-data.cio.gov\/v1.1\/schema\/catalog.json"
+	},
+	{
+		"state": "active",
+		"key": "harvest_object_id",
+		"value": "44829751-9b9d-42b1-93af-eb99a20b5c3e"
+	},
+	{
+		"state": "active",
+		"key": "harvest_source_id",
+		"value": "3ab711e9-e33a-4f1e-a524-30be635dbce0"
+	},
+	{
+		"state": "active",
+		"key": "harvest_source_title",
+		"value": "SSA JSON"
+	}],
+	"license_url": "http:\/\/www.opendefinition.org\/licenses\/cc-zero",
+	"organization": {
+		"description": "",
+		"created": "2013-05-18T11:35:25.934290",
+		"title": "Social Security Administration",
+		"name": "ssa-gov",
+		"revision_timestamp": "2015-02-25T20:32:33.216893",
+		"is_organization": true,
+		"state": "active",
+		"image_url": "https:\/\/raw.githubusercontent.com\/GSA\/logo\/master\/ssa.png",
+		"revision_id": "1be01963-921d-432f-b56d-37fa76dfb0a1",
+		"type": "organization",
+		"id": "149dc403-f16f-4e9d-a9c9-39babf7e98bf",
+		"approval_status": "approved"
+	},
+	"revision_id": "0066222f-db0a-4b81-b823-d639c86fc010"
+}

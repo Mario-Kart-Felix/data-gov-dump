@@ -1,0 +1,182 @@
+{
+	"license_title": "License Not Specified",
+	"maintainer": "Cliff Ingham",
+	"relationships_as_object": [],
+	"private": false,
+	"maintainer_email": "inghamn@bloomington.in.gov",
+	"revision_timestamp": "2016-10-31T17:03:44.171565",
+	"id": "7275a62f-5721-4502-9b1e-67230f47930c",
+	"metadata_created": "2016-10-31T17:03:44.171565",
+	"metadata_modified": "2016-11-28T19:03:58.473779",
+	"author": null,
+	"author_email": null,
+	"state": "active",
+	"version": null,
+	"license_id": "notspecified",
+	"type": "dataset",
+	"resources": [{
+		"resource_group_id": "53d2ed8d-f98d-4995-a076-716586b45ba5",
+		"cache_last_updated": null,
+		"revision_timestamp": "2016-10-31T17:03:44.171565",
+		"webstore_last_updated": null,
+		"id": "fb1a093e-9168-4aaf-ad6f-0fb9be6bcbdc",
+		"size": null,
+		"state": "active",
+		"hash": "",
+		"description": "This resource is updated nightly via an automated export from our uReport system.\r\n\r\nReports about overgrown vegetation.",
+		"format": "CSV",
+		"tracking_summary": {
+			"total": 1,
+			"recent": 1
+		},
+		"mimetype_inner": null,
+		"mimetype": "text\/csv",
+		"cache_url": null,
+		"name": "Excessive Growth Reports",
+		"created": "2016-10-31T13:03:44.923400",
+		"url": "https:\/\/data.bloomington.in.gov\/dataset\/20132f8b-c318-4141-a4e5-91fe708782ca\/resource\/45c745f5-3e0d-499b-9e3a-c32f7857249c\/download\/data.csv",
+		"webstore_url": null,
+		"last_modified": null,
+		"position": 0,
+		"revision_id": "ff0771ae-cdf7-448d-aacb-4f4b7d44320a",
+		"resource_type": null
+	}],
+	"num_resources": 1,
+	"tags": [{
+		"vocabulary_id": null,
+		"display_name": "excessive-growth",
+		"name": "excessive-growth",
+		"revision_timestamp": "2016-10-31T17:03:44.171565",
+		"state": "active",
+		"id": "efa77d00-1ccc-4e27-b1f3-bd577823f123"
+	},
+	{
+		"vocabulary_id": null,
+		"display_name": "grass",
+		"name": "grass",
+		"revision_timestamp": "2016-10-31T17:03:44.171565",
+		"state": "active",
+		"id": "48382995-71d7-4ed6-95ca-cc0b26e0bacc"
+	},
+	{
+		"vocabulary_id": null,
+		"display_name": "hand",
+		"name": "hand",
+		"revision_timestamp": "2016-10-31T17:03:44.171565",
+		"state": "active",
+		"id": "d75bdbc2-f6e1-43ff-af85-6974d481b002"
+	},
+	{
+		"vocabulary_id": null,
+		"display_name": "mowing",
+		"name": "mowing",
+		"revision_timestamp": "2016-10-31T17:03:44.171565",
+		"state": "active",
+		"id": "782ee998-16cf-4ddf-9e1d-41f28d219dd4"
+	},
+	{
+		"vocabulary_id": null,
+		"display_name": "open311",
+		"name": "open311",
+		"revision_timestamp": "2016-10-31T17:03:44.171565",
+		"state": "active",
+		"id": "65439664-94b3-4573-89a8-6716d812fc0c"
+	},
+	{
+		"vocabulary_id": null,
+		"display_name": "ureport",
+		"name": "ureport",
+		"revision_timestamp": "2016-11-01T17:07:45.946164",
+		"state": "active",
+		"id": "29a97da3-4d28-4b93-943c-5c9dd377f6da"
+	}],
+	"tracking_summary": {
+		"total": 2,
+		"recent": 0
+	},
+	"groups": [{
+		"id": "ccc6c266-eee8-44bd-89aa-7cd8c4c6bf46",
+		"description": "Local Government Topic - for all datasets with state, local, county organizations",
+		"name": "local",
+		"title": "Local Government"
+	}],
+	"organization": {
+		"description": "",
+		"title": "City of Bloomington",
+		"created": "2016-10-31T12:58:42.610437",
+		"approval_status": "approved",
+		"revision_timestamp": "2016-10-31T16:58:42.429694",
+		"is_organization": true,
+		"state": "active",
+		"image_url": "",
+		"revision_id": "5e97d717-5479-4444-94ec-e9ae934b1a4c",
+		"type": "organization",
+		"id": "f3e0f1b3-2967-4913-8392-f679120f1d46",
+		"name": "city-of-bloomington"
+	},
+	"relationships_as_subject": [],
+	"num_tags": 6,
+	"name": "excessive-growth-reports",
+	"isopen": false,
+	"url": null,
+	"notes": "Reports about overgrown vegetation.  \r\n\r\nThis is a subset of the Open311 data that is available here: https:\/\/data.bloomington.in.gov\/dataset\/open311",
+	"owner_org": "f3e0f1b3-2967-4913-8392-f679120f1d46",
+	"extras": [{
+		"key": "publisher",
+		"value": "City of Bloomington"
+	},
+	{
+		"key": "identifier",
+		"value": "https:\/\/data.bloomington.in.gov\/dataset\/20132f8b-c318-4141-a4e5-91fe708782ca"
+	},
+	{
+		"key": "catalog_describedBy",
+		"value": "https:\/\/project-open-data.cio.gov\/v1.1\/schema\/catalog.json"
+	},
+	{
+		"key": "harvest_source_id",
+		"value": "668e5806-0e14-4603-8eae-5d2af7fc5d07"
+	},
+	{
+		"key": "catalog_@context",
+		"value": "https:\/\/project-open-data.cio.gov\/v1.1\/schema\/catalog.jsonld"
+	},
+	{
+		"key": "resource-type",
+		"value": "Dataset"
+	},
+	{
+		"key": "modified",
+		"value": "2016-11-28T06:38:52.323969"
+	},
+	{
+		"key": "harvest_source_title",
+		"value": "Bloomington Indiana Data.json"
+	},
+	{
+		"key": "source_schema_version",
+		"value": "1.1"
+	},
+	{
+		"key": "source_datajson_identifier",
+		"value": true
+	},
+	{
+		"key": "catalog_conformsTo",
+		"value": "https:\/\/project-open-data.cio.gov\/v1.1\/schema"
+	},
+	{
+		"key": "accessLevel",
+		"value": "public"
+	},
+	{
+		"key": "harvest_object_id",
+		"value": "68492abb-d756-4330-a1b7-5dc4726a1959"
+	},
+	{
+		"key": "source_hash",
+		"value": "22c5e1a5a7b87e74a089206d71e3d8c6a7b511c3"
+	}],
+	"title": "Excessive Growth Reports",
+	"revision_id": "ff0771ae-cdf7-448d-aacb-4f4b7d44320a"
+}

@@ -1,0 +1,265 @@
+{
+	"owner_org": "fc5cb2c1-d0b0-482a-8a52-7d42ea186ae1",
+	"maintainer": "Wenceslao Cerezo",
+	"relationships_as_object": [],
+	"private": false,
+	"maintainer_email": "wenceslao.cerezo@dot.gov",
+	"num_tags": 4,
+	"id": "af1a2590-e99f-4c24-816e-bbd26ac1a20b",
+	"metadata_created": "2016-03-01T16:15:13.400348",
+	"metadata_modified": "2016-05-25T00:41:18.257702",
+	"author": null,
+	"author_email": null,
+	"state": "active",
+	"version": null,
+	"license_id": "us-pd",
+	"type": "dataset",
+	"resources": [{
+		"resource_group_id": "de83b733-7b18-4414-817a-aa88322f089c",
+		"cache_last_updated": null,
+		"revision_timestamp": "2016-05-25T00:41:18.257702",
+		"webstore_last_updated": null,
+		"id": "531eff37-5c49-4727-ace9-2548e2307abc",
+		"size": null,
+		"state": "active",
+		"hash": "",
+		"description": "",
+		"format": "HTML",
+		"tracking_summary": {
+			"total": 9,
+			"recent": 1
+		},
+		"mimetype_inner": null,
+		"mimetype": "text\/html",
+		"cache_url": null,
+		"name": "database of vehicles that have had an air bag deactivated",
+		"created": "2016-05-24T20:41:18.322483",
+		"url": "http:\/\/www.safercar.gov\/Vehicle+Shoppers\/Air+Bags\/Air+Bag+-+VIN+number",
+		"webstore_url": null,
+		"last_modified": null,
+		"position": 0,
+		"revision_id": "f54cfe9e-df03-4976-8c71-fe13266942f1",
+		"resource_type": null
+	}],
+	"num_resources": 1,
+	"tags": [{
+		"vocabulary_id": null,
+		"display_name": "airbag",
+		"name": "airbag",
+		"revision_timestamp": "2016-03-01T16:15:13.400348",
+		"state": "active",
+		"id": "972ebb12-3d4a-4079-b895-1e6042063b45"
+	},
+	{
+		"vocabulary_id": null,
+		"display_name": "deactivation",
+		"name": "deactivation",
+		"revision_timestamp": "2016-03-01T16:15:13.400348",
+		"state": "active",
+		"id": "7329c377-ee3f-4c81-9341-786b62efb560"
+	},
+	{
+		"vocabulary_id": null,
+		"display_name": "on-off",
+		"name": "on-off",
+		"revision_timestamp": "2016-03-01T16:15:13.400348",
+		"state": "active",
+		"id": "6a6e8e5f-1d0f-47e3-9203-a96b910bb907"
+	},
+	{
+		"vocabulary_id": null,
+		"display_name": "switch",
+		"name": "switch",
+		"revision_timestamp": "2016-03-01T16:15:13.400348",
+		"state": "active",
+		"id": "e5991e2e-a9e1-4534-9c15-f809e3681208"
+	}],
+	"title": "Airbag Information System",
+	"tracking_summary": {
+		"total": 17,
+		"recent": 1
+	},
+	"groups": [],
+	"relationships_as_subject": [],
+	"revision_timestamp": "2016-05-25T00:41:18.257702",
+	"name": "airbag-information-system-database-of-vehicles-that-have-had-an-air-bag-deactivated-21daf",
+	"isopen": true,
+	"url": null,
+	"notes": "Installation of aftermarket airbag control switches or permanent deactivation of passenger vehicle airbags.  The program began in 1998, and will end in 2012, when all new vehicles will be required to contain smart airbags NHTSA developed a database to track vehicles with disconnected airbags, but It was retired m 2006 when funding was cut NHTSA IS now developing a spreadsheet to track this information. Initially, Congress requested reports on the program but no longer does so. NHTSA produces weekly statistical reports on requests received and answered.",
+	"license_title": "U.S. Government Work",
+	"extras": [{
+		"key": "confidentiality",
+		"value": false
+	},
+	{
+		"key": "harvest_source_id",
+		"value": "a400d398-0d24-4940-b8b3-6573a1670b01"
+	},
+	{
+		"key": "collection_metadata",
+		"value": "true"
+	},
+	{
+		"key": "issued",
+		"value": "1998-12-31"
+	},
+	{
+		"key": "resource-type",
+		"value": "Dataset"
+	},
+	{
+		"key": "source_hash",
+		"value": "efe62d10ab3092e2f90dced1afbb365fa6c692c2"
+	},
+	{
+		"key": "agencyProgramURL",
+		"value": "http:\/\/www.safercar.gov\/Vehicle+Shoppers\/Air+Bags\/Overview"
+	},
+	{
+		"key": "QualityResponsibleAgency",
+		"value": "National Highway Traffic Safety Administration"
+	},
+	{
+		"key": "temporal",
+		"value": "1998\/2012"
+	},
+	{
+		"key": "theme",
+		"value": ["Transportation"]
+	},
+	{
+		"key": "agencyDataSeriesURL",
+		"value": "http:\/\/www.safercar.gov\/Vehicle+Shoppers\/Air+Bags\/Air+Bag+-+VIN+number"
+	},
+	{
+		"key": "catalog_conformsTo",
+		"value": "https:\/\/project-open-data.cio.gov\/v1.1\/schema"
+	},
+	{
+		"key": "category",
+		"value": "Raw data"
+	},
+	{
+		"key": "catalog_describedBy",
+		"value": "https:\/\/project-open-data.cio.gov\/v1.1\/schema\/catalog.json"
+	},
+	{
+		"key": "harvest_source_title",
+		"value": "DOT JSON"
+	},
+	{
+		"key": "source_schema_version",
+		"value": "1.1"
+	},
+	{
+		"key": "programCode",
+		"value": ["021:031"]
+	},
+	{
+		"key": "bureauCode",
+		"value": ["021:18"]
+	},
+	{
+		"key": "accessLevel",
+		"value": "public"
+	},
+	{
+		"key": "harvest_object_id",
+		"value": "8d58af4d-d0d2-4e89-b911-20839e036ca5"
+	},
+	{
+		"key": "publisher",
+		"value": "National Highway Traffic Safety Administration"
+	},
+	{
+		"key": "catalog_@context",
+		"value": "https:\/\/project-open-data.cio.gov\/v1.1\/schema\/catalog.jsonld"
+	},
+	{
+		"key": "organizationName",
+		"value": "Department of Transportation \/ National Highway Traffic Safety Administration"
+	},
+	{
+		"key": "license",
+		"value": "http:\/\/www.usa.gov\/publicdomain\/label\/1.0\/"
+	},
+	{
+		"key": "language",
+		"value": ["en-US"]
+	},
+	{
+		"key": "phone",
+		"value": "202.366.1015"
+	},
+	{
+		"key": "publisher_hierarchy",
+		"value": "U.S. Government > Department of Transportation > National Highway Traffic Safety Administration"
+	},
+	{
+		"key": "guidelineCompliance",
+		"value": false
+	},
+	{
+		"key": "modified",
+		"value": "2015-08-10"
+	},
+	{
+		"key": "source_datajson_identifier",
+		"value": true
+	},
+	{
+		"key": "catalog_@id",
+		"value": "https:\/\/www.dot.gov\/data.json"
+	},
+	{
+		"key": "categoryDesignation",
+		"value": "Research"
+	},
+	{
+		"key": "accrualPeriodicity",
+		"value": "irregular"
+	},
+	{
+		"key": "numberOfDatasets",
+		"value": 1
+	},
+	{
+		"key": "additionalMetadata",
+		"value": "N\/A"
+	},
+	{
+		"key": "identifier",
+		"value": "DOT-482"
+	},
+	{
+		"state": "active",
+		"key": "harvest_object_id",
+		"value": "8d58af4d-d0d2-4e89-b911-20839e036ca5"
+	},
+	{
+		"state": "active",
+		"key": "harvest_source_id",
+		"value": "a400d398-0d24-4940-b8b3-6573a1670b01"
+	},
+	{
+		"state": "active",
+		"key": "harvest_source_title",
+		"value": "DOT JSON"
+	}],
+	"license_url": "http:\/\/www.usa.gov\/publicdomain\/label\/1.0\/",
+	"organization": {
+		"description": "",
+		"created": "2013-05-18T11:46:56.521190",
+		"title": "Department of Transportation",
+		"name": "dot-gov",
+		"revision_timestamp": "2013-08-30T13:59:29.523214",
+		"is_organization": true,
+		"state": "active",
+		"image_url": "http:\/\/upload.wikimedia.org\/wikipedia\/commons\/8\/81\/US_DOT_Triskelion.png",
+		"revision_id": "684c8481-4ae2-46b0-a083-b392eea15130",
+		"type": "organization",
+		"id": "fc5cb2c1-d0b0-482a-8a52-7d42ea186ae1",
+		"approval_status": "approved"
+	},
+	"revision_id": "f54cfe9e-df03-4976-8c71-fe13266942f1"
+}

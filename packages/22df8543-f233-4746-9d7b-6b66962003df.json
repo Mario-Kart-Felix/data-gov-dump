@@ -1,0 +1,371 @@
+{
+	"owner_org": "8c0bc869-1189-4ced-af26-2abd2337b886",
+	"maintainer": "Kathryn Chandler",
+	"relationships_as_object": [],
+	"private": false,
+	"maintainer_email": "kathryn.chandler@ed.gov",
+	"num_tags": 8,
+	"id": "22df8543-f233-4746-9d7b-6b66962003df",
+	"metadata_created": "2014-04-11T00:09:25.642157",
+	"metadata_modified": "2016-11-25T21:06:35.787277",
+	"author": null,
+	"author_email": null,
+	"state": "active",
+	"version": null,
+	"license_id": "cc-zero",
+	"type": "dataset",
+	"resources": [{
+		"resource_group_id": "1c7859b4-9b86-45f4-9a2b-a4a2970277a4",
+		"cache_last_updated": null,
+		"describedByType": "application\/pdf",
+		"revision_timestamp": "2015-01-31T16:22:50.722373",
+		"webstore_last_updated": null,
+		"id": "0795f020-3ac3-483d-9799-67ae9267bbf9",
+		"size": null,
+		"state": "active",
+		"describedBy": "http:\/\/nces.ed.gov\/pubs2007\/2007333.pdf",
+		"hash": "",
+		"description": "2004 School Survey on Crime and Safety data as a TSV file",
+		"format": "tsv",
+		"tracking_summary": {
+			"total": 38,
+			"recent": 4
+		},
+		"mimetype_inner": null,
+		"mimetype": "text\/tab-separated-values",
+		"cache_url": null,
+		"name": "2003_04_ssocs_puf.txt",
+		"created": "2015-01-31T11:22:50.935861",
+		"url": "http:\/\/nces.ed.gov\/surveys\/ssocs\/data\/txt\/2003_04_ssocs_puf.txt",
+		"webstore_url": null,
+		"last_modified": null,
+		"position": 0,
+		"revision_id": "46179456-bab5-47d9-9b85-722b2cb3b2ea",
+		"resource_type": null
+	},
+	{
+		"resource_group_id": "1c7859b4-9b86-45f4-9a2b-a4a2970277a4",
+		"cache_last_updated": null,
+		"describedByType": "application\/pdf",
+		"revision_timestamp": "2015-01-31T16:22:50.722373",
+		"webstore_last_updated": null,
+		"id": "b2db6dbe-5635-4644-b604-ba11d7d427c9",
+		"size": null,
+		"state": "active",
+		"describedBy": "http:\/\/nces.ed.gov\/pubs2007\/2007333.pdf",
+		"hash": "",
+		"description": "2004 School Survey on Crime and Safety data as a SAS 7-formatted binary data file",
+		"format": "zipped sas7bdat",
+		"tracking_summary": {
+			"total": 14,
+			"recent": 2
+		},
+		"mimetype_inner": null,
+		"mimetype": "application\/zip",
+		"cache_url": null,
+		"name": "2003_04_ssocs_puf_sas7bdat.zip",
+		"created": "2015-01-31T11:22:50.935885",
+		"url": "http:\/\/nces.ed.gov\/surveys\/ssocs\/data\/zip\/2003_04_ssocs_puf_sas7bdat.zip",
+		"webstore_url": null,
+		"last_modified": null,
+		"position": 1,
+		"revision_id": "46179456-bab5-47d9-9b85-722b2cb3b2ea",
+		"resource_type": null
+	},
+	{
+		"resource_group_id": "1c7859b4-9b86-45f4-9a2b-a4a2970277a4",
+		"cache_last_updated": null,
+		"describedByType": "application\/pdf",
+		"revision_timestamp": "2015-01-31T16:22:50.722373",
+		"webstore_last_updated": null,
+		"id": "80949ce7-1266-4806-a29b-bbbf541dcc8c",
+		"size": null,
+		"state": "active",
+		"describedBy": "http:\/\/nces.ed.gov\/pubs2007\/2007333.pdf",
+		"hash": "",
+		"description": "2004 School Survey on Crime and Safety data as a SPSS-formatted binary data file",
+		"format": "zipped sav",
+		"tracking_summary": {
+			"total": 9,
+			"recent": 1
+		},
+		"mimetype_inner": null,
+		"mimetype": "application\/zip",
+		"cache_url": null,
+		"name": "2003_04_ssocs_puf_sav.zip",
+		"created": "2015-01-31T11:22:50.935892",
+		"url": "http:\/\/nces.ed.gov\/surveys\/ssocs\/data\/zip\/2003_04_ssocs_puf_sav.zip",
+		"webstore_url": null,
+		"last_modified": null,
+		"position": 2,
+		"revision_id": "46179456-bab5-47d9-9b85-722b2cb3b2ea",
+		"resource_type": null
+	}],
+	"num_resources": 3,
+	"tags": [{
+		"vocabulary_id": null,
+		"display_name": "crime",
+		"name": "crime",
+		"revision_timestamp": "2014-04-11T00:09:25.642157",
+		"state": "active",
+		"id": "e8b5cde0-240c-4937-8bff-193793d50277"
+	},
+	{
+		"vocabulary_id": null,
+		"display_name": "disciplinary-action",
+		"name": "disciplinary-action",
+		"revision_timestamp": "2014-04-11T00:09:25.642157",
+		"state": "active",
+		"id": "0dc6ba58-7fa9-4672-8432-602aeeca71cf"
+	},
+	{
+		"vocabulary_id": null,
+		"display_name": "discipline",
+		"name": "discipline",
+		"revision_timestamp": "2014-04-11T00:09:25.642157",
+		"state": "active",
+		"id": "66a64315-2115-490c-8e0c-04d01bce0da5"
+	},
+	{
+		"vocabulary_id": null,
+		"display_name": "discipline-problem",
+		"name": "discipline-problem",
+		"revision_timestamp": "2014-04-11T00:09:25.642157",
+		"state": "active",
+		"id": "0fda5bf3-f9ff-4340-bfde-70fed917b0d6"
+	},
+	{
+		"vocabulary_id": null,
+		"display_name": "public-schools",
+		"name": "public-schools",
+		"revision_timestamp": "2014-04-11T00:09:25.642157",
+		"state": "active",
+		"id": "9a7afb30-1bc5-4c45-9e1d-ef9c43c23625"
+	},
+	{
+		"vocabulary_id": null,
+		"display_name": "school-crime",
+		"name": "school-crime",
+		"revision_timestamp": "2014-04-11T00:09:25.642157",
+		"state": "active",
+		"id": "ca0b3ac3-4cae-4016-83cf-3f1e110eecea"
+	},
+	{
+		"vocabulary_id": null,
+		"display_name": "violence",
+		"name": "violence",
+		"revision_timestamp": "2014-04-11T00:09:25.642157",
+		"state": "active",
+		"id": "e77dfd34-6e97-44c7-9b16-6ef91fee6cbf"
+	},
+	{
+		"vocabulary_id": null,
+		"display_name": "violent-incidents-at-school",
+		"name": "violent-incidents-at-school",
+		"revision_timestamp": "2014-04-11T00:09:25.642157",
+		"state": "active",
+		"id": "09b2e054-f2aa-4f95-a7b6-03838030e9ce"
+	}],
+	"title": "School Survey on Crime and Safety, 2004",
+	"tracking_summary": {
+		"total": 267,
+		"recent": 15
+	},
+	"groups": [{
+		"capacity": "public",
+		"description": "",
+		"created": "2013-05-18T12:07:49.273650",
+		"title": "Education",
+		"name": "education2168",
+		"is_organization": false,
+		"state": "active",
+		"image_url": "",
+		"revision_id": "857e7f07-91c4-4bba-aced-dfab33e33a87",
+		"type": "group",
+		"id": "5040be9f-19d4-4cfc-85a9-90938781d0fd",
+		"approval_status": "approved"
+	},
+	{
+		"capacity": "public",
+		"description": "",
+		"created": "2013-05-18T12:07:56.787536",
+		"title": "Safety",
+		"name": "safety3175",
+		"is_organization": false,
+		"state": "active",
+		"image_url": "",
+		"revision_id": "aad260f4-5a43-48bf-9a04-e6aec566ecc1",
+		"type": "group",
+		"id": "872991f6-ef6d-40e1-8bdc-fbbcede1463d",
+		"approval_status": "approved"
+	},
+	{
+		"capacity": "public",
+		"description": "Asian Americans and Pacific Islanders",
+		"created": "2014-09-10T11:37:22.933331",
+		"title": "AAPI",
+		"name": "aapi0916",
+		"is_organization": false,
+		"state": "active",
+		"image_url": "",
+		"revision_id": "c798a4ec-71de-463d-b468-c993bc5ac6b6",
+		"type": "group",
+		"id": "9a350fa9-bc49-43d4-8e77-270b9714976d",
+		"approval_status": "approved"
+	}],
+	"relationships_as_subject": [],
+	"revision_timestamp": "2016-11-25T21:06:35.787277",
+	"name": "2004-school-survey-on-crime-and-safety",
+	"isopen": true,
+	"url": null,
+	"notes": "The School Survey on Crime and Safety, 2004 (SSOCS:2004), is a study that is part of the School Survey on Crime and Safety program. SSOCS:2004 (http:\/\/nces.ed.gov\/surveys\/ssocs\/) is a cross-sectional survey of the nation's public schools designed to provide estimates of school crime, discipline, disorder, programs and policies. SSOCS is administered to public primary, middle, high, and combined school principals in the spring of even-numbered school years.  The study was conducted using a questionnaire and telephone follow-ups of school principals.  Public schools were sampled in the spring of 2004 to participate in the study. The study\ufffds response rate was 74 percent.  A number of key statistics on a variety of topics can be produced with SSOCS data.",
+	"license_title": "Creative Commons CCZero",
+	"extras": [{
+		"key": "harvest_source_id",
+		"value": "5dbeaed9-d6b1-4f96-be25-63b14804ca7b"
+	},
+	{
+		"key": "issued",
+		"value": "2006-12-28"
+	},
+	{
+		"key": "resource-type",
+		"value": "Dataset"
+	},
+	{
+		"key": "__category_tag_9a350fa9-bc49-43d4-8e77-270b9714976d",
+		"value": "[\"Education\",\"K-12\",\"Asian\",\"Pacific Islander\"]"
+	},
+	{
+		"key": "references",
+		"value": ["http:\/\/nces.ed.gov\/pubs2007\/2007335.pdf",
+		"http:\/\/nces.ed.gov\/surveys\/ssocs\/data\/txt\/2003_04_readme.txt"]
+	},
+	{
+		"key": "source_hash",
+		"value": "efe86f78247c0cc60301264bb1cf3a3e03bdc321"
+	},
+	{
+		"key": "accessLevel",
+		"value": "public"
+	},
+	{
+		"key": "temporal",
+		"value": "2003\/2004"
+	},
+	{
+		"key": "spatial",
+		"value": "United States"
+	},
+	{
+		"key": "catalog_conformsTo",
+		"value": "https:\/\/project-open-data.cio.gov\/v1.1\/schema"
+	},
+	{
+		"key": "catalog_@context",
+		"value": "https:\/\/project-open-data.cio.gov\/v1.1\/schema\/catalog.jsonld"
+	},
+	{
+		"key": "catalog_describedBy",
+		"value": "https:\/\/project-open-data.cio.gov\/v1.1\/schema\/catalog.json"
+	},
+	{
+		"key": "harvest_source_title",
+		"value": "Education JSON"
+	},
+	{
+		"key": "source_schema_version",
+		"value": "1.1"
+	},
+	{
+		"key": "programCode",
+		"value": ["018:000"]
+	},
+	{
+		"key": "bureauCode",
+		"value": ["018:50"]
+	},
+	{
+		"key": "landingPage",
+		"value": "http:\/\/nces.ed.gov\/surveys\/ssocs\/index.asp"
+	},
+	{
+		"key": "harvest_object_id",
+		"value": "63268bc7-ec26-4b5c-bcb9-8338134c7be3"
+	},
+	{
+		"key": "publisher",
+		"value": "National Center for Education Statistics"
+	},
+	{
+		"key": "license",
+		"value": "https:\/\/creativecommons.org\/publicdomain\/zero\/1.0\/"
+	},
+	{
+		"key": "language",
+		"value": ["en-US"]
+	},
+	{
+		"key": "publisher_hierarchy",
+		"value": "U.S. Government > U.S. Department of Education > Institute of Education Sciences > National Center for Education Statistics"
+	},
+	{
+		"key": "modified",
+		"value": "2007-01-19"
+	},
+	{
+		"key": "__category_tag_872991f6-ef6d-40e1-8bdc-fbbcede1463d",
+		"value": "[\"Crime Data\"]"
+	},
+	{
+		"key": "source_datajson_identifier",
+		"value": true
+	},
+	{
+		"key": "catalog_@id",
+		"value": "http:\/\/www2.ed.gov\/data.json"
+	},
+	{
+		"key": "accrualPeriodicity",
+		"value": "R\/P2Y"
+	},
+	{
+		"key": "dataQuality",
+		"value": true
+	},
+	{
+		"key": "identifier",
+		"value": "NCES_2007302"
+	},
+	{
+		"state": "active",
+		"key": "harvest_object_id",
+		"value": "63268bc7-ec26-4b5c-bcb9-8338134c7be3"
+	},
+	{
+		"state": "active",
+		"key": "harvest_source_id",
+		"value": "5dbeaed9-d6b1-4f96-be25-63b14804ca7b"
+	},
+	{
+		"state": "active",
+		"key": "harvest_source_title",
+		"value": "Education JSON"
+	}],
+	"license_url": "http:\/\/www.opendefinition.org\/licenses\/cc-zero",
+	"organization": {
+		"description": "",
+		"created": "2013-05-18T11:33:29.726845",
+		"title": "Department of Education",
+		"name": "ed-gov",
+		"revision_timestamp": "2013-05-31T20:03:27.393016",
+		"is_organization": true,
+		"state": "active",
+		"image_url": "https:\/\/www.ed.gov\/sites\/default\/files\/logo.gif",
+		"revision_id": "94439d43-12fa-41dc-b238-c92fc14bb4c0",
+		"type": "organization",
+		"id": "8c0bc869-1189-4ced-af26-2abd2337b886",
+		"approval_status": "approved"
+	},
+	"revision_id": "9d3b96e9-e490-4ffa-b0d2-a8169c9b425e"
+}

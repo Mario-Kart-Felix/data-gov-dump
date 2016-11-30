@@ -1,0 +1,236 @@
+{
+	"owner_org": "d8a6202b-c0c3-463d-88a0-3bc021a178ed",
+	"maintainer": "Kim Tolbert",
+	"relationships_as_object": [],
+	"private": false,
+	"maintainer_email": "kim.tolbert@nasa.gov",
+	"num_tags": 7,
+	"id": "e542f5e9-4f26-4a77-aa55-dd7b5bc6db6d",
+	"metadata_created": "2014-10-08T03:19:26.348690",
+	"metadata_modified": "2016-05-06T08:06:02.185288",
+	"author": null,
+	"author_email": null,
+	"state": "active",
+	"version": null,
+	"license_id": "us-pd",
+	"type": "dataset",
+	"resources": [{
+		"resource_group_id": "f66e9002-82b9-421f-a120-a34052e6f99d",
+		"cache_last_updated": null,
+		"revision_timestamp": "2015-07-08T19:24:04.809632",
+		"webstore_last_updated": null,
+		"id": "e1e76f52-a9bb-4a18-baf7-abca3f903f01",
+		"size": null,
+		"state": "active",
+		"hash": "",
+		"description": "",
+		"format": "HTML",
+		"tracking_summary": {
+			"total": 1,
+			"recent": 1
+		},
+		"mimetype_inner": null,
+		"revision_id": "194ed040-c9a1-4c9a-b513-e347d4252769",
+		"mimetype": "text\/html",
+		"cache_url": null,
+		"name": "Web Page",
+		"created": "2015-01-29T18:38:38.372069",
+		"url": "http:\/\/sprg.ssl.berkeley.edu\/~tohban\/browser\/?show=grth1+qlpcr+gbmd+gbmo&date=20131024&time=055723",
+		"webstore_url": null,
+		"last_modified": null,
+		"position": 0,
+		"no_real_name": true,
+		"resource_type": null
+	}],
+	"num_resources": 1,
+	"tags": [{
+		"vocabulary_id": null,
+		"display_name": "gbm",
+		"name": "gbm",
+		"revision_timestamp": "2014-10-08T03:19:26.348690",
+		"state": "active",
+		"id": "53e79c87-2793-408c-b19c-d2f06585995c"
+	},
+	{
+		"vocabulary_id": null,
+		"display_name": "gbo",
+		"name": "gbo",
+		"revision_timestamp": "2014-10-08T03:19:26.348690",
+		"state": "active",
+		"id": "386ea759-bf0d-4fa3-8dc0-4afd155277d7"
+	},
+	{
+		"vocabulary_id": null,
+		"display_name": "goes",
+		"name": "goes",
+		"revision_timestamp": "2014-10-08T03:19:26.348690",
+		"state": "active",
+		"id": "e5291b14-4c29-433e-9cb3-e8e795a3f51f"
+	},
+	{
+		"vocabulary_id": null,
+		"display_name": "lat",
+		"name": "lat",
+		"revision_timestamp": "2014-10-08T03:19:26.348690",
+		"state": "active",
+		"id": "a0218f4f-9479-4628-b79f-1349092aad38"
+	},
+	{
+		"vocabulary_id": null,
+		"display_name": "nai",
+		"name": "nai",
+		"revision_timestamp": "2014-10-08T03:19:26.348690",
+		"state": "active",
+		"id": "207d2b89-f087-4356-a06a-d1552c8430fb"
+	},
+	{
+		"vocabulary_id": null,
+		"display_name": "solar",
+		"name": "solar",
+		"revision_timestamp": "2014-10-08T03:19:26.348690",
+		"state": "active",
+		"id": "5ffaad45-7a76-49bd-ab23-df054be0d490"
+	},
+	{
+		"vocabulary_id": null,
+		"display_name": "telescope",
+		"name": "telescope",
+		"revision_timestamp": "2014-10-08T03:19:26.348690",
+		"state": "active",
+		"id": "011b70db-6e6b-46d3-a507-24641144927e"
+	}],
+	"title": "GBM Quicklook Daily and Orbital Plots",
+	"tracking_summary": {
+		"total": 9,
+		"recent": 0
+	},
+	"groups": [],
+	"relationships_as_subject": [],
+	"revision_timestamp": "2015-05-06T23:05:12.059110",
+	"name": "gbm-quicklook-daily-and-orbital-plots",
+	"isopen": true,
+	"url": null,
+	"notes": "Time histories of NaI, GBO, and GOES data, with flare and day\/night markers. Orbital plots are on RHESSI orbit times. ",
+	"license_title": "U.S. Government Work",
+	"extras": [{
+		"key": "harvest_source_id",
+		"value": "39e4ad2a-47ca-4507-8258-852babd0fd99"
+	},
+	{
+		"key": "collection_metadata",
+		"value": "true"
+	},
+	{
+		"key": "resource-type",
+		"value": "Dataset"
+	},
+	{
+		"key": "source_hash",
+		"value": "c094683d6ec103afab7e161c90c4b4112fafed71"
+	},
+	{
+		"key": "temporal",
+		"value": "2008-08-12\/2014-01-01"
+	},
+	{
+		"key": "catalog_conformsTo",
+		"value": "https:\/\/project-open-data.cio.gov\/v1.1\/schema"
+	},
+	{
+		"key": "catalog_@context",
+		"value": "https:\/\/project-open-data.cio.gov\/v1.1\/schema\/catalog.jsonld"
+	},
+	{
+		"key": "catalog_describedBy",
+		"value": "https:\/\/project-open-data.cio.gov\/v1.1\/schema\/catalog.json"
+	},
+	{
+		"key": "harvest_source_title",
+		"value": "NASA Data.json"
+	},
+	{
+		"key": "source_schema_version",
+		"value": "1.1"
+	},
+	{
+		"key": "programCode",
+		"value": ["026:020"]
+	},
+	{
+		"key": "bureauCode",
+		"value": ["026:00"]
+	},
+	{
+		"key": "accessLevel",
+		"value": "public"
+	},
+	{
+		"key": "harvest_object_id",
+		"value": "903a4060-5caa-4d4e-88b8-e85fa9629c95"
+	},
+	{
+		"key": "publisher",
+		"value": "National Aeronautics and Space Administration"
+	},
+	{
+		"key": "_id",
+		"value": {
+			"$oid": "55942a7ac63a7fe59b49762b"
+		}
+	},
+	{
+		"key": "license",
+		"value": "http:\/\/www.usa.gov\/publicdomain\/label\/1.0\/"
+	},
+	{
+		"key": "language",
+		"value": ["en-US"]
+	},
+	{
+		"key": "modified",
+		"value": "2014-02-21"
+	},
+	{
+		"key": "source_datajson_identifier",
+		"value": true
+	},
+	{
+		"key": "accrualPeriodicity",
+		"value": "irregular"
+	},
+	{
+		"key": "identifier",
+		"value": "NASA-0000245"
+	},
+	{
+		"state": "active",
+		"key": "harvest_object_id",
+		"value": "903a4060-5caa-4d4e-88b8-e85fa9629c95"
+	},
+	{
+		"state": "active",
+		"key": "harvest_source_id",
+		"value": "39e4ad2a-47ca-4507-8258-852babd0fd99"
+	},
+	{
+		"state": "active",
+		"key": "harvest_source_title",
+		"value": "NASA Data.json"
+	}],
+	"license_url": "http:\/\/www.usa.gov\/publicdomain\/label\/1.0\/",
+	"organization": {
+		"description": "NASA's vision: To reach for new heights and reveal the unknown so that what we do and learn will benefit all humankind.\r\n\r\nTo do that, thousands of people have been working around the world -- and off of it -- for 50 years, trying to answer some basic questions. What's out there in space? How do we get there? What will we find? What can we learn there, or learn just by trying to get there, that will make life better here on Earth?\r\n\r\nNASA conducts its work in four principal organizations, called mission directorates:\r\n \r\nAeronautics: works to solve the challenges that still exist in our nation's air transportation system: air traffic congestion, safety and environmental impacts.\r\n\r\nHuman Exploration and Operations: focuses on International Space Station operations, development of commercial spaceflight opportunities and human exploration beyond low Earth orbit.\r\n\r\nScience: explores the Earth, solar system and universe beyond; charts the best route of discovery; and reaps the benefits of Earth and space exploration for society.\r\n\r\nSpace Technology: rapidly develops, demonstrates, and infuses revolutionary, high-payoff technologies, expanding the boundaries of the aerospace enterprise.\r\n\r\nIn the early 21st century, NASA's reach spans the universe. The Mars rover Curiosity is still exploring Mars to see if it might once have had environments suitable for life. Cassini is in orbit around Saturn, as Juno makes its way to Jupiter. The restored Hubble Space Telescope continues to explore the deepest reaches of the cosmos as NASA developes the James Webb Space Telescope.\r\n\r\nCloser to home, the latest crew of the International Space Station is extending the permanent human presence in space. With commercial partners such as SpaceX, NASA is helping to foster the development of private-sector aerospace.\r\n\r\nEarth science satellites are sending back unprecedented data on Earth's oceans, climate and other features. NASA's aeronautics team is working with other government organizations, universities, and industry to fundamentally improve the air transportation experience and retain our nation's leadership in global aviation.",
+		"created": "2013-03-14T03:44:44.467521",
+		"title": "National Aeronautics and Space Administration",
+		"name": "nasa-gov",
+		"revision_timestamp": "2013-08-20T16:04:52.563777",
+		"is_organization": true,
+		"state": "active",
+		"image_url": "http:\/\/polargateways2008.gsfc.nasa.gov\/images\/LOGO_2in\/NASA_2.jpg",
+		"revision_id": "7f05110b-681a-402c-a372-74500dc583dd",
+		"type": "organization",
+		"id": "d8a6202b-c0c3-463d-88a0-3bc021a178ed",
+		"approval_status": "approved"
+	},
+	"revision_id": "57c2959b-e536-41ef-91c9-ca395d73e5c1"
+}

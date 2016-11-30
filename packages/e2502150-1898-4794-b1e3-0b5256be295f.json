@@ -1,0 +1,317 @@
+{
+	"owner_org": "fc5cb2c1-d0b0-482a-8a52-7d42ea186ae1",
+	"maintainer": "John Kindelberger",
+	"relationships_as_object": [],
+	"private": false,
+	"maintainer_email": "john.kindelberger@dot.gov",
+	"num_tags": 7,
+	"id": "e2502150-1898-4794-b1e3-0b5256be295f",
+	"metadata_created": "2016-05-25T00:36:49.045438",
+	"metadata_modified": "2016-09-08T06:23:59.551829",
+	"author": null,
+	"author_email": null,
+	"state": "active",
+	"version": null,
+	"license_id": "us-pd",
+	"type": "dataset",
+	"resources": [{
+		"resource_group_id": "d0d4edef-cf7f-4bd5-ab7b-e3319515f80c",
+		"cache_last_updated": null,
+		"revision_timestamp": "2016-05-25T00:36:49.045438",
+		"webstore_last_updated": null,
+		"id": "90f87c5d-54a1-4f46-b77d-c031bc6a7f9e",
+		"size": null,
+		"state": "active",
+		"hash": "",
+		"description": "TPSdata.ZIP",
+		"format": "TXT",
+		"tracking_summary": {
+			"total": 12,
+			"recent": 1
+		},
+		"mimetype_inner": null,
+		"mimetype": "text\/plain",
+		"cache_url": null,
+		"name": "2001 TPSS Data (SAS)",
+		"created": "2016-05-24T20:36:49.330567",
+		"url": "http:\/\/www.nhtsa.gov\/DOT\/NHTSA\/NCSA\/Content\/DataFile\/TPS\/TPSdata.ZIP",
+		"webstore_url": null,
+		"last_modified": null,
+		"position": 0,
+		"revision_id": "6cc7b427-e7b5-4b57-a69b-119d2da0c113",
+		"resource_type": null
+	}],
+	"num_resources": 1,
+	"tags": [{
+		"vocabulary_id": null,
+		"display_name": "dot",
+		"name": "dot",
+		"revision_timestamp": "2016-05-25T00:36:49.045438",
+		"state": "active",
+		"id": "4a3879ed-0b0d-4a03-b508-53d5226aeb5b"
+	},
+	{
+		"vocabulary_id": null,
+		"display_name": "nhtsa",
+		"name": "nhtsa",
+		"revision_timestamp": "2016-05-25T00:36:49.045438",
+		"state": "active",
+		"id": "9e4f503d-24a3-4269-9e1b-d3e00f064224"
+	},
+	{
+		"vocabulary_id": null,
+		"display_name": "refuel",
+		"name": "refuel",
+		"revision_timestamp": "2016-05-25T00:36:49.045438",
+		"state": "active",
+		"id": "332a714a-c49f-4982-abde-b5756e7c463f"
+	},
+	{
+		"vocabulary_id": null,
+		"display_name": "refueling",
+		"name": "refueling",
+		"revision_timestamp": "2016-05-25T00:36:49.045438",
+		"state": "active",
+		"id": "5ea1754b-9a4c-448b-a04e-1649ef6f32ab"
+	},
+	{
+		"vocabulary_id": null,
+		"display_name": "tire",
+		"name": "tire",
+		"revision_timestamp": "2016-05-25T00:36:49.045438",
+		"state": "active",
+		"id": "552badad-4f76-4085-bd83-201187d90715"
+	},
+	{
+		"vocabulary_id": null,
+		"display_name": "tpms",
+		"name": "tpms",
+		"revision_timestamp": "2016-05-25T00:36:49.045438",
+		"state": "active",
+		"id": "2c485dfd-cabb-429c-82c1-f5c7679b212b"
+	},
+	{
+		"vocabulary_id": null,
+		"display_name": "vehicle",
+		"name": "vehicle",
+		"revision_timestamp": "2016-05-25T00:36:49.045438",
+		"state": "active",
+		"id": "6c4872b1-7b60-4fba-a5b4-7a22233af953"
+	}],
+	"title": "TPMS - Tire Pressure Special Study (TPSS 2001) - 2001 TPSS Data (SAS)",
+	"tracking_summary": {
+		"total": 15,
+		"recent": 1
+	},
+	"groups": [],
+	"relationships_as_subject": [],
+	"revision_timestamp": "2016-09-08T06:23:59.551829",
+	"name": "tpms-tire-pressure-special-study-tpss-2001-2001-tpss-data-sas-2fb63",
+	"isopen": true,
+	"url": null,
+	"notes": "Tire Pressure Special Study (TPSS) was conducted in order to obtain data to draft FMVSS 138, NVS-432.",
+	"license_title": "U.S. Government Work",
+	"extras": [{
+		"key": "confidentiality",
+		"value": true
+	},
+	{
+		"key": "harvest_source_id",
+		"value": "a400d398-0d24-4940-b8b3-6573a1670b01"
+	},
+	{
+		"key": "issued",
+		"value": "2001-08-01"
+	},
+	{
+		"key": "resource-type",
+		"value": "Dataset"
+	},
+	{
+		"key": "analysisUnit",
+		"value": "Vehicle"
+	},
+	{
+		"key": "references",
+		"value": ["http:\/\/www-nrd.nhtsa.dot.gov\/CMSWeb\/listpublications.aspx?Id=21&ShowBy=Category"]
+	},
+	{
+		"key": "category",
+		"value": "Raw data"
+	},
+	{
+		"key": "source_hash",
+		"value": "33dd680476fa41c220b8b7a46132c11eedf207cd"
+	},
+	{
+		"key": "agencyProgramURL",
+		"value": "http:\/\/www.nhtsa.gov\/NASS"
+	},
+	{
+		"key": "QualityResponsibleAgency",
+		"value": "National Highway Traffic Safety Administration"
+	},
+	{
+		"key": "temporal",
+		"value": "2001-02-01\/2001-02-14"
+	},
+	{
+		"key": "theme",
+		"value": ["Transportation"]
+	},
+	{
+		"key": "agencyDataSeriesURL",
+		"value": "http:\/\/www-nrd.nhtsa.dot.gov\/Pubs\/809-315.pdf"
+	},
+	{
+		"key": "spatial",
+		"value": "NASS CDS PSUs"
+	},
+	{
+		"key": "catalog_conformsTo",
+		"value": "https:\/\/project-open-data.cio.gov\/v1.1\/schema"
+	},
+	{
+		"key": "describedBy",
+		"value": "http:\/\/www-nrd.nhtsa.dot.gov\/Pubs\/TPSdoc.pdf"
+	},
+	{
+		"key": "subagency",
+		"value": "National Highway Traffic Safety Administration"
+	},
+	{
+		"key": "catalog_@context",
+		"value": "https:\/\/project-open-data.cio.gov\/v1.1\/schema\/catalog.jsonld"
+	},
+	{
+		"key": "catalog_describedBy",
+		"value": "https:\/\/project-open-data.cio.gov\/v1.1\/schema\/catalog.json"
+	},
+	{
+		"key": "collectionMode",
+		"value": "paper forms"
+	},
+	{
+		"key": "harvest_source_title",
+		"value": "DOT JSON"
+	},
+	{
+		"key": "source_schema_version",
+		"value": "1.1"
+	},
+	{
+		"key": "programCode",
+		"value": ["021:035"]
+	},
+	{
+		"key": "bureauCode",
+		"value": ["021:18"]
+	},
+	{
+		"key": "accessLevel",
+		"value": "public"
+	},
+	{
+		"key": "harvest_object_id",
+		"value": "680f70ec-8301-4aec-b322-a589143b00b5"
+	},
+	{
+		"key": "additionalMetadata",
+		"value": "N\/A"
+	},
+	{
+		"key": "publisher",
+		"value": "National Highway Traffic Safety Administration"
+	},
+	{
+		"key": "organizationName",
+		"value": "Department of Transportation \/ National Highway Traffic Safety Administration"
+	},
+	{
+		"key": "license",
+		"value": "http:\/\/www.usa.gov\/publicdomain\/label\/1.0\/"
+	},
+	{
+		"key": "language",
+		"value": ["en-US"]
+	},
+	{
+		"key": "phone",
+		"value": "(202) 366-4696"
+	},
+	{
+		"key": "publisher_hierarchy",
+		"value": "U.S. Government > Department of Transportation > National Highway Traffic Safety Administration"
+	},
+	{
+		"key": "guidelineCompliance",
+		"value": true
+	},
+	{
+		"key": "modified",
+		"value": "2016-07-05"
+	},
+	{
+		"key": "source_datajson_identifier",
+		"value": true
+	},
+	{
+		"key": "catalog_@id",
+		"value": "https:\/\/www.dot.gov\/data.json"
+	},
+	{
+		"key": "categoryDesignation",
+		"value": "Research"
+	},
+	{
+		"key": "accrualPeriodicity",
+		"value": "irregular"
+	},
+	{
+		"key": "numberOfDatasets",
+		"value": 1
+	},
+	{
+		"key": "dataQuality",
+		"value": true
+	},
+	{
+		"key": "dictionaryList",
+		"value": "http:\/\/www-nrd.nhtsa.dot.gov\/Pubs\/TPSdoc.pdf"
+	},
+	{
+		"key": "identifier",
+		"value": "378.0"
+	},
+	{
+		"state": "active",
+		"key": "harvest_object_id",
+		"value": "680f70ec-8301-4aec-b322-a589143b00b5"
+	},
+	{
+		"state": "active",
+		"key": "harvest_source_id",
+		"value": "a400d398-0d24-4940-b8b3-6573a1670b01"
+	},
+	{
+		"state": "active",
+		"key": "harvest_source_title",
+		"value": "DOT JSON"
+	}],
+	"license_url": "http:\/\/www.usa.gov\/publicdomain\/label\/1.0\/",
+	"organization": {
+		"description": "",
+		"created": "2013-05-18T11:46:56.521190",
+		"title": "Department of Transportation",
+		"name": "dot-gov",
+		"revision_timestamp": "2013-08-30T13:59:29.523214",
+		"is_organization": true,
+		"state": "active",
+		"image_url": "http:\/\/upload.wikimedia.org\/wikipedia\/commons\/8\/81\/US_DOT_Triskelion.png",
+		"revision_id": "684c8481-4ae2-46b0-a083-b392eea15130",
+		"type": "organization",
+		"id": "fc5cb2c1-d0b0-482a-8a52-7d42ea186ae1",
+		"approval_status": "approved"
+	},
+	"revision_id": "b46aa130-f0a4-48a5-acbc-94c1202dcb6b"
+}

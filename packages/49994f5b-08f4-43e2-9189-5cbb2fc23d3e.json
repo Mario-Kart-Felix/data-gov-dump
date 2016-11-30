@@ -1,0 +1,172 @@
+{
+	"license_title": "U.S. Government Work",
+	"maintainer": "Data Administrator",
+	"relationships_as_object": [],
+	"private": false,
+	"maintainer_email": "da.mailbox@ssa.gov",
+	"revision_timestamp": "2015-11-21T10:35:43.619242",
+	"id": "49994f5b-08f4-43e2-9189-5cbb2fc23d3e",
+	"metadata_created": "2015-02-28T17:14:41.678925",
+	"metadata_modified": "2016-10-29T19:05:25.900252",
+	"author": null,
+	"author_email": null,
+	"state": "active",
+	"version": null,
+	"license_id": "us-pd",
+	"type": "dataset",
+	"resources": [],
+	"num_resources": 0,
+	"tags": [{
+		"vocabulary_id": null,
+		"display_name": "data-model",
+		"name": "data-model",
+		"revision_timestamp": "2015-02-28T17:14:41.678925",
+		"state": "active",
+		"id": "e548f018-f179-4391-b7a7-aac784d7458b"
+	},
+	{
+		"vocabulary_id": null,
+		"display_name": "erwin",
+		"name": "erwin",
+		"revision_timestamp": "2015-02-28T17:14:41.678925",
+		"state": "active",
+		"id": "513e217a-f23f-40c8-8f0d-23bff858c7e8"
+	},
+	{
+		"vocabulary_id": null,
+		"display_name": "erwin-diagram",
+		"name": "erwin-diagram",
+		"revision_timestamp": "2015-02-28T17:14:41.678925",
+		"state": "active",
+		"id": "db132b99-c0d6-41fc-93d4-19354b2bc3aa"
+	},
+	{
+		"vocabulary_id": null,
+		"display_name": "logical-model",
+		"name": "logical-model",
+		"revision_timestamp": "2015-02-28T17:14:41.678925",
+		"state": "active",
+		"id": "ea0ced2b-a239-4005-abd7-1fd6f80bcd93"
+	},
+	{
+		"vocabulary_id": null,
+		"display_name": "model",
+		"name": "model",
+		"revision_timestamp": "2015-02-28T17:14:41.678925",
+		"state": "active",
+		"id": "b9cf9ed9-c168-4c4c-aba1-e51211bc2b32"
+	},
+	{
+		"vocabulary_id": null,
+		"display_name": "model-mart",
+		"name": "model-mart",
+		"revision_timestamp": "2015-02-28T17:14:41.678925",
+		"state": "active",
+		"id": "4af48218-dca7-47e4-94db-eade0f7f581a"
+	},
+	{
+		"vocabulary_id": null,
+		"display_name": "physical-model",
+		"name": "physical-model",
+		"revision_timestamp": "2015-02-28T17:14:41.678925",
+		"state": "active",
+		"id": "a881bb2b-b462-4128-bdd8-953d2a3a442d"
+	}],
+	"tracking_summary": {
+		"total": 5,
+		"recent": 0
+	},
+	"groups": [],
+	"organization": {
+		"description": "",
+		"title": "Social Security Administration",
+		"created": "2013-05-18T11:35:25.934290",
+		"approval_status": "approved",
+		"revision_timestamp": "2015-02-25T20:32:33.216893",
+		"is_organization": true,
+		"state": "active",
+		"image_url": "https:\/\/raw.githubusercontent.com\/GSA\/logo\/master\/ssa.png",
+		"revision_id": "1be01963-921d-432f-b56d-37fa76dfb0a1",
+		"type": "organization",
+		"id": "149dc403-f16f-4e9d-a9c9-39babf7e98bf",
+		"name": "ssa-gov"
+	},
+	"relationships_as_subject": [],
+	"num_tags": 7,
+	"name": "model-mart",
+	"isopen": true,
+	"url": null,
+	"notes": "Stores information on entity relational diagrams.",
+	"owner_org": "149dc403-f16f-4e9d-a9c9-39babf7e98bf",
+	"extras": [{
+		"key": "publisher",
+		"value": "Social Security Administration"
+	},
+	{
+		"key": "accessLevel",
+		"value": "non-public"
+	},
+	{
+		"key": "license",
+		"value": "https:\/\/www.usa.gov\/publicdomain\/label\/1.0\/"
+	},
+	{
+		"key": "harvest_source_id",
+		"value": "3ab711e9-e33a-4f1e-a524-30be635dbce0"
+	},
+	{
+		"key": "rights",
+		"value": "The publishing of the data asset cannot be done due to one or more of the following reasons: contains personal identifying information, contains federal tax information, contains sensitive information, or a data assessment has not been completed."
+	},
+	{
+		"key": "resource-type",
+		"value": "Dataset"
+	},
+	{
+		"key": "modified",
+		"value": "2016-10-28"
+	},
+	{
+		"key": "harvest_source_title",
+		"value": "SSA JSON"
+	},
+	{
+		"key": "source_schema_version",
+		"value": "1.1"
+	},
+	{
+		"key": "source_datajson_identifier",
+		"value": true
+	},
+	{
+		"key": "programCode",
+		"value": ["016:000"]
+	},
+	{
+		"key": "bureauCode",
+		"value": ["016:00"]
+	},
+	{
+		"key": "catalog_conformsTo",
+		"value": "https:\/\/project-open-data.cio.gov\/v1.1\/schema"
+	},
+	{
+		"key": "identifier",
+		"value": "US-GOV-SSA-241"
+	},
+	{
+		"key": "harvest_object_id",
+		"value": "a7277f48-b54c-4664-b63d-7ab73bc33ddc"
+	},
+	{
+		"key": "source_hash",
+		"value": "d315491241ae5d92d806fdcfc845ea7fdb901a80"
+	},
+	{
+		"key": "catalog_describedBy",
+		"value": "https:\/\/project-open-data.cio.gov\/v1.1\/schema\/catalog.json"
+	}],
+	"license_url": "http:\/\/www.usa.gov\/publicdomain\/label\/1.0\/",
+	"title": "Model Mart",
+	"revision_id": "00bfecfc-4639-4f80-8140-379b3bcd89c0"
+}

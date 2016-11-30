@@ -1,0 +1,204 @@
+{
+	"owner_org": "9cda5205-d632-4814-96e7-a4ab5e0dce85",
+	"maintainer": "Data Services Team",
+	"relationships_as_object": [],
+	"private": false,
+	"maintainer_email": "DataServices@trade.gov",
+	"num_tags": 5,
+	"id": "db659c04-fb4a-403c-b112-399e2744c315",
+	"metadata_created": "2015-08-29T06:58:58.238711",
+	"metadata_modified": "2015-12-02T12:20:48.693912",
+	"author": null,
+	"author_email": null,
+	"state": "active",
+	"version": null,
+	"license_id": "notspecified",
+	"type": "dataset",
+	"resources": [{
+		"resource_group_id": "d9dd0664-6177-4fad-98ab-53789fcb1902",
+		"cache_last_updated": null,
+		"revision_timestamp": "2015-12-02T12:20:48.693912",
+		"webstore_last_updated": null,
+		"id": "df55464a-ae06-442e-a3da-b9c2ab7095bf",
+		"size": null,
+		"state": "active",
+		"hash": "",
+		"description": "The ITA Offices & Centers API provides contact and address information for all of ITA\u2019s domestic and international export assistance centers. There are almost 200 ITA centers worldwide whose locations are managed by ITA\u2019s internal office management system.",
+		"format": "api",
+		"tracking_summary": {
+			"total": 1,
+			"recent": 1
+		},
+		"mimetype_inner": null,
+		"mimetype": "",
+		"cache_url": null,
+		"name": "ITA Offices & Centers API",
+		"created": "2015-08-29T02:58:59.184153",
+		"url": "https:\/\/api.trade.gov\/v2\/ita_office_locations\/search",
+		"webstore_url": null,
+		"last_modified": null,
+		"position": 0,
+		"revision_id": "4b60a390-07f8-4138-a842-1b3db999a485",
+		"resource_type": null
+	}],
+	"num_resources": 1,
+	"tags": [{
+		"vocabulary_id": null,
+		"display_name": "agricultural-exports",
+		"name": "agricultural-exports",
+		"revision_timestamp": "2015-08-29T06:58:58.238711",
+		"state": "active",
+		"id": "8a3da635-8d7e-4529-b7e1-375df25f5a68"
+	},
+	{
+		"vocabulary_id": null,
+		"display_name": "assistance-center",
+		"name": "assistance-center",
+		"revision_timestamp": "2015-08-29T06:58:58.238711",
+		"state": "active",
+		"id": "fea7923a-9abb-4647-ac0f-80fcfd075809"
+	},
+	{
+		"vocabulary_id": null,
+		"display_name": "contact",
+		"name": "contact",
+		"revision_timestamp": "2015-08-29T06:58:58.238711",
+		"state": "active",
+		"id": "872e7143-aa87-4353-8986-ebf963bb23a2"
+	},
+	{
+		"vocabulary_id": null,
+		"display_name": "export-assistance",
+		"name": "export-assistance",
+		"revision_timestamp": "2015-08-29T06:58:58.238711",
+		"state": "active",
+		"id": "7eeb0ba5-9a71-4c19-9999-9e2386f0f430"
+	},
+	{
+		"vocabulary_id": null,
+		"display_name": "information",
+		"name": "information",
+		"revision_timestamp": "2015-08-29T06:58:58.238711",
+		"state": "active",
+		"id": "93be9e2f-071f-4edf-9999-cdd8b2a04957"
+	}],
+	"title": "ITA Offices & Centers API",
+	"tracking_summary": {
+		"total": 8,
+		"recent": 1
+	},
+	"groups": [],
+	"relationships_as_subject": [],
+	"revision_timestamp": "2015-08-29T06:58:58.238711",
+	"name": "ita-offices-centers-api",
+	"isopen": false,
+	"url": null,
+	"notes": "The ITA Offices & Centers API provides contact and address information for all of ITA\u2019s domestic and international export assistance centers. There are almost 200 ITA centers worldwide whose locations are managed by ITA\u2019s internal office management system.",
+	"license_title": "License Not Specified",
+	"extras": [{
+		"key": "publisher",
+		"value": "International Trade Administration, Department of Commerce"
+	},
+	{
+		"key": "landingPage",
+		"value": "http:\/\/developer.trade.gov\/ita-office-locations.html"
+	},
+	{
+		"key": "language",
+		"value": ["us-EN"]
+	},
+	{
+		"key": "harvest_source_id",
+		"value": "0836a94a-b3c8-4190-a145-bddc06458b2c"
+	},
+	{
+		"key": "catalog_@context",
+		"value": "https:\/\/project-open-data.cio.gov\/v1.1\/schema\/catalog.jsonld"
+	},
+	{
+		"key": "resource-type",
+		"value": "Dataset"
+	},
+	{
+		"key": "modified",
+		"value": "2015-07-21"
+	},
+	{
+		"key": "harvest_source_title",
+		"value": "Commerce Non Spatial Data.json Harvest Source"
+	},
+	{
+		"key": "source_schema_version",
+		"value": "1.1"
+	},
+	{
+		"key": "source_datajson_identifier",
+		"value": true
+	},
+	{
+		"key": "programCode",
+		"value": ["006:002"]
+	},
+	{
+		"key": "identifier",
+		"value": "ITA-0003"
+	},
+	{
+		"key": "bureauCode",
+		"value": ["006:25"]
+	},
+	{
+		"key": "references",
+		"value": ["https:\/\/api.trade.gov\/v2\/ita_office_locations\/search"]
+	},
+	{
+		"key": "catalog_conformsTo",
+		"value": "https:\/\/project-open-data.cio.gov\/v1.1\/schema"
+	},
+	{
+		"key": "accessLevel",
+		"value": "public"
+	},
+	{
+		"key": "harvest_object_id",
+		"value": "36ac3182-002b-46ce-8c8b-2c2cb3e517f1"
+	},
+	{
+		"key": "source_hash",
+		"value": "117d9f81dd9a33c2c1d1afd9dd5763ebfc93af70"
+	},
+	{
+		"key": "catalog_describedBy",
+		"value": "https:\/\/project-open-data.cio.gov\/v1.1\/schema\/catalog.json"
+	},
+	{
+		"state": "active",
+		"key": "harvest_object_id",
+		"value": "36ac3182-002b-46ce-8c8b-2c2cb3e517f1"
+	},
+	{
+		"state": "active",
+		"key": "harvest_source_id",
+		"value": "0836a94a-b3c8-4190-a145-bddc06458b2c"
+	},
+	{
+		"state": "active",
+		"key": "harvest_source_title",
+		"value": "Commerce Non Spatial Data.json Harvest Source"
+	}],
+	"organization": {
+		"description": "",
+		"created": "2013-05-18T11:37:59.153068",
+		"title": "Department of Commerce",
+		"name": "doc-gov",
+		"revision_timestamp": "2013-05-30T16:50:01.416157",
+		"is_organization": true,
+		"state": "active",
+		"image_url": "http:\/\/www.vos.noaa.gov\/MWL\/aug_10\/Images\/doc_logo_xparent.png",
+		"revision_id": "44c851b9-8872-497a-8a13-2f06740b7ffb",
+		"type": "organization",
+		"id": "9cda5205-d632-4814-96e7-a4ab5e0dce85",
+		"approval_status": "approved"
+	},
+	"revision_id": "440026ad-1c47-4f08-8a51-0ec5f66b2a25"
+}
