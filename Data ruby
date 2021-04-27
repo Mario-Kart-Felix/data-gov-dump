@@ -1,0 +1,14 @@
+I'm trying to the run the ruby version of the program to consume GOV data sources located at : http://usdepartmentoflabor.github.io/Ruby-Sample-App/ .
+
+I get two errors. The first has to do with an incorrect number of arguments being passed in. This is easily rectified by removing the API_SECRET argument.
+
+.../dol/GOVDataSDK.rb:24:in `initialize': wrong number of arguments (5 for 4)     (ArgumentError)
+from GOVDataExample.rb:9:in `new'
+from GOVDataExample.rb:9:in `<main>'
+The second error has to do with the actual constructed URL. It seem to be invalid.
+
+$ ruby GOVDataExample.rb
+.../.rvm/rubies/ruby-2.1.2/lib/ruby/2.1.0/uri/common.rb:176:in `split': bad URI(is not  URI?): http://api.dol.gov/V1/SummerJobs/getJobsListing?KEY={@context.key}? format='json'&query='farm'&region=&locality=&skipcount=1 (URI::InvalidURIError)
+from /Users/sunraa/.rvm/rubies/ruby-2.1.2/lib/ruby/2.1.0/uri/common.rb:211:in `parse'
+from /Users/sunraa/.rvm/rubies/ruby-2.1.2/lib/ruby/2.1.0/uri/common.rb:747:in `parse'
+from /Users/sunraa/Dropbox/Work/epa/teaser/dol
